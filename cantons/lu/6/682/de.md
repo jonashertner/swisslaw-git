@@ -3,20 +3,19 @@ canton: LU
 number: "682"
 title: Verordnung über den Gebührenbezug der Luzerner Polizei
 language: de
-version: 2016-10-01
-valid_until: 2026-12-31
-version_adopted: 2016-09-06
+version: 2027-01-01
+version_adopted: 2026-09-22
 adopted: 2003-06-10
 in_force: 2003-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/682"
-pdf: "https://srl.lu.ch/api/de/versions/2892/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4912/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Gebührenbezug der Luzerner Polizei
 
-vom 10.06.2003 (Stand 01.10.2016)
+vom 10.06.2003 (Stand 01.01.2027)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -230,7 +229,7 @@ beschliesst:
 
 **Gebühr für Ausweisverlustmeldungen**
 
-<sup>1</sup> Die Gebühr für die Entgegennahme und die Bearbeitung von Meldungen über den Verlust von Pässen und anderen Ausweisen gemäss Bundesgesetz über die Ausweise für Schweizer Staatsangehörige vom 22. Juni 2001[^8b-1] beträgt 20 Franken. Die Gebühr wird bei der Ausstellung des neuen Ausweises erhoben.
+<sup>1</sup> Sofern die Meldung nicht über das kantonale Ausweiszentrum erfolgt, wird eine Gebühr von 20 Franken für die Entgegennahme und die Bearbeitung von Meldungen über den Verlust von Pässen und anderen Ausweisen gemäss Bundesgesetz über die Ausweise für Schweizer Staatsangehörige vom 22. Juni 2001[^8b-1] erhoben.
 
 [^8b-1]: SR [143.1](https://db.clex.ch/link/Bund/143.1/de)
 
