@@ -4,13 +4,12 @@ number: "453.163"
 title: Verordnung über den Vorkurs Pädagogik
 short: V Vorkurs Pädagogik
 language: de
-version: 2026-08-01
-valid_until: 2027-07-31
-version_adopted: 2026-05-13
+version: 2027-08-01
+version_adopted: 2026-08-26
 adopted: 2003-05-21
 in_force: 2003-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.163"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4004/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4039/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4004/pdf_file"
 
 (V Vorkurs Pädagogik)
 
-Vom 21.05.2003 (Stand 01.08.2026)
+Vom 21.05.2003 (Stand 01.08.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -66,7 +65,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Die Schulleitung der AME erklärt die ganze Zulassungsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Zulassungsprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Die Schulleitung der AME erklärt die ganze Zulassungsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt oder benutzt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Zulassungsprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> Die Zulassungsprüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
 
