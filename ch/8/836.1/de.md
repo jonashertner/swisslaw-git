@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 1952 über die Familienzulagen in der Landwirts
 short: FLG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: de
-version: 2024-01-01
+version: 2027-07-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20270701/de/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20270701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20270701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20240101/de"
 
 (FLG)[^t-1]
 
-vom 20. Juni 1952 (Stand am 1. Januar 2024)
+vom 20. Juni 1952 (Stand am 1. Juli 2027)
 
-[^t-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
+[^t-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276), 279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,27 +27,27 @@ gestützt auf die Artikel 31<sup>bis</sup> Absatz 3 Buchstabe b und 64<sup>bis</
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1996 2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502)]. Den genannten Bestimmungen entsprechen heute Art. 104 und 123 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Fassung gemäss Ziff. I 11 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)722; [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^ingress-1]: [BS **1** 3; [AS 1996 2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502)]. Den genannten Bestimmungen entsprechen heute Art. 104 und 123 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-2]: Fassung gemäss Ziff. I 11 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140), 722; [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^ingress-3]: [BBl 1952 I 206](https://fedlex.data.admin.ch/eli/fga/1952/1_206__)
 
 ## I. Anwendbarkeit des ATSG
 
 [^lvlI-1]
 
-[^lvlI-1]: Fassung gemäss Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^lvlI-1]: Fassung gemäss Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 1
 
 Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) sind auf die Familienzulagen in der Landwirtschaft anwendbar, soweit das vorliegende Gesetz nicht ausdrücklich eine Abweichung vom ATSG vorsieht.
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## I*a*. Die Familienzulagen
 
 [^lvlIa-1]
 
-[^lvlIa-1]: Eingefügt durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^lvlIa-1]: Eingefügt durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 ### 1. Familienzulagen für landwirtschaftliche Arbeitnehmer
 
@@ -68,10 +68,10 @@ Die Familienmitglieder des Betriebsleiters, die im Betrieb mitarbeiten, haben eb
 
 <sup>4</sup> Der Bundesrat erlässt nähere Vorschriften über den Begriff des landwirtschaftlichen Betriebes und des landwirtschaftlichen Arbeitnehmers.
 
-[^1a-1]: Eingefügt durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^1a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1a-3]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^1a-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^1a-1]: Eingefügt durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^1a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^1a-3]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^1a-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 #### Art. 2
 
@@ -85,13 +85,13 @@ Die Familienmitglieder des Betriebsleiters, die im Betrieb mitarbeiten, haben eb
 
 <sup>4</sup> …[^2-7]
 
-[^2-1]: Gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 wurden die Randtit. in Sachüberschriften umgewandelt ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
-[^2-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^2-3]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^2-1]: Gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 wurden die Randtit. in Sachüberschriften umgewandelt ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276), 279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
+[^2-2]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^2-3]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^2-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1973, in Kraft seit 1. April 1975 ([AS 1974 689](https://fedlex.data.admin.ch/eli/oc/1974/689_689_689); [BBl 1973 I 1426](https://fedlex.data.admin.ch/eli/fga/1973/1_1426_1370_1151)).
-[^2-5]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^2-6]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51), [2008 6255](https://fedlex.data.admin.ch/eli/oc/2008/850); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^2-7]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1983 ([AS 1984 350](https://fedlex.data.admin.ch/eli/oc/1984/350_350_350); [BBl 1983 IV 205](https://fedlex.data.admin.ch/eli/fga/1983/4_205_213_202)). Aufgehoben durch Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, mit Wirkung seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^2-5]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^2-6]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); [2008 6255](https://fedlex.data.admin.ch/eli/oc/2008/850); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^2-7]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1983 ([AS 1984 350](https://fedlex.data.admin.ch/eli/oc/1984/350_350_350); [BBl 1983 IV 205](https://fedlex.data.admin.ch/eli/fga/1983/4_205_213_202)). Aufgehoben durch Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, mit Wirkung seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 #### Art. 3
 
@@ -111,8 +111,8 @@ Anspruch auf Haushaltungszulage haben:
 
 <sup>4</sup> Der Anspruch auf die Haushaltungszulage entsteht am ersten Tage des Monats, in welchem der Haushalt gegründet wird. Er erlischt am Ende des Monats, in welchem der Haushalt aufgelöst wird.
 
-[^3-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
-[^3-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. April 1984 ([AS 1984 350](https://fedlex.data.admin.ch/eli/oc/1984/350_350_350)352; [BBl 1983 IV 205](https://fedlex.data.admin.ch/eli/fga/1983/4_205_213_202)).
+[^3-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276), 279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
+[^3-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. April 1984 ([AS 1984 350](https://fedlex.data.admin.ch/eli/oc/1984/350_350_350), 352; [BBl 1983 IV 205](https://fedlex.data.admin.ch/eli/fga/1983/4_205_213_202)).
 
 #### Art. 4
 
@@ -120,7 +120,7 @@ Anspruch auf Haushaltungszulage haben:
 
 Bei Arbeitskräften in Dauerstellung werden nur ganze Zulagen ausgerichtet. Anspruch auf Zulagen hat, wer auf einem jährlichen Erwerbseinkommen, das mindestens dem halben jährlichen Betrag der minimalen vollen Altersrente der AHV entspricht, AHV-Beiträge entrichtet.
 
-[^4-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^4-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 #### Art. 4a
 
@@ -128,13 +128,13 @@ Bei Arbeitskräften in Dauerstellung werden nur ganze Zulagen ausgerichtet. Ansp
 
 Die Familienzulagen dürfen nur ausgerichtet werden, wenn der Arbeitgeber einen Lohn zahlt, der mindestens den ortsüblichen Ansätzen für landwirtschaftliche Arbeitnehmer entspricht.
 
-[^4a-1]: Eingefügt durch Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^4a-1]: Eingefügt durch Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 ### 2. Familienzulagen für selbstständigerwerbende Landwirte
 
 [^lvlIa-lvl2-1]
 
-[^lvlIa-lvl2-1]: Ausdruck gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2008 323](https://fedlex.data.admin.ch/eli/oc/2008/82)324; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Diese Änderung ist im ganzen Erlass berücksichtigt.
+[^lvlIa-lvl2-1]: Ausdruck gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2008 323](https://fedlex.data.admin.ch/eli/oc/2008/82), 324; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Diese Änderung ist im ganzen Erlass berücksichtigt.
 
 #### Art. 5
 
@@ -144,7 +144,7 @@ Die Familienzulagen dürfen nur ausgerichtet werden, wenn der Arbeitgeber einen 
 
 <sup>2</sup> Der Bundesrat bestimmt die Begriffe der haupt- und nebenberuflichen Tätigkeit und des selbstständigerwerbenden Älplers.
 
-[^5-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2008 323](https://fedlex.data.admin.ch/eli/oc/2008/82)324; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^5-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2008 323](https://fedlex.data.admin.ch/eli/oc/2008/82), 324; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 6
 
@@ -152,7 +152,7 @@ Die Familienzulagen dürfen nur ausgerichtet werden, wenn der Arbeitgeber einen 
 
 Für die Zuteilung der Betriebe zum Berggebiet sind die Bestimmungen über den landwirtschaftlichen Produktionskataster massgebend.
 
-[^6-1]: Fassung gemäss Anhang Ziff. 114 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^6-1]: Fassung gemäss Anhang Ziff. 114 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 7
 
@@ -160,8 +160,8 @@ Für die Zuteilung der Betriebe zum Berggebiet sind die Bestimmungen über den l
 
 Die Familienzulagen für selbstständigerwerbende Landwirte umfassen Kinder- und Ausbildungszulagen nach Artikel 3 Absatz 1 FamZG[^7-2]. Die Ansätze dieser Zulagen entsprechen denjenigen nach Artikel 5 Absätze 1 und 2 FamZG; im Berggebiet werden sie um je 20 Franken erhöht.
 
-[^7-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51), [2008 6255](https://fedlex.data.admin.ch/eli/oc/2008/850); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^7-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^7-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); [2008 6255](https://fedlex.data.admin.ch/eli/oc/2008/850); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^7-2]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 
 #### Art. 8
 
@@ -169,7 +169,7 @@ Die Familienzulagen für selbstständigerwerbende Landwirte umfassen Kinder- und
 
 Die Familienzulagen für selbstständigerwerbende Landwirte können mit den Beiträgen, die diese gemäss Bundesgesetz vom 20. Dezember 1946[^8-1] über die Alters- und Hinterlassenenversicherung (AHVG) sowie gemäss Artikel 18 dieses Gesetzes schulden, verrechnet werden.
 
-[^8-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^8-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### 3. Gemeinsame Bestimmungen
 
@@ -189,9 +189,9 @@ Die folgenden Bestimmungen des FamZG mit ihren Abweichungen vom ATSG[^9-3] gelte
 - d. Artikel 9 (Auszahlung an Dritte);
 - e. Artikel 10 (Ausschluss der Zwangsvollstreckung).
 
-[^9-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^9-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^9-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^9-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^9-2]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^9-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 10
 
@@ -203,21 +203,21 @@ Die folgenden Bestimmungen des FamZG mit ihren Abweichungen vom ATSG[^9-3] gelte
 
 <sup>3</sup> Nebenberufliche selbstständigerwerbende Landwirte und Älpler haben nur für die Zeit der Tätigkeit im landwirtschaftlichen Betrieb oder auf der Alp Anspruch auf Familienzulagen.[^10-5]
 
-<sup>4</sup> Während des Mutterschaftsurlaubs nach Artikel 329*f* des Obligationenrechts (OR)[^10-6], des Urlaubs des andern Elternteils nach den Artikeln 329*g* und 329*g*<sup>bis</sup> OR, des Betreuungsurlaubs nach Artikel 329*i* OR und des Adoptionsurlaubs nach Artikel 329*j* OR besteht weiterhin Anspruch auf die Familienzulagen.[^10-7]
+<sup>4</sup> Der Anspruch auf Familienzulagen bleibt während den 16 Wochen nach der Niederkunft und während der Dauer bestehen, die durch den Mutterschaftsurlaub nach Artikel 329*f* Absätze 2 und 3 des Obligationenrechts (OR)[^10-6], durch den Urlaub des andern Elternteils nach den Artikeln 329*g* und 329*g*<sup>bis</sup> OR, durch den Betreuungsurlaub nach Artikel 329*i* OR und durch den Adoptionsurlaub nach Artikel 329*j* OR abgedeckt ist. Für die landwirtschaftlichen Arbeitnehmer bleibt der Anspruch auch ohne gesetzlichen Lohnanspruch bestehen.[^10-7]
 
-[^10-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
-[^10-2]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^10-3]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2008 323](https://fedlex.data.admin.ch/eli/oc/2008/82)324; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^10-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^10-5]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^10-6]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-7]: Eingefügt durch Anhang Ziff. 4 des BG vom 3. Okt. 2003 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)). Fassung gemäss Anhang Ziff. 4 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^10-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276), 279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
+[^10-2]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^10-3]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2008 323](https://fedlex.data.admin.ch/eli/oc/2008/82), 324; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
+[^10-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^10-5]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^10-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^10-7]: Eingefügt durch Anhang Ziff. 4 des BG vom 3. Okt. 2003 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 11 und 12
 
 [^1112-1]
 
-[^1112-1]: Aufgehoben durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^1112-1]: Aufgehoben durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 ## II. Die Organisation
 
@@ -227,7 +227,7 @@ Die folgenden Bestimmungen des FamZG mit ihren Abweichungen vom ATSG[^9-3] gelte
 
 Die Festsetzung und die Ausrichtung der Familienzulagen sowie die Erhebung des Arbeitgeberbeitrages gemäss Artikel 18 obliegen den kantonalen Ausgleichskassen im Sinne von Artikel 61 AHVG[^13-1] (im Folgenden Ausgleichskassen genannt).
 
-[^13-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 14
 
@@ -239,9 +239,9 @@ Die Festsetzung und die Ausrichtung der Familienzulagen sowie die Erhebung des A
 
 <sup>3</sup> …[^14-3]
 
-[^14-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^14-2]: Fassung gemäss Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^14-3]: Aufgehoben durch Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, mit Wirkung seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^14-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^14-2]: Fassung gemäss Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^14-3]: Aufgehoben durch Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, mit Wirkung seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 #### Art. 15
 
@@ -251,7 +251,7 @@ Die Festsetzung und die Ausrichtung der Familienzulagen sowie die Erhebung des A
 
 <sup>2</sup> Für den Zahlungs- und Abrechnungsverkehr sind die Bestimmungen des AHVG[^15-1] sinngemäss anwendbar.
 
-[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 16
 
@@ -260,13 +260,13 @@ Die Festsetzung und die Ausrichtung der Familienzulagen sowie die Erhebung des A
 Die Kassenrevisionen nach den Artikeln 68 und 68*a* AHVG[^16-2] sowie allfällige Arbeitgeberkontrollen nach Artikel 68*b* AHVG haben sich auch auf die Durchführung dieses Gesetzes zu erstrecken.
 
 [^16-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^16-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Aufgehoben durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^17-1]: Aufgehoben durch Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 ## III. Die Finanzierung
 
@@ -282,10 +282,10 @@ Die Kassenrevisionen nach den Artikeln 68 und 68*a* AHVG[^16-2] sowie allfällig
 
 <sup>4</sup> Die durch die Beiträge der Arbeitgeber nicht gedeckten Aufwendungen mit Einschluss der Verwaltungskosten, die den Ausgleichskassen aus der Ausrichtung der Familienzulagen entstehen, gehen zu zwei Dritteln zu Lasten des Bundes und zu einem Drittel zu Lasten der Kantone. Diese können die Gemeinden zur Beitragsleistung heranziehen.[^18-5]
 
-[^18-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^18-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
-[^18-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^18-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^18-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^18-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1979, in Kraft seit 1. April 1980 ([AS 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276), 279; [BBl 1979 II 769](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
+[^18-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^18-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 [^18-5]: Fassung gemäss Ziff. I des BG vom 20. Dez. 1957, in Kraft seit 1. Jan. 1958 ([AS 1958 183](https://fedlex.data.admin.ch/eli/oc/1958/183_189_195); [BBl 1957 I 1019](https://fedlex.data.admin.ch/eli/fga/1957/1_1019_1045_)).
 
 #### Art. 19
@@ -303,7 +303,7 @@ Die Aufwendungen für die Ausrichtung von Familienzulagen an selbstständigerwer
 Die Kosten, die der Zentralen Ausgleichsstelle der Alters- und Hinterlassenenversicherung bei der Durchführung dieses Gesetzes erwachsen, sowie die Aufwendungen für die ausgewiesenen Posttaxen im Sinne von Artikel 95 Absatz 3 Buchstabe b AHVG[^19a-2] werden nach Massgabe der Artikel 18 Absatz 4 und 19 gedeckt.
 
 [^19a-1]: Eingefügt durch Anhang Ziff. 7 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^19a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 20
 
@@ -319,7 +319,7 @@ Die Kosten, die der Zentralen Ausgleichsstelle der Alters- und Hinterlassenenver
 
 <sup>2</sup> …[^21-2]
 
-[^21-1]: Fassung gemäss Ziff. II 27 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^21-1]: Fassung gemäss Ziff. II 27 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787), 5817; [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^21-2]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2022, mit Wirkung seit 1. Juli 2023 ([AS 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [BBl 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
 
 ## IV. Rechtspflege und Strafbestimmungen
@@ -332,10 +332,10 @@ Die Kosten, die der Zentralen Ausgleichsstelle der Alters- und Hinterlassenenver
 
 <sup>2</sup> Über Beschwerden von Personen im Ausland entscheidet in Abweichung von Artikel 58 Absatz 2 ATSG das Bundesverwaltungsgericht. Der Bundesrat kann vorsehen, dass diese Zuständigkeit dem Versicherungsgericht des Kantons zugewiesen wird, in welchem der Arbeitgeber des Versicherten seinen Wohnsitz oder Sitz hat. Artikel 85<sup>bis</sup> Absätze 2 und 3 AHVG[^22-3] gilt sinngemäss.[^22-4]
 
-[^22-1]: Fassung gemäss Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^22-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^22-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^22-4]: Fassung gemäss Anhang Ziff. 114 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^22-1]: Fassung gemäss Anhang Ziff. 15 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^22-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^22-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^22-4]: Fassung gemäss Anhang Ziff. 114 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 23
 
@@ -343,13 +343,13 @@ Die Kosten, die der Zentralen Ausgleichsstelle der Alters- und Hinterlassenenver
 
 Die Artikel 87–91 AHVG[^23-1] finden Anwendung auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften dieses Gesetzes verletzen.
 
-[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## V. Verhältnis zum europäischen Recht
 
 [^lvlV-1]
 
-[^lvlV-1]: Eingefügt durch Ziff. I 11 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)722; [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^lvlV-1]: Eingefügt durch Ziff. I 11 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140), 722; [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 
 #### Art. 23a
 
@@ -378,19 +378,19 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^23a-1]: Fassung gemäss Anhang Ziff. 9 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien), in Kraft seit 1. Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^23a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^23a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^23a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^23a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
-[^23a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
-[^23a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^23a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^23a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^23a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
+[^23a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
+[^23a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
+[^23a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## VI. Ausführungs- und Schlussbestimmungen
 
 [^lvlVI-1][^lvlVI-2]
 
 [^lvlVI-1]: Ursprünglich V. Abschn.
-[^lvlVI-2]: Fassung gemäss Ziff. I 10 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)700; [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^lvlVI-2]: Fassung gemäss Ziff. I 10 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139), 700; [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
 #### Art. 24
 
@@ -398,7 +398,7 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 
 Die Kantone können in Ergänzung zu diesem Gesetz höhere und andere Zulagen festsetzen und zu deren Finanzierung besondere Beiträge erheben.
 
-[^24-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^24-1]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 #### Art. 25
 
@@ -410,12 +410,12 @@ Die Kantone können in Ergänzung zu diesem Gesetz höhere und andere Zulagen fe
 
 <sup>3</sup> Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG und nach den Artikeln 52, 70 und 71*a* AHVG.
 
-[^25-1]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511)3471; [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^25-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^25-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^25-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^25-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^25-6]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^25-1]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511), 3471; [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^25-2]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^25-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^25-4]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^25-5]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^25-6]: Fassung gemäss Anhang Ziff. 2 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220; [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988); [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201), [6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-7]: Fassung gemäss Anhang Ziff. 7 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 25a

@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1952 sur les allocations familiales dans l'agr
 short: LFA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: fr
-version: 2024-01-01
+version: 2027-07-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20270701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20240101/fr"
 
 (LFA)[^t-1]
 
-du 20 juin 1952 (État le 1<sup>er</sup> janvier 2024)
+du 20 juin 1952 (État le 1<sup>er</sup> juillet 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1979, en vigueur depuis le 1<sup>er</sup> avr. 1980 ([RO 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 737](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -27,7 +27,7 @@ vu les art. 31<sup>bis</sup>, al. 3, let. b, et 64<sup>bis</sup> de la constitut
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1996 2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502)]. Aux disp. mentionnées correspondent actuellement les art. 104 et 123 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1996 2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502)]. Aux disp. mentionnées correspondent actuellement les art. 104 et 123 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Nouvelle teneur selon le ch. I 11 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses Etats membres sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)721; [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^ingress-3]: [FF 1952 I 208](https://fedlex.data.admin.ch/eli/fga/1952/1__208_)
 
@@ -41,7 +41,7 @@ arrête:
 
 Les dispositions de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^1-1] s’appliquent aux allocations familiales dans l’agriculture, à moins que la présente loi ne déroge expressément à la LPGA.
 
-[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## I*a*. Allocations familiales
 
@@ -69,9 +69,9 @@ Les membres de la famille de l’exploitant qui travaillent dans l’exploitatio
 <sup>4</sup> Le Conseil fédéral édicte des dispositions précisant les notions d’exploitation agricole et de travailleur agricole.
 
 [^1a-1]: Introduit par l’annexe ch. 15 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510);[FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^1a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1a-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^1a-3]: Nouvelle expression selon le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1a-4]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^1a-4]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^1a-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
 #### Art. 2
@@ -84,10 +84,10 @@ Les membres de la famille de l’exploitant qui travaillent dans l’exploitatio
 
 <sup>3</sup> Les montants de l’allocation pour enfant et de l’allocation de formation correspondent aux montants minimaux fixés à l’art. 5, al. 1 et 2, LAFam; ils sont toutefois supérieurs de 20 francs en zone de montagne.[^2-5]
 
-<sup>4</sup> ...[^2-6]
+<sup>4</sup> …[^2-6]
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^2-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^2-2]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^2-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^2-4]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1973, en vigueur depuis le 1<sup>er</sup> avr. 1974 ([RO 1974 689](https://fedlex.data.admin.ch/eli/oc/1974/689_689_689); [FF 1973 I 1370](https://fedlex.data.admin.ch/eli/fga/1973/1_1426_1370_1151)).
 [^2-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51)[6255](https://fedlex.data.admin.ch/eli/oc/2008/850);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
@@ -152,7 +152,7 @@ Les allocations familiales ne peuvent être versées que si le salaire payé par
 
 L’attribution des exploitations à la région de montagne est régie par les dispositions sur le cadastre de la production agricole.
 
-[^6-1]: Nouvelle teneur selon l’annexe ch. 114 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 114 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)).
 
 #### Art. 7
 
@@ -161,7 +161,7 @@ L’attribution des exploitations à la région de montagne est régie par les d
 Les allocations familiales versées aux agriculteurs indépendants se composent de l’allocation pour enfant et de l’allocation de formation, au sens de l’art. 3, al. 1, LAFam[^7-2]. Les montants de ces allocations correspondent à ceux fixés à l’art. 5, al. 1 et 2, LAFam; ils sont toutefois supérieurs de 20 francs en zone de montagne.
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51)[6255](https://fedlex.data.admin.ch/eli/oc/2008/850);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^7-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^7-2]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 
 #### Art. 8
 
@@ -169,7 +169,7 @@ Les allocations familiales versées aux agriculteurs indépendants se composent 
 
 Les allocations familiales dues aux agriculteurs indépendants peuvent être compensées avec les cotisations et contributions que ceux-ci doivent en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^8-1] et de l’art. 18 de la présente loi.
 
-[^8-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^8-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### 3. Dispositions communes
 
@@ -190,8 +190,8 @@ Les dispositions suivantes de la LAFam sont applicables par analogie, même si e
 - e. art. 10 (insaisissabilité).
 
 [^9-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^9-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^9-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^9-2]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^9-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 10
 
@@ -203,15 +203,15 @@ Les dispositions suivantes de la LAFam sont applicables par analogie, même si e
 
 <sup>3</sup> Les agriculteurs indépendants qui exercent leur activité à titre accessoire ainsi que les exploitants d’alpages n’ont droit aux allocations familiales que pour le temps qu’ils consacrent à l’exploitation de leur domaine agricole ou de l’alpage.[^10-5]
 
-<sup>4</sup> Le droit aux allocations familiales est maintenu durant le congé de maternité au sens de l’art. 329*f* du code des obligations (CO)[^10-6], le congé de l’autre parent au sens des art. 329*g* et 329*g*<sup>bis</sup> CO, le congé de prise en charge au sens de l’art. 329*i* CO et le congé d’adoption prévu à l’art. 329*j* CO.[^10-7]
+<sup>4</sup> Le droit aux allocations familiales est maintenu durant les 16 semaines suivant l’accouchement et la période couverte par le congé de maternité au sens de l’art. 329*f*, al. 2 et 3, du code des obligations (CO)[^10-6], le congé de l’autre parent au sens des art. 329*g* et 329*g*<sup>bis</sup> CO, le congé de prise en charge au sens de l’art. 329*i* CO et le congé d’adoption au sens de l’art. 329*j* CO. Pour les travailleurs agricoles, le droit est maintenu même sans droit légal au salaire.[^10-7]
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1979, en vigueur depuis le 1<sup>er</sup> avr. 1980 ([RO 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 737](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
 [^10-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-3]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2008 323](https://fedlex.data.admin.ch/eli/oc/2008/82)324; [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^10-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^10-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-7]: Introduit par l’annexe ch. 4 de la LF du 3 oct. 2003 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^10-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^10-7]: Introduit par l’annexe ch. 4 de la LF du 3 oct. 2003 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 11 et 12
 
@@ -227,7 +227,7 @@ Les dispositions suivantes de la LAFam sont applicables par analogie, même si e
 
 Il incombe aux caisses de compensation cantonales prévues à l’art. 61 LAVS[^13-1] (caisses de compensation) de déterminer et de payer les allocations familiales, comme aussi de prélever les contributions des employeurs conformément à l’art. 18.
 
-[^13-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 14
 
@@ -237,9 +237,9 @@ Il incombe aux caisses de compensation cantonales prévues à l’art. 61 LAVS[^
 
 <sup>2</sup> En dérogation à l’art. 19, al. 1, LPGA[^14-1], les allocations familiales sont versées chaque trimestre aux agriculteurs indépendants exerçant leur activité à titre principal et à la fin de l’année aux agriculteurs indépendants exerçant leur activité à titre accessoire et aux exploitants d’alpages.[^14-2]
 
-<sup>3</sup> ...[^14-3]
+<sup>3</sup> …[^14-3]
 
-[^14-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^14-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^14-2]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510);[FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^14-3]: Abrogé par l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
@@ -251,7 +251,7 @@ Il incombe aux caisses de compensation cantonales prévues à l’art. 61 LAVS[^
 
 <sup>2</sup> Les dispositions de la LAVS[^15-1] relatives au règlement des comptes et des paiements sont applicables par analogie.
 
-[^15-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 16
 
@@ -260,7 +260,7 @@ Il incombe aux caisses de compensation cantonales prévues à l’art. 61 LAVS[^
 Les révisions des caisses prévues aux art. 68 et 68*a* LAVS[^16-2] et les éventuels contrôles des employeurs prévus à l’art. 68*b* LAVS doivent également porter sur l’exécution de la présente loi.
 
 [^16-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^16-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 17
 
@@ -282,9 +282,9 @@ Les révisions des caisses prévues aux art. 68 et 68*a* LAVS[^16-2] et les éve
 
 <sup>4</sup> La part des dépenses, y compris les frais d’administration occasionnés aux caisses de compensation par le versement des allocations familiales, qui n’est pas couverte par les contributions des employeurs est à raison de deux tiers à la charge de la Confédération et d’un tiers à celle des cantons. Les cantons peuvent faire participer les communes à leurs subventions.[^18-5]
 
-[^18-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^18-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^18-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1979, en vigueur depuis le 1<sup>er</sup> avr. 1980 ([RO 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 737](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
-[^18-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^18-4]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510);[FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^18-5]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 1957, en vigueur depuis le 1<sup>er</sup> janv. 1958 ([RO 1958 189](https://fedlex.data.admin.ch/eli/oc/1958/183_189_195); [FF 1957 I 1045](https://fedlex.data.admin.ch/eli/fga/1957/1_1019_1045_)).
 
@@ -303,7 +303,7 @@ Les dépenses résultant du versement d’allocations familiales aux agriculteur
 Les frais de la Centrale de compensation de l’assurance-vieillesse et survivants qui résultent de l’application de la présente loi et les dépenses pour les taxes postales comptabilisées au sens de l’art. 95, al. 3, let. b, LAVS[^19a-2] sont couverts conformément aux art. 18, al. 4, et 19.
 
 [^19a-1]: Introduit par l’annexe ch. 7 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^19a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19a-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 20
 
@@ -317,7 +317,7 @@ Les frais de la Centrale de compensation de l’assurance-vieillesse et survivan
 
 <sup>1</sup> Les contributions de chaque canton se calculent d’après le montant des allocations familiales payées dans le canton.
 
-<sup>2</sup> ...[^21-2]
+<sup>2</sup> …[^21-2]
 
 [^21-1]: Nouvelle teneur selon le ch. II 27 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5818; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^21-2]: Abrogé par le ch. I de la LF du 30 sept. 2022, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 192](https://fedlex.data.admin.ch/eli/oc/2023/192); [FF 2022 393](https://fedlex.data.admin.ch/eli/fga/2022/393)).
@@ -333,9 +333,9 @@ Les frais de la Centrale de compensation de l’assurance-vieillesse et survivan
 <sup>2</sup> En dérogation à l’art. 58, al. 2, LPGA, le Tribunal administratif fédéral connaît des recours interjetés par les personnes résidant à l’étranger. Le Conseil fédéral peut prévoir que cette compétence est attribuée au tribunal des assurances du canton dans lequel l’employeur de l’assuré a son domicile ou son siège. L’art. 85<sup>bis</sup>, al. 2 et 3, LAVS[^22-3] est applicable par analogie.[^22-4]
 
 [^22-1]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510);[FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^22-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^22-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^22-4]: Nouvelle teneur selon l’annexe ch. 114 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^22-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^22-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^22-4]: Nouvelle teneur selon l’annexe ch. 114 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)).
 
 #### Art. 23
 
@@ -343,7 +343,7 @@ Les frais de la Centrale de compensation de l’assurance-vieillesse et survivan
 
 Les art. 87 à 91 LAVS[^23-1] sont applicables aux personnes qui violent les dispositions de la présente loi de l’une des manières qualifiées dans ces articles.
 
-[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## V. Relation avec le droit européen
 
@@ -378,12 +378,12 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 <sup>4</sup> Lorsque les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurent dans la présente loi, elles désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
 [^23a-1]: Nouvelle teneur selon l’annexe ch. 9 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^23a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^23a-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^23a-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^23a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^23a-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^23a-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^23a-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) et la convention AELE révisée.
 [^23a-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
-[^23a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^23a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## VI. Dispositions d’exécution et dispositions finales
 
@@ -410,10 +410,10 @@ En complément de la présente loi, les cantons peuvent fixer des allocations pl
 <sup>3</sup> La responsabilité pour les dommages causés par les organes de l’AVS définis à l’art. 49 LAVS est régie par l’art. 78 LPGA et par les art. 52, 70 et 71*a* LAVS.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511)3470; [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^25-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^25-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-2]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^25-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^25-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^25-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^25-5]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^25-6]: Nouvelle teneur selon l’annexe ch. 2 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51);FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-7]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
