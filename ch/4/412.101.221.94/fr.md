@@ -3,18 +3,18 @@ sr: "412.101.221.94"
 title: Ordonnance du SEFRI du 20 décembre 2022 sur la formation professionnelle initiale d’électricienne de réseau / électricien de réseau avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/853"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2022-12-20
 in_force: 2023-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-853-20260101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-853-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’électricienne de réseau / électricien de réseau avec certificat fédéral de capacité (CFC)
 
-du 20 décembre 2022 (État le 1<sup>er</sup> janvier 2026)
+du 20 décembre 2022 (État le 1<sup>er</sup> janvier 2027)
 
 <table>
 <tr><td>47421</td><td>Électricienne de réseau CFC / Électricien de réseau CFC Netzelektrikerin EFZ / Netzelektriker EFZ Elettricista per reti di distribuzione AFC</td></tr>
@@ -453,11 +453,10 @@ Si le CFC a été obtenu selon la procédure de qualification avec examen final,
 La Commission suisse pour le développement de la profession et la qualité de la formation des électriciens de réseau CFC (commission) comprend:
 
 - a. 2 à 5 représentants de l’Association des entreprises électriques suisses (AES);
-- b. 1 ou 2 représentants de l’Association des entreprises d’installation de lignes aériennes et de câbles (AELC);
-- c. 1 ou 2 représentants de l’Association suisse des infrastructures de réseau pour la communication, l’énergie, les transports et les TIC (SNiv);
-- d. 1 ou 2 représentants de l’Union des transports publics (UTP);
-- e. 1 ou 2 représentants des enseignants des connaissances professionnelles;
-- f. au moins 1 représentant de la Confédération et au moins 1 représentant des cantons.
+- b. 1 ou 2 représentants de l’Association suisse des infrastructures de réseau pour la communication, l’énergie, les transports et les TIC (SNiv);
+- c. 1 ou 2 représentants de l’Union des transports publics (UTP);
+- d. 1 ou 2 représentants des écoles professionnelles;
+- e. au moins 1 représentant de la Confédération et au moins 1 représentant des cantons.[^23-1]
 
 <sup>2</sup>
 
@@ -477,6 +476,8 @@ Elle est notamment chargée des tâches suivantes:
 - b. identifier les développements qui requièrent une modification de l’ordonnance et demander à l’organisation du monde du travail compétente de proposer au SEFRI les modifications voulues;
 - c. identifier les développements qui requièrent une adaptation du plan de formation et proposer à l’organisation du monde du travail compétente d’effectuer les adaptations voulues;
 - d. prendre position sur les instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, en particulier les dispositions d’exécution relatives à la procédure de qualification avec examen final.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 15 sept. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 476](https://fedlex.data.admin.ch/eli/oc/2026/476)).
 
 #### Art. 24
 

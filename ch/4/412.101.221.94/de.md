@@ -3,18 +3,18 @@ sr: "412.101.221.94"
 title: Verordnung des SBFI vom 20. Dezember 2022 über die berufliche Grundbildung Netzelektrikerin/Netzelektriker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/853"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2022-12-20
 in_force: 2023-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-853-20260101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2022-853-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Netzelektrikerin/Netzelektriker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 20. Dezember 2022 (Stand am 1. Januar 2026)
+vom 20. Dezember 2022 (Stand am 1. Januar 2027)
 
 <table>
 <tr><td>47421</td><td>Netzelektrikerin EFZ / Netzelektriker EFZ Electricienne de réseau CFC / Electricien de réseau CFC Elettricista per reti di distribuzione AFC</td></tr>
@@ -451,14 +451,13 @@ Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung
 
 <sup>1</sup>
 
-Die Schweizerische Kommission für Berufsentwicklung und Qualität fürNetzelektrikerin EFZ und Netzelektriker EFZ setzt sich zusammen aus:
+Die Schweizerische Kommission für Berufsentwicklung und Qualität für Netzelektrikerin und Netzelektriker EFZ setzt sich zusammen aus:
 
 - a. 2 bis 5 Vertreterinnen oder Vertretern des Verbands Schweizerischer Elektrizitätsunternehmen (VSE);
-- b. 1 bis 2 Vertreterinnen oder Vertretern der Vereinigung von Firmen für Freileitungs- und Kabelanlagen (VFFK);
-- c. 1 bis 2 Vertreterinnen oder Vertretern des Schweizer Netzinfrastrukturverbands für Kommunikation, Energie, Transport und ICT (SNiv);
-- d. 1 bis 2 Vertreterinnen oder Vertretern des Verbands öffentlicher Verkehr VöV;
-- e. 1 bis 2 Vertreterinnen oder Vertretern der Fachlehrerschaft;
-- f. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
+- b. 1 oder 2 Vertreterinnen oder Vertretern des Schweizer Netzinfrastrukturverbands für Kommunikation, Energie, Transport und ICT (SNiv);
+- c. 1 oder 2 Vertreterinnen oder Vertretern des Verbands öffentlicher Verkehr (VöV);
+- d. 1 oder 2 Vertreterinnen oder Vertretern der Berufsfachschulen;
+- e. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.[^23-1]
 
 <sup>2</sup>
 
@@ -478,6 +477,8 @@ Sie hat insbesondere folgende Aufgaben:
 - b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen.
 - c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans.
 - d. Sie nimmt Stellung zu den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
+
+[^23-1]: Fassung gemäss Ziff. I der V des SBFI vom 15. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 476](https://fedlex.data.admin.ch/eli/oc/2026/476)).
 
 #### Art. 24
 

@@ -3,18 +3,18 @@ sr: "412.101.221.94"
 title: Ordinanza della SEFRI del 20 dicembre 2022 sulla formazione professionale di base Elettricista per reti di distribuzione con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/853"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2022-12-20
 in_force: 2023-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-853-20260101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2022-853-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Elettricista per reti di distribuzione con attestato federale di capacità (AFC)
 
-del 20 dicembre 2022 (Stato 1° gennaio 2026)
+del 20 dicembre 2022 (Stato 1° gennaio 2027)
 
 <table>
 <tr><td>47421</td><td>Elettricista per reti di distribuzione AFC Netzelektrikerin EFZ / Netzelektriker EFZ Electricienne de réseau CFC / Electricien de réseau CFC</td></tr>
@@ -453,14 +453,13 @@ Se l’attestato federale di capacità è stato conseguito mediante procedura di
 
 <sup>1</sup>
 
-La Commissione svizzera per lo sviluppo professionale e la qualità della formazione degli elettricisti per reti di distribuzione AFC è composta:
+La Commissione svizzera per lo sviluppo professionale e la qualità della formazione degli elettricisti per reti di distribuzione AFC è composta da:
 
 - a. da due a cinque rappresentanti dell’Associazione delle aziende elettriche svizzere (AES);
-- b. da uno a due rappresentanti dell’Associazione imprese di costruzione Linee aeree e Cavi (AILC);
-- c. da uno a due rappresentanti della *Schweizer Netzinfrastrukturverband für Kommunikation, Energie, Transport und ICT* (SNiv);
-- d. da uno a due rappresentanti dell’Unione dei trasporti pubblici (UTP);
-- e. da uno a due rappresentanti dei docenti di materie professionali;
-- f. da almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
+- b. da uno o due rappresentanti della Schweizer Netzinfrastrukturverband für Kommunikation, Energie, Transport und ICT (SNiv);
+- c. da uno o due rappresentanti dell’Unione dei trasporti pubblici (UTP);
+- d. da uno o due rappresentanti delle scuole professionali;
+- e. da almeno un rappresentante della Confederazione e almeno uno dei Cantoni.[^23-1]
 
 <sup>2</sup>
 
@@ -480,6 +479,8 @@ Essa svolge in particolare i seguenti compiti:
 - b. se osserva sviluppi che richiedono una modifica della presente ordinanza, chiede alla competente organizzazione del mondo del lavoro di proporre alla SEFRI la corrispondente modifica;
 - c. se osserva sviluppi che richiedono un adeguamento del piano di formazione, presenta alla competente organizzazione del mondo del lavoro una proposta di adeguamento del piano di formazione;
 - d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
+
+[^23-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 15 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 476](https://fedlex.data.admin.ch/eli/oc/2026/476)).
 
 #### Art. 24
 
@@ -501,7 +502,7 @@ Essa svolge in particolare i seguenti compiti:
 
 L’ordinanza della SEFRI del 30 maggio 2013[^25-1] sulla formazione professionale di base Elettricista per reti di distribuzione con attestato federale di capacità (AFC) è abrogata.
 
-[^25-1]: [[RU 2013 2395](https://fedlex.data.admin.ch/eli/oc/2013/503): **2017** 7331 I 142, II 142]
+[^25-1]: [[RU 2013 2395](https://fedlex.data.admin.ch/eli/oc/2013/503); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I n. 142, cifra II n. 142]
 
 #### Art. 26
 
