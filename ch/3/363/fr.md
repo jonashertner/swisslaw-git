@@ -3,11 +3,11 @@ sr: "363"
 title: "Loi fédérale du 20 juin 2003 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Loi sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: fr
-version: 2023-09-01
+version: 2027-01-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230901-fr-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/fr"
 
 (Loi sur les profils d’ADN)
 
-du 20 juin 2003 (État le 1<sup>er</sup> septembre 2023)
+du 20 juin 2003 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -24,7 +24,7 @@ vu les art. 119 et 123, al. 1, de la Constitution[^ingress-1], vu le message du 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2001 19](https://fedlex.data.admin.ch/eli/fga/2001/29)
 
 ## Section 1 Dispositions générales
@@ -45,9 +45,11 @@ La présente loi règle:
 
 - b. l’identification de personnes inconnues, disparues ou décédées par la comparaison de profils d’ADN, en dehors d’une procédure pénale;
 - c. l’identification de personnes décédées par un phénotypage, en dehors d’une procédure pénale;
-- d. le traitement de profils d’ADN dans un système d’information de la Confédération.
+- d. le traitement de profils d’ADN dans un système d’information de la Confédération;
+- e. l’échange transfrontalier de données dans le cadre de l’accord du 27 juin 2019 de participation à Prüm[^1-2].
 
-[^1-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^1-1]: Nouvelle teneur selon l’annexe 2 ch. 5 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^1-2]: Accord du 27 juin 2019 entre la Suisse et l’Union européenne concernant l’approfondissement de la coopération transfrontalière (coopération Prüm; [RS 0.362.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30012)).
 
 #### Art. 1a
 
@@ -181,8 +183,8 @@ L’autorité qui ordonne les mesures demande la destruction de l’échantillon
 <sup>3</sup> Il détruit les échantillons prélevés lors d’enquêtes de grande envergure au sens de l’art. 256 du code de procédure pénale (CPP)[^9-2] ou de l’art. 73*t* de la procédure pénale militaire du 23 mars 1979 (PPM)[^9-3] après la clôture de l’enquête sur ordre de la direction de la procédure.
 
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^9-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^9-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^9-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 9a
 
@@ -194,8 +196,8 @@ Pendant sa conservation, l’échantillon ne peut être utilisé que pour effect
 - b. pour réduire encore le cercle des personnes dont l’ADN doit être analysé lors de recherches en parentèle effectuées en vertu des art. 258*a* CPP[^9a-2] ou 73*w* PPM[^9a-3].
 
 [^9a-1]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^9a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9a-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^9a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^9a-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ## Section 4 Système d’information fondé sur les profils d’ADN
 
@@ -249,12 +251,12 @@ Ne sont pas saisis dans le système d’information les profils d’ADN:
 [^11-1]: Actuellement: art. 255 al. 1 let. a CPP ou art. 73*s* al. 1 let. a PPM
 [^11-2]: Actuellement: art. 257 CPP ou art. 73*u* PPM
 [^11-3]: Actuellement: art. 255 al. 1 let. c et d CPP ou art. 73*s* al. 1 let. c et d PPM
-[^11-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-4]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^11-5]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^11-6]: Actuellement: art. 255 al. 1 let. b CPP ou art. 73*s* al. 1 let. b PPM
 [^11-7]: Actuellement: art. 255 al. 1 let. b CPP ou art. 73*s* al. 1 let. b PPM
 [^11-8]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-9]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^11-9]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 12
 
@@ -274,8 +276,40 @@ Ne sont pas saisis dans le système d’information les profils d’ADN:
 
 <sup>2</sup> La collaboration internationale est subordonnée au respect des principes applicables au prélèvement des échantillons au sens de la présente loi et à l’assurance que la comparaison des profils d’ADN est effectuée selon des critères fiables.
 
-[^13-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^13-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^13-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+## Section 4*a* Collaboration internationale dans le cadre de l’accord de participation à Prüm et de l’accord PCSC
+
+[^sec4a-1]
+
+[^sec4a-1]: Introduite par l’annexe ch. 5 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’accord entre la Suisse et l’UE concernant l’approfondissement de la coopération transfrontalière (coopération Prüm) et du Protocole Eurodac entre la Suisse, l’UE et la Principauté de Liechtenstein concernant l’accès à Eurodac à des fins répressives, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+
+#### Art. 13a
+
+**Accès au système d’information en procédure de consultation et de comparaison dans le cadre de l’accord de participation à Prüm**
+
+<sup>1</sup> La Confédération et les cantons apportent leur soutien aux États participants au moyen de comparaisons dans le système d’information visé à l’art. 10 ainsi qu’au moyen d’échanges d’informations, notamment dans le domaine de la lutte contre le terrorisme et la criminalité transfrontalière.
+
+<sup>2</sup> Les points de contact nationaux des États participants peuvent, selon l’art. 3 de la décision 2008/615/JAI, comparer, au cas par cas, des profils d’ADN avec les données indexées du système d’information visé à l’art. 10 de la présente loi en vue de poursuivre des infractions pénales.
+
+<sup>3</sup> Pour élucider un crime ou un délit (art. 255, al. 1, CPP[^13a-1]), le point de contact national visé à l’art. 357, al. 1, CP[^13a-2] procède sur demande à la comparaison d’un profil d’ADN avec les données indexées du système d’information ad hoc des États participants.[^13a-3]
+
+<sup>4</sup>
+
+Les autorités suivantes peuvent demander une comparaison au sens de l’al. 3 dans le cadre des tâches qui leur sont attribuées par la loi:
+
+- a. fedpol;
+- b. le Ministère public de la Confédération;
+- c. les autorités cantonales de police et de poursuite pénale.
+
+<sup>5</sup> Le point de contact national visé à l’art. 357, al. 1, CP peut, en vue de poursuivre des infractions pénales, comparer l’ensemble des fichiers de profils de traces d’ADN enregistrés dans le système d’information visé à l’art. 10 de la présente loi avec l’ensemble des profils d’ADN d’un État participant.
+
+<sup>6</sup> À l’inverse, le point de contact national d’un État participant peut, en vue de poursuivre des infractions pénales et en accord avec le point de contact national visé à l’art. 357, al. 1, CP, comparer ses profils de traces d’ADN avec l’ensemble du fichier des profils d’ADN enregistrés dans le système d’information visé à l’art. 10 de la présente loi.
+
+[^13a-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^13a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^13a-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [2025 407](https://fedlex.data.admin.ch/eli/oc/2025/407); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 ## Section 5 Traitement d’autres données
 
@@ -301,7 +335,7 @@ Ne sont pas saisis dans le système d’information les profils d’ADN:
 
 <sup>3</sup> Le droit d’être renseigné de même que les cas dans lesquels la communication de renseignements peut être refusée, restreinte ou différée sont régis par les art. 25 et 26 de la loi fédérale du 25 septembre 2020 sur la protection des données[^15-1].[^15-2]
 
-[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^15-2]: Nouvelle teneur selon l’annexe 1 ch. II 31 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
@@ -341,11 +375,11 @@ Il efface les profils d’ADN établis en vertu des art. 255 et 257 CPP ou 73*s*
 <sup>7</sup> Dans tous les autres cas qui ne sont pas visés aux al. 2 à 6, le profil d’ADN est effacé après 10 ans à partir de la date du jugement entré en force.
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^16-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^16-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^16-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^16-4]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^16-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^16-6]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 17
 
@@ -375,8 +409,8 @@ Fedpol efface les profils d’ADN établis en vertu des art. 255, al. 1, let. c 
 - a. à la demande de l’autorité qui a ordonné la mesure; celle-ci exige l’effacement sitôt que les traces peuvent être attribuées à une personne dont il est exclu qu’elle soit l’auteur du crime ou du délit;
 - b. d’office après 30 ans, sauf en cas de crimes imprescriptibles.
 
-[^18-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^18-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^18-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^18-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 [^18-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 19
@@ -440,7 +474,7 @@ Le Conseil fédéral édicte les dispositions d’exécution réglant notamment:
 <sup>3</sup> Un échantillon peut être prélevé ainsi qu’une analyse de l’ADN établie et saisie dans le système d’information de personnes qui, avant l’entrée en vigueur de la présente loi, ont été condamnées à une peine privative de liberté sans sursis de plus d’une année, ou contre lesquelles une mesure privative de liberté prévue aux art. 59, 61 ou 64 CP[^23-2] a été prononcée, tant que dure la peine privative de liberté ou la mesure privative de liberté, mais au plus tard jusqu’à un an après l’entrée en vigueur de la présente loi.
 
 [^23-1]: [[RO 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258), [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 ch. 1]
-[^23-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 23a
 
@@ -451,8 +485,8 @@ Le Conseil fédéral édicte les dispositions d’exécution réglant notamment:
 <sup>2</sup> Pour chaque profil d’ADN d’une personne, les cantons et les autorités fédérales qui font établir des profils d’ADN en vertu des art. 255 et 257 CPP[^23a-2] ou 73*s* et 73*u* PPM[^23a-3] communiquent à fedpol dans les cinq ans après l’entrée en vigueur de la modification du 17 décembre 2021 le nouveau délai d’effacement découlant de cette modification. Dans des cas exceptionnels dûment motivés, le département peut accorder une prolongation de délai.
 
 [^23a-1]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^23a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^23a-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^23a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^23a-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 24
 

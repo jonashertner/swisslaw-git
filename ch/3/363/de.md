@@ -3,11 +3,11 @@ sr: "363"
 title: Bundesgesetz vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: de
-version: 2023-09-01
+version: 2027-01-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230901-de-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/de"
 
 (DNA-Profil-Gesetz)
 
-vom 20. Juni 2003 (Stand am 1. September 2023)
+vom 20. Juni 2003 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 119 und 123 Absatz 1 der Bundesverfassung[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2001 29](https://fedlex.data.admin.ch/eli/fga/2001/29)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -45,9 +45,11 @@ Dieses Gesetz regelt:
 
 - b. die Identifizierung von unbekannten, vermissten oder toten Personen ausserhalb von Strafverfahren mit Hilfe des Vergleichs von DNA-Profilen;
 - c. die Identifizierung von toten Personen ausserhalb von Strafverfahren mit Hilfe der Phänotypisierung;
-- d. die Bearbeitung von DNA-Profilen in einem Informationssystem des Bundes.
+- d. die Bearbeitung von DNA-Profilen in einem Informationssystem des Bundes;
+- e. den grenzüberschreitenden Datenaustausch im Rahmen des Abkommens vom 27. Juni 2019[^1-2] zur Beteiligung an Prüm.
 
-[^1-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^1-1]: Fassung gemäss Anhang 2 Ziff. 5 des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2027 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^1-2]: Abkommen vom 27. Juni 2019 zwischen der Schweiz und der Europäischen Union zur Vertiefung der grenzüberschreitenden Zusammenarbeit (Prümer Zusammenarbeit) ([SR 0.362.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30012)).
 
 #### Art. 1a
 
@@ -181,8 +183,8 @@ Die anordnende Behörde veranlasst die Vernichtung der Probe, die einer Person g
 <sup>3</sup> Es vernichtet die Proben aus einer Massenuntersuchung nach Artikel 256 der Strafprozessordnung (StPO)[^9-2] oder Artikel 73*t* des Militärstrafprozesses vom 23. März 1979[^9-3] (MStP) nach Abschluss der Untersuchung auf Anordnung der Verfahrensleitung.
 
 [^9-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^9-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^9-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^9-3]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 9a
 
@@ -194,8 +196,8 @@ Während ihrer Aufbewahrung darf die Probe einzig für Nachtypisierungen verwend
 - b. zur näheren Eingrenzung des zu untersuchenden Personenkreises bei einem Suchlauf nach Verwandtschaftsbezug nach Artikel 258*a* StPO[^9a-2] oder Artikel 73*w* MStP[^9a-3].
 
 [^9a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^9a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9a-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^9a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^9a-3]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ## 4. Abschnitt: DNA-Profil-Informationssystem
 
@@ -250,12 +252,12 @@ Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 [^11-1]: Heute: Art. 255 Abs. 1 Bst. a StPO oder Art. 73*s* Abs. 1 Bst. a MStP
 [^11-2]: Heute: Art. 257 StPO oder Art. 73*u* MStP
 [^11-3]: Heute: Art. 255 Abs. 1 Bst. c und d StPO oder Art. 73*s* Abs. 1 Bst. c und d MStP
-[^11-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-4]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^11-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^11-6]: Heute: 255 Abs. 1 Bst. b StPO oder Art. 73*s* Abs. 1 Bst. b MStP
 [^11-7]: Heute: 255 Abs. 1 Bst. b StPO oder Art. 73*s* Abs. 1 Bst. b MStP
 [^11-8]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-9]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^11-9]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 12
 
@@ -275,8 +277,40 @@ Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
 <sup>2</sup> Die internationale Zusammenarbeit setzt voraus, dass die Bedingungen für die Probenahme nach diesem Gesetz erfüllt sind und die Vergleichbarkeit der DNA-Profile gesichert ist.
 
-[^13-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^13-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^13-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+## 4*a*. Abschnitt: Internationale Zusammenarbeit im Rahmen des Abkommens zur Beteiligung an Prüm und des PCSC-Abkommens
+
+[^sec4a-1]
+
+[^sec4a-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 (Vertiefung der grenzüberschreitenden Zusammenarbeit (Prümer Zusammenarbeit) und des Eurodac-Protokolls zwischen der Schweiz, der EU und dem Fürstentum Liechtenstein betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke), in Kraft seit 1. Jan. 2027 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+
+#### Art. 13a
+
+**Zugriff im Abruf- und Abgleichsverfahren auf das Informationssystem im Rahmen des Abkommens zur Beteiligung an Prüm**
+
+<sup>1</sup> Der Bund und die Kantone unterstützen mittels Abgleich im Informationssystem nach Artikel 10 und mittels des Austauschs von Informationen die teilnehmenden Staaten insbesondere bei der Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität.
+
+<sup>2</sup> Die nationalen Kontaktstellen der teilnehmenden Staaten können im Einzelfall zur Verfolgung von Straftaten DNA-Profile nach Artikel 3 des Beschlusses 2008/615/JI mit den Fundstellendatensätzen im Informationssystem nach Artikel 10 des vorliegenden Gesetzes abgleichen.
+
+<sup>3</sup> Zur Aufklärung eines Verbrechens oder Vergehens (Art. 255 Abs. 1 StPO[^13a-1]) nimmt die nationale Kontaktstelle nach Artikel 357 Absatz 1 StGB[^13a-2] aufgrund eines Antrags den Abgleich eines DNA-Profils mit den entsprechenden DNA-Profil-Informationssystemen der Vertragsstaaten vor.[^13a-3]
+
+<sup>4</sup>
+
+Die folgenden Behörden können im Rahmen ihrer gesetzlichen Aufgaben einen Abgleich gemäss Absatz 3 beantragen:
+
+- a. fedpol;
+- b. die Bundesanwaltschaft;
+- c. die kantonalen Polizei- und Strafverfolgungsbehörden.
+
+<sup>5</sup> Die nationale Kontaktstelle nach Artikel 357 Absatz 1 StGB kann zur Verfolgung von Straftaten den gesamten Bestand der im Informationssystem nach Artikel 10 des vorliegenden Gesetzes gespeicherten DNA-Spurenprofile mit den DNA-Profilen eines teilnehmenden Staates abgleichen.
+
+<sup>6</sup> Umgekehrt kann die nationale Kontaktstelle eines teilnehmenden Staates zur Verfolgung von Straftaten im Einvernehmen mit der nationalen Kontaktstelle nach Artikel 357 Absatz 1 StGB ihre DNA-Spurenprofile mit dem gesamten Bestand der im Informationssystem nach Artikel 10 des vorliegenden Gesetzes gespeicherten DNA-Profile abgleichen.
+
+[^13a-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^13a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^13a-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2027 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [2025 407](https://fedlex.data.admin.ch/eli/oc/2025/407); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 ## 5. Abschnitt: Bearbeitung weiterer Daten
 
@@ -302,7 +336,7 @@ Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
 <sup>3</sup> Das Auskunftsrecht sowie die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft richten sich nach den Artikeln 25 und 26 des Datenschutzgesetzes vom 25. September 2020[^15-1].[^15-2]
 
-[^15-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^15-2]: Fassung gemäss Anhang 1 Ziff. II 31 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
@@ -342,11 +376,11 @@ Es löscht das DNA-Profil, das nach den Artikeln 255 und 257 StPO oder 73*s* und
 <sup>7</sup> In allen übrigen Fällen, die von den Absätzen 2–6 nicht erfasst sind, wird das DNA-Profil nach zehn Jahren gerechnet ab dem Datum des in Rechtskraft erwachsenen Urteils gelöscht.
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^16-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^16-4]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^16-3]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^16-4]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^16-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^16-6]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 17
 
@@ -376,8 +410,8 @@ Fedpol löscht die DNA-Profile, die nach Artikel 255 Absatz 1 Buchstaben c und d
 - a. auf Verlangen der anordnenden Behörde; diese verlangt die Löschung, sobald die Spur einer Person zugeordnet werden kann, die als Täter ausgeschlossen worden ist;
 - b. von Amtes wegen nach 30 Jahren, ausgenommen bei unverjährbaren Straftaten.
 
-[^18-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^18-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^18-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^18-2]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 [^18-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 19
@@ -441,7 +475,7 @@ Der Bundesrat erlässt die Vollzugsbestimmungen; darin regelt er insbesondere:
 <sup>3</sup> Von Personen, die vor Inkrafttreten dieses Gesetzes entweder zu einer unbedingten Freiheitsstrafe von mehr als einem Jahr verurteilt worden sind, oder gegenüber denen eine freiheitsentziehende Massnahme nach den Artikeln 59, 61 oder 64 StGB[^23-2] angeordnet worden ist, kann eine Probe genommen sowie ein DNA-Profil erstellt und in das Informationssystem aufgenommen werden, solange die Freiheitsstrafe oder die freiheitsentziehende Massnahme andauert, jedoch längstens bis ein Jahr nach Inkrafttreten dieses Gesetzes.
 
 [^23-1]: [[AS 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258); [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)Art. 19 Ziff. 1]
-[^23-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 23a
 
@@ -452,8 +486,8 @@ Der Bundesrat erlässt die Vollzugsbestimmungen; darin regelt er insbesondere:
 <sup>2</sup> Die Kantone und die Behörden des Bundes, die nach den Artikeln 255 und 257 StPO[^23a-2] oder 73*s* und 73*u* MStP[^23a-3] DNA-Profile erstellen lassen, melden fedpol bis fünf Jahre nach dem Inkrafttreten der Änderung vom 17. Dezember 2021 für jedes DNA-Profil einer Person die sich gemäss dieser Änderung ergebende neue Löschfrist. In begründeten Ausnahmefällen kann das Departement eine Fristverlängerung gewähren.
 
 [^23a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^23a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^23a-3]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^23a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^23a-3]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 24
 

@@ -3,11 +3,11 @@ sr: "363"
 title: "Legge federale del 20 giugno 2003 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Legge sui profili del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: it
-version: 2023-09-01
+version: 2027-01-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230901-it-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/it"
 
 (Legge sui profili del DNA)
 
-del 20 giugno 2003 (Stato 1° settembre 2023)
+del 20 giugno 2003 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -24,7 +24,7 @@ visti gli articoli 119 e 123 capoverso 1 della Costituzione federale[^ingress-1]
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2001 11](https://fedlex.data.admin.ch/eli/fga/2001/29)
 
 ## Sezione 1: Disposizioni generali
@@ -45,15 +45,17 @@ La presente legge disciplina:
 
 - b. l’identificazione al di fuori del procedimento penale, mediante il confronto di profili del DNA, di persone sconosciute, scomparse o decedute;
 - c. l’identificazione al di fuori del procedimento penale, mediante la fenotipizzazione, di persone decedute;
-- d. il trattamento di profili del DNA in un sistema d’informazione della Confederazione.
+- d. il trattamento di profili del DNA in un sistema d’informazione della Confederazione;
+- e. lo scambio transfrontaliero di dati nell’ambito dell’Accordo del 27 giugno 2019[^1-2] di partecipazione a Prüm.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^1-1]: Nuovo testo giusta l’all. 2 n. 5 della LF del 17 dic. 2021, in vigore dal 1° gen. 2027 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^1-2]: Accordo del 27 giu. 2019 tra la Svizzera e l’Unione europea sul potenziamento della cooperazione transfrontaliera (cooperazione Prüm) ([RS 0.362.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30012)).
 
 #### Art. 1a
 
 [^1a-1]
 
-[^1a-1]: Introdotto dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)). Abrogato dal n. I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^1a-1]: Introdotto dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)). Abrogato dalla cifra I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 2
 
@@ -66,7 +68,7 @@ La presente legge disciplina:
 <sup>3</sup> Il profilo del DNA e il relativo materiale d’analisi possono essere utilizzati soltanto per gli scopi previsti dal diritto processuale penale nonché per l’identificazione al di fuori del procedimento penale.[^2-2]
 
 [^2-1]: Nuovo testo giusta l’all. 2 n. 3 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^2-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^2-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 2a
 
@@ -74,7 +76,7 @@ La presente legge disciplina:
 
 Per ricerca di legami di parentela s’intende una ricerca effettuata, per far luce su un crimine, nel sistema d’informazione di cui all’articolo 10 al fine di reperire persone che, in virtù della somiglianza del loro profilo del DNA con quello del donatore della traccia, potrebbero essere imparentate con quest’ultimo.
 
-[^2a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^2a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 2b
 
@@ -94,7 +96,7 @@ La fenotipizzazione può essere utilizzata soltanto per determinare:
 
 <sup>4</sup> Il Consiglio federale può definire caratteristiche fisiche esteriori supplementari in funzione del progresso tecnico e purché sia assicurata l’affidabilità pratica dei nuovi metodi di determinazione di tali caratteristiche.
 
-[^2b-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^2b-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 3
 
@@ -104,19 +106,19 @@ La fenotipizzazione può essere utilizzata soltanto per determinare:
 
 <sup>2</sup> Se tali informazioni sono tuttavia generate, devono essere conservate presso il laboratorio e non possono essere fornite all’autorità richiedente o ad altri terzi.
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^3-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 4 e 5
 
 [^45-1]
 
-[^45-1]: Abrogati dal n. I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^45-1]: Abrogati dalla cifra I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 ## Sezione 2: Prelievo di campioni e analisi del DNA
 
 [^sec2-1]
 
-[^sec2-1]: Originario prima dell’art. 3. Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^sec2-1]: Originario prima dell’art. 3. Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 6
 
@@ -137,15 +139,15 @@ Al di fuori del procedimento penale, se l’identificazione non è altrimenti po
 
 <sup>4</sup> Il profilo del DNA di presunti parenti della persona da identificare può essere allestito a fini di confronto se essi vi acconsentono per scritto.
 
-[^6-1]: Abrogata dal n. I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^6-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^6-3]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^6-1]: Abrogata dalla cifra I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^6-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^6-3]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^7-1]: Abrogato dalla cifra I della LF del 17 dic. 2021, con effetto dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 ## Sezione 3: Organizzazione dell’analisi del DNA
 
@@ -161,7 +163,7 @@ Al di fuori del procedimento penale, se l’identificazione non è altrimenti po
 
 <sup>4</sup> Insieme al campione, al laboratorio sono comunicati soltanto i dati necessari all’allestimento del profilo del DNA e alla valutazione del suo valore probatorio, segnatamente quelli concernenti il luogo del reato e il luogo di ritrovamento di tracce.[^8-1]
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 9
 
@@ -180,9 +182,9 @@ L’autorità competente dispone la distruzione del campione prelevato su una pe
 
 <sup>3</sup> Dopo la chiusura dell’istruzione, il laboratorio distrugge su ordine di chi dirige il procedimento i campioni prelevati nell’ambito di un’indagine a tappeto di cui all’articolo 256 del Codice di procedura penale (CPP)[^9-2] o all’articolo 73*t* della Procedura penale militare del 23 marzo 1979[^9-3] (PPM).
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^9-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^9-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^9-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^9-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 9a
 
@@ -193,9 +195,9 @@ Durante la sua conservazione, il campione può essere utilizzato unicamente per 
 - a. per rafforzare il valore informativo di un profilo del DNA esistente, laddove la sua interpretazione o l’attuazione di nuovi requisiti in materia di analisi lo richiedano;
 - b. per restringere ulteriormente la cerchia di persone il cui DNA deve essere analizzato nell’ambito di una ricerca di legami di parentela di cui all’articolo 258*a* CPP[^9a-2] o all’articolo 73*w* PPM[^9a-3].
 
-[^9a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^9a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9a-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^9a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^9a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^9a-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ## Sezione 4: Sistema d’informazione basato sui profili del DNA
 
@@ -209,8 +211,8 @@ Durante la sua conservazione, il campione può essere utilizzato unicamente per 
 
 <sup>3</sup> Il Consiglio federale stabilisce i compiti dell’Ufficio di coordinamento e l’importo degli emolumenti.[^10-2]
 
-[^10-1]: Nuovo testo giusta l’all. n. II 1 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
-[^10-2]: Introdotto dall’all. n. II 1 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-1]: Nuovo testo giusta l’all. cifra II n. 1 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-2]: Introdotto dall’all. cifra II n. 1 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 11
 
@@ -249,12 +251,12 @@ Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
 [^11-1]: Ora: art. 255 cpv. 1 lett. a CPP o art. 73*s* cpv. 1 lett. a PPM
 [^11-2]: Ora: art. 257 CPP o art. 73*u* PPM
 [^11-3]: Ora: art. 255 cpv. 1 lett. c e d CPP o art. 73*s* cpv. 1 lett. c e d PPM
-[^11-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^11-5]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-4]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^11-5]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 [^11-6]: Ora: art. 255 cpv. 1 lett. b CPP o art. 73*s* cpv. 1 lett. b PPM
 [^11-7]: Ora: art. 255 cpv. 1 lett. b CPP o art. 73*s* cpv. 1 lett. b PPM
-[^11-8]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-9]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^11-8]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-9]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 12
 
@@ -274,8 +276,40 @@ Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
 
 <sup>2</sup> La collaborazione internazionale presuppone che siano soddisfatte le condizioni del prelievo dei campioni giusta la presente legge e che sia garantita la possibilità di confrontare i profili del DNA.
 
-[^13-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^13-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^13-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^13-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+
+## Sezione 4*a*: Collaborazione internazionale nell’ambito dell’Accordo di partecipazione a Prüm e dell’Accordo PCSC
+
+[^sec4a-1]
+
+[^sec4a-1]: Introdotta dall’all. n. 5 del DF del 1° ott. 2021 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e l’UE sul potenziamento della cooperazione transfrontaliera (cooperazione Prüm) e il Protocollo tra la Svizzera, l’UE e il Principato del Liechtenstein riguardante l’accesso a Eurodac a fini di contrasto, in vigore dal 1° gen. 2027 ([RU 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
+
+#### Art. 13a
+
+**Accesso al sistema d’informazione mediante procedura di richiamo e di confronto nell’ambito dell’Accordo di partecipazione a Prüm**
+
+<sup>1</sup> Tramite il confronto nel sistema d’informazione di cui all’articolo 10 e tramite lo scambio di informazioni, la Confederazione e i Cantoni sostengono gli Stati contraenti segnatamente nella lotta al terrorismo e alla criminalità transfrontaliera.
+
+<sup>2</sup> Conformemente all’articolo 3 della decisione 2008/615/GAI, i punti di contatto nazionali degli Stati contraenti possono confrontare, caso per caso, i profili del DNA con i dati indicizzati nel sistema d’informazione di cui all’articolo 10 della presente legge ai fini del perseguimento di reati.
+
+<sup>3</sup> Per far luce su un crimine o un delitto (art. 255 cpv. 1 CPP[^13a-1]), il punto di contatto nazionale ai sensi dell’articolo 357 capoverso 1 CP[^13a-2] può confrontare su richiesta un profilo del DNA con i dati indicizzati nei corrispondenti sistemi d’informazione dei profili del DNA degli Stati contraenti.[^13a-3]
+
+<sup>4</sup>
+
+Le autorità seguenti possono chiedere, nell’ambito dei compiti loro attribuiti dalla legge, un confronto ai sensi del capoverso 3:
+
+- a. fedpol;
+- b. il Ministero pubblico della Confederazione;
+- c. le autorità cantonali di polizia e di perseguimento penale.
+
+<sup>5</sup> Il punto di contatto nazionale di cui all’articolo 357 capoverso 1 CP può confrontare, ai fini del perseguimento di reati, l’insieme dei profili del DNA di tracce registrati nel sistema d’informazione di cui all’articolo 10 della presente legge con l’insieme dei profili del DNA di uno Stato contraente.
+
+<sup>6</sup> Il punto di contatto nazionale di uno Stato contraente può dal canto suo confrontare, ai fini del perseguimento di reati e d’intesa con il punto di contatto nazionale ai sensi dell’articolo 357 capoverso 1 CP, i propri profili del DNA di tracce con l’insieme dei profili del DNA registrati nel sistema d’informazione di cui all’articolo 10 della presente legge.
+
+[^13a-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^13a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^13a-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° gen. 2027 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [2025 407](https://fedlex.data.admin.ch/eli/oc/2025/407); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 ## Sezione 5: Trattamento di altri dati
 
@@ -287,7 +321,7 @@ Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
 
 <sup>3</sup> I profili del DNA sono associati agli altri dati mediante un numero di controllo. Tale operazione può essere compiuta soltanto da fedpol.
 
-[^14-1]: Nuova espressione giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)). Di detta mod. è tenuto conto in tutto il testo.
+[^14-1]: Nuova espressione giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)). Di detta mod. è tenuto conto in tutto il testo.
 
 ## Sezione 6: Protezione dei dati
 
@@ -301,8 +335,8 @@ Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
 
 <sup>3</sup> Il diritto all’informazione nonché il rifiuto, la limitazione o il differimento della stessa sono disciplinati dagli articoli 25 e 26 della legge federale del 25 settembre 2020[^15-1] sulla protezione dei dati.[^15-2]
 
-[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15-2]: Nuovo testo giusta l’all. 1 n. II 31 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^15-2]: Nuovo testo giusta l’all. 1 cifra II n. 31 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -340,12 +374,12 @@ Fedpol cancella il profilo del DNA allestito giusta gli articoli 255 e 257 CPP o
 
 <sup>7</sup> In tutti i casi non contemplati dai capoversi 2–6, il profilo del DNA è cancellato dopo dieci anni a partire dalla data in cui la sentenza è passata in giudicato.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^16-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^16-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^16-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^16-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^16-4]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^16-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^16-6]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 17
 
@@ -355,8 +389,8 @@ Fedpol cancella il profilo del DNA allestito giusta gli articoli 255 e 257 CPP o
 
 <sup>2</sup> Si può prescindere dal chiedere il consenso a un’autorità estera.
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^17-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^17-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 17a
 
@@ -364,7 +398,7 @@ Fedpol cancella il profilo del DNA allestito giusta gli articoli 255 e 257 CPP o
 
 Se, oltre al profilo del DNA, in virtù dell’articolo 11 capoverso 3<sup>bis</sup> è stato registrato nel sistema d’informazione anche il profilo del DNA del cromosoma Y allestito a partire dalla traccia o dal campione di una persona, tale profilo è cancellato contemporaneamente al profilo del DNA.
 
-[^17a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^17a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 18
 
@@ -375,9 +409,9 @@ Fedpol cancella i profili del DNA ricavati secondo l’articolo 255 capoverso 1 
 - a. su richiesta dell’autorità competente; questa chiede la cancellazione non appena la traccia può essere attribuita a una persona che non entra in linea di conto come autrice del reato;
 - b. d’ufficio dopo 30 anni, eccetto in caso di reati imprescrittibili.
 
-[^18-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^18-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^18-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^18-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^18-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^18-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 19
 
@@ -403,7 +437,7 @@ I profili del DNA allestiti al di fuori di procedimenti penali ai sensi dell’a
 
 <sup>2</sup> Entro sei anni dall’entrata in vigore della modifica del 17 dicembre 2021 della presente legge, il Consiglio federale presenta al Parlamento un rapporto concernente in particolare l’attuazione dell’articolo 2*b*.
 
-[^20a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^20a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 21
 
@@ -426,8 +460,8 @@ Il Consiglio federale emana le disposizioni d’esecuzione; vi disciplina in par
 - g.[^22-1] la ricerca di legami di parentela di cui all’articolo 2*a*;
 - h.[^22-2] la fenotipizzazione di cui all’articolo 2*b*.
 
-[^22-1]: Introdotta dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^22-2]: Introdotta dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^22-1]: Introdotta dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^22-2]: Introdotta dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 23
 
@@ -440,7 +474,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione; vi disciplina in par
 <sup>3</sup> Nei confronti di persone che, prima dell’entrata in vigore della presente legge, sono state condannate senza condizionale a una pena detentiva superiore a un anno o contro le quali è stata ordinata una misura privativa della libertà secondo gli articoli secondo gli articoli 59, 61 o 64 CP[^23-2], può essere prelevato un campione, nonché allestito e registrato nel sistema d’informazione un profilo del DNA, fintanto che dura la pena o la misura, ma comunque non oltre un anno dopo l’entrata in vigore della presente legge.
 
 [^23-1]: [[RU 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258), [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 n. 1]
-[^23-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 23a
 
@@ -450,9 +484,9 @@ Il Consiglio federale emana le disposizioni d’esecuzione; vi disciplina in par
 
 <sup>2</sup> Per ogni profilo del DNA di una persona, i Cantoni e le autorità della Confederazione che fanno allestire profili del DNA giusta gli articoli 255 e 257 CPP[^23a-2] o 73*s* e 73*u* PPM[^23a-3] comunicano a fedpol entro cinque anni dall’entrata in vigore della modifica del 17 dicembre 2021 della presente legge il nuovo termine di cancellazione risultante da tale modifica. In casi eccezionali debitamente motivati, il Dipartimento può concedere una proroga del termine.
 
-[^23a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^23a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^23a-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^23a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^23a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^23a-3]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 24
 
