@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> avril 2026)
+du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -355,7 +355,7 @@ Les plans et décisions suivants ne peuvent faire l’objet, au niveau cantonal,
 
 <sup>1</sup> Les gestionnaires de réseau sont tenus, dans leur zone de desserte, de reprendre et, s’ils ne parviennent pas à s’entendre avec le producteur sur le prix, de rétribuer à un prix harmonisé au niveau suisse l’électricité et le gaz renouvelable qui leur sont offerts.[^15-1]
 
-<sup>1bis</sup> Pour l’électricité issue d’énergies renouvelables, la rétribution est fixée selon le prix du marché moyen sur un trimestre au moment de l’injection. Le Conseil fédéral fixe des rétributions minimales pour les installations d’une puissance inférieure à 150 kW. Celles-ci se basent sur l’amortissement d’installations de référence sur leur durée de vie.[^15-2]
+<sup>1bis</sup> Pour l’électricité issue d’énergies renouvelables, la rétribution est fixée selon le prix du marché au moment de l’injection. Le Conseil fédéral fixe des rétributions minimales pour les installations d’une puissance inférieure à 150 kW. Celles-ci se basent sur l’amortissement d’installations de référence sur leur durée de vie. Si le prix de marché de référence défini à l’art. 23 est inférieur aux rétributions minimales, le producteur a droit à la différence. Le Conseil fédéral peut prévoir des dérogations pour les périodes où les prix du marché sont négatifs.[^15-2]
 
 <sup>1ter</sup> Pour l’électricité provenant d’installations de couplage chaleur-force, la rétribution est fixée selon le prix du marché au moment de l’injection.[^15-3]
 
@@ -368,7 +368,7 @@ Les plans et décisions suivants ne peuvent faire l’objet, au niveau cantonal,
 <sup>4</sup> Les al. 1 à 3 ne s’appliquent pas aux producteurs qui participent au système de rétribution de l’injection (art. 19) ou reçoivent des contributions aux coûts d’exploitation (art. 33*a*).[^15-7]
 
 [^15-1]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^15-2]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-2]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Nouvelle teneur selon le ch. I de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99), [297](https://fedlex.data.admin.ch/eli/oc/2026/297); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-3]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Nouvelle teneur selon le ch. I de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-4]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-5]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
@@ -1293,20 +1293,13 @@ Dans le domaine de l’utilisation de l’énergie et des rejets de chaleur, la 
 
 #### Art. 50a
 
-**Programme d’impulsion de remplacement des installations de production de chaleur et de mesures dans le domaine de l’efficacité énergétique**[^50a-1]
+**Remplacement des installations de production de chaleur et mesures dans le domaine de l’efficacité énergétique des bâtiments**[^50a-1]
 
-<sup>1</sup> Dans le cadre d’un programme d’impulsion doté de 200 millions de francs par année et limité à une durée de dix ans, la Confédération encourage le remplacement des installations de chauffage à combustible fossile et des chauffages électriques fixes à résistances par une production de chaleur à base d’énergies renouvelables, ainsi que les mesures dans le domaine de l’efficacité énergétique.
+<sup>1</sup> Au moyen d’un montant annuel de 450 millions de francs au plus, dont le versement est limité au 31 décembre 2034, la Confédération encourage le remplacement des installations de chauffage à combustible fossile par une production de chaleur à base d’énergies renouvelables, ainsi que les mesures dans le domaine de l’efficacité énergétique des bâtiments.
 
-<sup>2</sup> Les cantons se chargent de l’exécution dans le cadre des structures existantes, conformément à l’art. 34 de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^50a-2].
+<sup>2</sup> À moins que le Conseil fédéral n’en décide autrement, l’encouragement repose sur des contributions globales au sens de l’art. 52.
 
-<sup>3</sup> Les fonds sont versés aux cantons dans une contribution de base par habitant. Le Conseil fédéral peut tenir compte, pour le versement des fonds, des efforts déjà entrepris par les cantons dans le domaine du bâtiment.
-
-<sup>4</sup> Le Conseil fédéral règle les détails, en particulier le montant des subventions, en tenant compte de l’absence de système de distribution de chaleur. Il soutient en particulier les installations de moyenne et grande puissance pour le remplacement des installations de chauffage à combustible fossile et fixe les exigences minimales du programme d’impulsion.
-
-<sup>5</sup> L’Assemblée fédérale accorde un crédit d’engagement de dix ans par voie d’arrêté fédéral simple.
-
-[^50a-1]: Introduit par l’annexe de la LF du 30 sept. 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^50a-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^50a-1]: Introduit par l’annexe de la LF du 30 sept. 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique ([RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Nouvelle teneur selon le ch. I 12 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 
 ### Section 2 Financement
 
@@ -1316,19 +1309,20 @@ Dans le domaine de l’utilisation de l’énergie et des rejets de chaleur, la 
 
 <sup>1</sup>
 
-La Confédération peut encourager les mesures visées aux art. 47, 48 et 50 soit par des contributions globales annuelles en faveur des cantons, soit par des aides financières à des projets individuels. Elle n’octroie qu’exceptionnellement des aides financières aux projets individuels destinés à mettre en œuvre les mesures visées à l’art. 50, notamment si l’une des conditions suivantes est remplie:
+La Confédération peut encourager les mesures visées aux art. 47, 48, 50 et 50*a* soit par des contributions globales annuelles en faveur des cantons, soit par des aides financières à des projets individuels.[^51-1] Elle n’octroie qu’exceptionnellement des aides financières aux projets individuels destinés à mettre en œuvre les mesures visées à l’art. 50, notamment si l’une des conditions suivantes est remplie:
 
 - a. le projet individuel revêt un caractère exemplaire;
 - b. le projet individuel fait partie d’un programme de la Confédération qui vise à soutenir l’introduction sur le marché de technologies nouvelles.
 
-<sup>2</sup> Les mesures visées aux art. 47, 48 et 50 peuvent être financées dans le cadre des contributions globales visées à l’art. 34 de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^51-1], pour autant que les conditions qui y sont prévues soient remplies.
+<sup>2</sup> …[^51-2]
 
-<sup>3</sup> L’encouragement visé à l’art. 49, al. 1, est régi par la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation[^51-2], y compris en ce qui concerne les projets individuels.
+<sup>3</sup> L’encouragement visé à l’art. 49, al. 1, est régi par la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation[^51-3], y compris en ce qui concerne les projets individuels.
 
 <sup>4</sup> Le soutien visé à l’art. 49, al. 2, est apporté sous forme d’aides financières au sens de l’art. 53.
 
-[^51-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
-[^51-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^51-1]: Nouvelle teneur selon le ch. I 12 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^51-2]: Abrogé par le ch. I 12 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^51-3]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 52
 
@@ -1828,6 +1822,14 @@ Les procédures relatives à la construction, à l’agrandissement et à la ré
 
 [^75d-1]: Introduit par le ch. I de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
+#### Art. 75e
+
+**Disposition transitoire relative à l’art. 15**[^75e-1]
+
+Le Conseil fédéral peut prévoir pour les installations nouvelles et existantes que, pour une durée limitée, la rétribution s’effectue au prix de marché de référence.
+
+[^75e-1]: Introduit par le ch. I de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99), [297](https://fedlex.data.admin.ch/eli/oc/2026/297); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
 #### Art. 76
 
 **Abrogation et modification d’autres actes**
@@ -1845,6 +1847,18 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2018[^77-1]
 
 [^77-1]: ACF du 1<sup>er</sup> nov. 2017.
+
+## Disposition transitoire relative aux modifications de la loi du 23 décembre 2011 sur le CO<sub>2</sub> et de la loi du 30 septembre 2016 sur l’énergie
+
+[^u1-1]
+
+[^u1-1]: [RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393)ch. III; [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)
+
+En 2027, les moyens visés à l’art. 33*a*, al. 1, let. a, de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^u1-2] seront utilisés aux fins prévues à l’art. 34 de cette loi dans sa version du 15 mars 2024[^u1-3] et à l’art. 50*a* de la loi du 30 septembre 2016 sur l’énergie dans sa version du 30 septembre 2022[^u1-4]. Le Conseil fédéral règle les modalités, en particulier la répartition des moyens et la procédure.
+
+[^u1-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^u1-3]: [RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)
+[^u1-4]: [RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
 
 Annexe
 

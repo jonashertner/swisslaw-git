@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. April 2026)
+vom 30. September 2016 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -355,7 +355,7 @@ Gegen die folgenden Pläne und Entscheide ist auf kantonaler Ebene nur Beschwerd
 
 <sup>1</sup> Netzbetreiber haben die ihnen angebotene Elektrizität und das ihnen angebotene erneuerbare Gas in ihrem Netzgebiet abzunehmen und, wenn sie sich mit dem Produzenten über die Vergütung nicht einigen können, zu einem schweizweit harmonisierten Preis zu vergüten.[^15-1]
 
-<sup>1bis</sup> Die Vergütung für Elektrizität aus erneuerbaren Energien richtet sich nach dem vierteljährlich gemittelten Marktpreis zum Zeitpunkt der Einspeisung. Der Bundesrat legt für Anlagen mit einer Leistung von weniger als 150 kW Minimalvergütungen fest. Diese orientieren sich an der Amortisation von Referenzanlagen über ihre Lebensdauer.[^15-2]
+<sup>1bis</sup> Die Vergütung für Elektrizität aus erneuerbaren Energien richtet sich nach dem Marktpreis zum Zeitpunkt der Einspeisung. Der Bundesrat legt für Anlagen mit einer Leistung von weniger als 150 kW Minimalvergütungen fest. Diese orientieren sich an der Amortisation von Referenzanlagen über ihre Lebensdauer. Liegt der Referenz- Marktpreis nach Artikel 23 unter den Minimalvergütungen, hat die Produzentin oder der Produzent Anspruch auf den Differenzbetrag. Für Zeiten mit negativen Marktpreisen kann der Bundesrat abweichende Regelungen vorsehen.[^15-2]
 
 <sup>1ter</sup> Die Vergütung für Elektrizität aus Wärme-Kraft-Kopplungsanlagen richtet sich nach dem Marktpreis im Zeitpunkt der Einspeisung.[^15-3]
 
@@ -368,7 +368,7 @@ Gegen die folgenden Pläne und Entscheide ist auf kantonaler Ebene nur Beschwerd
 <sup>4</sup> Die Absätze 1−3 sind nicht anwendbar, solange die Produzenten am Einspeisevergütungssystem nach Artikel 19 teilnehmen oder Betriebskostenbeiträge nach Artikel 33*a* erhalten.[^15-7]
 
 [^15-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^15-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Berichtigt von der RedK der BVers am 22. Febr. 2024 (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^15-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Fassung gemäss Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99), [297](https://fedlex.data.admin.ch/eli/oc/2026/297); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Fassung gemäss Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-5]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
@@ -1293,20 +1293,13 @@ Der Bund kann im Bereich der Energie- und Abwärmenutzung Massnahmen unterstütz
 
 #### Art. 50a
 
-**Impulsprogramm für den Ersatz von Wärmeerzeugungsanlagen und Massnahmen im Bereich der Energieeffizienz**[^50a-1]
+**Ersatz von Wärmeerzeugungsanlagen und Massnahmen im Bereich der Energieeffizienz von Gebäuden**[^50a-1]
 
-<sup>1</sup> Der Bund fördert im Rahmen eines Impulsprogramms mit einem Betrag von 200 Millionen Franken pro Jahr und befristet auf zehn Jahre den Ersatz fossil betriebener Heizungen und ortsfester elektrischer Widerstandsheizungen durch eine Wärmeerzeugung aus erneuerbaren Energien und Massnahmen im Bereich der Energieeffizienz.
+<sup>1</sup> Der Bund fördert befristet bis zum 31. Dezember 2034 den Ersatz fossil betriebener Heizungen durch eine Wärmeerzeugung aus erneuerbaren Energien sowie Massnahmen im Bereich der Energieeffizienz von Gebäuden mit einem Betrag von höchstens 450 Millionen Franken pro Jahr.
 
-<sup>2</sup> Der Vollzug erfolgt durch die Kantone im Rahmen der bestehenden Strukturen nach Artikel 34 des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^50a-2].
+<sup>2</sup> Soweit der Bundesrat nichts anderes bestimmt, erfolgt die Förderung mittels Globalbeiträgen nach Artikel 52.
 
-<sup>3</sup> Die Mittel werden den Kantonen in einem Sockelbeitrag pro Einwohnerin und Einwohner ausgerichtet. Der Bundesrat kann bei der Ausrichtung der Mittel die bisherigen Anstrengungen der Kantone im Gebäudebereich berücksichtigen.
-
-<sup>4</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Höhe der Förderbeiträge unter Berücksichtigung fehlender Wärmeverteilsysteme. Er unterstützt beim Ersatz fossil betriebener Heizungen insbesondere Anlagen im mittleren und höheren Leistungsbereich und legt die minimalen Anforderungen an das Impulsprogramm fest.
-
-<sup>5</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss einen zehnjährigen Verpflichtungskredit.
-
-[^50a-1]: Eingefügt durch Anhang des BG vom 30. Sept. 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit, in Kraft seit 1. Jan. 2025 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^50a-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^50a-1]: Eingefügt durch Anhang des BG vom 30. Sept. 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Fassung gemäss Ziff. I 12 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 ### 2. Abschnitt: Finanzierung
 
@@ -1316,19 +1309,20 @@ Der Bund kann im Bereich der Energie- und Abwärmenutzung Massnahmen unterstütz
 
 <sup>1</sup>
 
-Der Bund kann die Massnahmen nach den Artikeln 47, 48 und 50 entweder in der Form von jährlichen Globalbeiträgen an die Kantone oder von Finanzhilfen an Einzelprojekte fördern. Für Einzelprojekte zur Umsetzung der Massnahmen nach Artikel 50 gewährt er nur in Ausnahmefällen Finanzhilfen, insbesondere wenn:
+Der Bund kann die Massnahmen nach den Artikeln 47, 48, 50 und 50*a* entweder in der Form von jährlichen Globalbeiträgen an die Kantone oder in der Form von Finanzhilfen an Einzelprojekte fördern.[^51-1] Für Einzelprojekte zur Umsetzung der Massnahmen nach Artikel 50 gewährt er nur in Ausnahmefällen Finanzhilfen, insbesondere wenn:
 
 - a. das Einzelprojekt von exemplarischer Bedeutung ist; oder
 - b. das Einzelprojekt Teil eines Programms des Bundes ist, mit dem die Markteinführung neuer Technologien gefördert werden soll.
 
-<sup>2</sup> Massnahmen nach den Artikeln 47, 48 und 50 können im Rahmen von Globalbeiträgen nach Artikel 34 des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^51-1] finanziert werden, sofern die dort genannten Voraussetzungen erfüllt sind.
+<sup>2</sup> ...[^51-2]
 
-<sup>3</sup> Die Förderung nach Artikel 49 Absatz 1 richtet sich auch für Einzelprojekte nach dem Bundesgesetz vom 14. Dezember 2012[^51-2] über die Förderung der Forschung und der Innovation.
+<sup>3</sup> Die Förderung nach Artikel 49 Absatz 1 richtet sich auch für Einzelprojekte nach dem Bundesgesetz vom 14. Dezember 2012[^51-3] über die Förderung der Forschung und der Innovation.
 
 <sup>4</sup> Die Unterstützung nach Artikel 49 Absatz 2 erfolgt in der Form von Finanzhilfen nach Artikel 53.
 
-[^51-1]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
-[^51-2]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^51-1]: Fassung gemäss Ziff. I 12 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^51-2]: Aufgehoben durch Ziff. I 12 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^51-3]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 52
 
@@ -1825,6 +1819,14 @@ Verfahren betreffend den Bau, die Erweiterung und die Erneuerung von Solar- und 
 
 [^75d-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
+#### Art. 75e
+
+**Übergangsbestimmung zu Artikel 15**[^75e-1]
+
+Der Bundesrat kann für bestehende und neue Anlagen für eine beschränkte Zeit vorsehen, dass die Vergütung zum Referenz-Marktpreis erfolgt.
+
+[^75e-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99), [297](https://fedlex.data.admin.ch/eli/oc/2026/297); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
 #### Art. 76
 
 **Aufhebung und Änderung anderer Erlasse**
@@ -1842,6 +1844,18 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 Datum des Inkrafttretens: 1. Januar 2018[^77-1]
 
 [^77-1]: BRB vom 1. Nov. 2017
+
+## Übergangsbestimmung zu den Änderungen des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011 sowie des Energiegesetzes vom 30. September 2016
+
+[^u1-1]
+
+[^u1-1]: [AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393)Ziff. III; [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)
+
+Im Jahr 2027 werden die Mittel nach Artikel 33*a* Absatz 1 Buchstabe a des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^u1-2] eingesetzt für die Zwecke nach Artikel 34 dieses Gesetzes in der Fassung vom 15. März 2024[^u1-3] sowie nach Artikel 50*a* des Energiegesetzes vom 30. September 2016 in der Fassung vom 30. September 2022[^u1-4]. Der Bundesrat regelt die Einzelheiten, insbesondere die Verteilung der Mittel und das Verfahren.
+
+[^u1-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^u1-3]: [AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)
+[^u1-4]: [AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
 
 Anhang
 

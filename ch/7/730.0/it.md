@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° aprile 2026)
+del 30 settembre 2016 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -355,7 +355,7 @@ A livello cantonale, il ricorso contro i seguenti piani e decisioni è ammissibi
 
 <sup>1</sup> Nel loro comprensorio i gestori di rete sono tenuti a ritirare e, se non riescono ad accordarsi su una rimunerazione con il produttore, rimunerare a un prezzo uniforme a livello nazionale l’elettricità e il gas rinnovabile loro offerti.[^15-1]
 
-<sup>1bis</sup> Per l’elettricità generata da energie rinnovabili la rimunerazione si fonda sul prezzo di mercato medio trimestrale al momento dell’immissione. Per gli impianti con una potenza inferiore a 150 kW il Consiglio federale stabilisce le rimunerazioni minime. Queste si fondano sull’ammortamento di impianti di riferimento nel corso della loro durata di vita.[^15-2]
+<sup>1bis</sup> Per l’elettricità generata da energie rinnovabili la rimunerazione si fonda sul prezzo di mercato al momento dell’immissione. Per gli impianti con una potenza inferiore a 150 kW il Consiglio federale stabilisce le rimunerazioni minime. Queste si fondano sull’ammortamento di impianti di riferimento nel corso della loro durata di vita. Se il prezzo di mercato di riferimento definito all’articolo 23 è inferiore alle rimunerazioni minime, la differenza spetta al produttore. Il Consiglio federale può prevedere deroghe per i periodi in cui i prezzi di mercato sono negativi.[^15-2]
 
 <sup>1ter</sup> Per l’elettricità proveniente da impianti di cogenerazione forza-calore la rimunerazione si fonda sul prezzo di mercato al momento dell’immissione.[^15-3]
 
@@ -368,7 +368,7 @@ A livello cantonale, il ricorso contro i seguenti piani e decisioni è ammissibi
 <sup>4</sup> I capoversi 1–3 non si applicano fintanto che i produttori partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19) o beneficiano di un contributo alle spese d’esercizio (art. 33*a*).[^15-7]
 
 [^15-1]: Nuovo testo giusta la cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^15-2]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Rettificato dalla Commissione di redazione dell’AF il 22 feb. 2024 (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^15-2]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2027 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99), [297](https://fedlex.data.admin.ch/eli/oc/2026/297); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-3]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-4]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-5]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
@@ -1291,20 +1291,13 @@ Nell’ambito dell’impiego dell’energia e del recupero del calore residuo la
 
 #### Art. 50a
 
-**Programma d’impulso per la sostituzione degli impianti di produzione di calore e per misure volte a migliorare l’efficienza energetica**[^50a-1]
+**Sostituzione degli impianti di produzione di calore e misure volte a migliorare l’efficienza energetica degli edifici**[^50a-1]
 
-<sup>1</sup> Nell’ambito di un programma d’impulso la Confederazione promuove, mediante un importo di 200 milioni di franchi all’anno durante dieci anni, la sostituzione degli impianti di riscaldamento a combustibili fossili e dei riscaldamenti elettrici a resistenza fissi con una produzione di calore mediante energie rinnovabili, come pure misure volte a migliorare l’efficienza energetica.
+<sup>1</sup> Fino al 31 dicembre 2034 la Confederazione promuove, mediante un importo di al massimo 450 milioni di franchi all’anno, la sostituzione degli impianti di riscaldamento a combustibili fossili con una produzione di calore mediante energie rinnovabili, come pure misure volte a migliorare l’efficienza energetica degli edifici.
 
-<sup>2</sup> L’esecuzione compete ai Cantoni nell’ambito delle strutture esistenti conformemente all’articolo 34 della legge del 23 dicembre 2011[^50a-2] sul CO<sub>2</sub>.
+<sup>2</sup> Sempre che il Consiglio federale non disponga altrimenti, la promozione è assicurata mediante i contributi globali di cui all’articolo 52.
 
-<sup>3</sup> I fondi sono versati ai Cantoni sotto forma di contributo di base pro capite. Per il loro versamento il Consiglio federale può tenere conto degli sforzi già profusi dai singoli Cantoni nel settore degli edifici.
-
-<sup>4</sup> Il Consiglio federale disciplina i dettagli, in particolare l’importo dei contributi di promozione, tenendo conto dell’eventuale assenza di sistemi di distribuzione di calore. Ai fini della sostituzione degli impianti di riscaldamento a combustibili fossili, promuove in particolare gli impianti di media e grande potenza; stabilisce le esigenze minime del programma d’impulso.
-
-<sup>5</sup> L’Assemblea federale stanzia un credito d’impegno della durata di dieci anni mediante decreto federale semplice.
-
-[^50a-1]: Introdotto dall’all. della LF del 30 set. 2022 sugli obiettivi in materia di protezione del clima, l’innovazione e il rafforzamento della sicurezza energetica, in vigore dal 1° gen. 2025 ([RU 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^50a-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^50a-1]: Introdotto dall’all. della LF del 30 set. 2022 sugli obiettivi in materia di protezione del clima, l’innovazione e il rafforzamento della sicurezza energetica ([RU 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Nuovo testo giusta la cifra I n. 12 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)). Si veda anche la disp. trans. di questa mod. alla fine del testo.
 
 ### Sezione 2: Finanziamento
 
@@ -1314,19 +1307,20 @@ Nell’ambito dell’impiego dell’energia e del recupero del calore residuo la
 
 <sup>1</sup>
 
-La Confederazione può promuovere le misure di cui agli articoli 47, 48 e 50 mediante contributi globali annui ai Cantoni o aiuti finanziari per progetti individuali. Per progetti individuali volti ad attuare le misure di cui all’articolo 50 concede aiuti finanziari soltanto in casi eccezionali, in particolare se il progetto individuale:
+La Confederazione può promuovere le misure di cui agli articoli 47, 48, 50 e 50*a* mediante contributi globali annui ai Cantoni o aiuti finanziari per progetti individuali.[^51-1] Per progetti individuali volti ad attuare le misure di cui all’articolo 50 concede aiuti finanziari soltanto in casi eccezionali, in particolare se il progetto individuale:
 
 - a. ha un’importanza esemplare; o
 - b. fa parte di un programma della Confederazione volto a promuovere l’introduzione sul mercato di nuove tecnologie.
 
-<sup>2</sup> Le misure di cui agli articoli 47, 48 e 50 possono essere finanziate nell’ambito dei contributi globali di cui all’articolo 34 della legge del 23 dicembre 2011[^51-1] sul CO<sub>2</sub>, sempre che le condizioni ivi previste siano adempiute.
+<sup>2</sup> …[^51-2]
 
-<sup>3</sup> La promozione di cui all’articolo 49 capoverso 1 è retta, anche per progetti individuali, dalla legge federale del 14 dicembre 2012[^51-2] sulla promozione della ricerca e dell’innovazione.
+<sup>3</sup> La promozione di cui all’articolo 49 capoverso 1 è retta, anche per progetti individuali, dalla legge federale del 14 dicembre 2012[^51-3] sulla promozione della ricerca e dell’innovazione.
 
 <sup>4</sup> Il sostegno di cui all’articolo 49 capoverso 2 è concesso sotto forma di aiuti finanziari secondo l’articolo 53.
 
-[^51-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
-[^51-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^51-1]: Nuovo testo del per. giusta la cifra I n. 12 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^51-2]: Abrogato dalla cifra I n. 12 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^51-3]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 52
 
@@ -1826,6 +1820,14 @@ Le procedure per la costruzione, l’ampliamento e il rinnovamento di impianti s
 
 [^75d-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
+#### Art. 75e
+
+**Disposizione transitoria relativa all’articolo 15**[^75e-1]
+
+Per gli impianti nuovi e per quelli esistenti il Consiglio federale può prevedere che per un periodo limitato la rimunerazione si fonda sul prezzo di mercato di riferimento.
+
+[^75e-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2027 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99), [297](https://fedlex.data.admin.ch/eli/oc/2026/297); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
 #### Art. 76
 
 **Abrogazione e modifica di altri atti normativi**
@@ -1843,6 +1845,18 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 Data dell’entrata in vigore: 1° gennaio 2018[^77-1]
 
 [^77-1]: DCF del 1° nov. 2017.
+
+## Disposizione transitoria delle modifiche della legge del 23 dicembre 2011 sul CO<sub>2</sub> e della legge federale del 30 settembre 2016 sull’energia
+
+[^u1-1]
+
+[^u1-1]: [RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393)cifra III; [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)
+
+Nel 2027 i mezzi di cui all’articolo 33*a* capoverso 1 lettera a della legge del 23 dicembre 2011[^u1-2] sul CO<sub>2</sub> sono utilizzati per gli scopi di cui all’articolo 34 di tale legge nella versione del 15 marzo 2024[^u1-3] e di cui all’articolo 50*a* della legge federale del 30 settembre 2016 sull’energia nella versione del 30 settembre 2022[^u1-4]. Il Consiglio federale disciplina i dettagli, in particolare la ripartizione dei mezzi e la procedura.
+
+[^u1-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^u1-3]: [RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)
+[^u1-4]: [RU 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
 
 Allegato
 
