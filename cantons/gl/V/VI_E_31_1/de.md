@@ -4,13 +4,12 @@ number: VI E/31/1
 title: Einführungsgesetz zum Bundesgesetz über die Fischerei
 short: Kantonales Fischereigesetz
 language: de
-version: 2016-01-01
-valid_until: 2026-12-31
-version_adopted: 2015-05-03
+version: 2027-01-01
+version_adopted: 2026-05-03
 adopted: 1997-05-04
 in_force: 1998-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.31.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1802/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2670/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1802/pdf_file"
 
 (Kantonales Fischereigesetz)
 
-Vom 04.05.1997 (Stand 01.01.2016)
+Vom 04.05.1997 (Stand 01.01.2027)
 
 (Erlassen von der Landsgemeinde am 4. Mai 1997)
 
@@ -62,6 +61,7 @@ Vom 04.05.1997 (Stand 01.01.2016)
 - a. Patenttaxen und Patentarten sowie deren Gültigkeit, Dauer und Bezug;
 - b. die Voraussetzungen für die Erteilung, die Verweigerung und den Entzug der Patente;
 - c. …
+- d. die Abgaben für Bauten und Anlagen, welche die aquatischen Lebensräume und die Fischfauna beeinträchtigen.
 
 #### Art. 5
 
@@ -220,6 +220,27 @@ Vom 04.05.1997 (Stand 01.01.2016)
 <sup>2</sup> Manuelle und maschinelle Arbeiten in und an Fischgewässern bedürfen einer Bewilligung der kantonalen Fischereibehörde. Ihr Beginn ist der kantonalen Fischereibehörde mindestens 14 Tage im Voraus anzuzeigen.
 
 <sup>3</sup> Fischgewässer mit Lebensraumdefiziten sind nach Möglichkeit zu verbessern und wieder herzustellen (Revitalisierungspflicht).
+
+#### Art. 21a
+
+**Abgabe für Bauten und Anlagen**
+
+<sup>1</sup> Betreiber von Bauten und Anlagen, welche die aquatischen Lebensräume und die Fischfauna beeinträchtigen, entrichten dem Kanton eine jährliche Abgabe.
+
+<sup>2</sup> Die Höhe der Abgabe bemisst sich nach der Bedeutung des betroffenen Gewässers als aquatischer Lebensraum sowie nach Art und Umfang der von den Bauten und Anlagen verursachten Beeinträchtigungen:
+
+- a. der Fischwanderung (Fischaufstieg und Fischabstieg);
+- b. des Restwasser-Lebensraums;
+- c. der Hochwasserdynamik;
+- d. des Geschiebehaushaltes;
+- e. durch Schwall-Sunk;
+- f. im Staubereich (gemessen an der Länge der Strecke).
+
+<sup>3</sup> Der Landrat regelt die Einzelheiten. Er legt insbesondere die Höhe der Abgabe fest. Diese beträgt mindestens 1000 Franken und höchstens 0.004 Franken pro produzierter Kilowattstunde.
+
+<sup>4</sup> Die Abgaben fliessen in den Gewässerrenaturierungsfonds nach Artikel 18a ff. des Einführungsgesetzes zum Gewässerschutzgesetz[^21a-1].
+
+[^21a-1]: GS [VIII B/21/1](https://gesetze.gl.ch/data/VIII-B.21.1/de)
 
 #### Art. 22
 
