@@ -3,20 +3,19 @@ canton: SG
 number: "331.112"
 title: Verordnung über die Einschränkung der Kostenübernahme des Kantons bei bestimmten elektiven Eingriffen
 language: de
-version: 2022-04-01
-valid_until: 2026-12-31
-version_adopted: 2022-03-15
+version: 2027-01-01
+version_adopted: 2026-09-22
 adopted: 2022-03-15
 in_force: 2022-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.112"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3336/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3941/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Einschränkung der Kostenübernahme des Kantons bei bestimmten elektiven Eingriffen
 
-vom 15.03.2022 (Stand 01.04.2022)
+vom 15.03.2022 (Stand 01.01.2027)
 
 Die Regierung des Kantons St.Gallen
 
@@ -40,14 +39,14 @@ als Verordnung:[^ingress-3]
 
 **Kantonaler Anteil an der Abgeltung von elektiven Eingriffen**
 
-<sup>1</sup> Bei einem elektiven Eingriff nach dem Anhang dieses Erlasses übernimmt der Kanton den kantonalen Anteil an der Abgeltung stationärer Leistungen[^2-1] nur, wenn eine ambulante Durchführung des Eingriffs wegen besonderer Umstände nicht zweckmässig oder nicht wirtschaftlich ist.
+<sup>1</sup> Bei einem elektiven Eingriff nach Anhang 1 dieses Erlasses übernimmt der Kanton den kantonalen Anteil an der Abgeltung stationärer Leistungen[^2-1] nur, wenn eine ambulante Durchführung des Eingriffs wegen besonderer Umstände nicht zweckmässig oder nicht wirtschaftlich ist.
 
-<sup>2</sup> Besondere Umstände liegen insbesondere vor, wenn die Patientin oder der Patient:
+<sup>2</sup> Besondere Umstände liegen insbesondere vor, wenn ein Ausnahmekriterium nach Anhang 2 dieses Erlasses erfüllt ist.
 
-- a) besonders schwer krank ist;
-- b) an schweren Begleiterkrankungen leidet;
-- c) eine besondere Behandlung oder Betreuung benötigt;
-- d) unter besonderen sozialen Umständen lebt.
+- a) …
+- b) …
+- c) …
+- d) …
 
 [^2-1]: Art. [49a](https://db.clex.ch/link/Bund/832.10/de) des Bundesgesetzes über die Krankenversicherung vom 18. März 1994, SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
