@@ -4,13 +4,12 @@ number: "453.151"
 title: "Verordnung über die Promotion, die Maturitätsprüfung und die Erlangung der Maturität an der Aargauischen Maturitätsschule für Erwachsene"
 short: VPAME
 language: de
-version: 2026-08-01
-valid_until: 2027-07-31
-version_adopted: 2026-05-13
+version: 2027-08-01
+version_adopted: 2026-08-26
 adopted: 1998-01-07
 in_force: 1998-02-16
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.151"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4002/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4038/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4002/pdf_file"
 
 (VPAME)
 
-Vom 07.01.1998 (Stand 01.08.2026)
+Vom 07.01.1998 (Stand 01.08.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -43,7 +42,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, die Maturitätsprüfung und die Erlangung der Maturität an der Aargauischen Maturitätsschule für Erwachsene (AME).
 
-<sup>2</sup> Die Stundentafel und der Lehrplan sind in den Anhängen geregelt.
+<sup>2</sup> Die Stundentafel und der Lehrplan sind in den Anhängen 1a und 2a geregelt.
 
 #### § 1b
 
@@ -65,6 +64,14 @@ beschliesst:
 
 <sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet die Schulleitung nach Vorgaben des Departements Bildung, Kultur und Sport (BKS).
 
+#### § 1d
+
+**Austausch und Mobilität sowie Gemeinwohl**
+
+<sup>1</sup> Betreffend Austausch und Mobilität sowie Gemeinwohl gelten die §§ 3b und 3c der Verordnung über die Promotion und die Maturität am Gymnasium (V Gymnasium) vom 23. Juni 1999[^1d-1] sinngemäss.
+
+[^1d-1]: SAR [423.152](https://gesetzessammlungen.ag.ch/data/423.152/de)
+
 #### § 2
 
 **…**
@@ -75,11 +82,13 @@ beschliesst:
 
 **Promotionsgrundlagen**
 
-<sup>1</sup> Für die Beförderung vom Grundkurs in den Aufbaukurs sind die Leistungen in den Grundlagenfächern und im obligatorischen Fach Informatik massgebend. Für die Beförderung vom ersten ins zweite Jahr des Aufbaukurses sind die Leistungen in den Grundlagenfächern, in den obligatorischen Fächern Einführung in Wirtschaft und Recht sowie Informatik und im fächerübergreifenden Kurs (zweites Aufbausemester) massgebend.
+<sup>1</sup> …
 
-<sup>2</sup> Für die Beförderung vom zweiten ins dritte Jahr des Aufbaukurses sind die Leistungen in den Grundlagenfächern, im Schwerpunktfach, im Ergänzungsfach, im Fach Philosophie/Pädagogik/Psychologie, im fächerübergreifenden Kurs (drittes Semester) und im Bildnerischen Gestalten (drittes Semester) massgebend.
+<sup>2</sup> …
 
 <sup>3</sup> …
+
+<sup>4</sup> Promotionswirksam im Grundkurs sowie im ersten und zweiten Ausbildungsjahr des Aufbaukurses sind die obligatorischen Fächer gemäss Stundentafel (Anhang 1a). Davon ausgenommen sind die Maturitätsarbeit und das Fach Arbeitstechnik.
 
 #### § 4
 
@@ -106,6 +115,8 @@ beschliesst:
 
 <sup>4</sup> …
 
+<sup>5</sup> Eine freiwillige Repetition gilt als Nichtbeförderung.
+
 #### § 5a
 
 **Zeugnis**
@@ -122,7 +133,13 @@ beschliesst:
 
 <sup>2</sup> Die Promotionskonferenz nimmt die Zwischenbeurteilungen vor.
 
-<sup>3</sup> In den Promotions- beziehungsweise Maturitätsfächern werden den Studierenden die Noten der jeweiligen Beurteilung mitgeteilt.
+<sup>3</sup> Die Noten in den Promotions- beziehungsweise Maturitätsfächern werden den Studierenden schriftlich mitgeteilt.
+
+#### § 5c
+
+**Entlassung**
+
+<sup>1</sup> Wer nach erfolgter erster oder bewilligter zweiter Repetition gemäss § 5 Abs. 2 die Voraussetzungen gemäss § 4 wiederum nicht erfüllt, wird aus der Schule entlassen.
 
 #### § 6
 
@@ -138,25 +155,23 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Die Organisation der Maturitätsprüfungen richtet sich nach den einschlägigen Bestimmungen der Verordnung über die Promotion und die Maturität am Gymnasium (V Gymnasium) vom 23. Juni 1999[^8-1].
-
-[^8-1]: SAR [423.152](https://gesetzessammlungen.ag.ch/data/423.152/de)
+<sup>1</sup> Die Organisation der Maturitätsprüfungen richtet sich nach den einschlägigen Bestimmungen der V Gymnasium.
 
 #### § 9
 
 **Zeitpunkt**
 
-<sup>1</sup> Die Maturitätsprüfung findet am Ende des dritten Jahres des Aufbaukurses statt.
+<sup>1</sup> Die Maturitätsprüfung findet am Ende des Lehrgangs statt. Davon ausgenommen ist die Maturitätsprüfung im Grundlagenfach Geschichte und diejenige im Grundlagenfach Physik. Diese finden am Ende des zweiten Ausbildungsjahrs des Aufbaukurses statt.
 
 #### § 10
 
 **Prüfungsfächer**
 
-<sup>1</sup> Die folgenden Fächer werden schriftlich und mündlich geprüft: Deutsch, Mathematik und das Schwerpunktfach.
+<sup>1</sup> Die folgenden Fächer werden schriftlich und mündlich geprüft: Deutsch, Französisch oder Italienisch, Mathematik, das Schwerpunktfach sowie nach Wahl der Studierenden oder des Studierenden das Grundlagenfach Geschichte oder das Grundlagenfach Physik.
 
-<sup>2</sup> Das Fach Französisch beziehungsweise Italienisch und das Fach Englisch werden schriftlich geprüft. Mündlich werden das Ergänzungsfach und nach Wahl der Schulleitung entweder das Fach Englisch oder das Fach Französisch beziehungsweise Italienisch geprüft.
+<sup>2</sup> …
 
-<sup>3</sup> Die schriftlichen Prüfungen dauern 4 Stunden, die mündlichen 15 Minuten.
+<sup>3</sup> Die schriftlichen Prüfungen dauern mindestens 2 Stunden. Die mündlichen beziehungsweise praktischen Prüfungen dauern mindestens 15 Minuten.
 
 <sup>4</sup> Die schriftlichen Prüfungen sind innerhalb der Schule einheitlich.
 
@@ -172,7 +187,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Das BKS erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Das BKS erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt oder benutzt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> …
 
@@ -190,11 +205,11 @@ beschliesst:
 
 **Maturitätsfächer**
 
-<sup>1</sup> Maturitätsfächer sind die zehn Grundlagenfächer, das Schwerpunktfach, das Ergänzungsfach und die Maturaarbeit.
+<sup>1</sup> Maturitätsfächer sind die zwölf Grundlagenfächer, das Schwerpunktfach, das Ergänzungsfach und die Maturitätsarbeit.
 
 #### § 15
 
-**Maturaarbeit**
+**Maturitätsarbeit**
 
 <sup>1</sup> Die Studierenden müssen im dritten Ausbildungsjahr des Aufbaukurses wahlweise alleine oder in einer Gruppe eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren.
 
@@ -206,13 +221,13 @@ beschliesst:
 
 **Maturitätsnoten**
 
-<sup>1</sup> In den Prüfungsfächern sind die Maturitätsnoten das Mittel aus Vorschlags- und Prüfungsnote. Die Vorschlagsnoten sind die Zeugnisnoten am Ende des dritten Ausbildungsjahres des Aufbaukurses.
+<sup>1</sup> In den Prüfungsfächern sind die Maturitätsnoten das Mittel aus Vorschlags- und Prüfungsnote. Die Vorschlagsnoten sind die Zeugnisnoten am Ende des letzten Ausbildungsjahrs des Aufbaukurses gemäss Stundentafel.
 
-<sup>2</sup> In den prüfungsfreien Fächern sind die Maturitätsnoten die Zeugnisnoten des letzten Ausbildungsjahres.
+<sup>2</sup> In den prüfungsfreien Fächern sind die Maturitätsnoten die Zeugnisnoten des letzten Ausbildungsjahrs des Aufbaukurses gemäss Stundentafel.
 
-<sup>3</sup> Im Fach Bildnerisches Gestalten wird die Maturitätsnote auf Grund der Leistungen im zweiten Semester und der Note für die Semesterarbeit im dritten Semester des Aufbaukurses gesetzt.
+<sup>3</sup> …
 
-<sup>4</sup> Die Bewertung der Maturaarbeit erfolgt aufgrund des Arbeitsprozesses, der schriftlichen oder schriftlich kommentierten Arbeit und ihrer Präsentation.
+<sup>4</sup> Die Bewertung der Maturitätsarbeit erfolgt aufgrund der schriftlichen Arbeit und der mündlichen Präsentation mit Fachgespräch, wobei die Bewertung des Arbeitsprozesses in die Bewertung der schriftlichen Arbeit oder der mündlichen Präsentation mit Fachgespräch einfliesst.
 
 <sup>5</sup> Die Maturitätsnoten werden auf halbe oder ganze Zahlen gerundet. Bei einem exakten Viertelswert wird nach der nächsten höheren halben oder ganzen Zahl gerundet.
 
@@ -245,26 +260,27 @@ beschliesst:
 
 <sup>1</sup> Kandidierende, welche die Maturität im ersten Versuch nicht bestehen, müssen bei einem zweiten Versuch das dritte Ausbildungsjahr des Aufbaukurses und die Maturitätsprüfung wiederholen.
 
-<sup>2</sup> Sie müssen keine neue Maturaarbeit erstellen, wenn die Arbeit beim ersten Versuch mit der Note 5 bewertet worden ist.
+<sup>2</sup> Es steht ihnen frei, eine zweite Maturitätsarbeit zu verfassen. Nachbesserungen an der zuerst erstellten Maturitätsarbeit sind nicht zulässig. Im Falle des Verfassens einer zweiten Maturitätsarbeit zählt die für diese Arbeit erzielte Note als Maturitätsnote.
 
 <sup>3</sup> Ein dritter Versuch zur Erlangung der Maturität ist nicht gestattet.
 
 #### § 22
 
-**Maturitätsausweis**
+**Maturitätszeugnis**
 
-<sup>1</sup> Der Maturitätsausweis wird vom BKS ausgestellt, wenn die Maturität bestanden ist.
+<sup>1</sup> Das Maturitätszeugnis wird vom BKS ausgestellt, wenn die Maturität bestanden ist.
 
-<sup>2</sup> Der Maturitätsausweis enthält:
+<sup>2</sup> Das Maturitätszeugnis enthält
 
 - a) die Hauptaufschrift «Schweizerische Eidgenossenschaft» und den Untertitel «Kanton Aargau»;
-- b) den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995»;
+- b) den Vermerk «Maturitätszeugnis, ausgestellt nach den Erlassen des Bundesrates vom 28. Juni 2023 und der Konferenz der kantonalen Erziehungsdirektorinnen und ‑direktoren vom 22. Juni 2023 über die Anerkennung von gymnasialen Maturitätszeugnissen»;
 - c) den Namen «Aargauische Maturitätsschule für Erwachsene»;
 - d) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
-- e) die Angabe der Zeit, während der die Inhaberin bzw. der Inhaber die Aargauische Maturitätsschule für Erwachsene besucht hat;
-- f) die Maturitätsnoten der 13 Maturitätsfächer nach § 14;
-- g) das Thema der Maturaarbeit;
-- h) die Zeugnisnote des letzten Ausbildungsjahres im Fach Philosophie/Pädagogik/Psychologie;
+- e) die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Aargauische Maturitätsschule für Erwachsene besucht hat;
+- f) die Maturitätsnoten der 15 Maturitätsfächer gemäss § 14;
+- g) das Thema der Maturitätsarbeit;
+- h) …
+- h<sup>bis</sup>) die Zeugnisnote im fächerübergreifenden Kurs des zweiten Ausbildungsjahrs;
 - i) die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des BKS und der Rektorin beziehungsweise des Rektors der Schule.
 
 ## 4. Übergangs- und Schlussbestimmungen
@@ -282,6 +298,14 @@ beschliesst:
 #### § 24
 
 **…**
+
+#### § 25
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für Studierende, die den Lehrgang vor dem Schuljahr 2027/28 begonnen haben, gelten die Bestimmungen des bisherigen Rechts und die Anhänge 1 und 2. Davon ausgenommen ist § 12. Diesbezüglich gilt das neue Recht.
+
+<sup>2</sup> Im Falle der Repetition eines Schuljahrs gelten für Studierende, die den Lehrgang im Ausbildungsjahr 2026/27 begonnen haben, die Bestimmungen des neuen Rechts.
 
 Aarau, 7. Januar 1998
 
