@@ -3,11 +3,11 @@ sr: "830.2"
 title: "Bundesgesetz vom 16. Juni 2017 über die Anstalt zur Verwaltung der Ausgleichsfonds von AHV, IV und EO (Ausgleichsfondsgesetz)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/820"
 language: de
-version: 2019-01-01
+version: 2027-01-01
 adopted: 2017-06-16
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/820/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2017-820-20190101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/820/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2017-820-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20190101/de"
 
 (Ausgleichsfondsgesetz)
 
-vom 16. Juni 2017 (Stand am 1. Januar 2019)
+vom 16. Juni 2017 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 59 Absatz 4, 61 Absatz 4, 112 Absatz 1 sowie 116 Absä
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)
 
 ## 1. Abschnitt: Rechtsform, Sitz und Aufgabe
@@ -53,9 +53,9 @@ Die Anstalt verwaltet die folgenden Ausgleichsfonds:
 - b. den Ausgleichsfonds der Invalidenversicherung (IV-Ausgleichsfonds) nach Artikel 79 des Bundesgesetzes vom 19. Juni 1959[^2-2] über die Invalidenversicherung (IVG);
 - c. den Ausgleichsfonds der Erwerbsersatzordnung (EO-Ausgleichsfonds) nach Artikel 28 des Erwerbsersatzgesetzes vom 25. September 1952[^2-3].
 
-[^2-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^2-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^2-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^2-3]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## 2. Abschnitt: Vermögensverwaltung, Rechtsgeschäfte und Haftung
 
@@ -124,7 +124,7 @@ Die Organe der Anstalt sind:
 
 <sup>8</sup> Sie müssen vor ihrer Wahl dem Bundesrat ihre Interessenbindungen offenlegen und Veränderungen während der Mitgliedschaft unverzüglich melden. Der Verwaltungsrat informiert darüber im Lagebericht (Art. 16 Abs. 1 Bst. b).
 
-[^7-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 8
 
@@ -152,7 +152,7 @@ Der Verwaltungsrat hat folgende Aufgaben:
 
 <sup>2</sup> Der Verwaltungsrat kann die Vorbereitung und Ausführung seiner Beschlüsse einzelnen Ausschüssen zuweisen und ihnen damit zusammenhängende Entscheidungsbefugnisse übertragen. Er hat für eine angemessene Berichterstattung an seine Mitglieder zu sorgen.
 
-[^8-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^8-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 9
 
@@ -200,15 +200,19 @@ Die Geschäftsleitung hat insbesondere folgende Aufgaben:
 
 <sup>3</sup> Der Verwaltungsrat regelt in der Personalverordnung der Anstalt insbesondere die Entlöhnung, die Nebenleistungen und die weiteren Vertragsbedingungen.
 
-[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 12
 
 **Berufliche Vorsorge**
 
-Die Geschäftsleitung und das übrige Personal sind nach den Artikeln 32*a*–32*m* BPG[^12-1] bei PUBLICA versichert.
+<sup>1</sup> Die Geschäftsleitung und das übrige Personal sind nach den Artikeln 32*a*–32*m* BPG[^12-1] bei Publica[^12-2] versichert.
 
-[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+<sup>2</sup> Die Anstalt ist Arbeitgeberin nach Artikel 32*b* Absatz 2 BPG. Sie ist dem Vorsorgewerk Bund angeschlossen. Artikel 32*d* Absatz 3 BPG ist anwendbar.[^12-3]
+
+[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^12-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2027 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^12-3]: Eingefügt durch Anhang Ziff. 12 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 5. Abschnitt: Rechnung, Verwaltungskosten, Geschäftsbericht und Steuern
 
@@ -232,7 +236,7 @@ Die Geschäftsleitung und das übrige Personal sind nach den Artikeln 32*a*–32
 
 <sup>2</sup> Die Anstalt erstellt eine aggregierte Anstaltsrechnung; sie stützt sich dabei auf die von der Zentralen Ausgleichsstelle nach Artikel 71 Absatz 1<sup>bis</sup> AHVG[^14-1] erstellten Jahresrechnungen von AHV, IV und EO.
 
-[^14-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^14-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 15
 
@@ -258,7 +262,7 @@ Der Geschäftsbericht enthält:
 
 <sup>4</sup> Der Verwaltungsrat schliesst den Geschäftsbericht auf Ende des Kalenderjahres ab.
 
-[^16-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 17
 
@@ -301,7 +305,7 @@ Der Bundesrat übt seine Aufsicht insbesondere aus durch:
 
 <sup>4</sup> Auf die Errichtung der Anstalt sind die Bestimmungen des Fusionsgesetzes vom 3. Oktober 2003[^19-1] nicht anwendbar.
 
-[^19-1]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^19-1]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 20
 
@@ -324,7 +328,7 @@ Der Bundesrat übt seine Aufsicht insbesondere aus durch:
 Die Anstalt gilt als zuständige Arbeitgeberin für die Angestellten sowie die Rentenbezügerinnen und -bezüger:
 
 - a. die der Geschäftsstelle nach bisherigem Recht zugeordnet sind; und
-- b. deren Alters-, Hinterlassenen- oder Invalidenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten dieses Gesetzes bei PUBLICA zu laufen begonnen haben.
+- b. deren Alters-, Hinterlassenen- oder Invalidenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten dieses Gesetzes bei Publica zu laufen begonnen haben.
 
 <sup>2</sup> Die Anstalt gilt ebenfalls als zuständige Arbeitgeberin, wenn eine Invalidenrente nach Inkrafttreten dieses Gesetzes zu laufen beginnt, die Arbeitsunfähigkeit, deren Ursache zur Invalidität geführt hat, aber vor dem Inkrafttreten dieses Gesetzes eingetreten ist.
 
@@ -338,7 +342,7 @@ Die Anstalt gilt als zuständige Arbeitgeberin für die Angestellten sowie die R
 
 <sup>3</sup> Ab dem 1. Januar 2018 legt der Verwaltungsrat für die Verzinsung der Schulden des IV-Ausgleichsfonds gegenüber dem AHV-Ausgleichsfonds einen Zinssatz zu Marktbedingungen fest.
 
-[^22-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^22-1]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 23
 
@@ -374,5 +378,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548)[3839](https://fedlex.data.admin.ch/eli/oc/2010/549)]
+[^annexu1-lvlu1-1]: [[AS 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548), [3839](https://fedlex.data.admin.ch/eli/oc/2010/549)]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)konsultiert werden.

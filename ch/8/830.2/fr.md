@@ -3,11 +3,11 @@ sr: "830.2"
 title: "Loi fédérale du 16 juin 2017 sur l'établissement chargé de l'administration des fonds de compensation de l'AVS, de l'AI et du régime des APG (Loi sur les fonds de compensation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/820"
 language: fr
-version: 2019-01-01
+version: 2027-01-01
 adopted: 2017-06-16
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/820/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-820-20190101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/820/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-820-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20190101/fr"
 
 (Loi sur les fonds de compensation)[^t-1]
 
-du 16 juin 2017 (État le 1<sup>er</sup> janvier 2019)
+du 16 juin 2017 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -26,7 +26,7 @@ vu les art. 59, al. 4, 61, al. 4, 112, al. 1, et 116, al. 3 et 4, de la Constitu
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)
 
 ## Section 1 Forme juridique, siège et tâche
@@ -55,9 +55,9 @@ L’établissement gère les fonds de compensation suivants:
 - b. le Fonds de compensation de l’assurance-invalidité (Fonds de compensation de l’AI) visé à l’art. 79 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^2-2];
 - c. le Fonds de compensation du régime des allocations pour perte de gain (Fonds de compensation du régime des APG) visé à l’art. 28 de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^2-3].
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^2-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^2-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## Section 2 Administration de la fortune, actes juridiques et responsabilité
 
@@ -126,7 +126,7 @@ Les organes de l’établissement sont:
 
 <sup>8</sup> Avant leur nomination, ils déclarent leurs liens d’intérêt au Conseil fédéral; ils communiquent sans délai toute modification à ce sujet aussi longtemps qu’ils ont la qualité de membre. Le conseil d’administration rend compte de ces liens d’intérêts dans le rapport annuel (art. 16, al. 1, let. b).
 
-[^7-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 8
 
@@ -154,7 +154,7 @@ Le conseil d’administration a les tâches suivantes:
 
 <sup>2</sup> Le conseil d’administration peut confier à des commissions la préparation et l’exécution de ses décisions et leur déléguer les compétences décisionnelles afférentes. Il veille à ce que ses membres soient convenablement informés.
 
-[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 9
 
@@ -202,15 +202,19 @@ Elle accomplit notamment les tâches suivantes:
 
 <sup>3</sup> Le conseil d’administration édicte l’ordonnance sur le personnel de l’établissement, qui fixe notamment des prescriptions relatives aux rémunérations, aux prestations annexes et aux autres conditions contractuelles.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 12
 
 **Prévoyance professionnelle**
 
-Les membres de la direction et les autres membres du personnel sont assurés auprès de PUBLICA conformément aux art. 32*a* à 32*m* LPers[^12-1].
+<sup>1</sup> Les membres de la direction et les autres membres du personnel sont assurés auprès de Publica[^12-1] conformément aux art. 32*a* à 32*m* LPers[^12-2].
 
-[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+<sup>2</sup> L’établissement est réputé employeur au sens de l’art. 32*b*, al. 2, LPers. Il est affilié à la Caisse de prévoyance de la Confédération. L’art. 32*d*, al. 3, LPers s’applique.[^12-3]
+
+[^12-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2027 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
+[^12-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^12-3]: Introduit par l’annexe ch. 12 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 5 Comptabilité, frais de fonctionnement, rapport de gestion et imposition
 
@@ -234,7 +238,7 @@ Les membres de la direction et les autres membres du personnel sont assurés aup
 
 <sup>2</sup> L’établissement présente un compte agrégé qui se fonde sur les comptes annuels de l’AVS, de l’AI et du régime des APG établis par la Centrale de compensation en vertu de l’art. 71, al. 1<sup>bis</sup>, LAVS[^14-1].
 
-[^14-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^14-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 15
 
@@ -260,7 +264,7 @@ Le rapport de gestion comprend:
 
 <sup>4</sup> Le conseil d’administration arrête le rapport de gestion à la fin de l’année civile.
 
-[^16-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 17
 
@@ -303,7 +307,7 @@ Le Conseil fédéral exerce sa fonction de surveillance notamment:
 
 <sup>4</sup> Les dispositions de la loi du 3 octobre 2003 sur la fusion[^19-1] ne s’appliquent pas à l’institution de l’établissement.
 
-[^19-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^19-1]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 20
 
@@ -326,7 +330,7 @@ Le Conseil fédéral exerce sa fonction de surveillance notamment:
 L’établissement est l’employeur compétent pour ses employés et pour les bénéficiaires de rentes:
 
 - a. qui relèvent de l’ancien office de gestion; et
-- b. dont les rentes de vieillesse, d’invalidité et de survivants dues au titre de la prévoyance professionnelle ont commencé à être versées par PUBLICA avant l’entrée en vigueur de la présente loi.
+- b. dont les rentes de vieillesse, d’invalidité et de survivants dues au titre de la prévoyance professionnelle ont commencé à être versées par Publica avant l’entrée en vigueur de la présente loi.
 
 <sup>2</sup> L’établissement est également l’employeur compétent dans les cas où le versement d’une rente d’invalidité débute après l’entrée en vigueur de la présente loi, alors que l’incapacité de travail, dont la cause est à l’origine de l’invalidité est survenue à une date antérieure.
 
@@ -340,7 +344,7 @@ L’établissement est l’employeur compétent pour ses employés et pour les b
 
 <sup>3</sup> À partir du 1<sup>er</sup> janvier 2018, le conseil d’administration fixe le taux d’intérêt applicable à la dette du Fonds de compensation de l’AI envers le Fonds de compensation de l’AVS en veillant à ce qu’il soit conforme aux conditions du marché.
 
-[^22-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^22-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 23
 

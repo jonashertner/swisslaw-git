@@ -3,11 +3,11 @@ sr: "830.2"
 title: "Legge federale del 16 giugno 2017 sull'istituto amministratore dei fondi di compensazione AVS, AI e IPG (Legge sui fondi di compensazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/820"
 language: it
-version: 2019-01-01
+version: 2027-01-01
 adopted: 2017-06-16
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/820/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2017-820-20190101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/820/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2017-820-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/820/20190101/it"
 
 (Legge sui fondi di compensazione)
 
-del 16 giugno 2017 (Stato 1° gennaio 2019)
+del 16 giugno 2017 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -24,7 +24,7 @@ visti gli articoli 59 capoverso 4, 61 capoverso 4, 112 capoverso 1 e 116 capover
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)
 
 ## Sezione 1: Forma giuridica, sede e compito
@@ -53,9 +53,9 @@ L’istituto amministra i fondi di compensazione seguenti:
 - b. il Fondo di compensazione dell’assicurazione per l’invalidità (Fondo di compensazione AI) di cui all’articolo 79 della legge federale del 19 giugno 1959[^2-2] sull’assicurazione per l’invalidità (LAI);
 - c. il Fondo di compensazione dell’ordinamento delle indennità per perdita di guadagno (Fondo di compensazione IPG) di cui all’articolo 28 della legge del 25 settembre 1952[^2-3] sulle indennità di perdita di guadagno.
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^2-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^2-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## Sezione 2: Amministrazione del patrimonio, negozi giuridici e responsabilità
 
@@ -124,7 +124,7 @@ Gli organi dell’istituto sono:
 
 <sup>8</sup> Prima della nomina dichiarano le proprie relazioni d’interesse al Consiglio federale; gli comunicano immediatamente qualsiasi cambiamento intervenuto nel corso del mandato. Il consiglio di amministrazione fornisce informazioni in merito nella relazione annuale (art. 16 cpv. 1 lett. b).
 
-[^7-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 8
 
@@ -152,7 +152,7 @@ Il consiglio di amministrazione ha i compiti seguenti:
 
 <sup>2</sup> Il consiglio di amministrazione può affidare a singoli comitati la preparazione e l’esecuzione delle sue decisioni e conferire loro le relative competenze decisionali. Garantisce che i propri membri siano adeguatamente informati.
 
-[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 9
 
@@ -200,15 +200,19 @@ La direzione ha segnatamente i compiti seguenti:
 
 <sup>3</sup> Il consiglio di amministrazione disciplina in un’ordinanza sul personale dell’istituto, in particolare, le remunerazioni, le prestazioni accessorie e le altre condizioni contrattuali.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 12
 
 **Previdenza professionale**
 
-La direzione e il rimanente personale sono assicurati presso Publica secondo gli articoli 32*a*–32*m* LPers[^12-1].
+<sup>1</sup> La direzione e il rimanente personale sono assicurati presso Publica[^12-1] secondo gli articoli 32*a*–32*m* LPers[^12-2].
 
-[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+<sup>2</sup> L’istituto è un datore di lavoro ai sensi dell’articolo 32*b* capoverso 2 LPers. È affiliato alla cassa di previdenza della Confederazione. Si applica l’articolo 32*d* capoverso 3 LPers.[^12-3]
+
+[^12-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2027. Di detta mod. è tenuto conto in tutto il presente testo.
+[^12-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^12-3]: Introdotto dall’all. n. 12 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Sezione 5: Conti, spese di amministrazione, relazione sulla gestione e imposte
 
@@ -232,7 +236,7 @@ La direzione e il rimanente personale sono assicurati presso Publica secondo gli
 
 <sup>2</sup> L’istituto redige un conto aggregato sulla base dei conti annuali dell’AVS, dell’AI e delle IPG compilati dall’Ufficio centrale di compensazione conformemente all’articolo 71 capoverso 1<sup>bis</sup> LAVS[^14-1].
 
-[^14-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^14-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 15
 
@@ -258,7 +262,7 @@ La relazione sulla gestione include:
 
 <sup>4</sup> Il consiglio di amministrazione chiude la relazione sulla gestione alla fine dell’anno civile.
 
-[^16-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 17
 
@@ -301,7 +305,7 @@ Il Consiglio federale esercita la sua funzione di vigilanza in particolare:
 
 <sup>4</sup> Le disposizioni della legge del 3 ottobre 2003[^19-1] sulla fusione non sono applicabili alla costituzione dell’istituto.
 
-[^19-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^19-1]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 20
 
@@ -338,7 +342,7 @@ L’istituto è il datore di lavoro competente per gli impiegati e i beneficiari
 
 <sup>3</sup> A partire dal 1° gennaio 2018 il consiglio di amministrazione stabilisce un tasso d’interesse alle condizioni di mercato per la remunerazione del debito del Fondo di compensazione AI nei confronti del Fondo di compensazione AVS.
 
-[^22-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^22-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 23
 
@@ -366,13 +370,13 @@ Allegato
 
 I
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: In vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)).
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820).
