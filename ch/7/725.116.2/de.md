@@ -4,11 +4,11 @@ title: Bundesgesetz vom 22. März 1985 über die Verwendung der zweckgebundenen 
 short: MinVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: de
-version: 2026-07-01
+version: 2027-01-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/de"
 
 (MinVG)[^t-1]
 
-vom 22. März 1985 (Stand am 1. Juli 2026)
+vom 22. März 1985 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -99,11 +99,12 @@ Der Bundesrat erstattet der Bundesversammlung jeweils mit dem Voranschlag und de
 
 <sup>1</sup> Die Bundesversammlung teilt mit dem Voranschlag die Mittel nach Artikel 1 Absatz 1 auf die in Artikel 86 Absätze 1 und 3 BV genannten einzelnen Aufgabengebiete auf.
 
-<sup>2</sup> Der Anteil für die Beiträge nach Artikel 86 Absatz 3 Buchstaben d und e BV (nicht werkgebundene Beiträge) wird für jeweils vier Jahre festgelegt; er beträgt mindestens 27 Prozent der Hälfte des Reinertrags der Verbrauchssteuer auf allen Treibstoffen, ausser den Flugtreibstoffen, nach Artikel 131 Absatz 1 Buchstabe e BV.
+<sup>2</sup> Der Anteil für die Beiträge nach Artikel 86 Absatz 3 Buchstaben d und e BV (nicht werkgebundene Beiträge) wird für jeweils vier Jahre festgelegt; er beträgt 24 Prozent der Hälfte des Reinertrags der Verbrauchssteuer auf allen Treibstoffen, ausser den Flugtreibstoffen, nach Artikel 131 Absatz 1 Buchstabe e BV.[^4-2]
 
 <sup>3</sup> In der Spezialfinanzierung für den Strassenverkehr nach Artikel 86 Absatz 3 BV ist eine angemessene Rückstellung zur Gewährleistung einer ausgeglichenen Einnahmen- und Ausgabenentwicklung vorzusehen. Die Ausgaben dürfen die zweckgebundenen Mittel nicht übersteigen.
 
 [^4-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^4-2]: Fassung gemäss Ziff. I 11 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 5
 
@@ -466,7 +467,7 @@ Die im Voranschlag eingestellten Beiträge an Massnahmen zur Verbesserung der Ve
 <sup>4</sup> Die Artikel 10−12 GüTG sind anwendbar.[^18-5]
 
 [^18-1]: Fassung gemäss Anhang Ziff. II 1 des Gütertransportgesetzes vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [BBl 2014 3827](https://fedlex.data.admin.ch/eli/fga/2014/923)).
-[^18-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juli 2026 (AS **20****26** 416; [BBl 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
+[^18-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juli 2026 ([AS 2026 416](https://fedlex.data.admin.ch/eli/oc/2026/416); [BBl 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
 [^18-3]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
 [^18-4]: Fassung gemäss Anhang Ziff. II 2 des Gütertransportgesetzes vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [BBl 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 [^18-5]: Fassung gemäss Anhang Ziff. II 2 des Gütertransportgesetzes vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [BBl 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).

@@ -4,11 +4,11 @@ title: "Legge federale del 22 marzo 1985 concernente l'utilizzazione dell'impost
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: it
-version: 2026-07-01
+version: 2027-01-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/it"
 
 (LUMin)[^t-1]
 
-del 22 marzo 1985 (Stato 1° luglio 2026)
+del 22 marzo 1985 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -99,11 +99,12 @@ Il Consiglio federale presenta all’Assemblea federale, insieme al preventivo e
 
 <sup>1</sup> Nell’ambito del preventivo, l’Assemblea federale ripartisce i mezzi di cui all’articolo 1 capoverso 1 tra i singoli settori di compiti menzionati all’articolo 86 capoversi 1 e 3 Cost.
 
-<sup>2</sup> La quota per i contributi di cui all’articolo 86 capoverso 3 lettere d ed e Cost. (contributi non direttamente vincolati alle opere) è stabilita di volta in volta per quattro anni; essa ammonta ad almeno il 27 per cento della metà del prodotto netto dell’imposta di consumo sui carburanti, eccetto i carburanti per l’aviazione, di cui all’articolo 131 capoverso 1 lettera e Cost.
+<sup>2</sup> La quota per i contributi di cui all’articolo 86 capoverso 3 lettere d ed e Cost. (contributi non direttamente vincolati alle opere) è stabilita di volta in volta per quattro anni; essa ammonta al 24 per cento della metà del prodotto netto dell’imposta di consumo sui carburanti, eccetto i carburanti per l’aviazione, di cui all’articolo 131 capoverso 1 lettera e Cost.[^4-2]
 
 <sup>3</sup> Nel finanziamento speciale per il traffico stradale di cui all’articolo 86 capoverso 3 Cost. è prevista una riserva adeguata per assicurare un’evoluzione equilibrata delle entrate e delle uscite. Le uscite non possono superare i mezzi a destinazione vincolata.
 
 [^4-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^4-2]: Nuovo testo giusta la cifra I n. 11 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 5
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 mars 1985 concernant l'utilisation de l'impôt sur 
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: fr
-version: 2026-07-01
+version: 2027-01-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/fr"
 
 (LUMin)[^t-1]
 
-du 22 mars 1985 (État le 1<sup>er</sup> juillet 2026)
+du 22 mars 1985 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -97,11 +97,12 @@ Le Conseil fédéral présente à l’Assemblée fédérale, en même temps que 
 
 <sup>1</sup> L’Assemblée fédérale répartit dans le cadre du budget les moyens prévus à l’art. 1, al. 1, entre les différents secteurs d’activité visés à l’art. 86, al. 1 et 3, Cst.
 
-<sup>2</sup> La part afférant aux contributions visées à l’art. 86, al. 3, let. d et e, Cst., (contributions au financement de mesures autres que techniques) est fixée pour quatre ans; elle s’élève à 27 % au moins de la moitié du produit net de l’impôt à la consommation prélevé sur les carburants à l’exception des carburants d’aviation en vertu de l’art. 131, al. 1, let. e, Cst.
+<sup>2</sup> La part afférant aux contributions visées à l’art. 86, al. 3, let. d et e, Cst. (contributions au financement de mesures autres que techniques) est fixée pour quatre ans; elle s’élève à 24 % de la moitié du produit net de l’impôt à la consommation prélevé sur les carburants, à l’exception des carburants d’aviation, en vertu de l’art. 131, al. 1, let. e, Cst.[^4-2]
 
 <sup>3</sup> Une réserve appropriée doit être prévue dans le financement spécial pour la circulation routière visé à l’art. 86, al. 3, Cst., afin d’assurer une évolution équilibrée des recettes et des dépenses. Les dépenses ne doivent pas dépasser les moyens affectés.
 
 [^4-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^4-2]: Nouvelle teneur selon le ch. I 11 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 5
 
