@@ -4,13 +4,12 @@ number: "640.1"
 title: Steuergesetz
 short: StG
 language: de
-version: 2025-01-01
-valid_until: 2028-12-31
-version_adopted: 2025-02-19
+version: 2029-01-01
+version_adopted: 2024-08-14
 adopted: 1992-09-14
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2929/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2950/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ StG
 
 (StG)
 
-vom 14.09.1992 (Stand 01.01.2025)
+vom 14.09.1992 (Stand 01.01.2029)
 
 ## 1. Teil: Staatssteuern
 
@@ -36,7 +35,7 @@ vom 14.09.1992 (Stand 01.01.2025)
 - 1\. eine Einkommens- und eine Vermögenssteuer von den natürlichen Personen;
 - 2\. eine Gewinn- und eine Kapitalsteuer oder an deren Stelle eine Minimalsteuer vom Grundeigentum von den juristischen Personen;
 - 3\. eine Quellensteuer;
-- 4\. eine Liegenschaftensteuer;
+- 4\. …
 - 5\. eine Grundstückgewinnsteuer;
 - 6\. eine Handänderungssteuer.
 
@@ -1607,33 +1606,11 @@ vom 14.09.1992 (Stand 01.01.2025)
 
 ### 1.5. Steuern vom Grundeigentum
 
-### 1.5.1. Liegenschaftensteuer
+### 1.5.1.
 
-#### § 123
+#### § 123–125
 
-**Steuerobjekt**
-
-<sup>1</sup> Die Liegenschaftensteuer wird jährlich auf den im Kanton gelegenen Grundstücken im Sinn von Art. 655 ZGB[^123-1] erhoben.
-
-<sup>2</sup> Grundstücke der gemäss § 75 Abs. 1 Ziff. 7 steuerbefreiten juristischen Personen sind von der Liegenschaftensteuer ausgenommen, sofern die Grundstücke zur unmittelbaren Erfüllung der steuerbefreiten Zwecke dienen.
-
-[^123-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
-
-#### § 124
-
-**Steuersubjekt**
-
-<sup>1</sup> Steuerpflichtig ist, wer zu Beginn des Steuerjahres Eigentümer oder Nutzniesser eines Grundstücks ist.
-
-<sup>2</sup> Bei Kollektiv- oder Kommanditgesellschaften sowie kollektiven Kapitalanlagen mit direktem Grundbesitz wird die Steuer von diesen Rechtsträgern erhoben.
-
-<sup>3</sup> Mit- und Gesamteigentümer haften solidarisch für ausstehende Liegenschaftensteuern.
-
-#### § 125
-
-**Steuersatz**
-
-<sup>1</sup> Die Liegenschaftensteuer beträgt 0,5 Promille des Wertes gemäss § 43 und § 44 ohne Schuldenabzug.
+**…**
 
 ### 1.5.2. Grundstückgewinnsteuer
 
@@ -2007,6 +1984,10 @@ vom 14.09.1992 (Stand 01.01.2025)
 <sup>3</sup> Der Steuerpflichtige, der die Steuererklärung nicht oder mangelhaft ausgefüllt einreicht, wird aufgefordert, das Versäumte innert angemessener Frist nachzuholen.
 
 <sup>4</sup> Die Steuerdeklaration sowie das Anbringen von zusätzlichen Hinweisen haben infolge der elektronischen Erfassung gemäss § 153b Abs. 1 ausschliesslich in den dafür vorgesehenen Formularfeldern zu erfolgen. Ausserhalb dieser Formularfelder angebrachte Hinweise und Angaben gelten als nicht erfolgt und nicht aktenkundig.
+
+<sup>5</sup> Der rechtskräftig festgesetzte indexierte Eigenmietwert kann von der steuerpflichtigen Person auf einem digitalen Schalter abgerufen werden.[^155-1]
+
+[^155-1]: Mit Übergangsbestimmung in § 248.
 
 #### § 156
 
@@ -2546,7 +2527,7 @@ vom 14.09.1992 (Stand 01.01.2025)
 
 **Aufteilung der Grundsteuern**
 
-<sup>1</sup> Der Ertrag der Liegenschaftensteuer fällt zu 57 Prozent an die Politische Gemeinde und zu 43 Prozent an den Kanton.
+<sup>1</sup> …
 
 <sup>2</sup> Der Ertrag der Grundstückgewinnsteuer fällt zu 43.5 Prozent an den Kanton, zu 25 Prozent an die Politische Gemeinde und zu 25 Prozent an die Schulgemeinden. Die restlichen 6.5 Prozent fallen an die Kirchgemeinde jener Konfession, welcher der Steuerpflichtige angehört. Gehört ein Steuerpflichtiger keiner staatlich anerkannten Kirche an, fällt dieser Anteil an die Politische Gemeinde. Die Aufteilung zwischen Sekundar- und Primarschulgemeinde erfolgt im Verhältnis der Steuerfüsse.
 
@@ -3036,6 +3017,12 @@ vom 14.09.1992 (Stand 01.01.2025)
 <sup>2</sup> Die Höhe der von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts wird von der Veranlagungsbehörde mittels Verfügung festgesetzt. Deren Anfechtung richtet sich nach den Bestimmungen des Veranlagungsverfahrens.
 
 <sup>3</sup> Abschreibungen auf stillen Reserven einschliesslich des selbstgeschaffenen Mehrwerts, die bei Ende der Besteuerung nach den § 87 und § 88 aufgedeckt wurden, werden in die Berechnung der Entlastungsbegrenzung nach § 86b einbezogen.
+
+#### § 248
+
+**Bekanntgabe des Eigenmietwerts bis zur Einführung eines digitalen Schalters**
+
+<sup>1</sup> Bis zur technischen Umsetzung im Rahmen des digitalen Schalters gemäss § 155 Abs. 5 wird der für die entsprechende Steuerperiode anwendbare indexierte Eigenmietwert den Steuerpflichtigen mit der Aufforderung zur Einreichung der Steuererklärung gemäss § 155 Abs. 1 mitgeteilt.
 
 #### § 247
 
