@@ -3,20 +3,19 @@ canton: LU
 number: "506"
 title: Reglement für die Maturitätsprüfungen im Kanton Luzern
 language: de
-version: 2027-08-01
-valid_until: 2031-07-31
+version: 2031-08-01
 version_adopted: 2026-04-21
 adopted: 2008-04-15
 in_force: 2008-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506"
-pdf: "https://srl.lu.ch/api/de/versions/4821/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4822/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für die Maturitätsprüfungen im Kanton Luzern
 
-vom 15.04.2008 (Stand 01.08.2027)
+vom 15.04.2008 (Stand 01.08.2031)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -36,9 +35,9 @@ beschliesst:
 
 <sup>1</sup> Dieses Reglement gilt für die Maturitätsprüfungen an den kantonalen Gymnasien und an der Maturitätsschule für Erwachsene sowie für die anerkannten Maturitätsprüfungen an privaten Gymnasien.
 
-<sup>2</sup> Die Maturitätsprüfungen werden nach den Bestimmungen der Verordnung des Bundesrates/des Reglementes der EDK über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) vom 16. Januar/15. Februar 1995[^1-1] durchgeführt, sofern diese im Folgenden nicht ergänzt werden.
+<sup>2</sup> Die Maturitätsprüfungen werden nach den Bestimmungen der Verordnung des Bundesrates/des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) vom 28. Juni/22. Juni 2023[^1-1] durchgeführt, sofern diese im Folgenden nicht ergänzt werden.
 
-[^1-1]: Nr. 4.3.1.1. in der Sammlung der Rechtsgrundlagen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (vgl. [www.edk.ch](http://www.edk.ch)). Dieser Erlass entspricht der eidgenössischen Verordnung über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV) vom 15. Februar 1995 (SR [413.11](https://db.clex.ch/link/Bund/413.11/de)).
+[^1-1]: Nr. 4.3.1.1. in der Sammlung der Rechtsgrundlagen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (vgl. [www.edk.ch](http://www.edk.ch)). Dieser Erlass entspricht der eidgenössischen Verordnung über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV) vom 28. Juni 2023 (SR [413.11](https://db.clex.ch/link/Bund/413.11/de)).
 
 #### § 2
 
@@ -66,7 +65,7 @@ beschliesst:
 
 <sup>2</sup> Die Maturitätskommission koordiniert und beaufsichtigt die Maturitätsprüfung, setzt sich mit Fragen im Zusammenhang mit den Maturitätsschulen auseinander und übt gegenüber dem Bildungs- und Kulturdepartement eine Beratungsfunktion aus. Sie kann bei Bedarf Arbeitsgruppen und Expertengruppen einsetzen.
 
-<sup>3</sup> Sie erlässt Weisungen über die Organisation der Prüfungen, die Prüfungstermine, die Dauer der Prüfungen, die Prüfungsaufgaben, die Maturaarbeit, die Abschlussprüfung im Freifach und die Tätigkeit der Expertinnen und Experten sowie der Examinatorinnen und Examinatoren.
+<sup>3</sup> Sie erlässt Weisungen über die Organisation der Maturitätsprüfung, die Prüfungstermine, die Dauer der Prüfungen, die Prüfungsaufgaben, die Maturitätsarbeit, die Abschlussprüfung im Freifach und die Tätigkeit der Expertinnen und Experten sowie der Examinatorinnen und Examinatoren.
 
 <sup>4</sup> Sie trifft alle Entscheide im Bereich der Maturitätsprüfung, für welche nicht eine andere Behörde zuständig ist.
 
@@ -117,10 +116,10 @@ beschliesst:
 
 <sup>1</sup> Maturitätsfächer sind
 
-- a. die elf Grundlagenfächer Deutsch, Französisch oder Italienisch, Italienisch oder Englisch oder eine alte Sprache, Mathematik, Biologie, Chemie, Physik, Geschichte, Geografie, Philosophie sowie Bildnerisches Gestalten und/oder Musik,
+- a. die 13 Grundlagenfächer Deutsch, Französisch oder Italienisch, Englisch, Mathematik, Biologie, Physik, Chemie, Informatik, Geschichte, Geografie, Philosophie, Wirtschaft und Recht, Bildende Kunst und/oder Musik,
 - b. das gewählte Schwerpunktfach,
 - c. das gewählte Ergänzungsfach und
-- d. die Maturaarbeit.
+- d. die Maturitätsarbeit.
 
 #### § 8
 
@@ -132,25 +131,26 @@ beschliesst:
 - b. Französisch oder Italienisch,
 - c. Mathematik,
 - d. Schwerpunktfach,
-- e. dritte Sprache oder Ergänzungsfach.
+- e. …
+- f. Biologie, Physik, Geschichte oder Philosophie.
 
-<sup>2</sup> Das fünfte Prüfungsfach gemäss Absatz 1e wird von der Maturandin oder dem Maturanden gewählt.
+<sup>2</sup> Das fünfte Prüfungsfach gemäss Absatz 1f wird von der Maturandin oder dem Maturanden gewählt. Es ist ein Fach zu wählen, das nicht im Rahmen des Schwerpunktfachs belegt worden ist. In der Maturitätsschule für Erwachsene stehen nur Biologie und Philosophie als fünftes Prüfungsfach zur Wahl.
 
-<sup>3</sup> In den Fächern Bildnerisches Gestalten, Musik und Sport wird anstelle der mündlichen eine praktische Prüfung durchgeführt. Die Maturitätskommission regelt das Nähere in Weisungen.
+<sup>3</sup> In den Fächern Bildende Kunst und Musik wird anstelle der mündlichen eine praktische Prüfung durchgeführt. Die Maturitätskommission regelt das Nähere in Weisungen.
 
 #### § 9
 
-**Maturaarbeit**
+**Maturitätsarbeit**
 
-<sup>1</sup> Die Maturandinnen und Maturanden erarbeiten allein oder in einer Gruppe nach wissenschaftspropädeutischen Kriterien eine eigenständige schriftliche Maturaarbeit gemäss den Weisungen der Maturitätskommission.
+<sup>1</sup> Die Maturandinnen und Maturanden erarbeiten allein oder in einer Gruppe nach wissenschaftspropädeutischen Kriterien eine eigenständige schriftliche Maturitätsarbeit gemäss den Weisungen der Maturitätskommission.
 
-<sup>2</sup> Die Maturaarbeit wird von der betreuenden Lehrperson sowie von einer weiteren von der Schulleitung bestimmten Fachlehrperson beurteilt und bewertet.
+<sup>2</sup> Die Maturitätsarbeit wird von der betreuenden Lehrperson sowie von einer weiteren von der Schulleitung bestimmten Fachlehrperson beurteilt und bewertet.
 
 #### § 10
 
 **Prüfungsinhalte**
 
-<sup>1</sup> Bei den Maturitätsprüfungen an den Gymnasien ist im Wesentlichen das Unterrichtsprogramm der letzten vier Semester zu berücksichtigen. Bei sämtlichen Prüfungen werden in ausgewogenem Mass Kenntnisse und Fertigkeiten gemäss den auf Bundesebene und auf kantonaler Ebene formulierten Richtzielen geprüft.
+<sup>1</sup> Bei den Maturitätsprüfungen an den Gymnasien sind im Wesentlichen die im Prüfungsfach während der letzten vier Semester unterrichteten Inhalte zu berücksichtigen. Bei sämtlichen Prüfungen werden in ausgewogenem Mass Kenntnisse und Fertigkeiten gemäss dem kantonalen Lehrplan geprüft.
 
 ## 4 Schriftliche Prüfungen
 
@@ -252,7 +252,11 @@ beschliesst:
 
 <sup>3</sup> In den Prüfungsfächern wird die Note aus dem Durchschnitt der Erfahrungs- und der Prüfungsnote gebildet.
 
-<sup>4</sup> Bei der Maturaarbeit gilt die gestützt auf § 9 Absatz 2 gesetzte Note als Maturitätsnote.
+<sup>4</sup> Bei der Maturitätsarbeit gilt die gestützt auf § 9 Absatz 2 gesetzte Note als Maturitätsnote.
+
+<sup>5</sup> Bei einem Übertritt aus einer anderen Schule können Erfahrungsnoten der abgebenden Schule übernommen werden, wenn deren Abschlüsse nach den Bestimmungen des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) vom 22. Juni 2023[^20-1] anerkannt sind. Ist eine Übernahme nicht möglich, ist eine Ersatzprüfung abzulegen, deren Inhalt sich an § 10 orientiert. Das Prüfungsergebnis bildet die Maturitätsnote im entsprechenden Fach. Über die Übernahme und allfällige Ersatzprüfungen entscheidet die Schulleitung.
+
+[^20-1]: Nr. 4.3.1.1. in der Sammlung der Rechtsgrundlagen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (vgl. [www.edk.ch](http://www.edk.ch))
 
 #### § 21
 
@@ -266,7 +270,7 @@ beschliesst:
 
 **Bestehen der Maturitätsprüfung**
 
-<sup>1</sup> Die Maturitätsprüfung ist bestanden, wenn in den 14 Maturitätsfächern gemäss § 7 Unterabsätze a–d je
+<sup>1</sup> Die Maturitätsprüfung ist bestanden, wenn in den 16 Maturitätsfächern gemäss § 7 Unterabsätze a–d je
 
 - a. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
 - b. nicht mehr als vier Noten unter 4 erteilt wurden.
@@ -281,13 +285,13 @@ beschliesst:
 
 <sup>2</sup> Das Maturitätszeugnis enthält
 
-- a. die Hauptaufschrift «Schweizerische Eidgenossenschaft», den Untertitel «Kanton Luzern», darunter den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995»,
+- a. die Hauptaufschrift «Schweizerische Eidgenossenschaft», den Untertitel «Kanton Luzern», darunter den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren über die Anerkennung von gymnasialen Maturitätsausweisen vom 28. Juni/22. Juni 2023»,
 - b. den Namen der Schule,
 - c. den Familiennamen, den Vornamen, den Heimatort (für Ausländerinnen und Ausländer die Staatsangehörigkeit und den Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers,
 - d. die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Schule besucht hat,
 - e. die Noten der Maturitätsfächer nach § 7 Unterabsätze a–d und den Durchschnitt,
-- f. das Thema der Maturaarbeit,
-- g. die Maturitätsnote in den Fächern Sport, Wirtschaft und Recht sowie Informatik,
+- f. das Thema der Maturitätsarbeit,
+- g. die Maturitätsnote im Fach Sport,
 - h. die Freifachnoten mit Angabe der besuchten Semesterstunden,
 - i. gegebenenfalls den Vermerk «mehrsprachige Maturität» mit Angabe der zweiten Sprache.
 
@@ -315,7 +319,7 @@ beschliesst:
 
 **Unredlichkeiten**
 
-<sup>1</sup> Bei Unredlichkeiten im Zusammenhang mit der Maturaarbeit, den Maturitätsprüfungen oder dem Maturitätszeugnis, insbesondere bei Mitbringen oder Gebrauch unerlaubter Hilfsmittel, wird die Prüfung von der Maturitätskommission als nicht bestanden oder das Maturitätszeugnis als ungültig erklärt. Wenn noch nicht alle Prüfungen absolviert worden sind, wird die Maturandin oder der Maturand von der Maturitätskommission von den weiteren Prüfungen ausgeschlossen.
+<sup>1</sup> Bei Unredlichkeiten im Zusammenhang mit der Maturitätsarbeit, den Maturitätsprüfungen oder dem Maturitätszeugnis, insbesondere bei Mitbringen oder Gebrauch unerlaubter Hilfsmittel, wird die Prüfung von der Maturitätskommission als nicht bestanden oder das Maturitätszeugnis als ungültig erklärt. Wenn noch nicht alle Prüfungen absolviert worden sind, wird die Maturandin oder der Maturand von der Maturitätskommission von den weiteren Prüfungen ausgeschlossen.
 
 <sup>1<sup>bis</sup></sup> Bei Unredlichkeiten im Zusammenhang mit den Erfahrungsnoten können an den kantonalen Schulen nach § 48 der Verordnung zum Gesetz über die Gymnasialbildung vom 19. Juni 2001[^25-1] und an den privaten Gymnasien nach deren Disziplinarordnung Disziplinarmassnahmen angeordnet werden. Wenn es die Schwere der Unredlichkeit rechtfertigt, kann die Maturitätskommission die Maturandin oder den Maturanden von der Maturitätsprüfung ausschliessen. In diesem Fall gilt die Prüfung als nicht bestanden.
 
@@ -357,6 +361,10 @@ beschliesst:
 #### § 28a
 
 **Übergangsbestimmung zur Änderung vom 21. April 2026**
+
+<sup>1</sup> Für Lernende, die am Ende des Schuljahres 2030/2031 die Maturitätsprüfung nach den bisherigen Bestimmungen erstmalig nicht bestanden haben, gilt für die Wiederholung das neue Recht.
+
+<sup>2</sup> Können bei Lernenden aufgrund von Änderungen im Fächerangebot nicht in allen Maturitätsfächern Maturitätsnoten gebildet werden, entscheidet die Dienststelle Gymnasialbildung nach Vorgaben der Maturitätskommission im Einzelfall über mögliche Anrechnungen oder notwendige Ersatzleistungen. Sie kann dabei insbesondere Zeugnisnoten aus früheren Schuljahren als Maturitätsnoten übernehmen, den Prüfungsinhalt anpassen oder Ersatzprüfungen anordnen.
 
 #### § 29
 
