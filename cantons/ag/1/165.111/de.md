@@ -4,13 +4,12 @@ number: "165.111"
 title: Personal- und Lohnverordnung
 short: PLV
 language: de
-version: 2026-01-01
-valid_until: 2027-02-28
-version_adopted: 2025-07-02
+version: 2027-03-01
+version_adopted: 2026-09-23
 adopted: 2000-09-25
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3850/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4033/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3850/pdf_file"
 
 (PLV)
 
-Vom 25.09.2000 (Stand 01.01.2026)
+Vom 25.09.2000 (Stand 01.03.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -402,7 +401,7 @@ beschliesst:
 
 **Feiertage**
 
-<sup>1</sup> Feiertage sind den Wochenendtagen gleichgestellt. Als Feiertage gelten Karfreitag, Ostermontag, Auffahrtstag, Pfingstmontag, sowie Neujahr, Berchtoldstag, Weihnachten, Stephanstag, der Bundesfeiertag und der Nachmittag des 1. Mai.
+<sup>1</sup> Feiertage sind den Wochenendtagen gleichgestellt. Als Feiertage gelten Karfreitag, Ostermontag, Auffahrtstag, Pfingstmontag, sowie Neujahr, Berchtoldstag, Weihnachten, Stephanstag und der Bundesfeiertag.
 
 <sup>2</sup> Der Maienzug Aarau, der Rutenzug Brugg, das Jugendfest Lenzburg, das Kinderfest Zofingen sowie der Verenatag Zurzach gelten für die Arbeitsorte in den entsprechenden Bezirken ebenfalls als Feiertage.
 
