@@ -3,18 +3,18 @@ sr: "341.14"
 title: Verordnung des EJPD vom 19. November 2011 über die Baubeiträge des Bundes an Einrichtungen für den Straf- und Massnahmenvollzug
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/788"
 language: de
-version: 2012-01-01
+version: 2027-01-01
 adopted: 2011-11-19
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/788/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2011-788-20120101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/788/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/788/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2011-788-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/788/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über die Baubeiträge des Bundes an Einrichtungen für den Straf- und Massnahmenvollzug
 
-vom 19. November 2011 (Stand am 1. Januar 2012)
+vom 19. November 2011 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD), im Einvernehmen mit dem Eidgenössischen Finanzdepartement,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 15 Absatz 1, 17 Absatz 1, 18 Absatz 1 und 19 Absatz 1 
 
 verordnet:
 
-[^ingress-1]: [SR 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^ingress-1]: [SR 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
 
 ## 1. Abschnitt: Baubeiträge an Erziehungseinrichtungen
 
@@ -30,96 +30,151 @@ verordnet:
 
 #### Art. 1
 
-**Bereiche, anrechenbare Flächen und Bereichspreise**
+**Bereiche, anrechenbare Flächen und Bereichspreise nach Modelleinrichtung**[^1-1]
 
-Die Bereiche, die anrechenbaren Flächen pro Platz und die Bereichspreise pro Quadratmeter werden wie folgt festgelegt:
+Die Bereiche, die anrechenbaren Flächen pro Platz und die Bereichspreise pro Quadratmeter werden für die drei Modelleinrichtungen wie folgt festgelegt:
+
+- a. Modelleinrichtung Typ «offen geführteKleineinrichtung mit einer Wohngruppe»
 
 <table>
-<tr><td colspan="2">Bereich</td><td></td><td>Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</td><td>Bereichspreis pro m<sup>2</sup> (Indexstand 1. Oktober 2010)[^1-1]</td></tr>
-<tr><td>2</td><td colspan="2">Verwaltung</td><td>4,4</td><td>4400</td></tr>
-<tr><td>3</td><td colspan="2">Personal</td><td>2,2</td><td>4400</td></tr>
-<tr><td>4</td><td colspan="2">Betreuung, Besuch, Gemeinschaft, Freizeit, Sport</td><td>10,4</td><td>4400</td></tr>
-<tr><td>5</td><td colspan="2">Aufnahme und Austritt</td><td>1,9</td><td>4400</td></tr>
-<tr><td>6</td><td colspan="2">Wohnen</td><td>29,6</td><td>4400</td></tr>
-<tr><td>7</td><td colspan="2">Ausbildung/Beschäftigung</td><td>14,8</td><td>3700</td></tr>
-<tr><td>8</td><td colspan="2">Hauswirtschaft, Entsorgung, Garagen</td><td>9,5</td><td>4400</td></tr>
-<tr><td colspan="2">Gesamtfläche pro Platz</td><td></td><td>72,8</td><td></td></tr>
+<tr><th colspan="2">Bereich</th><th colspan="2">Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</th><th>Bereichspreis in Fr. pro m<sup>2</sup> (Indexstand 1. April 2024)</th></tr>
+<tr><td>2</td><td>Verwaltung</td><td>2,0</td><td></td><td>5600</td></tr>
+<tr><td>3</td><td>Personal</td><td>2,3</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Betreuung, Besuch, Gemeinschaft, Freizeit, Sport</td><td>9,0</td><td></td><td>5600</td></tr>
+<tr><td>5</td><td>Aufnahme und Austritt</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Wohnen</td><td>29,7</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>Interne Schule</td><td>–</td><td></td><td>5600</td></tr>
+<tr><td>8</td><td>Hauswirtschaft</td><td>4,1</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Anerkannte Grundfläche pro Platz</td><td>48,1</td><td></td><td></td></tr>
 </table>
 
-[^1-1]: Schweizerischer Baupreisindex, Teilindex Hochbau, inkl. MwSt.
+- b. Modelleinrichtung Typ «offen geführte Einrichtung mit zwei oder mehr Wohngruppen»
+
+<table>
+<tr><th colspan="2">Bereich</th><th colspan="2">Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</th><th>Bereichspreis in Fr. pro m<sup>2</sup> (Indexstand 1. April 2024)</th></tr>
+<tr><td>2</td><td>Verwaltung</td><td>3,1</td><td></td><td>5600</td></tr>
+<tr><td></td><td>2a Zusatzfläche in Grosseinrichtungen</td><td></td><td>bis 2,2</td><td>5600</td></tr>
+<tr><td>3</td><td>Personal</td><td>4,0</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Betreuung, Besuch, Gemeinschaft, Freizeit, Sport</td><td>8,5</td><td></td><td>5600</td></tr>
+<tr><td></td><td>4a Zusatzfläche für einen Mehrzweckraum</td><td></td><td>bis 3,8</td><td>5600</td></tr>
+<tr><td>5</td><td>Aufnahme und Austritt</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Wohnen</td><td>28,1</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>Interne Schule</td><td></td><td>bis 16,4</td><td>5600</td></tr>
+<tr><td>8</td><td>Hauswirtschaft</td><td>7,0</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Anerkannte Grundfläche pro Platz</td><td>51,7</td><td></td><td></td></tr>
+<tr><td colspan="2">Anerkannte Zusatzfläche pro Platz bei Bedarf</td><td></td><td>bis 22,4</td><td></td></tr>
+</table>
+
+- c. Modelleinrichtung Typ «geschlossen geführte Einrichtung»
+
+<table>
+<tr><th colspan="2">Bereich</th><th colspan="2">Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</th><th>Bereichspreis in Fr. pro m<sup>2</sup> (Indexstand 1. April 2024)</th></tr>
+<tr><td>1</td><td>Sicherheit</td><td>2,3</td><td></td><td>5600</td></tr>
+<tr><td></td><td>1a Zusatzfläche für internen Sicherheitsdienst</td><td></td><td>bis 0,5</td><td>5600</td></tr>
+<tr><td>2</td><td>Verwaltung</td><td>3,1</td><td></td><td>5600</td></tr>
+<tr><td></td><td>2a Zusatzfläche in Grosseinrichtungen</td><td></td><td>bis 2,2</td><td>5600</td></tr>
+<tr><td>3</td><td>Personal</td><td>4,0</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Betreuung, Besuch, Gemeinschaft, Freizeit, Sport</td><td>10,0</td><td></td><td>5600</td></tr>
+<tr><td></td><td>4a Zusatzfläche für einen Mehrzweckraum</td><td></td><td>bis 3,8</td><td>5600</td></tr>
+<tr><td>5</td><td>Aufnahme und Austritt</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Wohnen</td><td>27,6</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>Interne Schule</td><td></td><td>bis 16,4</td><td>5600</td></tr>
+<tr><td>8</td><td>Hauswirtschaft</td><td>7,0</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Anerkannte Grundfläche pro Platz</td><td>55,0</td><td></td><td></td></tr>
+<tr><td colspan="2">Anerkannte Zusatzfläche pro Platz bei Bedarf</td><td></td><td>bis 22,9</td><td></td></tr>
+</table>
+
+[^1-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 2
 
-**Zuschlag für Personalunterkünfte**
+**Zuschlag für zusätzlich notwendige Flächen im Verwaltungsbereich von Grosseinrichtungen**[^2-1]
 
 ### (Art. 18 Abs. 1 Bst. a LSMV)
 
-Der Zuschlag für eine betrieblich unerlässliche Personalunterkunft beträgt 400 000 Franken.
+Der Zuschlag für zusätzlich notwendige Flächen im Verwaltungsbereich von Grosseinrichtungen beträgt bis 2,2 m<sup>2</sup> pro Platz und wird mit dem Bereichspreis multipliziert.
+
+[^2-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 3
 
-**Zuschlag für Turnhallen**
+**Zuschlag für den Bau eines Mehrzweckraums**[^3-1]
 
 ### (Art. 18 Abs. 1 Bst. b LSMV)
 
-Der Zuschlag für den Bau einer Turnhalle beträgt 1 000 000 Franken.
+Der Zuschlag für den Bau eines Mehrzweckraums beträgt bis 3,8 m<sup>2</sup> pro Platz und wird mit dem Bereichspreis multipliziert. Er wird nicht an Kleineinrichtungen ausgerichtet.
+
+[^3-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 4
 
-**Zuschlag für Schulanlagen**
+**Zuschlag für den Bau einer Unterkunft für Besuche**[^4-1]
 
 ### (Art. 18 Abs. 1 Bst. c LSMV)
 
-Der Zuschlag für den Bau einer Schulanlage beträgt 25 Prozent der Summe aus BKP[^4-1] 1–3 und 5 des Bereichs 7.
+Der Zuschlag für den Bau einer Unterkunft für Besuche beträgt bis 3,8 m<sup>2</sup> pro Platz und wird mit dem Bereichspreis multipliziert. Er wird nicht an Kleineinrichtungen ausgerichtet.
 
-[^4-1]: BKP = Baukostenplan der Schweizerischen Zentralstelle für Baurationalisierung.
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 5
 
-**Zuschlag für Werkstätten mit erhöhtem Flächenbedarf**
+**Zuschlag für Umgebungsarbeiten (BKP 4) und für Ausstattungskosten (BKP 9) bei Neubauten**[^5-1]
 
 ### (Art. 18 Abs. 1 Bst. d LSMV)
 
-<sup>1</sup>
+Der Zuschlag bei Neubauten für die Kosten der Umgebungsarbeiten beträgt 5,8 Prozent und für die Kosten der beweglichen Ausstattung 4,6 Prozent der anerkannten Kosten von BKP 1–3 und 5.
 
-Für Werkstätten mit erhöhtem Flächenbedarf wird zusätzlich zur Modellanstalt ein Flächenzuschlag gewährt, welcher mit dem Bereichspreis multipliziert wird. Es gelten die folgenden beiden Zuschläge:
-
-- a. Zuschlag 1: 10,2 m<sup>2</sup> Mehrfläche pro Platz werden anerkannt, wenn die projektierte Fläche im Bereich 7 mehr als 25 m<sup>2</sup> und bis und mit 55 m<sup>2</sup> pro Platz erreicht.
-- b. Zuschlag 2: 40,2 m<sup>2</sup> Mehrfläche werden anerkannt, wenn die projektierte Fläche über 55 m<sup>2</sup> pro Platz erreicht.
-
-<sup>2</sup> Die Zuschläge sind nicht kumulierbar.
+[^5-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 6
 
-**Zuschlag für Kleinheime**
+**Zuschlag für Kleineinrichtungen**[^6-1]
 
 ### (Art. 18 Abs. 1 Bst. e LSMV)
 
-Der Zuschlag für Kleinheime beträgt 10 Prozent der Baukosten von BKP 1–3 und 5.
+Der Zuschlag für Kleineinrichtungen beträgt 10 Prozent der Baukosten von BKP 1–3 und 5.
+
+[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 7
 
-**Zuschlag für Umgebungsarbeiten (BKP 4) bei Neubauten**
+**Sicherheitszuschlag für geschlossene Einrichtungen**[^7-1]
 
 ### (Art. 18 Abs. 1 Bst. f LSMV)
 
-Der Zuschlag für die Kosten der Umgebungsarbeiten bei Neubauten beträgt 6,2 Prozent der anerkannten Kosten von BKP 1–3 und 5.
+Der Zuschlag für die Sicherheit bei geschlossenen Einrichtungen beträgt 70 000 Franken pro Platz.
+
+[^7-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 8
 
-**Zuschlag für Ausstattungskosten (BKP 9)bei Neubauten**
-
-### (Art. 18 Abs. 1 Bst. f LSMV)
-
-Der Zuschlag für die Kosten der beweglichen Ausstattung bei Neubauten beträgt 6,2 Prozent der anerkannten Kosten von BKP 1–3 und 5.
-
-#### Art. 9
-
-**Sicherheitszuschlag für geschlossene Einrichtungen**
+**Zuschlag für die bauliche Infrastruktur eines internen Sicherheitsdienstes**[^8-1]
 
 ### (Art. 18 Abs. 1 Bst. g LSMV)
 
-Der Zuschlag für die Sicherheit bei geschlossenen Einrichtungen beträgt 55 000 Franken pro Platz.
+Der Zuschlag für die bauliche Infrastruktur eines internen Sicherheitsdienstes in geschlossen geführten Einrichtungen beträgt bis 0,5 m<sup>2</sup> pro Platz und wird mit dem Bereichspreis multipliziert.
+
+[^8-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+
+#### Art. 9
+
+**Zuschlag für den Bau eines Aufnahmebereichs**[^9-1]
+
+### (Art. 18 Abs. 1 Bst. h LSMV)
+
+Der Zuschlag eines Aufnahmebereichs in geschlossen geführten Einrichtungen beträgt 150 000 Franken. Im Falle einer kombinierten Nutzung des Aufnahmebereichs mit dem Disziplinarbereich wird der Zuschlag nicht ausgerichtet.
+
+[^9-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+
+#### Art. 9a
+
+**Zuschlag für den Bau eines Disziplinarzimmers**[^9a-1]
+
+### (Art. 18 Abs. 1 Bst. i LSMV)
+
+Der Zuschlag für den Bau eines Disziplinarzimmers in geschlossen geführten Einrichtungen beträgt 80 000 Franken.
+
+[^9a-1]: Eingefügt durch Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 10
 
@@ -129,7 +184,7 @@ Der Zuschlag für die Sicherheit bei geschlossenen Einrichtungen beträgt 55 000
 
 Bei Umbauten wird ein Zuschlag für die Kosten für Umgebungsarbeiten und für bewegliche Ausstattung nach herkömmlicher Methode (Art. 4 Abs. 1 und 2 des BG vom 5. Okt. 1984[^10-1] über die Leistungen des Bundes für den Straf- und Massnahmenvollzug; LSMG) ausgerichtet.
 
-[^10-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^10-1]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 11
 
@@ -139,30 +194,32 @@ Bei Umbauten wird ein Zuschlag für die Kosten für Umgebungsarbeiten und für b
 
 Die Platzkostenpauschale bei Neubauten berechnet sich in den folgenden Schritten:
 
-- 1\. Bereichs-m<sup>2</sup> der Modelleinrichtung × Bereichspreise
-- 2\.
+- 1\. Bereichs-m<sup>2</sup> der Modelleinrichtung × Bereichspreise.
+- 2\.[^11-1]
 
   Das Produkt aus Schritt 1 wird addiert mit den folgenden Zuschlägen:
 
-  - – dem Zuschlag Personalunterkunft, falls betrieblich unerlässlich
-  - – dem Zuschlag Turnhalle, falls betrieblich unerlässlich
-  - – dem Zuschlag Schulanlage, falls interne Schule anerkannt ist
-  - – dem Zuschlag 1 Werkstätten mit erhöhtem Flächenbedarf in der Höhe von 10,2 m<sup>2</sup> zur Pauschale von Bereich 7, falls grösser als 25 m<sup>2</sup>
-  - – dem Zuschlag 2 Werkstätten mit erhöhtem Flächenbedarf in der Höhe von 40,2 m<sup>2</sup> zur Pauschale von Bereich 7, falls grösser als 55 m<sup>2</sup>
-  - – dem Zuschlag Kleinheim, falls Platzzahl gleich oder kleiner als 15 Plätze.
+  - – dem Zuschlag Unterkunft für Besuche, falls betrieblich unerlässlich;
+  - – dem Zuschlag Aufnahmebereich, falls im pädagogischen Konzept vorgesehen;
+  - – dem Zuschlag Disziplinarzimmer, falls im pädagogischen Konzept vorgesehen;
+  - – dem Zuschlag Kleineinrichtung, falls Platzzahl gleich oder kleiner als 12 Plätze.
 
 - 3\. Das ergibt das Zwischentotal (ZT) der anerkannten Baukosten.
 - 4\.
 
   Das ZT wird addiert mit den folgenden Zuschlägen:
 
-  - – plus 6,2 Prozent von ZT für Umgebungsarbeiten (BKP 4)
-  - – plus 6,2 Prozent von ZT für Ausstattungskosten (BKP 9)
+  - –[^11-2] plus 5,8 Prozent von ZT für Umgebungsarbeiten (BKP 4);
+  - –[^11-3] plus 4,6 Prozent von ZT für Ausstattungskosten (BKP 9);
   - – dem Sicherheitszuschlag, falls geschlossene Plätze.
 
 - 5\. Das ergibt das Total der anerkannten Baukosten (Platzkostenpauschale) bei Neubauten.
 
 <sup>2</sup> Der Bundesbeitrag beträgt 35 Prozent der Summe nach Ziffer 5 (Art. 4 Abs. 1 LSMG).
+
+[^11-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^11-2]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^11-3]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 12
 
@@ -172,32 +229,31 @@ Die Platzkostenpauschale bei Neubauten berechnet sich in den folgenden Schritten
 
 Die Platzkostenpauschale bei Umbauten berechnet sich in den folgenden Schritten:
 
-- 1\. Bereichs-m<sup>2</sup> der Modelleinrichtung × Bereichspreise
-- 2\.
+- 1\. Bereichs-m<sup>2</sup> der Modelleinrichtung × Bereichspreise.
+- 2\.[^12-1]
 
   Das Produkt aus Schritt 1 wird addiert mit den folgenden Zuschlägen:
 
-  - – dem Zuschlag Personalunterkunft, falls betrieblich unerlässlich
-  - – dem Zuschlag Turnhalle, falls betrieblich unerlässlich
-  - – dem Zuschlag Schulanlage, falls interne Schule anerkannt ist
-  - – dem Zuschlag 1 Werkstätten mit erhöhtem Flächenbedarf in der Höhe von 10,2 m<sup>2</sup> zur Pauschale von Bereich 7, falls grösser als 25 m<sup>2</sup>
-  - – dem Zuschlag 2 Werkstätten mit erhöhtem Flächenbedarf in der Höhe von 40,2 m<sup>2</sup> zur Pauschale von Bereich 7, falls grösser als 55 m<sup>2</sup>
-  - – dem Zuschlag Kleinheim, falls Platzzahl gleich oder kleiner als 15 Plätze.
+  - – dem Zuschlag Unterkunft für Besuche, falls betrieblich unerlässlich;
+  - – dem Zuschlag Aufnahmebereich, falls im pädagogischen Konzept vorgesehen;
+  - – dem Zuschlag Disziplinarzimmer, falls im pädagogischen Konzept vorgesehen;
+  - – dem Zuschlag Kleineinrichtung, falls Platzzahl gleich oder kleiner als 12 Plätze.
 
 - 3\. Das resultierende Total der anerkannten Kosten wird multipliziert mit dem Eingriffs- und Veränderungsgrad. Dieses Produkt bildet die Basis für die Platzkostenpauschale bei Umbauten.
 - 4\.
 
   Diese Basis wird addiert durch:
 
-  - – den Beitrag für BKP 4, berechnet nach herkömmlicher Methode
-  - – den Beitrag für BKP 9, berechnet nach herkömmlicher Methode
+  - – den Beitrag für BKP 4, berechnet nach herkömmlicher Methode;
+  - – den Beitrag für BKP 9, berechnet nach herkömmlicher Methode;
   - – den Sicherheitszuschlag, falls geschlossene Plätze, multipliziert mit dem Eingriffs- und Veränderungsgrad.
 
 - 5\. Das ergibt das Total der anerkannten Kosten bei Umbauten.
 
-<sup>2</sup> Der Bundesbeitrag beträgt 35 Prozent der Summe nach Ziffer 5 (Art. 4 Abs. 1 LSMG[^12-1]).
+<sup>2</sup> Der Bundesbeitrag beträgt 35 Prozent der Summe nach Ziffer 5 (Art. 4 Abs. 1 LSMG[^12-2]).
 
-[^12-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^12-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^12-2]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 13
 
@@ -224,7 +280,7 @@ Die Bereiche, die anrechenbaren Flächen pro Platz und die Bereichspreise pro Qu
 - a. Modellanstalt Typ «geschlossen»
 
 <table>
-<tr><td></td><td>Bereich</td><td>Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</td><td>Anrechenbare Fläche pro Platz (in m<sup>2</sup>) für Massnahmen nach Art. 59 Abs. 3 StGB[^14-1]</td><td>Bereichspreis pro m<sup>2</sup> (Indexstand 1. Oktober 2010)[^14-2]</td></tr>
+<tr><th></th><th>Bereich</th><th>Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</th><th>Anrechenbare Fläche pro Platz (in m<sup>2</sup>) für Massnahmen nach Art. 59 Abs. 3 StGB[^14-1]</th><th>Bereichspreis pro m<sup>2</sup> (Indexstand 1. Oktober 2010)[^14-2]</th></tr>
 <tr><td></td><td>1 Sicherheit</td><td>2,0</td><td>2,0</td><td>6300</td></tr>
 <tr><td></td><td>2 Verwaltung</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
 <tr><td></td><td>3 Personal</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
@@ -261,7 +317,7 @@ Die Bereiche, die anrechenbaren Flächen pro Platz und die Bereichspreise pro Qu
 - c. Modellanstalt Typ «Gefängnis»
 
 <table>
-<tr><td></td><td>Bereich</td><td>Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</td><td>Bereichspreis pro m<sup>2</sup> (Indexstand 1. Oktober 2010)[^14-4]</td></tr>
+<tr><th></th><th>Bereich</th><th>Anrechenbare Fläche pro Platz (in m<sup>2</sup>)</th><th>Bereichspreis pro m<sup>2</sup> (Indexstand 1. Oktober 2010)[^14-4]</th></tr>
 <tr><td></td><td>1 Sicherheit</td><td>1,7</td><td>5300</td></tr>
 <tr><td></td><td>2 Verwaltung</td><td>1,9</td><td>5300</td></tr>
 <tr><td></td><td>3 Personal</td><td>1,1</td><td>5300</td></tr>
@@ -275,7 +331,7 @@ Die Bereiche, die anrechenbaren Flächen pro Platz und die Bereichspreise pro Qu
 <tr><td></td><td>Gesamtfläche pro Platz</td><td>bis 33,5</td><td></td></tr>
 </table>
 
-[^14-1]: Strafgesetzbuch; [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14-1]: Strafgesetzbuch; [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^14-2]: Schweizerischer Baupreisindex, Teilindex Hochbau, inkl. MwSt.
 [^14-3]: Schweizerischer Baupreisindex, Teilindex Hochbau, inkl. MwSt.
 [^14-4]: Schweizerischer Baupreisindex, Teilindex Hochbau, inkl. MwSt.
@@ -338,7 +394,7 @@ Der Zuschlag für die bewegliche Ausstattung wird bei Neubauten prozentual auf d
 
 Bei Umbauten wird ein Zuschlag in der Höhe der Kosten für Umgebungsarbeiten und für bewegliche Ausstattung nach herkömmlicher Methode (Art. 4 Abs. 1 und 2 LSMG[^20-1]) ausgerichtet.
 
-[^20-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^20-1]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 21
 
@@ -396,9 +452,9 @@ Die Platzkostenpauschale bei Neubauten berechnet sich in den folgenden Schritten
 
   Das Produkt aus Schritt 1 wird addiert mit den folgenden Zuschlägen:
 
-  - – dem Flächenzuschlag Sport
-  - – dem Flächenzuschlag Therapie
-  - – dem Flächenzuschlag Bildung
+  - – dem Flächenzuschlag Sport;
+  - – dem Flächenzuschlag Therapie;
+  - – dem Flächenzuschlag Bildung;
   - – dem Flächenzuschlag für Werkstatt mit höherem Flächenbedarf.
 
 - 3\. Das ergibt das ZT der anerkannten Baukosten.
@@ -406,16 +462,16 @@ Die Platzkostenpauschale bei Neubauten berechnet sich in den folgenden Schritten
 
   Das ZT wird addiert mit den folgenden Zuschlägen:
 
-  - – dem der Modellanstalt gemäss Artikel 18 entsprechenden prozentualen Anteil des ZT für Umgebungsarbeiten (BKP 4)
-  - – dem der Modellanstalt gemäss Artikel 19 entsprechenden prozentualen Anteil des ZT für Ausstattungskosten (BKP 9)
-  - – dem Sicherheitszuschlag für geschlossene Plätze
+  - – dem der Modellanstalt gemäss Artikel 18 entsprechenden prozentualen Anteil des ZT für Umgebungsarbeiten (BKP 4);
+  - – dem der Modellanstalt gemäss Artikel 19 entsprechenden prozentualen Anteil des ZT für Ausstattungskosten (BKP 9);
+  - – dem Sicherheitszuschlag für geschlossene Plätze;
   - – dem Sicherheitszuschlag für Plätze mit höchster Sicherheit.
 
 - 5\. Das ergibt das Total der anerkannten Kosten (Platzkostenpauschale) bei Neubauten.
 
 <sup>2</sup> Der Bundesbeitrag beträgt 35 Prozent der Summe nach Ziffer 5 (Art. 4 Abs. 1 LSMG[^25-1]).
 
-[^25-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^25-1]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 26
 
@@ -425,14 +481,14 @@ Die Platzkostenpauschale bei Neubauten berechnet sich in den folgenden Schritten
 
 Die Platzkostenpauschale bei Umbauten berechnet sich in den folgenden Schritten:
 
-- 1\. Bereichs-m<sup>2</sup> der Modelleinrichtung × Bereichspreise
+- 1\. Bereichs-m<sup>2</sup> der Modelleinrichtung × Bereichspreise.
 - 2\.
 
   Das Produkt aus Schritt 1 wird addiert mit den folgenden Zuschlägen:
 
-  - – dem Flächenzuschlag Sport
-  - – dem Flächenzuschlag Therapie
-  - – dem Flächenzuschlag Bildung
+  - – dem Flächenzuschlag Sport;
+  - – dem Flächenzuschlag Therapie;
+  - – dem Flächenzuschlag Bildung;
   - – dem Flächenzuschlag für Werkstatt mit höherem Flächenbedarf.
 
 - 3\. Das resultierende Total der anerkannten Kosten wird multipliziert mit dem Eingriffs- und Veränderungsgrad. Dieses Produkt bildet die Basis für die Platzkostenpauschale bei Umbauten.
@@ -440,16 +496,16 @@ Die Platzkostenpauschale bei Umbauten berechnet sich in den folgenden Schritten:
 
   Diese Basis wird addiert durch:
 
-  - – den Beitrag für BKP 4, berechnet nach herkömmlicher Methode
-  - – den Beitrag für BKP 9, berechnet nach herkömmlicher Methode
-  - – den Sicherheitszuschlag für geschlossene Plätze, multipliziert mit dem Eingriffs- und Veränderungsgrad
+  - – den Beitrag für BKP 4, berechnet nach herkömmlicher Methode;
+  - – den Beitrag für BKP 9, berechnet nach herkömmlicher Methode;
+  - – den Sicherheitszuschlag für geschlossene Plätze, multipliziert mit dem Eingriffs- und Veränderungsgrad;
   - – dem Sicherheitszuschlag für Plätze mit höchster Sicherheit, multipliziert mit dem Eingriffs- und Veränderungsgrad.
 
 - 5\. Das ergibt das Total der anerkannten Kosten bei Umbauten.
 
 <sup>2</sup> Der Bundesbeitrag beträgt 35 Prozent der Summe nach Ziffer 5 (Art. 4 Abs. 1 LSMG[^26-1]).
 
-[^26-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^26-1]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 27
 
@@ -469,7 +525,7 @@ Die Platzkostenpauschale bei Umbauten berechnet sich in den folgenden Schritten:
 
 Die Verordnung des EJPD vom 24. September 2001[^28-1] über die Leistungen des Bundes für den Straf- und Massnahmenvollzug wird aufgehoben.
 
-[^28-1]: [[AS 2001 2398](https://fedlex.data.admin.ch/eli/oc/2001/345), [2007 6699](https://fedlex.data.admin.ch/eli/oc/2007/863)]
+[^28-1]: [[AS 2001 2398](https://fedlex.data.admin.ch/eli/oc/2001/345); [2007 6699](https://fedlex.data.admin.ch/eli/oc/2007/863)]
 
 #### Art. 29
 

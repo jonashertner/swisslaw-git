@@ -3,18 +3,18 @@ sr: "341.14"
 title: "Ordinanza del DFGP del 19 novembre 2011 sui sussidi di costruzione della Confederazione agli istituti per l'esecuzione delle pene e delle misure"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/788"
 language: it
-version: 2012-01-01
+version: 2027-01-01
 adopted: 2011-11-19
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/788/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2011-788-20120101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/788/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/788/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2011-788-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/788/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sui sussidi di costruzione della Confederazione agli istituti per l’esecuzione delle pene e delle misure
 
-del 19 novembre 2011 (Stato 1° gennaio 2012)
+del 19 novembre 2011 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale di giustizia e polizia (DFGP), d’intesa con il Dipartimento federale delle finanze,
 
@@ -22,7 +22,7 @@ visti gli articoli 15 capoverso 1, 17 capoverso 1, 18 capoverso 1 e 19 capoverso
 
 ordina:
 
-[^ingress-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^ingress-1]: [RS 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
 
 ## Sezione 1: Sussidi di costruzione a istituti d’educazione
 
@@ -30,96 +30,151 @@ ordina:
 
 #### Art. 1
 
-**Settori, superfici determinanti e prezzo di settore**
+**Settori, superfici determinanti e prezzi di settore per istituto tipo**[^1-1]
 
-I settori, le superfici determinanti per singolo posto e i prezzi di settore per m<sup>2</sup> sono fissati come segue:
+I settori, le superfici determinanti per singolo posto e i prezzi di settore per m<sup>2</sup> per i tre istituti tipo sono fissati come segue:
+
+- a. Istituto tipo «piccolo istituto aperto con un gruppo abitativo»
 
 <table>
-<tr><td colspan="2">Settore</td><td>Superficie determinante per singolo posto (in m<sup>2</sup>)</td><td>Prezzo di settore per m<sup>2</sup> (stato dell’indice 1° ottobre 2010)[^1-1]</td></tr>
-<tr><td>2</td><td>Amministrazione</td><td>4,4</td><td>4400</td></tr>
-<tr><td>3</td><td>Personale</td><td>2,2</td><td>4400</td></tr>
-<tr><td>4</td><td>Assistenza, visita, spazi comuni, tempo libero, sport</td><td>10,4</td><td>4400</td></tr>
-<tr><td>5</td><td>Entrata e uscita</td><td>1,9</td><td>4400</td></tr>
-<tr><td>6</td><td>Spazio abitativo</td><td>29,6</td><td>4400</td></tr>
-<tr><td>7</td><td>Formazione e occupazione</td><td>14,8</td><td>3700</td></tr>
-<tr><td>8</td><td>Economia domestica, smaltimento, autorimesse</td><td>9,5</td><td>4400</td></tr>
-<tr><td colspan="2">Superficie totale per singolo posto</td><td>72,8</td><td></td></tr>
+<tr><th colspan="2">Settore</th><th colspan="2">Superficie determinante per singolo posto (in m<sup>2</sup>)</th><th>Prezzo di settore per m<sup>2</sup> (stato dell’indice 1° aprile 2024)</th></tr>
+<tr><td>2</td><td>Amministrazione</td><td>2,0</td><td></td><td>5600</td></tr>
+<tr><td>3</td><td>Personale</td><td>2,3</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Assistenza, visita, spazi comuni, tempo libero, sport</td><td>9,0</td><td></td><td>5600</td></tr>
+<tr><td>5</td><td>Entrata e uscita</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Spazio abitativo</td><td>29,7</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>Scuola interna</td><td>–</td><td></td><td>5600</td></tr>
+<tr><td>8</td><td>Economia domestica</td><td>4,1</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Superficie di base riconosciuta per singolo posto</td><td>48,1</td><td></td><td></td></tr>
 </table>
 
-[^1-1]: Indice svizzero dei prezzi delle costruzioni, sottoindice edilizia, IVA inclusa.
+- b. Istituto tipo «istituto aperto con due o più gruppi abitativi»
+
+<table>
+<tr><th colspan="2">Settore</th><th colspan="2">Superficie determinante per singolo posto (in m<sup>2</sup>)</th><th>Prezzo di settore per m<sup>2</sup> (stato dell’indice 1° aprile 2024)</th></tr>
+<tr><td>2</td><td>Amministrazione</td><td>3,1</td><td></td><td>5600</td></tr>
+<tr><td></td><td>2a superficie supplementare nei grandi istituti</td><td></td><td>fino a 2,2</td><td>5600</td></tr>
+<tr><td>3</td><td>Personale</td><td>4,0</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Assistenza, visita, spazi comuni, tempo libero, sport</td><td>8,5</td><td></td><td>5600</td></tr>
+<tr><td></td><td>4a superficie supplementare per una sala polivalente</td><td></td><td>fino a 3,8</td><td>5600</td></tr>
+<tr><td>5</td><td>Entrata e uscita</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Spazio abitativo</td><td>28,1</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>Scuola interna</td><td></td><td>fino a 16,4</td><td>5600</td></tr>
+<tr><td>8</td><td>Economia domestica</td><td>7,0</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Superficie di base riconosciuta per singolo posto</td><td>51,7</td><td></td><td></td></tr>
+<tr><td colspan="2">Superficie supplementare riconosciuta per singolo posto in caso di necessità</td><td></td><td>fino a 22,4</td><td></td></tr>
+</table>
+
+- c. Istituto tipo «istituto chiuso»
+
+<table>
+<tr><th colspan="2">Settore</th><th colspan="2">Superficie determinanteper singolo posto (in m<sup>2</sup>)</th><th>Prezzo di settore per m<sup>2</sup> (stato dell’indice 1° aprile 2024)</th></tr>
+<tr><td>1</td><td>Sicurezza</td><td>2,3</td><td></td><td>5600</td></tr>
+<tr><td></td><td>1a superficie supplementare per il servizio di sicurezza interno</td><td></td><td>fino a 0,5</td><td>5600</td></tr>
+<tr><td>2</td><td>Amministrazione</td><td>3,1</td><td></td><td>5600</td></tr>
+<tr><td></td><td>2a superficie supplementare nei grandi istituti</td><td></td><td>fino a 2,2</td><td>5600</td></tr>
+<tr><td>3</td><td>Personale</td><td>4,0</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Assistenza, visita, spazi comuni, tempo libero, sport</td><td>10,0</td><td></td><td>5600</td></tr>
+<tr><td></td><td>4a superficie supplementare per una sala polivalente</td><td></td><td>fino a 3,8</td><td>5600</td></tr>
+<tr><td>5</td><td>Entrata e uscita</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Spazio abitativo</td><td>27,6</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>Scuola interna</td><td></td><td>fino a 16,4</td><td>5600</td></tr>
+<tr><td>8</td><td>Economia domestica</td><td>7,0</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Superficie di base riconosciuta per singolo posto</td><td>55,0</td><td></td><td></td></tr>
+<tr><td colspan="2">Superficie supplementare riconosciuta per singolo posto in caso di necessità</td><td></td><td>fino a 22,9</td><td></td></tr>
+</table>
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 2
 
-**Supplemento per gli alloggi del personale**
+**Supplemento per le superfici aggiuntive necessarie al settore amministrativo dei grandi istituti**[^2-1]
 
 ### (art. 18 cpv. 1 lett. a OPPM)
 
-Il supplemento per un alloggio del personale indispensabile all’esercizio dell’istituto ammonta a 400 000 franchi.
+Il supplemento per le superfici aggiuntive necessarie al settore amministrativo dei grandi istituti è pari a un massimo di 2,2 m<sup>2</sup> per singolo posto ed è moltiplicato per il prezzo di settore.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 3
 
-**Supplemento per palestre**
+**Supplemento per la costruzione di una sala polivalente**[^3-1]
 
 ### (art. 18 cpv. 1 lett. b OPPM)
 
-Il supplemento per la costruzione di una palestra ammonta a 1 000 000 franchi.
+Il supplemento per la costruzione di una sala polivalente è pari a un massimo di 3,8 m<sup>2</sup> per singolo posto ed è moltiplicato per il prezzo di settore. Esso non è corrisposto ai piccoli istituti.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 4
 
-**Supplemento per impianti scolastici**
+**Supplemento per la costruzione di un alloggio per i visitatori**[^4-1]
 
 ### (art. 18 cpv. 1 lett. c OPPM)
 
-Il supplemento per la costruzione di un impianto scolastico ammonta al 25 per cento dell’importo secondo il CCC[^4-1] 1–3 e 5 del settore 7.
+Il supplemento per la costruzione di un alloggio per i visitatori è pari a un massimo di 3,8 m<sup>2</sup> per singolo posto ed è moltiplicato per il prezzo di settore. Esso non è corrisposto ai piccoli istituti.
 
-[^4-1]: CCC = Codice dei costi di costruzione del Centro svizzero di studio per la razionalizzazione della costruzione.
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 5
 
-**Supplemento per laboratori che richiedono una superficie maggiore**
+**Supplemento per i lavori di sistemazione esterna (CCC 4) e per le attrezzature mobili (CCC 9) in caso di nuove costruzioni**[^5-1]
 
 ### (art. 18 cpv. 1 lett. d OPPM)
 
-<sup>1</sup>
+In caso di nuove costruzioni, il supplemento per i costi relativi alle sistemazioni esterne ammonta al 5,8 per cento e per quelli relativi alle attrezzature mobili al 4,6 per cento dei costi riconosciuti secondo il CCC 1–3 e 5.
 
-Un supplemento di superficie moltiplicato per il prezzo di settore è concesso per i laboratori che richiedono una superficie maggiore rispetto all’istituto tipo. Si applicano i seguenti supplementi:
-
-- a. supplemento 1: sono riconosciuti 10,2 m<sup>2</sup> di superficie supplementare per singolo posto, se la superficie progettata nel settore 7 è superiore a 25 m<sup>2</sup> e non supera 55 m<sup>2</sup> per singolo posto;
-- b. supplemento 2: sono riconosciuti 40,2 m<sup>2</sup> di superficie supplementare per singolo posto, se la superficie progettata supera 55 m<sup>2</sup> per singolo posto.
-
-<sup>2</sup> I supplementi non sono cumulabili.
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 6
 
-**Supplemento per istituti di piccole dimensioni**
+**Supplemento per piccoli istituti**[^6-1]
 
 ### (art. 18 cpv. 1 lett. e OPPM)
 
-Il supplemento per gli istituti di piccole dimensioni ammonta al 10 per cento dei costi di costruzione secondo il CCC 1–3 e 5.
+Il supplemento per piccoli istituti ammonta al 10 per cento dei costi di costruzione secondo il CCC 1–3 e 5.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 7
 
-**Supplemento per le sistemazioni esterne (CCC 4) in caso di nuove costruzioni**
+**Supplemento per la sicurezza in caso di istituti chiusi**[^7-1]
 
 ### (art. 18 cpv. 1 lett. f OPPM)
 
-In caso di nuove costruzioni, il supplemento per i costi relativi alle sistemazioni esterne ammonta al 6,2 per cento dei costi riconosciuti secondo il CCC 1–3 e 5.
+In caso di istituti chiusi, il supplemento per la sicurezza ammonta a 70 000 franchi per singolo posto.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 8
 
-**Supplemento per le attrezzature mobili (CCC 9)in caso di nuove costruzioni**
-
-### (art. 18 cpv. 1 lett. f OPPM)
-
-In caso di nuove costruzioni, il supplemento per i costi relativi alle attrezzature mobili ammonta al 6,2 per cento dei costi riconosciuti secondo il CCC 1–3 e 5.
-
-#### Art. 9
-
-**Supplemento per la sicurezza in caso di istituti di tipo chiuso**
+**Supplemento per l’infrastruttura edilizia di un servizio di sicurezza interno**[^8-1]
 
 ### (art. 18 cpv. 1 lett. g OPPM)
 
-In caso di istituti di tipo chiuso, il supplemento per la sicurezza ammonta a 55 000 franchi per singolo posto.
+Il supplemento per l’infrastruttura edilizia di un servizio di sicurezza interno in un istituto chiuso è pari a un massimo di 0,5 m<sup>2</sup> per singolo posto ed è moltiplicato per il prezzo di settore.
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+
+#### Art. 9
+
+**Supplemento per la costruzione di un settore d’entrata**[^9-1]
+
+### (art. 18 cpv. 1 lett. h OPPM)
+
+Il supplemento per la costruzione di un settore d’entrata in un istituto chiuso ammonta a 150 000 franchi. Non è concesso alcun supplemento se il settore d’entrata è utilizzato anche come settore disciplinare.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+
+#### Art. 9a
+
+**Supplemento per la costruzione di una camera di rigore**[^9a-1]
+
+### (art. 18 cpv. 1 lett. i OPPM)
+
+Il supplemento per la costruzione di una camera di rigore in un istituto chiuso ammonta a 80 000 franchi.
+
+[^9a-1]: Introdotto dalla cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 10
 
@@ -127,9 +182,9 @@ In caso di istituti di tipo chiuso, il supplemento per la sicurezza ammonta a 55
 
 ### (art. 18 cpv. 2 OPPM)
 
-In caso di trasformazioni, è corrisposto un supplemento per i costi relativi alle sistemazioni esterne e alle attrezzature mobili secondo il metodo tradizionale (art. 4 cpv. 1 e 2 della LF del 5 ott. 1984[^10-1] sulle prestazioni della Confederazione nel campo dell’esecuzione delle pene e delle misure; LPPM).
+In caso di trasformazioni, è corrisposto un supplemento per i costi relativi alle sistemazioni esterne e alle attrezzature mobili secondo il metodo tradizionale (art. 4 cpv. 1 e 2 della LF del 5 ott. 1984[^10-1] sulle prestazioni della Confederazione nel campo dell’esecuzione delle pene e delle misure, LPPM).
 
-[^10-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^10-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 11
 
@@ -140,29 +195,31 @@ In caso di trasformazioni, è corrisposto un supplemento per i costi relativi al
 In caso di nuove costruzioni, i sussidi forfetari per singolo posto sono calcolati secondo la procedura seguente:
 
 - 1\. Moltiplicazione della superficie in m<sup>2</sup> con il pertinente prezzo di settore dell’istituto tipo.
-- 2\.
+- 2\.[^11-1]
 
-  Al risultato della moltiplicazione si aggiungono i supplementi seguenti:
+  Al risultato della moltiplicazione di cui al numero 1 si aggiungono i supplementi seguenti:
 
-  - – supplemento per gli alloggi del personale, se indispensabile all’esercizio dell’istituto,
-  - – supplemento per la palestra, se indispensabile all’esercizio dell’istituto,
-  - – supplemento per l’impianto scolastico, se una scuola interna è riconosciuta,
-  - – per laboratori che richiedono una superficie maggiore, supplemento 1 pari a 10,2 m<sup>2</sup> per singolo posto in aggiunta all’importo forfetario del settore 7, se la superficie supera 25 m<sup>2</sup>,
-  - – per laboratori che richiedono una superficie maggiore, supplemento 2 pari a 40,2 m<sup>2</sup> per singolo posto in aggiunta all’importo forfetario del settore 7, se la superficie supera 55 m<sup>2</sup>,
-  - – supplemento per l’istituto di piccole dimensioni, se il numero dei posti non è superiore a 15.
+  - – il supplemento per l’alloggio per i visitatori se è indispensabile all’esercizio dell’istituto;
+  - – il supplemento per il settore d’entrata se è previsto nell’impostazione pedagogica dell’istituto;
+  - – il supplemento per la camera di rigore se è prevista nell’impostazione pedagogica dell’istituto;
+  - – il supplemento per piccoli istituti, se il numero dei posti non è superiore a 12.
 
 - 3\. Ne risulta il totale intermedio (TI) dei costi di costruzione riconosciuti.
 - 4\.
 
   Al TI si aggiungono i supplementi seguenti:
 
-  - – supplemento del 6,2 per cento del TI per le sistemazioni esterne (CCC 4),
-  - – supplemento del 6,2 per cento del TI per le attrezzature mobili (CCC 9),
+  - –[^11-2] supplemento del 5,8 per cento del TI per le sistemazioni esterne (CCC 4);
+  - –[^11-3] supplemento del 4,6 per cento del TI per le attrezzature mobili (CCC 9);
   - – supplemento per la sicurezza, se lo stabilimento dispone di posti chiusi.
 
 - 5\. Ne risulta il totale dei costi riconosciuti (sussidi forfetari per singolo posto) in caso di nuove costruzioni.
 
 <sup>2</sup> Il sussidio federale ammonta al 35 per cento del totale di cui al numero 5 (art. 4 cpv. 1 LPPM).
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 12
 
@@ -173,31 +230,30 @@ In caso di nuove costruzioni, i sussidi forfetari per singolo posto sono calcola
 In caso di trasformazioni, i sussidi forfetari per singolo posto sono calcolati secondo la procedura seguente:
 
 - 1\. Moltiplicazione della superficie in m<sup>2</sup> con il pertinente prezzo di settore dell’istituto tipo.
-- 2\.
+- 2\.[^12-1]
 
-  Al risultato della moltiplicazione si aggiungono i supplementi seguenti:
+  Al risultato della moltiplicazione di cui al numero 1 si aggiungono i supplementi seguenti:
 
-  - – supplemento per gli alloggi del personale, se indispensabile all’esercizio dell’istituto,
-  - – supplemento per la palestra, se indispensabile all’esercizio dell’istituto,
-  - – supplemento per l’impianto scolastico, se una scuola interna è riconosciuta,
-  - – per laboratori che richiedono una superficie maggiore, supplemento 1 pari a 10,2 m<sup>2</sup> per singolo posto in aggiunta all’importo forfetario del settore 7, se la superficie supera 25 m<sup>2</sup>,
-  - – per laboratori che richiedono una superficie maggiore, supplemento 2 pari a 40,2 m<sup>2</sup> per singolo posto in aggiunta all’importo forfetario del settore 7, se la superficie supera 55 m<sup>2</sup>,
-  - – supplemento per l’istituto di piccole dimensioni, se il numero dei posti non è superiore a 15.
+  - – supplemento per l’alloggio per i visitatori se è indispensabile all’esercizio dell’istituto;
+  - – supplemento per il settore d’entrata se è previsto nell’impostazione pedagogica dell’istituto;
+  - – supplemento per la camera di rigore, se è prevista nell’impostazione pedagogica dell’istituto;
+  - – supplemento per piccoli istituti, se il numero di posti non è superiore a 12.
 
 - 3\. Il totale dei costi riconosciuti è moltiplicato per il grado d’intervento e di rinnovamento. Il risultato costituisce la base per i sussidi forfetari per singolo posto in caso di trasformazioni.
 - 4\.
 
   A questa base si aggiunge:
 
-  - – il sussidio CCC 4, calcolato secondo il metodo tradizionale,
-  - – il sussidio CCC 9, calcolato secondo il metodo tradizionale,
-  - – il supplemento per la sicurezza, se lo stabilimento dispone di posti chiusi, moltiplicato per il grado d’intervento e di rinnovamento.
+  - – il sussidio CCC 4, calcolato secondo il metodo tradizionale;
+  - – il sussidio CCC 9, calcolato secondo il metodo tradizionale;
+  - – il supplemento per la sicurezza, se lo stabilimento dispone di posti chiusi; moltiplicato per il grado d’intervento e di rinnovamento.
 
 - 5\. Ne risulta il totale dei costi riconosciuti in caso di trasformazioni.
 
-<sup>2</sup> Il sussidio federale ammonta al 35 per cento del totale di cui al numero 5 (art. 4 cpv. 1 LPPM[^12-1]).
+<sup>2</sup> Il sussidio federale ammonta al 35 per cento del totale di cui al numero 5 (art. 4 cpv. 1 LPPM[^12-2]).
 
-[^12-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^12-2]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 13
 
@@ -224,55 +280,55 @@ I settori, le superfici determinanti per singolo posto e i prezzi di settore per
 - a. Stabilimento tipo chiuso
 
 <table>
-<tr><th></th><th>Settore</th><th>Superficie determinante per singolo posto (in m<sup>2</sup>)</th><th>Superficie determinante per singolo posto (in m<sup>2</sup>) per le misure di cui all’art. 59 cpv. 3 CP[^14-1]</th><th>Prezzo di settore per m<sup>2</sup> (stato dell’indice: 1° ottobre 2010)[^14-2]</th></tr>
-<tr><td></td><td>1 Sicurezza</td><td>2,0</td><td>2,0</td><td>6300</td></tr>
-<tr><td></td><td>2 Amministrazione</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
-<tr><td></td><td>3 Personale</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
-<tr><td></td><td>4 Detenuti 4a supplemento per lo sport 4b supplemento per la tera- pia/il trattamento 4c supplemento per la formazione</td><td>5,9 fino a 1,3 fino a 3,2 fino a 0,7</td><td>5,9 fino a 3,8 fino a 5,2 fino a 0,7</td><td>6300 6300 6300 6300</td></tr>
-<tr><td></td><td>5 Entrata e uscita</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
-<tr><td></td><td>6 Spazio abitativo</td><td>17,7</td><td>26,2</td><td>8200</td></tr>
-<tr><td></td><td>7 Lavoro</td><td>22,7</td><td>9,7</td><td>4400</td></tr>
-<tr><td></td><td>7a supplemento per laboratori che richiedono una superficie maggiore</td><td>fino a 5,0</td><td></td><td></td></tr>
-<tr><td></td><td>8 Economia domestica</td><td>5,4</td><td>5,4</td><td>8200</td></tr>
-<tr><td></td><td>Superficie totale per singolo posto</td><td>fino a 70,2</td><td>fino a 65,2</td><td></td></tr>
+<tr><th>Settore</th><th>Superficie determinante per singolo posto (in m<sup>2</sup>)</th><th>Superficie determinante per singolo posto (in m<sup>2</sup>) per le misure di cui all’art. 59 cpv. 3 CP[^14-1]</th><th>Prezzo di settore per m<sup>2</sup> (stato dell’indice: 1° ottobre 2010)[^14-2]</th></tr>
+<tr><td>1 Sicurezza</td><td>2,0</td><td>2,0</td><td>6300</td></tr>
+<tr><td>2 Amministrazione</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
+<tr><td>3 Personale</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
+<tr><td>4 Detenuti 4a supplemento per lo sport 4b supplemento per la terapia/il trattamento 4c supplemento per la formazione</td><td>5,9 fino a 1,3 fino a 3,2 fino a 0,7</td><td>5,9 fino a 3,8 fino a 5,2 fino a 0,7</td><td>6300 6300 6300 6300</td></tr>
+<tr><td>5 Entrata e uscita</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
+<tr><td>6 Spazio abitativo</td><td>17,7</td><td>26,2</td><td>8200</td></tr>
+<tr><td>7 Lavoro</td><td>22,7</td><td>9,7</td><td>4400</td></tr>
+<tr><td>7a supplemento per laboratori che richiedono una superficie maggiore</td><td>fino a 5,0</td><td></td><td></td></tr>
+<tr><td>8 Economia domestica</td><td>5,4</td><td>5,4</td><td>8200</td></tr>
+<tr><td>Superficie totale per singolo posto</td><td>fino a 70,2</td><td>fino a 65,2</td><td></td></tr>
 </table>
 
 - b. Stabilimento di tipo aperto
 
 <table>
-<tr><td></td><td>Settore</td><td>Superficie deter-minante per singolo posto (in m<sup>2</sup>)</td><td>Prezzo di settore per m2 (stato dell’indice 1° ottobre 2010)[^14-3]</td></tr>
-<tr><td></td><td>1 Sicurezza</td><td>0,8</td><td>4900</td></tr>
-<tr><td></td><td>2 Amministrazione</td><td>2,9</td><td>4900</td></tr>
-<tr><td></td><td>3 Personale</td><td>2,1</td><td>4900</td></tr>
-<tr><td></td><td>4 Detenuti</td><td>11,2</td><td>4900</td></tr>
-<tr><td></td><td>4a supplemento per lo sport</td><td>fino a 2,9</td><td>4900</td></tr>
-<tr><td></td><td>4b supplemento per la formazione</td><td>fino a 0,7</td><td>4900</td></tr>
-<tr><td></td><td>5 Entrata e uscita</td><td>2,3</td><td>4900</td></tr>
-<tr><td></td><td>6 Spazio abitativo</td><td>19,6</td><td>6400</td></tr>
-<tr><td></td><td>7 Lavoro</td><td>17,2</td><td>3500</td></tr>
-<tr><td></td><td>7a supplemento per laboratori che richiedono una superficie maggiore</td><td>fino a 6,0</td><td>3500</td></tr>
-<tr><td></td><td>8 Economia domestica</td><td>7,0</td><td>6400</td></tr>
-<tr><td></td><td>Superficie totale per singolo posto</td><td>fino a 72,7</td><td></td></tr>
+<tr><td>Settore</td><td>Superficie deter-minante per singolo posto (in m<sup>2</sup>)</td><td>Prezzo di settore per m2 (stato dell’indice 1° ottobre 2010)[^14-3]</td></tr>
+<tr><td>1 Sicurezza</td><td>0,8</td><td>4900</td></tr>
+<tr><td>2 Amministrazione</td><td>2,9</td><td>4900</td></tr>
+<tr><td>3 Personale</td><td>2,1</td><td>4900</td></tr>
+<tr><td>4 Detenuti</td><td>11,2</td><td>4900</td></tr>
+<tr><td>4a supplemento per lo sport</td><td>fino a 2,9</td><td>4900</td></tr>
+<tr><td>4b supplemento per la formazione</td><td>fino a 0,7</td><td>4900</td></tr>
+<tr><td>5 Entrata e uscita</td><td>2,3</td><td>4900</td></tr>
+<tr><td>6 Spazio abitativo</td><td>19,6</td><td>6400</td></tr>
+<tr><td>7 Lavoro</td><td>17,2</td><td>3500</td></tr>
+<tr><td>7a supplemento per laboratori che richiedono una superficie maggiore</td><td>fino a 6,0</td><td>3500</td></tr>
+<tr><td>8 Economia domestica</td><td>7,0</td><td>6400</td></tr>
+<tr><td>Superficie totale per singolo posto</td><td>fino a 72,7</td><td></td></tr>
 </table>
 
 - c. Stabilimento tipo carcere
 
 <table>
-<tr><td></td><td>Settore</td><td>Superficie determinante per singolo posto (in m<sup>2</sup>)</td><td>Prezzo di settore per m2 (stato dell’indice 1° ottobre 2010)[^14-4]</td></tr>
-<tr><td></td><td>1 Sicurezza</td><td>1,7</td><td>5300</td></tr>
-<tr><td></td><td>2 Amministrazione</td><td>1,9</td><td>5300</td></tr>
-<tr><td></td><td>3 Personale</td><td>1,1</td><td>5300</td></tr>
-<tr><td></td><td>4 Detenuti</td><td>3,6</td><td>5300</td></tr>
-<tr><td></td><td>4a supplemento per lo sport</td><td>fino a 0,6</td><td>5300</td></tr>
-<tr><td></td><td>4b supplemento per la formazione</td><td>fino a 0,7</td><td>5300</td></tr>
-<tr><td></td><td>5 Entrata e uscita</td><td>1,9</td><td>5300</td></tr>
-<tr><td></td><td>6 Spazio abitativo</td><td>13,2</td><td>7000</td></tr>
-<tr><td></td><td>7 Lavoro</td><td>4,3</td><td>3700</td></tr>
-<tr><td></td><td>8 Economia domestica</td><td>4,5</td><td>7000</td></tr>
-<tr><td></td><td>Superficie totale per singolo posto</td><td>fino a 33,5</td><td></td></tr>
+<tr><th>Settore</th><th>Superficie determinante per singolo posto (in m<sup>2</sup>)</th><th>Prezzo di settore per m2 (stato dell’indice 1° ottobre 2010)[^14-4]</th></tr>
+<tr><td>1 Sicurezza</td><td>1,7</td><td>5300</td></tr>
+<tr><td>2 Amministrazione</td><td>1,9</td><td>5300</td></tr>
+<tr><td>3 Personale</td><td>1,1</td><td>5300</td></tr>
+<tr><td>4 Detenuti</td><td>3,6</td><td>5300</td></tr>
+<tr><td>4a supplemento per lo sport</td><td>fino a 0,6</td><td>5300</td></tr>
+<tr><td>4b supplemento per la formazione</td><td>fino a 0,7</td><td>5300</td></tr>
+<tr><td>5 Entrata e uscita</td><td>1,9</td><td>5300</td></tr>
+<tr><td>6 Spazio abitativo</td><td>13,2</td><td>7000</td></tr>
+<tr><td>7 Lavoro</td><td>4,3</td><td>3700</td></tr>
+<tr><td>8 Economia domestica</td><td>4,5</td><td>7000</td></tr>
+<tr><td>Superficie totale per singolo posto</td><td>fino a 33,5</td><td></td></tr>
 </table>
 
-[^14-1]: Codice penale; [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14-1]: Codice penale; [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^14-2]: Indice svizzero dei prezzi delle costruzioni, sottoindice edilizia, IVA inclusa.
 [^14-3]: Indice svizzero dei prezzi delle costruzioni, sottoindice edilizia, IVA inclusa.
 [^14-4]: Indice svizzero dei prezzi delle costruzioni, sottoindice edilizia, IVA inclusa.
@@ -335,7 +391,7 @@ In caso di nuove costruzioni, il supplemento per le attrezzature mobili è calco
 
 In caso di trasformazioni, è corrisposto un supplemento pari ai costi relativi alle sistemazioni esterne e alle attrezzature mobili secondo il metodo tradizionale (art. 4 cpv. 1 e 2 LPPM[^20-1]).
 
-[^20-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^20-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 21
 
@@ -412,7 +468,7 @@ In caso di nuove costruzioni, i sussidi forfetari per singolo posto sono calcola
 
 <sup>2</sup> Il sussidio federale ammonta al 35 per cento del totale di cui alla cifra 5 (art. 4 cpv. 1 LPPM[^25-1]).
 
-[^25-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^25-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 26
 
@@ -446,7 +502,7 @@ In caso di trasformazioni, i sussidi forfetari per singolo posto sono calcolati 
 
 <sup>2</sup> Il sussidio federale ammonta al 35 per cento del totale di cui alla cifra 5 (art. 4 cpv. 1 LPPM[^26-1]).
 
-[^26-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^26-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 27
 

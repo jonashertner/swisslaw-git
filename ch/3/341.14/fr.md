@@ -3,18 +3,18 @@ sr: "341.14"
 title: "Ordonnance du DFJP du 19 novembre 2011 sur les subventions de construction de la Confédération aux établissements d'exécution des peines et des mesures"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/788"
 language: fr
-version: 2012-01-01
+version: 2027-01-01
 adopted: 2011-11-19
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/788/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-788-20120101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/788/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/788/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-788-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/788/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP sur les subventions de construction de la Confédération aux établissements d’exécution des peines et des mesures
 
-du 19 novembre 2011 (État le 1<sup>er</sup> janvier 2012)
+du 19 novembre 2011 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de justice et police (DFJP), en accord avec le Département fédéral des finances,
 
@@ -22,7 +22,7 @@ vu les art. 15, al. 1, 17, al. 1, 18, al. 1, et 19, al. 1, de l’ordonnance du 
 
 arrête:
 
-[^ingress-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^ingress-1]: [RS 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
 
 ## Section 1 Subventions de construction allouées aux établissements d’éducation
 
@@ -30,96 +30,151 @@ arrête:
 
 #### Art. 1
 
-**Secteurs, surfaces donnant droit à une subvention et prix de secteur**
+**Secteurs, surfaces donnant droit à une subvention et prix de secteur par établissement modèle**[^1-1]
 
-Les secteurs, les surfaces par place donnant droit à une subvention et les prix de secteur au mètre carré sont fixés comme suit:
+Les secteurs, les surfaces par place donnant droit à une subvention et les prix de secteur au mètre carré sont fixés comme suit pour les trois établissements modèles:
+
+- a. Établissement modèle du type «petits établissements ouverts comprenant un seul groupe de vie»
 
 <table>
-<tr><td>Secteur</td><td>Surface par place donnant droit à une subvention (en m<sup>2</sup>)</td><td>Prix de secteur au m<sup>2</sup> (état de l’indice au 1<sup>er</sup> octobre 2010)[^1-1]</td></tr>
-<tr><td>2 Administration</td><td>4,4</td><td>4400</td></tr>
-<tr><td>3 Personnel</td><td>2,2</td><td>4400</td></tr>
-<tr><td>4 Encadrement, visites, communauté, loisirs, sport</td><td>10,4</td><td>4400</td></tr>
-<tr><td>5 Entrée et sortie</td><td>1,9</td><td>4400</td></tr>
-<tr><td>6 Habitat</td><td>29,6</td><td>4400</td></tr>
-<tr><td>7 Formation/occupation</td><td>14,8</td><td>3700</td></tr>
-<tr><td>8 Economie domestique, élimination des déchets, garages</td><td>9,5</td><td>4400</td></tr>
-<tr><td>Surface totale par place</td><td>72,8</td><td></td></tr>
+<tr><th colspan="2">Secteur</th><th colspan="2">Surface par place donnant droit à une subvention (en m<sup>2</sup>)</th><th>Prix de secteur au m<sup>2</sup> en francs; (état de l’indice au 1<sup>er</sup> avril 2024)</th></tr>
+<tr><td>2</td><td>Administration</td><td>2,0</td><td></td><td>5600</td></tr>
+<tr><td>3</td><td>Personnel</td><td>2,3</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Encadrement, visites, communauté, loisirs, sport</td><td>9,0</td><td></td><td>5600</td></tr>
+<tr><td>5</td><td>Entrée et sortie</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Habitat</td><td>29,7</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>École interne</td><td>–</td><td></td><td>5600</td></tr>
+<tr><td>8</td><td>Économie domestique</td><td>4,1</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Surface reconnue par place</td><td>48,1</td><td></td><td></td></tr>
 </table>
 
-[^1-1]: Indice suisse des prix de la construction, sous-indice Bâtiment, TVA comprise.
+- b. Établissement modèle du type «établissements ouverts comprenant au moins deux groupes de vie»
+
+<table>
+<tr><th colspan="2">Secteur</th><th colspan="2">Surface par place donnant droit à une subvention (en m<sup>2</sup>)</th><th>Prix de secteur au m<sup>2</sup> en francs; (état de l’indice au 1<sup>er</sup> avril 2024)</th></tr>
+<tr><td>2</td><td>Administration</td><td>3,1</td><td></td><td>5600</td></tr>
+<tr><td></td><td>2a Surface supplémentaire pour grands établissements</td><td></td><td>jusqu’à 2,2</td><td>5600</td></tr>
+<tr><td>3</td><td>Personnel</td><td>4,0</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Encadrement, visites, communauté, loisirs, sport</td><td>8,5</td><td></td><td>5600</td></tr>
+<tr><td></td><td>4a Surface supplémentaire pour un local polyvalent</td><td></td><td>jusqu’à 3,8</td><td>5600</td></tr>
+<tr><td>5</td><td>Entrée et sortie</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Habitat</td><td>28,1</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>École interne</td><td></td><td>jusqu’à 16,4</td><td>5600</td></tr>
+<tr><td>8</td><td>Économie domestique</td><td>7,0</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Surface de base reconnue par place</td><td>51,7</td><td></td><td></td></tr>
+<tr><td colspan="2">Surface supplémentaire reconnue par place en cas de besoin</td><td></td><td>jusqu’à 22,4</td><td></td></tr>
+</table>
+
+- c. Établissement modèle du type «établissements fermés»
+
+<table>
+<tr><th colspan="2">Secteur</th><th colspan="2">Surface par place donnant droit à une subvention (en m<sup>2</sup>)</th><th>Prix de secteur au m<sup>2</sup> en francs; (état de l’indice au 1<sup>er</sup> avril 2024)</th></tr>
+<tr><td>1</td><td>Sécurité</td><td>2,3</td><td></td><td>5600</td></tr>
+<tr><td></td><td>1a Surface supplémentaire pour un service de sécurité interne</td><td></td><td>jusqu’à 0,5</td><td>5600</td></tr>
+<tr><td>2</td><td>Administration</td><td>3,1</td><td></td><td>5600</td></tr>
+<tr><td></td><td>2a Surface supplémentaire pour grands établissements</td><td></td><td>jusqu’à 2,2</td><td>5600</td></tr>
+<tr><td>3</td><td>Personnel</td><td>4,0</td><td></td><td>5600</td></tr>
+<tr><td>4</td><td>Encadrement, visites, communauté, loisirs, sport</td><td>10,0</td><td></td><td>5600</td></tr>
+<tr><td></td><td>4a Surface supplémentaire pour un local polyvalent</td><td></td><td>jusqu’à 3,8</td><td>5600</td></tr>
+<tr><td>5</td><td>Entrée et sortie</td><td>1,0</td><td></td><td>5600</td></tr>
+<tr><td>6</td><td>Habitat</td><td>27,6</td><td></td><td>5600</td></tr>
+<tr><td>7</td><td>École interne</td><td></td><td>jusqu’à 16,4</td><td>5600</td></tr>
+<tr><td>8</td><td>Économie domestique</td><td>7,0</td><td></td><td>5600</td></tr>
+<tr><td colspan="2">Surface de base reconnue par place</td><td>55,0</td><td></td><td></td></tr>
+<tr><td colspan="2">Surface supplémentaire reconnue par place en cas de besoin</td><td></td><td>jusqu’à 22,9</td><td></td></tr>
+</table>
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 2
 
-**Supplément pour un bâtiment destiné à l’hébergement du personnel**
+**Supplément de surface pour le secteur administratif d’un grand établissement**[^2-1]
 
 ### (art. 18, al. 1, let. a, OPPM)
 
-Le supplément pour un bâtiment destiné à l’hébergement du personnel indispensable au fonctionnement de l’établissement est de 400 000 francs.
+Le supplément pour la surface additionnelle nécessaire au secteur administratif d’un grand établissement est de 2,2 m<sup>2</sup> par place, multiplié par le prix de secteur.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 3
 
-**Supplément pour une salle de gymnastique**
+**Supplément pour la construction d’un local polyvalent**[^3-1]
 
 ### (art. 18, al. 1, let. b, OPPM)
 
-Le supplément pour une salle de gymnastique est de 1 000 000 de francs.
+Le supplément pour la construction d’un local polyvalent est de 3,8 m<sup>2</sup> au plus par place, multiplié par le prix de secteur. Il n’est pas alloué aux petits établissements.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 4
 
-**Supplément pour la construction d’une école**
+**Supplément pour la construction d’un logement destiné aux visiteurs**[^4-1]
 
 ### (art. 18, al. 1, let. c, OPPM)
 
-Le supplément pour la construction d’une école s’élève à 25 % du total des frais selon les CFC[^4-1] 1 à 3 et 5 du secteur 7.
+Le supplément pour la construction d’un logement destiné aux visiteurs est de 3,8 m<sup>2</sup> au plus par place, multiplié par le prix de secteur. Il n’est pas alloué aux petits établissements.
 
-[^4-1]: CFC = codes des frais de construction du Centre suisse d’études pour la rationalisation de la construction.
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 5
 
-**Supplément pour un atelier nécessitant une surface plus grande**
+**Supplément pour les travaux d’aménagement extérieur (CFC 4) et l’équipement mobile (CFC 9) de nouvelles constructions**[^5-1]
 
 ### (art. 18, al. 1, let. d, OPPM)
 
-<sup>1</sup>
+En cas de nouvelle construction, le supplément pour les travaux d’aménagement extérieur s’élève à 5,8 % et le supplément pour les frais afférents à l’équipement mobile à 4,6 % des frais reconnus selon les CFC 1 à 3 et 5.
 
-Un supplément de surface multiplié par le prix de secteur est alloué pour les ateliers nécessitant une surface plus grande par rapport à l’établissement modèle. Les suppléments suivants sont applicables:
-
-- a. supplément 1: un supplément de surface de 10,2 m<sup>2</sup> par place est reconnu si la surface projetée de secteur 7 dépasse 25 m<sup>2</sup> au minimum et atteint 55 m<sup>2</sup> au maximum par place,
-- b. supplément 2: un supplément de surface de 40,2 m<sup>2</sup> par place est reconnu si la surface projetée de secteur 7 dépasse 55 m<sup>2</sup> par place.
-
-<sup>2</sup> Les suppléments ne sont pas cumulables.
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 6
 
-**Supplément pour un petit établissement d’éducation**
+**Supplément pour les petits établissements**[^6-1]
 
 ### (art. 18, al. 1, let. e, OPPM)
 
-Le supplément pour un petit établissement d’éducation s’élève à 10 % des frais selon les CFC 1 à 3 et 5.
+Le supplément pour les petits établissements est de 10 % des frais selon les CFC 1 à 3 et 5.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 7
 
-**Supplément pour les aménagements extérieurs (CFC 4) de nouvelles constructions**
+**Supplément pour la sécurité dans les établissements fermés**[^7-1]
 
 ### (art. 18, al. 1, let. f, OPPM)
 
-En cas de nouvelle construction, le supplément pour les aménagements extérieurs s’élève à 6,2 % des frais reconnus selon les CFC 1 à 3 et 5.
+Le supplément pour la sécurité dans les établissements fermés s’élève à 70 000 francs par place.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 8
 
-**Supplément pour l’équipement mobile (CFC 9) de nouvelles constructions**
-
-### (art. 18, al. 1, let. f, OPPM)
-
-En cas de nouvelle construction, le supplément pour les frais afférents à l’équipement mobile s’élève à 6,2 % des frais reconnus selon les CFC 1 à 3 et 5.
-
-#### Art. 9
-
-**Supplément pour la sécurité dans les établissements fermés**
+**Supplément pour la construction de l’infrastructure nécessaire au service de sécurité interne**[^8-1]
 
 ### (art. 18, al. 1, let. g, OPPM)
 
-Dans les établissements fermés, le supplément pour la sécurité s’élève à 55 000 francs par place.
+Le supplément pour la construction de l’infrastructure nécessaire au service de sécurité interne dans un établissement fermé est de 0,5 m<sup>2</sup> par place, multiplié par le prix de secteur.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+
+#### Art. 9
+
+**Supplément pour la construction d’un secteur d’admission**[^9-1]
+
+### (art. 18, al. 1, let. h, OPPM)
+
+Le supplément pour la construction d’un secteur d’admission dans un établissement fermé s’élève à 150 000 francs. Aucun supplément n’est alloué si le secteur d’admission est également utilisé comme secteur disciplinaire.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+
+#### Art. 9a
+
+**Complément pour la construction d’une chambre disciplinaire**[^9a-1]
+
+### (art. 18, al. 1, let. i, OPPM)
+
+Le supplément pour la construction d’une chambre disciplinaire dans un établissement fermé s’élève à 80 000 francs.
+
+[^9a-1]: Introduit par le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 10
 
@@ -129,7 +184,7 @@ Dans les établissements fermés, le supplément pour la sécurité s’élève 
 
 En cas de transformation d’un bâtiment, un supplément correspondant aux frais afférents aux aménagements extérieurs et à l’équipement mobile est alloué selon la méthode traditionnelle (art. 4, al. 1 et 2, de la LF du 5 oct. 1984 sur les prestations de la Confédération dans le domaine de l’exécution des peines et des mesures[^10-1]; LPPM).
 
-[^10-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^10-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 11
 
@@ -139,30 +194,32 @@ En cas de transformation d’un bâtiment, un supplément correspondant aux frai
 
 En cas de nouvelle construction, le forfait par place est calculé selon les étapes suivantes:
 
-- 1\. multiplication de la surface en m<sup>2</sup> par le prix de secteur correspondant de l’établissement modèle,
-- 2\.
+- 1\. Multiplication de la surface en m<sup>2</sup> par le prix de secteur correspondant de l’établissement modèle.
+- 2\.[^11-1]
 
   Ajout des suppléments suivants au produit obtenu à l’étape 1:
 
-  - – supplément pour bâtiment destiné à l’hébergement du personnel, s’il est indispensable au fonctionnement de l’établissement
-  - – supplément pour salle de gymnastique, si elle est indispensable au fonctionnement de l’établissement
-  - – supplément pour l’école, si l’école intégrée dans l’établissement est reconnue
-  - – pour un atelier nécessitant une surface plus grande, supplément 1 de 10,2 m<sup>2</sup> par place en sus du forfait de secteur 7, si la surface dépasse 25 m<sup>2</sup>
-  - – pour un atelier nécessitant une surface plus grande, supplément 2 de 40,2 m<sup>2</sup> par place en sus du forfait de secteur 7, si la surface dépasse 55 m<sup>2</sup>
-  - – supplément pour un petit établissement d’éducation, s’il ne compte pas plus de quinze places.
+  - – supplément pour le logement destiné aux visiteurs, s’il est indispensable à l’exploitation de l’établissement;
+  - – supplément pour le secteur d’admission, s’il figure dans le plan pédagogique de l’établissement;
+  - – supplément pour les chambres disciplinaires, si elles figurent dans le plan pédagogique de l’établissement;
+  - – supplément pour un petit établissement, s’il ne compte pas plus de 12 places.
 
-- 3\. total intermédiaire (TI) des frais de construction reconnus,
+- 3\. Total intermédiaire (TI) des frais de construction reconnus.
 - 4\.
 
-  Ajout des suppléments suivants au total intermédiaire:
+  Ajout des suppléments suivants au TI:
 
-  - – supplément de 6,2 % du TI pour les aménagements extérieurs (CFC 4)
-  - – supplément de 6,2 % du TI pour l’équipement mobile (CFC 9)
+  - – [^11-2] supplément de 5,8 % du TI pour les aménagements extérieurs (CFC 4);
+  - – [^11-3] supplément de 4,6 % du TI pour l’équipement mobile (CFC 9);
   - – supplément pour la sécurité, si l’établissement dispose de places en secteur fermé.
 
 - 5\. Total des frais reconnus (forfait par place) en cas de nouvelle construction.
 
 <sup>2</sup> La subvention fédérale correspond à 35 % du total selon ch. 5 (art. 4, al. 1, LPPM).
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
 
 #### Art. 12
 
@@ -173,31 +230,30 @@ En cas de nouvelle construction, le forfait par place est calculé selon les ét
 En cas de transformation d’un bâtiment, le forfait par place est calculé selon les étapes suivantes:
 
 - 1\. Multiplication de la surface en m<sup>2</sup> par le prix de secteur correspondant de l’établissement modèle.
-- 2\.
+- 2\.[^12-1]
 
   Ajout des suppléments suivants au produit obtenu à l’étape 1:
 
-  - – supplément pour bâtiment destiné à l’hébergement du personnel, s’il est indispensable au fonctionnement de l’établissement
-  - – supplément pour salle de gymnastique, si elle est indispensable au fonctionnement de l’établissement
-  - – supplément pour l’école, si l’école intégrée dans l’établissement est reconnue
-  - – pour un atelier nécessitant une surface plus grande, supplément 1 de 10,2 m<sup>2</sup> par place en sus du forfait de secteur 7, si la surface dépasse 25 m<sup>2</sup>
-  - – pour un atelier nécessitant une surface plus grande, supplément 2 de 40,2 m<sup>2</sup> par place en sus du forfait de secteur 7, si la surface dépasse 55 m<sup>2</sup>
-  - – supplément pour un petit établissement d’éducation, s’il ne compte pas plus de quinze places.
+  - – supplément pour le logement destiné aux visiteurs, s’il est indispensable à l’exploitation de l’établissement;
+  - – supplément pour le secteur d’admission, s’il figure dans le plan pédagogique de l’établissement;
+  - – supplément pour les chambres disciplinaires, si elles figurent dans le plan pédagogique de l’établissement;
+  - – supplément pour un petit établissement, s’il ne compte pas plus de 12 places.
 
 - 3\. Total des frais reconnus, multiplié par le degré d’intervention et la part de renouvellement. Le produit obtenu sert de base au calcul du forfait par place.
 - 4\.
 
   Ajout des éléments suivants au produit obtenu au ch. 3:
 
-  - – subvention selon CFC 4, calculée selon la méthode traditionnelle
-  - – subvention selon CFC 9, calculée selon la méthode traditionnelle
+  - – subvention selon CFC 4, calculée selon la méthode traditionnelle;
+  - – subvention selon CFC 9, calculée selon la méthode traditionnelle;
   - – supplément pour la sécurité, si l’établissement dispose de places en secteur fermé, multiplié par le degré d’intervention et la part de renouvellement.
 
 - 5\. Total des frais reconnus en cas de transformation.
 
-<sup>2</sup> La subvention fédérale correspond à 35 % du total selon ch. 5 (art. 4, al. 1, LPPM[^12-1]).
+<sup>2</sup> La subvention fédérale correspond à 35 % du total selon ch. 5 (art. 4, al. 1, LPPM[^12-2]).
 
-[^12-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 470](https://fedlex.data.admin.ch/eli/oc/2026/470)).
+[^12-2]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 13
 
@@ -221,11 +277,11 @@ En cas de transformation d’un bâtiment, le forfait par place est calculé sel
 
 Les secteurs, les surfaces par place donnant droit à une subvention et les prix de secteur au mètre carré sont fixés comme suit, par établissement modèle:
 
-- a. Etablissement de type fermé
+- a. Établissement de type fermé
 
 <table>
 <tr><th>Secteur</th><th>Surface par place donnant droit à une subvention (en m<sup>2</sup>)</th><th>Surface par place donnant droit à une subvention (en m<sup>2</sup>) pour les mesures au sens de l’art. 59, al. 3, CP[^14-1]</th><th>Prix de secteur au m<sup>2</sup> (état de l’indice au 1<sup>er</sup> octobre 2010)[^14-2]</th></tr>
-<tr><td>1 Sécurité</td><td>2,0</td><td>2,0</td><td>6300</td></tr>
+<tr><th>1 Sécurité</th><th>2,0</th><th>2,0</th><th>6300</th></tr>
 <tr><td>2 Administration</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
 <tr><td>3 Personnel</td><td>2,1</td><td>2,1</td><td>6300</td></tr>
 <tr><td>4 Détenus</td><td>5,9</td><td>5,9</td><td>6300</td></tr>
@@ -236,14 +292,14 @@ Les secteurs, les surfaces par place donnant droit à une subvention et les prix
 <tr><td>6 Habitat</td><td>17,7</td><td>26,2</td><td>8200</td></tr>
 <tr><td>7 Travail</td><td>22,7</td><td>9,7</td><td>4400</td></tr>
 <tr><td>7a suppl. pour atelier nécessitant une surface plus grande</td><td>jusqu’à 5,0</td><td></td><td></td></tr>
-<tr><td>8 Economie domestique</td><td>5,4</td><td>5,4</td><td>8200</td></tr>
+<tr><td>8 Économie domestique</td><td>5,4</td><td>5,4</td><td>8200</td></tr>
 <tr><td>Surface totale par place</td><td>jusqu’à 70,2</td><td>jusqu’à 65,2</td><td></td></tr>
 </table>
 
-- b. Etablissement de type ouvert
+- b. Établissement de type ouvert
 
 <table>
-<tr><td>Secteur</td><td>Surface par place donnant droit à une subvention (en m<sup>2</sup>)</td><td>Prix de secteur au m<sup>2</sup> (état de l’indice au 1<sup>er</sup> octobre 2010)[^14-3]</td></tr>
+<tr><th>Secteur</th><th>Surface par place donnant droit à une subvention (en m<sup>2</sup>)</th><th>Prix de secteur au m<sup>2</sup> (état de l’indice au 1<sup>er</sup> octobre 2010)[^14-3]</th></tr>
 <tr><td>1 Sécurité</td><td>0,8</td><td>4900</td></tr>
 <tr><td>2 Administration</td><td>2,9</td><td>4900</td></tr>
 <tr><td>3 Personnel</td><td>2,1</td><td>4900</td></tr>
@@ -254,15 +310,15 @@ Les secteurs, les surfaces par place donnant droit à une subvention et les prix
 <tr><td>6 Habitat</td><td>19,6</td><td>6400</td></tr>
 <tr><td>7 Travail</td><td>17,2</td><td>3500</td></tr>
 <tr><td>7a suppl. pour atelier nécessitant surface plus grande</td><td>jusqu’à 6,0</td><td>3500</td></tr>
-<tr><td>8 Economie domestique</td><td>7,0</td><td>6400</td></tr>
+<tr><td>8 Économie domestique</td><td>7,0</td><td>6400</td></tr>
 <tr><td>Surface totale par place</td><td>jusqu’à 72,7</td><td></td></tr>
 </table>
 
-- c. Etablissement de type prison
+- c. Établissement de type prison
 
 <table>
 <tr><th>Secteur</th><th>Surface par place donnant droit à une subvention (en m<sup>2</sup>)</th><th>Prix de secteur au m<sup>2</sup> (état de l’indice au 1<sup>er</sup> octobre 2010)[^14-4]</th></tr>
-<tr><td>1 Sécurité</td><td>1,7</td><td>5300</td></tr>
+<tr><th>1 Sécurité</th><th>1,7</th><th>5300</th></tr>
 <tr><td>2 Administration</td><td>1,9</td><td>5300</td></tr>
 <tr><td>3 Personnel</td><td>1,1</td><td>5300</td></tr>
 <tr><td>4 Détenus</td><td>3,6</td><td>5300</td></tr>
@@ -271,11 +327,11 @@ Les secteurs, les surfaces par place donnant droit à une subvention et les prix
 <tr><td>5 Entrée et sortie</td><td>1,9</td><td>5300</td></tr>
 <tr><td>6 Habitat</td><td>13,2</td><td>7000</td></tr>
 <tr><td>7 Travail</td><td>4,3</td><td>3700</td></tr>
-<tr><td>8 Economie domestique</td><td>4,5</td><td>7000</td></tr>
+<tr><td>8 Économie domestique</td><td>4,5</td><td>7000</td></tr>
 <tr><td>Surface totale par place</td><td>jusqu’à 33,5</td><td></td></tr>
 </table>
 
-[^14-1]: Code pénal; [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14-1]: Code pénal; [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^14-2]: Indice suisse des prix de la construction, sous-indice Bâtiment, TVA comprise.
 [^14-3]: Indice suisse des prix de la construction, sous-indice Bâtiment, TVA comprise.
 [^14-4]: Indice suisse des prix de la construction, sous-indice Bâtiment, TVA comprise.
@@ -338,7 +394,7 @@ Le supplément pour l’équipement mobile en cas de nouvelle construction est c
 
 En cas de transformation d’un bâtiment, un supplément correspondant aux frais afférents aux aménagements extérieurs et à l’équipement mobile est alloué selon la méthode traditionnelle (art. 4, al. 1 et 2, LPPM[^20-1]).
 
-[^20-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^20-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 21
 
@@ -396,9 +452,9 @@ En cas de nouvelle construction, le forfait par place est calculé selon les ét
 
   Ajout des suppléments suivants au produit obtenu à l’étape 1:
 
-  - – supplément pour la pratique du sport
-  - – supplément pour les mesures thérapeutiques
-  - – supplément pour la formation
+  - – supplément pour la pratique du sport;
+  - – supplément pour les mesures thérapeutiques;
+  - – supplément pour la formation;
   - – supplément pour les ateliers nécessitant une surface plus grande.
 
 - 3\. TI des frais de construction reconnus.
@@ -406,16 +462,16 @@ En cas de nouvelle construction, le forfait par place est calculé selon les ét
 
   Ajout des suppléments suivants au total intermédiaire:
 
-  - – supplément en pour-cent du TI, en application du pourcentage prévu à l’art. 18 pour les aménagements extérieurs (CFC 4) selon l’établissement modèle correspondant
-  - – supplément en pour-cent du TI, en application du pourcentage prévu à l’art. 19 pour les équipements mobiles (CFC 9) selon l’établissement modèle correspondant
-  - – supplément pour la sécurité, si l’établissement dispose de places en secteur fermé
+  - – supplément en pour-cent du TI, en application du pourcentage prévu à l’art. 18 pour les aménagements extérieurs (CFC 4) selon l’établissement modèle correspondant;
+  - – supplément en pour-cent du TI, en application du pourcentage prévu à l’art. 19 pour les équipements mobiles (CFC 9) selon l’établissement modèle correspondant;
+  - – supplément pour la sécurité, si l’établissement dispose de places en secteur fermé;
   - – supplément pour la sécurité, si l’établissement dispose de places en secteur de haute sécurité.
 
 - 5\. Total des frais reconnus (forfait par place) en cas de nouvelle construction.
 
 <sup>2</sup> La subvention fédérale correspond à 35 % du total selon ch. 5 (art. 4, al. 1, LPPM[^25-1]).
 
-[^25-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^25-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 26
 
@@ -430,9 +486,9 @@ En cas de transformation d’un bâtiment, le forfait par place est calculé sel
 
   Ajout des suppléments suivants au produit obtenu à l’étape 1:
 
-  - – supplément pour la pratique du sport
-  - – supplément pour les mesures thérapeutiques
-  - – supplément pour la formation
+  - – supplément pour la pratique du sport;
+  - – supplément pour les mesures thérapeutiques;
+  - – supplément pour la formation;
   - – supplément pour les ateliers nécessitant une surface plus grande.
 
 - 3\. Total des frais reconnus, multiplié par le degré d’intervention et la part de renouvellement. Le produit obtenu sert de base au calcul du forfait par place en cas de transformation.
@@ -440,16 +496,16 @@ En cas de transformation d’un bâtiment, le forfait par place est calculé sel
 
   Ajout des éléments suivants au produit obtenu au ch. 3:
 
-  - – subvention selon CFC 4, calculée selon la méthode traditionnelle
-  - – subvention selon CFC 9, calculée selon la méthode traditionnelle
-  - – supplément pour la sécurité, si l’établissement dispose de places en secteur fermé, multiplié par le degré d’intervention et la part de renouvellement
+  - – subvention selon CFC 4, calculée selon la méthode traditionnelle;
+  - – subvention selon CFC 9, calculée selon la méthode traditionnelle;
+  - – supplément pour la sécurité, si l’établissement dispose de places en secteur fermé, multiplié par le degré d’intervention et la part de renouvellement;
   - – supplément pour la sécurité, si l’établissement dispose de places en secteur de haute sécurité, multiplié par le degré d’intervention et la part de renouvellement.
 
 - 5\. Total des frais reconnus en cas de transformation.
 
 <sup>2</sup> La subvention fédérale correspond à 35 % du total selon ch. 5 (art. 4, al. 1, LPPM[^26-1]).
 
-[^26-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^26-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 27
 
