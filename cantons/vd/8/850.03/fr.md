@@ -4,7 +4,7 @@ number: "850.03"
 title: "LOI du 09.11.2010 sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises (LHPS)"
 short: LHPS
 language: fr
-version: 2023-09-01
+version: 2029-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03?id=db1ccfb7-873f-4a81-8cd5-fbabe8fe816c"
 ---
 
@@ -56,8 +56,9 @@ décrète
 - - contributions aux coûts d'accompagnement de mineurs dans le milieu familial ou placés hors milieu familial ;
 - - attribution d'un logement liée à l'aide à la pierre ;
 - - ...
+- - offre d'accueil de jour des enfants (en vigueur au 01.01.2029).
 
-[^1-1]: Modif. 4 du 11.12.2019: Abrogation Al. 1, b, Tiret 6; entrée en vigueur au 01.03.2020 · Modif. 1 du 09.11.2010: Introduction Al. 1, b, Tiret 7; entrée en vigueur au 01.01.2029
+[^1-1]: Modif. 1 du 09.11.2010: Introduction Al. 1, b, Tiret 7; entrée en vigueur au 01.01.2029 · Modif. 4 du 11.12.2019: Abrogation Al. 1, b, Tiret 6; entrée en vigueur au 01.03.2020
 [^2-1]: Loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98))
 
 #### Art. 3
