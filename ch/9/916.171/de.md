@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2023 über das Inverkehrbringen von Düngern 
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: de
-version: 2026-01-01
+version: 2027-05-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20270501/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20270501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20270501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/de"
 
 (Düngerverordnung, DüV)
 
-vom 1. November 2023 (Stand am 1. Januar 2026)
+vom 1. November 2023 (Stand am 1. Mai 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -611,10 +611,14 @@ Der Name und die Adresse des Importeurs können durch den Namen und die Adresse 
 - c. für gewerbliche Anwender bestimmt sind; und
 - d. nach den Artikeln 48–54 ChemV[^31-4] gemeldet wurden.
 
+<sup>8</sup> Die Anforderungen gemäss der Verordnung (EU) 2024/2516[^31-5] an die digitale Kennzeichnung von Düngern sind auch für in die Schweiz importierten oder in der Schweiz in Verkehr gebrachten Dünger anwendbar.[^31-6]
+
 [^31-1]: Siehe Fussnote zu Art. 2 Abs. 2.
 [^31-2]: Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, Fassung vom ABl. L 218 vom 13.8.2008, S. 30.
 [^31-3]: Siehe Fussnote zu Art. 2 Abs. 2.
 [^31-4]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^31-5]: Verordnung (EU) 2024/2516 des Europäischen Parlaments und des Rates vom 18. September 2024 zur Änderung der Verordnung (EU) 2019/1009 im Hinblick auf die digitale Kennzeichnung von EU-Düngeprodukten, Fassung gemäss ABl. L, 2024/2516, 30.9.2024.
+[^31-6]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Mai 2027 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 #### Art. 32
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2023 sur la mise en circulation de
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: fr
-version: 2026-01-01
+version: 2027-05-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20270501/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20270501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20270501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> janvier 2026)
+du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> mai 2027)
 
 Le Conseil fédéral suisse,
 
@@ -612,10 +612,14 @@ Le nom et l’adresse de l’importateur peuvent être remplacés par le nom et 
 - c. sont destinés à des utilisateurs professionnels, et
 - d. ont été communiqués conformément aux art. 48 à 54 OChim[^31-4].
 
+<sup>8</sup> Les exigences concernant l’étiquetage numérique des engrais conformément au règlement (UE) 2024/2516[^31-5] sont également applicables aux engrais importés ou mis en circulation en Suisse.[^31-6]
+
 [^31-1]: Cf. note de bas de page relative à l’art. 2, al. 2.
 [^31-2]: Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<sup>o</sup> 339/93 du Conseil, version du JO L 218 du 13.8.2008 p. 30.
 [^31-3]: Cf. note de bas de page relative à l’art. 2, al. 2.
 [^31-4]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^31-5]: Règlement (UE) 2024/2516 du Parlement européen et du Conseil du 18 septembre 2024 modifiant le règlement (UE) 2019/1009 en ce qui concerne l’étiquetage numérique des fertilisants UE, version du JO L, 2024/2516, 30.9.2024.
+[^31-6]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> mai 2027 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 #### Art. 32
 

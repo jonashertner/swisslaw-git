@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2023 sulla messa in commercio di concimi (Ord
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: it
-version: 2026-01-01
+version: 2027-05-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20270501/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20270501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20270501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 1° novembre 2023 (Stato 1° gennaio 2026)
+del 1° novembre 2023 (Stato 1° maggio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -611,10 +611,14 @@ Il nome e l’indirizzo dell’importatore possono essere sostituiti dal nome e 
 - c. sono destinati a utilizzatori professionali; e
 - d. sono stati annunciati secondo gli articoli 48-54 OPChim[^31-4].
 
+<sup>8</sup> Le prescrizioni di etichettatura digitale dei prodotti fertilizzanti ai sensi del regolamento (UE) 2024/2516[^31-5] sono applicabili anche ai concimi importati o messi in commercio in Svizzera.[^31-6]
+
 [^31-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
 [^31-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio del 9 luglio 2008 che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio, versione della GU L 218 del 13.8.2008, pag. 30.
 [^31-3]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
 [^31-4]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^31-5]: Regolamento (UE) 2024/2516 del Parlamento europeo e del Consiglio, del 18 settembre 2024, che modifica il regolamento (UE) 2019/1009 per quanto riguarda l’etichettatura digitale dei prodotti fertilizzanti dell’UE, versione della GU L 2024/2516 del 30.09.2024.
+[^31-6]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° mag. 2027 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 #### Art. 32
 
@@ -2461,7 +2465,7 @@ II
 
 I seguenti atti normativi sono modificati come segue:
 
-...[^annex5-lvlu1-2]
+…[^annex5-lvlu1-2]
 
 [^annex5-lvlu1-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)cifra I n. 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all. n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all. n. 2]
 [^annex5-lvlu1-2]: Le mod. possono essere consultate alla [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711).
