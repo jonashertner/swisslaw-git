@@ -4,13 +4,12 @@ number: "492.110"
 title: Ordinanza sulle lingue del Cantone dei Grigioni
 short: OCLing
 language: it
-version: 2025-01-01
-corrected: 2026-10-07
-version_adopted: 2024-12-17
+version: 2027-01-01
+version_adopted: 2025-06-24
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/492.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3519/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3881/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3519/pdf_file"
 
 (OCLing)
 
-del 11.12.2007 (stato 01.01.2025)
+del 11.12.2007 (stato 01.01.2027)
 
 emanata dal Governo l'11 dicembre 2007
 
@@ -62,11 +61,11 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **3. Servizi specializzati per questioni linguistiche**
 
-<sup>1</sup> Il servizio specializzato per questioni generali in relazione alle lingue cantonali e ufficiali è il Dipartimento dell'educazione, cultura e protezione dell'ambiente (servizio specializzato per il plurilinguismo).
+<sup>1</sup> Il servizio specializzato per questioni generali in relazione alle lingue cantonali e ufficiali è il Dipartimento formazione, ambiente e cultura (servizio specializzato per il plurilinguismo).
 
 <sup>1<sup>bis</sup></sup> Il servizio specializzato per la promozione delle lingue è l'Ufficio della cultura.
 
-<sup>2</sup> Il servizio di contatto del Cantone con i comuni e le regioni nell'ambito delle lingue ufficiali comunali è il servizio competente del Dipartimento delle finanze e dei comuni; nell'ambito delle lingue scolastiche questo compito spetta ai servizi competenti del Dipartimento dell'educazione, cultura e protezione dell'ambiente. Essi ricevono sostegno specialistico dal servizio specializzato per il plurilinguismo nonché dal servizio specializzato per la promozione delle lingue.
+<sup>2</sup> Il servizio di contatto del Cantone con i comuni e le regioni nell'ambito delle lingue ufficiali comunali è il servizio competente del Dipartimento delle finanze e dei comuni; nell'ambito delle lingue scolastiche questo compito spetta ai servizi competenti del Dipartimento formazione, ambiente e cultura. Essi ricevono sostegno specialistico dal servizio specializzato per il plurilinguismo nonché dal servizio specializzato per la promozione delle lingue.
 
 ## 2. Lingue ufficiali del Cantone
 
@@ -82,7 +81,8 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 - d) direttive e circolari destinate a tutti i comuni, ad altri enti di diritto pubblico o a organizzazioni di tutto il Cantone;
 - e) avamprogetti di atti normativi che vengono posti in consultazione, con brevi spiegazioni;
 - f) risposte a interventi parlamentari in Gran Consiglio;
-- g) intestazioni di lettere, buste, nonché le Homepage dei Dipartimenti e dei servizi;
+- g) intestazioni di lettere e buste;
+- g<sup>bis</sup>) il sito internet del Cantone;
 - h) moduli destinati al pubblico.
 
 <sup>2</sup> Il Dipartimento competente può ammettere eccezioni per comunicati e moduli destinati a una determinata cerchia di persone o che sono di importanza secondaria.
@@ -247,7 +247,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Scambio 1. Programmi cantonali**
 
-<sup>1</sup> I servizi competenti del Dipartimento dell'educazione, cultura e protezione dell'ambiente promuovono programmi di scambio fra le comunità linguistiche cantonali per classi e insegnanti di tutti i livelli scolastici.
+<sup>1</sup> I servizi competenti del Dipartimento formazione, ambiente e cultura promuovono programmi di scambio fra le comunità linguistiche cantonali per classi e insegnanti di tutti i livelli scolastici.
 
 <sup>2</sup> Le spese per questi programmi vengono autorizzate dal Gran Consiglio nell'ambito del preventivo.
 
@@ -255,7 +255,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **2. Sussidi promozionali**
 
-<sup>1</sup> Le domande di enti scolastici per l'ottenimento di sussidi cantonali per lo scambio di classi e insegnanti devono essere presentate al servizio competente del Dipartimento dell'educazione, cultura e protezione dell'ambiente.
+<sup>1</sup> Le domande di enti scolastici per l'ottenimento di sussidi cantonali per lo scambio di classi e insegnanti devono essere presentate al servizio competente del Dipartimento formazione, ambiente e cultura.
 
 <sup>2</sup> I sussidi per un giorno di scambio ammontano a 90 franchi per scolaro, al massimo a 450 franchi per settimana.
 

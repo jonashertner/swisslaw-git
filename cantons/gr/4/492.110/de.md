@@ -4,13 +4,12 @@ number: "492.110"
 title: Sprachenverordnung des Kantons Graubünden
 short: SpV
 language: de
-version: 2025-01-01
-corrected: 2026-10-07
-version_adopted: 2024-12-17
+version: 2027-01-01
+version_adopted: 2025-06-24
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/492.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3519/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3881/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3519/pdf_file"
 
 (SpV)
 
-Vom 11.12.2007 (Stand 01.01.2025)
+Vom 11.12.2007 (Stand 01.01.2027)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -62,11 +61,11 @@ von der Regierung erlassen am 11. Dezember 2007
 
 **3. Fachstellen für Sprachenfragen**
 
-<sup>1</sup> Fachstelle für allgemeine Fragen im Zusammenhang mit den kantonalen Landes- und Amtssprachen ist das Erziehungs-, Kultur- und Umweltschutzdepartement (Fachstelle für Mehrsprachigkeit).
+<sup>1</sup> Fachstelle für allgemeine Fragen im Zusammenhang mit den kantonalen Landes- und Amtssprachen ist das Departement für Bildung, Umwelt und Kultur (Fachstelle für Mehrsprachigkeit).
 
 <sup>1<sup>bis</sup></sup> Fachstelle für die Sprachenförderung ist das Amt für Kultur.
 
-<sup>2</sup> Kontaktstelle des Kantons zu den Gemeinden und Regionen im Bereich der kommunalen Amtssprachen ist die zuständige Dienststelle im Departement für Finanzen und Gemeinden; im Bereich der Schulsprachen obliegt diese Aufgabe den zuständigen Dienststellen des Erziehungs-, Kultur- und Umweltschutzdepartementes. Sie werden fachlich unterstützt durch die Fachstelle für Mehrsprachigkeit sowie die Fachstelle für die Sprachenförderung.
+<sup>2</sup> Kontaktstelle des Kantons zu den Gemeinden und Regionen im Bereich der kommunalen Amtssprachen ist die zuständige Dienststelle im Departement für Finanzen und Gemeinden; im Bereich der Schulsprachen obliegt diese Aufgabe den zuständigen Dienststellen des Departements für Bildung, Umwelt und Kultur. Sie werden fachlich unterstützt durch die Fachstelle für Mehrsprachigkeit sowie die Fachstelle für die Sprachenförderung.
 
 ## 2. Amtssprachen des Kantons
 
@@ -82,7 +81,8 @@ von der Regierung erlassen am 11. Dezember 2007
 - d) Weisungen und Rundschreiben, die sich an alle Gemeinden, andere öffentlichrechtliche Körperschaften oder Organisationen im ganzen Kanton richten;
 - e) Vorentwürfe zu Erlassen, die in die Vernehmlassung gehen mit kurzen Erläuterungen;
 - f) Antworten auf parlamentarische Vorstösse im Grossen Rat;
-- g) Briefköpfe, Briefumschläge und Interneteinstiegsseiten von Departementen und Dienststellen;
+- g) Briefköpfe und Briefumschläge;
+- g<sup>bis</sup>) der Internetauftritt des Kantons;
 - h) für die Öffentlichkeit bestimmte Formulare.
 
 <sup>2</sup> Das zuständige Departement kann für Mitteilungen und Formulare, welche sich an einen bestimmten Personenkreis richten oder von untergeordneter Bedeutung sind, Ausnahmen gestatten.
@@ -247,7 +247,7 @@ von der Regierung erlassen am 11. Dezember 2007
 
 **Austausch 1. Kantonale Programme**
 
-<sup>1</sup> Die zuständigen Dienststellen des Erziehungs-, Kultur- und Umweltschutzdepartementes fördern Austauschprogramme zwischen den kantonalen Sprachgemeinschaften für Schulklassen und Lehrpersonen auf allen Schulstufen.
+<sup>1</sup> Die zuständigen Dienststellen des Departements für Bildung, Umwelt und Kultur fördern Austauschprogramme zwischen den kantonalen Sprachgemeinschaften für Schulklassen und Lehrpersonen auf allen Schulstufen.
 
 <sup>2</sup> Die Kosten für diese Programme bewilligt der Grosse Rat im Rahmen des Budgets.
 
@@ -255,7 +255,7 @@ von der Regierung erlassen am 11. Dezember 2007
 
 **2. Förderbeiträge**
 
-<sup>1</sup> Gesuche von Schulträgerschaften um kantonale Beiträge an den Austausch von Schulklassen und Lehrpersonen sind an die zuständige Dienststelle des Erziehungs-, Kultur- und Umweltschutzdepartementes zu richten.
+<sup>1</sup> Gesuche von Schulträgerschaften um kantonale Beiträge an den Austausch von Schulklassen und Lehrpersonen sind an die zuständige Dienststelle des Departements für Bildung, Umwelt und Kultur zu richten.
 
 <sup>2</sup> Die Höhe der Beiträge für einen Austauschtag beträgt pro Schülerin und Schüler 90 Franken, im Maximum 450 Franken pro Woche.
 

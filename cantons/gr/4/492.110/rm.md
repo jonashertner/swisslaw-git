@@ -4,13 +4,12 @@ number: "492.110"
 title: Ordinaziun da linguas dal chantun Grischun
 short: OLing
 language: rm
-version: 2025-01-01
-corrected: 2026-10-07
-version_adopted: 2024-12-17
+version: 2027-01-01
+version_adopted: 2025-06-24
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/492.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3519/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3881/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3519/pdf_file"
 
 (OLing)
 
-dals 11-12-2007 (versiun dals 01-01-2025)
+dals 11-12-2007 (versiun dals 01-01-2027)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -62,11 +61,11 @@ relaschada da la regenza ils 11 da december 2007
 
 **3. posts spezialisads per dumondas da linguas**
 
-<sup>1</sup> Il post spezialisà per dumondas generalas en connex cun las linguas naziunalas ed uffizialas dal chantun è il Departament d'educaziun, cultura e protecziun da l'ambient (Post spezialisà per la plurilinguitad).
+<sup>1</sup> Il post spezialisà per dumondas generalas en connex cun las linguas naziunalas ed uffizialas dal chantun è il Departament da furmaziun, ambient e cultura (Post spezialisà per la plurilinguitad).
 
 <sup>1<sup>bis</sup></sup> Il post spezialisà per la promoziun da linguas è l'Uffizi da cultura.
 
-<sup>2</sup> Il post da contact dal chantun per las vischnancas e per las regiuns en il sectur da las linguas communalas uffizialas è il post da servetsch cumpetent dal Departament da finanzas e vischnancas; en il sectur da las linguas da scola è questa incumbensa chaussa dals posts da servetsch cumpetents dal Departament d'educaziun, cultura e protecziun da l'ambient. En dumondas specificas vegnan els sustegnids tras il Post spezialisà per la plurilinguitad sco er tras il Post spezialisà per la promoziun da linguas.
+<sup>2</sup> Il post da contact dal chantun per las vischnancas e per las regiuns en il sectur da las linguas communalas uffizialas è il post da servetsch cumpetent dal Departament da finanzas e vischnancas; en il sectur da las linguas da scola è questa incumbensa chaussa dals posts da servetsch cumpetents dal Departament da furmaziun, ambient e cultura. En dumondas specificas vegnan els sustegnids tras il Post spezialisà per la plurilinguitad sco er tras il Post spezialisà per la promoziun da linguas.
 
 ## 2. Linguas uffizialas dal chantun
 
@@ -82,7 +81,8 @@ relaschada da la regenza ils 11 da december 2007
 - d) directivas e circularas che sa drizzan a tut las vischnancas, ad autras corporaziuns da dretg public u ad autras organisaziuns en tut il chantun;
 - e) sbozs preliminars da relaschs che van en consultaziun cun curtas explicaziuns;
 - f) respostas sin intervenziuns parlamentaras en il cussegl grond;
-- g) chaus da brevs, cuvertas da brevs e paginas d'access a l'internet dals departaments e dals posts da servetsch;
+- g) chaus da brevs e cuvertas da brevs;
+- g<sup>bis</sup>) las paginas d'internet dal chantun;
 - h) formulars ch'èn destinads a la publicitad.
 
 <sup>2</sup> Per communicaziuns e per formulars che sa drizzan ad in tschert circul da persunas u ch'èn d'ina impurtanza subordinada po il departament cumpetent permetter excepziuns.
@@ -247,7 +247,7 @@ relaschada da la regenza ils 11 da december 2007
 
 **Barat 1. programs chantunals**
 
-<sup>1</sup> Ils posts da servetsch cumpetents dal departament d'educaziun, cultura e protecziun da l'ambient promovan sin tut ils stgalims da scola programs da barat tranter las cuminanzas linguisticas chantunalas per classas da scola e per persunas d'instrucziun.
+<sup>1</sup> Ils posts da servetsch cumpetents dal Departament da furmaziun, ambient e cultura promovan sin tut ils stgalims da scola programs da barat tranter las cuminanzas linguisticas chantunalas per classas da scola e per persunas d'instrucziun.
 
 <sup>2</sup> Ils meds finanzials per quests programs vegnan concedids dal cussegl grond en il rom dal preventiv.
 
@@ -255,7 +255,7 @@ relaschada da la regenza ils 11 da december 2007
 
 **2. contribuziuns da promoziun**
 
-<sup>1</sup> Instituziuns ch'èn responsablas per la scola e che dumondan contribuziuns chantunalas per il barat da classas da scola e da persunas d'instrucziun ston drizzar questas dumondas al post da servetsch cumpetent dal departament d'educaziun, cultura e protecziun da l'ambient.
+<sup>1</sup> Instituziuns ch'èn responsablas per la scola e che dumondan contribuziuns chantunalas per il barat da classas da scola e da persunas d'instrucziun ston drizzar questas dumondas al post da servetsch cumpetent dal Departament da furmaziun, ambient e cultura.
 
 <sup>2</sup> L'autezza da las contribuziuns per in di da barat importa 90 francs per scolara u per scolar e maximalmain 450 francs per emna.
 
