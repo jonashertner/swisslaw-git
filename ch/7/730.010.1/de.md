@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 1. November 2017 über den Herkunftsnachweis und 
 short: HKSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-764-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2017-764-20270101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/de"
 
 (HKSV)
 
-vom 1. November 2017 (Stand am 1. Januar 2025)
+vom 1. November 2017 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -33,7 +33,9 @@ verordnet:
 
 **Herkunftsnachweis**
 
-<sup>1</sup> Der massgebende Produktionszeitraum für die Erfassung der produzierten Elektrizität beträgt für Anlagen mit einer wechselstromseitigen Nennleistung[^1-1] von mehr als 30 kVA einen Kalendermonat, für die übrigen Anlagen nach Wahl einen Kalendermonat, ein Kalenderquartal oder ein Kalenderjahr.
+<sup>1</sup> Der massgebende Produktionszeitraum für die Erfassung der produzierten Elektrizität beträgt für Anlagen mit einer wechselstromseitigen Nennleistung von mehr als 30 kVA einen Kalendermonat, für die übrigen Anlagen nach Wahl einen Kalendermonat oder ein Kalenderquartal.[^1-1]
+
+<sup>1bis</sup> In Abweichung von Absatz 1 dürfen bei Anlagen, die über kein automatisiertes Verfahren zur Übermittlung der Messdaten verfügen, die Produktionsdaten jährlich erfasst werden.[^1-2]
 
 <sup>2</sup>
 
@@ -49,18 +51,19 @@ Der Herkunftsnachweis umfasst insbesondere:
 - h. die Angabe, ob und in welchem Umfang der Produzent eine Einmalvergütung, einen Investitionsbeitrag, eine Marktprämie oder eine Mehrkostenfinanzierung erhalten hat;
 - i. Angaben zu den durch die Stromproduktion direkt verursachten Emissionen an CO<sub>2</sub> sowie zu der Menge anfallender radioaktiver Abfälle.
 
-<sup>3</sup> In Abweichung von Artikel 1 Absatz 2 Buchstabe a kann bei fossil betriebenen Anlagen mit einer Anschlussleistung von höchstens 300 kVA, die vor dem 1. Januar 2013 in Betrieb genommen wurden und einen Eigenverbrauch einschliesslich Hilfsspeisung von höchstens 20 Prozent der produzierten Elektrizitätsmenge aufweisen, die eingespeiste Energie (Überschussproduktion) im Herkunftsnachweis erfasst werden.[^1-2]
+<sup>3</sup> In Abweichung von Absatz 2 Buchstabe a kann bei fossil betriebenen Anlagen mit einer Anschlussleistung von höchstens 300 kVA, die vor dem 1. Januar 2013 in Betrieb genommen wurden und einen Eigenverbrauch einschliesslich Hilfsspeisung von höchstens 20 Prozent der produzierten Elektrizitätsmenge aufweisen, die eingespeiste Energie (Überschussproduktion) im Herkunftsnachweis erfasst werden.[^1-3]
 
 <sup>4</sup> Ein Herkunftsnachweis, der nicht bis zwölf Monate nach Ende des jeweiligen Produktionszeitraums entwertet wird, verliert seine Gültigkeit und kann nicht mehr verwendet werden. Ein Herkunftsnachweis, dessen Produktionszeitraum entweder der Monat Januar, Februar, März oder April oder das ganze erste Quartal ist, verliert seine Gültigkeit erst Ende Mai des Folgejahres.
 
-<sup>5</sup> Die Vollzugsstelle nach Artikel 64 des Energiegesetzes vom 30. September 2016[^1-3] (EnG) erlässt Richtlinien über die Form der Herkunftsnachweise; vorher gibt sie den interessierten Kreisen Gelegenheit zur Stellungnahme.
+<sup>5</sup> Die Vollzugsstelle nach Artikel 64 des Energiegesetzes vom 30. September 2016[^1-4] (EnG) erlässt Richtlinien über die Form der Herkunftsnachweise; vorher gibt sie den interessierten Kreisen Gelegenheit zur Stellungnahme.
 
-<sup>6</sup> Die Betreiberin hat ab Inbetriebnahme einer neuen Produktionsanlage Anspruch auf die Erfassung von Herkunftsnachweisen, wenn sie der Vollzugsstelle innerhalb eines Monats nach Inbetriebnahme die vollständig beglaubigten Anlagedaten zustellt. Hält sie diese Frist nicht ein, so hat sie bis zum Nachreichen der Meldung keinen Anspruch auf die Erfassung von Herkunftsnachweisen.[^1-4]
+<sup>6</sup> Die Betreiberin hat ab Inbetriebnahme einer neuen Produktionsanlage Anspruch auf die Erfassung von Herkunftsnachweisen, wenn sie der Vollzugsstelle innerhalb eines Monats nach Inbetriebnahme die vollständig beglaubigten Anlagedaten zustellt. Hält sie diese Frist nicht ein, so hat sie bis zum Nachreichen der Meldung keinen Anspruch auf die Erfassung von Herkunftsnachweisen.[^1-5]
 
-[^1-1]: Ausdruck gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-2]: Fassung gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
-[^1-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^1-4]: Eingefügt durch Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^1-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Mai 2023, in Kraft seit 1. Jan. 2027 ([AS 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
+[^1-2]: Eingefügt durch Ziff. I der V des UVEK vom 24. Mai 2023, in Kraft seit 1. Jan. 2027 ([AS 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
+[^1-3]: Fassung gemäss Ziff. I der V des UVEK vom 24. Mai 2023, in Kraft seit 1. Jan. 2027 ([AS 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
+[^1-4]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^1-5]: Eingefügt durch Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 
 #### Art. 2
 
@@ -113,7 +116,7 @@ Nicht registriert werden können Anlagen mit:
 
 **Übermittlung der Produktionsdaten**
 
-<sup>1</sup> Die Produktionsdaten müssen der Vollzugsstelle im Auftrag des Produzenten über ein automatisiertes Verfahren unmittelbar von der Messstelle aus übermittelt werden. Von der automatisierten Übermittlung ausgenommen sind Anlagen nach Artikel 8*a*<sup>sexies</sup> Absatz 5[^5-1] der Stromversorgungsverordnung vom 14. März 2008[^5-2].[^5-3]
+<sup>1</sup> Die Produktionsdaten müssen der Vollzugsstelle im Auftrag des Produzenten über ein automatisiertes Verfahren unmittelbar von der Messstelle aus übermittelt werden. Von der automatisierten Übermittlung ausgenommen sind Anlagen nach Artikel 8*a*<sup>undecies</sup> Absatz 1[^5-1] der Stromversorgungsverordnung vom 14. März 2008[^5-2].[^5-3]
 
 <sup>2</sup> Ist bei Anlagen mit einer wechselstromseitigen Nennleistung von 30 oder weniger kVA eine automatisierte Übermittlung nicht möglich, so können die Daten durch die Betreiberin der Messstelle, sofern diese vom Produzenten rechtlich entflochten ist, oder durch die Auditorin über das Herkunftsnachweis-Portal der Vollzugsstelle übermittelt werden.[^5-4]
 
@@ -127,7 +130,7 @@ Die Produktionsdaten müssen der Vollzugsstelle spätestens übermittelt werden:
 - b. bei quartalsweiser Erfassung: jeweils bis Ende des Folgemonats;
 - c. bei jährlicher Erfassung: jeweils bis Ende Februar des Folgejahres.
 
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Januar 2025 angepasst.
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Januar 2026 angepasst.
 [^5-2]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 [^5-3]: Fassung gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 [^5-4]: Fassung gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
@@ -172,11 +175,14 @@ Die Stromkennzeichnung nach Artikel 9 Absatz 3 Buchstabe b EnG muss mindestens e
 - d. dem Bezugsjahr;
 - e. dem Namen und der Kontaktstelle des kennzeichnungspflichtigen Unternehmens.[^8-1]
 
+<sup>1bis</sup> Für die Kennzeichnung werden die jährlich erfassten Produktionsmengen (Art. 1 Abs. 1<sup>bis</sup>) auf der Grundlage von Einspeiseprofilen auf die einzelnen Quartale verteilt; das kennzeichnungspflichtige Unternehmen hat der Vollzugstelle das verwendete Einspeiseprofil auf Anfrage hin vorzulegen.[^8-2]
+
 <sup>2</sup> Das kennzeichnungspflichtige Unternehmen ist auch dann für die Information der Endverbraucherinnen und Endverbraucher verantwortlich, wenn die Elektrizitätsrechnung von einem anderen Unternehmen zugestellt wird.
 
 <sup>3</sup> Im Übrigen ist die Stromkennzeichnung gemäss Anhang 1 vorzunehmen.
 
 [^8-1]: Fassung gemäss Anhang Ziff. 5 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^8-2]: Eingefügt durch Ziff. I der V des UVEK vom 24. Mai 2023, in Kraft seit 1. Jan. 2027 ([AS 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
 
 ## 3. Abschnitt: Schlussbestimmungen
 
@@ -224,7 +230,7 @@ Anhang 1[^t-1]
 
 ## Anforderungen an die Stromkennzeichnung
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des UVEK vom 24. Nov. 2021 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)) und Anhang Ziff. 5 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des UVEK vom 24. Nov. 2021 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)), Anhang Ziff. 5 der V vom 20. Nov. 2024 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)) und Ziff. II der V des UVEK vom 24. Mai 2023, in Kraft seit 1. Jan. 2027 ([AS 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
 
 ### 1 Energieträger und Zuordnung
 
@@ -263,9 +269,9 @@ Anhang 1[^t-1]
 
 ### 2 Kennzeichnung
 
-- 2\.1 Für die Lieferung in einem bestimmten Kalenderjahr sind nur Herkunftsnachweise mit einem Produktionszeitraum aus diesem Kalenderjahr zulässig.
-- 2\.2 Die Kennzeichnung muss sich auf die Daten des vorangegangenen Kalenderjahrs beziehen.
-- 2\.3 Grundlage für die Kennzeichnung bilden die Herkunfts- oder Ersatznachweise gemäss Ziffer 1.3, die für die im vergangenen Kalenderjahr produzierte Elektrizität ausgestellt wurden.
+- 2\.1 Die Kennzeichnung ist für jedes Kalenderquartal gesondert vorzunehmen. Für die in einem Quartal gelieferte Elektrizität sind nur Herkunftsnachweise mit einem Produktionszeitraum aus diesem Quartal zulässig.
+- 2\.2 …
+- 2\.3 Grundlage für die Kennzeichnung bilden die Herkunfts- oder Ersatznachweise nach Ziffer 1.3.
 
 Anhang 2
 

@@ -4,11 +4,11 @@ title: "Ordinanza del DATEC del 1° novembre 2017 sulla garanzia di origine e l'
 short: OGOE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-764-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2017-764-20270101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/it"
 
 (OGOE)
 
-del 1° novembre 2017 (Stato 1° gennaio 2025)
+del 1° novembre 2017 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -33,7 +33,9 @@ ordina:
 
 **Garanzia di origine**
 
-<sup>1</sup> Il periodo di produzione determinante per il rilevamento dell’elettricità prodotta è pari a un mese civile per gli impianti con una potenza nominale in corrente alternata[^1-1] superiore a 30 kVA e, a scelta, a un mese civile, un trimestre civile o un anno civile per gli altri impianti.
+<sup>1</sup> Il periodo di produzione determinante per il rilevamento dell’elettricità prodotta è pari a un mese civile per gli impianti con una potenza nominale in corrente alternata superiore a 30 kVA e, a scelta, a un mese civile o a un trimestre civile per gli altri impianti.[^1-1]
+
+<sup>1bis</sup> Nel caso degli impianti che non dispongono di una procedura automatica per la trasmissione dei dati di misurazione, in deroga al capoverso 1 i dati di produzione possono essere rilevati annualmente.[^1-2]
 
 <sup>2</sup>
 
@@ -49,18 +51,19 @@ La garanzia di origine comprende, in particolare:
 - h. l’indicazione dell’eventuale ammontare della rimunerazione unica, del contributo d’investimento, del premio di mercato o del finanziamento dei costi supplementari ricevuto dal produttore;
 - i. i dati relativi alle emissioni di CO<sub>2</sub> generate direttamente dalla produzione di elettricità nonché al volume delle scorie radioattive prodotte.
 
-<sup>3</sup> Nel caso degli impianti a combustibili fossili con una potenza di allacciamento pari al massimo a 300 kVA, messi in esercizio prima del 1° gennaio 2013 e con un consumo proprio, inclusa l’alimentazione ausiliaria non superiore al 20 per cento della quantità di elettricità prodotta, in deroga all’articolo 1 capoverso 2 lettera a l’energia immessa (produzione eccedentaria) può essere registrata nella garanzia di origine.[^1-2]
+<sup>3</sup> Nel caso degli impianti a combustibili fossili con una potenza di allacciamento pari al massimo a 300 kVA, messi in esercizio prima del 1° gennaio 2013 e con un consumo proprio, inclusa l’alimentazione ausiliaria, non superiore al 20 per cento della quantità di elettricità prodotta, in deroga al capoverso 2 lettera a l’energia immessa (produzione eccedentaria) può essere registrata nella garanzia di origine.[^1-3]
 
 <sup>4</sup> Una garanzia di origine che non viene annullata entro 12 mesi dalla fine del rispettivo periodo di produzione perde la sua validità e non può più essere utilizzata. Una garanzia di origine il cui periodo di produzione coincide con i mesi di gennaio, febbraio, marzo o aprile oppure con tutto il primo trimestre perde la sua validità solo a fine maggio dell’anno seguente.
 
-<sup>5</sup> L’organo di esecuzione di cui all’articolo 64 della legge federale del 30 settembre 2016[^1-3] sull’energia (LEne) emana direttive sulla forma delle garanzie di origine, dopo aver dato alle cerchie interessate la possibilità di esprimersi.
+<sup>5</sup> L’organo di esecuzione di cui all’articolo 64 della legge federale del 30 settembre 2016[^1-4] sull’energia (LEne) emana direttive sulla forma delle garanzie di origine, dopo aver dato alle cerchie interessate la possibilità di esprimersi.
 
-<sup>6</sup> Il gestore ha diritto alla registrazione di garanzie di origine a partire dalla messa in esercizio di un nuovo impianto di produzione se presenta all’organo di esecuzione la certificazione completa dei dati dell’impianto al più tardi entro un mese dalla messa in esercizio dello stesso. Se non rispetta tale termine, fino al momento in cui la notifica viene presentata non ha diritto alla registrazione di garanzie di origine.[^1-4]
+<sup>6</sup> Il gestore ha diritto alla registrazione di garanzie di origine a partire dalla messa in esercizio di un nuovo impianto di produzione se presenta all’organo di esecuzione la certificazione completa dei dati dell’impianto al più tardi entro un mese dalla messa in esercizio dello stesso. Se non rispetta tale termine, fino al momento in cui la notifica viene presentata non ha diritto alla registrazione di garanzie di origine.[^1-5]
 
-[^1-1]: Nuova espr. giusta la cifra I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^1-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
-[^1-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^1-4]: Introdotto dalla cifra I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 mag. 2023, in vigore dal 1° gen. 2027 ([RU 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)).
+[^1-2]: Introdotto dalla cifra I dell’O del DATEC del 24 mag. 2023, in vigore dal 1° gen. 2027 ([RU 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)).
+[^1-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 mag. 2023, in vigore dal 1° gen. 2027 ([RU 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)).
+[^1-4]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^1-5]: Introdotto dalla cifra I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 
 #### Art. 2
 
@@ -83,7 +86,7 @@ Per gli impianti fotovoltaici con una potenza dell’impianto inferiore a 100 kW
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 [^2-2]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^2-3]: Introdotto da n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^2-3]: Introdotto dalla cifra I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 [^2-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 #### Art. 3
@@ -113,7 +116,7 @@ Non possono essere registrati gli impianti con:
 
 **Trasmissione dei dati di produzione**
 
-<sup>1</sup> I dati di produzione devono essere trasmessi all’organo di esecuzione, su mandato del produttore, attraverso una procedura automatica direttamente dal punto di misurazione. Sono esclusi dalla trasmissione automatica gli impianti di cui all’articolo 8*a*<sup>sexies</sup> capoverso 5[^5-1] dell’ordinanza del 14 marzo 2008[^5-2] sull’approvvigionamento elettrico.[^5-3]
+<sup>1</sup> I dati di produzione devono essere trasmessi all’organo di esecuzione, su mandato del produttore, attraverso una procedura automatica direttamente dal punto di misurazione. Sono esclusi dalla trasmissione automatica gli impianti di cui all’articolo 8*a*<sup>undecies</sup> capoverso 1[^5-1] dell’ordinanza del 14 marzo 2008[^5-2] sull’approvvigionamento elettrico.[^5-3]
 
 <sup>2</sup> Se nel caso di impianti con una potenza nominale in corrente alternata pari al massimo a 30 kVA non è possibile la trasmissione automatica, i dati possono essere trasmessi dal gestore del punto di misurazione, a condizione che sia giuridicamente distinto dal produttore, oppure dall’auditor attraverso il portale dedicato alle garanzie di origine dell’organo di esecuzione.[^5-4]
 
@@ -127,7 +130,7 @@ I dati di produzione devono essere comunicati all’organo di esecuzione al più
 - b. entro la fine del mese successivo, in caso di rilevamento trimestrale;
 - c. entro la fine di febbraio dell’anno successivo, in caso di rilevamento annuale.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2025.
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2026.
 [^5-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 [^5-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 [^5-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
@@ -164,19 +167,21 @@ I dati di produzione devono essere comunicati all’organo di esecuzione al più
 
 <sup>1</sup>
 
-L’etichettatura dell’elettricità secondo l’articolo 9 capoverso 3 lettera b LEne è indicata almeno una volta ogni anno civile sul conteggio dell’elettricità o è allegata ad esso. Deve contenere un raffronto grafico del prodotto fornito con il mix del fornitore dell’azienda soggetta all’obbligo di etichettatura dell’elettricità, con le seguenti indicazioni:
+L’etichettatura dell’elettricità secondo l’articolo 9 capoverso 3 LEne[^8-1] è indicata almeno una volta ogni anno civile sul conteggio dell’elettricità o è allegata ad esso e contiene le seguenti indicazioni:
 
-- a. le quote percentuali dei vettori energetici impiegati per produrre l’elettricità fornita;
-- b. le quote percentuali dell’elettricità prodotta in Svizzera e all’estero;
-- c. i dati relativi alle emissioni di CO<sub>2</sub> generate direttamente dalla produzione di elettricità nonché al volume delle scorie radioattive prodotte come da garanzia di origine;
-- d. l’anno di riferimento;
-- e. il nome e l’ufficio di contatto dell’azienda soggetta all’obbligo di etichettatura.[^8-1]
+- a. la quota percentuale dei vettori energetici impiegati per produrre l’elettricità fornita;
+- b. la quota percentuale dell’elettricità prodotta in Svizzera o all’estero;
+- c. l’anno di riferimento;
+- d. il nome e l’ufficio di contatto dell’azienda soggetta all’obbligo di etichettatura.
+
+<sup>1bis</sup> Ai fini dell’etichettatura, la produzione elettrica registrata annualmente (art. 1 cpv. 1<sup>bis</sup>) viene ripartita tra i singoli trimestri in base ai profili di immissione in rete; le imprese soggette all’obbligo di etichettatura devono presentare all’organo di esecuzione, dietro sua richiesta, il profilo di immissione in rete utilizzato.[^8-2]
 
 <sup>2</sup> L’azienda soggetta all’obbligo di etichettatura è tenuta a informare i consumatori finali anche quando il conteggio dell’elettricità è presentato da un’altra azienda.
 
 <sup>3</sup> Per il resto, l’etichettatura dell’elettricità deve essere effettuata conformemente all’allegato 1.
 
-[^8-1]: Nuovo testo giusta l’all. n. 5 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^8-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^8-2]: Introdotto dalla cifra I dell’O del DATEC del 24 mag. 2023, in vigore dal 1° gen. 2027 ([RU 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)).
 
 ## Sezione 3: Disposizioni finali
 
@@ -201,17 +206,8 @@ Le disposizioni di cui all’allegato 1 si applicano per la prima volta nell’a
 
 Se deve essere rinnovata la certificazione dei dati di cui all’articolo 1 capoverso 2 lettere c–g per un impianto per il quale sussiste un contratto di finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne[^9b-2], tale rinnovo può essere eseguito sia da un auditor sia da una persona di cui all’articolo 2 capoverso 2<sup>bis</sup>.
 
-[^9b-1]: Introdotto da n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^9b-1]: Introdotto dall’all. n. 5 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 [^9b-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-
-#### Art. 9c
-
-**Disposizione transitoria della modifica del 20 novembre 2024**[^9c-1]
-
-Le disposizioni di cui all’articolo 8 capoverso 1 e all’allegato 1 della presente ordinanza nella versione del 20 novembre 2024[^9c-2] si applicano per la prima volta nell’anno di fornitura 2025.
-
-[^9c-1]: Introdotto dall’all. n. 5 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^9c-2]: [RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)
 
 #### Art. 10
 
@@ -225,7 +221,7 @@ Allegato 1[^t-1]
 
 ## Esigenze in materia di etichettatura dell’elettricità
 
-[^t-1]: Aggiornato dalla cifra II dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)) e dall’all. n. 5 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^t-1]: Aggiornato dalla cifra II delle O del DATEC del 24 nov. 2021 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)), dall’all. n. 5 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).e del 24 mag. 2023, in vigore dal 1° gen. 2027 ([RU 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)).
 
 ### 1 Vettori energetici e attribuzione
 
@@ -262,9 +258,60 @@ Allegato 1[^t-1]
 
 ### 2 Etichettatura
 
-- 2\.1 Per la fornitura in un determinato anno civile sono ammesse solamente garanzie di origine relative a un periodo di produzione in tale anno civile.
-- 2\.2 L’etichettatura deve riferirsi ai dati dell’anno civile precedente.
-- 2\.3 L’etichettatura si basa sulle garanzie di origine o sulle garanzie sostitutive di cui al numero 1.3, emesse per l’elettricità prodotta nell’anno civile precedente.
+- 2\.1 L’etichettatura deve essere eseguita separatamente per ogni trimestre civile. Per l’elettricità fornita in un determinato trimestre sono ammesse solamente garanzie di origine relative a un periodo di produzione compreso in tale trimestre.
+- 2\.2 ...
+- 2\.3 L’etichettatura si basa sulle garanzie di origine o sulle garanzie sostitutive di cui al numero 1.3.
+- 2\.4 L’etichettatura si effettua mediante tabella come nell’esempio riportato nella figura 1 o nella figura 2. Le dimensioni della tabella devono essere di almeno 10 × 7 cm.
+- 2\.5 Se nella tabella il mix del prodotto viene indicato secondo l’articolo 4 capoverso 2 OEn (esempio: figura 2), occorre indicare anche la fonte della pubblicazione comune ai sensi dell’articolo 4 capoverso 3.
+- Esempio di tabella per l’etichettatura dell’elettricità secondo le esigenze minime per l’indicazione del mix del fornitore:
+
+Figura 1
+
+<table>
+<tr><td colspan="4">Etichettatura dell’elettricità</td></tr>
+<tr><td>Il vostro fornitore di elettricità:</td><td>AAE ABC</td><td colspan="2">(es.)</td></tr>
+<tr><td>Contatto:</td><td colspan="2">www.aae-abc.ch (es.), tel. 099 999 99 99</td><td></td></tr>
+<tr><td>Anno di riferimento:</td><td>2019</td><td colspan="2"></td></tr>
+<tr><td colspan="4">L’elettricità fornita ai nostri clienti è stata prodotta con:</td></tr>
+<tr><td>in %</td><td>**Totale**</td><td colspan="2">**dalla Svizzera**</td></tr>
+<tr><td>Energie rinnovabili</td><td>**58,0 %**</td><td colspan="2">**48,0 %**</td></tr>
+<tr><td>Forza idrica</td><td>50,0 %</td><td colspan="2">40,0 %</td></tr>
+<tr><td>Altre energie rinnovabili</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Biomassa Rifiuti urbani</td><td>0,5 % 0,5 %</td><td colspan="2">0,5 % 0,5 %</td></tr>
+<tr><td>Elettricità che beneficia di misure di promozione<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
+<tr><td>**Energie non rinnovabili**</td><td>**42,0 %**</td><td colspan="2">**27,0 %**</td></tr>
+<tr><td>Energia nucleare</td><td>41,0 %</td><td colspan="2">26,0 %</td></tr>
+<tr><td>Vettori energetici fossili</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Rifiuti urbani</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>**Totale**</td><td>**100,0 %**</td><td colspan="2">**75,0 %**</td></tr>
+<tr><td colspan="4"><sup>1</sup> **Elettricità che beneficia di misure di promozione: 40 % forza idrica, 20 % energia solare, 7 % energia eolica, 29 % biomassa, 1 % rifiuti urbani (quota rinnovabile), 3 % geotermia**</td></tr>
+</table>
+
+- Esempio di tabella per l’etichettatura dell’elettricità secondo le esigenze minime per l’indicazione del mix del prodotto:
+
+Figura 2
+
+<table>
+<tr><td colspan="4">Etichettatura dell’elettricità</td></tr>
+<tr><td>Il vostro fornitore di elettricità:</td><td>AAE ABC</td><td colspan="2">(es.)</td></tr>
+<tr><td>Contatto:</td><td colspan="2">www.aae-abc.ch (es.), tel. 099 999 99 99</td><td></td></tr>
+<tr><td>Anno di riferimento:</td><td>2019</td><td colspan="2"></td></tr>
+<tr><td colspan="4">L’elettricità fornita (prodotto elettrico XYZ) è stata prodotta con:</td></tr>
+<tr><td>in %</td><td>**Totale**</td><td colspan="2">**dalla Svizzera**</td></tr>
+<tr><td>Energie rinnovabili</td><td>**99,0 %**</td><td colspan="2">**97,0 %**</td></tr>
+<tr><td>Forza idrica</td><td>88,0 %</td><td colspan="2">88,0 %</td></tr>
+<tr><td>Altre energie rinnovabili</td><td>4,0 %</td><td colspan="2">2,0 %</td></tr>
+<tr><td>Energia solare</td><td>0,5 %</td><td colspan="2">0,5 %</td></tr>
+<tr><td>Energia eolica</td><td>2,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>Biomassa Rifiuti urbani</td><td>1,0 % 0,5 %</td><td colspan="2">1,0 % 0,5 %</td></tr>
+<tr><td>Elettricità che beneficia di misure di promozione<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
+<tr><td>**Energie non rinnovabili**</td><td>**1,0 %**</td><td colspan="2">**1,0** **%**</td></tr>
+<tr><td>Energia nucleare</td><td>0,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>Vettori energetici fossili</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Rifiuti urbani</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>**Totale**</td><td>**100,0 %**</td><td colspan="2">**98,0 %**</td></tr>
+<tr><td colspan="4"><sup>1</sup> **Elettricità che beneficia di misure di promozione: 40 % forza idrica, 20 % energia solare, 7 % energia eolica, 29 % biomassa, 1 % rifiuti urbani (quota rinnovabile), 3 % geotermia**</td></tr>
+</table>
 
 Allegato 2
 

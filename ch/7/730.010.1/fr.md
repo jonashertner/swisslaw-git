@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 1<sup>er</sup> novembre 2017 sur la garantie d'or
 short: OGOM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-764-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-764-20270101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/fr"
 
 (OGOM)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -33,7 +33,9 @@ arrête:
 
 **Garantie d’origine**
 
-<sup>1</sup> La période de production déterminante pour la saisie de la quantité d’électricité produite est d’un mois civil pour les installations d’une puissance nominale côté courant alternatif[^1-1] supérieure à 30 kVA, et d’un mois civil, d’un trimestre civil ou d’une année civile pour les autres installations, au choix.
+<sup>1</sup> La période de production déterminante pour la saisie de la quantité d’électricité produite est d’un mois civil pour les installations d’une puissance nominale côté courant alternatif supérieure à 30 kVA, et d’un mois civil ou d’un trimestre civil pour les autres installations, au choix.[^1-1]
+
+<sup>1bis</sup> En dérogation à l’al. 1, les données de production des installations ne disposant pas de procédé de transmission automatisé peuvent continuer à être enregistrées chaque année.[^1-2]
 
 <sup>2</sup>
 
@@ -49,18 +51,19 @@ La garantie d’origine comprend notamment:
 - h. l’indication précisant si, et dans quelle mesure, le producteur a bénéficié d’une rétribution unique, d’une contribution d’investissement, d’une prime de marché ou d’un financement des coûts supplémentaires;
 - i. des indications concernant les émissions de CO<sub>2</sub> provenant directement de la production d’électricité et la quantité de déchets radioactifs produits.
 
-<sup>3</sup> Pour les installations à énergie fossile dont la puissance de raccordement est de 300 kVA au plus, qui ont été mises en service avant le 1<sup>er</sup> janvier 2013 et qui présentent une consommation propre (alimentation auxiliaire y comprise) se montant à 20 % au plus de la quantité d’électricité produite, l’énergie injectée (production excédentaire) peut être enregistrée dans la garantie d’origine, en dérogation à l’art. 1, al. 2, let. a.[^1-2]
+<sup>3</sup> Pour les installations à énergie fossile dont la puissance de raccordement est de 300 kVA au plus, qui ont été mises en service avant le 1<sup>er</sup> janvier 2013 et qui présentent une consommation propre (alimentation auxiliaire comprise) se montant à 20 % au plus de la quantité d’électricité produite, l’énergie injectée (production excédentaire) peut être enregistrée dans la garantie d’origine, en dérogation à l’al. 2, let. a.[^1-3]
 
 <sup>4</sup> Une garantie d’origine qui n’est pas annulée dans les 12 mois suivant la fin de la période de production correspondante perd sa validité et ne peut plus être utilisée. Une garantie d’origine dont la période de production correspond au mois de janvier, de février, de mars ou d’avril ou à l’ensemble du premier trimestre ne perd sa validité qu’à la fin du mois de mai de l’année suivante.
 
-<sup>5</sup> L’organe d’exécution au sens de l’art. 64 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^1-3] édicte des directives déterminant la forme de la garantie d’origine; il offre préalablement la possibilité aux milieux intéressés de donner leur avis.
+<sup>5</sup> L’organe d’exécution au sens de l’art. 64 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^1-4] édicte des directives déterminant la forme de la garantie d’origine; il offre préalablement la possibilité aux milieux intéressés de donner leur avis.
 
-<sup>6</sup> L’exploitant peut prétendre à la saisie des garanties d’origine dès la mise en service d’une nouvelle installation de production s’il remet à l’organe d’exécution le certificat de conformité complet des données relatives à l’installation dans le mois qui suit la mise en service. S’il ne respecte pas ce délai, il ne peut pas prétendre à la saisie des garanties d’origine tant qu’il n’a pas remis le certificat.[^1-4]
+<sup>6</sup> L’exploitant peut prétendre à la saisie des garanties d’origine dès la mise en service d’une nouvelle installation de production s’il remet à l’organe d’exécution le certificat de conformité complet des données relatives à l’installation dans le mois qui suit la mise en service. S’il ne respecte pas ce délai, il ne peut pas prétendre à la saisie des garanties d’origine tant qu’il n’a pas remis le certificat.[^1-5]
 
-[^1-1]: Nouvelle expression selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
-[^1-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^1-4]: Introduit par le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
+[^1-2]: Introduit par le ch. I de l’O du DETEC du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
+[^1-4]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^1-5]: Introduit par le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 
 #### Art. 2
 
@@ -113,7 +116,7 @@ Les installations suivantes ne peuvent pas être enregistrées:
 
 **Transmission des données de production**
 
-<sup>1</sup> Les données de production doivent être transmises à l’organe d’exécution sur demande du producteur par un procédé automatisé directement depuis la station de mesure. Les installations visées à l’art. 8*a*<sup>sexies</sup>, al. 5[^5-1], de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité[^5-2] ne sont pas concernées par la transmission automatique.[^5-3]
+<sup>1</sup> Les données de production doivent être transmises à l’organe d’exécution sur demande du producteur par un procédé automatisé directement depuis la station de mesure. Les installations visées à l’art. 8*a*<sup>undecies</sup>, al. 1[^5-1], de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité[^5-2] ne sont pas concernées par la transmission automatique.[^5-3]
 
 <sup>2</sup> Si pour une installation dont la puissance nominale côté courant alternatif est inférieure ou égale à 30 kVA la transmission automatique n’est pas possible, les données peuvent être transmises par l’exploitant de la station de mesure, à condition qu’il soit juridiquement distinct du producteur, ou par l’auditeur via le portail de garantie d’origine de l’organe d’exécution.[^5-4]
 
@@ -127,7 +130,7 @@ Les données de production doivent être transmises à l’organe d’exécution
 - b. à la fin du mois suivant pour les enregistrements trimestriels;
 - c. à la fin du mois de février de l’année suivante pour les enregistrements annuels.
 
-[^5-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2025 en application de l’art. 12, al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^5-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2026 en application de l’art. 12, al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^5-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
@@ -172,11 +175,14 @@ Le marquage de l’électricité prévu par l’art. 9, al. 3, let. b, LEne doit
 - d. année de référence;
 - e. nom et adresse de l’entreprise soumise à l’obligation de marquage.[^8-1]
 
+<sup>1bis</sup> Pour le marquage, les quantités de production enregistrées chaque année (art. 1, al. 1<sup>bis</sup>) sont réparties entre les trimestres sur la base des profils d’injection; sur demande, l’entreprise soumise à l’obligation de marquage est tenue de présenter le profil d’injection utilisé à l’organe d’exécution.[^8-2]
+
 <sup>2</sup> L’entreprise soumise à l’obligation de marquage est également tenue d’informer les consommateurs finaux lorsque la facture d’électricité est transmise par une autre entreprise.
 
 <sup>3</sup> Le marquage de l’électricité doit par ailleurs être effectué conformément à l’annexe 1.
 
 [^8-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^8-2]: Introduit par le ch. I de l’O du DETEC du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
 
 ## Section 3 Dispositions finales
 
@@ -224,7 +230,7 @@ Annexe 1[^t-1]
 
 ## Exigences concernant le marquage de l’électricité
 
-[^t-1]: Mise à jour par le ch. II de l’O du DETEC du 24 nov. 2021 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)) et l’annexe ch. 5 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^t-1]: Mise à jour par le ch. II de l’O du DETEC du 24 nov. 2021 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)), l’annexe ch. 5 de l’O du 20 nov. 2024 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)) et le ch. II de l’O du DETEC du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 274](https://fedlex.data.admin.ch/eli/oc/2023/274)).
 
 ### 1 Agents énergétiques et affectation
 
@@ -263,9 +269,9 @@ Annexe 1[^t-1]
 
 ### 2 Marquage
 
-- 2\.1 Pour la livraison durant une année civile donnée, seules les garanties d’origine portant sur une période de production correspondant à cette même année civile sont acceptées.
-- 2\.2 Le marquage doit faire référence aux données de l’année civile précédente.
-- 2\.3 Le marquage se base sur les garanties d’origine ou de remplacement visées au ch. 1.3 qui ont été établies pour l’électricité produite durant l’année civile précédente.
+- 2\.1 Le marquage est effectué séparément pour chaque trimestre civil. Pour l’électricité livrée durant un trimestre civil, seules les garanties d’origine portant sur une période de production correspondant à ce même trimestre civil sont acceptées.
+- 2\.2 ...
+- 2\.3 Le marquage se base sur les garanties d’origine ou de remplacement visées au ch. 1.3.
 
 Annexe 2
 
