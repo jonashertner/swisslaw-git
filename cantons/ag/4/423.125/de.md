@@ -4,13 +4,12 @@ number: "423.125"
 title: Verordnung über die Mittelschule
 short: "Mittelschulverordnung, MSV"
 language: de
-version: 2026-08-01
-valid_until: 2027-07-31
-version_adopted: 2026-05-13
+version: 2027-08-01
+version_adopted: 2026-08-26
 adopted: 2026-05-13
 in_force: 2026-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.125"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3984/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4036/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3984/pdf_file"
 
 (Mittelschulverordnung, MSV)
 
-Vom 13.05.2026 (Stand 01.08.2026)
+Vom 13.05.2026 (Stand 01.08.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -277,7 +276,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Die Schulleitung erklärt die ganze Aufnahmeprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Aufnahmeprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Die Schulleitung erklärt die ganze Aufnahmeprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt oder benutzt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Aufnahmeprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> Die Aufnahmeprüfung kann am nächsten ordentlichen Prüfungstermin wiederholt werden, wenn es sich bei der für ungültig erklärten Aufnahmeprüfung um den ersten Versuch gehandelt hat.
 
