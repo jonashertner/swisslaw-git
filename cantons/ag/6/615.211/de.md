@@ -4,13 +4,12 @@ number: "615.211"
 title: Verordnung über den Finanzausgleich zwischen den Gemeinden
 short: "Finanzausgleichsverordnung, FiAV"
 language: de
-version: 2024-05-01
-valid_until: 2026-12-31
-version_adopted: 2024-03-27
+version: 2027-01-01
+version_adopted: 2026-07-01
 adopted: 2017-06-21
 in_force: 2017-12-31
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/615.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3759/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4023/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3759/pdf_file"
 
 (Finanzausgleichsverordnung, FiAV)
 
-Vom 21.06.2017 (Stand 01.05.2024)
+Vom 21.06.2017 (Stand 01.01.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -46,7 +45,7 @@ beschliesst:
 - a) bei einer absoluten Zahl zur nächstgelegenen ganzen Zahl,
 - b) bei einer Verhältniszahl (Anteil) auf 7 Kommastellen.
 
-<sup>2</sup> Der durchschnittliche Steuerfuss gemäss § 5 Abs. 3 FiAG wird zur nächstgelegenen ganzen Zahl gerundet.
+<sup>2</sup> Der gewichtete kantonale Mittelwert des Steuerfusses gemäss § 5 Abs. 3 FiAG wird zur nächstgelegenen ganzen Zahl gerundet.
 
 <sup>3</sup> Alle berechneten Beiträge und Abgaben werden gemäss kaufmännischen Grundsätzen auf Fr. 1'000.– gerundet. Die Rundung erfolgt je separat für
 
@@ -70,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> Zur Berechnung des Ertrags der Einkommens- und Vermögenssteuern der natürlichen Personen bei einem Steuerfuss von 100 % werden die Sollsteuererträge aus jedem Jahr durch den für dieses Jahr geltenden Steuerfuss dividiert und anschliessend mit 100 multipliziert. Für die Erträge aus den Quellensteuern wird dabei der für die Quellensteuern massgebende Steuerfuss verwendet.
 
-<sup>3</sup> Der Ertrag der Einkommens- und Vermögenssteuern der natürlichen Personen bei Anwendung des durchschnittlichen Steuerfusses gemäss § 5 Abs. 2 lit. a FiAG ergibt sich aus der Division des Ertrags bei einem Steuerfuss von 100 % gemäss Absatz 2 durch den Divisor 100 und der anschliessenden Multiplikation mit dem durchschnittlichen Steuerfuss gemäss § 5 Abs. 3 FiAG.
+<sup>3</sup> Der Ertrag der Einkommens- und Vermögenssteuern der natürlichen Personen bei Anwendung des gewichteten kantonalen Mittelwerts des Steuerfusses gemäss § 5 Abs. 2 lit. a FiAG ergibt sich aus der Division des Ertrags bei einem Steuerfuss von 100 % gemäss Absatz 2 durch den Divisor 100 und der anschliessenden Multiplikation mit dem gewichteten kantonalen Mittelwert des Steuerfusses gemäss § 5 Abs. 3 FiAG.
 
 <sup>4</sup> Bei der Berechnung des Normsteuerertrags werden die im Nachsteuerverfahren erhobenen Steuern entsprechend den für die Erträge aus ordentlicher Veranlagung geltenden Regelungen berücksichtigt.
 
@@ -118,9 +117,13 @@ beschliesst:
 
 #### § 8
 
-**Siedlungsfläche**
+**Strassenlänge**
 
-<sup>1</sup> Die Siedlungsfläche gemäss § 10 Abs. 2 FiAG entspricht der in Hektaren gemessenen Summe der Wohn- und Mischzone sowie der Industrie- und Gewerbezone gemäss der Statistik "Stand der Erschliessung" des Departements Bau, Verkehr und Umwelt.
+<sup>1</sup> Der für die Berechnung des räumlich-strukturellen Lastenausgleichs massgebende Wert der Strassenlänge wird vom Vermessungsamt gemäss den Vorgaben von § 10 Abs. 2 FiAG ermittelt.
+
+<sup>2</sup> Der massgebende Wert beinhaltet auch die in den Daten von swisstopo[^8-1] enthaltenen Waldstrassen, welche die Voraussetzungen von § 10 Abs. 2 FiAG erfüllen.
+
+[^8-1]: Bundesamt für Landestopografie Swisstopo ([https://www.swisstopo.admin.ch](https://www.swisstopo.admin.ch))
 
 ## 3. Ordentliche Ergänzungsbeiträge
 
@@ -170,7 +173,7 @@ beschliesst:
 
 <sup>3</sup> Verzichtet eine Gemeinde in einem Jahr ganz oder teilweise auf mögliche Entnahmen aus der Aufwertungsreserve, wird die Differenz zwischen der tatsächlichen Entnahme und der im jeweiligen Jahr maximal möglichen Entnahme dem Gesamtergebnis als Ertragsposition hinzugerechnet.
 
-<sup>4</sup> Weist eine Gemeinde in einem der Jahre, die gemäss § 12 Abs. 4 FiAG für die Ermittlung des Beitragsanspruchs massgebend sind (Berechnungsjahre), einen Steuerfuss auf, der tiefer oder höher liegt als jener, der im entsprechenden Jahr Voraussetzung für den Anspruch auf ordentliche Ergänzungsbeiträge gewesen wäre (Steuerfussobergrenze), werden bei der Ermittlung des bereinigten Ergebnisses die Steuererträge in dem Umfang berücksichtigt, der bei Anwendung der Steuerfussobergrenze erzielt worden wäre.
+<sup>4</sup> Weist eine Gemeinde in einem der Jahre, die gemäss § 12 Abs. 4 FiAG für die Ermittlung des Beitragsanspruchs massgebend sind (Berechnungsjahre), einen Steuerfuss auf, der vom massgeblichen Steuerfuss abweicht, werden bei der Ermittlung des bereinigten Ergebnisses die Steuererträge so berücksichtigt, wie sie bei Anwendung des massgeblichen Steuerfusses erzielt worden wären. Als massgeblicher Steuerfuss gilt jener Steuerfuss, der im Jahr, für das Ergänzungsbeiträge beantragt werden (Auszahlungsjahr), Voraussetzung für den Anspruch auf ordentliche Ergänzungsbeiträge wäre.
 
 <sup>5</sup> Hat eine Gemeinde in einem der Berechnungsjahre ordentliche oder ausserordentliche Ergänzungsbeiträge erhalten, werden diese für die Ermittlung des bereinigten Ergebnisses nicht berücksichtigt.
 
@@ -260,6 +263,14 @@ beschliesst:
 **Übergangsrecht zur Änderung vom 11. November 2020**
 
 <sup>1</sup> Die in § 4 Abs. 4 bei der Berechnung des Normsteuerertrags vorgesehene Berücksichtigung der im Nachsteuerverfahren erhobenen Steuern wird erstmals im Finanzausgleich für das Jahr 2022 wirksam.
+
+#### § 18b
+
+**Übergangsrecht zur Änderung vom 1. Juli 2026**
+
+<sup>1</sup> Bei der Ermittlung des bereinigten Ergebnisses gemäss § 13 ist das Gesamtergebnis der einzelnen Jahre so zu berechnen, als ob die im Auszahlungsjahr geltenden Regeln für den Soziallastenausgleich und den räumlich-strukturellen Lastenausgleich bereits angewendet worden wären. Dies gilt, soweit die massgebenden Daten gemäss § 12 Abs. 4 FiAG aus Jahren stammen, in denen die Änderungen vom 2. Juni 2026 des Finanzausgleichsgesetzes und des Finanzausgleichsdekrets[^18b-1] noch nicht oder nicht vollständig finanzwirksam waren.
+
+[^18b-1]: Dekret über den Finanzausgleich zwischen den Gemeinden (Finanzausgleichsdekret, FiAD) vom 1. März 2016 (SAR [615.210](https://gesetzessammlungen.ag.ch/data/615.210/de))
 
 #### § 19
 
