@@ -4,7 +4,7 @@ number: "832.01.1"
 title: "RÈGLEMENT du 18.09.1996 concernant la loi du 25 juin 1996 d'application vaudoise de la loi fédérale sur l'assurance-maladie (RLVLAMal)"
 short: RLVLAMal
 language: fr
-version: 2025-11-01
+version: 2027-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01.1?id=46700a0c-559b-4844-b64a-1496d6a0ba61"
 ---
 
@@ -284,7 +284,11 @@ arrête
 - c. a intentionnellement et librement renoncé à mettre toute sa capacité de gain à contribution ;
 - d. renonce sciemment à des prestations auxquelles elle pourrait avoir droit en vertu d'une autre assurance sociale.
 
-[^chapterChapitreI-2]: Modif. 6 du 01.05.2013: Modification Al. 1; entrée en vigueur au 01.01.2012 · Modif. 13 du 07.10.2026: Introduction Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
+<sup>2</sup> Le Conseil d'Etat arrête les seuils de fortune mobilière au-delà desquels les assurés ne peuvent être considérés comme étant de condition économique modeste et détermine à cette fin les éléments de fortune mobilière à prendre en compte.
+
+<sup>3</sup> Si un membre de l'unité économique de référence ne peut être considéré comme étant de condition économique modeste, aucun membre de l'unité économique de référence n'a droit à un subside. Le cas des enfants majeurs économiquement dépendants au sens de l'article 13 RLHPS est réservé dans les cas prévus à l'al. 1 let. c et d.
+
+[^chapterChapitreI-2]: Modif. 6 du 01.05.2013: Modification Al. 1; entrée en vigueur au 01.01.2012 · Modif. 13 du 07.10.2026: Introduction Al. 2-3; entrée en vigueur au 01.01.2027
 
 #### Art. 18
 
@@ -445,38 +449,119 @@ arrête
 
 [^chapterChapitreII-2]: Modif. 1 du 10.09.2001: Modification Art. 21; entrée en vigueur au 01.01.2002 · Modif. 2 du 20.09.2006: Modification Al. 1; entrée en vigueur au 01.01.2007 · Modif. 6 du 01.05.2013: Modification Al. 1; entrée en vigueur au 01.01.2012 · Modif. 7 du 01.05.2013: Modification Art. 21; entrée en vigueur au 01.01.2013 · Modif. 8 du 24.09.2014: Modification Al. 1; entrée en vigueur au 01.01.2015 · Modif. 10 du 09.05.2018: Modification Al. 1a Tiret 5,1b Tiret 6,1c Tiret 5,1d Tiret 5,1e Tiret 6,1f Tiret 5,1g Tiret 5; entrée en vigueur au 01.01.2018; Introduction Al. 1 h; entrée en vigueur au 01.01.2018 · Modif. 11 du 10.10.2018: Modification Al. 1, f-h; entrée en vigueur au 01.01.2019
 
+#### Art. 21a
+
+**Subside spécifique (art. 17a à 17c loi) – Principes [^21-1]**
+
+<sup>1</sup> Peuvent bénéficier d'une augmentation du subside, sous forme de subside spécifique, les membres d'une UER au sens des art. 9 et 10 LHPS pour laquelle le paiement des primes de l'assurance obligatoire des soins, après déduction des subsides octroyés au titre des art. 11 à 13 LVLAMal, représente un pourcentage de leur revenu déterminant unifié (ci-après : « RDU ») au sens de l'art. 6 LHPS (taux d'effort) supérieur à 10%. L'al. 2 est réservé.
+
+<sup>2</sup> Lorsqu'un membre de l'UER bénéficie des prestations complémentaires au sens de la LPCFam, elles sont prises en compte dans le calcul du RDU de l'UER.
+
+<sup>3</sup> Les primes de l'assurance obligatoire des soins de chacun des membres de l'UER au sens de l'al. 1 sont limitées aux primes de référence figurant dans l'arrêté annuel concernant les subsides aux primes de l'assurance-maladie obligatoire qui correspondent à la situation de l'UER.
+
+<sup>4</sup> Les personnes bénéficiant de l'une des catégories particulières de subside de l'art. 18 al. 1 et 2 LVLAMal n'ont pas droit à un subside spécifique.
+
+[^21-1]: Modif. 13 du 07.10.2026: Introduction tArt; entrée en vigueur au 01.01.2027; Introduction Al. 1-4; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027
+
+#### Art. 21b
+
+**Calcul du taux d'effort (art. 17b loi) [^21a-1]**
+
+<sup>1</sup> Pour calculer le taux d'effort, la prime mensuelle subsidiable au sens de l'art. 16 de la loi due pour l'assurance obligatoire des soins de chaque membre de l'UER est prise en compte, y compris celles des membres de l'UER ayant renoncé à leur droit au subside. Lorsque la prime subsidiable d'un membre de l'UER est supérieure à la prime de référence correspondante, elle est remplacée par celle-ci lors du calcul du taux d'effort.
+
+<sup>2</sup> La prime subsidiable pour chacun des membres de l'UER, limitée à la prime de référence figurant dans l'arrêté annuel concernant les subsides aux primes de l'assurance-maladie obligatoire qui correspondent à la situation de l'UER, est prise en compte pour le calcul du droit au subside spécifique et pour l'attribution de celui-ci aux différents membres de l'UER.
+
+<sup>3</sup> Le taux d'effort de l'UER au sens de l'art. 21a al. 1 correspond au rapport entre les primes définies aux al. 1 et 2 prises en compte et annualisées après déduction pour chacun des membres de l'UER des subsides calculés au titre des art. 11 à 13 LVLAMal y compris ceux des membres de l'UER ayant renoncé à leur droit au subside, et le RDU applicable à l'UER.
+
+<sup>4</sup> Lorsque le RDU applicable à l'UER est inférieur ou égal à 0 fr., le taux d'effort est égal à 100%.
+
+[^21a-1]: Modif. 13 du 07.10.2026: Introduction tArt; entrée en vigueur au 01.01.2027; Introduction Al. 1-4; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027
+
+#### Art. 21c
+
+**Calcul du subside spécifique (art. 17c loi) [^21b-1]**
+
+<sup>1</sup> Le subside spécifique correspond à la différence entre le total des primes définies selon l'art. 21b al. 1 et 2 pour le calcul du taux d'effort, diminuées du subside octroyé au titre des art. 11 à 13 LVLAMal, et 10% du RDU de l'UER au sens de l'art. 21a al. 1.
+
+<sup>2</sup> Si ce résultat aboutit à un montant positif, celui-ci correspond au subside spécifique total à attribuer aux membres de l'UER conformément à l'al. 4.
+
+<sup>3</sup> Si ce résultat aboutit à un montant négatif ou nul, aucun subside spécifique n'est dû à l'UER.
+
+<sup>4</sup> Au sein de l'UER, le subside spécifique est attribué prioritairement à la catégorie des enfants, puis à celle des jeunes adultes et, enfin, à celle des adultes. Au sein d'une même catégorie, si plusieurs assurés sont concernés, le subside est réparti à parts égales entre lesdits assurés, dans la limite de la prime subsidiable de chacun d'entre eux, telle que définie dans l'art. 16 de la loi. Il est arrondi au franc supérieur.
+
+<sup>5</sup> Le subside spécifique est versé seul ou en complément au subside octroyé selon les art. 11 à 13 LVLAMal.
+
+<sup>6</sup> Si un membre de l'UER n'a pas droit au subside au motif qu'il ne peut pas être considéré comme étant de condition économique modeste au sens de l'art. 9 al. 1, 3 et 4 LVLAMal, aucun membre de l'UER n'a droit à un subside spécifique.
+
+<sup>7</sup> Si un membre de l'UER renonce au subside, le montant auquel il aurait droit au titre du subside spécifique n'est pas attribué aux autres membres de l'UER.
+
+[^21b-1]: Modif. 13 du 07.10.2026: Introduction Art. 21c; entrée en vigueur au 01.01.2027
+
+#### Art. 21d
+
+**Montant du subside spécifique [^21c-1]**
+
+<sup>1</sup> Le subside mensuel total octroyé à un assuré pour la réduction de sa prime ne peut dépasser sa prime subsidiable au sens de l'art. 21b al. 1.
+
+<sup>2</sup> Le subside mensuel total octroyé à un assuré pour la réduction de sa prime ne peut pas dépasser la prime de référence figurant dans l'arrêté annuel concernant les subsides aux primes de l'assurance-maladie obligatoire qui correspondent à la situation de l'UER
+
+<sup>3</sup> Le subside spécifique mensuel minimum de l'UER est fixé à 20 fr. par mois. L'al. 4 let. b est réservé.
+
+<sup>4</sup> Si le montant du subside spécifique calculé pour l'UER est inférieur au montant minimum au sens de l'al. 3, mais supérieur à 0 fr. par mois :
+
+- a. l'UER a droit au subside spécifique minimum au sens de l'al. 3, lorsqu'aucun membre de l'UER n'a droit à un subside octroyé selon les art. 11 à 13 LVLAMal ;
+- b. l'UER a droit à un subside spécifique d'au minimum 1 fr. par mois, lorsque l'un des membres bénéficie d'un subside octroyé au sens des art. 11 à 13 LVLAMal.
+
+[^21c-1]: Modif. 13 du 07.10.2026: Introduction Art. 21d; entrée en vigueur au 01.01.2027
+
 #### Art. 22
 
 <sup>1</sup> Le montant du subside ne peut être supérieur à la prime exigée par l'assureur.
 
+#### Art. 22a
+
+**Situation économique réelle du requérant (art. 12a de la loi) [^22-1]**
+
+<sup>1</sup> Conformément à l'article 12a de la loi, l'OVAM détermine la situation économique réelle dans les cas suivants :
+
+- a. le début ou la fin d'une activité lucrative ;
+- b. la variation, pendant au moins trois mois, du taux d'activité de 20% ou plus au sein d'une unité économique de référence ;
+- c. l'allocation de prestations de chômage, perte de gain, AVS/AI, d'assurance-accident ou de prestations d'assurance privées ;
+- d. la variation de la fortune, au sens de l'article 6 alinéa 2 lettre 2 LHPS, de plus de 100'000 fr. au sein d'une UER ;
+- e. le revenu déterminant précédemment retenu ne correspond manifestement pas à la réalité ;
+
+<sup>2</sup> Les révisions effectuées par les autorités liées à la LHPS pour les prestations circonstancielles sont réservées.
+
+<sup>3</sup> Afin de déterminer les dépenses réelles au sens de l'article 12a alinéa 3 de la loi, l'OVAM peut majorer les dépenses annoncées par le requérant du forfait pour l'entretien et l'intégration sociale du revenu d'insertion (RI) au sens de l'article 22 alinéa 1 lettre a RLASV.
+
+[^22-1]: Modif. 13 du 07.10.2026: Introduction Art. 22a; entrée en vigueur au 01.01.2027
+
 #### Art. 23
 
-**Calcul du revenu déterminant (art. 11, 12 loi) [^22-1]**
+**... [^22a-1]**
 
-<sup>1</sup> Le calcul du revenu déterminant pour l'octroi de la prestation s'effectue selon les principes établis par la loi sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises [^23-1] et par le règlement d'application y relatif (ci-après : RLHPS) [^23-2] .
+<sup>1</sup> ...
 
-<sup>2</sup> En présence d'un changement de la situation économique réelle du requérant, l'OVAM calcule le revenu déterminant sur la base de pièces justificatives fournies par le requérant conformément à l'article 6 RLHPS. Si le revenu déterminant qui en résulte s'écarte, conformément à l'article 12 de la loi, de 20 % ou plus du revenu déterminant au sens de l'article 11 de la loi, l'OVAM se fonde sur cette situation pour l'octroi du subside.
+<sup>2</sup> ...
 
-<sup>3</sup> Sont notamment à prendre en compte les situations suivantes :
+<sup>3</sup> ...
 
-- a. lorsque le requérant est au chômage ;
-- b. lors d'un changement de la composition du ménage ;
-- c. lors de la fin ou du début d'une activité lucrative ;
-- d. lorsque, nonobstant la taxation fiscale, la situation réelle du requérant ne répond pas aux critères de condition économique modeste fixés par l'article 17.
+- a. ...
+- b. ...
+- c. ...
+- d. ...
 
-[^22-1]: Modif. 1 du 10.09.2001: Modification Al. 2; entrée en vigueur au 01.01.2002 · Modif. 4 du 18.04.2007: Modification Al. 2 b; entrée en vigueur au 01.01.2007 · Modif. 5 du 30.05.2012: Modification Art. 23; entrée en vigueur au 01.01.2013 · Modif. 6 du 01.05.2013: Modification Al. 1,2; entrée en vigueur au 01.01.2012 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Abrogation tArt; entrée en vigueur au 01.01.2027; Abrogation Al. 1-3; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
-[^23-1]: Loi du 09.11.2010 sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises ([BLV 850.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03?id=db1ccfb7-873f-4a81-8cd5-fbabe8fe816c))
-[^23-2]: Règlement du 30.05.2012 d’application de la loi du 9 novembre 2010 sur l’harmonisation et la coordination de l’octroi des prestations sociales et d’aide à la formation et au logement cantonales vaudoises ([BLV 850.03.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03.1?id=04227fb8-f6a7-4c4c-836e-eb287c7e95ab))
+[^22a-1]: Modif. 1 du 10.09.2001: Modification Al. 2; entrée en vigueur au 01.01.2002 · Modif. 4 du 18.04.2007: Modification Al. 2 b; entrée en vigueur au 01.01.2007 · Modif. 5 du 30.05.2012: Modification Art. 23; entrée en vigueur au 01.01.2013 · Modif. 6 du 01.05.2013: Modification Al. 1,2; entrée en vigueur au 01.01.2012 · Modif. 13 du 07.10.2026: Abrogation tArt; entrée en vigueur au 01.01.2027; Abrogation Al. 1-3; entrée en vigueur au 01.01.2027
 
 #### Art. 23a
 
-**Subside intégral octroyé en cours d'année (art. 18 loi ) [^23-3]**
+**Subside intégral octroyé en cours d'année (art. 18 loi ) [^23-1]**
 
 <sup>1</sup> Conformément à l'article 18, alinéa 3, de la loi, le subside octroyé en cours d'année peut exceptionnellement couvrir la prime effective facturée par l'assureur, et ce, au plus tard jusqu'au prochain terme de résiliation de l'assurance au sens de la LAMal [^23a-1] .
 
 <sup>2</sup> Passé ce délai, le subside est limité à la prime cantonale de référence prévue par l'article 17 de la loi.
 
-[^23-3]: Modif. 1 du 10.09.2001: Introduction Art. 23a; entrée en vigueur au 01.01.2002 · Modif. 6 du 01.05.2013: Modification Art. 23a; entrée en vigueur au 01.01.2012
+[^23-1]: Modif. 1 du 10.09.2001: Introduction Art. 23a; entrée en vigueur au 01.01.2002 · Modif. 6 du 01.05.2013: Modification Art. 23a; entrée en vigueur au 01.01.2012
 [^23a-1]: Loi fédérale du 18.03.1994 sur l’assurance-maladie (RS 832.10)
 
 #### Art. 24
@@ -497,13 +582,29 @@ arrête
 
 [^24-1]: Modif. 10 du 09.05.2018: Introduction Art. 24a; entrée en vigueur au 01.01.2018
 
+#### Art. 24b
+
+**Requête pour cas de rigueur (art. 13 al. 2 loi) [^24a-1]**
+
+<sup>1</sup> La requête pour cas de rigueur au sens de l'article 13 alinéa 2 de la loi n'est recevable que si une demande au sens de l'article 15 de la loi a été préalablement déposée.
+
+<sup>2</sup> Les personnes au bénéfice d'un subside particulier au sens de l'article 18, alinéa 1, lettre a de la loi sont dispensées de déposer une demande préalable au sens de l'article 15 de la loi.
+
+<sup>3</sup> La requête doit être complète et contenir tous les documents et informations nécessaires requis par l'OVAM.
+
+<sup>4</sup> La directive précise les critères d'entrée en matière sur un cas de rigueur et les documents spécifiques à joindre à la demande.
+
+<sup>5</sup> Une augmentation du loyer ou du coût général de la vie ne constitue en aucun cas un cas de rigueur.
+
+[^24a-1]: Modif. 13 du 07.10.2026: Introduction tArt; entrée en vigueur au 01.01.2027; Introduction Al. 1-5; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027
+
 ### Chapitre III Octroi des subsides
 
 #### Art. 25
 
-**Naissance du droit au subside et décision d'octroi (art. 15 et 21 loi) [^chapterChapitreIII-2]**
+**25 Effet de la demande (art. 15 loi) [^chapterChapitreIII-2]**
 
-<sup>1</sup> Le droit au subside prend naissance le premier jour du deuxième mois suivant celui où la demande de subside est déposée, sous réserve de l'alinéa 1bis. Lorsque le requérant établit avoir été empêché sans sa faute de déposer plus tôt sa demande, ou lorsqu'il dépose sa demande à la suite d'une information périodique au sens de l'article 10 de la loi, il peut être accordé exceptionnellement un subside avec effet rétroactif, mais au plus tôt dès le début de la période de subside en cours.
+<sup>1</sup> Le droit au subside prend naissance le premier jour du mois suivant celui où la demande de subside est déposée, sous réserve de l'alinéa 1bis. Lorsque le requérant établit avoir été empêché sans sa faute de déposer plus tôt sa demande, ou lorsqu'il dépose sa demande à la suite d'une information périodique au sens de l'article 10 de la loi, il peut être accordé exceptionnellement un subside avec effet rétroactif, mais au plus tôt dès le début de la période de subside en cours.
 
 <sup>1bis</sup> Lorsqu'une personne devient bénéficiaire de l'une des catégories particulières de subside au sens de l'article 18, alinéa 1 et 2 de la loi, le droit au subside prend naissance le premier jour du mois au cours duquel la modification de la condition de l'assuré donnant droit au subside est survenue.
 
@@ -511,34 +612,46 @@ arrête
 
 <sup>3</sup> Sauf décision de modification subséquente, la décision d'octroi couvre la période allant jusqu'à la fin de l'année civile.
 
-<sup>4</sup> Le requérant en provenance d'un autre canton au cours de l'année ne peut bénéficier d'un subside pour l'année considérée, à moins qu'il bénéficie de prestations complémentaires à l'AVS/AI ou du revenu d'insertion.
+<sup>4</sup> Pour toute modification de situation personnelle ou économique au sens de l'article 22a alinéa 1 annoncée en cours d'instruction, l'article 25a s'applique par analogie.
 
-[^chapterChapitreIII-2]: Modif. 6 du 01.05.2013: Modification Al. t,1; entrée en vigueur au 01.01.2012; Introduction Al. 3-4; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016; Abrogation Al. 2; entrée en vigueur au 01.12.2016 · Modif. 10 du 09.05.2018: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 12 du 01.10.2025: Modification Al. 1,1bis; entrée en vigueur au 01.11.2025 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1,4; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
+[^chapterChapitreIII-2]: Modif. 6 du 01.05.2013: Modification Al. t,1; entrée en vigueur au 01.01.2012; Introduction Al. 3-4; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016; Abrogation Al. 2; entrée en vigueur au 01.12.2016 · Modif. 10 du 09.05.2018: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 12 du 01.10.2025: Modification Al. 1,1bis; entrée en vigueur au 01.11.2025 · Modif. 13 du 07.10.2026: Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1,4; entrée en vigueur au 01.01.2027
 
 #### Art. 25a
 
-**Modification en cours d'année (art. 21a loi) [^25-1]**
+**Réexamen (art. 21a loi) [^25-1]**
 
-<sup>1</sup> Toute modification du droit au subside entraînant une augmentation du montant de ce dernier prend effet le premier jour du mois suivant celui où le requérant en a fait la demande, sous réserve de l'alinéa 1bis.
+<sup>1</sup> Toute modification du droit au subside entraînant une augmentation du montant de ce dernier prend effet le premier jour du mois suivant la survenance des faits si le changement est annoncé préalablement ou dans les 30 jours suivants. A défaut, elle prend effet le premier jour du mois qui suit l'annonce. L'alinéa 1bis est réservé.
 
 <sup>1bis</sup> Pour les bénéficiaires de l'une des catégories particulières de subside au sens de l'article 18, alinéas 1 et 2 de la loi [^25a-1] , les modifications du droit au subside entraînant une augmentation du montant de ce dernier prennent effet le premier jour du mois au cours duquel la modification est survenue.
 
-<sup>2</sup> Toute modification entraînant une réduction du montant du subside prend effet le premier jour du mois qui suit le nouvel état de fait modifiant le droit au subside.
+<sup>2</sup> Toute modification entraînant une réduction du droit au subside prend effet le premier jour du mois suivant sa survenance.
 
-[^25-1]: Modif. 6 du 01.05.2013: Introduction Art. 25a; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1-2; entrée en vigueur au 01.01.2027; Introduction Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
+<sup>3</sup> L'Office peut réexaminer en tout temps les dossiers relevant de sa compétence et requérir les informations ou documents nécessaires à cette fin.
+
+[^25-1]: Modif. 6 du 01.05.2013: Introduction Art. 25a; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016 · Modif. 13 du 07.10.2026: Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1-2; entrée en vigueur au 01.01.2027; Introduction Al. 3; entrée en vigueur au 01.01.2027
 [^25a-1]: Loi du 25.06.1996 d'application vaudoise de la loi fédérale du 18.03.1994 sur l'assurance-maladie ([BLV 832.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01?id=604dfd14-925f-4149-ba81-bf2d4ecb9284))
+
+#### Art. 25b
+
+**Enfants majeurs économiquement dépendants [^25a-2]**
+
+<sup>1</sup> Le calcul du droit au subside pour les enfants majeurs économiquement dépendants de leurs parents se fonde sur un pourcentage du revenu déterminant des parents. On entend par parents les personnes principales de la composition de l'unité économique de référence au sens de l'article 10 RLHPS.
+
+<sup>2</sup> Le Conseil d'Etat fixe les pourcentages en fonction de la composition du ménage et du revenu déterminant obtenu.
+
+[^25a-2]: Modif. 13 du 07.10.2026: Introduction Art. 25b; entrée en vigueur au 01.01.2027
 
 #### Art. 26
 
-**Fin du droit au subside [^25a-2]**
+**Fin du droit au subside [^25b-1]**
 
-<sup>1</sup> Le droit au subside prend fin le dernier jour du mois au cours duquel les conditions d'octroi cessent d'être remplies.
+<sup>1</sup> Le droit au subside prend fin le dernier jour du mois au cours duquel les conditions d'octroi cessent d'être remplies. Est réservé le maintien durant au maximum 6 mois du subside particulier de l'article 18, alinéa 1, lettre a de la loi pour les bénéficiaires de ce subside qui ne remplissent plus les conditions d'octroi de cette catégorie particulière mais conservent le droit à une réduction de leur prime au sens des articles 11 et 12 LVLAMal.
 
 <sup>2</sup> L'assuré quittant le canton, que son départ ait été ou non annoncé au contrôle des habitants, perd tout droit au subside. L'alinéa 3 est réservé.
 
 <sup>3</sup> L'assuré qui transfère son domicile dans un autre canton, et qui répond aux conditions d'octroi de la présente législation, conserve son droit au subside jusqu'à la fin de l'année civile, à moins qu'il ne soit aussi bénéficiaire de prestations complémentaires à l'AVS/AI ou de l'aide sociale dans son nouveau canton de domicile. Dans tous les cas, le montant du subside ne dépassera pas la prime effective de l'assuré.
 
-[^25a-2]: Modif. 6 du 01.05.2013: Modification Al. 1-3; entrée en vigueur au 01.01.2012 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Modification Al. 1; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
+[^25b-1]: Modif. 6 du 01.05.2013: Modification Al. 1-3; entrée en vigueur au 01.01.2012 · Modif. 13 du 07.10.2026: Modification Al. 1; entrée en vigueur au 01.01.2027
 
 #### Art. 27
 
@@ -709,13 +822,21 @@ arrête
 
 #### Art. 33b
 
-**Disposition transitoire de la modification du 1 octobre 2025 [^33a-1]**
+**... [^33a-1]**
 
-<sup>1</sup> Pour les demandes de subside déposées jusqu'au 31 octobre 2025, le droit au subside prend naissance le premier jour du mois suivant celui où la demande de subside est déposée, sous réserve de l'article 25, alinéa 1bis. Pour les demandes de subside déposées dès le 1<sup>er</sup> novembre 2025, le nouveau droit s'applique.
+<sup>1</sup> ...
 
-[^33a-1]: Modif. 12 du 01.10.2025: Introduction tArt; entrée en vigueur au 01.11.2025; Introduction Al. 1; entrée en vigueur au 01.11.2025; Introduction Art. 33b; entrée en vigueur au 01.11.2025 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Abrogation tArt; entrée en vigueur au 01.01.2027; Abrogation Al. 1; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
+[^33a-1]: Modif. 12 du 01.10.2025: Introduction tArt; entrée en vigueur au 01.11.2025; Introduction Al. 1; entrée en vigueur au 01.11.2025; Introduction Art. 33b; entrée en vigueur au 01.11.2025 · Modif. 13 du 07.10.2026: Abrogation tArt; entrée en vigueur au 01.01.2027; Abrogation Al. 1; entrée en vigueur au 01.01.2027
 
 ## Titre III Dispositions finales
+
+#### Art. 33c
+
+**Disposition transitoire du règlement modifiant du 7 octobre 2026 [^titleTitreIII-1]**
+
+<sup>1</sup> Le droit à la prestation débute au 1er janvier 2027 pour toutes les demandes de subside déposées entre le 1er décembre et le 31 décembre 2026.
+
+[^titleTitreIII-1]: Modif. 13 du 07.10.2026: Introduction tArt; entrée en vigueur au 01.01.2027; Introduction Al. 1; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
 
 #### Art. 34
 
