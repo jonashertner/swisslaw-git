@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFROU du 22 mai 2008 concernant l'ordonnance sur le cont
 short: OOCCR-OFROU
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/352"
 language: fr
-version: 2022-01-01
+version: 2027-01-01
 adopted: 2008-05-22
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-352-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-352-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20220101/fr"
 
 (OOCCR-OFROU)
 
-du 22 mai 2008 (État le 1<sup>er</sup> janvier 2022)
+du 22 mai 2008 (État le 1<sup>er</sup> janvier 2027)
 
 L’Office fédéral des routes (OFROU), en accord avec l’Office fédéral de la douane et de la sécurité des frontières[^ingress-1], l’Institut fédéral de métrologie et l’Office fédéral des transports,
 
@@ -25,8 +25,8 @@ vu les art. 4, al. 5, 9, al. 2 et 3, 11, al. 3, 13, al. 3, 15, al. 1, 18, 24, al
 
 arrête:
 
-[^ingress-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^ingress-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^ingress-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^ingress-2]: [RS 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O de l’OFROU du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
 
 ## Chapitre 1 Dispositions générales
@@ -64,7 +64,7 @@ Le personnel chargé des contrôles et de l’évaluation doit:
 
 <sup>4</sup> …[^3-2]
 
-[^3-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^3-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^3-2]: Abrogé par le ch. I de l’O de l’OFROU du 7 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
 
 #### Art. 4
@@ -75,7 +75,7 @@ Le personnel chargé des contrôles et de l’évaluation doit:
 
 <sup>2</sup> Est considérée comme constatation d’une contravention au moyen d’installations automatiques de surveillance au sens de l’art. 2, let. b, de la loi du 24 juin 1970 sur les amendes d’ordre[^4-1] celle qui est fondée sur un cliché ou un film pris par un système de mesure automatique.
 
-[^4-1]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement l’art. 3, al. 2, de la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^4-1]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement l’art. 3, al. 2, de la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)).
 
 #### Art. 5
 
@@ -207,7 +207,7 @@ Si le calcul de la vitesse fait appel à un système de surveillance aux feux ro
 [^8-3]: Introduite par le ch. I de l’O de l’OFROU du 3 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 [^8-4]: Introduite par le ch. I de l’O de l’OFROU du 3 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 [^8-5]: Nouvelle teneur selon le ch. I de l’O de l’OFROU du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
-[^8-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^8-7]: Nouvelle teneur selon le ch. I de l’O de l’OFROU du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
 
 #### Art. 9
@@ -319,7 +319,7 @@ En cas de dysfonctionnement de l’appareil ou de doutes quant à la précision 
 - b. une vérification ultérieure au sens de l’art. 10, let. a, OIAA, un entretien au sens de l’art. 10, let. b, OIAA et un ajustage au sens de l’art. 10, let. c, OIAA pour les éthylomètres.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O de l’OFROU du 30 juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
-[^21-2]: [RS 941.210.4](https://fedlex.data.admin.ch/eli/cc/2015/88)
+[^21-2]: [RS 941.210.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11184)
 
 ### Section 2 Analyse du sang et des urines
 
@@ -458,7 +458,7 @@ L’OFROU peut retirer la reconnaissance définitive, notamment lorsque le labor
 
 <sup>4</sup> Si un laboratoire est accrédité par le service d’accréditation suisse prévu à l’art. 5 de l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^33-1], il n’est pas procédé aux audits au sens de l’al. 1. Le laboratoire doit cependant déposer après chaque audit une liste de vérification conforme aux instructions de l’OFROU. Les audits organisés par l’OFROU en cas d’indices d’irrégularités demeurent réservés.
 
-[^33-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^33-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ### Section 6 Preuve de la présence de stupéfiants dans le sang
 
@@ -474,7 +474,7 @@ La présence de stupéfiants au sens de l’art. 2, al. 2, de l’ordonnance du 
 - f. MDEA 15 µg/L
 - g. MDMA 15 µg/L
 
-[^34-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^34-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 ## Chapitre 7 Contrôle des véhicules
 
@@ -492,7 +492,9 @@ La présence de stupéfiants au sens de l’art. 2, al. 2, de l’ordonnance du 
 
 <sup>1</sup> La liste de contrôle remplie (rapport d’inspection) visée à l’art. 26, al. 3, OCCR est régie par les instructions de l’annexe 5.
 
-<sup>2</sup> L’attestation de contrôle doit au moins contenir les informations demandées aux points 1 à 5, 7 et 40 du rapport d’inspection (annexe 5) et les éventuelles contestations.
+<sup>2</sup> L’attestation de contrôle doit au moins contenir les informations demandées aux points 1 à 4, 6 et 37 du rapport d’inspection (annexe 5) et les éventuelles contestations.[^36-1]
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O de l’OFROU du 1<sup>er</sup> juil. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 381](https://fedlex.data.admin.ch/eli/oc/2026/381)).
 
 ## Chapitre 8 Communications des cantons
 
@@ -529,7 +531,7 @@ En cas d’infraction aux dispositions concernant le transport de personnes et l
 Les éthylotests qui peuvent être mis sur le marché selon l’ancien droit jusqu’au 31 décembre 2012 conformément à l’OIAA[^38a-2] doivent satisfaire aux exigences de l’art. 17, al. 2 et 3, de l’ancien droit[^38a-3].
 
 [^38a-1]: Introduit par le ch. I de l’O de l’OFROU du 7 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
-[^38a-2]: [RS 941.210.4](https://fedlex.data.admin.ch/eli/cc/2015/88)
+[^38a-2]: [RS 941.210.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11184)
 [^38a-3]: [RO 2008 2447](https://fedlex.data.admin.ch/eli/oc/2008/352)
 
 #### Art. 39
@@ -805,57 +807,69 @@ Annexe 4[^t-3]
 
 [^annex4-lvlu1-1]: 
 
-Annexe 5
+Annexe 5[^t-4]
 
 (art. 36)
 
 ## Rapport d’inspection pour le contrôle du transport routier de marchandises dangereuses
 
+[^t-4]: Nouvelle teneur selon le ch. II de l’O de l’OFROU du 1<sup>er</sup> juil. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 381](https://fedlex.data.admin.ch/eli/oc/2026/381)).
+
 <table>
-<tr><td>1.</td><td colspan="13">Lieu de contrôle:</td></tr>
-<tr><td>2.</td><td colspan="13">Date:</td></tr>
-<tr><td>3.</td><td colspan="13">Heure:</td></tr>
-<tr><td>4.</td><td colspan="13">Signe distinctif de nationalité et plaque de contrôle du véhicule:</td></tr>
-<tr><td>5.</td><td colspan="13">Signe distinctif de nationalité et plaque de contrôle de la remorque/semi-remorque:</td></tr>
-<tr><td>6.</td><td colspan="13">Entreprise de transport/adresse:</td></tr>
-<tr><td>7.</td><td colspan="3">Conducteur/conductrice: Passager/passagère:</td><td colspan="4">permis officiel: permis officiel:</td><td colspan="5">◻ oui ◻ oui</td><td>◻ non ◻ non</td></tr>
-<tr><td>8.</td><td colspan="13">Expéditeur, adresse, lieu du chargement:<sup>1,</sup> <sup>2</sup></td></tr>
-<tr><td>9.</td><td colspan="13">Destinataire, adresse, lieu du déchargement:<sup>1,</sup> <sup>2</sup></td></tr>
-<tr><td>10.</td><td colspan="13">Quantité totale de marchandises dangereuses par unité de transport (en tonnes):</td></tr>
-<tr><td>11.</td><td colspan="7">Limite de quantité ADR 1.1.3.6 dépassée</td><td colspan="5">◻ oui</td><td>◻ non</td></tr>
-<tr><td>12.</td><td>Mode de transport</td><td colspan="6">◻ en vrac</td><td colspan="5">◻ colis</td><td>◻ citerne</td></tr>
-<tr><td colspan="14">Documents de bord</td></tr>
-<tr><td>13.</td><td colspan="2">Document de transport:</td><td colspan="2">◻ contrôlé</td><td colspan="4">◻ OAO</td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>14.</td><td colspan="2">Consignes écrites:</td><td colspan="2">◻ contrôlé</td><td colspan="4">◻ OAO</td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>15.</td><td colspan="2">Accord bilatéral/multilatéral, autorisation nationale:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>16.</td><td colspan="2">Certificat d’agrément du véhicule</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>17.</td><td colspan="2">Certificat de formation du conducteur:</td><td colspan="2">◻ contrôlé</td><td colspan="4">◻ OAO</td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td colspan="14">Opération de transport</td></tr>
-<tr><td>18.</td><td colspan="2">Marchandise autorisée pour le transport:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>19.</td><td colspan="2">Véhicule autorisé pour les marchandises transportées:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>20.</td><td colspan="2">Marchandises autorisées en vrac, en colis, en citerne:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>21.</td><td colspan="2">Interdiction de chargement en commun:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>22.</td><td colspan="2">Chargement/arrimage de la charge<sup>3</sup>:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>23.</td><td colspan="2">Fuite de marchandises ou endommagement de colis<sup>3</sup>:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>24.</td><td colspan="2">Vérification/codage du colis ou de la citerne<sup>2, 3</sup>:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>25.</td><td colspan="2">Numéro ONU et étiquette de danger sur le colis:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>26.</td><td colspan="2">Placardage des citernes/ véhicules</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>27.</td><td colspan="2">Marquage de l’unité de transport (panneau orange/température élevée):</td><td colspan="2">◻ contrôlé</td><td colspan="4">◻ OAO</td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td colspan="14">Équipements à bord</td></tr>
-<tr><td>28.</td><td colspan="2">Équipements divers (partie 8 ADR):</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>29.</td><td colspan="2">Équipements supplémentaires selon prescription spéciale:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>30.</td><td colspan="2">Équipements indiqués dans les consignes écrites:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>31.</td><td colspan="2">Extincteurs d’incendie:</td><td colspan="2">◻ contrôlé</td><td colspan="4">◻ OAO</td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td colspan="14">Dispositions SDR</td></tr>
-<tr><td>32.</td><td colspan="2">Interdiction de l’alcool:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>33.</td><td colspan="2">Assurance RC augmentée:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td>34.</td><td colspan="2">Circulation sur la voie de gauche dans un tunnel désigné par le signal «tunnel»:</td><td colspan="2">◻ contrôlé</td><td colspan="4"></td><td colspan="3">◻ dénonciation</td><td colspan="2">◻ sans objet</td></tr>
-<tr><td colspan="14">Indications supplémentaires</td></tr>
-<tr><td>35.</td><td colspan="6">Le cas échéant, catégorie du risque le plus grave de l’infraction relevée:</td><td colspan="3">◻ cat. I</td><td colspan="3">◻ cat. II</td><td>◻ cat. III</td></tr>
-<tr><td>36.</td><td>Sanction infligée pour les infractions constatées:</td><td colspan="4">◻ avertissement</td><td colspan="5">◻ amende (OAO)</td><td colspan="3">◻ autres (dénonciation)</td></tr>
-<tr><td>37.</td><td>Mise à l’arrêt:</td><td colspan="4"></td><td colspan="5">◻ oui</td><td colspan="3">◻ non</td></tr>
-<tr><td>38.</td><td colspan="13">Remarques:</td></tr>
-<tr><td>39.</td><td colspan="13">Heure/fin du contrôle:</td></tr>
-<tr><td>40.</td><td colspan="13">Autorité de contrôle/agent chargé du contrôle: (sceau, signature + paraphe)</td></tr>
-<tr><td colspan="14"><sup>1</sup> Ne remplir que s’il y a un rapport avec une infraction <sup>2</sup> À mentionner sous «remarques» pour les opérations de groupage de transports <sup>3</sup> Contrôle des infractions apparentes</td></tr>
+<tr><td>1.</td><td colspan="34">Lieu de contrôle:</td></tr>
+<tr><td>2.</td><td colspan="34">Date:</td></tr>
+<tr><td>3.</td><td colspan="34">Heure:</td></tr>
+<tr><td colspan="35">Données relatives au(x) véhicule(s)/chargement</td></tr>
+<tr><td>4.</td><td colspan="34">Signe distinctif de nationalité et plaque(s) de contrôle du/des véhicule(s):</td></tr>
+<tr><td>5.</td><td colspan="34">Entreprise de transport, adresse:</td></tr>
+<tr><td>6.</td><td colspan="34">Nom(s) du conducteur, de l’assistant; n<sup>o</sup> de leurs certificats de formation<sup>1</sup>:</td></tr>
+<tr><td>7.</td><td colspan="34">Expéditeur/Adresse et date du dernier chargement:<sup>1</sup></td></tr>
+<tr><td>8.</td><td colspan="34">Destinataire/Adresse et date du prochain déchargement:<sup>1</sup></td></tr>
+<tr><td>9.</td><td colspan="34">Numéro ONU, groupe d’emballage et quantité de marchandises dangereuses, si des infractions ont été constatées:<sup>2</sup></td></tr>
+<tr><td>10.</td><td colspan="11">Exemption applicable; si oui, laquelle<sup>3</sup></td><td colspan="6">◻ Oui</td><td colspan="9">◻ Non</td><td colspan="8">ADR/SDR:</td></tr>
+<tr><td>11.</td><td colspan="4">Type de transport</td><td colspan="2">◻ Vrac</td><td colspan="9">◻ Colis</td><td colspan="12">◻ Citerne</td><td colspan="7">◻ MEMU</td></tr>
+<tr><td colspan="8">Documents<sup>4</sup></td><td colspan="11">Statut du contrôle<sup>5</sup></td><td colspan="16">Infraction</td></tr>
+<tr><td colspan="8"></td><td colspan="5">c.</td><td colspan="6">s. o.</td><td colspan="4">OAO</td><td colspan="7">Dénonciation</td><td colspan="5">Cat. de risques<sup>6</sup></td></tr>
+<tr><td>12.</td><td colspan="7">Documents de transport [8.1.2.1 a), 5.4.1, 5.4.2 ADR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4">◻</td><td colspan="7">◻</td><td colspan="5"></td></tr>
+<tr><td>13.</td><td colspan="7">Consignes écrites [8.1.2.1 b), 5.4.3 ADR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4">◻</td><td colspan="7">◻</td><td colspan="5"></td></tr>
+<tr><td>14.</td><td colspan="7">Certificat d’agrément des véhicules [8.1.2.2 a), 9.1.3 ADR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4"></td><td colspan="7">◻</td><td colspan="5"></td></tr>
+<tr><td>15.</td><td colspan="7">Certificat de formation professionnelle du conducteur [8.1.2.2 b) ADR] et documents d’identification [1.10.1.4, 8.1.2.1 d) ADR]</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4">◻</td><td colspan="7">◻</td><td colspan="5"></td></tr>
+<tr><td colspan="11">Opération de transport<sup>4</sup></td><td colspan="10">Statut du contrôle<sup>5</sup></td><td colspan="15">Infraction</td></tr>
+<tr><td colspan="4"></td><td colspan="7"></td><td colspan="4">c.</td><td colspan="6">s. o.</td><td colspan="5">OAO</td><td colspan="6">Dénonciation</td><td colspan="4">Cat. de risques<sup>6</sup></td></tr>
+<tr><td colspan="4">16.</td><td colspan="7">Marchandise dont le transport est autorisé [1.1.2.1 ADR]:</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">17.</td><td colspan="7">Moyens de rétention [4.1 à 4.7 ADR]</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">18.</td><td colspan="7">Dispositions relatives au transport [7.1 à 7.4 ADR]:</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">19.</td><td colspan="7">Interdiction de chargement en commun et limitation des quantités [7.5.2, 7.5.4, 7.5.5 ADR]:</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">20.</td><td colspan="7">Manutention et arrimage [7.5.7 ADR]:</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">21.</td><td colspan="7">Marquage des colis, citernes ou marchandises en vrac [partie 6 ADR]:</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">22.</td><td colspan="7">Marquage et étiquetage des colis [3.1 à 3.5, 4.1.4.1, 5.1, 5.2 ADR]:</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">23.</td><td colspan="7">Plaques-étiquettes, panneaux orange, marques apposées sur les véhicules/citernes, etc. [3.4.13, 5.3, 5.5, 7.3, 7.5.11 ADR]</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="4">24.</td><td colspan="7">Prescriptions relatives aux véhicules [partie 9 ADR]:</td><td colspan="4">◻</td><td colspan="6">◻</td><td colspan="5"></td><td colspan="6">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="9">Équipements à bord<sup>4</sup></td><td colspan="11">Statut du contrôle<sup>5</sup></td><td colspan="14">Infraction</td></tr>
+<tr><td colspan="2"></td><td colspan="7"></td><td colspan="5">c.</td><td colspan="6">s. o.</td><td colspan="4">OAO</td><td colspan="7">Dénonciation</td><td colspan="3">Cat. de risques<sup>6</sup></td></tr>
+<tr><td colspan="2">25.</td><td colspan="7">Moyens d’extinction d’incendie [8.1.4 ADR] / Équipements généraux et spécifiques [8.1.5 ADR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4">◻</td><td colspan="7">◻</td><td colspan="3"></td></tr>
+<tr><td colspan="9">Dispositions SDR<sup>4</sup></td><td colspan="11">Statut du contrôle<sup>5</sup></td><td colspan="15">Infraction</td></tr>
+<tr><td colspan="2"></td><td colspan="7"></td><td colspan="5">c.</td><td colspan="6">s. o.</td><td colspan="4">OAO</td><td colspan="7">Dénonciation</td><td colspan="4">Cat. de risques<sup>6</sup></td></tr>
+<tr><td colspan="2">26.</td><td colspan="7">Inobservation de tronçons routiers soumis à des restrictions supplémentaires [art. 13, al. 2, SDR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4">◻</td><td colspan="7">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="2">27.</td><td colspan="7">Circulation sur la voie de gauche dans les tunnels munis du signal «Tunnel» [art. 13, al. 3, SDR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4">◻</td><td colspan="7">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="2">28.</td><td colspan="7">Assurance RC augmentée [art. 14, SDR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4">◻</td><td colspan="7">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="9">Autres<sup>4</sup></td><td colspan="11">Statut du contrôle<sup>5</sup></td><td colspan="15">Infraction</td></tr>
+<tr><td colspan="2"></td><td colspan="7"></td><td colspan="5">c.</td><td colspan="6">s. o.</td><td colspan="4">OAO</td><td colspan="7">Dénonciation</td><td colspan="4">Cat. de risques<sup>6</sup></td></tr>
+<tr><td colspan="2">29.</td><td colspan="7">Accords bilatéraux/multilatéraux [1.5.1 ADR], prescriptions nationales, agrément de l’autorité compétente [8.1.2.2 c) ADR]:</td><td colspan="5">◻</td><td colspan="6">◻</td><td colspan="4"></td><td colspan="7">◻</td><td colspan="4"></td></tr>
+<tr><td colspan="2">30.</td><td colspan="33">Autres infractions, ne relevant pas du droit du transport des marchandises dangereuses:</td></tr>
+<tr><td colspan="35">Résultats</td></tr>
+<tr><td colspan="3">31.</td><td colspan="7">Catégorie de risques la plus grave des infractions constatées:</td><td colspan="12">Risque élevé ◻ cat. I</td><td colspan="11">Risque moyen ◻ cat. II</td><td colspan="2">Risque faible ◻ cat. III</td></tr>
+<tr><td colspan="3">32.</td><td colspan="3">Sanction infligée pour les infractions constatées:</td><td colspan="11">◻ Avertissement</td><td colspan="12">◻ Amende (OAO)</td><td colspan="6">◻ Autres (dénonciation)</td></tr>
+<tr><td colspan="3">33.</td><td colspan="3">Mesures:</td><td colspan="11">◻ Immobilisation</td><td colspan="18">Mesures correctives:<sup>7</sup></td></tr>
+<tr><td colspan="3">34.</td><td colspan="32">Remarques:</td></tr>
+<tr><td colspan="3">35.</td><td colspan="3">Scellés brisés/placés:</td><td colspan="19">Brisés le</td><td colspan="10">Placés le</td></tr>
+<tr><td colspan="3">36.</td><td colspan="32">Heure/fin du contrôle</td></tr>
+<tr><td colspan="3">37.</td><td colspan="32">Autorité de contrôle / Personne chargée du contrôle: (sceau, signature + sigle)</td></tr>
+<tr><td colspan="36"><sup>1</sup> À remplir seulement en cas de pertinence pour une infraction</td></tr>
+<tr><td colspan="36"><sup>2</sup> À mentionner sous «Remarques» en cas de groupage</td></tr>
+<tr><td colspan="36"><sup>3</sup> Sont concernées toutes les exemptions, y c. celles visées dans la SDR</td></tr>
+<tr><td colspan="36"><sup>4</sup> À remplir si des infractions sont constatées: sous «Remarques», préciser le chiffre concerné du rapport et indiquer les possibles intervenants responsables selon le chap. 1.4 ADR et les ch. SDR/ADR: Ci (consignor) = expéditeur, C (carrier) = transporteur, Ce (consignee) = destinataire, L (loader) = chargeur, P (packer) = emballeur, F (filler) = remplisseur, To (tank operator) = exploitant d’une citerne, U (unloader) = déchargeur</td></tr>
+<tr><td colspan="36"><sup>5</sup> Statut du contrôle: «c.» = contrôlé, «s. o.» = sans objet</td></tr>
+<tr><td colspan="36"><sup>6</sup> Catégorie de risques de l’infraction constatée, si requise</td></tr>
+<tr><td colspan="36"><sup>7</sup> Mesures correctives: s. p. = sur place, a. f. t. = avant la fin du trajet, d. e = dans l’entreprise</td></tr>
 </table>

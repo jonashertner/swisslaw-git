@@ -4,11 +4,11 @@ title: Verordnung des ASTRA vom 22. Mai 2008 zur Strassenverkehrskontrollverordn
 short: VSKV-ASTRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/352"
 language: de
-version: 2022-01-01
+version: 2027-01-01
 adopted: 2008-05-22
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-352-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2008-352-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20220101/de"
 
 (VSKV-ASTRA)
 
-vom 22. Mai 2008 (Stand am 1. Januar 2022)
+vom 22. Mai 2008 (Stand am 1. Januar 2027)
 
 Das Bundesamt für Strassen (ASTRA), im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit[^ingress-1], dem Eidgenössischen Institut für Metrologie und dem Bundesamt für Verkehr,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 4 Absatz 5, 9 Absätze 2 und 3, 11 Absatz 3, 13 Absatz
 
 verordnet:
 
-[^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^ingress-2]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^ingress-2]: [SR 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 [^ingress-3]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -64,7 +64,7 @@ Das Kontroll- und Auswertungspersonal muss:
 
 <sup>4</sup> …[^3-2]
 
-[^3-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^3-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^3-2]: Aufgehoben durch Ziff. I der V des ASTRA vom 7. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
 
 #### Art. 4
@@ -75,7 +75,7 @@ Das Kontroll- und Auswertungspersonal muss:
 
 <sup>2</sup> Als Feststellung von Übertretungen durch automatische Überwachungsanlagen im Sinne von Artikel 2 Buchstabe b des Ordnungsbussengesetzes vom 24. Juni 1970[^4-1] gilt die Feststellung gestützt auf ein Bild- oder Filmdokument eines automatischen Messsystems.
 
-[^4-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: Art. 3 Abs. 2 des Ordnungsbussengesetzes vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^4-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: Art. 3 Abs. 2 des Ordnungsbussengesetzes vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)).
 
 #### Art. 5
 
@@ -207,7 +207,7 @@ Erfolgt die Geschwindigkeitsermittlung unter Verwendung eines Rotlichtüberwachu
 [^8-3]: Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 [^8-4]: Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 [^8-5]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
-[^8-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^8-7]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
 
 #### Art. 9
@@ -323,7 +323,7 @@ Bei Gerätestörungen oder Zweifeln an der Messgenauigkeit dürfen Atemalkoholte
 - b. Atemalkoholmessgeräte: einer Nacheichung nach Artikel 10 Buchstabe a AAMV, einer Instandhaltung nach Artikel 10 Buchstabe b AAMV und einer Justierung nach Artikel 10 Buchstabe c AAMV.
 
 [^21-1]: Fassung gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2591](https://fedlex.data.admin.ch/eli/oc/2015/491)).
-[^21-2]: [SR 941.210.4](https://fedlex.data.admin.ch/eli/cc/2015/88)
+[^21-2]: [SR 941.210.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11184)
 
 ### 2. Abschnitt: Blut- und Urinuntersuchung
 
@@ -461,7 +461,7 @@ Das ASTRA kann die definitive Anerkennung namentlich dann entziehen, wenn das La
 
 <sup>4</sup> Ist ein Laboratorium von der schweizerischen Akkreditierungsstelle nach Artikel 5 der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^33-1] akkreditiert, so werden keine Audits nach Absatz 1 durchgeführt. Das Laboratorium muss jedoch nach jedem Audit eine Checkliste gemäss den Weisungen des ASTRA einreichen. Vorbehalten bleiben vom ASTRA veranlasste Audits bei Anzeichen von Unregelmässigkeiten.
 
-[^33-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^33-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ### 6. Abschnitt: Nachweis von Betäubungsmitteln
 
@@ -477,7 +477,7 @@ Die Betäubungsmittel nach Artikel 2 Absatz 2 der Verkehrsregelnverordnung vom 1
 - f. MDEA: 15 µg/L
 - g. MDMA: 15 µg/L
 
-[^34-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^34-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 ## 7. Kapitel: Kontrolle der Fahrzeuge
 
@@ -495,7 +495,9 @@ Die Betäubungsmittel nach Artikel 2 Absatz 2 der Verkehrsregelnverordnung vom 1
 
 <sup>1</sup> Die ausgefüllte Prüfliste (Prüfbericht) nach Artikel 26 Absatz 3 SKV richtet sich nach den Vorgaben in Anhang 5.
 
-<sup>2</sup> Die Kontrollbescheinigung muss mindestens die Angaben nach den Ziffern 1–5, 7 und 40 des Prüfberichtes in Anhang 5 enthalten und allfällige Beanstandungen aufführen.
+<sup>2</sup> Die Kontrollbescheinigung muss mindestens die Angaben nach den Ziffern 1–4, 6 und 37 des Prüfberichtes in Anhang 5 enthalten und allfällige Beanstandungen aufführen.[^36-1]
+
+[^36-1]: Fassung gemäss Ziff. I der V des ASTRA vom 1. Juli 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 381](https://fedlex.data.admin.ch/eli/oc/2026/381)).
 
 ## 8. Kapitel: Meldungen der Kantone
 
@@ -531,7 +533,7 @@ Bei Verstössen gegen die Vorschriften über die Personenbeförderung und die Zu
 Atemalkoholtestgeräte, die nach der AAMV[^38a-2] bis zum 31. Dezember 2012 nach bisherigem Recht in Verkehr gebracht werden dürfen, müssen die Anforderungen nach Artikel 17 Absätze 2 und 3 des bisherigen Rechts[^38a-3] erfüllen.
 
 [^38a-1]: Eingefügt durch Ziff. I der V des ASTRA vom 7. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
-[^38a-2]: [SR 941.210.4](https://fedlex.data.admin.ch/eli/cc/2015/88)
+[^38a-2]: [SR 941.210.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11184)
 [^38a-3]: [AS 2008 2447](https://fedlex.data.admin.ch/eli/oc/2008/352)
 
 #### Art. 39
@@ -805,57 +807,69 @@ Anhang 4[^t-3]
 <tr><td colspan="13">Unterschrift der Behörde bzw. des Beauftragten oder Prüfers/der Beauftragten oder Prüferin, der/die die Kontrolle durchgeführt hat</td></tr>
 </table>
 
-Anhang 5
+Anhang 5[^t-4]
 
 (Art. 36)
 
 ## Prüfbericht für die Kontrolle der Gefahrguttransporte auf der Strasse
 
+[^t-4]: Fassung gemäss Ziff. II der V des ASTRA vom 1. Juli 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 381](https://fedlex.data.admin.ch/eli/oc/2026/381)).
+
 <table>
-<tr><td>1.</td><td colspan="13">Kontrollort:</td></tr>
-<tr><td>2.</td><td colspan="13">Datum:</td></tr>
-<tr><td>3.</td><td colspan="13">Uhrzeit:</td></tr>
-<tr><td>4.</td><td colspan="13">Landeszeichen und Kontrollschild des Fahrzeugs:</td></tr>
-<tr><td>5.</td><td colspan="13">Landeszeichen und Kontrollschild des Anhängers/Sattelanhängers:</td></tr>
-<tr><td>6.</td><td colspan="13">Transportunternehmen, Adresse:</td></tr>
-<tr><td>7.</td><td colspan="3">Fahrer/in: Beifahrer/in:</td><td colspan="4">Amtl. Ausweis: Amtl. Ausweis:</td><td colspan="5">◻ Ja ◻ Ja</td><td>◻ Nein ◻ Nein</td></tr>
-<tr><td>8.</td><td colspan="13">Absender, Anschrift, Verladeort:<sup>1, 2</sup></td></tr>
-<tr><td>9.</td><td colspan="13">Empfänger, Anschrift, Entladeort:<sup>1, 2</sup></td></tr>
-<tr><td>10.</td><td colspan="13">Gesamtmenge Gefahrgut je Beförderungseinheit (in Tonnen):</td></tr>
-<tr><td>11.</td><td colspan="7">Freigrenze nach ADR 1.1.3.6 überschritten</td><td colspan="5">◻ Ja</td><td>◻ Nein</td></tr>
-<tr><td>12.</td><td>Verkehrsträger</td><td colspan="6">◻ in loser Schüttung</td><td colspan="5">◻ Versandstück</td><td>◻ Tank</td></tr>
-<tr><td colspan="14">Dokumente an Bord</td></tr>
-<tr><td>13.</td><td colspan="2">Beförderungspapier:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>14.</td><td colspan="2">Schriftliche Weisungen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>15.</td><td colspan="2">Bilaterale/multilaterale Vereinbarung, nationale Genehmigung:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>16.</td><td colspan="2">Zulassungsbescheinigung Fahrzeug:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>17.</td><td colspan="2">Schulungsbescheinigung Fahrer/in:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td colspan="14">Beförderung</td></tr>
-<tr><td>18.</td><td colspan="2">Gut zur Beförderung zugelassen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>19.</td><td colspan="2">Fahrzeug zur Beförderung zugelassen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>20.</td><td colspan="2">Gut zugelassen als lose Schüttung, im Versandstück, im Tank:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>21.</td><td colspan="2">Zusammenladeverbot:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>22.</td><td colspan="2">Beladen/Ladungssicherung<sup>3</sup>:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>23.</td><td colspan="2">Austreten von Gütern oder Beschädigung des Versandstücks<sup>3</sup>:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>24.</td><td colspan="2">Versandstück/Tank geprüft/codiert<sup>2, 3</sup>:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>25.</td><td colspan="2">UN-Nr. und Gefahrzettel am Versandstück:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>26.</td><td colspan="2">Grosszettel (Placards) auf Tank/Fahrzeug:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>27.</td><td colspan="2">Kennzeichnung Beförderungseinheit (orangefarbene Tafel/erwärmter Zustand):</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td colspan="14">Ausrüstung</td></tr>
-<tr><td>28.</td><td colspan="2">Sonstige Ausrüstung (Teil 8 ADR):</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>29.</td><td colspan="2">Zusatzausrüstung gemäss Sondervorschrift:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>30.</td><td colspan="2">Ausrüstung gemäss schriftlichen Weisungen:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>31.</td><td colspan="2">Feuerlöscher:</td><td colspan="2">◻ kontrolliert</td><td colspan="4">◻ OBV</td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td colspan="14">SDR-Bestimmungen</td></tr>
-<tr><td>32.</td><td colspan="2">Alkoholverbot:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>33.</td><td colspan="2">Erhöhte Haftpflichtversicherung:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td>34.</td><td colspan="2">Befahren des linken Fahrstreifens in mit Signal «Tunnel» bezeichneten Tunneln:</td><td colspan="2">◻ kontrolliert</td><td colspan="4"></td><td colspan="2">◻ Anzeige</td><td colspan="3">◻ nicht anwendbar</td></tr>
-<tr><td colspan="14">Zusätzliche Angaben</td></tr>
-<tr><td>35.</td><td colspan="6">Gegebenenfalls schwerwiegendste Gefahrenkategorie der festgestellten Verstösse:</td><td colspan="3">◻ Kat. I</td><td colspan="3">◻ Kat. II</td><td>◻ Kat. III</td></tr>
-<tr><td>36.</td><td>Ahndung der festgestellten Verstösse:</td><td colspan="4">◻ Verwarnung</td><td colspan="6">◻ Geldbusse (OBV)</td><td colspan="2">◻ Sonstige (Verzeigung)</td></tr>
-<tr><td>37.</td><td>Stillgelegt:</td><td colspan="4"></td><td colspan="6">◻ Ja</td><td colspan="2">◻ Nein</td></tr>
-<tr><td>38.</td><td colspan="13">Bemerkungen:</td></tr>
-<tr><td>39.</td><td colspan="13">Uhrzeit/Kontrollende:</td></tr>
-<tr><td>40.</td><td colspan="13">Kontrollbehörde/Prüfer/in: (Stempel, Unterschrift + Kurzzeichen)</td></tr>
-<tr><td colspan="14"><sup>1</sup> Nur ausfüllen, wenn für einen Verstoss von Bedeutung <sup>2</sup> Bei Sammelladung unter «Bemerkungen» angeben <sup>3</sup> Prüfung auf sichtbare Verstösse</td></tr>
+<tr><td>1.</td><td colspan="19">Kontrollort:</td></tr>
+<tr><td>2.</td><td colspan="19">Datum:</td></tr>
+<tr><td>3.</td><td colspan="19">Uhrzeit:</td></tr>
+<tr><td colspan="20">Daten zu Fahrzeug(en)/Ladung</td></tr>
+<tr><td>4.</td><td colspan="19">Landeszeichen und Kontrollschild(er) des Fahrzeugs/der Fahrzeuge:</td></tr>
+<tr><td>5.</td><td colspan="19">Transportunternehmen, Adresse:</td></tr>
+<tr><td>6.</td><td colspan="19">Name(n) Fahrer/in, Beifahrer/in, Nr. ihrer Schulungsbescheinigungen<sup>1</sup>:</td></tr>
+<tr><td>7.</td><td colspan="19">Absender/Anschrift und Datum der letzten Beladung:<sup>1</sup></td></tr>
+<tr><td>8.</td><td colspan="19">Empfänger/Anschrift und Datum der nächsten Entladung:<sup>1</sup></td></tr>
+<tr><td>9.</td><td colspan="19">UN-Nummer, Verpackungsgruppe und Menge der Gefahrgüter, bei denen Verstösse festgestellt wurden:<sup>2</sup></td></tr>
+<tr><td>10.</td><td colspan="3">Freistellung anwendbar, welche<sup>3</sup></td><td>◻ Ja</td><td colspan="5">◻ Nein</td><td colspan="10">ADR/SDR:</td></tr>
+<tr><td>11.</td><td>Beförderungsart</td><td colspan="3">◻ in loser Schüttung</td><td colspan="9">◻ Versandstück</td><td colspan="3">◻ Tank</td><td colspan="3">◻ MEMU</td></tr>
+<tr><td colspan="6">Dokumente<sup>4</sup></td><td colspan="5">Prüfstatus<sup>5</sup></td><td colspan="9">Verstoss</td></tr>
+<tr><td colspan="6"></td><td colspan="3">G</td><td colspan="2">n.a.</td><td colspan="4">OBV</td><td colspan="4">Anzeige</td><td>Gef. Kat.<sup>6</sup></td></tr>
+<tr><td>12.</td><td colspan="5">Beförderungspapiere (8.1.2.1 Bst. a, 5.4.1, 5.4.2 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td>13.</td><td colspan="5">Schriftliche Weisungen (8.1.2.1 Bst. b, 5.4.3 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td>14.</td><td colspan="5">Zulassungsbescheinigung für Fahrzeuge (8.1.2.2 Bst. a, 9.1.3 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>15.</td><td colspan="5">Schulungsbescheinigung des Fahrers/ der Fahrerin (8.1.2.2 Bst. b ADR) und Ausweisdokumente (1.10.1.4, 8.1.2.1 Bst. d ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td colspan="6">Beförderung<sup>4</sup></td><td colspan="5">Prüfstatus<sup>5</sup></td><td colspan="9">Verstoss</td></tr>
+<tr><td colspan="6"></td><td colspan="3">G</td><td colspan="2">n.a.</td><td colspan="4">OBV</td><td colspan="4">Anzeige</td><td>Gef. Kat.<sup>6</sup></td></tr>
+<tr><td>16.</td><td colspan="5">Gut zur Beförderung zugelassen (1.1.2.1 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>17.</td><td colspan="5">Umschliessungsmittel (4.1 bis 4.7 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>18.</td><td colspan="5">Beförderungsvorschriften (7.1 bis 7.4 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>19.</td><td colspan="5">Zusammenladeverbote und Mengenbegrenzungen (7.5.2, 7.5.4, 7.5.5 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>20.</td><td colspan="5">Handhabung und Verstauung (7.5.7 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>21.</td><td colspan="5">Kennzeichnung des Versandstücks/Tanks/Schüttguts (Teil 6 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>22.</td><td colspan="5">Kennzeichnung und Bezettelung von Versandstücken (3.3 bis 3.5, 4.1.4.1, 5.1, 5.2 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>23.</td><td colspan="5">Grosszettel (Placards), orangefarbene Tafeln, Kennzeichnung von Fahrzeugen/Tanks usw. (3.4.13, 5.3, 5.5, 7.3, 7.5.11 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td>24.</td><td colspan="5">Fahrzeuganforderungen (Teil 9 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td colspan="6">Ausrüstung an Bord<sup>4</sup></td><td colspan="5">Prüfstatus<sup>5</sup></td><td colspan="9">Verstoss</td></tr>
+<tr><td colspan="6"></td><td colspan="3">G</td><td colspan="2">n.a.</td><td colspan="4">OBV</td><td colspan="4">Anzeige</td><td>Gef. Kat.<sup>6</sup></td></tr>
+<tr><td>25.</td><td colspan="5">Feuerlöschausrüstung (8.1.4 ADR) / Allgemeine und spezifische Ausrüstung (8.1.5 ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td colspan="6">SDR-Bestimmungen<sup>4</sup></td><td colspan="5">Prüfstatus<sup>5</sup></td><td colspan="9">Verstoss</td></tr>
+<tr><td colspan="6"></td><td colspan="3">G</td><td colspan="2">n.a.</td><td colspan="4">OBV</td><td colspan="4">Anzeige</td><td>Gef. Kat.<sup>6</sup></td></tr>
+<tr><td>26.</td><td colspan="5">Missachten von Strassenstrecken mit zusätzlichen Beförderungsbeschränkungen (Art. 13 Abs. 2 SDR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td>27.</td><td colspan="5">Befahren des linken Fahrstreifens in mit Signal «Tunnel» bezeichneten Tunneln (Art. 13 Abs. 3 SDR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td>28.</td><td colspan="5">Erhöhte Haftpflichtversicherung (Art. 14 SDR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4">◻</td><td colspan="4">◻</td><td></td></tr>
+<tr><td colspan="6">Sonstiges<sup>4</sup></td><td colspan="5">Prüfstatus<sup>5</sup></td><td colspan="9">Verstoss</td></tr>
+<tr><td colspan="6"></td><td colspan="3">G</td><td colspan="2">n.a.</td><td colspan="4">OBV</td><td colspan="4">Anzeige</td><td>Gef. Kat.<sup>6</sup></td></tr>
+<tr><td>29.</td><td colspan="5">Bilaterale/multilaterale Vereinbarungen (1.5.1 ADR), nationale Vorschriften, Genehmigung der zuständigen Behörde (8.1.2.2 Bst. c ADR):</td><td colspan="3">◻</td><td colspan="2">◻</td><td colspan="4"></td><td colspan="4">◻</td><td></td></tr>
+<tr><td>30.</td><td colspan="19">Sonstige Verstösse, nicht Gefahrgutrecht:</td></tr>
+<tr><td colspan="20">Ergebnis</td></tr>
+<tr><td>31.</td><td colspan="6">Schwerwiegendste Gefahrenkategorie der festgestellten Verstösse:</td><td colspan="6">schwer ◻ Kat. I</td><td colspan="5">mittel ◻ Kat. II</td><td colspan="2">leicht ◻ Kat. III</td></tr>
+<tr><td>32.</td><td colspan="2">Ahndung der festgestellten Verstösse:</td><td colspan="5">◻ Verwarnung</td><td colspan="8">◻ Geldbusse (OBV)</td><td colspan="4">◻ Sonstige (Verzeigung)</td></tr>
+<tr><td>33.</td><td colspan="2">Massnahmen:</td><td colspan="5">◻ Stilllegung</td><td colspan="12">Abhilfe:<sup>7</sup></td></tr>
+<tr><td>34.</td><td colspan="19">Bemerkungen:</td></tr>
+<tr><td>35.</td><td colspan="2">Siegel gebrochen/angebracht:</td><td colspan="9">Gebrochen am</td><td colspan="8">Angebracht am</td></tr>
+<tr><td>36.</td><td colspan="19">Uhrzeit/Kontrollende:</td></tr>
+<tr><td>37.</td><td colspan="19">Kontrollbehörde/Prüfer/in: (Stempel, Unterschrift + Kurzzeichen)</td></tr>
+<tr><td colspan="20"><sup>1</sup> Nur auszufüllen, wenn für einen Verstoss von Bedeutung</td></tr>
+<tr><td colspan="20"><sup>2</sup> Bei Sammelladung unter «Bemerkungen» angeben</td></tr>
+<tr><td colspan="20"><sup>3</sup> Bezieht sich auf alle Freistellungen, auch SDR</td></tr>
+<tr><td colspan="20"><sup>4</sup> Bei Feststellung von Verstössen: in «Bemerkungen» Ziff. des Prüfberichtes, mögliche verantwortliche Beteiligte nach 1.4 ADR und ADR/SDR-Ziffer angeben: Abs = Absender, Befö = Beförderer, Empf = Empfänger, Verl = Verlader, Verp = Verpacker, Befü = Befüller, TB = Tankbetreiber, Entl = Entlader.</td></tr>
+<tr><td colspan="20"><sup>5</sup> Prüfstatus: G = geprüft, n.a. = nicht anwendbar</td></tr>
+<tr><td colspan="20"><sup>6</sup> Gefahrenkategorie des festgestellten Verstosses, falls erforderlich</td></tr>
+<tr><td colspan="20"><sup>7</sup> Abhilfe: v.O. = vor Ort, v.B.F. = vor Beendigung der Fahrt, a.d.B. = auf dem Betriebsgelände</td></tr>
 </table>
