@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Politica agricola 2030+
 document: Progetto posto in consultazione - LSDAgr
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Agrarpolitik 2030+
 document: Vernehmlassungsvorlage - LwG
 language: de

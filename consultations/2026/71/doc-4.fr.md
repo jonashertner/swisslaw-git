@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Politique agricole 2030+
 document: Projet mis en consultation - LPAA
 language: fr
