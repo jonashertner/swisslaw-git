@@ -3,20 +3,19 @@ canton: LU
 number: "9"
 title: Verordnung über den Vollzug der Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige
 language: de
-version: 2013-01-01
-valid_until: 2026-12-31
-version_adopted: 2012-12-04
+version: 2027-01-01
+version_adopted: 2026-09-22
 adopted: 2009-12-18
 in_force: 2010-03-01
 url: "https://srl.lu.ch/app/de/texts_of_law/9"
-pdf: "https://srl.lu.ch/api/de/versions/2239/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4913/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug der Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige
 
-vom 18.12.2009 (Stand 01.01.2013)
+vom 18.12.2009 (Stand 01.01.2027)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -46,37 +45,43 @@ beschliesst:
 
 **Zuständige Behörde**
 
-<sup>1</sup> Das kantonale Passbüro der Luzerner Polizei ist die zuständige Behörde für die Entgegennahme von Anträgen für alle Ausweisarten und die Ausstellung der Ausweise für Personen mit Wohnsitz im Kanton Luzern.
+<sup>1</sup> Das kantonale Ausweiszentrum des Amtes für Migration ist die zuständige Behörde für die Entgegennahme von Anträgen für alle Ausweisarten und die Ausstellung der Ausweise für Personen mit Wohnsitz im Kanton Luzern.
 
-<sup>2</sup> Das kantonale Passbüro kann, sofern vertraglich vereinbart, auch für Personen mit Wohnsitz in einem anderen Kanton Ausweise ausstellen.
+<sup>2</sup> Das kantonale Ausweiszentrum kann, sofern vertraglich vereinbart, auch für Personen mit Wohnsitz in einem anderen Kanton Ausweise ausstellen.
 
 #### § 3
 
 **Antrags- und Ausstellungsverfahren**
 
-<sup>1</sup> Ausweisanträge sind per Telefon oder per Internet beim kantonalen Passbüro einzureichen. In begründeten Fällen können sie persönlich im Passbüro eingereicht werden.
+<sup>1</sup> Ausweisanträge sind per Telefon oder per Internet beim kantonalen Ausweiszentrum einzureichen. In begründeten Fällen können sie persönlich im Ausweiszentrum eingereicht werden.
 
-<sup>2</sup> Nach Überprüfung des Ausweisantrags durch das Passbüro muss die antragstellende Person zur Erstellung der Fotografie und der Fingerabdrücke persönlich beim Passbüro vorsprechen. Von der antragstellenden Person mitgebrachte digitale Fotografien können für den Ausweis verwendet werden, sofern die Fotografien die Anforderungen des Eidgenössischen Justiz- und Polizeidepartementes erfüllen. Über Ausnahmen von der persönlichen Vorsprache entscheidet das Passbüro.
+<sup>2</sup> Nach Überprüfung des Ausweisantrags durch das kantonale Ausweiszentrum muss die antragstellende Person zur Erstellung der Fotografie und der Fingerabdrücke persönlich beim Ausweiszentrum vorsprechen. Von der antragstellenden Person mitgebrachte digitale Fotografien können für den Ausweis verwendet werden, sofern die Fotografien die Anforderungen des Eidgenössischen Justiz- und Polizeidepartementes erfüllen. Über Ausnahmen von der persönlichen Vorsprache entscheidet das Ausweiszentrum.
 
 <sup>3</sup> Im Übrigen richtet sich das Antrags- und Ausstellungsverfahren nach den Artikeln 4–9 AwG und 9–14a VAwG.
+
+#### § 3a
+
+**Verlustmeldung beim Ausweiszentrum**
+
+<sup>1</sup> Personen mit Wohnsitz im Kanton Luzern können den Verlust eines Ausweises beim kantonalen Ausweiszentrum anzeigen, sofern sie ihr Einverständnis zur Übermittlung der Verlustmeldung an die Luzerner Polizei erklären. Die Luzerner Polizei nimmt den Eintrag in das automatisierte Polizeifahndungssystem vor.
 
 #### § 4
 
 **Zusammenarbeit mit den Gemeinden**
 
-<sup>1</sup> Kann das kantonale Passbüro die Personendaten von antragstellenden Personen nicht mit Hilfe der zugänglichen Register überprüfen, lässt es sie von der Wohnsitzgemeinde oder vom zuständigen Zivilstandsamt überprüfen.
+<sup>1</sup> Kann das kantonale Ausweiszentrum die Personendaten von antragstellenden Personen nicht mithilfe der zugänglichen Register überprüfen, lässt es sie von der Wohnsitzgemeinde oder vom zuständigen Zivilstandsamt überprüfen.
 
 #### § 5
 
 **Meldepflicht**
 
-<sup>1</sup> Die Strafverfolgungs- und Strafvollzugsbehörden, die Gerichte, die Kindes- und Erwachsenenschutzbehörden und die für Erwerb und Verlust des Kantons- und Gemeindebürgerrechts zuständigen Behörden erstatten dem kantonalen Passbüro die in Artikel 13 Absatz 1 AwG vorgesehenen Meldungen.
+<sup>1</sup> Die Strafverfolgungs- und Strafvollzugsbehörden, die Gerichte, die Kindes- und Erwachsenenschutzbehörden und die für Erwerb und Verlust des Kantons- und Gemeindebürgerrechts zuständigen Behörden erstatten dem kantonalen Ausweiszentrum die in Artikel 13 Absatz 1 AwG vorgesehenen Meldungen.
 
 #### § 6
 
 **Entzug von Ausweisen**
 
-<sup>1</sup> Der Entzug eines Ausweises wird durch das kantonale Passbüro angeordnet.
+<sup>1</sup> Der Entzug eines Ausweises wird durch das kantonale Ausweiszentrum angeordnet.
 
 #### § 7
 
@@ -92,6 +97,8 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für die Ausstellung von Ausweisen richten sich nach den Vorgaben des Bundes.
 
+<sup>2</sup> Die Gebühr für die Entgegennahme und die Bearbeitung von Ausweisverlustmeldungen beträgt 20 Franken.
+
 #### § 9
 
 **Auslagen**
@@ -102,7 +109,7 @@ beschliesst:
 
 **Inkasso**
 
-<sup>1</sup> Die Gebühren und allfällige Auslagen für Ausweise sind bei der persönlichen Vorsprache im kantonalen Passbüro in bar, mit der EC-Karte oder der Postcard zu bezahlen.
+<sup>1</sup> Die Gebühren und allfällige Auslagen für Ausweise sind bei der persönlichen Vorsprache im kantonalen Ausweiszentrum in bar, mit der EC-Karte oder der Postcard zu bezahlen.
 
 ## 4 Schlussbestimmungen
 
