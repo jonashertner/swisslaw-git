@@ -4,11 +4,11 @@ title: Verordnung vom 23. Oktober 2013 über Informationssysteme im Bereich der 
 short: ISLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2013-733-20270101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20250101/de"
 
 (ISLV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2025)
+vom 23. Oktober 2013 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -275,7 +275,7 @@ Das zentrale Informationssystem zum Nährstoffmanagement (IS NSM) enthält folge
 - c. Daten nach Anhang 1 Ziffern 1.1 und 1.2 zur Bewirtschafterin oder zum Bewirtschafter und zum Betrieb oder, sofern das Produkt nach Buchstabe b an eine andere Person abgegeben wird, zur Anwenderin oder zum Anwender;
 - d.[^14-5] Daten zur Menge der abgegebenen, weitergegebenen, zurückgenommenen, im Auftrag ausgebrachten oder eingeführten Produkte nach Buchstabe a mit den jeweiligen Nährstoffmengen;
 - e.[^14-6] Daten zu den Vorräten jedes Produktes nach Buchstabe a bei den Personen nach Buchstabe c mit den jeweiligen Nährstoffmengen;
-- f. Daten zur Vereinbarung zwischen dem Kanton und der Bewirtschafterin oder dem Bewirtschafter über die Anwendung von nährstoffreduziertem Futter nach Artikel 82*c* der Direktzahlungsverordnung vom 23. Oktober 2013[^14-7] (DZV).
+- f.[^14-7] …
 
 <sup>2</sup> Die relevanten Datenkategorien sind in Anhang 3*a* festgelegt.
 
@@ -285,7 +285,7 @@ Das zentrale Informationssystem zum Nährstoffmanagement (IS NSM) enthält folge
 [^14-4]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 [^14-5]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 [^14-6]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
-[^14-7]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^14-7]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2027 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 15
 
@@ -554,10 +554,10 @@ Das BLW erlässt in Absprache mit den involvierten Bundesämtern Weisungen über
 
 <sup>1</sup> Der Bund entwickelt in Zusammenarbeit mit den Kantonen die Informationssysteme nach Artikel 1 und übernimmt die fachliche Verantwortung.
 
-<sup>2</sup> Der EDV-Dienstleistungserbringer des Eidgenössischen Departementes für Wirtschaft, Bildung und Forschung, das Bundesamt für Informatik und Telekommunikation sowie das Bundesamt für Landestopografie unterstützen das BLW und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) bei der Systementwicklung in technischen Belangen. Sie stellen die nötige Infrastruktur bereit und sind für den sicheren Betrieb der Informationssysteme und des Beitragsberechnungsservices (BBS) nach Artikel 114 DZV[^26-1] verantwortlich.[^26-2]
+<sup>2</sup> Der EDV-Dienstleistungserbringer des Eidgenössischen Departementes für Wirtschaft, Bildung und Forschung, das Bundesamt für Informatik und Telekommunikation sowie das Bundesamt für Landestopografie unterstützen das BLW und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) bei der Systementwicklung in technischen Belangen. Sie stellen die nötige Infrastruktur bereit und sind für den sicheren Betrieb der Informationssysteme und des Beitragsberechnungsservices nach Artikel 114 der Direktzahlungsverordnung vom 23. Oktober 2013[^26-1] (DZV) verantwortlich.[^26-2]
 
 [^26-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^26-2]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 27
 
@@ -729,11 +729,11 @@ Anhang 1[^t-1]
 
 Anhang 2[^t-2]
 
-(Art. 6 Bst. d–f, 27 Abs. 5)
+(Art. 6 Bst. d und e, 27 Abs. 5)
 
 ## Kontrolldaten
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 ### 1 Kontrollgrunddaten im Geltungsbereich der VKKL und in den Kontrollbereichen nach Art. 10 der Verordnung vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (MNKPV)
 

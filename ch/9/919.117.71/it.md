@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 sui sistemi d'informazione nel campo dell'
 short: OSIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2013-733-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2013-733-20270101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20250101/it"
 
 (OSIAgr)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2025)
+del 23 ottobre 2013 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -275,7 +275,7 @@ Il sistema d’informazione centrale sulla gestione delle sostanze nutritive (SI
 - c. i dati di cui all’allegato 1 numeri 1.1 e 1.2 sul gestore e sull’azienda o, se il prodotto di cui alla lettera b è ceduto a un’altra persona, sull’utilizzatore;
 - d.[^14-5] i dati sulla quantità di prodotti di cui alla lettera a ceduti, forniti, ripresi, sparsi su incarico o importati, con i rispettivi quantitativi di sostanze nutritive;
 - e.[^14-6] i dati sulle scorte di ciascun prodotto di cui alla lettera a presso le persone di cui alla lettera c, con i rispettivi quantitativi di sostanze nutritive;
-- f. i dati sulla convenzione tra il Cantone e il gestore sull’utilizzo di foraggio a tenore ridotto di sostanze nutritive di cui all’articolo 82*c* dell’ordinanza del 23 ottobre 2013[^14-7] sui pagamenti diretti (OPD).
+- f.[^14-7] ...
 
 <sup>2</sup> Le categorie di dati rilevanti sono stabilite nell’allegato 3*a*.
 
@@ -285,7 +285,7 @@ Il sistema d’informazione centrale sulla gestione delle sostanze nutritive (SI
 [^14-4]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 [^14-5]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 [^14-6]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
-[^14-7]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^14-7]: Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2027 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 15
 
@@ -554,10 +554,10 @@ L’UFAG emana, d’intesa con gli uffici federali coinvolti, istruzioni su:
 
 <sup>1</sup> La Confederazione sviluppa, in collaborazione con i Cantoni, i sistemi d’informazione di cui all’articolo 1 e ne assume la responsabilità dal profilo tecnico.
 
-<sup>2</sup> Il fornitore di prestazioni informatiche del Dipartimento federale dell’economia, della formazione e della ricerca, l’Ufficio federale dell’informatica e delle telecomunicazioni e l’Ufficio federale di topografia prestano assistenza tecnica all’UFAG e all’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) nello sviluppo dei sistemi. Essi mettono a disposizione le necessarie infrastrutture e sono responsabili del funzionamento sicuro dei sistemi d’informazione e del Servizio di calcolo dei contributi (SCC) di cui all’articolo 114 OPD[^26-1].[^26-2]
+<sup>2</sup> Il fornitore di prestazioni informatiche del Dipartimento federale dell’economia, della formazione e della ricerca, l’Ufficio federale dell’informatica e delle telecomunicazioni e l’Ufficio federale di topografia prestano assistenza tecnica all’UFAG e all’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) nello sviluppo dei sistemi. Essi mettono a disposizione le necessarie infrastrutture e sono responsabili del funzionamento sicuro dei sistemi d’informazione e del Servizio di calcolo dei contributi di cui all’articolo 114 dell’ordinanza del 23 ottobre 2013[^26-1] sui pagamenti diretti (OPD).[^26-2]
 
 [^26-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^26-2]: Nuovo testo giusta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 27
 
@@ -727,11 +727,11 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
-(art. 6 lett. d–f, 27 cpv. 5)
+(art. 6 lett. d ed e, 27 cpv. 5)
 
 ## Dati sui controlli
 
-[^t-2]: Aggiornato dalle cifre II delle O del 18 ott. 2017 ([RU 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^t-2]: Aggiornato dalle cifre II delle O del 18 ott. 2017 ([RU 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)) e del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 ### 1 Dati di base del controllo nel campo d’applicazione dell’OCoC e negli ambiti di controllo di cui all’art. 10 dell’ordinanza del 27 maggio 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso (OPCNP)
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les systèmes d'information dans le do
 short: OSIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/733"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/733/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-733-20270101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/733/20250101/fr"
 
 (OSIAgr)
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2025)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -275,7 +275,7 @@ Le système central d’information sur la gestion des éléments fertilisants e
 - c. données selon l’annexe 1, ch. 1.1 et 1.2, sur l’exploitant et sur l’exploitation ou, si le produit visé à la let. b est remis à une autre personne, sur l’utilisateur;
 - d.[^14-5] données relatives aux quantités de produits visés à la let. a, remises, transférées, reprises, épandues sur mandat ou importées, avec indication pour chacun d’entre eux des quantités d’éléments fertilisants ou d’éléments nutritifs;
 - e.[^14-6] données relatives aux réserves de chaque produit visé à la let. a chez les personnes visées à la let. c, avec indication pour chacun d’entre eux des quantités d’éléments fertilisants ou d’éléments nutritifs;
-- f. données sur la convention passée entre le canton et l’exploitant concernant l’utilisation d’aliments pour animaux à teneur réduite en éléments nutritifs selon l’art. 82*c* de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^14-7].
+- f.[^14-7] …
 
 <sup>2</sup> Les catégories de données pertinentes sont fixées à l’annexe 3*a*.
 
@@ -285,7 +285,7 @@ Le système central d’information sur la gestion des éléments fertilisants e
 [^14-4]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 [^14-5]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 [^14-6]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
-[^14-7]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^14-7]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 15
 
@@ -554,10 +554,10 @@ En accord avec les offices fédéraux concernés, l’OFAG émet des instruction
 
 <sup>1</sup> La Confédération développe, en collaboration avec les cantons, les systèmes d’informations mentionnés à l’art. 1 et en assume la responsabilité métier.
 
-<sup>2</sup> Le fournisseur de prestations informatiques du Département fédéral de l’économie, de la formation et de la recherche, l’Office fédéral de l’informatique et de la télécommunication et l’Office fédéral de topographie soutiennent l’OFAG et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) pour ce qui est des exigences techniques liées au développement des systèmes. Ils mettent à disposition l’infrastructure nécessaire et sont responsables de la sécurité de l’exploitation des systèmes d’information et du service de calcul des contributions (SCC) visé à l’art. 114 OPD[^26-1].[^26-2]
+<sup>2</sup> Le fournisseur de services informatiques du Département fédéral de l’économie, de la formation et de la recherche, l’Office fédéral de l’informatique et de la télécommunication et l’Office fédéral de topographie aident l’OFAG et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) à développer le système sur le plan technique. Ils mettent à leur disposition l’infrastructure nécessaire et sont responsables de la sécurité de l’exploitation des systèmes d’information et du service de calcul des contributions visé à l’art. 114 de l’ordonnance sur 23 octobre 2013 sur les paiements directs (OPD)[^26-1].[^26-2]
 
 [^26-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^26-2]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 #### Art. 27
 
@@ -727,11 +727,11 @@ Annexe 1[^t-1]
 
 Annexe 2[^t-2]
 
-(art. 6, let. d à f, et 27, al. 5)
+(art. 6, let. d et e, et 27, al. 5)
 
 ## Données de contrôle
 
-[^t-2]: Mise à jour par le ch. II des O du 18 oct. 2017 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)) et du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
+[^t-2]: Mise à jour par le ch. II des O du 18 oct. 2017 ([RO 2017 6157](https://fedlex.data.admin.ch/eli/oc/2017/682)) et du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 655](https://fedlex.data.admin.ch/eli/oc/2024/655)).
 
 ### 1 Données de base des contrôles dans le champ d’application de l’OCCEA et dans les domaines de contrôle visés à l’art. 10 de l’ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels (OPCNP)
 
