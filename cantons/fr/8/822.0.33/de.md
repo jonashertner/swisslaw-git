@@ -1,22 +1,21 @@
 ---
 canton: FR
 number: "822.0.33"
-title: Verordnung über den Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2026
+title: Verordnung über den Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2027
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-02-10
+version: 2027-01-01
+version_adopted: 2026-04-21
 adopted: 2025-02-10
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.33"
-pdf: "https://bdlf.fr.ch/api/de/versions/8143/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8537/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2026
+# Verordnung über den Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2027
 
-vom 10.02.2025 (Fassung in Kraft getreten am 01.01.2026)
+vom 21.04.2026 (Fassung in Kraft getreten am 01.01.2027)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -28,6 +27,6 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Der Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2026 beträgt 55 %.
+<sup>1</sup> Der Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2027 beträgt 55 %.
 
-2025\_012
+2026\_034
