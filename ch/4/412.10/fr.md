@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFP
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: fr
-version: 2026-10-01
+version: 2027-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20261001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/fr"
 
 (LFPr)[^t-1]
 
-du 13 décembre 2002 (État le 1<sup>er</sup> octobre 2026)
+du 13 décembre 2002 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -751,7 +751,11 @@ Les forfaits sont versés aux cantons pour:
 
 **Subventions en faveur de projets de développement de la formation professionnelle et de développement de la qualité**
 
-Les subventions visées à l’art. 4, al. 1, en faveur des projets de développement de la formation professionnelle et à l’art. 8, al. 2, en faveur des projets de développement de la qualité sont limitées dans le temps.
+<sup>1</sup> Les subventions visées à l’art. 4, al. 1, en faveur des projets de développement de la formation professionnelle et à l’art. 8, al. 2, en faveur des projets de développement de la qualité sont limitées dans le temps.
+
+<sup>2</sup> Elles couvrent 50 % au plus des coûts pris en considération. Dans des cas exceptionnels justifiés, elles peuvent couvrir jusqu’à 80 % des coûts.[^54-1]
+
+[^54-1]: Introduit par le ch. I 6 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 55
 
@@ -776,7 +780,11 @@ Par prestations particulières d’intérêt public, on entend notamment:
 
 <sup>3</sup> Le Conseil fédéral peut prévoir d’autres prestations d’intérêt public pour lesquelles des subventions pourront être versées.
 
+<sup>3bis</sup> Les subventions couvrent 50 % au plus des coûts pris en considération. Dans des cas exceptionnels justifiés, elles peuvent couvrir jusqu’à 80 % des coûts.[^55-1]
+
 <sup>4</sup> Il définit les critères de l’octroi des subventions.
+
+[^55-1]: Introduit par le ch. I 6 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 56
 

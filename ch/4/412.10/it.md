@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legg
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: it
-version: 2026-10-01
+version: 2027-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20261001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/it"
 
 (Legge sulla formazione professionale, LFPr)
 
-del 13 dicembre 2002 (Stato 1° ottobre 2026)
+del 13 dicembre 2002 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -750,7 +750,11 @@ I contributi forfettari sono versati per i compiti seguenti:
 
 **Contributi per progetti di sviluppo della formazione professionale e della qualità**
 
-I contributi per progetti di sviluppo della formazione professionale conformemente all’articolo 4 capoverso 1 e i contributi per progetti di sviluppo della qualità conformemente all’articolo 8 capoverso 2 sono limitati nel tempo.
+<sup>1</sup> I contributi per progetti di sviluppo della formazione professionale conformemente all’articolo 4 capoverso 1 e i contributi per progetti di sviluppo della qualità conformemente all’articolo 8 capoverso 2 sono limitati nel tempo.
+
+<sup>2</sup> I contributi coprono al massimo il 50 per cento dei costi computabili. In caso di eccezioni motivate possono raggiungere l’80 per cento.[^54-1]
+
+[^54-1]: Introdotto dalla cifra I n. 6 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 55
 
@@ -775,7 +779,11 @@ Per prestazioni particolari di interesse pubblico s’intendono segnatamente:
 
 <sup>3</sup> Il Consiglio federale può prevedere altre prestazioni d’interesse pubblico per le quali possono essere concessi contributi.
 
+<sup>3bis</sup> I contributi coprono al massimo il 50 per cento dei costi computabili. In caso di eccezioni motivate possono raggiungere l’80 per cento.[^55-1]
+
 <sup>4</sup> Stabilisce i criteri per la concessione dei contributi.
+
+[^55-1]: Introdotto dalla cifra I n. 6 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 56
 

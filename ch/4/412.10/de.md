@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (Berufsbildun
 short: BBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: de
-version: 2026-10-01
+version: 2027-01-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20261001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/de"
 
 (Berufsbildungsgesetz, BBG)
 
-vom 13. Dezember 2002 (Stand am 1. Oktober 2026)
+vom 13. Dezember 2002 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -748,7 +748,11 @@ Die Pauschalbeiträge werden für folgende Aufgaben geleistet:
 
 **Beiträge für Projekte zur Entwicklung der Berufsbildung und zur Qualitätsentwicklung**
 
-Die Beiträge für Projekte zur Entwicklung der Berufsbildung nach Artikel 4 Absatz 1 und die Beiträge für Projekte zur Qualitätsentwicklung nach Artikel 8 Absatz 2 sind befristet.
+<sup>1</sup> Die Beiträge für Projekte zur Entwicklung der Berufsbildung nach Artikel 4 Absatz 1 und die Beiträge für Projekte zur Qualitätsentwicklung nach Artikel 8 Absatz 2 sind befristet.
+
+<sup>2</sup> Sie decken höchstens 50 Prozent der anrechenbaren Kosten. In begründeten Ausnahmefällen können bis zu 80 Prozent gewährt werden.[^54-1]
+
+[^54-1]: Eingefügt durch Ziff. I 6 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 55
 
@@ -773,7 +777,11 @@ Als besondere Leistungen im öffentlichen Interesse gelten namentlich:
 
 <sup>3</sup> Der Bundesrat kann weitere Leistungen im öffentlichen Interesse festlegen, für die Beiträge gewährt werden können.
 
+<sup>3bis</sup> Die Beiträge decken höchstens 50 Prozent der anrechenbaren Kosten. In begründeten Ausnahmefällen können bis zu 80 Prozent gewährt werden.[^55-1]
+
 <sup>4</sup> Der Bundesrat legt die Kriterien für die Gewährung der Beiträge fest.
+
+[^55-1]: Eingefügt durch Ziff. I 6 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 56
 
