@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2026-06-01
+version: 2027-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20260601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20260601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20260601/fr"
 
 (LAPG)[^t-1]
 
-du 25 septembre 1952 (État le 1<sup>er</sup> juin 2026)
+du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -279,7 +279,7 @@ Durant les périodes de service restantes, l’allocation journalière totale ne
 <sup>2</sup> Le Conseil fédéral peut adapter le montant maximum à l’évolution des salaires, à des intervalles d’au moins deux ans, dès le début d’une année et à condition que le niveau des salaires qui a déterminé la dernière adaptation ait subi, pendant ce temps, une modification d’au moins 12 %.
 
 [^16a-1]: Introduit par le ch. I de la LF du 3 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1209](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Montant adapté selon l’art. 7 al. 1 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^16a-2]: Montant adapté selon l’art. 7 al. 1 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^16a-3]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### III*a*. L’allocation de maternité
@@ -383,7 +383,7 @@ En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée
 
 <sup>2</sup> L’allocation est réduite si elle dépasse le montant maximal prévu à l’al. 1.
 
-[^16f-1]: Montant adapté selon l’art. 7 al. 2 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^16f-1]: Montant adapté selon l’art. 7 al. 2 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 16g
 
@@ -1039,14 +1039,14 @@ Les prestations prévues par la présente loi sont couvertes par:
 
 <sup>1</sup> Les assurés et les employeurs visés aux art. 3 et 12 LAVS[^27-2] sont soumis à l’obligation de payer des cotisations, à l’exception des personnes assurées selon l’art. 2 LAVS.[^27-3]
 
-<sup>2</sup> Les dispositions de la LAVS sont applicables par analogie à la fixation des cotisations. Le Conseil fédéral en établit le montant en tenant compte de l’art. 28. La cotisation perçue sur le revenu d’une activité lucrative ne peut dépasser 0,5 %. Les assurés n’exerçant aucune activité lucrative paient une cotisation en fonction de leur condition sociale. La cotisation minimale ne peut être supérieure à 25 francs[^27-4] par an. La cotisation maximale correspond à 50 fois la cotisation minimale. Les cotisations de ces assurés et les cotisations calculées selon le barème dégressif sont échelonnées de la même manière que les cotisations dues à l’assurance-vieillesse et survivants. En l’occurrence, il y a lieu de maintenir le rapport entre le taux en pour cent mentionné ci-dessus et le taux de cotisation non réduit fixé à l’art. 8, al. 1, LAVS. L’art. 9<sup>bis</sup> LAVS est applicable par analogie.[^27-5]
+<sup>2</sup> Les dispositions de la LAVS sont applicables par analogie à la fixation des cotisations. Le Conseil fédéral en établit le montant en tenant compte de l’art. 28. La cotisation perçue sur le revenu d’une activité lucrative ne peut dépasser 0,5 %. Les assurés n’exerçant aucune activité lucrative paient une cotisation en fonction de leur condition sociale. La cotisation minimale ne peut être supérieure à 26 francs[^27-4] par an. La cotisation maximale correspond à 50 fois la cotisation minimale. Les cotisations de ces assurés et les cotisations calculées selon le barème dégressif sont échelonnées de la même manière que les cotisations dues à l’assurance-vieillesse et survivants. En l’occurrence, il y a lieu de maintenir le rapport entre le taux en pour cent mentionné ci-dessus et le taux de cotisation non réduit fixé à l’art. 8, al. 1, LAVS. L’art. 9<sup>bis</sup> LAVS est applicable par analogie.[^27-5]
 
 <sup>3</sup> Les cotisations sont perçues sous la forme d’un supplément aux cotisations de l’assurance-vieillesse et survivants. Les art. 11 et 14 à 16 LAVS, y compris les dérogations à la LPGA[^27-6], sont applicables par analogie.[^27-7]
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 6 mars 1959 en vigueur depuis le 1<sup>er</sup> janv. 1960 ([RO 1959 589](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [FF 1958 II 1349](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
 [^27-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Montant adapté selon l’art. 9 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^27-4]: Montant adapté selon l’art. 9 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^27-5]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^27-7]: Introduit par le ch. VII de la LF du 4 oct. 1968 modifiant la loi sur l’AVS ([RO 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 627](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nouvelle teneur de la phrase selon l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).

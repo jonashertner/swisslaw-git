@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2026-06-01
+version: 2027-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20260601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20260601/de"
 
 (Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 1. Juni 2026)
+vom 25. September 1952 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -35,7 +35,7 @@ beschliesst:
 
 [^chap1-1]
 
-[^chap1-1]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^chap1-1]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 1
 
@@ -47,7 +47,7 @@ Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemei
 
 [^chap1a-1]
 
-[^chap1a-1]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^chap1a-1]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 ### I. Der Entschädigungsanspruch für Dienstleistende
 
@@ -81,13 +81,13 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 
 <sup>5</sup> Die in den Absätzen 1–4 genannten Personen werden in diesem Gesetz als Dienstleistende bezeichnet.
 
-[^1a-1]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^1a-2]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2003, mit Wirkung seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^1a-1]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^1a-2]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2003, mit Wirkung seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^1a-3]: Fassung gemäss Ziff. II 2 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 [^1a-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
-[^1a-5]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^1a-5]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^1a-6]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
-[^1a-7]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^1a-7]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^1a-8]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^1a-9]: Fassung gemäss Anhang Ziff. II 3 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dez. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [BBl 2019 8687](https://fedlex.data.admin.ch/eli/fga/2019/2993)).
 [^1a-10]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
@@ -100,7 +100,7 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 
 [^23-1]
 
-[^23-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2003, mit Wirkung seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^23-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2003, mit Wirkung seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### II. Die Entschädigungsarten
 
@@ -172,9 +172,9 @@ Anspruch auf Kinderzulagen besteht für:
 
 <sup>4</sup> Während der Grundausbildung im Zivilschutz beträgt die tägliche Grundentschädigung 25 Prozent des Höchstbetrages der Gesamtentschädigung. Absatz 2 ist sinngemäss anwendbar. Der Bundesrat erlässt Vorschriften für Dienstleistende, die eine militärische Grundausbildung teilweise oder ganz absolviert haben.
 
-[^9-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^9-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^9-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^9-3]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^9-3]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 10
 
@@ -184,7 +184,7 @@ Anspruch auf Kinderzulagen besteht für:
 
 <sup>2</sup> War die dienstleistende Person vor Beginn des Dienstes nicht erwerbstätig, so entspricht die tägliche Grundentschädigung den Mindestbeträgen gemäss Artikel 16 Absätze 1–3.
 
-[^10-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^10-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 10a
 
@@ -192,7 +192,7 @@ Anspruch auf Kinderzulagen besteht für:
 
 Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. Februar 1995[^10a-2] richtet sich der Entschädigungsanspruch nach der Rekrutenschule nach Artikel 9, bei allen übrigen Dienste nach Artikel 10. Artikel 16 Absatz 1 findet keine Anwendung.
 
-[^10a-1]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^10a-1]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^10a-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 11
@@ -203,7 +203,7 @@ Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. 
 
 <sup>2</sup> Der Bundesrat kann für Dienstleistende, die nur vorübergehend nicht erwerbstätig waren oder die wegen des Dienstes keine Erwerbstätigkeit aufnehmen konnten, besondere Vorschriften über die Bemessung ihrer Entschädigung erlassen.
 
-[^11-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^11-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^11-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-3]: Fassung gemäss Ziff. II 2 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 [^11-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
@@ -220,7 +220,7 @@ Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. 
 
 Die Kinderzulage beträgt für jedes Kind 8 Prozent des Höchstbetrages der Gesamtentschädigung.
 
-[^13-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^13-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 14
 
@@ -270,7 +270,7 @@ Während der anderen Dienste darf die tägliche Gesamtentschädigung folgende Pr
 
 <sup>6</sup> Die Gesamtentschädigung umfasst die Grundentschädigung nach Artikel 4 sowie die nach Artikel 6 geschuldeten Kinderzulagen. Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Gesamtentschädigung ausgerichtet.
 
-[^16-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 16a
 
@@ -281,14 +281,14 @@ Während der anderen Dienste darf die tägliche Gesamtentschädigung folgende Pr
 <sup>2</sup> Der Bundesrat kann frühestens nach je zwei Jahren den Höchstbetrag der Gesamtentschädigung auf Jahresbeginn der Lohnentwicklung anpassen, wenn sich das Lohnniveau, das für die letzte Festsetzung massgebend war, in dieser Zeit um mindestens 12 Prozent geändert hat.
 
 [^16a-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [BBl 1975 I 1193](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Entschädigung gemäss Art. 7 Abs. 1 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^16a-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16a-2]: Entschädigung gemäss Art. 7 Abs. 1 der V vom 2. Okt. 2026 vom über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^16a-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### III*a*. Die Mutterschaftsentschädigung
 
 [^chap1a-lvlIIIa-1]
 
-[^chap1a-lvlIIIa-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap1a-lvlIIIa-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 16b
 
@@ -384,7 +384,7 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 
 <sup>2</sup> Die Mutterschaftsentschädigung wird gekürzt, soweit sie den Höchstbetrag nach Absatz 1 übersteigt.
 
-[^16f-1]: Entschädigung gemäss Art. 7 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^16f-1]: Entschädigung gemäss Art. 7 Abs. 2 der V vom 2. Okt. 2026 vom über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 16g
 
@@ -430,7 +430,7 @@ In Ergänzung zu Kapitel III*a* können die Kantone eine höhere oder länger da
 
 [^chap1a-lvlIIIb-1][^chap1a-lvlIIIb-2]
 
-[^chap1a-lvlIIIb-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIb-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215), [3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^chap1a-lvlIIIb-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 #### Art. 16i
@@ -779,9 +779,9 @@ Leistungsberechtigte machen ihren Anspruch bei der zuständigen Ausgleichskasse 
 
 <sup>3</sup> Dienstleistende können ihren Anspruch über das Informationssystem nach Artikel 21*a* geltend machen.[^17-4]
 
-[^17-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^17-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^17-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^17-3]: Zweiter Satz eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^17-3]: Zweiter Satz eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 [^17-4]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 18
@@ -793,7 +793,7 @@ Leistungsberechtigte machen ihren Anspruch bei der zuständigen Ausgleichskasse 
 <sup>2</sup> Die Entschädigung wird im formlosen Verfahren nach Artikel 51 ATSG[^18-1] festgesetzt. Dies gilt in Abweichung von Artikel 49 Absatz 1 ATSG auch für erhebliche Entschädigungen.[^18-2]
 
 [^18-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^18-2]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^18-2]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 19
 
@@ -810,7 +810,7 @@ Die Entschädigung wird den Leistungsberechtigten ausbezahlt; es gelten jedoch f
 
 <sup>3</sup> Die Entschädigung wird nur ausbezahlt, wenn sie vorschriftsgemäss geltend gemacht wird und der Nachweis erbracht wird, dass die Leistungsvoraussetzungen erfüllt sind.
 
-[^19-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^19-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^19-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 19a
@@ -831,9 +831,9 @@ Auf der Entschädigung werden Beiträge bezahlt:
 <sup>2</sup> Der Bundesrat regelt die Einzelheiten und das Verfahren. Er kann bestimmte Personengruppen von der Beitragspflicht ausnehmen und vorsehen, dass für kurze Dienstleistungen keine Beiträge bezahlt werden müssen.
 
 [^19a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
-[^19a-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^19a-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^19a-3]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
-[^19a-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^19a-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 20
 
@@ -853,7 +853,7 @@ In Abweichung von Artikel 24 ATSG[^20-2] erlischt der Anspruch auf nicht bezogen
 
 <sup>2</sup> Forderungen nach diesem Gesetz, dem AHVG[^20-8] und dem Bundesgesetz vom 20. Juni 1952[^20-9] über die Familienzulagen in der Landwirtschaft[^20-10] können mit fälligen Entschädigungen verrechnet werden.
 
-[^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^20-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^20-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
@@ -931,7 +931,7 @@ In Abweichung von Artikel 78 ATSG ist die Haftung wie folgt geregelt:
 [^21-6]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^21-7]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^21-8]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
-[^21-9]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523). Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21-9]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523). Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 21a
 
@@ -991,7 +991,7 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 <sup>2</sup> Die Eidgenössische Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung[^23-6] bestellt aus ihrer Mitte einen Ausschuss für die Erwerbsersatzordnung. …[^23-7] Dem Ausschuss obliegt die Begutachtung von Fragen über die Durchführung und Weiterentwicklung der Erwerbsersatzordnung zuhanden des Bundesrates. Er hat das Recht, dem Bundesrat von sich aus Anregungen zu unterbreiten.
 
 [^23-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^23-3]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^23-3]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 [^23-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-5]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^23-6]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
@@ -1007,10 +1007,10 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 
 <sup>2</sup> Über Beschwerden von Personen im Ausland entscheidet in Abweichung von Artikel 58 Absatz 2 ATSG das Bundesverwaltungsgericht. Der Bundesrat kann vorsehen, dass diese Zuständigkeit dem Versicherungsgericht des Kantons zugewiesen wird, in welchem der Arbeitgeber des Versicherten seinen Wohnsitz oder Sitz hat. Artikel 85<sup>bis</sup> Absätze 2 und 3 AHVG[^24-3] gilt sinngemäss.[^24-4]
 
-[^24-1]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^24-1]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 [^24-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^24-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^24-4]: Fassung gemäss Anhang Ziff. 113 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^24-4]: Fassung gemäss Anhang Ziff. 113 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 25
 
@@ -1040,17 +1040,17 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 
 <sup>1</sup> Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^27-2] genannten Versicherten und Arbeitgeber mit Ausnahme der nach Artikel 2 AHVG versicherten Personen.[^27-3]
 
-<sup>2</sup> Für die Bemessung der Beiträge sind die Bestimmungen des AHVG sinngemäss anwendbar. Der Bundesrat setzt die Höhe der Beiträge unter Berücksichtigung von Artikel 28 fest. Die Beiträge vom Einkommen aus einer Erwerbstätigkeit dürfen jedoch 0,5 Prozent nicht übersteigen. Nichterwerbstätige entrichten je nach ihren sozialen Verhältnissen einen Beitrag. Der Mindestbeitrag beträgt höchstens 25 Franken[^27-4] im Jahr. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Die Beiträge dieser Versicherten sowie die Beiträge nach der sinkenden Skala werden in gleicher Weise abgestuft wie die Beiträge der Alters- und Hinterlassenenversicherung. Dabei ist das Verhältnis zu wahren zwischen dem vorstehend erwähnten Prozentsatz und dem unverminderten Beitragssatz nach Artikel 8 Absatz 1 des AHVG. Dessen Artikel 9<sup>bis</sup> gilt sinngemäss.[^27-5]
+<sup>2</sup> Für die Bemessung der Beiträge sind die Bestimmungen des AHVG sinngemäss anwendbar. Der Bundesrat setzt die Höhe der Beiträge unter Berücksichtigung von Artikel 28 fest. Die Beiträge vom Einkommen aus einer Erwerbstätigkeit dürfen jedoch 0,5 Prozent nicht übersteigen. Nichterwerbstätige entrichten je nach ihren sozialen Verhältnissen einen Beitrag. Der Mindestbeitrag beträgt höchstens 26 Franken[^27-4] im Jahr. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Die Beiträge dieser Versicherten sowie die Beiträge nach der sinkenden Skala werden in gleicher Weise abgestuft wie die Beiträge der Alters- und Hinterlassenenversicherung. Dabei ist das Verhältnis zu wahren zwischen dem vorstehend erwähnten Prozentsatz und dem unverminderten Beitragssatz nach Artikel 8 Absatz 1 des AHVG. Dessen Artikel 9<sup>bis</sup> gilt sinngemäss.[^27-5]
 
 <sup>3</sup> Die Beiträge werden als Zuschläge zu den Beiträgen der Alters- und Hinterlassenenversicherung erhoben. Die Artikel 11 und 14–16 AHVG sind sinngemäss anwendbar mit ihren jeweiligen Abweichungen vom ATSG[^27-6].[^27-7] [^27-8]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
 [^27-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Beitrag gemäss Art. 9 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^27-4]: Beitrag gemäss Art. 9 der V vom 2. Okt. 2026 vom über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^27-5]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^27-7]: Fassung des zweiten Satzes gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^27-7]: Fassung des zweiten Satzes gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 [^27-8]: Eingefügt durch Ziff. VII des BG vom 4. Okt. 1968 betreffend Änderung des BG über die Alters- und Hinterlassenenversicherung ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 
 #### Art. 28
@@ -1070,7 +1070,7 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 
 [^chap5-1]
 
-[^chap5-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap5-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 28a
 
@@ -1102,8 +1102,8 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^28a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^28a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
 [^28a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
-[^28a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
-[^28a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
+[^28a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
+[^28a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^28a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Sechster Abschnitt: Schluss- und Übergangsbestimmungen
@@ -1179,7 +1179,7 @@ In die kantonalen Erlasse betreffend die Errichtung der kantonalen Ausgleichskas
 
 [^u2-1]
 
-[^u2-1]: [AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)
+[^u2-1]: [AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)
 
 ### 1. Entschädigung für Dienstleistende
 

@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2026-06-01
+version: 2027-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20260601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20260601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20260601/it"
 
 (Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° giugno 2026)
+del 25 settembre 1952 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta la cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -57,7 +57,7 @@ Le disposizioni della legge federale del 6 ottobre 2000[^1-1] sulla parte genera
 
 #### Art. 1a
 
-**...[^1a-2]**[^1a-1]
+**…[^1a-2]**[^1a-1]
 
 <sup>1</sup>
 
@@ -96,7 +96,7 @@ Le persone che prestano servizio nell’esercito svizzero o nel servizio della C
 [^1a-13]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1a-14]: Introdotto dalla cifra II n. 2 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nuovo testo giusta l’all. n. 8 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
-#### Art. 2 e 3
+#### Art. 2–3
 
 [^23-1]
 
@@ -279,7 +279,7 @@ Durante gli altri servizi l’indennità giornaliera totale corrisponde almeno a
 <sup>2</sup> Ad intervalli di almeno due anni, il Consiglio federale può adeguare l’indennità totale massima all’evoluzione dei salari per l’inizio dell’anno, se il livello salariale determinante per l’ultimo adeguamento si è nel frattempo modificato di almeno il 12 per cento.
 
 [^16a-1]: Introdotto dalla cifra I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); FF **1975** I 1195).
-[^16a-2]: Indennità giusta l’art. 7 cpv. 1 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^16a-2]: Indennità giusta l’art. 7 cpv. 1 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^16a-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 ### III*a*. Indennità in caso di maternità
@@ -383,7 +383,7 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 <sup>2</sup> L’indennità di maternità è ridotta nella misura in cui supera l’importo massimo secondo il capoverso 1.
 
-[^16f-1]: Indennità giusta l’art. 7 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^16f-1]: Indennità giusta l’art. 7 cpv. 2 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 16g
 
@@ -986,7 +986,7 @@ A copertura delle loro spese di amministrazione, le casse di compensazione prele
 
 <sup>1</sup> Gli articoli 72, 72*a* e 72*b* LAVS[^23-4] si applicano per analogia.[^23-5]
 
-<sup>2</sup> La Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità[^23-6] ...[^23-7] istituisce nel suo seno una sottocommissione incaricata di dare parere al Consiglio federale sulle questioni concernenti l’esecuzione e lo sviluppo ulteriore dell’ordinamento delle indennità per perdita di guadagno. La sottocommissione ha diritto di presentare, di propria iniziativa, proposte al Consiglio federale.
+<sup>2</sup> La Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità[^23-6] …[^23-7] istituisce nel suo seno una sottocommissione incaricata di dare parere al Consiglio federale sulle questioni concernenti l’esecuzione e lo sviluppo ulteriore dell’ordinamento delle indennità per perdita di guadagno. La sottocommissione ha diritto di presentare, di propria iniziativa, proposte al Consiglio federale.
 
 [^23-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^23-3]: Nuovo testo giusta l’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
@@ -1038,14 +1038,14 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 
 <sup>1</sup> Sono tenuti a pagare i contributi gli assicurati e i datori di lavoro di cui agli articoli 3 e 12 della LAVS[^27-2], eccettuate le persone assicurate secondo l’articolo 2 della LAVS.[^27-3]
 
-<sup>2</sup> Per il calcolo dei contributi sono applicabili per analogia le disposizioni della LAVS. Il Consiglio federale stabilisce l’ammontare dei contributi tenendo conto dell’articolo 28. Il contributo sul reddito di un’attività lucrativa non può tuttavia eccedere lo 0,5 per cento. Gli assicurati che non esercitano un’attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo non può eccedere 25 franchi[^27-4] all’anno. Il contributo massimo corrisponde a 50 volte il contributo minimo. I contributi di questi assicurati e i contributi calcolati secondo la tavola scalare sono graduati nello stesso modo dei contributi dell’assicurazione per la vecchiaia e per i superstiti. In tale ambito è mantenuto il rapporto tra la percentuale summenzionata e il tasso non ridotto di contribuzione giusta l’articolo 8 capoverso 1 della LAVS. L’articolo 9<sup>bis</sup> della LAVS è applicabile per analogia.[^27-5]
+<sup>2</sup> Per il calcolo dei contributi sono applicabili per analogia le disposizioni della LAVS. Il Consiglio federale stabilisce l’ammontare dei contributi tenendo conto dell’articolo 28. Il contributo sul reddito di un’attività lucrativa non può tuttavia eccedere lo 0,5 per cento. Gli assicurati che non esercitano un’attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo non può eccedere 26 franchi[^27-4] all’anno. Il contributo massimo corrisponde a 50 volte il contributo minimo. I contributi di questi assicurati e i contributi calcolati secondo la tavola scalare sono graduati nello stesso modo dei contributi dell’assicurazione per la vecchiaia e per i superstiti. In tale ambito è mantenuto il rapporto tra la percentuale summenzionata e il tasso non ridotto di contribuzione giusta l’articolo 8 capoverso 1 della LAVS. L’articolo 9<sup>bis</sup> della LAVS è applicabile per analogia.[^27-5]
 
 <sup>3</sup> I contributi sono prelevati quali supplementi a quelli dell’assicurazione per la vecchiaia e per i superstiti. Gli articoli 11 e 14–16 della LAVS sono applicabili per analogia, comprese le deroghe alla LPGA[^27-6] che vi figurano.[^27-7]
 
 [^27-1]: Nuovo testo giusta la cifra I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
 [^27-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-3]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Contributo giusta l’art. 9 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^27-4]: Contributo giusta l’art. 9 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^27-5]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^27-7]: Introdotto dalla cifra VII della LF del 4 ott. 1968 che modifica quella sull’AVS ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo del per. giusta l’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
@@ -1160,7 +1160,7 @@ I decreti cantonali concernenti l’istituzione delle casse cantonali di compens
 
 <sup>1</sup> La presente legge entra in vigore il 1° gennaio 1953.
 
-<sup>2</sup> ...[^34-1]
+<sup>2</sup> …[^34-1]
 
 <sup>3</sup> Il Consiglio federale è incaricato di eseguire la presente legge ed emana le disposizioni necessarie.
 
