@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 25 mai 2012 sur les programmes et les projets d'en
 short: OPESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: fr
-version: 2026-04-07
+version: 2027-01-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260407/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260407-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/fr"
 
 (OPESp)
 
-du 25 mai 2012 (État le 7 avril 2026)
+du 25 mai 2012 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -66,14 +66,15 @@ Dans la présente ordonnance, on entend par:
 
 <sup>1bis</sup> …[^3-2]
 
-<sup>2</sup> Le sport Allround ne peut être proposé qu’aux enfants.
+<sup>2</sup> …[^3-3]
 
-<sup>3</sup> Toute activité dans l’un des sports visés à l’art. 6, al. 2, OESp est interdite dans les offres J+S. Dans les cours et les camps de canoë-kayak J+S, les descentes en eaux vives sont autorisées, y compris celles qui sont effectuées sur des cours d’eau présentant un degré de difficulté supérieur à II conformément à l’annexe 3 de l’ordonnance du 30 janvier 2019 sur les activités à risque[^3-3], à condition que ces descentes soient dirigées par des personnes titulaires d’une reconnaissance de moniteur J+S Canoë-kayak valable et d’une reconnaissance supplémentaire Sécurité.[^3-4]
+<sup>3</sup> Toute activité dans l’un des sports visés à l’art. 6, al. 2, OESp est interdite dans les offres J+S. Dans les cours et les camps de canoë-kayak J+S, les descentes en eaux vives sont autorisées, y compris celles qui sont effectuées sur des cours d’eau présentant un degré de difficulté supérieur à II conformément à l’annexe 3 de l’ordonnance du 30 janvier 2019 sur les activités à risque[^3-4], à condition que ces descentes soient dirigées par des personnes titulaires d’une reconnaissance de moniteur J+S Canoë-kayak valable et d’une reconnaissance supplémentaire Sécurité.[^3-5]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-2]: Introduit par le ch. I de l’O du DDPS du 26 oct. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogé par le ch. I de l’O du DDPS du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-3]: [RS 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
-[^3-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^3-3]: Abrogé par le ch. I de l’O du DDPS du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^3-4]: [RS 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### Section 2 Cours J+S
 
@@ -163,7 +164,11 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 <sup>1</sup> La formation dispensée aux enfants et aux jeunes dans les cours J+S comporte plusieurs niveaux et tient compte de leur âge, de leurs capacités et des spécificités des sports.
 
+<sup>1bis</sup> Elle est proposée pour différentes catégories d’âge et différents niveaux sportifs en tenant compte des spécificités des groupes cibles.[^10-1]
+
 <sup>2</sup> L’OFSPO définit le contenu des formations.
+
+[^10-1]: Introduit par le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### Section 3 Camps J+S
 
@@ -184,9 +189,10 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 **Direction**[^12-1]
 
-Tout camp J+S doit être dirigé par au moins deux moniteurs J+S titulaires d’une reconnaissance pour le sport concerné et pour le groupe cible des enfants ou le groupe cible des jeunes.
+Tout camp J+S doit être dirigé par au moins deux moniteurs J+S titulaires d’une reconnaissance pour le sport concerné.[^12-2]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 13
 
@@ -222,7 +228,11 @@ Tout camp J+S doit être dirigé par au moins deux moniteurs J+S titulaires d’
 
 <sup>1</sup> Les activités J+S doivent être enseignées compte tenu de l’âge et des capacités des enfants et des jeunes, ainsi que des spécificités des sports pratiqués.
 
+<sup>1bis</sup> Elles sont proposées pour différentes catégories d’âge et différents niveaux sportifs en tenant compte des spécificités des groupes cibles.[^15-1]
+
 <sup>2</sup> L’OFSPO définit le contenu des formations.
+
+[^15-1]: Introduit par le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuisle 1<sup>er</sup> janv. 2027 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### Section 4 …
 
@@ -332,13 +342,13 @@ Les moniteurs J+S Sport de camp/Trekking peuvent diriger des cours et des camps 
 
 **Formation**
 
-<sup>1</sup> Les moniteurs J+S sont formés dans des cours de moniteurs J+S, pour un sport spécifique et pour le groupe cible des enfants ou le groupe cible des jeunes.[^27-1]
+<sup>1</sup> Les moniteurs J+S sont formés dans des cours de moniteurs J+S spécifiques au sport concerné.[^27-1]
 
 <sup>2</sup> …[^27-2]
 
 <sup>3</sup> L’OFSPO propose des formations abrégées sous la forme de cours d’introduction aux personnes qui ont suivi une formation équivalente au cours de moniteurs.
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 [^27-2]: Abrogé par le ch. I de l’O du DDPS du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 28
@@ -347,11 +357,12 @@ Les moniteurs J+S Sport de camp/Trekking peuvent diriger des cours et des camps 
 
 <sup>1</sup> La formation continue permet aux moniteurs d’approfondir et d’élargir leurs compétences. Elle est modulaire.
 
-<sup>2</sup> En participant à des modules de formation continue spécifiques à un groupe cible, les moniteurs J+S s’acquittent de leur obligation de formation continue pour tous les sports ou disciplines pour lesquels ils possèdent une reconnaissance dans ce groupe cible.
+<sup>2</sup> En accomplissant des modules de formation continue ou un cours de moniteur J+S, les moniteurs J+S s’acquittent de leur obligation de formation continue pour tous les sports pour lesquels ils possèdent une reconnaissance.[^28-2]
 
 <sup>3</sup> Les modules de formation continue ne visant pas uniquement à conserver une reconnaissance de moniteur doivent, pour satisfaire à l’obligation de formation continue, avoir été suivis pendant une durée au moins équivalente à celle des modules de formation continue servant exclusivement à conserver une reconnaissance de moniteur.
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, à l’exception de l’al. 2 qui entre en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 29
 
@@ -481,17 +492,18 @@ Sont admis à la formation et à la formation continue les candidats:
 
 **Tâches**
 
-<sup>1</sup> Les experts J+S assurent la formation des cadres dans le sport concerné ou pour le groupe cible voulu.
+<sup>1</sup> Les experts J+S assurent la formation des cadres dans le sport concerné.[^43-1]
 
-<sup>2</sup> Les experts J+S peuvent se voir confier, en tant que spécialistes de la sécurité, l’évaluation de programmes de cours ou de camp dans des sports ou des activités faisant l’objet de prescriptions de sécurité particulières.[^43-1]
+<sup>2</sup> Les experts J+S peuvent se voir confier, en tant que spécialistes de la sécurité, l’évaluation de programmes de cours ou de camp dans des sports ou des activités faisant l’objet de prescriptions de sécurité particulières.[^43-2]
 
-<sup>3</sup> …[^43-2]
+<sup>3</sup> …[^43-3]
 
-<sup>4</sup> L’OFSPO peut réaliser des cours de cadres avec des experts J+S pour préparer ou développer la formation des cadres J+S.[^43-3]
+<sup>4</sup> L’OFSPO peut réaliser des cours de cadres avec des experts J+S pour préparer ou développer la formation des cadres J+S.[^43-4]
 
-[^43-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^43-2]: Abrogé par le ch. I de l’O du DDPS du 26 oct. 2015, avec effet au 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^43-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^43-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^43-3]: Abrogé par le ch. I de l’O du DDPS du 26 oct. 2015, avec effet au 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 ### Section 10 Octroi de subventions
 

@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 25. Mai 2012 über Sportförderungsprogramme und -
 short: VSpoFöP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: de
-version: 2026-04-07
+version: 2027-01-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260407/de/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260407-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2012-462-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/de"
 
 (VSpoFöP)
 
-vom 25. Mai 2012 (Stand am 7. April 2026)
+vom 25. Mai 2012 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -66,14 +66,15 @@ In dieser Verordnung bedeuten:
 
 <sup>1bis</sup> …[^3-2]
 
-<sup>2</sup> Die Sportart Allround darf ausschliesslich für Kinder angeboten werden.
+<sup>2</sup> …[^3-3]
 
-<sup>3</sup> Aktivitäten in Sportarten nach Artikel 6 Absatz 2 SpoFöV sind in einem J+S‑Angebot verboten. Zulässig sind in J+S-Kursen und -Lagern der Sportart Kanusport Wildwasserfahrten, einschliesslich solcher auf Fliessgewässern mit einem Schwierigkeitsgrad, der höher ist als Wildwasser II nach Anhang 3 der Risikoaktivitätenverordnung vom 30. Januar 2019[^3-3], sofern diese Aktivitäten von Personen geleitet werden, die über eine gültige Anerkennung als J+S-Leiterinnen und -Leiter in der Sportart Kanusport und eine Zusatzanerkennung Sicherheit verfügen.[^3-4]
+<sup>3</sup> Aktivitäten in Sportarten nach Artikel 6 Absatz 2 SpoFöV sind in einem J+S‑Angebot verboten. Zulässig sind in J+S-Kursen und -Lagern der Sportart Kanusport Wildwasserfahrten, einschliesslich solcher auf Fliessgewässern mit einem Schwierigkeitsgrad, der höher ist als Wildwasser II nach Anhang 3 der Risikoaktivitätenverordnung vom 30. Januar 2019[^3-4], sofern diese Aktivitäten von Personen geleitet werden, die über eine gültige Anerkennung als J+S-Leiterinnen und -Leiter in der Sportart Kanusport und eine Zusatzanerkennung Sicherheit verfügen.[^3-5]
 
-[^3-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-2]: Eingefügt durch Ziff. I der V des VBS vom 26. Okt. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Aufgehoben durch Ziff. I der V des VBS vom 8. April 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-3]: [SR 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
-[^3-4]: Fassung gemäss Ziff. I der V des VBS vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^3-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304), [1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^3-2]: Eingefügt durch Ziff. I der V des VBS vom 26. Okt. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Aufgehoben durch Ziff. I der V des VBS vom 8. April 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304), [1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^3-3]: Aufgehoben durch Ziff. I der V des VBS vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^3-4]: [SR 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
+[^3-5]: Fassung gemäss Ziff. I der V des VBS vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### 2. Abschnitt: J+S-Kurse
 
@@ -163,7 +164,11 @@ Ein J+S-Kurs umfasst Aktivitäten in den J+S-Sportarten, die regelmässig durchg
 
 <sup>1</sup> Die Ausbildung der Kinder und Jugendlichen in den J+S-Kursen erfolgt über mehrere Ausbildungsstufen, nach kinder- und jugendgerechten Grundsätzen und nach sportartspezifischer Ausrichtung.
 
+<sup>1bis</sup> Sie wird zielgruppenspezifisch für verschiedene Altersklassen und Leistungsniveaus angeboten.[^10-1]
+
 <sup>2</sup> Das BASPO legt die Ausbildungsinhalte fest.
+
+[^10-1]: Eingefügt durch Ziff. I der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### 3. Abschnitt: J+S-Lager
 
@@ -184,9 +189,9 @@ Ein J+S-Kurs umfasst Aktivitäten in den J+S-Sportarten, die regelmässig durchg
 
 **Leitung**[^12-1]
 
-Zur Durchführung eines J+S-Lagers braucht es mindestens zwei J+S-Leiterinnen und -Leiter, die in der entsprechenden Sportart und der Zielgruppe Kinder oder Jugendliche anerkannt sind.
+Zur Durchführung eines J+S-Lagers braucht es mindestens zwei J+S-Leiterinnen und -Leiter, die in der entsprechenden Sportart anerkannt sind.
 
-[^12-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^12-1]: Fassung gemäss Ziff. I der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 13
 
@@ -222,7 +227,11 @@ Zur Durchführung eines J+S-Lagers braucht es mindestens zwei J+S-Leiterinnen un
 
 <sup>1</sup> Die J+S-Aktivitäten sind nach kinder- und jugendgerechten Grundsätzen und nach sportartspezifischer Ausrichtung zu unterrichten.
 
+<sup>1bis</sup> Sie werden zielgruppenspezifisch für verschiedene Altersklassen und Leistungsniveaus angeboten.[^15-1]
+
 <sup>2</sup> Das BASPO legt die Ausbildungsinhalte fest.
+
+[^15-1]: Eingefügt durch Ziff. I der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### 4. Abschnitt: …
 
@@ -326,19 +335,19 @@ Für die Durchführung von Modulen der Weiterbildung oder für die Vermittlung v
 
 J+S-Leiterinnen und -Leiter in der Sportart Lagersport/Trekking können J+S-Kurse und J+S-Lager oder einzelne Aktivitäten innerhalb von Kursen und Lagern eines Organisators leiten, auch wenn sie das 18. Altersjahr noch nicht vollendet haben.
 
-[^26a-1]: Eingefügt durch Ziff. I der V des VBS vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218); [2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^26a-1]: Eingefügt durch Ziff. I der V des VBS vom 30. März 2022, in Kraft vom 1. Dez. 2022 bis zum 31. Dez. 2025 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)), verklängert für eine unbestimmte Zeit durch Ziff. III Abs. 3 der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 27
 
 **Ausbildung**
 
-<sup>1</sup> Die Ausbildung zur J+S-Leiterin oder zum J+S-Leiter erfolgt in J+S-Leiterkursen sportartenspezifisch für die Zielgruppen Kinder oder Jugendliche.[^27-1]
+<sup>1</sup> Die Ausbildung zur J+S-Leiterin oder zum J+S-Leiter erfolgt in J+S-Leiterkursen in der entsprechenden Sportart.[^27-1]
 
 <sup>2</sup> …[^27-2]
 
 <sup>3</sup> Das BASPO bietet Personen, die über eine dem Leiterkurs gleichwertige Ausbildung verfügen, verkürzte Ausbildungen in der Form von Einführungskursen an.
 
-[^27-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^27-1]: Fassung gemäss Ziff. I der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 [^27-2]: Aufgehoben durch Ziff. I der V des VBS vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 28
@@ -351,7 +360,7 @@ J+S-Leiterinnen und -Leiter in der Sportart Lagersport/Trekking können J+S-Kurs
 
 <sup>3</sup> Weiterbildungsmodule, deren Ziele über den blossen Erhalt der Leiteranerkennung hinausgehen, müssen zur Erfüllung der Weiterbildungspflicht mindestens so weit absolviert werden, wie Weiterbildungsmodule dauern, die ausschliesslich dem Erhalt der Leiteranerkennung dienen.
 
-[^28-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Jan. 2021, mit Ausnahme von Abs. 2, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^28-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Jan. 2021, mit Ausnahme von Abs. 2, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304), [1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 29
 
@@ -450,7 +459,7 @@ J+S-Coaches sind verantwortlich für die vorschriftsgemässe Durchführung der J
 
 <sup>4</sup> Es kann Personen, die über eine dem Expertenkurs gleichwertige Ausbildung verfügen, verkürzte Ausbildungen in der Form von Einführungskursen anbieten.
 
-[^40-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^40-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304), [1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 41
 
@@ -481,17 +490,18 @@ Zur Aus- und Weiterbildung werden Kandidatinnen und Kandidaten zugelassen, welch
 
 **Aufgaben**
 
-<sup>1</sup> J+S-Expertinnen und -Experten führen die Kaderbildung in der entsprechenden Sportart oder für die entsprechende Zielgruppe durch.
+<sup>1</sup> J+S-Expertinnen und -Experten führen die Kaderbildung in der entsprechenden Sportart durch.[^43-1]
 
-<sup>2</sup> In Sportarten oder bei Aktivitäten mit besonderen Sicherheitsvorschriften können J+S-Expertinnen und ‑Experten als Sicherheitsfachleute für die Beurteilung von Kurs- oder Lagerprogrammen eingesetzt werden.[^43-1]
+<sup>2</sup> In Sportarten oder bei Aktivitäten mit besonderen Sicherheitsvorschriften können J+S-Expertinnen und ‑Experten als Sicherheitsfachleute für die Beurteilung von Kurs- oder Lagerprogrammen eingesetzt werden.[^43-2]
 
-<sup>3</sup> …[^43-2]
+<sup>3</sup> …[^43-3]
 
-<sup>4</sup> Das BASPO kann mit J+S-Expertinnen und -Experten Kaderkurse zur Vorbereitung oder Weiterentwicklung der J+S-Kaderbildung durchführen.[^43-3]
+<sup>4</sup> Das BASPO kann mit J+S-Expertinnen und -Experten Kaderkurse zur Vorbereitung oder Weiterentwicklung der J+S-Kaderbildung durchführen.[^43-4]
 
-[^43-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^43-2]: Aufgehoben durch Ziff. I der V des VBS vom 26. Okt. 2015, mit Wirkung seit 1. Dez. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^43-3]: Fassung gemäss Ziff. I der V des VBS vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-1]: Fassung gemäss Ziff. I der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^43-2]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304), [1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^43-3]: Aufgehoben durch Ziff. I der V des VBS vom 26. Okt. 2015, mit Wirkung seit 1. Dez. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-4]: Fassung gemäss Ziff. I der V des VBS vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 ### 10. Abschnitt: Beitragsgewährung
 
@@ -680,7 +690,7 @@ Die Anmeldung muss mindestens die folgenden Angaben enthalten:
 
 <sup>3</sup> Die zuständige Behörde entscheidet über die Bewilligung der Angebote vor deren Beginn.
 
-[^58-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^58-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304), [1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 59
 
@@ -1064,7 +1074,7 @@ Aikido, Akrobatikturnen, Allround, American Football, Armbrust, Artistic Swimmin
 
 Anhang 1a[^t-2]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V des VBS vom 26. Okt. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Aufgehoben durch Ziff. II Abs. 2 der V des VBS vom 8. April 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V des VBS vom 26. Okt. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Aufgehoben durch Ziff. II Abs. 2 der V des VBS vom 8. April 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304), [1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 Anhang 2[^t-3]
 

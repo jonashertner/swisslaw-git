@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 25 maggio 2012 su programmi e progetti per la prom
 short: OPPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: it
-version: 2026-04-07
+version: 2027-01-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260407/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260407-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/it"
 
 (OPPSpo)
 
-del 25 maggio 2012 (Stato 7 aprile 2026)
+del 25 maggio 2012 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -66,14 +66,15 @@ Nella presente ordinanza, s’intende per:
 
 <sup>1bis</sup> L’allegato 1*a* stabilisce quali discipline sportive si suddividono in quali specialità.[^3-2]
 
-<sup>2</sup> La disciplina sportiva allround è riservata esclusivamente alle offerte destinate ai bambini.
+<sup>2</sup> ...[^3-3]
 
-<sup>3</sup> Le attività nel quadro di discipline sportive di cui all’articolo 6 capoverso 2 OPSpo sono vietate in un’offerta G+S. Nei corsi e campi G+S della disciplina sportiva canoismo sono autorizzate le discese in acque vive, comprese quelle con grado di difficoltà superiore al II ai sensi dell’allegato 3 dell’ordinanza del 30 gennaio 2019[^3-3] sulle attività a rischio, se tali attività sono dirette da persone con riconoscimento valido di monitore G+S canoismo e il riconoscimento complementare «sicurezza».[^3-4]
+<sup>3</sup> Le attività nel quadro di discipline sportive di cui all’articolo 6 capoverso 2 OPSpo sono vietate in un’offerta G+S. Nei corsi e campi G+S della disciplina sportiva canoismo sono autorizzate le discese in acque vive, comprese quelle con grado di difficoltà superiore al II ai sensi dell’allegato 3 dell’ordinanza del 30 gennaio 2019[^3-4] sulle attività a rischio, se tali attività sono dirette da persone con riconoscimento valido di monitore G+S canoismo e il riconoscimento complementare «sicurezza».[^3-5]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-2]: Introdotto dalla cifra I dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogato dalla cifra I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-3]: [RS 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
-[^3-4]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^3-3]: Abrogato dalla cifra I dell’O del DDPS del 29 ott. 2025, con effetto dal 1° gen. 2027 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^3-4]: [RS 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
+[^3-5]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### Sezione 2: Corsi G+S
 
@@ -163,7 +164,11 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 <sup>1</sup> La formazione dei bambini e dei giovani nei corsi G+S si svolge su più livelli, secondo principi conformi alla pedagogia infantile e giovanile e in funzione delle peculiarità della disciplina sportiva.
 
+<sup>1bis</sup> La formazione è offerta in funzione del gruppo di destinatari per diversi livelli di prestazione e fasce di età.[^10-1]
+
 <sup>2</sup> L’UFSPO definisce i contenuti della formazione.
+
+[^10-1]: Introdotto dalla cifra I dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### Sezione 3: Campi G+S
 
@@ -184,9 +189,10 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 **Direzione**[^12-1]
 
-Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S riconosciuti nella corrispondente disciplina sportiva e per il gruppo di destinatari «bambini» o «giovani».
+Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S riconosciuti nella rispettiva disciplina sportiva.[^12-2]
 
 [^12-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 13
 
@@ -222,7 +228,11 @@ Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S ricono
 
 <sup>1</sup> Le attività sportive G+S vanno insegnate secondo principi conformi alla pedagogia infantile e giovanile e in funzione delle peculiarità della disciplina sportiva.
 
+<sup>1bis</sup> Le attività sportive G+S sono offerte in funzione del gruppo di destinatari per diversi livelli di prestazione e fasce di età.[^15-1]
+
 <sup>2</sup> L’UFSPO stabilisce i contenuti della formazione.
+
+[^15-1]: Introdotto dalla cifra I dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### Sezione 4: ...
 
@@ -328,19 +338,19 @@ Per lo svolgimento dei moduli della formazione continua[^26-1] o per l’insegna
 
 I monitori G+S nella disciplina sportiva sport di campo/trekking possono dirigere corsi e campi G+S o singole attività isolate nel quadro di corsi o campi di un organizzatore anche se non hanno ancora compiuto 18 anni.
 
-[^26a-1]: Introdotto dalla cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 al 31 dic. 2025 e dal 1° gen. 2026 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218); [2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^26a-1]: Introdotto dalla cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 al 31 dic. 2025 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)), prorogato per una durata indeterminata dalla cifra III cpv. 3 dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 27
 
 **Formazione**
 
-<sup>1</sup> La formazione di monitore G+S avviene nell’ambito di corsi per monitori G+S specifici alle diverse discipline sportive in considerazione delle esigenze dei gruppi di destinatari «bambini» o «giovani».[^27-1]
+<sup>1</sup> La formazione di monitore G+S avviene nell’ambito di corsi per monitori G+S della rispettiva disciplina sportiva.[^27-1]
 
 <sup>2</sup> ...[^27-2]
 
 <sup>3</sup> L’UFSPO offre formazioni abbreviate sotto forma di corsi di introduzione a persone che dispongono di una formazione equiparabile al corso per monitori.
 
-[^27-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 [^27-2]: Abrogato dalla cifra I dell’O del DDPS del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 28
@@ -483,17 +493,18 @@ Sono ammessi alla formazione o alla formazione continua i candidati che:
 
 **Compiti**
 
-<sup>1</sup> Gli esperti G+S svolgono la formazione dei quadri nelle relative discipline sportive o per i relativi gruppi di destinatari.
+<sup>1</sup> Gli esperti G+S svolgono la formazione dei quadri nelle rispettive discipline sportive.[^43-1]
 
-<sup>2</sup> In discipline sportive o attività che presuppongono particolari prescrizioni di sicurezza gli esperti G+S possono essere impiegati come specialisti della sicurezza nella valutazione dei programmi di corsi o campi.[^43-1]
+<sup>2</sup> In discipline sportive o attività che presuppongono particolari prescrizioni di sicurezza gli esperti G+S possono essere impiegati come specialisti della sicurezza nella valutazione dei programmi di corsi o campi.[^43-2]
 
-<sup>3</sup> …[^43-2]
+<sup>3</sup> …[^43-3]
 
-<sup>4</sup> L’UFSPO può svolgere con gli esperti G+S corsi per i quadri destinati a preparare o sviluppare la formazione dei quadri G+S.[^43-3]
+<sup>4</sup> L’UFSPO può svolgere con gli esperti G+S corsi per i quadri destinati a preparare o sviluppare la formazione dei quadri G+S.[^43-4]
 
-[^43-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^43-2]: Abrogato dalla cifra I dell’O del DDPS del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^43-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^43-3]: Abrogato dalla cifra I dell’O del DDPS del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-4]: Nuovo testo giusta la cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 ### Sezione 10: Concessione dei contributi
 
