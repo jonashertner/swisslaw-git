@@ -4,13 +4,12 @@ number: 539c
 title: Statut der Universität Luzern
 short: Universitätsstatut
 language: de
-version: 2025-12-01
-valid_until: 2027-01-31
-version_adopted: 2025-10-24
+version: 2027-02-01
+version_adopted: 2026-06-25
 adopted: 2023-12-13
 in_force: 2024-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539c"
-pdf: "https://srl.lu.ch/api/de/versions/4534/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4850/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4534/pdf_file"
 
 (Universitätsstatut)
 
-vom 13.12.2023 (Stand 01.12.2025)
+vom 13.12.2023 (Stand 01.02.2027)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -178,7 +177,7 @@ beschliesst:
 - k. kann für bestimmte Aufgaben Delegierte bezeichnen,
 - l. ist zuständig für alle gesamtuniversitären Geschäfte, soweit die Universitätsgesetzgebung keine anderen Zuständigkeiten vorsieht.
 
-<sup>3</sup> Sie oder er regelt ihre beziehungsweise seine Stellvertretung und ist verantwortlich für die ihr oder ihm unterstellten Dienste, namentlich für die Universitätskommunikation und den Rechtsdienst.
+<sup>3</sup> Sie oder er regelt ihre beziehungsweise seine Stellvertretung und ist namentlich verantwortlich für die folgenden Dienste, Kommissionen und weiteren Organisationseinheiten sowie Aufgabenbereiche: Personalwesen (Human Resources Management), Fachstelle Chancengleichheit, Gleichstellungskommission, Universitätskommunikation, Rechtsdienst, Universitätsförderung (Office of Advancement).
 
 #### § 14
 
@@ -188,12 +187,12 @@ beschliesst:
 
 <sup>2</sup> Prorektorinnen und Prorektoren sind Mitglieder der Universitätsleitung und des Senats.
 
-<sup>3</sup> Sie sind verantwortlich für die folgenden Dienste, Kommissionen und weiteren Organisationseinheiten sowie Aufgabenbereiche:
+<sup>3</sup> Sie sind namentlich verantwortlich für die folgenden Dienste, Kommissionen und weiteren Organisationseinheiten sowie Aufgabenbereiche:
 
-- a. Prorektorat Forschung: Forschungskommission, Stelle für Forschungsförderung (Grants Office), Graduate Academy, universitäre Forschungsschwerpunkte,
+- a. Prorektorat Forschung: Forschungskommission, Stelle für Forschungsförderung (Grants Office), Nachwuchsförderung (Graduate Academy),
 - b. Prorektorat Lehre und Internationale Beziehungen: Lehrkommission, Zentrum Lehre, Studiendienste, International Relations Office, Weiterbildungskommission und Weiterbildungsakademie,
-- c. Prorektorat Universitätsentwicklung: Qualitätssicherung und -entwicklung, Nachhaltigkeit, Dokumentenverwaltung und Archivierung, Forschungsinformationssystem, Universitätsverein, Alumni-Organisation,
-- d. Prorektorat Personal und Professuren: Personaldienst, Fachstelle Chancengleichheit, Gleichstellungskommission.
+- c. Prorektorat Universitätsentwicklung: Qualitätssicherung und -entwicklung, Nachhaltigkeit, Dokumentenverwaltung und Archivierung sowie Forschungsdateninfrastruktur und -management,
+- d. …
 
 <sup>4</sup> Die Rektorin oder der Rektor kann den Prorektorinnen und Prorektoren weitere Aufgaben zur selbständigen Erledigung übertragen.
 
@@ -210,8 +209,8 @@ beschliesst:
 <sup>3</sup> Die Universitätsmanagerin oder der Universitätsmanager
 
 - a. koordiniert die Aufgaben der Universitätsleitung im Auftrag der Rektorin oder des Rektors,
-- b. ist verantwortlich für die Finanzplanung und die interne Finanz- und Aufgabenkontrolle,
-- c. ist verantwortlich für die ihr oder ihm unterstellten Dienste: Finanz- und Rechnungswesen, Facility Management, Informatikdienste, Hochschulsport, Bibliothek und Campusorganisationen,
+- b. ist namentlich verantwortlich für die Finanzplanung und die interne Finanz- und Aufgabenkontrolle,
+- c. ist verantwortlich für die ihr oder ihm unterstellten Dienste: Finanz- und Rechnungswesen, Facility Management, Informatikdienste, Hochschulsport, Bibliothek, Campusorganisationen, Universitätsverein und Alumni-Organisation,
 - d. ist zuständig für die Beziehungen zu Hochschulnetzwerken und Partnerinstitutionen.
 
 <sup>4</sup> Die Rektorin oder der Rektor kann der Universitätsmanagerin oder dem Universitätsmanager weitere Aufgaben zur selbständigen Erledigung übertragen.
@@ -272,7 +271,7 @@ beschliesst:
 
 **Dienste**
 
-<sup>1</sup> Die Dienste erbringen zentrale Dienstleistungen für die Fakultäten und die gesamte Universität Luzern, namentlich in den Bereichen Universitätskommunikation, Rechtsdienst, Finanz- und Rechnungswesen, Facility Management, Informatikdienste, Hochschulsport, Forschungsförderung, Studiendienste, internationale Beziehungen, Unterstützung und Entwicklung der universitären Lehre, Qualitätssicherung und -entwicklung, Nachhaltigkeit, Dokumentenverwaltung und Archivierung, Personaladministration sowie Förderung von Chancengleichheit und Diversität.
+<sup>1</sup> Die Dienste erbringen zentrale Dienstleistungen für die Fakultäten und die gesamte Universität Luzern, namentlich in den Bereichen Personalwesen, Förderung von Chancengleichheit, Universitätskommunikation, Rechtsdienst, Universitätsförderung, Finanz- und Rechnungswesen, Facility Management, Informatikdienste, Hochschulsport, Forschungsförderung, Nachwuchsförderung, Studiendienste, internationale Beziehungen, Unterstützung und Entwicklung der universitären Lehre und Weiterbildung, Qualitätssicherung und -entwicklung, Nachhaltigkeit, Dokumentenverwaltung und Archivierung sowie Forschungsdateninfrastruktur und -management.
 
 ### 2.2 Fakultäten
 
@@ -518,7 +517,10 @@ beschliesst:
 
 <sup>1</sup> Die Gleichstellungskommission begleitet und fördert die nachhaltige Verankerung der Chancengleichheit und der Diversität in ihren verschiedenen Dimensionen als Querschnittaufgabe im Sinne der Qualitätsentwicklung in allen Aufgabenbereichen der Universität Luzern.
 
-<sup>2</sup> In der Gleichstellungskommission sind die Fakultäten, das wissenschaftliche Personal, die Studierenden sowie das administrativ-technische Personal mit je einer Person sowie die oder der Gleichstellungsbeauftragte und die Leiterin oder der Leiter des Personaldienstes vertreten. Weitere Personen können auf Antrag der Rektorin oder des Rektors zur Wahl vorgeschlagen werden. Es ist auf eine ausgewogene Vertretung der Geschlechter zu achten. Die Kommission wird von der Prorektorin oder vom Prorektor Personal und Professuren geleitet.
+<sup>2</sup> In der Gleichstellungskommission sind die Fakultäten, das wissenschaftliche Personal, die Studierenden sowie das administrative, technische und weitere Personal mit je einer Person sowie die oder der Gleichstellungsbeauftragte und die Leiterin oder der Leiter des Human Resources Managements vertreten. Weitere Personen können auf Antrag der Rektorin oder des Rektors zur Wahl vorgeschlagen werden. Es ist auf eine ausgewogene Vertretung der Geschlechter zu achten. Die Kommission wird von der Rektorin oder vom Rektor geleitet; diese oder dieser kann die Leitung übertragen an:
+
+- a. eine ordentliche Professorin oder einen ordentlichen Professor, die oder der Mitglied der Kommission ist, oder
+- b. die Leiterin oder den Leiter des Human Resources Managements.
 
 <sup>3</sup> Der Senat wählt die Mitglieder der Gleichstellungskommission auf Vorschlag der Fakultäten, der einzelnen Gruppierungen und der Rektorin oder des Rektors für eine Amtsdauer von zwei Jahren. Die Wiederwahl ist möglich.
 
@@ -697,18 +699,21 @@ beschliesst:
 
 **Personalrechtliche Zuständigkeiten**
 
-<sup>1</sup> Die Rektorin oder der Rektor ist für alle personalrechtlichen Entscheide zuständig, die nicht in die Zuständigkeit eines anderen Organs fallen; dazu gehören insbesondere personalrechtliche Entscheide betreffend Professorinnen und Professoren. Sie oder er führt die Berufungsverhandlungen.
+<sup>1</sup> Die Rektorin oder der Rektor ist für alle personalrechtlichen Entscheide zuständig, die nicht in die Zuständigkeit eines anderen Organs fallen, und stellt die Aufsicht über die Personalführung sicher. Sie oder er führt die Berufungsverhandlungen.
+
+<sup>1<sup>bis</sup></sup> Die Rektorin oder der Rektor kann die Zuständigkeit für personalrechtliche Entscheide betreffend das übrige wissenschaftliche (§ 42f.) und das administrative, technische und weitere Personal (§ 49) sowie die Aufsicht über die Personalführung an die Leiterin oder den Leiter Human Resources Management übertragen. Diese oder dieser kann die Zuständigkeit für personalrechtliche Entscheide sowie die Aufsicht über die Personalführung betreffend das administrative, technische und weitere Personal an ihre oder seine Stellvertretung übertragen.
 
 <sup>2</sup> Der Senat ist zuständig für die Berufung von Professorinnen und Professoren. Der Universitätsrat genehmigt Berufungen und Umstrukturierungen sowie Kündigungen und fristlose Auflösungen von Arbeitsverhältnissen mit Professorinnen und Professoren sowie der Universitätsmanagerin oder dem Universitätsmanager. Zudem ist der Universitätsrat zuständig für personalrechtliche Entscheide gegenüber der Rektorin oder dem Rektor.
 
-<sup>3</sup> Die Prorektorin oder der Prorektor Personal und Professuren:
+<sup>3</sup> Die Leiterin oder der Leiter Human Resources Management:
 
-- a. stellt die Aufsicht über die Personalführung sicher,
-- b. ist auf Antrag oder in Absprache mit der vorgesetzten Stelle zuständig für personalrechtliche Entscheide betreffend Mitarbeitende ohne Professur im Sinne von § 39 Absatz 2, namentlich Lehr- und Forschungsbeauftragte, wissenschaftliches Personal sowie administratives, technisches und weiteres Personal,
+- a. …
+- b. …
 - c. unterstützt die zuständigen Leitungspersonen und Gremien in Berufungsverfahren und wirkt in Berufungsverhandlungen mit,
-- d. bereitet personalrechtliche Entscheide betreffend Professorinnen und Professoren vor.
+- d. bereitet personalrechtliche Entscheide in der Zuständigkeit der Rektorin oder des Rektors vor,
+- e. nimmt die ihr oder ihm von der Rektorin oder vom Rektor gemäss Absatz 1<sup>bis</sup> übertragenen Zuständigkeiten und Aufgaben wahr.
 
-<sup>4</sup> Die Zuständigkeiten für personalrechtliche Entscheide gelten auch für Arbeitsverhältnisse, die mit Vertrag begründet werden.
+<sup>4</sup> …
 
 #### § 51
 
@@ -945,5 +950,23 @@ beschliesst:
 <sup>3</sup> Unterlagen aus Berufungsverfahren dürfen nach deren Abschluss bis 30 Jahre aufbewahrt werden. Nichtberücksichtigte Bewerberinnen oder Bewerber können verlangen, dass von ihnen eingereichte Unterlagen zurückgegeben oder vernichtet werden.
 
 <sup>4</sup> Nach Ablauf der Aufbewahrungsdauer sind die Daten dem Staatsarchiv abzuliefern, soweit sie archivwürdig sind. Ansonsten sind sie zu vernichten.
+
+#### § 75
+
+**Übergangsbestimmungen zur Änderung vom 25. Juni 2026**
+
+<sup>1</sup> Soweit in den nachstehenden Reglementen die Zuständigkeit der Prorektorin Personal und Professuren oder des Prorektors Personal und Professuren vorgesehen ist, ist ab Inkrafttreten der Änderungen vom 25. Juni 2026 bis zur Anpassung der entsprechenden Bestimmungen in den genannten Reglementen die Rektorin oder der Rektor das zuständige Organ:
+
+- a. Reglement über die wissenschaftlichen Assistentinnen und Assistenten an der Universität Luzern[^75-1],
+- b. Reglement betreffend die Weiterbeschäftigung an der Universität Luzern nach Erfüllung des 65. Altersjahres[^75-2],
+- c. Reglement über die wissenschaftliche Integrität in der Forschung und die gute wissenschaftliche Praxis an der Universität Luzern[^75-3],
+- d. Reglement zum Schutz vor sexueller Belästigung an der Universität Luzern[^75-4].
+
+<sup>2</sup> Das Vorstehende gilt gleichermassen für untergeordnete, nicht amtlich publizierte Erlasse der Universität Luzern.
+
+[^75-1]: SRL Nr. [539g](https://srl.lu.ch/data/539g/de)
+[^75-2]: SRL Nr. [539j](https://srl.lu.ch/data/539j/de)
+[^75-3]: SRL Nr. [539k](https://srl.lu.ch/data/539k/de)
+[^75-4]: SRL Nr. [539n](https://srl.lu.ch/data/539n/de)
 
 G 2023-104
