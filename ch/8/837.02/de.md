@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2026-08-01
+version: 2027-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. August 2026)
+vom 31. August 1983 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -1172,7 +1172,7 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 
 <sup>1</sup> Als normale Arbeitszeit gilt die vertragliche Arbeitszeit des Arbeitnehmers, jedoch höchstens die ortsübliche Arbeitszeit im betreffenden Wirtschaftszweig. Für Arbeitnehmer mit flexiblem Arbeitszeitsystem gilt die vertraglich vereinbarte jahresdurchschnittliche Arbeitszeit als normale Arbeitszeit.
 
-<sup>2</sup> Als verkürzt gilt die Arbeitszeit nur, wenn sie zusammen mit geleisteten Mehrstunden die normale Arbeitszeit nicht erreicht. Als Mehrstunden gelten alle ausbezahlten oder nicht ausbezahlten Stunden, welche die vertraglich vereinbarte Arbeitszeit übersteigen. Nicht als Mehrstunden gelten Zeitsaldi bis zu 20 Arbeitsstunden aus betrieblichen Gleitzeitregelungen sowie betrieblich festgelegte Vor- oder Nachholstunden zum Überbrücken von Feiertagen.
+<sup>2</sup> Als verkürzt gilt die Arbeitszeit nur, wenn sie zusammen mit geleisteten Mehrstunden die normale Arbeitszeit nicht erreicht. Als Mehrstunden gelten alle ausbezahlten oder nicht ausbezahlten Stunden, welche die vertraglich vereinbarte Arbeitszeit übersteigen. Nicht als Mehrstunden gelten betrieblich festgelegte Vor- oder Nachholstunden zum Überbrücken von Feiertagen.[^46-2]
 
 <sup>3</sup> Mit dem ersten Tag der ersten Abrechnungsperiode, für die Kurzarbeits- oder Schlechtwetterentschädigung ausgerichtet wird, beginnt eine zweijährige Rahmenfrist für den Leistungsbezug.
 
@@ -1181,6 +1181,7 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 <sup>5</sup> Während der Rahmenfrist für den Leistungsbezug werden alle von den einzelnen Arbeitnehmern bis zum Zeitpunkt eines erneuten Arbeitsausfalles geleisteten Mehrstunden von ihren Arbeitsausfällen abgezogen, jedoch längstens aus den letzten zwölf Monaten.
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^46-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 46a
 
@@ -1592,7 +1593,7 @@ Schlechtwetterentschädigung kann in den folgenden Erwerbszweigen ausgerichtet w
 
 <sup>1</sup> Als normale Arbeitszeit gilt die vertragliche Arbeitszeit des Arbeitnehmers, jedoch höchstens die ortsübliche Arbeitszeit im betreffenden Wirtschaftszweig. Für Arbeitnehmer mit flexiblem Arbeitszeitsystem gilt die vertraglich vereinbarte jahresdurchschnittliche Arbeitszeit als normale Arbeitszeit.
 
-<sup>2</sup> Als verkürzt gilt die Arbeitszeit nur, wenn sie zusammen mit geleisteten Mehrstunden die normale Arbeitszeit nicht erreicht. Als Mehrstunden gelten alle ausbezahlten oder nicht ausbezahlten Stunden, welche die vertraglich vereinbarte Arbeitszeit übersteigen. Nicht als Mehrstunden gelten Zeitsaldi bis zu 20 Arbeitsstunden aus betrieblichen Gleitzeitregelungen sowie betrieblich festgelegte Vor- oder Nachholstunden zum Überbrücken von Feiertagen.
+<sup>2</sup> Als verkürzt gilt die Arbeitszeit nur, wenn sie zusammen mit geleisteten Mehrstunden die normale Arbeitszeit nicht erreicht. Als Mehrstunden gelten alle ausbezahlten oder nicht ausbezahlten Stunden, welche die vertraglich vereinbarte Arbeitszeit übersteigen. Nicht als Mehrstunden gelten betrieblich festgelegte Vor- oder Nachholstunden zum Überbrücken von Feiertagen.[^66a-2]
 
 <sup>3</sup> Mit dem ersten Tag der ersten Abrechnungsperiode, für die Kurzarbeits- oder Schlechtwetterentschädigung ausgerichtet wird, beginnt eine zweijährige Rahmenfrist für den Leistungsbezug.
 
@@ -1601,6 +1602,7 @@ Schlechtwetterentschädigung kann in den folgenden Erwerbszweigen ausgerichtet w
 <sup>5</sup> Während der Rahmenfrist für den Leistungsbezug werden alle von den einzelnen Arbeitnehmern bis zum Zeitpunkt eines erneuten Arbeitsausfalles geleisteten Mehrstunden von ihren Arbeitsausfällen abgezogen, jedoch längstens aus den letzten zwölf Monaten.
 
 [^66a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^66a-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 67
 

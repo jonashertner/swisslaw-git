@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2026-08-01
+version: 2027-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° agosto 2026)
+del 31 agosto 1983 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuova abbreviazione giusta la cifra I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -1178,7 +1178,7 @@ Vi è colpa grave se l’assicurato, senza valido motivo:
 
 <sup>1</sup> Per tempo di lavoro normale s’intende la durata contrattuale del lavoro svolto dal lavoratore, ma al massimo la durata secondo l’uso locale nel ramo economico interessato. Per i lavoratori occupati con il sistema del lavoro flessibile, l’orario annuo medio convenuto contrattualmente è considerato tempo di lavoro normale.
 
-<sup>2</sup> Il tempo di lavoro è considerato ridotto soltanto se, congiuntamente alle ore in esubero effettuate dal lavoratore, non raggiunge il tempo di lavoro normale. Per ore in esubero s’intendono le ore pagate o non pagate che superano il tempo di lavoro convenuto contrattualmente. Il saldo di tempo sino a 20 ore risultante dall’orario di lavoro flessibile dell’azienda e le ore previste dalla stessa per compensare o recuperare ponti tra giorni festivi non sono considerati ore in esubero.
+<sup>2</sup> Il tempo di lavoro è considerato ridotto soltanto se, congiuntamente alle ore in esubero effettuate dal lavoratore, non raggiunge il tempo di lavoro normale. Per ore in esubero s’intendono le ore pagate o non pagate che superano il tempo di lavoro convenuto contrattualmente. Le ore fissate dall’azienda per compensare o recuperare ponti tra giorni festivi non sono considerate ore in esubero.[^46-2]
 
 <sup>3</sup> Dal primo giorno del primo periodo di conteggio per cui è versata un’indennità per lavoro ridotto o per intemperie decorre un termine quadro di due anni per la riscossione della prestazione.
 
@@ -1187,6 +1187,7 @@ Vi è colpa grave se l’assicurato, senza valido motivo:
 <sup>5</sup> Durante il termine quadro per la riscossione della prestazione, le ore in esubero effettuate dai singoli lavoratori sino a una nuova perdita di lavoro, ma al massimo negli ultimi dodici mesi, sono dedotte dalla loro perdita di lavoro.
 
 [^46-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2027 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 46a
 
@@ -1600,7 +1601,7 @@ L’indennità per intemperie può essere pagata nei rami seguenti:
 
 <sup>1</sup> Per tempo di lavoro normale s’intende la durata contrattuale del lavoro svolto dal lavoratore, ma al massimo la durata secondo l’uso locale nel ramo economico interessato. Per i lavoratori occupati con il sistema del lavoro flessibile, l’orario annuo medio convenuto contrattualmente è considerato tempo di lavoro normale.
 
-<sup>2</sup> Il tempo di lavoro è considerato ridotto soltanto se, congiuntamente alle ore in esubero effettuate dal lavoratore, non raggiunge il tempo di lavoro normale. Per ore in esubero s’intendono le ore pagate o non pagate che superano il tempo di lavoro convenuto contrattualmente. Il saldo di tempo sino a 20 ore risultante dall’orario di lavoro flessibile dell’azienda e le ore previste dalla stessa per compensare o recuperare ponti tra giorni festivi non sono considerati ore in esubero.
+<sup>2</sup> Il tempo di lavoro è considerato ridotto soltanto se, congiuntamente alle ore in esubero effettuate dal lavoratore, non raggiunge il tempo di lavoro normale. Per ore in esubero s’intendono le ore pagate o non pagate che superano il tempo di lavoro convenuto contrattualmente. Le ore fissate dall’azienda per compensare o recuperare ponti tra giorni festivi non sono considerate ore in esubero.[^66a-2]
 
 <sup>3</sup> Dal primo giorno del primo periodo di conteggio per cui è versata un’indennità per lavoro ridotto o per intemperie decorre un termine quadro di due anni per la riscossione della prestazione.
 
@@ -1609,6 +1610,7 @@ L’indennità per intemperie può essere pagata nei rami seguenti:
 <sup>5</sup> Durante il termine quadro per la riscossione della prestazione, le ore in esubero effettuate dai singoli lavoratori sino a una nuova perdita di lavoro, ma al massimo negli ultimi 12 mesi, sono dedotte dalla loro perdita di lavoro.
 
 [^66a-1]: Introdotto dalla cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^66a-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2027 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 67
 

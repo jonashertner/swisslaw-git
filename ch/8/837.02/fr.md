@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2026-08-01
+version: 2027-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 1<sup>er</sup> août 2026)
+du 31 août 1983 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -1179,7 +1179,7 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 
 <sup>1</sup> Est réputée durée normale du travail, la durée contractuelle du travail accompli par le travailleur, mais au plus la durée selon l’usage local dans la branche économique en question. Pour les travailleurs dont le temps de travail est variable, l’horaire annuel moyen convenu contractuellement est considéré comme horaire normal de travail.
 
-<sup>2</sup> La durée de travail n’est réputée réduite que si elle n’atteint pas la durée normale du travail, une fois additionnées les heures de travail en plus. Comptent comme heures de travail en plus les heures payées ou non encore payées qui excèdent le nombre d’heures à effectuer selon l’horaire de travail contractuel. Ne comptent pas comme heures de travail en plus les heures effectuées dans le cadre du régime d’horaire mobile de l’entreprise, pour autant qu’elles ne dépassent pas 20 heures, ni les heures de compensation ou de rattrapage imposées par l’entreprise pour compenser des ponts entre les jours fériés.
+<sup>2</sup> La durée de travail n’est réputée réduite que si elle n’atteint pas la durée normale du travail, une fois additionnées les heures de travail en plus. Comptent comme heures de travail en plus les heures payées ou non encore payées qui excèdent le nombre d’heures à effectuer selon l’horaire de travail contractuel. Ne comptent pas comme heures de travail en plus les heures de compensation ou de rattrapage imposées par l’entreprise pour compenser des ponts entre les jours fériés.[^46-2]
 
 <sup>3</sup> Un délai-cadre d’indemnisation de deux ans est ouvert le premier jour de la première période de décompte pour laquelle l’indemnité en cas de réduction de l’horaire de travail ou l’indemnité en cas d’intempéries est versée.
 
@@ -1188,6 +1188,7 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 <sup>5</sup> Pendant le délai-cadre d’indemnisation, les heures de travail en plus accomplies par les travailleurs avant une nouvelle réduction de l’horaire de travail, mais pendant les douze derniers mois au plus, sont déduites de leur perte de travail.
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 46a
 
@@ -1600,7 +1601,7 @@ L’indemnité en cas d’intempéries peut être versée dans les branches suiv
 
 <sup>1</sup> Est réputée durée normale du travail, la durée contractuelle du travail accompli par le travailleur, mais au plus la durée selon l’usage local dans la branche économique en question. Pour les travailleurs dont le temps de travail est variable, l’horaire annuel moyen convenu contractuellement est considéré comme horaire normal de travail.
 
-<sup>2</sup> La durée de travail n’est réputée réduite que si elle n’atteint pas la durée normale du travail, une fois additionnées les heures de travail en plus. Comptent comme heures de travail en plus les heures payées ou non encore payées qui excèdent le nombre d’heures à effectuer selon l’horaire de travail contractuel. Ne comptent pas comme heures de travail en plus, les heures effectuées dans le cadre du régime d’horaire mobile de l’entreprise, pour autant qu’elles ne dépassent pas 20 heures, ni les heures de compensation ou de rattrapage imposées par l’entreprise pour compenser des ponts entre les jours fériés.
+<sup>2</sup> La durée de travail n’est réputée réduite que si elle n’atteint pas la durée normale du travail, une fois additionnées les heures de travail en plus. Comptent comme heures de travail en plus les heures payées ou non encore payées qui excèdent le nombre d’heures à effectuer selon l’horaire de travail contractuel. Ne comptent pas comme heures de travail en plus les heures de compensation ou de rattrapage imposées par l’entreprise pour compenser des ponts entre les jours fériés.[^66a-2]
 
 <sup>3</sup> Un délai-cadre d’indemnisation de deux ans est ouvert le premier jour de la première période de décompte pour laquelle l’indemnité en cas de réduction de l’horaire de travail ou l’indemnité en cas d’intempéries est versée.
 
@@ -1609,6 +1610,7 @@ L’indemnité en cas d’intempéries peut être versée dans les branches suiv
 <sup>5</sup> Pendant le délai-cadre d’indemnisation, les heures de travail en plus en plus accomplies par les travailleurs avant une nouvelle perte de travail, mais pendant les douze derniers mois au plus, sont déduites de leur perte de travail.
 
 [^66a-1]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^66a-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 67
 
