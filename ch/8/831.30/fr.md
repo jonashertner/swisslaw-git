@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 2006 sur les prestations complémentaires à
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20260101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/fr"
 
 (Loi sur les prestations complémentaires, LPC)[^t-1]
 
-du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2026)
+du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Ch. I 3 de la LF concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT; [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)).
@@ -249,50 +249,53 @@ Pour les personnes qui ne vivent pas en permanence ni pour une période de plus 
 
   les montants destinés à la couverture des besoins vitaux, soit, par année:
 
-  - 1\. 20 670 francs pour les personnes seules,
-  - 2\. 31 005 francs pour les couples,
-  - 3\.[^10-3] 10 815 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
-  - 4\.[^10-4] 7590 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
+  - 1\. 21 000 francs pour les personnes seules,
+  - 2\. 31 500 francs pour les couples,
+  - 3\.[^10-3] 10 980 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
+  - 4\.[^10-4] 7710 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
 
 - b.[^10-5]
 
   le loyer d’un appartement et les frais accessoires y relatifs; en cas de présentation d’un décompte final des frais accessoires, ni demande de restitution, ni paiement rétroactif ne peuvent être pris en considération; le montant annuel maximal reconnu est de:
 
-  - 1\. pour une personne vivant seule: 18 900 francs dans la région 1, 18 300 francs dans la région 2 et 16 680 francs dans la région 3,
+  - 1\. pour une personne vivant seule: 19 260 francs dans la région 1, 18 600 francs dans la région 2 et 16 980 francs dans la région 3,
   - 2\.
 
     si plusieurs personnes vivent dans le même ménage:
 
-    - – pour la deuxième personne: un supplément de 3420 francs dans la région 1, 3420 francs dans la région 2 et 3480 francs dans la région 3
-    - – pour la troisième personne: un supplément de 2460 francs dans la région 1 et de 2040 francs dans les régions 2 et 3
-    - – pour la quatrième personne: un supplément de 2280 francs dans la région 1, 2160 francs dans la région 2 et 1800 francs dans la région 3,
+    - – pour la deuxième personne: un supplément de 3480 francs dans la région 1, 3540 francs dans la région 2 et 3540 francs dans la région 3
+    - – pour la troisième personne: un supplément de 2460 francs dans la région 1, 2040 francs dans la région 2 et 2100 francs dans la région 3
+    - – pour la quatrième personne: un supplément de 2340 francs dans la région 1, 2220 francs dans la région 2 et 1800 francs dans la région 3,
 
-  - 3\. 6900 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
+  - 3\.[^10-6] 7020 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire, au maximum le double si plusieurs personnes ont droit au supplément,
+  - 4\.[^10-7] pour les personnes ayant droit à une contribution d’assistance prévue à l’art. 42<sup>quater</sup> de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^10-8], qui ont besoin d’une assistance de nuit et mettent une chambre à disposition à cet effet: 6000 francs supplémentaires;
 
-- c.[^10-6] la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie.
+- c.[^10-9] la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie.
 
-<sup>1bis</sup> Si plusieurs personnes vivent dans le même ménage, le montant maximal reconnu au titre du loyer est calculé individuellement pour chaque ayant droit ou pour chaque personne comprise dans le calcul commun des prestations complémentaires en vertu de l’art. 9, al. 2, puis la somme des montants pris en compte est divisée par le nombre de personnes vivant dans le ménage. Les suppléments ne sont accordés que pour les deuxième, troisième et quatrième personnes.[^10-7]
+<sup>1bis</sup> Si plusieurs personnes vivent dans le même ménage, le montant maximal reconnu au titre du loyer est calculé individuellement pour chaque ayant droit ou pour chaque personne comprise dans le calcul commun des prestations complémentaires en vertu de l’art. 9, al. 2, puis la somme des montants pris en compte est divisée par le nombre de personnes vivant dans le ménage. Les suppléments visés à l’al. 1, let. b, ch. 2, ne sont accordés que pour les deuxième, troisième et quatrième personnes.[^10-10] [^10-11]
 
 <sup>1ter</sup>
 
 Pour les personnes vivant en communauté d’habitation, lorsqu’il n’y a pas de calcul commun en vertu de l’art. 9, al. 2, le montant pris en considération est le montant annuel maximal reconnu au titre du loyer pour une personne vivant dans un ménage de deux personnes. Le Conseil fédéral détermine le mode de calcul du montant maximal pour:
 
 - a. les couples vivant ensemble en communauté d’habitation;
-- b. les personnes vivant en communauté d’habitation avec des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI.[^10-8]
+- b. les personnes vivant en communauté d’habitation avec des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI.[^10-12]
 
-<sup>1quater</sup> Le Conseil fédéral règle la répartition des communes entre les trois régions. Il se base à cet effet sur les niveaux géographiques définis par l’Office fédéral de la statistique.[^10-9]
+<sup>1quater</sup> Les suppléments visés à l’al. 1, let. b, ch. 3 et 4, sont répartis entre les personnes qui ont droit au supplément en question.[^10-13]
 
-<sup>1quinquies</sup> Le Département fédéral de l’intérieur fixe la répartition des communes au sein d’une ordonnance. Il réexamine la répartition des niveaux géographiques sur lesquelles elle repose lors de toute modification par l’Office fédéral de la statistique.[^10-10]
+<sup>1quinquies</sup> Le Conseil fédéral règle la répartition des communes entre les trois régions. Il se base à cet effet sur les niveaux géographiques définis par l’Office fédéral de la statistique.[^10-14]
 
-<sup>1sexies</sup> Les cantons peuvent demander une réduction ou une augmentation de 10 % au plus des montants maximaux reconnus au titre du loyer dans une commune. Il est donné suite à la demande de réduction des montants maximaux si et aussi longtemps que le loyer d’au moins 90 % des bénéficiaires de prestations complémentaires est couvert par les montants maximaux correspondants. Le Conseil fédéral règle la procédure.[^10-11]
+<sup>1sexies</sup> Le Département fédéral de l’intérieur fixe la répartition des communes au sein d’une ordonnance. Il réexamine la répartition des niveaux géographiques sur lesquelles elle repose lors de toute modification par l’Office fédéral de la statistique.[^10-15]
 
-<sup>1septies</sup> Le Conseil fédéral examine au moins tous les dix ans si et dans quelle mesure les montants maximaux couvrent le loyer effectif des bénéficiaires de prestations complémentaires et rend publics les résultats de son examen. Il procède à cet examen et à la publication plus tôt si l’indice des loyers a évolué de plus de 10 % depuis le dernier examen.[^10-12]
+<sup>1septies</sup> Les cantons peuvent demander une réduction ou une augmentation de 10 % au plus des montants maximaux reconnus au titre du loyer dans une commune. Il est donné suite à la demande de réduction des montants maximaux si et aussi longtemps que le loyer d’au moins 90 % des bénéficiaires de prestations complémentaires est couvert par les montants maximaux correspondants. Le Conseil fédéral règle la procédure.[^10-16]
+
+<sup>1octies</sup> Le Conseil fédéral examine au moins tous les dix ans si et dans quelle mesure les montants maximaux couvrent le loyer effectif des bénéficiaires de prestations complémentaires et rend publics les résultats de son examen. Il procède à cet examen et à la publication plus tôt si l’indice des loyers a évolué de plus de 10 % depuis le dernier examen.[^10-17]
 
 <sup>2</sup>
 
-Pour les personnes qui vivent en permanence ou pour une période de plus de trois mois dans un home ou dans un hôpital (personnes vivant dans un home ou un hôpital), les dépenses reconnues comprennent:[^10-13]
+Pour les personnes qui vivent en permanence ou pour une période de plus de trois mois dans un home ou dans un hôpital (personnes vivant dans un home ou un hôpital), les dépenses reconnues comprennent:[^10-18]
 
-- a.[^10-14] la taxe journalière pour chacune des journées facturées par le home ou l’hôpital; les cantons peuvent fixer la limite maximale des frais à prendre en considération en raison d’un séjour dans un home ou dans un hôpital; les cantons veillent à ce que le séjour dans un établissement médico-social reconnu ne mène pas, en règle générale, à une dépendance à l’égard de l’aide sociale;
+- a.[^10-19] la taxe journalière pour chacune des journées facturées par le home ou l’hôpital, à l’exception du mois du décès du bénéficiaire, mois pour lequel les cantons peuvent décider de compenser l’entier du mois sans décompter les jours non facturés; les cantons peuvent fixer la limite maximale des frais à prendre en considération en raison d’un séjour dans un home ou dans un hôpital; ils veillent à ce que le séjour dans un établissement médico-social reconnu ne mène pas, en règle générale, à une dépendance à l’égard de l’aide sociale;
 - b. un montant, arrêté par les cantons, pour les dépenses personnelles.
 
 <sup>3</sup>
@@ -302,26 +305,31 @@ Sont en outre reconnus comme dépenses, pour toutes les personnes:
 - a. les frais d’obtention du revenu, jusqu’à concurrence du revenu brut de l’activité lucrative;
 - b. les frais d’entretien des bâtiments et les intérêts hypothécaires, jusqu’à concurrence du rendement brut de l’immeuble;
 - c. les cotisations aux assurances sociales de la Confédération, à l’exclusion des primes d’assurance-maladie;
-- d.[^10-15] le montant pour l’assurance obligatoire des soins; il consiste en un montant forfaitaire annuel qui correspond au montant de la prime moyenne cantonale ou régionale pour l’assurance obligatoire des soins (couverture accidents comprise), mais qui n’excède pas celui de la prime effective;
+- d.[^10-20] le montant pour l’assurance obligatoire des soins; il consiste en un montant forfaitaire annuel qui correspond au montant de la prime moyenne cantonale ou régionale pour l’assurance obligatoire des soins (couverture accidents comprise), mais qui n’excède pas celui de la prime effective;
 - e. les pensions alimentaires versées en vertu du droit de la famille;
-- f.[^10-16] les frais nets de prise en charge extrafamiliale d’enfants qui n’ont pas encore atteint l’âge de 11 ans révolus, pour autant que cette prise en charge soit nécessaire et dûment établie.
+- f.[^10-21] les frais nets de prise en charge extrafamiliale d’enfants qui n’ont pas encore atteint l’âge de 11 ans révolus, pour autant que cette prise en charge soit nécessaire et dûment établie.
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Montants adaptés selon l’art. 1 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-2]: Montants adaptés selon l’art. 1 de l’O du 2 oct. 2026 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
 [^10-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Montants adaptés selon l’art. 2 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-6]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-7]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-8]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^10-9]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-10]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-11]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-12]: Introduit par le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-13]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-14]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-15]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-16]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Montants adaptés selon l’art. 2 de l’O du 2 oct. 2026 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^10-6]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-7]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-8]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^10-9]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-10]: Nouvelle teneur de la phrase selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-11]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-12]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^10-13]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-14]: Anciennement al. 1<sup>quater</sup>. Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-15]: Anciennement al. 1<sup>quinquies</sup>. Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-16]: Anciennement al. 1<sup>sexies</sup>. Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-17]: Anciennement al. 1<sup>septies</sup>. Introduit par le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-18]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-19]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-20]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-21]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -340,7 +348,7 @@ Les revenus déterminants comprennent:
 - f. les allocations familiales;
 - g.[^11-6] …
 - h. les pensions alimentaires prévues par le droit de la famille;
-- i.[^11-7] la réduction des primes accordée pour une période pour laquelle des prestations complémentaires sont attribuées avec effet rétroactif.
+- i.[^11-7] …
 
 <sup>1bis</sup>
 
@@ -375,7 +383,7 @@ Ne sont pas pris en compte:
 [^11-4]: Introduite par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^11-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-6]: Abrogée par le ch. I de la LF du 22 mars 2019 (Réforme des PC), avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-7]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-7]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Abrogée par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^11-8]: Introduit par le ch. I 2 de la LF du 13 juin 2008 sur le nouveau régime de financement des soins ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-9]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^11-10]: Introduit par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
@@ -517,17 +525,19 @@ Le droit de demander la restitution s’éteint un an après le moment où l’o
 
 La Confédération alloue annuellement:
 
-- a. un montant maximal de 16,5 millions de francs à la fondation suisse Pro Senectute;
-- b. un montant maximal de 14,5 millions de francs à l’association suisse Pro Infirmis;
+- a. un montant maximal de 21 millions de francs[^17-1] à la fondation suisse Pro Senectute;
+- b. un montant maximal de 16,5 millions de francs[^17-2] à l’association suisse Pro Infirmis;
 - c. un montant maximal de 2,7 millions de francs à la fondation suisse Pro Juventute.
 
-<sup>2</sup> Le Conseil fédéral décide de l’augmentation des montants maximaux visés à l’al. 1 lorsqu’il fixe les nouvelles rentes au sens de l’art. 33<sup>ter</sup> LAVS[^17-1].
+<sup>2</sup> Le Conseil fédéral décide de l’augmentation des montants maximaux visés à l’al. 1 lorsqu’il fixe les nouvelles rentes au sens de l’art. 33<sup>ter</sup> LAVS[^17-3].
 
 <sup>3</sup> Il fixe le montant des subventions annuelles. Il édicte des dispositions sur leur répartition entre les organes centraux, cantonaux et régionaux des institutions d’utilité publique.
 
 <sup>4</sup> Les subventions allouées aux fondations Pro Senectute et Pro Juventute sont financées par les ressources de l’AVS et celles allouées à Pro Infirmis par les ressources de l’AI.
 
-[^17-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^17-1]: Montant adapté selon l’art. 3 al. 1 de l’O du 2 oct. 2026 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^17-2]: Montant adapté selon l’art. 3 al. 2 de l’O du 2 oct. 2026 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^17-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 18
 

@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 2006 sulle prestazioni complementari all'as
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20260101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/it"
 
 (LPC)
 
-del 6 ottobre 2006 (Stato 1° gennaio 2026)
+del 6 ottobre 2006 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -247,50 +247,53 @@ Per le persone che non vivono durevolmente o per oltre tre mesi in un istituto o
 
   importo destinato alla copertura del fabbisogno generale vitale, per anno:
 
-  - 1\. 20 670 franchi per le persone sole,
-  - 2\. 31 005 franchi per i coniugi,
-  - 3\.[^10-3] 10 815 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e che hanno compiuto gli 11 anni di età; per i due primi figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
-  - 4\.[^10-4] 7590 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante; per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
+  - 1\. 21 000 franchi per le persone sole,
+  - 2\. 31 500 franchi per i coniugi,
+  - 3\.[^10-3] 10 980 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e che hanno compiuto gli 11 anni di età; per i due primi figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
+  - 4\.[^10-4] 7710 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante; per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
 
 - b.[^10-5]
 
   la pigione di un appartamento e le relative spese accessorie; in caso di conguaglio per le spese accessorie, non si tiene conto né del saldo attivo né di quello passivo; l’importo massimo annuo riconosciuto è il seguente:
 
-  - 1\. 18 900 franchi nella regione 1, 18 300 franchi nella regione 2 e 16 680 franchi nella regione 3 per le persone che vivono sole,
+  - 1\. 19 260 franchi nella regione 1, 18 600 franchi nella regione 2 e 16 980 franchi nella regione 3 per le persone che vivono sole,
   - 2\.
 
     se più persone vivono nella stessa economia domestica:
 
-    - – un supplemento di 3420 franchi nella regione 1, 3420 franchi nella regione 2 e 3480 franchi nella regione 3 per la seconda persona
-    - – un supplemento di 2460 franchi nella regione 1 e 2040 franchi nelle regioni 2 e 3 per la terza persona
-    - – un supplemento di 2280 franchi nella regione 1, 2160 franchi nella regione 2 e 1800 franchi nella regione 3 per la quarta persona,
+    - – un supplemento di 3480 franchi nella regione 1, 3540 franchi nella regione 2 e 3540 franchi nella regione 3 per la seconda persona
+    - – un supplemento di 2460 franchi nella regione 1, 2040 franchi nella regione 2 e 2100 nella regione 3 per la terza persona
+    - – un supplemento di 2340 franchi nella regione 1, 2200 franchi nella regione 2 e 1800 franchi nella regione 3 per la quarta persona,
 
-  - 3\. 6900 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
+  - 3\.[^10-6] un supplemento di 7020 franchi se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella; se più persone hanno diritto al supplemento, lo stesso ammonta complessivamente al massimo al doppio di tale importo,
+  - 4\.[^10-7] un supplemento di 6000 franchi per gli aventi diritto a un contributo per l’assistenza secondo l’articolo 42<sup>quater</sup> LAI[^10-8] che necessitano di un’assistenza notturna e mettono a disposizione dell’assistente una camera;
 
-- c.[^10-6] in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo delle prestazioni complementari sono proprietarie, usufruttuarie o usuarie; la lettera b si applica per analogia.
+- c.[^10-9] in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo delle prestazioni complementari sono proprietarie, usufruttuarie o usuarie; la lettera b si applica per analogia.
 
-<sup>1bis</sup> Se più persone vivono nella stessa economia domestica l’importo massimo riconosciuto per la pigione è fissato individualmente per ogni avente diritto o per ogni persona compresa nel calcolo comune della prestazione transitoria secondo l’articolo 9 capoverso 2, dividendo la somma degli importi riconosciuti per il numero di persone che vivono nell’economia domestica. I supplementi sono concessi soltanto per la seconda, la terza e la quarta persona.[^10-7]
+<sup>1bis</sup> Se più persone vivono nella stessa economia domestica l’importo massimo riconosciuto per la pigione è fissato individualmente per ogni avente diritto o per ogni persona compresa nel calcolo comune delle prestazioni complementari secondo l’articolo 9 capoverso 2, dividendo la somma degli importi riconosciuti per il numero di persone che vivono nell’economia domestica. I supplementi di cui al capoverso 1 lettera b numero 2 sono concessi soltanto per la seconda, la terza e la quarta persona.[^10-10]
 
 <sup>1ter</sup>
 
 Per le persone che condividono l’alloggio e per le quali non è effettuato un calcolo comune conformemente all’articolo 9 capoverso 2, l’importo massimo annuo riconosciuto per la pigione corrisponde a quello per una persona che vive in un’economia domestica composta da due persone. Il Consiglio federale determina le modalità di calcolo dell’importo massimo per:
 
 - a. i coniugi che vivono insieme e condividono l’alloggio con altre persone;
-- b. le persone che condividono l’alloggio insieme a orfani che hanno diritto a una rendita o con figli che danno diritto a una rendita per figli dell’AVS o dell’AI.[^10-8]
+- b. le persone che condividono l’alloggio insieme a orfani che hanno diritto a una rendita o con figli che danno diritto a una rendita per figli dell’AVS o dell’AI.[^10-11]
 
-<sup>1quater</sup> Il Consiglio federale disciplina la ripartizione dei Comuni tra le tre regioni. A tal riguardo si fonda sui livelli geografici dell’Ufficio federale di statistica.[^10-9]
+<sup>1quater</sup> I supplementi di cui al capoverso 1 lettera b numeri 3 e 4 sono ripartiti tra gli aventi diritto.[^10-12]
 
-<sup>1quinquies</sup> Il Dipartimento federale dell’interno stabilisce la ripartizione dei Comuni in un’ordinanza. Riesamina la ripartizione quando l’Ufficio federale di statistica modifica i livelli geografici sui quali essa si fonda.[^10-10]
+<sup>1quinquies</sup> Il Consiglio federale disciplina la ripartizione dei Comuni tra le tre regioni. A tal riguardo si fonda sui livelli geografici dell’Ufficio federale di statistica.[^10-13]
 
-<sup>1sexies</sup> I Cantoni possono chiedere una riduzione o un aumento fino al 10 per cento degli importi massimi in un Comune. La richiesta di riduzione è accolta se e fino a quando la pigione del 90 per cento dei beneficiari di prestazioni complementari è coperta dagli importi massimi. Il Consiglio federale disciplina la procedura.[^10-11]
+<sup>1sexies</sup> Il Dipartimento federale dell’interno stabilisce la ripartizione dei Comuni in un’ordinanza. Riesamina la ripartizione quando l’Ufficio federale di statistica modifica i livelli geografici sui quali essa si fonda.[^10-14]
 
-<sup>1septies</sup> Il Consiglio federale verifica almeno ogni dieci anni se e in che misura gli importi massimi coprono le pigioni effettive dei beneficiari di prestazioni complementari e pubblica i risultati del suo esame. Anticipa l’esame e la pubblicazione se l’indice delle pigioni si è modificato di oltre il 10 per cento dall’ultimo esame.[^10-12]
+<sup>1septies</sup> I Cantoni possono chiedere una riduzione o un aumento fino al 10 per cento degli importi massimi in un Comune. La richiesta di riduzione è accolta se e fino a quando la pigione del 90 per cento dei beneficiari di prestazioni complementari è coperta dagli importi massimi. Il Consiglio federale disciplina la procedura.[^10-15]
+
+<sup>1octies</sup> Il Consiglio federale verifica almeno ogni dieci anni se e in che misura gli importi massimi coprono le pigioni effettive dei beneficiari di prestazioni complementari e pubblica i risultati del suo esame. Anticipa l’esame e la pubblicazione se l’indice delle pigioni si è modificato di oltre il 10 per cento dall’ultimo esame.[^10-16]
 
 <sup>2</sup>
 
-Per le persone che vivono durevolmente o per oltre tre mesi in un istituto o in un ospedale (persone che vivono in un istituto o in un ospedale), le spese riconosciute sono le seguenti:[^10-13]
+Per le persone che vivono durevolmente o per oltre tre mesi in un istituto o in un ospedale (persone che vivono in un istituto o in un ospedale), le spese riconosciute sono le seguenti:[^10-17]
 
-- a.[^10-14] la tassa giornaliera per i giorni di permanenza fatturati dall’istituto o dall’ospedale; i Cantoni possono limitare le spese prese in considerazione a causa del soggiorno in un istituto o in un ospedale; provvedono affinché di norma il soggiorno in un istituto riconosciuto non causi una dipendenza dall’aiuto sociale;
+- a.[^10-18] la tassa giornaliera per i giorni di permanenza fatturati dall’istituto o dall’ospedale, salvo quelli del mese in cui il beneficiario muore; i Cantoni possono prevedere che tale mese sia compensato interamente senza deduzione dei giorni non fatturati; i Cantoni possono limitare le spese prese in considerazione a causa del soggiorno in un istituto o in un ospedale; provvedono affinché di norma il soggiorno in un istituto di cura riconosciuto non causi una dipendenza dall’aiuto sociale;
 - b. un importo per le spese personali, stabilito dal Cantone.
 
 <sup>3</sup>
@@ -300,26 +303,30 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 - a. spese per il conseguimento del reddito, fino a concorrenza del reddito lordo dell’attività lucrativa;
 - b. spese di manutenzione di fabbricati e interessi ipotecari, fino a concorrenza del ricavo lordo dell’immobile;
 - c. premi versati alle assicurazioni sociali della Confederazione, eccettuata l’assicurazione malattie;
-- d.[^10-15] importo per l’assicurazione obbligatoria delle cure medico-sanitarie; esso corrisponde a un importo forfettario annuo di entità pari al premio medio cantonale o regionale per l’assicurazione obbligatoria delle cure medico-sanitarie (compresa la copertura infortuni), al massimo però il premio effettivo;
+- d.[^10-19] importo per l’assicurazione obbligatoria delle cure medico-sanitarie; esso corrisponde a un importo forfettario annuo di entità pari al premio medio cantonale o regionale per l’assicurazione obbligatoria delle cure medico-sanitarie (compresa la copertura infortuni), al massimo però il premio effettivo;
 - e. pensioni alimentari versate in virtù del diritto di famiglia;
-- f.[^10-16] spese nette per la custodia complementare alla famiglia di figli che non hanno ancora compiuto gli 11 anni di età, sempre che la custodia sia necessaria e comprovata.
+- f.[^10-20] spese nette per la custodia complementare alla famiglia di figli che non hanno ancora compiuto gli 11 anni di età, sempre che la custodia sia necessaria e comprovata.
 
 [^10-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Importi adeguati dall’art. 1 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-2]: Importi adeguati dall’art. 1 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
 [^10-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Importi adeguati dall’art. 2 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-6]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-7]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Correzione della Commissione di redazione dell’AF del 30 giu. 2020, pubblicata il 7 lug. 2020 ([RU 2020 2827](https://fedlex.data.admin.ch/eli/oc/2020/513)).
-[^10-8]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^10-9]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-10]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-11]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-12]: Introdotto dalla cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-13]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-14]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-15]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-16]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Importi adeguati dall’art. 2 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^10-6]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-7]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-8]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^10-9]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-10]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-11]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^10-12]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-13]: Originario <sup>1quater</sup>. Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-14]: Originario <sup>1quinquies</sup>. Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-15]: Originario <sup>1sexies</sup>. Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-16]: Originario <sup>1septies</sup>. Introdotto dalla cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-17]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-18]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-19]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-20]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -336,9 +343,9 @@ Sono computati come reddito:
 - d<sup>bis</sup>.[^11-4] la totalità della rendita, anche se solo una percentuale di essa è differita in virtù dell’articolo 39 capoverso 1 LAVS[^11-5] oppure anticipata in virtù dell’articolo 40 capoverso 1 LAVS;
 - e. le prestazioni derivanti da un contratto di vitalizio o da una convenzione analoga;
 - f. gli assegni familiari;
-- g.[^11-6] ...
+- g.[^11-6] …
 - h. le pensioni alimentari previste dal diritto di famiglia;
-- i.[^11-7] la riduzione dei premi accordata per il periodo per il quale sono state versate retroattivamente prestazioni complementari.
+- i.[^11-7] …
 
 <sup>1bis</sup>
 
@@ -373,7 +380,7 @@ Non sono computati:
 [^11-4]: Introdotta dall’all. n. 3 cpv. 1 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^11-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-6]: Abrogata dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), con effetto dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-7]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-7]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Abrogata dalla cifra I della LF del 20 giu. 2025, con effetto dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^11-8]: Introdotto dalla cifra I n. 2 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-9]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^11-10]: Introdotto dall’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
@@ -516,17 +523,19 @@ Il diritto di chiedere la restituzione decade un anno dopo che l’organo di cui
 
 La Confederazione versa annualmente:
 
-- a. un sussidio massimo di 16,5 milioni di franchi alla Fondazione svizzera Pro Senectute;
-- b. un sussidio massimo di 14,5 milioni di franchi all’Associazione svizzera Pro Infirmis;
+- a. un sussidio massimo di 21 milioni di franchi[^17-1] alla Fondazione svizzera Pro Senectute;
+- b. un sussidio massimo di 16,5 milioni di franchi[^17-2] all’Associazione svizzera Pro Infirmis;
 - c. un sussidio massimo di 2,7 milioni di franchi alla Fondazione svizzera Pro Juventute.
 
-<sup>2</sup> Nel fissare le nuove rendite conformemente all’articolo 33<sup>ter</sup> LAVS[^17-1], il Consiglio federale aumenta gli importi massimi dei sussidi di cui al capoverso 1.
+<sup>2</sup> Nel fissare le nuove rendite conformemente all’articolo 33<sup>ter</sup> LAVS[^17-3], il Consiglio federale aumenta gli importi massimi dei sussidi di cui al capoverso 1.
 
 <sup>3</sup> Il Consiglio federale stabilisce l’importo dei sussidi annui. Emana disposizioni sulla ripartizione dei sussidi fra gli organi centrali e quelli cantonali o regionali delle istituzioni di utilità pubblica.
 
 <sup>4</sup> I sussidi alle Fondazioni svizzere Pro Senectute e Pro Juventute sono prelevati dalle risorse finanziarie dell’AVS; il sussidio all’Associazione Pro Infirmis è prelevato dalle risorse finanziarie dell’AI.
 
-[^17-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^17-1]: Importo adeguato dall’art. 3 cpv. 1 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^17-2]: Importo adeguato dall’art. 3 cpv. 2 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^17-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 18
 
@@ -828,7 +837,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione.
 
 Finché i Cantoni non hanno designato le spese che possono essere rimborsate secondo l’articolo 14 capoverso 1, gli articoli 3–18 dell’ordinanza del 29 dicembre 1997[^34-1] sul rimborso delle spese di malattia e delle spese dovute all’invalidità in materia di prestazioni complementarinella versione in vigore il 31 dicembre dell’anno precedente l’entrata in vigore della legge federale del 6 ottobre 2006[^34-2] che emana e modifica atti legislativi per la nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni si applicano per analogia, ma per una durata massima di tre anni a contare dall’entrata in vigore della presente legge.
 
-[^34-1]: [[RU 1998 239](https://fedlex.data.admin.ch/eli/oc/1998/239_239_239), [2000 81](https://fedlex.data.admin.ch/eli/oc/2000/17), [2002 3728](https://fedlex.data.admin.ch/eli/oc/2002/578), [2003 4299](https://fedlex.data.admin.ch/eli/oc/2003/639), [2004 5399](https://fedlex.data.admin.ch/eli/oc/2004/826). [RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)cifra II n. 9]
+[^34-1]: [[RU 1998 239](https://fedlex.data.admin.ch/eli/oc/1998/239_239_239); [2000 81](https://fedlex.data.admin.ch/eli/oc/2000/17); [2002 3728](https://fedlex.data.admin.ch/eli/oc/2002/578); [2003 4299](https://fedlex.data.admin.ch/eli/oc/2003/639); [2004 5399](https://fedlex.data.admin.ch/eli/oc/2004/826). [RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)cifra II n. 9]
 [^34-2]: [RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
 
 #### Art. 35

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-
 short: ELG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20260101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/de"
 
 (ELG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2026)
+vom 6. Oktober 2006 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -246,50 +246,53 @@ Bei Personen, die nicht dauernd oder nicht länger als drei Monate in einem Heim
 
   als Betrag für den allgemeinen Lebensbedarf pro Jahr:
 
-  - 1\. bei alleinstehenden Personen: 20 670 Franken,
-  - 2\. bei Ehepaaren: 31 005 Franken,
-  - 3\.[^10-3] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr vollendet haben: 10 815 Franken; dabei gelten für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrages,
-  - 4\.[^10-4] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr noch nicht vollendet haben: 7590 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrages; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
+  - 1\. bei alleinstehenden Personen: 21 000 Franken,
+  - 2\. bei Ehepaaren: 31 500 Franken,
+  - 3\.[^10-3] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr vollendet haben: 10 980 Franken; dabei gelten für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrages,
+  - 4\.[^10-4] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr noch nicht vollendet haben: 7710 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrages; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
 
 - b.[^10-5]
 
   der Mietzins einer Wohnung und die damit zusammenhängenden Nebenkosten; wird eine Schlussabrechnung für die Nebenkosten erstellt, so ist weder eine Nach- noch eine Rückzahlung zu berücksichtigen; als jährlicher Höchstbetrag werden anerkannt:
 
-  - 1\. für eine allein lebende Person: 18 900 Franken in der Region 1, auf 18 300 Franken in der Region 2 und auf 16 680 Franken in der Region 3,
+  - 1\. für eine allein lebende Person: 19 260 Franken in der Region 1, auf 18 600 Franken in der Region 2 und auf 16 980 Franken in der Region 3,
   - 2\.
 
     bei mehreren im gleichen Haushalt lebenden Personen:
 
-    - – für die zweite Person zusätzlich: 3420 Franken in der Region 1, 3420 Franken in der Region 2 und 3480 Franken in der Region 3
-    - – für die dritte Person zusätzlich: 2460 Franken in der Region 1 und 2040 Franken in den Regionen 2 und 3
-    - – für die vierte Person zusätzlich: 2280 Franken in der Region 1, 2160 Franken in der Region 2 und 1800 Franken in der Region 3,
+    - – für die zweite Person zusätzlich: 3480 Franken in der Region 1, 3540 Franken in der Region 2 und 3540 Franken in der Region 3
+    - – für die dritte Person zusätzlich: 2460 Franken in der Region 1, 2040 Franken in der Region 2 und 2100 in der Region 3,
+    - – für die vierte Person zusätzlich: 2340 Franken in der Region 1, 2220 Franken in der Region 2 und 1800 Franken in der Region 3,
 
-  - 3\. bei der notwendigen Miete einer rollstuhlgängigen Wohnung: zusätzlich 6900 Franken;
+  - 3\.[^10-6] bei der notwendigen Miete einer rollstuhlgängigen Wohnung: zusätzlich 7020 Franken, bei mehreren Personen, die Anspruch auf den Zusatzbetrag haben, höchstens das Doppelte,
+  - 4\.[^10-7] für Personen mit einem Anspruch auf einen Assistenzbeitrag nach Artikel 42<sup>quater</sup> des Bundesgesetzes vom 19. Juni 1959[^10-8] über die Invalidenversicherung, die eine Nachtassistenz benötigen und die der Assistenzperson ein Zimmer zur Verfügung stellen: zusätzlich 6000 Franken;
 
-- c.[^10-6] anstelle des Mietzinses der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben; Buchstabe b gilt sinngemäss.
+- c.[^10-9] anstelle des Mietzinses der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben; Buchstabe b gilt sinngemäss.
 
-<sup>1bis</sup> Bei mehreren im gleichen Haushalt lebenden Personen wird der Höchstbetrag der anerkannten Mietkosten für jede anspruchsberechtigte oder in die gemeinsame Berechnung der Ergänzungsleistungen eingeschlossene Person nach Artikel 9 Absatz 2 einzeln festgesetzt und die Summe der anerkannten Beträge durch die Anzahl aller im Haushalt lebenden Personen geteilt. Zusatzbeträge werden nur für die zweite bis vierte Person gewährt.[^10-7]
+<sup>1bis</sup> Bei mehreren im gleichen Haushalt lebenden Personen wird der Höchstbetrag der anerkannten Mietkosten für jede anspruchsberechtigte oder in die gemeinsame Berechnung der Ergänzungsleistungen eingeschlossene Person nach Artikel 9 Absatz 2 einzeln festgesetzt und die Summe der anerkannten Beträge durch die Anzahl aller im Haushalt lebenden Personen geteilt. Die Zusatzbeträge nach Absatz 1 Buchstabe b Ziffer 2 werden nur für die zweite bis vierte Person gewährt.[^10-10] [^10-11]
 
 <sup>1ter</sup>
 
 Für Personen, die in gemeinschaftlichen Wohnformen leben und bei denen keine gemeinsame Berechnung nach Artikel 9 Absatz 2 erfolgt, gilt der jährliche Höchstbetrag der anerkannten Mietkosten für eine Person in einem Haushalt mit zwei Personen. Der Bundesrat bestimmt, wie der Höchstbetrag zu bemessen ist für:
 
 - a. Ehepaare, bei denen beide Ehegatten zusammen in einer gemeinschaftlichen Wohnform leben;
-- b. Personen, die zusammen mit rentenberechtigten Waisen oder mit Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, in einer gemeinschaftlichen Wohnform leben.[^10-8]
+- b. Personen, die zusammen mit rentenberechtigten Waisen oder mit Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, in einer gemeinschaftlichen Wohnform leben.[^10-12]
 
-<sup>1quater</sup> Der Bundesrat regelt die Einteilung der Gemeinden in die drei Regionen. Er stützt sich dabei auf die Raumgliederung des Bundesamtes für Statistik.[^10-9]
+<sup>1quater</sup> Die Zusatzbeträge nach Absatz 1 Buchstabe b Ziffern 3 und 4 werden auf die Personen aufgeteilt, die einen Anspruch auf den jeweiligen Zusatzbetrag haben.[^10-13]
 
-<sup>1quinquies</sup> Das Eidgenössische Departement des Innern legt die Zuteilung der Gemeinden in einer Verordnung fest. Es überprüft die Zuteilung, wenn das Bundesamt für Statistik die ihr zugrunde liegende Raumgliederung ändert.[^10-10]
+<sup>1quinquies</sup> Der Bundesrat regelt die Einteilung der Gemeinden in die drei Regionen. Er stützt sich dabei auf die Raumgliederung des Bundesamtes für Statistik.[^10-14]
 
-<sup>1sexies</sup> Die Kantone können beantragen, die Höchstbeträge in einer Gemeinde um bis zu 10 Prozent zu senken oder zu erhöhen. Dem Antrag auf die Senkung der Höchstbeträge wird entsprochen, wenn und solange der Mietzins von 90 Prozent der Bezügerinnen oder Bezüger von Ergänzungsleistungen durch die Höchstbeträge gedeckt ist. Der Bundesrat regelt das Verfahren.[^10-11]
+<sup>1sexies</sup> Das Eidgenössische Departement des Innern legt die Zuteilung der Gemeinden in einer Verordnung fest. Es überprüft die Zuteilung, wenn das Bundesamt für Statistik die ihr zugrunde liegende Raumgliederung ändert.[^10-15]
 
-<sup>1septies</sup> Der Bundesrat überprüft mindestens alle zehn Jahre, ob und in welchem Ausmass die Höchstbeträge die effektiven Mietzinse der Bezügerinnen und Bezüger von Ergänzungsleistungen decken und veröffentlicht die Ergebnisse seiner Prüfung. Er nimmt die Überprüfung und Veröffentlichung früher vor, wenn sich der Mietpreisindex um mehr als 10 Prozent seit der letzten Überprüfung verändert hat.[^10-12]
+<sup>1septies</sup> Die Kantone können beantragen, die Höchstbeträge in einer Gemeinde um bis zu 10 Prozent zu senken oder zu erhöhen. Dem Antrag auf die Senkung der Höchstbeträge wird entsprochen, wenn und solange der Mietzins von 90 Prozent der Bezügerinnen oder Bezüger von Ergänzungsleistungen durch die Höchstbeträge gedeckt ist. Der Bundesrat regelt das Verfahren.[^10-16]
+
+<sup>1octies</sup> Der Bundesrat überprüft mindestens alle zehn Jahre, ob und in welchem Ausmass die Höchstbeträge die effektiven Mietzinse der Bezügerinnen und Bezüger von Ergänzungsleistungen decken und veröffentlicht die Ergebnisse seiner Prüfung. Er nimmt die Überprüfung und Veröffentlichung früher vor, wenn sich der Mietpreisindex um mehr als 10 Prozent seit der letzten Überprüfung verändert hat.[^10-17]
 
 <sup>2</sup>
 
-Bei Personen, die dauernd oder länger als drei Monate in einem Heim oder Spital leben (in Heimen oder Spitälern lebende Personen), werden als Ausgaben anerkannt:[^10-13]
+Bei Personen, die dauernd oder länger als drei Monate in einem Heim oder Spital leben (in Heimen oder Spitälern lebende Personen), werden als Ausgaben anerkannt:[^10-18]
 
-- a.[^10-14] die Tagestaxe für die Tage, die vom Heim oder Spital in Rechnung gestellt werden; die Kantone können die Kosten begrenzen, die wegen des Aufenthaltes in einem Heim oder Spital berücksichtigt werden; sie sorgen dafür, dass durch den Aufenthalt in einem anerkannten Pflegeheim in der Regel keine Abhängigkeit von der Sozialhilfe entsteht;
+- a.[^10-19] die Tagestaxe für die Tage, die vom Heim oder Spital in Rechnung gestellt werden, mit Ausnahme des Monats, in dem die Bezügerin oder der Bezüger stirbt; für diesen können die Kantone beschliessen, den ganzen Monat zu verrechnen, ohne die nicht in Rechnung gestellten Tage abzuziehen; die Kantone können die Kosten begrenzen, die wegen des Aufenthaltes in einem Heim oder Spital berücksichtigt werden; sie sorgen dafür, dass durch den Aufenthalt in einem anerkannten Pflegeheim in der Regel keine Abhängigkeit von der Sozialhilfe entsteht;
 - b. ein vom Kanton zu bestimmender Betrag für persönliche Auslagen.
 
 <sup>3</sup>
@@ -299,26 +302,31 @@ Bei allen Personen werden zudem als Ausgaben anerkannt:
 - a. Gewinnungskosten bis zur Höhe des Bruttoerwerbseinkommens;
 - b. Gebäudeunterhaltskosten und Hypothekarzinse bis zur Höhe des Bruttoertrages der Liegenschaft;
 - c. Beiträge an die Sozialversicherungen des Bundes unter Ausschluss der Prämien für die Krankenversicherung;
-- d.[^10-15] der Betrag für die obligatorische Krankenpflegeversicherung; er entspricht einem jährlichen Pauschalbetrag in der Höhe der kantonalen beziehungsweise regionalen Durchschnittsprämie für die obligatorische Krankenpflegeversicherung (inkl. Unfalldeckung), höchstens jedoch der tatsächlichen Prämie;
+- d.[^10-20] der Betrag für die obligatorische Krankenpflegeversicherung; er entspricht einem jährlichen Pauschalbetrag in der Höhe der kantonalen beziehungsweise regionalen Durchschnittsprämie für die obligatorische Krankenpflegeversicherung (inkl. Unfalldeckung), höchstens jedoch der tatsächlichen Prämie;
 - e. geleistete familienrechtliche Unterhaltsbeiträge;
-- f.[^10-16] Netto-Betreuungskosten für die notwendige und ausgewiesene familienergänzende Betreuung von Kindern, die das 11. Altersjahr noch nicht vollendet haben.
+- f.[^10-21] Netto-Betreuungskosten für die notwendige und ausgewiesene familienergänzende Betreuung von Kindern, die das 11. Altersjahr noch nicht vollendet haben.
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Beträge angepasst gemäss Art. 1 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
+[^10-2]: Beträge angepasst gemäss Art. 1 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
 [^10-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Beträge angepasst gemäss Art. 2 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-6]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-7]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-8]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^10-9]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-10]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-11]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-12]: Eingefügt durch Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)
-[^10-13]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-14]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-15]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-16]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-5]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Beträge angepasst gemäss Art. 2 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^10-6]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-7]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-8]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^10-9]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-10]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-11]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-12]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^10-13]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-14]: Ursprünglich Abs. 1<sup>quater</sup>. Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-15]: Ursprünglich Abs. 1<sup>quinquies</sup>. Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-16]: Ursprünglich Abs. 1<sup>sexies</sup>. Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-17]: Ursprünglich Abs. 1<sup>septies</sup>. Eingefügt durch Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)
+[^10-18]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-19]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^10-20]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-21]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -337,7 +345,7 @@ Als Einnahmen werden angerechnet:
 - f. Familienzulagen;
 - g.[^11-6] …
 - h. familienrechtliche Unterhaltsbeiträge;
-- i.[^11-7] die Prämienverbilligung für die Zeitspanne, für die rückwirkend eine Ergänzungsleistung ausgerichtet wird.
+- i.[^11-7] ...
 
 <sup>1bis</sup>
 
@@ -372,7 +380,7 @@ Nicht angerechnet werden:
 [^11-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^11-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-6]: Aufgehoben durch Ziff. I des BG vom 22. März 2019 (EL-Reform), mit Wirkung seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-7]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-7]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^11-8]: Eingefügt durch Ziff. I 2 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)). Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-9]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^11-10]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
@@ -516,17 +524,19 @@ Der Rückforderungsanspruch erlischt nach Ablauf eines Jahres, nachdem die Stell
 
 Der Bund zahlt jährlich:
 
-- a. einen Beitrag von höchstens 16,5 Millionen Franken an die schweizerische Stiftung Pro Senectute;
-- b. einen Beitrag von höchstens 14,5 Millionen Franken an die schweizerische Vereinigung Pro Infirmis;
+- a. einen Beitrag von höchstens 21 Millionen Franken[^17-1] an die schweizerische Stiftung Pro Senectute;
+- b. einen Beitrag von höchstens 16,5 Millionen Franken[^17-2] an die schweizerische Vereinigung Pro Infirmis;
 - c. einen Beitrag von höchstens 2,7 Millionen Franken an die schweizerische Stiftung Pro Juventute.
 
-<sup>2</sup> Der Bundesrat erhöht die Obergrenze der Beiträge nach Absatz 1 bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^17-1].
+<sup>2</sup> Der Bundesrat erhöht die Obergrenze der Beiträge nach Absatz 1 bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^17-3].
 
 <sup>3</sup> Er setzt die Höhe der jährlichen Beiträge fest. Er erlässt Bestimmungen über die Verteilung der Beiträge zwischen den zentralen und den kantonalen oder regionalen Organen der gemeinnützigen Institutionen.
 
 <sup>4</sup> Die Beiträge an die Stiftungen Pro Senectute und Pro Juventute werden aus Mitteln der AHV, jene an die Vereinigung Pro Infirmis aus Mitteln der IV geleistet.
 
-[^17-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^17-1]: Betrag angepasst gemäss Art. 3 Abs. 1 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^17-2]: Betrag angepasst gemäss Art. 3 Abs. 2 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^17-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 18
 
