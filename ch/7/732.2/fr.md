@@ -4,22 +4,22 @@ title: "Loi du 22 juin 2007 sur l'Inspection fédérale de la sécurité nucléa
 short: LIFSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/775"
 language: fr
-version: 2012-01-01
+version: 2027-01-01
 adopted: 2007-06-22
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/775/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-775-20120101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/775/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-775-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi sur l’Inspection fédérale de la sécurité nucléaire<sup>∗</sup>
+# Loi sur l’Inspection fédérale de la sécurité nucléaire\*
 
 (LIFSN)[^t-1]
 
-du 22 juin 2007 (État le 1<sup>er</sup> janvier 2012)
+du 22 juin 2007 (État le 1<sup>er</sup> janvier 2027)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -103,20 +103,26 @@ Le conseil de l’IFSN:
 - a. fixe les objectifs stratégiques tous les quatre ans;
 - b. propose au Conseil fédéral le montant de l’indemnisation que doit verser la Confédération;
 - c. édicte le règlement d’organisation;
-- d. édicte, sous réserve de l’approbation par le Conseil fédéral, le règlement du personnel;
-- e. adopte, sous réserve de l’approbation par le Conseil fédéral, le tarif des émoluments;
+- d.[^6-2] édicte le règlement du personnel et le soumet au Conseil fédéral pour approbation;
+- e.[^6-3] adopte le tarif des émoluments et le soumet au Conseil fédéral pour approbation;
 - f. édicte les dispositions d’exécution déléguées à l’IFSN par le Conseil fédéral;
 - g. nomme le directeur et les autres membres de la direction;
 - h. contrôle les activités de gestion et de surveillance;
 - i. est responsable d’une assurance qualité suffisante et d’une gestion des risques appropriée au sein de l’IFSN;
 - j. met en place la révision interne et veille à l’exécution du contrôle interne;
 - k. approuve le budget et les comptes annuels;
-- l.[^6-2] établit le rapport d’activité contenant des indications sur la surveillance, sur la situation de l’assurance qualité, sur la réalisation des objectifs stratégiques et sur l’état des installations nucléaires ainsi que le rapport de gestion (rapport annuel, bilan et annexe, compte de résultats, rapport de vérification de l’organe de révision) et les soumet au Conseil fédéral pour approbation.
+- l.[^6-4] établit le rapport d’activité contenant des indications sur la surveillance, sur la situation de l’assurance qualité, sur la réalisation des objectifs stratégiques et sur l’état des installations nucléaires ainsi que le rapport de gestion (rapport annuel, bilan et annexe, compte de résultats, rapport de vérification de l’organe de révision) et les soumet au Conseil fédéral pour approbation;
+- m.[^6-5] conclut le contrat d’affiliation à la Caisse fédérale de pensions et le soumet au Conseil fédéral pour approbation;
+- n.[^6-6] édicte les dispositions concernant le financement de la prévoyance professionnelle et les soumet au Conseil fédéral pour approbation.
 
 <sup>7</sup> Le Conseil de l’IFSN peut déléguer à la direction la compétence de conclure des affaires particulières.
 
 [^6-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^6-2]: Nouvelle teneur selon le ch. I 4 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^6-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-3]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-4]: Nouvelle teneur selon le ch. I 4 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^6-5]: Introduite par l’annexe ch. 9 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-6]: Introduite par l’annexe ch. 9 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 7
 
@@ -167,7 +173,7 @@ La prévoyance professionnelle du personnel est régie par la législation sur l
 
 #### Art. 11
 
-**Emoluments et taxes de surveillance**
+**Émoluments et taxes de surveillance**
 
 L’IFSN prélève les émoluments et les taxes de surveillance selon l’art. 83 de la loi du 21 mars 2003 sur l’énergie nucléaire[^11-1] et l’art. 42 de la loi du 22 mars 1991 sur la radioprotection[^11-2].
 
@@ -265,7 +271,7 @@ La procédure est régie par la loi fédérale du 20 décembre 1968 sur la proc�
 
 **Transfert des droits et des obligations**
 
-<sup>1</sup> Le Conseil fédéral décide du moment auquel l’IFSN acquiert la personnalité juridique. A compter de cette date, elle remplace la Division principale de la Sécurité des Installations Nucléaires (DSN).
+<sup>1</sup> Le Conseil fédéral décide du moment auquel l’IFSN acquiert la personnalité juridique. À compter de cette date, elle remplace la Division principale de la Sécurité des Installations Nucléaires (DSN).
 
 <sup>2</sup> Le Conseil fédéral spécifie les droits, les obligations et les valeurs qui sont transférés à l’IFSN, fixe la date de l’entrée en vigueur des effets juridiques et approuve le bilan d’ouverture. Il prend toute autre disposition nécessaire au transfert et édicte les dispositions correspondantes. Le transfert et les inscriptions nécessaires ne sont pas imposables ni soumis à émolument.
 

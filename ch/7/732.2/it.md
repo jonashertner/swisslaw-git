@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2007 sull'Ispettorato federale della sicure
 short: LIFSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/775"
 language: it
-version: 2012-01-01
+version: 2027-01-01
 adopted: 2007-06-22
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/775/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2007-775-20120101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/775/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-775-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20120101/it"
 
 (LIFSN)
 
-del 22 giugno 2007 (Stato 1° gennaio 2012)
+del 22 giugno 2007 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -101,20 +101,26 @@ Il consiglio dell’Ispettorato ha i seguenti compiti:
 - a. definisce gli obiettivi strategici a scadenza quadriennale;
 - b. propone al Consiglio federale le indennità che la Confederazione deve versare;
 - c. emana il regolamento d’organizzazione;
-- d. emana il regolamento del personale, fatta salva l’approvazione da parte del Consiglio federale;
-- e. emana il regolamento sulle tasse, fatta salva l’approvazione da parte del Consiglio federale;
+- d.[^6-2] emana il regolamento del personale e lo sottopone per approvazione al Consiglio federale;
+- e.[^6-3] emana il regolamento sugli emolumenti e lo sottopone per approvazione al Consiglio federale;
 - f. emana le disposizioni d’applicazione delegate all’Ispettorato dal Consiglio federale;
 - g. elegge il direttore e gli altri membri della direzione;
 - h. sorveglia la gestione amministrativa e l’attività di vigilanza;
 - i. è responsabile per una sufficiente garanzia della qualità e un’adeguata gestione aziendale dei rischi;
 - j. istituisce una revisione interna e provvede al controllo interno;
 - k. approva il preventivo e il conto annuale;
-- l.[^6-2] allestisce il rapporto di attività con dati relativi alla vigilanza, al grado di garanzia della qualità, al raggiungimento degli obiettivi strategici e allo stato degli impianti nucleari, nonché il rapporto di gestione (rapporto annuale, bilancio e allegato, conto economico, rapporto di verifica dell’organo di revisione) e li presenta al Consiglio federale per approvazione.
+- l.[^6-4] allestisce il rapporto di attività con dati relativi alla vigilanza, al grado di garanzia della qualità, al raggiungimento degli obiettivi strategici e allo stato degli impianti nucleari, nonché il rapporto di gestione (rapporto annuale, bilancio e allegato, conto economico, rapporto di verifica dell’organo di revisione) e li presenta al Consiglio federale per approvazione;
+- m.[^6-5] stipula il contratto di affiliazione alla Cassa pensioni della Confederazione e lo sottopone per approvazione al Consiglio federale;
+- n.[^6-6] emana le disposizioni sul finanziamento della previdenza professionale e le sottopone per approvazione al Consiglio federale.
 
 <sup>7</sup> Il Consiglio dell’ispettorato può delegare alla direzione la competenza di concludere singoli affari.
 
 [^6-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^6-2]: Nuovo testo giusta il n. I 4 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^6-2]: Nuovo testo giusta l’all. n. 9 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-3]: Nuovo testo giusta l’all. n. 9 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-4]: Nuovo testo giusta la cifra I n. 4 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^6-5]: Introdotta dall’all. n. 9 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-6]: Introdotta dall’all. n. 9 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 7
 
@@ -300,7 +306,7 @@ L’Ispettorato è considerato datore di lavoro competente per i beneficiari di 
 
 **Modifica del diritto vigente**
 
-…[^25-1]
+...[^25-1]
 
 [^25-1]: La mod. può essere consultata alla [RU 2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775).
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 22. Juni 2007 über das Eidgenössische Nuklearsicherhei
 short: ENSIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/775"
 language: de
-version: 2012-01-01
+version: 2027-01-01
 adopted: 2007-06-22
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/775/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2007-775-20120101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/775/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-775-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/775/20120101/de"
 
 (ENSIG)[^t-1]
 
-vom 22. Juni 2007 (Stand am 1. Januar 2012)
+vom 22. Juni 2007 (Stand am 1. Januar 2027)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
@@ -103,20 +103,26 @@ Der ENSI-Rat hat folgende Aufgaben:
 - a. Er legt die strategischen Ziele für jeweils vier Jahre fest.
 - b. Er beantragt dem Bundesrat die vom Bund zu erbringenden Abgeltungen.
 - c. Er erlässt das Organisationsreglement.
-- d. Er erlässt unter Vorbehalt der Genehmigung durch den Bundesrat das Personalreglement.
-- e. Er erlässt unter Vorbehalt der Genehmigung durch den Bundesrat die Gebührenordnung.
+- d.[^6-2] Er erlässt das Personalreglement und unterbreitet es dann dem Bundesrat zur Genehmigung.
+- e.[^6-3] Er erlässt die Gebührenordnung und unterbreitet sie dann dem Bundesrat zur Genehmigung.
 - f. Er erlässt die dem ENSI vom Bundesrat delegierten Ausführungsbestimmungen.
 - g. Er wählt die Direktorin oder den Direktor und die weiteren Mitglieder der Geschäftsleitung.
 - h. Er überwacht die Geschäftsführung und die Aufsichtstätigkeit.
 - i. Er ist für eine ausreichende Qualitätssicherung und ein adäquates betriebliches Risikomanagement verantwortlich.
 - j. Er setzt eine interne Revision ein und sorgt für die interne Kontrolle.
 - k. Er genehmigt den Voranschlag und die Jahresrechnung.
-- l.[^6-2] Er erstellt den Tätigkeitsbericht mit Angaben zur Aufsicht, zum Stand der Qualitätssicherung, zur Erreichung der strategischen Ziele und zum Zustand der Kernanlagen sowie den Geschäftsbericht (Jahresbericht, Bilanz mit Anhang, Erfolgsrechnung, Prüfungsbericht der Revisionsstelle) und unterbreitet sie dem Bundesrat zur Genehmigung.
+- l.[^6-4] Er erstellt den Tätigkeitsbericht mit Angaben zur Aufsicht, zum Stand der Qualitätssicherung, zur Erreichung der strategischen Ziele und zum Zustand der Kernanlagen sowie den Geschäftsbericht (Jahresbericht, Bilanz mit Anhang, Erfolgsrechnung, Prüfungsbericht der Revisionsstelle) und unterbreitet sie dem Bundesrat zur Genehmigung.
+- m.[^6-5] Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung.
+- n.[^6-6] Er erlässt die Bestimmungen über die Finanzierung der beruflichen Vorsorge und unterbreitet sie dann dem Bundesrat zur Genehmigung.
 
 <sup>7</sup> Der ENSI-Rat kann die Kompetenz zum Abschluss einzelner Geschäfte an die Geschäftsleitung übertragen.
 
 [^6-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^6-2]: Fassung gemäss Ziff. I 4 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^6-2]: Fassung gemäss Anhang Ziff. 9 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-3]: Fassung gemäss Anhang Ziff. 9 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-4]: Fassung gemäss Ziff. I 4 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600)[3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^6-5]: Eingefügt durch Anhang Ziff. 9 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6-6]: Eingefügt durch Anhang Ziff. 9 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 7
 
