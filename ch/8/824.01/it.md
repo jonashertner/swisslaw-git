@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 settembre 1996 sul servizio civile (OSCi)"
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20260101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/it"
 
 (OSCi)
 
-dell’11 settembre 1996 (Stato 1° gennaio 2026)
+dell’11 settembre 1996 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,11 +25,11 @@ visto l’articolo 79 capoverso 1 della legge federale del 6 ottobre 1995[^ingre
 
 ordina:
 
-[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^ingress-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-5]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^ingress-4]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-5]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 [^ingress-6]: Nuovo testo giusta la cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
 
 ## Capitolo 1: Organizzazione
@@ -44,7 +44,7 @@ ordina:
 
 <sup>2</sup> ...[^1-3]
 
-[^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^1-3]: Abrogato dalla cifra II n. 88 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -103,13 +103,19 @@ Non sono di utilità pubblica gli enti:
 
 **Attività non ammesse**[^4-1]
 
-### (art. 4–6 e 43 cpv. 2 LSC)
+### (art. 42 cpv. 2 LSC)
+
+[^4-2]
 
 <sup>1</sup> La persona soggetta al servizio civile non può esercitare nell’istituto d’impiego un’attività che serva direttamente alla realizzazione di obiettivi di politica quotidiana dell’istituto d’impiego o che sia suscettibile di influire sull’esercizio dei diritti politici degli Svizzeri.
 
 <sup>2</sup> La persona soggetta al servizio civile non può svolgere nell’istituto d’impiego alcuna attività di avvocato che potrebbe essere diretta contro le autorità.
 
-<sup>2bis</sup> La persona soggetta al servizio civile non può assumere, nel corso di un periodo d’impiego nell’ambito d’attività «scuola, dal livello prescolastico al livello secondario II», la responsabilità di insegnante.[^4-2]
+<sup>2bis</sup> La persona soggetta al servizio civile non può assumere, nel corso di un periodo d’impiego nell’ambito d’attività «scuola, dal livello prescolastico al livello secondario II», la responsabilità di insegnante.[^4-3]
+
+<sup>2ter</sup> La persona soggetta al servizio civile non può essere impiegata per svolgere compiti nell’ambito dell’informatica, della gestione del personale, della comunicazione, del marketing o del servizio nella ristorazione.[^4-4]
+
+<sup>2quater</sup> Sono eccettuati i compiti nell’ambito dell’informatica svolti nel quadro di impieghi per l’aiuto in caso di catastrofe o di situazioni d’emergenza.[^4-5]
 
 <sup>3</sup> La persona soggetta al servizio civile può utilizzare, nel corso di un periodo d’impiego, al massimo la metà del suo tempo per lavori di sostegno amministrativo o attività manuali qualificate.
 
@@ -118,14 +124,17 @@ Non sono di utilità pubblica gli enti:
 La limitazione dei lavori di sostegno amministrativo non si applica:
 
 - a. se lo stato di salute della persona che presta servizio civile lo richiede;
-- b.[^4-3] nel quadro di impieghi speciali e di impieghi per la prevenzione o l’aiuto in caso di catastrofe o di situazioni d’emergenza o per la rigenerazione dopo simili eventi;
-- b<sup>bis</sup>.[^4-4] ...
+- b.[^4-6] nel quadro di impieghi speciali e di impieghi per la prevenzione o l’aiuto in caso di catastrofe o di situazioni d’emergenza o per la rigenerazione dopo simili eventi;
+- b<sup>bis</sup>.[^4-7] ...
 - c. nel quadro di impieghi presso il CIVI.
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^4-2]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^4-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^4-4]: Introdotta dalla cifra I dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-3]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^4-4]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-5]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-6]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-7]: Introdotta dalla cifra I dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 4a
 
@@ -169,9 +178,9 @@ Possono influire sull’impiego:
 <sup>3</sup> Le aziende con pascoli comunitari e le aziende d’estivazione devono essere riconosciute secondo l’articolo 29*a* OTerm e avere una dimensione minima di dieci carichi normali. Questa dimensione minima non è richiesta per i progetti di cui all’articolo 6 capoverso 1 lettera c.[^5-5]
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^5-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^5-3]: Nuovo testo giusta all’all. dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^5-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
@@ -188,25 +197,26 @@ Il CIVI impiega le persone soggette al servizio civile:
 
   in aziende agricole nel quadro di progetti o programmi:
 
-  - 1\. per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui all’articolo 55 OPD[^6-2], per i quali vengono concessi contributi,
+  - 1\.[^6-2] per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui all’articolo 55 OPD[^6-3], per i quali vengono concessi contributi, nonché per il miglioramento della qualità delle superfici di promozione della biodiversità secondo l’articolo 59 OPD,
   - 2\. per lavori di gestione di superfici in zone declive e in forte pendenza di cui agli articoli 43 e 44 OPD,
   - 3\. per lavori di protezione e cura dei pascoli e delle superfici che rientrano nella protezione della natura di cui all’articolo 29 OPD,
   - 4\. per la lotta contro le piante problematiche di cui all’articolo 32 capoverso 1 OPD,
-  - 5\.[^6-3] per lo svolgimento di progetti per la biodiversità regionale e la qualità del paesaggio di cui all’articolo 78 OPD;
+  - 5\.[^6-4] per lo svolgimento di progetti per la biodiversità regionale e la qualità del paesaggio di cui all’articolo 78 OPD;
 
 - b. in aziende agricole che realizzano progetti o programmi di cui alla lettera a per lavori nell’ambito d’attività «protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste»;
-- c.[^6-4] ...
+- c.[^6-5] ...
 
-<sup>2</sup> Il DEFR disciplina il numero di giorni di servizio durante i quali una persona che presta servizio civile può essere impiegata ogni anno in aziende agricole. Esso tiene conto in particolare delle dimensioni delle superfici di cui al capoverso 1 lettera a numeri 1 e 2 e dell’importo dei contributi per le misure di cui al capoverso 1 lettera a numero 5.[^6-5]
+<sup>2</sup> Il DEFR disciplina il numero di giorni di servizio durante i quali una persona che presta servizio civile può essere impiegata ogni anno in aziende agricole. Esso tiene conto in particolare delle dimensioni delle superfici di cui al capoverso 1 lettera a numeri 1 e 2 e dell’importo dei contributi per le misure di cui al capoverso 1 lettera a numero 5.[^6-6]
 
-<sup>3</sup> In aziende con pascoli comunitari e in aziende d’estivazione le persone soggette al servizio civile possono essere impiegate soltanto durante il periodo d’estivazione nonché per altri 14 giorni di servizio immediatamente prima e dopo. È considerato periodo d’estivazione il periodo in cui l’azienda con pascoli comunitari o l’azienda d’estivazione in questione viene caricata con gli animali.[^6-6]
+<sup>3</sup> In aziende con pascoli comunitari e in aziende d’estivazione le persone soggette al servizio civile possono essere impiegate soltanto durante il periodo d’estivazione nonché per altri 14 giorni di servizio immediatamente prima e dopo. È considerato periodo d’estivazione il periodo in cui l’azienda con pascoli comunitari o l’azienda d’estivazione in questione viene caricata con gli animali.[^6-7]
 
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Nuovo testo giusta all’all. dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^6-4]: Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
-[^6-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^6-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^6-4]: Nuovo testo giusta all’all. dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^6-5]: Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 [^6-6]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-7]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -242,9 +252,11 @@ Nella produzione agricola la collaborazione da parte delle persone che prestano 
 
 <sup>2</sup> In particolare esse non possono essere impiegate, senza una formazione professionale, in lavori di esbosco nonché in lavori di abbattimento e di depezzatura effettuati con una motosega.
 
-<sup>3</sup> All’inizio del periodo d’impiego, l’istituto d’impiego controlla le capacità della persona che presta servizio civile e sorveglia le sue attività nella fase d’introduzione.
+<sup>3</sup> Alle persone che prestano servizio civile è vietato l’impiego di prodotti fitosanitari, fatta eccezione per i prodotti omologati secondo l’allegato 2 dell’ordinanza del 20 agosto 2025[^7a-2] sui prodotti fitosanitari (OPF) nonché per le sostanze di base secondo l’articolo 4 capoverso 2 lettera c OPF.[^7a-3]
 
 [^7a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^7a-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^7a-3]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ### Sezione 3: Programmi prioritari, impieghi speciali nonché impieghi in relazione a catastrofi e a situazioni d’emergenza
 
@@ -621,7 +633,7 @@ Durante la visita il medico di fiducia valuta:
 
 <sup>4</sup> Se in base agli esami effettuati o alla documentazione in suo possesso il medico di fiducia non è in grado di giungere a una valutazione definitiva, il CIVI dispone i necessari accertamenti supplementari.
 
-<sup>5</sup> Se il medico di fiducia è in grado di effettuare la valutazione di cui al capoverso 2 lettera a in base alla documentazione in suo possesso, la visita medica non è necessaria.
+<sup>5</sup> Se il medico di fiducia è in grado di effettuare la valutazione di cui al capoverso 2 in base alla documentazione in suo possesso, la visita medica non è necessaria.[^18-2]
 
 <sup>6</sup> Il medico di fiducia può essere un medico dell’ufficio competente del Servizio sanitario dell’esercito.
 
@@ -630,6 +642,7 @@ Durante la visita il medico di fiducia valuta:
 <sup>8</sup> Il CIVI può dichiarare durevolmente incapace al lavoro una persona soggetta al servizio civile che soffre di una malattia grave con decorso evolutivo o con manifestazioni periodiche che comportano ripetutamente periodi di incapacità al lavoro. Esso consulta a questo scopo un medico di fiducia.
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 19
 
@@ -674,7 +687,7 @@ Il CIVI applica gli articoli 25–31 dell’ordinanza del 22 novembre 2017[^20-2
 - b. nei casi previsti all’articolo 27 lettera d numero 1 OOPSM il CIVI tiene conto del numero di coloro che sono già stati esentati dall’obbligo di prestare servizio militare.
 
 [^20-1]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^20-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^20-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 21
 
@@ -685,7 +698,7 @@ Il CIVI applica gli articoli 25–31 dell’ordinanza del 22 novembre 2017[^20-2
 Le persone menzionate nell’articolo 18 capoverso 1 lettera c LM[^21-2] sono esonerate dal servizio civile dopo aver prestato servizio civile per una durata corrispondente a 1,5 volte la durata della scuola reclute. È preso in considerazione l’adempimento parziale della scuola reclute.
 
 [^21-1]: Nuovo testo giusta l’all. 7 n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 22
 
@@ -739,7 +752,7 @@ Una persona che presenta una domanda di ammissione al servizio civile al più ta
 - b. se è stata reclutata meno di quattro mesi prima della scuola reclute.[^24-3]
 
 [^24-1]: Introdotta dall’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Nuovo testo giusta la cifra III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
-[^24-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^24-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^24-3]: Introdotto dall’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 25
@@ -1043,7 +1056,7 @@ La scuola reclute è considerata adempiuta, se la persona soggetta al servizio c
 [^37-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^37-2]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-3]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^37-4]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^37-4]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^37-5]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-6]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-7]: Introdotto dalla cifra I dell’O del 10 dic. 2010 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
@@ -1374,7 +1387,7 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 
 <sup>5</sup> La persona soggetta al servizio civile che si sia recata all’estero senza un congedo e intenda rimanervi più di dodici mesi presenta al CIVI una domanda perché le sia accordata retroattivamente un’autorizzazione di congedo. Fino alla notifica dell’autorizzazione, il congedo chiesto retroattivamente è considerato come non accordato.
 
-[^48-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^48-2]: Introdotto dall’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^48-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^48-4]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
@@ -1397,7 +1410,7 @@ Le persone soggette al servizio civile che intendono chiedere il differimento de
 
 <sup>6</sup> Il CIVI informa la persona in questione in merito agli obblighi inerenti al congedo per l’estero e comunica, ove occorra, l’autorizzazione del congedo per l’estero alle autorità competenti in materia di tassa d’esenzione del Cantone di domicilio.[^49-4]
 
-[^49-1]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^49-1]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
 [^49-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^49-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^49-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
@@ -1731,7 +1744,7 @@ In caso di impiego all’estero, l’istituto d’impiego assume a proprio caric
 [^69-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^69-2]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^69-3]: Nuovo testo giusta la cifra I dell’O del 28 set. 1998, in vigore dal 1° nov. 1998 ([RU 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
-[^69-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^69-5]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 #### Art. 70
@@ -1828,7 +1841,7 @@ L’istituto d’impiego può, se le condizioni aziendali lo consentono, accorda
 
 <sup>1</sup> Chi presta servizio civile prende, se possibile, i suoi giorni di vacanza durante le vacanze annuali dell’istituto d’impiego.
 
-<sup>2</sup> e <sup>3</sup> ... [^73-1]
+<sup>2 e <sup>3</sup></sup> ... [^73-1]
 
 [^73-1]: Abrogati dalla cifra I dell’O del 10 dic. 2010, con effetto dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
@@ -1943,15 +1956,24 @@ La persona soggetta al servizio civile collabora ai rilevamenti statistici del C
 
 #### Art. 78
 
-**Introduzione da parte dell’istituto d’impiego**
+**Trasmissione delle conoscenze di base e garanzia della sicurezza sul lavoro da parte dell’istituto d’impiego**
 
-### (art. 48 cpv. 2 LSC)
+### (art. 48 cpv. 2 e 5 LSC)
 
 [^78-1]
 
-L’istituto d’impiego trasmette alla persona che presta servizio civile, fondandosi su un programma d’introduzione, le conoscenze di base pratiche e le capacità necessarie per svolgere correttamente, in maniera economica e senza causare danni l’attività prevista nella convocazione.
+<sup>1</sup> L’istituto d’impiego trasmette alla persona che presta servizio civile, fondandosi su un programma d’introduzione, le conoscenze di base pratiche e le capacità necessarie per svolgere correttamente, in maniera economica e senza causare danni l’attività prevista nella convocazione.
 
-[^78-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+<sup>2</sup> Istruisce precedentemente la persona che presta servizio civile sull’utilizzo corretto di veicoli, apparecchi e macchine pericolosi e sui rischi connessi.[^78-2]
+
+<sup>3</sup> Verifica all’inizio dell’impiego, ma al più tardi prima che la persona che presta servizio civile svolga l’attività in questione, se essa dispone delle formazioni e delle capacità richieste.[^78-3]
+
+<sup>4</sup> Si assicura che guidi o utilizzi correttamente i veicoli, gli apparecchi e le macchine pericolosi.[^78-4]
+
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-2]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-3]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-4]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 79
 
@@ -2213,7 +2235,7 @@ L’istituto richiedente illustra:
 - c. quali requisiti particolari richiesti alla persona che presta servizio civile dall’impiego secondo il mansionario devono essere verificati dal CIVI;
 - d. i compiti della persona che presta servizio civile che devono essere previsti dal mansionario.
 
-<sup>9</sup> Se l’istituto richiedente soddisfa i requisiti di cui all’articolo 4 capoverso 1 LSC, il mansionario può contenere compiti che non corrispondono agli ambiti d’attività di cui all’articolo 4 capoverso 1 LSC.
+<sup>9</sup> …[^87-2]
 
 <sup>10</sup> L’istituto richiedente dichiara, quale istituto d’impiego, di volere rispettare i diritti e gli obblighi secondo la LSC e le sue ordinanze d’esecuzione.
 
@@ -2222,18 +2244,58 @@ L’istituto richiedente illustra:
 <sup>12</sup> Le persone competenti del CIVI possono visitare gli istituti d’impiego.
 
 [^87-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87-2]: Abrogato dalla cifra I dell’O del 19 giu. 2026, con effetto dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 87a
 
-**Domanda presentata per via elettronica**
+**Eccezioni concernenti l’ambito d’attività**[^87a-1]
+
+### (art. 42 cpv. 2<sup>bis</sup> LSC)
+
+<sup>1</sup> Se l’istituto richiedente soddisfa i requisiti di cui all’articolo 4 capoverso 1 LSC, il mansionario può contenere compiti che non rientrano negli ambiti d’attività menzionati in tale disposizione. In tal caso, i compiti devono corrispondere per almeno il 50 per cento agli ambiti d’attività menzionati in tale disposizione.
+
+<sup>2</sup>
+
+Il CIVI può approvare i mansionari nei quali la quota di compiti corrispondente agli ambiti d’attività di cui all’articolo 4 capoverso 1 LSC è inferiore al 50 per cento se sono soddisfatte le seguenti condizioni:
+
+- a. l’istituto d’impiego svolge almeno ogni due anni impieghi nei quali la quota di compiti corrispondente agli ambiti d’attività di cui all’articolo 4 capoverso 1 LSC è almeno del 50 per cento;
+- b. l’istituto d’impiego è disposto a svolgere d’ufficio impieghi nei quali la quota di compiti corrispondenti agli ambiti d’attività di cui all’articolo 4 capoverso 1 LSC è inferiore al 50 per cento.
+
+<sup>3</sup> Può inoltre approvare i mansionari nei quali la quota di compiti corrispondente agli ambiti d’attività di cui all’articolo 4 capoverso 1 LSC è inferiore al 50 per cento se le convocazioni sono esclusivamente convocazioni d’ufficio.
+
+[^87a-1]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+
+#### Art. 87b
+
+**Domanda presentata per via elettronica**[^87b-1]
 
 ### (art. 41 cpv. 1 LSC)
 
-<sup>1</sup> L’istituto richiedente può presentare per via elettronica la sua domanda di riconoscimento quale istituto d’impiego. Conferma la presentazione della stessa inviando successivamente una dichiarazione originale, firmata a mano, secondo l’articolo 87 capoverso 10.[^87a-1]
+<sup>1</sup> L’istituto richiedente può presentare per via elettronica la sua domanda di riconoscimento quale istituto d’impiego. Conferma la presentazione della stessa inviando successivamente una dichiarazione originale, firmata a mano, secondo l’articolo 87 capoverso 10.[^87b-2]
 
 <sup>2</sup> Le proposte di modifica del riconoscimento non necessitano della dichiarazione di cui al capoverso 1.
 
-[^87a-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87b-1]: Originario art. 87*a*
+[^87b-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+
+#### Art. 87c
+
+**Sicurezza sul lavoro e protezione della salute delle persone che prestano servizio civile**[^87c-1]
+
+### (art. 48 cpv. 5 LSC)
+
+<sup>1</sup> L’istituto richiedente illustra nel quadro del riconoscimento in che modo garantisce la sicurezza sul lavoro e la protezione della salute delle persone che prestano servizio civile.
+
+<sup>2</sup> Comunica al CIVI i compiti che richiedono la guida di veicoli pericolosi o l’utilizzo di apparecchi o macchine pericolosi. Questi compiti vengono inseriti nei mansionari.
+
+<sup>3</sup>
+
+Se soddisfa le condizioni di cui all’articolo 4 capoverso 2 LSC o se gli impieghi nell’ambito d’attività «protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste» prevedono la guida di veicoli pericolosi o l’utilizzo di apparecchi o macchine pericolosi, deve:
+
+- a. essere affiliato a una soluzione settoriale certificata dalla Commissione federale di coordinamento per la sicurezza sul lavoro; e
+- b. garantire che le formazioni e i perfezionamenti raccomandati dal settore siano seguiti.
+
+[^87c-1]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 88
 
@@ -2267,13 +2329,14 @@ La decisione di riconoscimento contiene in particolare:
 
 <sup>2bis</sup> Esso limita inoltre la durata della decisione di riconoscimento in caso di impiego per la prevenzione di una catastrofe o di una situazione d’emergenza se le misure previste si riferiscono a un evento imminente.[^89-3]
 
-<sup>3</sup> Nella decisione di riconoscimento, il CIVI può prospettare all’istituto d’impiego una partecipazione della Confederazione alle spese d’introduzione (art. 37 LSC) e aiuti finanziari (art. 47 LSC).
+<sup>3</sup> Nella decisione di riconoscimento, il CIVI può prospettare all’istituto d’impiego una partecipazione della Confederazione alle spese d’introduzione (art. 37 LSC).[^89-4]
 
 <sup>4</sup> Se la domanda si riferiva a più istituti, ognuno di essi riceve una propria decisione.
 
 [^89-1]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^89-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^89-3]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^89-4]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026 (Attuazione della legge federale sul programma di sgravio 2027 delle finanze federali), in vigore dal 1° gen. 2027 ([RU 2026 391](https://fedlex.data.admin.ch/eli/oc/2026/391)).
 
 #### Art. 90
 
@@ -2297,7 +2360,10 @@ La decisione di riconoscimento contiene in particolare:
 
 <sup>2</sup> Il CIVI può esigere documenti e informazioni dall’istituto d’impiego.
 
+<sup>3</sup> Se l’istituto d’impiego è affiliato a una soluzione settoriale (art. 87*c* cpv. 3 lett. a), trasmette regolarmente al CIVI la prova che le formazioni e i perfezionamenti raccomandati (art. 87*c* cpv. 3 lett. b) sono stati seguiti.[^91-2]
+
 [^91-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^91-2]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 92
 
@@ -2311,32 +2377,33 @@ La decisione di riconoscimento contiene in particolare:
 
 <sup>2</sup> Il CIVI adegua la decisione di riconoscimento se lo richiede la sua verifica secondo l’articolo 91 o se cambia la cerchia degli istituti d’impiego soggetti al pagamento di tributi secondo l’articolo 46 LSC.
 
-<sup>3</sup> Il CIVI può revocare la decisione di riconoscimento se, per tre anni consecutivi, nell’istituto d’impiego non hanno avuto luogo impieghi o vi hanno avuto luogo soltanto impieghi a titolo di prova.
+<sup>3</sup> Il CIVI può revocare la decisione di riconoscimento se negli ultimi tre anni nell’istituto d’impiego sono stati prestati in media meno di 26 giorni di servizio.[^92-2]
 
 <sup>4</sup>
 
 Il CIVI revoca la decisione di riconoscimento se l’istituto d’impiego:
 
-- a.[^92-2] non adempie più una delle condizioni di riconoscimento di cui agli articoli 2–6 ed eventualmente 42 capoverso 2<sup>bis</sup> LSC;
+- a.[^92-3] non adempie più una delle condizioni di riconoscimento di cui agli articoli 2–6 ed eventualmente 42 capoverso 2<sup>bis</sup> LSC;
 - b. viola ripetutamente singoli obblighi imposti dalla legge o dalle relative ordinanze oppure dalla decisione di riconoscimento; o
-- c. non garantisce più, per altri motivi, l’esecuzione normale del servizio civile.[^92-3]
+- c. non garantisce più, per altri motivi, l’esecuzione normale del servizio civile.[^92-4]
 
-<sup>4bis</sup> Se il CIVI viene a conoscenza di circostanze che potrebbero causare la revoca del riconoscimento, esso può revocare le convocazioni a impieghi già ordinate, ma la cui entrata in servizio non ha ancora avuto luogo.[^92-4]
+<sup>4bis</sup> Se il CIVI viene a conoscenza di circostanze che potrebbero causare la revoca del riconoscimento, esso può revocare le convocazioni a impieghi già ordinate, ma la cui entrata in servizio non ha ancora avuto luogo.[^92-5]
 
-<sup>4ter</sup> Il CIVI procura immediatamente un nuovo impiego alla persona soggetta al servizio civile interessata da una revoca della convocazione.[^92-5]
+<sup>4ter</sup> Il CIVI procura immediatamente un nuovo impiego alla persona soggetta al servizio civile interessata da una revoca della convocazione.[^92-6]
 
 <sup>5</sup> La revoca è decisa per una data in cui tutti i periodi d’impiego in corso siano terminati.
 
 <sup>6</sup> Il CIVI può chiedere informazioni all’autorità cantonale competente preposta al mercato del lavoro e ad altri enti specializzati.
 
-<sup>7</sup> Un’istituzione la cui decisione di riconoscimento è stata revocata secondo il capoverso 4 lettere b o c può presentare una nuova domanda di riconoscimento quale istituto d’impiego al più presto cinque anni dopo che la decisione di revoca è passata in giudicato.[^92-6]
+<sup>7</sup> Un’istituzione la cui decisione di riconoscimento è stata revocata secondo il capoverso 4 lettere b o c può presentare una nuova domanda di riconoscimento quale istituto d’impiego al più presto cinque anni dopo che la decisione di revoca è passata in giudicato.[^92-7]
 
 [^92-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-3]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^92-4]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^92-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^92-4]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^92-5]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^92-6]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-7]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 ## Capitolo 9: Statuto dell’istituto d’impiego
 
@@ -2395,7 +2462,13 @@ Il CIVI può rinunciare, integralmente o in parte, a riscuotere i tributi se:
 
 - a. in un settore d’attività in una regione, l’offerta di posti d’impiego autorizzati copre meno del 50 per cento della domanda di possibilità d’impiego corrispondenti;
 - b. l’istituto d’impiego è un’azienda agricola il cui reddito non supera i 25 000 franchi all’anno;
-- c. ha proceduto a una convocazione d’ufficio (art. 31*a* cpv. 4) perché la persona che presta servizio civile non ha cooperato in maniera sufficiente per concludere una convenzione d’impiego; il CIVI deve essere giunto alla conclusione, sulla base del comportamento tenuto in precedenza dalla persona che presta servizio civile, che quest’ultima necessita di un’assistenza speciale e che l’onere supplementare che ciò comporta è particolarmente elevato;
+- c.[^96-2]
+
+  ha proceduto a una convocazione d’ufficio (art. 31*a* cpv. 4), e:
+
+  - 1\. l’istituto d’impiego è disposto a impiegare la persona soggetta al servizio civile senza un colloquio preliminare, o
+  - 2\. la quota dei compiti elencati nel mansionario corrispondente agli ambiti d’attività di cui all’articolo 4 capoverso 1 LSC è inferiore al 50 per cento;
+
 - d.
 
   la persona che presta servizio civile convocata è affetta da una malattia, purché precedentemente:
@@ -2403,7 +2476,7 @@ Il CIVI può rinunciare, integralmente o in parte, a riscuotere i tributi se:
   - 1\. abbia svolto un colloquio presso il CIVI, e
   - 2\. il CIVI sia giunto alla conclusione, dopo aver consultato l’istituto d’impiego, che la persona che presta servizio civile necessita di un’assistenza speciale e che l’onere supplementare che ciò comporta è particolarmente elevato;
 
-- e.[^96-2] si tratta di un impiego per la prevenzione o l’aiuto in caso di catastrofe o di una situazione d’emergenza o per la rigenerazione.
+- e.[^96-3] si tratta di un impiego per la prevenzione o l’aiuto in caso di catastrofe o di una situazione d’emergenza o per la rigenerazione.
 
 <sup>2</sup>
 
@@ -2412,52 +2485,21 @@ Il CIVI riscuote tuttavia i tributi:
 - a. se si tratta di comunità aziendali, anche se composte di aziende agricole il cui reddito individuale non supera i 25 000 franchi annui;
 - b. se si tratta di aziende con pascoli comunitari e di aziende d’estivazione formate da diversi gestori privati indipendenti.
 
-<sup>3</sup> Per calcolare il reddito di cui al capoverso 1 lettera b e al capoverso 2 lettera a il CIVI si basa sul reddito imponibile tassato secondo la legge federale del 14 dicembre 1990[^96-3] sull’imposta federale diretta, dedotti 50 000 franchi per i gestori coniugati, e maggiorato di 500 franchi per ogni 10 000 franchi di sostanza imponibile secondo l’ultima tassazione definitiva. Fanno stato i valori degli ultimi due anni fiscali che sono stati oggetto di una tassazione definitiva passata in giudicato fino al momento della presentazione della domanda di riconoscimento quale istituto d’impiego. Se questi risalgono a più di quattro anni prima, si prende in considerazione la tassazione provvisoria. Se questa è divenuta definitiva, si verifica l’assoggettamento.
+<sup>3</sup> Per calcolare il reddito di cui al capoverso 1 lettera b e al capoverso 2 lettera a il CIVI si basa sul reddito imponibile tassato secondo la legge federale del 14 dicembre 1990[^96-4] sull’imposta federale diretta, dedotti 50 000 franchi per i gestori coniugati, e maggiorato di 500 franchi per ogni 10 000 franchi di sostanza imponibile secondo l’ultima tassazione definitiva. Fanno stato i valori degli ultimi due anni fiscali che sono stati oggetto di una tassazione definitiva passata in giudicato fino al momento della presentazione della domanda di riconoscimento quale istituto d’impiego. Se questi risalgono a più di quattro anni prima, si prende in considerazione la tassazione provvisoria. Se questa è divenuta definitiva, si verifica l’assoggettamento.
+
+<sup>4</sup> Se l’istituto d’impiego soddisfa le condizioni di cui all’articolo 46 capoverso 3 lettera a LSC, il CIVI decide per quali mansionari rinuncia a riscuotere tributi. Limita la validità della decisione a un anno.[^96-5]
 
 [^96-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^96-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^96-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^96-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^96-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^96-4]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^96-5]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 97
 
-**Aiuto finanziario a favore dell’istituto d’impiego**
+[^97-1]
 
-### (art. 47 LSC)
-
-<sup>1</sup>
-
-Il CIVI può accordare un aiuto finanziario se l’istituto d’impiego, malgrado comprovati sforzi di risparmio, non è in grado di garantire integralmente il finanziamento di un progetto, l’attuazione dello stesso risulta pregiudicata senza un aiuto finanziario e il CIVI è particolarmente interessato alla sua realizzazione. Possono essere concessi aiuti finanziari soltanto a favore di:
-
-- a. progetti comprendenti lavori pratici nell’ambito d’attività «protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste»;
-- b. progetti nell’ambito d’attività «conservazione dei beni culturali».[^97-1]
-
-<sup>2</sup>
-
-L’istituto d’impiego presenta la domanda al CIVI con un anticipo sufficiente rispetto all’inizio del progetto in particolare con le indicazioni seguenti:[^97-2]
-
-- a. una descrizione completa del progetto;
-- b. un preventivo;
-- c. la dimostrazione che sono state prese tutte le misure ragionevoli per limitare i costi;
-- d.[^97-3] la prova che sono state valutate ed esaurite tutte le altre fonti di finanziamento;
-- e.[^97-4] un piano di finanziamento completo che informi anche sul fabbisogno finanziario ancora scoperto.
-
-<sup>3</sup> Il CIVI sottopone per parere la domanda al servizio competente della Confederazione o del Cantone interessato. Tale servizio valuta, all’attenzione del CIVI, la necessità, l’opportunità e l’economicità del progetto proposto.
-
-<sup>4</sup> L’aiuto finanziario della Confederazione contribuisce a colmare lo scoperto del fabbisogno finanziario del progetto. L’aiuto è accordato solo fino a concorrenza dell’ammontare delle spese causate dalla partecipazione al progetto di persone che prestano servizio civile.
-
-<sup>5</sup> Il contributo federale è determinato sulla base del preventivo approvato del progetto, in forma forfettaria per giorno di servizio e fissando un importo massimo dei costi. L’aiuto finanziario non deve eccedere la metà dei costi preventivati computabili del progetto. Non sono computabili i costi del progetto sorti prima della presentazione della domanda.[^97-5]
-
-<sup>6</sup> Il pagamento avviene sulla base dei giorni di servizio prestati.[^97-6]
-
-<sup>7</sup> L’istituto d’impiego riferisce regolarmente al CIVI in merito allo svolgimento del progetto. Al termine del progetto, gli presenta un rapporto e un conto finale.[^97-7]
-
-[^97-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-4]: Introdotta dalla cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-5]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-6]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-7]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^97-1]: Abrogato dalla cifra I dell’O del 19 giu. 2026 (Attuazione della legge federale sul programma di sgravio 2027 delle finanze federali), con effetto dal 1° gen. 2027 ([RU 2026 391](https://fedlex.data.admin.ch/eli/oc/2026/391)).
 
 #### Art. 97a
 
@@ -2736,12 +2778,12 @@ Il DEFR può, senza che occorra adeguare previamente la presente ordinanza, auto
 
 <sup>1</sup> Per l’emanazione di una convocazione d’ufficio (art. 31*a* cpv. 4) il CIVI riscuote una tassa.[^111b-3]
 
-<sup>2</sup> La tassa è calcolata in funzione del dispendio di tempo; tuttavia, essa non può eccedere i 540 franchi. Per ogni ora impiegata è fatturato un importo di 90 franchi.[^111b-4]
+<sup>2</sup> La tassa è calcolata in funzione del dispendio di tempo; tuttavia, essa non può eccedere i 660 franchi. Per ogni ora impiegata è fatturato un importo di 110 franchi.[^111b-4]
 
-[^111b-1]: Introdotto n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
+[^111b-1]: Introdotto cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
 [^111b-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^111b-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^111b-4]: Nuovo testo giusta la cifra I dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^111b-4]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 111c
 
@@ -2751,8 +2793,8 @@ Il DEFR può, senza che occorra adeguare previamente la presente ordinanza, auto
 
 Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^111c-2] sugli emolumenti.
 
-[^111c-1]: Introdotto n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
-[^111c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^111c-1]: Introdotto cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
+[^111c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Capitolo 13: Disposizioni transitorie
 
@@ -2836,7 +2878,7 @@ Per le persone che sono state ammesse al servizio civile prima dell’entrata in
 
 [^118bis-1]
 
-[^118bis-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dalla cifra IV 41 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^118bis-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dalla cifra IV n. 41 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 118<sup>ter</sup>
 
@@ -2875,7 +2917,19 @@ Per le persone che sono state ammesse al servizio civile prima dell’entrata in
 <sup>2</sup> Le persone soggette al servizio civile possono essere ancora impiegate nel 2026 e nel 2027 secondo l’articolo 6 capoverso 1 lettera a numero 5 del diritto anteriore.
 
 [^118b-1]: Introdotto dall’all. dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^118b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^118b-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+
+#### Art. 118c
+
+**Disposizioni transitorie della modifica del 19 giugno 2026**[^118c-1]
+
+<sup>1</sup> Entro i tre anni successivi all’entrata in vigore della modifica del 19 giugno 2026 il CIVI adegua i mansionari degli istituti d’impiego riconosciuti in base al diritto anteriore e verifica se sono soddisfatte le condizioni di riconoscimento di cui all’articolo 87*c*.
+
+<sup>2</sup> Se per un istituto d’impiego la categoria di cui all’Appendice 2*a* deve essere ridefinita in seguito alla modifica del 19 giugno 2026, l’istituto d’impiego paga il tributo fissato in base alla categoria precedente fino al passaggio in giudicato della modifica della decisione di riconoscimento. Per gli impieghi concordati prima dell’entrata in vigore della modifica si applicano le tariffe di cui all’Appendice 2*a* del diritto anteriore.
+
+<sup>3</sup> …
+
+[^118c-1]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027, il cpv. 3 dal 1° gen 2028 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ## Capitolo 14: Entrata in vigore
 
@@ -2893,7 +2947,7 @@ Appendice 1[^t-1]
 
 ## Numero massimo di persone che prestano servizio civile in un istituto d’impiego
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aggiornato dai n. II delle O del 15 nov. 2017 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aggiornato dai cifra II delle O del 15 nov. 2017 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 
 ### 1. Principio
 
@@ -2947,7 +3001,7 @@ Negli istituti d’impiego con più di 60 posti a tempo pieno, il numero massimo
 <tr><td></td><td>≥300</td><td>5</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 3. Regola di calcolo del numero massimo di impieghi di gruppo speciali in aziende con pascoli comunitari e aziende d’estivazione
 
@@ -3005,37 +3059,36 @@ Appendice 2a[^t-3]
 
 ## Ammontare dei tributi in funzione del salario lordo
 
-[^t-3]: Introdotta dalla cifra III cpv. 2 dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra II dell’O del 20 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+[^t-3]: Introdotta dalla cifra III cpv. 2 dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nuovo testo giusta la cifra II dell’O del 19 giu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ### 1. Tariffa di base
 
 <table>
-<tr><td>Categoria</td><td>Salario lordo mensile paragonabile in franchi\*</td><td>Tributo in %</td><td colspan="2">Importo giornaliero in franchi\*\*</td></tr>
-<tr><td>0</td><td></td><td></td><td colspan="2">Esenzione</td></tr>
-<tr><td>1</td><td>da 0 a 2874.–</td><td></td><td colspan="2">9,50</td></tr>
-<tr><td>2</td><td>da 2875.– a 3449.–</td><td>12,42</td><td colspan="2">11,90</td></tr>
-<tr><td>3</td><td>da 3450.– a 4024.–</td><td>12,43</td><td colspan="2">14,30</td></tr>
-<tr><td>4</td><td>da 4025.– a 4599.–</td><td>13,49</td><td colspan="2">18,10</td></tr>
-<tr><td>5</td><td>da 4600.– a 5174.–</td><td>15,52</td><td colspan="2">23,80</td></tr>
-<tr><td>6</td><td>da 5175.– a 5749.–</td><td>17,62</td><td colspan="2">30,40</td></tr>
-<tr><td>7</td><td>da 5750.– a 6324.–</td><td>19,67</td><td colspan="2">37,70</td></tr>
-<tr><td>8</td><td>da 6325.– a 6899.–</td><td>21,77</td><td colspan="2">45,90</td></tr>
-<tr><td>9</td><td>da 6900.– a 7474.–</td><td>23,83</td><td colspan="2">54,80</td></tr>
-<tr><td>10</td><td>da 7475.– a 8049.–</td><td>25,89</td><td colspan="2">64,50</td></tr>
-<tr><td>11</td><td>da 8050.– a 8624.–</td><td>25,86</td><td colspan="2">69,40</td></tr>
-<tr><td>12</td><td>da 8625.– a 9199.–</td><td>25,91</td><td colspan="2">74,50</td></tr>
-<tr><td>13</td><td>da 9200.–</td><td></td><td colspan="2">79,40</td></tr>
-<tr><td colspan="4">\* Salario lordo usuale nel luogo e nella professione che l’istituto d’impiego dovrebbe versare a un lavoratore per un’attività paragonabile.</td></tr>
-<tr><td colspan="4">\*\* Il tributo per giorno di servizio (importo giornaliero) è calcolato moltiplicando il salario lordo mensile paragonabile per la percentuale del tributo e dividendo il prodotto per 30 giorni. All’interno di ogni categoria vale un importo giornaliero uniforme che è calcolato sulla base del salario più basso della rispettiva categoria.</td></tr>
+<tr><th>Categoria</th><th>Salario lordo mensile paragonabile in franchi\*</th><th>Tributo in %</th><th>Importo giornaliero in franchi\*\*</th></tr>
+<tr><td>0</td><td></td><td></td><td>Esenzione</td></tr>
+<tr><td>1</td><td>da 0 a 3089.–</td><td></td><td>10.20</td></tr>
+<tr><td>2</td><td>da 3090.– a 3708.–</td><td>12,42</td><td>12.80</td></tr>
+<tr><td>3</td><td>da 3709.– a 4326.–</td><td>12,43</td><td>15.40</td></tr>
+<tr><td>4</td><td>da 4327.– a 4944.–</td><td>13,48</td><td>19.40</td></tr>
+<tr><td>5</td><td>da 4945.– a 5562.–</td><td>15,52</td><td>25.60</td></tr>
+<tr><td>6</td><td>da 5563.– a 6180.–</td><td>17,62</td><td>32.70</td></tr>
+<tr><td>7</td><td>da 6181.– a 6798.–</td><td>19,67</td><td>40.50</td></tr>
+<tr><td>8</td><td>da 6799.– a 7416.–</td><td>21,77</td><td>49.30</td></tr>
+<tr><td>9</td><td>da 7417.– a 8034.–</td><td>23,83</td><td>58.90</td></tr>
+<tr><td>10</td><td>da 8035.– a 8653.–</td><td>25,89</td><td>69.30</td></tr>
+<tr><td>11</td><td>da 8654.– a 9271.–</td><td>25,86</td><td>74.60</td></tr>
+<tr><td>12</td><td>da 9272.– a 9889.–</td><td>25,91</td><td>80.10</td></tr>
+<tr><td>13</td><td>da 9890.–</td><td></td><td>85.40</td></tr>
+<tr><td colspan="4">\* Salario lordo usuale nel luogo e nella professione che l’istituto d’impiego dovrebbe versare a un lavoratore per un’attività paragonabile. \*\* Il tributo per giorno di servizio (importo giornaliero) è calcolato moltiplicando il salario lordo mensile paragonabile per la percentuale del tributo e dividendo il prodotto per 30 giorni. All’interno di ogni categoria vale un importo giornaliero uniforme che è calcolato sulla base del salario più basso della rispettiva categoria.</td></tr>
 </table>
 
 ### 2. Supplementi
 
 L’importo giornaliero aumenta per ogni giorno di servizio di:
 
-- a. 12,20 franchi se l’istituto d’impiego non offre il vitto e l’alloggio alla persona che presta servizio civile;
-- b. 8,20 franchi se esso le offre soltanto il vitto;
-- c. 3,90 franchi se esso le offre soltanto l’alloggio.
+- a. 12.20 franchi se l’istituto d’impiego non offre il vitto e l’alloggio alla persona che presta servizio civile;
+- b. 8.20 franchi se esso le offre soltanto il vitto;
+- c. 3.90 franchi se esso le offre soltanto l’alloggio.
 
 Appendice 3
 

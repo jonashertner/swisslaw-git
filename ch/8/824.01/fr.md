@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 1996 sur le service civil (OSCi)
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20260101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/fr"
 
 (OSCi[^t-1])
 
-du 11 septembre 1996 (État le 1<sup>er</sup> janvier 2026)
+du 11 septembre 1996 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: [RO 1996 2974](https://fedlex.data.admin.ch/eli/oc/1996/2974_2974_2974)
 
@@ -27,11 +27,11 @@ vu l’art. 79, al. 1, de la loi fédérale du 6 octobre 1995 sur le service civ
 
 arrête:
 
-[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^ingress-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-5]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^ingress-4]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-5]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 [^ingress-6]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
 
 ## Chapitre 1 Organisation
@@ -46,7 +46,7 @@ arrête:
 
 <sup>2</sup> …[^1-3]
 
-[^1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3083](https://fedlex.data.admin.ch/eli/oc/2000/557)).
 [^1-3]: Abrogé par le ch. II 88 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -103,31 +103,41 @@ Ne sont pas d’utilité publique les institutions:
 
 #### Art. 4
 
-**Activités exclues**[^4-1]
+**Activités interdites**[^4-1]
 
-### (art. 4 à 6 et 43, al. 2, LSC)
+### (art. 42, al. 2, LSC)
+
+[^4-2]
 
 <sup>1</sup> Les personnes astreintes au service civil (personnes astreintes) ne peuvent exercer dans l’établissement d’affectation aucune activité qui serve directement la politique défendue par l’établissement d’affectation ou qui vise en fin de compte à influencer l’exercice des droits politiques des Suisses.
 
 <sup>2</sup> Elles ne peuvent se charger, dans l’établissement, de contentieux où les autorités pourraient être mises en cause.
 
-<sup>2bis</sup> En cas d’affectation dans le domaine d’activité «instruction publique, de l’école enfantine au degré secondaire II», elles ne peuvent assumer la responsabilité du cours en tant qu’enseignant.[^4-2]
+<sup>2bis</sup> En cas d’affectation dans le domaine d’activité «instruction publique, de l’école enfantine au degré secondaire II», elles ne peuvent assumer la responsabilité du cours en tant qu’enseignant.[^4-3]
 
-<sup>3</sup> Elles peuvent consacrer, au cours d’une affectation, au maximum la moitié de leur temps à du travail administratif de soutien ou à une activité d’artisan qualifié.
+<sup>2ter</sup> Elles ne peuvent être affectées à des tâches d’informatique, de gestion du personnel, de communication, de marketing ou de service dans la restauration.[^4-4]
+
+<sup>2quater</sup> Les tâches d’informatique lors d’affectations à la maîtrise de catastrophes ou de situations d’urgence sont réservées.[^4-5]
+
+<sup>3</sup> Les personnes astreintes peuvent consacrer, au cours d’une affectation, au maximum la moitié de leur temps à du travail administratif de soutien ou à une activité d’artisan qualifié.[^4-6]
 
 <sup>4</sup>
 
 La limitation de la part du travail administratif n’est pas applicable:
 
 - a. lorsque l’état de santé de la personne astreinte le requiert;
-- b.[^4-3] lors d’affectations spéciales, lors d’affectations à la prévention ou à la maîtrise de catastrophes ou de situations d’urgence ou lors d’affectations au rétablissement après de tels événements;
-- b<sup>bis</sup>.[^4-4] …
+- b.[^4-7] lors d’affectations spéciales, lors d’affectations à la prévention ou à la maîtrise de catastrophes ou de situations d’urgence ou lors d’affectations au rétablissement après de tels événements;
+- b<sup>bis</sup>.[^4-8] …
 - c. lors d’affectations auprès du CIVI.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^4-2]: Introduit par le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^4-4]: Introduite par le ch. I de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Abrogée par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-3]: Introduit par le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^4-4]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-5]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-7]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-8]: Introduite par le ch. I de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Abrogée par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 4a
 
@@ -171,9 +181,9 @@ Peuvent exercer une influence sur l’affectation:
 <sup>3</sup> Les exploitations de pâturages communautaires et les exploitations d’estivage doivent être reconnues selon les règles fixées à l’art. 29*a* OTerm et compter dix pâquiers normaux au moins. Cette taille ne doit pas nécessairement être atteinte pour les projets visés à l’art. 6, al. 1, let. c.[^5-5]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^5-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^5-3]: Nouvelle teneur selon l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
@@ -190,25 +200,26 @@ Le CIVI affecte les personnes astreintes:
 
   dans des exploitations agricoles, dans le cadre de projets ou programmes:
 
-  - 1\. pour l’aménagement et l’entretien de surfaces de promotion de la biodiversité donnant droit à des contributions au sens de l’art. 55 OPD[^6-2],
+  - 1\.[^6-2] pour l’aménagement et l’entretien de surfaces de promotion de la biodiversité donnant droit à des contributions au sens de l’art. 55 OPD[^6-3], et pour l’amélioration de la qualité des surfaces de promotion de la biodiversité au sens de l’art. 59 OPD,
   - 2\. pour l’exploitation de surfaces en pente et en forte pente au sens des art. 43 et 44 OPD,
   - 3\. pour des travaux de protection et d’entretien de pâturages et de surfaces relevant de la protection de la nature au sens de l’art. 29 OPD,
   - 4\. pour la lutte contre les plantes posant des problèmes au sens de l’art. 32, al. 1, OPD,
-  - 5\.[^6-3] pour l’exécution de projets de promotion de la biodiversité régionale et de la qualité du paysage au sens de l’art. 78 OPD;
+  - 5\.[^6-4] pour l’exécution de projets de promotion de la biodiversité régionale et de la qualité du paysage au sens de l’art. 78 OPD;
 
 - b. dans des exploitations agricoles qui mènent à bien des projets ou programmes visés à la let. a, pour des travaux dans le domaine d’activité «protection de la nature et de l’environnement, entretien du paysage et forêt»;
-- c.[^6-4] …
+- c.[^6-5] …
 
-<sup>2</sup> Le DEFR détermine combien de jours de service par année une personne en service peut accomplir dans les exploitations agricoles. Il se fonde à cet effet notamment sur la dimension des surfaces visées à l’al. 1, let. a, ch. 1 et 2, et sur le montant des contributions au titre des mesures visées à l’al. 1, let. a, ch 5.[^6-5]
+<sup>2</sup> Le DEFR détermine combien de jours de service par année une personne en service peut accomplir dans les exploitations agricoles. Il se fonde à cet effet notamment sur la dimension des surfaces visées à l’al. 1, let. a, ch. 1 et 2, et sur le montant des contributions au titre des mesures visées à l’al. 1, let. a, ch 5.[^6-6]
 
-<sup>3</sup> Les personnes astreintes ne peuvent être affectées dans des exploitations de pâturages communautaires ou d’estivage que pendant la période d’estivage, ainsi que les 14 jours qui précèdent cette période et les 14 jours qui la suivent. Par période d’estivage, on entend la période pendant laquelle ces exploitations accueillent le bétail estivé.[^6-6]
+<sup>3</sup> Les personnes astreintes ne peuvent être affectées dans des exploitations de pâturages communautaires ou d’estivage que pendant la période d’estivage, ainsi que les 14 jours qui précèdent cette période et les 14 jours qui la suivent. Par période d’estivage, on entend la période pendant laquelle ces exploitations accueillent le bétail estivé.[^6-7]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Nouvelle teneur selon l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^6-4]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
-[^6-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^6-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^6-4]: Nouvelle teneur selon l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^6-5]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 [^6-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-7]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -244,10 +255,11 @@ La collaboration de la personne en service à la production agricole est admise:
 
 <sup>2</sup> Les personnes en service ne peuvent être affectées sans formation professionnelle à des travaux de débardage, d’abattage ou de débitage nécessitant une tronçonneuse.
 
-<sup>3</sup> Au début de l’affectation de la personne en service, l’établissement d’affectation contrôle ses capacités et supervise ses activités lors de la phase d’initiation.[^7a-2]
+<sup>3</sup> Il est interdit aux personnes astreintes d’utiliser des produits phytosanitaires, à l’exception des produits phytosanitaires homologués en vertu de l’annexe 2 de l’ordonnance du 20 août 2025 sur les produits phytosanitaires (OPPh)[^7a-2] et des substances de base au sens de l’art. 4, al. 2, let. c, OPPh.[^7a-3]
 
 [^7a-1]: Introduit par le ch. I de l’O du 6 mars 2009, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
-[^7a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^7a-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^7a-3]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ### Section 3 Programmes prioritaires, affectations spéciales et affectations en cas de catastrophe et de situation d’urgence
 
@@ -612,7 +624,7 @@ Pour décider de l’exclusion du service civil ou de l’interdiction d’accom
 
 ### (art. 11, al. 3, let. a et b, et 33 LSC)
 
-<sup>1</sup> Le CIVI peut faire examiner la personne astreinte par un médecin-conseil lorsqu’elle a déposé une demande de libération avant terme motivée accompagnée des annexes nécessaires ou sur convocation d’office.
+<sup>1</sup> Le CIVI peut faire examiner la personne astreinte par un médecin-conseil d’office ou lorsque celle-ci a déposé une demande de libération avant terme motivée accompagnée des annexes nécessaires.[^18-2]
 
 <sup>2</sup>
 
@@ -626,7 +638,7 @@ Le médecin-conseil détermine lors de l’examen:
 
 <sup>4</sup> Si le médecin-conseil n’est pas en mesure de faire une évaluation définitive sur la base des examens qu’il a menés ou sur la base du dossier, le CIVI demande les examens supplémentaires nécessaires.
 
-<sup>5</sup> Si le médecin-conseil est en mesure de procéder à l’évaluation visée à l’al. 2, let. a, sur la base du dossier, il n’est pas tenu d’examiner personnellement la personne astreinte.
+<sup>5</sup> Si le médecin-conseil est en mesure de procéder à l’évaluation visée à l’al. 2 sur la base du dossier, il n’est pas tenu d’examiner personnellement la personne astreinte.[^18-3]
 
 <sup>6</sup> Le médecin-conseil peut être un médecin du service compétent du Service sanitaire de l’armée.
 
@@ -635,6 +647,8 @@ Le médecin-conseil détermine lors de l’examen:
 <sup>8</sup> Le CIVI peut déclarer qu’une personne astreinte est en incapacité de travail durable lorsqu’elle souffre d’une maladie grave évoluant par poussées ou survenant périodiquement, provoquant du même coup des périodes d’incapacité de travail. Il est tenu à cet effet de faire appel à un médecin-conseil.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 19
 
@@ -679,7 +693,7 @@ Le CIVI applique les art. 25 à 31 de l’ordonnance du 22 novembre 2017 sur les
 - b. dans les cas prévus par l’art. 27, let. d, ch. 1, OMi, le CIVI tient compte du nombre de personnes déjà exemptées du service militaire.
 
 [^20-1]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^20-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^20-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 21
 
@@ -690,7 +704,7 @@ Le CIVI applique les art. 25 à 31 de l’ordonnance du 22 novembre 2017 sur les
 Les personnes mentionnées à l’art. 18, al. 1, let. c, LAAM[^21-2], sont exemptées du service civil après avoir accompli du service civil pour une durée équivalant à 1,5 fois celle de l’école de recrues. L’accomplissement partiel de l’école de recrues est pris en compte.
 
 [^21-1]: Nouvelle teneur selon l’annexe 7 ch. 3 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 22
 
@@ -744,7 +758,7 @@ Le requérant qui dépose une demande d’admission au service civil au plus tar
 - b. dans la mesure où il a été recruté moins de quatre mois avant l’école de recrues.[^24-3]
 
 [^24-1]: Introduite par l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Nouvelle teneur selon le ch. III de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
-[^24-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^24-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^24-3]: Introduit par l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 25
@@ -1048,7 +1062,7 @@ L’école de recrues est réputée accomplie lorsque la personne astreinte au s
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^37-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-3]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^37-4]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^37-4]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^37-5]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-6]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-7]: Introduit par le ch. I de l’O du 10 déc. 2010 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogé par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
@@ -1386,7 +1400,7 @@ La personne astreinte qui souhaite obtenir un report de service adresse au CIVI 
 
 <sup>5</sup> La personne astreinte qui s’est rendue à l’étranger sans congé et veut y rester plus de douze mois dépose auprès du CIVI une demande en vue de l’approbation rétroactive du congé à l’étranger. Jusqu’à la notification de l’autorisation, le congé demandé rétroactivement n’est pas considéré comme accordé.
 
-[^48-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^48-2]: Introduit par l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^48-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^48-4]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
@@ -1409,7 +1423,7 @@ La personne astreinte qui souhaite obtenir un report de service adresse au CIVI 
 
 <sup>6</sup> Le CIVI informe la personne concernée de ses obligations liées à un congé à l’étranger et communique, si nécessaire, l’autorisation de congé aux autorités du canton de domicile compétentes en matière de taxe d’exemption de l’obligation de servir.[^49-4]
 
-[^49-1]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^49-1]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
 [^49-2]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^49-3]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^49-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
@@ -1746,7 +1760,7 @@ Dans le cadre des affectations à l’étranger, l’établissement d’affectat
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^69-2]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^69-3]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 1998, en vigueur depuis le 1<sup>er</sup> nov. 1998 ([RO 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
-[^69-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^69-5]: Introduit par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 #### Art. 70
@@ -1846,7 +1860,7 @@ L’établissement d’affectation peut, lorsque son exploitation le permet, acc
 
 <sup>1</sup> La personne en service prend si possible ses jours de vacances pendant les vacances annuelles de l’établissement d’affectation.
 
-<sup>2</sup> et <sup>3</sup> …[^73-1]
+<sup>2 et <sup>3</sup></sup> …[^73-1]
 
 [^73-1]: Abrogés par le ch. I de l’O du 10 déc. 2010, avec effet au 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
@@ -1964,15 +1978,24 @@ La personne astreinte collabore à l’établissement des statistiques par le CI
 
 #### Art. 78
 
-**Initiation assurée par l’établissement d’affectation**
+**Transmission des connaissances de base et sécurité au travail assurées par l’établissement d’affectation**
 
-### (art. 48, al. 2, LSC)
+### (art. 48, al. 2 à 5, LSC)
 
 [^78-1]
 
-L’établissement d’affectation transmet, sur la base d’un programme d’introduction, les connaissances pratiques et les capacités dont la personne en service a besoin pour effectuer correctement et de manière rentable les activités mentionnées dans la convocation, sans causer de dommages.
+<sup>1</sup> L’établissement d’affectation transmet, sur la base d’un programme d’introduction, les connaissances pratiques et les capacités dont la personne en service a besoin pour effectuer correctement et de manière rentable les activités mentionnées dans la convocation, sans causer de dommages.
 
-[^78-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+<sup>2</sup> Il instruit au préalable la personne en service sur l’utilisation correcte des véhicules, appareils et machines dangereux et des risques qui en découlent.[^78-2]
+
+<sup>3</sup> Il vérifie au début de l’affectation, mais au plus tard avant que la personne en service effectue l’activité en question, si la personne dispose des formations et capacités requises.[^78-3]
+
+<sup>4</sup> Il veille à ce qu’elle conduise ou utilise correctement les véhicules, appareils et machines dangereux.[^78-4]
+
+[^78-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-2]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-3]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-4]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 79
 
@@ -2237,7 +2260,7 @@ L’institution requérante signale:
 - c. les exigences particulières, spécifiées dans le cahier des charges de la personne en service, qui doivent être vérifiées par le CIVI;
 - d. les tâches des personnes en service qui doivent être inscrites dans le cahier des charges.
 
-<sup>9</sup> Si l’institution requérante remplit les exigences prévues à l’art. 4, al. 1, LSC, le cahier des charges peut contenir des tâches qui ne correspondent pas aux domaines d’activité visés à l’art. 4, al. 1, LSC.
+<sup>9</sup> …[^87-2]
 
 <sup>10</sup> L’institution requérante exprime sa volonté de respecter, en sa qualité d’établissement d’affectation, les droits et obligations définis par la LSC et ses ordonnances d’exécution.
 
@@ -2246,19 +2269,58 @@ L’institution requérante signale:
 <sup>12</sup> Les personnes compétentes du CIVI peuvent visiter les établissements d’affectation.
 
 [^87-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87-2]: Abrogé par le ch. I de l’O du 19 juin 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 87a
 
-**Dépôt de la demande par voie électronique**[^87a-1]
+**Exceptions concernant le domaine d’activité**[^87a-1]
+
+### (art. 42, al. 2<sup>bis</sup>, LSC)
+
+<sup>1</sup> Si l’institution requérante remplit les exigences de l’art. 4, al. 1, LSC, le cahier des charges peut contenir des tâches qui ne correspondent pas aux domaines d’activité qui y sont mentionnés. Le cas échéant, au moins 50 % des tâches doivent correspondre aux domaines d’activité mentionnés.
+
+<sup>2</sup>
+
+Le CIVI peut approuver les cahiers des charges dont la part de tâches correspondant aux domaines d’activité visés à l’art. 4, al. 1, LSC est inférieure à 50 % si les conditions suivantes sont remplies:
+
+- a. l’établissement d’affectation mène au moins tous les deux ans des affectations dont la part des tâches correspondant aux domaines d’activité visés à l’art. 4, al. 1, LSC est d’au moins 50 %;
+- b. l’établissement d’affectation est disposé à mener d’office les affectations dont la part des tâches correspondant aux domaines d’activité visés à l’art. 4, al. 1, LSC est inférieure à 50 %.
+
+<sup>3</sup> Il peut également approuver les cahiers des charges dont la part des tâches correspondant aux domaines d’activité visés à l’art. 4, al. 1, LSC est inférieure à 50 % si les convocations prennent exclusivement la forme d’une convocation d’office.
+
+[^87a-1]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+
+#### Art. 87b
+
+**Dépôt de la demande par voie électronique**[^87b-1]
 
 ### (art. 41, al. 1, LSC)
 
-<sup>1</sup> L’institution requérante peut déposer sa demande de reconnaissance par voie électronique. Elle confirme le dépôt de sa demande par l’envoi, en original, de la déclaration prévue à l’art. 87, al. 10, signée à la main.[^87a-2]
+<sup>1</sup> L’institution requérante peut déposer sa demande de reconnaissance par voie électronique. Elle confirme le dépôt de sa demande par l’envoi, en original, de la déclaration prévue à l’art. 87, al. 10, signée à la main.[^87b-2]
 
 <sup>2</sup> Les demandes de modification des décisions de reconnaissance ne nécessitent pas la confirmation écrite prévue à l’al. 1.
 
-[^87a-1]: Introduit par le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^87a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87b-1]: Anciennement art. 87*a*. Introduit par le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
+[^87b-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+
+#### Art. 87c
+
+**Sécurité au travail et protection de la santé des personnes en service**[^87c-1]
+
+### (art. 48, al. 5, LSC)
+
+<sup>1</sup> L’institution requérante expose pendant la procédure de reconnaissance la manière dont elle garantit la sécurité au travail et la protection de la santé des personnes en service.
+
+<sup>2</sup> Elle communique au CIVI les tâches nécessitant de conduire des véhicules dangereux ou d’utiliser des appareils ou machines dangereux. Ces tâches sont inscrites dans les cahiers des charges.
+
+<sup>3</sup>
+
+Si elle remplit les exigences de l’art. 4, al. 2, LSC ou que la conduite de véhicules dangereux ou l’utilisation d’appareils ou machines dangereux est prévue pendant des affectations dans le domaine d’activité «protection de la nature et de l’environnement, entretien du paysage et forêt», elle doit:
+
+- a. être affiliée à une solution par branche certifiée par la Commission fédérale de coordination pour la sécurité au travail, et
+- b. garantir que les formations et formations continues recommandées par la branche sont suivies.
+
+[^87c-1]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 88
 
@@ -2294,7 +2356,7 @@ La décision de reconnaissance comporte notamment:
 
 <sup>2bis</sup> Il limite également la durée de validité de la décision de reconnaissance lorsqu’elle porte sur une affectation à la prévention d’une catastrophe ou d’une situation d’urgence, pour autant que les mesures prévues se rapportent à un événement imminent.[^89-4]
 
-<sup>3</sup> Dans la décision de reconnaissance d’un établissement d’affectation, il peut envisager une participation de la Confédération aux coûts de l’initiation (art. 37 LSC), ainsi qu’une aide financière (art. 47 LSC).[^89-5]
+<sup>3</sup> Dans la décision de reconnaissance d’un établissement d’affectation, il peut envisager une participation de la Confédération aux coûts de l’initiation (art. 37 LSC).[^89-5]
 
 <sup>4</sup> Lorsqu’une même demande concerne plusieurs institutions, chacune d’elles reçoit une décision.
 
@@ -2302,7 +2364,7 @@ La décision de reconnaissance comporte notamment:
 [^89-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^89-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^89-4]: Introduit par le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^89-5]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^89-5]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026 (Mise en œuvre de la loi fédérale sur le programme d’allégement budgétaire 2027), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 391](https://fedlex.data.admin.ch/eli/oc/2026/391)).
 
 #### Art. 90
 
@@ -2328,8 +2390,11 @@ La décision de reconnaissance comporte notamment:
 
 <sup>2</sup> Il peut réclamer des documents et des renseignements à l’établissement d’affectation.
 
+<sup>3</sup> Si l’établissement d’affectation est affilié à une solution par branche (art. 87*c*, al. 3, let. a), il transmet régulièrement au CIVI la preuve que les formations et formations continues recommandées (art. 87*c*, al. 3, let. b) ont été suivies.[^91-3]
+
 [^91-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^91-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^91-3]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 92
 
@@ -2343,34 +2408,35 @@ La décision de reconnaissance comporte notamment:
 
 <sup>2</sup> Il modifie la décision de reconnaissance si son examen, prévu par l’art. 91, l’exige ou si le cercle des établissements d’affectation qui ont l’obligation de payer une contribution en vertu de l’art. 46 LSC est modifié.[^92-3]
 
-<sup>3</sup> Il peut révoquer la décision de reconnaissance lorsque aucune affectation n’a eu lieu dans l’établissement d’affectation pendant trois années consécutives ou que seules des périodes d’affectation à l’essai ont eu lieu.
+<sup>3</sup> Il peut révoquer la décision de reconnaissance lorsque moins de 26 jours de service ont été accomplis en moyenne dans l’établissement d’affectation pendant les trois années précédentes.[^92-4]
 
 <sup>4</sup>
 
 Il révoque la décision de reconnaissance lorsque l’établissement d’affectation:
 
-- a.[^92-4] ne remplit plus une des conditions visées aux art. 2 à 6 et, le cas échéant, 42, al. 2<sup>bis</sup>, LSC;
+- a.[^92-5] ne remplit plus une des conditions visées aux art. 2 à 6 et, le cas échéant, 42, al. 2<sup>bis</sup>, LSC;
 - b. enfreint de manière répétée certaines obligations que la LSC, les ordonnances qui s’y rapportent ou la décision de reconnaissance lui imposent, ou
-- c. ne garantit plus, pour d’autres motifs, l’exécution normale du service civil.[^92-5]
+- c. ne garantit plus, pour d’autres motifs, l’exécution normale du service civil.[^92-6]
 
-<sup>4bis</sup> Si le CIVI est informé de circonstances qui pourraient entraîner la révocation de la reconnaissance, il peut révoquer les convocations à des affectations déjà ordonnées mais dont l’entrée en service n’a pas encore eu lieu.[^92-6]
+<sup>4bis</sup> Si le CIVI est informé de circonstances qui pourraient entraîner la révocation de la reconnaissance, il peut révoquer les convocations à des affectations déjà ordonnées mais dont l’entrée en service n’a pas encore eu lieu.[^92-7]
 
-<sup>4ter</sup> Le CIVI procure immédiatement une nouvelle affectation à la personne astreinte au service civil concernée par une révocation de la convocation.[^92-7]
+<sup>4ter</sup> Le CIVI procure immédiatement une nouvelle affectation à la personne astreinte au service civil concernée par une révocation de la convocation.[^92-8]
 
 <sup>5</sup> La révocation sera prononcée au moment où toutes les périodes d’affectation en cours prennent fin.
 
 <sup>6</sup> Le CIVI peut demander des renseignements complémentaires aux autorités cantonales de l’emploi et à d’autres institutions spécialisées.
 
-<sup>7</sup> Une institution dont la décision de reconnaissance a été révoquée sur la base de l’al. 4, let. b ou c, peut présenter une nouvelle demande de reconnaissance en tant qu’établissement d’affectation au plus tôt cinq ans après l’entrée en force de la décision de révocation.[^92-8]
+<sup>7</sup> Une institution dont la décision de reconnaissance a été révoquée sur la base de l’al. 4, let. b ou c, peut présenter une nouvelle demande de reconnaissance en tant qu’établissement d’affectation au plus tôt cinq ans après l’entrée en force de la décision de révocation.[^92-9]
 
 [^92-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^92-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^92-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-5]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^92-6]: Introduit par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-4]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^92-5]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^92-6]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^92-7]: Introduit par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^92-8]: Introduit par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-9]: Introduit par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 ## Chapitre 9 Statut de l’établissement d’affectation
 
@@ -2431,7 +2497,13 @@ Le CIVI peut renoncer à prélever les contributions, en totalité ou en partie,
 
 - a. l’offre de places d’affectation autorisées dans un domaine d’activité couvre, dans une région, moins de 50 % de la demande de possibilités d’affectation;
 - b. l’établissement d’affectation est une exploitation agricole dont le revenu ne dépasse pas 25 000 francs par an;
-- c. la personne en service a été convoquée d’office (art. 31*a*, al. 4), parce qu’elle n’a pas fait le nécessaire pour conclure une convention d’affectation; le CIVI doit être parvenu à la conclusion, sur la base du comportement antérieur de la personne en service, que celle-ci a besoin d’une supervision spéciale et que la charge supplémentaire qui en découle est particulièrement lourde pour l’établissement d’affectation;
+- c.[^96-2]
+
+  la personne astreinte a été convoquée d’office (art. 31*a*, al. 4), et:
+
+  - 1\. l’établissement d’affectation est disposé à lui proposer une affectation sans entretien préalable, ou
+  - 2\. moins de 50 % des tâches inscrites dans le cahier des charges correspondent aux domaines d’activité visés à l’art. 4, al. 1, LSC;
+
 - d.
 
   la personne en service convoquée est atteinte dans sa santé, pour autant que:
@@ -2439,7 +2511,7 @@ Le CIVI peut renoncer à prélever les contributions, en totalité ou en partie,
   - 1\. un entretien auprès du CIVI ait eu lieu au préalable, et
   - 2\. le CIVI soit parvenu à la conclusion, après discussion avec l’établissement d’affectation, que la personne en service a besoin d’un encadrement spécial et que la charge supplémentaire qui en découle est particulièrement lourde pour l’établissement d’affectation;
 
-- e.[^96-2] l’affectation concernée est une affectation à la prévention ou à la maîtrise d’une catastrophe ou d’une situation d’urgence ou une affectation au rétablissement.
+- e.[^96-3] l’affectation concernée est une affectation à la prévention ou à la maîtrise d’une catastrophe ou d’une situation d’urgence ou une affectation au rétablissement.
 
 <sup>2</sup>
 
@@ -2448,52 +2520,21 @@ Le CIVI prélève néanmoins les contributions dans les cas suivants:
 - a. l’établissement d’affectation est une communauté d’exploitation, y compris lorsque les exploitations agricoles qui la constituent ont un revenu individuel ne dépassant pas 25 000 francs par an;
 - b. l’établissement d’affectation est une exploitation de pâturages communautaires ou d’estivage qui comporte plusieurs exploitants privés indépendants.
 
-<sup>3</sup> Le CIVI détermine le revenu au sens des al. 1, let. b, et 2, let. a, de la manière suivante: revenu imposable calculé selon la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^96-3], déduction faite de 50 000 francs pour les exploitants mariés, majoré d’un montant de 500 francs pour chaque tranche de 10 000 francs de fortune imposable selon la dernière taxation fiscale entrée en force. Sont déterminantes les valeurs des deux dernières années fiscales ayant fait l’objet d’une taxation définitive entrée en force au plus tard au moment du dépôt de la demande. Si ces dernières remontent à plus de quatre ans, le calcul se fonde sur la taxation provisoire. Le CIVI vérifie l’assujettissement à la contribution lorsque la taxation est entrée en force.
+<sup>3</sup> Le CIVI détermine le revenu au sens des al. 1, let. b, et 2, let. a, de la manière suivante: revenu imposable calculé selon la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^96-4], déduction faite de 50 000 francs pour les exploitants mariés, majoré d’un montant de 500 francs pour chaque tranche de 10 000 francs de fortune imposable selon la dernière taxation fiscale entrée en force. Sont déterminantes les valeurs des deux dernières années fiscales ayant fait l’objet d’une taxation définitive entrée en force au plus tard au moment du dépôt de la demande. Si ces dernières remontent à plus de quatre ans, le calcul se fonde sur la taxation provisoire. Le CIVI vérifie l’assujettissement à la contribution lorsque la taxation est entrée en force.
+
+<sup>4</sup> Si l’établissement d’affectation remplit les conditions de l’art. 46, al. 3, let. a, LSC, le CIVI décide des cahiers des charges pour lesquels il renonce à prélever des contributions. Il limite la validité de la décision à un an.[^96-5]
 
 [^96-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^96-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^96-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^96-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^96-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^96-4]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^96-5]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 97
 
-**Aide financière en faveur des établissements d’affectation**
+[^97-1]
 
-### (art. 47 LSC)
-
-<sup>1</sup>
-
-Le CIVI peut octroyer une aide financière lorsque l’établissement d’affectation, malgré des efforts d’économies attestés, ne peut assurer le financement complet d’un projet dont la réalisation revêt un intérêt particulier pour le CIVI et qui serait compromis sans aide financière. Une aide financière ne peut être accordée que pour les projets suivants:
-
-- a. projets comprenant des travaux concrets dans le domaine d’activité «protection de la nature et de l’environnement, entretien du paysage et forêt»;
-- b. projets relevant du domaine d’activité «conservation des biens culturels».[^97-1]
-
-<sup>2</sup>
-
-L’établissement d’affectation présente au CIVI en temps utile, avant le début du projet, une demande comportant notamment les indications suivantes:[^97-2]
-
-- a. une description complète du projet;
-- b. un budget;
-- c. la démonstration que toutes les mesures supportables ont été prises pour diminuer les coûts;
-- d.[^97-3] la preuve que toutes les autres sources de financement ont été envisagées et épuisées;
-- e.[^97-4] un plan financier complet informant également sur les besoins financiers qui restent à couvrir.
-
-<sup>3</sup> Le CIVI soumet la demande à l’examen du service compétent de la Confédération ou du canton concerné. Ce service évalue, à l’intention du CIVI, la nécessité, l’opportunité et la rentabilité du projet proposé.
-
-<sup>4</sup> Par son aide financière, la Confédération contribue à assurer le financement suffisant du projet. Cette aide est accordée au maximum jusqu’à concurrence du montant des frais causés par la participation de personnes en service au projet.
-
-<sup>5</sup> La contribution de la Confédération est fixée, sur la base du budget du projet approuvé, au moyen d’un forfait par jour de service avec un plafonnement des coûts. L’aide financière ne peut pas dépasser la moitié des coûts budgétés du projet pris en compte. Les coûts du projet survenus avant le dépôt de la demande ne sont pas pris en compte.[^97-5]
-
-<sup>6</sup> Le paiement s’effectue sur la base des jours de service accomplis.[^97-6]
-
-<sup>7</sup> L’établissement d’affectation établit régulièrement à l’intention du CIVI un rapport sur le déroulement du projet. Une fois le projet terminé, il lui présente un rapport final et un décompte final.[^97-7]
-
-[^97-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-3]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-4]: Introduite par le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-5]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-6]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-7]: Introduit par le ch. I de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016.
+[^97-1]: Abrogé par le ch. I de l’O du 19 juin 2026 (Mise en œuvre de la loi fédérale sur le programme d’allégement budgétaire 2027), avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 391](https://fedlex.data.admin.ch/eli/oc/2026/391)).
 
 #### Art. 97a
 
@@ -2773,10 +2814,10 @@ Le DEFR peut, sans que la présente ordonnance soit modifiée au préalable, don
 
 <sup>1</sup> Le CIVI perçoit des émoluments pour l’établissement d’une convocation d’office (art. 31*a*, al. 4).
 
-<sup>2</sup> Les émoluments sont calculés en fonction du temps consacré, mais n’excèdent pas 540 francs. Le tarif horaire est de 90 francs.[^111b-2]
+<sup>2</sup> Les émoluments sont calculés en fonction du temps consacré, mais n’excèdent pas 660 francs. Le tarif horaire est de 110 francs.[^111b-2]
 
 [^111b-1]: Introduit par le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
-[^111b-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^111b-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 111c
 
@@ -2787,7 +2828,7 @@ Le DEFR peut, sans que la présente ordonnance soit modifiée au préalable, don
 L’ordonnance générale du 8 septembre 2004 sur les émoluments[^111c-2] s’applique, sauf disposition particulière de la présente ordonnance.
 
 [^111c-1]: Introduit par le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
-[^111c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^111c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapitre 13 Dispositions transitoires
 
@@ -2870,48 +2911,60 @@ Les personnes admises au service civil avant l’entrée en vigueur de la modifi
 
 #### Art. 118a
 
-**Dispositions transitoires relatives à la modification du 20 juin 2018**[^118a-1]
+**Dispositions transitoires relatives à la modification du 20 juin 2018**[^118bis-1]
 
 <sup>1</sup> Si la catégorie dont relève un établissement d’affectation en vertu de l’annexe 2*a* doit être fixée à nouveau en raison de la modification du 20 juin 2018, l’établissement s’acquitte de la contribution fixée sur la base de l’ancienne catégorie jusqu’à l’entrée en force de la décision de reconnaissance modifiée.
 
 <sup>2</sup> Les tarifs fixés à l’annexe 2*a* de l’ancien droit sont applicables aux affectations faisant l’objet d’une convention conclue avant l’entrée en vigueur de la modification.
 
-[^118a-1]: Introduit par le ch. I de l’O du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+[^118bis-1]: Introduit par le ch. I de l’O du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
 
 #### Art. 118b
 
-**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^118b-1]
+**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^118ter-1]
 
-<sup>1</sup> Les entreprises agricoles dont les exploitants obtiennent des contributions cantonales en vertu des art. 63 et 64 OPD[^118b-2] de l’ancien droit peuvent encore être reconnues en qualité d’établissement d’affectation selon l’art. 5, al. 1, en 2026 et 2027.
+<sup>1</sup> Les entreprises agricoles dont les exploitants obtiennent des contributions cantonales en vertu des art. 63 et 64 OPD[^118ter-2] de l’ancien droit peuvent encore être reconnues en qualité d’établissement d’affectation selon l’art. 5, al. 1, en 2026 et 2027.
 
 <sup>2</sup> Les personnes astreintes au service civil peuvent encore être affectées en 2026 et 2027 conformément à l’art. 6, al. 1, let. a, ch. 5, de l’ancien droit.
 
-[^118b-1]: Introduit par l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^118b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^118ter-1]: Introduit par l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^118ter-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+
+#### Art. 118c
+
+**Dispositions transitoires relatives à la modification du 19 juin 2026**[^118quater-1]
+
+<sup>1</sup> Dans les trois ans suivant l’entrée en vigueur de la modification du 19 juin 2026, le CIVI adapte les cahiers des charges des établissements d’affectation reconnus selon l’ancien droit et vérifie si les conditions de la reconnaissance fixées à l’art. 87*c* sont remplies.
+
+<sup>2</sup> Si la catégorie dont relève un établissement d’affectation en vertu de l’annexe 2*a* doit être changée en raison de la modification du 19 juin 2026, l’établissement s’acquitte de la contribution fixée sur la base de l’ancienne catégorie jusqu’à l’entrée en force de la décision de reconnaissance modifiée. Les tarifs fixés à l’annexe 2*a* selon l’ancien droit sont applicables aux affectations faisant l’objet d’une convention conclue avant l’entrée en vigueur de la modification.
+
+<sup>3</sup> …
+
+[^118quater-1]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027, sous réserve de l'al. 3 en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 118<sup>bis</sup>
 
-[^118bis-1]
+[^118quinquies-1]
 
-[^118bis-1]: Introduit par le ch. I de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogé par le ch. IV 41 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^118quinquies-1]: Introduit par le ch. I de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogé par le ch. IV 41 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 118<sup>ter</sup>
 
-[^118ter-1]
+[^118a-1]
 
-[^118ter-1]: Introduit par le ch. I de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogé par le ch. I de l’O du 6 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^118a-1]: Introduit par le ch. I de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogé par le ch. I de l’O du 6 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 118<sup>quater</sup>
 
-[^118quater-1]
+[^118b-1]
 
-[^118quater-1]: Introduit par le ch. I de l’O du 27 juin 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)). Abrogé par le ch. I de l’O du 6 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^118b-1]: Introduit par le ch. I de l’O du 27 juin 2007 ([RO 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)). Abrogé par le ch. I de l’O du 6 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 #### Art. 118<sup>quinquies</sup>
 
-[^118quinquies-1]
+[^118c-1]
 
-[^118quinquies-1]: Introduit par le ch. I de l’O du 15 oct. 2008 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)). Abrogé par le ch. I de l’O du 6 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^118c-1]: Introduit par le ch. I de l’O du 15 oct. 2008 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)). Abrogé par le ch. I de l’O du 6 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
 ## Chapitre 14 Entrée en vigueur
 
@@ -2983,7 +3036,7 @@ Pour les établissements comptant plus de 60 postes à plein temps, l’effectif
 <tr><td></td><td>≥300</td><td>5</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 3. Règle relative au calcul du nombre maximal d’affectations en groupe particulières dans des exploitations de pâturages communautaires ou d’estivage
 
@@ -3041,28 +3094,27 @@ Annexe 2a[^t-4]
 
 ## Montant des contributions en fonction du salaire brut
 
-[^t-4]: Introduit par le ch. III de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nouvelle teneur selon le ch. II de l’O du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+[^t-4]: Introduit par le ch. III de l’O du 5 déc. 2003 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Nouvelle teneur selon le ch. II de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ### 1. Tarif de base
 
 <table>
-<tr><td>Catégorie</td><td>Salaire brut mensuel comparable en francs\*</td><td>Contribution en %</td><td colspan="2">Contribution journalière en francs\*\*</td></tr>
+<tr><th>Catégorie</th><th>Salaire brut mensuel comparable en francs\*</th><th>Contribution en %</th><th colspan="2">Contribution journalière en francs\*\*</th></tr>
 <tr><td>0</td><td></td><td></td><td colspan="2">exonéré de la contribution</td></tr>
-<tr><td>1</td><td>0 à 2874.–</td><td></td><td colspan="2">9,50</td></tr>
-<tr><td>2</td><td>2875.– à 3449.–</td><td>12,42</td><td colspan="2">11,90</td></tr>
-<tr><td>3</td><td>3450.– à 4024.–</td><td>12,43</td><td colspan="2">14,30</td></tr>
-<tr><td>4</td><td>4025.– à 4599.–</td><td>13,49</td><td colspan="2">18,10</td></tr>
-<tr><td>5</td><td>4600.– à 5174.–</td><td>15,52</td><td colspan="2">23,80</td></tr>
-<tr><td>6</td><td>5175.– à 5749.–</td><td>17,62</td><td colspan="2">30,40</td></tr>
-<tr><td>7</td><td>5750.– à 6324.–</td><td>19,67</td><td colspan="2">37,70</td></tr>
-<tr><td>8</td><td>6325.– à 6899.–</td><td>21,77</td><td colspan="2">45,90</td></tr>
-<tr><td>9</td><td>6900.– à 7474.–</td><td>23,83</td><td colspan="2">54,80</td></tr>
-<tr><td>10</td><td>7475.– à 8049.–</td><td>25,89</td><td colspan="2">64,50</td></tr>
-<tr><td>11</td><td>8050.– à 8624.–</td><td>25,86</td><td colspan="2">69,40</td></tr>
-<tr><td>12</td><td>8625.– à 9199.–</td><td>25,91</td><td colspan="2">74,50</td></tr>
-<tr><td>13</td><td>9200.– et plus</td><td></td><td colspan="2">79,40</td></tr>
-<tr><td colspan="4">\* Salaire brut usuel du lieu et de la profession que l’établissement d’affectation devrait verser à un employé pour une activité identique.</td></tr>
-<tr><td colspan="4">\*\* La contribution par jour de service (contribution journalière) se calcule comme suit: salaire brut comparable par mois, multiplié par le pourcentage de la contribution, divisé par 30 jours. Une contribution journalière uniforme, calculée sur la base du salaire le plus bas de la catégorie, s’applique à l’intérieur d’une même catégorie.</td></tr>
+<tr><td>1</td><td>0 à 3089.–</td><td></td><td colspan="2">10,20</td></tr>
+<tr><td>2</td><td>3090.– à 3708.–</td><td>12,42</td><td colspan="2">12,80</td></tr>
+<tr><td>3</td><td>3709.– à 4326.–</td><td>12,43</td><td colspan="2">15,40</td></tr>
+<tr><td>4</td><td>4327.– à 4944.–</td><td>13,48</td><td colspan="2">19,40</td></tr>
+<tr><td>5</td><td>4945.– à 5562.–</td><td>15,52</td><td colspan="2">25,60</td></tr>
+<tr><td>6</td><td>5563.– à 6180.–</td><td>17,62</td><td colspan="2">32,70</td></tr>
+<tr><td>7</td><td>6181.– à 6798.–</td><td>19,67</td><td colspan="2">40,50</td></tr>
+<tr><td>8</td><td>6799.– à 7416.–</td><td>21,77</td><td colspan="2">49,30</td></tr>
+<tr><td>9</td><td>7417.– à 8034.–</td><td>23,83</td><td colspan="2">58,90</td></tr>
+<tr><td>10</td><td>8035.– à 8653.–</td><td>25,89</td><td colspan="2">69,30</td></tr>
+<tr><td>11</td><td>8654.– à 9271.–</td><td>25,86</td><td colspan="2">74,60</td></tr>
+<tr><td>12</td><td>9272.– à 9889.–</td><td>25,91</td><td colspan="2">80,10</td></tr>
+<tr><td>13</td><td>9890.– et plus</td><td></td><td colspan="2">85,40</td></tr>
+<tr><td colspan="4">\* Salaire brut usuel du lieu et de la profession que l’établissement d’affectation devrait verser à un employé pour une activité identique. \*\* La contribution par jour de service (contribution journalière) se calcule comme suit: salaire brut comparable par mois multiplié par le pourcentage de la contribution, divisé par 30 jours. Une contribution journalière uniforme, calculée sur la base du salaire le plus bas de la catégorie, s’applique à l’intérieur d’une même catégorie.</td></tr>
 </table>
 
 ### 2. Suppléments

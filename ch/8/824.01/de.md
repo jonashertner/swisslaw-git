@@ -4,11 +4,11 @@ title: "Verordnung vom 11. September 1996 über den zivilen Ersatzdienst (Zivild
 short: ZDV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20260101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/de"
 
 (Zivildienstverordnung, ZDV)
 
-vom 11. September 1996 (Stand am 1. Januar 2026)
+vom 11. September 1996 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,11 +25,11 @@ gestützt auf Artikel 79 Absatz 1 des Zivildienstgesetzes vom 6. Oktober 1995[^i
 
 verordnet:
 
-[^ingress-1]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^ingress-4]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-5]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^ingress-1]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^ingress-4]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-5]: [SR 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 [^ingress-6]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
 
 ## 1. Kapitel: Organisation
@@ -44,7 +44,7 @@ verordnet:
 
 <sup>2</sup> …[^1-3]
 
-[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^1-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^1-3]: Aufgehoben durch Ziff. II 88 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -103,29 +103,39 @@ Als nicht gemeinnützig gelten Institutionen:
 
 **Ausschluss von Tätigkeiten**[^4-1]
 
-### (Art. 4–6 und 43 Abs. 2 ZDG)
+### (Art. 42 Abs. 2 ZDG)
+
+[^4-2]
 
 <sup>1</sup> Die zivildienstpflichtige Person darf im Einsatzbetrieb keine Tätigkeit ausüben, welche unmittelbar der Umsetzung tagespolitischer Ziele des Einsatzbetriebes dient oder letztlich darauf zielt, die Ausübung der politischen Rechte der Schweizerinnen und Schweizer zu beeinflussen.
 
 <sup>2</sup> Sie darf im Einsatzbetrieb keine anwaltschaftlichen Tätigkeiten entfalten, die sich gegen Behörden richten könnten.
 
-<sup>2bis</sup> Sie darf bei einem Einsatz im Tätigkeitsbereich «Schulwesen: Vorschule bis und mit Sekundarstufe II» nicht selbst als Lehrperson die Verantwortung für den Unterricht übernehmen.[^4-2]
+<sup>2bis</sup> Sie darf bei einem Einsatz im Tätigkeitsbereich «Schulwesen: Vorschule bis und mit Sekundarstufe II» nicht selbst als Lehrperson die Verantwortung für den Unterricht übernehmen.[^4-3]
 
-<sup>3</sup> Sie darf in einem Einsatz höchstens die Hälfte ihrer Zeit für administrative Unterstützungsarbeiten oder für qualifizierte handwerkliche Tätigkeiten aufwenden.
+<sup>2ter</sup> Sie darf nicht für Aufgaben in der Informatik, im Personalwesen, in der Kommunikation, im Marketing oder zur Bewirtung von Gästen in Verpflegungseinrichtungen eingesetzt werden.[^4-4]
+
+<sup>2quater</sup> Aufgaben in der Informatik im Rahmen von Einsätzen zur Bewältigung von Katastrophen oder Notlagen sind vom Ausschluss ausgenommen.[^4-5]
+
+<sup>3</sup> Die zivildienstpflichtige Person darf in einem Einsatz höchstens die Hälfte ihrer Zeit für administrative Unterstützungsarbeiten oder für qualifizierte handwerkliche Tätigkeiten aufwenden.[^4-6]
 
 <sup>4</sup>
 
 Die Begrenzung des Anteils administrativer Unterstützungsarbeiten gilt nicht:
 
 - a. wenn der Gesundheitszustand der zivildienstleistenden Person es nahe legt;
-- b.[^4-3] im Rahmen von Spezialeinsätzen und bei Einsätzen zur Vorbeugung oder Bewältigung von Katastrophen oder Notlagen oder zur Regeneration nach solchen Ereignissen;
-- b<sup>bis</sup>.[^4-4] …
+- b.[^4-7] im Rahmen von Spezialeinsätzen und bei Einsätzen zur Vorbeugung oder Bewältigung von Katastrophen oder Notlagen oder zur Regeneration nach solchen Ereignissen;
+- b<sup>bis</sup>.[^4-8] …
 - c. im Rahmen von Einsätzen beim ZIVI.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^4-2]: Eingefügt durch Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^4-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^4-4]: Eingefügt durch Ziff. I der V vom 3. Juni 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-3]: Eingefügt durch Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^4-7]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^4-8]: Eingefügt durch Ziff. I der V vom 3. Juni 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 4a
 
@@ -169,9 +179,9 @@ Auf den Einsatz Einfluss nehmen können:
 <sup>3</sup> Handelt es sich um einen Gemeinschaftsweide- oder Sömmerungsbetrieb, so muss dieser über die Anerkennung nach Artikel 29*a* LBV verfügen und eine Mindestgrösse von zehn Normalstössen aufweisen. Diese Mindestgrösse ist nicht erforderlich im Rahmen von Projekten nach Artikel 6 Absatz 1 Buchstabe c.[^5-5]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^5-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^5-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^5-3]: Fassung gemäss Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^5-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-4]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^5-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
@@ -188,25 +198,26 @@ Das ZIVI setzt zivildienstpflichtige Personen ein:
 
   in landwirtschaftlichen Betrieben im Rahmen von Projekten oder Programmen:
 
-  - 1\. zur Anlage und Pflege von Biodiversitätsförderflächen nach Artikel 55 DZV[^6-2], für die Beiträge gewährt werden,
+  - 1\.[^6-2] zur Anlage und Pflege von Biodiversitätsförderflächen nach Artikel 55 DZV[^6-3], für die Beiträge gewährt werden, sowie zur Verbesserung der Qualität von Biodiversitätsförderflächen nach Artikel 59 DZV,
   - 2\. zur Bewirtschaftung von Flächen in Hang- und Steillagen nach den Artikeln 43 und 44 DZV,
   - 3\. für Arbeiten zum Schutz und zur Pflege von Weiden und Naturschutzflächen nach Artikel 29 DZV,
   - 4\. zur Bekämpfung von Problempflanzen nach Artikel 32 Absatz 1 DZV,
-  - 5\.[^6-3] zur Durchführung von Projekten für die regionale Biodiversität und Landschaftsqualität nach Artikel 78 DZV;
+  - 5\.[^6-4] zur Durchführung von Projekten für die regionale Biodiversität und Landschaftsqualität nach Artikel 78 DZV;
 
 - b. in landwirtschaftlichen Betrieben, die Projekte oder Programme nach Buchstabe a durchführen, für Arbeiten im Tätigkeitsbereich «Umwelt- und Naturschutz, Landschaftspflege und Wald»;
-- c.[^6-4] …
+- c.[^6-5] …
 
-<sup>2</sup> Das WBF regelt, an wie vielen Diensttagen eine zivildienstleistende Person in landwirtschaftlichen Betrieben jährlich eingesetzt werden darf. Es berücksichtigt dabei namentlich die Grösse der Flächen nach Absatz 1 Buchstabe a Ziffern 1 und 2 und die Höhe der Beiträge für Massnahmen nach Absatz 1 Buchstabe a Ziffer 5.[^6-5]
+<sup>2</sup> Das WBF regelt, an wie vielen Diensttagen eine zivildienstleistende Person in landwirtschaftlichen Betrieben jährlich eingesetzt werden darf. Es berücksichtigt dabei namentlich die Grösse der Flächen nach Absatz 1 Buchstabe a Ziffern 1 und 2 und die Höhe der Beiträge für Massnahmen nach Absatz 1 Buchstabe a Ziffer 5.[^6-6]
 
-<sup>3</sup> In Gemeinschaftsweide- und Sömmerungsbetrieben dürfen zivildienstpflichtige Personen nur während der Sömmerungsperiode sowie zusätzlich je während 14 Diensttagen unmittelbar davor und danach eingesetzt werden. Als Sömmerungsperiode gilt die Zeit, während der der betreffende Sömmerungs- oder Gemeinschaftsweidebetrieb bestossen wird.[^6-6]
+<sup>3</sup> In Gemeinschaftsweide- und Sömmerungsbetrieben dürfen zivildienstpflichtige Personen nur während der Sömmerungsperiode sowie zusätzlich je während 14 Diensttagen unmittelbar davor und danach eingesetzt werden. Als Sömmerungsperiode gilt die Zeit, während der der betreffende Sömmerungs- oder Gemeinschaftsweidebetrieb bestossen wird.[^6-7]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^6-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Fassung gemäss Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^6-4]: Aufgehoben durch Ziff. II der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
-[^6-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^6-3]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^6-4]: Fassung gemäss Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^6-5]: Aufgehoben durch Ziff. II der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 [^6-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-7]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -242,9 +253,11 @@ In der landwirtschaftlichen Produktion ist die Mitarbeit von zivildienstleistend
 
 <sup>2</sup> Sie dürfen insbesondere nicht ohne Berufsausbildung eingesetzt werden zu Rückearbeiten sowie zu Fällarbeiten und Trennschnitten im Wurfholz mit der Motorsäge.
 
-<sup>3</sup> Der Einsatzbetrieb kontrolliert zu Beginn des Einsatzes die Fähigkeiten der zivildienstleistenden Person und überwacht ihre Tätigkeiten in der Einführungsphase.
+<sup>3</sup> Zivildienstleistenden Personen ist der Umgang mit Pflanzenschutzmitteln untersagt, mit Ausnahme der nach Anhang 2 der Pflanzenschutzmittelverordnung vom 20. August 2025[^7a-2] (PSMV) zugelassenen Pflanzenschutzmittel sowie der Grundstoffe nach Artikel 4 Absatz 2 Buchstabe c PSMV.[^7a-3]
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 6. März 2009, in Kraft seit 1. April 2009 ([AS 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+[^7a-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^7a-3]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ### 3. Abschnitt: Schwerpunktprogramme, Spezialeinsätze sowie Einsätze im Zusammenhang mit Katastrophen und Notlagen
 
@@ -622,7 +635,7 @@ Die Vertrauensärztin oder der Vertrauensarzt beurteilt anlässlich der Untersuc
 
 <sup>4</sup> Kann sie oder er aufgrund ihrer oder seiner eigenen Untersuchungen oder aufgrund der Akten keine endgültige Beurteilung vornehmen, so veranlasst das ZIVI die notwendigen Zusatzabklärungen.
 
-<sup>5</sup> Reichen die Akten für die vertrauensärztliche Beurteilung nach Absatz 2 Buchstabe a aus, so ist keine persönliche Untersuchung notwendig.
+<sup>5</sup> Reichen die Akten für die vertrauensärztliche Beurteilung nach Absatz 2 aus, so ist keine persönliche Untersuchung notwendig.[^18-2]
 
 <sup>6</sup> Vertrauensärztin oder Vertrauensarzt kann auch eine Ärztin oder ein Arzt der für den Sanitätsdienst der Armee zuständigen Stelle sein.
 
@@ -631,6 +644,7 @@ Die Vertrauensärztin oder der Vertrauensarzt beurteilt anlässlich der Untersuc
 <sup>8</sup> Das ZIVI kann eine zivildienstpflichtige Person als dauernd arbeitsunfähig bezeichnen, wenn sie unter einer schweren Krankheit mit schubhaftem Verlauf oder periodischem Auftreten leidet, die wiederholt zu Phasen der Arbeitsunfähigkeit führt. Es zieht dazu eine Vertrauensärztin oder einen Vertrauensarzt bei.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 19
 
@@ -675,7 +689,7 @@ Das ZIVI wendet die Artikel 25–31 der Verordnung vom 22. November 2017[^20-2] 
 - b. In Fällen nach Artikel 27 Buchstabe d Ziffer 1 VMDP berücksichtigt das ZIVI die Anzahl der bereits von der Militärdienstpflicht befreiten Personen.
 
 [^20-1]: Fassung gemäss Anhang 7 Ziff. II 7 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^20-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^20-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 21
 
@@ -686,7 +700,7 @@ Das ZIVI wendet die Artikel 25–31 der Verordnung vom 22. November 2017[^20-2] 
 Die in Artikel 18 Absatz 1 Buchstabe c MG[^21-2] aufgeführten Personen werden vom Zivildienst befreit, wenn sie Zivildienstleistungen erbracht haben, deren Dauer 1,5‑mal so lange ist wie diejenige der Rekrutenschule. Die teilweise Absolvierung der Rekrutenschule wird berücksichtigt.
 
 [^21-1]: Fassung gemäss Anhang 7 Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 22
 
@@ -740,7 +754,7 @@ Eine Person, die ein Gesuch um Zulassung zum Zivildienst spätestens zwei Monate
 - b. sofern sie weniger als vier Monate vor der Rekrutenschule rekrutiert wurde.[^24-3]
 
 [^24-1]: Eingefügt durch Anhang 7 Ziff. II 7 der V vom 22. Nov. 2017 über die Militärdienstpflicht ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Fassung gemäss Ziff. III der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
-[^24-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^24-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^24-3]: Eingefügt durch Anhang 7 Ziff. II 7 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 25
@@ -1044,7 +1058,7 @@ Die Rekrutenschule gilt als bestanden, wenn die zivildienstpflichtige Person:
 [^37-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^37-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-3]: Fassung gemäss Anhang 7 Ziff. II 7 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^37-4]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^37-4]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^37-5]: Fassung gemäss Ziff. I der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-6]: Fassung gemäss Ziff. I der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-7]: Eingefügt durch Ziff. I der V vom 10. Dez. 2010 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
@@ -1375,7 +1389,7 @@ Zivildienstpflichtige Personen, die um eine Dienstverschiebung ersuchen, reichen
 
 <sup>5</sup> Eine zivildienstpflichtige Person, die sich ohne Auslandurlaub ins Ausland begeben hat und länger als zwölf Monate dort bleiben will, reicht beim ZIVI ein Gesuch um nachträgliche Erteilung von Auslandurlaub ein. Bis zum Moment der Zustellung der Bewilligung gilt der nachgesuchte Auslandurlaub als nicht erteilt.
 
-[^48-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^48-2]: Eingefügt durch Anhang 7 Ziff. II 7 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^48-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^48-4]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
@@ -1398,7 +1412,7 @@ Zivildienstpflichtige Personen, die um eine Dienstverschiebung ersuchen, reichen
 
 <sup>6</sup> Das ZIVI informiert die betroffene Person über ihre Pflichten im Zusammenhang mit einem Auslandurlaub und teilt die Erteilung des Auslandurlaubs soweit erforderlich der Behörde für die Wehrpflichtersatzabgabe des Wohnsitzkantons mit.[^49-4]
 
-[^49-1]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^49-1]: [SR 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
 [^49-2]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^49-3]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^49-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
@@ -1733,7 +1747,7 @@ Der Einsatzbetrieb übernimmt bei Einsätzen im Ausland diejenigen Kosten, die b
 [^69-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^69-2]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^69-3]: Fassung gemäss Ziff. I der V vom 28. Sept. 1998, in Kraft seit 1. Nov. 1998 ([AS 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
-[^69-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^69-5]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 #### Art. 70
@@ -1830,7 +1844,7 @@ Er kann, wenn es die Verhältnisse seines Betriebs gestatten, in folgenden Fäll
 
 <sup>1</sup> Die zivildienstleistende Person bezieht ihre Ferientage wenn möglich während den Betriebsferien des Einsatzbetriebes.
 
-<sup>2</sup> und <sup>3</sup> …[^73-1]
+<sup>2 und <sup>3</sup></sup> …[^73-1]
 
 [^73-1]: Aufgehoben durch Ziff. I der V vom 10. Dez. 2010, mit Wirkung seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
@@ -1945,15 +1959,24 @@ Die zivildienstpflichtige Person wirkt bei statistischen Erhebungen des ZIVI sow
 
 #### Art. 78
 
-**Einführung durch den Einsatzbetrieb**
+**Vermittlung der Grundkenntnisse und Gewährleistung der Arbeitssicherheit durch den Einsatzbetrieb**
 
-### (Art. 48 Abs. 2 ZDG)
+### (Art. 48 Abs. 2 und 5 ZDG)
 
 [^78-1]
 
-Der Einsatzbetrieb vermittelt auf der Basis eines Einführungsprogrammes die praktischen Grundkenntnisse und Fähigkeiten, die erforderlich sind, damit die zivildienstleistende Person die im Aufgebot vorgesehenen Tätigkeiten korrekt und wirtschaftlich verrichten kann und keinen Schaden verursacht.
+<sup>1</sup> Der Einsatzbetrieb vermittelt auf der Basis eines Einführungsprogrammes die praktischen Grundkenntnisse und Fähigkeiten, die erforderlich sind, damit die zivildienstleistende Person die im Aufgebot vorgesehenen Tätigkeiten korrekt und wirtschaftlich verrichten kann und keinen Schaden verursacht.
 
-[^78-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+<sup>2</sup> Er instruiert die zivildienstleistenden Personen vorgängig über die ordnungsgemässe Benutzung gefährlicher Fahrzeuge, Geräte und Maschinen und die damit verbundenen Risiken.[^78-2]
+
+<sup>3</sup> Er prüft zu Beginn des Einsatzes, spätestens aber bevor die zivildienstleistende Person die Tätigkeit ausübt, ob diese über die erforderlichen Ausbildungen und Fähigkeiten verfügt.[^78-3]
+
+<sup>4</sup> Er stellt sicher, dass sie gefährliche Fahrzeuge, Geräte und Maschinen korrekt führt beziehungsweise bedient.[^78-4]
+
+[^78-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-2]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-3]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^78-4]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 79
 
@@ -2215,7 +2238,7 @@ Die gesuchstellende Institution legt dar:
 - c. welche besonderen Anforderungen, die der Einsatz gemäss Pflichtenheft an die zivildienstleistende Person stellt, durch das ZIVI überprüft werden sollen;
 - d. die Aufgaben der zivildienstleistenden Personen, die im Pflichtenheft festzuhalten sind.
 
-<sup>9</sup> Erfüllt die gesuchstellende Institution die Anforderungen nach Artikel 4 Absatz 1 ZDG, so kann das Pflichtenheft Aufgaben enthalten, die den Tätigkeitsbereichen nach Artikel 4 Absatz 1 ZDG nicht entsprechen.
+<sup>9</sup> ... [^87-2]
 
 <sup>10</sup> Die gesuchstellende Institution erklärt ihren Willen, als Einsatzbetrieb die Pflichten und Rechte nach dem ZDG und dessen Vollzugsverordnungen zu respektieren.
 
@@ -2224,18 +2247,58 @@ Die gesuchstellende Institution legt dar:
 <sup>12</sup> Die zuständigen Personen des ZIVI können die Einsatzbetriebe besuchen.
 
 [^87-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87-2]: Aufgehoben durch Ziff. I der V vom 19. Juni 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 87a
 
-**Elektronisch eingereichtes Gesuch**
+**Ausnahmen betreffend den Tätigkeitsbereich**[^87a-1]
+
+### (Art. 42 Abs. 2<sup>bis</sup> ZDG)
+
+<sup>1</sup> Erfüllt die gesuchstellende Institution die Anforderungen nach Artikel 4 Absatz 1 ZDG, so kann das Pflichtenheft Aufgaben enthalten, die den dort genannten Tätigkeitsbereichen nicht entsprechen. Ist dies der Fall, so müssen die Aufgaben zu mindestens 50 Prozent den dort genannten Tätigkeitsbereichen entsprechen.
+
+<sup>2</sup>
+
+Das ZIVI kann Pflichtenhefte, deren Aufgabenanteil zu weniger als 50 Prozent den Tätigkeitsbereichen nach Artikel 4 Absatz 1 ZDG entspricht, bewilligen, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Der Einsatzbetrieb führt mindestens alle zwei Jahre Einsätze durch, bei denen der Aufgabenanteil zu mindestens 50 Prozent den Tätigkeitsbereichen nach Artikel 4 Absatz 1 ZDG entspricht.
+- b. Der Einsatzbetrieb ist bereit, Einsätze, bei denen der Aufgabenanteil zu weniger als 50 Prozent den Tätigkeitsbereichen nach Artikel 4 Absatz 1 ZDG entspricht, von Amtes wegen durchzuführen.
+
+<sup>3</sup> Es kann Pflichtenhefte, deren Aufgabenanteil zu weniger als 50 Prozent den Tätigkeitsbereichen nach Artikel 4 Absatz 1 ZDG entspricht, ebenfalls bewilligen, wenn die Aufgebote ausschliesslich von Amtes wegen erfolgen.
+
+[^87a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+
+#### Art. 87b
+
+**Elektronisch eingereichtes Gesuch**[^87b-1]
 
 ### (Art. 41 Abs. 1 ZDG)
 
-<sup>1</sup> Die gesuchstellende Institution kann ihr Gesuch um Anerkennung als Einsatzbetrieb auf elektronischem Weg einreichen. Sie bestätigt die Einreichung mit einer im Original nachgereichten, von Hand unterzeichneten Erklärung nach Artikel 87 Absatz 10. [^87a-1]
+<sup>1</sup> Die gesuchstellende Institution kann ihr Gesuch um Anerkennung als Einsatzbetrieb auf elektronischem Weg einreichen. Sie bestätigt die Einreichung mit einer im Original nachgereichten, von Hand unterzeichneten Erklärung nach Artikel 87 Absatz 10. [^87b-2]
 
 <sup>2</sup> Anträge auf Anpassung der Anerkennung benötigen keine Bestätigung nach Absatz 1.
 
-[^87a-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^87b-1]: Ursprünglich Art. 87*a*.
+[^87b-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+
+#### Art. 87c
+
+**Arbeitssicherheit und Gesundheitsschutz der zivildienstleistenden Personen**[^87c-1]
+
+### (Art. 48 Abs. 5 ZDG)
+
+<sup>1</sup> Die gesuchstellende Institution zeigt im Rahmen der Anerkennung auf, wie sie die Arbeitssicherheit sowie den Gesundheitsschutz der zivildienstleistenden Personen gewährleistet.
+
+<sup>2</sup> Sie teilt dem ZIVI sämtliche Aufgaben mit, die das Führen gefährlicher Fahrzeuge oder das Bedienen gefährlicher Geräte und Maschinen erfordern. Diese Aufgaben werden in die Pflichtenhefte eingetragen.
+
+<sup>3</sup>
+
+Erfüllt sie die Anforderungen nach Artikel 4 Absatz 2 ZDG oder ist während den Einsätzen im Tätigkeitsbereich «Umwelt- und Naturschurschutz, Landschaftspflege und Wald» das Führen gefährlicher Fahrzeuge oder das Bedienen gefährlicher Geräte und Maschinen vorgesehen, so muss sie:
+
+- a. an eine von der Eidgenössischen Koordinationskommission für Arbeitssicherheit zertifizierte Branchenlösung angeschlossen sein; und
+- b. gewährleisten, dass die von der Branche empfohlenen Aus- und Weiterbildungen besucht werden.
+
+[^87c-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 88
 
@@ -2269,13 +2332,14 @@ Der Anerkennungsentscheid enthält insbesondere:
 
 <sup>2bis</sup> Es befristet den Anerkennungsentscheid zudem, wenn es sich um einen Einsatz zur Vorbeugung einer Katastrophe oder Notlage handelt, sofern sich die vorgesehenen Massnahmen auf ein sich unmittelbar abzeichnendes Ereignis beziehen.[^89-3]
 
-<sup>3</sup> Es kann im Anerkennungsentscheid dem Einsatzbetrieb eine Beteiligung des Bundes an den Einführungskosten (Art. 37 ZDG) sowie Finanzhilfen (Art. 47 ZDG) in Aussicht stellen.
+<sup>3</sup> Es kann im Anerkennungsentscheid dem Einsatzbetrieb eine Beteiligung des Bundes an den Einführungskosten (Art. 37 ZDG) in Aussicht stellen.[^89-4]
 
 <sup>4</sup> Hat das Gesuch sich auf mehrere Institutionen bezogen, so erhält jede einen eigenen Entscheid.
 
 [^89-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^89-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^89-3]: Eingefügt durch Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^89-4]: Fassung gemäss Ziff. I der V vom 19. Juni 2026 (Umsetzung des BG über das Entlastungspaket 2027 für den Bundeshaushalt), in Kraft seit 1. Jan. 2027 ([AS 2026 391](https://fedlex.data.admin.ch/eli/oc/2026/391)).
 
 #### Art. 90
 
@@ -2299,7 +2363,10 @@ Der Anerkennungsentscheid enthält insbesondere:
 
 <sup>2</sup> Es kann vom Einsatzbetrieb Unterlagen und Auskünfte verlangen.
 
+<sup>3</sup> Ist der Einsatzbetrieb einer Branchenlösung angeschlossen (Art. 87*c* Abs. 3 Bst. a), so übermittelt er dem ZIVI regelmässig den Nachweis, dass die empfohlenen Aus- und Weiterbildungen (Art. 87*c* Abs. 3 Bst. b) besucht wurden.[^91-2]
+
 [^91-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^91-2]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 92
 
@@ -2313,32 +2380,33 @@ Der Anerkennungsentscheid enthält insbesondere:
 
 <sup>2</sup> Es passt den Anerkennungsentscheid an, wenn dessen Überprüfung nach Artikel 91 dies verlangt oder der Kreis der abgabepflichtigen Einsatzbetriebe nach Artikel 46 ZDG ändert.
 
-<sup>3</sup> Es kann den Anerkennungsentscheid widerrufen, wenn im Einsatzbetrieb während drei aufeinander folgenden Jahren kein Einsatz oder nur Probeeinsätze stattgefunden haben.
+<sup>3</sup> Es kann den Anerkennungsentscheid widerrufen, wenn im Einsatzbetrieb während der letzten drei Jahre durchschnittlich weniger als 26 Diensttage geleistet wurden.[^92-2]
 
 <sup>4</sup>
 
 Es widerruft den Anerkennungsentscheid, wenn der Einsatzbetrieb:
 
-- a.[^92-2] eine Anerkennungsvoraussetzung nach den Artikeln 2–6 und allenfalls 42 Absatz 2<sup>bis</sup> ZDG nicht mehr erfüllt;
+- a.[^92-3] eine Anerkennungsvoraussetzung nach den Artikeln 2–6 und allenfalls 42 Absatz 2<sup>bis</sup> ZDG nicht mehr erfüllt;
 - b. wiederholt einzelne Pflichten verletzt, die ihm das Gesetz, darauf gestützte Verordnungen oder die Anerkennungsverfügung auferlegen; oder
-- c. aus anderen Gründen keine Gewähr für einen ordentlichen Vollzug des Zivildienstes mehr bietet.[^92-3]
+- c. aus anderen Gründen keine Gewähr für einen ordentlichen Vollzug des Zivildienstes mehr bietet.[^92-4]
 
-<sup>4bis</sup> Wenn das ZIVI Kenntnis von Umständen bekommt, welche den Widerruf der Anerkennung zur Folge haben können, kann es bereits verfügte Aufgebote zu Einsätzen widerrufen, die noch nicht angetreten wurden.[^92-4]
+<sup>4bis</sup> Wenn das ZIVI Kenntnis von Umständen bekommt, welche den Widerruf der Anerkennung zur Folge haben können, kann es bereits verfügte Aufgebote zu Einsätzen widerrufen, die noch nicht angetreten wurden.[^92-5]
 
-<sup>4ter</sup> Das ZIVI vermittelt der von einem Widerruf des Aufgebots betroffenen zivildienstpflichtigen Person sofort einen neuen Einsatz.[^92-5]
+<sup>4ter</sup> Das ZIVI vermittelt der von einem Widerruf des Aufgebots betroffenen zivildienstpflichtigen Person sofort einen neuen Einsatz.[^92-6]
 
 <sup>5</sup> Der Widerruf wird auf einen Zeitpunkt hin verfügt, in dem alle laufenden Einsätze beendet sind.
 
 <sup>6</sup> Das ZIVI kann bei der zuständigen kantonalen Arbeitsmarktbehörde und bei weiteren spezialisierten Institutionen Informationen einholen.
 
-<sup>7</sup> Eine Institution, deren Anerkennungsentscheid gestützt auf Absatz 4 Buchstaben b oder c widerrufen worden ist, kann frühestens fünf Jahre nach Eintritt der Rechtskraft des Widerrufsentscheids ein neues Gesuch um Anerkennung als Einsatzbetrieb stellen.[^92-6]
+<sup>7</sup> Eine Institution, deren Anerkennungsentscheid gestützt auf Absatz 4 Buchstaben b oder c widerrufen worden ist, kann frühestens fünf Jahre nach Eintritt der Rechtskraft des Widerrufsentscheids ein neues Gesuch um Anerkennung als Einsatzbetrieb stellen.[^92-7]
 
 [^92-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^92-3]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
-[^92-4]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^92-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^92-4]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^92-5]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 [^92-6]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
+[^92-7]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3461](https://fedlex.data.admin.ch/eli/oc/2007/424)).
 
 ## 9. Kapitel: Stellung des Einsatzbetriebes
 
@@ -2399,7 +2467,13 @@ Das ZIVI kann auf die Erhebung der Abgaben ganz oder teilweise verzichten:
 
 - a. wenn in einem Tätigkeitsbereich in einer Region das Angebot an bewilligten Einsatzplätzen die Nachfrage nach entsprechenden Einsatzmöglichkeiten zu weniger als 50 Prozent deckt;
 - b. wenn es sich beim Einsatzbetrieb um einen landwirtschaftlichen Betrieb handelt, dessen Einkommen 25 000 Franken im Jahr nicht übersteigt;
-- c. bei einem Aufgebot von Amtes wegen (Art. 31*a* Abs. 4), das erfolgt ist, weil die zivildienstleistende Person nicht selber Hand zu einer Einsatzvereinbarung geboten hatte; das ZIVI muss aufgrund des bisherigen Verhaltens der zivildienstleistenden Person vorgängig zum Schluss gekommen sein, dass die zivildienstleistende Person speziell geführt werden muss und dies mit einem aussergewöhnlich hohen Zusatzaufwand verbunden ist;
+- c.[^96-2]
+
+  bei einem Aufgebot von Amtes wegen (Art. 31*a* Abs. 4), wenn:
+
+  - 1\. der Einsatzbetrieb bereit ist, die zivildienstpflichtige Person ohne Vorstellungsgespräch einzusetzen, oder
+  - 2\. der Anteil der im Pflichtenheft aufgeführten Aufgaben zu weniger als 50 Prozent den Tätigkeitsbereichen nach Artikel 4 Absatz 1 ZDG entspricht;
+
 - d.
 
   wenn eine zivildienstleistende Person mit einer gesundheitlichen Beeinträchtigung aufgeboten wurde, sofern vorgängig:
@@ -2407,7 +2481,7 @@ Das ZIVI kann auf die Erhebung der Abgaben ganz oder teilweise verzichten:
   - 1\. eine Vorsprache beim ZIVI stattgefunden hat, und
   - 2\. das ZIVI nach Rücksprache mit dem betroffenen Einsatzbetrieb zum Schluss gekommen ist, dass die zivildienstleistende Person speziell betreut werden muss und dies mit einem aussergewöhnlich hohen Zusatzaufwand verbunden ist;
 
-- e.[^96-2] wenn es sich um einen Einsatz zur Vorbeugung oder Bewältigung einer Katastrophe oder einer Notlage oder zur Regeneration handelt.
+- e.[^96-3] wenn es sich um einen Einsatz zur Vorbeugung oder Bewältigung einer Katastrophe oder einer Notlage oder zur Regeneration handelt.
 
 <sup>2</sup>
 
@@ -2416,52 +2490,21 @@ Es erhebt jedoch die Abgaben:
 - a. bei Betriebsgemeinschaften, auch wenn diese sich aus landwirtschaftlichen Betrieben zusammensetzen, deren einzelne Einkommen 25 000 Franken im Jahr nicht übersteigen;
 - b. bei Gemeinschaftsweide- und Sömmerungsbetrieben, die aus mehreren privaten Selbstbewirtschafterinnen und Selbstbewirtschaftern bestehen.
 
-<sup>3</sup> Das ZIVI bemisst das Einkommen nach Absatz 1 Buchstabe b und Absatz 2 Buchstabe a wie folgt: steuerbares Einkommen nach dem Bundesgesetz vom 14. Dezember 1990[^96-3] über die direkte Bundessteuer, vermindert um 50 000 Franken für verheiratete Bewirtschafterinnen oder Bewirtschafter, plus ein Zuschlag von 500 Franken je 10 000 Franken steuerbares Vermögen gemäss letzter rechtskräftiger Veranlagung. Massgebend sind die Werte der letzten zwei Steuerjahre, die bis zum Zeitpunkt der Einreichung des Gesuchs um Anerkennung als Einsatzbetrieb rechtskräftig veranlagt wurden. Liegen diese mehr als vier Jahre zurück, so ist auf die provisorische Veranlagung abzustellen. Ist diese rechtskräftig geworden, so wird die Abgabepflicht überprüft.
+<sup>3</sup> Das ZIVI bemisst das Einkommen nach Absatz 1 Buchstabe b und Absatz 2 Buchstabe a wie folgt: steuerbares Einkommen nach dem Bundesgesetz vom 14. Dezember 1990[^96-4] über die direkte Bundessteuer, vermindert um 50 000 Franken für verheiratete Bewirtschafterinnen oder Bewirtschafter, plus ein Zuschlag von 500 Franken je 10 000 Franken steuerbares Vermögen gemäss letzter rechtskräftiger Veranlagung. Massgebend sind die Werte der letzten zwei Steuerjahre, die bis zum Zeitpunkt der Einreichung des Gesuchs um Anerkennung als Einsatzbetrieb rechtskräftig veranlagt wurden. Liegen diese mehr als vier Jahre zurück, so ist auf die provisorische Veranlagung abzustellen. Ist diese rechtskräftig geworden, so wird die Abgabepflicht überprüft.
+
+<sup>4</sup> Erfüllt der Einsatzbetrieb die Voraussetzungen nach Artikel 46 Absatz 3 Buchstabe a ZDG, so verfügt das ZIVI, für welche Pflichtenhefte der Verzicht gilt. Es befristet den Entscheid auf ein Jahr.[^96-5]
 
 [^96-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^96-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
-[^96-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^96-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
+[^96-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^96-4]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^96-5]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 97
 
-**Finanzhilfe zugunsten des Einsatzbetriebes**
+[^97-1]
 
-### (Art. 47 ZDG)
-
-<sup>1</sup>
-
-Das ZIVI kann Finanzhilfen gewähren, wenn ein Einsatzbetrieb die Finanzierung eines Projekts trotz nachgewiesenen Sparanstrengungen nicht vollständig sicherstellen kann, die Durchführung des Projekts ohne Finanzhilfe scheitern würde und das ZIVI an der Durchführung ein besonderes Interesse hat. Finanzhilfen können nur gewährt werden zugunsten von:
-
-- a. Projekten, die praktische Arbeiten im Tätigkeitsbereich «Umwelt- und Naturschutz, Landschaftspflege und Wald» beinhalten;
-- b. Projekten im Tätigkeitsbereich «Kulturgütererhaltung».[^97-1]
-
-<sup>2</sup>
-
-Der Einsatzbetrieb stellt rechtzeitig vor Projektbeginn beim ZIVI ein Gesuch mit insbesondere folgenden Angaben:[^97-2]
-
-- a. einen vollständigen Projektbeschrieb;
-- b. ein Budget;
-- c. den Nachweis, dass alle zumutbaren Massnahmen zur Kostensenkung ergriffen wurden;
-- d.[^97-3] den Nachweis, dass alle anderen Finanzierungsquellen abgeklärt und ausgeschöpft sind;
-- e.[^97-4] einen vollständigen Finanzierungsplan, der auch Auskunft über den noch ungedeckten Finanzbedarf gibt.
-
-<sup>3</sup> Das ZIVI unterbreitet das Gesuch der zuständigen Fachstelle des Bundes oder des betroffenen Kantons zur Begutachtung. Diese beurteilt zuhanden des ZIVI die Notwendigkeit, die Zweckmässigkeit und die Wirtschaftlichkeit des vorgeschlagenen Projektes.
-
-<sup>4</sup> Die Finanzhilfe des Bundes trägt dazu bei, den ungedeckten Finanzbedarf des Projektes zu decken. Sie wird nur in dem Umfang gewährt, in welchem die Projektkosten durch die Teilnahme zivildienstleistender Personen am Projekt verursacht werden.
-
-<sup>5</sup> Die Festsetzung des Bundesbeitrages erfolgt auf der Grundlage des genehmigten Projektbudgets pauschal je Diensttag mit Festlegung eines Kostendachs. Die Finanzhilfe darf die Hälfte der budgetierten anrechenbaren Projektkosten nicht übersteigen. Nicht anrechenbar sind Projektkosten, die vor der Gesuchseinreichung entstanden sind.[^97-5]
-
-<sup>6</sup> Die Auszahlung erfolgt auf der Basis der geleisteten Diensttage.[^97-6]
-
-<sup>7</sup> Der Einsatzbetrieb erstattet dem ZIVI regelmässig Bericht über den Verlauf des Projekts. Nach Projektabschluss legt er ihr einen Schlussbericht und eine Schlussabrechnung vor.[^97-7]
-
-[^97-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^97-3]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-4]: Eingefügt durch Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-5]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-6]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^97-7]: Eingefügt durch Ziff. I der V vom 5. Dez. 2003 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
+[^97-1]: Aufgehoben durch Ziff. I der V vom 19. Juni 2026 (Umsetzung des BG über das Entlastungspaket 2027 für den Bundeshaushalt), mit Wirkung seit 1. Jan. 2027 ([AS 2026 391](https://fedlex.data.admin.ch/eli/oc/2026/391)).
 
 #### Art. 97a
 
@@ -2740,12 +2783,12 @@ Das WBF kann, ohne dass diese Verordnung vorgängig angepasst wird, das ZIVI erm
 
 <sup>1</sup> Das ZIVI erhebt für die Ausstellung eines Aufgebots von Amtes wegen (Art. 31*a* Abs. 4) eine Gebühr.[^111b-3]
 
-<sup>2</sup> Die Gebühr wird nach dem Zeitaufwand berechnet; sie beträgt jedoch höchstens 540 Franken. Pro aufgewendete Stunde werden 90 Franken berechnet.[^111b-4]
+<sup>2</sup> Die Gebühr wird nach dem Zeitaufwand berechnet; sie beträgt jedoch höchstens 660 Franken. Pro aufgewendete Stunde werden 110 Franken berechnet.[^111b-4]
 
 [^111b-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
 [^111b-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^111b-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^111b-4]: Fassung gemäss Ziff. I der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
+[^111b-4]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 #### Art. 111c
 
@@ -2756,7 +2799,7 @@ Das WBF kann, ohne dass diese Verordnung vorgängig angepasst wird, das ZIVI erm
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^111c-2].
 
 [^111c-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2687](https://fedlex.data.admin.ch/eli/oc/2006/414)).
-[^111c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^111c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 13. Kapitel: Übergangsbestimmungen
 
@@ -2836,27 +2879,6 @@ Für Personen, die vor dem Inkrafttreten der Änderung vom 22. November 2017 zum
 
 [^118-1]: Fassung gemäss Anhang 7 Ziff. II 7 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
-#### Art. 118a
-
-**Übergangsbestimmungen zur Änderung vom 20. Juni 2018**[^118a-1]
-
-<sup>1</sup> Muss aufgrund der Änderung vom 20. Juni 2018 für einen Einsatzbetrieb die Kategorie nach Anhang 2*a* neu festgelegt werden, so bezahlt der Einsatzbetrieb die Abgabe gestützt auf die bisher festgelegte Kategorie, bis der angepasste Anerkennungsentscheid rechtskräftig ist.
-
-<sup>2</sup> Für Einsätze, die vor dem Inkrafttreten der Änderung vereinbart wurden, gelten die Tarife nach Anhang 2*a* bisherigen Rechts.
-
-[^118a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
-
-#### Art. 118b
-
-**Übergangsbestimmungen zur Änderung vom 6. November 2024**[^118b-1]
-
-<sup>1</sup> Landwirtschaftliche Betriebe, deren Bewirtschafterin oder Bewirtschafter Beiträge der Kantone nach den Artikeln 63 und 64 DZV[^118b-2] des bisherigen Rechts erhalten, können in den Jahren 2026 und 2027 noch als Einsatzbetriebe nach Artikel 5 Absatz 1 anerkannt werden.
-
-<sup>2</sup> Zivildienstpflichtige Personen können in den Jahren 2026 und 2027 noch nach Artikel 6 Absatz 1 Buchstabe a Ziffer 5 des bisherigen Rechts eingesetzt werden.
-
-[^118b-1]: Eingefügt durch Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^118b-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-
 #### Art. 118<sup>bis</sup>
 
 [^118bis-1]
@@ -2880,6 +2902,39 @@ Für Personen, die vor dem Inkrafttreten der Änderung vom 22. November 2017 zum
 [^118quinquies-1]
 
 [^118quinquies-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2008 ([AS 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)). Aufgehoben durch Ziff. I der V vom 6. März 2009, mit Wirkung seit 1. April 2009 ([AS 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
+
+#### Art. 118a
+
+**Übergangsbestimmungen zur Änderung vom 20. Juni 2018**[^118a-1]
+
+<sup>1</sup> Muss aufgrund der Änderung vom 20. Juni 2018 für einen Einsatzbetrieb die Kategorie nach Anhang 2*a* neu festgelegt werden, so bezahlt der Einsatzbetrieb die Abgabe gestützt auf die bisher festgelegte Kategorie, bis der angepasste Anerkennungsentscheid rechtskräftig ist.
+
+<sup>2</sup> Für Einsätze, die vor dem Inkrafttreten der Änderung vereinbart wurden, gelten die Tarife nach Anhang 2*a* bisherigen Rechts.
+
+[^118a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+
+#### Art. 118b
+
+**Übergangsbestimmungen zur Änderung vom 6. November 2024**[^118b-1]
+
+<sup>1</sup> Landwirtschaftliche Betriebe, deren Bewirtschafterin oder Bewirtschafter Beiträge der Kantone nach den Artikeln 63 und 64 DZV[^118b-2] des bisherigen Rechts erhalten, können in den Jahren 2026 und 2027 noch als Einsatzbetriebe nach Artikel 5 Absatz 1 anerkannt werden.
+
+<sup>2</sup> Zivildienstpflichtige Personen können in den Jahren 2026 und 2027 noch nach Artikel 6 Absatz 1 Buchstabe a Ziffer 5 des bisherigen Rechts eingesetzt werden.
+
+[^118b-1]: Eingefügt durch Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^118b-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+
+#### Art. 118c
+
+**Übergangsbestimmungen zur Änderung vom 19. Juni 2026**[^118c-1]
+
+<sup>1</sup> Innerhalb von drei Jahren nach Inkrafttreten der Änderung vom 19. Juni 2026 passt das ZIVI die Pflichtenhefte der nach bisherigem Recht anerkannten Einsatzbetriebe an und überprüft, ob die Anerkennungsvoraussetzungen nach Artikel 87*c* erfüllt sind.
+
+<sup>2</sup> Muss aufgrund der Änderung vom 19. Juni 2026 für einen Einsatzbetrieb die Kategorie nach Anhang 2*a* neu festgelegt werden, so bezahlt der Einsatzbetrieb die Abgabe gestützt auf die bisher festgelegte Kategorie, bis der angepasste Anerkennungsentscheid rechtskräftig ist. Für Einsätze, die vor Inkrafttreten der Änderung vereinbart wurden, gelten die Tarife nach Anhang 2*a* nach bisherigem Recht.
+
+<sup>3</sup> ...
+
+[^118c-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027, Abs. 3 in Kraft seit 1. Jan. 2028 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ## 14. Kapitel: Inkrafttreten
 
@@ -2951,7 +3006,7 @@ Bei Einsatzbetrieben mit mehr als 60 Vollzeitstellen wird die maximale Anzahl gl
 <tr><td></td><td>≥300</td><td>5</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex1-lvlu1-lvl2-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 3. Regel zur Berechnung des Maximums von speziellen Gruppeneinsätzen in Gemeinschaftsweide- und Sömmerungsbetrieben
 
@@ -3009,26 +3064,26 @@ Anhang 2a[^t-3]
 
 ## Höhe der Abgaben in Abhängigkeit vom Bruttolohn
 
-[^t-3]: Eingefügt durch Ziff. III Abs. 2 der V vom 5. Dez. 2003 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Fassung gemäss Ziff. II der V vom 20. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+[^t-3]: Eingefügt durch Ziff. III Abs. 2 der V vom 5. Dez. 2003 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Fassung gemäss Ziff. II der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 390](https://fedlex.data.admin.ch/eli/oc/2026/390)).
 
 ### 1. Grundtarif
 
 <table>
-<tr><td>Kategorie</td><td>Vergleichbarer Bruttolohn pro Monat in Fr.\*</td><td>Abgabe in %</td><td colspan="2">Tagesansatz in Fr.\*\*</td></tr>
+<tr><th>Kategorie</th><th>Vergleichbarer Bruttolohn pro Monat in Fr.\*</th><th>Abgabe in %</th><th colspan="2">Tagesansatz in Fr.\*\*</th></tr>
 <tr><td>0</td><td></td><td></td><td colspan="2">abgabebefreit</td></tr>
-<tr><td>1</td><td>0 bis 2874.–</td><td></td><td colspan="2">9.50</td></tr>
-<tr><td>2</td><td>2875.– bis 3449.–</td><td>12,42</td><td colspan="2">11.90</td></tr>
-<tr><td>3</td><td>3450.– bis 4024.–</td><td>12,43</td><td colspan="2">14.30</td></tr>
-<tr><td>4</td><td>4025.– bis 4599.–</td><td>13,49</td><td colspan="2">18.10</td></tr>
-<tr><td>5</td><td>4600.– bis 5174.–</td><td>15,52</td><td colspan="2">23.80</td></tr>
-<tr><td>6</td><td>5175.– bis 5749.–</td><td>17,62</td><td colspan="2">30.40</td></tr>
-<tr><td>7</td><td>5750.– bis 6324.–</td><td>19,67</td><td colspan="2">37.70</td></tr>
-<tr><td>8</td><td>6325.– bis 6899.–</td><td>21,77</td><td colspan="2">45.90</td></tr>
-<tr><td>9</td><td>6900.– bis 7474.–</td><td>23,83</td><td colspan="2">54.80</td></tr>
-<tr><td>10</td><td>7475.– bis 8049.–</td><td>25,89</td><td colspan="2">64.50</td></tr>
-<tr><td>11</td><td>8050.– bis 8624.–</td><td>25,86</td><td colspan="2">69.40</td></tr>
-<tr><td>12</td><td>8625.– bis 9199.–</td><td>25,91</td><td colspan="2">74.50</td></tr>
-<tr><td>13</td><td>ab 9200.–</td><td></td><td colspan="2">79.40</td></tr>
+<tr><td>1</td><td>0 bis 3089.–</td><td></td><td colspan="2">10.20</td></tr>
+<tr><td>2</td><td>3090.– bis 3708.–</td><td>12,42</td><td colspan="2">12.80</td></tr>
+<tr><td>3</td><td>3709.– bis 4326.–</td><td>12,43</td><td colspan="2">15.40</td></tr>
+<tr><td>4</td><td>4327.– bis 4944.–</td><td>13,48</td><td colspan="2">19.40</td></tr>
+<tr><td>5</td><td>4945.– bis 5562.–</td><td>15,52</td><td colspan="2">25.60</td></tr>
+<tr><td>6</td><td>5563.– bis 6180.–</td><td>17,62</td><td colspan="2">32.70</td></tr>
+<tr><td>7</td><td>6181.– bis 6798.–</td><td>19,67</td><td colspan="2">40.50</td></tr>
+<tr><td>8</td><td>6799.– bis 7416.–</td><td>21,77</td><td colspan="2">49.30</td></tr>
+<tr><td>9</td><td>7417.– bis 8034.–</td><td>23,83</td><td colspan="2">58.90</td></tr>
+<tr><td>10</td><td>8035.– bis 8653.–</td><td>25,89</td><td colspan="2">69.30</td></tr>
+<tr><td>11</td><td>8654.– bis 9271.–</td><td>25,86</td><td colspan="2">74.60</td></tr>
+<tr><td>12</td><td>9272.– bis 9889.–</td><td>25,91</td><td colspan="2">80.10</td></tr>
+<tr><td>13</td><td>ab 9890.–</td><td></td><td colspan="2">85.40</td></tr>
 <tr><td colspan="4">\* Orts- und berufsüblicher Bruttolohn, den der Einsatzbetrieb einer Arbeitnehmerin oder einem Arbeitnehmer für eine vergleichbare Tätigkeit bezahlen müsste. \*\* Die Abgabe pro Diensttag (Tagesansatz) errechnet sich wie folgt: vergleichbarer Bruttolohn pro Monat mal Prozentsatz der Abgabe geteilt durch 30 Tage. Innerhalb einer Kategorie gilt jeweils ein einheitlicher Tagesansatz, der auf der Basis des tiefsten Lohnes der Kategorie berechnet wird.</td></tr>
 </table>
 
