@@ -4,13 +4,12 @@ number: VI E/211/1
 title: Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel
 short: Kantonales Jagdgesetz
 language: de
-version: 2022-07-01
-valid_until: 2026-12-31
-version_adopted: 2021-09-05
+version: 2027-01-01
+version_adopted: 2026-05-03
 adopted: 1979-05-06
 in_force: 1980-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.211.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2624/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2681/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2624/pdf_file"
 
 (Kantonales Jagdgesetz)
 
-Vom 06.05.1979 (Stand 01.07.2022)
+Vom 06.05.1979 (Stand 01.01.2027)
 
 (Erlassen von der Landsgemeinde am 6. Mai 1979)[^ingress-1]
 
@@ -65,18 +64,30 @@ Vom 06.05.1979 (Stand 01.07.2022)
 
 **Vergütung von Wildschäden**
 
-<sup>1</sup> Der Kanton entschädigt angemessen die durch jagdbares Wild verursachten Schäden an Wald, landwirtschaftlichen Kulturen und Nutztieren. Ausgenommen sind Schäden durch Tiere, gegen welche nach Artikel 12 Absatz 3 des Bundesgesetzes sowie Artikel 9 Absatz 1 der Jagdverordnung[^4a-1] Selbsthilfemassnahmen ergriffen werden dürfen. Eine Entschädigung wird abgelehnt, wenn der Geschädigte die ihm zumutbaren Abwehrmassnahmen nicht getroffen hat. Bund und Kanton entschädigen den durch bestimmte geschützte Wildarten verursachten Schaden im Rahmen der Bundesgesetzgebung (Art. 13 Abs. 4 Bundesgesetz).
+<sup>1</sup> Der Kanton entschädigt angemessen die durch jagdbares Wild verursachten Schäden an Wald, landwirtschaftlichen Kulturen und Nutztieren. Ausgenommen sind Schäden durch Tiere, gegen welche nach Artikel 12 Absatz 3 des Bundesgesetzes sowie Artikel 9 Absatz 1 der Jagdverordnung des Bundes[^4a-1] Selbsthilfemassnahmen ergriffen werden dürfen.
 
-[^4a-1]: GS [VI E/211/2](https://gesetze.gl.ch/data/VI-E.211.2/de)
+<sup>2</sup> Bund und Kanton entschädigen die durch bestimmte geschützte Wildarten verursachten Schäden an Wald, landwirtschaftlichen Kulturen, Nutztieren und Bauten im Rahmen der Bundesgesetzgebung (Art. 13 Abs. 4 Bundesgesetz).
+
+<sup>3</sup> Der Kanton kann die durch Grossraubtiere verursachten Schäden an Nutztieren unabhängig von einer Entschädigung des Bundes entschädigen.
+
+<sup>4</sup> Eine Entschädigung für Schäden nach den Absätzen 1–3 erfolgt nur, wenn der Geschädigte die zumutbaren Abwehr- und Schutzmassnahmen fachgerecht getroffen hat.
+
+[^4a-1]: SR 922.01
 
 #### Art. 4b
 
 **Finanzierung der Entschädigungen für Wildschadenverhütung und -vergütung**
 
-<sup>1</sup> Zum Zwecke einer möglichst ausgeglichenen Finanzierung der Schadenverhütungsmassnahmen und der Wildschäden unterhält der Kanton einen Wildschadenfonds. Dieser wird gespiesen
+<sup>1</sup> Zum Zwecke einer möglichst ausgeglichenen Finanzierung der Schadenverhütungsmassnahmen und der Wildschäden durch jagdbares Wild unterhält der Kanton einen Wildschadenfonds. Dieser wird gespiesen:
 
 - a. durch einen jährlichen Zuschlag von maximal 10 Prozent zur Patenttaxe;
-- b. durch einen jährlichen Beitrag von 10 Prozent aus den Einnahmen, die der Kanton aus dem Wildabschuss erzielt.
+- b. durch einen jährlichen, vom Landrat festzulegenden Beitrag von maximal 20 Prozent aus den Einnahmen, die der Kanton aus dem Wildabschuss erzielt;
+- c. durch die Bundesbeiträge zur Wildschadenverhütung und Wildschadenvergütung im Rahmen der Programmvereinbarungen im Bereich Wildtiere.
+
+<sup>1a</sup> Über das ordentliche Budget finanziert werden die Vergütungen von Schäden durch:
+
+- a. geschützte Arten nach Artikel 10 der Jagdverordnung des Bundes gemäss Artikel 4a Absatz 2;
+- b. Grossraubtiere gemäss Artikel 4a Absatz 3.
 
 <sup>2</sup> Über die Verhütung und Vergütung von Wildschäden erlässt der Landrat eine Verordnung[^4b-1].
 
