@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20260101/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. Januar 2026)
+vom 20. Dezember 1982 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -1351,7 +1351,7 @@ Die Ersatzkasse ordnet im Reglement die Beitragspflicht der einzelnen Versichere
 <sup>5</sup> Die Ersatzkasse führt eine aggregierte Fondsrechnung. Sie regelt die Organisation des Ausgleichsfonds und die Einzelheiten der Durchführung der Finanzierung in einem Reglement.
 
 [^95a-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^95a-2]: Fassung gemäss Ziff. I der V vom 12. Sept. 2025, in Kraft seit 1. Jan. 2026 (AS **20****25** 599).
+[^95a-2]: Fassung gemäss Ziff. I der V vom 12. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 599](https://fedlex.data.admin.ch/eli/oc/2025/599)).
 [^95a-3]: Eingefügt durch Ziff. I der V vom 12. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 599](https://fedlex.data.admin.ch/eli/oc/2025/599)).
 
 #### Art. 96
@@ -2003,9 +2003,11 @@ Die Versicherung endet:
 
 **Grundlage für die Bemessung der Prämien und Geldleistungen**[^138-1]
 
-Die Prämien und Geldleistungen werden im Rahmen von Artikel 22 Absatz 1 nach dem versicherten Verdienst bemessen, der bei Vertragsabschluss vereinbart wird und jeweils auf Beginn eines Kalenderjahres angepasst werden kann. Dieser Verdienst darf bei Selbstständigerwerbenden nicht weniger als 45 Prozent und bei Familiengliedern nicht weniger als 30 Prozent des Höchstbetrags des versicherten Verdienstes betragen.
+<sup>1</sup> Die Prämien und Geldleistungen werden im Rahmen von Artikel 22 Absatz 1 nach dem versicherten Verdienst bemessen, der bei Vertragsabschluss vereinbart wird und jeweils auf Beginn eines Kalenderjahres angepasst werden kann. Dieser Verdienst darf bei Selbstständigerwerbenden sowie bei mitarbeitenden Familiengliedern nicht weniger als 30 Prozent des Höchstbetrags des versicherten Verdienstes betragen.
 
-[^138-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3815](https://fedlex.data.admin.ch/eli/oc/2015/639)).
+<sup>2</sup> Die Versicherer können den in Absatz 1 genannten Satz entsprechend dem Beschäftigungsgrad der Selbstständigerwerbenden und für mitarbeitende Familienglieder anpassen.
+
+[^138-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 432](https://fedlex.data.admin.ch/eli/oc/2026/432)).
 
 #### Art. 139
 
@@ -2013,7 +2015,11 @@ Die Prämien und Geldleistungen werden im Rahmen von Artikel 22 Absatz 1 nach de
 
 <sup>1</sup> Die Versicherer können in der freiwilligen Versicherung eine Nettoprämie vorsehen, die gesamthaft für die Berufs- und die Nichtberufsunfallversicherung gilt. Die Prämie ist so zu bemessen, dass die freiwillige Versicherung selbsttragend ist.
 
+<sup>1bis</sup> Die Versicherer können in der freiwilligen Versicherung eine Minimalprämie vorsehen, die die Kosten in Zusammenhang mit einer Heilbehandlung nach Artikel 10 Absatz 1 UVG und die Verwaltungskosten nach Artikel 92 Absatz 1 UVG deckt.[^139-1]
+
 <sup>2</sup> In der freiwilligen Versicherung werden für Teuerungszulagen sowie für die Verhütung von Berufsunfällen, Berufskrankheiten und Nichtberufsunfällen keine Prämienzuschläge erhoben.
+
+[^139-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 432](https://fedlex.data.admin.ch/eli/oc/2026/432)).
 
 #### Art. 140
 
@@ -2225,7 +2231,7 @@ Anhang 2[^t-2]
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2236,7 +2242,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2249,7 +2255,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>

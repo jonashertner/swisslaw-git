@@ -4,11 +4,11 @@ title: "Ordonnance du 20 décembre 1982 sur l'assurance-accidents (OLAA)"
 short: OLAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20260101/fr"
 
 (OLAA)
 
-du 20 décembre 1982 (État le 1<sup>er</sup> janvier 2026)
+du 20 décembre 1982 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -2032,9 +2032,11 @@ Le rapport d’assurance prend fin:
 
 **Base de calcul des primes et des prestations en espèces**[^138-1]
 
-Les primes et les prestations en espèces sont calculées dans les limites de l’art. 22, al. 1, d’après le gain assuré; le montant de celui-ci sera convenu entre l’assureur et l’assuré à la conclusion du contrat et pourra être modifié au début de chaque année civile. Pour les personnes exerçant une activité lucrative indépendante, ce montant ne peut être inférieur à 45 % du montant maximum du gain assuré; pour les membres de la famille collaborant à cette activité, il ne peut être inférieur à 30 % de ce même montant.
+<sup>1</sup> Les primes et les prestations en espèces sont calculées dans les limites de l’art. 22, al. 1, d’après le gain assuré; le montant de celui-ci sera convenu entre l’assureur et l’assuré à la conclusion du contrat et pourra être modifié au début de chaque année civile. Pour les personnes exerçant une activité lucrative indépendante et pour les membres de leur famille collaborant à cette activité, ce montant ne peut être inférieur à 30 % du montant maximum du gain assuré.
 
-[^138-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3815](https://fedlex.data.admin.ch/eli/oc/2015/639)).
+<sup>2</sup> Les assureurs peuvent adapter le taux visé à l’al. 1 en fonction du taux d’activité des personnes exerçant une activité lucrative indépendante et des membres de leur famille collaborant à cette activité.
+
+[^138-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 432](https://fedlex.data.admin.ch/eli/oc/2026/432)).
 
 #### Art. 139
 
@@ -2042,7 +2044,11 @@ Les primes et les prestations en espèces sont calculées dans les limites de l�
 
 <sup>1</sup> Les assureurs peuvent prévoir dans l’assurance facultative une prime nette globale pour l’assurance contre les accidents professionnels et non professionnels. La prime doit être calculée de telle sorte que l’assurance facultative puisse pourvoir à son propre financement.
 
+<sup>1bis</sup> Les assureurs peuvent prévoir dans l’assurance facultative une prime minimale couvrant les frais liés à un traitement médical visé à l’art. 10, al. 1, LAA et les frais administratifs visés à l’art. 92, al. 1, LAA.[^139-1]
+
 <sup>2</sup> Dans l’assurance facultative, il n’est prélevé aucun supplément de primes pour les allocations de renchérissement ou pour la prévention des accidents et maladies professionnels et des accidents non professionnels.
+
+[^139-1]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 432](https://fedlex.data.admin.ch/eli/oc/2026/432)).
 
 #### Art. 140
 
@@ -2499,7 +2505,7 @@ Annexe 2[^t-2]
 
 L’indemnité journalière est calculée conformément à la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/fr/xml/image/image1.png)
 
 Exemples
 
@@ -2512,7 +2518,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 650.—</td></tr>
 <tr><td>[tab] Allocations familiales: Fr. 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 13</td><td></td></tr>
 <tr><td>[tab] Total: 13 × 113.60 = Fr. 1476.80 arrondis à</td><td>1 477.—</td></tr>
 <tr><td>b. Salaire horaire</td><td></td></tr>
@@ -2524,7 +2530,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 557.30</td></tr>
 <tr><td>[tab] Allocations familiales Fr. 365.–×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 22</td><td></td></tr>
 <tr><td>[tab] Total: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>

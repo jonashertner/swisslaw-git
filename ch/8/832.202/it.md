@@ -4,11 +4,11 @@ title: "Ordinanza del 20 dicembre 1982 sull'assicurazione contro gli infortuni (
 short: OAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20260101/it"
 
 (OAINF)
 
-del 20 dicembre 1982 (Stato 1° gennaio 2026)
+del 20 dicembre 1982 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -63,7 +63,7 @@ ordina:
 Non sono soggetti all’obbligo assicurativo:
 
 - a.[^2-1] i familiari del datore di lavoro che collaborano nell’azienda, non ricevono un salario in contanti e non versano contributi all’AVS o sono parificati ai lavoratori agricoli indipendenti secondo l’articolo 1*a* capoverso 2 lettere a e b della legge federale del 20 giugno 1952[^2-2] sugli assegni familiari nell’agricoltura;
-- b. a d.[^2-3] …
+- b.–d.[^2-3] …
 - e.[^2-4] i dipendenti delle Confederazione sottoposti all’assicurazione militare conformemente all’articolo 1*a* capoverso 1 lettera b della legge federale del 19 giugno 1992[^2-5] sull’assicurazione militare (LAM);
 - f.[^2-6] i membri dei consigli d’amministrazione non attivi nell’azienda, per quest’attività;
 - g.[^2-7] …
@@ -2058,9 +2058,11 @@ Il rapporto assicurativo termina:
 
 **Base di calcolo dei premi e delle prestazioni in contanti**[^138-1]
 
-Nei limiti dell’articolo 22 capoverso 1, i premi e le prestazioni in contanti sono calcolati secondo il guadagno assicurato, il cui importo, pattuito alla conclusione del contratto, potrà essere modificato all’inizio di ogni anno civile. Per le persone esercitanti un’attività lucrativa indipendente, questo importo non può essere inferiore al 45 per cento e, per i familiari, al 30 per cento del guadagno massimo assicurato.
+<sup>1</sup> Nei limiti dell’articolo 22 capoverso 1, i premi e le prestazioni in contanti sono calcolati secondo il guadagno assicurato, il cui importo, pattuito alla conclusione del contratto, potrà essere modificato all’inizio di ogni anno civile. Per le persone esercitanti un’attività lucrativa indipendente e per i loro familiari collaboranti nell’azienda, questo importo non può essere inferiore al 30 per cento del guadagno massimo assicurato.
 
-[^138-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3815](https://fedlex.data.admin.ch/eli/oc/2015/639)).
+<sup>2</sup> Gli assicuratori possono adeguare il tasso di cui al capoverso 1 in funzione del grado di occupazione delle persone che esercitano un’attività lucrativa indipendente e dei loro familiari collaboranti nell’azienda.
+
+[^138-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 432](https://fedlex.data.admin.ch/eli/oc/2026/432)).
 
 #### Art. 139
 
@@ -2068,9 +2070,12 @@ Nei limiti dell’articolo 22 capoverso 1, i premi e le prestazioni in contanti 
 
 <sup>1</sup> Gli assicuratori possono fissare nell’assicurazione facoltativa un premio netto globale per l’assicurazione contro gli infortuni professionali e non professionali. Il premio va calcolato tenendo conto che l’assicurazione facoltativa dev’essere autosufficiente.
 
-<sup>2</sup> Nell’assicurazione facoltativa non è riscosso alcun premio supplementare per le indennità di rincaro e per la prevenzione degli infortuni e malattie professionali e degli infortuni non professionali.[^139-1]
+<sup>1bis</sup> Gli assicuratori possono fissare nell’assicurazione facoltativa un premio minimo che copra le spese legate a una cura medica di cui all’articolo 10 capoverso 1 LAINF e le spese amministrative di cui all’articolo 92 capoverso 1 LAINF.[^139-1]
 
-[^139-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+<sup>2</sup> Nell’assicurazione facoltativa non è riscosso alcun premio supplementare per le indennità di rincaro e per la prevenzione degli infortuni e malattie professionali e degli infortuni non professionali.[^139-2]
+
+[^139-1]: Introdotto dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 432](https://fedlex.data.admin.ch/eli/oc/2026/432)).
+[^139-2]: Nuovo testo giusta la cifra I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 140
 
@@ -2513,7 +2518,7 @@ Allegato 2[^t-2]
 
 L’indennità giornaliera è calcolata conformemente alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/it/xml/image/image1.png)
 
 Esempi
 
@@ -2526,7 +2531,7 @@ Esempi
 <tr><td>[tab] Tredicesima mensilità</td><td>3 650.—</td></tr>
 <tr><td>[tab] Assegni familiari: 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/it/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/it/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Numero di giorni: 13</td><td></td></tr>
 <tr><td>[tab] Totale: 13 × 113.60 = fr. 1 476.80 arrotondati a</td><td>1 477.—</td></tr>
 <tr><td>b) Salario orario</td><td></td></tr>
@@ -2538,7 +2543,7 @@ Esempi
 <tr><td>[tab] Tredicesima</td><td>3 557.30</td></tr>
 <tr><td>[tab] Assegni familiari: fr. 365.– ×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/it/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20270101/it/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>Numero di giorni: 22</td><td></td></tr>
 <tr><td>Totale: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
