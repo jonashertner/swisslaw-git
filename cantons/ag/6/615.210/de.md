@@ -4,13 +4,12 @@ number: "615.210"
 title: Dekret über den Finanzausgleich zwischen den Gemeinden
 short: "Finanzausgleichsdekret, FiAD"
 language: de
-version: 2017-12-31
-valid_until: 2026-12-31
-version_adopted: 2016-03-01
+version: 2027-01-01
+version_adopted: 2026-06-02
 adopted: 2016-03-01
 in_force: 2017-12-31
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/615.210"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3758/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4021/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3758/pdf_file"
 
 (Finanzausgleichsdekret, FiAD)
 
-Vom 01.03.2016 (Stand 31.12.2017)
+Vom 01.03.2016 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -51,13 +50,19 @@ beschliesst:
 
 **Soziallastenausgleich**
 
-<sup>1</sup> Der Grundbetrag pro Einheit zur Ermittlung des Soziallastenausgleichs gemäss § 9 Abs. 5 FiAG beträgt Fr. 7'000.–.
+<sup>1</sup> Der Grundbetrag pro Einheit zur Ermittlung des Soziallastenausgleichs gemäss § 9 Abs. 5 FiAG beträgt Fr. 5'000.–.
 
 #### § 5
 
 **Räumlich-struktureller Lastenausgleich**
 
-<sup>1</sup> Der Grundbetrag pro Einheit zur Ermittlung des räumlich-strukturellen Lastenausgleichs gemäss § 10 Abs. 4 FiAG beträgt Fr. 950.–.
+<sup>1</sup> Der Grundbetrag pro Einheit zur Ermittlung des räumlich-strukturellen Lastenausgleichs gemäss § 10 Abs. 4 FiAG beträgt Fr. 115.–.
+
+#### § 5a
+
+**Ergänzungsbeiträge**
+
+<sup>1</sup> Der massgebliche Wert gemäss § 12 Abs. 1<sup>bis</sup> FiAG liegt um 25 Prozentpunkte über dem gewichteten kantonalen Mittelwert des Steuerfusses des jeweiligen Vorvorjahres.
 
 #### § 6
 
@@ -65,12 +70,12 @@ beschliesst:
 
 <sup>1</sup> Die Zusammenschlusspauschale gemäss § 17 Abs. 2 FiAG beträgt pro Gemeinde Fr. 400'000.–.
 
-<sup>2</sup> Gemeinden mit einer relativen Steuerkraft unter dem kantonalen Durchschnitt werden Zusammenschlussbeiträge gewährt. Die Höhe des Beitrags berechnet sich aus der Multiplikation des Faktors 3,5 mit dem Ergebnis der Multiplikation folgender Faktoren:
+<sup>2</sup> Gemeinden, deren Normsteuerertrag pro Kopf unter dem Durchschnitt aller Gemeinden liegt, werden Zusammenschlussbeiträge gewährt. Die Höhe des Beitrags berechnet sich aus der Multiplikation des Faktors 3,5 mit dem Ergebnis der Multiplikation folgender Faktoren:
 
-- a) Differenz zwischen der durchschnittlichen relativen Steuerkraft aller Gemeinden und jener der betreffenden Gemeinde,
+- a) Differenz zwischen dem durchschnittlichen Normsteuerertrag pro Kopf aller Gemeinden und jenem der betreffenden Gemeinde,
 - b) nach Grösse gewichtete Einwohnerzahl der betreffenden Gemeinde.
 
-<sup>3</sup> Für die Einwohnerzahl und die relative Steuerkraft gemäss Absatz 2 sind die Durchschnittswerte der letzten drei Jahre vor dem Gemeindezusammenschluss massgebend. Die resultierende Einwohnerzahl wird wie folgt berücksichtigt:
+<sup>3</sup> Für die Einwohnerzahl und den Normsteuerertrag pro Kopf gemäss Absatz 2 sind die Durchschnittswerte der letzten drei Jahre vor dem Gemeindezusammenschluss massgebend. Die resultierende Einwohnerzahl wird wie folgt berücksichtigt:
 
 - a) erste 500 Einwohnerinnen und Einwohner zu 100 %,
 - b) nächste 1'000 Einwohnerinnen und Einwohner zu 80 %,
@@ -84,13 +89,19 @@ beschliesst:
 
 <sup>1</sup> Der Wirkungsbericht gemäss § 23 FiAG umfasst insbesondere Aussagen zu folgenden Punkten:
 
-- a) Entwicklung der Unterschiede zwischen den Gemeinden bei Steuerkraft, Steuerbelastung und Ausgabenbelastung,
+- a) Entwicklung der Unterschiede zwischen den Gemeinden bei Ressourcenstärke, Steuerbelastung und Ausgabenbelastung,
 - b) Wirkung der Finanzausgleichszahlungen auf die Unterschiede,
 - c) Entwicklung des Umfangs der Finanzausgleichsbeiträge, der Spezialfinanzierung Finanzausgleich und der einzelnen Finanzierungsquellen,
 - d) Angemessenheit der Höhe der festgelegten Steuerungsparameter und der Dotierung der Lastenausgleichsinstrumente,
 - e) Wirkung des Finanzausgleichs auf die Gemeindestrukturen,
 - f) Übersicht über die bewilligten und die abgelehnten Gesuche für Ergänzungsbeiträge sowie über die Wirkung der ausgerichteten Beiträge,
 - g) Bedarf für eine Anpassung der Rechtsgrundlagen.
+
+#### § 7a
+
+**Übergangsrecht zur Änderung vom 2. Juni 2026**
+
+<sup>1</sup> Im ersten Jahr, in dem die Änderung vom 2. Juni 2026 finanzwirksam ist, beträgt der Grundbetrag pro Einheit zur Ermittlung des Soziallastenausgleichs gemäss § 9 Abs. 5 FiAG Fr. 6'333.–, im zweiten Jahr Fr. 5'667.–.
 
 #### § 8
 
