@@ -4,13 +4,12 @@ number: IX D/1/1
 title: "Einführungsgesetz zu den Bundesgesetzen über die Landwirtschaft, über das bäuerliche Bodenrecht und über die landwirtschaftliche Pacht"
 short: EG LwG
 language: de
-version: 2018-05-06
-valid_until: 2026-12-31
-version_adopted: 2018-05-06
+version: 2027-01-01
+version_adopted: 2026-05-03
 adopted: 2014-05-04
 in_force: 2014-05-04
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2042/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2680/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2042/pdf_file"
 
 (EG LwG)
 
-Vom 04.05.2014 (Stand 06.05.2018)
+Vom 04.05.2014 (Stand 01.01.2027)
 
 (Erlassen von der Landsgemeinde am 4. Mai 2014)
 
@@ -37,7 +36,7 @@ Vom 04.05.2014 (Stand 06.05.2018)
 
 **Kantonale Fördermassnahmen**
 
-<sup>1</sup> Im Rahmen der bewilligten Kredite stellt der Kanton die landwirtschaftliche Beratung sicher und fördert, soweit der Bund eine finanzielle Leistung erbringt und hierfür eine kantonale Leistung voraussetzt, Massnahmen im Sinne des einschlägigen Bundesrechts.
+<sup>1</sup> Der Regierungsrat stellt die landwirtschaftliche Beratung sicher und fördert, namentlich soweit der Bund eine finanzielle Leistung erbringt und hierfür eine kantonale Leistung voraussetzt, Massnahmen im Sinne des einschlägigen Bundesrechts.
 
 <sup>2</sup> Er kann insbesondere:
 
@@ -45,10 +44,29 @@ Vom 04.05.2014 (Stand 06.05.2018)
 - b. landwirtschaftliche Organisationen mit jährlichen Beiträgen unterstützen;
 - c. über die Leistungen des Bundes hinausgehende Massnahmen zur Förderung der Tierzucht unterstützen;
 - d. zur Bekämpfung und Überwachung regional bedeutsamer Krankheiten, Schädlinge und Problempflanzen Vorschriften erlassen und Massnahmen anordnen;
-- e. die Qualitätsförderung unterstützen;
+- e. die Qualitätsförderung sowie die Kennzeichnung und den Schutz der Bezeichnung von Glarner Lebensmitteln unterstützen;
 - f. Marktentlastungsmassnahmen unterstützen, soweit der Bund eine finanzielle Leistung erbringt und hierfür eine kantonale Leistung voraussetzt;
-- g. Massnahmen zur Absatzförderung von Glarner Lebensmitteln unterstützen;
+- g. Massnahmen zur Absatzförderung von Glarner Lebensmitteln, insbesondere von Regionalprodukten mit einer geschützten Bezeichnung, unterstützen;
 - h. Betriebshilfedarlehen gewähren.
+
+<sup>3</sup> Er fördert die Beratung, die Öffentlichkeits- und die Zusammenarbeit unter Einbezug der vor- und nachgelagerten Akteure entlang der Wertschöpfungskette der Ernährungswirtschaft bis zu den Konsumenten.
+
+## 1a. Landwirtschaftliche Beratung
+
+#### Art. 2a
+
+**Übertragung**
+
+<sup>1</sup> Der Regierungsrat kann den Beratungsauftrag des Kantons an Personen oder Organisationen des öffentlichen oder privaten Rechts übertragen oder Vereinbarungen mit einem anderen Kanton oder anderen Kantonen über den gemeinsamen Vollzug abschliessen.
+
+<sup>2</sup> Die Übertragung bedingt:
+
+- a. ein auf die Dauer der Leistungsvereinbarung ausgerichtetes Konzept für die landwirtschaftliche Beratung im Kanton Glarus; und
+- b. den Nachweis der erforderlichen professionellen Strukturen und der fachlichen Fähigkeiten für die effiziente Umsetzung des Konzepts.
+
+<sup>3</sup> Die Übertragung erfolgt durch eine auf vier Jahre befristete Leistungsvereinbarung. Ohne fristgerechte Kündigung verlängert sie sich jeweils um weitere vier Jahre.
+
+<sup>4</sup> Die Leistungsvereinbarung regelt mindestens die Leistung, das Berichtswesen, das Controlling und die Auflösungsmodalitäten.
 
 ## 2. Alpwirtschaft
 
@@ -100,12 +118,14 @@ Vom 04.05.2014 (Stand 06.05.2018)
 
 **Vorbehalte kantonalen Rechts**
 
-<sup>1</sup> Den Bestimmungen des Bundesgesetzes über das bäuerliche Bodenrecht (BGBB) über landwirtschaftliche Gewerbe unterstehen:
+<sup>1</sup> Den Bestimmungen des Bundesgesetzes über das bäuerliche Bodenrecht (BGBB)[^8-1] über landwirtschaftliche Gewerbe unterstehen:
 
-- a. kleine landwirtschaftliche Betriebe, zu deren Bewirtschaftung die im Sinne des Bundesrechts minimale Standardarbeitskraft erforderlich ist, sofern die betriebsnotwendigen Ökonomiegebäude und mindestens 80 Prozent der landwirtschaftlichen Nutzfläche in den Bergzonen I bis IV gemäss landwirtschaftlichem Produktionskataster liegen;
-- b. Sömmerungsbetriebe mit über 30 Normalstössen.
+- a. kleine landwirtschaftliche Betriebe, zu deren Bewirtschaftung die im Sinne des Bundesrechts minimale Standardarbeitskraft erforderlich ist, sofern die betriebsnotwendigen Ökonomiegebäude und mindestens 80 Prozent der landwirtschaftlichen Nutzfläche in den Bergzonen I–IV gemäss landwirtschaftlichem Produktionskataster liegen.
+- b. …
 
 <sup>2</sup> Der Landrat kann die Anforderungen nach Absatz 1 Buchstabe a erhöhen.
+
+[^8-1]: SR 211.412.11
 
 #### Art. 9
 
@@ -120,19 +140,43 @@ Vom 04.05.2014 (Stand 06.05.2018)
 
 ## 5. Pachtrecht
 
-#### Art. 10
+#### Art. 9a
 
 **Sömmerungsbetriebe**
+
+<sup>1</sup> Sömmerungsbetriebe sind landwirtschaftliche Grundstücke.
+
+<sup>2</sup> Für Sömmerungsbetriebe mit mehr als 30 Normalstössen hat der Verpächter vor dem Abschluss eines Pachtvertrages eine Ertragswertschätzung nach BGBB zur Bestimmung des Pachtzinses zu veranlassen. Der Regierungsrat regelt die Ausnahmen.
+
+#### Art. 9b
+
+**Stafel**
+
+<sup>1</sup> Der Pachtzins ist für jeden Stafel über die gesamte Alpzeit geschuldet.
+
+#### Art. 10
+
+**Pachterstreckung**
 
 <sup>1</sup> Die bundesrechtlichen Bestimmungen über die Pachterstreckung finden keine Anwendung auf Sömmerungsbetriebe.
 
 #### Art. 11
 
-**Höchstzulässiger Pachtzins für Sömmerungsbetriebe**
+**…**
 
-<sup>1</sup> Für Sömmerungsbetriebe kann auf den höchstzulässigen Pachtzins für Sömmerungsweiden nach Bundesrecht ein Zuschlag erhoben werden, wenn dies für den Erhalt des Sömmerungsbetriebes notwendig ist.
+#### Art. 11a
 
-<sup>2</sup> Der Landrat regelt die Voraussetzungen und die Bemessung dieses Zuschlags.
+**Pachtzinszuschläge für Sömmerungsbetriebe**
+
+<sup>1</sup> Es gelten folgende Pachtzinszuschläge:
+
+- a. für Sömmerungsbetriebe der höchstzulässige Zuschlag gemäss Artikel 7 Absatz 3 der Pachtzinsverordnung (PZV)[^11a-1];
+- b. für alle Stafel mit günstiger Erschliessung ein Zuschlag von höchstens 15 Prozent gemäss Artikel 7 Absatz 4 Buchstabe b PZV;
+- c. gemäss Artikel 13 PZV.
+
+<sup>2</sup> Der Regierungsrat regelt die Voraussetzungen und die Bemessung der Zuschläge.
+
+[^11a-1]: SR 221.213.221
 
 ## 6. Zuständigkeiten
 
@@ -147,6 +191,8 @@ Vom 04.05.2014 (Stand 06.05.2018)
 **Regierungsrat**
 
 <sup>1</sup> Der Regierungsrat wählt und beaufsichtigt die Landwirtschaftskommission und die Kommission für Strukturverbesserungen und Betriebshilfe.
+
+<sup>1a</sup> Er kann Vollzugsaufgaben des Kantons nach diesem Gesetz und seinen Ausführungsbestimmungen auf Personen oder Organisationen des öffentlichen oder privaten Rechts übertragen oder Vereinbarungen mit anderen Kantonen über den gemeinsamen Vollzug abschliessen.
 
 <sup>2</sup> Er erlässt die Ausführungsbestimmungen.
 
@@ -163,9 +209,11 @@ Vom 04.05.2014 (Stand 06.05.2018)
 - c. die Schlichtung in Streitigkeiten über landwirtschaftliche Pachtverhältnisse;
 - d. die Beratung und Kontrolle im Bereich des Herdenschutzes.
 
-<sup>3</sup> Sie kann bei der Bewilligungsbehörde Einsprache gegen die vereinbarten Pachtzinse für landwirtschaftliche Grundstücke, Alpen und Weiden nach dem Bundesgesetz über die landwirtschaftliche Pacht (LPG) erheben.
+<sup>3</sup> Sie ist die vom Kanton bezeichnete Behörde nach Artikel 42 Absatz 3 und Artikel 43 Absatz 1 des Bundesgesetzes über die landwirtschaftliche Pacht (LPG)[^14-1].
 
 <sup>4</sup> Von Behörden zu erlassende Massnahmen im Sömmerungsgebiet, die auf der Grundlage des Umwelt- und Naturschutzes, des Gewässerschutzes, der Forstwirtschaft basieren sowie regionale und überregionale Projekte, welche sich auf diese Gebiete auswirken, sind der Kommission vorgängig zur Stellungnahme vorzulegen. Sie kann der erlassenden Behörde Änderungen beantragen.
+
+[^14-1]: SR 221.213.2
 
 #### Art. 15
 
@@ -175,7 +223,7 @@ Vom 04.05.2014 (Stand 06.05.2018)
 
 <sup>2</sup> Der Vorsteher oder die Vorsteherin des zuständigen Departements hat von Amtes wegen den Vorsitz inne. Die kantonale Vollzugsbehörde ist als Mitglied vertreten und führt das Sekretariat.
 
-<sup>3</sup> Die Kommission ist zuständig für die Projektgenehmigung und die Zusicherung von Investitionshilfen, die Genehmigung von Neuzuteilungen, die Bewilligung von Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot sowie für den Widerruf oder die Rückforderung von Investitionshilfen.
+<sup>3</sup> Die Kommission ist zuständig für die Projektgenehmigung und die Zusicherung von Investitionshilfen, inklusive einer Beurteilung der Wirtschaftlichkeit und Verschuldung, die Genehmigung von Neuzuteilungen, die Bewilligung von Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot sowie für den Widerruf oder die Rückforderung von Investitionshilfen.
 
 #### Art. 16
 
