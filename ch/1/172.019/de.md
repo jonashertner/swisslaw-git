@@ -4,11 +4,11 @@ title: Bundesgesetz vom 17. März 2023 über den Einsatz elektronischer Mittel z
 short: EMBAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/682"
 language: de
-version: 2025-05-01
+version: 2027-01-01
 adopted: 2023-03-17
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2023-682-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2023-682-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/de"
 
 (EMBAG)
 
-vom 17. März 2023 (Stand am 1. Mai 2025)
+vom 17. März 2023 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)
 
 #### Art. 1
@@ -147,7 +147,7 @@ Die Durchführung von Beschaffungsverfahren nach dem öffentlichen Beschaffungsr
 
 <sup>4</sup> Er kann Aufgaben im Bereich der administrativen Hilfstätigkeit nur an Organisationen übertragen, die durch eine Vereinbarung nach Artikel 4 geschaffen wurden oder an denen sich der Bund nach Artikel 5 beteiligt. Das Bundesgesetz vom 21. Juni 2019[^8-1] über das öffentliche Beschaffungswesen ist bei der Auswahl der Organisation oder Person nicht anwendbar.
 
-[^8-1]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^8-1]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 9
 
@@ -189,7 +189,7 @@ Nicht öffentlich zugänglich gemacht werden:
 
 <sup>7</sup> Es besteht kein rechtlicher Anspruch auf den Zugang zu Daten nach Absatz 1.
 
-[^10-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 11
 
@@ -280,7 +280,7 @@ Bei der Durchführung des Pilotversuchs kann in den Bereichen nach Absatz 1 Buch
 
 <sup>8</sup> Der Bundesrat regelt die Finanzierung von Pilotversuchen im Rahmen der bewilligten Kredite.
 
-[^15-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 16
 
@@ -296,13 +296,9 @@ Bei der Durchführung des Pilotversuchs kann in den Bereichen nach Absatz 1 Buch
 
 #### Art. 17
 
-**Anschubfinanzierung zur Förderung von Digitalisierungsprojekten von hohem öffentlichen Interesse**
+[^17-1]
 
-<sup>1</sup> Der Bund kann einmalige Finanzhilfen für Projekte von Organisationen des öffentlichen oder privaten Rechts vorsehen, soweit diese für die digitale Transformation von Gesellschaft und Wirtschaft von hohem öffentlichen Interesse sind und nicht durch andere Förderinstrumente des Bundes unterstützt werden.
-
-<sup>2</sup> Die mit der Bundesbeteiligung erarbeiteten Ergebnisse dürfen frei verwendet werden.
-
-<sup>3</sup> Der Bundesrat regelt den Umfang der Finanzhilfen, die Art der Beiträge sowie die vom Empfänger zu erfüllenden Anforderungen und zu erbringenden Leistungen.
+[^17-1]: Aufgehoben durch Ziff. I 4 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 18
 

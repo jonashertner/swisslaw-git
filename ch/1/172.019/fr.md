@@ -4,11 +4,11 @@ title: Loi fédérale du 17 mars 2023 sur l’utilisation des moyens électroniq
 short: LMETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/682"
 language: fr
-version: 2025-05-01
+version: 2027-01-01
 adopted: 2023-03-17
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2023-682-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-682-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/fr"
 
 (LMETA)
 
-du 17 mars 2023 (État le 1<sup>er</sup> mai 2025)
+du 17 mars 2023 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)
 
 #### Art. 1
@@ -147,7 +147,7 @@ Il est possible de déléguer à des organisations de droit public ou de droit p
 
 <sup>4</sup> Dans le domaine de l’activité administrative auxiliaire, il ne peut déléguer des tâches qu’aux organisations qui ont été créées par une convention au sens de l’art. 4 ou dans lesquelles la Confédération a pris des participations en vertu de l’art. 5. La loi fédérale du 21 juin 2019 sur les marchés publics[^8-1] ne s’applique pas au choix de l’organisation ou de la personne délégataire.
 
-[^8-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^8-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 9
 
@@ -189,7 +189,7 @@ Ne sont pas publiées:
 
 <sup>7</sup> Nul ne peut se prévaloir d’un droit à obtenir les données visées à l’al. 1.
 
-[^10-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 11
 
@@ -280,7 +280,7 @@ Pendant la réalisation du projet pilote, il est possible de déroger dans les d
 
 <sup>8</sup> Le Conseil fédéral arrête les modalités du financement des projets pilotes dans le cadre des crédits autorisés.
 
-[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 16
 
@@ -296,13 +296,9 @@ Pendant la réalisation du projet pilote, il est possible de déroger dans les d
 
 #### Art. 17
 
-**Financement initial visant à encourager des projets de numérisation présentant un grand intérêt public**
+[^17-1]
 
-<sup>1</sup> La Confédération peut apporter des aides financières uniques pour des projets d’organisations de droit public ou de droit privé dans la mesure où ceux-ci présentent un grand intérêt public en ce qui concerne la transformation numérique de la société et de l’économie et ne sont pas soutenus par d’autres instruments d’encouragement de la Confédération.
-
-<sup>2</sup> Les résultats des travaux réalisés avec la participation de la Confédération peuvent être utilisés librement.
-
-<sup>3</sup> Le Conseil fédéral fixe l’ampleur des aides financières, la nature des subsides ainsi que les exigences que doit satisfaire le bénéficiaire et les prestations qu’il doit fournir.
+[^17-1]: Abrogé par le ch. I 4 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 18
 

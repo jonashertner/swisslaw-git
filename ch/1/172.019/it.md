@@ -4,11 +4,11 @@ title: Legge federale del 17 marzo 2023 concernente l’impiego di mezzi elettro
 short: LMeCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/682"
 language: it
-version: 2025-05-01
+version: 2027-01-01
 adopted: 2023-03-17
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2023-682-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/682/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2023-682-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/682/20250501/it"
 
 (LMeCA)
 
-del 17 marzo 2023 (Stato 1° maggio 2025)
+del 17 marzo 2023 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2022 804](https://fedlex.data.admin.ch/eli/fga/2022/804)
 
 #### Art. 1
@@ -149,7 +149,7 @@ L’esecuzione di procedure di appalto secondo il diritto in materia di appalti 
 
 <sup>4</sup> Può delegare compiti inerenti all’attività amministrativa ausiliaria soltanto a organizzazioni che sono state create mediante una convenzione secondo l’articolo 4 o in cui la Confederazione assume partecipazioni secondo l’articolo 5. La legge federale del 21 giugno 2019[^8-1] sugli appalti pubblici non si applica alla scelta dell’organizzazione o della persona.
 
-[^8-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^8-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 9
 
@@ -191,7 +191,7 @@ Non sono resi accessibili al pubblico:
 
 <sup>7</sup> Non sussiste alcun diritto all’accesso ai dati di cui al capoverso 1.
 
-[^10-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^10-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 11
 
@@ -282,7 +282,7 @@ Durante lo svolgimento del progetto pilota, negli ambiti di cui al capoverso 1 l
 
 <sup>8</sup> Il Consiglio federale disciplina il finanziamento dei progetti pilota nell’ambito dei crediti stanziati.
 
-[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 16
 
@@ -298,13 +298,9 @@ Durante lo svolgimento del progetto pilota, negli ambiti di cui al capoverso 1 l
 
 #### Art. 17
 
-**Finanziamento iniziale per il promovimento di progetti di digitalizzazione di grande interesse pubblico**
+[^17-1]
 
-<sup>1</sup> La Confederazione può prevedere aiuti finanziari unici per progetti di organizzazioni di diritto pubblico o privato, se tali progetti sono di grande interesse pubblico per la trasformazione digitale della società e dell’economia e se non sono sostenuti dalla Confederazione attraverso altri strumenti di promovimento.
-
-<sup>2</sup> I risultati dei lavori elaborati con la partecipazione della Confederazione possono essere utilizzati liberamente.
-
-<sup>3</sup> Il Consiglio federale definisce l’entità degli aiuti finanziari, il tipo di contributi nonché i requisiti che il beneficiario deve soddisfare e le prestazioni che questi deve fornire.
+[^17-1]: Abrogato dalla cifra I n. 4 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 18
 
