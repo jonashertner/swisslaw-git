@@ -4,7 +4,7 @@ number: "416.11"
 title: LOI du 01.07.2014 sur l’aide aux études et à la formation professionnelle (LAEF)
 short: LAEF
 language: fr
-version: 2021-03-01
+version: 2027-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/416.11?id=f639ccbd-15e3-4ec1-9f24-482f7edac40d"
 ---
 
@@ -476,13 +476,15 @@ décrète
 
 **Dépôt de la demande [^sectionSectionI-1]**
 
-<sup>1</sup> Celui qui veut exercer son droit aux prestations doit présenter sa demande sur formule officielle.
+<sup>1</sup> Celui qui veut exercer son droit aux prestations dépose sa demande de bourse, en principe, au moyen d'un formulaire électronique, après avoir obtenu une identité électronique homologuée par les autorités cantonales, selon la loi sur les moyens d'identification électronique et le portail sécurisé des prestations en ligne de l'Etat du 6 novembre 2018 (LCyber) et son règlement d'application (RLCyber)
 
-<sup>2</sup> Elle doit être signée du requérant et, s'il est mineur, de son représentant légal.
+<sup>2</sup> La demande concernant une personne mineure est déposée par son représentant légal, au moyen de l'identité électronique homologuée par les autorités cantonales de ce dernier. Si la demande est déposée sur formule officielle, elle doit être signée du représentant légal.
 
-<sup>3</sup> En dérogation à l'alinéa 2, le Conseil d'Etat peut prévoir la possibilité de déposer une demande de bourse par voie électronique. Il édicte les dispositions nécessaires à cet effet.
+<sup>3</sup> Lorsque la personne mineure devient majeure, elle dépose sa nouvelle demande de bourse par l'intermédiaire de sa propre identité électronique homologuée par les autorités cantonales; les données nécessaires à l'accomplissement des tâches sont reprises automatiquement des anciennes demandes.
 
-[^sectionSectionI-1]: Modif. 3 du 08.12.2020: Introduction Al. 3; entrée en vigueur au 01.03.2021 · Modif. 4 du 31.03.2026: Modification Al. 1-3; entrée en vigueur au 01.01.2027; Introduction Al. 4; entrée en vigueur au 01.01.2027; Introduction Art. 44, Al. 1, a-d; entrée en vigueur au 01.01.2027; Introduction Art. 44a; entrée en vigueur au 01.01.2027; Introduction Art. 45, Al. 5-6; entrée en vigueur au 01.01.2027; Introduction Art. 45a; entrée en vigueur au 01.01.2027; Introduction Art. 45b; entrée en vigueur au 01.01.2027
+<sup>4</sup> La LCyber est applicable pour le surplus.
+
+[^sectionSectionI-1]: Modif. 3 du 08.12.2020: Introduction Al. 3; entrée en vigueur au 01.03.2021 · Modif. 4 du 31.03.2026: Modification Al. 1-3; entrée en vigueur au 01.01.2027; Introduction Al. 4; entrée en vigueur au 01.01.2027
 
 #### Art. 40
 
@@ -530,34 +532,73 @@ décrète
 
 **Traitement de données [^sectionSectionIII-1]**
 
-<sup>1</sup> Le service est une autorité au sens de l'article 12, alinéa 1, LHPS[^44-1] . Les dispositions de la LHPS relatives à la protection des données, respectivement le chapitre IV Base centralisée de données sociales et protection des données, sont applicables à toutes les données collectées par le service et ce pour tous les membres de l'unité économique de référence au sens de l'article 23.
+<sup>1</sup> Le service est habilité à traiter les données personnelles, y compris les données sensibles, au sens de la loi vaudoise du 11 septembre 2007 sur la protection des données personnelles (LPrD), qui sont nécessaires à l'accomplissement des tâches qui leur sont assignées par la présente loi, notamment pour :
 
-<sup>2</sup> Le service peut collecter des données supplémentaires nécessaires à l'application de la présente loi, y compris des données sensibles, au sens de la loi vaudoise du 11 septembre 2007 sur la protection des données personnelles (LPrD)[^44-2] .
+- a. déterminer le droit à une prestation, la calculer, la verser et la coordonner avec celle d'autres prestations sociales;
+- b. faire valoir une prétention récursoire contre le tiers responsable;
+- c. surveiller l'exécution de la présente loi;
+- d. établir des statistique
 
-<sup>3</sup> Les données ne sont traitées, en particulier s'agissant de la collecte, que dans la mesure nécessaire à l'application de la présente loi.
+<sup>2</sup> ...
 
-<sup>4</sup> Le département détermine les catégories de données que le service est habilité à traiter dans le système d'information et fixe les règles et les limites d'accès.
+<sup>3</sup> ...
 
-<sup>5</sup> Pour le surplus, la LPrD est applicable.
+<sup>4</sup> Le Conseil d'Etat détermine les catégories de données sensibles et les catégories de données personnelles que le service est habilité à traiter dans le système d'information.
 
-[^sectionSectionIII-1]: Modif. 4 du 31.03.2026: Introduction Art. 39, Al. 4; entrée en vigueur au 01.01.2027; Modification Al. 1; entrée en vigueur au 01.01.2027; Introduction Al. 1, a-d; entrée en vigueur au 01.01.2027; Abrogation Al. 2-3; entrée en vigueur au 01.01.2027; Modification Al. 4; entrée en vigueur au 01.01.2027; Abrogation Al. 5; entrée en vigueur au 01.01.2027; Introduction Art. 44a; entrée en vigueur au 01.01.2027; Introduction Art. 45, Al. 5-6; entrée en vigueur au 01.01.2027; Introduction Art. 45a; entrée en vigueur au 01.01.2027; Introduction Art. 45b; entrée en vigueur au 01.01.2027
-[^44-1]: Loi du 09.11.2010 sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises ([BLV 850.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03?id=db1ccfb7-873f-4a81-8cd5-fbabe8fe816c))
-[^44-2]: Loi du 11.09.2007 sur la protection des données personnelles ( [BLV 172.65](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.65?id=cf9df545-13f7-4106-a95b-9b3ab8fa8b01))
+<sup>5</sup> ...
+
+[^sectionSectionIII-1]: Modif. 4 du 31.03.2026: Modification Al. 1; entrée en vigueur au 01.01.2027; Introduction Al. 1, a-d; entrée en vigueur au 01.01.2027; Abrogation Al. 2-3; entrée en vigueur au 01.01.2027; Modification Al. 4; entrée en vigueur au 01.01.2027; Abrogation Al. 5; entrée en vigueur au 01.01.2027
+
+#### Art. 44a
+
+**Système d'information [^44-1]**
+
+<sup>1</sup> Le service exploite un système d'information qui permet l'échange électronique d'informations et le traitement de données personnelles, y compris des données sensibles.
+
+<sup>2</sup> Le service veille à ce que son système d'information présente en tout temps la stabilité et l'adaptabilité nécessaires en vue de garantir la sécurité de l'information et la protection des données.
+
+<sup>3</sup> Le service est responsable de la sécurité du système d'information et de la légalité du traitement des données.
+
+[^44-1]: Modif. 4 du 31.03.2026: Introduction Art. 44a; entrée en vigueur au 01.01.2027
 
 #### Art. 45
 
-**Communication de données [^44-3]**
+**Communication de données [^44a-1]**
 
-<sup>1</sup> Le service peut transmettre aux Centres sociaux régionaux, les données au sens de l'article 44, alinéa 2, si elles sont nécessaires à la détermination de leurs prestations.
+<sup>1</sup> Dans la mesure où aucun intérêt privé prépondérant ne s'y oppose, le service chargé d'appliquer la présente loi communique d'office des données personnelles et sensibles, aux autorités compétentes en matière de prestations sociales, lorsqu'elles sont nécessaires pour fixer ou modifier des prestations, en exiger la restitution ou prévenir des versements indus.
 
-<sup>2</sup> Le service peut échanger avec le service en charge de l'aide sociale les données concernant les personnes au bénéfice de mesures d'insertion sociale au sens des articles 47 et suivants de la loi du 2 décembre 2003 sur l'action sociale vaudoise (LASV)[^45-1] , si elles sont nécessaires à l'accomplissement de ses tâches.
+<sup>2</sup> Le service échange d'office des données personnelles et sensibles avec le service en charge de l'aide sociale et les organisations prestataires de suivi des personnes au bénéfice de mesures d'insertion sociale au sens des articles 47 et suivants de la loi du 2 décembre 2003 sur l'action sociale vaudoise (LASV) dans la mesure où elles sont nécessaires à l'accomplissement de leurs tâches.
 
-<sup>3</sup> Un échange d'informations peut intervenir entre le service et les établissements de formation concernés, notamment pour les cas d'interruption de formation.
+<sup>3</sup> Le service échange d'office des données personnelles et sensibles, en lien avec le suivi de la formation, avec le Département en charge de la formation et les établissements de formation.
 
-<sup>4</sup> Le service peut, dans le cadre de l'entraide administrative, transmettre aux autres cantons et à la Confédération les données nécessaires à l'exercice de leurs tâches.
+<sup>4</sup> Le service peut communiquer au requérant les données personnelles et sensibles de tous les membres de l'unité économique de référence cité à l'article 23, qui ont été utilisées dans le cadre de l'application de la présente loi.
 
-[^44-3]: Modif. 4 du 31.03.2026: Introduction Art. 39, Al. 4; entrée en vigueur au 01.01.2027; Introduction Art. 44, Al. 1, a-d; entrée en vigueur au 01.01.2027; Introduction Art. 44a; entrée en vigueur au 01.01.2027; Modification Al. 1-4; entrée en vigueur au 01.01.2027; Introduction Al. 5-6; entrée en vigueur au 01.01.2027; Introduction Art. 45a; entrée en vigueur au 01.01.2027; Introduction Art. 45b; entrée en vigueur au 01.01.2027
-[^45-1]: Loi du 02.12.2003 sur l'action sociale vaudoise ([BLV 850.051](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051?id=8b71b9d3-03d0-4865-8475-19e60cc46a73))
+<sup>5</sup> Le service chargé d'appliquer la présente loi peut, au cas par cas, sur demande écrite et précise, communiquer des données personnelles et sensibles, en dérogation à l'article 18 LInfo, aux autres cantons et à la Confédération si elles sont nécessaires à l'accomplissement de leurs tâches, conformément à l'Accord intercantonal sur l'harmonisation des régimes de bourses d'études.
+
+<sup>6</sup> Seules les données qui sont nécessaires au but en question peuvent être communiquées.
+
+[^44a-1]: Modif. 4 du 31.03.2026: Modification Al. 1-4; entrée en vigueur au 01.01.2027; Introduction Al. 5-6; entrée en vigueur au 01.01.2027
+
+#### Art. 45a
+
+**Collectes des données [^45-1]**
+
+<sup>1</sup> Le service peut collecter les données, y compris les données sensibles et personnelles, nécessaires à l'application de la présente loi de tous les membres de l'unité économique de référence au sens de l'article 23.
+
+[^45-1]: Modif. 4 du 31.03.2026: Introduction Art. 45a; entrée en vigueur au 01.01.2027
+
+#### Art. 45b
+
+**Disposition d'exécution [^45a-1]**
+
+<sup>1</sup> Le Conseil d'Etat peut régler les éléments suivants, notamment:
+
+- a. les droits d'accès aux données;
+- b. les mesures de sécurité techniques et organisationnelles destinées à empêcher le traitement des données par un tiers non autorisé;
+- c. la durée de conservation des données;
+- d. l'archivage et la destruction des données.
+
+[^45a-1]: Modif. 4 du 31.03.2026: Introduction tArt; entrée en vigueur au 01.01.2027; Introduction Al. 1; entrée en vigueur au 01.01.2027; Introduction Art. 45b; entrée en vigueur au 01.01.2027
 
 ### Section IV Commission cantonale des bourses d'études
 
