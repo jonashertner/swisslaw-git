@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Dezember 2010 über die Organisation der Schweizeri
 short: POG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/587"
 language: de
-version: 2020-12-19
+version: 2033-01-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/587/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2012-587-20201219-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/587/20330101/de/xml/fedlex-data-admin-ch-eli-cc-2012-587-20330101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20330101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20201219/de"
 
 (Postorganisationsgesetz, POG)
 
-vom 17. Dezember 2010 (Stand am 19. Dezember 2020)
+vom 17. Dezember 2010 (Stand am 1. Januar 2033)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -74,13 +74,11 @@ Sie kann alle Rechtsgeschäfte tätigen, die dem Unternehmenszweck dienen, namen
 - c. sich an Gesellschaften beteiligen;
 - d. Mittel am Geld- und Kapitalmarkt aufnehmen und anlegen.
 
-<sup>3</sup> Sie darf jedoch keine Kredite und Hypotheken an Dritte vergeben. Sie ist berechtigt, die gestützt auf Artikel 19 der Covid‑19-Solidarbürgschaftsverordnung vom 25. März 2020[^3-1] gewährten Kredite längstens bis zu deren vollständiger Amortisation nach Massgabe von Artikel 3 des Covid‑19-Solidarbürgschaftsgesetzes vom 18. Dezember 2020[^3-2] weiterzuführen.[^3-3]
+<sup>3</sup> Sie darf jedoch keine Kredite und Hypotheken an Dritte vergeben. …[^3-1]
 
 <sup>4</sup> Sie kann im Rahmen der üblichen Nutzung ihrer Infrastruktur Dienstleistungen im Auftrag Dritter erbringen.
 
-[^3-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^3-2]: [SR 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
-[^3-3]: Zweiter Satz eingefügt durch Art. 28 Ziff. 2 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020, in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^3-1]: Zweiter Satz eingefügt durch Art. 28 Ziff. 2 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020, in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 4
 
@@ -274,5 +272,5 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31. Ziff. 3, **2003** 3385, **2007** 4703]
+[^annexu1-lvlu1-1]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 22; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31. Ziff. 3; **2003** 3385; **2007** 4703]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)konsultiert werden.

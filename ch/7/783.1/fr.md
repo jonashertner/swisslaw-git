@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 décembre 2010 sur l'organisation de La Poste Suiss
 short: LOP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/587"
 language: fr
-version: 2020-12-19
+version: 2033-01-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/587/20201219/fr/xml/fedlex-data-admin-ch-eli-cc-2012-587-20201219-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20201219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/587/20330101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-587-20330101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20330101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20201219/fr"
 
 (Loi sur l’organisation de la Poste, LOP)
 
-du 17 décembre 2010 (État le 19 décembre 2020)
+du 17 décembre 2010 (État le 1<sup>er</sup> janvier 2033)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -74,13 +74,11 @@ La Poste peut accomplir tout acte juridique servant les buts de l’entreprise, 
 - c. prendre des participations dans des sociétés;
 - d. emprunter et placer des fonds sur les marchés monétaire et financier.
 
-<sup>3</sup> Elle ne peut octroyer de crédits ou d’hypothèques à des tiers. Elle est habilitée à prolonger les crédits octroyés conformément à l’art. 19 de l’ordonnance du 25 mars 2020 sur les cautionnements solidaires liés au COVID‑19[^3-1] au plus tard jusqu’à leur amortissement complet au sens de l’art. 3 de la loi du 18 décembre 2020 sur les cautionnements solidaires liés au COVID‑19[^3-2].[^3-3]
+<sup>3</sup> Elle ne peut octroyer de crédits ou d’hypothèques à des tiers. ...[^3-1]
 
 <sup>4</sup> Elle peut fournir des services pour le compte de tiers dans le cadre de l’utilisation usuelle de ses infrastructures.
 
-[^3-1]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
-[^3-2]: [RS 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
-[^3-3]: Phrase introduite par l’art. 28 ch. 2 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID‑19, en vigueur du 19 déc. 2020 au 31 déc. 2032 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^3-1]: Phrase introduite par l’art. 28 ch. 2 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID-19, en vigueur du 19 déc. 2020 au 31 déc. 2032 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 4
 
@@ -272,7 +270,7 @@ II
 
 Les lois mentionnées ci-après sont modifiées comme suit:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 ch. 3, [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474), [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672)]
+[^annexu1-lvlu1-1]: [[RO 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 22; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 ch. 3; [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474); [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672)]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587).

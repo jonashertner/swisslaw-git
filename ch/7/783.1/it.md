@@ -4,11 +4,11 @@ title: "Legge federale del 17 dicembre 2010 sull'organizzazione della Posta Sviz
 short: LOP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/587"
 language: it
-version: 2020-12-19
+version: 2033-01-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/587/20201219/it/xml/fedlex-data-admin-ch-eli-cc-2012-587-20201219-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20201219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/587/20330101/it/xml/fedlex-data-admin-ch-eli-cc-2012-587-20330101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20330101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/587/20201219/it"
 
 (Legge sull’organizzazione della Posta, LOP)
 
-del 17 dicembre 2010 (Stato 19 dicembre 2020)
+del 17 dicembre 2010 (Stato 1° gennaio 2033)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -74,13 +74,11 @@ La Posta può concludere qualsiasi negozio giuridico atto a raggiungere lo scopo
 - c. assumere partecipazioni;
 - d. prendere in prestito e investire capitali sul mercato monetario e finanziario.
 
-<sup>3</sup> La Posta non può tuttavia concedere crediti e ipoteche a terzi. Ha la facoltà di mantenere in essere i crediti concessi secondo l’articolo 19 dell’ordinanza del 25 marzo 2020[^3-1] sulle fideiussioni solidali COVID‑19 al massimo fino al loro ammortamento integrale secondo l’articolo 3 della legge del 18 dicembre 2020[^3-2] sulle fideiussioni solidali COVID‑19.[^3-3]
+<sup>3</sup> La Posta non può tuttavia concedere crediti e ipoteche a terzi. ...[^3-1]
 
 <sup>4</sup> Nell’ambito dell’impiego ordinario della propria infrastruttura, la Posta può fornire prestazioni su incarico di terzi.
 
-[^3-1]: [RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
-[^3-2]: [RS 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
-[^3-3]: Per. introdotto dall’art. 28 n. 2 della L del 18 dic. 2020 sulle fideiussioni solidali COVID‑19, in vigore dal 19 dic. 2020 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)[7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^3-1]: Per. introdotto dall’art. 28 n. 2 della L del 18 dic. 2020 sulle fideiussioni solidali COVID-19, in vigore dal 19 dic. 2020 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)[7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 4
 
