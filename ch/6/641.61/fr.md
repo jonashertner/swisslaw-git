@@ -4,11 +4,11 @@ title: "Loi du 21 juin 1996 sur l'imposition des huiles minérales (Limpmin)"
 short: Limpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/fr"
 
 (Limpmin)
 
-du 21 juin 1996 (État le 1<sup>er</sup> janvier 2026)
+du 21 juin 1996 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 86 et 131, al. 1, let. e, et 2, de la Constitution[^ingress-1],[^ing
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^ingress-3]: [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)
 
@@ -78,7 +78,7 @@ On entend par:
 - c. entrepositaire agréé: tout détenteur d’une autorisation de l’autorité fiscale l’habilitant à transformer, à extraire, à produire ou à entreposer, en suspension d’impôt, dans un entrepôt agréé, des marchandises non imposées;
 - d.[^2-6] carburant renouvelable: tout carburant produit à partir de biomasse ou d’autres agents énergétiques renouvelables.
 
-[^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
+[^2-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)annexe
 [^2-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^2-3]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-4]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
@@ -368,7 +368,7 @@ Le Conseil fédéral peut accorder l’exonération, partielle ou totale, de l�
 <sup>3</sup> …[^17-5]
 
 [^17-1]: Introduite par l’annexe ch. II 6 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^17-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^17-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^17-3]: Introduite par l’annexe ch. II 6 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^17-4]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^17-5]: Abrogé par ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
@@ -384,9 +384,9 @@ Est remboursé l’impôt prélevé:
 - a. sur les vapeurs d’hydrocarbures qui proviennent du transbordement de carburants et qui sont réacheminées vers un entrepôt agréé en vue de leur récupération sous forme liquide;
 - b. sur les marchandises qui sont réacheminées vers un entrepôt agréé si, dans un délai de 30 jours à compter de la date d’exigibilité de l’impôt, l’entrepositaire présente une demande de remboursement.
 
-<sup>1bis</sup> À partir du 1<sup>er</sup> janvier 2026, le remboursement de l’impôt est supprimé pour les véhicules utilisés par les entreprises de transport de trafic local concessionnaires de la Confédération.[^18-1]
+<sup>1bis</sup> …[^18-1]
 
-<sup>1ter</sup> En dehors du trafic local, l’impôt ne peut être remboursé à partir du 1<sup>er</sup> janvier 2030 aux entreprises de transport concessionnaires de la Confédération que si lesdites entreprises démontrent qu’il n’est pas possible, pour des raisons liées à la topographie, de remplacer le matériel roulant utilisé pour les lignes concernées par des bus équipés d’un autre système de propulsion recourant à des sources d’énergie renouvelables et neutres du point de vue du CO<sub>2</sub>.[^18-2]
+<sup>1ter</sup> …[^18-2]
 
 <sup>1quater</sup> La part de l’impôt prélevé sur les carburants utilisé pour les dameuses de pistes qui est destinée à des tâches et dépenses liées à la circulation routière est remboursée.[^18-3]
 
@@ -400,8 +400,8 @@ Est remboursé l’impôt prélevé:
 
 <sup>5</sup> Il n’est pas versé d’intérêts sur les remboursements.
 
-[^18-1]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^18-2]: Introduit par l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-1]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)). Abrogé par le ch. I 9 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^18-2]: Introduit par l’annexe ch. 2 de la LF du 15 mars 2024 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Abrogé par le ch. I 9 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 [^18-3]: Anciennement al. 1<sup>ter</sup>. Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^18-4]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^18-5]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogé par l’annexe ch. 2 de la LF du 15 mars 2024, avec effet du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
@@ -456,7 +456,7 @@ Lors de la déclaration fiscale de mélanges de carburants obtenus à partir de 
 
 <sup>3</sup> La déclaration fiscale lie son auteur et sert de base à la fixation du montant de l’impôt. Le résultat d’un contrôle officiel est réservé.
 
-[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^21-2]: Introduit par l’annexe 1 ch. II 52 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
@@ -482,7 +482,7 @@ La Direction générale des douanes peut exiger des sûretés:
 
 <sup>2</sup> La décision de réquisition de sûretés est immédiatement exécutoire. Elle est réputée ordonnance de séquestre au sens de l’art. 274 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^23-1]; l’opposition à l’ordonnance de séquestre est exclue.
 
-[^23-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^23-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 24
 
@@ -610,7 +610,7 @@ Les sûretés cessent de déployer leurs effets:
 
 <sup>2</sup> Les dispositions de la procédure de recours (art. 51 ss de la LF du 20 déc. 1968 sur la procédure administrative[^34-1]) sont applicables par analogie à la procédure de réclamation.
 
-[^34-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 35
 
@@ -665,7 +665,7 @@ En cas de circonstances aggravantes, le maximum de l’amende est augmenté de m
 
 <sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’OFDF est chargé de poursuivre, la peine applicable sera celle de l’infraction la plus grave; cette peine peut être augmentée de manière appropriée.[^38-3]
 
-[^38-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^38-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^38-2]: Nouvelle teneur de la phrase selon le ch. I 8 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^38-3]: Nouvelle teneur selon le ch. I 22 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
@@ -697,7 +697,7 @@ Quiconque enfreint, intentionnellement ou par négligence grave, une disposition
 
 <sup>2</sup> L’autorité compétente pour poursuivre et juger est l’OFDF.[^42-2]
 
-[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^42-2]: Nouvelle teneur selon le ch. I 22 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 43
@@ -765,7 +765,7 @@ Annexe 1[^t-1]
 [^t-1]: Mise à jour par l’annexe ch. 1 de l’O du 3 juil. 2001 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), l’annexe 4 ch. I de l’O du 28 juin 2006 ([RO 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), l’annexe 3 ch. 2 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub> ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)) et annexe 3 ch. 2 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
-<tr><th>N<sup>o</sup> de tarif</th><th>Désignation de la marchandise</th><th>Taux de l’impôt Fr.</th></tr>
+<tr><th>N<sup>o</sup> de tarif[^annex1-lvlu1-1]</th><th>Désignation de la marchandise</th><th>Taux de l’impôt Fr.</th></tr>
 <tr><td></td><td></td><td>par 1000 l à 15 °C</td></tr>
 <tr><td>2707.</td><td>Huiles est autres produits provenant de la distillation des goudrons de houille de haute température; produits analogues dans lesquels les constituants aromatiques prédominent en poids par rapport aux constituants non aromatiques: [tab] – benzol (benzène):</td><td></td></tr>
 <tr><td>1010</td><td>[tab] – – destinés à être utilisés comme carburant</td><td>431.20</td></tr>
@@ -830,7 +830,7 @@ Annexe 1[^t-1]
 <tr><td></td><td>[tab] – – gaz naturel:</td><td></td></tr>
 <tr><td>1110</td><td>[tab] – – – destiné à être utilisé comme carburant</td><td>409.90</td></tr>
 <tr><td>1190</td><td>[tab] – – – autre</td><td>2.10</td></tr>
-<tr><td></td><td></td><td colspan="2">par 1000 l à 15 °C</td></tr>
+<tr><td></td><td></td><td>par 1000 l à 15 °C</td></tr>
 <tr><td></td><td>[tab] – – propane:</td><td></td></tr>
 <tr><td>1210</td><td>[tab] – – – destiné à être utilisé comme carburant</td><td>209.10</td></tr>
 <tr><td>1290</td><td>[tab] – – – autre</td><td>1.10</td></tr>
@@ -841,12 +841,12 @@ Annexe 1[^t-1]
 <tr><td>1410</td><td>[tab] – – – destinés à être utilisés comme carburant</td><td>209.10</td></tr>
 <tr><td>1490</td><td>[tab] – – – autres</td><td>1.10</td></tr>
 <tr><td></td><td>[tab] – – autres:</td><td></td></tr>
-<tr><td>1910</td><td>[tab] – – – destinés à être utilisés comme carburant:</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td colspan="2">par 1000 kg</td></tr>
-<tr><td></td><td>[tab] – – – – produits à partir de biomasse ou d’autres agents énergétiques renouvelables</td><td colspan="2">409.90</td></tr>
-<tr><td></td><td></td><td colspan="2">par 1000 l à 15 °C</td></tr>
-<tr><td></td><td>[tab] – – – – autres</td><td colspan="2">209.10</td></tr>
-<tr><td>1990</td><td>[tab] – – – autres</td><td colspan="2">1.10</td></tr>
+<tr><td>1910</td><td>[tab] – – – destinés à être utilisés comme carburant:</td><td></td></tr>
+<tr><td></td><td></td><td>par 1000 kg</td></tr>
+<tr><td></td><td>[tab] – – – – produits à partir de biomasse ou d’autres agents énergétiques renouvelables</td><td>409.90</td></tr>
+<tr><td></td><td></td><td>par 1000 l à 15 °C</td></tr>
+<tr><td></td><td>[tab] – – – – autres</td><td>209.10</td></tr>
+<tr><td>1990</td><td>[tab] – – – autres</td><td>1.10</td></tr>
 <tr><td></td><td></td><td>par 1000 kg</td></tr>
 <tr><td></td><td>[tab] – à l’état gazeux:</td><td></td></tr>
 <tr><td></td><td>[tab] – – gaz naturel:</td><td></td></tr>
@@ -957,6 +957,8 @@ Annexe 1[^t-1]
 <tr><td>0090</td><td>[tab] – destinés à d’autres usages (seulement part fossile)</td><td>3.00</td></tr>
 <tr><td>…</td><td>Carburants d’autres matières premières</td><td>420.60</td></tr>
 </table>
+
+[^annex1-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)annexe
 
 Annexe 1a[^t-2]
 

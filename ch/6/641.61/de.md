@@ -4,11 +4,11 @@ title: Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG)
 short: MinöStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/de"
 
 (MinöStG)
 
-vom 21. Juni 1996 (Stand am 1. Januar 2026)
+vom 21. Juni 1996 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 86 sowie 131 Absatz 1 Buchstabe e und 2 der Bundesverfassu
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^ingress-3]: [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)
 
@@ -78,7 +78,7 @@ Im Sinne dieses Gesetzes gilt als:
 - c. «zugelassener Lagerinhaber»: wer eine Bewilligung der Steuerbehörde besitzt, unversteuerte Waren in einem zugelassenen Lager zu bearbeiten, zu gewinnen, zu erzeugen oder zu lagern;
 - d.[^2-6] «erneuerbarer Treibstoff»: Treibstoff, der aus Biomasse oder anderen erneuerbaren Energieträgern hergestellt wird.
 
-[^2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^2-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 [^2-2]: Fassung gemäss Anhang Ziff. 1 der V vom 3. Juli 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^2-3]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-4]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
@@ -368,7 +368,7 @@ Der Bundesrat kann Treibstoffe ganz oder teilweise von der Steuer befreien, wenn
 <sup>3</sup> …[^17-5]
 
 [^17-1]: Eingefügt durch Anhang Ziff. II 6 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^17-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^17-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^17-3]: Eingefügt durch Anhang Ziff. II 6 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^17-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^17-5]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
@@ -384,9 +384,9 @@ Die Steuer wird rückerstattet:
 - a. für gasförmige Kohlenwasserstoffe aus dem Treibstoffumschlag, die zwecks Wiedergewinnung flüssiger Treibstoffe in ein zugelassenes Lager rücküberführt werden;
 - b. für versteuerte Waren, die in ein zugelassenes Lager rücküberführt werden, wenn der Lagerinhaber innerhalb von 30 Tagen nach Fälligkeit der Steuer einen Rückerstattungsantrag stellt.
 
-<sup>1bis</sup> Ab dem 1. Januar 2026 entfällt für Fahrzeuge der vom Bund konzessionierten Transportunternehmen im Ortsverkehr die Rückerstattung der Steuer.[^18-1]
+<sup>1bis</sup> ...[^18-1]
 
-<sup>1ter</sup> Ausserhalb des Ortsverkehrs ist die Rückerstattung der Steuer für die vom Bund konzessionierten Transportunternehmen ab dem 1. Januar 2030 nur insoweit möglich, als die konzessionierten Transportunternehmen nachweisen, dass für die entsprechenden Linien eine Umrüstung auf Busse mit CO<sub>2</sub>-neutraler, erneuerbarer Antriebstechnologie aus topografischen Gründen nicht möglich ist.[^18-2]
+<sup>1ter</sup> ...[^18-2]
 
 <sup>1quater</sup> Der Steueranteil, der für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr bestimmt ist, wird rückerstattet für den Treibstoff von Pistenfahrzeugen.[^18-3]
 
@@ -400,8 +400,8 @@ Die Steuer wird rückerstattet:
 
 <sup>5</sup> Auf Rückerstattungen wird kein Zins bezahlt.
 
-[^18-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2026 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^18-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2026 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)). Aufgehoben durch Ziff. I 9 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^18-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Aufgehoben durch Ziff. I 9 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 [^18-3]: Ursprünglich: Abs. 1<sup>ter</sup>. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^18-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^18-5]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Aufgehoben durch Anhang Ziff. 2 des BG vom 15. März 2024, mit Wirkung vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
@@ -458,7 +458,7 @@ Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemische
 
 <sup>3</sup> Die Steueranmeldung ist für die Person, die sie ausgestellt hat, als Grundlage für die Festsetzung des Steuerbetrages verbindlich. Das Ergebnis einer amtlichen Prüfung bleibt vorbehalten.
 
-[^21-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^21-2]: Eingefügt durch Anhang 1 Ziff. II 52 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
@@ -484,7 +484,7 @@ Die Oberzolldirektion kann Sicherstellung verlangen:
 
 <sup>2</sup> Die Sicherstellungsverfügung ist sofort vollstreckbar. Sie gilt als Arrestbefehl im Sinne von Artikel 274 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889[^23-1]; die Einsprache gegen den Arrestbefehl ist ausgeschlossen.
 
-[^23-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^23-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 24
 
@@ -612,7 +612,7 @@ Die Sicherheitsleistung endet:
 
 <sup>2</sup> Für das Einspracheverfahren gelten sinngemäss die Bestimmungen über das Verwaltungsbeschwerdeverfahren (Art. 51 ff. Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^34-1]).
 
-[^34-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 35
 
@@ -665,7 +665,7 @@ Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die H
 
 <sup>4</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^38-3]
 
-[^38-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^38-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^38-2]: Fassung des zweiten Satzes gemäss Ziff. I 8 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^38-3]: Fassung gemäss Ziff. I 22 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
@@ -697,7 +697,7 @@ Wer vorsätzlich oder grobfahrlässig einer Vorschrift dieses Gesetzes oder eine
 
 <sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.[^42-2]
 
-[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^42-2]: Fassung gemäss Ziff. I 22 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 43
@@ -765,208 +765,204 @@ Anhang 1[^t-1]
 [^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 3. Juli 2001 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), Anhang 4 Ziff. I der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), Anhang 3 Ziff. 1 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Anhang 3 Ziff. 2 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I 1 des BG vom 20. Dez. 2019 über die Verlängerung der Befristung der Steuererleichterungen für Erdgas, Flüssiggas und biogene Treibstoffe und über die Änderung des Bundesgesetzes über die Reduktion der CO<sub>2</sub>-Emissionen ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)) und Anhang 3 Ziff. 2 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
-<tr><td>Zolltarifnummer[^annex1-lvlu1-1]</td><td>Warenbezeichnung</td><td>Steuersatz Fr.</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td>2707.</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen die aromatischen Bestandteile im Gewicht gegenüber den nichtaromatischen Bestandteilen überwiegen:</td><td></td></tr>
-<tr><td></td><td>– Benzol:</td><td></td></tr>
-<tr><td>1010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>1090</td><td>[tab] – – andere</td><td>8.80</td></tr>
-<tr><td></td><td>– Toluol:</td><td></td></tr>
-<tr><td>2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>2090</td><td>[tab] – – andere</td><td>8.80</td></tr>
-<tr><td></td><td>– Xylol:</td><td></td></tr>
-<tr><td>3010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>3090</td><td>[tab] – – andere</td><td>8.80</td></tr>
-<tr><td></td><td>– Naphthalin:</td><td></td></tr>
-<tr><td>4010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>4090</td><td>[tab] – – andere</td><td>8.80</td></tr>
-<tr><td></td><td>– andere aromatische Kohlenwasserstoffmischungen, bei deren Destillation, nach der Methode ISO 3405 (gleichwertig mit der Methode ASTM D 86), 65 % Vol oder mehr (einschliesslich Verluste) bis 250 C übergehen:</td><td></td></tr>
-<tr><td>5010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>5090</td><td>[tab] – – andere</td><td>8.80</td></tr>
-<tr><td></td><td>– andere:</td><td></td></tr>
-<tr><td></td><td>[tab] – – Kreosotöle:</td><td></td></tr>
-<tr><td>9110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>9190</td><td>[tab] – – – andere</td><td>8.80</td></tr>
-<tr><td></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td>9910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>9990</td><td>[tab] – – – andere</td><td>8.80</td></tr>
-<tr><td>2709.</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh:</td><td></td></tr>
-<tr><td>0010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>431.20</td></tr>
-<tr><td>0090</td><td>[tab] – – andere</td><td>8.80</td></tr>
+<tr><th colspan="2">Zolltarifnummer[^annex1-lvlu1-1]</th><th>Warenbezeichnung</th><th colspan="2">Steuersatz Fr.</th></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2">je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2">2707.</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen die aromatischen Bestandteile im Gewicht gegenüber den nichtaromatischen Bestandteilen überwiegen:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>– Benzol:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">1090</td><td>[tab] – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2"></td><td>– Toluol:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">2090</td><td>[tab] – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2"></td><td>– Xylol:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">3010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">3090</td><td>[tab] – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2"></td><td>– Naphthalin:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">4010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">4090</td><td>[tab] – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2"></td><td>– andere aromatische Kohlenwasserstoffmischungen, bei deren Destillation, nach der Methode ISO 3405 (gleichwertig mit der Methode ASTM D 86), 65 % Vol oder mehr (einschliesslich Verluste) bis 250 C übergehen:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">5010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">5090</td><td>[tab] – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2"></td><td>– andere:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>[tab] – – Kreosotöle:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">9110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">9190</td><td>[tab] – – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2"></td><td>[tab] – – andere:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">9910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">9990</td><td>[tab] – – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2">2709.</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">0010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td colspan="2">431.20</td></tr>
+<tr><td colspan="2">0090</td><td>[tab] – – andere</td><td colspan="2">8.80</td></tr>
+<tr><td colspan="2">2710.</td><td colspan="2">Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, andere als solche die Biodiesel enthalten und andere als Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Leichtöle und Zubereitungen:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff:</td><td></td></tr>
+<tr><td colspan="2">1211</td><td colspan="2">[tab] – – – – Benzin und seine Fraktionen</td><td>431.20</td></tr>
+<tr><td colspan="2">1212</td><td colspan="2">[tab] – – – – White Spirit</td><td>452.10</td></tr>
+<tr><td colspan="2">1219</td><td colspan="2">[tab] – – – – andere</td><td>458.70</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – zu andern Zwecken:</td><td></td></tr>
+<tr><td colspan="2">1291</td><td colspan="2">[tab] – – – – Benzin und seine Fraktionen</td><td>8.80</td></tr>
+<tr><td colspan="2">1292</td><td colspan="2">[tab] – – – – White Spirit</td><td>9.20</td></tr>
+<tr><td colspan="2">1299</td><td colspan="2">[tab] – – – – andere</td><td>9.90</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff:</td><td></td></tr>
+<tr><td colspan="2">1911</td><td colspan="2">[tab] – – – – Petroleum</td><td>439.50</td></tr>
+<tr><td colspan="2">1912</td><td colspan="2">[tab] – – – – Dieselöl</td><td>458.70</td></tr>
+<tr><td colspan="2">1919</td><td colspan="2">[tab] – – – – andere</td><td>458.70</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – zu andern Zwecken:</td><td></td></tr>
+<tr><td colspan="2">1991</td><td colspan="2">[tab] – – – – Petroleum</td><td>9.50</td></tr>
+<tr><td colspan="2">1992</td><td colspan="2">[tab] – – – – Heizöle zu Feuerungszwecken:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – – – extraleicht</td><td>3.00</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – – – mittel und schwer</td><td>3.60</td></tr>
+<tr><td colspan="2">1993</td><td colspan="2">[tab] – – – – Mineralöldestillate, bei denen weniger als 20 % Vol vor 300 °C übergehen, unvermischt</td><td>11.90</td></tr>
+<tr><td colspan="2">1994</td><td colspan="2">[tab] – – – – Mineralöldestillate, bei denen weniger als 20 % Vol vor 300 °C übergehen, vermischt</td><td>30.20</td></tr>
+<tr><td colspan="2">1995</td><td colspan="2">[tab] – – – – Mineralschmierfett</td><td>30.20</td></tr>
+<tr><td colspan="2">1999</td><td colspan="2">[tab] – – – – andere Destillate und Produkte</td><td>11.90</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2">2010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>458.70</td></tr>
+<tr><td colspan="2">2090</td><td colspan="2">[tab] – – zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Ölabfälle:</td><td></td></tr>
+<tr><td colspan="2">9100</td><td colspan="2">[tab] – – Polychlordiphenyle (PCB), Polychlorterphenyle (PCT) oder Polybromdiphenyle (PBB) enthaltend</td><td>11.90</td></tr>
+<tr><td colspan="2">9900</td><td colspan="2">[tab] – – andere</td><td>11.90</td></tr>
+<tr><td colspan="2">2711.</td><td colspan="2">Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– verflüssigt:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Erdgas:</td><td></td></tr>
+<tr><td colspan="2">1110</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
+<tr><td colspan="2">1190</td><td colspan="2">[tab] – – – anderes</td><td>2.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Propan:</td><td></td></tr>
+<tr><td colspan="2">1210</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2">1290</td><td colspan="2">[tab] – – – anderes</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Butane:</td><td></td></tr>
+<tr><td colspan="2">1310</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
+<tr><td colspan="2">1390</td><td colspan="2">[tab] – – – andere</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Ethylen, Propylen, Butylen und Butadien:</td><td></td></tr>
+<tr><td colspan="2">1410</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2">1490</td><td colspan="2">[tab] – – – andere</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1910</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff:</td><td>209.10</td></tr>
+<tr><td colspan="2">1990</td><td colspan="2">[tab] – – – andere</td><td>1.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– in gasförmigem Zustand:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Erdgas:</td><td></td></tr>
+<tr><td colspan="2">2110</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
+<tr><td colspan="2">2190</td><td colspan="2">[tab] – – – anderes</td><td>2.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">2910</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
+<tr><td colspan="2">2990</td><td colspan="2">[tab] – – – andere</td><td>2.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2">2901.</td><td colspan="2">Kohlenwasserstoffe, acyclische:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– gesättigt:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – gasförmige, auch verflüssigt:</td><td></td></tr>
+<tr><td colspan="2">1011</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere als gasförmige:</td><td></td></tr>
+<tr><td colspan="2">1091</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– ungesättigt:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Ethylen:</td><td></td></tr>
+<tr><td colspan="2">2110</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Propen (Propylen):</td><td></td></tr>
+<tr><td colspan="2">2210</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Buten (Butylen) und seine Isomere:</td><td></td></tr>
+<tr><td colspan="2">2310</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – 1,3-Butadien und Isopren:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – 1,3-Butadien:</td><td></td></tr>
+<tr><td colspan="2">2411</td><td colspan="2">[tab] – – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – Isopren:</td><td></td></tr>
+<tr><td colspan="2">2421</td><td colspan="2">[tab] – – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – gasförmig, auch verflüssigt:</td><td></td></tr>
+<tr><td colspan="2">2911</td><td colspan="2">[tab] – – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – – andere als gasförmige:</td><td></td></tr>
+<tr><td colspan="2">2991</td><td colspan="2">[tab] – – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2">2902.</td><td colspan="2">Kohlenwasserstoffe, cyclische:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– alicyclische:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Cyclohexan:</td><td></td></tr>
+<tr><td colspan="2">1110</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1910</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Benzol:</td><td></td></tr>
+<tr><td colspan="2">2010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Toluol:</td><td></td></tr>
+<tr><td colspan="2">3010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Xylole:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – o-Xylol:</td><td></td></tr>
+<tr><td colspan="2">4110</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – m-Xylol:</td><td></td></tr>
+<tr><td colspan="2">4210</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – p-Xylol:</td><td></td></tr>
+<tr><td colspan="2">4310</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Xylol-Isomerengemische:</td><td></td></tr>
+<tr><td colspan="2">4410</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Ethylbenzol:</td><td></td></tr>
+<tr><td colspan="2">6010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Cumol:</td><td></td></tr>
+<tr><td colspan="2">7010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– andere:</td><td></td></tr>
+<tr><td colspan="2">9010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2">2905.</td><td colspan="2">Acyclische Alkohole und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– gesättigte einwertige Alkohole:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Methanol (Methylalkohol):</td><td></td></tr>
+<tr><td colspan="2">1110</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Propan-1-ol (Propylalkohol) und Propan-2-ol (Isopropylalkohol):</td><td></td></tr>
+<tr><td colspan="2">1210</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere Butanole:</td><td></td></tr>
+<tr><td colspan="2">1410</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Octanol (Octylalkohol) und seine Isomere:</td><td></td></tr>
+<tr><td colspan="2">1610</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1920</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– ungesättigte einwertige Alkohole:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – acyclische Terpenalkohole:</td><td></td></tr>
+<tr><td colspan="2">2210</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">2910</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
+<tr><td colspan="2">2909.</td><td colspan="2">Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide (auch chemisch nicht einheitlich) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– acyclische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">1910</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– alicyclische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">2010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– aromatische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">3010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Etheralkohole und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – Monobutylether des Ethylenglycols oder des Diethylenglycols:</td><td></td></tr>
+<tr><td colspan="2">4310</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere Monoalkylether des Ethylenglycols oder des Diethylenglycols:</td><td></td></tr>
+<tr><td colspan="2">4420</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] – – andere:</td><td></td></tr>
+<tr><td colspan="2">4910</td><td colspan="2">[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Etherphenole, Etherphenolalkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">5010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide, und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
+<tr><td colspan="2">6010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td>je 1000 kg</td></tr>
+<tr><td colspan="2">3403.</td><td colspan="2">Zubereitete Schmiermittel (einschliesslich Schneidöle, Zubereitungen zum Lösen von Schrauben, zubereitete Rostschutz- oder Korrosionsschutzmittel und Formentrennmittel, auf der Grundlage von Schmierstoffen) und Zubereitungen der als Schmälzmittel für Spinnstoffe, Mittel zum Ölen oder Fetten von Leder, Pelzen oder anderen Stoffen verwendeten Art, ausgenommen solche, die als wesentlichen Bestandteil 70 Gewichtsprozent oder mehr Erdöl oder Öl aus bituminösen Mineralien enthalten:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Erdöl oder Öl aus bituminösen Mineralien enthaltend:</td><td></td></tr>
+<tr><td colspan="2">1900</td><td colspan="2">[tab] – – andere als solche der Nr. 3403.1100</td><td>30.20</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– andere:</td><td></td></tr>
+<tr><td colspan="2">9900</td><td colspan="2">[tab] – – andere als solche der Nr. 3403.9100</td><td>30.20</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td>je 1000 l bei 15 °C</td></tr>
+<tr><td colspan="2">3811.</td><td colspan="2">Antiklopfmittel, Antioxidantien, Antigums, Viskositätsverbesserer, Antikorrosivadditive und andere zubereitete Additive für Mineralöle (einschliesslich Treibstoffe) oder für andere zu gleichen Zwecken wie Mineralöle verwendete Flüssigkeiten:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– andere (als Antiklopfmittel und Additive für Schmieröle):</td><td></td></tr>
+<tr><td colspan="2">9010</td><td colspan="2">[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3814.</td><td colspan="2">Zusammengesetzte organische Lösungs- und Verdünnungsmittel, anderweit weder genannt noch inbegriffen; Zubereitungen zum Entfernen von Farben oder Lacken:</td><td></td></tr>
+<tr><td colspan="2">0010</td><td colspan="2">– zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3817.</td><td colspan="2">Alkylbenzol-Gemische und Alkylnaphtalin-Gemische, ausgenommen solche der Nrn. 2707 oder 2902:</td><td></td></tr>
+<tr><td colspan="2">0010</td><td colspan="2">– zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3824.</td><td colspan="2">Zubereitete Bindemittel für Giessereiformen oder -kerne; chemische Erzeugnisse und Zubereitungen der chemischen Industrie oder verwandter Industrien (einschliesslich Mischungen von Naturprodukten), anderweit weder genannt noch inbegriffen:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– andere:</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="2">– – andere:</td><td></td></tr>
+<tr><td colspan="2">9920</td><td colspan="2">– – – Erzeugnisse zur Verwendung als Treibstoff</td><td>420.60</td></tr>
+<tr><td colspan="2">3826.</td><td colspan="2">Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td><td></td></tr>
+<tr><td colspan="2">0010</td><td colspan="2">– zur Verwendung als Treibstoff</td><td>458.70</td></tr>
+<tr><td colspan="2">0090</td><td colspan="2">– zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
+<tr><td colspan="2">…</td><td colspan="2">Treibstoffe aus anderen Ausgangsstoffen</td><td>420.60</td></tr>
 </table>
 
-<table>
-<tr><th colspan="2">Zolltarifnummer</th><th>Warenbezeichnung</th><th>Steuersatz Fr.</th></tr>
-<tr><td colspan="2">2710.</td><td>Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, andere als solche die Biodiesel enthalten und andere als Ölabfälle:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Leichtöle und Zubereitungen:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td></td></tr>
-<tr><td colspan="2">1211</td><td>[tab] – – – – Benzin und seine Fraktionen</td><td>431.20</td></tr>
-<tr><td colspan="2">1212</td><td>[tab] – – – – White Spirit</td><td>452.10</td></tr>
-<tr><td colspan="2">1219</td><td>[tab] – – – – andere</td><td>458.70</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – zu andern Zwecken:</td><td></td></tr>
-<tr><td colspan="2">1291</td><td>[tab] – – – – Benzin und seine Fraktionen</td><td>8.80</td></tr>
-<tr><td colspan="2">1292</td><td>[tab] – – – – White Spirit</td><td>9.20</td></tr>
-<tr><td colspan="2">1299</td><td>[tab] – – – – andere</td><td>9.90</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td></td></tr>
-<tr><td colspan="2">1911</td><td>[tab] – – – – Petroleum</td><td>439.50</td></tr>
-<tr><td colspan="2">1912</td><td>[tab] – – – – Dieselöl</td><td>458.70</td></tr>
-<tr><td colspan="2">1919</td><td>[tab] – – – – andere</td><td>458.70</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – zu andern Zwecken:</td><td></td></tr>
-<tr><td colspan="2">1991</td><td>[tab] – – – – Petroleum</td><td>9.50</td></tr>
-<tr><td colspan="2">1992</td><td>[tab] – – – – Heizöle zu Feuerungszwecken:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – – – extraleicht</td><td>3.00</td></tr>
-<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – – – mittel und schwer</td><td>3.60</td></tr>
-<tr><td colspan="2">1993</td><td>[tab] – – – – Mineralöldestillate, bei denen weniger als 20 % Vol vor 300 °C übergehen, unvermischt</td><td>11.90</td></tr>
-<tr><td colspan="2">1994</td><td>[tab] – – – – Mineralöldestillate, bei denen weniger als 20 % Vol vor 300 °C übergehen, vermischt</td><td>30.20</td></tr>
-<tr><td colspan="2">1995</td><td>[tab] – – – – Mineralschmierfett</td><td>30.20</td></tr>
-<tr><td colspan="2">1999</td><td>[tab] – – – – andere Destillate und Produkte</td><td>11.90</td></tr>
-<tr><td colspan="2"></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td colspan="2"></td><td>– Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Ölabfälle:</td><td></td></tr>
-<tr><td colspan="2">2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>458.70</td></tr>
-<tr><td colspan="2">2090</td><td>[tab] – – zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
-<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
-<tr><td colspan="2"></td><td>– Ölabfälle:</td><td></td></tr>
-<tr><td colspan="2">9100</td><td>[tab] – – Polychlordiphenyle (PCB), Polychlorterphenyle (PCT) oder Polybromdiphenyle (PBB) enthaltend</td><td>11.90</td></tr>
-<tr><td colspan="2">9900</td><td>[tab] – – andere</td><td>11.90</td></tr>
-<tr><td colspan="2">2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– verflüssigt:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab]</td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Erdgas:</td><td></td></tr>
-<tr><td colspan="2">1110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
-<tr><td colspan="2">1190</td><td>[tab] – – – anderes</td><td>2.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Propan:</td><td></td></tr>
-<tr><td colspan="2">1210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2">1290</td><td>[tab] – – – anderes</td><td>1.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Butane:</td><td></td></tr>
-<tr><td colspan="2">1310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
-<tr><td colspan="2">1390</td><td>[tab] – – – andere</td><td>1.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Ethylen, Propylen, Butylen und Butadien:</td><td></td></tr>
-<tr><td colspan="2">1410</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2">1490</td><td>[tab] – – – andere</td><td>1.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff:</td><td>209.10</td></tr>
-<tr><td colspan="2">1990</td><td>[tab] – – – andere</td><td>1.10</td></tr>
-<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
-<tr><td colspan="2"></td><td>– in gasförmigem Zustand:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Erdgas:</td><td></td></tr>
-<tr><td colspan="2">2110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
-<tr><td colspan="2">2190</td><td>[tab] – – – anderes</td><td>2.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2">2910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>409.90</td></tr>
-<tr><td colspan="2">2990</td><td>[tab] – – – andere</td><td>2.10</td></tr>
-<tr><td colspan="2"></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td colspan="2">2901.</td><td>Kohlenwasserstoffe, acyclische:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– gesättigt:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – gasförmige, auch verflüssigt:</td><td></td></tr>
-<tr><td colspan="2">1011</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere als gasförmige:</td><td></td></tr>
-<tr><td colspan="2">1091</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– ungesättigt:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Ethylen:</td><td></td></tr>
-<tr><td colspan="2">2110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Propen (Propylen):</td><td></td></tr>
-<tr><td colspan="2">2210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Buten (Butylen) und seine Isomere:</td><td></td></tr>
-<tr><td colspan="2">2310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – 1,3-Butadien und Isopren:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – 1,3-Butadien:</td><td></td></tr>
-<tr><td colspan="2">2411</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – Isopren:</td><td></td></tr>
-<tr><td colspan="2">2421</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – gasförmig, auch verflüssigt:</td><td></td></tr>
-<tr><td colspan="2">2911</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>209.10</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – – andere als gasförmige:</td><td></td></tr>
-<tr><td colspan="2">2991</td><td>[tab] – – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2">2902.</td><td>Kohlenwasserstoffe, cyclische:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– alicyclische:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Cyclohexan:</td><td></td></tr>
-<tr><td colspan="2">1110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– Benzol:</td><td></td></tr>
-<tr><td colspan="2">2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– Toluol:</td><td></td></tr>
-<tr><td colspan="2">3010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– Xylole:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – o-Xylol:</td><td></td></tr>
-<tr><td colspan="2">4110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – m-Xylol:</td><td></td></tr>
-<tr><td colspan="2">4210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – p-Xylol:</td><td></td></tr>
-<tr><td colspan="2">4310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Xylol-Isomerengemische:</td><td></td></tr>
-<tr><td colspan="2">4410</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– Ethylbenzol:</td><td></td></tr>
-<tr><td colspan="2">6010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– Cumol:</td><td></td></tr>
-<tr><td colspan="2">7010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– andere:</td><td></td></tr>
-<tr><td colspan="2">9010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2">2905.</td><td>Acyclische Alkohole und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– gesättigte einwertige Alkohole:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Methanol (Methylalkohol):</td><td></td></tr>
-<tr><td colspan="2">1110</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Propan-1-ol (Propylalkohol) und Propan-2-ol (Isopropylalkohol):</td><td></td></tr>
-<tr><td colspan="2">1210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere Butanole:</td><td></td></tr>
-<tr><td colspan="2">1410</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Octanol (Octylalkohol) und seine Isomere:</td><td></td></tr>
-<tr><td colspan="2">1610</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2">1920</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>– ungesättigte einwertige Alkohole:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – acyclische Terpenalkohole:</td><td></td></tr>
-<tr><td colspan="2">2210</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2">2910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>439.80</td></tr>
-<tr><td colspan="2">2909.</td><td>Ether, Etheralkohole, Etherphenole, Etherphenolalkohole, Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide (auch chemisch nicht einheitlich) und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– acyclische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2">1910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>– alicyclische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2">2010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>– aromatische Ether und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2">3010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>– Etheralkohole und ihre Halogen‑, Sulfo‑, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2"></td><td>[tab] – – Monobutylether des Ethylenglycols oder des Diethylenglycols:</td><td></td></tr>
-<tr><td colspan="2">4310</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere Monoalkylether des Ethylenglycols oder des Diethylenglycols:</td><td></td></tr>
-<tr><td colspan="2">4420</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>[tab] – – andere:</td><td></td></tr>
-<tr><td colspan="2">4910</td><td>[tab] – – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>– Etherphenole, Etherphenolalkohole und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2">5010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td>– Alkoholperoxide, Etherperoxide, Acetalperoxide und Halbacetalperoxide, Ketonperoxide, und ihre Halogen-, Sulfo-, Nitro- oder Nitrosoderivate:</td><td></td></tr>
-<tr><td colspan="2">6010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2"></td><td></td><td>je 1000 kg</td></tr>
-<tr><td colspan="2">3403.</td><td>Zubereitete Schmiermittel (einschliesslich Schneidöle, Zubereitungen zum Lösen von Schrauben, zubereitete Rostschutz- oder Korrosionsschutzmittel und Formentrennmittel, auf der Grundlage von Schmierstoffen) und Zubereitungen der als Schmälzmittel für Spinnstoffe, Mittel zum Ölen oder Fetten von Leder, Pelzen oder anderen Stoffen verwendeten Art, ausgenommen solche, die als wesentlichen Bestandteil 70 Gewichtsprozent oder mehr Erdöl oder Öl aus bituminösen Mineralien enthalten:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– Erdöl oder Öl aus bituminösen Mineralien enthaltend:</td><td></td></tr>
-<tr><td colspan="2">1900</td><td>[tab] – – andere als solche der Nr. 3403.1100</td><td>30.20</td></tr>
-<tr><td colspan="2"></td><td>– andere:</td><td></td></tr>
-<tr><td colspan="2">9900</td><td>[tab] – – andere als solche der Nr. 3403.9100</td><td>30.20</td></tr>
-<tr><td></td><td></td><td></td><td>je 1000 l bei 15 °C</td></tr>
-<tr><td colspan="2">3811.</td><td>Antiklopfmittel, Antioxidantien, Antigums, Viskositätsverbesserer, Antikorrosivadditive und andere zubereitete Additive für Mineralöle (einschliesslich Treibstoffe) oder für andere zu gleichen Zwecken wie Mineralöle verwendete Flüssigkeiten:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– andere (als Antiklopfmittel und Additive für Schmieröle):</td><td></td></tr>
-<tr><td colspan="2">9010</td><td>[tab] – – zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2">3814.</td><td>Zusammengesetzte organische Lösungs- und Verdünnungsmittel, anderweit weder genannt noch inbegriffen; Zubereitungen zum Entfernen von Farben oder Lacken:</td><td></td></tr>
-<tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2">3817.</td><td>Alkylbenzol-Gemische und Alkylnaphtalin-Gemische, ausgenommen solche der Nrn. 2707 oder 2902:</td><td></td></tr>
-<tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2">3824.</td><td>Zubereitete Bindemittel für Giessereiformen oder -kerne; chemische Erzeugnisse und Zubereitungen der chemischen Industrie oder verwandter Industrien (einschliesslich Mischungen von Naturprodukten), anderweit weder genannt noch inbegriffen:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– andere:</td><td></td></tr>
-<tr><td colspan="2"></td><td>– – andere:</td><td></td></tr>
-<tr><td colspan="2">9920</td><td>– – – Erzeugnisse zur Verwendung als Treibstoff</td><td>420.60</td></tr>
-<tr><td colspan="2">3826.</td><td>Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td><td></td></tr>
-<tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>458.70</td></tr>
-<tr><td colspan="2">0090</td><td>– zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
-<tr><td colspan="2">…</td><td>Treibstoffe aus anderen Ausgangsstoffen</td><td>420.60</td></tr>
-</table>
-
-[^annex1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^annex1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 
 Anhang 1a[^t-2]
 
@@ -998,10 +994,6 @@ Anhang 1a[^t-2]
 <tr><td></td><td></td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td>je 1000 l bei 15 °C</td><td colspan="2">je 1000 l bei 15 °C</td></tr>
 <tr><td></td><td>– – – – andere</td><td>509.10</td><td>294.10</td><td>215.00</td><td>88.30</td><td colspan="2">126.70</td></tr>
 <tr><td></td><td></td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td>je 1000 kg</td><td colspan="2">je 1000 kg</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td></td><td>– in gasförmigem Zustand:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td></td><td>– – Erdgas:</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>2110</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td colspan="2">109.70</td></tr>

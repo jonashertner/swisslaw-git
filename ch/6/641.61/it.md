@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1996 sull'imposizione degli oli minerali (L
 short: LIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/it"
 
 (LIOm)
 
-del 21 giugno 1996 (Stato 1° gennaio 2026)
+del 21 giugno 1996 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 86 e 131 capoverso 1 lettera e nonché 2 della Costituzione f
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta l’all. n. 3 della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^ingress-3]: [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)
 
@@ -78,12 +78,12 @@ Nel senso della presente legge si considera:
 - c. «depositario autorizzato», chiunque è in possesso di un’autorizzazione dell’autorità fiscale che lo abilita a trasformare, estrarre, fabbricare o detenere, in un deposito autorizzato, merci non tassate;
 - d.[^2-6] «carburante rinnovabile»: il carburante prodotto a partire da biomassa o da altri vettori energetici rinnovabili.
 
-[^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)all.
+[^2-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)all.
 [^2-2]: Nuovo testo giusta l’all. n. 1 dell’O del 3 <sub>lug. 2020</sub> 01, in vigore dal 1° gen. 2001 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^2-3]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 [^2-5]: Introdotta dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^2-6]: Introdotta dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^2-6]: Introdotta dalla cifra I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 2a
 
@@ -91,7 +91,7 @@ Nel senso della presente legge si considera:
 
 Il Consiglio federale designa i carburanti rinnovabili secondo l’articolo 2 capoverso 3 lettera d.
 
-[^2a-1]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^2a-1]: Introdotto dalla cifra I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 3
 
@@ -134,7 +134,7 @@ Il credito fiscale sorge inoltre:
 
 <sup>2</sup> L’autorità fiscale conteggia le spese di riscossione sulle entrate dell’imposta sui carburanti.
 
-[^5-1]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^5-1]: Nuovo testo giusta la cifra I n. 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -229,7 +229,7 @@ Rispondono solidalmente con la persona soggetta all’imposta o con il successor
 
 <sup>2</sup> L’imposta sugli oli minerali e il supplemento fiscale sugli oli minerali sono riscossi conformemente alla tariffa dell’allegato 1*a*.
 
-[^12a-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^12a-1]: Introdotto dalla cifra I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12b
 
@@ -251,7 +251,7 @@ Su richiesta, per i carburanti rinnovabili è accordata un’agevolazione fiscal
 
 <sup>4</sup> Il Consiglio federale determina l’entità dell’agevolazione fiscale; a questo riguardo tiene conto della competitività dei carburanti rinnovabili rispetto ai carburanti di origine fossile.
 
-[^12b-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^12b-1]: Introdotto dalla cifra I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12c
 
@@ -270,7 +270,7 @@ La prova consiste in:
 
 <sup>4</sup> Il Consiglio federale stabilisce le indicazioni e i documenti necessari. Può alleviare l’onere della prova, purché sia garantito che le esigenze di cui all’articolo 12*b* capoversi 1 e 3 sono soddisfatte.
 
-[^12c-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^12c-1]: Introdotto dalla cifra I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12d
 
@@ -282,7 +282,7 @@ La prova consiste in:
 
 <sup>3</sup> Il Consiglio federale disciplina la procedura.
 
-[^12d-1]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^12d-1]: Introdotto dalla cifra I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 12e
 
@@ -292,7 +292,7 @@ La prova consiste in:
 
 <sup>2</sup> Il Consiglio federale modifica le aliquote d’imposta per la benzina e l’olio Diesel contenute nell’allegato 1 e nell’articolo 12 capoverso 2 e adegua periodicamente le aliquote modificate.
 
-[^12e-1]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2037 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^12e-1]: Introdotto dalla cifra I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2037 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 13
 
@@ -367,11 +367,11 @@ Il Consiglio federale può accordare l’esenzione totale o parziale dall’impo
 
 <sup>3</sup> ...[^17-5]
 
-[^17-1]: Introdotta dall’all. n. II 6 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^17-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^17-3]: Introdotta dall’all. n. II 6 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^17-4]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^17-5]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^17-1]: Introdotta dall’all. cifra II n. 6 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^17-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^17-3]: Introdotta dall’all. cifra II n. 6 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^17-4]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^17-5]: Abrogato dalla cifra I della LF del 18 mar. 2016, con effetto dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 
 #### Art. 18
 
@@ -384,11 +384,11 @@ Il Consiglio federale può accordare l’esenzione totale o parziale dall’impo
 - a. sugli idrocarburi gassosi provenienti dal travaso di carburante, convogliati in un deposito autorizzato al fine di recuperarli allo stato liquido;
 - b. sulle merci tassate, nuovamente immesse in un deposito autorizzato e per le quali, entro 30 giorni dalla data d’esigibilità dell’imposta, il depositario presenta una domanda di restituzione.
 
-<sup>1bis</sup> Dal 1° gennaio 2026 la restituzione dell’imposta decade per i veicoli impiegati nel traffico locale dalle imprese di trasporto concessionarie della Confederazione.[^18-1]
+<sup>1bis</sup> …[^18-1]
 
-<sup>1ter</sup> Al di fuori del traffico locale, l’imposta può essere restituita dal 1° gennaio 2030 soltanto alle imprese di trasporto concessionarie della Confederazione che dimostrano l’impossibilità, per ragioni topografiche, di impiegare sulle linee interessate autobus con un sistema di propulsione a energie rinnovabili e a impatto zero sul CO<sub>2</sub>.[^18-2]
+<sup>1ter</sup> …[^18-2]
 
-<sup>1</sup> <sup>quater</sup> La parte d’imposta riscossa sul carburante utilizzato dai veicoli adibiti alla preparazione di piste e destinata a compiti e spese connessi alla circolazione stradale è restituita.[^18-3]
+<sup>1quater</sup> La parte d’imposta riscossa sul carburante utilizzato dai veicoli adibiti alla preparazione di piste e destinata a compiti e spese connessi alla circolazione stradale è restituita.[^18-3]
 
 <sup>2</sup> Il supplemento fiscale sugli oli minerali è restituito se il carburante è stato utilizzato per l’agricoltura, la silvicoltura, l’estrazione di pietra da taglio naturale, il trasporto di viaggiatori da parte di imprese di navigazione concessionarie della Confederazione o la pesca professionale.[^18-4]
 
@@ -400,11 +400,11 @@ Il Consiglio federale può accordare l’esenzione totale o parziale dall’impo
 
 <sup>5</sup> Sulle restituzioni non è pagato alcun interesse.
 
-[^18-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)). Nuovo testo giusta l'all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2026 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)).
-[^18-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)). Nuovo testo giusta l'all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2026 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)).
-[^18-3]: Originario cpv. 1<sup>ter</sup>. Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^18-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)). Abrogato dalla cifra I n. 9 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^18-2]: Introdotto dall’all. n. 2 della LF del 15 maz. 2024 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Abrogato dalla cifra I n. 9 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^18-3]: Originario cpv. 1<sup>ter</sup>. Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
 [^18-4]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^18-5]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogato dall’all. n. 2 della LF del 15 mar. 2024, con effetto dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-5]: Introdotto dalla cifra I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogato dall’all. n. 2 della LF del 15 mar. 2024, con effetto dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Sezione 5: Riscossione dell’imposta
 
@@ -442,7 +442,7 @@ All’atto della dichiarazione delle miscele di carburanti rinnovabili e altri c
 
 <sup>4</sup> Il Consiglio federale disciplina la procedura.
 
-[^20a-1]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^20a-1]: Introdotto dalla cifra I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 21
 
@@ -456,8 +456,8 @@ All’atto della dichiarazione delle miscele di carburanti rinnovabili e altri c
 
 <sup>3</sup> La dichiarazione fiscale è vincolante per l’estensore quale base per determinare l’importo dell’imposta. È fatto salvo l’esito di un controllo ufficiale.
 
-[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-2]: Introdotto dall’all. 1 n. II 52 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^21-2]: Introdotto dall’all. 1 cifra II n. 52 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 22
 
@@ -482,7 +482,7 @@ La Direzione generale delle dogane può esigere una garanzia:
 
 <sup>2</sup> La decisione concernente la prestazione di garanzie è immediatamente esecutoria. Essa è parificata a un decreto di sequestro a tenore dell’articolo 274 della legge federale dell’11 aprile 1889[^23-1] sull’esecuzione e sul fallimento; l’opposizione al decreto di sequestro è esclusa.
 
-[^23-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^23-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 24
 
@@ -610,7 +610,7 @@ La validità della garanzia si estingue:
 
 <sup>2</sup> Le disposizioni relative alla procedura di ricorso amministrativo (art. 51 segg. della L del 20 dic. 1968[^34-1] sulla procedura amministrativa) si applicano per analogia alla procedura d’opposizione.
 
-[^34-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 35
 
@@ -663,9 +663,9 @@ In caso di circostanze aggravanti, il massimo della multa comminata è aumentato
 
 <sup>4</sup> Se un atto costituisce in pari tempo una messa in pericolo o sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’UDSC è tenuto a perseguire, si applica la pena corrispondente all’infrazione più grave; tale pena può essere adeguatamente aumentata.[^38-3]
 
-[^38-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^38-2]: Nuovo testo del per. giusta il n. I 8 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^38-3]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^38-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^38-2]: Nuovo testo del per. giusta la cifra I n. 8 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^38-3]: Nuovo testo giusta la cifra I n. 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 39
 
@@ -685,7 +685,7 @@ Chiunque, intenzionalmente o per negligenza, omette le registrazioni prescritte 
 
 Chiunque, intenzionalmente o per negligenza, disattende una prescrizione della presente legge o di un disposto esecutivo, un’istruzione emanata in virtù di tali prescrizioni o una singola decisione notificatagli sotto comminatoria della pena prevista nel presente articolo, è punito con la multa sino a 5000 franchi.
 
-[^41-1]: Nuovo testo giusta il n. I della L del 23 mar. 2007, in vigore dal 1° lug. 2020 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)).
+[^41-1]: Nuovo testo giusta la cifra I della L del 23 mar. 2007, in vigore dal 1° lug. 2020 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)).
 
 #### Art. 42
 
@@ -695,8 +695,8 @@ Chiunque, intenzionalmente o per negligenza, disattende una prescrizione della p
 
 <sup>2</sup> L’autorità competente per perseguire e giudicare è l’UDSC.[^42-2]
 
-[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^42-2]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^42-2]: Nuovo testo giusta la cifra I n. 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 43
 
@@ -760,10 +760,10 @@ Allegato 1[^t-1]
 
 ## Tariffa d’imposta sugli oli minerali
 
-[^t-1]: Aggiornato dall’all. n. 1 dell’O del 3 lug. 2020 01 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), dall’all. 4 n. I dell’O del 28 giu. 2006 ([RU 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dall’all. 3 n. 2 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub> ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)), dall’all. 3 n. 2 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^t-1]: Aggiornato dall’all. n. 1 dell’O del 3 lug. 2020 01 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), dall’all. 4 cifra I dell’O del 28 giu. 2006 ([RU 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), dall’all. 3 n. 1 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dall’all. 3 n. 2 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub> ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)), dall’all. 3 n. 2 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 <table>
-<tr><th>Voce di tariffa</th><th>Designazione della merce</th><th>Aliquota di dazio Fr.</th></tr>
+<tr><th>Voce di tariffa[^annex1-lvlu1-1]</th><th>Designazione della merce</th><th>Aliquota di dazio Fr.</th></tr>
 <tr><td></td><td></td><td>per 1000 l a 15 °C.</td></tr>
 <tr><td>2707.</td><td>Oli e altri prodotti provenienti dalla distillazione dei catrami di carbon fossile ottenuti ad alta temperatura; prodotti analoghi nei quali i costituenti aromatici predominano in peso rispetto ai costituenti non aromatici:</td><td></td></tr>
 <tr><td></td><td>– benzolo:</td><td></td></tr>
@@ -964,13 +964,15 @@ Allegato 1[^t-1]
 <tr><td>...</td><td>Carburanti di altri prodotti di base</td><td>420.60</td></tr>
 </table>
 
+[^annex1-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Allegato
+
 Allegato 1a[^t-2]
 
 (art. 12*a* cpv. 2)
 
 ## Tariffa d’imposta per il gas naturale, il gas liquido e il gas rinnovabile utilizzati come carburante
 
-[^t-2]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^t-2]: Introdotto dalla cifra I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 <table>
 <tr><th>Voce di tariffa**[1]**</th><th>Designazione della merce</th><th>Imposizione fiscale **[2]** (art. 12)</th><th>Agevolazione fiscale (art. 12*a*)</th><th>Imposizione fiscale (art. 12*a*)</th><th>Imposta sugli oli minerali</th><th>Supplemento fiscale sugli oli minerali</th></tr>
@@ -999,7 +1001,7 @@ Allegato 1a[^t-2]
 <tr><td>2110</td><td>– – – destinato a essere utilizzato come carburante</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
 <tr><td></td><td>– – altri:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2910</td><td>– – – destinati a essere utilizzati come carburante</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
-<tr><td colspan="7">**[1]** RS **632.10** allegato; giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali (RS **170.512**), la tariffa generale e le sue modifiche non sono pubblicate nella RU. Il testo può essere consultato all’indirizzo www.bazg.admin.ch. Le modifiche sono pure riprese nella tariffa doganale, consultabile all’indirizzo [www.tares.ch](http://www.tares.ch/). **[2]** Imposta sugli oli minerali e supplemento fiscale sugli oli minerali.</td></tr>
+<tr><td colspan="7">**[1]** RS **632.10** allegato; giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali (RS **170.512**), la tariffa generale e le sue modifiche non sono pubblicate nella RU. Il testo può essere consultato all’indirizzo www.bazg.admin.ch . Le modifiche sono pure riprese nella tariffa doganale, consultabile all’indirizzo [www.tares.ch](http://www.tares.ch/). **[2]** Imposta sugli oli minerali e supplemento fiscale sugli oli minerali.</td></tr>
 </table>
 
 Allegato 2
