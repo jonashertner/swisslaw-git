@@ -4,13 +4,12 @@ number: "836.100"
 title: Gesetz über Familien- und Sozialzulagen
 short: FSG
 language: de
-version: 2025-01-01
-valid_until: 2026-12-31
-version_adopted: 2024-10-22
+version: 2027-01-01
+version_adopted: 2025-11-03
 adopted: 2008-09-22
 in_force: 2009-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/836.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1917/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2096/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1917/pdf_file"
 
 (FSG)
 
-Vom 22.09.2008 (Stand 01.01.2025)
+Vom 22.09.2008 (Stand 01.01.2027)
 
 Der Kantonsrat Schaffhausen,
 
@@ -65,7 +64,7 @@ beschliesst:
 
 **Kantonale Familienausgleichskasse**
 
-<sup>1</sup> Die kantonale Familienausgleichskasse ist eine selbständige öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit.
+<sup>1</sup> Die kantonale Familienausgleichskasse ist eine Unterorganisationseinheit der AHV-Ausgleichskasse.
 
 <sup>2</sup> Die kantonale Familienausgleichskasse ist von der kantonalen Verwaltung unabhängig und führt ihre Aufgaben selbständig durch. Sie bestimmt den erforderlichen Personalbedarf und trifft alle Massnahmen zur zweckmässigen und rationellen Erfüllung der Aufgaben.
 
@@ -75,19 +74,18 @@ beschliesst:
 
 **Aufsicht kantonale Familienausgleichskasse**
 
-<sup>1</sup> Kantonale Aufsichtsbehörde ist der Regierungsrat oder das von ihm als zuständig bezeichnete Departement.
+<sup>1</sup> Kantonale Aufsichtsbehörde ist die Verwaltungskommission der Sozialversicherungsanstalt Schaffhausen soweit nicht der Regierungsrat oder das von ihm als zuständig bezeichnete Departement zuständig ist.
 
-<sup>2</sup> Dem Regierungsrat obliegt:
+<sup>2</sup> Der Verwaltungskommission obliegt:
 
 - a) die Festlegung des Arbeitgeberbeitrages der kantonalen Familienausgleichskasse
 - b) die Festlegung des Beitrages der Selbständigerwerbenden der kantonalen Familienausgleichskasse
-- c) der Erlass der notwendigen Ausführungsbestimmungen
+- c) die Genehmigung von Jahresrechnung und Jahresbericht der kantonalen Familienausgleichskasse
+- d) die Behandlung von Aufsichtsbeschwerden
 
-<sup>3</sup> Dem zuständigen Departement obliegt:
+<sup>3</sup> Dem Regierungsrat obliegt der Erlass der notwendigen Ausführungsbestimmungen dieses Gesetzes.
 
-- a) die Genehmigung von Jahresrechnung und Jahresbericht der kantonalen Familienausgleichskasse
-- b) die Vereinbarung mit der kantonalen AHV-Ausgleichskasse über die Deckung der Verwaltungskosten
-- c) die Behandlung von Aufsichtsbeschwerden
+<sup>4</sup> Dem zuständigen Departement obliegt die Vereinbarung mit der Sozialversicherungsanstalt Schaffhausen über die Deckung der Verwaltungskosten.
 
 #### Art. 6
 
@@ -100,7 +98,7 @@ beschliesst:
 - a) durch die kantonale Familienausgleichskasse für deren Verwaltungskosten
 - b) durch den Kanton für weitere mit diesem Gesetz zusammenhängende Aufgaben
 
-<sup>3</sup> Das zuständige Departement vereinbart mit der kantonalen AHV-Ausgleichskasse die Art und Weise der Abrechnung über die Verwaltungskosten.
+<sup>3</sup> Das zuständige Departement vereinbart mit der Sozialversicherungsanstalt Schaffhausen die Art und Weise der Abrechnung über die Verwaltungskosten.
 
 #### Art. 7
 
