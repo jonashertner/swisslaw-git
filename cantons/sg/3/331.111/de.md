@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2026-08-01
-valid_until: 2026-12-31
-version_adopted: 2025-11-11
+version: 2027-01-01
+valid_until: 2027-12-31
+version_adopted: 2026-09-01
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3828/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3939/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.08.2026)
+vom 12.12.1995 (Stand 01.01.2027)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -330,16 +330,41 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Belastungsgrenze einer Person bzw. eines Haushaltes für Prämien der Krankenpflege-Grundversicherung entspricht der Eigenleistung, die nicht durch Prämienverbilligung ausgeglichen wird.
 
+<sup>2</sup> Die Regierung legt jährlich bis 15. Dezember die Belastungsgrenze für das Folgejahr fest.
+
+#### Art. 18a
+
+**Referenzprämien**
+
+<sup>1</sup> Die Prämienverbilligung wird aufgrund einer Referenzprämie bemessen.
+
+<sup>2</sup> Die Referenzprämien werden unterschieden nach:
+
+- a) den Altersgruppen nach [Art. 61](https://db.clex.ch/link/Bund/832.10/de) Abs. 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^18a-1];
+- b) den Prämienregionen nach der Verordnung des EDI über die Prämienregionen vom 15. März 2022[^18a-2].
+
+<sup>3</sup> Die Referenzprämie für eine Altersgruppe in einer Prämienregion entspricht der günstigsten Prämie der ordentlichen obligatorischen Krankenpflegeversicherung mit Unfalleinschluss für diese Altersgruppe und Prämienregion. Massgebend ist die günstigste ordentliche Prämie am 1. Januar des Bezugsjahres.
+
+[^18a-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^18a-2]: SR [832.106](https://db.clex.ch/link/Bund/832.106/de).
+
+#### Art. 18b
+
+**Zugehörigkeit zu einer Prämienregion**
+
+<sup>1</sup> Die Zugehörigkeit zur Prämienregion richtet sich nach dem zivilrechtlichen Wohnsitz am 1. Januar des Bezugsjahres. Für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich ist der Arbeitsort am 1. Januar des Bezugsjahres massgebend.
+
+<sup>2</sup> Für Personen, die nach dem 1. Januar aus dem Ausland in den Kanton ziehen, richtet sich die Zugehörigkeit zur Prämienregion nach dem zivilrechtlichen Wohnsitz im Zeitpunkt der Antragstellung.
+
+<sup>3</sup> Für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich und mit einer Erwerbsaufnahme während des Kalenderjahres richtet sich die Zugehörigkeit zur Prämienregion nach dem Arbeitsort im Zeitpunkt der Antragstellung.
+
 #### Art. 19
 
-**Referenzprämien, Belastungsgrenze, Obergrenze des mittleren Einkommens und Selbstbehalt**
+**Prämienverbilligung für Kinder und junge Erwachsene in Ausbildung**
 
-<sup>1</sup> Die Regierung legt jährlich bis 15. Dezember für das Folgejahr fest:
+<sup>1</sup> …
 
-- a) die Referenzprämien;
-- b) die Belastungsgrenze;
-- c) die Obergrenze des Einkommens zur Verbilligung der Referenzprämien nach Art. 65 Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994;[^19-1]
-- d) den Selbstbehalt für die Krankenpflege-Grundversicherung.
+<sup>1<sup>bis</sup></sup> Die Regierung legt jährlich bis 15. Dezember die Obergrenzen des mittleren Einkommens im Sinn von [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^19-1] für das Folgejahr fest.
 
 <sup>2</sup> Die Verbilligung der Referenzprämien nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^19-2] beträgt 80 Prozent für Kinder und 50 Prozent für junge Erwachsene in Ausbildung. Vorbehalten bleibt eine weiter gehende Verbilligung nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994.
 
