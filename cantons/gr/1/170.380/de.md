@@ -4,13 +4,12 @@ number: "170.380"
 title: Gesetz über die Gehälter und die berufliche Vorsorge der Mitglieder der Regierung
 short: GGVR
 language: de
-version: 2007-01-01
-corrected: 2026-01-13
-version_adopted: 2006-10-19
+version: 2027-01-01
+version_adopted: 2025-11-30
 adopted: 2006-10-19
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.380"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2014/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3626/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2014/pdf_file"
 
 (GGVR)
 
-Vom 19.10.2006 (Stand 01.01.2007)
+Vom 19.10.2006 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -79,45 +78,31 @@ beschliesst:
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Die Mitglieder der Regierung werden für die berufliche Vorsorge bei der Kantonalen Pensionskasse Graubünden (KPG) versichert. Die Beiträge und Leistungen richten sich nach dem Gesetz über die Kantonale Pensionskasse[^7-1].
+<sup>1</sup> Die Mitglieder der Regierung werden für die berufliche Vorsorge bei der Pensionskasse Graubünden (PKGR) versichert. Die Beiträge und Leistungen richten sich nach dem Gesetz über die Pensionskasse Graubünden (PKG)[^7-1].
 
 [^7-1]: BR [170.450](https://www.gr-lex.gr.ch/data/170.450/de)
 
 #### Art. 8
 
-**Ruhegehalt 1. Leistungen**
+<sup>1</sup> Die Ausrichtung eines Ruhegehaltes, von Abfindungen und sonstigen Abgangsentschädigungen an zurückgetretene, nicht wieder gewählte oder nicht mehr zur Wahl antretende Mitglieder der Regierung ist nicht zulässig.
 
-<sup>1</sup> Nach dem Ausscheiden aus der Regierung besteht zusätzlich Anspruch auf ein lebenslängliches Ruhegehalt. Das Ruhegehalt beträgt für jedes Amtsjahr dreieinhalb Prozent des zuletzt bezogenen Gehalts, wobei jedes angefangene Amtsjahr als volles Jahr gilt.
+<sup>2</sup> …
 
-<sup>2</sup> Solange ein ehemaliges Mitglied der Regierung ein Erwerbseinkommen erzielt, das zusammen mit dem Ruhegehalt das Jahresgehalt eines amtierenden Mitglieds übersteigt, ist das Ruhegehalt um den Mehrbetrag zu kürzen. Leistungen aus der beruflichen Vorsorge gelten zum Rentenwert als Erwerbseinkommen.
+<sup>3</sup> …
 
-<sup>3</sup> Wird ein Regierungsmitglied während der Amtszeit vollinvalid, entspricht die Invalidenleistung dem anwartschaftlichen Ruhegehalt.
-
-<sup>4</sup> Die Ehegattenrente beträgt 60 Prozent des laufenden oder anwartschaftlichen Ruhegehalts.
+<sup>4</sup> …
 
 #### Art. 9
 
-**2. Anrechnung anderer Versicherungsleistungen**
-
-<sup>1</sup> Besteht im Invaliditätsfall gleichzeitig ein Anspruch auf Leistungen der KPG und auf andere anrechenbare Leistungen im Sinne von Artikel 18 PKG[^9-1], wird das Ruhegehalt so gekürzt, dass alle Zahlungen zusammen höchstens 60 Prozent des zuletzt bezogenen Gehalts erreichen. Im Todesfall eines amtierenden Regierungsmitglieds beträgt diese Begrenzung für die Hinterlassenen 50 Prozent.
-
-[^9-1]: BR [170.450](https://www.gr-lex.gr.ch/data/170.450/de)
+**…**
 
 #### Art. 10
 
-**3. Finanzierung**
-
-<sup>1</sup> Die Ruhegehälter und die mitversicherten Leistungen werden im Umlageverfahren vom Kanton finanziert.
+**…**
 
 #### Art. 11
 
-**4. Übrige Bestimmungen**
-
-<sup>1</sup> Im Übrigen gelten sinngemäss die Bestimmungen des Gesetzes über die KPG[^11-1].
-
-<sup>2</sup> Die Auszahlung der Leistungen besorgt die KPG.
-
-[^11-1]: BR [170.450](https://www.gr-lex.gr.ch/data/170.450/de)
+**…**
 
 #### Art. 12
 
@@ -125,9 +110,13 @@ beschliesst:
 
 <sup>1</sup> Die nach altem Recht entstandenen Leistungen bleiben unverändert.
 
-<sup>2</sup> Die gesamten aufgezinsten Einlagen der Sparversicherung jedes amtierenden Regierungsmitglieds werden zu dessen Gunsten als Freizügigkeitsleistung der KPG übertragen.
+<sup>2</sup> Die gesamten aufgezinsten Einlagen der Sparversicherung jedes amtierenden Regierungsmitglieds werden zu dessen Gunsten als Freizügigkeitsleistung der PKGR übertragen.
 
 <sup>3</sup> Amtierenden Regierungsmitgliedern wird für die bis zum Zeitpunkt des In-Kraft-Tretens dieses Gesetzes erfüllten Amtsjahre ein Ruhegehalt von vier Prozent des zuletzt bezogenen Gehalts angerechnet.
+
+#### Art. 12a
+
+<sup>1</sup> Für im Zeitpunkt des Inkrafttretens des neuen Rechts im Amt stehende Regierungsmitglieder gilt das neue Recht. Sie haben keinen Anspruch auf Ruhegehalt, Abfindungen und sonstige Entschädigungen.
 
 #### Art. 13
 

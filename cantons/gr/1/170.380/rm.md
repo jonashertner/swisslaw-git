@@ -4,13 +4,12 @@ number: "170.380"
 title: Lescha davart ils salaris e davart la prevenziun professiunala da las commembras e dals commembers da la regenza
 short: LSPR
 language: rm
-version: 2007-01-01
-corrected: 2026-01-13
-version_adopted: 2006-10-19
+version: 2027-01-01
+version_adopted: 2025-11-30
 adopted: 2006-10-19
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.380"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2014/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3626/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2014/pdf_file"
 
 (LSPR)
 
-dals 19-10-2006 (versiun dals 01-01-2007)
+dals 19-10-2006 (versiun dals 01-01-2027)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -79,45 +78,31 @@ concluda:
 
 **Prevenziun professiunala**
 
-<sup>1</sup> Per la prevenziun professiunala vegnan las commembras ed ils commembers da la regenza assicurads tar la cassa da pensiun chantunala dal Grischun (CP). Las contribuziuns e las prestaziuns sa drizzan tenor la lescha davart la cassa da pensiun chantunala dal Grischun[^7-1].
+<sup>1</sup> Per il provediment professiunal vegnan las commembras ed ils commembers da la Regenza assicurads tar la Cassa da pensiun dal Grischun (CPGR). Las contribuziuns e las prestaziuns sa drizzan tenor la Lescha davart la Cassa da pensiun dal Grischun (LCPG)[^7-1].
 
 [^7-1]: DG [170.450](https://www.gr-lex.gr.ch/data/170.450/rm)
 
 #### Art. 8
 
-**Pensiun 1. prestaziuns**
+<sup>1</sup> A commembras e commembers da la Regenza che han demissiunà, che n'èn betg vegnids reelegids u che na candideschan betg pli, na dastgan vegnir pajadas naginas pensiuns, indemnisaziuns u autras gratificaziuns da partenza.
 
-<sup>1</sup> Suenter l'extrada or da la regenza exista in dretg supplementar sin ina pensiun per vita duranta. La pensiun importa per mintga onn d'uffizi 3,5 pertschient dal salari ch'è vegnì retratg sco ultim. Mintga onn d'uffizi cumenzà quinta sco onn cumplain.
+<sup>2</sup> …
 
-<sup>2</sup> Sch'ina anteriura commembra u sch'in anteriur commember da la regenza realisescha in'entrada da gudogn che surpassa – ensemen cun la pensiun – il salari annual d'ina commembra u d'in commember en uffizi, sto la pensiun vegnir reducida per l'import supplementar. Prestaziuns or da la prevenziun professiunala valan sco entrada da gudogn, e quai per la valur da la renta.
+<sup>3</sup> …
 
-<sup>3</sup> Sch'ina commembra u sch'in commember da la regenza daventa cumplainamain invalid durant la perioda d'uffizi, correspunda la prestaziun d'invaliditad a la pensiun aspectativa.
-
-<sup>4</sup> La renta per conjugals importa 60 pertschient da la pensiun currenta u da la pensiun aspectativa.
+<sup>4</sup> …
 
 #### Art. 9
 
-**2. imputaziun d'autras prestaziuns d'assicuranza**
-
-<sup>1</sup> Sch'igl exista – en cas d'ina invaliditad – il medem mument in dretg sin prestaziuns da la CP e sin autras prestaziuns imputablas en il senn da l'artitgel 18 da la lescha davart la cassa da pensiun chantunala dal Grischun[^9-1], vegn la pensiun reducida uschia che tut ils pajaments ensemen importan maximalmain 60 pertschient dal salari ch'è vegnì retratg sco ultim. En cas ch'ina commembra u ch'in commember da la regenza mora en uffizi, importa questa limitaziun 50 pertschient per las surviventas e per ils survivents.
-
-[^9-1]: DG [170.450](https://www.gr-lex.gr.ch/data/170.450/rm)
+**…**
 
 #### Art. 10
 
-**3. finanziaziun**
-
-<sup>1</sup> Las pensiuns e las prestaziuns conassicuradas vegnan finanziadas dal chantun en la procedura da repartiziun.
+**…**
 
 #### Art. 11
 
-**4. ulteriuras disposiziuns**
-
-<sup>1</sup> Dal rest valan las disposiziuns da la lescha davart la cassa da pensiun chantunala dal Grischun[^11-1] confurm al senn.
-
-<sup>2</sup> Per il pajament da las prestaziuns procura la CP.
-
-[^11-1]: DG [170.450](https://www.gr-lex.gr.ch/data/170.450/rm)
+**…**
 
 #### Art. 12
 
@@ -125,9 +110,13 @@ concluda:
 
 <sup>1</sup> Las prestaziuns ch'èn resultadas tenor il dretg vegl na vegnan betg midadas.
 
-<sup>2</sup> La summa dals apports tschainsids da l'assicuranza da spargn da mintga commembra u da mintga commember da la regenza en uffizi vegn transferida a sia favur sco prestaziun da libra circulaziun a la CP.
+<sup>2</sup> La summa dals apports tschainsids da l'assicuranza da spargn da mintga commembra u commember da la Regenza en uffizi vegn transferida a sia favur sco prestaziun da libra circulaziun a la CPGR.
 
 <sup>3</sup> Per ils onns d'uffizi ch'èn ademplids fin il mument che questa lescha entra en vigur, vegn messa a quint a commembras ed a commembers da la regenza en uffizi ina pensiun da 4 pertschient dal salari ch'è vegnì retratg sco ultim.
+
+#### Art. 12a
+
+<sup>1</sup> Per commembras e commembers da la Regenza ch'èn en uffizi, cura ch'il dretg nov entra en vigur, vala il dretg nov. Ellas ed els n'han nagin dretg d'ina pensiun, d'indemnisaziuns u d'autras gratificaziuns.
 
 #### Art. 13
 

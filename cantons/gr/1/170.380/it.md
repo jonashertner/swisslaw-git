@@ -4,13 +4,12 @@ number: "170.380"
 title: Legge sugli stipendi e la previdenza professionale dei Consiglieri di Stato
 short: LSPC
 language: it
-version: 2007-01-01
-corrected: 2026-01-13
-version_adopted: 2006-10-19
+version: 2027-01-01
+version_adopted: 2025-11-30
 adopted: 2006-10-19
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.380"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2014/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3626/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2014/pdf_file"
 
 (LSPC)
 
-del 19.10.2006 (stato 01.01.2007)
+del 19.10.2006 (stato 01.01.2027)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -79,43 +78,31 @@ decide:
 
 **Previdenza professionale**
 
-<sup>1</sup> Per quanto riguarda la previdenza professionale, i Consiglieri di Stato sono assicurati presso la Cassa cantonale pensioni dei Grigioni (CPG). I contributi e le prestazioni si conformano alla legge sulla Cassa cantonale pensioni dei Grigioni[^7-1].
+<sup>1</sup> Per quanto riguarda la previdenza professionale, i Consiglieri di Stato sono assicurati presso la Cassa pensioni dei Grigioni (CPGR). I contributi e le prestazioni si conformano alla legge sulla Cassa pensioni dei Grigioni (LCPG)[^7-1].
 
 [^7-1]: CSC [170.450](https://www.gr-lex.gr.ch/data/170.450/it)
 
 #### Art. 8
 
-**Pensione 1. Prestazioni**
+<sup>1</sup> Il versamento di una pensione, di liquidazioni o di indennità di buonuscita di altro tipo a favore di Consiglieri di Stato che si sono dimessi, che non sono stati rieletti o che non si sono più ricandidati non è ammesso.
 
-<sup>1</sup> Dopo l'abbandono della carica in Governo esiste inoltre il diritto, vita natural durante, a una pensione. La pensione ammonta per ogni anno di carica al tre e mezzo per cento dell'ultimo stipendio conseguito; ogni anno di carica iniziato viene considerato anno intero.
+<sup>2</sup> …
 
-<sup>2</sup> Se un ex Consigliere di Stato consegue un reddito da attività lucrativa che insieme alla pensione supera lo stipendio annuo di un Consigliere in carica, lo stipendio deve essere ridotto dell'importo eccedente. Le prestazioni della previdenza professionale vengono calcolate al valore della corrispondente rendita quale reddito da attività lucrativa.
+<sup>3</sup> …
 
-<sup>3</sup> Se un Consigliere di Stato diviene totalmente invalido durante il periodo di carica, la prestazione di invalidità corrisponde alla pensione che avrebbe conseguito.
-
-<sup>4</sup> La pensione vedovile ammonta al 60 per cento della pensione corrente o eventuale.
+<sup>4</sup> …
 
 #### Art. 9
 
-**2. Computo di altre prestazioni assicurative**
-
-<sup>1</sup> Se in caso di invalidità esiste al contempo un diritto a prestazioni della CPG e ad altre prestazioni computabili ai sensi dell'articolo 18 LCPG, la pensione viene ridotta in modo che tutti i pagamenti raggiungano complessivamente al massimo il 60 per cento dell'ultimo stipendio conseguito. In caso di decesso di un Consigliere di Stato in carica, per i superstiti questa limitazione ammonta al 50 per cento.
+**…**
 
 #### Art. 10
 
-**3. Finanziamento**
-
-<sup>1</sup> Le pensioni e le prestazioni coassicurate vengono finanziate dal Cantone secondo un sistema di ripartizione.
+**…**
 
 #### Art. 11
 
-**4. Altre disposizioni**
-
-<sup>1</sup> Per il resto fanno stato per analogia le disposizioni della legge sulla CPG.[^11-1].
-
-<sup>2</sup> La CPG provvede al pagamento delle prestazioni.
-
-[^11-1]: CSC [170.450](https://www.gr-lex.gr.ch/data/170.450/it)
+**…**
 
 #### Art. 12
 
@@ -123,9 +110,13 @@ decide:
 
 <sup>1</sup> Le prestazioni sorte in base al vecchio diritto rimangono invariate.
 
-<sup>2</sup> Tutti i versamenti capitalizzati dell'assicurazione dei depositi a risparmio di ogni Consigliere di Stato in carica vengono trasferiti a suo favore alla CPG quale prestazione di libero passaggio.
+<sup>2</sup> Tutti i versamenti capitalizzati dell'assicurazione dei depositi a risparmio di ogni Consigliere di Stato in carica vengono trasferiti a suo favore alla CPGR quale prestazione di libero passaggio.
 
 <sup>3</sup> Per gli anni di carica compiuti fino all'entrata in vigore della presente legge, ai Consiglieri di Stato in carica viene computata una pensione del quattro per cento dell'ultimo stipendio conseguito.
+
+#### Art. 12a
+
+<sup>1</sup> Per i Consiglieri di Stato in carica al momento dell'entrata in vigore del nuovo diritto fa stato il nuovo diritto. Non hanno diritto a una pensione, a liquidazioni o a indennità di altro tipo.
 
 #### Art. 13
 
