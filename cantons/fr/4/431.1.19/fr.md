@@ -1,28 +1,27 @@
 ---
 canton: FR
 number: "431.1.19"
-title: "Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2026/27"
+title: "Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2028/29"
 language: fr
-version: 2025-06-01
-valid_until: 2027-05-31
-version_adopted: 2025-05-13
+version: 2027-06-01
+version_adopted: 2026-08-25
 adopted: 2025-05-13
 in_force: 2025-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.19"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8186/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8660/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2026/27
+# Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2028/29
 
 Université, admission des étrangers aux études de médecine – O
 
-du 13.05.2025 (version entrée en vigueur le 01.06.2025)
+du 25.08.2026 (version entrée en vigueur le 01.06.2027)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi du 19 novembre 1997 sur l'Université (LUni);
+Vu la loi du 19 novembre 1997 sur l'Université (LUni), en particulier l'article 24;
 
 Considérant:
 
@@ -34,7 +33,7 @@ En sa séance du 12 octobre 2006, la CUS a recommandé aux cantons universitaire
 
 Demeurent réservées les conditions d'admission générales de l'Université de Fribourg.
 
-La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 24 mars 2025.
+La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 15 juin 2026.
 
 Sur la proposition de la Direction de la formation et des affaires culturelles,
 
@@ -44,7 +43,7 @@ Arrête:
 
 **Champ d'application et but**
 
-<sup>1</sup> La présente ordonnance s'applique aux études de médecine humaine à l'Université de Fribourg pour l'année académique 2026/27.
+<sup>1</sup> La présente ordonnance s'applique aux études de médecine humaine à l'Université de Fribourg pour l'année académique 2028/29.
 
 <sup>2</sup> Elle règle la limitation de l'accès des candidats et candidates étrangers aux études de médecine humaine.
 
@@ -60,7 +59,7 @@ Arrête:
 - d) les enfants, quelle que soit leur nationalité, de ressortissants et ressortissantes d'un Etat membre de l'Union européenne, de l'Islande, de la Norvège et de la Principauté de Liechtenstein qui, en tant que membres de la famille d'un ressortissant ou d'une ressortissante de l'UE/AELE, bénéficient d'une autorisation de séjour en Suisse portant la mention «regroupement familial», conformément à l'article 3 ch. 6 de l'annexe I ALCP[^2-3];
 - e) les étrangers et étrangères domiciliés en Suisse au sens des articles 23 à 26 du code civil suisse (CC)[^2-4]:
   - 1\. qui bénéficient depuis au moins cinq ans sans interruption d'une autorisation de séjour en Suisse portant la mention «activité lucrative» comme motif principal du séjour;
-  - 2\. qui sont titulaires d'un certificat de maturité suisse ou d'un certificat de maturité cantonal reconnu au niveau suisse au sens de l'ordonnance fédérale du 15 février 1995 sur la reconnaissance des certificats de maturité gymnasiale (ORM)[^2-5] et du règlement de la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP) du 16 janvier 1995 sur la reconnaissance des certificats de maturité gymnasiale;
+  - 2\. qui sont titulaires d'un certificat de maturité suisse ou d'un certificat de maturité cantonal reconnu au niveau suisse au sens de l'ordonnance fédérale du 28 juin 2023 sur la reconnaissance des certificats de maturité gymnasiale (ORM)[^2-5] et du règlement de la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP) du 22 juin 2023 sur la reconnaissance des certificats de maturité gymnasiale (RRM);
   - 3\. qui sont titulaires d'un certificat fédéral de maturité professionnelle, d'un certificat de maturité professionnelle de la Principauté de Liechtenstein reconnu par le Secrétariat d'Etat à la formation, à la recherche et à l'innovation (SEFRI) ou d'un certificat de maturité spécialisée reconnu au niveau suisse; le certificat en question doit être complété par une attestation de réussite de l'examen complémentaire au sens de l'ordonnance fédérale du 2 février 2011 relative à l'examen complémentaire permettant aux titulaires d'un certificat fédéral de maturité professionnelle ou d'un certificat de maturité spécialisée reconnu au niveau suisse d'être admis aux hautes écoles universitaires[^2-6];
   - 4\. qui sont mariés ou en partenariat enregistré avec un ressortissant ou une ressortissante suisse;
   - 5\. dont le conjoint ou le ou la partenaire enregistré‑e est établi‑e en Suisse;
@@ -86,4 +85,4 @@ Arrête:
 [^2-6]: RS [413.14](https://db.clex.ch/link/Bund/413.14/fr)
 [^2-7]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
-2025\_028
+2026\_061
