@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-
 short: ELG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: de
-version: 2027-01-01
+version: 2028-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20270101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20280101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20280101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/de"
 
 (ELG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2027)
+vom 6. Oktober 2006 (Stand am 1. Januar 2028)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -322,7 +322,7 @@ Bei allen Personen werden zudem als Ausgaben anerkannt:
 [^10-14]: Ursprünglich Abs. 1<sup>quater</sup>. Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-15]: Ursprünglich Abs. 1<sup>quinquies</sup>. Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-16]: Ursprünglich Abs. 1<sup>sexies</sup>. Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^10-17]: Ursprünglich Abs. 1<sup>septies</sup>. Eingefügt durch Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)
+[^10-17]: Ursprünglich Abs. 1<sup>septies</sup>. Eingefügt durch Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-18]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-19]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-20]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -345,7 +345,7 @@ Als Einnahmen werden angerechnet:
 - f. Familienzulagen;
 - g.[^11-6] …
 - h. familienrechtliche Unterhaltsbeiträge;
-- i.[^11-7] ...
+- i.[^11-7] …
 
 <sup>1bis</sup>
 
@@ -438,22 +438,25 @@ Nicht angerechnet werden:
 
 #### Art. 14
 
-**Krankheits- und Behinderungskosten**
+**Krankheits- und Behinderungskosten: Grundsatz[^14-1]**
 
 <sup>1</sup>
 
-Die Kantone vergüten den Bezügerinnen und Bezügern einer jährlichen Ergänzungsleistung die ausgewiesenen, im laufenden Jahr entstandenen Kosten für:[^14-1]
+Die Kantone vergüten den Bezügerinnen und Bezügern einer jährlichen Ergänzungsleistung die folgenden Kosten:[^14-2]
 
 - a. zahnärztliche Behandlung;
 - b. Hilfe, Pflege und Betreuung zu Hause sowie in Tagesstrukturen;
-- b<sup>bis</sup>.[^14-2] vorübergehende Aufenthalte in einem Heim oder Spital, längstens jedoch für 3 Monate; dauert der Heim- oder Spitalaufenthalt länger als 3 Monate, wird die jährliche Ergänzungsleistung rückwirkend ab dem Heim- oder Spitaleintritt nach Artikel 10 Absatz 2 berechnet;
+- b<sup>bis</sup>.[^14-3] vorübergehende Aufenthalte in einem Heim oder Spital, längstens jedoch für 3 Monate; dauert der Heim- oder Spitalaufenthalt länger als 3 Monate, wird die jährliche Ergänzungsleistung rückwirkend ab dem Heim- oder Spitaleintritt nach Artikel 10 Absatz 2 berechnet;
 - c. ärztlich angeordnete Bade- und Erholungskuren;
 - d. Diät;
 - e. Transporte zur nächstgelegenen Behandlungsstelle;
-- f. Hilfsmittel; und
-- g. die Kostenbeteiligung nach Artikel 64 KVG[^14-3].
+- f. Hilfsmittel;
+- g. die Kostenbeteiligung nach Artikel 64 KVG[^14-4]; und
+- h.[^14-5] die Anpassung der Wohnung an die Bedürfnisse von in der Mobilität eingeschränkten Personen oder einen Zuschlag für die Miete einer entsprechenden Wohnung, sofern weder die Bezügerin oder der Bezüger der jährlichen Ergänzungsleistung noch eine andere im gleichen Haushalt lebende Person Anspruch auf den Zuschlag nach Artikel 10 Absatz 1 Buchstabe b Ziffer 3 hat.
 
 <sup>2</sup> Die Kantone bezeichnen die Kosten, die nach Absatz 1 vergütet werden können. Sie können die Vergütung auf im Rahmen einer wirtschaftlichen und zweckmässigen Leistungserbringung erforderliche Ausgaben beschränken.
+
+<sup>2bis</sup> Der Zuschlag nach Absatz 1 Buchstabe h wird pro Haushalt gewährt und auf die anspruchsberechtigten Personen aufgeteilt.[^14-6]
 
 <sup>3</sup> Für die zusätzlich zur jährlichen Ergänzungsleistung vergüteten Krankheits- und Behinderungskosten können die Kantone Höchstbeträge festlegen. Diese dürfen jedoch folgende Beträge pro Jahr nicht unterschreiten:
 
@@ -466,33 +469,70 @@ Die Kantone vergüten den Bezügerinnen und Bezügern einer jährlichen Ergänzu
 <tr><td>b. bei in Heimen oder Spitälern lebenden Personen:</td><td>6 000 Franken</td></tr>
 </table>
 
-<sup>4</sup> Bei zu Hause lebenden Personen mit einem Anspruch auf eine Hilflosenentschädigung der IV oder der Unfallversicherung erhöht sich der Mindestbetrag nach Absatz 3 Buchstabe a Ziffer 1 bei schwerer Hilflosigkeit auf 90 000 Franken, soweit die Kosten für Pflege und Betreuung durch die Hilflosenentschädigung und den Assistenzbeitrag der AHV oder der IV nicht gedeckt sind.[^14-4] Der Bundesrat regelt die entsprechende Erhöhung bei mittelschwerer Hilflosigkeit und die Erhöhung des Betrages für Ehepaare.
+<sup>4</sup> Bei zu Hause lebenden Personen mit einem Anspruch auf eine Hilflosenentschädigung der IV oder der Unfallversicherung erhöht sich der Mindestbetrag nach Absatz 3 Buchstabe a Ziffer 1 bei schwerer Hilflosigkeit auf 90 000 Franken, soweit die Kosten für Pflege und Betreuung durch die Hilflosenentschädigung und den Assistenzbeitrag der AHV oder der IV nicht gedeckt sind.[^14-7] Der Bundesrat regelt die entsprechende Erhöhung bei mittelschwerer Hilflosigkeit und die Erhöhung des Betrages für Ehepaare.
 
 <sup>5</sup> Der Betrag wird auch bei Bezügerinnen und Bezügern einer Hilflosenentschädigung der AHV, die vorher eine Hilflosenentschädigung der IV bezogen haben, nach Absatz 4 erhöht.
 
 <sup>6</sup> Personen, die auf Grund eines Einnahmenüberschusses keinen Anspruch auf eine jährliche Ergänzungsleistung haben, haben Anspruch auf die Vergütung der Krankheits- und Behinderungskosten, die den Einnahmenüberschuss übersteigen.
 
-<sup>7</sup> Die Kantone können in Rechnung gestellte Kosten, welche noch nicht bezahlt sind, direkt dem Rechnungssteller oder der Rechnungsstellerin vergüten.
+<sup>7</sup> …[^14-8]
 
-[^14-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^14-2]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^14-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^14-4]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^14-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-3]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^14-4]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^14-5]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-6]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-7]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^14-8]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+
+#### Art. 14a
+
+**Krankheits- und Behinderungskosten: besondere Bestimmungen für Hilfe und Betreuung zu Hause**[^14a-1]
+
+<sup>1</sup>
+
+Im Rahmen der Leistungen nach Artikel 14 Absatz 1 Buchstabe b haben Bezügerinnen und Bezüger einer jährlichen Ergänzungsleistung für Hilfe und Betreuung zu Hause Anspruch auf die Vergütung der Kosten insbesondere für folgende Leistungen:
+
+- a. ein Notrufsystem;
+- b. Hilfe im Haushalt;
+- c. Mahlzeitenangebote;
+- d. Begleit- und Fahrdienste.
+
+<sup>2</sup> Der Anspruch auf die Vergütung der Leistungen nach Absatz 1 besteht ab dem Monat, in dem diese Vergütung beantragt wird und sofern der Bedarf besteht.
+
+<sup>3</sup> Der Anspruch auf die Vergütung der Leistungen nach Absatz 1 besteht unabhängig vom Anspruch auf eine Hilflosenentschädigung. Der Kanton darf die Hilflosenentschädigung nicht von der Vergütung in Abzug bringen.
+
+<sup>4</sup> Für die Vergütung der Leistungen nach Absatz 1 legt der Kanton Pauschalen fest. Die Summe der Pauschalen darf den Mindestbetrag von 11 160 Franken pro Person und Jahr nicht unterschreiten; vorbehalten bleibt der vom Kanton festgelegte Höchstbetrag nach Artikel 14 Absatz 3.
+
+<sup>5</sup> Der Anspruch auf die Vergütung besteht *pro rata*, wenn die Person teilweise in einer Institution und teilweise zu Hause wohnt. Der Bundesrat regelt die Einzelheiten.
+
+[^14a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 15
 
-**Frist für die Geltendmachung von Krankheits- und Behinderungskosten**
+**Vergütung**[^15-1]
 
-Krankheits- und Behinderungskosten werden vergütet, wenn:
+<sup>1</sup>
+
+Für Leistungen nach Artikel 14 Absatz 1 vergüten die Kantone die ausgewiesenen, im laufenden Kalenderjahr entstandenen Kosten, wenn:
 
 - a. die Vergütung innert 15 Monaten nach Rechnungsstellung geltend gemacht wird; und
-- b. die Kosten in einem Zeitabschnitt entstanden sind, während dem die antragstellende Person die Voraussetzungen nach den Artikeln 4–6 erfüllte.
+- b. die Kosten in einem Zeitabschnitt entstanden sind, in dem die antragstellende Person die Voraussetzungen nach den Artikeln 4–6 erfüllt hat.
+
+<sup>2</sup> Die Kantone können in Rechnung gestellte Krankheits- und Behinderungskosten, die noch nicht bezahlt sind, direkt dem Rechnungssteller oder der Rechnungsstellerin vergüten.
+
+<sup>3</sup> Die Kantone vergüten die Leistungen für Hilfe und Betreuung zu Hause nach Artikel 14*a* Absatz 1 monatlich in Form von Pauschalen.
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 16
 
-**Finanzierung**
+**Finanzierung**[^16-1]
 
-Die Kantone finanzieren die Leistungen nach Artikel 14.
+Die Kantone finanzieren die Leistungen nach diesem Abschnitt.
+
+[^16-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 ### 5. Abschnitt: Rückerstattung rechtmässig bezogener Leistungen
 
@@ -566,11 +606,12 @@ Der Bundesrat kann:
 
 #### Art. 19
 
-**Anpassung der Leistungen**
+**Anpassung der Leistungen**[^19-1]
 
-Bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^19-1] kann der Bundesrat die Höhe der anerkannten Ausgaben (Art. 10 Abs. 1), der anrechenbaren Einnahmen (Art. 11 Abs. 1) und der Krankheits- und Behinderungskosten (Art. 14 Abs. 3 und 4) in angemessener Weise anpassen.
+Bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^19-2] kann der Bundesrat die Höhe der anerkannten Ausgaben (Art. 10 Abs. 1) und der anrechenbaren Einnahmen (Art. 11 Abs. 1) sowie die Mindestbeträge nach den Artikeln 14 Absätze 3 und 4 sowie 14*a* Absatz 4 in angemessener Weise anpassen.
 
-[^19-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^19-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^19-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 20
 
@@ -611,6 +652,10 @@ Rückforderungen können mit den folgenden Leistungen verrechnet werden:
 
 <sup>3</sup> Die Kantone informieren die möglichen anspruchsberechtigten Personen in angemessener Weise.
 
+<sup>3bis</sup> Die zuständige Behörde bestätigt Personen, die einen Antrag auf jährliche Ergänzungsleistungen stellen oder einen entsprechenden Anspruch haben, den Eingang der von ihnen eingereichten Dokumente.[^21-6]
+
+<sup>3ter</sup> Die Kantone stellen sicher, dass Gesuche und Unterlagen elektronisch eingereicht werden können.[^21-7]
+
 <sup>4</sup> Die Auszahlung der Ergänzungsleistung kann gemeinsam mit der Rente der AHV oder der IV erfolgen.
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -618,19 +663,34 @@ Rückforderungen können mit den folgenden Leistungen verrechnet werden:
 [^21-3]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^21-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^21-5]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-6]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21-7]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 21a
 
-**Auszahlung des Betrags für die Krankenpflegeversicherung**[^21a-1]
+**Auszahlung der Ergänzungsleistungen an Dritte[^21a-2]**[^21a-1]
 
-<sup>1</sup> Der Betrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d ist in Abweichung von Artikel 20 ATSG[^21a-2] direkt dem Krankenversicherer auszuzahlen.
+<sup>1</sup> Beträge für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d, die für das laufende oder die vier vorausgegangenen Kalenderjahre ausgerichtet werden, sind in Abweichung von Artikel 20 ATSG[^21a-3] direkt dem Krankenversicherer auszuzahlen.[^21a-4]
 
 <sup>2</sup> Ist die jährliche Ergänzungsleistung kleiner als der Betrag für die obligatorische Krankenpflegeversicherung, so ist der Betrag der jährlichen Ergänzungsleistung dem Krankenversicherer auszuzahlen.
 
 <sup>3</sup> Der Betrag der jährlichen Ergänzungsleistung für den Aufenthalt in Heimen und Spitälern nach Artikel 10 Absatz 2 Buchstabe a kann in Abweichung von Artikel 20 ATSG dem Leistungserbringer abgetreten und direkt ausbezahlt werden.
 
 [^21a-1]: Eingefügt durch Ziff. II des BG vom 19. März 2010 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^21a-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21a-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^21a-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+
+#### Art. 21b
+
+**Rückforderung von Beträgen für die obligatorische Krankenpflegeversicherung**[^21b-1]
+
+<sup>1</sup> Die Rückforderung von unrechtmässig gewährten Beträgen für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d, die für das laufende oder die vier vorausgegangenen Kalenderjahre ausgerichtet worden sind, richtet sich in dem Umfang gegen den Krankenversicherer, in dem diesem die Beträge direkt ausgezahlt worden sind. Die Kantone stellen sicher, dass für den gleichen Zeitraum von Amtes wegen rückwirkend der Anspruch auf eine Prämienverbilligung geprüft wird.
+
+<sup>2</sup> Die Rückforderung wird erlassen, wenn die Bezügerin oder der Bezüger die Voraussetzungen nach Artikel 25 Absatz 1 zweiter Satz ATSG[^21b-2] erfüllt.
+
+[^21b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2028 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21b-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 22
 
@@ -819,8 +879,8 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^32-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^32-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
 [^32-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
-[^32-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
-[^32-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
+[^32-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
+[^32-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113); [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^32-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## 6. Kapitel: Schlussbestimmungen
@@ -855,7 +915,7 @@ Datum des Inkrafttreten: 1. Januar 2008[^35-2]
 
 [^u1-1]
 
-[^u1-1]: [AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)
+[^u1-1]: [AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)
 
 Die Kantone sind befugt, Artikel 21*a* erst mit der Änderung des Systems der Prämienverbilligung nach Artikel 65 Absatz 1 KVG[^u1-2] anzuwenden.
 

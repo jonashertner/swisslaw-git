@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 2006 sur les prestations complémentaires à
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: fr
-version: 2027-01-01
+version: 2028-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20270101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20280101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/fr"
 
 (Loi sur les prestations complémentaires, LPC)[^t-1]
 
-du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2027)
+du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2028)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Ch. I 3 de la LF concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT; [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)).
@@ -251,7 +251,7 @@ Pour les personnes qui ne vivent pas en permanence ni pour une période de plus 
 
   - 1\. 21 000 francs pour les personnes seules,
   - 2\. 31 500 francs pour les couples,
-  - 3\.[^10-3] 10 980 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
+  - 3\.[^10-3] 10 980francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
   - 4\.[^10-4] 7710 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
 
 - b.[^10-5]
@@ -441,22 +441,25 @@ Ne sont pas pris en compte:
 
 #### Art. 14
 
-**Frais de maladie et d’invalidité**
+**Frais de maladie et d’invalidité: principe[^14-1]**
 
 <sup>1</sup>
 
-Les cantons remboursent aux bénéficiaires d’une prestation complémentaire annuelle les frais suivants de l’année civile en cours, s’ils sont dûment établis:
+Les cantons remboursent aux bénéficiaires d’une prestation complémentaire annuelle les frais suivants:[^14-2]
 
 - a. frais de traitement dentaire;
 - b. frais d’aide, de soins et d’assistance à domicile ou dans d’autres structures ambulatoires;
-- b<sup>bis</sup>.[^14-1] frais de séjours passagers dans un home ou dans un hôpital, d’une durée maximale de trois mois; lorsque le séjour dans un home ou dans un hôpital excède trois mois, la prestation complémentaire annuelle est calculée rétroactivement, sur la base des dépenses reconnues visées à l’art. 10, al. 2, depuis l’admission dans le home ou l’hôpital;
+- b<sup>bis</sup>.[^14-3] frais de séjours passagers dans un home ou dans un hôpital, d’une durée maximale de trois mois; lorsque le séjour dans un home ou dans un hôpital excède trois mois, la prestation complémentaire annuelle est calculée rétroactivement, sur la base des dépenses reconnues visées à l’art. 10, al. 2, depuis l’admission dans le home ou l’hôpital;
 - c. frais liés aux cures balnéaires et aux séjours de convalescence prescrits par un médecin;
 - d. frais liés à un régime alimentaire particulier;
 - e. frais de transport vers le centre de soins le plus proche;
 - f. frais de moyens auxiliaires;
-- g. frais payés au titre de la participation aux coûts selon l’art. 64 LAMal[^14-2].
+- g. frais payés au titre de la participation aux coûts selon l’art. 64 LAMal[^14-4];
+- h.[^14-5] frais d’adaptation du logement aux besoins des personnes à mobilité réduite ou supplément pour la location d’un tel logement, pour autant que ni le bénéficiaire de la prestation complémentaire annuelle ni une autre personne vivant dans le même ménage n’ait droit au supplément prévu à l’art. 10, al. 1, let. b, ch. 3.
 
 <sup>2</sup> Les cantons précisent quels frais peuvent être remboursés en vertu de l’al. 1. Ils peuvent limiter le remboursement aux dépenses nécessaires dans les limites d’une fourniture économique et adéquate des prestations.
+
+<sup>2bis</sup> Le supplément prévu à l’al. 1, let. h, est accordé par ménage et réparti entre les personnes qui y ont droit.[^14-6]
 
 <sup>3</sup> Les cantons peuvent fixer les montants maximaux des frais de maladie et d’invalidité qu’ils remboursent en plus de la prestation complémentaire annuelle. Par année, ceux-ci ne peuvent toutefois être inférieurs aux montants suivants:
 
@@ -468,32 +471,70 @@ Les cantons remboursent aux bénéficiaires d’une prestation complémentaire a
 <tr><td>b. pour les personnes vivant dans un home ou un hôpital</td><td>6 000 francs</td></tr>
 </table>
 
-<sup>4</sup> Pour les personnes vivant à domicile qui ont droit à une allocation pour impotent de l’AI ou de l’assurance-accidents, le montant minimal fixé à l’al. 3, let. a, ch. 1, s’élève à 90 000 francs lorsque l’impotence est grave, dans la mesure où les frais de soins et d’assistance ne sont pas couverts par l’allocation pour impotent et la contribution d’assistance de l’AVS ou de l’AI.[^14-3] Le Conseil fédéral règle l’augmentation de ce montant pour les personnes dont l’impotence est moyenne ainsi que l’augmentation du montant pour les couples.
+<sup>4</sup> Pour les personnes vivant à domicile qui ont droit à une allocation pour impotent de l’AI ou de l’assurance-accidents, le montant minimal fixé à l’al. 3, let. a, ch. 1, s’élève à 90 000 francs lorsque l’impotence est grave, dans la mesure où les frais de soins et d’assistance ne sont pas couverts par l’allocation pour impotent et la contribution d’assistance de l’AVS ou de l’AI.[^14-7] Le Conseil fédéral règle l’augmentation de ce montant pour les personnes dont l’impotence est moyenne ainsi que l’augmentation du montant pour les couples.
 
 <sup>5</sup> L’augmentation prévue à l’al. 4 subsiste pour les personnes bénéficiant d’une allocation pour impotent de l’AVS qui percevaient auparavant une allocation pour impotent de l’AI.
 
 <sup>6</sup> Les personnes qui, en raison de revenus excédentaires, n’ont pas droit à une prestation complémentaire annuelle, ont droit au remboursement des frais de maladie et d’invalidité qui dépassent la part des revenus excédentaires.
 
-<sup>7</sup> Les cantons peuvent rembourser directement au fournisseur les frais facturés qui n’ont pas encore été acquittés.
+<sup>7</sup> …[^14-8]
 
-[^14-1]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^14-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^14-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2011 (6<sup>e</sup> révision de l’AI, premier volet), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^14-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-3]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^14-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^14-5]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-6]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-7]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2011 (6<sup>e</sup> révision de l’AI, premier volet), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^14-8]: Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+
+#### Art. 14a
+
+**Frais de maladie et d’invalidité: dispositions particulières relatives à l’aide et aux tâches d’assistance à domicile**[^14a-1]
+
+<sup>1</sup>
+
+Dans le cadre des prestations visées à l’art. 14, al. 1, let. b, les bénéficiaires d’une prestation complémentaire annuelle pour une aide et des tâches d’assistance à domicile ont droit au remboursement des frais liés en particulier aux prestations suivantes:
+
+- a. système d’appel d’urgence;
+- b. aide au ménage;
+- c. service de repas;
+- d. service de transport et d’accompagnement.
+
+<sup>2</sup> Le droit au remboursement des prestations visées à l’al. 1 prend naissance le mois où le remboursement est demandé, pour autant que le besoin des prestations existe.
+
+<sup>3</sup> Le droit au remboursement des prestations visées à l’al. 1 est indépendant du droit à une allocation pour impotent. Le canton n’est pas en droit de déduire l’allocation pour impotent du montant du remboursement.
+
+<sup>4</sup> Le canton fixe des forfaits pour le remboursement des prestations visées à l’al. 1. La somme des forfaits ne doit pas être inférieure à 11 160 francs par personne et par année; demeure réservé le montant maximal fixé par le canton conformément à l’art. 14, al. 3.
+
+<sup>5</sup> Le droit au remboursement est accordé au *pro rata* si la personne vit en partie en institution et en partie à domicile. Le Conseil fédéral règle les modalités.
+
+[^14a-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 15
 
-**Délai de dépôt de la demande de remboursement**
+**Remboursement**[^15-1]
 
-Les frais de maladie et d’invalidité sont remboursés aux conditions suivantes:
+<sup>1</sup>
+
+S’agissant des prestations prévues à l’art. 14, al. 1, les cantons remboursent les frais dûment établis de l’année civile en cours si les conditions suivantes sont réunies:
 
 - a. le remboursement est demandé dans les quinze mois à compter de la facturation;
 - b. les frais sont intervenus à une époque pendant laquelle le requérant remplissait les conditions fixées aux art. 4 à 6.
 
+<sup>2</sup> Les cantons peuvent rembourser directement au fournisseur les frais de maladie et d’invalidité facturés qui n’ont pas encore été acquittés.
+
+<sup>3</sup> Les cantons remboursent mensuellement sous forme de forfaits les prestations d’aide et d’assistance à domicile visées à l’art. 14*a*, al. 1.
+
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+
 #### Art. 16
 
-**Financement**
+**Financement**[^16-1]
 
-Les cantons financent les prestations prévues à l’art. 14.
+Les cantons financent les prestations prévues dans cette section.
+
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 ### Section 5 Restitution des prestations légalement perçues
 
@@ -567,11 +608,12 @@ Le Conseil fédéral peut:
 
 #### Art. 19
 
-**Adaptation des prestations**
+**Adaptation des prestations**[^19-1]
 
-Le Conseil fédéral peut, lorsqu’il fixe les nouvelles rentes conformément à l’art. 33<sup>ter</sup> LAVS[^19-1], adapter de manière appropriée le montant des dépenses reconnues (art. 10, al. 1), des revenus déterminants (art. 11, al. 1) et des frais de maladie et d’invalidité (art. 14, al. 3 et 4).
+Le Conseil fédéral peut, lorsqu’il fixe les nouvelles rentes conformément à l’art. 33<sup>ter</sup> LAVS[^19-2], modifier de manière appropriée le montant des dépenses reconnues (art. 10, al. 1) et des revenus déterminants (art. 11, al. 1) ainsi que les montants minimaux visés aux art. 14, al. 3 et 4, et 14*a*, al. 4.
 
-[^19-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^19-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 20
 
@@ -612,6 +654,10 @@ Les créances en restitution peuvent être compensées avec les prestations suiv
 
 <sup>3</sup> Les cantons informent les ayants droit potentiels de manière adéquate.
 
+<sup>3bis</sup> L’autorité compétente confirme aux personnes qui font une demande de prestations complémentaires annuelles et à celles qui ont droit à de telles prestations la réception des documents qu’elles lui ont remis.[^21-6]
+
+<sup>3ter</sup> Les cantons veillent à ce que les demandes et les documents puissent être déposés par voie électronique.[^21-7]
+
 <sup>4</sup> Les prestations complémentaires peuvent être versées conjointement avec la rente de l’AVS ou de l’AI.
 
 [^21-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -619,19 +665,34 @@ Les créances en restitution peuvent être compensées avec les prestations suiv
 [^21-3]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^21-4]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^21-5]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-6]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21-7]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 21a
 
-**Versement du montant pour l’assurance obligatoire des soins**[^21a-1]
+**Versement des prestations complémentaires à des tiers[^21a-2]**[^21a-1]
 
-<sup>1</sup> En dérogation à l’art. 20 LPGA[^21a-2], le montant pour l’assurance obligatoire des soins visé à l’art. 10, al. 3, let. d, est versé directement à l’assureur-maladie.
+<sup>1</sup> En dérogation à l’art. 20 LPGA[^21a-3], les montants pour l’assurance obligatoire des soins visés à l’art. 10, al. 3, let. d, et octroyés pour l’année en cours et les quatre années civiles précédentes sont versés directement à l’assureur-maladie.[^21a-4]
 
 <sup>2</sup> Si la prestation complémentaire annuelle est inférieure au montant pour l’assurance obligatoire des soins, le montant de la prestation complémentaire annuelle est versé à l’assureur-maladie.
 
 <sup>3</sup> Le montant de la prestation complémentaire annuelle pour le séjour dans un home ou un hôpital au sens de l’art. 10, al. 2, let. a, peut, en dérogation à l’art. 20 LPGA, être cédé et versé directement au fournisseur de prestations.
 
 [^21a-1]: Introduit par le ch. II de la LF du 19 mars 2010 ([RO 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5973](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5987](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21a-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^21a-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21a-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^21a-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+
+#### Art. 21b
+
+**Restitution des montants pour l’assurance-maladie obligatoire des soins**[^21b-1]
+
+<sup>1</sup> La demande de restitution des montants pour l’assurance-maladie obligatoire des soins prévus à l’art. 10, al. 3, let. d, indûment accordés et versés pour l’année en cours ou les quatre années civiles précédentes est adressée à l’assureur-maladie à concurrence des montants qui lui ont été directement versés. Les cantons veillent à ce que le droit à une réduction de primes soit examiné d’office avec effet rétroactif pour la même période.
+
+<sup>2</sup> La restitution n’est pas exigée lorsque le bénéficiaire des prestations remplit les conditions fixées à l’art. 25, al. 1, 2<sup>e</sup> phrase, LPGA[^21b-2].
+
+[^21b-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21b-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 22
 

@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 2006 sulle prestazioni complementari all'as
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: it
-version: 2027-01-01
+version: 2028-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20270101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20280101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20280101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20270101/it"
 
 (LPC)
 
-del 6 ottobre 2006 (Stato 1° gennaio 2027)
+del 6 ottobre 2006 (Stato 1° gennaio 2028)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -439,22 +439,25 @@ Non sono computati:
 
 #### Art. 14
 
-**Spese di malattia e d’invalidità**
+**Spese di malattia e d’invalidità: principio[^14-1]**
 
 <sup>1</sup>
 
-I Cantoni rimborsano ai beneficiari di una prestazione complementare annua le seguenti spese comprovate dell’anno civile in corso:
+I Cantoni rimborsano ai beneficiari di una prestazione complementare annua le seguenti spese:[^14-2]
 
 - a. di dentista;
 - b. di aiuto, di cure e di assistenza a domicilio e in strutture diurne;
-- b<sup>bis</sup>.[^14-1] di soggiorno temporaneo in un istituto o in un ospedale, ma al massimo per tre mesi; se il soggiorno in un istituto o in un ospedale dura più di tre mesi, la prestazione complementare annua è calcolata retroattivamente, sulla base delle spese riconosciute di cui all’articolo 10 capoverso 2, a partire dall’inizio del soggiorno;
+- b<sup>bis</sup>.[^14-3] di soggiorno temporaneo in un istituto o in un ospedale, ma al massimo per tre mesi; se il soggiorno in un istituto o in un ospedale dura più di tre mesi, la prestazione complementare annua è calcolata retroattivamente, sulla base delle spese riconosciute di cui all’articolo 10 capoverso 2, a partire dall’inizio del soggiorno;
 - c. di cure balneari e rigeneratrici ordinate dal medico;
 - d. per diete;
 - e. di trasporto al più vicino luogo di cura;
-- f. di mezzi ausiliari; e
-- g. di partecipazione ai costi secondo l’articolo 64 LAMal[^14-2].
+- f. di mezzi ausiliari;
+- g. di partecipazione ai costi secondo l’articolo 64 LAMal[^14-4]; e
+- h.[^14-5] di adeguamento dell’appartamento alle esigenze delle persone a mobilità ridotta, oppure il supplemento per la locazione di un appartamento adeguato a tali esigenze, a condizione che né il beneficiario della prestazione complementare annua né alcuna altra persona che vive nella stessa economia domestica abbia diritto al supplemento di cui all’articolo 10 capoverso 1 lettera b numero 3.
 
 <sup>2</sup> I Cantoni designano le spese che possono essere rimborsate secondo il capoverso 1. Possono limitare il rimborso alle spese necessarie nell’ambito di una fornitura di prestazioni economica e appropriata.
+
+<sup>2bis</sup> Il supplemento di cui al capoverso 1 lettera h è concesso per economia domestica e ripartito tra gli aventi diritto.[^14-6]
 
 <sup>3</sup> Per le spese di malattia e d’invalidità rimborsate in aggiunta alla prestazione complementare annua, i Cantoni possono fissare importi massimi. Questi ultimi non possono tuttavia essere inferiori ai seguenti importi annui:
 
@@ -466,32 +469,70 @@ I Cantoni rimborsano ai beneficiari di una prestazione complementare annua le se
 <tr><td>b. per le persone che vivono in un istituto o in un ospedale</td><td>6 000 franchi</td></tr>
 </table>
 
-<sup>4</sup> Per le persone che vivono a casa e hanno diritto a un assegno per grandi invalidi dell’AI o dell’assicurazione contro gli infortuni, l’importo minimo secondo il capoverso 3 lettera a numero 1 è aumentato a 90 000 franchi in caso di grande invalidità di grado elevato, per quanto le spese per le cure e l’assistenza non siano coperte dall’assegno per grandi invalidi e dal contributo per l’assistenza dell’AVS o dell’AI.[^14-3] Il Consiglio federale disciplina l’aumento corrispondente per le persone con una grande invalidità di grado medio e quello dell’importo per coniugi.
+<sup>4</sup> Per le persone che vivono a casa e hanno diritto a un assegno per grandi invalidi dell’AI o dell’assicurazione contro gli infortuni, l’importo minimo secondo il capoverso 3 lettera a numero 1 è aumentato a 90 000 franchi in caso di grande invalidità di grado elevato, per quanto le spese per le cure e l’assistenza non siano coperte dall’assegno per grandi invalidi e dal contributo per l’assistenza dell’AVS o dell’AI.[^14-7] Il Consiglio federale disciplina l’aumento corrispondente per le persone con una grande invalidità di grado medio e quello dell’importo per coniugi.
 
 <sup>5</sup> L’importo è aumentato secondo il capoverso 4 anche in caso di riscossione di un assegno per grandi invalidi dell’AVS se l’assicurato percepiva in precedenza un assegno per grandi invalidi dell’AI.
 
 <sup>6</sup> Le persone che in seguito a un’eccedenza dei redditi non hanno diritto a una prestazione complementare annua hanno diritto al rimborso delle spese di malattia e d’invalidità che superano l’eccedenza dei redditi.
 
-<sup>7</sup> I Cantoni possono rimborsare direttamente ai fornitori i costi fatturati non ancora pagati.
+<sup>7</sup> …[^14-8]
 
-[^14-1]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^14-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^14-3]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-3]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^14-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^14-5]: Introdotta testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-6]: Introdotto testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^14-7]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^14-8]: Abrogato dalla cifra I della LF del 20 giu. 2025, con effetto dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+
+#### Art. 14a
+
+**Spese di malattia e d’invalidità: disposizioni particolari per l’aiuto e l’assistenza a domicilio**[^14a-1]
+
+<sup>1</sup>
+
+Nell’ambito delle prestazioni di cui all’articolo 14 capoverso 1 lettera b, i beneficiari di una prestazione complementare annua per le prestazioni di aiuto e assistenza a domicilio hanno diritto al rimborso in particolare delle spese per le prestazioni seguenti:
+
+- a. sistema di chiamate d’emergenza;
+- b. aiuto nell’economia domestica;
+- c. servizi pasti;
+- d. servizi di accompagnamento e trasporto.
+
+<sup>2</sup> Il diritto al rimborso delle prestazioni di cui al capoverso 1 sussiste a partire dal mese in cui è richiesto, sempre che sia dato il bisogno.
+
+<sup>3</sup> Il diritto al rimborso delle prestazioni di cui al capoverso 1 sussiste indipendentemente dal diritto a un assegno per grandi invalidi. Il Cantone non può dedurre l’assegno per grandi invalidi dal rimborso.
+
+<sup>4</sup> Per il rimborso delle prestazioni di cui al capoverso 1 il Cantone fissa importi forfettari. La somma degli importi forfettari non può essere inferiore a 11 160 franchi per persona e per anno; è fatto salvo l’importo massimo fissato dal Cantone secondo l’articolo 14 capoverso 3.
+
+<sup>5</sup> Se il beneficiario vive in parte in una struttura e in parte a casa, il diritto al rimborso è calcolato in ragione di tale proporzione. Il Consiglio federale disciplina i dettagli.
+
+[^14a-1]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 15
 
-**Termine per esercitare il diritto al rimborso**
+**Rimborso**[^15-1]
 
-Le spese di malattia e d’invalidità sono rimborsate se:
+<sup>1</sup>
 
-- a. il rimborso è fatto valere entro quindici mesi dalla fatturazione; e
+Per le prestazioni di cui all’articolo 14 capoverso 1 i Cantoni rimborsano le spese comprovate dell’anno civile in corso, se:
+
+- a. il rimborso è fatto valere entro 15 mesi dalla fatturazione; e
 - b. le spese sono insorte in un periodo in cui il richiedente adempiva le condizioni di cui agli articoli 4–6.
+
+<sup>2</sup> I Cantoni possono rimborsare direttamente i fornitori per le spese di malattia e d’invalidità fatturate e non ancora pagate.
+
+<sup>3</sup> I Cantoni rimborsano mensilmente, sotto forma di importi forfettari, le prestazioni di aiuto e assistenza a domicilio di cui all’articolo 14*a* capoverso 1.
+
+[^15-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 16
 
-**Finanziamento**
+**Finanziamento**[^16-1]
 
-I Cantoni finanziano le prestazioni di cui all’articolo 14.
+I Cantoni finanziano le prestazioni menzionate nella presente sezione.
+
+[^16-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 ### Sezione 5: Restituzione delle prestazioni percepite legalmente
 
@@ -565,11 +606,12 @@ Il Consiglio federale può:
 
 #### Art. 19
 
-**Adeguamento delle prestazioni**
+**Adeguamento delle prestazioni**[^19-1]
 
-Nel ricalcolare le rendite conformemente all’articolo 33<sup>ter</sup> LAVS[^19-1], il Consiglio federale può adeguare in modo appropriato gli importi delle spese riconosciute (art. 10 cpv. 1), dei redditi computabili (art. 11 cpv. 1) e delle spese di malattia e d’invalidità (art. 14 cpv. 3 e 4).
+Nel ricalcolare le rendite conformemente all’articolo 33<sup>ter</sup> LAVS[^19-2], il Consiglio federale può adeguare in modo appropriato gli importi delle spese riconosciute (art. 10 cpv. 1) e dei redditi computabili (art. 11 cpv. 1), nonché gli importi minimi di cui agli articoli 14 capoversi 3 e 4 e 14*a* capoverso 4.
 
-[^19-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^19-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^19-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 20
 
@@ -611,6 +653,10 @@ Gli importi da restituire possono essere compensati con le prestazioni seguenti:
 
 <sup>3</sup> I Cantoni informano adeguatamente i potenziali beneficiari.
 
+<sup>3bis</sup> L’autorità competente conferma alle persone che fanno domanda di prestazioni complementari annue e ai beneficiari di tali prestazioni il ricevimento dei documenti da esse trasmessi.[^21-6]
+
+<sup>3ter</sup> I Cantoni provvedono affinché le domande e i documenti possano essere trasmessi per via elettronica.[^21-7]
+
 <sup>4</sup> Il versamento della prestazione complementare può essere effettuato insieme con la rendita dell’AVS o dell’AI.
 
 [^21-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -618,19 +664,34 @@ Gli importi da restituire possono essere compensati con le prestazioni seguenti:
 [^21-3]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^21-4]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^21-5]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^21-6]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21-7]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 
 #### Art. 21a
 
-**Versamento dell’importo per l’assicurazione obbligatoria delle cure medico-sanitarie**[^21a-1]
+**Versamento delle prestazioni complementari a terzi[^21a-2]**[^21a-1]
 
-<sup>1</sup> In deroga all’articolo 20 LPGA[^21a-2], l’importo per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d è versato direttamente all’assicuratore-malattie.
+<sup>1</sup> In deroga all’articolo 20 LPGA[^21a-3], gli importi per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d per l’anno civile in corso o per i quattro anni civili precedenti sono versati direttamente all’assicuratore-malattie.[^21a-4]
 
 <sup>2</sup> Se la prestazione complementare annua è inferiore all’importo per l’assicurazione obbligatoria delle cure medico-sanitarie, l’importo della prestazione complementare annua è versato all’assicuratore-malattie.
 
 <sup>3</sup> In deroga all’articolo 20 LPGA, l’importo della prestazione complementare annua per il soggiorno in un istituto o in un ospedale di cui all’articolo 10 capoverso 2 lettera a può essere ceduto e versato direttamente al fornitore delle prestazioni.
 
 [^21a-1]: Introdotto dalla cifra II della LF del 19 mar. 2010 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21a-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^21a-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21a-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^21a-4]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+
+#### Art. 21b
+
+**Restituzione di importi per l’assicurazione obbligatoria delle cure medico‑sanitarie**[^21b-1]
+
+<sup>1</sup> La restituzione di importi per l’assicurazione obbligatoria delle cure medico-sanitarie secondo l’articolo 10 capoverso 3 lettera d concessi indebitamente e versati per l’anno civile in corso o per i quattro anni civili precedenti è richiesta all’assicuratore-malattie nella misura in cui detti importi gli sono stati versati direttamente. I Cantoni provvedono affinché il diritto a una riduzione dei premi per il medesimo periodo sia esaminato d’ufficio e retroattivamente.
+
+<sup>2</sup> Si prescinde dalla restituzione se il beneficiario delle prestazioni complementari adempie le condizioni di cui all’articolo 25 capoverso 1 secondo periodo LPGA[^21b-2].
+
+[^21b-1]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2028 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^21b-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 22
 
@@ -848,7 +909,7 @@ La legge federale del 19 marzo 1965[^35-1] sulle prestazioni complementari all�
 
 Data dell’entrata in vigore: 1° gennaio 2008[^35-2]
 
-[^35-1]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535);[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II n. 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699);[1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV]
+[^35-1]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535);[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II n. 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV]
 [^35-2]: DCF del 7 nov. 2007.
 
 ## Disposizione transitoria della modifica del 19 marzo 2010
