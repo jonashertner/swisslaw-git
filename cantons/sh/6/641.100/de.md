@@ -3,20 +3,19 @@ canton: SH
 number: "641.100"
 title: Gesetz über die direkten Steuern
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
+version: 2027-01-01
 version_adopted: 2025-12-15
 adopted: 2000-03-20
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2078/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2079/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die direkten Steuern
 
-Vom 20.03.2000 (Stand 01.01.2026)
+Vom 20.03.2000 (Stand 01.01.2027)
 
 Der Kantonsrat Schaffhausen,
 
@@ -1904,6 +1903,8 @@ beschliesst:
 
 <sup>2</sup> Sie kann den Stipendienbehörden von Kantonen, die der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni 2009 beigetreten sind, auf deren Gesuch Auskunft über das steuerpflichtige Einkommen und das steuerpflichtige Vermögen (einschliesslich deren Zusammensetzung) jedes Elternteils erteilen, der sich im Verfahren zur Festsetzung des Stipendienanspruchs seines Kindes weigert, diese Angaben offenzulegen.
 
+<sup>3</sup> Sie stellt der zuständigen Dienststelle des Kantons Schaffhausen diejenigen Steuerdaten zur Verfügung, die im Verfahren zur Festsetzung von Ausbildungsbeiträgen erforderlich sind. Die Daten können auch elektronisch übermittelt oder mittels eines elektronischen Abrufverfahrens zugänglich gemacht werden. Zugriffe auf oder Abrufe von Steuerdaten sind zu protokollieren.
+
 #### Art. 128
 
 **Amtshilfe unter Steuerbehörden**
@@ -2116,6 +2117,8 @@ beschliesst:
 **Notwendige Vertretung**
 
 <sup>1</sup> Die Steuerbehörden können von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie einen Vertreter oder eine Vertreterin in der Schweiz bezeichnet.
+
+<sup>2</sup> Kommt die steuerpflichtige Person dieser Aufforderung nicht nach oder ist eine direkte Zustellung aus anderen Gründen nicht möglich, gilt die Publikation im Amtsblatt oder die Aktenablage als Zustellung.
 
 ### 1.6.3.2.3 Bescheinigungspflicht Dritter
 
