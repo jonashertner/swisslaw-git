@@ -4,13 +4,12 @@ number: "930.1"
 title: Gesetz über Handel und Gewerbe
 short: HGG
 language: de
-version: 2021-07-01
-valid_until: 2027-02-28
-version_adopted: 2021-03-07
+version: 2027-03-01
+version_adopted: 2026-03-11
 adopted: 1992-11-04
 in_force: 1993-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/930.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2287/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3488/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2287/pdf_file"
 
 (HGG)
 
-vom 04.11.1992 (Stand 01.07.2021)
+vom 04.11.1992 (Stand 01.03.2027)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -64,13 +63,11 @@ beschliesst:
 
 <sup>1</sup> Bewilligungspflichtig sind
 
-- a …
-- b das Halten und Führen von Taxis,
-- c–h …
+- a–h …
 - i das Gewähren und Vermitteln von Konsumkrediten, soweit dies das KKG vorsieht,
 - k der Betrieb des Pfandleihgewerbes.
 
-<sup>2</sup> Für das Halten und Führen von Taxis sind nur Einheitsbewilligungen zulässig.
+<sup>2</sup> …
 
 #### Art. 4
 

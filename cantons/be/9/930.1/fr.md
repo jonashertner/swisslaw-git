@@ -4,13 +4,12 @@ number: "930.1"
 title: "Loi sur le commerce et l'industrie"
 short: LCI
 language: fr
-version: 2021-07-01
-valid_until: 2027-02-28
-version_adopted: 2021-03-07
+version: 2027-03-01
+version_adopted: 2026-03-11
 adopted: 1992-11-04
 in_force: 1993-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/930.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2287/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3488/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2287/pdf_file"
 
 (LCI)
 
-du 04.11.1992 (état au 01.07.2021)
+du 04.11.1992 (état au 01.03.2027)
 
 Le Grand Conseil du canton de Berne,
 
@@ -64,13 +63,11 @@ arrête:
 
 <sup>1</sup> Une autorisation est obligatoire pour
 
-- a …
-- b la détention et la conduite de taxis,
-- c–h …
+- a–h …
 - i l’octroi de crédits à la consommation et le courtage en crédit, si la LCC le prévoit,
 - k l'exercice de la profession de prêteur sur gages.
 
-<sup>2</sup> Un seul type d'autorisation est admis pour la détention et la conduite de taxis.
+<sup>2</sup> …
 
 #### Art. 4
 
