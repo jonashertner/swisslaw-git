@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale amministrativo federale (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: it
-version: 2026-11-01
+version: 2027-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20261101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20270101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/it"
 
 (LTAF)
 
-del 17 giugno 2005 (Stato 1° novembre 2026)
+del 17 giugno 2005 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -89,13 +89,15 @@ Nella sua attività giurisdizionale, il Tribunale amministrativo federale è ind
 
 **Incompatibilità**
 
-<sup>1</sup> I giudici non possono essere membri dell’Assemblea federale, del Consiglio federale o del Tribunale federale, né esercitare alcun’altra funzione al servizio della Confederazione.
+<sup>1</sup> I giudici non possono essere membri dell’Assemblea federale, del Consiglio federale o del Tribunale federale, né esercitare alcun’altra funzione al servizio della Confederazione. È fatto salvo l’esercizio di una funzione al servizio del Tribunale federale dei brevetti.[^6-1]
 
 <sup>2</sup> Non possono esercitare alcuna attività che pregiudichi l’adempimento della loro funzione, l’indipendenza del Tribunale o la sua dignità, né esercitare professionalmente la rappresentanza in giudizio.
 
 <sup>3</sup> I giudici non possono esercitare alcuna funzione ufficiale per uno Stato estero. né accettare titoli o decorazioni conferiti da autorità estere.
 
 <sup>4</sup> I giudici a tempo pieno non possono esercitare alcuna funzione al servizio di un Cantone né altre attività lucrative. Non possono neppure essere membri della direzione, dell’amministrazione, dell’ufficio di vigilanza o dell’ufficio di revisione di un’impresa commerciale.
+
+[^6-1]: Per. introdotto dall’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 7
 
@@ -311,21 +313,20 @@ Sono fatte salve le competenze particolari del giudice unico secondo:
 
 - a.[^23-1] l’articolo 111 della legge del 26 giugno 1998[^23-2] sull’asilo;
 - a<sup>bis</sup>.[^23-3] l’articolo 64*a*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-4] sugli stranieri e la loro integrazione;
-- b. gli articoli 29, 31 e 41 della legge federale del 25 settembre 2015[^23-5] sulle attività informative (LAIn);
+- b. la non entrata nel merito di impugnazioni manifestamente inammissibili;
 - c. le leggi federali in materia di assicurazioni sociali;
-- d.[^23-6] l’articolo 108*d*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-7] sugli stranieri e la loro integrazione;
-- e[^23-8]. gli articoli 19 capoverso 4 e 20 capoverso 3 della legge del 21 marzo 2025[^23-9] sui dati dei passeggeri aerei (LDPA).[^23-10]
+- d.[^23-5] l’articolo 108*d*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-6] sugli stranieri e la loro integrazione;
+- e[^23-7]. gli articoli 19 capoverso 4 e 20 capoverso 3 della legge del 21 marzo 2025[^23-8] sui dati dei passeggeri aerei (LDPA).[^23-9]
 
 [^23-1]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 [^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^23-3]: Introdotta dall’all. 1 n. 3 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^23-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^23-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^23-6]: Introdotta dall’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^23-7]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^23-8]: Introdotta dall’all. 3 n. 4 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
-[^23-9]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
-[^23-10]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-5]: Introdotta dall’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-6]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^23-7]: Introdotta dall’all. 3 n. 4 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^23-8]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^23-9]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
@@ -459,7 +460,8 @@ Il ricorso è inammissibile contro:
 - g. le decisioni dell’autorità indipendente di ricorso in materia radiotelevisiva;
 - h. le decisioni in materia di rilascio di concessioni per case da gioco;
 - i.[^32-3] le decisioni in materia di rilascio, modifica o rinnovo della concessione della Società svizzera di radiotelevisione (SSR);
-- j.[^32-4] le decisioni in materia di diritto ai sussidi di una scuola universitaria o di un altro istituto accademico.
+- j.[^32-4] le decisioni in materia di diritto ai sussidi di una scuola universitaria o di un altro istituto accademico;
+- k.[^32-5] le decisioni dell’Istituto federale della proprietà intellettuale secondo la legge del 25 giugno 1954[^32-6] sui brevetti.
 
 <sup>2</sup>
 
@@ -472,6 +474,8 @@ Il ricorso è inoltre inammissibile contro:
 [^32-2]: Nuovo testo giusta la cifra I n. 3 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^32-3]: Introdotta dall’all. n. 2 della LF del 26 set. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/428)).
 [^32-4]: Introdotta dalla cifra II della LF del 25 set. 2020, in vigore dal 1° mar. 2021 ([RU 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); FF **2020** 3235).
+[^32-5]: Introdotta dall’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^32-6]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 #### Art. 33
 
@@ -495,13 +499,14 @@ Il ricorso è ammissibile contro le decisioni:
   - 7\.[^33-15] la revoca di un membro del Consiglio dell’Istituto svizzero per gli agenti terapeutici secondo la legge del 15 dicembre 2000[^33-16] sugli agenti terapeutici,
   - 8\.[^33-17] la revoca di un membro del consiglio di amministrazione dell’istituto secondo la legge del 16 giugno 2017[^33-18] sui fondi di compensazione,
   - 9\.[^33-19] la revoca di un membro del consiglio d’Istituto dell’Istituto svizzero di diritto comparato secondo la legge federale del 28 settembre 2018[^33-20] sull’Istituto svizzero di diritto comparato,
-  - 10\.[^33-21] la revoca di un membro del consiglio d’amministrazione del Servizio svizzero di assegnazione delle tracce o l’approvazione della risoluzione del rapporto di lavoro del direttore da parte del consiglio d’amministrazione secondo la legge federale del 20 dicembre 1957[^33-22] sulle ferrovie;
+  - 10\.[^33-21] la revoca di un membro del consiglio d’amministrazione del Servizio svizzero di assegnazione delle tracce o l’approvazione della risoluzione del rapporto di lavoro del direttore da parte del consiglio d’amministrazione secondo la legge federale del 20 dicembre 1957[^33-22] sulle ferrovie,
+  - 11\.[^33-23] la revoca di un membro del Consiglio d’Istituto dell’Istituto federale della proprietà intellettuale secondo la legge federale del 24 marzo 1995[^33-24] sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale;
 
 - c. del Tribunale penale federale in materia di rapporti di lavoro dei suoi giudici e del suo personale;
-- c<sup>bis</sup>.[^33-23] del Tribunale federale dei brevetti in materia di rapporti di lavoro dei suoi giudici e del suo personale;
-- c<sup>ter</sup>.[^33-24] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro dei membri del Ministero pubblico della Confederazione eletti dall’Assemblea federale plenaria;
-- c<sup>quater</sup>.[^33-25] del procuratore generale della Confederazione in materia di rapporti di lavoro dei procuratori pubblici federali da lui nominati e del personale del Ministero pubblico della Confederazione;
-- c<sup>quinquies</sup>.[^33-26] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro del personale della sua segreteria;
+- c<sup>bis</sup>.[^33-25] del Tribunale federale dei brevetti in materia di rapporti di lavoro dei suoi giudici e del suo personale;
+- c<sup>ter</sup>.[^33-26] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro dei membri del Ministero pubblico della Confederazione eletti dall’Assemblea federale plenaria;
+- c<sup>quater</sup>.[^33-27] del procuratore generale della Confederazione in materia di rapporti di lavoro dei procuratori pubblici federali da lui nominati e del personale del Ministero pubblico della Confederazione;
+- c<sup>quinquies</sup>.[^33-28] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro del personale della sua segreteria;
 - d. della Cancelleria federale, dei dipartimenti e dei servizi dell’Amministrazione federale loro subordinati o aggregati amministrativamente;
 - e. degli stabilimenti e delle aziende della Confederazione;
 - f. delle commissioni federali;
@@ -531,10 +536,12 @@ Il ricorso è ammissibile contro le decisioni:
 [^33-20]: [RS 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)
 [^33-21]: Introdotto dall’all. cifra I n. 2 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^33-22]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
-[^33-23]: Introdotta dall’all. n. 3 della LF del 20 mar. 2009 sul Tribunale federale dei brevetti, in vigore dal 1° gen. 2012 ([RU 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 349](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^33-24]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° nov. 2015 ([RU 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 1861](https://fedlex.data.admin.ch/eli/fga/2015/421)[1885](https://fedlex.data.admin.ch/eli/fga/2015/424)).
-[^33-25]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^33-26]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-23]: Introdotto dall’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^33-24]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^33-25]: Introdotta dall’all. n. 3 della LF del 20 mar. 2009 sul Tribunale federale dei brevetti, in vigore dal 1° gen. 2012 ([RU 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 349](https://fedlex.data.admin.ch/eli/fga/2008/145)).
+[^33-26]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° nov. 2015 ([RU 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 1861](https://fedlex.data.admin.ch/eli/fga/2015/421)[1885](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+[^33-27]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-28]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 34
 

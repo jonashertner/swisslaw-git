@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesverwaltungsgericht (Verwa
 short: VGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: de
-version: 2026-11-01
+version: 2027-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20261101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20270101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/de"
 
 (Verwaltungsgerichtsgesetz, VGG)
 
-vom 17. Juni 2005 (Stand am 1. November 2026)
+vom 17. Juni 2005 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -89,13 +89,15 @@ Das Bundesverwaltungsgericht ist in seiner Recht sprechenden Tätigkeit unabhän
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Die Richter und Richterinnen dürfen weder der Bundesversammlung, dem Bundesrat noch dem Bundesgericht angehören und in keinem anderen Arbeitsverhältnis mit dem Bund stehen.
+<sup>1</sup> Die Richter und Richterinnen dürfen weder der Bundesversammlung, dem Bundesrat noch dem Bundesgericht angehören und in keinem anderen Arbeitsverhältnis mit dem Bund stehen. Ausgenommen ist ein Arbeitsverhältnis mit dem Bundespatentgericht.[^6-1]
 
 <sup>2</sup> Sie dürfen weder eine Tätigkeit ausüben, welche die Erfüllung der Amtspflichten, die Unabhängigkeit oder das Ansehen des Gerichts beeinträchtigt, noch berufsmässig Dritte vor Gericht vertreten.
 
 <sup>3</sup> Sie dürfen keine amtliche Funktion für einen ausländischen Staat ausüben und keine Titel oder Orden ausländischer Behörden annehmen.
 
 <sup>4</sup> Richter und Richterinnen mit einem vollen Pensum dürfen kein Amt eines Kantons bekleiden und keine andere Erwerbstätigkeit ausüben. Sie dürfen auch nicht als Mitglied der Geschäftsleitung, der Verwaltung, der Aufsichtsstelle oder der Revisionsstelle eines wirtschaftlichen Unternehmens tätig sein.
+
+[^6-1]: Zweiter Satz eingefügt durch Anhang Ziff. 3 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 7
 
@@ -459,7 +461,8 @@ Die Beschwerde ist unzulässig gegen:
 - g. Verfügungen der unabhängigen Beschwerdeinstanz für Radio und Fernsehen;
 - h. Verfügungen über die Erteilung von Konzessionen für Spielbanken;
 - i.[^32-3] Verfügungen über die Erteilung, Änderung oder Erneuerung der Konzession für die Schweizerische Radio- und Fernsehgesellschaft (SRG);
-- j.[^32-4] Verfügungen über die Beitragsberechtigung einer Hochschule oder einer anderen Institution des Hochschulbereichs.
+- j.[^32-4] Verfügungen über die Beitragsberechtigung einer Hochschule oder einer anderen Institution des Hochschulbereichs;
+- k.[^32-5] Verfügungen des Eidgenössischen Instituts für Geistiges Eigentum nach dem Patentgesetz vom 25. Juni 1954[^32-6].
 
 <sup>2</sup>
 
@@ -472,6 +475,8 @@ Die Beschwerde ist auch unzulässig gegen:
 [^32-2]: Fassung gemäss Ziff. I 3 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131))
 [^32-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^32-4]: Eingefügt durch Ziff. II des BG vom 25. Sept. 2020, in Kraft seit 1. März 2021 ([AS 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
+[^32-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^32-6]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 #### Art. 33
 
@@ -495,13 +500,14 @@ Die Beschwerde ist zulässig gegen Verfügungen:
   - 7\.[^33-15] die Abberufung eines Mitglieds des Institutsrats des Schweizerischen Heilmittelinstituts nach dem Heilmittelgesetz vom 15. Dezember 2000[^33-16],
   - 8\.[^33-17] die Abberufung eines Verwaltungsratsmitglieds der Anstalt nach dem Ausgleichsfondsgesetz vom 16. Juni 2017[^33-18],
   - 9\.[^33-19] die Abberufung eines Mitglieds des Institutsrats des Schweizerischen Instituts für Rechtsvergleichung nach dem Bundesgesetz vom 28. September 2018[^33-20] über das Schweizerische Institut für Rechtsvergleichung,
-  - 10\.[^33-21] die Abberufung eines Verwaltungsratsmitglieds der Schweizerischen Trassenvergabestelle oder die Genehmigung der Auflösung des Arbeitsverhältnisses der Geschäftsführerin oder des Geschäftsführers durch den Verwaltungsrat nach dem Eisenbahngesetz vom 20. Dezember 1957[^33-22];
+  - 10\.[^33-21] die Abberufung eines Verwaltungsratsmitglieds der Schweizerischen Trassenvergabestelle oder die Genehmigung der Auflösung des Arbeitsverhältnisses der Geschäftsführerin oder des Geschäftsführers durch den Verwaltungsrat nach dem Eisenbahngesetz vom 20. Dezember 1957[^33-22],
+  - 11\.[^33-23] die Abberufung eines Mitglieds des Institutsrats des Eidgenössischen Instituts für Geistiges Eigentum nach dem Bundesgesetz vom 24. März 1995[^33-24] über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum;
 
 - c. des Bundesstrafgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
-- c<sup>bis</sup>.[^33-23] des Bundespatentgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
-- c<sup>ter</sup>.[^33-24] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses der von der Vereinigten Bundesversammlung gewählten Mitglieder der Bundesanwaltschaft;
-- c<sup>quater</sup>.[^33-25] des Bundesanwaltes oder der Bundesanwältin auf dem Gebiet des Arbeitsverhältnisses der von ihm oder ihr gewählten Staatsanwälte und Staatsanwältinnen sowie des Personals der Bundesanwaltschaft;
-- c<sup>quinquies</sup>.[^33-26] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses ihres Sekretariats;
+- c<sup>bis</sup>.[^33-25] des Bundespatentgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
+- c<sup>ter</sup>.[^33-26] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses der von der Vereinigten Bundesversammlung gewählten Mitglieder der Bundesanwaltschaft;
+- c<sup>quater</sup>.[^33-27] des Bundesanwaltes oder der Bundesanwältin auf dem Gebiet des Arbeitsverhältnisses der von ihm oder ihr gewählten Staatsanwälte und Staatsanwältinnen sowie des Personals der Bundesanwaltschaft;
+- c<sup>quinquies</sup>.[^33-28] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses ihres Sekretariats;
 - d. der Bundeskanzlei, der Departemente und der ihnen unterstellten oder administrativ zugeordneten Dienststellen der Bundesverwaltung;
 - e. der Anstalten und Betriebe des Bundes;
 - f. der eidgenössischen Kommissionen;
@@ -531,10 +537,12 @@ Die Beschwerde ist zulässig gegen Verfügungen:
 [^33-20]: [SR 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)
 [^33-21]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^33-22]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
-[^33-23]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2009 über das Bundespatentgericht, in Kraft seit 1. Jan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^33-24]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Nov. 2015 ([AS 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [BBl 2015 2211](https://fedlex.data.admin.ch/eli/fga/2015/421)[2235](https://fedlex.data.admin.ch/eli/fga/2015/424)).
-[^33-25]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^33-26]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-23]: Eingefügt durch Anhang Ziff. 3 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^33-24]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^33-25]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2009 über das Bundespatentgericht, in Kraft seit 1. Jan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
+[^33-26]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Nov. 2015 ([AS 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [BBl 2015 2211](https://fedlex.data.admin.ch/eli/fga/2015/421)[2235](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+[^33-27]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-28]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 34
 

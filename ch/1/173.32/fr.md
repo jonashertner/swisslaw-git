@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: fr
-version: 2026-11-01
+version: 2027-01-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20261101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20270101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20261101/fr"
 
 (LTAF)[^t-1]
 
-du 17 juin 2005 (État le 1<sup>er</sup> novembre 2026)
+du 17 juin 2005 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -91,13 +91,15 @@ Dans l’exercice de ses attributions judiciaires, le Tribunal administratif fé
 
 **Incompatibilité à raison de la fonction**
 
-<sup>1</sup> Les juges ne peuvent être membres de l’Assemblée fédérale ou du Conseil fédéral ou juges au Tribunal fédéral ni exercer aucune autre fonction au service de la Confédération.
+<sup>1</sup> Les juges ne peuvent être membres de l’Assemblée fédérale ou du Conseil fédéral ou juges au Tribunal fédéral ni exercer aucune autre fonction au service de la Confédération. Est réservée une fonction au service du Tribunal fédéral des brevets.[^6-1]
 
 <sup>2</sup> Ils ne peuvent exercer aucune activité susceptible de nuire à l’exercice de leur fonction de juge, à l’indépendance du tribunal ou à sa réputation, ni représenter des tiers à titre professionnel devant les tribunaux.
 
 <sup>3</sup> Ils ne peuvent exercer aucune fonction officielle pour un État étranger ni accepter des titres ou des décorations octroyés par des autorités étrangères.
 
 <sup>4</sup> Les juges à plein temps ne peuvent exercer aucune fonction au service d’un canton ni exercer aucune autre activité lucrative. Ils ne peuvent pas non plus être membres de la direction, de l’administration, de l’organe de surveillance ou de l’organe de révision d’une entreprise commerciale.
+
+[^6-1]: Phrase introduite par l’annexe ch. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 7
 
@@ -461,7 +463,8 @@ Le recours est irrecevable contre:
 - g. les décisions rendues par l’Autorité indépendante d’examen des plaintes en matière de radio-télévision;
 - h. les décisions relatives à l’octroi de concessions pour des maisons de jeu;
 - i.[^32-3] les décisions relatives à l’octroi, à la modification ou au renouvellement de la concession octroyée à la Société suisse de radiodiffusion et télévision (SSR);
-- j.[^32-4] les décisions relatives au droit aux contributions d’une haute école ou d’une autre institution du domaine des hautes écoles.
+- j.[^32-4] les décisions relatives au droit aux contributions d’une haute école ou d’une autre institution du domaine des hautes écoles;
+- k.[^32-5] les décisions rendues par l’Institut Fédéral de la Propriété Intellectuelle en vertu de la loi du 25 juin 1954 sur les brevets[^32-6].
 
 <sup>2</sup>
 
@@ -474,6 +477,8 @@ Le recours est également irrecevable contre:
 [^32-2]: Nouvelle teneur selon le ch. I 3 de la LF du 16 mars 2012 sur la deuxième partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^32-3]: Introduite par l’annexe ch. 2 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^32-4]: Introduite par le ch. II de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
+[^32-5]: Introduite par l’annexe ch. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^32-6]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 #### Art. 33
 
@@ -497,13 +502,14 @@ Le recours est recevable contre les décisions:
   - 7\.[^33-15] la révocation d’un membre du conseil de l’Institut suisse des produits thérapeutiques sur la base de la loi du 15 décembre 2000 sur les produits thérapeutiques[^33-16],
   - 8\.[^33-17] la révocation d’un membre du conseil d’administration de l’établissement au sens de la loi du 16 juin 2017 sur les fonds de compensation[^33-18],
   - 9\.[^33-19] la révocation d’un membre du conseil de l’Institut suisse de droit comparé selon la loi du 28 septembre 2018 sur l’Institut suisse de droit comparé[^33-20];
-  - 10\.[^33-21] la révocation d’un membre du conseil d’administration du Service suisse d’attribution des sillons ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration, conformément à la loi fédérale du 20 décembre 1957 sur les chemins de fer[^33-22];
+  - 10\.[^33-21] la révocation d’un membre du conseil d’administration du Service suisse d’attribution des sillons ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration, conformément à la loi fédérale du 20 décembre 1957 sur les chemins de fer[^33-22],
+  - 11\.[^33-23] la révocation d’un membre du Conseil de l’Institut Fédéral de la Propriété Intellectuelle conformément à la loi fédérale du 24 mars 1995 sur le statut et les tâches de l’Institut Fédéral de la Propriété Intellectuelle[^33-24];
 
 - c. du Tribunal pénal fédéral en matière de rapports de travail de ses juges et de son personnel;
-- c<sup>bis</sup>.[^33-23] du Tribunal fédéral des brevets en matière de rapports de travail de ses juges et de son personnel;
-- c<sup>ter</sup>.[^33-24] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail des membres du Ministère public de la Confédération élus par l’Assemblée fédérale (Chambres réunies);
-- c<sup>quater</sup>.[^33-25] du procureur général de la Confédération, en matière de rapports de travail des procureurs qu’il a nommés et du personnel du Ministère public de la Confédération;
-- c<sup>quinquies</sup>.[^33-26] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail de son secrétariat;
+- c<sup>bis</sup>.[^33-25] du Tribunal fédéral des brevets en matière de rapports de travail de ses juges et de son personnel;
+- c<sup>ter</sup>.[^33-26] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail des membres du Ministère public de la Confédération élus par l’Assemblée fédérale (Chambres réunies);
+- c<sup>quater</sup>.[^33-27] du procureur général de la Confédération, en matière de rapports de travail des procureurs qu’il a nommés et du personnel du Ministère public de la Confédération;
+- c<sup>quinquies</sup>.[^33-28] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail de son secrétariat;
 - d. de la Chancellerie fédérale, des départements et des unités de l’administration fédérale qui leur sont subordonnées ou administrativement rattachées;
 - e. des établissements et des entreprises de la Confédération;
 - f. des commissions fédérales;
@@ -533,10 +539,12 @@ Le recours est recevable contre les décisions:
 [^33-20]: [RS 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)
 [^33-21]: Introduit par le ch. I 2 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^33-22]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
-[^33-23]: Introduite par l’annexe ch. 3 de la LF du 20 mars 2009 sur TFB, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 373](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^33-24]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 2047](https://fedlex.data.admin.ch/eli/fga/2015/421)[2069](https://fedlex.data.admin.ch/eli/fga/2015/424)).
-[^33-25]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^33-26]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-23]: Introduit par l’annexe ch. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^33-24]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^33-25]: Introduite par l’annexe ch. 3 de la LF du 20 mars 2009 sur TFB, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 373](https://fedlex.data.admin.ch/eli/fga/2008/145)).
+[^33-26]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 2047](https://fedlex.data.admin.ch/eli/fga/2015/421)[2069](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+[^33-27]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^33-28]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 34
 
