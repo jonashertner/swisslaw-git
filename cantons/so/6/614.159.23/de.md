@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.23"
 title: "Steuerverordnung Nr. 23: Einheitsbezug"
 language: de
-version: 2025-04-01
-valid_until: 2027-12-31
-version_adopted: 2025-01-27
+version: 2028-01-01
+version_adopted: 2026-05-12
 adopted: 2022-08-23
 in_force: 2022-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.23"
-pdf: "https://bgs.so.ch/api/de/versions/5533/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 23: Einheitsbezug
 
-Vom 23.08.2022 (Stand 01.04.2025)
+Vom 23.08.2022 (Stand 01.01.2028)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -234,7 +233,7 @@ beschliesst:
 
 <sup>2</sup> Die Bezugsentschädigung ist jeweils bis spätestens 30. Juni des Folgejahres zu entrichten und beträgt pro ausgestellte definitive Rechnung:
 
-- a) für Gemeinden nach § 1 Absatz 1 Buchstabe a und b: CHF 10;
+- a) für Gemeinden nach § 1 Absatz 1 Buchstabe a und b: CHF 8;
 - b) für Gemeinden nach § 1 Absatz 1 Buchstabe c: CHF 3.
 
 #### § 19
