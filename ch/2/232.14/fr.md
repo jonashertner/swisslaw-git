@@ -4,22 +4,22 @@ title: "Loi fédérale du 25 juin 1954 sur les brevets d'invention (Loi sur les 
 short: LBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: fr
-version: 2025-07-01
+version: 2027-01-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20250701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les brevets d’invention
+# Loi fédérale sur les brevets et les certificats complémentaires de protection
 
 (Loi sur les brevets, LBI)[^t-1]
 
-du 25 juin 1954 (État le 1<sup>er</sup> juillet 2025)
+du 25 juin 1954 (État le 1<sup>er</sup> janvier 2027)
 
-[^t-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,32 +28,47 @@ vu l’art. 122 de la Constitution[^ingress-1],[^ingress-2] vu le message du Con
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
-[^ingress-2]: Nouvelle teneur selon l’annexe ch. 6 dela LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1950 I 933](https://fedlex.data.admin.ch/eli/fga/1950/1_977_933_)
 [^ingress-4]: [FF 1952 I 1](https://fedlex.data.admin.ch/eli/fga/1952/1__1_)
 
-## Titre premier Dispositions générales
+## Titre 1 Brevets
 
-### Chapitre 1 Conditions requises pour l’obtention du brevet et effets du brevet
+[^tit1-1]
+
+[^tit1-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Chapitre 1 Dispositions générales
+
+[^tit1-chap1-1]
+
+[^tit1-chap1-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 1 Conditions requises pour l’obtention du brevet et effets du brevet
+
+[^tit1-chap1-sec1-1]
+
+[^tit1-chap1-sec1-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Inventions brevetables
 
 ### I. Principe
 
-[^tit1-chap1-lvlA-lvlI-1]
+[^tit1-chap1-sec1-lvlA-lvlI-1]
 
-[^tit1-chap1-lvlA-lvlI-1]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit1-chap1-sec1-lvlA-lvlI-1]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 #### Art. 1
 
-<sup>1</sup> Les brevets d’invention sont délivrés pour les inventions nouvelles utilisables industriellement.
+<sup>1</sup> Les brevets sont délivrés pour les inventions nouvelles susceptibles d’application industrielle.[^1-1]
 
-<sup>2</sup> Ce qui découle d’une manière évidente de l’état de la technique (art. 7, al. 2) ne constitue pas une invention brevetable.[^1-1]
+<sup>2</sup> Ce qui découle d’une manière évidente de l’état de la technique (art. 7, al. 2) ne constitue pas une invention brevetable.[^1-2]
 
-<sup>3</sup> Les brevets sont délivrés sans garantie de l’État.[^1-2]
+<sup>3</sup> Les brevets sont délivrés sans garantie de l’État.[^1-3]
 
-[^1-1]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-[^1-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^1-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^1-2]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^1-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### II. Le corps humain et ses éléments
 
@@ -122,10 +137,11 @@ Ne peuvent pas non plus être brevetés:
 
 #### Art. 4
 
-Au cours de la procédure devant l’Institut fédéral de la propriété intellectuelle[^4-1] (IPI)[^4-2], celui qui dépose la demande de brevet est considéré comme étant en droit de requérir la délivrance du brevet.
+[^4-1]
 
-[^4-1]: Nouvelle expression selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
-[^4-2]: Nouvelle expression selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
+Au cours de la procédure devant l’Institut Fédéral de la Propriété Intellectuelle (IPI), le demandeur de brevet (le demandeur) est considéré comme étant en droit de requérir la délivrance du brevet.
+
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Mention de l’inventeur
 
@@ -133,22 +149,26 @@ Au cours de la procédure devant l’Institut fédéral de la propriété intell
 
 #### Art. 5
 
-<sup>1</sup> Le requérant désignera par écrit l’inventeur à l’IPI.[^5-1]
+<sup>1</sup> Le demandeur désigne par écrit l’inventeur à l’IPI.[^5-1]
 
-<sup>2</sup> La personne désignée par le requérant sera mentionnée comme inventeur au registre des brevets, dans la publication de la demande de brevet et de la délivrance du brevet ainsi que dans le fascicule de brevet.[^5-2]
+<sup>2</sup> La personne désignée par le demandeur est mentionnée comme inventeur au registre des brevets, dans la publication de la demande de brevet et de la délivrance du brevet ainsi que dans le fascicule du brevet.[^5-2]
 
-<sup>3</sup> L’al. 2 est applicable par analogie lorsqu’un tiers produit un jugement exécutoire établissant que c’est lui qui est l’inventeur et non pas la personne désignée par le requérant.
+<sup>3</sup> L’al. 2 est applicable par analogie lorsqu’un tiers produit un jugement exécutoire établissant que c’est lui qui est l’inventeur et non pas la personne désignée par le demandeur[^5-3].
 
-[^5-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^5-2]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^5-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^5-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^5-3]: Nouvelle expression selon le ch. I al. 1 let. b de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il a été tenu compte de cette mod. dans tout le texte, sauf aux disp. mentionnées au RO.
 
 ### II. Renonciation à la mention
 
 #### Art. 6
 
-<sup>1</sup> Les mesures prescrites par l’art. 5, al. 2, ne seront pas prises si l’inventeur désigné par le requérant y renonce.
+<sup>1</sup> Les mesures prescrites par l’art. 5, al. 2, ne sont pas prises lorsque l’inventeur désigné par le demandeur y renonce.[^6-1]
 
-<sup>2</sup> La renonciation anticipée de l’inventeur à être mentionné comme tel restera sans effet.
+<sup>2</sup> La renonciation anticipée de l’inventeur à être mentionné comme tel reste sans effet.[^6-2]
+
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^6-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### E. Nouveauté de l’invention
 
@@ -164,15 +184,16 @@ Au cours de la procédure devant l’Institut fédéral de la propriété intell
 
 <sup>3</sup>
 
-En ce qui concerne la nouveauté, l’état de la technique comprend également le contenu d’une demande antérieure ou basée sur une priorité plus ancienne, valable pour la Suisse, dans sa version initialement déposée, dont la date de dépôt ou de priorité est antérieure à la date indiquée à l’al. 2 et qui n’a été rendue accessible au public qu’à cette date ou qu’après cette date, pour autant:
+En ce qui concerne la nouveauté, l’état de la technique comprend également le contenu d’une demande de brevet antérieure ou basée sur une priorité plus ancienne, valable pour la Suisse, dans la version qui a déterminé sa date de dépôt, dont la date de dépôt ou de priorité est antérieure à la date indiquée à l’al. 2 et qui n’a été rendue accessible au public qu’à cette date ou qu’après cette date, pour autant:[^7-2]
 
 - a. que les conditions de l’art. 138 soient remplies lorsqu’il s’agit d’une demande internationale;
-- b. que les conditions de l’art. 153, al. 5, de la Convention du 5 octobre 1973 sur le brevet européen dans sa version révisée du 29 novembre 2000[^7-2] soient remplies lorsqu’il s’agit d’une demande européenne résultant d’une demande internationale;
-- c. que les taxes visées à l’art. 79, al. 2, de la Convention du 5 octobre 1973 sur le brevet européen dans sa version révisée du 29 novembre 2000 pour la désignation valable de la Suisse aient été payées lorsqu’il s’agit d’une demande européenne.[^7-3]
+- b. que les conditions de l’art. 153, al. 5, de la Convention du 5 octobre 1973 sur le brevet européen dans sa version révisée du 29 novembre 2000[^7-3] soient remplies lorsqu’il s’agit d’une demande européenne résultant d’une demande internationale;
+- c. que les taxes visées à l’art. 79, al. 2, de la Convention du 5 octobre 1973 sur le brevet européen dans sa version révisée du 29 novembre 2000 pour la désignation valable de la Suisse aient été payées lorsqu’il s’agit d’une demande européenne.[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^7-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
-[^7-3]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^7-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^7-3]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+[^7-4]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. …
 
@@ -190,8 +211,8 @@ En ce qui concerne la nouveauté, l’état de la technique comprend également 
 
 Si l’invention a été rendue accessible au public pendant les six mois qui précèdent la date de dépôt ou la date de priorité, cette divulgation n’est pas comprise dans l’état de la technique lorsqu’elle résulte directement ou indirectement:
 
-- a. d’un abus évident à l’égard du requérant ou de son prédécesseur en droit, ou
-- b. du fait que le requérant ou son prédécesseur en droit a exposé l’invention dans une exposition internationale officielle ou officiellement reconnue au sens de la convention du 22 novembre 1928 concernant les expositions internationales[^7b-2] et lorsqu’il l’a déclaré au moment du dépôt et qu’il a produit en temps utile des pièces suffisantes à l’appui.
+- a. d’un abus évident à l’égard du demandeur ou de son prédécesseur en droit, ou
+- b. du fait que le demandeur ou son prédécesseur en droit a exposé l’invention dans une exposition internationale officielle ou officiellement reconnue au sens de la convention du 22 novembre 1928 concernant les expositions internationales[^7b-2] et lorsqu’il l’a déclaré au moment du dépôt et qu’il a produit en temps utile des pièces suffisantes à l’appui.
 
 [^7b-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^7b-2]: [RS 0.945.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4134)
@@ -354,17 +375,18 @@ Les effets du brevet ne s’étendent pas:
 Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’État considéré.[^13-2] Le domicile de notification n’est pas nécessaire pour:[^13-3]
 
 - a. la présentation d’une demande de brevet dans le but de faire reconnaître une date de dépôt;
-- b. le paiement de taxes, le dépôt de traductions, la présentation et le traitement de requêtes après la délivrance du brevet et de requêtes ne donnant pas lieu à des notifications.[^13-4]
+- b.[^13-4] le paiement de taxes, le dépôt de traductions, la présentation et le traitement de requêtes après la délivrance du brevet qui ne donnent pas lieu à des notifications.[^13-5]
 
-<sup>1bis</sup> L’IPI est autorisé à remettre l’autorité étrangère compétente une déclaration indiquant que, dans le domaine de la propriété intellectuelle, la Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.[^13-5]
+<sup>1bis</sup> L’IPI est autorisé à remettre l’autorité étrangère compétente une déclaration indiquant que, dans le domaine de la propriété intellectuelle, la Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.[^13-6]
 
 <sup>2</sup> Les dispositions réglant l’exercice de la profession d’avocat sont réservées.
 
 [^13-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^13-2]: Nouvelle teneur selon l’annexe ch. 4 de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de la convention n<sup>o</sup> 94 du Conseil de l’Europe sur la notification à l’étranger des documents en matière administrative, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5589](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
 [^13-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 mars 2009 sur les conseils en brevets, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
-[^13-4]: Nouvelle teneur selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^13-5]: Introduit par l’annexe ch. 4 de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de la convention n<sup>o</sup> 94 du Conseil de l’Europe sur la notification à l’étranger des documents en matière administrative, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5589](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
+[^13-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^13-5]: Nouvelle teneur selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^13-6]: Introduit par l’annexe ch. 4 de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de la convention n<sup>o</sup> 94 du Conseil de l’Europe sur la notification à l’étranger des documents en matière administrative, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5589](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
 
 ### K. Durée du brevet
 
@@ -387,13 +409,14 @@ Quiconque participe à une procédure administrative prévue dans la présente l
 
 Le brevet expire:
 
-- a. lorsque le titulaire y renonce par une déclaration écrite adressée à l’IPI;
-- b. lorsqu’une annuité échue n’est pas payée en temps utile.[^15-1]
+- a. lorsque le titulaire y renonce par une déclaration écrite adressée à l’IPI[^15-1];
+- b. lorsqu’une annuité échue n’est pas payée en temps utile.[^15-2]
 
-<sup>2</sup> …[^15-2]
+<sup>2</sup> …[^15-3]
 
-[^15-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^15-2]: Abrogé par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^15-1]: Nouvelle expression selon l’annexe ch. 6 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^15-3]: Abrogé par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### L. Réserve
 
@@ -401,43 +424,48 @@ Le brevet expire:
 
 [^16-1]
 
-Les ressortissants suisses requérants ou titulaires de brevet peuvent invoquer les dispositions du texte, liant la Suisse, de la convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle[^16-2], lorsque ces dispositions sont plus favorables que celles de la présente loi.
+Les ressortissants suisses demandeurs ou titulaires de brevet peuvent invoquer les dispositions du texte, liant la Suisse, de la Convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle (Convention de Paris)[^16-2], lorsque ces dispositions sont plus favorables que celles de la présente loi.
 
-[^16-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^16-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^16-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
-### Chapitre 2 Droit de priorité
+### Section 2 Droit de priorité
+
+[^tit1-chap1-sec2-1]
+
+[^tit1-chap1-sec2-1]: Anciennement chapitre 2.
 
 ### A. Conditions et effets de la priorité
 
-[^tit1-chap2-lvlA-1]
+[^tit1-chap1-sec2-lvlA-1]
 
-[^tit1-chap2-lvlA-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec2-lvlA-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 17
 
-<sup>1</sup> Lorsqu’une invention est l’objet d’un dépôt régulier d’une demande de brevet, de modèle d’utilité ou de certificat d’inventeur, et que ce dépôt a lieu ou produit ses effets dans l’un des pays parties à la Convention d’union de Paris du 20 mars 1883 pour la protection de la propriété industrielle[^17-1] ou à l’Accord du 15 avril 1994 sur les aspects des droits de propriété intellectuelle qui touchent au commerce (Annexe 1C de l’Accord instituant l’Organisation mondiale du commerce)[^17-2] autre que la Suisse, il donne naissance à un droit de priorité conformément à l’art. 4 de la convention. Ce droit peut être revendiqué en Suisse pour la même invention dans les douze mois à dater du premier dépôt.[^17-3]
+<sup>1</sup> Lorsqu’une invention est l’objet d’un dépôt régulier d’une demande de brevet, de modèle d’utilité ou de certificat d’inventeur, et que ce dépôt a lieu ou produit ses effets dans l’un des pays parties à la Convention de Paris[^17-1] [^17-2] ou à l’Accord du 15 avril 1994 sur les aspects des droits de propriété intellectuelle qui touchent au commerce (Annexe 1C de l’Accord instituant l’Organisation mondiale du commerce)[^17-3] autre que la Suisse, il donne naissance à un droit de priorité conformément à l’art. 4 de la convention. Ce droit peut être revendiqué en Suisse pour la même invention dans les douze mois à dater du premier dépôt.[^17-4]
 
-<sup>1bis</sup> Le premier dépôt dans un pays qui accorde la réciprocité à la Suisse a les mêmes effets que le premier dépôt dans un pays partie à la convention de Paris pour la protection de la propriété industrielle.[^17-4]
+<sup>1bis</sup> Le premier dépôt dans un pays qui accorde la réciprocité à la Suisse a les mêmes effets que le premier dépôt dans un pays partie à la Convention de Paris.[^17-5]
 
-<sup>1ter</sup> Sauf dispositions contraires de la présente loi ou de l’ordonnance, l’al. 1 ainsi que l’art. 4 de la convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle s’appliquent par analogie au cas d’une première demande suisse.[^17-5]
+<sup>1ter</sup> Sauf dispositions contraires de la présente loi ou de l’ordonnance, l’al. 1 ainsi que l’art. 4 de la Convention de Paris s’appliquent par analogie au cas d’une première demande suisse.[^17-6]
 
 <sup>2</sup> Le droit de priorité a pour effet de rendre non opposables au dépôt les faits survenus depuis le premier dépôt.
 
-<sup>3</sup> …[^17-6]
+<sup>3</sup> …[^17-7]
 
 [^17-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)/**.04**
-[^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
-[^17-3]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-[^17-4]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^17-5]: Introduit par le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
-[^17-6]: Abrogé par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^17-2]: Nouvelle expression selon le ch. I al. 2 let. a de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il a été tenu compte de cette mod. dans tout le texte.
+[^17-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^17-4]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^17-5]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^17-6]: Introduit par le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^17-7]: Abrogé par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### B. Qualité pour revendiquer le droit de priorité
 
-[^tit1-chap2-lvlB-1]
+[^tit1-chap1-sec2-lvlB-1]
 
-[^tit1-chap2-lvlB-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec2-lvlB-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 18
 
@@ -457,11 +485,12 @@ Les ressortissants suisses requérants ou titulaires de brevet peuvent invoquer 
 
 [^19-1]
 
-<sup>1</sup> Celui qui veut se prévaloir d’un droit de priorité remettra à l’IPI une déclaration et un document de priorité.
+<sup>1</sup> Celui qui veut se prévaloir d’un droit de priorité remet à l’IPI une déclaration et un document de priorité.[^19-2]
 
 <sup>2</sup> Le droit à la priorité s’éteint si les délais et les formalités fixés dans l’ordonnance ne sont pas observés.
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^19-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Fardeau de la preuve en cas de procès
 
@@ -489,7 +518,11 @@ Lorsque, pour la même invention, l’inventeur ou son ayant cause a obtenu deux
 
 [^2123-1]: Abrogés par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 3 Modifications touchant à l’existence du brevet
+### Section 3 Modifications touchant à l’existence du brevet
+
+[^tit1-chap1-sec3-1]
+
+[^tit1-chap1-sec3-1]: Anciennement chapitre 3.
 
 ### A. Renonciation partielle
 
@@ -501,30 +534,27 @@ Lorsque, pour la même invention, l’inventeur ou son ayant cause a obtenu deux
 
 <sup>1</sup>
 
-Le titulaire du brevet peut y renoncer partiellement en demandant à l’IPI soit:
+Le titulaire du brevet peut y renoncer partiellement en demandant à l’IPI:[^24-2]
 
-- a. de supprimer une revendication (art. 51 et 55) ou
+- a.[^24-3] de supprimer une revendication (art. 51 et 55);
 - b. de limiter une revendication indépendante en y incorporant une ou plusieurs revendications qui en dépendent ou
-- c. de limiter une revendication indépendante d’une autre manière; dans ce cas, la revendication limitée doit se rapporter à la même invention et définir une forme d’exécution qui est prévue dans le fascicule du brevet publié et dans la version de la demande de brevet qui a déterminé sa date de dépôt.
+- c.[^24-4] de limiter une revendication indépendante d’une autre manière; dans ce cas, l’objet du brevet modifié ne peut pas aller au-delà du contenu de la demande de brevet dans la version qui a déterminé sa date de dépôt et l’étendue de la protection conférée par le brevet ne peut pas être élargie.
 
-<sup>2</sup> …[^24-2]
+<sup>2</sup> …[^24-5]
 
 [^24-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^24-2]: Abrogé par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^24-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^24-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^24-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^24-5]: Abrogé par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### II. Constitution de nouveaux brevets
+### II. …
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Si, à la suite d’une renonciation partielle, il subsiste des revendications qui ne peuvent pas coexister dans le même brevet d’après les art. 52 et 55, le brevet sera limité en conséquence.
-
-<sup>2</sup> Le titulaire du brevet pourra demander, pour les revendications éliminées, la constitution d’un ou de plusieurs nouveaux brevets qui recevront comme date de dépôt celle du brevet initial.
-
-<sup>3</sup> Une fois la renonciation partielle inscrite au registre des brevets, l’IPI impartit au titulaire du brevet un délai pour demander la constitution de nouveaux brevets conformément à l’al. 2; passé ce délai, une telle requête ne sera plus admise.
-
-[^25-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^25-1]: Abrogé par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Action en nullité
 
@@ -539,22 +569,29 @@ Sur demande, le juge constate la nullité du brevet:
 - a. lorsque l’objet du brevet n’est pas brevetable au sens des art. 1, 1*a*, 1*b* et 2;
 - b. lorsque l’invention n’est pas exposée, dans le fascicule du brevet, de façon telle qu’un homme de métier puisse l’exécuter;
 - c. lorsque l’objet du brevet va au-delà du contenu de la demande de brevet dans la version qui a déterminé sa date de dépôt;
-- d. lorsque le titulaire du brevet n’est ni l’inventeur, ni son ayant cause et qu’il n’avait pas droit non plus, à un autre titre, à la délivrance du brevet.[^26-1]
+- c<sup>bis</sup>.[^26-1] lorsque l’étendue de la protection conférée par le brevet a été élargie, ou
+- d.[^26-2] lorsque le titulaire du brevet n’est ni l’inventeur, ni son ayant cause et qu’il n’a pas droit non plus, à un autre titre, à la délivrance du brevet.[^26-3]
 
-<sup>2</sup> Lorsqu’un brevet a été délivré avec reconnaissance d’une priorité et que la demande de brevet dont la priorité est revendiquée n’a pas abouti à un brevet, le juge pourra exiger du titulaire du brevet qu’il en indique les raisons avec preuves à l’appui; si le titulaire s’y refuse, le juge appréciera librement cette attitude.[^26-2]
+<sup>2</sup> Lorsqu’un brevet a été délivré avec reconnaissance d’une priorité et que la demande dont la priorité est revendiquée n’a pas abouti à un brevet, le juge peut exiger du titulaire du brevet qu’il en indique les raisons avec preuves à l’appui; si le titulaire s’y refuse, le juge apprécie librement cette attitude.[^26-4]
 
-[^26-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^26-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^26-1]: Introduite par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-3]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^26-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### II. Nullité partielle
 
 #### Art. 27
 
-<sup>1</sup> Lorsque seule une partie de l’invention brevetée est entachée de nullité, le juge limitera le brevet en conséquence.
+<sup>1</sup> Lorsque seule une partie de l’invention brevetée est entachée de nullité, le juge limite le brevet en conséquence.[^27-1]
 
-<sup>2</sup> Il donnera aux parties l’occasion de se prononcer sur la rédaction nouvelle qu’il entend donner à la revendication; il pourra en outre demander l’avis de l’IPI.
+<sup>2</sup> Il donne aux parties l’occasion de se prononcer sur la rédaction nouvelle qu’il entend donner à la revendication; il peut en outre demander l’avis de l’IPI.[^27-2]
 
-<sup>3</sup> L’art. 25 est applicable par analogie.
+<sup>3</sup> …[^27-3]
+
+[^27-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^27-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^27-3]: Abrogé par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### III. Qualité pour agir
 
@@ -576,7 +613,11 @@ Le brevet est réputé n’avoir jamais produit d’effets dans la mesure où le
 
 [^28a-1]: Introduit par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### Chapitre 4 Modifications concernant le droit à la délivrance du brevet et le droit au brevet; octroi de licences
+### Section 4 Modifications concernant le droit à la délivrance du brevet et le droit au brevet; octroi de licences
+
+[^tit1-chap1-sec4-1]
+
+[^tit1-chap1-sec4-1]: Anciennement chapitre 4.
 
 ### A. Action en cession
 
@@ -584,29 +625,35 @@ Le brevet est réputé n’avoir jamais produit d’effets dans la mesure où le
 
 #### Art. 29
 
-<sup>1</sup> Lorsque la demande de brevet a été déposée par une personne qui, selon l’art. 3, n’avait pas droit à la délivrance du brevet, l’ayant droit peut demander la cession de la demande de brevet ou, si le brevet a déjà été délivré, en demander la cession ou intenter l’action en nullité.
+<sup>1</sup> Lorsque la demande de brevet a été présentée par un demandeur qui, selon l’art. 3, n’a pas droit à la délivrance du brevet, l’ayant droit peut demander la cession de la demande de brevet ou, si le brevet a déjà été délivré, en demander la cession ou intenter l’action en nullité.[^29-1]
 
-<sup>2</sup> …[^29-1]
+<sup>2</sup> …[^29-2]
 
-<sup>3</sup> Si le juge ordonne la cession, les licences ou autres droits accordés dans l’intervalle à des tiers tombent; ceux-ci auront toutefois droit à l’octroi d’une licence non exclusive lorsqu’ils auront déjà, de bonne foi, utilisé l’invention professionnellement en Suisse ou s’ils ont fait des préparatifs particuliers à cette fin.[^29-2]
+<sup>3</sup> Si le juge ordonne la cession, les licences ou autres droits accordés dans l’intervalle à des tiers tombent; ceux‑ci ont toutefois droit à l’octroi d’une licence non exclusive lorsqu’ils ont déjà, de bonne foi, utilisé l’invention professionnellement en Suisse ou qu’ils ont fait des préparatifs particuliers à cette fin.[^29-3]
 
 <sup>4</sup> Toutes demandes en dommages-intérêts sont réservées.
 
-<sup>5</sup> L’art. 40*e* s’applique par analogie.[^29-3]
+<sup>5</sup> L’art. 40*e* s’applique par analogie.[^29-4]
 
-[^29-1]: Abrogé par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^29-2]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 5 oct. 2001 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2587](https://fedlex.data.admin.ch/eli/fga/2000/557)).
-[^29-3]: Introduit par le ch. I de la LF du 16 déc. 1994 ([RO 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^29-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^29-2]: Abrogé par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^29-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^29-4]: Introduit par le ch. I de la LF du 16 déc. 1994 ([RO 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. Cession partielle
 
 #### Art. 30
 
-<sup>1</sup> Lorsque le demandeur ne peut justifier de son droit à l’égard de toutes les revendications, le juge ordonne la cession de la demande de brevet ou du brevet, en éliminant les revendications pour lesquelles le demandeur n’a pas établi son droit.[^30-1]
+<sup>1</sup> Lorsque le demandeur au civil[^30-1] ne peut justifier de son droit à l’égard de toutes les revendications, le juge ordonne la cession de la demande de brevet ou du brevet, en éliminant les revendications pour lesquelles le demandeur n’a pas établi son droit.[^30-2]
 
-<sup>2</sup> En ce cas, l’art. 25 est applicable par analogie.
+<sup>2</sup> Le défendeur peut requérir, pour les revendications éliminées, la constitution d’un ou de plusieurs nouveaux brevets qui reçoivent comme date de dépôt celle du brevet initial.[^30-3]
 
-[^30-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+<sup>3</sup> Une fois la cession partielle inscrite au registre des brevets, l’IPI impartit au défendeur un délai pour requérir la constitution de nouveaux brevets conformément à l’al. 2. Passé ce délai, une telle requête n’est plus admise.[^30-4]
+
+[^30-1]: Nouvelle expression selon le ch. I al. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^30-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^30-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^30-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### III. Délai pour intenter action
 
@@ -648,25 +695,32 @@ Le brevet est réputé n’avoir jamais produit d’effets dans la mesure où le
 
 #### Art. 34
 
-<sup>1</sup> Le requérant ou le titulaire du brevet peuvent autoriser des tiers à utiliser l’invention (octroi de licences).
+<sup>1</sup> Le demandeur ou le titulaire du brevet peut autoriser des tiers à utiliser l’invention (octroi de licences).[^34-1]
 
 <sup>2</sup> Lorsque la demande de brevet ou le brevet appartiennent à plusieurs, une licence ne peut être accordée sans le consentement de tous les ayants droit.
 
 <sup>3</sup> Les licences non inscrites au registre des brevets ne sont pas opposables à celui qui, de bonne foi, acquiert des droits sur le brevet.
 
-### Chapitre 5 Restrictions légales aux droits découlant du brevet
+[^34-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 5 Restrictions légales aux droits découlant du brevet
+
+[^tit1-chap1-sec5-1]
+
+[^tit1-chap1-sec5-1]: Anciennement chapitre 5.
 
 ### A. Droit des tiers dérivé d’un usage antérieur; véhicules étrangers
 
 #### Art. 35
 
-<sup>1</sup> Le brevet ne peut être opposé à celui qui, de bonne foi, avant la date du dépôt de la demande de brevet ou celle de la priorité, utilisait l’invention professionnellement en Suisse ou y avait fait à cette fin des préparatifs spéciaux.[^35-1]
+<sup>1</sup> Le brevet ne peut être opposé à celui qui, de bonne foi, avant la date de dépôt de la demande de brevet ou la date de priorité, utilisait l’invention professionnellement en Suisse ou y avait fait à cette fin des préparatifs spéciaux.[^35-1]
 
-<sup>2</sup> Celui-ci pourra utiliser l’invention pour les besoins de son entreprise; ce droit ne peut être transmis, entre vifs ou par succession, qu’avec l’entreprise.
+<sup>2</sup> Celui qui peut se prévaloir de l’al. 1 peut utiliser l’invention pour les besoins de son entreprise; ce droit ne peut être transmis, entre vifs ou par succession, qu’avec l’entreprise.[^35-2]
 
 <sup>3</sup> Les effets du brevet ne s’étendent pas aux véhicules qui ne séjournent que temporairement en Suisse, ni aux dispositifs appliqués à ces véhicules.
 
-[^35-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^35-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^35-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A<sup>bis</sup>. Privilège des agriculteurs
 
@@ -700,9 +754,9 @@ Le Conseil fédéral détermine les espèces végétales auxquelles s’applique
 
 ### I. Inventions dépendantes
 
-[^tit1-chap5-lvlB-lvlI-1]
+[^tit1-chap1-sec5-lvlB-lvlI-1]
 
-[^tit1-chap5-lvlB-lvlI-1]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [FF 2004 3929](https://fedlex.data.admin.ch/eli/fga/2004/683)).
+[^tit1-chap1-sec5-lvlB-lvlI-1]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [FF 2004 3929](https://fedlex.data.admin.ch/eli/fga/2004/683)).
 
 #### Art. 36
 
@@ -739,7 +793,7 @@ Le Conseil fédéral détermine les espèces végétales auxquelles s’applique
 
 <sup>2</sup> …[^37-2]
 
-<sup>3</sup> Sur requête du demandeur, le juge peut lui accorder une licence sitôt l’action introduite, sous réserve du jugement au fond, lorsque, outre les conditions énoncées à l’al. 1, le demandeur rend vraisemblable qu’il a un intérêt à utiliser immédiatement l’invention et qu’il fournit au défendeur des sûretés suffisantes; le défendeur doit être entendu préalablement.[^37-3]
+<sup>3</sup> Sur requête du demandeur au civil, le juge peut lui accorder une licence sitôt l’action introduite, sous réserve du jugement au fond, lorsque, outre les conditions énoncées à l’al. 1, le demandeur au civil rend vraisemblable qu’il a un intérêt à utiliser immédiatement l’invention et qu’il fournit au défendeur des sûretés suffisantes; le défendeur doit être entendu préalablement.[^37-3]
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> juil. 1995 ([RO 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
 [^37-2]: Abrogé par le ch. I de la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> juil. 1995 ([RO 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
@@ -840,19 +894,21 @@ Dans le cas d’une invention portant sur un produit ou un procédé de diagnost
 
 [^40e-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Chapitre 6 Taxes
+### Section 6 Taxes
 
-[^tit1-chap6-1]
+[^tit1-chap1-sec6-1][^tit1-chap1-sec6-2]
 
-[^tit1-chap6-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec6-1]: Anciennement chapitre 6.
+[^tit1-chap1-sec6-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 41
 
 [^41-1]
 
-L’obtention et le maintien en vigueur d’un brevet, ainsi que le traitement de demandes spéciales présupposent le paiement des taxes prévues à cet effet par l’ordonnance.
+L’obtention et le maintien en vigueur d’un brevet ainsi que le traitement de requêtes spéciales présupposent le paiement des taxes prévues à cet effet par l’IPI en vertu de l’art. 13 de la loi fédérale du 24 mars 1995 sur le statut et les tâches de l’Institut Fédéral de la Propriété Intellectuelle[^41-2].
 
-[^41-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^41-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^41-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 #### Art. 42 à 44
 
@@ -866,11 +922,12 @@ L’obtention et le maintien en vigueur d’un brevet, ainsi que le traitement d
 
 [^4546-1]: Abrogés par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 7 Poursuite de la procédure et réintégration en l’état antérieur
+### Section 7 Poursuite de la procédure et réintégration en l’état antérieur
 
-[^tit1-chap7-1]
+[^tit1-chap1-sec7-1][^tit1-chap1-sec7-2]
 
-[^tit1-chap7-1]: Anciennement avant l’art. 47. Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-1]: Anciennement chapitre 7.
+[^tit1-chap1-sec7-2]: Anciennement avant l’art. 47. Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### A. Poursuite de la procédure
 
@@ -878,7 +935,7 @@ L’obtention et le maintien en vigueur d’un brevet, ainsi que le traitement d
 
 [^46a-1]
 
-<sup>1</sup> Lorsque le requérant ou le titulaire du brevet n’a pas observé un délai prescrit par la législation ou impartit par l’IPI, il peut déposer auprès de l’IPI une requête de poursuite de la procédure.[^46a-2]
+<sup>1</sup> Lorsque le demandeur ou le titulaire du brevet n’a pas observé un délai légal ou un délai imparti par l’IPI, il peut déposer auprès de ce dernier une requête de poursuite de la procédure.[^46a-2]
 
 <sup>2</sup> Il doit présenter cette requête dans les deux mois à compter de la réception de la notification de l’IPI quant à l’inobservation du délai, mais au plus tard dans les six mois à compter de l’expiration du délai non observé.[^46a-3] En outre, pendant ces délais, il doit exécuter intégralement l’acte omis, compléter s’il y a lieu la demande de brevet et payer la taxe de poursuite de la procédure.
 
@@ -892,28 +949,28 @@ La poursuite de la procédure est exclue lorsque les délais suivants n’ont pa
 - b. délais pour présenter une requête de poursuite de la procédure (al. 2);
 - c. délais pour présenter une demande de réintégration (art. 47, al. 2);
 - d. délais pour présenter une demande de brevet assortie d’une revendication du droit de priorité et une déclaration de priorité (art. 17 et 19);
-- e.[^46a-4] …
+- e.[^46a-4] délais pour présenter une requête d’examen (art. 58*b*, al. 3);
 - f. délai pour la modification des pièces techniques (art. 58, al. 1);
 - g.[^46a-5] …
 - h.[^46a-6] délais pour déposer une demande de délivrance d’un certificat complémentaire de protection (art. 140*f*, al. 1, 146, al. 2, et 147, al. 3) ou de prolongation de la durée de celui-ci (art. 140*o*, al. 1) ou une demande de délivrance d’un certificat complémentaire de protection pédiatrique (art. 140*v*, al. 1);
 - i. tout autre délai, fixé par ordonnance, et dont l’inobservation exclut la poursuite de la procédure.
 
 [^46a-1]: Introduit par le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
-[^46a-2]: Nouvelle teneur selon l’annexe ch. 23 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46a-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^46a-3]: Nouvelle teneur selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46a-4]: Abrogée par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, avec effet au 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^46a-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^46a-5]: Abrogée par l’art. 2 de l’AF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^46a-6]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### B. Réintégration en l’état antérieur
 
-[^tit1-chap7-lvlB-1]
+[^tit1-chap1-sec7-lvlB-1]
 
-[^tit1-chap7-lvlB-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-lvlB-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 #### Art. 47
 
-<sup>1</sup> Lorsque le requérant ou le titulaire du brevet rendent vraisemblable qu’ils ont été empêchés, sans leur faute, d’observer un délai prescrit par la loi ou par le règlement d’exécution ou imparti par l’IPI, ils seront, sur leur demande, réintégrés en l’état antérieur.
+<sup>1</sup> Lorsque le demandeur ou le titulaire du brevet rend vraisemblable qu’il a été empêché, sans qu’il y ait eu faute de sa part, d’observer un délai prescrit par la loi ou l’ordonnance ou un délai imparti par l’IPI, il est, à sa demande, réintégré en l’état antérieur.[^47-1]
 
 <sup>2</sup> La demande doit être présentée dans les deux mois dès la fin de l’empêchement, mais au plus tard dans le délai d’un an à compter de l’expiration du délai non observé, à l’autorité auprès de laquelle l’acte omis devait être accompli; en même temps, l’acte omis doit être exécuté.
 
@@ -921,11 +978,13 @@ La poursuite de la procédure est exclue lorsque les délais suivants n’ont pa
 
 <sup>4</sup> L’acceptation de la demande a pour effet de rétablir la situation qui eût résulté de l’accomplissement de l’acte en temps utile; l’art. 48 est réservé.
 
+[^47-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
 ### C. Réserve en faveur des tiers
 
-[^tit1-chap7-lvlC-1]
+[^tit1-chap1-sec7-lvlC-1]
 
-[^tit1-chap7-lvlC-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-lvlC-1]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 #### Art. 48
 
@@ -938,18 +997,19 @@ Le brevet ne peut pas être opposé à celui qui, durant les périodes indiquée
 
 <sup>2</sup> Le droit ainsi acquis par un tiers est régi par l’art. 35, al. 2.
 
-<sup>3</sup> Celui qui revendique un droit fondé sur l’al. 1, let. a, versera au titulaire du brevet une indemnité équitable, à partir du moment où le brevet a été remis en vigueur.
+<sup>3</sup> Celui qui revendique un droit fondé sur l’al. 1, let. a, verse au titulaire du brevet une indemnité équitable, à partir du moment où le brevet a été remis en vigueur.[^48-3]
 
 <sup>4</sup> En cas de litige, le juge statue sur l’existence et l’étendue des droits revendiqués par un tiers et fixe le montant de l’indemnité prévue à l’al. 3.
 
 [^48-1]: Référence abrogée par l’annexe ch. 4 de la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^48-2]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^48-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### Chapitre 8 Représentation et surveillance
+### Section 8 Représentation et surveillance
 
-[^tit1-chap8-1]
+[^tit1-chap1-sec8-1]
 
-[^tit1-chap8-1]: Introduit par l’annexe ch. 3 de la LF du 20 mars 2009 sur les conseils en brevets, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
+[^tit1-chap1-sec8-1]: Anciennement chapitre 8. Introduit par l’annexe ch. 3 de la LF du 20 mars 2009 sur les conseils en brevets, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
 ### A. Représentation
 
@@ -967,37 +1027,46 @@ L’art. 13 de la loi du 20 mars 2009 sur les conseils en brevets[^48b-1] s’ap
 
 [^48b-1]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
-## Titre deuxième Délivrance du brevet
+### Chapitre 2 Délivrance du brevet
 
-### Chapitre 1 Demande de brevet
+[^tit1-chap2-1]
+
+[^tit1-chap2-1]: Anciennement titre deuxième.
+
+### Section 1 Demande de brevet
+
+[^tit1-chap2-sec1-1]
+
+[^tit1-chap2-sec1-1]: Anciennement chapitre 1.
 
 ### A. Forme de la demande
 
 ### I. En général
 
-[^tit2-chap1-lvlA-lvlI-1]
+[^tit1-chap2-sec1-lvlA-lvlI-1]
 
-[^tit2-chap1-lvlA-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlA-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 49
 
-<sup>1</sup> Celui qui veut obtenir un brevet d’invention doit déposer une demande de brevet auprès de l’IPI.
+<sup>1</sup> Celui qui veut obtenir un brevet doit déposer une demande de brevet auprès de l’IPI.[^49-1]
 
 <sup>2</sup>
 
 La demande doit contenir:
 
 - a. une requête sollicitant la délivrance du brevet;
-- b.[^49-1] une description de l’invention et, dans le cas d’une revendication portant sur une séquence dérivée d’une séquence génique ou d’une séquence génique partielle, une description concrète de la fonction que remplit la séquence dérivée;
+- b.[^49-2] une description de l’invention et, dans le cas d’une revendication portant sur une séquence dérivée d’une séquence génique ou d’une séquence génique partielle, une description concrète de la fonction que remplit la séquence dérivée;
 - c. une ou plusieurs revendications;
 - d. les dessins auxquels se réfèrent la description ou les revendications;
-- e. un abrégé.[^49-2]
+- e. un abrégé.[^49-3]
 
-<sup>3</sup> …[^49-3]
+<sup>3</sup> …[^49-4]
 
-[^49-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^49-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^49-3]: Abrogé par l’annexe ch. 4 de la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^49-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^49-2]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^49-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^49-4]: Abrogé par l’annexe ch. 4 de la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
 ### II. Indication de la source des ressources génétiques et des savoirs traditionnels
 
@@ -1009,10 +1078,10 @@ La demande doit contenir:
 
 La demande de brevet doit contenir des indications concernant la source:
 
-- a. de la ressource génétique à laquelle l’inventeur ou le requérant a eu accès, pour autant que l’invention porte directement sur cette ressource;
-- b. du savoir traditionnel des communautés indigènes ou locales relatif aux ressources génétiques auxquelles l’inventeur ou le requérant a eu accès, pour autant que l’invention porte directement sur ce savoir.
+- a. de la ressource génétique à laquelle l’inventeur ou le demandeur a eu accès, pour autant que l’invention porte directement sur cette ressource;
+- b. du savoir traditionnel des communautés indigènes ou locales relatif aux ressources génétiques auxquelles l’inventeur ou le demandeur a eu accès, pour autant que l’invention porte directement sur ce savoir.
 
-<sup>2</sup> Si la source n’est connue ni de l’inventeur ni du requérant, ce dernier doit le confirmer par écrit.
+<sup>2</sup> Si la source n’est connue ni de l’inventeur ni du demandeur, ce dernier doit le confirmer par écrit.
 
 [^49a-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1020,9 +1089,9 @@ La demande de brevet doit contenir des indications concernant la source:
 
 ### I. En général
 
-[^tit2-chap1-lvlB-lvlI-1]
+[^tit1-chap2-sec1-lvlB-lvlI-1]
 
-[^tit2-chap1-lvlB-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlB-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 50
 
@@ -1043,11 +1112,12 @@ La demande de brevet doit contenir des indications concernant la source:
 
 <sup>2</sup> Lorsque, pour une invention qui porte sur de la matière biologique en tant que produit, la fabrication ne peut pas être décrite de manière suffisante, l’exposé doit être complété ou remplacé par le dépôt d’un échantillon de la matière et, dans la description, par un renvoi à ce dépôt.
 
-<sup>3</sup> L’invention n’est réputée exposée au sens de l’art. 50 que lorsque l’échantillon de la matière biologique a été déposé au plus tard à la date de dépôt de la demande auprès d’une institution de dépôt reconnue et que la demande de brevet telle que déposée initialement contient des données relatives à la matière biologique et le renvoi au dépôt.
+<sup>3</sup> L’invention n’est réputée exposée au sens de l’art. 50 que lorsque l’échantillon de la matière biologique a été déposé au plus tard à la date de dépôt de la demande auprès d’une institution de dépôt reconnue et que la demande de brevet dans la version qui a déterminé sa date de dépôt contient des données relatives à la matière biologique et le renvoi au dépôt.[^50a-2]
 
 <sup>4</sup> Le Conseil fédéral règle les exigences liées au dépôt, aux indications relatives à la matière biologique et au renvoi au dépôt, et l’accès aux échantillons déposés.
 
 [^50a-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^50a-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Revendications
 
@@ -1057,13 +1127,14 @@ La demande de brevet doit contenir des indications concernant la source:
 
 [^51-1]
 
-<sup>1</sup> L’invention sera définie dans une ou plusieurs revendications.
+<sup>1</sup> L’invention est définie dans une ou plusieurs revendications.[^51-2]
 
 <sup>2</sup> Les revendications déterminent l’étendue de la protection conférée par le brevet.
 
 <sup>3</sup> La description et les dessins servent à interpréter les revendications.
 
 [^51-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^51-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### II. Revendications indépendantes
 
@@ -1073,7 +1144,7 @@ La demande de brevet doit contenir des indications concernant la source:
 
 <sup>1</sup>
 
-Chaque revendication indépendante ne pourra définir qu’une seule invention, savoir:
+Chaque revendication indépendante ne peut définir qu’une seule invention, à savoir:[^52-2]
 
 - a. un procédé, ou
 - b. un produit, un moyen pour la mise en œuvre d’un procédé ou un dispositif, ou
@@ -1083,6 +1154,7 @@ Chaque revendication indépendante ne pourra définir qu’une seule invention, 
 <sup>2</sup> Un brevet peut contenir plusieurs revendications indépendantes lorsqu’elles définissent une pluralité d’inventions liées entre elles de telle sorte qu’elles ne forment qu’un seul concept inventif général.
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^52-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 53 et 54
 
@@ -1126,17 +1198,19 @@ L’abrégé sert exclusivement à des fins d’information technique.
 
 Est réputé date de dépôt le jour où le dernier des éléments suivants est déposé:
 
-- a. une demande explicite ou implicite de délivrance de brevet;
-- b. des indications permettant d’établir l’identité du déposant;
-- c. un élément qui, à première vue, semble constituer une description.[^56-1]
+- a.[^56-1] une requête explicite ou implicite de délivrance de brevet;
+- b.[^56-2] des indications permettant d’établir l’identité du demandeur;
+- c. un élément qui, à première vue, semble constituer une description.[^56-3]
 
-<sup>2</sup> Pour les envois postaux le moment déterminant sera celui où ils auront été remis à La Poste Suisse à l’adresse de l’IPI.[^56-2]
+<sup>2</sup> Pour les envois postaux, le moment déterminant est celui où ils ont été remis à La Poste Suisse à l’attention de l’IPI.[^56-4]
 
-<sup>3</sup> Le Conseil fédéral règle les modalités, en particulier la langue dans laquelle les éléments visés à l’al. 1 doivent être déposés, la date de dépôt et la publication, si une partie manquante de la description ou un dessin manquant sont déposés ultérieurement, et le remplacement de la description et des dessins par un renvoi à une demande de brevet déposée antérieurement.[^56-3]
+<sup>3</sup> Le Conseil fédéral règle les modalités, en particulier la langue dans laquelle les éléments visés à l’al. 1 doivent être déposés, la date de dépôt et la publication, si une partie manquante de la description ou un dessin manquant sont déposés ultérieurement, et le remplacement de la description et des dessins par un renvoi à une demande de brevet déposée antérieurement.[^56-5]
 
-[^56-1]: Nouvelle teneur selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^56-2]: Nouvelle teneur selon l’appendice ch. 6 de la LF du 30 avril 1997 sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^56-3]: Introduit par selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^56-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^56-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^56-3]: Nouvelle teneur selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^56-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^56-5]: Introduit par selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. En cas de scission de la demande
 
@@ -1144,32 +1218,52 @@ Est réputé date de dépôt le jour où le dernier des éléments suivants est 
 
 [^57-1]
 
-<sup>1</sup>
-
-Une demande de brevet issue de la scission d’une demande antérieure portera la même date de dépôt que cette dernière:
+Une demande de brevet issue de la scission d’une demande antérieure porte la même date de dépôt que cette dernière:
 
 - a. si, lors de son dépôt, elle a été désignée expressément comme demande scindée;
 - b. si, au moment du dépôt de la demande scindée, la demande antérieure était encore pendante, et
-- c. dans la mesure où son objet ne va pas au delà du contenu de la demande antérieure dans sa version initiale.
+- c. dans la mesure où son objet ne va pas au-delà du contenu de la demande antérieure dans la version qui a déterminé sa date de dépôt.
 
-<sup>2</sup> …[^57-2]
+[^57-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-[^57-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^57-2]: Abrogé par l’art. 2 de l’AF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+### F. Rapport sur l’état de la technique
 
-### F. Modification des pièces techniques
+#### Art. 57a
+
+[^57a-1]
+
+<sup>1</sup> L’IPI veille à l’établissement et à la publication d’un rapport sur l’état de la technique.
+
+<sup>2</sup> Le rapport sur l’état de la technique est établi sur la base des revendications et tient dûment compte de la description et, le cas échéant, des dessins.
+
+<sup>3</sup> L’IPI peut renoncer à établir un rapport sur l’état de la technique. En pareil cas, il publie une mention correspondante.
+
+<sup>4</sup> Le Conseil fédéral définit les tâches de l’IPI en relation avec la détermination de l’état de la technique, en particulier les conditions à remplir pour pouvoir renoncer à l’établissement d’un rapport.
+
+[^57a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### G. Modification des pièces techniques
+
+[^tit1-chap2-sec1-lvlG-1]
+
+[^tit1-chap2-sec1-lvlG-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 58
 
 [^58-1]
 
-<sup>1</sup> Le requérant doit avoir au moins une occasion de modifier les pièces techniques avant la conclusion de la procédure d’examen.
+<sup>1</sup> Le demandeur doit avoir au moins une occasion de modifier les pièces techniques avant la conclusion de la procédure d’examen.
 
-<sup>2</sup> Les pièces techniques ne doivent pas être modifiées de manière que l’objet de la demande modifiée aille au-delà de leur contenu.
+<sup>2</sup> Les pièces techniques ne doivent pas être modifiées de manière que l’objet de la demande modifiée aille au-delà du contenu de la demande dans la version qui a déterminé sa date de dépôt.[^58-2]
 
 [^58-1]: Nouvelle teneur selon l’art. 2 de l’AF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^58-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### G. Publication des demandes de brevet
+### H. Publication des demandes de brevet
+
+[^tit1-chap2-sec1-lvlH-1]
+
+[^tit1-chap2-sec1-lvlH-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 58a
 
@@ -1182,63 +1276,97 @@ L’IPI publie les demandes de brevet:
 - a. immédiatement après l’expiration d’un délai de 18 mois à compter de la date de dépôt ou, si une priorité à été revendiquée, à compter de la date de priorité;
 - b. avant l’expiration du délai visé à la let. a sur requête du déposant.
 
-<sup>2</sup> La publication comprend la description et les revendications ainsi que, le cas échéant, les dessins, l’abrégé, pour autant qu’il soit disponible avant la fin des préparatifs techniques en vue de la publication, un rapport sur l’état de la technique et une recherche de type international au sens de l’art. 59, al. 5. Si ce rapport ou cette recherche n’ont pas été publiés avec la demande de brevet, ils le sont séparément.
+<sup>2</sup>
+
+La publication comprend:
+
+- a. la description;
+- b. les revendications;
+- c. les éventuels dessins;
+- d. l’abrégé, et
+- e. le rapport sur l’état de la technique.[^58a-2]
+
+<sup>3</sup> Si le rapport sur l’état de la technique n’a pas été publié avec la demande de brevet, il l’est séparément et aussi vite que possible.[^58a-3]
+
+<sup>4</sup> Les demandes de brevet peuvent être publiées en anglais lorsque les pièces techniques ne sont pas rédigées dans une langue officielle suisse.[^58a-4]
 
 [^58a-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^58a-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^58a-3]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^58a-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### Chapitre 2 Examen de la demande de brevet
+### Section 2 Examen de la demande de brevet
 
-### A. Objet de l’examen
+[^tit1-chap2-sec2-1]
 
-[^tit2-chap2-lvlA-1]
+[^tit1-chap2-sec2-1]: Anciennement chapitre 2.
 
-[^tit2-chap2-lvlA-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+### A. Requête d’examen
+
+#### Art. 58b
+
+[^58b-1]
+
+<sup>1</sup> L’IPI examine à la requête du demandeur si l’objet de la demande de brevet remplit les conditions visées à l’art. 59, al. 1 et 2.
+
+<sup>2</sup> Le demandeur ou un tiers peut requérir de l’IPI qu’il examine en plus si l’invention est nouvelle et si elle ne découle pas d’une manière évidente de l’état de la technique (art. 59, al. 4).
+
+<sup>3</sup> Les requêtes visées aux al. 1 et 2 doivent être présentées dans les six mois à compter de la publication, par l’IPI, du rapport sur l’état de la technique visé à l’art. 57*a* ou de la mention du non-établissement dudit rapport. Pour les demandes internationales visées à l’art. 135, le délai commence à courir à compter de la publication du rapport complémentaire de l’IPI sur l’état de la technique visé à l’art. 139 ou de la mention du non-établissement dudit rapport.
+
+<sup>4</sup> La requête visée à l’al. 2 ne peut pas être retirée.
+
+<sup>5</sup> Un tiers qui présente une requête au sens de l’al. 2 ne devient pas partie à la procédure.
+
+<sup>6</sup> Le Conseil fédéral règle les modalités de la procédure.
+
+[^58b-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### B. Objet de l’examen
+
+[^tit1-chap2-sec2-lvlB-1]
+
+[^tit1-chap2-sec2-lvlB-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59
 
-<sup>1</sup> Si l’objet d’une demande de brevet n’est pas ou n’est que partiellement conforme aux art. 1, 1*a*, 1*b* et 2 l’IPI en informe le requérant en lui indiquant les raisons et lui impartit un délai pour répondre.[^59-1]
+<sup>1</sup> Si l’objet d’une demande de brevet n’est pas ou n’est que partiellement conforme aux art. 1, 1*a*, 1*b* et 2, l’IPI en informe le demandeur en lui indiquant les raisons et lui impartit un délai pour répondre.[^59-1]
 
-<sup>2</sup> Si la demande de brevet ne répond pas à d’autres prescriptions de la présente loi ou de l’ordonnance, l’IPI impartit au requérant un délai pour en corriger les défauts.[^59-2]
+<sup>2</sup> Si la demande de brevet ne répond pas à d’autres prescriptions de la présente loi ou de l’ordonnance, l’IPI impartit au demandeur un délai pour en corriger les défauts.[^59-2]
 
 <sup>3</sup> …[^59-3]
 
-<sup>4</sup> L’IPI n’examine pas si l’invention est nouvelle ni si elle découle d’une manière évidente de l’état de la technique.[^59-4]
+<sup>4</sup> L’IPI examine uniquement sur requête visée à l’art. 58*b*, al. 2, si l’invention est nouvelle et si elle ne découle pas d’une manière évidente de l’état de la technique.[^59-4]
 
-<sup>5</sup>
+<sup>5 et <sup>6</sup></sup> …[^59-5]
 
-Le requérant peut, moyennant le paiement d’une taxe:
-
-- a. demander, dans le délai de quatorze mois à compter de la date de dépôt ou, lorsqu’une priorité est revendiquée, à compter de la date de priorité, que l’IPI établisse un rapport sur l’état de la technique;
-- b. demander, dans le délai de six mois à compter de la date de dépôt d’une première demande, que l’IPI réalise une recherche de type international.[^59-5]
-
-<sup>6</sup> Si aucun rapport au sens de l’al. 5, let. a n’a été établi ni aucune recherche au sens de l’al. 5, let. b réalisée, toute personne habilitée à demander la consultation du dossier conformément à l’art. 65 peut, moyennant le paiement d’une taxe, demander l’établissement par l’IPI d’un rapport sur l’état de la technique.[^59-6]
-
-[^59-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^59-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^59-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^59-3]: Abrogé par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^59-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^59-5]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^59-6]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^59-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59-5]: Abrogés par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### B. Fin de l’examen
+### C. Fin de l’examen
+
+[^tit1-chap2-sec2-lvlC-1]
+
+[^tit1-chap2-sec2-lvlC-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59a
 
 [^59a-1]
 
-<sup>1</sup> Si les conditions de la délivrance du brevet sont remplies, l’IPI communique au requérant que la procédure d’examen a pris fin.
+<sup>1</sup> Si les conditions de la délivrance du brevet sont remplies, l’IPI communique au demandeur que la procédure d’examen a pris fin.
 
 <sup>2</sup> …[^59a-2]
 
-<sup>3</sup>
+<sup>3</sup> L’IPI rejette la demande si elle n’est pas retirée bien qu’un brevet ne puisse pas être délivré pour une des raisons visées à l’art. 59, al. 1.[^59a-3]
 
-L’IPI rejette la demande si:
-
-- a. elle n’est pas retirée, bien qu’un brevet ne puisse pas être délivré pour les raisons mentionnées à l’art. 59, al. 1, ou
-- b. les défauts signalés conformément à l’art. 59, al. 2 ne sont pas corrigés.
+<sup>4</sup> Il déclare la demande de brevet irrecevable si les défauts constatés sur la base de l’art. 59, al. 2, ne sont pas corrigés.[^59a-4]
 
 [^59a-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^59a-2]: Abrogé par l’annexe ch. 4 de la LF du 24 mars 1995 sur le statut et les tâches de l’Institut fédéral de la Propriété intellectuelle, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^59a-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59a-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59b
 
@@ -1246,21 +1374,24 @@ L’IPI rejette la demande si:
 
 [^59b-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### C. Opposition
+### D. Recours
 
 #### Art. 59c
 
 [^59c-1]
 
-<sup>1</sup> Dans le délai de neuf mois à compter de la date de publication de l’enregistrement au registre des brevets, toute personne peut faire opposition auprès de l’IPI au brevet délivré par ce dernier. L’opposition doit être formée par écrit et motivée.
+<sup>1</sup> Les décisions de l’IPI en matière de brevets sont susceptibles de recours auprès du Tribunal fédéral des brevets.
 
-<sup>2</sup> L’opposition ne peut être fondée que sur le fait que l’objet du brevet est exclu de la brevetabilité au sens des art. 1*a*, 1*b* et 2.
+<sup>2</sup> Les tiers ont qualité pour recourir si leur recours est fondé sur le fait que l’objet du brevet est exclu de la brevetabilité au sens des art. 1*a*, 1*b* et 2.
 
-<sup>3</sup> Si l’IPI accepte l’opposition en tout ou en partie, il peut révoquer le brevet ou le maintenir sous sa forme modifiée. La décision prise sur opposition est susceptible de recours auprès du Tribunal administratif fédéral.
+<sup>3</sup> Si le recours est fondé sur d’autres motifs, la qualité pour recourir se fonde sur l’art. 48 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^59c-2].
 
-<sup>4</sup> Le Conseil fédéral règle les modalités, notamment la procédure.
+<sup>4</sup> Les tiers ayant qualité pour recourir peuvent former recours dans les quatre mois à compter de la publication de l’enregistrement du brevet.
 
-[^59c-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+<sup>5</sup> Les recours au sens des al. 2 et 3 n’ont pas d’effet suspensif. L’autorité inférieure peut, dans sa décision accorder l’effet suspensif à un éventuel recours; après le dépôt du recours, l’autorité de recours, son président ou le juge instructeur ont la même compétence.
+
+[^59c-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59c-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 59d
 
@@ -1268,11 +1399,12 @@ L’IPI rejette la demande si:
 
 [^59d-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Chapitre 3 Registre des brevets; publications faites par l’IPI; communication électronique avec les autorités
+### Section 3 Registre des brevets; publications faites par l’IPI; communication électronique avec les autorités
 
-[^tit2-chap3-1]
+[^tit1-chap2-sec3-1][^tit1-chap2-sec3-2]
 
-[^tit2-chap3-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 19 déc. 2003 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2005([RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5423](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^tit1-chap2-sec3-1]: Anciennement chapitre 3.
+[^tit1-chap2-sec3-2]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 19 déc. 2003 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2005([RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5423](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 ### A. Registre des brevets
 
@@ -1280,15 +1412,19 @@ L’IPI rejette la demande si:
 
 <sup>1</sup> L’IPI délivre le brevet en l’inscrivant au registre des brevets.[^60-1]
 
-<sup>1bis</sup> Le registre des brevets contient notamment les indications suivantes: le numéro du brevet, les symboles de la classification, le titre de l’invention, la date de dépôt, les nom et domicile du titulaire du brevet et, le cas échéant, les indications de priorité, les nom et domicile d’affaires du mandataire, le nom de l’inventeur.[^60-2]
+<sup>1bis</sup> …[^60-2]
 
-<sup>2</sup> Il y inscrit en outre toutes les modifications concernant l’existence du brevet ou le droit au brevet.
+<sup>2</sup> Le Conseil fédéral définit les indications qui doivent être inscrites au registre des brevets. Le numéro du brevet, la date de dépôt et, le cas échéant, les indications de priorité en font dans tous les cas partie.[^60-3]
 
-<sup>3</sup> …[^60-3]
+<sup>3</sup> Sont en outre inscrites au registre toutes les modifications concernant l’existence du brevet ou le droit au brevet.[^60-4]
+
+<sup>4</sup> Lorsque le brevet est publié en anglais, le titre de l’invention et l’abrégé sont traduits dans une langue officielle suisse.[^60-5]
 
 [^60-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^60-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^60-3]: Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^60-2]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-4]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-5]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Publications
 
@@ -1301,17 +1437,18 @@ L’IPI rejette la demande si:
 L’IPI publie:
 
 - a. la demande de brevet, avec les indications mentionnées à l’art. 58*a,* al. 2;
-- b. l’enregistrement du brevet au registre des brevets, avec les indications mentionnées à l’art. 60, al. 1<sup>bis</sup>;
+- b.[^61-1] l’enregistrement du brevet au registre des brevets et les indications définies à l’art. 60, al. 2;
 - c. la radiation du brevet au registre des brevets;
-- d. les modifications inscrites au registre, concernant l’existence du brevet et le droit au brevet.[^61-1]
+- d. les modifications inscrites au registre, concernant l’existence du brevet et le droit au brevet.[^61-2]
 
-<sup>2</sup> …[^61-2]
+<sup>2</sup> …[^61-3]
 
-<sup>3</sup> L’IPI détermine l’organe de publication.[^61-3]
+<sup>3</sup> L’IPI détermine l’organe de publication.[^61-4]
 
-[^61-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^61-2]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^61-3]: Introduit par le ch. I de la LF du 9 oct. 1998 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346). Nouvelle teneur selon l’annexe ch. II 4 de la LF du 5 oct. 2001 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2587](https://fedlex.data.admin.ch/eli/fga/2000/557)).
+[^61-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^61-2]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^61-3]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^61-4]: Introduit par le ch. I de la LF du 9 oct. 1998 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346). Nouvelle teneur selon l’annexe ch. II 4 de la LF du 5 oct. 2001 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2587](https://fedlex.data.admin.ch/eli/fga/2000/557)).
 
 #### Art. 62
 
@@ -1321,9 +1458,9 @@ L’IPI publie:
 
 ### II. Fascicule du brevet
 
-[^tit2-chap3-lvlB-lvlII-1]
+[^tit1-chap2-sec3-lvlB-lvlII-1]
 
-[^tit2-chap3-lvlB-lvlII-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec3-lvlB-lvlII-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
 
@@ -1331,10 +1468,11 @@ L’IPI publie:
 
 <sup>1</sup> L’IPI fait paraître un fascicule pour chaque brevet délivré.[^63-2]
 
-<sup>2</sup> Le fascicule contient la description, les revendications, l’abrégé et, le cas échéant, les dessins, ainsi que les indications inscrites dans le registre (art. 60 al. 1<sup>bis.</sup>)
+<sup>2</sup> Le fascicule comprend la description, les revendications, l’abrégé et, le cas échéant, les dessins ainsi que les indications inscrites conformément à l’art. 60, al. 2.[^63-3]
 
 [^63-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^63-2]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 63a
 
@@ -1342,17 +1480,13 @@ L’IPI publie:
 
 [^63a-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### C. Document du brevet
+### C. …
 
 #### Art. 64
 
-<sup>1</sup> Dès que l’exposé d’invention[^64-1] est prêt à être publié, l’IPI établit le document du brevet[^64-2].
+[^64-1]
 
-<sup>2</sup> Ce document se compose de l’attestation que les conditions requises par la loi pour obtenir le brevet ont été remplies, et d’un exemplaire de l’exposé d’invention[^64-3].
-
-[^64-1]: Selon la nouvelle terminologie «Fascicule du brevet».
-[^64-2]: Texte corrigé selon l’ACF du 9 janv. 1959 ([RO 1959 77](https://fedlex.data.admin.ch/eli/oc/1959/_77_81)).
-[^64-3]: Selon la nouvelle terminologie «Fascicule du brevet».
+[^64-1]: Abrogé par le ch. I de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Consultation du dossier
 
@@ -1362,9 +1496,10 @@ L’IPI publie:
 
 <sup>1</sup> Après la publication de la demande de brevet, toute personne peut consulter le dossier. Le Conseil fédéral ne peut limiter ce droit de consultation que lorsque des secrets de fabrication ou d’affaires ou d’autres intérêts prépondérants s’y opposent.
 
-<sup>2</sup> Le Conseil fédéral définit les cas dans lesquels le dossier peut être consulté avant la publication de la demande de brevet. Il règle notamment la consultation des demandes de brevet qui ont été rejetées ou retirées avant leur publication.
+<sup>2</sup> Le Conseil fédéral définit les cas dans lesquels le dossier peut être consulté avant la publication de la demande de brevet. Il règle notamment la consultation des demandes de brevet qui ont été déclarées irrecevables avant leur publication ou qui ont été rejetées ou retirées.[^65-2]
 
 [^65-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^65-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### E. Communication électronique avec les autorités
 
@@ -1384,9 +1519,18 @@ L’IPI publie:
 
 [^65a-1]: Introduit par l’annexe ch. 6 de la LF du 19 déc. 2003 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2005([RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5423](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-## Titre troisième Sanction civile et pénale
+### Chapitre 3 Voies de droit
 
-### Chapitre 1 Dispositions communes à la protection de droit civil et de droit pénal
+[^tit1-chap3-1][^tit1-chap3-2]
+
+[^tit1-chap3-1]: Anciennement titre troisième.
+[^tit1-chap3-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 1 Dispositions communes à la protection de droit civil et de droit pénal
+
+[^tit1-chap3-sec1-1]
+
+[^tit1-chap3-sec1-1]: Anciennement chapitre 1.
 
 ### A. Conditions de la responsabilité
 
@@ -1405,17 +1549,23 @@ Est passible de poursuites civiles et pénales, conformément aux dispositions c
 
 #### Art. 67
 
-<sup>1</sup> Lorsque l’invention se rapporte à un procédé de fabrication d’un produit nouveau, tout produit de même composition sera présumé, jusqu’à preuve du contraire, fabriqué d’après le procédé breveté.
+<sup>1</sup> Lorsque l’invention se rapporte à un procédé de fabrication d’un produit nouveau, tout produit de même composition est présumé, jusqu’à preuve du contraire, fabriqué d’après le procédé breveté.[^67-1]
 
 <sup>2</sup> L’al. 1 est applicable par analogie au cas d’un procédé de fabrication d’un produit connu, lorsque le titulaire du brevet rend vraisemblable que le brevet a été violé.
+
+[^67-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Sauvegarde du secret de fabrication ou d’affaires
 
 #### Art. 68
 
-<sup>1</sup> Les secrets de fabrication ou d’affaires des parties seront sauvegardés.
+[^68-1]
 
-<sup>2</sup> Il ne sera donné connaissance à la partie adverse des moyens de preuve propres à révéler de tels secrets que dans la mesure compatible avec leur sauvegarde.
+<sup>1</sup> Les secrets de fabrication ou d’affaires des parties sont sauvegardés.
+
+<sup>2</sup> Il n’est donné connaissance à la partie adverse des moyens de preuve propres à révéler de tels secrets que dans la mesure compatible avec leur sauvegarde.
+
+[^68-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Vente ou destruction de produits ou d’installations
 
@@ -1423,12 +1573,13 @@ Est passible de poursuites civiles et pénales, conformément aux dispositions c
 
 <sup>1</sup> En cas de condamnation, le juge peut ordonner la confiscation et la réalisation ou la destruction des produits fabriqués illicitement ou des instruments, de l’outillage et des autres moyens destinés principalement à leur fabrication.[^69-1]
 
-<sup>2</sup> Le produit net de la vente servira d’abord à payer l’amende, puis les frais d’enquête et les frais judiciaires, et enfin à régler la créance, définitivement fixée, de la partie adverse en dommages-intérêts et en couverture de ses frais de procès; l’excédent reviendra à l’ancien propriétaire des objets vendus.
+<sup>2</sup> Le produit net de la vente sert d’abord à payer l’amende, puis les frais d’enquête et les frais judiciaires, et enfin à régler la créance, définitivement fixée, de la partie adverse en dommages-intérêts et en couverture de ses frais de procès; l’excédent revient à l’ancien propriétaire des objets vendus.[^69-2]
 
-<sup>3</sup> Même en cas d’acquittement ou de rejet de l’action, il peut ordonner la destruction des instruments, de l’outillage et des autres moyens destinés principalement à la violation du brevet.[^69-2]
+<sup>3</sup> Même en cas d’acquittement ou de rejet de l’action, il peut ordonner la destruction des instruments, de l’outillage et des autres moyens destinés principalement à la violation du brevet.[^69-3]
 
 [^69-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> juil. 1995 ([RO 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
-[^69-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> juil. 1995 ([RO 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
+[^69-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^69-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> juil. 1995 ([RO 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
 
 ### E. Publication du jugement
 
@@ -1453,15 +1604,19 @@ Les tribunaux communiquent gratuitement à l’IPI les jugements exécutoires en
 
 ### G. Interdiction d’échelonner les actions
 
-[^tit3-chap1-lvlG-1]
-
-[^tit3-chap1-lvlG-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-
 #### Art. 71
 
-Celui qui a intenté une des actions prévues aux art. 72, 73, 74 ou 81 et qui, dans la suite, en se fondant sur un autre brevet, actionne à nouveau la même personne en raison du même acte ou d’un acte analogue, supportera les frais judiciaires et les dépens qu’entraînera le nouveau procès, à moins qu’il ne rende vraisemblable qu’il n’a pas été en mesure, sans qu’il y ait eu faute de sa part, de faire valoir aussi l’autre brevet dans la procédure antérieure.
+[^71-1]
 
-### Chapitre 2 Dispositions spéciales à la protection de droit civil
+Celui qui a intenté une des actions prévues aux art. 72, 73, 74 ou 81 et qui, par la suite, en se fondant sur un autre brevet, actionne à nouveau la même personne en raison du même acte ou d’un acte analogue, supporte les frais judiciaires et les dépens qu’entraîne le nouveau procès, à moins qu’il ne rende vraisemblable qu’il n’a pas été en mesure, sans qu’il y ait eu faute de sa part, de faire valoir aussi l’autre brevet dans la procédure antérieure.
+
+[^71-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 2 Dispositions spéciales à la protection de droit civil
+
+[^tit1-chap3-sec2-1]
+
+[^tit1-chap3-sec2-1]: Anciennement chapitre 2.
 
 ### A. Action en cessation de l’acte ou en suppression de l’état de fait
 
@@ -1498,10 +1653,10 @@ Celui qui justifie d’un intérêt peut intenter une action tendant à faire co
 
 - 1\. qu’un brevet déterminé existe à bon droit;
 - 2\. que le défendeur a commis l’un des actes mentionnés à l’art. 66;
-- 3\. que le demandeur n’a commis aucun des actes mentionnés à l’art. 66;
-- 4\.[^74-1] qu’un brevet déterminé ne peut être opposé au demandeur en application d’une disposition légale;
+- 3\. que le demandeur au civil n’a commis aucun des actes mentionnés à l’art. 66;
+- 4\.[^74-1] qu’un brevet déterminé ne peut être opposé au demandeur au civil en application d’une disposition légale;
 - 5\. que pour deux brevets déterminés, les conditions fixées par l’art. 36 pour l’octroi d’une licence sont remplies ou ne le sont pas;
-- 6\. que le demandeur est l’auteur de l’invention faisant l’objet d’une demande de brevet ou d’un brevet déterminé;
+- 6\. que le demandeur au civil est l’auteur de l’invention faisant l’objet d’une demande de brevet ou d’un brevet déterminé;
 - 7\.[^74-2] qu’un brevet déterminé est tombé en déchéance parce qu’il viole l’interdiction de cumuler la protection.
 
 [^74-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
@@ -1567,7 +1722,11 @@ Toute personne qui demande des mesures provisionnelles peut en particulier requ�
 
 [^7980-1]: Abrogés par l’annexe 1 ch. II 12 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Chapitre 3 Dispositions spéciales à la protection de droit pénal
+### Section 3 Dispositions spéciales à la protection de droit pénal
+
+[^tit1-chap3-sec3-1]
+
+[^tit1-chap3-sec3-1]: Anciennement chapitre 3.
 
 ### A. Dispositions pénales
 
@@ -1599,17 +1758,18 @@ Toute personne qui demande des mesures provisionnelles peut en particulier requ�
 
 ### III. Allusion fallacieuse à l’existence d’une protection
 
-[^tit3-chap3-lvlA-lvlIII-1]
+[^tit1-chap3-sec3-lvlA-lvlIII-1]
 
-[^tit3-chap3-lvlA-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec3-lvlA-lvlIII-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 82
 
 <sup>1</sup> Celui qui intentionnellement, met en circulation ou en vente ses papiers de commerce, annonces de toutes sortes, produits ou marchandises munis d’une mention propre à faire croire, à tort, que les produits ou marchandises sont protégés par la présente loi est puni de l’amende.[^82-1]
 
-<sup>2</sup> Le juge pourra ordonner la publication du jugement.
+<sup>2</sup> Le juge peut ordonner la publication du jugement.[^82-2]
 
 [^82-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^82-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Application des dispositions générales du CP
 
@@ -1654,19 +1814,20 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 <sup>1</sup> Si l’inculpé soulève l’exception de la nullité du brevet, le juge peut lui impartir un délai convenable pour intenter l’action en nullité, en l’avertissant des conséquences de son inaction; si le brevet n’a pas été examiné quant à la nouveauté et à l’activité inventive et si le juge a des doutes quant à sa validité, ou si l’inculpé rend vraisemblables certaines circonstances faisant paraître l’exception de nullité comme fondée, le juge peut impartir au lésé un délai convenable pour intenter l’action tendant à faire constater que le brevet existe à bon droit, en l’avertissant également des conséquences de son inaction.[^86-1]
 
-<sup>2</sup> Si l’action est introduite en temps utile, la procédure pénale sera suspendue jusqu’à ce que l’action ait fait l’objet d’une décision définitive; entre-temps la prescription sera suspendue.
+<sup>2</sup> Si l’action est introduite en temps utile, la procédure pénale est suspendue jusqu’à ce que l’action ait fait l’objet d’une décision définitive; entre-temps la prescription est suspendue.[^86-2]
 
-<sup>3</sup> …[^86-2]
+<sup>3</sup> …[^86-3]
 
 [^86-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^86-2]: Abrogé par l’annexe ch. 11 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^86-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^86-3]: Abrogé par l’annexe ch. 11 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
-### Chapitre 4 Interventions lors de l’introduction de marchandises sur le territoire douanier ou de leur acheminement hors de celui‑ci
+### Section 4 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
 
-[^tit3-chap4-1][^tit3-chap4-2]
+[^tit1-chap3-sec4-1][^tit1-chap3-sec4-2]
 
-[^tit3-chap4-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^tit3-chap4-2]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^tit1-chap3-sec4-1]: Anciennement chapitre 4. Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec4-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Dénonciation de marchandises suspectes
 
@@ -1757,15 +1918,15 @@ Lorsque, à la suite d’une demande d’intervention au sens de l’art. 86*b*,
 [^86e-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 [^86e-2]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
+### F. Information concernant la demande de destruction des marchandises
+
 ### I. Procédure
 
-[^tit3-chap4-lvlE-lvlI-1]
+[^tit1-chap3-sec4-lvlF-lvlI-1]
 
-[^tit3-chap4-lvlE-lvlI-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^tit1-chap3-sec4-lvlF-lvlI-1]: Nouvelle teneur selon le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 86f
-
-F. Information concernant la demande de destruction des marchandises
 
 <sup>1</sup> …[^86f-1]
 
@@ -1831,7 +1992,7 @@ Avant la destruction des marchandises, l’OFDF prélève des spécimens ou des 
 
 #### Art. 86l
 
-[^86k-2]
+[^86l-1]
 
 <sup>1</sup>
 
@@ -1844,15 +2005,13 @@ S’il s’agit d’un petit envoi, l’OFDF retient les marchandises:
 
 <sup>3</sup> L’autorité compétente informe le déclarant, le possesseur ou le propriétaire de son soupçon et de la rétention des marchandises et lui signifie que les marchandises seront détruites s’il ne s’y oppose pas expressément dans les dix jours ouvrables à compter de la réception de l’information.
 
-<sup>4</sup> Si le déclarant, le possesseur ou le propriétaire s’oppose expressément à la destruction dans le délai visé à l’al. 3, l’autorité compétente en informe le requérant. Pour la suite de la procédure, les art. 86*c*, al. 3 et 4, 86*d*, 86*e* et 86*k* s’appliquent par analogie.
+<sup>4</sup> Si le déclarant, le possesseur ou le propriétaire s’oppose expressément à la destruction dans le délai visé à l’al. 3, l’autorité compétente en informe le demandeur. Pour la suite de la procédure, les art. 86*c*, al. 3 et 4, 86*d*, 86*e* et 86*k* s’appliquent par analogie.
 
-<sup>5</sup> Si le déclarant, le possesseur ou le propriétaire consent à la destruction ou s’il ne donne pas son avis dans le délai prévu à l’al. 3, l’autorité compétente détruit les marchandises aux frais du requérant au plus tôt trois mois à compter de l’information visée à l’al. 3 ou les confie au requérant en vue de leur destruction si celui-ci l’a requis conformément à l’art. 86*b*, al. 3. Toute demande de dommages-intérêts du requérant à l’égard du déclarant, du possesseur ou du propriétaire est exclue.
+<sup>5</sup> Si le déclarant, le possesseur ou le propriétaire consent à la destruction ou s’il ne donne pas son avis dans le délai prévu à l’al. 3, l’autorité compétente détruit les marchandises aux frais du demandeur au plus tôt trois mois à compter de l’information visée à l’al. 3 ou les confie au demandeur en vue de leur destruction si celui-ci l’a requis conformément à l’art. 86*b*, al. 3. Toute demande de dommages-intérêts du demandeur à l’égard du déclarant, du possesseur ou du propriétaire est exclue.
 
-<sup>6</sup> L’autorité compétente informe le requérant de la quantité des marchandises détruites en vertu de l’al. 5, de leur nature ainsi que des expéditeurs en Suisse ou à l’étranger.
+<sup>6</sup> L’autorité compétente informe le demandeur de la quantité des marchandises détruites en vertu de l’al. 5, de leur nature ainsi que des expéditeurs en Suisse ou à l’étranger.
 
-[^86k-2]: Introduit par le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
-
-## Titre quatrième …
+[^86l-1]: Introduit par le ch. I 6 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 87 à 90
 
@@ -1902,19 +2061,21 @@ S’il s’agit d’un petit envoi, l’OFDF retient les marchandises:
 
 [^107108-1]: Abrogés par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titre cinquième Demandes de brevet européen et brevets européens
+## Titre 2 Demandes de brevet européen et brevets européens
 
-[^tit5-1]
+[^tit2-1][^tit2-2]
 
-[^tit5-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-1]: Anciennement titre cinquième.
+[^tit2-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 1 Droit applicable
+### Section 1 Droit applicable
 
-[^tit5-chap1-1]
+[^tit2-sec1-1][^tit2-sec1-2]
 
-[^tit5-chap1-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec1-1]: Anciennement chapitre 1.
+[^tit2-sec1-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Champ d’application de la loi; relation avec la convention sur le brevet européen
+### Champ d’application de la loi; relation avec la Convention sur le brevet européen
 
 #### Art. 109
 
@@ -1922,34 +2083,33 @@ S’il s’agit d’un petit envoi, l’OFDF retient les marchandises:
 
 <sup>1</sup> Le présent titre s’applique aux demandes de brevet européen et aux brevets européens qui produisent effet en Suisse.
 
-<sup>2</sup> Les autres dispositions de la présente loi sont applicables, à moins que la convention du 5 octobre 1973 sur la délivrance de brevets européens (convention sur le brevet européen)[^109-2] ou le présent titre n’en disposent autrement.
+<sup>2</sup> Les autres dispositions de la présente loi sont applicables, à moins que la Convention du 5 octobre 1973 sur la délivrance de brevets européens (Convention sur le brevet européen)[^109-2] ou le présent titre n’en disposent autrement.[^109-3]
 
-<sup>3</sup> Le texte de la convention sur le brevet européen qui lie la Suisse l’emporte sur la présente loi.
+<sup>3</sup> Le texte de la Convention sur le brevet européen[^109-4] qui lie la Suisse l’emporte sur la présente loi.
 
 [^109-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^109-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+[^109-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^109-4]: Nouvelle expression selon le ch. I al. 2 let. b de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Chapitre 2 Effets de la demande de brevet européen et du brevet européen, modifications quant à l’existence du brevet européen
+### Section 2 Effets de la demande de brevet européen et du brevet européen, modifications quant à l’existence du brevet européen
 
-[^tit5-chap2-1]
+[^tit2-sec2-1][^tit2-sec2-2]
 
-[^tit5-chap2-1]: Introduit par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); FF 1976 II 1). Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit2-sec2-1]: Anciennement chapitre 2.
+[^tit2-sec2-2]: Introduit par le ch. I de la LF du 17 déc. 1976, avec effet au 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); FF 1976 II 1). Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 ### A. Principe
 
 ### I. Effets
 
-[^tit5-chap2-lvlA-lvlI-1]
-
-[^tit5-chap2-lvlA-lvlI-1]: Nouvelle teneur selon l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’Acte portant révision de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 13 déc. 2007 ([RO 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-
 #### Art. 110
 
 [^110-1]
 
-La demande de brevet européen à laquelle une date de dépôt a été attribuée et le brevet européen produisent en Suisse les mêmes effets qu’une demande de brevet présentée en bonne et due forme à l’IPI et qu’un brevet délivré par ce bureau.
+La demande de brevet européen à laquelle une date de dépôt a été attribuée et le brevet européen produisent en Suisse les mêmes effets qu’une demande de brevet présentée en bonne et due forme à l’IPI et qu’un brevet délivré par ce dernier.
 
-[^110-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^110-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### II. Modifications quant à l’existence du brevet
 
@@ -1967,7 +2127,7 @@ Toute modification quant à l’existence du brevet européen résultant d’une
 
 [^111-1]
 
-<sup>1</sup> La demande de brevet européen publiée ne confère pas au requérant la protection prévue à l’art. 64 de la convention sur le brevet européen.
+<sup>1</sup> La demande de brevet européen publiée ne confère pas au demandeur la protection prévue à l’art. 64 de la Convention sur le brevet européen.
 
 <sup>2</sup> Toutefois, le lésé peut se prévaloir, par l’action en dommages-intérêts, du dommage causé par le défendeur depuis le moment où celui-ci a eu connaissance du contenu de la demande de brevet européen, mais au plus tard depuis le jour de la publication de la demande par l’Office européen des brevets.
 
@@ -1979,11 +2139,12 @@ Toute modification quant à l’existence du brevet européen résultant d’une
 
 [^112116-1]: Abrogés par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’ac. sur l’application de l’art. 65 de la conv. sur le brevet européen et à la modification de la L sur les brevets, avec effet au 1<sup>er</sup> mai 2008 ([RO 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### Chapitre 3 Administration du brevet européen
+### Section 3 Administration du brevet européen
 
-[^tit5-chap3-1]
+[^tit2-sec3-1][^tit2-sec3-2]
 
-[^tit5-chap3-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec3-1]: Anciennement chapitre 3.
+[^tit2-sec3-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Registre suisse des brevets européens
 
@@ -2017,11 +2178,12 @@ L’IPI publie les inscriptions portées au registre suisse des brevets europée
 
 [^120-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par l’annexe ch. 3 de la LF du 20 mars 2009 sur les conseils en brevets, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
-### Chapitre 4 Transformation de la demande de brevet européen
+### Section 4 Transformation de la demande de brevet européen
 
-[^tit5-chap4-1]
+[^tit2-sec4-1][^tit2-sec4-2]
 
-[^tit5-chap4-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec4-1]: Anciennement chapitre 4.
+[^tit2-sec4-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Causes de la transformation
 
@@ -2034,7 +2196,7 @@ L’IPI publie les inscriptions portées au registre suisse des brevets europée
 La demande de brevet européen peut être transformée en demande de brevet suisse:
 
 - a.[^121-2] dans le cas prévu à l’art. 135, al. 1, let. a, de la Convention sur le brevet européen;
-- b. en cas d’inobservation du délai prévu par l’art. 14, al. 2, de la convention sur le brevet européen, lorsque la demande initiale a été présentée en italien;
+- b. en cas d’inobservation du délai prévu par l’art. 14, al. 2, de la Convention sur le brevet européen, lorsque la demande initiale a été présentée en italien;
 - c.[^121-3] …
 
 <sup>2</sup> …[^121-4]
@@ -2064,27 +2226,28 @@ La demande de brevet européen peut être transformée en demande de brevet suis
 
 [^123-1]
 
-Si la langue dans laquelle le texte initial de la demande de brevet européen est rédigé n’est pas une langue officielle suisse, l’IPI impartit au requérant un délai pour en présenter une traduction dans une langue officielle suisse.
+Si le texte initial de la demande de brevet européen est rédigé dans une autre langue qu’une langue officielle suisse ou que l’anglais, l’IPI impartit au demandeur un délai pour en présenter une traduction dans une de ces langues.
 
-[^123-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^123-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### D. Réserve en faveur de la convention sur le brevet européen
+### D. Réserve en faveur de la Convention sur le brevet européen
 
 #### Art. 124
 
 [^124-1]
 
-<sup>1</sup> Sous réserve de l’art. 137, al. 1, de la convention sur le brevet européen, les dispositions en vigueur pour les demandes de brevet suisse s’appliquent aux demandes de brevet issues de la transformation.
+<sup>1</sup> Sous réserve de l’art. 137, al. 1, de la Convention sur le brevet européen, les dispositions en vigueur pour les demandes de brevet suisse s’appliquent aux demandes de brevet issues de la transformation.
 
 <sup>2</sup> Les revendications d’une demande de brevet issue de la transformation du brevet européen ne peuvent pas être rédigées de telle manière que la protection conférée par le brevet s’en trouve étendue.
 
 [^124-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 5 Dispositions concernant la protection de droit civil et de droit pénal
+### Section 5 Dispositions concernant la protection de droit civil et de droit pénal
 
-[^tit5-chap5-1]
+[^tit2-sec5-1][^tit2-sec5-2]
 
-[^tit5-chap5-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec5-1]: Anciennement chapitre 5.
+[^tit2-sec5-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Interdiction de cumuler la protection
 
@@ -2157,11 +2320,12 @@ Le juge peut suspendre la procédure portant sur un brevet européen et notammen
 
 [^129-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 6 Commissions rogatoires émanant de l’Office européen des brevets
+### Section 6 Commissions rogatoires émanant de l’Office européen des brevets
 
-[^tit5-chap6-1]
+[^tit2-sec6-1][^tit2-sec6-2]
 
-[^tit5-chap6-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec6-1]: Anciennement chapitre 6.
+[^tit2-sec6-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### Autorité de transmission
 
@@ -2173,39 +2337,43 @@ L’IPI reçoit les commissions rogatoires émanant de l’Office européen des 
 
 [^130-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titre sixième Demandes internationales de brevet
+## Titre 3 Demandes internationales de brevet
 
-[^tit6-1]
+[^tit3-1][^tit3-2]
 
-[^tit6-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-1]: Anciennement titre sixième.
+[^tit3-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 1 Droit applicable
+### Section 1 Droit applicable
 
-[^tit6-chap1-1]
+[^tit3-sec1-1][^tit3-sec1-2]
 
-[^tit6-chap1-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-sec1-1]: Anciennement chapitre 1.
+[^tit3-sec1-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Champ d’application de la loi; relation avec le traité de coopération
+### Champ d’application de la loi; relation avec le Traité de coopération
 
 #### Art. 131
 
 [^131-1]
 
-<sup>1</sup> Le présent titre s’applique aux demandes internationales de brevet au sens du traité de coopération en matière de brevets, du 19 juin 1970 (traité de coopération)[^131-2], pour lesquelles l’IPI agit en tant qu’office récepteur, office désigné ou office élu.[^131-3]
+<sup>1</sup> Le présent titre s’applique aux demandes internationales de brevet au sens du Traité de coopération[^131-2] en matière de brevets, du 19 juin 1970 (Traité de coopération)[^131-3], pour lesquelles l’IPI agit en tant qu’office récepteur, office désigné ou office élu.[^131-4]
 
 <sup>2</sup> Les autres dispositions de la présente loi sont applicables, à moins que le traité de coopération ou le présent titre n’en dispose autrement.
 
-<sup>3</sup> Le texte du traité de coopération qui lie la Suisse l’emporte sur la présente loi.
+<sup>3</sup> Le texte du Traité de coopération qui lie la Suisse l’emporte sur la présente loi.
 
 [^131-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^131-2]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
-[^131-3]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^131-2]: Nouvelle expression selon le ch. I al. 2 let. c de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il a été tenu compte de cette mod. dans tout le texte.
+[^131-3]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
+[^131-4]: Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### Chapitre 2 Demandes déposées en Suisse
+### Section 2 Demandes déposées en Suisse
 
-[^tit6-chap2-1]
+[^tit3-sec2-1][^tit3-sec2-2]
 
-[^tit6-chap2-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-sec2-1]: Anciennement chapitre 2.
+[^tit3-sec2-2]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Office récepteur
 
@@ -2213,7 +2381,7 @@ L’IPI reçoit les commissions rogatoires émanant de l’Office européen des 
 
 [^132-1]
 
-L’IPI agit en tant qu’office récepteur au sens de l’art. 2 du traité de coopération pour les demandes internationales émanant de ressortissants suisses ou de personnes qui ont leur siège social ou leur domicile en Suisse.
+L’IPI agit en tant qu’office récepteur au sens de l’art. 2 du Traité de coopération pour les demandes internationales émanant de ressortissants suisses ou de personnes qui ont leur siège social ou leur domicile en Suisse.
 
 [^132-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
@@ -2223,19 +2391,20 @@ L’IPI agit en tant qu’office récepteur au sens de l’art. 2 du traité de 
 
 [^133-1]
 
-<sup>1</sup> Le traité de coopération et, à titre complémentaire, la présente loi s’appliquent à la procédure devant l’IPI agissant en tant qu’office récepteur.
+<sup>1</sup> Le Traité de coopération et, à titre complémentaire, la présente loi s’appliquent à la procédure devant l’IPI agissant en tant qu’office récepteur.
 
-<sup>2</sup> En sus des taxes prescrites par le traité de coopération, la demande internationale donne lieu au paiement d’une taxe de transmission perçue par l’IPI.
+<sup>2</sup> En sus des taxes prescrites par le Traité de coopération, la demande internationale donne lieu au paiement d’une taxe de transmission perçue par l’IPI.
 
 <sup>3</sup> L’art. 13 n’est pas applicable.
 
 [^133-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Chapitre 3 Demandes désignant la Suisse; office élu
+### Section 3 Demandes désignant la Suisse; office élu
 
-[^tit6-chap3-1]
+[^tit3-sec3-1][^tit3-sec3-2]
 
-[^tit6-chap3-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit3-sec3-1]: Anciennement chapitre 3.
+[^tit3-sec3-2]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### A. Office désigné et office élu
 
@@ -2243,7 +2412,7 @@ L’IPI agit en tant qu’office récepteur au sens de l’art. 2 du traité de 
 
 [^134-1]
 
-L’IPI est office désigné et office élu au sens de l’art. 2 du traité de coopération, pour les demandes internationales requérant la protection de l’invention en Suisse, si celles-ci n’ont pas l’effet d’une demande de brevet européen.
+L’IPI est office désigné et office élu au sens de l’art. 2 du Traité de coopération, pour les demandes internationales requérant la protection de l’invention en Suisse, si celles-ci n’ont pas l’effet d’une demande de brevet européen.
 
 [^134-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
@@ -2255,9 +2424,9 @@ L’IPI est office désigné et office élu au sens de l’art. 2 du traité de 
 
 [^135-1]
 
-Si une date de dépôt lui a été accordée, la demande internationale, pour laquelle l’IPI agit en tant qu’office désigné, produit en Suisse les mêmes effets qu’une demande de brevet suisse présentée en bonne et due forme auprès de ce bureau.
+Si une date de dépôt lui a été accordée, la demande internationale pour laquelle l’IPI agit en tant qu’office désigné produit en Suisse les mêmes effets qu’une demande de brevet suisse présentée en bonne et due forme auprès de ce dernier.
 
-[^135-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^135-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### II. Droit de priorité
 
@@ -2275,9 +2444,9 @@ Même si la première demande a été déposée en Suisse ou seulement pour la S
 
 [^137-1]
 
-Les art. 111 et 112 de la présente loi s’appliquent par analogie aux demandes internationales publiées selon l’art. 21 du traité de coopération, pour lesquelles l’IPI est office désigné.
+L’art. 111 s’applique par analogie aux demandes internationales publiées selon l’art. 21 du Traité de coopération pour lesquelles l’IPI agit en tant qu’office désigné.
 
-[^137-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^137-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Conditions de forme
 
@@ -2285,22 +2454,28 @@ Les art. 111 et 112 de la présente loi s’appliquent par analogie aux demandes
 
 [^138-1]
 
-Le requérant doit, à l’intention de l’IPI, dans un délai de 30 mois à compter de la date de dépôt ou de priorité:
+Le demandeur doit, à l’intention de l’IPI, dans un délai de 30 mois à compter de la date de dépôt ou de priorité:[^138-2]
 
 - a. indiquer par écrit le nom de l’inventeur;
 - b. livrer les indications relatives à la source (art. 49*a*);
 - c. payer la taxe de dépôt;
-- d. présenter une traduction dans une langue officielle suisse, si la demande internationale n’est pas rédigée dans une de ces langues.
+- d.[^138-3] présenter une traduction dans une langue officielle suisse ou en anglais, si la demande internationale n’est pas rédigée dans une de ces langues.
 
 [^138-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^138-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^138-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### D. …
+### D. Rapport complémentaire sur l’état de la technique
 
 #### Art. 139
 
 [^139-1]
 
-[^139-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+<sup>1</sup> Un rapport complémentaire sur l’état de la technique est établi et publié pour chaque demande internationale au sens de l’art. 135.
+
+<sup>2</sup> L’IPI peut renoncer au rapport complémentaire. En pareil cas, il publie une mention correspondante.
+
+[^139-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### E. Interdiction de cumuler la protection
 
@@ -2314,18 +2489,19 @@ Le requérant doit, à l’intention de l’IPI, dans un délai de 30 mois à co
 
 [^140-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> juin 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titre septième Certificats complémentaires de protection
+## Titre 4 Certificats complémentaires de protection
 
-[^tit7-1][^tit7-2]
+[^tit4-1][^tit4-2]
 
-[^tit7-1]: Introduit par le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
-[^tit7-2]: Nouvelle teneur selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
+[^tit4-1]: Anciennement titre septième. Introduit par le ch. I de la LF du 3 fév. 1995, en vigueur depuis le 1<sup>er</sup> sept. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit4-2]: Nouvelle teneur selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
 
-### Chapitre 1 Certificats complémentaires de protection pour les médicaments
+### Section 1 Certificats complémentaires de protection pour les médicaments
 
-[^tit7-chap1-1]
+[^tit4-sec1-1][^tit4-sec1-2]
 
-[^tit7-chap1-1]: Tit. introduit par le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
+[^tit4-sec1-1]: Anciennement chapitre 1.
+[^tit4-sec1-2]: Tit. introduit par le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
 
 ### A. Principe
 
@@ -2412,20 +2588,20 @@ La demande de certificat doit être déposée:
 
 #### Art. 140g
 
-L’IPI délivre le certificat en l’inscrivant au registre des brevets.
+L’IPI délivre le certificat en l’inscrivant au registre des certificats complémentaires de protection[^140g-1].
+
+[^140g-1]: Nouvelle expression selon le ch. I al. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 ### H. Taxes
 
 #### Art. 140h
 
-<sup>1</sup> Le certificat donne lieu au paiement d’une taxe de dépôt et d’annuités.
+[^140h-1]
 
-<sup>2</sup> Les annuités doivent être payées à l’avance et en une fois pour la durée totale du certificat.[^140h-1]
+L’obtention et le maintien en vigueur d’un certificat ainsi que le traitement de requêtes spéciales présupposent le paiement des taxes prévues à cet effet par l’IPI en vertu de l’art. 13 de la loi fédérale du 24 mars 1995 sur le statut et les tâches de l’Institut Fédéral de la Propriété Intellectuelle[^140h-2].
 
-<sup>3</sup> …[^140h-2]
-
-[^140h-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^140h-2]: Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^140h-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^140h-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 ### I. Extinction prématurée; suspension
 
@@ -2470,7 +2646,7 @@ Le certificat est nul si:
 
 #### Art. 140l
 
-<sup>1</sup> Le Conseil fédéral règle la procédure de délivrance des certificats, leur inscription au registre des brevets ainsi que les publications de l’IPI.
+<sup>1</sup> Le Conseil fédéral règle la procédure de délivrance des certificats, leur inscription au registre des certificats complémentaires de protection ainsi que les publications de l’IPI.
 
 <sup>2</sup> Il tient compte de la réglementation dans l’UE.[^140l-1]
 
@@ -2480,13 +2656,17 @@ Le certificat est nul si:
 
 #### Art. 140m
 
-Les dispositions des titres premier, deuxième, troisième et cinquième de la présente loi s’appliquent par analogie, dans la mesure où les dispositions relatives aux certificats ne prévoient rien.
+[^140m-1]
 
-### Chapitre 2 Prolongation de la durée des certificats complémentaires de protection pour les médicaments
+Les dispositions des titres 1 et 2 s’appliquent par analogie dans la mesure où les dispositions relatives aux certificats ne prévoient rien.
 
-[^tit7-chap2-1]
+[^140m-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-[^tit7-chap2-1]: Introduit par le ch. I de la LF du 9 oct. 1998 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346). Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+### Section 2 Prolongation de la durée des certificats complémentaires de protection pour les médicaments
+
+[^tit4-sec2-1]
+
+[^tit4-sec2-1]: Anciennement chapitre 2. Introduit par le ch. I de la LF du 9 oct. 1998 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346). Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### A. Conditions
 
@@ -2515,7 +2695,7 @@ L’IPI prolonge de six mois la durée de la protection des certificats délivr�
 
 #### Art. 140p
 
-L’IPI prolonge la durée de la protection du certificat en l’inscrivant au registre des brevets.
+L’IPI prolonge la durée de la protection du certificat en l’inscrivant au registre des certificats complémentaires de protection.
 
 ### D. Taxe
 
@@ -2535,15 +2715,15 @@ La prolongation de la durée de la protection du certificat donne lieu au paieme
 
 #### Art. 140s
 
-<sup>1</sup> Le Conseil fédéral règle la procédure d’octroi de la prolongation de la durée de la protection des certificats, l’inscription correspondante au registre des brevets ainsi que les publications de l’IPI.
+<sup>1</sup> Le Conseil fédéral règle la procédure d’octroi de la prolongation de la durée de la protection des certificats, l’inscription correspondante au registre des certificats complémentaires de protection ainsi que les publications de l’IPI.
 
 <sup>2</sup> Il tient compte de la réglementation dans l’UE.
 
-### Chapitre 2*a* Certificats complémentaires de protection pédiatriques pour les médicaments
+### Section 3 Certificats complémentaires de protection pédiatriques pour les médicaments
 
-[^tit7-chap2a-1]
+[^tit4-sec3-1]
 
-[^tit7-chap2a-1]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec3-1]: Anciennement chapitre 2*a*. Introduit par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### A. Conditions
 
@@ -2611,11 +2791,11 @@ Le certificat pédiatrique est nul:
 
 Les art. 140*a*, al. 1<sup>bis</sup> et 2, 140*d*, 140*g*, 140*i*, 140*l*, al. 1, et 140*m* s’appliquent par analogie.
 
-### Chapitre 3 Certificats complémentaires de protection pour les produits phytosanitaires
+### Section 4 Certificats complémentaires de protection pour les produits phytosanitaires
 
-[^tit7-chap3-1]
+[^tit4-sec4-1]
 
-[^tit7-chap3-1]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec4-1]: Anciennement chapitre 3. Introduit par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 140z
 
@@ -2630,24 +2810,25 @@ Sont considérés comme des principes actifs les substances ou micro-organismes,
 - a. contre les organismes nuisibles;
 - b. sur les végétaux, parties de végétaux ou produits végétaux.
 
-## Titre final: Dispositions finales et transitoires
+## Titre 5 Dispositions finales
 
-[^u1-1]
+[^tit5-1][^tit5-2]
 
-[^u1-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit5-1]: Anciennement titre final.
+[^tit5-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Mesures d’exécution
 
 #### Art. 141
 
-[^u1-141-1]
+[^141-1]
 
 <sup>1</sup> Le Conseil fédéral prend les mesures nécessaires à l’exécution de la présente loi.
 
-<sup>2</sup> Il peut en particulier édicter des dispositions sur l’institution des examinateurs et des divisions d’opposition, sur la répartition des affaires entre eux et sur la procédure à suivre devant eux, ainsi que sur les délais et les taxes.[^u1-141-2]
+<sup>2</sup> Il peut en particulier édicter des dispositions sur l’institution des examinateurs et des divisions d’opposition, sur la répartition des affaires entre eux et sur la procédure à suivre devant eux, ainsi que sur les délais et les taxes.[^141-2]
 
-[^u1-141-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^u1-141-2]: Nouvelle teneur selon l’annexe ch. 23 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^141-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^141-2]: Nouvelle teneur selon l’annexe ch. 23 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B. Passage de l’ancien au nouveau droit
 
@@ -2655,46 +2836,48 @@ Sont considérés comme des principes actifs les substances ou micro-organismes,
 
 #### Art. 142
 
-[^u1-142-1]
+[^142-1]
 
-Les brevets qui ne sont pas encore tombés en déchéance le jour de l’entrée en vigueur de la modification du 22 juin 2007 de la présente loi sont régis dès cette date par le nouveau droit. Les causes de nullité continuent toutefois d'être régies par l'ancien droit.[^u1-142-2]
+Les brevets qui ne sont pas encore tombés en déchéance le jour de l’entrée en vigueur de la modification du 22 juin 2007 de la présente loi sont régis dès cette date par le nouveau droit. Les causes de nullité continuent toutefois d’être régies par l’ancien droit.[^142-2]
 
-[^u1-142-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^u1-142-2]: Phrase introduite par l’annexe ch. 3 de la LF du 20 mars 2009 sur les conseils en brevets, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
+[^142-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^142-2]: Phrase introduite par l’annexe ch. 3 de la LF du 20 mars 2009 sur les conseils en brevets, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 327](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
 ### II. Demandes de brevet
 
 #### Art. 143
 
-[^u1-143-1]
+[^143-1]
 
 <sup>1</sup> Les demandes de brevet pendantes le jour de l’entrée en vigueur de la modification du 22 juin 2007 de la présente loi sont régies dès cette date par le nouveau droit.
 
-<sup>2</sup> Continuent toutefois à être réglées par l’ancien droit:
+<sup>2</sup>
+
+Continuent toutefois à être réglées par l’ancien droit:
 
 - a. l’immunité dérivée d’une exposition;
 - b. la brevetabilité, si les conditions dont elle dépend sont plus favorables selon l’ancien droit.
 
-[^u1-143-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^143-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 144
 
-[^u1-144-1]
+[^144-1]
 
-[^u1-144-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^144-1]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### III. Responsabilité civile
 
 #### Art. 145
 
-[^u1-145-1]
+[^145-1]
 
 <sup>1</sup> La responsabilité civile est réglée par les dispositions en vigueur lors de l’accomplissement de l’acte.
 
-<sup>2</sup> Les art. 75 et 77, al. 5, ne sont applicables qu’aux contrats de licence conclus ou confirmés après l’entrée en vigueur de la modification du 22 juin 2007 de la présente loi.[^u1-145-2]
+<sup>2</sup> Les art. 75 et 77, al. 5, ne sont applicables qu’aux contrats de licence conclus ou confirmés après l’entrée en vigueur de la modification du 22 juin 2007 de la présente loi.[^145-2]
 
-[^u1-145-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^u1-145-2]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^145-1]: Introduit par le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^145-2]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### C. Certificats complémentaires de protection pour les produits phytosanitaires
 
@@ -2702,22 +2885,22 @@ Les brevets qui ne sont pas encore tombés en déchéance le jour de l’entrée
 
 #### Art. 146
 
-[^u1-146-1]
+[^146-1]
 
-<sup>1</sup> Un certificat complémentaire de protection peut être délivré pour tout produit qui, au moment de l’entrée en vigueur de la modification du 9 octobre 1998[^u1-146-2] de la présente loi, est protégé par un brevet et pour lequel l’autorisation de mise sur le marché visée à l’art. 140*b* a été octroyée après le 1<sup>er</sup> janvier 1985.
+<sup>1</sup> Un certificat complémentaire de protection peut être délivré pour tout produit qui, au moment de l’entrée en vigueur de la modification du 9 octobre 1998[^146-2] de la présente loi, est protégé par un brevet et pour lequel l’autorisation de mise sur le marché visée à l’art. 140*b* a été octroyée après le 1<sup>er</sup> janvier 1985.
 
 <sup>2</sup> La demande de certificat doit être déposée dans les six mois qui suivent l’entrée en vigueur de la modification du 9 octobre 1998 de la présente loi. Si le délai n’est pas respecté, l’IPI déclare la demande irrecevable.
 
-[^u1-146-1]: Introduit par le ch. I de la LF du 3 fév. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nouvelle teneur selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
-[^u1-146-2]: [RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346.
+[^146-1]: Introduit par le ch. I de la LF du 3 fév. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nouvelle teneur selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
+[^146-2]: [RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346.
 
 ### II. Brevets arrivés à expiration
 
 #### Art. 147
 
-[^u1-147-1]
+[^147-1]
 
-<sup>1</sup> Des certificats sont également délivrés sur la base de brevets qui ont expiré au terme de leur durée maximale, entre le 8 février 1997 et l’entrée en vigueur de la modification du 9 octobre 1998[^u1-147-2] de la présente loi.
+<sup>1</sup> Des certificats sont également délivrés sur la base de brevets qui ont expiré au terme de leur durée maximale, entre le 8 février 1997 et l’entrée en vigueur de la modification du 9 octobre 1998[^147-2] de la présente loi.
 
 <sup>2</sup> La durée de protection du certificat est calculée d’après l’art. 140*e*; ses effets ne commencent qu’au moment de la publication de la demande de certificat.
 
@@ -2725,42 +2908,80 @@ Les brevets qui ne sont pas encore tombés en déchéance le jour de l’entrée
 
 <sup>4</sup> L’art. 48, al. 1, 2 et 4, s’applique par analogie à la période qui s’écoule entre l’expiration du brevet et la publication de la demande.
 
-[^u1-147-1]: Introduit par le ch. I de la LF du 3 fév. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nouvelle teneur selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
-[^u1-147-2]: [RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346.
+[^147-1]: Introduit par le ch. I de la LF du 3 fév. 1995 ([RO 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879): [FF 1993 III 666](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nouvelle teneur selon le ch. I de la LF du 9 oct. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346).
+[^147-2]: [RO 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1346.
 
 ### D. Disposition transitoire relative à la modification du 16 décembre 2005 de la loi sur les brevets
 
 #### Art. 148
 
-[^u1-148-1]
+[^148-1]
 
-<sup>1</sup> Il n’est pas nécessaire de présenter une traduction du fascicule du brevet conformément à l’art. 113, al. 1[^u1-148-2], pour les brevets européens qui ne sont pas publiés dans une langue officielle suisse si la mention de la délivrance du brevet ou, dans le cas du maintien du brevet sous sa forme modifiée, la mention de la décision concernant l’opposition ou, dans le cas de la limitation du brevet, la mention de la limitation a été publiée dans le Bulletin européen des brevets moins de trois mois avant l’entrée en vigueur de la modification du 16 décembre 2005 de la présente loi.
+<sup>1</sup> Il n’est pas nécessaire de présenter une traduction du fascicule du brevet conformément à l’art. 113, al. 1[^148-2], pour les brevets européens qui ne sont pas publiés dans une langue officielle suisse si la mention de la délivrance du brevet ou, dans le cas du maintien du brevet sous sa forme modifiée, la mention de la décision concernant l’opposition ou, dans le cas de la limitation du brevet, la mention de la limitation a été publiée dans le Bulletin européen des brevets moins de trois mois avant l’entrée en vigueur de la modification du 16 décembre 2005 de la présente loi.
 
-<sup>2</sup> Après l’entrée en vigueur de la modification du 16 décembre 2005 de la présente loi, les art. 114[^u1-148-3] et 116[^u1-148-4] demeurent applicables aux traductions qui ont été remises au défendeur conformément à l’art. 112[^u1-148-5], rendues accessibles au public par l’entremise de l’IPI ou présentées à l’IPI conformément à l’art. 113[^u1-148-6].
+<sup>2</sup> Après l’entrée en vigueur de la modification du 16 décembre 2005 de la présente loi, les art. 114[^148-3] et 116[^148-4] demeurent applicables aux traductions qui ont été remises au défendeur conformément à l’art. 112[^148-5], rendues accessibles au public par l’entremise de l’IPI ou présentées à l’IPI conformément à l’art. 113[^148-6].
 
-[^u1-148-1]: Introduit par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’ac. sur l’application de l’art. 65 de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 1<sup>er</sup> mai 2008 ([RO 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-[^u1-148-2]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-3]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-4]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-5]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-6]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
+[^148-1]: Introduit par l’art. 2 de l’AF du 16 déc. 2005 relatif à l’approbation de l’ac. sur l’application de l’art. 65 de la conv. sur le brevet européen et à la mod. de la L sur les brevets, en vigueur depuis le 1<sup>er</sup> mai 2008 ([RO 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^148-2]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
+[^148-3]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^148-4]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
+[^148-5]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^148-6]: [RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
 
 ### E. Disposition transitoire de la modification du 18 mars 2016 de la loi sur les brevets
 
 #### Art. 149
 
-[^u1-149-1]
+[^149-1]
 
-<sup>1</sup> Durant les cinq ans suivant l’entrée en vigueur de la modification du 18 mars 2016 de la présente loi[^u1-149-2], la demande de prolongation de la durée d’un certificat peut être déposée au plus tard six mois avant son expiration.
+<sup>1</sup> Durant les cinq ans suivant l’entrée en vigueur de la modification du 18 mars 2016 de la présente loi[^149-2], la demande de prolongation de la durée d’un certificat peut être déposée au plus tard six mois avant son expiration.
 
 <sup>2</sup> Durant les cinq ans suivant l’entrée en vigueur de la présente modification, la demande d’un certificat pédiatrique peut être déposée au plus tard six mois avant l’expiration de la durée maximale du brevet.
 
-<sup>3</sup> Si l’autorisation de mise sur le marché (art. 9 LPTh[^u1-149-3]) d’un médicament contenant un produit (art. 140*n*, al. 1, phrase introductive, et art. 140*t*, al. 1, phrase introductive) est demandée dans les six mois après l’entrée en vigueur de la présente modification, les art. 140*n*, al. 1, let. b, et 140*t*, al. 1, let. b, ne s’appliquent pas.
+<sup>3</sup> Si l’autorisation de mise sur le marché (art. 9 LPTh[^149-3]) d’un médicament contenant un produit (art. 140*n*, al. 1, phrase introductive, et art. 140*t*, al. 1, phrase introductive) est demandée dans les six mois après l’entrée en vigueur de la présente modification, les art. 140*n*, al. 1, let. b, et 140*t*, al. 1, let. b, ne s’appliquent pas.
 
-Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1956[^u1-149-4] Art. 89 al. 2, 90 al. 2 et 3, 91 al. 2 et 3, 96 al. 1 et 3, 101 al. 1, 105 al. 3: 1<sup>er</sup> octobre 1959[^u1-149-5]
+[^149-1]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^149-2]: [RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
+[^149-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
-[^u1-149-1]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^u1-149-2]: [RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
-[^u1-149-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
-[^u1-149-4]: ACF du 18 oct. 1955
-[^u1-149-5]: ACF du 8 sept. 1959 ([RO 1959 891](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879))
+### F. Dispositions transitoires de la modification du 15 mars 2024
+
+### I. Demande de brevet
+
+#### Art. 150
+
+[^150-1]
+
+<sup>1</sup> Les demandes de brevet pendantes le jour de l’entrée en vigueur de la modification du 15 mars 2024 sont régies dès cette date par le nouveau droit.
+
+<sup>2</sup> Si la taxe d’examen a été payée avant l’entrée en vigueur de cette modification et que la demande n’est pas suspendue à cette date, l’objet de l’examen, l’établissement du rapport sur l’état de la technique et la publication du rapport sont régis par les art. 58*a* et 59 dans leur ancienne teneur. Les art. 57*a* et 139 ne s’appliquent pas.
+
+<sup>3</sup> Le demandeur peut déclarer qu’il souhaite qu’une demande au sens de l’al. 2 soit examinée selon le nouveau droit.
+
+<sup>4</sup> Si une demande de brevet est suspendue après l’entrée en vigueur de cette modification, elle est dans tous les cas régie par le nouveau droit.
+
+[^150-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### II. Causes de nullité
+
+#### Art. 151
+
+[^151-1]
+
+Les brevets qui ne sont pas encore tombés en déchéance le jour de l’entrée en vigueur de la modification du 15 mars 2024 sont régis dès cette date par le nouveau droit. L’appréciation des actes accomplis avant l’entrée en vigueur de cette modification est régie par l’ancien droit.
+
+[^151-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### III. Opposition
+
+#### Art. 152
+
+[^152-1]
+
+Si le délai de recours contre la délivrance d’un brevet est échu le jour de l’entrée en vigueur de la modification du 15 mars 2024, l’art. 59*c* dans son ancienne teneur s’applique. La décision sur opposition est susceptible de recours devant le Tribunal fédéral des brevets.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1956[^152-2] Art. 89 al. 2, 90 al. 2 et 3, 91 al. 2 et 3, 96 al. 1 et 3, 101 al. 1, 105 al. 3: 1<sup>er</sup> octobre 1959[^152-3]
+
+[^152-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^152-2]: ACF du 18 oct. 1955
+[^152-3]: ACF du 8 sept. 1959 ([RO 1959 891](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879))

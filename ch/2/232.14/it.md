@@ -4,22 +4,22 @@ title: "Legge federale del 25 giugno 1954 sui brevetti d'invenzione (Legge sui b
 short: LBI
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: it
-version: 2025-07-01
+version: 2027-01-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20250701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale sui brevetti d’invenzione
+# Legge federale sui brevetti e i certificati protettivi complementari
 
 (Legge sui brevetti, LBI)[^t-1]
 
-del 25 giugno 1954 (Stato 1° luglio 2025)
+del 25 giugno 1954 (Stato 1° gennaio 2027)
 
-[^t-1]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^t-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -30,28 +30,43 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta l’all. n. 6 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-## Titolo primo: Disposizioni generali
+## Titolo primo: Brevetti
 
-### Capo primo: Condizioni richieste per l’ottenimento del brevetto ed effetti del brevetto
+[^tit1-1]
+
+[^tit1-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Capitolo 1: Disposizioni generali
+
+[^tit1-chap1-1]
+
+[^tit1-chap1-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Sezione 1: Condizioni richieste per l’ottenimento del brevetto ed effetti del brevetto
+
+[^tit1-chap1-sec1-1]
+
+[^tit1-chap1-sec1-1]: Introdotto testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Invenzioni brevettabili
 
 ### I. Principio
 
-[^tit1-chap1-lvlA-lvlI-1]
+[^tit1-chap1-sec1-lvlA-lvlI-1]
 
-[^tit1-chap1-lvlA-lvlI-1]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit1-chap1-sec1-lvlA-lvlI-1]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 #### Art. 1
 
-<sup>1</sup> Si rilasciano brevetti d’invenzione per le invenzioni nuove utilizzabili industrialmente.
+<sup>1</sup> Si rilasciano brevetti per le invenzioni nuove atte ad avere un’applicazione industriale.[^1-1]
 
-<sup>2</sup> Ciò che risulta in modo evidente dallo stato della tecnica (art. 7 cpv. 2) non costituisce un’invenzione brevettabile.[^1-1]
+<sup>2</sup> Ciò che risulta in modo evidente dallo stato della tecnica (art. 7 cpv. 2) non costituisce un’invenzione brevettabile.[^1-2]
 
-<sup>3</sup> I brevetti sono rilasciati senza garanzia dello Stato.[^1-2]
+<sup>3</sup> I brevetti sono rilasciati senza garanzia dello Stato.[^1-3]
 
-[^1-1]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-[^1-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^1-2]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^1-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### II. Il corpo umano e le sue parti
 
@@ -120,10 +135,11 @@ Sono inoltre esclusi dal brevetto:
 
 #### Art. 4
 
-Durante la procedura davanti all’Istituto federale della proprietà intellettuale[^4-1] (IPI)[^4-2] è considerato legittimato a chiedere il rilascio del brevetto colui che deposita la domanda.
+[^4-1]
 
-[^4-1]: Nuova espr. giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
-[^4-2]: Nuova designazione giusta l’all. n. 6 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.
+Durante la procedura davanti all’Istituto federale della proprietà intellettuale (IPI) è considerato legittimato a chiedere il rilascio del brevetto colui che deposita la domanda di brevetto (depositante).
+
+[^4-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Menzione dell’inventore
 
@@ -131,20 +147,21 @@ Durante la procedura davanti all’Istituto federale della proprietà intellettu
 
 #### Art. 5
 
-<sup>1</sup> Il richiedente deve designare, per iscritto, l’inventore all’IPI.[^5-1]
+<sup>1</sup> Il depositante[^5-1] deve designare, per iscritto, l’inventore all’IPI.[^5-2]
 
-<sup>2</sup> La persona designata dal richiedente è menzionata come inventore nel registro dei brevetti, nella pubblicazione della domanda di brevetto e del rilascio del brevetto, nonché nell’esposto d’invenzione.[^5-2]
+<sup>2</sup> La persona designata dal depositante è menzionata come inventore nel registro dei brevetti, nella pubblicazione della domanda di brevetto e del rilascio del brevetto, nonché nell’esposto d’invenzione.[^5-3]
 
-<sup>3</sup> Il capoverso 2 è applicabile per analogia quando un terzo produce una sentenza esecutiva, la quale accerti che l’inventore è lui e non la persona designata dal richiedente.
+<sup>3</sup> Il capoverso 2 è applicabile per analogia quando un terzo produce una sentenza esecutiva, la quale accerti che l’inventore è lui e non la persona designata dal depositante.
 
-[^5-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^5-2]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^5-1]: Nuova espr. giusta la cifra I cpv. 1 lett. b della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^5-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^5-3]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. Rinuncia alla menzione
 
 #### Art. 6
 
-<sup>1</sup> La menzione prevista nell’articolo 5 capoverso 2 è omessa se l’inventore designato dal richiedente vi rinuncia.
+<sup>1</sup> La menzione prevista nell’articolo 5 capoverso 2 è omessa se l’inventore designato dal depositante vi rinuncia.
 
 <sup>2</sup> La rinuncia anticipata dell’inventore a essere menzionato come tale non ha effetto.
 
@@ -162,15 +179,16 @@ Durante la procedura davanti all’Istituto federale della proprietà intellettu
 
 <sup>3</sup>
 
-Per quanto riguarda la novità, lo stato della tecnica comprende anche il contenuto di un deposito anteriore o fruente di una priorità anteriore per la Svizzera nella versione originaria, la cui data di deposito o di priorità precede quella indicata nel capoverso 2 e che è stata resa accessibile al pubblico soltanto a tale data o dopo tale data, purché:
+Per quanto riguarda la novità, lo stato della tecnica comprende anche il contenuto di una domanda di brevetto anteriore o fruente di una priorità anteriore per la Svizzera nella versione che ha determinato la data di deposito, la cui data di deposito o di priorità precede quella indicata nel capoverso 2 e che è stata resa accessibile al pubblico soltanto a tale data o dopo tale data, purché:[^7-2]
 
 - a. nel caso di una domanda internazionale, siano adempite le condizioni di cui all’articolo 138;
-- b. nel caso di una domanda europea derivata da una domanda internazionale, siano adempite le condizioni di cui all’articolo 153 capoverso 5 della Convenzione del 5 ottobre 1973 sul brevetto europeo nella versione riveduta del 29 novembre 2000[^7-2];
-- c. nel caso di una domanda europea, per la designazione valida della Svizzera siano state versate le tasse di cui all’articolo 79 capoverso 2 della Convenzione del 5 ottobre 1973 sul brevetto europeo nella versione riveduta del 29 novembre 2000.[^7-3]
+- b. nel caso di una domanda europea derivata da una domanda internazionale, siano adempite le condizioni di cui all’articolo 153 capoverso 5 della Convenzione del 5 ottobre 1973 sul brevetto europeo nella versione riveduta del 29 novembre 2000[^7-3];
+- c. nel caso di una domanda europea, per la designazione valida della Svizzera siano state versate le tasse di cui all’articolo 79 capoverso 2 della Convenzione del 5 ottobre 1973 sul brevetto europeo nella versione riveduta del 29 novembre 2000.[^7-4]
 
 [^7-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^7-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
-[^7-3]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^7-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^7-3]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+[^7-4]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. …
 
@@ -188,8 +206,8 @@ Per quanto riguarda la novità, lo stato della tecnica comprende anche il conten
 
 Se l’invenzione è stata resa accessibile al pubblico durante i sei mesi che precedono la data di deposito o la data di priorità, questa divulgazione non è compresa nello stato della tecnica se essa risulta direttamente o indirettamente:[^7b-2]
 
-- a. da un abuso evidente a svantaggio del richiedente o del suo dante causa, oppure
-- b. dal fatto che il richiedente o il suo dante causa abbia esposto l’invenzione in un’esposizione internazionale ufficiale o ufficialmente riconosciuta ai sensi della Convenzione del 22 novembre 1928[^7b-3] concernente le esposizioni internazionali, e se il richiedente l’ha dichiarato all’atto del deposito ed ha fornito in tempo utile i sufficienti documenti a sostegno.
+- a. da un abuso evidente a svantaggio del depositante o del suo dante causa, oppure
+- b. dal fatto che il depositante o il suo dante causa abbia esposto l’invenzione in un’esposizione internazionale ufficiale o ufficialmente riconosciuta ai sensi della Convenzione del 22 novembre 1928[^7b-3] concernente le esposizioni internazionali, e se il depositante l’ha dichiarato all’atto del deposito ed ha fornito in tempo utile i sufficienti documenti a sostegno.
 
 [^7b-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^7b-2]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
@@ -353,17 +371,18 @@ Gli effetti del brevetto non si estendono:
 Chi è parte in una procedura amministrativa secondo la presente legge e non ha né domicilio né sede in Svizzera deve designare un recapito in Svizzera, tranne nel caso in cui il diritto internazionale o le autorità estere competenti autorizzino l’autorità a notificare documenti direttamente nello Stato in questione.[^13-2] Un recapito in Svizzera non è necessario per:[^13-3]
 
 - a. la presentazione di una domanda di brevetto allo scopo di far riconoscere una data di deposito;
-- b. il pagamento di emolumenti, la presentazione di traduzioni nonché la presentazione e il trattamento di rivendicazioni dopo il rilascio del brevetto, a condizione che tali rivendicazioni non diano adito a contestazioni.[^13-4]
+- b.[^13-4] il pagamento di tasse, la presentazione di traduzioni nonché la presentazione e il trattamento di richieste dopo il rilascio del brevetto, a condizione che tali richieste non diano adito a contestazioni.[^13-5]
 
-<sup>1bis</sup> L’IPI è autorizzato a dichiarare alle autorità estere competenti che, in materia di proprietà intellettuale, in Svizzera è ammessa la notificazione diretta, sempre che alla Svizzera sia concessa la reciprocità.[^13-5]
+<sup>1bis</sup> L’IPI è autorizzato a dichiarare alle autorità estere competenti che, in materia di proprietà intellettuale, in Svizzera è ammessa la notificazione diretta, sempre che alla Svizzera sia concessa la reciprocità.[^13-6]
 
 <sup>2</sup> Sono riservate le disposizioni concernenti l’esercizio professionale del patrocinio.
 
 [^13-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^13-2]: Nuovo testo giusta l’all. n. 4 del DF del 28 set. 2018 concernente l’approvazione e l’attuazione della Conv. n. 94 del Consiglio d’Europa sulla notificazione all’estero dei documenti in materia amministrativa, in vigore dal 1° apr. 2019 ([RU 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5061](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
 [^13-3]: Nuovo testo giusta l’all. n. 3 della LF del 20 mar. 2009 sui consulenti in brevetti, in vigore dal 1° lug. 2011 ([RU 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 305](https://fedlex.data.admin.ch/eli/fga/2008/143)).
-[^13-4]: Nuovo testo giusta l’art. 2 del DF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^13-5]: Introdotto dall’all. n. 4 del DF del 28 set. 2018 concernente l’approvazione e l’attuazione della Conv. n. 94 del Consiglio d’Europa sulla notificazione all’estero dei documenti in materia amministrativa, in vigore dal 1° apr. 2019 ([RU 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5061](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
+[^13-4]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^13-5]: Nuovo testo giusta l’art. 2 del DF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^13-6]: Introdotto dall’all. n. 4 del DF del 28 set. 2018 concernente l’approvazione e l’attuazione della Conv. n. 94 del Consiglio d’Europa sulla notificazione all’estero dei documenti in materia amministrativa, in vigore dal 1° apr. 2019 ([RU 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5061](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
 
 ### K. Durata del brevetto
 
@@ -400,24 +419,28 @@ Il brevetto si estingue:
 
 [^16-1]
 
-Richiedenti o titolari di brevetti, di cittadinanza svizzera, possono invocare le disposizioni del testo, che vincola la Svizzera, della Convenzione di Parigi del 20 marzo 1883[^16-2] per la protezione della proprietà industriale, se siffatte disposizioni sono più favorevoli di quelle della presente legge.
+Depositanti o titolari di brevetti di cittadinanza svizzera possono invocare le disposizioni del testo, che vincola la Svizzera, della Convenzione di Parigi del 20 marzo 1883[^16-2] per la protezione della proprietà industriale (Convenzione di Parigi), se siffatte disposizioni sono più favorevoli di quelle della presente legge.
 
-[^16-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^16-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027),[0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),[0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^16-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^16-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
-### Capo 2: Diritto di priorità
+### Sezione 2: Diritto di priorità
+
+[^tit1-chap1-sec2-1]
+
+[^tit1-chap1-sec2-1]: Originario Capo 2.
 
 ### A. Condizioni ed effetti della priorità
 
-[^tit1-chap2-lvlA-1]
+[^tit1-chap1-sec2-lvlA-1]
 
-[^tit1-chap2-lvlA-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec2-lvlA-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 17
 
-<sup>1</sup> Se l’invenzione è oggetto di un deposito regolare di una domanda di brevetto, di modello d’utilità o di certificato d’inventore, effettuato o esplicante i suoi effetti in uno Stato Parte alla Convenzione di Parigi del 20 marzo 1883[^17-1] per la protezione della proprietà industriale o all’Accordo del 15 aprile 1994[^17-2] sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio (Allegato 1C dell’Accordo che istituisce l’Organizzazione mondiale del commercio), secondo l’articolo 4 della Convenzione di Parigi tale deposito dà origine a un diritto di priorità. Questo diritto può essere rivendicato per la domanda di brevetto depositata in Svizzera per la medesima invenzione entro dodici mesi a decorrere dal primo deposito.[^17-3]
+<sup>1</sup> Se l’invenzione è oggetto di un deposito regolare di una domanda di brevetto, di modello d’utilità o di certificato d’inventore, effettuato o esplicante i suoi effetti in uno Stato Parte alla Convenzione di Parigi[^17-1] per la protezione della proprietà industriale o all’Accordo del 15 aprile 1994[^17-2] sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio (Allegato 1C dell’Accordo che istituisce l’Organizzazione mondiale del commercio), secondo l’articolo 4 della Convenzione di Parigi tale deposito dà origine a un diritto di priorità. Questo diritto può essere rivendicato per la domanda di brevetto depositata in Svizzera per la medesima invenzione entro dodici mesi a decorrere dal primo deposito.[^17-3]
 
-<sup>1bis</sup> È parificato al primo deposito in uno Stato parte della Convenzione di Parigi per la protezione industriale il primo deposito fatto in uno Stato che non fa parte della Convenzione ma accorda la reciprocità alla Svizzera.[^17-4]
+<sup>1bis</sup> È parificato al primo deposito in uno Stato parte Convenzione di Parigi per la protezione industriale il primo deposito fatto in uno Stato che non fa parte della Convenzione ma accorda la reciprocità alla Svizzera.[^17-4]
 
 <sup>1ter</sup> Salvo disposizioni contrarie della presente legge o dell’ordinanza, il capoverso 1 e l’articolo 4 della Convenzione di Parigi si applicano per analogia in caso di un primo deposito svizzero.[^17-5]
 
@@ -425,7 +448,7 @@ Richiedenti o titolari di brevetti, di cittadinanza svizzera, possono invocare l
 
 <sup>3</sup> …[^17-6]
 
-[^17-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)¸**0.232.02**, **0.232.03**, **0.232.04**
+[^17-1]: Nuova espr. giusta la cifra I cpv. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^17-3]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 [^17-4]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
@@ -484,7 +507,11 @@ Qualora l’inventore o il suo avente causa ottengano, per la medesima invenzion
 
 [^2123-1]: Abrogati dalla cifra I della LF del 17 dic. 1976, con effetto dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Capo 3: Modificazioni nell’esistenza del brevetto
+### Sezione 3: Modificazioni nell’esistenza del brevetto
+
+[^tit1-chap1-sec3-1]
+
+[^tit1-chap1-sec3-1]: Originario Capo 3.
 
 ### A. Rinuncia parziale
 
@@ -498,28 +525,24 @@ Qualora l’inventore o il suo avente causa ottengano, per la medesima invenzion
 
 Il titolare di un brevetto può rinunciarvi parzialmente chiedendo all’IPI:
 
-- a. di sopprimere una rivendicazione (art. 51 e 55); o
+- a.[^24-2] di sopprimere una rivendicazione (art. 51 e 55);
 - b. di limitare una rivendicazione indipendente riunendo alla stessa una o più rivendicazioni da essa dipendenti; o
-- c. di limitare in altro modo una rivendicazione indipendente; in questo caso, la rivendicazione limitata deve riferirsi alla stessa invenzione e definire una forma d’esecuzione prevista tanto nel fascicolo del brevetto pubblicato quanto nella versione della domanda di brevetto che ha determinato la data di deposito.
+- c.[^24-3] di limitare in altro modo una rivendicazione indipendente; in questo caso, l’oggetto del brevetto modificato non può estendersi oltre il contenuto della domanda di brevetto nella versione che ha determinato la data di deposito e il campo di protezione del brevetto non può essere ampliato.
 
-<sup>2</sup> …[^24-2]
+<sup>2</sup> …[^24-4]
 
 [^24-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^24-2]: Abrogato dall’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, con effetto dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^24-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^24-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^24-4]: Abrogato dall’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, con effetto dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### II. Costituzione di nuovi brevetti
+### II. ...
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Se, in seguito ad una rinuncia parziale, il brevetto presentasse rivendicazioni che non possono coesistere secondo gli articoli 52 e 55, esso deve essere limitato in conformità.
-
-<sup>2</sup> Il titolare del brevetto può domandare, per le rivendicazioni in tal modo eliminate, la costituzione di uno o più nuovi brevetti, i quali avranno come data di deposito quella del brevetto iniziale.
-
-<sup>3</sup> Una volta iscritta la rinuncia parziale nel registro dei brevetti, l’IPI assegna al titolare del brevetto un termine per domandare la costituzione di nuovi brevetti conformemente al capoverso 2; trascorso il termine, la domanda non può più essere accolta.
-
-[^25-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^25-1]: Abrogato dalla cifra I della LF del 15 mar. 2024, con effetto dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Azione per nullità
 
@@ -534,12 +557,15 @@ Su azione, il giudice dichiara nullo il brevetto se:
 - a. l’oggetto del brevetto non è brevettabile secondo gli articoli 1, 1*a*, 1*b* e 2;
 - b. l’invenzione non è esposta nel fascicolo del brevetto in modo tale che un esperto del ramo possa attuarla;
 - c. l’oggetto del brevetto si estende oltre il contenuto della domanda di brevetto nella versione che ha determinato la data di deposito;
-- d. il titolare del brevetto non è né l’inventore né il suo avente causa e non aveva, per altri titoli, diritto al rilascio del brevetto.[^26-1]
+- c<sup>bis</sup>.[^26-1] il campo di protezione del brevetto è stato ampliato; o
+- d.[^26-2] il titolare del brevetto non è né l’inventore né il suo avente causa e non ha, per altri titoli, diritto al rilascio del brevetto.[^26-3]
 
-<sup>2</sup> Se un brevetto è stato rilasciato con riconoscimento di una priorità e la domanda di brevetto di cui si rivendica la priorità non si è conclusa con un brevetto, il titolare del brevetto può essere costretto dal giudice a indicarne i motivi e a presentare i relativi mezzi di prova; in caso di rifiuto, il giudice apprezzerà liberamente questo atteggiamento.[^26-2]
+<sup>2</sup> Se un brevetto è stato rilasciato con riconoscimento di una priorità e la domanda di brevetto di cui si rivendica la priorità non si è conclusa con un brevetto, il titolare del brevetto può essere costretto dal giudice a indicarne i motivi e a presentare i relativi mezzi di prova; in caso di rifiuto, il giudice apprezzerà liberamente questo atteggiamento.[^26-4]
 
-[^26-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^26-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^26-1]: Introdotta dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-3]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^26-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### II. Nullità parziale
 
@@ -549,7 +575,9 @@ Su azione, il giudice dichiara nullo il brevetto se:
 
 <sup>2</sup> Egli pone le parti in grado di pronunciarsi sulla nuova redazione che intende dare alla rivendicazione; egli può inoltre domandare il parere dell’IPI.
 
-<sup>3</sup> L’articolo 25 è applicabile per analogia.
+<sup>3</sup> …[^27-1]
+
+[^27-1]: Abrogato dalla cifra I della LF del 15 mar. 2024, con effetto dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### III. Legittimazione all’azione
 
@@ -571,7 +599,11 @@ L’effetto di un brevetto rilasciato è considerato inesistente sin dalla data 
 
 [^28a-1]: Introdotto dall’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### Capo 4: Modificazioni concernenti il diritto al rilascio del brevetto e il diritto al brevetto; concessione di licenze
+### Sezione 4: Modificazioni concernenti il diritto al rilascio del brevetto e il diritto al brevetto; concessione di licenze
+
+[^tit1-chap1-sec4-1]
+
+[^tit1-chap1-sec4-1]: Originario Capo 4.
 
 ### A. Azione per cessione
 
@@ -579,19 +611,20 @@ L’effetto di un brevetto rilasciato è considerato inesistente sin dalla data 
 
 #### Art. 29
 
-<sup>1</sup> Quando la domanda di brevetto è stata depositata da una persona che, secondo l’articolo 3, non aveva diritto al rilascio del brevetto, l’avente diritto può chiedere la cessione della domanda di brevetto oppure, se il brevetto è già stato rilasciato, chiedere la cessione del brevetto o promuovere l’azione per nullità.
+<sup>1</sup> Quando la domanda di brevetto è stata presentata da un depositante che, secondo l’articolo 3, non ha diritto al rilascio del brevetto, l’avente diritto può chiedere la cessione della domanda di brevetto oppure, se il brevetto è già stato rilasciato, chiedere la cessione del brevetto o promuovere l’azione per nullità.[^29-1]
 
-<sup>2</sup> …[^29-1]
+<sup>2</sup> …[^29-2]
 
-<sup>3</sup> Se il giudice ordina la cessione, le licenze o gli altri diritti concessi nel frattempo a terzi cessano di essere validi; tuttavia, se hanno già utilizzato professionalmente l’invenzione in Svizzera in buona fede oppure hanno già fatto a questo scopo preparativi speciali, i terzi hanno diritto alla concessione di una licenza non esclusiva.[^29-2]
+<sup>3</sup> Se il giudice ordina la cessione, le licenze o gli altri diritti concessi nel frattempo a terzi cessano di essere validi; tuttavia, se hanno già utilizzato professionalmente l’invenzione in Svizzera in buona fede oppure hanno già fatto a questo scopo preparativi speciali, i terzi hanno diritto alla concessione di una licenza non esclusiva.[^29-3]
 
 <sup>4</sup> È riservato il risarcimento dei danni.
 
-<sup>5</sup> L’articolo 40*e* è applicabile per analogia.[^29-3]
+<sup>5</sup> L’articolo 40*e* è applicabile per analogia.[^29-4]
 
-[^29-1]: Abrogato dalla cifra I della LF del 17 dic. 1976, con effetto dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^29-2]: Nuovo testo giusta l’all. cifra II n. 4 della L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
-[^29-3]: Introdotto dalla cifra I della LF del 16 dic. 1994 ([RU 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 923](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^29-2]: Abrogato dalla cifra I della LF del 17 dic. 1976, con effetto dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^29-3]: Nuovo testo giusta l’all. cifra II n. 4 della L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
+[^29-4]: Introdotto dalla cifra I della LF del 16 dic. 1994 ([RU 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [FF 1994 IV 923](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. Cessione parziale
 
@@ -599,9 +632,13 @@ L’effetto di un brevetto rilasciato è considerato inesistente sin dalla data 
 
 <sup>1</sup> Se l’attore non riesce a provare il suo diritto quanto a tutte le rivendicazioni, il giudice ordina la cessione della domanda di brevetto o del brevetto eliminando le rivendicazioni per le quali l’attore non ha provato il suo diritto.[^30-1]
 
-<sup>2</sup> In questo caso, l’articolo 25 è applicabile per analogia.
+<sup>2</sup> Il convenuto può chiedere, per le rivendicazioni eliminate, la costituzione di uno o più nuovi brevetti, i quali hanno come data di deposito quella del brevetto iniziale.[^30-2]
+
+<sup>3</sup> Una volta iscritta la cessione parziale nel registro dei brevetti, l’IPI assegna al convenuto un termine per chiedere la costituzione di nuovi brevetti conformemente al capoverso 2. Trascorso il termine, la richiesta non è più ammessa.[^30-3]
 
 [^30-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^30-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^30-3]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### III. Termine
 
@@ -641,13 +678,17 @@ L’effetto di un brevetto rilasciato è considerato inesistente sin dalla data 
 
 #### Art. 34
 
-<sup>1</sup> Il richiedente o il titolare del brevetto può autorizzare terzi a utilizzare l’invenzione (concessione di licenze).
+<sup>1</sup> Il depositante o il titolare del brevetto può autorizzare terzi a utilizzare l’invenzione (concessione di licenze).
 
 <sup>2</sup> Se la domanda di brevetto o il brevetto appartengono a più persone, una licenza può essere concessa solo con il consenso di tutti gli aventi diritto.
 
 <sup>3</sup> Le licenze non iscritte nel registro dei brevetti non sono opponibili a chi abbia in buona fede acquistato diritti sul brevetto.
 
-### Capo 5: Restrizioni legali ai diritti derivanti dal brevetto
+### Sezione 5: Restrizioni legali ai diritti derivanti dal brevetto
+
+[^tit1-chap1-sec5-1]
+
+[^tit1-chap1-sec5-1]: Originario Capo 5.
 
 ### A. Diritto di coutenza; veicoli stranieri
 
@@ -693,9 +734,9 @@ Il Consiglio federale determina le specie vegetali che beneficiano del privilegi
 
 ### I. Invenzioni dipendenti
 
-[^tit1-chap5-lvlB-lvlI-1]
+[^tit1-chap1-sec5-lvlB-lvlI-1]
 
-[^tit1-chap5-lvlB-lvlI-1]: Nuovo testo giusta l’art. 2 n. 2 del DF del 5 ott. 2007, in vigore dal 1° set. 2008 ([RU 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [FF 2004 3723](https://fedlex.data.admin.ch/eli/fga/2004/683)).
+[^tit1-chap1-sec5-lvlB-lvlI-1]: Nuovo testo giusta l’art. 2 n. 2 del DF del 5 ott. 2007, in vigore dal 1° set. 2008 ([RU 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [FF 2004 3723](https://fedlex.data.admin.ch/eli/fga/2004/683)).
 
 #### Art. 36
 
@@ -819,7 +860,7 @@ Nel caso di un’invenzione che ha per oggetto un prodotto o un procedimento uti
 
 [^40e-1]
 
-<sup>1</sup> Le licenze previste negli articoli 36–40*d* sono rilasciate soltanto se gli sforzi del richiedente per ottenere una licenza contrattuale a condizioni adeguate di mercato, entro un termine adeguato, siano rimasti infruttuosi; per le licenze di cui all’articolo 40*d* è considerato adeguato un termine di 30 giorni feriali. Tali sforzi non sono necessari in caso di emergenza nazionale o di assoluta urgenza, oppure in caso di utilizzazione pubblica a titolo non commerciale.
+<sup>1</sup> Le licenze previste negli articoli 36–40*d* sono rilasciate soltanto se gli sforzi del depositante per ottenere una licenza contrattuale a condizioni adeguate di mercato, entro un termine adeguato, siano rimasti infruttuosi; per le licenze di cui all’articolo 40*d* è considerato adeguato un termine di 30 giorni feriali. Tali sforzi non sono necessari in caso di emergenza nazionale o di assoluta urgenza, oppure in caso di utilizzazione pubblica a titolo non commerciale.
 
 <sup>2</sup> La portata e la durata della licenza sono limitate allo scopo per il quale essa è rilasciata.
 
@@ -833,19 +874,21 @@ Nel caso di un’invenzione che ha per oggetto un prodotto o un procedimento uti
 
 [^40e-1]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Capo 6: Tasse
+### Sezione 6: Tasse
 
-[^tit1-chap6-1]
+[^tit1-chap1-sec6-1][^tit1-chap1-sec6-2]
 
-[^tit1-chap6-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec6-1]: Originario Capo 6.
+[^tit1-chap1-sec6-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 41
 
 [^41-1]
 
-Per ottenere o mantenere in vigore un brevetto e affinché particolari domande siano trattate, devono essere pagate le tasse previste nell’ordinanza.
+Per ottenere e mantenere in vigore un brevetto e affinché particolari richieste siano trattate, devono essere pagate le tasse stabilite dall’IPI in virtù dell’articolo 13 della legge federale del 24 marzo 1995[^41-2] sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale.
 
-[^41-1]: Nuovo testo giusta l’all. n. 4 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, in vigore dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^41-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 #### Art. 42 a 44
 
@@ -859,11 +902,12 @@ Per ottenere o mantenere in vigore un brevetto e affinché particolari domande s
 
 [^4546-1]: Abrogati dalla cifra I della LF del 17 dic. 1976, con effetto dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Capo 7: Proseguimento della procedura e reintegrazione nello stato anteriore
+### Sezione 7: Proseguimento della procedura e reintegrazione nello stato anteriore
 
-[^tit1-chap7-1]
+[^tit1-chap1-sec7-1][^tit1-chap1-sec7-2]
 
-[^tit1-chap7-1]: Originariamente avanti l’art. 47. Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-1]: Originario Capo 7.
+[^tit1-chap1-sec7-2]: Originariamente avanti l’art. 47. Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### A. Proseguimento della procedura
 
@@ -871,7 +915,7 @@ Per ottenere o mantenere in vigore un brevetto e affinché particolari domande s
 
 [^46a-1]
 
-<sup>1</sup> Il richiedente o il titolare del brevetto che non avesse osservato un termine previsto dalla legge o impartito dall’IPI può chiedere a quest’ultimo il proseguimento della procedura.[^46a-2]
+<sup>1</sup> Il depositante o il titolare del brevetto che non avesse osservato un termine previsto dalla legge o impartito dall’IPI può chiedere a quest’ultimo il proseguimento della procedura.[^46a-2]
 
 <sup>2</sup> La richiesta deve essere presentata entro due mesi da quando l’interessato è stato informato dall’IPI sull’inosservanza del termine, ma al più tardi dopo sei mesi dallo scadere del termine inosservato.[^46a-3] Entro questi termini egli deve inoltre eseguire integralmente l’atto omesso, completare, se necessario, la domanda di brevetto e pagare la tassa di proseguimento della procedura.
 
@@ -885,28 +929,29 @@ Il proseguimento della procedura è escluso in caso di inosservanza dei seguenti
 - b. termini per la presentazione della richiesta di proseguimento della procedura (cpv. 2);
 - c. termini per la presentazione della domanda di reintegrazione (art. 47 cpv. 2);
 - d. termini per la presentazione di una domanda di brevetto con rivendicazione del diritto di priorità e di una dichiarazione di priorità (art. 17 e 19);
-- e.[^46a-4] …
+- e.[^46a-4] termini per la presentazione della richiesta di esame (art. 58*b* cpv. 3);
 - f. termine per la modificazione degli atti tecnici (art. 58 cpv. 1);
 - g.[^46a-5] …
-- h.[^46a-6] termini per la richiesta di rilascio di un certificato protettivo complementare (art. 140*f* cpv. 1, 146 cpv. 2 e 147 cpv. 3) o di proroga della sua validità (art. 140*o* cpv. 1), nonché di rilascio di un certificato protettivo complementare pediatrico (art. 140*v* cpv. 1);
+- h.[^46a-6] termini per la domanda[^46a-7] di rilascio di un certificato protettivo complementare (art. 140*f* cpv. 1, 146 cpv. 2 e 147 cpv. 3) o di proroga della sua validità (art. 140*o* cpv. 1), nonché di rilascio di un certificato protettivo complementare pediatrico (art. 140*v* cpv. 1);
 - i. ulteriori termini stabiliti mediante ordinanza, qualora sia escluso il proseguimento della procedura in caso d’inosservanza degli stessi.
 
 [^46a-1]: Introdotto dalla cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 [^46a-2]: Nuovo testo giusta l’all. n. 23 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46a-3]: Nuovo testo giusta l’art. 2 del DF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46a-4]: Abrogata dall’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, con effetto dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^46a-4]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^46a-5]: Abrogata dall’art. 2 del DF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^46a-6]: Nuovo testo giusta l’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^46a-7]: Nuova espr. giusta la cifra I cpv. 5della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### B. Reintegrazione nello stato anteriore
 
-[^tit1-chap7-lvlB-1]
+[^tit1-chap1-sec7-lvlB-1]
 
-[^tit1-chap7-lvlB-1]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-lvlB-1]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 #### Art. 47
 
-<sup>1</sup> Il richiedente o il titolare del brevetto che rende verosimile di essere stato impedito senza sua colpa di osservare un termine previsto dalla legge o dall’ordinanza d’esecuzione oppure prescritto dall’IPI è reintegrato, se ne fa domanda, nello stato anteriore.
+<sup>1</sup> Il depositante o il titolare del brevetto che rende verosimile di essere stato impedito senza sua colpa di osservare un termine previsto dalla legge o dall’ordinanza oppure prescritto dall’IPI è reintegrato, se ne fa domanda, nello stato anteriore.[^47-1]
 
 <sup>2</sup> La domanda deve essere presentata entro due mesi dopo che è cessato l’impedimento, ma al più tardi entro il termine di un anno a contare dallo spirare del termine non osservato, all’autorità presso la quale l’atto omesso avrebbe dovuto essere compiuto; in pari tempo, l’atto omesso deve essere eseguito.
 
@@ -914,11 +959,13 @@ Il proseguimento della procedura è escluso in caso di inosservanza dei seguenti
 
 <sup>4</sup> Se la domanda viene accolta, la situazione è ristabilita come se l’atto omesso fosse stato compiuto in tempo utile; è riservato l’articolo 48.
 
+[^47-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
 ### C. Riserva favore di terzi
 
-[^tit1-chap7-lvlC-1]
+[^tit1-chap1-sec7-lvlC-1]
 
-[^tit1-chap7-lvlC-1]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-lvlC-1]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 #### Art. 48
 
@@ -938,11 +985,11 @@ Il brevetto non è opponibile a chi, nei periodi seguenti, ha utilizzato l’inv
 [^48-1]: Rinvio stralciato dall’all. n. 4 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^48-2]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### Capo 8: Rappresentanza e vigilanza
+### Sezione 8: Rappresentanza e vigilanza
 
-[^tit1-chap8-1]
+[^tit1-chap1-sec8-1]
 
-[^tit1-chap8-1]: Introdotto dall’all. n. 3 della LF del 20 mar. 2009 sui consulenti in brevetti, in vigore dal 1° lug. 2011 ([RU 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 305](https://fedlex.data.admin.ch/eli/fga/2008/143)).
+[^tit1-chap1-sec8-1]: Originario Capo 8. Introdotto dall’all. n. 3 della LF del 20 mar. 2009 sui consulenti in brevetti, in vigore dal 1° lug. 2011 ([RU 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 305](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
 ### A. Rappresen- tanza
 
@@ -962,37 +1009,46 @@ L’articolo 13 della legge del 20 marzo 2009[^48b-1] sui consulenti in brevetti
 
 [^48b-1]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
-## Titolo secondo: Rilascio del brevetto
+### Capitolo 2: Rilascio del brevetto
 
-### Capo primo: La domanda di brevetto
+[^tit1-chap2-1]
+
+[^tit1-chap2-1]: Originario Tit. secondo.
+
+### Sezione 1: La domanda di brevetto
+
+[^tit1-chap2-sec1-1]
+
+[^tit1-chap2-sec1-1]: Originario Capo primo.
 
 ### A. Forma della domanda
 
 ### I. In generale
 
-[^tit2-chap1-lvlA-lvlI-1]
+[^tit1-chap2-sec1-lvlA-lvlI-1]
 
-[^tit2-chap1-lvlA-lvlI-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlA-lvlI-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 49
 
-<sup>1</sup> Chi vuole ottenere un brevetto d’invenzione deve depositare una domanda di brevetto presso l’IPI.
+<sup>1</sup> Chi vuole ottenere un brevetto deposita una domanda di brevetto presso l’IPI.[^49-1]
 
 <sup>2</sup>
 
 La domanda di brevetto consta di:
 
 - a. un atto di richiesta inteso a ottenere il rilascio del brevetto;
-- b.[^49-1] una descrizione dell’invenzione e, per la rivendicazione di una sequenza derivata da una sequenza o una sequenza parziale di un gene, una descrizione concreta della funzione svolta dalla sequenza;
+- b.[^49-2] una descrizione dell’invenzione e, per la rivendicazione di una sequenza derivata da una sequenza o una sequenza parziale di un gene, una descrizione concreta della funzione svolta dalla sequenza;
 - c. una o più rivendicazioni;
 - d. i disegni ai quali si riferiscono la descrizione o le rivendicazioni;
-- e. un estratto.[^49-2]
+- e. un estratto.[^49-3]
 
-<sup>3</sup> …[^49-3]
+<sup>3</sup> …[^49-4]
 
-[^49-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^49-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^49-3]: Abrogato dall’all. n. 4 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^49-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^49-2]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^49-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^49-4]: Abrogato dall’all. n. 4 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
 ### II. Indicazioni sulla fonte delle risorse genetiche e del sapere tradizionale
 
@@ -1004,10 +1060,10 @@ La domanda di brevetto consta di:
 
 La domanda di brevetto deve contenere indicazioni sulla fonte:
 
-- a. delle risorse genetiche alle quali l’inventore o il richiedente ha avuto accesso, sempre che l’invenzione si fondi direttamente su tali risorse;
-- b. del sapere tradizionale di comunità indigene o locali sulle risorse genetiche alle quali l’inventore o il richiedente ha avuto accesso, sempre che l’invenzione si fondi direttamente su tale sapere.
+- a. delle risorse genetiche alle quali l’inventore o il depositante ha avuto accesso, sempre che l’invenzione si fondi direttamente su tali risorse;
+- b. del sapere tradizionale di comunità indigene o locali sulle risorse genetiche alle quali l’inventore o il depositante ha avuto accesso, sempre che l’invenzione si fondi direttamente su tale sapere.
 
-<sup>2</sup> Se la fonte non è nota né all’inventore né al richiedente, quest’ultimo lo deve confermare per scritto.
+<sup>2</sup> Se la fonte non è nota né all’inventore né al depositante, quest’ultimo lo deve confermare per scritto.
 
 [^49a-1]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1015,9 +1071,9 @@ La domanda di brevetto deve contenere indicazioni sulla fonte:
 
 ### I. In generale
 
-[^tit2-chap1-lvlB-lvlI-1]
+[^tit1-chap2-sec1-lvlB-lvlI-1]
 
-[^tit2-chap1-lvlB-lvlI-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlB-lvlI-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 50
 
@@ -1038,11 +1094,12 @@ La domanda di brevetto deve contenere indicazioni sulla fonte:
 
 <sup>2</sup> Se, per un’invenzione che ha per oggetto un prodotto costituito da materiale biologico, la produzione non può essere spiegata sufficientemente, la spiegazione deve essere completata o sostituita mediante il deposito di un campione del materiale biologico e la descrizione completata o sostituita mediante un rinvio al deposito.
 
-<sup>3</sup> L’invenzione è considerata spiegata ai sensi dell’articolo 50 soltanto se il campione del materiale biologico è stato depositato, al più tardi alla data di deposito della domanda, presso un centro di deposito riconosciuto e la domanda di brevetto, nella sua formulazione originaria, contiene indicazioni sul materiale biologico e il rinvio al deposito.
+<sup>3</sup> L’invenzione è considerata spiegata ai sensi dell’articolo 50 soltanto se il campione del materiale biologico è stato depositato, al più tardi alla data di deposito della domanda, presso un centro di deposito riconosciuto e la domanda di brevetto, nella versione che ha determinato la data di deposito, contiene indicazioni sul materiale biologico e il rinvio al deposito.[^50a-2]
 
 <sup>4</sup> Il Consiglio federale disciplina nel dettaglio le esigenze relative al deposito, alle indicazioni concernenti il materiale biologico e al rinvio al deposito, nonché l’accesso ai campioni depositati.
 
 [^50a-1]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^50a-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Rivendicazioni
 
@@ -1115,9 +1172,9 @@ L’estratto serve esclusivamente a fini d’informazione tecnica.
 
 ### I. In generale
 
-[^tit2-chap1-lvlE-lvlI-1]
+[^tit1-chap2-sec1-lvlE-lvlI-1]
 
-[^tit2-chap1-lvlE-lvlI-1]: Nuovo testo giusta l’art. 2 del DF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlE-lvlI-1]: Nuovo testo giusta l’art. 2 del DF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 56
 
@@ -1126,7 +1183,7 @@ L’estratto serve esclusivamente a fini d’informazione tecnica.
 È considerato data di deposito il giorno in cui è stato depositato l’ultimo dei seguenti elementi:
 
 - a. una richiesta esplicita o implicita di rilascio di un brevetto;
-- b. indicazioni in base alle quali è possibile accertare l’identità del richiedente;
+- b. indicazioni in base alle quali è possibile accertare l’identità del depositante;
 - c. un elemento che, a prima vista, può essere inteso come descrizione.[^56-1]
 
 <sup>2</sup> Per gli invii postali è determinante il momento in cui essi sono stati consegnati alla Posta svizzera a destinazione dell’IPI.[^56-2]
@@ -1143,32 +1200,52 @@ L’estratto serve esclusivamente a fini d’informazione tecnica.
 
 [^57-1]
 
-<sup>1</sup>
-
 Una domanda di brevetto risultante dalla divisione di una domanda anteriore riceve come data di deposito quella della domanda anteriore:
 
-- a. se, all’atto del suo deposito, è stata espressamente designata come domanda divisa;
-- b. se, all’atto del deposito della domanda divisa, la domanda anteriore era ancora pendente e
-- c. nella misura in cui il suo oggetto non si estende oltre il contenuto della domanda anteriore nella sua versione iniziale.
+- a. se, all’atto del suo deposito, è stata espressamente designata co-me domanda divisa;
+- b. se, all’atto del deposito della domanda divisa, la domanda anteriore era ancora pendente; e
+- c. nella misura in cui il suo oggetto non si estende oltre il contenuto della domanda anteriore nella versione che ne ha determinato la data di deposito.
 
-<sup>2</sup> …[^57-2]
+[^57-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-[^57-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^57-2]: Abrogato dall’art. 2 del DF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+### F. Rapporto sullo stato della tecnica
 
-### F. Modifica degli atti tecnici
+#### Art. 57a
+
+[^57a-1]
+
+<sup>1</sup> L’IPI redige e pubblica un rapporto sullo stato della tecnica.
+
+<sup>2</sup> Il rapporto sullo stato della tecnica è redatto sulla base delle rivendicazioni, tenendo debitamente conto della descrizione e, se del caso, dei disegni.
+
+<sup>3</sup> L’IPI può rinunciare a redigere un rapporto sullo stato della tecnica. In tal caso pubblica un’indicazione corrispondente.
+
+<sup>4</sup> Il Consiglio federale disciplina i compiti dell’IPI volti a determinare lo stato della tecnica, in particolare le condizioni che devono essere soddisfatte per poter rinunciare alla redazione del relativo rapporto.
+
+[^57a-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### G. Modifica degli atti tecnici
+
+[^tit1-chap2-sec1-lvlG-1]
+
+[^tit1-chap2-sec1-lvlG-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 58
 
 [^58-1]
 
-<sup>1</sup> Fintanto che la procedura di esame non è terminata, al richiedente va data almeno una possibilità di modificare gli atti tecnici.
+<sup>1</sup> Fintanto che la procedura di esame non è terminata, al depositante va data almeno una possibilità di modificare gli atti tecnici.
 
-<sup>2</sup> Gli atti tecnici non possono tuttavia essere modificati in modo tale che l’oggetto della domanda di brevetto modificata vada oltre il contenuto degli atti tecnici depositati originariamente.
+<sup>2</sup> Gli atti tecnici non possono essere modificati in modo tale che l’oggetto della domanda modificata vada oltre il contenuto della versione che ha determinato la data di deposito.[^58-2]
 
 [^58-1]: Nuovo testo giusta l’art. 2 del DF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^58-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### G. Pubblicazione della domanda di brevetto
+### H. Pubblicazione delle domande di brevetto
+
+[^tit1-chap2-sec1-lvlH-1]
+
+[^tit1-chap2-sec1-lvlH-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 58a
 
@@ -1179,65 +1256,99 @@ Una domanda di brevetto risultante dalla divisione di una domanda anteriore rice
 L’IPI pubblica le domande di brevetto:
 
 - a. senza indugio trascorsi 18 mesi dalla data di deposito oppure, se è stata rivendicata una priorità, dopo la data di priorità;
-- b. su domanda del richiedente, prima che scada il termine di cui alla lettera a.
+- b. su domanda del depositante, prima che scada il termine di cui alla lettera a.
 
-<sup>2</sup> La pubblicazione contiene la descrizione, le rivendicazioni e, se del caso, i disegni, nonché l’estratto, sempre che sia disponibile prima della conclusione dei preparativi tecnici per la pubblicazione, e, se del caso, il rapporto sullo stato della tecnica o la ricerca di tipo internazionale secondo l’articolo 59 capoverso 5. Se non sono stati pubblicati con la domanda di brevetto, il rapporto sullo stato della tecnica o la ricerca di tipo internazionale secondo l’articolo 59 capoverso 5 sono pubblicati separatamente.
+<sup>2</sup>
+
+La pubblicazione contiene:
+
+- a. la descrizione;
+- b. le rivendicazioni;
+- c. gli eventuali disegni;
+- d. l’estratto; e
+- e. il rapporto sullo stato della tecnica.[^58a-2]
+
+<sup>3</sup> Se non è stato pubblicato insieme alla domanda, il rapporto sullo stato della tecnica è pubblicato separatamente appena possibile.[^58a-3]
+
+<sup>4</sup> Le domande possono essere pubblicate in inglese se gli atti tecnici non sono redatti in una lingua ufficiale svizzera.[^58a-4]
 
 [^58a-1]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^58a-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^58a-3]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^58a-4]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### Capo 2: L’esame della domanda di brevetto
+### Sezione 2: L’esame della domanda di brevetto
 
-[^tit2-chap2-1]
+[^tit1-chap2-sec2-1]
 
-[^tit2-chap2-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap2-sec2-1]: Originario Capo 2.
 
-### A. Oggetto dell’esame
+### A. Richiesta di esame
+
+#### Art. 58b
+
+[^58b-1]
+
+<sup>1</sup> Su richiesta del depositante, l’IPI esamina se l’oggetto della domanda di brevetto soddisfa le condizioni fissate nell’articolo 59 capoversi 1 e 2.
+
+<sup>2</sup> Il depositante o un terzo può chiedere all’IPI di esaminare inoltre se l’invenzione è nuova e non risulta in modo evidente dallo stato della tecnica (art. 59 cpv. 4).
+
+<sup>3</sup> Le richieste secondo i capoversi 1 e 2 devono essere presentate entro sei mesi dalla pubblicazione, da parte dell’IPI, del rapporto sullo stato della tecnica secondo l’articolo 57*a* o dell’indicazione di rinuncia alla redazione del rapporto. Per le domande internazionali secondo l’articolo 135 il termine decorre dalla pubblicazione del rapporto complementare sullo stato della tecnica dell’IPI secondo l’articolo 139 o dell’indicazione di rinuncia alla redazione del rapporto.
+
+<sup>4</sup> La richiesta secondo il capoverso 2 non può essere ritirata.
+
+<sup>5</sup> I terzi che presentano una richiesta secondo il capoverso 2 non diventano parte nella procedura.
+
+<sup>6</sup> Il Consiglio federale disciplina le modalità della procedura.
+
+[^58b-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### B. Oggetto dell’esame
+
+[^tit1-chap2-sec2-lvlB-1]
+
+[^tit1-chap2-sec2-lvlB-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59
 
-<sup>1</sup> Se l’oggetto di una domanda di brevetto non è conforme agli articoli 1, 1*a*, 1*b* e 2 o lo è soltanto in parte, l’IPI ne informa il richiedente, indicando i motivi, e gli assegna un termine per rispondere.[^59-1]
+<sup>1</sup> Se l’oggetto di una domanda di brevetto non è conforme agli articoli 1, 1*a*, 1*b* e 2 o lo è soltanto in parte, l’IPI ne informa il depositante, indicando i motivi, e gli assegna un termine per rispondere.[^59-1]
 
-<sup>2</sup> Se la domanda di brevetto non soddisfà ad altre prescrizioni della presente legge o dell’ordinanza, l’IPI assegna al richiedente un termine per correggerne le manchevolezze.[^59-2]
+<sup>2</sup> Se la domanda di brevetto non soddisfà ad altre prescrizioni della presente legge o dell’ordinanza, l’IPI assegna al depositante un termine per correggerne le manchevolezze.[^59-2]
 
 <sup>3</sup> …[^59-3]
 
-<sup>4</sup> L’IPI non esamina se l’invenzione è nuova né se essa risulti in modo evidente dallo stato della tecnica.[^59-4]
+<sup>4</sup> L’IPI esamina unicamente su richiesta secondo l’articolo 58*b* capoverso 2 se l’invenzione è nuova e non risulta in modo evidente dallo stato della tecnica.[^59-4]
 
-<sup>5</sup>
-
-Pagando un emolumento, il richiedente può chiedere:
-
-- a. entro 14 mesi dalla data di deposito oppure, se è stata rivendicata una priorità, dopo la data di priorità, che l’IPI rediga un rapporto sullo stato della tecnica; oppure
-- b. entro sei mesi dalla data di deposito più remota, che l’IPI faccia da tramite per una ricerca di tipo internazionale.[^59-5]
-
-<sup>6</sup> Se non sono stati effettuati accertamenti ai sensi del capoverso 5, chiunque sia autorizzato a consultare gli atti secondo l’articolo 65 può chiedere, pagando un emolumento, che l’IPI rediga un rapporto sullo stato della tecnica.[^59-6]
+<sup>5 e <sup>6</sup></sup> …[^59-5]
 
 [^59-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^59-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^59-3]: Abrogato dalla cifra I della LF del 17 dic. 1976, con effetto dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^59-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^59-5]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^59-6]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^59-4]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59-5]: Abrogati dalla cifra I della LF del 15 mar. 2024, con effetto dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### B. Fine dell’esame
+### C. Fine dell’esame
+
+[^tit1-chap2-sec2-lvlC-1]
+
+[^tit1-chap2-sec2-lvlC-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59a
 
 [^59a-1]
 
-<sup>1</sup> Se le condizioni per il rilascio del brevetto sono adempiute, l’IPI comunica al richiedente che la procedura di esame è terminata.
+<sup>1</sup> Se le condizioni per il rilascio del brevetto sono adempiute, l’IPI comunica al depositante che la procedura di esame è terminata.
 
 <sup>2</sup> …[^59a-2]
 
-<sup>3</sup>
+<sup>3</sup> L’IPI respinge la domanda di brevetto se non è stata ritirata nonostante il rilascio del brevetto sia escluso in virtù dell’articolo 59 capoverso 1.[^59a-3]
 
-L’IPI respinge la domanda se:
-
-- a. non è stata ritirata nonostante che, per i motivi indicati nell’articolo 59 capoverso 1, sia escluso il rilascio del brevetto, o
-- b. non sono corrette le manchevolezze indicate secondo l’articolo 59 capoverso 2.
+<sup>4</sup> L’IPI dichiara la domanda irricevibile se le manchevolezze notificate secondo l’articolo 59 capoverso 2 non sono corrette.[^59a-4]
 
 [^59a-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^59a-2]: Abrogato dall’all. n. 4 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^59a-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59a-4]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59b
 
@@ -1245,21 +1356,24 @@ L’IPI respinge la domanda se:
 
 [^59b-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### C. Opposizione
+### D. Ricorso
 
 #### Art. 59c
 
 [^59c-1]
 
-<sup>1</sup> Chiunque può, nei nove mesi che seguono la pubblicazione dell’iscrizione nel registro dei brevetti, fare opposizione presso l’IPI contro un brevetto da esso rilasciato. L’opposizione deve essere presentata per scritto e motivata.
+<sup>1</sup> Le decisioni dell’IPI in materia di brevetti sono impugnabili dinanzi al Tribunale federale dei brevetti.
 
-<sup>2</sup> L’opposizione può vertere soltanto sul fatto che l’oggetto del brevetto è escluso dal brevetto secondo gli articoli 1*a*, 1*b* e 2.
+<sup>2</sup> I terzi hanno diritto di ricorrere se il ricorso verte sul fatto che l’oggetto del brevetto è escluso dal brevetto secondo gli articoli 1*a*, 1*b* e 2.
 
-<sup>3</sup> A seconda che accetti in tutto o in parte l’opposizione, l’IPI può revocare il brevetto oppure mantenerlo modificandone la portata. La decisione sull’opposizione è impugnabile davanti al Tribunale amministrativo federale.
+<sup>3</sup> Se nel ricorso sono invocati altri motivi, la legittimazione a ricorrere è retta dall’articolo 48 della legge federale del 20 dicembre 1968[^59c-2] sulla procedura amministrativa.
 
-<sup>4</sup> Il Consiglio federale disciplina i particolari, segnatamente la procedura.
+<sup>4</sup> I terzi legittimati possono interporre ricorso entro quattro mesi dalla pubblicazione della registrazione del brevetto.
 
-[^59c-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+<sup>5</sup> Il ricorso secondo i capoversi 2 e 3 non ha effetto sospensivo. Nella decisione l’autorità inferiore può conferire l’effetto sospensivo a un eventuale ricorso; l’autorità di ricorso, il suo presidente o il giudice dell’istruzione ha lo stesso diritto dopo il deposito del ricorso.
+
+[^59c-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59c-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 59d
 
@@ -1267,11 +1381,12 @@ L’IPI respinge la domanda se:
 
 [^59d-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Capo 3: Registro dei brevetti; pubblicazioni dell’IPI; comunicazione elettronica con le autorità
+### Sezione 3: Registro dei brevetti; pubblicazioni dell’IPI; comunicazione elettronica con le autorità
 
-[^tit2-chap3-1]
+[^tit1-chap2-sec3-1][^tit1-chap2-sec3-2]
 
-[^tit2-chap3-1]: Nuovo testo giusta l’all. n. 6 della L del 19 dic. 2003 sulla firma elettronica,in vigore dal 1° gen. 2004([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^tit1-chap2-sec3-1]: Originario Capo 3.
+[^tit1-chap2-sec3-2]: Nuovo testo giusta l’all. n. 6 della L del 19 dic. 2003 sulla firma elettronica,in vigore dal 1° gen. 2004([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 ### A. Registro dei brevetti
 
@@ -1279,15 +1394,19 @@ L’IPI respinge la domanda se:
 
 <sup>1</sup> L’IPI rilascia il brevetto iscrivendolo nel registro dei brevetti.[^60-1]
 
-<sup>1bis</sup> Il registro dei brevetti contiene in particolare le indicazioni seguenti: il numero del brevetto, i simboli della classificazione, il titolo dell’invenzione, la data di deposito, il nome e il domicilio del titolare del brevetto e, ove occorra, le indicazioni di priorità, il nome e il domicilio d’affari del mandatario, il nome dell’inventore.[^60-2]
+<sup>1bis</sup> ...[^60-2]
 
-<sup>2</sup> Esso vi iscrive inoltre tutte le modificazioni concernenti l’esistenza del brevetto o il diritto al brevetto.
+<sup>2</sup> Il Consiglio federale specifica le indicazioni che devono essere iscritte nel registro dei brevetti. In ogni caso sono iscritti il numero del brevetto, la data di deposito ed eventuali indicazioni di priorità.[^60-3]
 
-<sup>3</sup> …[^60-3]
+<sup>3</sup> Nel registro dei brevetti sono inoltre iscritte tutte le modificazioni concernenti l’esistenza del brevetto o il diritto al brevetto.[^60-4]
+
+<sup>4</sup> Se il brevetto è pubblicato in inglese, il titolo dell’invenzione e l’estratto sono tradotti in una lingua ufficiale svizzera.[^60-5]
 
 [^60-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^60-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^60-3]: Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^60-2]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 15 mar. 2024, con effetto dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-4]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-5]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Pubblicazioni
 
@@ -1300,17 +1419,18 @@ L’IPI respinge la domanda se:
 L’IPI pubblica:
 
 - a. la domanda di brevetto con le indicazioni specificate nell’articolo 58*a* capoverso 2;
-- b. l’iscrizione del brevetto nel registro dei brevetti con le indicazioni specificate nell’articolo 60 capoverso 1<sup>bis</sup>;
+- b.[^61-1] l’iscrizione del brevetto nel registro dei brevetti e le indicazioni iscritte secondo l’articolo 60 capoverso 2;
 - c. la cancellazione del brevetto dal registro dei brevetti;
-- d. le modificazioni iscritte nel registro circa l’esistenza del brevetto e il diritto al brevetto.[^61-1]
+- d. le modificazioni iscritte nel registro circa l’esistenza del brevetto e il diritto al brevetto.[^61-2]
 
-<sup>2</sup> …[^61-2]
+<sup>2</sup> …[^61-3]
 
-<sup>3</sup> L’IPI designa l’organo di pubblicazione.[^61-3]
+<sup>3</sup> L’IPI designa l’organo di pubblicazione.[^61-4]
 
-[^61-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^61-2]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^61-3]: Introdotto dalla cifra I della LF del 9 ott. 1998 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)). Nuovo testo giusta l’all. cifra II 4 della L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^61-2]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^61-3]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^61-4]: Introdotto dalla cifra I della LF del 9 ott. 1998 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)). Nuovo testo giusta l’all. cifra II 4 della L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
 
 #### Art. 62
 
@@ -1320,9 +1440,9 @@ L’IPI pubblica:
 
 ### II. Fascicolo del brevetto
 
-[^tit2-chap3-lvlB-lvlII-1]
+[^tit1-chap2-sec3-lvlB-lvlII-1]
 
-[^tit2-chap3-lvlB-lvlII-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec3-lvlB-lvlII-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
 
@@ -1330,10 +1450,11 @@ L’IPI pubblica:
 
 <sup>1</sup> L’IPI emette un fascicolo per ogni brevetto rilasciato.[^63-2]
 
-<sup>2</sup> Il fascicolo contiene la descrizione, le rivendicazioni, l’estratto e gli eventuali disegni, come anche le indicazioni contenute nel registro (art. 60 cpv. 1<sup>bis</sup>).
+<sup>2</sup> Il fascicolo contiene la descrizione, le rivendicazioni, l’estratto ed eventualmente i disegni, come anche le indicazioni iscritte secondo l’articolo 60 capoverso 2.[^63-3]
 
 [^63-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^63-2]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 63a
 
@@ -1341,16 +1462,13 @@ L’IPI pubblica:
 
 [^63a-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### C. Documento del brevetto
+### C. ...
 
 #### Art. 64
 
-<sup>1</sup> Tostochè il fascicolo del brevetto[^64-1] è pronto per essere pubblicato, l’IPI allestisce il documento del brevetto[^64-2].
+[^64-1]
 
-<sup>2</sup> Questo documento consiste nell’attestazione che le condizioni previste dalla legge per il conseguimento del brevetto sono adempiute e in un esemplare del fascicolo del brevetto.
-
-[^64-1]: Nuova denominazione giusta la cifra I della LF del 17 dic. 1976, con effetto dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Di tale mod. è tenuto conto in tutto il presente testo.
-[^64-2]: Testo corretto secondo il DCF del 9 gen. 1959 ([RU 1959 81](https://fedlex.data.admin.ch/eli/oc/1959/_77_81)).
+[^64-1]: Abrogato dalla cifra I della LF del 15 mar. 2024, con effetto dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Consultazione degli atti
 
@@ -1360,9 +1478,10 @@ L’IPI pubblica:
 
 <sup>1</sup> Dopo la pubblicazione della domanda di brevetto, chiunque può consultare il fascicolo degli atti. Il Consiglio federale può limitare il diritto di consultazione unicamente se vi si oppongono segreti di fabbricazione o d’affari oppure altri interessi preponderanti.
 
-<sup>2</sup> Il Consiglio federale definisce i casi in cui la consultazione del fascicolo degli atti è concessa prima della pubblicazione della domanda di brevetto. In particolare disciplina anche la consultazione delle domande di brevetto che sono respinte o ritirate prima della loro pubblicazione.
+<sup>2</sup> Il Consiglio federale definisce i casi in cui la consultazione del fascicolo degli atti è concessa prima della pubblicazione della domanda di brevetto. In particolare disciplina anche la consultazione delle domande di brevetto dichiarate irricevibili prima della loro pubblicazione o che sono state respinte o ritirate.[^65-2]
 
 [^65-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^65-2]: Nuovo testo del secondo per. giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### E. Comunica-zione elettronica con le autorità
 
@@ -1382,9 +1501,18 @@ L’IPI pubblica:
 
 [^65a-1]: Introdotto dall’all. n. 6 della L del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2004([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-## Titolo terzo: Sanzione civile e penale
+### Capitolo 3: Tutela giurisdizionale
 
-### Capo primo: Disposizioni comuni alla protezione di diritto civile e di diritto penale
+[^tit1-chap3-1][^tit1-chap3-2]
+
+[^tit1-chap3-1]: Originario Tit. terzo.
+[^tit1-chap3-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Sezione 1: Disposizioni comuni alla protezione di diritto civile e di diritto penale
+
+[^tit1-chap3-sec1-1]
+
+[^tit1-chap3-sec1-1]: Originario Capo primo.
 
 ### A. Condizioni della responsabilità
 
@@ -1451,15 +1579,19 @@ Le autorità giudiziarie trasmettono all’IPI, gratuitamente e in copia integra
 
 ### G. Divieto di più azioni successive
 
-[^tit3-chap1-lvlG-1]
+[^tit1-chap3-sec1-lvlG-1]
 
-[^tit3-chap1-lvlG-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec1-lvlG-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 71
 
 Chi ha promosso una delle azioni previste negli articoli 72, 73, 74 o 81 e promuove in seguito, fondandosi su un altro brevetto, una nuova azione contro la stessa persona per il medesimo atto o per un atto analogo deve sopportare le spese giudiziarie e delle parti del nuovo processo, a meno che renda verosimile che non è stato in grado, senza sua colpa, di far valere nella procedura precedente anche quest’altro brevetto.
 
-### Capo 2: Disposizioni speciali per la protezione di diritto civile
+### Sezione 2: Disposizioni speciali per la protezione di diritto civile
+
+[^tit1-chap3-sec2-1]
+
+[^tit1-chap3-sec2-1]: Originario Capo 2.
 
 ### A. Azione per cessazione dell’atto o per soppressione dello stato di fatto
 
@@ -1469,7 +1601,7 @@ Chi ha promosso una delle azioni previste negli articoli 72, 73, 74 o 81 e promu
 
 <sup>2</sup> …[^72-1]
 
-[^72-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ( [RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### B. Azione per risarcimento di danni
 
@@ -1486,7 +1618,7 @@ Chi ha promosso una delle azioni previste negli articoli 72, 73, 74 o 81 e promu
 [^73-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^73-2]: Abrogato dall’all. 1 cifra II n. 12 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^73-3]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^73-4]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^73-4]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ( [RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### C. Azione di accertamento
 
@@ -1565,7 +1697,11 @@ Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare es
 
 [^7980-1]: Abrogati dall’all. 1 cifra II n. 12 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Capo 3: Disposizioni speciali per la protezione di diritto penale
+### Sezione 3: Disposizioni speciali per la protezione di diritto penale
+
+[^tit1-chap3-sec3-1]
+
+[^tit1-chap3-sec3-1]: Originario Capo 3.
 
 ### A. Disposizioni penali
 
@@ -1597,9 +1733,9 @@ Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare es
 
 ### III. Indicazione ingannevole circa l’esistenza della protezione
 
-[^tit3-chap3-lvlA-lvlIII-1]
+[^tit1-chap3-sec3-lvlA-lvlIII-1]
 
-[^tit3-chap3-lvlA-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec3-lvlA-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 82
 
@@ -1659,12 +1795,12 @@ Alle infrazioni commesse in un’azienda da un subordinato, da un mandatario o d
 [^86-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Abrogato dall’all. n. 11 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 
-### Capo 4: Intervento in caso di introduzione di merce nel territorio doganale o di asportazione di merce dal territorio doganale
+### Sezione 4: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
 
-[^tit3-chap4-1][^tit3-chap4-2]
+[^tit1-chap3-sec4-1][^tit1-chap3-sec4-2]
 
-[^tit3-chap4-1]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^tit3-chap4-2]: Nuovo testo giusta la cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^tit1-chap3-sec4-1]: Originario Capo 4. Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec4-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Denuncia di merci sospette
 
@@ -1693,13 +1829,13 @@ Il richiedente può al contempo chiedere per scritto che la merce sia distrutta:
 - a. secondo la procedura ordinaria (art. 86*f*–86*k*); o
 - b. secondo la procedura semplificata (art. 86*l*), se si tratta di un piccolo invio.
 
-<sup>3</sup> Nella domanda di cui al capoverso 2 il richiedente può chiedere che la merce gli sia consegnata perché provveda lui stesso alla distruzione.
+<sup>3</sup> Nella domanda di cui al capoverso 2 il depositante può chiedere che la merce gli sia consegnata perché provveda lui stesso alla distruzione.
 
 <sup>4</sup> La domanda di cui al capoverso 2 lettera a non dà luogo a una proroga dei termini per chiedere provvedimenti cautelari secondo l’articolo 86*c* capoversi 3 e 4.
 
 <sup>5</sup> Il Consiglio federale definisce cosa si debba considerare piccolo invio; a tal fine tiene conto in particolare del numero di unità contenute nell’invio.
 
-<sup>6</sup> Il richiedente fornisce tutte le indicazioni in suo possesso di cui l’UDSC necessita per decidere in merito alla domanda; in particolare una descrizione precisa della merce.
+<sup>6</sup> Il depositante fornisce tutte le indicazioni in suo possesso di cui l’UDSC necessita per decidere in merito alla domanda; in particolare una descrizione precisa della merce.
 
 <sup>7</sup> L’UDSC decide definitivamente in merito alla domanda. Può riscuotere un emolumento per coprire le spese amministrative.
 
@@ -1755,19 +1891,19 @@ Se, in seguito a una domanda d’intervento secondo l’articolo 86*b* capoverso
 [^86e-1]: Nuovo testo giusta la cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 [^86e-2]: Nuovo testo giusta la cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
+### F. Comunicazione concernente la domanda di distruzione della merce
+
 ### I. Procedura
 
-[^tit3-chap4-lvlE-lvlI-1]
+[^tit1-chap3-sec4-lvlF-lvlI-1]
 
-[^tit3-chap4-lvlE-lvlI-1]: Nuovo testo giusta la cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^tit1-chap3-sec4-lvlF-lvlI-1]: Nuovo testo giusta la cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 86f
 
-F. Comunicazione concernente la domanda di distruzione della merce
-
 <sup>1</sup> ...[^86f-1]
 
-<sup>2</sup> Se è presentata una domanda di distruzione della merce, l’UDSC[^86f-2] avvisa il dichiarante, detentore o proprietario della merce nella comunicazione di cui all’articolo 86*c* capoverso 1.
+<sup>2</sup> Se è presentata una domanda di distruzione della merce, l’UDSC[^86f-2] avvisa il [richiedente](https://fedlex.data.admin.ch/eli/oc/1970/1177_1174_1175), detentore o proprietario della merce nella comunicazione di cui all’articolo 86*c* capoverso 1.
 
 <sup>3</sup> ...[^86f-3]
 
@@ -1799,15 +1935,15 @@ Prima di distruggere la merce, l’UDSC preleva campioni o modelli e li conserva
 
 #### Art. 86i
 
-<sup>1</sup> Se la distruzione della merce si rivela ingiustificata, soltanto il richiedente risponde del danno.
+<sup>1</sup> Se la distruzione della merce si rivela ingiustificata, soltanto il [richiedente](https://fedlex.data.admin.ch/eli/oc/1970/1177_1174_1175) risponde del danno.
 
-<sup>2</sup> Se il dichiarante, detentore o proprietario ha acconsentito per scritto alla distruzione della merce, il richiedente non può essere chiamato a rispondere del danno nemmeno se successivamente la distruzione si rivela ingiustificata.
+<sup>2</sup> Se il dichiarante, detentore o proprietario ha acconsentito per scritto alla distruzione della merce, il [richiedente](https://fedlex.data.admin.ch/eli/oc/1970/1177_1174_1175) non può essere chiamato a rispondere del danno nemmeno se successivamente la distruzione si rivela ingiustificata.
 
 ### V. Spese
 
 #### Art. 86j
 
-<sup>1</sup> Le spese per la distruzione della merce sono a carico del richiedente.
+<sup>1</sup> Le spese per la distruzione della merce sono a carico del [richiedente](https://fedlex.data.admin.ch/eli/oc/1970/1177_1174_1175).
 
 <sup>2</sup> Sulle spese per il prelievo e la conservazione di campioni o modelli ai sensi dell’articolo 86*h* decide il giudice nell’ambito del giudizio relativo alle pretese di risarcimento dei danni secondo l’articolo 86*i* capoverso 1.[^86j-1]
 
@@ -1817,9 +1953,9 @@ Prima di distruggere la merce, l’UDSC preleva campioni o modelli e li conserva
 
 #### Art. 86k
 
-<sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione della merce, l’UDSC può subordinare la ritenzione della merce a una dichiarazione di responsabilità da parte del richiedente. Al posto di tale dichiarazione, l’UDSC può, in casi motivati, chiedere al richiedente un’adeguata garanzia.
+<sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione della merce, l’UDSC può subordinare la ritenzione della merce a una dichiarazione di responsabilità da parte del [richiedente](https://fedlex.data.admin.ch/eli/oc/1970/1177_1174_1175). Al posto di tale dichiarazione, l’UDSC può, in casi motivati, chiedere al [richiedente](https://fedlex.data.admin.ch/eli/oc/1970/1177_1174_1175) un’adeguata garanzia.
 
-<sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti presi si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni o modelli.[^86k-1]
+<sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti presi si rivelano infondati, il [richiedente](https://fedlex.data.admin.ch/eli/oc/1970/1177_1174_1175) deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni o modelli.[^86k-1]
 
 [^86k-1]: Nuovo testo giusta la cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
@@ -1827,7 +1963,7 @@ Prima di distruggere la merce, l’UDSC preleva campioni o modelli e li conserva
 
 #### Art. 86l
 
-[^86k-2]
+[^86l-1]
 
 <sup>1</sup>
 
@@ -1840,15 +1976,13 @@ Se si tratta di un piccolo invio, l’UDSC trattiene la merce:
 
 <sup>3</sup> L’autorità competente informa il dichiarante, detentore o proprietario dei suoi sospetti e della ritenzione della merce, comunicandogli che la merce verrà distrutta se non si sarà espressamente opposto alla distruzione entro dieci giorni feriali dalla ricezione della comunicazione.
 
-<sup>4</sup> Se il dichiarante, detentore o proprietario si oppone espressamente alla distruzione entro il termine di cui al capoverso 3, l’autorità competente lo comunica al richiedente. Il seguito della procedura è retto per analogia dagli articoli 86*c* capoversi 3 e 4, 86*d*, 86*e* e 86*k*.
+<sup>4</sup> Se il dichiarante, detentore o proprietario si oppone espressamente alla distruzione entro il termine di cui al capoverso 3, l’autorità competente lo comunica al depositante. Il seguito della procedura è retto per analogia dagli articoli 86*c* capoversi 3 e 4, 86*d*, 86*e* e 86*k*.
 
-<sup>5</sup> Se il dichiarante, detentore o proprietario acconsente alla distruzione o non si pronuncia entro il termine di cui al capoverso 3, l’autorità competente distrugge la merce a spese del richiedente al più presto tre mesi dopo la comunicazione di cui al capoverso 3 oppure la affida al richiedente per la distruzione se questi ne ha fatto richiesta secondo l’articolo 86*b* capoverso 3. È esclusa qualsiasi pretesa di risarcimento dei danni da parte del richiedente nei confronti del dichiarante, detentore o proprietario.
+<sup>5</sup> Se il dichiarante, detentore o proprietario acconsente alla distruzione o non si pronuncia entro il termine di cui al capoverso 3, l’autorità competente distrugge la merce a spese del depositante al più presto tre mesi dopo la comunicazione di cui al capoverso 3 oppure la affida al depositante per la distruzione se questi ne ha fatto richiesta secondo l’articolo 86*b* capoverso 3. È esclusa qualsiasi pretesa di risarcimento dei danni da parte del depositante nei confronti del dichiarante, detentore o proprietario.
 
-<sup>6</sup> L’autorità competente informa il richiedente sulla quantità e sulla natura nonché sui mittenti in Svizzera e all’estero della merce distrutta in virtù del capoverso 5.
+<sup>6</sup> L’autorità competente informa il depositante sulla quantità e sulla natura nonché sui mittenti in Svizzera e all’estero della merce distrutta in virtù del capoverso 5.
 
-[^86k-2]: Introdotto dalla cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
-
-## Titolo quarto: …
+[^86l-1]: Introdotto dalla cifra I n. 6 della LF del 22 dic. 2023 che introduce una procedura semplificata per la distruzione di piccoli invii nel diritto della proprietà intellettuale, in vigore dal 1° lug. 2025 ([RU 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 87 a 90
 
@@ -1898,17 +2032,19 @@ Se si tratta di un piccolo invio, l’UDSC trattiene la merce:
 
 [^107108-1]: Abrogati dalla cifra I della LF del 17 dic. 1976, con effetto dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titolo quinto: Domande di brevetto europeo e del brevetto europeo
+## Titolo secondo: Domande di brevetto europeo e brevetti europei
 
-[^tit5-1]
+[^tit2-1][^tit2-2]
 
-[^tit5-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-1]: Originario Tit. quinto.
+[^tit2-2]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### Capo primo: Diritto applicabile
+### Sezione 1: Diritto applicabile
 
-[^tit5-chap1-1]
+[^tit2-sec1-1][^tit2-sec1-2]
 
-[^tit5-chap1-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec1-1]: Originario Capo primo.
+[^tit2-sec1-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### Campo d’applicazione della legge; relazione con la Convenzione sul brevetto europeo
 
@@ -1925,19 +2061,20 @@ Se si tratta di un piccolo invio, l’UDSC trattiene la merce:
 [^109-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^109-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 
-### Capo 2: Effetti della domanda di brevetto europeo e del brevetto europeo nonché modificazioni nell’esistenza del brevetto europeo
+### Sezione 2: Effetti della domanda di brevetto europeo e del brevetto europeo nonché modificazioni nell’esistenza del brevetto europeo
 
-[^tit5-chap2-1]
+[^tit2-sec2-1][^tit2-sec2-2]
 
-[^tit5-chap2-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit2-sec2-1]: Originario Capo 2.
+[^tit2-sec2-2]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 ### A. Principio
 
 ### I. Effetti
 
-[^tit5-chap2-lvlA-lvlI-1]
+[^tit2-sec2-lvlA-lvlI-1]
 
-[^tit5-chap2-lvlA-lvlI-1]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit2-sec2-lvlA-lvlI-1]: Nuovo testo giusta l’art. 2 del DF del 16 dic. 2005 che approva l’Atto di revisione della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 13 dic. 2007 ([RU 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 #### Art. 110
 
@@ -1963,7 +2100,7 @@ Una modificazione nell’esistenza del brevetto europeo mediante una decisione p
 
 [^111-1]
 
-<sup>1</sup> La domanda di brevetto europeo pubblicata non conferisce al richiedente la protezione di cui all’articolo 64 della Convenzione sul brevetto europeo.
+<sup>1</sup> La domanda di brevetto europeo pubblicata non conferisce al depositante la protezione di cui all’articolo 64 della Convenzione sul brevetto europeo.
 
 <sup>2</sup> Tuttavia, il danneggiato può, mediante azione per risarcimento di danni, far valere il danno cagionato dal convenuto a partire dal momento in cui questi ha avuto conoscenza del contenuto della domanda di brevetto europeo, ma al più tardi dal giorno della pubblicazione della domanda da parte dell’Ufficio europeo dei brevetti.
 
@@ -1975,11 +2112,12 @@ Una modificazione nell’esistenza del brevetto europeo mediante una decisione p
 
 [^112116-1]: Abrogati dall’art. 2 del DF del 16 dic. 2005 che approva l’Acc. relativo all’applicazione dell’art. 65 della Conv. sul brevetto europeo e modifica la L sui brevetti, con effetto dal 1° mag. 2008 ([RU 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### Capo 3: Amministrazione del brevetto europeo
+### Sezione 3: Amministrazione del brevetto europeo
 
-[^tit5-chap3-1]
+[^tit2-sec3-1][^tit2-sec3-2]
 
-[^tit5-chap3-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec3-1]: Originario Capo 3.
+[^tit2-sec3-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Registro svizzero dei brevetti europei
 
@@ -2005,7 +2143,7 @@ L’IPI pubblica le iscrizioni riportate nel registro svizzero dei brevetti euro
 
 [^119-1]
 
-[^119-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dall’all. n. 4 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^119-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dall’all. n. 4 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ( [RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
 #### Art. 120
 
@@ -2013,11 +2151,12 @@ L’IPI pubblica le iscrizioni riportate nel registro svizzero dei brevetti euro
 
 [^120-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dall’all. n. 3 della LF del 20 mar. 2009 sui consulenti in brevetti, con effetto dal 1° lug. 2011 ([RU 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 305](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
-### Capo 4: Trasformazione della domanda di brevetto europeo
+### Sezione 4: Trasformazione della domanda di brevetto europeo
 
-[^tit5-chap4-1]
+[^tit2-sec4-1][^tit2-sec4-2]
 
-[^tit5-chap4-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec4-1]: Originario Capo 4.
+[^tit2-sec4-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Motivi della trasformazione
 
@@ -2060,9 +2199,9 @@ La domanda di brevetto europeo può essere trasformata in domanda di brevetto sv
 
 [^123-1]
 
-Se la lingua nella quale è redatto il testo iniziale della domanda di brevetto europeo non è una lingua ufficiale svizzera, l’IPI assegna al richiedente un termine per presentarne una traduzione in una lingua ufficiale svizzera.
+Se la lingua nella quale è redatto il testo iniziale della domanda di brevetto europeo non è una lingua ufficiale svizzera o l’inglese, l’IPI assegna al depositante un termine per presentarne una traduzione in una di queste lingue.
 
-[^123-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^123-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Riserva a favore della Convenzione sul brevetto europeo
 
@@ -2076,11 +2215,12 @@ Se la lingua nella quale è redatto il testo iniziale della domanda di brevetto 
 
 [^124-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Capo 5: Disposizioni concernenti la protezione di diritto civile e di diritto penale
+### Sezione 5: Disposizioni concernenti la protezione di diritto civile e di diritto penale
 
-[^tit5-chap5-1]
+[^tit2-sec5-1][^tit2-sec5-2]
 
-[^tit5-chap5-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec5-1]: Originario Capo 5.
+[^tit2-sec5-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Divieto di cumulare la protezione
 
@@ -2133,7 +2273,8 @@ La richiesta concernente una rinuncia parziale al brevetto europeo non è ricevi
 
 [^128-1]
 
-- [tab] Il giudice può sospendere la procedura, segnatamente la sentenza, se:
+Il giudice può sospendere la procedura, segnatamente la sentenza, se:
+
 - a. l’Ufficio europeo dei brevetti non ha ancora statuito definitivamente sulla limitazione o sulla revoca del brevetto europeo;
 - b. la validità del brevetto europeo è contestata e una delle parti prova che un’opposizione a questo brevetto possa essere ancora proposta all’Ufficio europeo dei brevetti o questo non abbia ancora statuito definitivamente sull’opposizione;
 - c. l’Ufficio europeo dei brevetti non ha ancora statuito definitivamente sulla richiesta di revisione di una decisione in virtù dell’articolo 112*a* della Convenzione sul brevetto europeo.
@@ -2152,11 +2293,12 @@ La richiesta concernente una rinuncia parziale al brevetto europeo non è ricevi
 
 [^129-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Capo 6: Rogatorie dell’Ufficio europeo dei brevetti
+### Sezione 6: Rogatorie dell’Ufficio europeo dei brevetti
 
-[^tit5-chap6-1]
+[^tit2-sec6-1][^tit2-sec6-2]
 
-[^tit5-chap6-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); F **1976** II 1).
+[^tit2-sec6-1]: Originario Capo 6.
+[^tit2-sec6-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); F **1976** II 1).
 
 ### Ufficio di trasmissione
 
@@ -2168,17 +2310,19 @@ L’IPI riceve le rogatorie dell’Ufficio europeo dei brevetti e le trasmette a
 
 [^130-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titolo sesto: Domande internazionali di brevetto
+## Titolo terzo: Domande internazionali di brevetto
 
-[^tit6-1]
+[^tit3-1][^tit3-2]
 
-[^tit6-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 (RU **1977** 1997, **1978** 550; FF **1976** II 1).
+[^tit3-1]: Originario Tit. sesto.
+[^tit3-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-### Capo primo: Diritto applicabile
+### Sezione 1: Diritto applicabile
 
-[^tit6-chap1-1]
+[^tit3-sec1-1][^tit3-sec1-2]
 
-[^tit6-chap1-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-sec1-1]: Originario Capo primo.
+[^tit3-sec1-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### Campo d’applicazione della legge; rapporti con il Trattato di cooperazione
 
@@ -2196,11 +2340,12 @@ L’IPI riceve le rogatorie dell’Ufficio europeo dei brevetti e le trasmette a
 [^131-2]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
 [^131-3]: Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
-### Capo 2: Domande depositate in Svizzera
+### Sezione 2: Domande depositate in Svizzera
 
-[^tit6-chap2-1]
+[^tit3-sec2-1][^tit3-sec2-2]
 
-[^tit6-chap2-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-sec2-1]: Originario Capo 2.
+[^tit3-sec2-2]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Ufficio ricevente
 
@@ -2227,11 +2372,12 @@ L’IPI funge da ufficio ricevente ai sensi dell’articolo 2 del Trattato di co
 [^133-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^133-2]: Nuovo testo giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
 
-### Capo 3: Domande che designano la Svizzera; ufficio eletto
+### Sezione 3: Domande che designano la Svizzera; ufficio eletto
 
-[^tit6-chap3-1]
+[^tit3-sec3-1][^tit3-sec3-2]
 
-[^tit6-chap3-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit3-sec3-1]: Originario Capo 3.
+[^tit3-sec3-2]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### A. Ufficio designato e ufficio eletto
 
@@ -2271,9 +2417,9 @@ Il diritto di priorità secondo l’articolo 17 può essere rivendicato per una 
 
 [^137-1]
 
-Gli articoli 111 e 112 della presente legge sono applicabili per analogia alle domande internazionali pubblicate secondo l’articolo 21 del Trattato di cooperazione, per le quali l’IPI funge da ufficio designato.
+L’articolo 111 della presente legge si applica per analogia alle domande internazionali pubblicate secondo l’articolo 21 del Trattato di cooperazione per le quali l’IPI funge da ufficio designato.
 
-[^137-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^137-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Condizioni formali
 
@@ -2281,22 +2427,28 @@ Gli articoli 111 e 112 della presente legge sono applicabili per analogia alle d
 
 [^138-1]
 
-Il richiedente, entro 30 mesi a decorrere dalla data di deposito o di priorità, è tenuto nei confronti dell’IPI a:
+Il depositante, entro 30 mesi a decorrere dalla data di deposito o di priorità, è tenuto nei confronti dell’IPI a:[^138-2]
 
 - a. indicare per scritto il nome dell’inventore;
 - b. fornire indicazioni sulla fonte (art. 49*a*);
 - c. pagare la tassa di deposito;
-- d. presentare una traduzione in una lingua ufficiale svizzera, se la domanda internazionale non è redatta in una di queste lingue.
+- d.[^138-3] presentare una traduzione in una lingua ufficiale svizzera o in inglese, se la domanda internazionale non è redatta in una di queste lingue.
 
 [^138-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^138-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^138-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### D. …
+### D. Rapporto complementare sullo stato della tecnica
 
 #### Art. 139
 
 [^139-1]
 
-[^139-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+<sup>1</sup> Per ogni domanda internazionale secondo l’articolo 135 è redatto e pubblicato un rapporto complementare sullo stato della tecnica.
+
+<sup>2</sup> L’IPI può rinunciare a redigere un rapporto complementare sullo stato della tecnica. In tal caso pubblica un’indicazione corrispondente.
+
+[^139-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### E. Divieto di cumulare la protezione
 
@@ -2310,18 +2462,19 @@ Il richiedente, entro 30 mesi a decorrere dalla data di deposito o di priorità,
 
 [^140-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° giu. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Titolo settimo: Certificati protettivi complementari
+## Titolo quarto: Certificati protettivi complementari
 
-[^tit7-1][^tit7-2]
+[^tit4-1][^tit4-2]
 
-[^tit7-1]: Introdotto dalla cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
-[^tit7-2]: Nuovo testo giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
+[^tit4-1]: Originario Tit. settimo. Introdotto dalla cifra I della LF del 3 feb. 1995, in vigore dal 1° set. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit4-2]: Nuovo testo giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
 
-### Capo primo: Certificati protettivi complementari per medicinali
+### Sezione 1: Certificati protettivi complementari per medicinali
 
-[^tit7-chap1-1]
+[^tit4-sec1-1][^tit4-sec1-2]
 
-[^tit7-chap1-1]: Introdotto dalla cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
+[^tit4-sec1-1]: Originario Capo primo.
+[^tit4-sec1-2]: Introdotto dalla cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
 
 ### A. Principio
 
@@ -2329,7 +2482,7 @@ Il richiedente, entro 30 mesi a decorrere dalla data di deposito o di priorità,
 
 [^140a-1]
 
-<sup>1</sup> L’IPI rilascia, su richiesta, certificati protettivi complementari (certificati) per ogni principio attivo o composizione di principi attivi di un medicinale. Il certificato è rilasciato soltanto se non sussiste un certificato protettivo complementare pediatrico secondo l’articolo 140*t* capoverso 1.[^140a-2]
+<sup>1</sup> L’IPI rilascia, su domanda, certificati protettivi complementari (certificati) per ogni principio attivo o composizione di principi attivi di un medicinale. Il certificato è rilasciato soltanto se non sussiste un certificato protettivo complementare pediatrico secondo l’articolo 140*t* capoverso 1.[^140a-2]
 
 <sup>1bis</sup> Un principio attivo è una sostanza di origine chimica o biologica inclusa nella composizione di un medicinale e avente un effetto terapeutico sull’organismo. Una composizione di principi attivi è una combinazione di più sostanze, ognuna delle quali ha un effetto terapeutico sull’organismo.[^140a-3]
 
@@ -2345,7 +2498,7 @@ Il richiedente, entro 30 mesi a decorrere dalla data di deposito o di priorità,
 
 <sup>1</sup>
 
-Il certificato viene rilasciato se al momento della richiesta:
+Il certificato viene rilasciato se al momento della domanda:
 
 - a. il prodotto come tale, un procedimento per la sua fabbricazione o un’utilizzazione è protetto da un brevetto;
 - b.[^140b-1] un medicinale contenente il prodotto è omologato in Svizzera secondo l’articolo 9 della legge del 15 dicembre 2000[^140b-2] sugli agenti terapeutici (LATer).
@@ -2396,12 +2549,12 @@ Il certificato viene rilasciato se al momento della richiesta:
 
 <sup>1</sup>
 
-La richiesta di rilascio del certificato dev’essere depositata:
+La domanda di rilascio del certificato dev’essere depositata:
 
 - a. entro sei mesi a decorrere dal rilascio della prima omologazione in Svizzera del medicinale contenente il prodotto;
 - b. entro sei mesi a decorrere dal rilascio del brevetto, se questo è rilasciato dopo il rilascio della prima omologazione.[^140f-1]
 
-<sup>2</sup> In caso di inosservanza del termine, l’IPI dichiara la richiesta irricevibile.
+<sup>2</sup> In caso di inosservanza del termine, l’IPI dichiara la domanda irricevibile.
 
 [^140f-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -2409,20 +2562,20 @@ La richiesta di rilascio del certificato dev’essere depositata:
 
 #### Art. 140g
 
-L’Ufficio rilascia il certificato iscrivendolo nel registro dei brevetti.
+L’Ufficio rilascia il certificato iscrivendolo nel registro dei certificati protettivi complementari[^140g-1].
+
+[^140g-1]: Nuova espr. giusta la cifra I cpv. 4 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### H. Tasse
 
 #### Art. 140h
 
-<sup>1</sup> Il certificato è soggetto al pagamento di una tassa di deposito e delle tasse annuali.
+[^140h-1]
 
-<sup>2</sup> Le tasse annuali devono essere pagate anticipatamente e in una volta per la durata complessiva del certificato.[^140h-1]
+Per ottenere e mantenere in vigore un certificato e affinché particolari richieste siano trattate, devono essere pagate le tasse stabilite dall’IPI in virtù dell’articolo 13 della legge federale del 24 marzo 1995[^140h-2] sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale.
 
-<sup>3</sup> …[^140h-2]
-
-[^140h-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^140h-2]: Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^140h-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^140h-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 ### I. Estinzione prematura; sospensione
 
@@ -2467,7 +2620,7 @@ Il certificato è nullo se:
 
 #### Art. 140l
 
-<sup>1</sup> Il Consiglio federale disciplina la procedura di rilascio dei certificati, la loro iscrizione nel registro dei brevetti nonché le pubblicazioni dell’IPI.
+<sup>1</sup> Il Consiglio federale disciplina la procedura di rilascio dei certificati, la loro iscrizione nel registro dei certificati protettivi complementari nonché le pubblicazioni dell’IPI.
 
 <sup>2</sup> Tiene conto della normativa nell’Unione europea.[^140l-1]
 
@@ -2477,13 +2630,17 @@ Il certificato è nullo se:
 
 #### Art. 140m
 
-Le disposizioni dei titoli primo, secondo, terzo e quinto della presente legge si applicano per analogia, nella misura in cui le disposizioni relative ai certificati non prevedano altrimenti.
+[^140m-1]
 
-### Capo 2: Proroga della validità dei certificati protettivi complementari per medicinali
+Le disposizioni dei titoli primo e secondo della presente legge si applicano per analogia nella misura in cui le disposizioni relative ai certificati non prevedano altrimenti.
 
-[^tit7-chap2-1]
+[^140m-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-[^tit7-chap2-1]: Introdotto dalla cifra I della LF del 9 ott. 1998 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187). Nuovo testo giusta l’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+### Sezione 2: Proroga della validità dei certificati protettivi complementari per medicinali
+
+[^tit4-sec2-1]
+
+[^tit4-sec2-1]: Originario Capo 2. Introdotto dalla cifra I della LF del 9 ott. 1998 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187). Nuovo testo giusta l’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### A. Condizioni
 
@@ -2494,25 +2651,28 @@ Le disposizioni dei titoli primo, secondo, terzo e quinto della presente legge s
 L’IPI proroga di sei mesi la durata della protezione relativa a un certificato rilasciato (art. 140*e*), se l’omologazione (art. 9 LATer[^140n-1]) di un medicinale contenente il prodotto:
 
 - a. comprende una conferma secondo la quale l’informazione sul medicinale riporta i risultati di tutti gli studi eseguiti in conformità con il piano d’indagine pediatrica considerato per l’omologazione (art. 11 cpv. 2 lett. a n. 6 LATer); e
-- b. è stata richiesta al più tardi sei mesi dopo la richiesta di prima omologazione nello Spazio economico europeo di un medicinale contenente il prodotto la cui informazione riporta i risultati di tutti gli studi eseguiti in conformità con il piano d’indagine pediatrica considerato per l’omologazione.
+- b.[^140n-2] è stata richiesta al più tardi sei mesi dopo la domanda di prima omologazione nello Spazio economico europeo di un medicinale contenente il prodotto la cui informazione riporta i risultati di tutti gli studi eseguiti in conformità con il piano d’indagine pediatrica considerato per l’omologazione.
 
 <sup>2</sup> La validità del certificato può essere prorogata una sola volta.
 
 [^140n-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^140n-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### B. Termine per il deposito della richiesta
+### B. Termine per il deposito della domanda
 
 #### Art. 140o
 
-<sup>1</sup> La richiesta di proroga della validità di un certificato può essere depositata al più presto al momento della richiesta del certificato e al più tardi due anni prima della sua scadenza.
+<sup>1</sup> La domanda di proroga della validità di un certificato può essere depositata al più presto al momento della domanda del certificato e al più tardi due anni prima della sua scadenza.
 
-<sup>2</sup> In caso di inosservanza del termine, l’IPI dichiara irricevibile la richiesta.
+<sup>2</sup> In caso di inosservanza del termine, l’IPI dichiara la domanda irricevibile.[^140o-1]
+
+[^140o-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Proroga della durata della protezione
 
 #### Art. 140p
 
-L’IPI proroga la validità del certificato mediante la sua iscrizione nel registro dei brevetti.
+L’IPI proroga la validità del certificato mediante la sua iscrizione nel registro dei certificati protettivi complementari.
 
 ### D. Tassa
 
@@ -2532,15 +2692,15 @@ La proroga della validità del certificato è soggetta al pagamento di una tassa
 
 #### Art. 140s
 
-<sup>1</sup> Il Consiglio federale disciplina la procedura di proroga della validità dei certificati, la loro iscrizione nel registro dei brevetti nonché le pubblicazioni dell’IPI.
+<sup>1</sup> Il Consiglio federale disciplina la procedura di proroga della validità dei certificati, la loro iscrizione nel registro dei certificati protettivi complementari nonché le pubblicazioni dell’IPI.
 
 <sup>2</sup> Tiene conto della normativa nell’Unione europea.
 
-### Capo 2*a*: Certificati protettivi complementari pediatrici per medicinali
+### Sezione 3: Certificati protettivi complementari pediatrici per medicinali
 
-[^tit7-chap2a-1]
+[^tit4-sec3-1]
 
-[^tit7-chap2a-1]: Introdotto dall’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec3-1]: Originario Capo 2*a*. Introdotto dall’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### A. Condizioni
 
@@ -2548,10 +2708,10 @@ La proroga della validità del certificato è soggetta al pagamento di una tassa
 
 <sup>1</sup>
 
-L’IPI rilascia, su richiesta, per ogni principio attivo o composizione di principi attivi di un medicinale certificati protettivi complementari pediatrici (certificati pediatrici) validi per sei mesi a decorrere dalla scadenza della durata massima del brevetto, se l’omologazione (art. 9 LATer[^140t-1]) di un medicinale contenente il prodotto:
+L’IPI rilascia, su domanda, per ogni principio attivo o composizione di principi attivi di un medicinale certificati protettivi complementari pediatrici (certificati pediatrici) validi per sei mesi a decorrere dalla scadenza della durata massima del brevetto, se l’omologazione (art. 9 LATer[^140t-1]) di un medicinale contenente il prodotto:[^140t-2]
 
 - a. comprende una conferma secondo la quale l’informazione sul medicinale riporta i risultati di tutti gli studi eseguiti in conformità con il piano d’indagine pediatrica considerato per l’omologazione (art. 11 cpv. 2 lett. a n. 6 LATer); e
-- b. è stata richiesta al più tardi sei mesi dopo la richiesta di prima omologazione nello Spazio economico europeo di un medicinale contenente il prodotto la cui informazione riporta i risultati di tutti gli studi eseguiti in conformità con il piano d’indagine pediatrica considerato per l’omologazione.
+- b.[^140t-3] è stata richiesta al più tardi sei mesi dopo la domanda di prima omologazione nello Spazio economico europeo di un medicinale contenente il prodotto la cui informazione riporta i risultati di tutti gli studi eseguiti in conformità con il piano d’indagine pediatrica considerato per l’omologazione.
 
 <sup>2</sup> Il certificato pediatrico è rilasciato soltanto se non sussiste un certificato secondo l’articolo 140*a* capoverso 1.
 
@@ -2560,6 +2720,8 @@ L’IPI rilascia, su richiesta, per ogni principio attivo o composizione di prin
 <sup>4</sup> La durata della protezione relativa a un certificato pediatrico non può essere prorogata.
 
 [^140t-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^140t-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^140t-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Diritto
 
@@ -2575,9 +2737,9 @@ L’IPI rilascia, su richiesta, per ogni principio attivo o composizione di prin
 
 #### Art. 140v
 
-<sup>1</sup> La richiesta di rilascio del certificato pediatrico può essere depositata al più tardi due anni prima della scadenza della durata massima del brevetto.
+<sup>1</sup> La domanda di rilascio del certificato pediatrico può essere depositata al più tardi due anni prima della scadenza della durata massima del brevetto.
 
-<sup>2</sup> In caso di inosservanza del termine, l’IPI dichiara la richiesta irricevibile.
+<sup>2</sup> In caso di inosservanza del termine, l’IPI dichiara la domanda irricevibile.
 
 ### D. Tasse
 
@@ -2608,15 +2770,15 @@ Il certificato pediatrico è nullo se:
 
 Gli articoli 140*a* capoversi 1<sup>bis</sup> e 2, 140*d*, 140*g*, 140*i*, 140*l* capoverso 1 e 140*m* sono applicabili per analogia.
 
-### Capo 3: Certificati protettivi complementari per prodotti fitosanitari
+### Sezione 4: Certificati protettivi complementari per prodotti fitosanitari
 
-[^tit7-chap3-1]
+[^tit4-sec4-1]
 
-[^tit7-chap3-1]: Introdotto dall’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec4-1]: Originario Capo 3. Introdotto dall’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 140z
 
-<sup>1</sup> L’IPI rilascia, su richiesta, un certificato per ogni principio attivo o composizione di principi attivi di un prodotto fitosanitario.
+<sup>1</sup> L’IPI rilascia, su domanda, un certificato per ogni principio attivo o composizione di principi attivi di un prodotto fitosanitario.
 
 <sup>2</sup> Gli articoli 140*a* capoverso 2 e 140*b*–140*m* sono applicabili per analogia.
 
@@ -2627,24 +2789,25 @@ Un principio attivo è una sostanza o un microorganismo, compresi i virus, con e
 - a. contro organismi nocivi;
 - b. su vegetali, parti di vegetali o prodotti vegetali.
 
-## Titolo finale: Disposizioni finali e transitorie
+## Titolo quinto: Disposizioni finali
 
-[^u1-1]
+[^tit5-1][^tit5-2]
 
-[^u1-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit5-1]: Originale Tit. finale.
+[^tit5-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Misure d’esecuzione
 
 #### Art. 141
 
-[^u1-141-1]
+[^141-1]
 
 <sup>1</sup> Il Consiglio federale prende le misure necessarie all’esecuzione della presente legge.
 
-<sup>2</sup> In particolare, esso può disciplinare l’istituzione degli esaminatori e delle divisioni di opposizione, la loro sfera d’attività e la procedura, come anche i termini e le tasse.[^u1-141-2]
+<sup>2</sup> In particolare, esso può disciplinare l’istituzione degli esaminatori e delle divisioni di opposizione, la loro sfera d’attività e la procedura, come anche i termini e le tasse.[^141-2]
 
-[^u1-141-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^u1-141-2]: Nuovo testo giusta l’all. n. 23 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^141-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^141-2]: Nuovo testo giusta l’all. n. 23 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B. Passaggio dal vecchio al nuovo diritto
 
@@ -2652,46 +2815,48 @@ Un principio attivo è una sostanza o un microorganismo, compresi i virus, con e
 
 #### Art. 142
 
-[^u1-142-1]
+[^142-1]
 
-I brevetti non ancora estinti alla data dell’entrata in vigore della modifica del 22 giugno 2007 della presente legge sono retti dal nuovo diritto, a decorrere da tale data. Le cause di nullità continuano a essere rette dal diritto previgente.[^u1-142-2]
+I brevetti non ancora estinti alla data dell’entrata in vigore della modifica del 22 giugno 2007 della presente legge sono retti dal nuovo diritto, a decorrere da tale data. Le cause di nullità continuano a essere rette dal diritto previgente.[^142-2]
 
-[^u1-142-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^u1-142-2]: Per. introdotto dall’all. n. 3 della LF del 20 mar. 2009 sui consulenti in brevetti, in vigore dal 1° lug. 2011 ([RU 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 305](https://fedlex.data.admin.ch/eli/fga/2008/143)).
+[^142-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^142-2]: Per. introdotto dall’all. n. 3 della LF del 20 mar. 2009 sui consulenti in brevetti, in vigore dal 1° lug. 2011 ([RU 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [FF 2008 305](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
 ### II. Domande di brevetto
 
 #### Art. 143
 
-[^u1-143-1]
+[^143-1]
 
 <sup>1</sup> Le domande di brevetto pendenti alla data dell’entrata in vigore della modifica del 22 giugno 2007 della presente legge sono rette dal nuovo diritto, a decorrere da tale data.
 
-<sup>2</sup> Tuttavia continuano ad essere rette dal diritto previgente:
+<sup>2</sup>
+
+Tuttavia continuano ad essere rette dal diritto previgente:
 
 - a. l’immunità derivata da un’esposizione;
 - b. la brevettabilità, se le condizioni previste dal diritto previgente sono più favorevoli.
 
-[^u1-143-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^143-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 144
 
-[^u1-144-1]
+[^144-1]
 
-[^u1-144-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^144-1]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Abrogato dalla cifra I della LF del 22 giu. 2007, con effetto dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### III. Responsabilità civile
 
 #### Art. 145
 
-[^u1-145-1]
+[^145-1]
 
 <sup>1</sup> La responsabilità civile è regolata dalle disposizioni in vigore al momento in cui l’atto è stato compiuto.
 
-<sup>2</sup> Gli articoli 75 e 77 capoverso 5 sono applicabili unicamente ai contratti di licenza conclusi o confermati dopo l’entrata in vigore della modifica del 22 giugno 2007 della presente legge.[^u1-145-2]
+<sup>2</sup> Gli articoli 75 e 77 capoverso 5 sono applicabili unicamente ai contratti di licenza conclusi o confermati dopo l’entrata in vigore della modifica del 22 giugno 2007 della presente legge.[^145-2]
 
-[^u1-145-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^u1-145-2]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^145-1]: Introdotto dalla cifra I della LF del 17 dic. 1976, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^145-2]: Introdotto dalla cifra I della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### C. Certificati protettivi complementari per prodotti fitosanitari
 
@@ -2699,65 +2864,105 @@ I brevetti non ancora estinti alla data dell’entrata in vigore della modifica 
 
 #### Art. 146
 
-[^u1-146-1]
+[^146-1]
 
-<sup>1</sup> Un certificato protettivo complementare può essere rilasciato per ogni prodotto protetto da un brevetto al momento dell’entrata in vigore della modifica della presente legge del 9 ottobre 1998[^u1-146-2] e per il quale l’autorizzazione di immissione in commercio conformemente all’articolo 140*b* è stata accordata dopo il 1° gennaio 1985.
+<sup>1</sup> Un certificato protettivo complementare può essere rilasciato per ogni prodotto protetto da un brevetto al momento dell’entrata in vigore della modifica della presente legge del 9 ottobre 1998[^146-2] e per il quale l’autorizzazione di immissione in commercio conformemente all’articolo 140*b* è stata accordata dopo il 1° gennaio 1985.
 
-<sup>2</sup> La richiesta di rilascio del certificato deve essere inoltrata entro sei mesi dall’entrata in vigore della modifica della presente legge del 9 ottobre 1998. In caso d’inosservanza del termine, l’IPI dichiara irricevibile la richiesta.
+<sup>2</sup> La domanda di rilascio del certificato deve essere inoltrata entro sei mesi dall’entrata in vigore della modifica della presente legge del 9 ottobre 1998. In caso di inosservanza del termine, l’IPI dichiara la domanda irricevibile.[^146-3]
 
-[^u1-146-1]: Introdotto dalla cifra I della LF del 3 feb. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nuovo testo giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
-[^u1-146-2]: [RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^146-1]: Introdotto dalla cifra I della LF del 3 feb. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nuovo testo giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
+[^146-2]: [RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^146-3]: Nuovo testo del per. giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### II. Brevetti estinti
 
 #### Art. 147
 
-[^u1-147-1]
+[^147-1]
 
-<sup>1</sup> Certificati sono rilasciati anche in base a brevetti che si sono estinti, allo scadere della durata massima, tra l’8 febbraio 1997 e l’entrata in vigore della modifica della presente legge del 9 ottobre 1998[^u1-147-2].
+<sup>1</sup> Certificati sono rilasciati anche in base a brevetti che si sono estinti, allo scadere della durata massima, tra l’8 febbraio 1997 e l’entrata in vigore della modifica della presente legge del 9 ottobre 1998[^147-2].
 
-<sup>2</sup> La durata di protezione del certificato è calcolata giusta l’articolo 140*e*; essa è efficace tuttavia soltanto a partire dalla pubblicazione della richiesta di rilascio del certificato.
+<sup>2</sup> La durata di protezione del certificato è calcolata giusta l’articolo 140*e*; essa è efficace tuttavia soltanto a partire dalla pubblicazione della domanda di rilascio del certificato.
 
-<sup>3</sup> La richiesta deve essere presentata entro due mesi dall’entrata in vigore della modifica della presente legge del 9 ottobre 1998. In caso d’inosservanza del termine, l’IPI dichiara irricevibile la richiesta.
+<sup>3</sup> La domanda deve essere presentata entro due mesi dall’entrata in vigore della modifica della presente legge del 9 ottobre 1998. In caso di inosservanza del termine, l’IPI dichiara la domanda irricevibile.[^147-3]
 
-<sup>4</sup> L’articolo 48 capoversi 1, 2 e 4 si applica per analogia al periodo compreso tra l’estinzione del brevetto e la pubblicazione della richiesta.
+<sup>4</sup> L’articolo 48 capoversi 1, 2 e 4 si applica per analogia al periodo compreso tra l’estinzione del brevetto e la pubblicazione della domanda.
 
-[^u1-147-1]: Introdotto dalla cifra I della LF del 3 feb. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nuovo testo giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
-[^u1-147-2]: [RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187
+[^147-1]: Introdotto dalla cifra I della LF del 3 feb. 1995 ([RU 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [FF 1993 III 522](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Nuovo testo giusta la cifra I della LF del 9 ott. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187).
+[^147-2]: [RU 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); FF **1998** 1187
+[^147-3]: Nuovo testo del per. giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Disposizione transitoria relativa alla modifica della presente legge del 16 dicembre 2005
 
 #### Art. 148
 
-[^u1-148-1]
+[^148-1]
 
-<sup>1</sup> Per i brevetti europei che non sono pubblicati in una lingua ufficiale svizzera non è necessario presentare una traduzione del fascicolo del brevetto giusta l’articolo 113 capoverso 1[^u1-148-2], se la pubblicazione della menzione del rilascio del brevetto nel Bollettino europeo dei brevetti o, nel caso di mantenimento del brevetto in forma modificata, la pubblicazione della menzione della decisione su un’opposizione ha luogo prima che siano trascorsi tre mesi dall’entrata in vigore della modifica della presente legge del 16 dicembre 2005.
+<sup>1</sup> Per i brevetti europei che non sono pubblicati in una lingua ufficiale svizzera non è necessario presentare una traduzione del fascicolo del brevetto giusta l’articolo 113 capoverso 1[^148-2], se la pubblicazione della menzione del rilascio del brevetto nel Bollettino europeo dei brevetti o, nel caso di mantenimento del brevetto in forma modificata, la pubblicazione della menzione della decisione su un’opposizione ha luogo prima che siano trascorsi tre mesi dall’entrata in vigore della modifica della presente legge del 16 dicembre 2005.
 
-<sup>2</sup> Anche dopo l’entrata in vigore della modifica della presente legge del 16 dicembre 2005, gli articoli 114[^u1-148-3] e 116[^u1-148-4] sono applicabili alle traduzioni che devono essere consegnate al convenuto conformemente all’articolo 112[^u1-148-5] o rese accessibili al pubblico per il tramite dell’IPI o presentate all’IPI conformemente all’articolo 113[^u1-148-6].
+<sup>2</sup> Anche dopo l’entrata in vigore della modifica della presente legge del 16 dicembre 2005, gli articoli 114[^148-3] e 116[^148-4] sono applicabili alle traduzioni che devono essere consegnate al convenuto conformemente all’articolo 112[^148-5] o rese accessibili al pubblico per il tramite dell’IPI o presentate all’IPI conformemente all’articolo 113[^148-6].
 
-[^u1-148-1]: Introdotto dall’art. 2 del DF del 16 dic. 2005 che approva l’Acc. relativo all’applicazione dell’art. 65 della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 1° mag. 2008 ([RU 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-[^u1-148-2]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-3]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-4]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-5]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-6]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879), [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
+[^148-1]: Introdotto dall’art. 2 del DF del 16 dic. 2005 che approva l’Acc. relativo all’applicazione dell’art. 65 della Conv. sul brevetto europeo e modifica la L sui brevetti, in vigore dal 1° mag. 2008 ([RU 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^148-2]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
+[^148-3]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^148-4]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
+[^148-5]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^148-6]: [RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879), [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
 
 ### E. Disposizione transitoria relativa alla modifica della presente legge del 18 marzo 2016
 
 #### Art. 149
 
-[^u1-149-1]
+[^149-1]
 
-<sup>1</sup> Per cinque anni dall’entrata in vigore della modifica del 18 marzo 2016[^u1-149-2] della presente legge la richiesta di proroga della validità di un certificato può essere depositata al più tardi sei mesi prima della scadenza del certificato.
+<sup>1</sup> Per cinque anni dall’entrata in vigore della modifica del 18 marzo 2016[^149-2] della presente legge la domanda di proroga della validità di un certificato può essere depositata al più tardi sei mesi prima della scadenza del certificato.
 
-<sup>2</sup> Per cinque anni dall’entrata in vigore della presente modifica la richiesta di rilascio di un certificato pediatrico può essere depositata al più tardi sei mesi prima della scadenza della durata massima del brevetto.
+<sup>2</sup> Per cinque anni dall’entrata in vigore della presente modifica la domanda di rilascio di un certificato pediatrico può essere depositata al più tardi sei mesi prima della scadenza della durata massima del brevetto.
 
-<sup>3</sup> Se l’omologazione (art. 9 LATer[^u1-149-3]) di un medicinale contenente un prodotto (art. 140*n* cpv. 1 frase introduttiva e 140*t* cpv. 1 frase introduttiva) è richiesta entro sei mesi dall’entrata in vigore della presente modifica, non si applicano gli articoli 140*n* capoverso 1 lettera b e 140*t* capoverso 1 lettera b.
+<sup>3</sup> Se l’omologazione (art. 9 LATer[^149-3]) di un medicinale contenente un prodotto (art. 140*n* cpv. 1 frase introduttiva e 140*t* cpv. 1 frase introduttiva) è richiesta entro sei mesi dall’entrata in vigore della presente modifica, non si applicano gli articoli 140*n* capoverso 1 lettera b e 140*t* capoverso 1 lettera b.
 
-Data dell’entrata in vigore: 1° gennaio 1956[^u1-149-4] Art. 89 cpv. 2, 90 cpv. 2 e 3, 91 cpv. 2 e 3, 96 cpv. 1 e 3, 101 cpv. 1, 105 cpv. 3: 1° ottobre 1959[^u1-149-5]
+[^149-1]: Introdotto dall’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^149-2]: [RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
+[^149-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
-[^u1-149-1]: Introdotto dall’all. n. 2 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^u1-149-2]: [RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
-[^u1-149-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
-[^u1-149-4]: DCF del 18 ott. 1955.
-[^u1-149-5]: DCF dell’8 set. 1959 ([RU 1959 879](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879)).
+### F. Disposizione transitoria relativa alla modifica della presente legge del 15 marzo 2024
+
+### I. Domanda di brevetto
+
+#### Art. 150
+
+[^150-1]
+
+<sup>1</sup> Le domande di brevetto pendenti all’entrata in vigore della modifica del 15 marzo 2024 della presente legge sono rette dal nuovo diritto, a decorrere da tale data.
+
+<sup>2</sup> Se la tassa di esame è stata pagata prima dell’entrata in vigore della modifica del 15 marzo 2024 della presente legge e se la domanda di brevetto non è sospesa nel momento dell’entrata in vigore, l’oggetto dell’esame, la redazione del rapporto sullo stato della tecnica e la sua pubblicazione sono retti dagli articoli 58*a* e 59 previgenti. Gli articoli 57*a* e 139 non sono applicabili.
+
+<sup>3</sup> Il depositante può dichiarare di volere che una domanda di brevetto ai sensi del capoverso 2 sia esaminata secondo il nuovo diritto.
+
+<sup>4</sup> Se è sospesa dopo l’entrata in vigore della modifica del 15 marzo 2024 della presente legge, la domanda di brevetto è in ogni caso retta dal nuovo diritto.
+
+[^150-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### II. Cause di nullità
+
+#### Art. 151
+
+[^151-1]
+
+I brevetti non ancora estinti all’entrata in vigore della modifica del 15 marzo 2024 della presente legge sono retti dal nuovo diritto, a decorrere da tale data. Gli atti compiuti prima di tale entrata in vigore sono giudicati secondo il diritto previgente.
+
+[^151-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### III. Opposizione
+
+#### Art. 152
+
+[^152-1]
+
+Se il termine per interporre ricorso contro il rilascio di un brevetto è già scaduto all’entrata in vigore della modifica della presente legge del 15 marzo 2024, si applica l’articolo 59*c* previgente. La decisione su opposizione è impugnabile dinanzi al Tribunale federale dei brevetti.
+
+Data dell’entrata in vigore: 1° gennaio 1956[^152-2] Art. 89 cpv. 2, 90 cpv. 2 e 3, 91 cpv. 2 e 3, 96 cpv. 1 e 3, 101 cpv. 1, 105 cpv. 3: 1° ottobre 1959[^152-3]
+
+[^152-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^152-2]: DCF del 18 ott. 1955.
+[^152-3]: DCF dell’8 set. 1959 ([RU 1959 879](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879)).

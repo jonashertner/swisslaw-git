@@ -4,22 +4,22 @@ title: "Bundesgesetz vom 25. Juni 1954 über die Erfindungspatente (Patentgesetz
 short: PatG
 eli: "https://fedlex.data.admin.ch/eli/cc/1955/871_893_899"
 language: de
-version: 2025-07-01
+version: 2027-01-01
 adopted: 1954-06-25
 in_force: 1956-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20250701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1955/871_893_899/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1955-871_893_899-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die Erfindungspatente
+# Bundesgesetz über die Patente und ergänzenden Schutzzertifikate
 
 (Patentgesetz, PatG)[^t-1]
 
-vom 25. Juni 1954 (Stand am 1. Juli 2025)
+vom 25. Juni 1954 (Stand am 1. Januar 2027)
 
-[^t-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^t-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -32,7 +32,17 @@ beschliesst:
 [^ingress-3]: [BBl 1950 I 977](https://fedlex.data.admin.ch/eli/fga/1950/1_977_933_)
 [^ingress-4]: [BBl 1952 I 1](https://fedlex.data.admin.ch/eli/fga/1952/1_1__)
 
-## Erster Titel: Allgemeine Bestimmungen
+## 1. Titel: Patente
+
+[^tit1-1]
+
+[^tit1-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+[^tit1-chap1-1]
+
+[^tit1-chap1-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 1. Abschnitt: Voraussetzungen und Wirkung des Patentes
 
@@ -40,20 +50,21 @@ beschliesst:
 
 ### I. Grundsatz
 
-[^tit1-chap1-lvlA-lvlI-1]
+[^tit1-chap1-sec1-lvlA-lvlI-1]
 
-[^tit1-chap1-lvlA-lvlI-1]: Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit1-chap1-sec1-lvlA-lvlI-1]: Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 #### Art. 1
 
-<sup>1</sup> Für neue gewerblich anwendbare Erfindungen werden Erfindungspatente erteilt.
+<sup>1</sup> Für neue gewerblich anwendbare Erfindungen werden Patente[^1-1] erteilt.
 
-<sup>2</sup> Was sich in nahe liegender Weise aus dem Stand der Technik (Art. 7 Abs. 2) ergibt, ist keine patentierbare Erfindung.[^1-1]
+<sup>2</sup> Was sich in nahe liegender Weise aus dem Stand der Technik (Art. 7 Abs. 2) ergibt, ist keine patentierbare Erfindung.[^1-2]
 
-<sup>3</sup> Die Patente werden ohne Gewährleistung des Staates erteilt.[^1-2]
+<sup>3</sup> Die Patente werden ohne Gewährleistung des Staates erteilt.[^1-3]
 
-[^1-1]: Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-[^1-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^1-1]: Ausdruck gemäss Ziff. I Abs. 1 Bst. a des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-2]: Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^1-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### II. Der menschliche Körper und seine Bestandteile
 
@@ -122,10 +133,11 @@ Von der Patentierung sind ferner ausgeschlossen:
 
 #### Art. 4
 
-Im Verfahren vor dem Eidgenössischen Institut für Geistiges Eigentum[^4-1] (IGE)[^4-2] gilt der Patentbewerber als berechtigt, die Erteilung des Patentes zu beantragen.
+[^4-1]
 
-[^4-1]: Ausdruck gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
-[^4-2]: Ausdruck gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+Im Verfahren vor dem Eidgenössischen Institut für Geistiges Eigentum (IGE) gilt der Patentanmelder (Anmelder) als berechtigt, die Erteilung des Patentes zu beantragen.
+
+[^4-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Nennung des Erfinders
 
@@ -133,20 +145,23 @@ Im Verfahren vor dem Eidgenössischen Institut für Geistiges Eigentum[^4-1] (IG
 
 #### Art. 5
 
-<sup>1</sup> Der Patentbewerber hat dem IGE den Erfinder schriftlich zu nennen.[^5-1]
+<sup>1</sup> Der Anmelder[^5-1] hat dem IGE[^5-2] den Erfinder schriftlich zu nennen.[^5-3]
 
-<sup>2</sup> Die vom Patentbewerber genannte Person wird im Patentregister, in der Veröffentlichung des Patentgesuchs und der Patenterteilung sowie in der Patentschrift als Erfinder aufgeführt.[^5-2]
+<sup>2</sup> Die vom Anmelder genannte Person wird im Patentregister, in der Veröffentlichung der Patentanmeldung[^5-4] und der Patenterteilung sowie in der Patentschrift als Erfinder aufgeführt.[^5-5]
 
-<sup>3</sup> Absatz 2 ist entsprechend anwendbar, wenn ein Dritter ein vollstreckbares Urteil vorlegt, aus welchem hervorgeht, dass nicht die vom Patentbewerber genannte Person, sondern der Dritte der Erfinder ist.
+<sup>3</sup> Absatz 2 ist entsprechend anwendbar, wenn ein Dritter ein vollstreckbares Urteil vorlegt, aus welchem hervorgeht, dass nicht die vom Anmelder genannte Person, sondern der Dritte der Erfinder ist.
 
-[^5-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^5-2]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^5-1]: Ausdruck gemäss Ziff. I Abs. 1 Bst. b des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-2]: Ausdruck gemäss Anhang Ziff. 6 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^5-4]: Ausdruck gemäss Ziff. I Abs. 1 Bst. c des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-5]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. Verzicht auf Nennung
 
 #### Art. 6
 
-<sup>1</sup> Wenn der vom Patentbewerber genannte Erfinder darauf verzichtet, unterbleiben die in Artikel 5 Absatz 2 vorgeschriebenen Massnahmen.
+<sup>1</sup> Wenn der vom Anmelder genannte Erfinder darauf verzichtet, unterbleiben die in Artikel 5 Absatz 2 vorgeschriebenen Massnahmen.
 
 <sup>2</sup> Ein im Voraus erklärter Verzicht des Erfinders auf Nennung ist ohne rechtliche Wirkung.
 
@@ -164,15 +179,16 @@ Im Verfahren vor dem Eidgenössischen Institut für Geistiges Eigentum[^4-1] (IG
 
 <sup>3</sup>
 
-In Bezug auf die Neuheit umfasst der Stand der Technik auch den Inhalt einer früheren oder prioritätsälteren Anmeldung für die Schweiz in der ursprünglich eingereichten Fassung, deren Anmelde- oder Prioritätsdatum vor dem in Absatz 2 genannten Datum liegt und die erst an oder nach diesem Datum der Öffentlichkeit zugänglich gemacht wurde, sofern:
+In Bezug auf die Neuheit umfasst der Stand der Technik auch den Inhalt einer früheren oder prioritätsälteren Anmeldung für die Schweiz in der für das Anmeldedatum massgebenden Fassung, deren Anmelde- oder Prioritätsdatum vor dem in Absatz 2 genannten Datum liegt und die erst an oder nach diesem Datum der Öffentlichkeit zugänglich gemacht wurde, sofern:[^7-2]
 
 - a. im Falle einer internationalen Anmeldung die Voraussetzungen nach Artikel 138 erfüllt sind;
-- b. im Falle einer europäischen Anmeldung, die aus einer internationalen Anmeldung hervorgegangen ist, die Voraussetzungen nach Artikel 153 Absatz 5 des Europäischen Patentübereinkommens vom 5. Oktober 1973 in seiner revidierten Fassung vom 29. November 2000[^7-2] erfüllt sind;
-- c. im Falle einer europäischen Anmeldung die Gebühren nach Artikel 79 Absatz 2 des Europäischen Patentübereinkommens vom 5. Oktober 1973 in seiner revidierten Fassung vom 29. November 2000 für die wirksame Benennung der Schweiz entrichtet wurden.[^7-3]
+- b. im Falle einer europäischen Anmeldung, die aus einer internationalen Anmeldung hervorgegangen ist, die Voraussetzungen nach Artikel 153 Absatz 5 des Europäischen Patentübereinkommens vom 5. Oktober 1973 in seiner revidierten Fassung vom 29. November 2000[^7-3] erfüllt sind;
+- c. im Falle einer europäischen Anmeldung die Gebühren nach Artikel 79 Absatz 2 des Europäischen Patentübereinkommens vom 5. Oktober 1973 in seiner revidierten Fassung vom 29. November 2000 für die wirksame Benennung der Schweiz entrichtet wurden.[^7-4]
 
 [^7-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^7-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
-[^7-3]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^7-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^7-3]: [SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+[^7-4]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. …
 
@@ -190,8 +206,8 @@ In Bezug auf die Neuheit umfasst der Stand der Technik auch den Inhalt einer fr�
 
 Ist die Erfindung innerhalb von sechs Monaten vor dem Anmelde- oder dem Prioritätsdatum der Öffentlichkeit zugänglich gemacht worden, so zählt diese Offenbarung nicht zum Stand der Technik, wenn sie unmittelbar oder mittelbar zurückgeht:[^7b-2]
 
-- a. auf einen offensichtlichen Missbrauch zum Nachteil des Patentbewerbers oder seines Rechtsvorgängers; oder
-- b. auf die Tatsache, dass der Patentbewerber oder sein Rechtsvorgänger die Erfindung auf einer offiziellen oder offiziell anerkannten internationalen Ausstellung im Sinne des Übereinkommens vom 22. November 1928[^7b-3] über die internationalen Ausstellungen zur Schau gestellt hat, und er dies bei der Einreichung des Patentgesuches erklärt und durch einen genügenden Ausweis rechtzeitig belegt hat.
+- a. auf einen offensichtlichen Missbrauch zum Nachteil des Anmelders oder seines Rechtsvorgängers; oder
+- b. auf die Tatsache, dass der Anmelder oder sein Rechtsvorgänger die Erfindung auf einer offiziellen oder offiziell anerkannten internationalen Ausstellung im Sinne des Übereinkommens vom 22. November 1928[^7b-3] über die internationalen Ausstellungen zur Schau gestellt hat, und er dies bei der Einreichung der Patentanmeldung erklärt und durch einen genügenden Ausweis rechtzeitig belegt hat.
 
 [^7b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^7b-2]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
@@ -340,7 +356,7 @@ Die Wirkung des Patents erstreckt sich nicht auf:
 
 #### Art. 12
 
-<sup>1</sup> Wer seine Geschäftspapiere, Anzeigen jeder Art, Erzeugnisse oder Waren mit einer andern auf Patentschutz hinweisenden Bezeichnung in Verkehr setzt oder feilhält, ist verpflichtet, jedermann auf Anfrage hin die Nummer des Patentgesuches oder des Patentes anzugeben, auf welche sich die Bezeichnung stützt.
+<sup>1</sup> Wer seine Geschäftspapiere, Anzeigen jeder Art, Erzeugnisse oder Waren mit einer andern auf Patentschutz hinweisenden Bezeichnung in Verkehr setzt oder feilhält, ist verpflichtet, jedermann auf Anfrage hin die Nummer der Patentanmeldung oder des Patentes anzugeben, auf welche sich die Bezeichnung stützt.
 
 <sup>2</sup> Wer andern die Verletzung seiner Rechte vorwirft oder sie vor solcher Verletzung warnt, hat auf Anfrage hin die gleiche Auskunft zu geben.
 
@@ -354,7 +370,7 @@ Die Wirkung des Patents erstreckt sich nicht auf:
 
 Wer an einem Verwaltungsverfahren nach diesem Gesetz beteiligt ist und in der Schweiz keinen Wohnsitz oder Sitz hat, muss ein Zustellungsdomizil in der Schweiz bezeichnen, es sei denn, das Völkerrecht oder die zuständige ausländische Stelle gestatte der Behörde, Schriftstücke im betreffenden Staat direkt zuzustellen.[^13-2] Ein Zustellungsdomizil in der Schweiz ist nicht erforderlich für:[^13-3]
 
-- a. die Einreichung eines Patentgesuchs zum Zweck der Zuerkennung eines Anmeldedatums;
+- a. die Einreichung einer Patentanmeldung zum Zweck der Zuerkennung eines Anmeldedatums;
 - b. die Bezahlung von Gebühren, die Einreichung von Übersetzungen sowie die Einreichung und Behandlung von Anträgen nach der Patenterteilung, soweit die Anträge zu keiner Beanstandung Anlass geben.[^13-4]
 
 <sup>1bis</sup> Das IGE ist befugt, gegenüber der zuständigen ausländischen Stelle zu erklären, dass im Bereich des geistigen Eigentums in der Schweiz die direkte Zustellung zulässig ist, sofern der Schweiz Gegenrecht gewährt wird.[^13-5]
@@ -402,7 +418,7 @@ Das Patent erlischt:
 
 [^16-1]
 
-Patentbewerber und Patentinhaber schweizerischer Staatsangehörigkeit können sich auf die Bestimmungen des für die Schweiz verbindlichen Textes der Pariser Verbandsübereinkunft vom 20. März 1883[^16-2] zum Schutz des gewerblichen Eigentums berufen, wenn jene günstiger sind als die Bestimmungen dieses Gesetzes.
+Anmelder und Patentinhaber schweizerischer Staatsangehörigkeit können sich auf die Bestimmungen des für die Schweiz verbindlichen Textes der Pariser Verbandsübereinkunft vom 20. März 1883[^16-2] zum Schutz des gewerblichen Eigentums berufen, wenn jene günstiger sind als die Bestimmungen dieses Gesetzes.
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 17. Dez 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^16-2]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
@@ -411,13 +427,13 @@ Patentbewerber und Patentinhaber schweizerischer Staatsangehörigkeit können si
 
 ### A. Voraussetzungen und Wirkung der Priorität
 
-[^tit1-chap2-lvlA-1]
+[^tit1-chap1-sec2-lvlA-1]
 
-[^tit1-chap2-lvlA-1]: Fassung gemäss Ziff. I des BG vom 17. Dez 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec2-lvlA-1]: Fassung gemäss Ziff. I des BG vom 17. Dez 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 17
 
-<sup>1</sup> Ist eine Erfindung in einem Land, für das die Pariser Verbandsübereinkunft vom 20. März 1883[^17-1] zum Schutz des gewerblichen Eigentums oder das Abkommen vom 15. April 1994[^17-2] zur Errichtung der Welthandelsorganisation (Anhang 1C, Abkommen über handelsbezogene Aspekte der Rechte an geistigem Eigentum) gilt, oder mit Wirkung für ein solches Land vorschriftsgemäss zum Schutz durch Patent, Gebrauchsmuster oder Erfinderschein angemeldet worden, so entsteht nach Massgabe von Artikel 4 der Pariser Verbandsübereinkunft ein Prioritätsrecht. Dieses kann für das in der Schweiz für die gleiche Erfindung innerhalb von zwölf Monaten nach der Erstanmeldung eingereichte Patentgesuch beansprucht werden.[^17-3]
+<sup>1</sup> Ist eine Erfindung in einem Land, für das die Pariser Verbandsübereinkunft vom 20. März 1883[^17-1] zum Schutz des gewerblichen Eigentums oder das Abkommen vom 15. April 1994[^17-2] zur Errichtung der Welthandelsorganisation (Anhang 1C, Abkommen über handelsbezogene Aspekte der Rechte an geistigem Eigentum) gilt, oder mit Wirkung für ein solches Land vorschriftsgemäss zum Schutz durch Patent, Gebrauchsmuster oder Erfinderschein angemeldet worden, so entsteht nach Massgabe von Artikel 4 der Pariser Verbandsübereinkunft ein Prioritätsrecht. Dieses kann für die in der Schweiz für die gleiche Erfindung innerhalb von zwölf Monaten nach der Erstanmeldung eingereichte Patentanmeldung beansprucht werden.[^17-3]
 
 <sup>1bis</sup> Die Erstanmeldung in einem Land, das der Schweiz Gegenrecht hält, hat die gleiche Wirkung wie die Erstanmeldung in einem Land der Pariser Verbandsübereinkunft.[^17-4]
 
@@ -437,9 +453,9 @@ Patentbewerber und Patentinhaber schweizerischer Staatsangehörigkeit können si
 
 ### B. Legitimation
 
-[^tit1-chap2-lvlB-1]
+[^tit1-chap1-sec2-lvlB-1]
 
-[^tit1-chap2-lvlB-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec2-lvlB-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 18
 
@@ -505,28 +521,24 @@ Hat der Erfinder oder sein Rechtsnachfolger für die gleiche Erfindung zwei gül
 
 Der Patentinhaber kann auf das Patent teilweise verzichten, indem er beim IGE den Antrag stellt:
 
-- a. einen Patentanspruch (Art. 51 und 55) aufzuheben; oder
+- a.[^24-2] einen Patentanspruch (Art. 51 und 55) aufzuheben;
 - b. einen unabhängigen Patentanspruch durch Zusammenlegung mit einem oder mehreren von ihm abhängigen Patentansprüchen einzuschränken; oder
-- c. einen unabhängigen Patentanspruch auf anderem Weg einzuschränken; in diesem Fall muss der eingeschränkte Patentanspruch sich auf die gleiche Erfindung beziehen und eine Ausführungsart definieren, die in der veröffentlichten Patentschrift und in der für das Anmeldedatum massgebenden Fassung des Patentgesuches vorgesehen ist.
+- c.[^24-3] einen unabhängigen Patentanspruch auf anderem Weg einzuschränken; in diesem Fall darf der Gegenstand des geänderten Patentes nicht über den Inhalt der Patentanmeldung in der für das Anmeldedatum massgebenden Fassung hinausgehen und der sachliche Geltungsbereich des Patentes darf nicht erweitert werden.
 
-<sup>2</sup> …[^24-2]
+<sup>2</sup> …[^24-4]
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^24-2]: Aufgehoben durch Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, mit Wirkung seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848), [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^24-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^24-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^24-4]: Aufgehoben durch Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, mit Wirkung seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848), [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
-### II. Errichtung neuer Patente
+### II. ...
 
 #### Art. 25
 
 [^25-1]
 
-<sup>1</sup> Können die nach einem Teilverzicht verbleibenden Patentansprüche nach den Artikeln 52 und 55 nicht im nämlichen Patent bestehen, so muss das Patent entsprechend eingeschränkt werden.
-
-<sup>2</sup> Für die wegfallenden Patentansprüche kann der Patentinhaber die Errichtung eines oder mehrerer neuer Patente beantragen, die das Anmeldedatum des ursprünglichen Patentes erhalten.
-
-<sup>3</sup> Nach Eintragung des Teilverzichts im Patentregister setzt das IGE dem Patentinhaber eine Frist für den Antrag auf Errichtung neuer Patente nach Absatz 2; nachher erlischt das Antragsrecht.
-
-[^25-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^25-1]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Nichtigkeitsklage
 
@@ -540,13 +552,16 @@ Der Richter stellt auf Klage hin die Nichtigkeit des Patents fest, wenn:
 
 - a. der Gegenstand des Patents nach den Artikeln 1, 1*a*, 1*b* und 2 nicht patentierbar ist;
 - b. die Erfindung in der Patentschrift nicht so dargelegt ist, dass der Fachmann sie ausführen kann;
-- c. der Gegenstand des Patents über den Inhalt des Patentgesuchs in der für das Anmeldedatum massgebenden Fassung hinausgeht;
-- d. der Patentinhaber weder der Erfinder noch dessen Rechtsnachfolger ist noch aus einem andern Rechtsgrund ein Recht auf das Patent hatte.[^26-1]
+- c. der Gegenstand des Patents über den Inhalt der Patentanmeldung in der für das Anmeldedatum massgebenden Fassung hinausgeht;
+- c<sup>bis</sup>.[^26-1] der sachliche Geltungsbereich des Patentes erweitert worden ist; oder
+- d.[^26-2] der Patentinhaber weder der Erfinder noch dessen Rechtsnachfolger ist, noch aus einem andern Rechtsgrund ein Recht auf das Patent hat.[^26-3]
 
-<sup>2</sup> Ist ein Patent unter Anerkennung einer Priorität erteilt worden und hat die Anmeldung, deren Priorität beansprucht ist, nicht zum Patent geführt, so kann der Richter vom Patentinhaber verlangen, die Gründe anzugeben und Beweismittel vorzulegen; wird die Auskunft verweigert, so würdigt dies der Richter nach freiem Ermessen.[^26-2]
+<sup>2</sup> Ist ein Patent unter Anerkennung einer Priorität erteilt worden und hat die Anmeldung, deren Priorität beansprucht ist, nicht zum Patent geführt, so kann der Richter vom Patentinhaber verlangen, die Gründe anzugeben und Beweismittel vorzulegen; wird die Auskunft verweigert, so würdigt dies der Richter nach freiem Ermessen.[^26-4]
 
-[^26-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^26-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^26-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-3]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^26-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### II. Teilnichtigkeit
 
@@ -556,7 +571,9 @@ Der Richter stellt auf Klage hin die Nichtigkeit des Patents fest, wenn:
 
 <sup>2</sup> Der Richter hat den Parteien Gelegenheit zu geben, sich zu der von ihm in Aussicht genommenen Neufassung des Patentanspruches zu äussern; er kann überdies die Vernehmlassung des IGE einholen.
 
-<sup>3</sup> Artikel 25 ist entsprechend anwendbar.
+<sup>3</sup> …[^27-1]
+
+[^27-1]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### III. Klagerecht
 
@@ -586,29 +603,34 @@ Die Wirkung des erteilten Patents gilt in dem Umfang, in dem der Patentinhaber a
 
 #### Art. 29
 
-<sup>1</sup> Ist das Patentgesuch von einem Bewerber eingereicht worden, der gemäss Artikel 3 kein Recht auf das Patent hat, so kann der Berechtigte auf Abtretung des Patentgesuches oder, wenn das Patent bereits erteilt worden ist, entweder auf Abtretung oder auf Erklärung der Nichtigkeit des Patentes klagen.
+<sup>1</sup> Ist die Patentanmeldung von einem Anmelder eingereicht worden, der gemäss Artikel 3 kein Recht auf das Patent hat, so kann der Berechtigte auf Abtretung der Patentanmeldung oder, wenn das Patent bereits erteilt worden ist, entweder auf Abtretung oder auf Erklärung der Nichtigkeit des Patentes klagen.[^29-1]
 
-<sup>2</sup> …[^29-1]
+<sup>2</sup> …[^29-2]
 
-<sup>3</sup> Wird die Abtretung verfügt, so fallen die inzwischen Dritten eingeräumten Lizenzen oder andern Rechte dahin; diese Dritten haben jedoch, wenn sie bereits in gutem Glauben die Erfindung im Inland gewerbsmässig benützt oder besondere Veranstaltungen dazu getroffen haben, Anspruch auf Erteilung einer nicht ausschliesslichen Lizenz.[^29-2]
+<sup>3</sup> Wird die Abtretung verfügt, so fallen die inzwischen Dritten eingeräumten Lizenzen oder andern Rechte dahin; diese Dritten haben jedoch, wenn sie bereits in gutem Glauben die Erfindung im Inland gewerbsmässig benützt oder besondere Veranstaltungen dazu getroffen haben, Anspruch auf Erteilung einer nicht ausschliesslichen Lizenz.[^29-3]
 
 <sup>4</sup> Vorbehalten bleiben alle Schadenersatzansprüche.
 
-<sup>5</sup> Artikel 40*e* ist entsprechend anwendbar.[^29-3]
+<sup>5</sup> Artikel 40*e* ist entsprechend anwendbar.[^29-4]
 
-[^29-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 1976, mit Wirkung seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^29-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Juli 1995 ([AS 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [BBl 1994 IV 950](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
-[^29-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994 ([AS 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [BBl 1994 IV 950](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^29-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^29-2]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 1976, mit Wirkung seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^29-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Juli 1995 ([AS 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [BBl 1994 IV 950](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
+[^29-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994 ([AS 1995 2606](https://fedlex.data.admin.ch/eli/oc/1995/2606_2606_2606); [BBl 1994 IV 950](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### II. Teilabtretung
 
 #### Art. 30
 
-<sup>1</sup> Vermag der Kläger sein Recht nicht hinsichtlich aller Patentansprüche nachzuweisen, so ist die Abtretung des Patentgesuches oder des Patentes unter Streichung jener Patentansprüche zu verfügen, für die er sein Recht nicht nachgewiesen hat.[^30-1]
+<sup>1</sup> Vermag der Kläger sein Recht nicht hinsichtlich aller Patentansprüche nachzuweisen, so ist die Abtretung der Patentanmeldung oder des Patentes unter Streichung jener Patentansprüche zu verfügen, für die er sein Recht nicht nachgewiesen hat.[^30-1]
 
-<sup>2</sup> Artikel 25 ist entsprechend anwendbar.
+<sup>2</sup> Für die gestrichenen Patentansprüche kann der Beklagte die Errichtung eines oder mehrerer neuer Patente beantragen, die das Anmeldedatum des ursprünglichen Patentes erhalten.[^30-2]
+
+<sup>3</sup> Nach Eintragung der Teilabtretung im Patentregister setzt das IGE dem Beklagten eine Frist für den Antrag auf Errichtung neuer Patente nach Absatz 2. Danach erlischt das Antragsrecht.[^30-3]
 
 [^30-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^30-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^30-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### III. Klagefrist
 
@@ -636,7 +658,7 @@ Die Wirkung des erteilten Patents gilt in dem Umfang, in dem der Patentinhaber a
 
 <sup>2</sup> Stehen diese Rechte im Eigentum mehrerer, so kann jeder Berechtigte seine Befugnisse nur mit Zustimmung der andern ausüben; jeder kann aber selbständig über seinen Anteil verfügen und Klage wegen Patentverletzung anheben.
 
-<sup>2bis</sup> Die Übertragung des Patentgesuches und des Patentes durch Rechtsgeschäft bedarf zu ihrer Gültigkeit der schriftlichen Form.[^33-1]
+<sup>2bis</sup> Die Übertragung der Patentanmeldung und des Patentes durch Rechtsgeschäft bedarf zu ihrer Gültigkeit der schriftlichen Form.[^33-1]
 
 <sup>3</sup> Zur Übertragung des Patentes bedarf es der Eintragung im Patentregister nicht; bis zur Eintragung können jedoch die in diesem Gesetz vorgesehenen Klagen gegen den bisherigen Inhaber gerichtet werden.
 
@@ -648,9 +670,9 @@ Die Wirkung des erteilten Patents gilt in dem Umfang, in dem der Patentinhaber a
 
 #### Art. 34
 
-<sup>1</sup> Der Patentbewerber oder Patentinhaber kann einen andern zur Benützung der Erfindung ermächtigen (Lizenzerteilung).
+<sup>1</sup> Der Anmelder oder Patentinhaber kann einen andern zur Benützung der Erfindung ermächtigen (Lizenzerteilung).
 
-<sup>2</sup> Steht das Patentgesuch oder das Patent im Eigentum mehrerer, so kann eine Lizenz nur mit Zustimmung aller Berechtigten erteilt werden.
+<sup>2</sup> Steht die Patentanmeldung oder das Patent im Eigentum mehrerer, so kann eine Lizenz nur mit Zustimmung aller Berechtigten erteilt werden.
 
 <sup>3</sup> Gegenüber einem gutgläubigen Erwerber von Rechten am Patent sind entgegenstehende Lizenzen unwirksam, die im Patentregister nicht eingetragen sind.
 
@@ -700,9 +722,9 @@ Der Bundesrat bestimmt die vom Landwirteprivileg erfassten Pflanzenarten; dabei 
 
 ### I. Abhängige Erfindung
 
-[^tit1-chap5-lvlB-lvlI-1]
+[^tit1-chap1-sec5-lvlB-lvlI-1]
 
-[^tit1-chap5-lvlB-lvlI-1]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ([AS 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [BBl 2004 4155](https://fedlex.data.admin.ch/eli/fga/2004/683)).
+[^tit1-chap1-sec5-lvlB-lvlI-1]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ([AS 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526); [BBl 2004 4155](https://fedlex.data.admin.ch/eli/fga/2004/683)).
 
 #### Art. 36
 
@@ -843,17 +865,18 @@ Für Erfindungen, die ein Erzeugnis oder ein Verfahren zur Diagnose beim Mensche
 
 ### 6. Abschnitt: Gebühren
 
-[^tit1-chap6-1]
+[^tit1-chap1-sec6-1]
 
-[^tit1-chap6-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit1-chap1-sec6-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 #### Art. 41
 
 [^41-1]
 
-Das Erlangen und Aufrechterhalten eines Patents sowie das Behandeln von besonderen Anträgen setzen die Bezahlung der in der Verordnung dafür vorgesehenen Gebühren voraus.
+Das Erlangen und Aufrechterhalten eines Patentes sowie das Behandeln von besonderen Anträgen setzen die Bezahlung der Gebühren voraus, die vom IGE gestützt auf Artikel 13 des Bundesgesetzes vom 24. März 1995[^41-2] über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum festgelegt werden.
 
-[^41-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, in Kraft seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^41-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^41-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 #### Art. 42–44
 
@@ -869,9 +892,9 @@ Das Erlangen und Aufrechterhalten eines Patents sowie das Behandeln von besonder
 
 ### 7. Abschnitt: Weiterbehandlung und Wiedereinsetzung in den früheren Stand
 
-[^tit1-chap7-1]
+[^tit1-chap1-sec7-1]
 
-[^tit1-chap7-1]: Ursprünglich vor Art. 47. Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-1]: Ursprünglich vor Art. 47. Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### A. Weiterbehandlung
 
@@ -879,9 +902,9 @@ Das Erlangen und Aufrechterhalten eines Patents sowie das Behandeln von besonder
 
 [^46a-1]
 
-<sup>1</sup> Hat der Patentbewerber oder der Patentinhaber eine gesetzliche oder vom IGE angesetzte Frist versäumt, so kann er beim IGE die Weiterbehandlung beantragen.[^46a-2]
+<sup>1</sup> Hat der Anmelder oder der Patentinhaber eine gesetzliche oder vom IGE angesetzte Frist versäumt, so kann er beim IGE die Weiterbehandlung beantragen.[^46a-2]
 
-<sup>2</sup> Er muss den Antrag innerhalb von zwei Monaten seit dem Zugang der Benachrichtigung des IGE über das Fristversäumnis einreichen, spätestens jedoch innerhalb von sechs Monaten nach Ablauf der versäumten Frist.[^46a-3] Innerhalb dieser Fristen muss er zudem die unterbliebene Handlung vollständig nachholen, gegebenenfalls das Patentgesuch vervollständigen und die Weiterbehandlungsgebühr bezahlen.
+<sup>2</sup> Er muss den Antrag innerhalb von zwei Monaten seit dem Zugang der Benachrichtigung des IGE über das Fristversäumnis einreichen, spätestens jedoch innerhalb von sechs Monaten nach Ablauf der versäumten Frist.[^46a-3] Innerhalb dieser Fristen muss er zudem die unterbliebene Handlung vollständig nachholen, gegebenenfalls die Patentanmeldung vervollständigen und die Weiterbehandlungsgebühr bezahlen.
 
 <sup>3</sup> Durch die Gutheissung des Weiterbehandlungsantrags wird der Zustand hergestellt, der bei rechtzeitiger Handlung eingetreten wäre. Vorbehalten bleibt Artikel 48.
 
@@ -892,8 +915,8 @@ Die Weiterbehandlung ist ausgeschlossen beim Versäumen:
 - a. der Fristen, die nicht gegenüber dem IGE einzuhalten sind;
 - b. der Fristen für die Einreichung des Weiterbehandlungsantrags (Abs. 2);
 - c. der Fristen für die Einreichung des Wiedereinsetzungsgesuchs (Art. 47 Abs. 2);
-- d. der Fristen für die Einreichung eines Patentgesuchs mit Beanspruchung des Prioritätsrechts und für die Prioritätserklärung (Art. 17 und 19);
-- e.[^46a-4] …
+- d. der Fristen für die Einreichung einer Patentanmeldung mit Beanspruchung des Prioritätsrechts und für die Prioritätserklärung (Art. 17 und 19);
+- e.[^46a-4] der Fristen für die Einreichung des Prüfungsantrags (Art. 58*b* Abs. 3);
 - f. der Frist für die Änderung der technischen Unterlagen (Art. 58 Abs. 1);
 - g.[^46a-5] …
 - h.[^46a-6] von Fristen für das Gesuch um Erteilung eines ergänzenden Schutzzertifikats (Art. 140*f* Abs. 1, 146 Abs. 2 und 147 Abs. 3) oder um Verlängerung von dessen Dauer (Art. 140*o* Abs. 1) sowie um Erteilung eines pädiatrischen ergänzenden Schutzzertifikats (Art. 140*v* Abs. 1);
@@ -902,19 +925,19 @@ Die Weiterbehandlung ist ausgeschlossen beim Versäumen:
 [^46a-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 [^46a-2]: Fassung gemäss Anhang Ziff. 23 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46a-3]: Fassung gemäss Art. 2 des BB vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46a-4]: Aufgehoben durch Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, mit Wirkung seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^46a-4]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^46a-5]: Aufgehoben durch Art. 2 des BB vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^46a-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587)[3793](https://fedlex.data.admin.ch/eli/oc/2018/599); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### B. Wiedereinsetzung in den früheren Stand
 
-[^tit1-chap7-lvlB-1]
+[^tit1-chap1-sec7-lvlB-1]
 
-[^tit1-chap7-lvlB-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-lvlB-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 #### Art. 47
 
-<sup>1</sup> Vermag der Patentbewerber oder Patentinhaber glaubhaft zu machen, dass er ohne sein Verschulden an der Einhaltung einer durch das Gesetz oder die Vollziehungsverordnung vorgeschriebenen oder vom IGE angesetzten Frist verhindert wurde, so ist ihm auf sein Gesuch hin Wiedereinsetzung in den früheren Stand zu gewähren.
+<sup>1</sup> Vermag der Anmelder oder Patentinhaber glaubhaft zu machen, dass er ohne sein Verschulden an der Einhaltung einer durch das Gesetz oder die Verordnung vorgeschriebenen oder vom IGE angesetzten Frist verhindert wurde, so ist ihm auf sein Gesuch hin Wiedereinsetzung in den früheren Stand zu gewähren.[^47-1]
 
 <sup>2</sup> Das Gesuch ist innert zwei Monaten seit dem Wegfall des Hindernisses, spätestens aber innert eines Jahres seit dem Ablauf der versäumten Frist bei der Behörde einzureichen, bei welcher die versäumte Handlung vorzunehmen war; gleichzeitig ist die versäumte Handlung nachzuholen.
 
@@ -922,11 +945,13 @@ Die Weiterbehandlung ist ausgeschlossen beim Versäumen:
 
 <sup>4</sup> Wird dem Gesuch entsprochen, so wird dadurch der Zustand hergestellt, welcher bei rechtzeitiger Handlung eingetreten wäre; vorbehalten bleibt Artikel 48.
 
+[^47-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
 ### C. Vorbehalt von Rechten Dritter
 
-[^tit1-chap7-lvlC-1]
+[^tit1-chap1-sec7-lvlC-1]
 
-[^tit1-chap7-lvlC-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit1-chap1-sec7-lvlC-1]: Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 #### Art. 48
 
@@ -935,7 +960,7 @@ Die Weiterbehandlung ist ausgeschlossen beim Versäumen:
 Das Patent kann demjenigen nicht entgegengehalten werden, der die Erfindung im Inland gutgläubig während der folgenden Zeitabschnitte gewerbsmässig benützt oder dazu besondere Anstalten getroffen hat:
 
 - a. zwischen dem letzten Tag der Frist für die Zahlung einer Patentjahresgebühr (…[^48-1]) und dem Tag, an dem ein Weiterbehandlungsantrag (Art. 46*a*) oder ein Wiedereinsetzungsgesuch (Art. 47) eingereicht worden ist;
-- b. zwischen dem letzten Tag der Prioritätsfrist (Art. 17 Abs. 1) und dem Tag, an dem das Patentgesuch eingereicht worden ist.[^48-2]
+- b. zwischen dem letzten Tag der Prioritätsfrist (Art. 17 Abs. 1) und dem Tag, an dem die Patentanmeldung eingereicht worden ist.[^48-2]
 
 <sup>2</sup> Dieses Mitbenützungsrecht richtet sich nach Artikel 35 Absatz 2.
 
@@ -948,9 +973,9 @@ Das Patent kann demjenigen nicht entgegengehalten werden, der die Erfindung im I
 
 ### 8. Abschnitt: Vertretung und Aufsicht
 
-[^tit1-chap8-1]
+[^tit1-chap1-sec8-1]
 
-[^tit1-chap8-1]: Eingefügt durch Anhang Ziff. 3 des Patentanwaltsgesetzes vom 20. März 2009, in Kraft seit 1. Juli 2011 ([AS 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [BBl 2008 407](https://fedlex.data.admin.ch/eli/fga/2008/143)).
+[^tit1-chap1-sec8-1]: Eingefügt durch Anhang Ziff. 3 des Patentanwaltsgesetzes vom 20. März 2009, in Kraft seit 1. Juli 2011 ([AS 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [BBl 2008 407](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
 ### A. Vertretung
 
@@ -968,7 +993,11 @@ Artikel 13 des Patentanwaltsgesetzes vom 20. März 2009[^48b-1] gilt sinngemäss
 
 [^48b-1]: [SR 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
-## Zweiter Titel: Die Patenterteilung
+### 2. Kapitel: Die Patenterteilung
+
+[^tit1-chap2-1]
+
+[^tit1-chap2-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 1. Abschnitt: Die Patentanmeldung
 
@@ -976,17 +1005,17 @@ Artikel 13 des Patentanwaltsgesetzes vom 20. März 2009[^48b-1] gilt sinngemäss
 
 ### I. Im Allgemeinen
 
-[^tit2-chap1-lvlA-lvlI-1]
+[^tit1-chap2-sec1-lvlA-lvlI-1]
 
-[^tit2-chap1-lvlA-lvlI-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlA-lvlI-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 49
 
-<sup>1</sup> Wer ein Erfindungspatent erlangen will, hat beim IGE ein Patentgesuch einzureichen.
+<sup>1</sup> Wer ein Patent erlangen will, hat beim IGE eine Patentanmeldung einzureichen.
 
 <sup>2</sup>
 
-Das Patentgesuch muss enthalten:
+Die Patentanmeldung muss enthalten:
 
 - a. einen Antrag auf Erteilung des Patentes;
 - b.[^49-1] eine Beschreibung der Erfindung und im Falle der Beanspruchung einer Sequenz, die sich von einer Sequenz oder Teilsequenz eines Gens ableitet, eine konkrete Beschreibung der von ihr erfüllten Funktion;
@@ -1008,12 +1037,12 @@ Das Patentgesuch muss enthalten:
 
 <sup>1</sup>
 
-Das Patentgesuch muss Angaben enthalten über die Quelle:
+Die Patentanmeldung muss Angaben enthalten über die Quelle:
 
-- a. der genetischen Ressource, zu welcher der Erfinder oder der Patentbewerber Zugang hatte, sofern die Erfindung direkt auf dieser Ressource beruht;
-- b. von traditionellem Wissen indigener oder lokaler Gemeinschaften über genetische Ressourcen, zu dem der Erfinder oder der Patentbewerber Zugang hatte, sofern die Erfindung direkt auf solchem Wissen beruht.
+- a. der genetischen Ressource, zu welcher der Erfinder oder der Anmelder Zugang hatte, sofern die Erfindung direkt auf dieser Ressource beruht;
+- b. von traditionellem Wissen indigener oder lokaler Gemeinschaften über genetische Ressourcen, zu dem der Erfinder oder der Anmelder Zugang hatte, sofern die Erfindung direkt auf solchem Wissen beruht.
 
-<sup>2</sup> Ist die Quelle weder dem Erfinder noch dem Patentbewerber bekannt, so muss der Patentbewerber dies schriftlich bestätigen.
+<sup>2</sup> Ist die Quelle weder dem Erfinder noch dem Anmelder bekannt, so muss der Anmelder dies schriftlich bestätigen.
 
 [^49a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1021,13 +1050,13 @@ Das Patentgesuch muss Angaben enthalten über die Quelle:
 
 ### I. Im Allgemeinen
 
-[^tit2-chap1-lvlB-lvlI-1]
+[^tit1-chap2-sec1-lvlB-lvlI-1]
 
-[^tit2-chap1-lvlB-lvlI-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlB-lvlI-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 50
 
-<sup>1</sup> Die Erfindung ist im Patentgesuch so darzulegen, dass der Fachmann sie ausführen kann.[^50-1]
+<sup>1</sup> Die Erfindung ist in der Patentanmeldung so darzulegen, dass der Fachmann sie ausführen kann.[^50-1]
 
 <sup>2</sup> …[^50-2]
 
@@ -1044,11 +1073,12 @@ Das Patentgesuch muss Angaben enthalten über die Quelle:
 
 <sup>2</sup> Kann bei einer Erfindung, die biologisches Material als Erzeugnis betrifft, die Herstellung nicht ausreichend dargelegt werden, so ist die Darlegung durch die Hinterlegung einer Probe des biologischen Materials und, in der Beschreibung, durch einen Hinweis auf die Hinterlegung zu vervollständigen oder zu ersetzen.
 
-<sup>3</sup> Die Erfindung gilt nur dann als im Sinne von Artikel 50 offenbart, wenn die Probe des biologischen Materials spätestens am Anmeldedatum bei einer anerkannten Hinterlegungsstelle hinterlegt worden ist und das Patentgesuch in seiner ursprünglich eingereichten Fassung Angaben zum biologischen Material und den Hinweis auf die Hinterlegung enthält.
+<sup>3</sup> Die Erfindung gilt nur dann als im Sinne von Artikel 50 offenbart, wenn die Probe des biologischen Materials spätestens am Anmeldedatum bei einer anerkannten Hinterlegungsstelle hinterlegt worden ist und die Patentanmeldung in der für das Anmeldedatum massgebenden Fassung Angaben zum biologischen Material und den Hinweis auf die Hinterlegung enthält.[^50a-2]
 
 <sup>4</sup> Der Bundesrat regelt im Einzelnen die Anforderungen an die Hinterlegung, an die Angaben zum biologischen Material und an den Hinweis auf die Hinterlegung
 
 [^50a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^50a-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Patentansprüche
 
@@ -1121,9 +1151,9 @@ Die Zusammenfassung dient ausschliesslich der technischen Information.
 
 ### I. Im allgemeinen
 
-[^tit2-chap1-lvlE-lvlI-1]
+[^tit1-chap2-sec1-lvlE-lvlI-1]
 
-[^tit2-chap1-lvlE-lvlI-1]: Fassung gemäss Art. 2 des BB vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec1-lvlE-lvlI-1]: Fassung gemäss Art. 2 des BB vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 56
 
@@ -1132,49 +1162,69 @@ Die Zusammenfassung dient ausschliesslich der technischen Information.
 Als Anmeldedatum gilt der Tag, an dem der letzte der folgenden Bestandteile eingereicht wird:
 
 - a. ein ausdrücklicher oder stillschweigender Antrag auf Erteilung eines Patents;
-- b. Angaben, anhand deren die Identität des Patentbewerbers festgestellt werden kann;
+- b. Angaben, anhand deren die Identität des Anmelders festgestellt werden kann;
 - c. ein Bestandteil, der dem Aussehen nach als Beschreibung angesehen werden kann.[^56-1]
 
 <sup>2</sup> Für Postsendungen ist der Zeitpunkt massgebend, an welchem sie der Schweizerischen Post zuhanden des IGE übergeben wurden.[^56-2]
 
-<sup>3</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Sprache, in der die Bestandteile nach Absatz 1 einzureichen sind, das Anmeldedatum und die Veröffentlichung, falls ein fehlender Teil der Beschreibung oder eine fehlende Zeichnung nachgereicht wird, sowie den Ersatz der Beschreibung und der Zeichnungen durch einen Verweis auf ein früher eingereichtes Patentgesuch.[^56-3]
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Sprache, in der die Bestandteile nach Absatz 1 einzureichen sind, das Anmeldedatum und die Veröffentlichung, falls ein fehlender Teil der Beschreibung oder eine fehlende Zeichnung nachgereicht wird, sowie den Ersatz der Beschreibung und der Zeichnungen durch einen Verweis auf eine früher eingereichte Patentanmeldung.[^56-3]
 
 [^56-1]: Fassung gemäss Art. 2 des BB vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^56-2]: Fassung gemäss Anhang Ziff. 6 des Postorganisationsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 [^56-3]: Eingefügt durch Art. 2 des BB vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### II. Bei Teilung des Patentgesuches
+### II. Bei Teilung der Anmeldung
 
 #### Art. 57
 
 [^57-1]
 
-<sup>1</sup>
+Eine Patentanmeldung, die aus der Teilung einer früheren hervorgeht, erhält deren Anmeldedatum:
 
-Ein Patentgesuch, das aus der Teilung eines früheren hervorgeht, erhält dessen Anmeldedatum:
+- a. wenn sie bei ihrer Einreichung ausdrücklich als Teilanmeldung bezeichnet wurde;
+- b. wenn die frühere Anmeldung zur Zeit der Einreichung der Teilanmeldung noch hängig war; und
+- c. soweit ihr Gegenstand nicht über den Inhalt der früheren Anmeldung in der für deren Anmeldedatum massgebenden Fassung hinausgeht.
 
-- a. wenn es bei seiner Einreichung ausdrücklich als Teilgesuch bezeichnet wurde;
-- b. wenn das frühere Gesuch zur Zeit der Einreichung des Teilgesuches noch hängig war; und
-- c. soweit sein Gegenstand nicht über den Inhalt des früheren Gesuches in der ursprünglich eingereichten Fassung hinausgeht.
+[^57-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-<sup>2</sup> …[^57-2]
+### F. Bericht über den Stand der Technik
 
-[^57-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^57-2]: Aufgehoben durch Art. 2 des BB vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+#### Art. 57a
 
-### F. Änderung der technischen Unterlagen
+[^57a-1]
+
+<sup>1</sup> Das IGE sorgt für die Erstellung und die Veröffentlichung eines Berichts über den Stand der Technik.
+
+<sup>2</sup> Der Bericht über den Stand der Technik wird auf der Grundlage der Patentansprüche und unter angemessener Berücksichtigung der Beschreibung und gegebenenfalls der Zeichnungen erstellt.
+
+<sup>3</sup> Das IGE kann auf die Erstellung eines Berichts über den Stand der Technik verzichten. In diesem Fall veröffentlicht es einen entsprechenden Hinweis.
+
+<sup>4</sup> Der Bundesrat regelt die Aufgaben des IGE bei der Ermittlung des Stands der Technik, insbesondere die Voraussetzungen für den Verzicht auf die Erstellung des Berichts.
+
+[^57a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### G. Änderung der technischen Unterlagen
+
+[^tit1-chap2-sec1-lvlG-1]
+
+[^tit1-chap2-sec1-lvlG-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 58
 
 [^58-1]
 
-<sup>1</sup> Dem Patentbewerber ist bis zum Abschluss des Prüfungsverfahrens mindestens einmal Gelegenheit zu geben, die technischen Unterlagen zu ändern.
+<sup>1</sup> Dem Anmelder ist bis zum Abschluss des Prüfungsverfahrens mindestens einmal Gelegenheit zu geben, die technischen Unterlagen zu ändern.
 
-<sup>2</sup> Die technischen Unterlagen dürfen nicht so geändert werden, dass der Gegenstand des geänderten Patentgesuchs über den Inhalt der ursprünglich eingereichten technischen Unterlagen hinausgeht.
+<sup>2</sup> Die technischen Unterlagen dürfen nicht so geändert werden, dass der Gegenstand der geänderten Anmeldung über den Inhalt der für das Anmeldedatum massgebenden Fassung hinausgeht.[^58-2]
 
 [^58-1]: Fassung gemäss Art. 2 des BB vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^58-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### G. Veröffentlichung von Patentgesuchen
+### H. Veröffentlichung von Anmeldungen
+
+[^tit1-chap2-sec1-lvlH-1]
+
+[^tit1-chap2-sec1-lvlH-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 58a
 
@@ -1182,68 +1232,98 @@ Ein Patentgesuch, das aus der Teilung eines früheren hervorgeht, erhält dessen
 
 <sup>1</sup>
 
-Das IGE veröffentlicht Patentgesuche:
+Das IGE veröffentlicht Patentanmeldungen:
 
 - a. unverzüglich nach Ablauf von 18 Monaten nach dem Anmeldedatum oder, wenn eine Priorität in Anspruch genommen wurde, nach dem Prioritätsdatum;
 - b. auf Antrag des Anmelders vor Ablauf der Frist nach Buchstabe a.
 
-<sup>2</sup> Die Veröffentlichung enthält die Beschreibung, die Patentansprüche und gegebenenfalls die Zeichnungen, ferner die Zusammenfassung, sofern diese vor Abschluss der technischen Vorbereitungen für die Veröffentlichung vorliegt, und gegebenenfalls den Bericht über den Stand der Technik oder die Recherche internationaler Art nach Artikel 59 Absatz 5. Ist der Bericht über den Stand der Technik oder die Recherche internationaler Art nach Artikel 59 Absatz 5 nicht mit dem Patentgesuch veröffentlicht worden, so werden sie gesondert veröffentlicht.
+<sup>2</sup>
+
+Die Veröffentlichung enthält:
+
+- a. die Beschreibung;
+- b. die Patentansprüche;
+- c. allfällige Zeichnungen;
+- d. die Zusammenfassung; und
+- e. den Bericht über den Stand der Technik.[^58a-2]
+
+<sup>3</sup> Ist der Bericht über den Stand der Technik nicht mit der Anmeldung veröffentlicht worden, so wird er so bald wie möglich gesondert veröffentlicht.[^58a-3]
+
+<sup>4</sup> Anmeldungen können auf Englisch veröffentlicht werden, wenn die technischen Unterlagen nicht in einer schweizerischen Amtssprache abgefasst sind.[^58a-4]
 
 [^58a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^58a-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^58a-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^58a-4]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 2. Abschnitt: Das Prüfungsverfahren
 
-### A. Prüfungsgegenstand
+### A. Antrag auf Prüfung
 
-[^tit2-chap2-lvlA-1]
+#### Art. 58b
 
-[^tit2-chap2-lvlA-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^58b-1]
+
+<sup>1</sup> Das IGE prüft auf Antrag des Anmelders, ob der Gegenstand der Patentanmeldung den Voraussetzungen von Artikel 59 Absätze 1 und 2 genügt.
+
+<sup>2</sup> Der Anmelder und Dritte können beantragen, dass das IGE zusätzlich prüft, ob die Erfindung neu ist und ob sie sich nicht in naheliegender Weise aus dem Stand der Technik ergibt (Art. 59 Abs. 4).
+
+<sup>3</sup> Die Anträge nach den Absätzen 1 und 2 müssen innerhalb von sechs Monaten ab Veröffentlichung des Berichts über den Stand der Technik nach Artikel 57*a* oder der Verzichtsmitteilung durch das IGE gestellt werden. Bei internationalen Anmeldungen nach Artikel 135 beginnt die Frist mit Veröffentlichung des ergänzenden Berichts über den Stand der Technik des IGE nach Artikel 139 oder der Verzichtsmitteilung.
+
+<sup>4</sup> Der Antrag nach Absatz 2 kann nicht zurückgezogen werden.
+
+<sup>5</sup> Dritte, die den Antrag nach Absatz 2 stellen, werden dadurch nicht Partei des Verfahrens.
+
+<sup>6</sup> Der Bundesrat regelt die Einzelheiten des Verfahrens.
+
+[^58b-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### B. Prüfungsgegenstand
+
+[^tit1-chap2-sec2-lvlB-1]
+
+[^tit1-chap2-sec2-lvlB-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59
 
-<sup>1</sup> Entspricht der Gegenstand des Patentgesuchs den Artikeln 1, 1*a*, 1*b* und 2 nicht oder bloss teilweise, so teilt das IGE dies dem Patentbewerber unter Angabe der Gründe mit und setzt ihm eine Frist zur Stellungnahme.[^59-1]
+<sup>1</sup> Entspricht der Gegenstand der Patentanmeldung den Artikeln 1, 1*a*, 1*b* und 2 nicht oder bloss teilweise, so teilt das IGE dies dem Anmelder unter Angabe der Gründe mit und setzt ihm eine Frist zur Stellungnahme.[^59-1]
 
-<sup>2</sup> Genügt das Patentgesuch andern Vorschriften des Gesetzes oder der Verordnung nicht, so setzt das IGE dem Patentbewerber eine Frist zur Behebung der Mängel.[^59-2]
+<sup>2</sup> Genügt die Patentanmeldung andern Vorschriften des Gesetzes oder der Verordnung nicht, so setzt das IGE dem Anmelder eine Frist zur Behebung der Mängel.[^59-2]
 
 <sup>3</sup> …[^59-3]
 
-<sup>4</sup> Das IGE prüft nicht, ob die Erfindung neu ist und ob sie sich in naheliegender Weise aus dem Stand der Technik ergibt.[^59-4]
+<sup>4</sup> Das IGE prüft nur auf Antrag nach Artikel 58*b* Absatz 2, ob die Erfindung neu ist und ob sie sich nicht in naheliegender Weise aus dem Stand der Technik ergibt.[^59-4]
 
-<sup>5</sup>
-
-Der Gesuchsteller kann gegen Zahlung einer Gebühr:
-
-- a. innerhalb von 14 Monaten nach dem Anmeldedatum oder, wenn eine Priorität in Anspruch genommen wurde, nach dem Prioritätsdatum beantragen, dass das IGE einen Bericht über den Stand der Technik erstellt; oder
-- b. innerhalb von sechs Monaten nach dem Anmeldedatum einer Erstanmeldung beantragen, dass das IGE eine Recherche internationaler Art vermittelt.[^59-5]
-
-<sup>6</sup> Ist keine Abklärung nach Absatz 5 vorgenommen worden, so kann jede Person, die nach Artikel 65 Akteneinsicht verlangen kann, gegen Zahlung einer Gebühr beantragen, dass das IGE einen Bericht über den Stand der Technik erstellt.[^59-6]
+<sup>5 und <sup>6</sup></sup> …[^59-5]
 
 [^59-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^59-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^59-3]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 1976, mit Wirkung seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^59-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^59-5]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^59-6]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^59-4]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59-5]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### B. Prüfungsabschluss
+### C. Prüfungsabschluss
+
+[^tit1-chap2-sec2-lvlC-1]
+
+[^tit1-chap2-sec2-lvlC-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59a
 
 [^59a-1]
 
-<sup>1</sup> Sind die Voraussetzungen für die Erteilung des Patentes erfüllt, so teilt das IGE dem Patentbewerber den Abschluss des Prüfungsverfahrens mit.
+<sup>1</sup> Sind die Voraussetzungen für die Erteilung des Patentes erfüllt, so teilt das IGE dem Anmelder den Abschluss des Prüfungsverfahrens mit.
 
 <sup>2</sup> …[^59a-2]
 
-<sup>3</sup>
+<sup>3</sup> Das IGE weist die Patentanmeldung ab, wenn diese nicht zurückgezogen wird, obwohl die Erteilung eines Patentes aufgrund von Artikel 59 Absatz 1 ausgeschlossen ist.[^59a-3]
 
-Das IGE weist das Patentgesuch zurück, wenn:
-
-- a. das Gesuch nicht zurückgezogen wird, obwohl die Erteilung eines Patentes aus den Gründen nach Artikel 59 Absatz 1 ausgeschlossen ist; oder
-- b. die nach Artikel 59 Absatz 2 gerügten Mängel nicht behoben werden.
+<sup>4</sup> Es tritt auf die Anmeldung nicht ein, wenn die nach Artikel 59 Absatz 2 gerügten Mängel nicht behoben werden.[^59a-4]
 
 [^59a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^59a-2]: Aufgehoben durch Anhang Ziff. 4 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, mit Wirkung seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^59a-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59a-4]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 59b
 
@@ -1251,21 +1331,24 @@ Das IGE weist das Patentgesuch zurück, wenn:
 
 [^59b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### C. Einspruch
+### D. Beschwerde
 
 #### Art. 59c
 
 [^59c-1]
 
-<sup>1</sup> Innerhalb von neun Monaten nach der Veröffentlichung der Eintragung in das Patentregister kann jede Person beim IGE gegen ein von diesem erteiltes Patent Einspruch einlegen. Der Einspruch ist schriftlich einzureichen und zu begründen.
+<sup>1</sup> Verfügungen des IGE in Patentsachen unterliegen der Beschwerde an das Bundespatentgericht.
 
-<sup>2</sup> Der Einspruch kann nur darauf gestützt werden, dass der Gegenstand des Patents nach den Artikeln 1*a*, 1*b* und 2 von der Patentierung ausgeschlossen ist.
+<sup>2</sup> Dritte sind zur Beschwerde berechtigt, wenn sie ihre Beschwerde darauf abstützen, dass der Gegenstand des Patentes nach den Artikeln 1*a*, 1*b* und 2 von der Patentierung ausgeschlossen ist.
 
-<sup>3</sup> Heisst das IGE den Einspruch ganz oder teilweise gut, so kann es das Patent widerrufen oder in geändertem Umfang aufrechterhalten. Der Einspruchsentscheid unterliegt der Beschwerde an das Bundesverwaltungsgericht.
+<sup>3</sup> Werden mit der Beschwerde andere Gründe geltend gemacht, richtet sich die Beschwerdeberechtigung nach Artikel 48 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^59c-2].
 
-<sup>4</sup> Der Bundesrat regelt die Einzelheiten, namentlich das Verfahren.
+<sup>4</sup> Für beschwerdeberechtigte Dritte beträgt die Beschwerdefrist vier Monate ab Veröffentlichung der Eintragung des Patentes.
 
-[^59c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+<sup>5</sup> Die Beschwerden nach den Absätzen 2 und 3 haben keine aufschiebende Wirkung. Die Vorinstanz kann in ihrer Verfügung einer allfälligen Beschwerde die aufschiebende Wirkung gewähren; dieselbe Befugnis steht der Beschwerdeinstanz, ihrem Vorsitzenden oder dem Instruktionsrichter nach Einreichung der Beschwerde zu.
+
+[^59c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^59c-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 59d
 
@@ -1275,9 +1358,9 @@ Das IGE weist das Patentgesuch zurück, wenn:
 
 ### 3. Abschnitt: Patentregister; Veröffentlichungen des IGE; elektronischer Behördenverkehr
 
-[^tit2-chap3-1]
+[^tit1-chap2-sec3-1]
 
-[^tit2-chap3-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. Dez. 2003 über die elektronische Signatur, in Kraft seit 1. Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^tit1-chap2-sec3-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. Dez. 2003 über die elektronische Signatur, in Kraft seit 1. Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 ### A. Patentregister
 
@@ -1285,19 +1368,23 @@ Das IGE weist das Patentgesuch zurück, wenn:
 
 <sup>1</sup> Das Patent wird vom IGE durch Eintragung ins Patentregister erteilt.[^60-1]
 
-<sup>1bis</sup> Ins Patentregister werden insbesondere folgende Angaben eingetragen: Nummer des Patentes, Klassifikationssymbole, Titel der Erfindung, Anmeldedatum, Name und Wohnsitz des Patentinhabers sowie gegebenenfalls Prioritätsangaben, Name und Geschäftssitz des Vertreters, Name des Erfinders.[^60-2]
+<sup>1bis</sup> …[^60-2]
 
-<sup>2</sup> Im Patentregister sind ferner alle Änderungen im Bestand des Patentes oder im Recht am Patent einzutragen.
+<sup>2</sup> Der Bundesrat legt fest, welche Angaben ins Patentregister eingetragen werden müssen. In jedem Fall eingetragen werden die Nummer des Patentes, das Anmeldedatum und gegebenenfalls Prioritätsangaben.[^60-3]
 
-<sup>3</sup> …[^60-3]
+<sup>3</sup> Im Patentregister sind ferner alle Änderungen im Bestand des Patentes oder im Recht am Patent einzutragen.[^60-4]
+
+<sup>4</sup> Wird das Patent auf Englisch veröffentlicht, so werden der Titel der Erfindung und die Zusammenfassung in eine schweizerische Amtssprache übersetzt.[^60-5]
 
 [^60-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^60-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^60-3]: Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^60-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-4]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^60-5]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### B. Veröffentlichungen
 
-### I. Betr. Patentgesuche und eingetragene Patente
+### I. Betr. Patentanmeldungen und eingetragene Patente
 
 #### Art. 61
 
@@ -1305,18 +1392,19 @@ Das IGE weist das Patentgesuch zurück, wenn:
 
 Das IGE veröffentlicht:
 
-- a. das Patentgesuch mit den in Artikel 58*a* Absatz 2 aufgeführten Angaben;
-- b. die Eintragung des Patents ins Patentregister, mit den in Artikel 60 Absatz 1<sup>bis</sup> aufgeführten Angaben;
+- a. die Patentanmeldung mit den in Artikel 58*a* Absatz 2 aufgeführten Angaben;
+- b.[^61-1] die Eintragung des Patentes ins Patentregister und die nach Artikel 60 Absatz 2 eingetragenen Angaben;
 - c. die Löschung des Patents im Patentregister;
-- d. die im Register eingetragenen Änderungen im Bestand des Patents und im Recht am Patent.[^61-1]
+- d. die im Register eingetragenen Änderungen im Bestand des Patents und im Recht am Patent.[^61-2]
 
-<sup>2</sup> …[^61-2]
+<sup>2</sup> …[^61-3]
 
-<sup>3</sup> Das IGE bestimmt das Publikationsorgan.[^61-3]
+<sup>3</sup> Das IGE bestimmt das Publikationsorgan.[^61-4]
 
-[^61-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^61-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^61-3]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1998 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633). Fassung gemäss Anhang Ziff. II 4 des Designgesetzes vom 5. Okt. 2001, in Kraft seit 1. Juli 2002 ([AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [BBl 2000 2729](https://fedlex.data.admin.ch/eli/fga/2000/557)).
+[^61-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^61-2]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^61-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^61-4]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1998 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633). Fassung gemäss Anhang Ziff. II 4 des Designgesetzes vom 5. Okt. 2001, in Kraft seit 1. Juli 2002 ([AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [BBl 2000 2729](https://fedlex.data.admin.ch/eli/fga/2000/557)).
 
 #### Art. 62
 
@@ -1326,9 +1414,9 @@ Das IGE veröffentlicht:
 
 ### II. Patentschrift
 
-[^tit2-chap3-lvlB-lvlII-1]
+[^tit1-chap2-sec3-lvlB-lvlII-1]
 
-[^tit2-chap3-lvlB-lvlII-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap2-sec3-lvlB-lvlII-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
 
@@ -1336,10 +1424,11 @@ Das IGE veröffentlicht:
 
 <sup>1</sup> Das IGE gibt für jedes erteilte Patent eine Patentschrift heraus.[^63-2]
 
-<sup>2</sup> Diese enthält die Beschreibung, die Patentansprüche, die Zusammenfassung und gegebenenfalls die Zeichnungen sowie die Registerangaben (Art. 60 Abs. 1<sup>bis</sup>).
+<sup>2</sup> Diese enthält die Beschreibung, die Patentansprüche, die Zusammenfassung und gegebenenfalls die Zeichnungen sowie die nach Artikel 60 Absatz 2 eingetragenen Angaben.[^63-3]
 
 [^63-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 [^63-2]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 63a
 
@@ -1347,13 +1436,13 @@ Das IGE veröffentlicht:
 
 [^63a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### C. Patenturkunde
+### C. …
 
 #### Art. 64
 
-<sup>1</sup> Sobald die Patentschrift zur Herausgabe bereit ist, stellt das IGE die Patenturkunde aus.
+[^64-1]
 
-<sup>2</sup> Diese besteht aus einer Bescheinigung, in welcher die Erfüllung der gesetzlichen Bedingungen für die Erlangung des Patentes festgestellt wird, und aus einem Exemplar der Patentschrift.
+[^64-1]: Aufgehoben durch Ziff. I des BG vom 15. März 2024, mit Wirkung seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Akteneinsicht
 
@@ -1361,11 +1450,12 @@ Das IGE veröffentlicht:
 
 [^65-1]
 
-<sup>1</sup> Nach der Veröffentlichung des Patentgesuchs darf jedermann in das Aktenheft Einsicht nehmen. Der Bundesrat darf das Einsichtsrecht nur einschränken, wenn Fabrikations- oder Geschäftsgeheimnisse oder andere überwiegende Interessen entgegenstehen.
+<sup>1</sup> Nach der Veröffentlichung der Patentanmeldung darf jedermann in das Aktenheft Einsicht nehmen. Der Bundesrat darf das Einsichtsrecht nur einschränken, wenn Fabrikations- oder Geschäftsgeheimnisse oder andere überwiegende Interessen entgegenstehen.
 
-<sup>2</sup> Der Bundesrat regelt, in welchen Fällen vor der Veröffentlichung des Patentgesuchs Einsicht in das Aktenheft gewährt wird. Er regelt insbesondere auch die Einsichtnahme in Patentgesuche, die vor deren Veröffentlichung zurückgewiesen oder zurückgenommen wurden.
+<sup>2</sup> Der Bundesrat regelt, in welchen Fällen vor der Veröffentlichung der Patentanmeldung Einsicht in das Aktenheft gewährt wird. Er regelt insbesondere auch die Einsichtnahme in Patentanmeldungen, auf die vor deren Veröffentlichung nicht eingetreten worden ist, die abgewiesen oder die zurückgezogen wurden.[^65-2]
 
 [^65-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^65-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### E. Elektronischer Behördenverkehr
 
@@ -1385,7 +1475,11 @@ Das IGE veröffentlicht:
 
 [^65a-1]: Eingefügt durch Anhang Ziff. 6 des BG vom 19. Dez. 2003 über die elektronische Signatur, in Kraft seit 1. Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-## Dritter Titel: Rechtsschutz
+### 3. Kapitel: Rechtsschutz
+
+[^tit1-chap3-1]
+
+[^tit1-chap3-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 1. Abschnitt: Gemeinsame Bestimmungen für den zivilrechtlichen und strafrechtlichen Schutz
 
@@ -1454,9 +1548,9 @@ Die Gerichte stellen rechtskräftige Urteile dem IGE in vollständiger Ausfertig
 
 ### G. Verbot der Stufenklagen
 
-[^tit3-chap1-lvlG-1]
+[^tit1-chap3-sec1-lvlG-1]
 
-[^tit3-chap1-lvlG-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec1-lvlG-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 71
 
@@ -1482,7 +1576,7 @@ Wer eine der in den Artikeln 72, 73, 74 oder 81 vorgesehenen Klagen erhoben hat 
 
 <sup>2</sup> …[^73-2]
 
-<sup>3</sup> Die Schadenersatzklage kann erst nach Erteilung des Patents angehoben werden; mit ihr kann aber der Schaden geltend gemacht werden, den der Beklagte verursacht hat, seit er vom Inhalt des Patentgesuchs Kenntnis erlangt hatte, spätestens jedoch seit dessen Veröffentlichung.[^73-3]
+<sup>3</sup> Die Schadenersatzklage kann erst nach Erteilung des Patents angehoben werden; mit ihr kann aber der Schaden geltend gemacht werden, den der Beklagte verursacht hat, seit er vom Inhalt der Patentanmeldung Kenntnis erlangt hatte, spätestens jedoch seit deren Veröffentlichung.[^73-3]
 
 <sup>4</sup> …[^73-4]
 
@@ -1502,7 +1596,7 @@ Wer ein Interesse daran nachweist, kann auf Feststellung des Vorhandenseins oder
 - 3\. dass der Kläger keine der in Artikel 66 genannten Handlungen begangen hat;
 - 4\.[^74-1] dass ein bestimmtes Patent gegenüber dem Kläger kraft Gesetzes unwirksam ist;
 - 5\. dass für zwei bestimmte Patente die Voraussetzungen von Artikel 36 für die Erteilung einer Lizenz vorliegen oder nicht vorliegen;
-- 6\. dass der Kläger die Erfindung gemacht hat, die Gegenstand eines bestimmten Patentgesuches oder Patentes ist;
+- 6\. dass der Kläger die Erfindung gemacht hat, die Gegenstand einer bestimmten Patentanmeldung oder eines Patentes ist;
 - 7\.[^74-2] dass ein bestimmtes Patent, das gegen das Verbot des Doppelschutzes verstösst, dahingefallen ist.
 
 [^74-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
@@ -1600,9 +1694,9 @@ Ersucht eine Person um Anordnung vorsorglicher Massnahmen, so kann sie insbesond
 
 ### III. Patentberühmung
 
-[^tit3-chap3-lvlA-lvlIII-1]
+[^tit1-chap3-sec3-lvlA-lvlIII-1]
 
-[^tit3-chap3-lvlA-lvlIII-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec3-lvlA-lvlIII-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 82
 
@@ -1662,12 +1756,12 @@ Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder V
 [^86-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^86-2]: Aufgehoben durch Anhang Ziff. 11 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-### 4. Abschnitt: Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
+### 4. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
 
-[^tit3-chap4-1][^tit3-chap4-2]
+[^tit1-chap3-sec4-1][^tit1-chap3-sec4-2]
 
-[^tit3-chap4-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^tit3-chap4-2]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^tit1-chap3-sec4-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^tit1-chap3-sec4-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Anzeige verdächtiger Waren
 
@@ -1757,9 +1851,9 @@ Hat das BAZG aufgrund eines Antrags auf Hilfeleistung nach Artikel 86*b* Absatz 
 
 ### I. Verfahren
 
-[^tit3-chap4-lvlF-lvlI-1]
+[^tit1-chap3-sec4-lvlF-lvlI-1]
 
-[^tit3-chap4-lvlF-lvlI-1]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
+[^tit1-chap3-sec4-lvlF-lvlI-1]: Fassung gemäss Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
 #### Art. 86f
 
@@ -1837,8 +1931,6 @@ Das BAZG behält eine Ware zurück, wenn es sich um eine Kleinsendung handelt un
 
 [^86l-1]: Eingefügt durch Ziff. I 6 des BG vom 22. Dez. 2023 über die Einführung eines vereinfachten Verfahrens zur Vernichtung von Kleinsendungen im Immaterialgüterrecht, in Kraft seit 1. Juli 2025 ([AS 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [BBl 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 
-## Vierter Titel: …
-
 #### Art. 87−90
 
 [^8790-1]
@@ -1887,17 +1979,17 @@ Das BAZG behält eine Ware zurück, wenn es sich um eine Kleinsendung handelt un
 
 [^107108-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 1976, mit Wirkung seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Fünfter Titel: Europäische Patentanmeldungen und europäische Patente
+## 2. Titel: Europäische Patentanmeldungen und europäische Patente
 
-[^tit5-1]
+[^tit2-1]
 
-[^tit5-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 1. Abschnitt: Anwendbares Recht
 
-[^tit5-chap1-1]
+[^tit2-sec1-1]
 
-[^tit5-chap1-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec1-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### Geltungsbereich des Gesetzes; Verhältnis zum Europäischen Übereinkommen
 
@@ -1916,23 +2008,23 @@ Das BAZG behält eine Ware zurück, wenn es sich um eine Kleinsendung handelt un
 
 ### 2. Abschnitt: Wirkungen der europäischen Patentanmeldung und des europäischen Patents und Änderungen im Bestand des europäischen Patents
 
-[^tit5-chap2-1]
+[^tit2-sec2-1]
 
-[^tit5-chap2-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848), [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit2-sec2-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848), [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 ### A. Grundsatz
 
 ### I. Wirkungen
 
-[^tit5-chap2-lvlA-lvlI-1]
+[^tit2-sec2-lvlA-lvlI-1]
 
-[^tit5-chap2-lvlA-lvlI-1]: Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848), [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^tit2-sec2-lvlA-lvlI-1]: Fassung gemäss Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung der Akte zur Revision des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 13. Dez. 2007 ([AS 2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848), [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
 
 #### Art. 110
 
 [^110-1]
 
-Die europäische Patentanmeldung, für die der Anmeldetag feststeht, und das europäische Patent haben in der Schweiz dieselbe Wirkungwie ein beim IGE vorschriftsmässig eingereichtes Patentgesuch und ein von diesem IGE erteiltes Erfindungspatent.
+Die europäische Patentanmeldung, für die der Anmeldetag feststeht, und das europäische Patent haben in der Schweiz dieselbe Wirkung wie eine beim IGE vorschriftsmässig eingereichte Patentanmeldung und ein von diesem IGE erteiltes Patent.
 
 [^110-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
@@ -1966,9 +2058,9 @@ Eine Änderung im Bestand des europäischen Patents durch einen rechtskräftigen
 
 ### 3. Abschnitt: Verwaltung des europäischen Patentes
 
-[^tit5-chap3-1]
+[^tit2-sec3-1]
 
-[^tit5-chap3-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec3-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Register für europäische Patente
 
@@ -2004,9 +2096,9 @@ Die Eintragungen im schweizerischen Register für europäische Patente werden vo
 
 ### 4. Abschnitt: Umwandlung der europäischen Patentanmeldung
 
-[^tit5-chap4-1]
+[^tit2-sec4-1]
 
-[^tit5-chap4-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec4-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Umwandlungsgründe
 
@@ -2016,7 +2108,7 @@ Die Eintragungen im schweizerischen Register für europäische Patente werden vo
 
 <sup>1</sup>
 
-Die europäische Patentanmeldung kann in ein schweizerisches Patentgesuch umgewandelt werden:
+Die europäische Patentanmeldung kann in eine schweizerische Patentanmeldung umgewandelt werden:
 
 - a.[^121-2] im Falle von Artikel 135 Absatz 1 Buchstabe a des Europäischen Patentübereinkommens;
 - b. bei Versäumnis der Frist nach Artikel 14 Absatz 2 des Europäischen Patentübereinkommens, wenn die Anmeldung ursprünglich in italienischer Sprache eingereicht worden ist;
@@ -2035,7 +2127,7 @@ Die europäische Patentanmeldung kann in ein schweizerisches Patentgesuch umgewa
 
 [^122-1]
 
-<sup>1</sup> Ist der Umwandlungsantrag vorschriftsgemäss gestellt und dem IGE rechtzeitig zugestellt worden, so gilt das Patentgesuch als am Anmeldetag der europäischen Patentanmeldung eingereicht.
+<sup>1</sup> Ist der Umwandlungsantrag vorschriftsgemäss gestellt und dem IGE rechtzeitig zugestellt worden, so gilt die Patentanmeldung als am Anmeldetag der europäischen Patentanmeldung eingereicht.
 
 <sup>2</sup> Unterlagen der europäischen Patentanmeldung oder des europäischen Patentes, die beim Europäischen Patentamt eingereicht worden sind, gelten als gleichzeitig beim IGE eingereicht.
 
@@ -2049,9 +2141,9 @@ Die europäische Patentanmeldung kann in ein schweizerisches Patentgesuch umgewa
 
 [^123-1]
 
-Ist die Sprache der ursprünglichen Fassung der europäischen Patentanmeldung nicht eine schweizerische Amtssprache, so setzt das IGE dem Patentbewerber eine Frist zur Einreichung einer Übersetzung in eine schweizerische Amtssprache.
+Ist die Sprache der ursprünglichen Fassung der europäischen Patentanmeldung nicht eine schweizerische Amtssprache oder Englisch, so setzt das IGE dem Anmelder eine Frist zur Einreichung einer Übersetzung in eine schweizerische Amtssprache oder ins Englische.
 
-[^123-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^123-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Vorbehalt des Europäischen Patentübereinkommens
 
@@ -2059,17 +2151,17 @@ Ist die Sprache der ursprünglichen Fassung der europäischen Patentanmeldung ni
 
 [^124-1]
 
-<sup>1</sup> Auf das aus der Umwandlung hervorgegangene Patentgesuch sind vorbehältlich Artikel 137 Absatz 1 des Europäischen Patentübereinkommens die für schweizerische Patentgesuche geltenden Bestimmungen anwendbar.
+<sup>1</sup> Auf die aus der Umwandlung hervorgegangene Patentanmeldung sind vorbehältlich Artikel 137 Absatz 1 des Europäischen Patentübereinkommens die für schweizerische Patentanmeldungen geltenden Bestimmungen anwendbar.
 
-<sup>2</sup> Die Patentansprüche eines aus der Umwandlung des europäischen Patentes hervorgegangenen Patentgesuches dürfen nicht so abgefasst werden, dass der Schutzbereich erweitert wird.
+<sup>2</sup> Die Patentansprüche einer aus der Umwandlung des europäischen Patentes hervorgegangenen Patentanmeldung dürfen nicht so abgefasst werden, dass der Schutzbereich erweitert wird.
 
 [^124-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### 5. Abschnitt: Bestimmungen für den zivilrechtlichen und strafrechtlichen Schutz
 
-[^tit5-chap5-1]
+[^tit2-sec5-1]
 
-[^tit5-chap5-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec5-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Verbot des Doppelschutzes
 
@@ -2144,9 +2236,9 @@ Der Richter kann das Verfahren, insbesondere das Urteil aussetzen, wenn:
 
 ### 6. Abschnitt: Rechtshilfegesuche des Europäischen Patentamtes
 
-[^tit5-chap6-1]
+[^tit2-sec6-1]
 
-[^tit5-chap6-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit2-sec6-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### Vermittlungsstelle
 
@@ -2158,17 +2250,17 @@ Das IGE nimmt die Rechtshilfegesuche des Europäischen Patentamtes entgegen und 
 
 [^130-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Sechster Titel: Internationale Patentanmeldungen
+## 3. Titel: Internationale Patentanmeldungen
 
-[^tit6-1]
+[^tit3-1]
 
-[^tit6-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 1. Abschnitt: Anwendbares Recht
 
-[^tit6-chap1-1]
+[^tit3-sec1-1]
 
-[^tit6-chap1-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-sec1-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### Geltungsbereich des Gesetzes; Verhältnis zum Zusammenarbeitsvertrag
 
@@ -2188,9 +2280,9 @@ Das IGE nimmt die Rechtshilfegesuche des Europäischen Patentamtes entgegen und 
 
 ### 2. Abschnitt: In der Schweiz eingereichte Anmeldungen
 
-[^tit6-chap2-1]
+[^tit3-sec2-1]
 
-[^tit6-chap2-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit3-sec2-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
 ### A. Anmeldeamt
 
@@ -2218,9 +2310,9 @@ Das IGE ist Anmeldeamt im Sinne des Artikels 2 des Zusammenarbeitsvertrages für
 
 ### 3. Abschnitt: Für die Schweiz bestimmte Anmeldungen; ausgewähltes Amt
 
-[^tit6-chap3-1]
+[^tit3-sec3-1]
 
-[^tit6-chap3-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit3-sec3-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
 
 ### A. Bestimmungs- und ausgewähltes Amt
 
@@ -2240,7 +2332,7 @@ Das IGE ist Bestimmungs- und ausgewähltes Amt im Sinne von Artikel 2 des Zusamm
 
 [^135-1]
 
-Die internationale Anmeldung, für die das IGE Bestimmungsamt ist, hat, wenn das Anmeldedatum feststeht, in der Schweiz dieselbe Wirkung wie ein bei diesem IGE vorschriftsmässig eingereichtes schweizerisches Patentgesuch.
+Die internationale Anmeldung, für die das IGE Bestimmungsamt ist, hat, wenn das Anmeldedatum feststeht, in der Schweiz dieselbe Wirkung wie eine bei diesem IGE vorschriftsmässig eingereichte schweizerische Patentanmeldung.
 
 [^135-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
@@ -2260,9 +2352,9 @@ Das Prioritätsrecht nach Artikel 17 kann für die internationale Anmeldung auch
 
 [^137-1]
 
-Die Artikel 111 und 112 dieses Gesetzes gelten sinngemäss für die nach Artikel 21 des Zusammenarbeitsvertrages veröffentlichte internationale Anmeldung, für die das IGE Bestimmungsamt ist.
+Artikel 111 gilt sinngemäss für die nach Artikel 21 des Zusammenarbeitsvertrages veröffentlichte internationale Anmeldung, für die das IGE Bestimmungsamt ist.
 
-[^137-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^137-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Formerfordernisse
 
@@ -2275,17 +2367,22 @@ Der Anmelder hat dem IGE innerhalb von 30 Monaten nach dem Anmelde- oder dem Pri
 - a. den Erfinder schriftlich zu nennen;
 - b. Angaben über die Quelle zu machen (Art. 49*a*);
 - c. die Anmeldegebühr zu bezahlen;
-- d. eine Übersetzung in eine schweizerische Amtssprache einzureichen, sofern die internationale Anmeldung nicht in einer solchen Sprache abgefasst ist.
+- d.[^138-2] eine Übersetzung in einer schweizerischen Amtssprache oder auf Englisch einzureichen, sofern die internationale Anmeldung nicht in einer dieser Sprachen abgefasst ist.
 
 [^138-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^138-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### D. …
+### D. Ergänzender Bericht über den Stand der Technik
 
 #### Art. 139
 
 [^139-1]
 
-[^139-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+<sup>1</sup> Zu jeder internationalen Anmeldung nach Artikel 135 wird ein ergänzender Bericht über den Stand der Technik erstellt und veröffentlicht.
+
+<sup>2</sup> Das IGE kann auf einen ergänzenden Bericht über den Stand der Technik verzichten. In diesem Fall veröffentlicht es einen entsprechenden Hinweis.
+
+[^139-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### E. Verbot des Doppelschutzes
 
@@ -2299,18 +2396,18 @@ Der Anmelder hat dem IGE innerhalb von 30 Monaten nach dem Anmelde- oder dem Pri
 
 [^140-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Juni 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1978 550](https://fedlex.data.admin.ch/eli/oc/1978/550_550_550); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
 
-## Siebenter Titel: Ergänzende Schutzzertifikate
+## 4. Titel: Ergänzende Schutzzertifikate
 
-[^tit7-1][^tit7-2]
+[^tit4-1][^tit4-2]
 
-[^tit7-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
-[^tit7-2]: Fassung gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
+[^tit4-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995, in Kraft seit 1. Sept. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)).
+[^tit4-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 1. Abschnitt: Ergänzende Schutzzertifikate für Arzneimittel
 
-[^tit7-chap1-1]
+[^tit4-sec1-1]
 
-[^tit7-chap1-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
+[^tit4-sec1-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
 
 ### A. Grundsatz
 
@@ -2390,28 +2487,29 @@ Das Gesuch um Erteilung des Zertifikats muss eingereicht werden:
 - a. innerhalb von sechs Monaten nach der ersten Zulassung des Arzneimittels mit dem Erzeugnis in der Schweiz;
 - b. innerhalb von sechs Monaten nach der Erteilung des Patents, wenn dieses später erteilt wird als die erste Zulassung.[^140f-1]
 
-<sup>2</sup> Wird die Frist nicht eingehalten, so weist das IGE das Gesuch zurück.
+<sup>2</sup> Wird die Frist nicht eingehalten, so tritt das IGE nicht auf das Gesuch ein.[^140f-2]
 
 [^140f-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^140f-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### G. Erteilung des Zertifikats
 
 #### Art. 140g
 
-Das IGE erteilt das Zertifikat durch Eintragung desselben ins Patentregister.
+Das IGE erteilt das Zertifikat durch Eintragung desselben ins Register für ergänzende Schutzzertifikate[^140g-1].
+
+[^140g-1]: Ausdruck gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ### H. Gebühren
 
 #### Art. 140h
 
-<sup>1</sup> Für das Zertifikat sind eine Anmeldegebühr und Jahresgebühren zu bezahlen.
+[^140h-1]
 
-<sup>2</sup> Die Jahresgebühren sind für die gesamte Laufzeit des Zertifikats auf einmal und im Voraus zu bezahlen.[^140h-1]
+Das Erlangen und Aufrechterhalten eines Zertifikats sowie das Behandeln von besonderen Anträgen setzen die Bezahlung der Gebühren voraus, die vom IGE gestützt auf Artikel 13 des Bundesgesetzes vom 24. März 1995[^140h-2] über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum festgelegt werden.
 
-<sup>3</sup> …[^140h-2]
-
-[^140h-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^140h-2]: Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^140h-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^140h-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 ### I. Vorzeitiges Erlöschen und Sistierung
 
@@ -2456,7 +2554,7 @@ Das Zertifikat ist nichtig, wenn:
 
 #### Art. 140l
 
-<sup>1</sup> Der Bundesrat regelt das Verfahren zur Erteilung der Zertifikate, deren Eintragung in das Patentregister sowie die Veröffentlichungen des IGE.
+<sup>1</sup> Der Bundesrat regelt das Verfahren zur Erteilung der Zertifikate, deren Eintragung in das Register für ergänzende Schutzzertifikate sowie die Veröffentlichungen des IGE.
 
 <sup>2</sup> Er berücksichtigt die Regelung in der Europäischen Union.[^140l-1]
 
@@ -2466,13 +2564,17 @@ Das Zertifikat ist nichtig, wenn:
 
 #### Art. 140m
 
-Soweit die Bestimmungen über die Zertifikate keine Regelung enthalten, gelten die Bestimmungen des ersten, zweiten, dritten und fünften Titels dieses Gesetzes sinngemäss.
+[^140m-1]
+
+Soweit die Bestimmungen über die Zertifikate keine Regelung enthalten, gelten die Bestimmungen des ersten und zweiten Titels dieses Gesetzes sinngemäss.
+
+[^140m-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 2. Abschnitt: Verlängerung der Dauer der ergänzenden Schutzzertifikate für Arzneimittel
 
-[^tit7-chap2-1]
+[^tit4-sec2-1]
 
-[^tit7-chap2-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1998 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633). Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec2-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1998 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633). Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ### A. Voraussetzungen
 
@@ -2495,13 +2597,15 @@ Das IGE verlängert die Schutzdauer (Art. 140*e*) erteilter Zertifikate um sechs
 
 <sup>1</sup> Das Gesuch um Verlängerung der Schutzdauer eines Zertifikats kann frühestens mit dem Gesuch um Erteilung eines Zertifikats und spätestens zwei Jahre vor dessen Ablauf gestellt werden.
 
-<sup>2</sup> Wird die Frist nicht eingehalten, so weist das IGE das Gesuch zurück.
+<sup>2</sup> Wird die Frist nicht eingehalten, so tritt das IGE nicht auf das Gesuch ein.[^140o-1]
+
+[^140o-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### C. Verlängerung der Schutzdauer
 
 #### Art. 140p
 
-Das IGE verlängert die Schutzdauer des Zertifikats durch deren Eintragung im Patentregister.
+Das IGE verlängert die Schutzdauer des Zertifikats durch deren Eintragung im Register für ergänzende Schutzzertifikate.
 
 ### D. Gebühr
 
@@ -2521,15 +2625,16 @@ Für die Verlängerung der Schutzdauer eines Zertifikats ist eine Gebühr zu bez
 
 #### Art. 140s
 
-<sup>1</sup> Der Bundesrat regelt das Verfahren zur Verlängerung der Schutzdauer der Zertifikate, deren Eintragung in das Patentregister sowie die Veröffentlichungen des IGE.
+<sup>1</sup> Der Bundesrat regelt das Verfahren zur Verlängerung der Schutzdauer der Zertifikate, deren Eintragung in das Register für ergänzende Schutzzertifikate sowie die Veröffentlichungen des IGE.
 
 <sup>2</sup> Er berücksichtigt die Regelung in der Europäischen Union.
 
-### 2*a*. Abschnitt: Pädiatrische ergänzende Schutzzertifikate für Arzneimittel
+### 3. Abschnitt: Pädiatrische ergänzende Schutzzertifikate für Arzneimittel
 
-[^tit7-chap2a-1]
+[^tit4-sec3-1][^tit4-sec3-2]
 
-[^tit7-chap2a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec3-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec3-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Voraussetzungen
 
@@ -2566,7 +2671,9 @@ Das IGE erteilt für Wirkstoffe oder Wirkstoffzusammensetzungen von Arzneimittel
 
 <sup>1</sup> Das Gesuch um Erteilung eines pädiatrischen Zertifikats kann spätestens zwei Jahre vor Ablauf der Höchstdauer des Patents gestellt werden.
 
-<sup>2</sup> Wird die Frist nicht eingehalten, so weist das IGE das Gesuch zurück.
+<sup>2</sup> Wird die Frist nicht eingehalten, so tritt das IGE nicht auf das Gesuch ein.[^140v-1]
+
+[^140v-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Gebühr
 
@@ -2597,11 +2704,12 @@ Das pädiatrische Zertifikat ist nichtig, wenn:
 
 Die Artikel 140*a* Absatz 1<sup>bis</sup> und 2, 140*d*, 140*g*, 140*i*, 140*l* Absatz 1 und 140*m* gelten sinngemäss.
 
-### 3. Abschnitt: Ergänzende Schutzzertifikate für Pflanzenschutzmittel
+### 4. Abschnitt: Ergänzende Schutzzertifikate für Pflanzenschutzmittel
 
-[^tit7-chap3-1]
+[^tit4-sec4-1][^tit4-sec4-2]
 
-[^tit7-chap3-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec4-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^tit4-sec4-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 140z
 
@@ -2616,24 +2724,24 @@ Wirkstoffe sind Stoffe und Mikroorganismen, einschliesslich Viren, mit allgemein
 - a. gegen Schadorganismen;
 - b. auf Pflanzen, Pflanzenteile oder Pflanzenerzeugnisse.
 
-## Schlusstitel: Schluss- und Übergangsbestimmungen
+## 5. Titel: Schlussbestimmungen
 
-[^u1-1]
+[^tit5-1]
 
-[^u1-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^tit5-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### A. Ausführungsmassnahmen
 
 #### Art. 141
 
-[^u1-141-1]
+[^141-1]
 
 <sup>1</sup> Der Bundesrat trifft die zur Ausführung dieses Gesetzes nötigen Massnahmen.
 
-<sup>2</sup> Er kann insbesondere Vorschriften aufstellen über die Bildung der Prüfungsstellen und der Einspruchsabteilungen, über deren Geschäftskreis und Verfahren sowie über Fristen und Gebühren.[^u1-141-2]
+<sup>2</sup> Er kann insbesondere Vorschriften aufstellen über die Bildung der Prüfungsstellen und der Einspruchsabteilungen, über deren Geschäftskreis und Verfahren sowie über Fristen und Gebühren.[^141-2]
 
-[^u1-141-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^u1-141-2]: Fassung gemäss Anhang Ziff. 23 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^141-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^141-2]: Fassung gemäss Anhang Ziff. 23 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B. Übergang vom alten zum neuen Recht
 
@@ -2641,46 +2749,48 @@ Wirkstoffe sind Stoffe und Mikroorganismen, einschliesslich Viren, mit allgemein
 
 #### Art. 142
 
-[^u1-142-1]
+[^142-1]
 
-Patente, die beim Inkrafttreten der Änderung vom 22. Juni 2007 dieses Gesetzes noch nicht erloschen sind, unterstehen von diesem Zeitpunkt an dem neuen Recht. Die Nichtigkeitsgründe richten sich weiterhin nach dem alten Recht.[^u1-142-2]
+Patente, die beim Inkrafttreten der Änderung vom 22. Juni 2007 dieses Gesetzes noch nicht erloschen sind, unterstehen von diesem Zeitpunkt an dem neuen Recht. Die Nichtigkeitsgründe richten sich weiterhin nach dem alten Recht.[^142-2]
 
-[^u1-142-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^u1-142-2]: Zweiter Satz eingefügt durch Anhang Ziff. 3 des Patentanwaltsgesetzes vom 20. März 2009, in Kraft seit 1. Juli 2011 ([AS 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [BBl 2008 407](https://fedlex.data.admin.ch/eli/fga/2008/143)).
+[^142-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^142-2]: Zweiter Satz eingefügt durch Anhang Ziff. 3 des Patentanwaltsgesetzes vom 20. März 2009, in Kraft seit 1. Juli 2011 ([AS 2011 2259](https://fedlex.data.admin.ch/eli/oc/2011/312); [BBl 2008 407](https://fedlex.data.admin.ch/eli/fga/2008/143)).
 
-### II. Patentgesuche
+### II. Patentanmeldungen
 
 #### Art. 143
 
-[^u1-143-1]
+[^143-1]
 
-<sup>1</sup> Patentgesuche, die beim Inkrafttreten der Änderung vom 22. Juni 2007 dieses Gesetzes hängig sind, unterstehen von diesem Zeitpunkt an dem neuen Recht.
+<sup>1</sup> Patentanmeldungen, die beim Inkrafttreten der Änderung vom 22. Juni 2007 dieses Gesetzes hängig sind, unterstehen von diesem Zeitpunkt an dem neuen Recht.
 
-<sup>2</sup> Jedoch richten sich weiterhin nach altem Recht:
+<sup>2</sup>
+
+Jedoch richten sich weiterhin nach altem Recht:
 
 - a. die Ausstellungsimmunität;
 - b. die Patentierbarkeit, wenn die Voraussetzungen dafür nach altem Recht günstiger sind.
 
-[^u1-143-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^143-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 144
 
-[^u1-144-1]
+[^144-1]
 
-[^u1-144-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^144-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### III. Zivilrechtliche Verantwortlichkeit
 
 #### Art. 145
 
-[^u1-145-1]
+[^145-1]
 
 <sup>1</sup> Die zivilrechtliche Verantwortlichkeit richtet sich nach den zur Zeit der Handlung geltenden Bestimmungen.
 
-<sup>2</sup> Die Artikel 75 und 77 Absatz 5 sind nur auf Lizenzverträge anwendbar, die nach Inkrafttreten der Änderung vom 22. Juni 2007 dieses Gesetzes abgeschlossen oder bestätigt worden sind.[^u1-145-2]
+<sup>2</sup> Die Artikel 75 und 77 Absatz 5 sind nur auf Lizenzverträge anwendbar, die nach Inkrafttreten der Änderung vom 22. Juni 2007 dieses Gesetzes abgeschlossen oder bestätigt worden sind.[^145-2]
 
-[^u1-145-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^u1-145-2]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^145-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^145-2]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### C. Ergänzende Schutzzertifikate für Pflanzen-schutzmittel
 
@@ -2688,65 +2798,105 @@ Patente, die beim Inkrafttreten der Änderung vom 22. Juni 2007 dieses Gesetzes 
 
 #### Art. 146
 
-[^u1-146-1]
+[^146-1]
 
-<sup>1</sup> Das ergänzende Schutzzertifikat kann für jedes Erzeugnis erteilt werden, das beim Inkrafttreten der Änderung vom 9. Oktober 1998[^u1-146-2] dieses Gesetzes durch ein Patent geschützt ist und für das die Genehmigung für das Inverkehrbringen gemäss Artikel 140*b* nach dem 1. Januar 1985 erteilt wurde.
+<sup>1</sup> Das ergänzende Schutzzertifikat kann für jedes Erzeugnis erteilt werden, das beim Inkrafttreten der Änderung vom 9. Oktober 1998[^146-2] dieses Gesetzes durch ein Patent geschützt ist und für das die Genehmigung für das Inverkehrbringen gemäss Artikel 140*b* nach dem 1. Januar 1985 erteilt wurde.
 
-<sup>2</sup> Das Gesuch um Erteilung des Zertifikats ist innerhalb von sechs Monaten nach dem Inkrafttreten der Änderung vom 9. Oktober 1998 dieses Gesetzes einzureichen. Wird die Frist nicht eingehalten, so weist das IGE das Gesuch zurück.
+<sup>2</sup> Das Gesuch um Erteilung des Zertifikats ist innerhalb von sechs Monaten nach dem Inkrafttreten der Änderung vom 9. Oktober 1998 dieses Gesetzes einzureichen. Wird die Frist nicht eingehalten, so tritt das IGE nicht auf das Gesuch ein.[^146-3]
 
-[^u1-146-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Fassung gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
-[^u1-146-2]: [AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^146-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Fassung gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
+[^146-2]: [AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^146-3]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### II. Erloschene Patente
 
 #### Art. 147
 
-[^u1-147-1]
+[^147-1]
 
-<sup>1</sup> Zertifikate werden auch aufgrund von Patenten erteilt, die zwischen dem 8. Februar 1997 und dem Inkrafttreten der Änderung vom 9. Oktober 1998[^u1-147-2] dieses Gesetzes nach Ablauf der Höchstdauer erloschen sind.
+<sup>1</sup> Zertifikate werden auch aufgrund von Patenten erteilt, die zwischen dem 8. Februar 1997 und dem Inkrafttreten der Änderung vom 9. Oktober 1998[^147-2] dieses Gesetzes nach Ablauf der Höchstdauer erloschen sind.
 
 <sup>2</sup> Die Schutzdauer des Zertifikats berechnet sich nach Artikel 140*e*; seine Wirkungen beginnen jedoch erst mit der Veröffentlichung des Gesuchs um Erteilung des Zertifikats.
 
-<sup>3</sup> Das Gesuch ist innerhalb von zwei Monaten nach dem Inkrafttreten der Änderung vom 9. Oktober 1998 dieses Gesetzes zu stellen. Wird die Frist nicht eingehalten, so weist das IGE das Gesuch zurück.
+<sup>3</sup> Das Gesuch ist innerhalb von zwei Monaten nach dem Inkrafttreten der Änderung vom 9. Oktober 1998 dieses Gesetzes zu stellen. Wird die Frist nicht eingehalten, so tritt das IGE nicht auf das Gesuch ein.[^147-3]
 
 <sup>4</sup> Artikel 48 Absätze 1, 2 und 4 gilt entsprechend für den Zeitraum zwischen dem Erlöschen des Patentes und der Veröffentlichung des Gesuchs.
 
-[^u1-147-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Fassung gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
-[^u1-147-2]: [AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633
+[^147-1]: Eingefügt durch Ziff. I des BG vom 3. Febr. 1995 ([AS 1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879); [BBl 1993 III 706](https://fedlex.data.admin.ch/eli/fga/1993/3_706_666_522)). Fassung gemäss Ziff. I des BG vom 9. Okt. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633).
+[^147-2]: [AS 1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193); BBl **1998** 1633
+[^147-3]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### D. Übergangsbestimmung zur Änderung vom 16. Dezember 2005 des Patentgesetzes
 
 #### Art. 148
 
-[^u1-148-1]
+[^148-1]
 
-<sup>1</sup> Für europäische Patente, die nicht in einer schweizerischen Amtssprache veröffentlicht werden, braucht keine Übersetzung der Patentschrift nach Artikel 113 Absatz 1[^u1-148-2] eingereicht zu werden, wenn die Veröffentlichung des Hinweises auf die Patenterteilung im Europäischen Patentblatt oder, im Falle der Aufrechterhaltung des Patents mit geändertem Umfang, die Veröffentlichung des Hinweises auf die Entscheidung über einen Einspruch oder, im Falle der Beschränkung des Patents, die Veröffentlichung des Hinweises auf die Beschränkung weniger als drei Monate vor Inkrafttreten der Änderung vom 16. Dezember 2005 dieses Gesetzes erfolgt.
+<sup>1</sup> Für europäische Patente, die nicht in einer schweizerischen Amtssprache veröffentlicht werden, braucht keine Übersetzung der Patentschrift nach Artikel 113 Absatz 1[^148-2] eingereicht zu werden, wenn die Veröffentlichung des Hinweises auf die Patenterteilung im Europäischen Patentblatt oder, im Falle der Aufrechterhaltung des Patents mit geändertem Umfang, die Veröffentlichung des Hinweises auf die Entscheidung über einen Einspruch oder, im Falle der Beschränkung des Patents, die Veröffentlichung des Hinweises auf die Beschränkung weniger als drei Monate vor Inkrafttreten der Änderung vom 16. Dezember 2005 dieses Gesetzes erfolgt.
 
-<sup>2</sup> Die Artikel 114[^u1-148-3] und 116[^u1-148-4] sind auch nach Inkrafttreten der Änderung vom 16. Dezember 2005 dieses Gesetzes auf Übersetzungen anwendbar, die nach Artikel 112[^u1-148-5] entweder dem Beklagten zugestellt oder der Öffentlichkeit durch Vermittlung des IGE zugänglich gemacht oder nach Artikel 113[^u1-148-6] dem IGE eingereicht wurden.
+<sup>2</sup> Die Artikel 114[^148-3] und 116[^148-4] sind auch nach Inkrafttreten der Änderung vom 16. Dezember 2005 dieses Gesetzes auf Übersetzungen anwendbar, die nach Artikel 112[^148-5] entweder dem Beklagten zugestellt oder der Öffentlichkeit durch Vermittlung des IGE zugänglich gemacht oder nach Artikel 113[^148-6] dem IGE eingereicht wurden.
 
-[^u1-148-1]: Eingefügt durch Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung des Übereinkommens über die Anwendung des Artikels 65 des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 1. Mai 2008 ([AS 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
-[^u1-148-2]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-3]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-4]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
-[^u1-148-5]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
-[^u1-148-6]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879), [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
+[^148-1]: Eingefügt durch Art. 2 des BB vom 16. Dez. 2005 über die Genehmigung des Übereinkommens über die Anwendung des Artikels 65 des Europäischen Patentübereinkommens und über die Änderung des Patentgesetzes, in Kraft seit 1. Mai 2008 ([AS 2008 1739](https://fedlex.data.admin.ch/eli/oc/2008/251); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)).
+[^148-2]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
+[^148-3]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^148-4]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997)
+[^148-5]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1999 1363](https://fedlex.data.admin.ch/eli/oc/1999/193)
+[^148-6]: [AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997), [1995 2879](https://fedlex.data.admin.ch/eli/oc/1995/2879_2879_2879), [2007 6479](https://fedlex.data.admin.ch/eli/oc/2007/848)
 
 ### E. Übergangsbestimmungen zur Änderung vom 18. März 2016 des Patentgesetzes
 
 #### Art. 149
 
-[^u1-149-1]
+[^149-1]
 
-<sup>1</sup> Für die Dauer von fünf Jahren nach Inkrafttreten der Änderung vom 18. März 2016[^u1-149-2] dieses Gesetzes kann das Gesuch um Verlängerung der Schutzdauer eines Zertifikats spätestens sechs Monate vor dessen Ablauf gestellt werden.
+<sup>1</sup> Für die Dauer von fünf Jahren nach Inkrafttreten der Änderung vom 18. März 2016[^149-2] dieses Gesetzes kann das Gesuch um Verlängerung der Schutzdauer eines Zertifikats spätestens sechs Monate vor dessen Ablauf gestellt werden.
 
 <sup>2</sup> Für die Dauer von fünf Jahren nach Inkrafttreten der vorliegenden Änderung kann das Gesuch um Erteilung eines pädiatrischen Zertifikats spätestens sechs Monate vor Ablauf der Höchstdauer des Patents gestellt werden.
 
-<sup>3</sup> Wird die Zulassung (Art. 9 HMG[^u1-149-3]) eines Arzneimittels mit dem Erzeugnis (Art. 140*n* Abs. 1 Einleitungssatz beziehungsweise 140*t* Abs. 1 Einleitungssatz) innert sechs Monaten nach Inkrafttreten der vorliegenden Änderung beantragt, so finden die Artikel 140*n* Absatz 1 Buchstabe b beziehungsweise 140*t* Absatz 1 Buchstabe b keine Anwendung.
+<sup>3</sup> Wird die Zulassung (Art. 9 HMG[^149-3]) eines Arzneimittels mit dem Erzeugnis (Art. 140*n* Abs. 1 Einleitungssatz beziehungsweise 140*t* Abs. 1 Einleitungssatz) innert sechs Monaten nach Inkrafttreten der vorliegenden Änderung beantragt, so finden die Artikel 140*n* Absatz 1 Buchstabe b beziehungsweise 140*t* Absatz 1 Buchstabe b keine Anwendung.
 
-Datum des Inkrafttretens: 1. Januar 1956[^u1-149-4] Art. 89 Abs. 2, 90 Abs. 2 und 3, 91 Abs. 2 und 3, 96 Abs. 1 und 3, 101 Abs. 1, 105 Abs. 3: 1. Oktober 1959[^u1-149-5]
+[^149-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^149-2]: [AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
+[^149-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
-[^u1-149-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^u1-149-2]: [AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280)
-[^u1-149-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
-[^u1-149-4]: BRB vom 18. Okt. 1955
-[^u1-149-5]: BRB vom 8. Sept. 1959 ([AS 1959 861](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879))
+### F. Übergangsbestimmungen zur Änderung vom 15. März 2024
+
+### I. Patentanmeldung
+
+#### Art. 150
+
+[^150-1]
+
+<sup>1</sup> Patentanmeldungen, die beim Inkrafttreten der Änderung vom 15. März 2024 hängig sind, unterstehen von diesem Zeitpunkt an neuem Recht.
+
+<sup>2</sup> Wurde die Prüfungsgebühr vor Inkrafttreten dieser Änderung bezahlt und ist die Patentanmeldung zum Zeitpunkt des Inkrafttretens nicht sistiert, richten sich der Prüfungsgegenstand, die Erstellung des Berichts über den Stand der Technik sowie dessen Veröffentlichung nach den Artikeln 58*a* und 59 in der bisherigen Fassung. Die Artikel 57*a* und 139 sind nicht anwendbar.
+
+<sup>3</sup> Der Anmelder kann bei einer Patentanmeldung nach Absatz 2 erklären, dass diese nach neuem Recht beurteilt werden soll.
+
+<sup>4</sup> Wird eine Patentanmeldung nach Inkrafttreten dieser Änderung sistiert, so untersteht sie in jedem Fall neuem Recht.
+
+[^150-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### II. Nichtigkeitsgründe
+
+#### Art. 151
+
+[^151-1]
+
+Patente, die beim Inkrafttreten der Änderung vom 15. März 2024 noch nicht erloschen sind, unterstehen von diesem Zeitpunkt an neuem Recht. Die Beurteilung von Handlungen, die vor Inkrafttreten dieser Änderung vorgenommen wurden, richtet sich nach bisherigem Recht.
+
+[^151-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### III. Einspruch
+
+#### Art. 152
+
+[^152-1]
+
+Ist die Frist für eine Beschwerde gegen die Erteilung eines Patentes bei Inkrafttreten der Änderung vom 15. März 2024 abgelaufen, ist Artikel 59*c* in seiner bisherigen Fassung anwendbar. Der Einspruchsentscheid unterliegt der Beschwerde an das Bundespatentgericht.
+
+Datum des Inkrafttretens: 1. Januar 1956[^152-2] Art. 89 Abs. 2, 90 Abs. 2 und 3, 91 Abs. 2 und 3, 96 Abs. 1 und 3, 101 Abs. 1, 105 Abs. 3: 1. Oktober 1959[^152-3]
+
+[^152-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^152-2]: BRB vom 18. Okt. 1955
+[^152-3]: BRB vom 8. Sept. 1959 ([AS 1959 861](https://fedlex.data.admin.ch/eli/oc/1959/861_891_879))
