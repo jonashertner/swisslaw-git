@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° luglio 2026)
+del 14 marzo 2008 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -56,10 +56,10 @@ ordina:
 Nella presente ordinanza si intende per:
 
 - a. *piano previsionale*[^2-1]: serie temporale, pattuita in livelli medi di potenza, relativa alla fornitura e all’acquisto di energia elettrica durante un determinato periodo di tempo;
-- b.[^2-2] *...*
+- b.[^2-2] …
 - c. *punto di immissione e punto di prelievo*: punto della rete in cui un flusso di energia in entrata e in uscita è rilevato e conteggiato o registrato (punto di misurazione);
 - d. *gestione del bilancio*: insieme dei provvedimenti tecnici, organizzativi e di conteggio per la tenuta continua del bilancio energetico e di potenza nel sistema dell’energia elettrica; vi rientrano in particolare la gestione del piano previsionale, la gestione dei dati di misurazione e la gestione del pareggio di bilancio;
-- e.[^2-3] *...*
+- e.[^2-3] …
 - f. *consumatori finali con servizio universale*: consumatori fissi finali e consumatori finali che rinunciano all’accesso alla rete (art. 6 cpv. 1 LAEl).
 
 <sup>2</sup>
@@ -86,7 +86,7 @@ Alla *rete di trasporto* appartengono in particolare anche:
 
 #### Art. 3
 
-**...[^3-1]**
+**…[^3-1]**
 
 <sup>1</sup> I gestori di reti emanano direttive trasparenti e non discriminatorie per l’attribuzione di consumatori finali, produttori di energia elettrica e gestori di reti a un determinato livello di tensione nonché per la qualità minima della fornitura di energia elettrica per livello di rete.
 
@@ -356,20 +356,20 @@ Nel conto dei costi devono essere esposte separatamente tutte le voci necessarie
 - c. costi d’esercizio delle reti;
 - d. costi delle reti di livello superiore;
 - e. costi delle prestazioni di servizio relative al sistema;
-- e<sup>bis</sup>.[^7-1] i costi in relazione alla riserva di energia elettrica secondo l’ordinanza del 25 gennaio 2023[^7-2] sulla riserva invernale (OREI);
-- e<sup>ter</sup>.[^7-3] i costi secondo l’articolo 15*a* LAEl;
-- f.[^7-4] costi per la metrologia e l’informazione, tra cui segnatamente i costi d’esercizio e i costi calcolatori del capitale relativi agli impianti necessari per la metrologia nonché il numero dei punti di misurazione;
-- f<sup>bis</sup>.[^7-5] costi per i sistemi di misurazione intelligente, tra cui segnatamente i costi d’esercizio e i costi calcolatori del capitale nonché il numero dei punti di misurazione;
-- f<sup>ter</sup>.[^7-6] costi per l’utilizzo della piattaforma centrale dei dati (piattaforma dei dati) di cui agli articoli 17*g*–17*i* LAEl;
+- e<sup>bis</sup>.[^7-1] ...
+- e<sup>ter</sup>.[^7-2] i costi secondo l’articolo 15*a* LAEl;
+- f.[^7-3] costi per la metrologia e l’informazione, tra cui segnatamente i costi d’esercizio e i costi calcolatori del capitale relativi agli impianti necessari per la metrologia nonché il numero dei punti di misurazione;
+- f<sup>bis</sup>.[^7-4] costi per i sistemi di misurazione intelligente, tra cui segnatamente i costi d’esercizio e i costi calcolatori del capitale nonché il numero dei punti di misurazione;
+- f<sup>ter</sup>.[^7-5] costi per l’utilizzo della piattaforma centrale dei dati (piattaforma dei dati) di cui agli articoli 17*g*–17*i* LAEl;
 - g. costi amministrativi;
-- h.[^7-7] costi per i potenziamenti della rete secondo l’articolo 15*b* LAEl;
+- h.[^7-6] costi per i potenziamenti della rete secondo l’articolo 15*b* LAEl;
 - i. costi per gli allacciamenti alla rete e i contributi per i costi di rete;
 - j. altri costi fatturati individualmente;
 - k. tributi e prestazioni agli enti pubblici;
 - l. imposte dirette;
-- m.[^7-8] costi per sistemi di controllo e di regolazione intelligenti, rimunerazioni incluse;
-- n.[^7-9] costi per misure innovative; e
-- o.[^7-10] costi di sensibilizzazione nell’ambito della riduzione del consumo.
+- m.[^7-7] costi per sistemi di controllo e di regolazione intelligenti, rimunerazioni incluse;
+- n.[^7-8] costi per misure innovative; e
+- o.[^7-9] costi di sensibilizzazione nell’ambito della riduzione del consumo.
 
 <sup>4</sup> Ogni gestore e ogni proprietario di rete specifica le regole per l’attivazione degli investimenti.
 
@@ -377,19 +377,18 @@ Nel conto dei costi devono essere esposte separatamente tutte le voci necessarie
 
 <sup>6</sup> I proprietari di rete forniscono al gestore di rete le indicazioni necessarie all’allestimento del conto dei costi.
 
-<sup>7</sup> I gestori di rete presentano alla ElCom il conto dei costi al più tardi entro il 31 agosto.[^7-11]
+<sup>7</sup> I gestori di rete presentano alla ElCom il conto dei costi al più tardi entro il 31 agosto.[^7-10]
 
 [^7-1]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nuovo testo giusta l’all. cifra II n. 2 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^7-2]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
-[^7-3]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-5]: Introdotta dalla cifra I dell’O del 1° nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-6]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-7]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-8]: Introdotta dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-2]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-4]: Introdotta dalla cifra I dell’O del 1° nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-5]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-6]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-7]: Introdotta dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-8]: Introdotta dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^7-9]: Introdotta dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-10]: Introdotta dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-11]: Introdotto dalla cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^7-10]: Introdotto dalla cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 7a
 
@@ -456,11 +455,11 @@ Al fine di garantire un approvvigionamento regolare di energia elettrica secondo
 - i. cambiamento di fornitore; e
 - j. garanzia del diritto dei consumatori finali, dei produttori e dei gestori di impianti di stoccaggio di cui all’articolo 8*a*<sup>septies</sup> capoverso 2[^8-9].[^8-10]
 
-<sup>3bis</sup> ...[^8-11]
+<sup>3bis</sup> …[^8-11]
 
 <sup>4</sup> Su richiesta dei consumatori finali, dei produttori o dei gestori di impianti di stoccaggio interessati, i gestori di rete forniscono a terzi, dietro versamento di un indennizzo a copertura dei costi, dati di misurazione o di base supplementari o elaborati secondo modalità differenti. Devono essere forniti tutti i dati rilevati negli ultimi cinque anni.[^8-12]
 
-<sup>5</sup> ...[^8-13]
+<sup>5</sup> …[^8-13]
 
 [^8-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139))
 [^8-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139))
@@ -586,7 +585,7 @@ Essa contiene in particolare le informazioni e i documenti seguenti:
 
 <sup>4</sup> La maggioranza delle quote e la maggioranza dei diritti di voto devono essere detenute da persone che hanno il proprio domicilio o la propria sede in Svizzera.
 
-[^8asexies-1]: Originario art. 8a<sup>bis</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asexies-1]: Originario art. 8*a*<sup>bis</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 #### Art. 8a<sup>septies</sup>
 
@@ -610,11 +609,11 @@ Pubblica in Internet in un formato leggibile meccanicamente i seguenti dati di m
 
 Su richiesta comunica:
 
-- a. alla ElCom: i dati di base e di misurazione nonché i dati di cui al capoverso 4 in forma non anonimizzata per i suoi compiti di esecuzione nel quadro della LAEl;
+- a.[^8asepties-2] alla ElCom: i dati di base e di misurazione nonché i dati di cui al capoverso 4 in forma non anonimizzata per i suoi compiti di esecuzione nel quadro della LAEl o della legge federale del 21 marzo 2025[^8asepties-3] sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso;
 - b. all’Ufficio federale dell’Energia (UFE): i dati di base e di misurazione nonché i dati di cui al capoverso 4 in forma pseudonimizzata per le valutazioni statistiche;
-- b<sup>bis</sup>.[^8asepties-2] all’organizzazione dell’approvvigionamento economico del Paese e all’Associazione delle aziende elettriche svizzere: i dati di misurazione e i dati di base dei consumatori finali nonché i dati di base dei gestori delle reti di distribuzione in forma non anonimizzata per la preparazione e l’esecuzione delle misure secondo la legge del 17 giugno 2016[^8asepties-3] sull’approvvigionamento del Paese;
-- c.[^8asepties-4] alle autorità cantonali: i dati di misurazione e i dati di base dei grandi consumatori in forma non anonimizzata per i compiti di esecuzione di cui all’articolo 46 capoverso 3 LEne[^8asepties-5] nonché quelli dei consumatori finali in forma pseudonimizzata per altri compiti di esecuzione secondo il diritto federale o cantonale;
-- d.[^8asepties-6] alle università cantonali, ai politecnici federali (PF), agli istituti di ricerca del settore dei PF e alle scuole universitarie professionali: i dati di misurazione e i dati di base in forma anonimizzata per scopi di ricerca.
+- b<sup>bis</sup>.[^8asepties-4] all’organizzazione dell’approvvigionamento economico del Paese e all’Associazione delle aziende elettriche svizzere: i dati di misurazione e i dati di base dei consumatori finali nonché i dati di base dei gestori delle reti di distribuzione in forma non anonimizzata per la preparazione e l’esecuzione delle misure secondo la legge del 17 giugno 2016[^8asepties-5] sull’approvvigionamento del Paese;
+- c.[^8asepties-6] alle autorità cantonali: i dati di misurazione e i dati di base dei grandi consumatori in forma non anonimizzata per i compiti di esecuzione di cui all’articolo 46 capoverso 3 LEne[^8asepties-7] nonché quelli dei consumatori finali in forma pseudonimizzata per altri compiti di esecuzione secondo il diritto federale o cantonale;
+- d.[^8asepties-8] alle università cantonali, ai politecnici federali (PF), agli istituti di ricerca del settore dei PF e alle scuole universitarie professionali: i dati di misurazione e i dati di base in forma anonimizzata per scopi di ricerca.
 
 <sup>6</sup>
 
@@ -624,12 +623,14 @@ Esso salva sulla piattaforma dei dati:
 - b. i dati di base e di misurazione in forma anonimizzata per i suoi compiti secondo il capoverso 3;
 - c. i dati di misurazione in forma pseudonimizzata per i suoi compiti secondo il capoverso 4.
 
-[^8asepties-1]: Originario art. 8a<sup>ter</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8asepties-2]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
-[^8asepties-3]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
-[^8asepties-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
-[^8asepties-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
-[^8asepties-6]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-1]: Originario art. 8*a*<sup>ter</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asepties-2]: Nuovo testo giusta l’art. 41 n. 1 dell’O del 2 ott. 2026 sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso, in vigore dal 1° gen. 2027 ([RU 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
+[^8asepties-3]: [RS 730.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40470)
+[^8asepties-4]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-5]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^8asepties-6]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-7]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8asepties-8]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
 
 #### Art. 8a<sup>octies</sup>
 
@@ -641,7 +642,7 @@ Esso salva sulla piattaforma dei dati:
 
 <sup>3</sup> Il gestore della piattaforma dei dati garantisce che, qualora abbandoni l’attività o venga aperta una procedura di fallimento a suo carico, i dati necessari all’esercizio della piattaforma dei dati siano trasmessi gratuitamente al DATEC o a un servizio designato da quest’ultimo. Provvede in seguito a distruggere i suoi dati.
 
-[^8aocties-1]: Originario art. 8a<sup>quater</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8aocties-1]: Originario art. 8*a*<sup>quater</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^8aocties-2]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 
 #### Art. 8a<sup>novies</sup>
@@ -660,13 +661,13 @@ Esso salva sulla piattaforma dei dati:
 
 <sup>6</sup> Il conto dei costi deve essere presentato ogni anno alla ElCom.
 
-[^8anovies-1]: Originario art. 8a<sup>quinquies</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8anovies-1]: Originario art. 8*a*<sup>quinquies</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 ### Sezione 1*c*: Sistemi di misurazione, di controllo e di regolazione intelligenti
 
 [^chap3-sec1c-1]
 
-[^chap3-sec1c-1]: Originaria prima dell'art. 8a<sup>sexies.</sup> Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^chap3-sec1c-1]: Originaria prima dell'art. 8*a*<sup>sexies</sup>. Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 #### Art. 8a<sup>decies</sup>
 
@@ -848,7 +849,7 @@ Possono comunicare i dati di base e di misurazione provenienti dall’impiego di
 
 **Costi d’esercizio computabili**
 
-<sup>1</sup> ...[^12-1]
+<sup>1</sup> …[^12-1]
 
 <sup>2</sup> I gestori di rete fissano direttive trasparenti, unitarie e non discriminatorie per la determinazione dei costi d’esercizio.
 
@@ -1473,7 +1474,7 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 
 <sup>2</sup> Fissa i prezzi relativi alle prestazioni di servizio in modo da coprirne i costi. Se dalla vendita di prestazioni di servizio risulta un guadagno o una perdita, il relativo importo deve essere preso in considerazione nel calcolo dei costi di cui all’articolo 15 capoverso 2 lettera a.
 
-<sup>3 a <sup>5</sup></sup> ...[^22-1]
+<sup>3–5</sup> …[^22-1]
 
 <sup>6</sup> Riferisce annualmente alla ElCom sulla fornitura effettiva e sull’attribuzione dei costi delle prestazioni di servizio relative al sistema.
 
@@ -1491,7 +1492,7 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 
 <sup>4</sup> Ogni gruppo di bilancio designa un partecipante che rappresenti il gruppo di bilancio dinanzi alla società nazionale di rete e a terzi (responsabile del gruppo di bilancio).
 
-<sup>5</sup> ...[^23-1]
+<sup>5</sup> …[^23-1]
 
 [^23-1]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4629](https://fedlex.data.admin.ch/eli/oc/2016/747)).
 
@@ -1572,58 +1573,23 @@ La domanda per un progetto pilota deve essere presentata al DATEC. Essa deve con
 
 <sup>6</sup> Al termine del progetto e in vista dell’adozione di un’eventuale modifica legislativa, l’UFE esegue una valutazione all’attenzione del DATEC. Informa il pubblico in merito ai progetti e alle informazioni acquisite.
 
-## Capitolo 4*b*: Informazioni sul mercato all’ingrosso dell’elettricità
+## Capitolo 4*b*: …
 
 [^chap4b-1]
 
-[^chap4b-1]: Originario capitolo 4*a*. Introdotto dalla cifra I dell’O del 30 gen. 2013, in vigore dal 1° lug. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^chap4b-1]: Originario capitolo 4*a*.
 
 #### Art. 26a<sup>bis</sup>
 
-**Obbligo d’informazione**[^26abis-1]
+[^26abis-1]
 
-<sup>1</sup> Chi ha sede o domicilio in Svizzera, opera in un mercato all’ingrosso dell’energia elettrica dell’UE ed è tenuto a rilasciare informazioni alle autorità dell’UE o degli Stati membri ai sensi del Regolamento (UE) n. 1227/2011 (Regolamento UE REMIT)[^26abis-2] deve fornire contemporaneamente le medesime informazioni, nella stessa forma, anche alla ElCom.
+[^26abis-1]: Originario art. 26*a*. Introdotto dalla cifra I dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Abrogato dall’art. 41 n. 1 dell’O del 2 ott. 2026 sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso, conn effetto dal 1° gen. 2027 ([RU 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
-<sup>2</sup>
+#### Art. 26b–26c
 
-Alla ElCom devono essere forniti, in particolare, dati concernenti:
+[^26b26c-1]
 
-- a. le transazioni di prodotti all’ingrosso;
-- b. la capacità, la disponibilità e l’indisponibilità, nonché l’impiego di impianti per la produzione e il trasporto di energia elettrica.
-
-<sup>3</sup> Alla ElCom devono inoltre essere fornite le informazioni privilegiate pubblicate ai sensi del Regolamento UE REMIT. La ElCom può stabilire il momento della fornitura di questi dati.
-
-<sup>4</sup> Inoltre devono essere comunicate alla ElCom la ditta o il nome, la forma giuridica nonché la sede o il domicilio. In alternativa, può essere fornito anche l’insieme di dati richiesto nell’UE per la registrazione in conformità al Regolamento UE REMIT.
-
-<sup>5</sup> La ElCom può consentire eccezioni all’obbligo d’informazione, in particolare quando si può presumere che i dati in questione siano di importanza marginale per i mercati dell’energia elettrica.
-
-<sup>6</sup>
-
-Sono considerati prodotti energetici all’ingrosso i seguenti contratti e derivati, indipendentemente dal fatto che siano negoziati in borsa o in altro modo:
-
-- a. i contratti relativi al trasporto e alla fornitura di energia elettrica che non riguardino direttamente l’impiego di tale energia elettrica da parte dei consumatori finali;
-- b. i derivati relativi alla produzione, al commercio, alla fornitura e al trasporto dell’energia elettrica.
-
-[^26abis-1]: Originario art. 26*a.*
-[^26abis-2]: R (UE) n. 1227/2011 del Parlamento europeo e del Consiglio del 25 ott. 2011 concernente l’integrità e la trasparenza del mercato dell’energia all’ingrosso, testo conformemente a GU L 326 dell’8.12.2011, pag. 1.
-
-#### Art. 26b
-
-**Elaborazione dei dati da parte della ElCom**
-
-<sup>1</sup> La ElCom può elaborare i dati ricevuti dalle persone soggette all’obbligo d’informazione.
-
-<sup>2</sup> La ElCom stabilisce il momento della prima fornitura dei dati.
-
-#### Art. 26c
-
-**Sistema informativo**
-
-<sup>1</sup> La ElCom gestisce un sistema informativo per i dati e lo struttura secondo le categorie di cui all’articolo 26*a* capoverso 2 lettere a e b, nonché capoversi 3 e 4.
-
-<sup>2</sup> Garantisce un esercizio sicuro del sistema e protegge i dati contro qualsiasi accesso non autorizzato mediante misure organizzative e tecniche.
-
-<sup>3</sup> Conserva i dati fino a quando ne ha bisogno, comunque non oltre dieci anni dalla loro fornitura. Successivamente, li mette a disposizione dell’Archivio federale. I dati di cui l’Archivio federale non ritiene necessaria l’archiviazione sono cancellati.
+[^26b26c-1]: Introdotti dalla cifra I dell’O del 30 gen. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Abrogati dall’art. 41 n. 1 dell’O del 2 ott. 2026 sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso, conn effetto dal 1° gen. 2027 ([RU 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
 ## Capitolo 4*c*: Pubblicazione di confronti della qualità e dell’efficienza
 
@@ -1656,7 +1622,7 @@ L’UFE emana le prescrizioni tecniche e amministrative necessarie. Può in part
 
 <sup>3</sup> Ad intervalli regolari, la prima volta al più tardi quattro anni dopo l’entrata in vigore della presente ordinanza, riferisce al Consiglio federale sull’adeguatezza, efficacia e efficienza dei provvedimenti previsti nella LAEl e nella presente ordinanza.
 
-<sup>4</sup> 4 Prima di emanare le direttive di cui agli articoli 3 capoverso 1, 7 capoverso 2, 8a capoverso 2, 8abis capoverso 4, 8b capoverso 2, 12 capoverso 2, 13 capoverso 1, 13abis capoverso 2, 17 e 23 capoverso 2, i gestori di rete consultano in particolare i rappresentanti dei consumatori finali e dei produttori. Pubblicano le succitate direttive e le direttive di cui agli articoli 8 capoverso 2, 18i e 19c capoverso 5 tramite un unico indirizzo Internet liberamente accessibile. Se non riescono ad accordarsi su queste direttive in tempo utile o se queste ultime non sono adeguate, l’UFE può emanare disposizioni di esecuzione in questi settori.[^27-2]
+<sup>4</sup> Prima di emanare le direttive di cui agli articoli 3 capoverso 1, 7 capoverso 2, 8*a* capoverso 2, 8*a*<sup>bis</sup> capoverso 4, 8*b* capoverso 2, 12 capoverso 2, 13 capoverso 1, 13*a*<sup>bis</sup> capoverso 2, 17 e 23 capoverso 2, i gestori di rete consultano in particolare i rappresentanti dei consumatori finali e dei produttori. Pubblicano le succitate direttive e le direttive di cui agli articoli 8 capoverso 2, 18*i* e 19*c* capoverso 5 tramite un unico indirizzo Internet liberamente accessibile. Se non riescono ad accordarsi su queste direttive in tempo utile o se queste ultime non sono adeguate, l’UFE può emanare disposizioni di esecuzione in questi settori.[^27-2]
 
 <sup>5</sup> Per il ricorso a organizzazioni private si applica per analogia l’articolo 67 LEne[^27-3].[^27-4]
 
@@ -1750,9 +1716,9 @@ L’impiego delle entrate risultanti dalle procedure di attribuzione orientate a
 Durante il periodo transitorio di cui al capoverso 1, il gestore di rete decide quando intende dotare i consumatori finali e i produttori di un sistema di misurazione intelligente di cui agli articoli 8*a*<sup>decies</sup> e 8*b*. In ogni caso, sono tenuti a dotarsi di un tale sistema di misurazione intelligente:[^31e-2]
 
 - a. i consumatori finali che esercitano il loro diritto di accesso alla rete;
-- b.[^31e-3] ...
+- b.[^31e-3] …
 
-<sup>3 e <sup>4</sup></sup> ...[^31e-4]
+<sup>3 e <sup>4</sup></sup> …[^31e-4]
 
 <sup>5</sup> Gli ammortamenti straordinari necessari per lo smontaggio dei dispositivi di misurazione del gestore di rete non ancora totalmente ammortizzati sono anch’essi costi computabili.
 
@@ -1904,7 +1870,7 @@ Le informazioni di cui all*’*articolo 19d capoverso 2 devono essere fornite pe
 
 <sup>3</sup> L’articolo 2 capoverso 2 lettera d entra in vigore il 1° gennaio 2010.
 
-<sup>4</sup> ...[^32-2]
+<sup>4</sup> …[^32-2]
 
 [^32-1]: Abrogata dalla cifra I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 [^32-2]: Abrogato dalla cifra I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).

@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 1<sup>er</sup> juillet 2026)
+du 14 mars 2008 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -356,20 +356,20 @@ Cette comptabilité doit faire apparaître séparément tous les postes nécessa
 - c. les coûts d’exploitation des réseaux;
 - d. les coûts des réseaux des niveaux supérieurs;
 - e. les coûts des services-système;
-- e<sup>bis</sup>.[^7-1] les coûts liés à la réserve d’électricité visée par l’ordonnance du 25 janvier 2023 sur une réserve d’hiver (OIRH)[^7-2];
-- e<sup>ter</sup>.[^7-3] les coûts visés à l’art. 15*a* LApEl;
-- f.[^7-4] les coûts des systèmes de mesure et d’information, notamment les coûts d’exploitation et les coûts de capital calculés des installations requises pour les systèmes de mesure ainsi que le nombre de points de mesure;
-- f<sup>bis</sup>.[^7-5] les coûts des systèmes de mesure intelligents, notamment les coûts d’exploitation et les coûts de capital calculés ainsi que le nombre de points de mesure;
-- f<sup>ter</sup>.[^7-6] les coûts d’utilisation de la plateforme centrale de données (plateforme de données) visée aux art. 17*g* à 17*i* LApEl;
+- e<sup>bis</sup>.[^7-1] …
+- e<sup>ter</sup>.[^7-2] les coûts visés à l’art. 15*a* LApEl;
+- f.[^7-3] les coûts des systèmes de mesure et d’information, notamment les coûts d’exploitation et les coûts de capital calculés des installations requises pour les systèmes de mesure ainsi que le nombre de points de mesure;
+- f<sup>bis</sup>.[^7-4] les coûts des systèmes de mesure intelligents, notamment les coûts d’exploitation et les coûts de capital calculés ainsi que le nombre de points de mesure;
+- f<sup>ter</sup>.[^7-5] les coûts d’utilisation de la plateforme centrale de données (plateforme de données) visée aux art. 17*g* à 17*i* LApEl;
 - g. les coûts administratifs;
-- h.[^7-7] les coûts des renforcements du réseau visés à l’art. 15*b* LApEl;
+- h.[^7-6] les coûts des renforcements du réseau visés à l’art. 15*b* LApEl;
 - i. les coûts des raccordements au réseau et des contributions aux coûts de réseau;
 - j. les autres coûts facturés individuellement;
 - k. les taxes et les prestations fournies à des collectivités publiques;
 - l. les impôts directs;
-- m.[^7-8] les coûts des systèmes de commande et de réglage intelligents, indemnités incluses;
-- n.[^7-9] les coûts des mesures novatrices, et
-- o.[^7-10] les coûts de sensibilisation dans le domaine de la réduction de la consommation.
+- m.[^7-7] les coûts des systèmes de commande et de réglage intelligents, indemnités incluses;
+- n.[^7-8] les coûts des mesures novatrices, et
+- o.[^7-9] les coûts de sensibilisation dans le domaine de la réduction de la consommation.
 
 <sup>4</sup> Chaque gestionnaire et chaque propriétaire de réseau doit faire connaître les règles selon lesquelles les investissements sont portés à l’actif.
 
@@ -377,19 +377,18 @@ Cette comptabilité doit faire apparaître séparément tous les postes nécessa
 
 <sup>6</sup> Les propriétaires de réseau fournissent aux gestionnaires de réseau les indications nécessaires pour établir la comptabilité analytique.
 
-<sup>7</sup> Les gestionnaires de réseau présentent leur comptabilité analytique à l’ElCom au plus tard le 31 août.[^7-11]
+<sup>7</sup> Les gestionnaires de réseau présentent leur comptabilité analytique à l’ElCom au plus tard le 31 août.[^7-10]
 
 [^7-1]: Introduite par l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nouvelle teneur selon l’annexe ch. II 2 de l’O du 25 janv. 2023 sur une réserve d’hiver, en vigueur du 15 fév. 2023 au 31 déc. 2026 ([RO 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^7-2]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
-[^7-3]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-5]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-6]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-7]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-8]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-2]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-5]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-6]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-7]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-8]: Introduite par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^7-9]: Introduite par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-10]: Introduite par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-11]: Introduit par le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^7-10]: Introduit par le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 7a
 
@@ -612,11 +611,11 @@ Il publie sur un site Internet, sous une forme anonymisée et lisible par machin
 
 Il transmet sur demande:
 
-- a. à l’ElCom, sous forme non anonymisée, les données de mesure et les données de référence ainsi que les données visées à l’al. 4 dont celle-ci a besoin pour assumer les tâches d’exécution lui incombant en vertu de la LApEl;
+- a.[^8asepties-2] à l’ElCom, sous forme non anonymisée, les données de mesure, les données de référence et les données visées à l’al. 4 dont celle-ci a besoin pour assumer les tâches d’exécution lui incombant en vertu de la LApEl ou de la loi fédérale du 21 mars 2025 sur la surveillance et la transparence des marchés de gros de l’énergie[^8asepties-3];
 - b. à l’Office fédéral de l’énergie (OFEN), sous forme pseudonymisée, les données de mesure et les données de référence ainsi que les données visées à l’al. 4 dont celui-ci a besoin à des fins d’analyse statistique;
-- b<sup>bis</sup>.[^8asepties-2] à l’organisation de l’approvisionnement économique du pays et à l’Association des entreprises électriques suisses, sous forme non anonymisée, les données de mesure et les données de référence des consommateurs finaux ainsi que les données de référence du gestionnaire du réseau de distribution dont lesdites organisations ont besoin pour la préparation et l’exécution de mesures prévues par la loi du 17 juin 2016 sur l’approvisionnement économique du pays[^8asepties-3];
-- c.[^8asepties-4] aux autorités cantonales, sous forme non anonymisée, les données de mesure et de référence de gros consommateurs dont celles-ci ont besoin pour assumer les tâches d’exécution visées à l’art. 46, al. 3, LEne[^8asepties-5], et, sous forme pseudonymisée, les données de mesure et les données de référence de consommateurs finaux dont celles-ci ont besoin pour assumer leurs autres tâches d’exécution prévues dans le droit fédéral ou dans le droit cantonal;
-- d.[^8asepties-6] aux universités cantonales, aux écoles polytechniques fédérales (EPF), aux instituts de recherche du domaine des EPF et aux hautes écoles spécialisées, sous forme anonymisée, les données de mesure et de référence utiles à la recherche.
+- b<sup>bis</sup>.[^8asepties-4] à l’organisation de l’approvisionnement économique du pays et à l’Association des entreprises électriques suisses, sous forme non anonymisée, les données de mesure et les données de référence des consommateurs finaux ainsi que les données de référence du gestionnaire du réseau de distribution dont lesdites organisations ont besoin pour la préparation et l’exécution de mesures prévues par la loi du 17 juin 2016 sur l’approvisionnement économique du pays[^8asepties-5];
+- c.[^8asepties-6] aux autorités cantonales, sous forme non anonymisée, les données de mesure et de référence de gros consommateurs dont celles-ci ont besoin pour assumer les tâches d’exécution visées à l’art. 46, al. 3, LEne[^8asepties-7], et, sous forme pseudonymisée, les données de mesure et les données de référence de consommateurs finaux dont celles-ci ont besoin pour assumer leurs autres tâches d’exécution prévues dans le droit fédéral ou dans le droit cantonal;
+- d.[^8asepties-8] aux universités cantonales, aux écoles polytechniques fédérales (EPF), aux instituts de recherche du domaine des EPF et aux hautes écoles spécialisées, sous forme anonymisée, les données de mesure et de référence utiles à la recherche.
 
 <sup>6</sup>
 
@@ -627,11 +626,13 @@ Il enregistre sur la plateforme de données:
 - c. les données de mesure, sous forme pseudonymisée, pour assumer les tâches qui lui incombent en vertu de l’al. 4.
 
 [^8asepties-1]: Anciennement art. 8*a*<sup>ter</sup>*.* Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8asepties-2]: Introduite par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
-[^8asepties-3]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
-[^8asepties-4]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
-[^8asepties-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
-[^8asepties-6]: Introduite par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-2]: Nouvelle teneur selon l’art. 41 ch.1 de l’O du 2 oct. 2026 sur la surveillance et la transparence des marchés de gros de l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
+[^8asepties-3]: [RS 730.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40470)
+[^8asepties-4]: Introduite par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-5]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^8asepties-6]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-7]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8asepties-8]: Introduite par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
 
 #### Art. 8a<sup>octies</sup>
 
@@ -1575,7 +1576,7 @@ La demande portant sur un projet pilote est soumise au DETEC. Elle comprend tout
 
 <sup>6</sup> Au terme du projet, l’OFEN procède à une évaluation à l’intention du DETEC en vue d’une possible modification de la loi. Il informe le public des projets et des connaissances acquises.
 
-## Chapitre 4*b* Informations relatives au marché de gros de l’électricité
+## Chapitre 4*b* *…*
 
 [^chap4b-1]
 
@@ -1583,50 +1584,15 @@ La demande portant sur un projet pilote est soumise au DETEC. Elle comprend tout
 
 #### Art. 26a<sup>bis</sup>
 
-**Devoir d’information**[^26abis-1]
+[^26abis-1]
 
-<sup>1</sup> Quiconque a son siège ou son domicile en Suisse, participe à un marché de gros de l’électricité dans l’UE et est tenu, en vertu du règlement (UE) n<sup>o</sup> 1227/2011[^26abis-2], de fournir des informations aux autorités de l’UE ou des États membres, doit communiquer, simultanément et sous la même forme, les mêmes informations à l’ElCom.
+[^26abis-1]: Anciennement art. 26*a*. Introduit par le ch. I de l’O du 30 janv. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Abrogé par l’art. 41 ch.1 de l’O du 2 oct. 2026 sur la surveillance et la transparence des marchés de gros de l’énergie, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
-<sup>2</sup>
+#### Art. 26b et 26c
 
-Doivent notamment être fournies à l’ElCom les indications concernant:
+[^26b26c-1]
 
-- a. les transactions de produits de gros;
-- b. la capacité, la disponibilité, l’indisponibilité et l’utilisation des installations pour la production et le transport d’électricité.
-
-<sup>3</sup> Doivent en outre être fournies à l’ElCom les informations privilégiées qui ont été publiées sur la base du règlement (UE) n<sup>o</sup> 1227/2011. L’ElCom peut fixer le moment auquel ces données doivent lui être fournies.
-
-<sup>4</sup> La raison sociale ou le nom, la forme juridique ainsi que le siège ou le domicile doivent également être communiqués à l’ElCom. Il est possible de communiquer, en lieu et place de ces indications, les données requises dans l’UE pour l’enregistrement en vertu du règlement (UE) n<sup>o</sup> 1227/2011.
-
-<sup>5</sup> L’ElCom peut autoriser des exceptions au devoir d’information, notamment lorsqu’on peut considérer que les données en question sont d’une importance marginale pour les marchés de l’électricité.
-
-<sup>6</sup>
-
-Sont considérés comme produits de gros, indépendamment du fait qu’ils soient négociés à la bourse ou d’une autre manière:
-
-- a. les contrats concernant le transport et la fourniture d’électricité n’impliquant pas directement son utilisation par des consommateurs finaux;
-- b. les produits dérivés concernant la production, le commerce, la livraison et le transport d’électricité.
-
-[^26abis-1]: Anciennement art. 26*a*.
-[^26abis-2]: R (UE) n<sup>o</sup> 1227/2011 du Parlement européen et du Conseil du 25 oct. 2011 concernant l’intégrité et la transparence du marché de gros de l’énergie (REMIT), version du JO L 326 du 8.12.2011, p. 1.
-
-#### Art. 26b
-
-**Traitement par l’ElCom**
-
-<sup>1</sup> L’ElCom peut traiter les données qu’elle a reçues des personnes soumises au devoir d’information.
-
-<sup>2</sup> Elle détermine quand elles sont fournies pour la première fois.
-
-#### Art. 26c
-
-**Système d’information**
-
-<sup>1</sup> L’ElCom exploite pour les données un système d’information structuré selon l’art. 26*a*, al. 2, let. a et b, al. 3 et 4.
-
-<sup>2</sup> Elle assure la sécurité d’exploitation du système et garantit, par des moyens techniques et organisationnels, la protection des données contre tout accès non autorisé.
-
-<sup>3</sup> Elle conserve les données aussi longtemps qu’elle en a besoin, mais pendant dix ans au maximum à compter de la date où elles ont été fournies. Elle les propose ensuite aux Archives fédérales. Les données que les Archives fédérales considèrent comme dépourvues de valeur archivistique sont effacées.
+[^26b26c-1]: Introduits par le ch. I de l’O du 30 janv. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Abrogés par l’art. 41 ch.1 de l’O du 2 oct. 2026 sur la surveillance et la transparence des marchés de gros de l’énergie, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
 ## Chapitre 4*c* Publication de comparatifs de qualité et d’efficacité
 

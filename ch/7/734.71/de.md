@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. Juli 2026)
+vom 14. März 2008 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -355,20 +355,20 @@ In der Kostenrechnung müssen alle für die Berechnung der anrechenbaren Kosten 
 - c. Betriebskosten der Netze;
 - d. Kosten der Netze höherer Netzebenen;
 - e. Kosten der Systemdienstleistungen;
-- e<sup>bis</sup>.[^7-1] die Kosten im Zusammenhang mit Stromreserve gemäss der Winterreserveverordnung vom 25. Januar 2023[^7-2] (WResV);
-- e<sup>ter</sup>.[^7-3] Kosten nach Artikel 15*a* StromVG;
-- f.[^7-4] Kosten für das Mess- und Informationswesen, namentlich die Betriebskosten und die kalkulatorischen Kapitalkosten der für das Messwesen erforderlichen Anlagen sowie die Anzahl der Messpunkte;
-- f<sup>bis</sup>.[^7-5] Kosten für intelligente Messsysteme, namentlich die Betriebskosten und die kalkulatorischen Kapitalkosten sowie die Anzahl der Messpunkte;
-- f<sup>ter</sup>.[^7-6] Kosten für die Nutzung der zentralen Datenplattform (Datenplattform) nach den Artikeln 17*g*–17*i* StromVG;
+- e<sup>bis</sup>.[^7-1] …
+- e<sup>ter</sup>.[^7-2] Kosten nach Artikel 15*a* StromVG;
+- f.[^7-3] Kosten für das Mess- und Informationswesen, namentlich die Betriebskosten und die kalkulatorischen Kapitalkosten der für das Messwesen erforderlichen Anlagen sowie die Anzahl der Messpunkte;
+- f<sup>bis</sup>.[^7-4] Kosten für intelligente Messsysteme, namentlich die Betriebskosten und die kalkulatorischen Kapitalkosten sowie die Anzahl der Messpunkte;
+- f<sup>ter</sup>.[^7-5] Kosten für die Nutzung der zentralen Datenplattform (Datenplattform) nach den Artikeln 17*g*–17*i* StromVG;
 - g. Verwaltungskosten;
-- h.[^7-7] Kosten für Netzverstärkungen nach Artikel 15*b* StromVG;
+- h.[^7-6] Kosten für Netzverstärkungen nach Artikel 15*b* StromVG;
 - i. Kosten für Netzanschlüsse und Netzkostenbeiträge;
 - j. weitere individuell in Rechnung gestellte Kosten;
 - k. Abgaben und Leistungen an Gemeinwesen;
 - l. direkte Steuern;
-- m.[^7-8] Kosten für intelligente Steuer- und Regelsysteme einschliesslich der Vergütungen;
-- n.[^7-9] Kosten für innovative Massnahmen; und
-- o.[^7-10] Kosten für die Sensibilisierung im Bereich der Verbrauchsreduktion.
+- m.[^7-7] Kosten für intelligente Steuer- und Regelsysteme einschliesslich der Vergütungen;
+- n.[^7-8] Kosten für innovative Massnahmen; und
+- o.[^7-9] Kosten für die Sensibilisierung im Bereich der Verbrauchsreduktion.
 
 <sup>4</sup> Jeder Netzbetreiber und Netzeigentümer muss die Regeln ausweisen, nach welchen Investitionen aktiviert werden.
 
@@ -376,19 +376,18 @@ In der Kostenrechnung müssen alle für die Berechnung der anrechenbaren Kosten 
 
 <sup>6</sup> Die Netzeigentümer liefern dem Netzbetreiber die für die Erstellung der Kostenrechnung notwendigen Angaben.
 
-<sup>7</sup> Die Netzbetreiber legen die Kostenrechnung der ElCom bis spätestens zum 31. August vor.[^7-11]
+<sup>7</sup> Die Netzbetreiber legen die Kostenrechnung der ElCom bis spätestens zum 31. August vor.[^7-10]
 
 [^7-1]: Eingefügt durch Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Fassung gemäss Anhang Ziff. II 2 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^7-2]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
-[^7-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-6]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-7]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^7-8]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-6]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^7-7]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-8]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^7-9]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-10]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-11]: Eingefügt durch Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^7-10]: Eingefügt durch Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 7a
 
@@ -609,11 +608,11 @@ Er muss die folgenden anonymisierten Mess- und Stammdaten pro Gemeinde und Kanto
 
 Er muss auf Verlangen bekannt geben:
 
-- a. der ElCom: die Mess- und Stammdaten sowie die Daten nach Absatz 4 in nicht anonymisierter Form für ihre Vollzugsaufgaben im Rahmen des StromVG;
+- a.[^8asepties-2] der ElCom: die Messdaten, die Stammdaten und die Daten nach Absatz 4 in nicht anonymisierter Form für ihre Vollzugsaufgaben im Rahmen des StromVG oder des Bundesgesetzes vom 21. März 2025[^8asepties-3] über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten;
 - b. dem Bundesamt für Energie (BFE): die Mess- und Stammdaten sowie die Daten nach Absatz 4 in pseudonymisierter Form für statistische Auswertungen;
-- b<sup>bis</sup>.[^8asepties-2] der Organisation der wirtschaftlichen Landesversorgung und dem Verband Schweizerischer Elektrizitätsunternehmen: die Mess- und Stammdaten der Endverbraucher und die Stammdaten der Verteilnetzbetreiber in nicht anonymisierter Form für die Vorbereitung und den Vollzug von Massnahmen nach dem Landesversorgungsgesetz vom 17. Juni 2016[^8asepties-3];
-- c.[^8asepties-4] den kantonalen Behörden: die Mess- und Stammdaten von Grossverbrauchern in nicht anonymisierter Form für ihre Vollzugsaufgaben nach Artikel 46 Absatz 3 EnG[^8asepties-5] und der Endverbraucher in pseudonymisierter Form für ihre sonstigen Vollzugsaufgaben nach Bundesrecht oder kantonalem Recht;
-- d.[^8asepties-6] den kantonalen Universitäten, den Eidgenössischen Technischen Hochschulen (ETH), den Forschungsanstalten des ETH-Bereichs und den Fachhochschulen: die Mess- und Stammdaten in anonymisierter Form zum Zwecke der Forschung.
+- b<sup>bis</sup>.[^8asepties-4] der Organisation der wirtschaftlichen Landesversorgung und dem Verband Schweizerischer Elektrizitätsunternehmen: die Mess- und Stammdaten der Endverbraucher und die Stammdaten der Verteilnetzbetreiber in nicht anonymisierter Form für die Vorbereitung und den Vollzug von Massnahmen nach dem Landesversorgungsgesetz vom 17. Juni 2016[^8asepties-5];
+- c.[^8asepties-6] den kantonalen Behörden: die Mess- und Stammdaten von Grossverbrauchern in nicht anonymisierter Form für ihre Vollzugsaufgaben nach Artikel 46 Absatz 3 EnG[^8asepties-7] und der Endverbraucher in pseudonymisierter Form für ihre sonstigen Vollzugsaufgaben nach Bundesrecht oder kantonalem Recht;
+- d.[^8asepties-8] den kantonalen Universitäten, den Eidgenössischen Technischen Hochschulen (ETH), den Forschungsanstalten des ETH-Bereichs und den Fachhochschulen: die Mess- und Stammdaten in anonymisierter Form zum Zwecke der Forschung.
 
 <sup>6</sup>
 
@@ -624,11 +623,13 @@ Er muss auf der Datenplattform speichern:
 - c. die Messdaten in pseudonymisierter Form für seine Aufgaben gemäss Absatz 4.
 
 [^8asepties-1]: Ursprünglich: Art. 8*a*<sup>ter</sup>. Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8asepties-2]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
-[^8asepties-3]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
-[^8asepties-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
-[^8asepties-5]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
-[^8asepties-6]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-2]: Fassung gemäss Art. 41 Ziff. 1 der V vom 2. Okt. 2026 über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten, in Kraft seit 1. Jan. 2027 ([AS 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
+[^8asepties-3]: [SR 730.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40470)
+[^8asepties-4]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-5]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^8asepties-6]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-7]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8asepties-8]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
 
 #### Art. 8a<sup>octies</sup>
 
@@ -1570,58 +1571,23 @@ Das Gesuch für ein Pilotprojekt ist beim UVEK einzureichen. Es muss alle Angabe
 
 <sup>6</sup> Das BFE führt nach Abschluss des Projekts und im Hinblick auf den möglichen Erlass einer Gesetzesänderung zuhanden des UVEK eine Evaluation durch. Es informiert die Öffentlichkeit über die Projekte und über die gewonnenen Erkenntnisse.
 
-## 4*b*. Kapitel: Informationen zum Elektrizitätsgrosshandelsmarkt
+## 4*b*. Kapitel: …
 
 [^chap4b-1]
 
-[^chap4b-1]: Ursprünglich: 4*a*. Kapitel. Eingefügt durch Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. Juli 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^chap4b-1]: Ursprünglich: 4*a*. Kapitel.
 
 #### Art. 26a<sup>bis</sup>
 
-**Informationspflicht**[^26abis-1]
+[^26abis-1]
 
-<sup>1</sup> Wer Sitz oder Wohnsitz in der Schweiz hat, an einem Elektrizitätsgrosshandelsmarkt in der EU teilnimmt und aufgrund der Verordnung (EU) Nr. 1227/2011 (EU-REMIT-Verordnung)[^26abis-2] verpflichtet ist, den Behörden der EU oder der Mitgliedstaaten Informationen zu liefern, muss die gleichen Informationen gleichzeitig und in gleicher Form auch der ElCom liefern.
+[^26abis-1]: Ursprünglich: Art. 26*a*. Eingefügt durch Ziff. I der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Aufgehoben durch Art. 41 Ziff. 1 der V vom 2. Okt. 2026 über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten, mit Wirkung seit 1. Jan. 2027 ([AS 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
-<sup>2</sup>
+#### Art. 26b und 26c
 
-Der ElCom zu liefern sind insbesondere Angaben:
+[^26b26c-1]
 
-- a. zu Transaktionen von Grosshandelsprodukten;
-- b. über die Kapazität, die Verfüg- und Nichtverfügbarkeit und die Nutzung von Anlagen zur Produktion und zur Übertragung von Elektrizität.
-
-<sup>3</sup> Der ElCom sind überdies diejenigen Insiderinformationen zu liefern, die aufgrund der EU-REMIT-Verordnung veröffentlicht worden sind. Die ElCom kann den Zeitpunkt für die Lieferung dieser Daten bestimmen.
-
-<sup>4</sup> Zusätzlich sind gegenüber der ElCom Firma oder Name, Rechtsform sowie Sitz oder Wohnsitz anzugeben. Statt dieser Angaben kann auch der Datensatz geliefert werden, der in der EU gemäss der EU-REMIT-Verordnung für die Registrierung erforderlich ist.
-
-<sup>5</sup> Die ElCom kann Ausnahmen von der Informationspflicht gestatten, insbesondere wenn von den fraglichen Angaben zu erwarten ist, dass sie für die Elektrizitätsmärkte von marginaler Bedeutung sind.
-
-<sup>6</sup>
-
-Als Grosshandelsprodukte gelten, unabhängig davon, ob sie an der Börse oder auf andere Weise gehandelt werden:
-
-- a. Verträge betreffend die Übertragung und die Lieferung von Elektrizität, bei denen es nicht unmittelbar um die Nutzung durch Endverbraucher geht;
-- b. Derivate betreffend die Erzeugung, den Handel, die Lieferung und den Transport von Elektrizität.
-
-[^26abis-1]: Ursprünglich: Art. 26*a*.
-[^26abis-2]: Verordnung (EU) Nr. 1227/2011 des Europäischen Parlaments und des Rates vom 25. Okt. 2011 über die Integrität und Transparenz des Energiegrosshandelsmarkts, Fassung gemäss ABl. L 326 vom 8.12.2011, S. 1.
-
-#### Art. 26b
-
-**Bearbeitung durch die ElCom**
-
-<sup>1</sup> Die ElCom kann die von den informationspflichtigen Personen erhaltenen Daten bearbeiten.
-
-<sup>2</sup> Sie bestimmt den Zeitpunkt der erstmaligen Datenlieferung.
-
-#### Art. 26c
-
-**Informationssystem**
-
-<sup>1</sup> Die ElCom betreibt für die Daten ein Informationssystem, das sie nach Artikel 26*a* Absätze 2 Buchstaben a und b sowie 3 und 4 gliedert.
-
-<sup>2</sup> Sie gewährleistet einen sicheren Betrieb des Systems und schützt die Daten mit organisatorischen und technischen Mitteln vor unberechtigtem Zugriff.
-
-<sup>3</sup> Sie bewahrt die Daten so lange auf, wie sie sie braucht, längstens aber zehn Jahre nach der Datenlieferung. Danach bietet sie sie dem Bundesarchiv an. Daten, die das Bundesarchiv nicht für archivierungswürdig hält, werden gelöscht.
+[^26b26c-1]: Eingefügt durch Ziff. I der V vom 30. Jan. 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)). Aufgehoben durch Art. 41 Ziff. 1 der V vom 2. Okt. 2026 über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten, mit Wirkung seit 1. Jan. 2027 ([AS 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
 ## 4*c*. Kapitel: Veröffentlichung von Qualitäts- und Effizienzvergleichen
 
