@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufs
 short: FINMAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: de
-version: 2025-04-01
+version: 2027-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20250401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/de"
 
 (Finanzmarktaufsichtsgesetz, FINMAG)
 
-vom 22. Juni 2007 (Stand am 1. April 2025)
+vom 22. Juni 2007 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -249,12 +249,14 @@ Die Eidgenössische Finanzkontrolle ist die externe Revisionsstelle und erstatte
 Der Verwaltungsrat regelt in einer Verordnung:
 
 - a. das Arbeitsverhältnis des Personals, insbesondere Entlöhnung, Nebenleistungen, Arbeitszeit, Treuepflicht und Kündigung;
-- b. die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs des Vorsorgewerks der FINMA.
+- b. die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs des Vorsorgewerks der FINMA;
+- c.[^13-3] die Bestimmungen über die Finanzierung der beruflichen Vorsorge.
 
 <sup>5</sup> Er unterbreitet die Verordnung dem Bundesrat zur Genehmigung.
 
 [^13-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^13-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^13-3]: Eingefügt durch Anhang Ziff. 14 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 13a
 

@@ -4,11 +4,11 @@ title: "Loi du 22 juin 2007 sur l'Autorité fédérale de surveillance des march
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: fr
-version: 2025-04-01
+version: 2027-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20250401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/fr"
 
 (Loi sur la surveillance des marchés financiers, LFINMA)
 
-du 22 juin 2007 (État le 1<sup>er</sup> avril 2025)
+du 22 juin 2007 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -249,12 +249,14 @@ Le Contrôle fédéral des finances est l’organe de révision externe; il info
 Le conseil d’administration règle dans une ordonnance:
 
 - a. les rapports de travail, notamment la rémunération, les prestations annexes, le temps de travail, le devoir de loyauté et la résiliation du contrat;
-- b. la composition, la procédure d’élection et l’organisation de l’organe paritaire de la caisse de prévoyance de la FINMA.
+- b. la composition, la procédure d’élection et l’organisation de l’organe paritaire de la caisse de prévoyance de la FINMA;
+- c.[^13-3] les dispositions concernant le financement de la prévoyance professionnelle.
 
 <sup>5</sup> Le conseil d’administration soumet l’ordonnance à l’approbation du Conseil fédéral.
 
 [^13-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^13-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^13-3]: Introduite par l’annexe ch. 14 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 13a
 

@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2007 concernente l'Autorità federale di vi
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: it
-version: 2025-04-01
+version: 2027-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20250401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20250401/it"
 
 (Legge sulla vigilanza dei mercati finanziari, LFINMA[^t-1])
 
-del 22 giugno 2007 (Stato 1° aprile 2025)
+del 22 giugno 2007 (Stato 1° gennaio 2027)
 
 [^t-1]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
@@ -251,12 +251,14 @@ Il Controllo federale delle finanze è l’ufficio di revisione esterno e inform
 Il consiglio d’amministrazione disciplina mediante ordinanza:
 
 - a. il rapporto di lavoro del personale, in particolare la retribuzione, le prestazioni accessorie, il tempo di lavoro, l’obbligo di fedeltà e la disdetta;
-- b. la composizione, la procedura di nomina e l’organizzazione dell’organo paritetico della cassa di previdenza della FINMA.
+- b. la composizione, la procedura di nomina e l’organizzazione dell’organo paritetico della cassa di previdenza della FINMA;
+- c.[^13-3] il finanziamento della previdenza professionale.
 
 <sup>5</sup> Esso sottopone per approvazione l’ordinanza al Consiglio federale.
 
 [^13-1]: Nuovo testo giusta dall’all. n. 4 della LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^13-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^13-3]: Introdotta dall’all. n. 14 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 13a
 
@@ -1103,7 +1105,7 @@ Se la verifica è effettuata da una società di audit secondo il capoverso 1, gl
 
 <sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 250 000 franchi.
 
-<sup>3</sup> …[^47-2]
+<sup>3</sup> ...[^47-2]
 
 [^47-1]: Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^47-2]: Abrogato dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
