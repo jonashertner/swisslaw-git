@@ -4,13 +4,12 @@ number: "131.100"
 title: Gesetz über die politischen Rechte
 short: GPR
 language: de
-version: 2024-07-01
-valid_until: 2026-12-31
-version_adopted: 2023-09-19
+version: 2027-01-01
+version_adopted: 2026-06-02
 adopted: 1992-03-10
 in_force: 1993-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/131.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3563/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4019/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3563/pdf_file"
 
 (GPR)
 
-Vom 10.03.1992 (Stand 01.07.2024)
+Vom 10.03.1992 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -856,13 +855,23 @@ beschliesst:
 
 **Frist**
 
-<sup>1</sup> Die Beschwerden sind innert 3 Tagen seit der Entdeckung des Beschwerdegrundes, spätestens aber am dritten Tage nach der Veröffentlichung des Ergebnisses einer Wahl oder Abstimmung eingeschrieben bei der zuständigen Beschwerdeinstanz einzureichen.
+<sup>1</sup> Die Beschwerden sind im Allgemeinen innert 20 Tagen seit der Entdeckung des Beschwerdegrundes, spätestens aber innert 20 Tagen nach der Veröffentlichung des Ergebnisses einer Wahl oder Abstimmung bei der zuständigen Beschwerdeinstanz einzureichen.
+
+<sup>2</sup> Beschwerden gegen zweite Wahlgänge sind innert 3 Tagen seit der Entdeckung des Beschwerdegrundes, spätestens aber innert 3 Tagen nach der Veröffentlichung der Wahlergebnisse bei der zuständigen Beschwerdeinstanz einzureichen.
 
 #### § 69
 
 **Beschwerdeschrift**
 
 <sup>1</sup> Die Beschwerdeschrift muss einen Antrag und eine Begründung enthalten sowie den Sachverhalt kurz darstellen.
+
+#### § 69a
+
+**Beschwerdeantwort**
+
+<sup>1</sup> Die Rechtsmittelinstanz stellt der Gegenpartei die Beschwerde zur schriftlichen Stellungnahme zu, es sei denn, die Beschwerde sei offensichtlich unzulässig oder offensichtlich unbegründet.
+
+<sup>2</sup> Für die Beschwerdeantwort gilt die gleiche Frist wie für die Beschwerde.
 
 #### § 70
 
@@ -876,15 +885,17 @@ beschliesst:
 
 <sup>1</sup> Das Verwaltungsgericht entscheidet über Wahl- und Abstimmungsbeschwerden betreffend die kantonalen Wahlen und Abstimmungen als einzige Instanz.
 
-<sup>2</sup> Der Regierungsrat entscheidet über Stimmrechtsbeschwerden sowie über Wahl- und Abstimmungsbeschwerden bei den übrigen Wahlen und Abstimmungen. Er befindet ferner über Beschwerden gegen den Entscheid der Staatskanzlei betreffend Änderung des Titels eines Initiativbegehrens sowie über abgelehnte Nachzählungsgesuche. Die Entscheide können innert 5 Tagen an das Verwaltungsgericht weitergezogen werden.
+<sup>2</sup> Der Regierungsrat entscheidet über Stimmrechtsbeschwerden sowie über Wahl- und Abstimmungsbeschwerden bei den übrigen Wahlen und Abstimmungen. Er befindet ferner über Beschwerden gegen den Entscheid der Staatskanzlei betreffend Änderung des Titels eines Initiativbegehrens sowie über abgelehnte Nachzählungsgesuche. Die Entscheide können innert 30 Tagen an das Verwaltungsgericht weitergezogen werden.
 
 #### § 72
 
 **Weitere Vorschriften**
 
-<sup>1</sup> Bei Verfahren über Stimmrechts-, Wahl- und Abstimmungsbeschwerden werden weder Verfahrenskosten erhoben noch Parteientschädigungen zugesprochen. Von der Kostenbefreiung ausgenommen sind mutwillige und trölerische Beschwerden.
+<sup>1</sup> Bei Verfahren über Stimmrechts-, Wahl- und Abstimmungsbeschwerden werden weder Verfahrenskosten erhoben noch Parteikosten ersetzt. Von der Kostenbefreiung ausgenommen sind mutwillige und trölerische Beschwerden.
 
-<sup>2</sup> Im Übrigen sind die Vorschriften des Gesetzes über die Verwaltungsrechtspflege[^72-1] anwendbar, soweit dies mit der besonderen Natur des Wahl- und Abstimmungsverfahrens vereinbar ist.
+<sup>1<sup>bis</sup></sup> Bei Verfahren gemäss Absatz 1 kommen die Vorschriften über die Rechtsstillstandsfristen nicht zur Anwendung.
+
+<sup>2</sup> Im Übrigen sind die Vorschriften des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^72-1] anwendbar, soweit dies mit der besonderen Natur des Wahl- und Abstimmungsverfahrens vereinbar ist.
 
 [^72-1]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
 
