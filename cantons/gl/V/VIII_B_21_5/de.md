@@ -3,20 +3,19 @@ canton: GL
 number: VIII B/21/5
 title: Verordnung über den Gewässerrenaturierungsfonds
 language: de
-version: 2011-01-01
-valid_until: 2026-12-31
-version_adopted: 2010-09-22
+version: 2027-01-01
+version_adopted: 2026-02-04
 adopted: 2010-09-22
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-B.21.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/1043/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2676/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Gewässerrenaturierungsfonds
 
-Vom 22.09.2010 (Stand 01.01.2011)
+Vom 22.09.2010 (Stand 01.01.2027)
 
 Der Landrat,
 
@@ -42,7 +41,7 @@ beschliesst:
 
 <sup>3</sup> Das Departement Bau und Umwelt (Departement) ist für den administrativen Vollzug zuständig. Die finanzkompetente Behörde entscheidet über die Beitragsgesuche.
 
-<sup>4</sup> Die Fondsverwaltung obliegt der Abteilung Umweltschutz und Energie (Abteilung).
+<sup>4</sup> Die Fondsverwaltung obliegt der Hauptabteilung Umwelt, Wald und Energie.
 
 #### Art. 3
 
@@ -58,7 +57,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesuch um einen Beitrag aus dem Gewässerrenaturierungsfonds ist dem Departement schriftlich und begründet mit sämtlichen zur Beurteilung notwendigen Unterlagen einzureichen.
 
-<sup>2</sup> Die Beitragsgesuche werden von der Abteilung bearbeitet. Reichen die Unterlagen zur Beurteilung eines Gesuches nicht aus, kann die Abteilung zusätzliche Angaben oder Dokumente verlangen.
+<sup>2</sup> Die Beitragsgesuche werden von der Fondsverwaltung bearbeitet. Reichen die Unterlagen zur Beurteilung eines Gesuches nicht aus, kann die Fondsverwaltung zusätzliche Angaben oder Dokumente verlangen.
 
 <sup>3</sup> Zur Beurteilung der Förderungswürdigkeit von Vorhaben können unabhängige Stellen beigezogen werden.
 
@@ -99,7 +98,10 @@ beschliesst:
 - f. bauliche Massnahmen zur quantitativen und qualitativen Verbesserung der Gewässerqualität;
 - g. Forschungsvorhaben, welche für den Kanton Glarus von Bedeutung sind.
 
-<sup>2</sup> Die maximale Beitragshöhe beträgt für alle Kategorien 50 Prozent der anfallenden beitragsberechtigten Kosten.
+<sup>2</sup> Die maximale Beitragshöhe beträgt:
+
+- a. für die Kategorien nach Absatz 1 Buchstaben a, b und e–g: — 50 Prozent der anfallenden beitragsberechtigten Kosten
+- b. für die Kategorien nach Absatz 1 Buchstaben c und d: — 100 Prozent der anfallenden beitragsberechtigten Kosten.
 
 <sup>3</sup> Die Beitragssätze regelt der Regierungsrat in einer Verordnung.
 
