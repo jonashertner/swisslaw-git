@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2027-01-01
+version: 2027-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/fr"
 
 (LAPG)[^t-1]
 
-du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2027)
+du 25 septembre 1952 (État le 1<sup>er</sup> juillet 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -49,11 +49,11 @@ Les dispositions de la loi fédérale du 6 octobre 2000 sur la partie générale
 
 [^chap1a-1]: Introduit par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-### I. L’allocation en cas de service
+### I. L’allocation de service
 
 [^chap1a-lvlI-1]
 
-[^chap1a-lvlI-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap1a-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 1a
 
@@ -106,11 +106,11 @@ Les personnes qui effectuent un service dans l’armée suisse ou dans le Servic
 
 #### Art. 4
 
-**Allocation de base**[^4-1]
+**Allocation de service**[^4-1]
 
-Toutes les personnes qui font du service ont droit à l’allocation de base.
+Toutes les personnes qui effectuent un service ont droit à l’allocation de service.
 
-[^4-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 3013).
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 5
 
@@ -120,29 +120,21 @@ Toutes les personnes qui font du service ont droit à l’allocation de base.
 
 #### Art. 6
 
-**Allocation pour enfant**[^6-1]
+[^6-1]
 
-<sup>1</sup> Les personnes qui font du service ont droit à une allocation pour chaque enfant désigné à l’al. 2, qui n’a pas encore accompli sa 18<sup>e</sup> année. Pour les enfants qui font un apprentissage ou des études, le droit à l’allocation dure jusqu’à l’accomplissement de leur 25<sup>e</sup> année.
-
-<sup>2</sup>
-
-Donnent droit à l’allocation:
-
-- a. les enfants de la personne qui fait du service;
-- b. les enfants recueillis par la personne qui fait du service dont elle assume gratuitement et durablement les frais d’entretien et d’éducation.[^6-2]
-
-[^6-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 318](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 81](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
-[^6-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 mars 1981 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 al. 1; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^6-1]: Abrogé par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), avec effet au 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 7
 
 **Allocation pour frais de garde**[^7-1]
 
-<sup>1</sup> Les personnes qui font du service et qui vivent en ménage commun avec un ou plusieurs enfants (art. 6) de moins de 16 ans ont droit à une allocation pour frais de garde si elles établissent que des coûts supplémentaires pour de tels frais sont occasionnés par l’accomplissement d’une période de service de deux jours consécutifs au moins.
+<sup>1</sup> Les personnes qui effectuent un service ont droit à une allocation pour frais de garde pour leurs enfants de moins de 16 ans si elles vivent en ménage commun avec eux et si elles établissent que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants sont occasionnés par l’accomplissement d’une période de service de deux jours consécutifs au moins.
 
-<sup>2</sup> Le Conseil fédéral fixe le montant maximal de l’allocation et règle les modalités.
+<sup>2</sup> L’al. 1 s’applique également aux enfants recueillis si les frais d’entretien et d’éducation sont assumés gratuitement et durablement.
 
-[^7-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 3013).
+<sup>3</sup> Le Conseil fédéral fixe le montant maximal de l’allocation pour frais de garde et règle les modalités.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 8
 
@@ -150,49 +142,49 @@ Donnent droit à l’allocation:
 
 <sup>1</sup> Ont droit à l’allocation d’exploitation, à moins qu’elles ne retirent d’une activité salariée un revenu supérieur à celui de leur activité indépendante, les personnes qui font du service et qui dirigent une entreprise en qualité de propriétaires, de fermiers ou d’usufruitiers, ou qui participent activement à la direction d’une entreprise comme associés d’une société en nom collectif, associés indéfiniment responsables d’une société en commandite ou membres d’une autre communauté de personnes visant un but lucratif et ne possédant pas la personnalité juridique.
 
-<sup>2</sup> Les personnes qui font du service et qui travaillent dans une exploitation agricole comme membres de la famille de l’exploitant peuvent prétendre à l’allocation d’exploitation s’il faut engager un remplaçant pendant qu’elles accomplissent un service d’une certaine durée. Le Conseil fédéral édicte les prescriptions de détail.[^8-2]
+<sup>2</sup> Les personnes qui effectuent un service et qui travaillent dans une exploitation agricole comme membres de la famille de l’exploitant peuvent prétendre à l’allocation d’exploitation s’il faut engager un remplaçant pendant qu’elles accomplissent un service d’une certaine durée. Le Conseil fédéral règle les modalités, notamment en ce qui concerne le cercle des personnes considérées qui travaillent comme membres de la famille.
 
-[^8-1]: Nouvelle teneur selon le ch. I de la LF du 6 mars 1959, en vigueur depuis le 1<sup>er</sup> janv. 1960 ([RO 1959 589](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [FF 1958 II 1349](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
-[^8-2]: Introduit par le ch. I de la LF du 3 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1209](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III. Le calcul des allocations
 
 #### Art. 9
 
-**Allocation de base durant l’école de recrues et les périodes de service qui lui sont assimilées**[^9-1]
+**Allocation de service durant l’école de recrues et les périodes de service qui lui sont assimilées**[^9-1]
 
-<sup>1</sup> Durant le recrutement, l’école de recrues et l’instruction de base de personnes qui accomplissent leur service sans interruption (personnes en service long), l’allocation journalière de base s’élève à 25 % du montant maximal de l’allocation totale.
+<sup>1</sup> Durant le recrutement, l’école de recrues et l’instruction de base de personnes qui accomplissent leur service sans interruption (personnes en service long), l’allocation journalière de service s’élève à 32 % du montant maximal visé à l’art. 16, al. 1 et 2.
 
-<sup>2</sup> Pour les conscrits, les recrues et les personnes accomplissant l’instruction de base en service long qui ont droit à des allocations pour enfants, l’allocation journalière de base est calculée conformément à l’art. 10.
+<sup>2</sup> L’allocation journalière de service est calculée conformément à l’art. 10 pour les conscrits, les recrues et les personnes accomplissant l’instruction de base en service long dont les enfants, y compris ceux au sens de l’art. 7, al. 2, n’ont pas encore 18 ans, ou 25 ans s’ils sont encore en formation.
 
-<sup>2bis</sup> Les personnes admises au service militaire aux termes de l’art. 6, al. 1, let. c, de la loi du 3 février 1995 sur l’armée[^9-2] ont droit, pendant le nombre de jours de service militaire équivalant à la durée d’une école de recrues, à 25 % du montant maximal de l’allocation totale. L’al. 2 est applicable par analogie.[^9-3]
+<sup>3</sup> Les personnes admises au service militaire aux termes de l’art. 6, al. 1, let. c, de la loi du 3 février 1995 sur l’armée[^9-2] ont droit, pendant le nombre de jours de service militaire équivalant à la durée d’une école de recrues, à 32 % du montant maximal visé à l’art. 16, al. 1 et 2. L’al. 2 est applicable par analogie.
 
-<sup>3</sup> La personne qui effectue un service civil et qui n’a pas fait d’école de recrues a droit, pendant le nombre de jours de service civil équivalant à la durée d’une école de recrues, à 25 % du montant maximal de l’allocation totale. Il est tenu compte de l’accomplissement partiel d’une école de recrues. L’al. 2 est applicable par analogie.
+<sup>4</sup> Les personnes qui effectuent un service civil et qui n’ont pas fait d’école de recrues ont droit, pendant le nombre de jours de service civil équivalant à la durée d’une école de recrues, à 32 % du montant maximal visé à l’art. 16, al. 1 et 2. Il est tenu compte de l’accomplissement partiel d’une école de recrues. L’al. 2 est applicable par analogie.
 
-<sup>4</sup> Durant la formation de base dans la protection civile, l’allocation journalière de base s’élève à 25 % du montant maximal de l’allocation totale. L’al. 2 est applicable par analogie. Le Conseil fédéral édicte des dispositions pour les personnes qui font du service et ont accompli une formation militaire de base en tout ou en partie.
+<sup>5</sup> Durant la formation de base dans la protection civile, l’allocation journalière de service s’élève à 32 % du montant maximal visé à l’art. 16, al. 1 et 2. L’al. 2 est applicable par analogie. Le Conseil fédéral édicte des dispositions pour les personnes qui effectuent un service et ont accompli une formation militaire de base en tout ou en partie.
 
-[^9-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^9-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^9-3]: Introduit par l’annexe ch. 10 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 10
 
-**Allocation de base durant les autres périodes de service**[^10-1]
+**Allocation de service durant les autres périodes de service**[^10-1]
 
-<sup>1</sup> Durant les périodes de service qui ne sont pas visées à l’art. 9, l’allocation journalière de base s’élève à 80 % du revenu moyen acquis avant le service. L’art. 16, al. 1 à 3, est réservé.
+<sup>1</sup> Durant les périodes de service qui ne sont pas visées à l’art. 9, l’allocation journalière de service s’élève à 80 % du revenu moyen acquis avant le service. L’art. 16, al. 1 à 5, est réservé.
 
-<sup>2</sup> Si la personne n’exerçait pas d’activité lucrative avant d’entrer en service, l’allocation journalière de base correspond aux montants minimaux prévus à l’art. 16, al. 1 à 3.
+<sup>2</sup> Si la personne n’exerçait pas d’activité lucrative avant d’entrer en service, l’allocation journalière de service correspond aux montants minimaux prévus à l’art. 16, al. 3 à 5.
 
-[^10-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 10a
 
-**Allocation de base entre deux services**[^10a-1]
+**Allocation de service entre deux services[^10a-2]**[^10a-1]
 
-Pour les services visés à l’art. 30, al. 1<sup>bis</sup>, de la loi du 3 février 1995 sur l’armée[^10a-2], le droit à l’allocation après l’école de recrues se fonde sur l’art. 9; pour tous les autres services, il se fonde sur l’art. 10. L’art. 16, al. 1, ne s’applique pas.
+Pour les services visés à l’art. 30, al. 1<sup>bis</sup>, de la loi du 3 février 1995 sur l’armée[^10a-3], le droit à l’allocation après l’école de recrues se fonde sur l’art. 9; pour tous les autres services, il se fonde sur l’art. 10. L’art. 16, al. 3, ne s’applique pas.[^10a-4]
 
 [^10a-1]: Introduit par l’annexe ch. 10 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^10a-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^10a-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^10a-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^10a-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 11
 
@@ -214,11 +206,9 @@ Pour les services visés à l’art. 30, al. 1<sup>bis</sup>, de la loi du 3 fé
 
 #### Art. 13
 
-**Allocation pour enfant**[^13-1]
+[^13-1]
 
-L’allocation pour enfant s’élève, pour chaque enfant, à 8 % du montant maximal de l’allocation totale.
-
-[^13-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^13-1]: Abrogé par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), avec effet au 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 14
 
@@ -230,57 +220,33 @@ L’allocation pour enfant s’élève, pour chaque enfant, à 8 % du montant ma
 
 **Allocation d’exploitation**[^15-1]
 
-L’allocation d’exploitation s’élève à 27 % du montant maximum de l’allocation totale.
+L’allocation d’exploitation s’élève à 34 % du montant maximum visé à l’art. 16, al. 1 et 2.
 
-[^15-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1209](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16
 
-**Montant minimal et maximal**[^16-1]
+**Montants maximal et minimal**[^16-1]
 
-<sup>1</sup>
+<sup>1</sup> Le montant maximal de l’allocation de service s’élève à 220 francs par jour.
 
-Durant les services d’instruction de longue durée désignés par le Conseil fédéral et qui, selon le droit militaire, doivent être accomplis en dehors des services d’instruction ordinaires des formations en vue de l’obtention d’un grade supérieur ou d’une nouvelle fonction, l’allocation journalière totale ne peut être inférieure aux taux suivants du montant maximal prévu à l’art. 16*a*:
+<sup>2</sup> Le Conseil fédéral peut adapter le montant maximal à l’évolution des salaires, à des intervalles d’au moins deux ans, pour le début d’une année et à condition que le niveau des salaires qui a déterminé la dernière adaptation ait subi, pendant ce temps, une modification d’au moins 12 %.
 
-- a. 45 %, pour les personnes qui n’ont pas d’enfant;
-- b. 65 %, pour les personnes qui ont un enfant;
-- c. 70 %, pour les personnes qui ont plus d’un enfant.
+<sup>3</sup> Durant les services d’instruction de longue durée désignés par le Conseil fédéral et qui, selon le droit militaire, doivent être accomplis en dehors des services d’instruction ordinaires des formations en vue de l’obtention d’un grade supérieur ou d’une nouvelle fonction, l’allocation journalière de service ne peut être inférieure à 57 % du montant maximal prévu aux al. 1 et 2.
 
-<sup>2</sup>
+<sup>4</sup> Pour les personnes en service long et qui accomplissent une formation pour atteindre un grade supérieur, l’allocation journalière de service pendant cette formation et les jours de service restants ne peut être inférieure à 47 % du montant maximal prévu aux al. 1 et 2.
 
-Pour les personnes en service long et qui accomplissent une formation pour atteindre un grade supérieur, l’allocation journalière totale pendant cette formation et les jours de service restants ne peut être inférieure aux taux suivants du montant maximal prévu à l’art. 16*a*:
+<sup>5</sup> Durant les périodes de service restantes, l’allocation journalière de service ne peut être inférieure à 32 % du montant maximal prévu aux al. 1 et 2.
 
-- a. 37 %, si elles n’ont pas d’enfant;
-- b. 55 %, si elles ont un enfant;
-- c. 62 %, si elles ont plus d’un enfant.
+<sup>6</sup> L’allocation pour frais de garde et l’allocation d’exploitation s’ajoutent, sans réduction, à l’allocation de service.
 
-<sup>3</sup>
-
-Durant les périodes de service restantes, l’allocation journalière totale ne peut être inférieure aux taux suivants du montant maximal prévu à l’art. 16*a*:
-
-- a. 25 %, pour les personnes qui n’ont pas d’enfant;
-- b. 40 %, pour les personnes qui ont un enfant;
-- c. 50 %, pour les personnes qui ont plus d’un enfant.
-
-<sup>4</sup> L’allocation de base est réduite dans la mesure où elle dépasse 80 % du montant maximal prévu à l’art. 16*a*.
-
-<sup>5</sup> L’allocation totale est réduite dans la mesure où elle dépasse le revenu moyen acquis avant le service ou le montant maximal prévu à l’art. 16*a*, mais uniquement jusqu’à concurrence des montants minimaux prévus aux al. 1 à 3.
-
-<sup>6</sup> L’allocation totale comprend l’allocation de base prévue à l’art. 4 ainsi que les allocations pour enfant prévues à l’art. 6. L’allocation pour frais de garde et l’allocation d’exploitation s’ajoutent, sans réduction, à l’allocation totale.
-
-[^16-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16a
 
-**Montant maximum de l’allocation totale**[^16a-1]
+[^16a-1]
 
-<sup>1</sup> Le montant maximum de l’allocation totale s’élève à 275 francs[^16a-2] par jour.[^16a-3]
-
-<sup>2</sup> Le Conseil fédéral peut adapter le montant maximum à l’évolution des salaires, à des intervalles d’au moins deux ans, dès le début d’une année et à condition que le niveau des salaires qui a déterminé la dernière adaptation ait subi, pendant ce temps, une modification d’au moins 12 %.
-
-[^16a-1]: Introduit par le ch. I de la LF du 3 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1209](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Montant adapté selon l’art. 7 al. 1 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
-[^16a-3]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16a-1]: Introduit par le ch. I de la LF du 3 oct. 1975 ([RO 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1209](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)). Abrogé par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), avec effet au 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III*a*. L’allocation de maternité
 
@@ -330,17 +296,22 @@ Le Conseil fédéral règle le droit à l’allocation des femmes qui, pour caus
 
 <sup>3</sup>
 
-En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée d’une durée équivalente à celle de l’hospitalisation, mais de 56 jours au plus, si les conditions suivantes sont réunies:
+En cas d’hospitalisation du nouveau-né ou de la mère, la durée du versement est prolongée d’une durée équivalente à celle de l’hospitalisation si les conditions suivantes sont réunies:[^16c-3]
 
-- a. le nouveau-né est hospitalisé de façon ininterrompue durant deux semaines au moins immédiatement après sa naissance;
-- b. la mère apporte la preuve qu’au moment de l’accouchement elle prévoyait de reprendre une activité lucrative à la fin de son congé de maternité.[^16c-3]
+- a.[^16c-4] le nouveau-né ou la mère sont hospitalisés de façon ininterrompue durant deux semaines au moins dans les deux semaines après la naissance;
+- b. la mère apporte la preuve qu’au moment de l’accouchement elle prévoyait de reprendre une activité lucrative à la fin de son congé de maternité.[^16c-5]
 
-<sup>4</sup> Le Conseil fédéral règle le droit à la prolongation de la durée du versement de l’allocation que perçoivent les femmes qui, pour cause d’incapacité de travail ou de chômage, ne peuvent pas reprendre une activité lucrative à la fin de leur congé de maternité.[^16c-4]
+<sup>4</sup> Le Conseil fédéral règle le droit à la prolongation de la durée du versement de l’allocation que perçoivent les femmes qui, pour cause d’incapacité de travail ou de chômage, ne peuvent pas reprendre une activité lucrative à la fin de leur congé de maternité.[^16c-6]
+
+<sup>5</sup> Il règle également la prolongation de la durée du versement de l’allocation pour le cas où l’hospitalisation de la mère et l’hospitalisation du nouveau-né donnent toutes les deux droit à la prolongation.[^16c-7]
 
 [^16c-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 [^16c-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16c-3]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16c-4]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16c-4]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^16c-5]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-6]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-7]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16c<sup>bis</sup>
 
@@ -360,12 +331,13 @@ En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée
 
 <sup>1</sup> Le droit s’éteint le 98<sup>e</sup> jour à partir du jour où il a été octroyé.
 
-<sup>2</sup> En cas d’hospitalisation du nouveau-né, il s’éteint à la fin de la prolongation prévue à l’art. 16*c*, al. 3.
+<sup>2</sup> En cas d’hospitalisation du nouveau-né ou de la mère, il s’éteint à la fin de la prolongation prévue à l’art. 16*c*, al. 3.[^16d-2]
 
-<sup>3</sup> Il s’éteint de manière anticipée si la mère reprend une activité lucrative ou si elle décède; il ne s’éteint toutefois pas de manière anticipée si la mère participe, en tant que députée, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal pour lesquelles une suppléance n’est pas prévue.[^16d-2]
+<sup>3</sup> Il s’éteint de manière anticipée si la mère reprend une activité lucrative ou si elle décède; il ne s’éteint toutefois pas de manière anticipée si la mère participe, en tant que députée, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal pour lesquelles une suppléance n’est pas prévue.[^16d-3]
 
 [^16d-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16d-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Allocation de maternité pour les députées), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [FF 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
+[^16d-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16d-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Allocation de maternité pour les députées), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [FF 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
 
 #### Art. 16e
 
@@ -377,13 +349,37 @@ En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée
 
 #### Art. 16f
 
-**Montant maximal**
+**Montant maximal**[^16f-1]
 
-<sup>1</sup> Le montant maximal s’élève à 220 francs[^16f-1] par jour. L’art. 16*a*, al. 2, est applicable par analogie.
+<sup>1</sup> L’art. 16, al. 1 et 2, s’applique par analogie au montant maximal de l’allocation de maternité.
 
-<sup>2</sup> L’allocation est réduite si elle dépasse le montant maximal prévu à l’al. 1.
+<sup>2</sup> L’allocation pour frais de garde et l’allocation d’exploitation s’ajoutent, sans réduction, à l’allocation de maternité.
 
-[^16f-1]: Montant adapté selon l’art. 7 al. 2 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^16f-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16f<sup>bis</sup>
+
+**Allocation pour frais de garde**[^16fbis-1]
+
+<sup>1</sup> La mère qui perçoit une allocation de maternité a droit à une allocation pour frais de garde pour ses enfants de moins de 16 ans si elle vit en ménage commun avec eux et si elle établit que, lorsqu’elle percevait l’allocation de maternité, la prise en charge nécessaire au bien des enfants n’a pu être assurée pleinement, pour des raisons de santé, pendant deux jours consécutifs au moins et que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants en ont résulté.
+
+<sup>2</sup> L’al. 1 s’applique également aux enfants recueillis si les frais d’entretien et d’éducation sont assumés gratuitement et durablement.
+
+<sup>3</sup> Le Conseil fédéral fixe le montant maximal de l’allocation pour frais de garde.
+
+[^16fbis-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 16f<sup>ter</sup>
+
+**Allocation d’exploitation**[^16fter-1]
+
+<sup>1</sup> A droit à l’allocation d’exploitation, à moins qu’elle ne retire d’une activité salariée un revenu supérieur à celui de son activité indépendante, la mère qui perçoit une allocation de maternité et qui dirige une entreprise en qualité de propriétaire, de fermière ou d’usufruitière, ou qui participe activement à la direction d’une entreprise comme associée d’une société en nom collectif, comme associée indéfiniment responsable d’une société en commandite ou comme membre d’une autre communauté de personnes visant un but lucratif et ne possédant pas la personnalité juridique.
+
+<sup>2</sup> La mère qui perçoit une allocation de maternité et qui travaille dans une exploitation agricole comme membre de la famille de l’exploitant peut prétendre à l’allocation d’exploitation s’il faut engager un remplaçant pendant son congé de maternité. Le Conseil fédéral règle les modalités, notamment en ce qui concerne le cercle des personnes considérées qui travaillent comme membres de la famille.
+
+<sup>3</sup> L’art. 15 s’applique par analogie au montant de l’allocation d’exploitation.
+
+[^16fter-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 16g
 
@@ -398,24 +394,25 @@ L’allocation de maternité exclut le versement des indemnités journalières:
 - c. de l’assurance-accidents;
 - d. de l’assurance militaire;
 - e. du régime des allocations au sens des art. 9 et 10;
-- f.[^16g-1] du régime des allocations au sens des art. 16*n* à 16*s* si elle concerne le même enfant.
+- f.[^16g-1] de l’allocation de prise en charge visée aux art. 16*n* à 16*s*<sup>bis</sup> allouée à la mère.
 
 <sup>2</sup>
 
-Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation de maternité, le montant de l’allocation s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément aux lois suivantes:
+Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation de maternité, le montant de l’allocation de maternité s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément à la présente loi ou aux lois suivantes:[^16g-2]
 
-- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16g-2];
-- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16g-3];
-- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16g-4];
-- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16g-5];
-- e. loi du 25 juin 1982 sur l’assurance-chômage[^16g-6].
+- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16g-3];
+- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16g-4];
+- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16g-5];
+- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16g-6];
+- e. loi du 25 juin 1982 sur l’assurance-chômage[^16g-7].
 
-[^16g-1]: Introduite par le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^16g-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16g-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16g-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16g-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16g-6]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16g-1]: Introduite par le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16g-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16g-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16g-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16g-5]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16g-6]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16g-7]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 16h
 
@@ -481,9 +478,12 @@ Le droit à l’allocation s’éteint:
 - d. si l’enfant décède, ou
 - e.[^16j-3] si la filiation avec l’autre parent s’éteint par jugement.
 
+<sup>4</sup> En dérogation à l’al. 3, let. d, le droit à l’allocation ne s’éteint pas si l’enfant est mort-né ou décède à la naissance ou dans les 14 jours qui suivent. En dérogation à l’al. 1, les indemnités journalières restantes doivent être perçues de manière ininterrompue dès le lendemain du décès.[^16j-4]
+
 [^16j-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16j-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16j-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-4]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16k
 
@@ -497,7 +497,27 @@ Le droit à l’allocation s’éteint:
 
 <sup>4</sup> Si le congé est pris sous la forme de journées, l’autre parent touche, pour cinq jours indemnisés, deux indemnités journalières supplémentaires.
 
+<sup>5</sup> L’autre parent a droit à des indemnités journalières supplémentaires, lorsque la mère est hospitalisée de façon ininterrompue durant deux semaines au moins entre le jour de l’accouchement et les 97 jours qui suivent. Le nombre d’indemnités journalières supplémentaires correspond à la durée de l’hospitalisation, mais à 84 indemnités journalières au plus.[^16k-2]
+
+<sup>6</sup> Les indemnités journalières visées à l’al. 5 doivent être perçues de manière ininterrompue.[^16k-3]
+
+<sup>7</sup>
+
+Le droit aux indemnités prévu à l’al. 5 naît le 15<sup>e</sup> jour d’hospitalisation de la mère et s’éteint:
+
+- a. le 97<sup>e</sup> jour qui suit la naissance de l’enfant au plus tard;
+- b. si l’autre parent décède;
+- c. si l’enfant décède;
+- d. si la filiation avec l’autre parent s’éteint par jugement, ou
+- e. à la reprise de l’activité lucrative de l’autre parent.[^16k-4]
+
+<sup>8</sup> En dérogation à l’al. 7, let. e, le droit ne s’éteint pas si l’autre parent participe, en tant que député, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal pour lesquelles une suppléance n’est pas prévue.[^16k-5]
+
 [^16k-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16k-2]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^16k-3]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^16k-4]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^16k-5]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16k<sup>bis</sup>
 
@@ -507,11 +527,23 @@ Le droit à l’allocation s’éteint:
 
 <sup>2</sup> En cas d’hospitalisation du nouveau-né, l’art. 16*c*, al. 3, s’applique par analogie.
 
-<sup>3</sup> Le droit aux indemnités prévu aux al. 1 et 2 prend naissance le jour suivant le décès de la mère et s’éteint pour les motifs énoncés à l’art. 16*j*, al. 3, let. b à e, ou au moment de la reprise de l’activité lucrative.
+<sup>3</sup>
+
+Le droit aux indemnités prévu aux al. 1 et 2 prend naissance le jour suivant le décès de la mère et s’éteint:
+
+- a. après perception du nombre maximal d’indemnités journalières;
+- b. si l’autre parent décède;
+- c. si l’enfant décède;
+- d. si la filiation avec l’autre parent s’éteint par jugement, ou
+- e. à la reprise de l’activité lucrative de l’autre parent.[^16kbis-2]
+
+<sup>3bis</sup> En dérogation à l’al. 3, let. e, le droit ne s’éteint pas si l’autre parent participe, en tant que député, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal pour lesquelles une suppléance n’est pas prévue.[^16kbis-3]
 
 <sup>4</sup> Le délai-cadre de six mois prévu à l’art. 16*j* est interrompu pour la durée de la perception des indemnités prévue aux al. 1 et 2.
 
 [^16kbis-1]: Introduit par le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Voir aussi la disp. fin. de cette mod. à la fin du texte.
+[^16kbis-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16kbis-3]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16l
 
@@ -521,9 +553,37 @@ Le droit à l’allocation s’éteint:
 
 <sup>2</sup> Pour déterminer le montant du revenu au sens de l’al. 1, l’art. 11, al. 1, est applicable par analogie.
 
-<sup>3</sup> Pour le montant maximal, l’art. 16*f* est applicable par analogie.
+<sup>3</sup> L’art. 16, al. 1 et 2, s’applique par analogie au montant maximal de l’allocation à l’autre parent.[^16l-2]
+
+<sup>4</sup> L’allocation pour frais de garde et l’allocation d’exploitation s’ajoutent, sans réduction, à l’allocation à l’autre parent.[^16l-3]
 
 [^16l-1]: Erratum du 28 janv. 2025, ne concerne que le texte italien ([RO 2025 72](https://fedlex.data.admin.ch/eli/oc/2025/72)).
+[^16l-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16l-3]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16l<sup>bis</sup>
+
+**Allocation pour frais de garde**[^16lbis-1]
+
+<sup>1</sup> La personne qui perçoit une allocation à l’autre parent a droit à une allocation pour frais de garde pour ses enfants de moins de 16 ans si elle vit en ménage commun avec eux et si elle établit que, lorsqu’elle percevait l’allocation à l’autre parent, la prise en charge nécessaire au bien des enfants n’a pu être assurée pleinement, pour des raisons de santé, pendant deux jours consécutifs au moins et que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants en ont résulté.
+
+<sup>2</sup> L’al. 1 s’applique également aux enfants recueillis si les frais d’entretien et d’éducation sont assumés gratuitement et durablement.
+
+<sup>3</sup> Le Conseil fédéral fixe le montant maximal de l’allocation pour frais de garde.
+
+[^16lbis-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 16l<sup>ter</sup>
+
+**Allocation d’exploitation**[^16lter-1]
+
+<sup>1</sup> A droit à l’allocation d’exploitation, à moins qu’elle ne retire d’une activité salariée un revenu supérieur à celui de son activité indépendante, la personne qui perçoit une allocation à l’autre parent et qui dirige une entreprise en qualité de propriétaire, de fermière ou d’usufruitière, ou qui participe activement à la direction d’une entreprise comme associée d’une société en nom collectif, comme associée indéfiniment responsable d’une société en commandite ou comme membre d’une autre communauté de personnes visant un but lucratif et ne possédant pas la personnalité juridique.
+
+<sup>2</sup> La personne qui perçoit une allocation à l’autre parent et travaille dans une exploitation agricole comme membre de la famille de l’exploitant peut prétendre à l’allocation d’exploitation s’il faut engager un remplaçant pendant son congé. Le Conseil fédéral règle les modalités, notamment en ce qui concerne le cercle des personnes considérées qui travaillent comme membres de la famille.
+
+<sup>3</sup> L’art. 15 s’applique par analogie au montant de l’allocation d’exploitation.
+
+[^16lter-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 16m
 
@@ -537,32 +597,43 @@ L’allocation à l’autre parent exclut le versement des indemnités journali�
 - b. de l’assurance-invalidité;
 - c. de l’assurance-accidents;
 - d. de l’assurance militaire;
-- e. du régime des allocations au sens des art. 9 et 10.
+- e. du régime des allocations au sens des art. 9 et 10;
+- f.[^16m-3] de l’allocation de prise en charge visée aux art. 16*n* à 16*s*<sup>bis</sup> allouée à l’autre parent.
 
 <sup>2</sup>
 
-Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation à l’autre parent, le montant de cette allocation s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément aux lois suivantes:[^16m-3]
+Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation à l’autre parent, le montant de l’allocation à l’autre parent s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément à la présente loi ou aux lois suivantes:[^16m-4]
 
-- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16m-4];
-- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16m-5];
-- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16m-6];
-- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16m-7];
-- e. loi fédérale du 25 juin 1982 sur l’assurance-chômage[^16m-8].
+- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16m-5];
+- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16m-6];
+- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16m-7];
+- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16m-8];
+- e. loi fédérale du 25 juin 1982 sur l’assurance-chômage[^16m-9].
 
 [^16m-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16m-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16m-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16m-6]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16m-7]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16m-8]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16m-3]: Introduite par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16m-4]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16m-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16m-6]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16m-7]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16m-8]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16m-9]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
-### III*c*. L’allocation pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
+#### Art. 16m<sup>bis</sup>
 
-[^chap1a-lvlIIIc-1]
+**Rapport avec les réglementations cantonales**[^16mbis-1]
+
+En complément à la section III*b*, les cantons peuvent prévoir l’octroi d’une allocation à l’autre parent plus élevée ou de plus longue durée et prélever, pour le financement de cette prestation, des cotisations particulières.
+
+[^16mbis-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+### III*c*. L’allocation pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, ou qui est hospitalisé
+
+[^chap1a-lvlIIIc-1][^chap1a-lvlIIIc-2]
 
 [^chap1a-lvlIIIc-1]: Introduit par le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIc-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16n
 
@@ -570,18 +641,20 @@ Si le droit à une indemnité journalière existait jusqu’au début du droit �
 
 <sup>1</sup>
 
-Ont droit à l’allocation les parents d’un enfant mineur gravement atteint dans sa santé en raison d’une maladie ou d’un accident qui:
+Ont droit à l’allocation les parents d’un enfant mineur gravement atteint dans sa santé en raison d’une maladie ou d’un accident ou d’un enfant hospitalisé pour une durée d’au moins quatre jours consécutifs, qui:[^16n-1]
 
 - a. interrompent leur activité lucrative pour prendre en charge l’enfant, et qui
 - b.
 
   au moment de l’interruption de leur activité lucrative:
 
-  - 1\. sont salariés au sens de l’art. 10 LPGA[^16n-1],
+  - 1\. sont salariés au sens de l’art. 10 LPGA[^16n-2],
   - 2\. exercent une activité indépendante au sens de l’art. 12 LPGA, ou
   - 3\. travaillent dans l’entreprise de leur conjoint contre un salaire en espèces.
 
-<sup>2</sup> Chaque cas de maladie ou d’accident ne donne droit qu’à une allocation.
+<sup>2</sup> Chaque cas de maladie ou d’accident et chaque hospitalisation ne donne droit qu’à une allocation.[^16n-3]
+
+<sup>2bis</sup> L’hospitalisation immédiatement après la naissance ne donne droit à l’allocation que si l’enfant est gravement atteint dans sa santé. La condition de l’art. 16*o*, let. a et b, n’est pas applicable pour déterminer la gravité de l’atteinte à la santé.[^16n-4]
 
 <sup>3</sup>
 
@@ -590,7 +663,10 @@ Le Conseil fédéral règle:
 - a le droit des parents nourriciers à l’allocation;
 - b. les conditions du droit à l’allocation pour les personnes qui, en incapacité de travail ou au chômage, ne remplissent pas les conditions de l’al. 1, let. b.
 
-[^16n-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16n-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^16n-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16n-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16n-4]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16o
 
@@ -607,7 +683,7 @@ L’enfant est réputé gravement atteint dans sa santé:
 
 **Délai-cadre, début et fin du droit à l’allocation**
 
-<sup>1</sup> L’allocation de prise en charge est versée dans un délai-cadre de 18 mois.
+<sup>1</sup> Si l’enfant est gravement atteint dans sa santé au sens de l’art. 16*o*, l’allocation de prise en charge est versée dans un délai-cadre de 18 mois.[^16p-1]
 
 <sup>2</sup> Le délai-cadre commence à courir le jour pour lequel la première indemnité journalière est versée.
 
@@ -620,7 +696,10 @@ Il s’éteint:
 - a. au terme du délai-cadre, ou
 - b. après perception du nombre maximal d’indemnités journalières.
 
-<sup>5</sup> Il s’éteint prématurément lorsque les conditions ne sont plus remplies; en revanche, il ne s’éteint pas prématurément lorsque l’enfant devient majeur avant l’échéance du délai-cadre.
+<sup>5</sup> Il s’éteint prématurément lorsque les conditions ne sont plus remplies; en revanche, il ne s’éteint pas prématurément lorsque l’enfant devient majeur avant l’échéance du délai-cadre ou pendant la durée de l’hospitalisation et de la convalescence.[^16p-2]
+
+[^16p-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16p-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16q
 
@@ -628,11 +707,16 @@ Il s’éteint:
 
 <sup>1</sup> L’allocation est versée sous la forme d’indemnités journalières.
 
-<sup>2</sup> Dans les limites du délai-cadre, 98 indemnités journalières au plus peuvent être versées.
+<sup>2</sup> Si l’enfant est gravement atteint dans sa santé au sens de l’art. 16*o*, 98 indemnités journalières au plus peuvent être versées dans les limites du délai-cadre.[^16q-1]
+
+<sup>2bis</sup> Si l’enfant est hospitalisé, des indemnités journalières sont versées, dès le quatrième jour d’hospitalisation, pour une durée égale à celle de l’hospitalisation et de la convalescence. Au total, le droit se monte à 98 indemnités journalières au plus.[^16q-2]
 
 <sup>3</sup> Deux indemnités journalières supplémentaires sont versées par tranche de cinq indemnités journalières.
 
 <sup>4</sup> Lorsque les deux parents exercent une activité lucrative, chacun a droit à la moitié des indemnités journalières au plus. Ils peuvent convenir de se partager les indemnités de manière différente.
+
+[^16q-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16q-2]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16r
 
@@ -642,36 +726,78 @@ Il s’éteint:
 
 <sup>2</sup> Pour déterminer le montant du revenu au sens de l’al. 1, l’art. 11, al. 1, est appli-cable par analogie.
 
-<sup>3</sup> Pour le montant maximal, l’art. 16*f* est applicable par analogie.
+<sup>3</sup> L’art. 16, al. 1 et 2, s’applique par analogie au montant maximal de l’allocation de prise en charge.[^16r-1]
+
+<sup>4</sup> L’allocation pour frais de garde et l’allocation d’exploitation s’ajoutent, sans réduction, à l’allocation de prise en charge.[^16r-2]
+
+<sup>5</sup> Si les parents se partagent le congé de prise en charge, l’allocation est calculée séparément pour chaque parent.[^16r-3]
+
+[^16r-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16r-2]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16r-3]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16r<sup>bis</sup>
+
+**Allocation pour frais de garde**[^16rbis-1]
+
+<sup>1</sup> Les parents qui perçoivent une allocation de prise en charge ont droit à une allocation pour frais de garde pour leurs enfants de moins de 16 ans s’ils vivent en ménage commun avec eux et s’ils établissent que, lorsqu’ils percevaient l’allocation de prise en charge, la prise en charge nécessaire au bien des enfants n’a pu être assurée pleinement, pour des raisons de santé, pendant deux jours consécutifs au moins et que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants en ont résulté.
+
+<sup>2</sup> L’al. 1 s’applique également aux enfants recueillis si les frais d’entretien et d’éducation sont assumés gratuitement et durablement.
+
+<sup>3</sup> Le Conseil fédéral fixe le montant maximal de l’allocation pour frais de garde.
+
+[^16rbis-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 16r<sup>ter</sup>
+
+**Allocation d’exploitation**[^16rter-1]
+
+<sup>1</sup> Ont droit à l’allocation d’exploitation, à moins qu’ils ne retirent d’une activité salariée un revenu supérieur à celui de leur activité indépendante, les parents qui perçoivent une allocation de prise en charge et qui dirigent une entreprise en qualité de propriétaires, de fermiers ou d’usufruitiers, ou qui participent activement à la direction d’une entreprise comme associés d’une société en nom collectif, comme associés indéfiniment responsables d’une société en commandite ou comme membres d’une autre communauté de personnes visant un but lucratif et ne possédant pas la personnalité juridique.
+
+<sup>2</sup> Les parents qui perçoivent une allocation de prise en charge et qui travaillent dans une exploitation agricole comme membres de la famille de l’exploitant peuvent prétendre à l’allocation d’exploitation s’il faut engager un remplaçant pendant leur congé de prise en charge. Le Conseil fédéral règle les modalités, notamment en ce qui concerne le cercle des personnes considérées qui travaillent comme membres de la famille.
+
+<sup>3</sup> L’art. 15 s’applique par analogie au montant de l’allocation d’exploitation.
+
+[^16rter-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 16s
 
-**Rapport avec des prestations des autres assurances sociales**
+**Primauté de l’allocation de prise en charge**[^16s-1]
 
 <sup>1</sup>
 
-L’allocation de prise en charge prime les indemnités journalières ou les prestations des assurances sociales suivantes:
+L’allocation de prise en charge exclut le versement des indemnités journalières:
 
-- a. assurance-chômage;
-- b. assurance-invalidité;
-- c. assurance-accidents;
-- d. assurance militaire.
+- a. de l’assurance-chômage;
+- b. de l’assurance-invalidité;
+- c. de l’assurance-accidents;
+- d. de l’assurance militaire;
+- e. du régime des allocations au sens des art. 9 et 10.
 
 <sup>2</sup>
 
-Si, avant la naissance du droit à l’allocation de prise en charge, le bénéficiaire avait droit à une indemnité journalière en vertu de l’art. 16*b* ou de l’une des lois ci-après, le montant de l’allocation de prise en charge est au moins égal au montant de l’indemnité journalière qui lui était versée:
+Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation de prise en charge, le montant de l’allocation de prise en charge s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément à la présente loi ou aux lois suivantes:
 
-- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16s-1];
-- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16s-2];
-- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16s-3];
-- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16s-4];
-- e. loi du 25 juin 1982 sur l’assurance-chômage[^16s-5].
+- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16s-2];
+- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16s-3];
+- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16s-4];
+- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16s-5];
+- e. loi du 25 juin 1982 sur l’assurance-chômage[^16s-6].
 
-[^16s-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16s-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16s-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16s-4]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16s-5]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16s-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16s-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16s-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16s-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16s-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16s-6]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
+#### Art. 16s<sup>bis</sup>
+
+**Rapport avec les réglementations cantonales**[^16sbis-1]
+
+En complément à la section III*c*, les cantons peuvent prévoir l’octroi d’une allocation de prise en charge plus élevée ou de plus longue durée et prélever, pour le financement de cette prestation, des cotisations particulières.
+
+[^16sbis-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III*d*. L’allocation d’adoption
 
@@ -697,6 +823,13 @@ Ont droit à l’allocation les personnes qui:
   - 2\. exercent une activité indépendante au sens de l’art. 12 LPGA, ou
   - 3\. travaillent dans l’entreprise de leur conjoint contre un salaire en espèces.
 
+<sup>1bis</sup>
+
+Le Conseil fédéral règle le droit à l’allocation des personnes qui, pour cause d’incapacité de travail ou de chômage:
+
+- a. n’ont, au cours des neuf mois précédant l’accueil de l’enfant, pas exercé d’activité lucrative durant au moins cinq mois;
+- b. ne sont pas considérées comme salariées ou indépendantes au moment de l’accueil de l’enfant.[^16t-3]
+
 <sup>2</sup>
 
 En cas d’adoption conjointe:
@@ -708,11 +841,12 @@ En cas d’adoption conjointe:
 
 <sup>4</sup> L’accueil simultané de plusieurs enfants fait naître le droit à une seule allocation.
 
-<sup>5</sup> L’adoption de l’enfant du conjoint ou du partenaire au sens de l’art. 264*c*, al. 1, du code civil[^16t-3] ne donne pas droit à une allocation.
+<sup>5</sup> L’adoption de l’enfant du conjoint ou du partenaire au sens de l’art. 264*c*, al. 1, du code civil[^16t-4] ne donne pas droit à une allocation.
 
 [^16t-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16t-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^16t-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^16t-3]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16t-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 16u
 
@@ -751,15 +885,85 @@ Le droit à l’allocation s’éteint:
 
 <sup>2</sup> Pour déterminer le montant du revenu, l’art. 11, al. 1, est applicable par analogie.
 
-<sup>3</sup> Pour le montant maximal, l’art. 16*f* est applicable par analogie.
+<sup>3</sup> L’art. 16, al. 1 et 2, s’applique par analogie au montant maximal de l’allocation d’adoption.[^16w-1]
+
+<sup>3bis</sup> L’allocation pour frais de garde et l’allocation d’exploitation s’ajoutent, sans réduction, à l’allocation d’adoption.[^16w-2]
 
 <sup>4</sup> Si les parents se partagent le congé d’adoption, l’allocation est calculée séparément pour chaque parent.
 
+[^16w-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16w-2]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16w<sup>bis</sup>
+
+**Allocation pour frais de garde**[^16wbis-1]
+
+<sup>1</sup> Les personnes qui perçoivent une allocation d’adoption ont droit à une allocation pour frais de garde pour leurs enfants de moins de 16 ans si elles vivent en ménage commun avec eux et si elles établissent que, lorsqu’elles percevaient l’allocation d’adoption, la prise en charge nécessaire au bien des enfants n’a pu être assurée pleinement, pour des raisons de santé, pendant deux jours consécutifs au moins et que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants en ont résulté.
+
+<sup>2</sup> L’al. 1 s’applique également aux enfants recueillis si les frais d’entretien et d’éducation sont assumés gratuitement et durablement.
+
+<sup>3</sup> Le Conseil fédéral fixe le montant maximal de l’allocation pour frais de garde.
+
+[^16wbis-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 16w<sup>ter</sup>
+
+**Allocation d’exploitation**[^16wter-1]
+
+<sup>1</sup> Ont droit à l’allocation d’exploitation, à moins qu’elles ne retirent d’une activité salariée un revenu supérieur à celui de leur activité indépendante, les personnes qui perçoivent une allocation d’adoption et qui dirigent une entreprise en qualité de propriétaires, de fermiers ou d’usufruitiers, ou qui participent activement à la direction d’une entreprise comme associés d’une société en nom collectif, comme associés indéfiniment responsables d’une société en commandite ou comme membres d’une autre communauté de personnes visant un but lucratif et ne possédant pas la personnalité juridique.
+
+<sup>2</sup> Les personnes qui perçoivent une allocation d’adoption et travaillent dans une exploitation agricole comme membres de la famille de l’exploitant peuvent prétendre à l’allocation d’exploitation s’il faut engager un remplaçant pendant qu’elles prennent leur congé d’adoption. Le Conseil fédéral règle les modalités, notamment en ce qui concerne le cercle des personnes considérées qui travaillent comme membres de la famille.
+
+<sup>3</sup> L’art. 15 s’applique par analogie au montant de l’allocation d’exploitation.
+
+[^16wter-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 16w<sup>quater</sup>
+
+**Primauté de l’allocation d’adoption**[^16wquater-1]
+
+<sup>1</sup>
+
+L’allocation d’adoption exclut le versement des indemnités journalières:
+
+- a. de l’assurance-chômage;
+- b. de l’assurance-invalidité;
+- c. de l’assurance-accidents;
+- d. de l’assurance militaire;
+- e. du régime des allocations au sens des art. 9 et 10;
+- f. de l’allocation de prise en charge visée aux art. 16*n* à 16*s*<sup>bis</sup> allouée au parent.
+
+<sup>2</sup>
+
+Si le droit à une indemnité journalière existait jusqu’au début du droit à l’allocation d’adoption, le montant de l’allocation d’adoption s’élève au moins au montant de l’indemnité journalière versée jusqu’alors conformément à la présente loi ou aux lois suivantes:
+
+- a. loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^16wquater-2];
+- b. loi fédérale du 18 mars 1994 sur l’assurance-maladie[^16wquater-3];
+- c. loi fédérale du 20 mars 1981 sur l’assurance-accidents[^16wquater-4];
+- d. loi fédérale du 19 juin 1992 sur l’assurance militaire[^16wquater-5];
+- e. loi du 25 juin 1982 sur l’assurance-chômage[^16wquater-6].
+
+[^16wquater-1]: Introduit par le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16wquater-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16wquater-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16wquater-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16wquater-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16wquater-6]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
 #### Art. 16x
 
-**Rapport avec les réglementations cantonales**
+**Rapport avec les réglementations cantonales**[^16x-1]
 
-En complément à la section III*d*, les cantons peuvent prévoir l’octroi d’une allocation d’adoption plus élevée ou de plus longue durée et prélever, pour le financement de cette prestation, des cotisations particulières.
+<sup>1</sup>
+
+En complément à la section III*d*, les cantons peuvent prévoir:
+
+- a. l’octroi d’une allocation d’adoption plus élevée ou de plus longue durée;
+- b. l’octroi d’une allocation d’adoption pour les personnes qui accueillent un enfant de plus de 4 ans en vue de son adoption.
+
+<sup>2</sup> Ils peuvent prélever des cotisations particulières pour le financement de ces prestations.
+
+[^16x-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### IV. Dispositions diverses
 
@@ -1202,3 +1406,17 @@ Les nouvelles dispositions s’appliquent également si l’accouchement est int
 [^u3-1]: [RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)
 
 Les art. 16*c*<sup>bis</sup> et 16*k*<sup>bis</sup> s’appliquent uniquement aux décès intervenus à partir du jour de l’entrée en vigueur de la modification du 17 mars 2023.
+
+## Dispositions transitoires de la modification du 19 décembre 2025 (Harmonisation des prestations dans le régime des APG)
+
+[^u4-1]
+
+[^u4-1]: [RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)
+
+<sup>1</sup> Le droit à l’allocation pour enfant des personnes qui effectuent un service au moment de l’entrée en vigueur de la modification du 19 décembre 2025 s’éteint à la fin de la période de service.
+
+<sup>2</sup> Les art. 16*f*<sup>bis</sup>, 16*l*<sup>bis</sup>, 16*r*<sup>bis</sup> et 16*w*<sup>bis</sup> (allocation pour frais de garde) s’appliquent à tous les congés en cours au moment de l’entrée en vigueur de la présente modification. L’octroi de l’allocation pour frais de garde intervient toutefois au plus tôt à partir de l’entrée en vigueur de cette modification et uniquement pour la période du congé non encore écoulée.
+
+<sup>3</sup> Les art. 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> et 16*w*<sup>ter</sup> (allocation d’exploitation) s’appliquent à tous les congés en cours au moment de l’entrée en vigueur de la présente modification . L’octroi de l’allocation d’exploitation intervient toutefois au plus tôt à partir de l’entrée en vigueur de cette modification et uniquement pour la période du congé non encore écoulée.
+
+<sup>4</sup> Les droits découlant des art. 16*c*, al. 3, 16*k*, al. 5 à 7, et 16*n*, al. 1, naissent pour toutes les mères, tous les enfants et tous les nouveau-nés hospitalisés au moment de l’entrée en vigueur de la présente modification. L’octroi des indemnités journalières intervient toutefois au plus tôt à partir de l’entrée en vigueur de cette modification et uniquement pour la période d’hospitalisation non encore écoulée.

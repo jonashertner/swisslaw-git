@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2027-01-01
+version: 2027-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270701/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/it"
 
 (Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° gennaio 2027)
+del 25 settembre 1952 (Stato 1° luglio 2027)
 
 [^t-1]: Nuovo testo giusta la cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -49,11 +49,11 @@ Le disposizioni della legge federale del 6 ottobre 2000[^1-1] sulla parte genera
 
 [^chap1a-1]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### I. Diritto all’indennità per chi presta servizio
+### I. Indennità di servizio
 
 [^chap1a-lvlI-1]
 
-[^chap1a-lvlI-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap1a-lvlI-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 1a
 
@@ -82,7 +82,7 @@ Le persone che prestano servizio nell’esercito svizzero o nel servizio della C
 <sup>5</sup> Le persone di cui ai capoversi 1–4 sono denominate, nella presente legge, «persone prestanti servizio».
 
 [^1a-1]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^1a-2]: Abrogata dalla cifra I della LF del 3 ott. 2003, con effetto dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^1a-2]: Abrogato dalla cifra I della LF del 3 ott. 2003, con effetto dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^1a-3]: Nuovo testo giusta la cifra II n. 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 [^1a-4]: Nuovo testo giusta l’all. n. 4 della LF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^1a-5]: Introdotto dall’all. n. 10 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -106,11 +106,11 @@ Le persone che prestano servizio nell’esercito svizzero o nel servizio della C
 
 #### Art. 4
 
-**Indennità di base**[^4-1]
+**Indennità di servizio**[^4-1]
 
-Tutte le persone prestanti servizio hanno diritto all’indennità di base.
+Tutte le persone prestanti servizio hanno diritto all’indennità di servizio.
 
-[^4-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1998, in vigore dal 1° lug. 1999 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 5
 
@@ -120,29 +120,21 @@ Tutte le persone prestanti servizio hanno diritto all’indennità di base.
 
 #### Art. 6
 
-**Assegni per i figli**[^6-1]
+[^6-1]
 
-<sup>1</sup> Le persone prestanti servizio hanno diritto a un assegno per ogni figlio, di cui al capoverso 2, che non abbia ancora compiuto 18 anni. Per i figli che sono a tirocinio o agli studi, il diritto all’assegno dura fino a 25 anni compiuti.
-
-<sup>2</sup>
-
-Danno diritto all’assegno:
-
-- a. i figli della persona prestante servizio;
-- b. i figli elettivi della persona prestante servizio, dei quali egli assume gratuitamente e durevolmente le spese di mantenimento e di educazione.[^6-2]
-
-[^6-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1968, in vigore dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 109](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
-[^6-2]: Nuovo testo giusta l’all. cifra III della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^6-1]: Abrogato dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), con effetto dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 7
 
 **Assegno per spese di custodia**[^7-1]
 
-<sup>1</sup> Le persone prestanti servizio che vivono in comunione domestica con uno o più figli (art. 6) d’età inferiore ai 16 anni, hanno diritto all’assegno per spese di custodia se possono stabilire che, a causa di un periodo di servizio di due giorni consecutivi almeno, hanno sostenuto spese supplementari di tal genere.
+<sup>1</sup> Le persone prestanti servizio hanno diritto all’assegno per spese di custodia per i propri figli d’età inferiore ai 16 anni se vivono in comunione domestica con loro e dimostrano che, a causa di un periodo di servizio di due giorni consecutivi almeno, hanno sostenuto spese supplementari per la custodia istituzionale di bambini.
 
-<sup>2</sup> Il Consiglio federale stabilisce l’importo massimo dell’indennità e disciplina i dettagli.
+<sup>2</sup> Il capoverso 1 si applica anche ai figli elettivi, se le spese di mantenimento e di educazione sono assunte gratuitamente e durevolmente.
 
-[^7-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695).
+<sup>3</sup> Il Consiglio federale stabilisce l’importo massimo dell’assegno per spese di custodia e disciplina i dettagli.
+
+[^7-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 8
 
@@ -150,49 +142,49 @@ Danno diritto all’assegno:
 
 <sup>1</sup> Hanno diritto all’assegno per l’azienda le persone prestanti servizio che dirigono un’azienda come proprietari, affittuari o usufruttuari o che partecipano attivamente alla direzione di un’azienda in qualità di soci di una società in nome collettivo, di soci illimitatamente responsabili di una società in accomandita o di membri di un’altra unione di persone senza personalità giuridica che si prefigge uno scopo lucrativo, in quanto non conseguano un reddito superiore da un’attività dipendente.
 
-<sup>2</sup> Le persone prestanti servizio che lavorano in un’azienda agricola in qualità di familiari possono pretendere l’assegno per l’azienda se, a causa del loro periodo di servizio di una certa durata, nell’azienda deve essere assunto un sostituto. Il Consiglio federale emana le prescrizioni particolari.[^8-2]
+<sup>2</sup> Le persone prestanti servizio che lavorano in un’azienda agricola in qualità di familiari hanno diritto all’assegno per l’azienda se, a causa del periodo di servizio di una certa durata, nell’azienda deve essere assunto un sostituto. Il Consiglio federale emana prescrizioni più dettagliate, in particolare sulla cerchia delle persone considerate familiari che lavorano nell’azienda agricola.
 
-[^8-1]: Nuovo testo giusta la cifra I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
-[^8-2]: Introdotto dalla cifra I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1185](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III. Calcolo delle indennità
 
 #### Art. 9
 
-**Indennità di base durante la scuola reclute e durante periodi di servizio equiparati**[^9-1]
+**Indennità di servizio durante la scuola reclute e durante periodi di servizio equiparati**[^9-1]
 
-<sup>1</sup> Durante il reclutamento, durante la scuola reclute e durante l’istruzione di base l’indennità giornaliera di base per le persone che adempiono senza interruzione al loro obbligo di servire (persone in lungo servizio) ammonta al 25 per cento dell’indennità totale massima.
+<sup>1</sup> Durante il reclutamento, durante la scuola reclute e durante l’istruzione di base l’indennità giornaliera di servizio per le persone che adempiono senza interruzione al loro obbligo di servire (militari in ferma continuata) ammonta al 32 per cento dell’importo massimo di cui all’articolo 16 capoversi 1 e 2.
 
-<sup>2</sup> L’indennità giornaliera di base per le persone soggette all’obbligo di leva, per le reclute e per le persone in lungo servizio che hanno diritto ad assegni per i figli è calcolata in base all’articolo 10.
+<sup>2</sup> L’indennità giornaliera di servizio è calcolata conformemente all’articolo 10 per le persone soggette all’obbligo di leva, per le reclute e per i militari in ferma continuata i cui figli, compresi quelli ai sensi dell’articolo 7 capoverso 2, non hanno ancora compiuto 18 anni, o 25 anni se sono ancora in formazione.
 
-<sup>2bis</sup> Alle persone ammesse al servizio militare secondo l’articolo 6 capoverso 1 lettera c della legge militare del 3 febbraio 1995[^9-2] spetta, per il numero di giorni di servizio militare corrispondenti alla durata di una scuola reclute, il 25 per cento dell’indennità totale massima. Il capoverso 2 si applica per analogia.[^9-3]
+<sup>3</sup> Alla persona ammessa al servizio militare secondo l’articolo 6 capoverso 1 lettera c della legge militare del 3 febbraio 1995[^9-2] spetta, per il numero di giorni di servizio militare corrispondenti alla durata di una scuola reclute, il 32 per cento dell’importo massimo di cui all’articolo 16 capoversi 1 e 2. Il capoverso 2 si applica per analogia.
 
-<sup>3</sup> Alla persona che presta servizio civile e non ha assolto la scuola reclute spetta, per il numero di giorni di servizio civile corrispondenti alla durata di una scuola reclute, il 25 per cento dell’indennità totale massima. È computato l’assolvimento parziale della scuola reclute. Il capoverso 2 si applica per analogia.
+<sup>4</sup> Alla persona che presta servizio civile e non ha assolto la scuola reclute spetta, per il numero di giorni di servizio civile corrispondenti alla durata di una scuola reclute, il 32 per cento dell’importo massimo di cui all’articolo 16 capoversi 1 e 2. È computato l’assolvimento parziale della scuola reclute. Il capoverso 2 si applica per analogia.
 
-<sup>4</sup> Durante l’istruzione di base nella protezione civile, l’indennità giornaliera di base ammonta al 25 per cento dell’indennità totale massima. Il capoverso 2 si applica per analogia. Il Consiglio federale emana disposizioni per le persone che prestano servizio avendo già assolto in tutto od in parte un’istruzione militare di base.
+<sup>5</sup> Durante l’istruzione di base nella protezione civile, l’indennità giornaliera di servizio ammonta al 32 per cento dell’importo massimo di cui all’articolo 16 capoversi 1 e 2. Il capoverso 2 si applica per analogia. Il Consiglio federale emana disposizioni per le persone che prestano servizio avendo già assolto in tutto o in parte un’istruzione militare di base.
 
-[^9-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^9-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^9-3]: Introdotto dall’all. n. 10 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 10
 
-**Indennità di base durante gli altri servizi**[^10-1]
+**Indennità di servizio durante gli altri servizi**[^10-1]
 
-<sup>1</sup> L’indennità giornaliera di base durante servizi diversi da quelli di cui all’articolo 9 ammonta all’80 per cento del reddito lavorativo medio conseguito prima del servizio. È fatto salvo l’articolo 16 capoversi 1–3.
+<sup>1</sup> L’indennità giornaliera di servizio durante servizi diversi da quelli di cui all’articolo 9 ammonta all’80 per cento del reddito lavorativo medio conseguito prima del servizio. È fatto salvo l’articolo 16 capoversi 1–5.
 
-<sup>2</sup> Se prima di iniziare il servizio l’interessato non esercitava un’attività lucrativa, l’indennità giornaliera di base ammonta all’importo minimo secondo l’articolo 16 capoversi 1–3.
+<sup>2</sup> Se prima di iniziare il servizio l’interessato non esercitava un’attività lucrativa, l’indennità giornaliera di servizio ammonta all’importo minimo secondo l’articolo 16 capoversi 3–5.
 
-[^10-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 10a
 
-**Indennità di base tra due servizi**[^10a-1]
+**Indennità di servizio tra due servizi[^10a-2]**[^10a-1]
 
-Per i servizi di cui all’articolo 30 capoverso 1<sup>bis</sup> della legge militare del 3 febbraio 1995[^10a-2], il diritto all’indennità dopo la scuola reclute è retto dall’articolo 9; per tutti i rimanenti servizi esso è retto dall’articolo 10. L’articolo 16 capoverso 1 non è applicabile.
+Per i servizi di cui all’articolo 30 capoverso 1<sup>bis</sup> della legge militare del 3 febbraio 1995[^10a-3], il diritto all’indennità dopo la scuola reclute è retto dall’articolo 9; per tutti i rimanenti servizi esso è retto dall’articolo 10. L’articolo 16 capoverso 3 non è applicabile.[^10a-4]
 
 [^10a-1]: Introdotto dall’all. n. 10 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^10a-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^10a-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^10a-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^10a-4]: Nuovo testo del secondo per. giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 11
 
@@ -214,11 +206,9 @@ Per i servizi di cui all’articolo 30 capoverso 1<sup>bis</sup> della legge mil
 
 #### Art. 13
 
-**Assegno per i figli**[^13-1]
+[^13-1]
 
-L’assegno per i figli ammonta per ogni figlio all’8 per cento dell’indennità totale massima.
-
-[^13-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^13-1]: Abrogato dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), con effetto dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 14
 
@@ -230,57 +220,33 @@ L’assegno per i figli ammonta per ogni figlio all’8 per cento dell’indenni
 
 **Assegno per l’azienda**[^15-1]
 
-L’assegno per l’azienda è del 27 per cento dell’indennità totale massima.
+L’assegno per l’azienda è del 34 per cento dell’importo massimo di cui all’articolo 16 capoversi 1 e 2.
 
-[^15-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1185](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16
 
-**Importo minimo e massimo**[^16-1]
+**Importi massimo e minimo**[^16-1]
 
-<sup>1</sup>
+<sup>1</sup> L’importo massimo dell’indennità di servizio ammonta a 220 franchi al giorno.
 
-Durante i servizi di avanzamento di lunga durata designati dal Consiglio federale e richiesti dal diritto militare al di fuori dei servizi di avanzamento ordinari delle formazioni per accedere a un grado superiore o a una nuova funzione, l’indennità giornaliera totale corrisponde almeno alle seguenti quote percentuali dell’indennità totale massima secondo l’articolo 16*a*:
+<sup>2</sup> Ad intervalli di almeno due anni, il Consiglio federale può adeguare l’importo massimo all’evoluzione dei salari, con effetto dall’inizio dell’anno, se il livello salariale determinante per l’ultimo adeguamento si è nel frattempo modificato di almeno il 12 per cento.
 
-- a. 45 per cento per le persone senza figli;
-- b. 65 per cento per le persone con un figlio;
-- c. 70 per cento per le persone con almeno due figli.
+<sup>3</sup> Durante i servizi d’istruzione di lunga durata designati dal Consiglio federale e richiesti dal diritto militare al di fuori dei servizi d’istruzione ordinari delle formazioni per conseguire un grado superiore o per svolgere una nuova funzione, l’indennità giornaliera di servizio corrisponde almeno al 57 per cento dell’importo massimo di cui ai capoversi 1 e 2.
 
-<sup>2</sup>
+<sup>4</sup> Per i militari in ferma continuata che seguono un’istruzione per conseguire un grado superiore, l’indennità giornaliera di servizio durante tale istruzione e nei restanti giorni di servizio corrisponde almeno al 47 per cento dell’importo massimo di cui ai capoversi 1 e 2.
 
-Per le persone in lungo servizio che seguono un’istruzione per accedere a un grado superiore, l’indennità giornaliera totale durante tale istruzione e nei restanti giorni di servizio corrisponde almeno alle seguenti quote percentuali dell’indennità totale massima secondo l’articolo 16*a*:
+<sup>5</sup> Durante gli altri servizi l’indennità giornaliera di servizio corrisponde almeno al 32 per cento dell’importo massimo di cui ai capoversi 1 e 2.
 
-- a. 37 per cento per le persone senza figli;
-- b. 55 per cento per le persone con un figlio;
-- c. 62 per cento per le persone con almeno due figli.
+<sup>6</sup> Gli assegni per spese di custodia e quelli per l’azienda sono sempre pagati, senza riduzione, in aggiunta all’indennità di servizio.
 
-<sup>3</sup>
-
-Durante gli altri servizi l’indennità giornaliera totale corrisponde almeno alle seguenti quote percentuali dell’indennità totale massima secondo l’articolo 16*a*:
-
-- a. 25 per cento per le persone senza figli;
-- b. 40 per cento per le persone con un figlio;
-- c. 50 per cento per le persone con almeno due figli.
-
-<sup>4</sup> L’indennità di base è ridotta nella misura in cui supera l’80 per cento dell’indennità totale massima secondo l’articolo 16*a*.
-
-<sup>5</sup> L’indennità totale è ridotta nella misura in cui supera il reddito medio conseguito prima del servizio oppure l’indennità totale massima secondo l’articolo 16*a*, tuttavia soltanto fino a concorrenza dell’importo minimo secondo i capoversi 1–3.
-
-<sup>6</sup> L’indennità totale si compone dell’indennità di base secondo l’articolo 4 e degli assegni per i figli secondo l’articolo 6. Gli assegni per spese di custodia e per l’azienda sono sempre pagati, senza riduzione, in aggiunta all’indennità totale.
-
-[^16-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16a
 
-**Indennità totale massima**[^16a-1]
+[^16a-1]
 
-<sup>1</sup> L’indennità totale massima ammonta a 275 franchi[^16a-2] al giorno.[^16a-3]
-
-<sup>2</sup> Ad intervalli di almeno due anni, il Consiglio federale può adeguare l’indennità totale massima all’evoluzione dei salari per l’inizio dell’anno, se il livello salariale determinante per l’ultimo adeguamento si è nel frattempo modificato di almeno il 12 per cento.
-
-[^16a-1]: Introdotto dalla cifra I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); FF **1975** I 1195).
-[^16a-2]: Indennità giusta l’art. 7 cpv. 1 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
-[^16a-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16a-1]: Introdotto dalla cifra I della LF del 3 ott. 1975 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); FF **1975** I 1195). Abrogato dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), con effetto dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III*a*. Indennità in caso di maternità
 
@@ -331,16 +297,21 @@ Il Consiglio federale disciplina il diritto all’indennità delle donne che per
 
 <sup>3</sup>
 
-In caso di degenza ospedaliera del neonato, la durata del versamento è prolungata di una durata equivalente a quella della degenza, ma al massimo di 56 giorni, se:
+In caso di degenza ospedaliera del neonato o della madre, la durata del versamento è prolungata di una durata equivalente a quella della degenza, se:[^16c-2]
 
-- a. immediatamente dopo la nascita il neonato resta in ospedale per almeno due settimane consecutive; e
-- b. la madre fornisce la prova che al momento del parto prevedeva di riprendere un’attività lucrativa alla fine del congedo di maternità.[^16c-2]
+- a.[^16c-3] la degenza ospedaliera ha inizio nelle due settimane dopo la nascita e dura almeno due settimane consecutive; e
+- b. la madre fornisce la prova che al momento del parto prevedeva di riprendere un’attività lucrativa alla fine del congedo di maternità.[^16c-4]
 
-<sup>4</sup> Il Consiglio federale disciplina il diritto al prolungamento della durata del versamento dell’indennità di maternità per le donne che, per incapacità al lavoro o disoccupazione, non possono riprendere un’attività lucrativa alla fine del congedo di maternità.[^16c-3]
+<sup>4</sup> Il Consiglio federale disciplina il diritto al prolungamento della durata del versamento dell’indennità di maternità per le donne che, per incapacità al lavoro o disoccupazione, non possono riprendere un’attività lucrativa alla fine del congedo di maternità.[^16c-5]
+
+<sup>5</sup> Disciplina anche il prolungamento della durata del versamento dell’indennità di maternità nel caso in cui la degenza ospedaliera della madre e quella del neonato vi diano entrambe diritto.[^16c-6]
 
 [^16c-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16c-2]: Introdotto dalla cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16c-3]: Introdotto dalla cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16c-3]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^16c-4]: Introdotto dalla cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-5]: Introdotto dalla cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-6]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16c<sup>bis</sup>
 
@@ -360,12 +331,13 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 <sup>1</sup> Il diritto all’indennità di maternità si estingue 98 giorni dopo il suo inizio.
 
-<sup>2</sup> In caso di degenza ospedaliera del neonato, il diritto all’indennità di maternità si estingue alla fine del prolungamento previsto dall’articolo 16*c* capoverso 3.
+<sup>2</sup> In caso di degenza ospedaliera del neonato o della madre, il diritto all’indennità di maternità si estingue alla fine del prolungamento previsto dall’articolo 16*c* capoverso 3.[^16d-2]
 
-<sup>3</sup> Il diritto all’indennità di maternità si estingue prima se la madre riprende un’attività lucrativa o muore; non si estingue tuttavia prima se la madre partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, per le quali non è prevista una supplenza.[^16d-2]
+<sup>3</sup> Il diritto all’indennità di maternità si estingue prima se la madre riprende un’attività lucrativa o muore; non si estingue tuttavia prima se la madre partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, per le quali non è prevista una supplenza.[^16d-3]
 
 [^16d-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16d-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Indennità di maternità per le parlamentari), in vigore dal 1° lug. 2024 ([RU 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [FF 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
+[^16d-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16d-3]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Indennità di maternità per le parlamentari), in vigore dal 1° lug. 2024 ([RU 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [FF 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
 
 #### Art. 16e
 
@@ -377,13 +349,37 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 #### Art. 16f
 
-**Importo massimo**
+**Importo massimo**[^16f-1]
 
-<sup>1</sup> L’indennità di maternità ammonta al massimo a 220 franchi[^16f-1] al giorno. L’articolo 16*a* capoverso 2 è applicabile per analogia.
+<sup>1</sup> L’articolo 16 capoversi 1 e 2 si applica per analogia all’importo massimo dell’indennità di maternità.
 
-<sup>2</sup> L’indennità di maternità è ridotta nella misura in cui supera l’importo massimo secondo il capoverso 1.
+<sup>2</sup> Gli assegni per spese di custodia e quelli per l’azienda sono sempre pagati, senza riduzione, in aggiunta all’indennità di maternità.
 
-[^16f-1]: Indennità giusta l’art. 7 cpv. 2 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^16f-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16f<sup>bis</sup>
+
+**Assegno per spese di custodia**[^16fbis-1]
+
+<sup>1</sup> La madre che percepisce l’indennità di maternità ha diritto all’assegno per spese di custodia per i propri figli d’età inferiore ai 16 anni se vive in comunione domestica con loro e dimostra che per motivi di salute, nel periodo di percezione di tale indennità, per due giorni consecutivi almeno non ha potuto garantire pienamente l’accudimento necessario per il bene dei figli e ha quindi sostenuto spese supplementari per la custodia istituzionale di bambini.
+
+<sup>2</sup> Il capoverso 1 si applica anche ai figli elettivi, se le spese di mantenimento e di educazione sono assunte gratuitamente e durevolmente.
+
+<sup>3</sup> Il Consiglio federale stabilisce l’importo massimo dell’assegno per spese di custodia.
+
+[^16fbis-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+#### Art. 16f<sup>ter</sup>
+
+**Assegno per l’azienda**[^16fter-1]
+
+<sup>1</sup> Ha diritto all’assegno per l’azienda la madre che percepisce l’indennità di maternità e che dirige un’azienda come proprietaria, affittuaria o usufruttuaria o che partecipa attivamente alla direzione di un’azienda in qualità di socio di una società in nome collettivo, di socio illimitatamente responsabile di una società in accomandita o di membro di un’altra unione di persone senza personalità giuridica che si prefigge uno scopo lucrativo, in quanto non consegua un reddito superiore da un’attività dipendente.
+
+<sup>2</sup> La madre che percepisce l’indennità di maternità e lavora in un’azienda agricola in qualità di familiare ha diritto all’assegno per l’azienda se, a causa del congedo di maternità, nell’azienda deve essere assunto un sostituto. Il Consiglio federale emana prescrizioni più dettagliate, in particolare sulla cerchia delle persone considerate familiari che lavorano nell’azienda agricola.
+
+<sup>3</sup> L’articolo 15 si applica per analogia all’importo dell’assegno per l’azienda.
+
+[^16fter-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 16g
 
@@ -398,24 +394,25 @@ L’indennità di maternità esclude il versamento delle seguenti altre indennit
 - c. dell’assicurazione contro gli infortuni;
 - d. dell’assicurazione militare;
 - e. delle indennità di cui agli articoli 9 e 10;
-- f.[^16g-1] delle indennità di assistenza di cui agli articoli 16*n*–16*s* per lo stesso figlio.
+- f.[^16g-1] delle indennità di assistenza di cui agli articoli 16*n*–16*s*<sup>bis</sup> concesse alla madre.
 
 <sup>2</sup>
 
-Se fino all’inizio del diritto all’indennità di maternità vi era un diritto a un’indennità giornaliera in virtù di una delle leggi seguenti, l’indennità di maternità corrisponde almeno all’indennità giornaliera versata precedentemente:
+Se fino all’inizio del diritto all’indennità di maternità vi era un diritto a un’indennità giornaliera, l’indennità di maternità corrisponde almeno all’indennità giornaliera versata precedentemente in virtù della presente legge o di una delle seguenti leggi:[^16g-2]
 
-- a. la legge federale del 19 giugno 1959[^16g-2] sull’assicurazione per l’invalidità;
-- b. legge federale del 18 marzo 1994[^16g-3] sull’assicurazione malattie;
-- c. legge federale del 20 marzo 1981[^16g-4] sull’assicurazione contro gli infortuni;
-- d. legge federale del 19 giugno 1992[^16g-5] sull’assicurazione militare;
-- e. legge del 25 giugno 1982[^16g-6] sull’assicurazione contro la disoccupazione.
+- a. la legge federale del 19 giugno 1959[^16g-3] sull’assicurazione per l’invalidità;
+- b. legge federale del 18 marzo 1994[^16g-4] sull’assicurazione malattie;
+- c. legge federale del 20 marzo 1981[^16g-5] sull’assicurazione contro gli infortuni;
+- d. legge federale del 19 giugno 1992[^16g-6] sull’assicurazione militare;
+- e. legge del 25 giugno 1982[^16g-7] sull’assicurazione contro la disoccupazione.
 
-[^16g-1]: Introdotta dalla cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^16g-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16g-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16g-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16g-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16g-6]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16g-1]: Introdotta dalla cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16g-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16g-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16g-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16g-5]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16g-6]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16g-7]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 16h
 
@@ -479,9 +476,12 @@ Il diritto all’indennità si estingue:
 - d. se il figlio muore; o
 - e.[^16j-3] se il rapporto di filiazione nei confronti dell’altro genitore si estingue per sentenza.
 
+<sup>4</sup> In deroga al capoverso 3 lettera d, il diritto all’indennità non si estingue se il figlio nasce morto o muore alla nascita o nei 14 giorni successivi. In deroga al capoverso 1, le indennità giornaliere restanti vanno riscosse in giorni consecutivi a partire dal giorno successivo al decesso.[^16j-4]
+
 [^16j-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16j-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16j-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-4]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16k
 
@@ -495,8 +495,28 @@ Il diritto all’indennità si estingue:
 
 <sup>4</sup> Se il congedo è preso in giorni, sono versate due indennità giornaliere supplementari ogni cinque giorni indennizzati.
 
+<sup>5</sup> L’altro genitore ha diritto a indennità giornaliere supplementari in caso di degenza ospedaliera della madre di almeno due settimane consecutive tra il giorno del parto e i 97 giorni successivi. Il numero di indennità giornaliere supplementari corrisponde alla durata della degenza ospedaliera, ma al massimo a 84 indennità giornaliere.[^16k-3]
+
+<sup>6</sup> Le indennità giornaliere di cui al capoverso 5 vanno riscosse in giorni consecutivi.[^16k-4]
+
+<sup>7</sup>
+
+Il diritto alle indennità giornaliere di cui al capoverso 5 nasce il 15° giorno di degenza ospedaliera della madre e si estingue:
+
+- a. al più tardi il 97° giorno successivo alla nascita del figlio;
+- b. se l’altro genitore muore;
+- c. se il figlio muore;
+- d. se il rapporto di filiazione nei confronti dell’altro genitore si estingue per sentenza; o
+- e. se l’altro genitore riprende un’attività lucrativa.[^16k-5]
+
+<sup>8</sup> In deroga al capoverso 7 lettera e, il diritto non si estingue se l’altro genitore partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, per le quali non è prevista una supplenza.[^16k-6]
+
 [^16k-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16k-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16k-3]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^16k-4]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^16k-5]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^16k-6]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16k<sup>bis</sup>
 
@@ -506,11 +526,23 @@ Il diritto all’indennità si estingue:
 
 <sup>2</sup> In caso di degenza ospedaliera del neonato, è applicabile per analogia l’articolo 16*c* capoverso 3.
 
-<sup>3</sup> Il diritto secondo i capoversi 1 e 2 inizia il giorno successivo al decesso della madre e si estingue per i motivi di cui all’articolo 16*j* capoverso 3 lettere b–e o se viene ripresa l’attività lucrativa.
+<sup>3</sup>
+
+Il diritto alle indennità secondo i capoversi 1 e 2 nasce il giorno successivo al decesso della madre e si estingue:
+
+- a. dopo la riscossione del numero massimo di indennità giornaliere;
+- b. se l’altro genitore muore;
+- c. se il figlio muore;
+- d. se il rapporto di filiazione nei confronti dell’altro genitore si estingue per sentenza; o
+- e. se l’altro genitore riprende un’attività lucrativa.[^16kbis-2]
+
+<sup>3bis</sup> In deroga al capoverso 3 lettera e, il diritto non si estingue se l’altro genitore partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, per le quali non è prevista una supplenza.[^16kbis-3]
 
 <sup>4</sup> Il termine quadro di sei mesi di cui all’articolo 16*j* è interrotto durante il periodo di riscossione di indennità giornaliere ai sensi dei capoversi 1 e 2.
 
 [^16kbis-1]: Introdotto dalla cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^16kbis-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16kbis-3]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16l
 
@@ -520,9 +552,37 @@ Il diritto all’indennità si estingue:
 
 <sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’articolo 11 capoverso 1.
 
-<sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
+<sup>3</sup> L’articolo 16 capoversi 1 e 2 si applica per analogia all’importo massimo dell’indennità per l’altro genitore.[^16l-2]
+
+<sup>4</sup> Gli assegni per spese di custodia e quelli per l’azienda sono sempre pagati, senza riduzione, in aggiunta all’indennità per l’altro genitore.[^16l-3]
 
 [^16l-1]: Correzione del 28 gen. 2025 ([RU 2025 72](https://fedlex.data.admin.ch/eli/oc/2025/72)).
+[^16l-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16l-3]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16l<sup>bis</sup>
+
+**Assegno per spese di custodia**[^16lbis-1]
+
+<sup>1</sup> Il genitore che percepisce l’indennità in quanto altro genitore ha diritto all’assegno per spese di custodia per i propri figli d’età inferiore ai 16 anni se vive in comunione domestica con loro e dimostra che per motivi di salute, nel periodo di percezione di tale indennità, per due giorni consecutivi almeno non ha potuto garantire pienamente l’accudimento necessario per il bene dei figli e ha quindi sostenuto spese supplementari per la custodia istituzionale di bambini.
+
+<sup>2</sup> Il capoverso 1 si applica anche ai figli elettivi, se le spese di mantenimento e di educazione sono assunte gratuitamente e durevolmente.
+
+<sup>3</sup> Il Consiglio federale stabilisce l’importo massimo dell’assegno per spese di custodia.
+
+[^16lbis-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+#### Art. 16l<sup>ter</sup>
+
+**Assegno per l’azienda**[^16lter-1]
+
+<sup>1</sup> Ha diritto all’assegno per l’azienda il genitore che percepisce l’indennità in quanto altro genitore e che dirige un’azienda come proprietario, affittuario o usufruttuario o che partecipa attivamente alla direzione di un’azienda in qualità di socio di una società in nome collettivo, di socio illimitatamente responsabile di una società in accomandita o di membro di un’altra unione di persone senza personalità giuridica che si prefigge uno scopo lucrativo, in quanto non consegua un reddito superiore da un’attività dipendente.
+
+<sup>2</sup> Il genitore che percepisce l’indennità in quanto altro genitore e lavora in un’azienda agricola in qualità di familiare ha diritto all’assegno per l’azienda se, a causa del congedo, nell’azienda deve essere assunto un sostituto. Il Consiglio federale emana prescrizioni più dettagliate, in particolare sulla cerchia delle persone considerate familiari che lavorano nell’azienda agricola.
+
+<sup>3</sup> L’articolo 15 si applica per analogia all’importo dell’assegno per l’azienda.
+
+[^16lter-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 16m
 
@@ -536,32 +596,43 @@ L’indennità per l’altro genitore esclude il versamento delle seguenti altre
 - b. dell’assicurazione per l’invalidità;
 - c. dell’assicurazione contro gli infortuni;
 - d. dell’assicurazione militare;
-- e. delle indennità di cui agli articoli 9 e 10.
+- e. delle indennità di cui agli articoli 9 e 10;
+- f.[^16m-3] delle indennità di assistenza di cui agli articoli 16*n*–16*s*<sup>bis</sup> concesse all’altro genitore.
 
 <sup>2</sup>
 
-Se fino all’inizio del diritto all’indennità per l’altro genitore vi era un diritto a un’indennità giornaliera in virtù di una delle leggi seguenti, l’indennità per l’altro genitore corrisponde almeno all’indennità giornaliera versata precedentemente:[^16m-3]
+Se fino all’inizio del diritto all’indennità per l’altro genitore vi era un diritto a un’indennità giornaliera, l’indennità per l’altro genitore corrisponde almeno all’indennità giornaliera versata precedentemente in virtù della presente legge o di una delle seguenti leggi:[^16m-4]
 
-- a. legge federale del 19 giugno 1959[^16m-4] sull’assicurazione per l’invalidità;
-- b. legge federale del 18 marzo 1994[^16m-5] sull’assicurazione malattie;
-- c. legge federale del 20 marzo 1981[^16m-6] sull’assicurazione contro gli infortuni;
-- d. legge federale del 19 giugno 1992[^16m-7] sull’assicurazione militare;
-- e. legge del 25 giugno 1982[^16m-8] sull’assicurazione contro la disoccupazione.
+- a. legge federale del 19 giugno 1959[^16m-5] sull’assicurazione per l’invalidità;
+- b. legge federale del 18 marzo 1994[^16m-6] sull’assicurazione malattie;
+- c. legge federale del 20 marzo 1981[^16m-7] sull’assicurazione contro gli infortuni;
+- d. legge federale del 19 giugno 1992[^16m-8] sull’assicurazione militare;
+- e. legge del 25 giugno 1982[^16m-9] sull’assicurazione contro la disoccupazione.
 
 [^16m-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16m-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-3]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16m-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16m-6]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16m-7]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16m-8]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16m-3]: Introdotta dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16m-4]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16m-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16m-6]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16m-7]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16m-8]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16m-9]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
-### III*c*. Indennità per genitori che assistono un figlio con gravi problemi di salute dovuti a malattia o infortunio
+#### Art. 16m<sup>bis</sup>
 
-[^chap1a-lvlIIIc-1]
+**Rapporto con il diritto cantonale**[^16mbis-1]
+
+A complemento del capo III*b* i Cantoni possono prevedere un’indennità per l’altro genitore più elevata o di durata maggiore e prelevare contributi specifici per il suo finanziamento.
+
+[^16mbis-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+### III*c*. Indennità per i genitori che assistono un figlio con gravi problemi di salute dovuti a malattia o infortunio o che è ricoverato in ospedale
+
+[^chap1a-lvlIIIc-1][^chap1a-lvlIIIc-2]
 
 [^chap1a-lvlIIIc-1]: Introdotto dalla cifra II n. 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIc-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16n
 
@@ -569,18 +640,20 @@ Se fino all’inizio del diritto all’indennità per l’altro genitore vi era 
 
 <sup>1</sup>
 
-Hanno diritto all’indennità i genitori di un figlio minorenne con gravi problemi di salute dovuti a malattia o infortunio che:
+Hanno diritto all’indennità i genitori di un figlio minorenne con gravi problemi di salute dovuti a malattia o infortunio o di un figlio ricoverato in ospedale per una durata di almeno quattro giorni consecutivi che:[^16n-1]
 
 - a. interrompono l’attività lucrativa per assistere il figlio; e
 - b.
 
   al momento dell’interruzione dell’attività lucrativa:
 
-  - 1\. sono salariati ai sensi dell’articolo 10 LPGA[^16n-1],
+  - 1\. sono salariati ai sensi dell’articolo 10 LPGA[^16n-2],
   - 2\. sono indipendenti ai sensi dell’articolo 12 LPGA, o
   - 3\. collaborano nell’azienda del coniuge percependo un salario in contanti.
 
-<sup>2</sup> Per ogni caso di malattia o infortunio sussiste un solo diritto.
+<sup>2</sup> Per ogni caso di malattia o infortunio e per ogni degenza ospedaliera sussiste un solo diritto.[^16n-3]
+
+<sup>2bis</sup> La degenza ospedaliera immediatamente successiva alla nascita dà diritto all’indennità soltanto se il figlio ha gravi problemi di salute. Per stabilire la gravità dei problemi di salute non si applicano i criteri previsti dall’articolo 16*o* lettere a e b.[^16n-4]
 
 <sup>3</sup>
 
@@ -589,7 +662,10 @@ Il Consiglio federale disciplina:
 - a. il diritto all’indennità dei genitori affilianti;
 - b. il diritto all’indennità di persone che per incapacità al lavoro o disoccupazione non soddisfano le condizioni di cui al capoverso 1 lettera b.
 
-[^16n-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16n-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo
+[^16n-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16n-3]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16n-4]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16o
 
@@ -606,7 +682,7 @@ Un figlio ha gravi problemi di salute, se:
 
 **Termine quadro, inizio ed estinzione del diritto**
 
-<sup>1</sup> Per il versamento dell’indennità di assistenza è previsto un termine quadro di 18 mesi.
+<sup>1</sup> Se il figlio ha gravi problemi di salute ai sensi dell’articolo 16*o*, per il versamento dell’indennità di assistenza è previsto un termine quadro di 18 mesi.[^16p-1]
 
 <sup>2</sup> Il termine quadro decorre dal giorno per il quale è versata la prima indennità giornaliera.
 
@@ -619,7 +695,10 @@ Il diritto si estingue:
 - a. alla scadenza del termine quadro; o
 - b. dopo la riscossione del numero massimo di indennità giornaliere.
 
-<sup>5</sup> Il diritto si estingue prima se le condizioni non sono più soddisfatte; tuttavia non si estingue prima se il figlio diviene maggiorenne durante il termine quadro.
+<sup>5</sup> Il diritto si estingue prima se le condizioni non sono più soddisfatte; tuttavia non si estingue prima se il figlio diviene maggiorenne durante il termine quadro o durante la degenza ospedaliera e la convalescenza.[^16p-2]
+
+[^16p-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16p-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16q
 
@@ -627,11 +706,16 @@ Il diritto si estingue:
 
 <sup>1</sup> L’indennità di assistenza è versata sotto forma di indennità giornaliera.
 
-<sup>2</sup> Entro il termine quadro sussiste il diritto a 98 indennità giornaliere al massimo.
+<sup>2</sup> Se il figlio ha gravi problemi di salute ai sensi dell’articolo 16*o*, nel corso del termine quadro sussiste il diritto a 98 indennità giornaliere al massimo.[^16q-1]
+
+<sup>2bis</sup> Se il figlio è ricoverato in ospedale, sono versate indennità giornaliere, a partire dal quarto giorno di degenza ospedaliera, per una durata corrispondente a quella della degenza e della convalescenza. In totale, sussiste il diritto a 98 indennità giornaliere al massimo.[^16q-2]
 
 <sup>3</sup> Per ogni cinque indennità giornaliere ne sono versate due supplementari.
 
 <sup>4</sup> Se entrambi i genitori esercitano un’attività lucrativa, ognuno di loro ha diritto al massimo alla metà delle indennità giornaliere. Possono concordare una ripartizione diversa.
+
+[^16q-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16q-2]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16r
 
@@ -641,36 +725,78 @@ Il diritto si estingue:
 
 <sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’articolo 11 capoverso 1.
 
-<sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
+<sup>3</sup> L’articolo 16 capoversi 1 e 2 si applica per analogia all’importo massimo dell’indennità di assistenza.[^16r-1]
+
+<sup>4</sup> Gli assegni per spese di custodia e quelli per l’azienda sono sempre pagati, senza riduzione, in aggiunta all’indennità di assistenza.[^16r-2]
+
+<sup>5</sup> Se i genitori si dividono il congedo di assistenza, l’indennità è calcolata separatamente per ciascun genitore.[^16r-3]
+
+[^16r-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16r-2]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16r-3]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16r<sup>bis</sup>
+
+**Assegno per spese di custodia**[^16rbis-1]
+
+<sup>1</sup> I genitori che percepiscono l’indennità di assistenza hanno diritto all’assegno per spese di custodia per i propri figli d’età inferiore ai 16 anni se vivono in comunione domestica con loro e dimostrano che per motivi di salute, nel periodo di percezione di tale indennità, per due giorni consecutivi almeno non hanno potuto garantire pienamente l’accudimento necessario per il bene dei figli e hanno quindi sostenuto spese supplementari per la custodia istituzionale di bambini.
+
+<sup>2</sup> Il capoverso 1 si applica anche ai figli elettivi, se le spese di mantenimento e di educazione sono assunte gratuitamente e durevolmente.
+
+<sup>3</sup> Il Consiglio federale stabilisce l’importo massimo dell’assegno per spese di custodia.
+
+[^16rbis-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+#### Art. 16r<sup>ter</sup>
+
+**Assegno per l’azienda**[^16rter-1]
+
+<sup>1</sup> Hanno diritto all’assegno per l’azienda i genitori che percepiscono l’indennità di assistenza e che dirigono un’azienda come proprietari, affittuari o usufruttuari o che partecipano attivamente alla direzione di un’azienda in qualità di soci di una società in nome collettivo, di soci illimitatamente responsabili di una società in accomandita o di membri di un’altra unione di persone senza personalità giuridica che si prefigge uno scopo lucrativo, in quanto non conseguano un reddito superiore da un’attività dipendente.
+
+<sup>2</sup> I genitori che percepiscono l’indennità di assistenza e lavorano in un’azienda agricola in qualità di familiari hanno diritto all’assegno per l’azienda se, a causa del congedo di assistenza, nell’azienda deve essere assunto un sostituto. Il Consiglio federale emana prescrizioni più dettagliate, in particolare sulla cerchia delle persone considerate familiari che lavorano nell’azienda agricola.
+
+<sup>3</sup> L’articolo 15 si applica per analogia all’importo dell’assegno per l’azienda.
+
+[^16rter-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 16s
 
-**Rapporto con le prestazioni di altre assicurazioni sociali**
+**Priorità dell’indennità di assistenza**[^16s-1]
 
 <sup>1</sup>
 
-Il versamento dell’indennità di assistenza è prioritario rispetto alle indennità giornaliere o alle prestazioni delle seguenti assicurazioni sociali:
+L’indennità di assistenza esclude il versamento:
 
-- a. assicurazione contro la disoccupazione;
-- b. assicurazione per l’invalidità;
-- c. assicurazione contro gli infortuni;
-- d. assicurazione militare.
+- a. delle indennità giornaliere dell’assicurazione contro la disoccupazione;
+- b. delle indennità giornaliere dell’assicurazione per l’invalidità;
+- c. delle indennità giornaliere dell’assicurazione contro gli infortuni;
+- d. delle indennità giornaliere dell’assicurazione militare;
+- e. delle indennità di cui agli articoli 9 e 10.
 
 <sup>2</sup>
 
-Se fino all’inizio del diritto all’indennità di assistenza vi era un diritto a un’indennità giornaliera in virtù dell’articolo 16*b* o di una delle leggi seguenti, l’indennità di assistenza corrisponde almeno all’indennità giornaliera versata precedentemente:
+Se fino all’inizio del diritto all’indennità di assistenza vi era un diritto a un’indennità giornaliera, l’indennità di assistenza corrisponde almeno all’indennità giornaliera versata precedentemente in virtù della presente legge o di una delle seguenti leggi:
 
-- a. legge federale del 19 giugno 1959[^16s-1] sull’assicurazione per l’invalidità;
-- b. legge federale del 18 marzo 1994[^16s-2] sull’assicurazione malattie;
-- c. legge federale del 20 marzo 1981[^16s-3] sull’assicurazione contro gli infortuni;
-- d. legge federale del 19 giugno 1992[^16s-4] sull’assicurazione militare;
-- e. legge del 25 giugno 1982[^16s-5] sull’assicurazione contro la disoccupazione.
+- a. legge federale del 19 giugno 1959[^16s-2] sull’assicurazione per l’invalidità;
+- b. legge federale del 18 marzo 1994[^16s-3] sull’assicurazione malattie;
+- c. legge federale del 20 marzo 1981[^16s-4] sull’assicurazione contro gli infortuni;
+- d. legge federale del 19 giugno 1992[^16s-5] sull’assicurazione militare;
+- e. legge del 25 giugno 1982[^16s-6] sull’assicurazione contro la disoccupazione.
 
-[^16s-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16s-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16s-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16s-4]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16s-5]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16s-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16s-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16s-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16s-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16s-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16s-6]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
+#### Art. 16s<sup>bis</sup>
+
+**Rapporto con il diritto cantonale**[^16sbis-1]
+
+A complemento del capo III*c* i Cantoni possono prevedere un’indennità di assistenza più elevata o di durata maggiore e prelevare contributi specifici per il suo finanziamento.
+
+[^16sbis-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III*d*. Indennità in caso di adozione
 
@@ -696,6 +822,13 @@ Hanno diritto all’indennità le persone che:
   - 2\. sono indipendenti ai sensi dell’articolo 12 LPGA, o
   - 3\. collaborano nell’azienda del coniuge percependo un salario in contanti.
 
+<sup>1bis</sup>
+
+Il Consiglio federale disciplina il diritto all’indennità delle persone che per incapacità al lavoro o disoccupazione:
+
+- a. durante i nove mesi immediatamente precedenti l’accoglimento dell’adottando non hanno esercitato un’attività lucrativa per almeno cinque mesi;
+- b. al momento dell’accoglimento dell’adottando non sono salariate o indipendenti.[^16t-3]
+
 <sup>2</sup>
 
 In caso di adozione congiunta:
@@ -707,11 +840,12 @@ In caso di adozione congiunta:
 
 <sup>4</sup> In caso di accoglimento contemporaneo di più adottandi, sussiste il diritto a una sola indennità.
 
-<sup>5</sup> Non sussiste alcun diritto a un’indennità in caso di adozione del figliastro secondo l’articolo 264*c* capoverso 1 del Codice civile[^16t-3].
+<sup>5</sup> Non sussiste alcun diritto a un’indennità in caso di adozione del figliastro secondo l’articolo 264*c* capoverso 1 del Codice civile[^16t-4].
 
 [^16t-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16t-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^16t-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^16t-3]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16t-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 16u
 
@@ -750,15 +884,85 @@ Il diritto all’indennità si estingue:
 
 <sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’arti-colo 11 capoverso 1.
 
-<sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
+<sup>3</sup> L’articolo 16 capoversi 1 e 2 si applica per analogia all’importo massimo dell’indennità di adozione.[^16w-1]
+
+<sup>3bis</sup> Gli assegni per spese di custodia e quelli per l’azienda sono sempre pagati, senza riduzione, in aggiunta all’indennità di adozione.[^16w-2]
 
 <sup>4</sup> Se i genitori si dividono il congedo di adozione, l’indennità è calcolata separatamente per ciascun genitore.
 
+[^16w-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16w-2]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16w<sup>bis</sup>
+
+**Assegno per spese di custodia**[^16wbis-1]
+
+<sup>1</sup> Le persone che percepiscono l’indennità di adozione hanno diritto all’assegno per spese di custodia per i propri figli d’età inferiore ai 16 anni se vivono in comunione domestica con loro e dimostrano che per motivi di salute, nel periodo di percezione di tale indennità, per due giorni consecutivi almeno non hanno potuto garantire pienamente l’accudimento necessario per il bene dei figli e hanno quindi sostenuto spese supplementari per la custodia istituzionale di bambini.
+
+<sup>2</sup> Il capoverso 1 si applica anche ai figli elettivi, se le spese di mantenimento e di educazione sono assunte gratuitamente e durevolmente.
+
+<sup>3</sup> Il Consiglio federale stabilisce l’importo massimo dell’assegno per spese di custodia.
+
+[^16wbis-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+#### Art. 16w<sup>ter</sup>
+
+**Assegno per l’azienda**[^16wter-1]
+
+<sup>1</sup> Hanno diritto all’assegno per l’azienda le persone che percepiscono un’indennità di adozione e che dirigono un’azienda come proprietari, affittuari o usufruttuari o che partecipano attivamente alla direzione di un’azienda in qualità di soci di una società in nome collettivo, di soci illimitatamente responsabili di una società in accomandita o di membri di un’altra unione di persone senza personalità giuridica che si prefigge uno scopo lucrativo, in quanto non conseguano un reddito superiore da un’attività dipendente.
+
+<sup>2</sup> Le persone che percepiscono un’indennità di adozione e lavorano in un’azienda agricola in qualità di familiari hanno diritto all’assegno per l’azienda se, a causa del congedo di adozione, nell’azienda deve essere assunto un sostituto. Il Consiglio federale emana prescrizioni più dettagliate, in particolare sulla cerchia delle persone considerate familiari che lavorano nell’azienda agricola.
+
+<sup>3</sup> L’articolo 15 si applica per analogia all’importo dell’assegno per l’azienda.
+
+[^16wter-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+#### Art. 16w<sup>quater</sup>
+
+**Priorità dell’indennità di adozione**[^16wquater-1]
+
+<sup>1</sup>
+
+L’indennità di adozione esclude il versamento:
+
+- a. delle indennità giornaliere dell’assicurazione contro la disoccupazione;
+- b. delle indennità giornaliere dell’assicurazione per l’invalidità;
+- c. delle indennità giornaliere dell’assicurazione contro gli infortuni;
+- d. delle indennità giornaliere dell’assicurazione militare;
+- e. delle indennità di cui agli articoli 9 e 10;
+- f. delle indennità di assistenza di cui agli articoli 16*n*–16*s*<sup>bis</sup> concesse al genitore.
+
+<sup>2</sup>
+
+Se fino all’inizio del diritto all’indennità di adozione vi era un diritto a un’indennità giornaliera, l’indennità di adozione corrisponde almeno all’indennità giornaliera versata precedentemente in virtù della presente legge o di una delle seguenti leggi:
+
+- a. legge federale del 19 giugno 1959[^16wquater-2] sull’assicurazione per l’invalidità;
+- b. legge federale del 18 marzo 1994[^16wquater-3] sull’assicurazione malattie;
+- c. legge federale del 20 marzo 1981[^16wquater-4] sull’assicurazione contro gli infortuni;
+- d. legge federale del 19 giugno 1992[^16wquater-5] sull’assicurazione militare;
+- e. legge del 25 giugno 1982[^16wquater-6] sull’assicurazione contro la disoccupazione.
+
+[^16wquater-1]: Introdotto dalla cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16wquater-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16wquater-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16wquater-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16wquater-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16wquater-6]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
 #### Art. 16x
 
-**Rapporto con il diritto cantonale**
+**Rapporto con il diritto cantonale**[^16x-1]
 
-A complemento del capo III*d* i Cantoni possono prevedere un’indennità di adozione più elevata o di durata maggiore e prelevare contributi specifici per il suo finanziamento.
+<sup>1</sup>
+
+A complemento del capo III*d* i Cantoni possono prevedere:
+
+- a. un’indennità di adozione più elevata o di durata maggiore;
+- b. un’indennità di adozione per le persone che accolgono un adottando di età superiore ai quattro anni.
+
+<sup>2</sup> Possono prelevare contributi specifici per il finanziamento delle prestazioni di cui al capoverso 1.
+
+[^16x-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### IV. Disposizioni varie
 
@@ -1201,3 +1405,17 @@ Le nuove disposizioni si applicano anche nei casi in cui il parto avviene durant
 [^u3-1]: [RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)
 
 Gli articoli 16*c*<sup>bis</sup> e 16*k*<sup>bis</sup> si applicano soltanto ai decessi sopravvenuti a partire dal giorno dell’entrata in vigore della modifica del 17 marzo 2023.
+
+## Disposizioni transitorie della modifica del 19 dicembre 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG)
+
+[^u4-1]
+
+[^u4-1]: [RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)
+
+<sup>1</sup> Il diritto all’assegno per i figli delle persone prestanti servizio all’entrata in vigore della presente modifica si estingue alla fine del periodo di servizio.
+
+<sup>2</sup> Gli articoli 16*f*<sup>bis</sup>, 16*l*<sup>bis</sup>, 16*r*<sup>bis</sup> e 16*w*<sup>bis</sup> (assegno per spese di custodia) si applicano a tutti i congedi in corso all’entrata in vigore della presente modifica. L’assegno per spese di custodia è tuttavia concesso al più presto a partire dall’entrata in vigore della presente modifica e unicamente per il periodo di congedo non ancora trascorso.
+
+<sup>3</sup> Gli articoli 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> e 16*w*<sup>ter</sup> (assegno per l’azienda) si applicano a tutti i congedi in corso all’entrata in vigore della presente modifica. L’assegno per l’azienda è tuttavia concesso al più presto a partire dall’entrata in vigore della presente modifica e unicamente per il periodo di congedo non ancora trascorso.
+
+<sup>4</sup> I diritti derivanti dagli articoli 16*c* capoverso 3, 16*k* capoversi 5–7, e 16*n* capoverso 1 nascono per tutte le madri, tutti i figli e tutti i neonati ricoverati in ospedale all’entrata in vigore della presente modifica. Le indennità giornaliere sono tuttavia concesse al più presto a partire dall’entrata in vigore della presente modifica e unicamente per il periodo di degenza ospedaliera non ancora trascorso.

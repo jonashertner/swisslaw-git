@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2027-01-01
+version: 2027-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20270701/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20270701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20270101/de"
 
 (Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 1. Januar 2027)
+vom 25. September 1952 (Stand am 1. Juli 2027)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -49,11 +49,11 @@ Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemei
 
 [^chap1a-1]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
-### I. Der Entschädigungsanspruch für Dienstleistende
+### I. Die Dienstentschädigung
 
 [^chap1a-lvlI-1]
 
-[^chap1a-lvlI-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap1a-lvlI-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 1a
 
@@ -106,11 +106,11 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 
 #### Art. 4
 
-**Grundentschädigung**[^4-1]
+**Dienstentschädigung**[^4-1]
 
-Alle Dienstleistenden haben Anspruch auf die Grundentschädigung.
+Alle Dienstleistenden haben Anspruch auf die Dienstentschädigung.
 
-[^4-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 1998, in Kraft seit 1. Juli 1999 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **1998** 3418).
+[^4-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 5
 
@@ -120,80 +120,71 @@ Alle Dienstleistenden haben Anspruch auf die Grundentschädigung.
 
 #### Art. 6
 
-**Kinderzulagen**[^6-1]
+[^6-1]
 
-<sup>1</sup> Anspruch auf Kinderzulagen haben die Dienstleistenden[^6-2] für jedes Kind im Sinne von Absatz 2, welches das 18. Altersjahr noch nicht vollendet hat. Für Kinder, die noch in Ausbildung begriffen sind, können die Kinderzulagen bis zum vollendeten 25. Altersjahr beansprucht werden.
-
-<sup>2</sup>
-
-Anspruch auf Kinderzulagen besteht für:
-
-- a. die Kinder des Dienstleistenden;
-- b. die Pflegekinder des Dienstleistenden, die dieser unentgeltlich zu dauernder Pflege und Erziehung zu sich genommen hat.[^6-3]
-
-[^6-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [BBl 1968 II 85](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
-[^6-2]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)). Diese Änderung ist im ganzen Erlass berücksichtigt.
-[^6-3]: Fassung gemäss Anhang Ziff. 3 des Unfallversicherungsgesetzes, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^6-1]: Aufgehoben durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), mit Wirkung seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 7
 
 **Zulage für Betreuungskosten**[^7-1]
 
-<sup>1</sup> Dienstleistende, die mit einem oder mehreren Kindern (Art. 6) unter 16 Jahren im gemeinsamen Haushalt leben, haben Anspruch auf eine Zulage für Betreuungskosten, wenn sie den Nachweis erbringen, dass wegen des Dienstes solche zusätzlichen Kosten für die Kinderbetreuung angefallen sind und der Dienst mindestens zwei zusammenhängende Tage umfasst.
+<sup>1</sup> Dienstleistende haben Anspruch auf eine Zulage für Betreuungskosten für ihre Kinder unter 16 Jahren, wenn sie mit diesen im gemeinsamen Haushalt leben und den Nachweis erbringen, dass wegen des Dienstes zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind und der Dienst mindestens zwei aufeinanderfolgende Tage umfasst.
 
-<sup>2</sup> Der Bundesrat setzt den Höchstbetrag der Entschädigung fest und regelt die Einzelheiten.
+<sup>2</sup> Absatz 1 gilt auch für Pflegekinder, wenn sie unentgeltlich zu dauernder Pflege und Erziehung aufgenommen worden sind.
 
-[^7-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **1998** 3418).
+<sup>3</sup> Der Bundesrat setzt den Höchstbetrag der Zulage für Betreuungskosten fest und regelt die Einzelheiten.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 8
 
-**Betriebszulagen**[^8-1]
+**Betriebszulage**[^8-1]
 
-<sup>1</sup> Anspruch auf Betriebszulagen haben die Dienstleistenden, die als Eigentümer, Pächter oder Nutzniesser einen Betrieb führen oder als Teilhaber einer Kollektivgesellschaft, als unbeschränkt haftende Teilhaber einer Kommanditgesellschaft oder als Teilhaber einer andern auf einen Erwerbszweck gerichteten Personengesamtheit ohne juristische Persönlichkeit an der Führung eines Betriebes aktiv beteiligt sind, sofern sie nicht aus unselbständiger Erwerbstätigkeit ein höheres Einkommen erzielen.
+<sup>1</sup> Die Dienstleistenden, die als Eigentümer, Pächter oder Nutzniesser einen Betrieb führen oder als Teilhaber einer Kollektivgesellschaft, als unbeschränkt haftende Teilhaber einer Kommanditgesellschaft oder als Teilhaber einer andern auf einen Erwerbszweck gerichteten Personengesamtheit ohne juristische Persönlichkeit an der Führung eines Betriebes aktiv beteiligt sind, haben Anspruch auf eine Betriebszulage, sofern sie nicht aus unselbstständiger Erwerbstätigkeit ein höheres Einkommen erzielen.
 
-<sup>2</sup> Dienstleistende, die als mitarbeitende Familienglieder in einem Landwirtschaftsbetrieb tätig sind, haben Anspruch auf Betriebszulagen, wenn wegen ihrer längeren Dienstleistung eine Ersatzkraft im Betrieb eingestellt werden muss. Der Bundesrat erlässt die näheren Vorschriften.[^8-2]
+<sup>2</sup> Die Dienstleistenden, die als mitarbeitende Familienmitglieder in einem Landwirtschaftsbetrieb tätig sind, haben Anspruch auf eine Betriebszulage, wenn wegen ihrer längeren Dienstleistung eine Ersatzkraft im Betrieb eingestellt werden muss. Der Bundesrat regelt die Einzelheiten, insbesondere betreffend den Kreis der Personen, die als mitarbeitende Familienmitglieder gelten.
 
-[^8-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
-[^8-2]: Eingefügt durch Ziff. I des BG vom 3. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [BBl 1975 I 1193](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^8-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III. Die Bemessung der Entschädigungen
 
 #### Art. 9
 
-**Grundentschädigung während der Rekrutenschule und gleichgestellten Dienstzeiten**[^9-1]
+**Dienstentschädigung während der Rekrutenschule und gleichgestellten Dienstzeiten**[^9-1]
 
-<sup>1</sup> Während der Rekrutierung, der Rekrutenschule und der Grundausbildung von Personen, die ihre Dienstpflicht ohne Unterbruch erfüllen (Durchdiener), beträgt die tägliche Grundentschädigung 25 Prozent des Höchstbetrages der Gesamtentschädigung.
+<sup>1</sup> Während der Rekrutierung, der Rekrutenschule und der Grundausbildung von Personen, die ihre Dienstpflicht ohne Unterbruch erfüllen (Durchdiener), beträgt die tägliche Dienstentschädigung 32 Prozent des Höchstbetrages nach Artikel 16 Absätze 1 und 2.
 
-<sup>2</sup> Für Stellungspflichtige, Rekruten und Durchdiener in Grundausbildung, die Anspruch auf Kinderzulagen haben, wird die tägliche Grundentschädigung nach Artikel 10 bemessen.
+<sup>2</sup> Für Stellungspflichtige, Rekruten und Durchdiener in Grundausbildung, die Kinder oder die Pflegekinder nach Artikel 7 Absatz 2 haben, die das 18. Altersjahr noch nicht vollendet haben oder die noch in Ausbildung sind und das 25. Altersjahr noch nicht vollendet haben, wird die tägliche Dienstentschädigung nach Artikel 10 bemessen.
 
-<sup>2bis</sup> Den nach Artikel 6 Absatz 1 Buchstabe c des Militärgesetzes vom 3. Februar 1995[^9-2] zum Militärdienst zugelassenen Personen stehen für die Anzahl Tage Militärdienst, die der Dauer einer Rekrutenschule entsprechen, 25 Prozent des Höchstbetrages der Gesamtentschädigung zu. Absatz 2 ist sinngemäss anwendbar.[^9-3]
+<sup>3</sup> Den nach Artikel 6 Absatz 1 Buchstabe c des Militärgesetzes vom 3. Februar 1995[^9-2] zum Militärdienst zugelassenen Personen stehen für die Anzahl Tage Militärdienst, die der Dauer einer Rekrutenschule entsprechen, 32 Prozent des Höchstbetrages nach Artikel 16 Absätze 1 und 2 zu. Absatz 2 ist sinngemäss anwendbar.
 
-<sup>3</sup> Der zivildienstleistenden Person, die keine Rekrutenschule absolviert hat, stehen für die Anzahl Tage des Zivildienstes, die der Dauer einer Rekrutenschule entsprechen, 25 Prozent des Höchstbetrages der Gesamtentschädigung zu. Eine teilweise absolvierte Rekrutenschule wird angerechnet. Absatz 2 ist sinngemäss anwendbar.
+<sup>4</sup> Der zivildienstleistenden Person, die keine Rekrutenschule absolviert hat, stehen für die Anzahl Tage des Zivildienstes, die der Dauer einer Rekrutenschule entsprechen, 32 Prozent des Höchstbetrages nach Artikel 16 Absätze 1 und 2 zu. Eine teilweise absolvierte Rekrutenschule wird angerechnet. Absatz 2 ist sinngemäss anwendbar.
 
-<sup>4</sup> Während der Grundausbildung im Zivilschutz beträgt die tägliche Grundentschädigung 25 Prozent des Höchstbetrages der Gesamtentschädigung. Absatz 2 ist sinngemäss anwendbar. Der Bundesrat erlässt Vorschriften für Dienstleistende, die eine militärische Grundausbildung teilweise oder ganz absolviert haben.
+<sup>5</sup> Während der Grundausbildung im Zivilschutz beträgt die tägliche Dienstentschädigung 32 Prozent des Höchstbetrages nach Artikel 16 Absätze 1 und 2. Absatz 2 ist sinngemäss anwendbar. Der Bundesrat erlässt Vorschriften für Dienstleistende, die eine militärische Grundausbildung teilweise oder ganz absolviert haben.
 
-[^9-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^9-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^9-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^9-3]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 10
 
-**Grundentschädigung während der anderen Dienste**[^10-1]
+**Dienstentschädigung während der anderen Dienste**[^10-1]
 
-<sup>1</sup> Während Diensten, die nicht unter Artikel 9 fallen, beträgt die tägliche Grundentschädigung 80Prozent des durchschnittlichen vordienstlichen Erwerbseinkommens. Vorbehalten bleibt Artikel 16 Absätze 1–3.
+<sup>1</sup> Während Diensten, die nicht unter Artikel 9 fallen, beträgt die tägliche Dienstentschädigung 80 Prozent des durchschnittlichen vordienstlichen Erwerbseinkommens. Vorbehalten bleibt Artikel 16 Absätze 1–5.
 
-<sup>2</sup> War die dienstleistende Person vor Beginn des Dienstes nicht erwerbstätig, so entspricht die tägliche Grundentschädigung den Mindestbeträgen gemäss Artikel 16 Absätze 1–3.
+<sup>2</sup> War die dienstleistende Person vor Beginn des Dienstes nicht erwerbstätig, so entspricht die tägliche Dienstentschädigung den Mindestbeträgen nach Artikel 16 Absätze 3–5.
 
-[^10-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^10-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 10a
 
-**Grundentschädigung zwischen zwei Diensten**[^10a-1]
+**Dienstentschädigung zwischen zwei Diensten[^10a-2]**[^10a-1]
 
-Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. Februar 1995[^10a-2] richtet sich der Entschädigungsanspruch nach der Rekrutenschule nach Artikel 9, bei allen übrigen Dienste nach Artikel 10. Artikel 16 Absatz 1 findet keine Anwendung.
+Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. Februar 1995[^10a-3] richtet sich der Entschädigungsanspruch nach der Rekrutenschule nach Artikel 9, bei allen übrigen Dienste nach Artikel 10. Artikel 16 Absatz 1 findet keine Anwendung. Artikel 16 Absatz 3 findet keine Anwendung.[^10a-4]
 
 [^10a-1]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^10a-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^10a-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^10a-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^10a-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 11
 
@@ -216,11 +207,9 @@ Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. 
 
 #### Art. 13
 
-**Kinderzulage**[^13-1]
+[^13-1]
 
-Die Kinderzulage beträgt für jedes Kind 8 Prozent des Höchstbetrages der Gesamtentschädigung.
-
-[^13-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^13-1]: Aufgehoben durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), mit Wirkung seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 14
 
@@ -232,57 +221,33 @@ Die Kinderzulage beträgt für jedes Kind 8 Prozent des Höchstbetrages der Gesa
 
 **Betriebszulage**[^15-1]
 
-Die Betriebszulage beträgt 27 Prozent des Höchstbetrages der Gesamtentschädigung.
+Die Betriebszulage beträgt 34 Prozent des Höchstbetrages nach Artikel 16 Absätze 1 und 2.
 
-[^15-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57): [BBl 1975 I 1193](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
+[^15-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16
 
-**Mindest- und Höchstbetrag**[^16-1]
+**Höchst- und Mindestbetrag**[^16-1]
 
-<sup>1</sup>
+<sup>1</sup> Der Höchstbetrag der Dienstentschädigung beträgt 220 Franken pro Tag.
 
-Während der vom Bundesrat bestimmten Ausbildungsdienste längerer Dauer, die ausserhalb der ordentlichen Ausbildungsdienste der Formationen für die Erreichung eines höheren Grades oder einer neuen Funktion im Militärrecht verlangt werden, darf die tägliche Gesamtentschädigung folgende Prozentsätze des Höchstbetrages gemäss Artikel 16*a* nicht unterschreiten:
+<sup>2</sup> Der Bundesrat kann den Höchstbetrag der Dienstentschädigung jeweils frühestens nach zwei Jahren auf Jahresbeginn der Lohnentwicklung anpassen, sofern sich das Lohnniveau, das für die letzte Festsetzung massgebend war, in dieser Zeit um mindestens 12 Prozent geändert hat.
 
-- a. 45 Prozent für Dienstleistende ohne Kinder;
-- b. 65 Prozent für Dienstleistende mit einem Kind;
-- c. 70 Prozent für Dienstleistende mit mindestens zwei Kindern.
+<sup>3</sup> Während der vom Bundesrat bestimmten Ausbildungsdienste längerer Dauer, die ausserhalb der ordentlichen Ausbildungsdienste der Formationen für die Erreichung eines höheren Grades oder einer neuen Funktion im Militärrecht verlangt werden, darf die tägliche Dienstentschädigung 57 Prozent des Höchstbetrages nach den Absätzen 1 und 2 nicht unterschreiten.
 
-<sup>2</sup>
+<sup>4</sup> Bei Durchdienern, die eine Ausbildung zur Erlangung eines höheren Grades zurücklegen, darf die tägliche Dienstentschädigung während dieser Ausbildung und der restlichen Diensttage 47 Prozent des Höchstbetrages nach den Absätzen 1 und 2 nicht unterschreiten.
 
-Bei Durchdienern, die eine Ausbildung zur Erlangung eines höheren Grades zurücklegen, darf die tägliche Gesamtentschädigung während dieser Ausbildung und der restlichen Diensttage folgende Prozentsätze des Höchstbetrages gemäss Artikel 16*a* nicht unterschreiten:
+<sup>5</sup> Während der anderen Dienste darf die tägliche Dienstentschädigung 32 Prozent des Höchstbetrages nach den Absätzen 1 und 2 nicht unterschreiten.
 
-- a. 37 Prozent für Dienstleistende ohne Kinder;
-- b. 55 Prozent für Dienstleistende mit einem Kind;
-- c. 62 Prozent für Dienstleistende mit mindestens zwei Kindern.
+<sup>6</sup> Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Dienstentschädigung ausgerichtet.
 
-<sup>3</sup>
-
-Während der anderen Dienste darf die tägliche Gesamtentschädigung folgende Prozentsätze des Höchstbetrages gemäss Artikel 16*a* nicht unterschreiten:
-
-- a. 25 Prozent für Dienstleistende ohne Kinder;
-- b. 40 Prozent für Dienstleistende mit einem Kind;
-- c. 50 Prozent für Dienstleistende mit mindestens zwei Kindern.
-
-<sup>4</sup> Die Grundentschädigung wird gekürzt, soweit sie 80 Prozent des Höchstbetrages gemäss Artikel 16*a* übersteigt.
-
-<sup>5</sup> Die Gesamtentschädigung wird gekürzt, soweit sie das durchschnittliche vordienstliche Einkommen oder den Höchstbetrag gemäss Artikel 16*a* übersteigt, jedoch nur bis auf die Mindestbeträge nach den Absätzen 1–3.
-
-<sup>6</sup> Die Gesamtentschädigung umfasst die Grundentschädigung nach Artikel 4 sowie die nach Artikel 6 geschuldeten Kinderzulagen. Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Gesamtentschädigung ausgerichtet.
-
-[^16-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16a
 
-**Höchstbetrag der Gesamtentschädigung**[^16a-1]
+[^16a-1]
 
-<sup>1</sup> Der Höchstbetrag der Gesamtentschädigung beträgt 275 Franken[^16a-2] im Tag.[^16a-3]
-
-<sup>2</sup> Der Bundesrat kann frühestens nach je zwei Jahren den Höchstbetrag der Gesamtentschädigung auf Jahresbeginn der Lohnentwicklung anpassen, wenn sich das Lohnniveau, das für die letzte Festsetzung massgebend war, in dieser Zeit um mindestens 12 Prozent geändert hat.
-
-[^16a-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [BBl 1975 I 1193](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Entschädigung gemäss Art. 7 Abs. 1 der V vom 2. Okt. 2026 vom über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
-[^16a-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197); [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169), [2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^16a-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 1975 ([AS 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [BBl 1975 I 1193](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)). Aufgehoben durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), mit Wirkung seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III*a*. Die Mutterschaftsentschädigung
 
@@ -331,17 +296,22 @@ Der Bundesrat regelt die Anspruchsvoraussetzungen für Frauen, die wegen Arbeits
 
 <sup>3</sup>
 
-Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausrichtung um die Dauer der Hospitalisierung, höchstens aber um 56 Tage, wenn:
+Bei einem Spitalaufenthalt des Neugeborenen oder der Mutter verlängert sich die Dauer der Ausrichtung um die Dauer des Spitalaufenthalts, wenn:[^16c-3]
 
-- a. das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilt; und
-- b. die Mutter nachweist, dass sie im Zeitpunkt der Niederkunft bereits beschlossen hatte, nach Ende des Mutterschaftsurlaubs wieder eine Erwerbstätigkeit aufzunehmen.[^16c-3]
+- a.[^16c-4] das Neugeborene oder die Mutter innerhalb von zwei Wochen nach der Geburt des Kindes ununterbrochen während mindestens zwei Wochen im Spital verweilt; und
+- b. die Mutter nachweist, dass sie im Zeitpunkt der Niederkunft bereits beschlossen hatte, nach Ende des Mutterschaftsurlaubs wieder eine Erwerbstätigkeit aufzunehmen.[^16c-5]
 
-<sup>4</sup> Der Bundesrat regelt den Anspruch auf Verlängerung der Dauer der Ausrichtung für Frauen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit nach Ende des Mutterschaftsurlaubs nicht wieder erwerbstätig sein können.[^16c-4]
+<sup>4</sup> Der Bundesrat regelt den Anspruch auf Verlängerung der Dauer der Ausrichtung für Frauen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit nach Ende des Mutterschaftsurlaubs nicht wieder erwerbstätig sein können.[^16c-6]
+
+<sup>5</sup> Er regelt ausserdem die Verlängerung der Dauer der Ausrichtung für die Fälle, in denen sowohl der Spitalaufenthalt der Mutter als auch der Spitalaufenthalt des Neugeborenen einen Anspruch auf die Verlängerung begründen.[^16c-7]
 
 [^16c-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 [^16c-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16c-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16c-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16c-4]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^16c-5]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-6]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-7]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16c<sup>bis</sup>
 
@@ -361,12 +331,13 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 
 <sup>1</sup> Der Anspruch endet am 98. Tag nach seinem Beginn.
 
-<sup>2</sup> Bei Hospitalisierung des Neugeborenen endet der Anspruch mit dem Ende der Verlängerung nach Artikel 16*c* Absatz 3.
+<sup>2</sup> Bei einem Spitalaufenthalt des Neugeborenen oder der Mutter endet der Anspruch mit dem Ende der Verlängerung nach Artikel 16*c* Absatz 3.[^16d-2]
 
-<sup>3</sup> Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wiederaufnimmt oder wenn sie stirbt; er endet jedoch nicht vorzeitig, wenn die Mutter als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, an denen eine Vertretung nicht vorgesehen ist.[^16d-2]
+<sup>3</sup> Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wiederaufnimmt oder wenn sie stirbt; er endet jedoch nicht vorzeitig, wenn die Mutter als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, an denen eine Vertretung nicht vorgesehen ist.[^16d-3]
 
 [^16d-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^16d-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Mutterschaftsentschädigung von Parlamentarierinnen), in Kraft seit 1. Juli 2024 ([AS 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [BBl 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
+[^16d-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16d-3]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Mutterschaftsentschädigung von Parlamentarierinnen), in Kraft seit 1. Juli 2024 ([AS 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [BBl 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
 
 #### Art. 16e
 
@@ -378,13 +349,37 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 
 #### Art. 16f
 
-**Höchstbetrag**
+**Höchstbetrag**[^16f-1]
 
-<sup>1</sup> Die Mutterschaftsentschädigung beträgt höchstens 220 Franken[^16f-1] im Tag. Artikel 16*a* Absatz 2 gilt sinngemäss.
+<sup>1</sup> Für den Höchstbetrag der Mutterschaftsentschädigung gilt Artikel 16 Absätze 1 und 2 sinngemäss.
 
-<sup>2</sup> Die Mutterschaftsentschädigung wird gekürzt, soweit sie den Höchstbetrag nach Absatz 1 übersteigt.
+<sup>2</sup> Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Mutterschaftsentschädigung ausgerichtet.
 
-[^16f-1]: Entschädigung gemäss Art. 7 Abs. 2 der V vom 2. Okt. 2026 vom über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^16f-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16f<sup>bis</sup>
+
+**Zulage für Betreuungskosten**[^16fbis-1]
+
+<sup>1</sup> Die Mutter, die eine Mutterschaftsentschädigung bezieht, hat Anspruch auf eine Zulage für Betreuungskosten für ihre Kinder unter 16 Jahren, wenn sie mit diesen im gemeinsamen Haushalt lebt und den Nachweis erbringt, dass sie während des Bezugs der Mutterschaftsentschädigung an mindestens zwei aufeinanderfolgenden Tagen aus gesundheitlichen Gründen die zur Wahrung des Kindeswohls erforderliche Kinderbetreuung nicht vollumfänglich wahrnehmen konnte und deshalb zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind.
+
+<sup>2</sup> Absatz 1 gilt auch für Pflegekinder, wenn sie unentgeltlich zu dauernder Pflege und Erziehung aufgenommen worden sind.
+
+<sup>3</sup> Der Bundesrat setzt den Höchstbetrag der Zulage für Betreuungskosten fest.
+
+[^16fbis-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 16f<sup>ter</sup>
+
+**Betriebszulage**[^16fter-1]
+
+<sup>1</sup> Die Mutter, die eine Mutterschaftsentschädigung bezieht und als Eigentümerin, Pächterin oder Nutzniesserin einen Betrieb führt oder als Teilhaberin einer Kollektivgesellschaft, als unbeschränkt haftende Teilhaberin einer Kommanditgesellschaft oder als Teilhaberin einer andern auf einen Erwerbszweck gerichteten Personengesamtheit ohne juristische Persönlichkeit an der Führung eines Betriebes aktiv beteiligt ist, hat Anspruch auf eine Betriebszulage, sofern sie nicht aus unselbstständiger Erwerbstätigkeit ein höheres Einkommen erzielt.
+
+<sup>2</sup> Die Mutter, die eine Mutterschaftsentschädigung bezieht und als mitarbeitendes Familienmitglied in einem Landwirtschaftsbetrieb tätig ist, hat Anspruch auf eine Betriebszulage, wenn während des Mutterschaftsurlaubs eine Ersatzkraft im Betrieb eingestellt werden muss. Der Bundesrat regelt die Einzelheiten, insbesondere betreffend den Kreis der Personen, die als mitarbeitende Familienmitglieder gelten.
+
+<sup>3</sup> Für die Höhe der Betriebszulage gilt Artikel 15 sinngemäss.
+
+[^16fter-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 16g
 
@@ -399,24 +394,25 @@ Die Mutterschaftsentschädigung schliesst den Bezug der folgenden Taggelder aus:
 - c. der Unfallversicherung;
 - d. der Militärversicherung;
 - e. der Entschädigung nach den Artikeln 9 und 10;
-- f.[^16g-1] der Betreuungsentschädigung nach den Artikeln 16*n*–16*s* für dasselbe Kind.
+- f.[^16g-1] der Betreuungsentschädigung nach den Artikeln 16*n*–16*s*<sup>bis</sup> der Mutter.
 
 <sup>2</sup>
 
-Bestand bis zum Anspruchsbeginn auf die Mutterschaftsentschädigung Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Mutterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:
+Bestand bis zum Beginn des Anspruchs auf die Mutterschaftsentschädigung Anspruch auf ein Taggeld nach diesem oder einem der folgenden Gesetze, so entspricht die Mutterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:[^16g-2]
 
-- a. Bundesgesetz vom 19. Juni 1959[^16g-2] über die Invalidenversicherung;
-- b. Bundesgesetz vom 18. März 1994[^16g-3] über die Krankenversicherung;
-- c. Bundesgesetz vom 20. März 1981[^16g-4] über die Unfallversicherung;
-- d. Bundesgesetz vom 19. Juni 1992[^16g-5] über die Militärversicherung;
-- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16g-6].
+- a. Bundesgesetz vom 19. Juni 1959[^16g-3] über die Invalidenversicherung;
+- b. Bundesgesetz vom 18. März 1994[^16g-4] über die Krankenversicherung;
+- c. Bundesgesetz vom 20. März 1981[^16g-5] über die Unfallversicherung;
+- d. Bundesgesetz vom 19. Juni 1992[^16g-6] über die Militärversicherung;
+- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16g-7].
 
-[^16g-1]: Eingefügt durch Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^16g-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16g-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16g-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16g-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16g-6]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16g-1]: Eingefügt durch Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16g-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16g-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16g-4]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16g-5]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16g-6]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16g-7]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 16h
 
@@ -482,9 +478,12 @@ Der Anspruch endet:
 - d. wenn das Kind stirbt; oder
 - e.[^16j-3] wenn das Kindesverhältnis zum andern Elternteil aberkannt wird.
 
+<sup>4</sup> In Abweichung von Absatz 3 Buchstabe d endet der Anspruch auf die Entschädigung nicht, wenn das Kind tot geboren wird oder bei der Geburt oder in den 14 Tagen nach der Geburt stirbt. In Abweichung von Absatz 1 müssen die verbleibenden Taggelder ab dem Folgetag des Todestags am Stück bezogen werden.[^16j-4]
+
 [^16j-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16j-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16j-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16j-4]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16k
 
@@ -498,7 +497,27 @@ Der Anspruch endet:
 
 <sup>4</sup> Wird der Urlaub tageweise bezogen, so werden pro 5 entschädigte Tage zusätzlich 2 Taggelder ausgerichtet.
 
+<sup>5</sup> Der andere Elternteil hat Anspruch auf zusätzliche Taggelder, wenn die Mutter zwischen dem Tag der Niederkunft und dem 97. Tag danach während mindestens zwei Wochen ununterbrochen im Spital verweilt. Die Anzahl der zusätzlichen Taggelder entspricht der Dauer des Spitalaufenthalts, höchstens aber 84 Tagen.[^16k-2]
+
+<sup>6</sup> Die Taggelder nach Absatz 5 müssen an aufeinanderfolgenden Tagen bezogen werden.[^16k-3]
+
+<sup>7</sup>
+
+Der Anspruch auf die Entschädigung nach Absatz 5 entsteht am 15. Tag des Spitalaufenthalts der Mutter und endet:
+
+- a. spätestens am 97. Tag nach der Geburt des Kindes;
+- b. wenn der andere Elternteil stirbt;
+- c. wenn das Kind stirbt;
+- d. wenn das Kindesverhältnis zum andern Elternteil aberkannt wird; oder
+- e. bei Wiederaufnahme der Erwerbstätigkeit des andern Elternteils.[^16k-4]
+
+<sup>8</sup> In Abweichung von Absatz 7 Buchstabe e endet der Anspruch nicht, wenn der andere Elternteil als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, an denen eine Vertretung nicht vorgesehen ist.[^16k-5]
+
 [^16k-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^16k-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^16k-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^16k-4]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^16k-5]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16k<sup>bis</sup>
 
@@ -508,11 +527,23 @@ Der Anspruch endet:
 
 <sup>2</sup> Bei einem Spitalaufenthalt des Neugeborenen gilt Artikel 16*c* Absatz 3 sinngemäss.
 
-<sup>3</sup> Der Anspruch nach den Absätzen 1 und 2 entsteht am Tag nach dem Tod der Mutter und endet aus den Gründen nach Artikel 16*j* Absatz 3 Buchstaben b–e oder bei Wiederaufnahme der Erwerbstätigkeit.
+<sup>3</sup>
+
+Der Anspruch nach den Absätzen 1 und 2 entsteht am Tag nach dem Tod der Mutter und endet:
+
+- a. nach Ausschöpfung der Taggelder;
+- b. wenn der andere Elternteil stirbt;
+- c. wenn das Kind stirbt;
+- d. wenn das Kindesverhältnis zum andern Elternteil aberkannt wird; oder
+- e. bei Wiederaufnahme der Erwerbstätigkeit des andern Elternteils.[^16kbis-2]
+
+<sup>3bis</sup> In Abweichung von Absatz 3 Buchstabe e endet der Anspruch nicht, wenn der andere Elternteil als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, an denen eine Vertretung nicht vorgesehen ist.[^16kbis-3]
 
 <sup>4</sup> Die Rahmenfrist von sechs Monaten nach Artikel 16*j* wird während des Bezugs von Taggeldern nach den Absätzen 1 und 2 unterbrochen.
 
 [^16kbis-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)). Siehe auch die SchlB dieser Änd. am Schluss des Textes.
+[^16kbis-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16kbis-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16l
 
@@ -522,9 +553,37 @@ Der Anspruch endet:
 
 <sup>2</sup> Für die Ermittlung des Einkommens nach Absatz 1 ist Artikel 11 Absatz 1 sinngemäss anwendbar.
 
-<sup>3</sup> Für den Höchstbetrag gilt Artikel 16*f* sinngemäss.
+<sup>3</sup> Für den Höchstbetrag der Entschädigung des andern Elternteils gilt Artikel 16 Absätze 1 und 2 sinngemäss.[^16l-2]
+
+<sup>4</sup> Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Entschädigung des andern Elternteils ausgerichtet.[^16l-3]
 
 [^16l-1]: Die Berichtigung vom 28. Jan. 2025 betrifft nur den italienischen Text ([AS 2025 72](https://fedlex.data.admin.ch/eli/oc/2025/72)).
+[^16l-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16l-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16l<sup>bis</sup>
+
+**Zulage für Betreuungskosten**[^16lbis-1]
+
+<sup>1</sup> Die Person, die eine Entschädigung des andern Elternteils bezieht, hat Anspruch auf eine Zulage für Betreuungskosten für ihre Kinder unter 16 Jahren , wenn sie mit diesen im gemeinsamen Haushalt lebt und den Nachweis erbringt, dass sie während des Bezugs der Entschädigung des andern Elternteils an mindestens zwei aufeinanderfolgenden Tagen aus gesundheitlichen Gründen die zur Wahrung des Kindeswohls erforderliche Kinderbetreuung nicht vollumfänglich wahrnehmen konnte und deshalb zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind.
+
+<sup>2</sup> Absatz 1 gilt auch für Pflegekinder, wenn sie unentgeltlich zu dauernder Pflege und Erziehung aufgenommen worden sind.
+
+<sup>3</sup> Der Bundesrat setzt den Höchstbetrag der Zulage für Betreuungskosten fest.
+
+[^16lbis-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 16l<sup>ter</sup>
+
+**Betriebszulage**[^16lter-1]
+
+<sup>1</sup> Die Person, die eine Entschädigung des andern Elternteils bezieht und als Eigentümerin, Pächterin oder Nutzniesserin einen Betrieb führt oder als Teilhaberin einer Kollektivgesellschaft, als unbeschränkt haftende Teilhaberin einer Kommanditgesellschaft oder als Teilhaberin einer andern auf einen Erwerbszweck gerichteten Personengesamtheit ohne juristische Persönlichkeit an der Führung eines Betriebes aktiv beteiligt ist, hat Anspruch auf eine Betriebszulage, sofern sie nicht aus unselbstständiger Erwerbstätigkeit ein höheres Einkommen erzielt.
+
+<sup>2</sup> Die Person, die eine Entschädigung des andern Elternteils bezieht und als mitarbeitendes Familienmitglied in einem Landwirtschaftsbetrieb tätig ist, hat Anspruch auf eine Betriebszulage, wenn wegen ihrer Abwesenheit während der Dauer des Urlaubs des andern Elternteils eine Ersatzkraft im Betrieb eingestellt werden muss. Der Bundesrat regelt die Einzelheiten, insbesondere betreffend den Kreis der Personen, die als mitarbeitende Familienmitglieder gelten.
+
+<sup>3</sup> Für die Höhe der Betriebszulage gilt Artikel 15 sinngemäss.
+
+[^16lter-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 16m
 
@@ -538,32 +597,42 @@ Die Entschädigung des andern Elternteils schliesst den Bezug der folgenden Tagg
 - b. der Invalidenversicherung;
 - c. der Unfallversicherung;
 - d. der Militärversicherung;
-- e. der Entschädigung nach den Artikeln 9 und 10.
+- e. der Entschädigung nach den Artikeln 9 und 10;
+- f.[^16m-3] der Betreuungsentschädigung nach den Artikeln 16*n–*16*s*<sup>bis</sup> des andern Elternteils.
 
 <sup>2</sup>
 
-Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elternteils Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Entschädigung des andern Elternteils mindestens dem bisher bezogenen Taggeld:[^16m-3]
+Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elternteils Anspruch auf ein Taggeld nach diesem oder einem der folgenden Gesetze, so entspricht die Entschädigung des andern Elternteils mindestens dem bisher bezogenen Taggeld:[^16m-4]
 
-- a. Bundesgesetz vom 19. Juni 1959[^16m-4] über die Invalidenversicherung;
-- b. Bundesgesetz vom 18. März 1994[^16m-5] über die Krankenversicherung;
-- c. Bundesgesetz vom 20. März 1981[^16m-6] über die Unfallversicherung;
-- d. Bundesgesetz vom 19. Juni 1992[^16m-7] über die Militärversicherung;
-- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16m-8].
+- a. Bundesgesetz vom 19. Juni 1959[^16m-5] über die Invalidenversicherung;
+- b. Bundesgesetz vom 18. März 1994[^16m-6] über die Krankenversicherung;
+- c. Bundesgesetz vom 20. März 1981[^16m-7] über die Unfallversicherung;
+- d. Bundesgesetz vom 19. Juni 1992[^16m-8] über die Militärversicherung;
+- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16m-9].
 
 [^16m-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16m-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16m-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16m-6]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16m-7]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16m-8]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16m-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16m-4]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16m-5]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16m-6]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16m-7]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16m-8]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16m-9]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
-### III*c*. Die Entschädigung für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen
+#### Art. 16m<sup>bis</sup>
+
+**Verhältnis zu kantonalen Regelungen**[^16mbis-1]
+
+In Ergänzung zu Kapitel III*b* können die Kantone eine höhere oder länger dauernde Entschädigung des andern Elternteils vorsehen und zu deren Finanzierung besondere Beiträge erheben.
+
+[^16mbis-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+### III*c*. Die Entschädigung für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes oder ein hospitalisiertes Kind betreuen
 
 [^chap1a-lvlIIIc-1]
 
-[^chap1a-lvlIIIc-1]: Eingefügt durch Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^chap1a-lvlIIIc-1]: Eingefügt durch Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16n
 
@@ -571,18 +640,20 @@ Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elterntei
 
 <sup>1</sup>
 
-Anspruchsberechtigt sind Eltern eines minderjährigen Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, die:
+Anspruchsberechtigt sind Eltern eines minderjährigen Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt oder an mindestens vier aufeinanderfolgenden Tagen hospitalisiert ist, die:[^16n-1]
 
 - a. die Erwerbstätigkeit für die Betreuung des Kindes unterbrechen; und
 - b.
 
   im Zeitpunkt der Unterbrechung der Erwerbstätigkeit:
 
-  - 1\. Arbeitnehmende im Sinne von Artikel 10 ATSG[^16n-1] sind,
+  - 1\. Arbeitnehmende im Sinne von Artikel 10 ATSG[^16n-2] sind,
   - 2\. Selbstständigerwerbende im Sinne von Artikel 12 ATSG sind, oder
   - 3\. im Betrieb des Ehemanns oder der Ehefrau mitarbeiten und einen Barlohn beziehen.
 
-<sup>2</sup> Pro Krankheitsfall oder Unfall entsteht nur ein Anspruch.
+<sup>2</sup> Pro Krankheitsfall, Unfall oder Spitalaufenthalt entsteht nur ein Anspruch.[^16n-3]
+
+<sup>2bis</sup> Der Spitalaufenthalt unmittelbar nach der Geburt begründet nur dann einen Anspruch auf die Entschädigung, wenn das Kind gesundheitlich schwer beeinträchtigt ist. Die Voraussetzung gemäss Artikel 16*o* Buchstaben a und b ist bei der Bestimmung der Schwere der gesundheitlichen Beeinträchtigung nicht anwendbar.[^16n-4]
 
 <sup>3</sup>
 
@@ -591,7 +662,10 @@ Der Bundesrat regelt:
 - a den Anspruch von Pflegeeltern;
 - b. die Anspruchsvoraussetzungen für Personen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit die Voraussetzungen nach Absatz 1 Buchstabe b nicht erfüllen.
 
-[^16n-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16n-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^16n-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16n-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16n-4]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16o
 
@@ -608,7 +682,7 @@ Ein Kind ist gesundheitlich schwer beeinträchtigt, wenn:
 
 **Rahmenfrist, Beginn und Ende des Anspruchs**
 
-<sup>1</sup> Für den Bezug der Betreuungsentschädigung gilt eine Rahmenfrist von 18 Monaten.
+<sup>1</sup> Ist das Kind gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o*, so gilt für den Bezug der Betreuungsentschädigung eine Rahmenfrist von 18 Monaten.[^16p-1]
 
 <sup>2</sup> Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
 
@@ -621,7 +695,10 @@ Er endet:
 - a. nach Ablauf der Rahmenfrist; oder
 - b. nach Ausschöpfung der Taggelder.
 
-<sup>5</sup> Er endet vorzeitig, wenn die Voraussetzungen nicht mehr erfüllt sind; er endet jedoch nicht vorzeitig, wenn das Kind während der Rahmenfrist volljährig wird.
+<sup>5</sup> Er endet vorzeitig, wenn die Voraussetzungen nicht mehr erfüllt sind; er endet jedoch nicht vorzeitig, wenn das Kind während der Rahmenfrist oder der Dauer des Spitalaufenthalts und der Genesung volljährig wird.[^16p-2]
+
+[^16p-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16p-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16q
 
@@ -629,11 +706,16 @@ Er endet:
 
 <sup>1</sup> Die Betreuungsentschädigung wird als Taggeld ausgerichtet.
 
-<sup>2</sup> Innerhalb der Rahmenfrist besteht Anspruch auf höchstens 98 Taggelder.
+<sup>2</sup> Ist das Kind gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o*, so besteht innerhalb der Rahmenfrist Anspruch auf höchstens 98 Taggelder.[^16q-1]
+
+<sup>2bis</sup> Ist das Kind hospitalisiert, so wird ab dem vierten Tag des Spitalaufenthalts ein Taggeld ausbezahlt, das der Dauer des Spitalaufenthalts und der Genesung entspricht. Insgesamt besteht Anspruch auf höchstens 98 Taggelder.[^16q-2]
 
 <sup>3</sup> Pro fünf Taggelder werden zusätzlich zwei Taggelder ausgerichtet.
 
 <sup>4</sup> Sind beide Eltern erwerbstätig, so hat jeder Elternteil Anspruch auf höchstens die Hälfte der Taggelder. Sie können eine abweichende Aufteilung wählen.
+
+[^16q-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16q-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 16r
 
@@ -643,36 +725,78 @@ Er endet:
 
 <sup>2</sup> Für die Ermittlung des Einkommens ist Artikel 11 Absatz 1 sinngemäss anwendbar.
 
-<sup>3</sup> Für den Höchstbetrag gilt Artikel 16*f* sinngemäss.
+<sup>3</sup> Für den Höchstbetrag der Betreuungsentschädigung gilt Artikel 16 Absätze 1 und 2 sinngemäss.[^16r-1]
+
+<sup>4</sup> Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Betreuungsentschädigung ausgerichtet.[^16r-2]
+
+<sup>5</sup> Teilen die Eltern den Betreuungsurlaub auf, so wird die Entschädigung für jeden Elternteil gesondert berechnet.[^16r-3]
+
+[^16r-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16r-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16r-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16r<sup>bis</sup>
+
+**Zulage für Betreuungskosten**[^16rbis-1]
+
+<sup>1</sup> Eltern, die eine Betreuungsentschädigung beziehen, haben Anspruch auf eine Zulage für Betreuungskosten für ihre Kinder unter 16 Jahren, wenn sie mit diesen im gemeinsamen Haushalt leben und den Nachweis erbringen, dass sie während des Bezugs der Betreuungsentschädigung an mindestens zwei aufeinanderfolgenden Tagen aus gesundheitlichen Gründen die zur Wahrung des Kindeswohl erforderliche Kinderbetreuung nicht vollumfänglich wahrnehmen konnten und deshalb zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind.
+
+<sup>2</sup> Absatz 1 gilt auch für Pflegekinder, wenn sie unentgeltlich zu dauernder Pflege und Erziehung aufgenommen worden sind.
+
+<sup>3</sup> Der Bundesrat setzt den Höchstbetrag der Zulage für Betreuungskosten fest.
+
+[^16rbis-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 16r<sup>ter</sup>
+
+**Betriebszulage**[^16rter-1]
+
+<sup>1</sup> Eltern, die eine Betreuungsentschädigung beziehen und als Eigentümer, Pächter oder Nutzniesser einen Betrieb führen oder als Teilhaber einer Kollektivgesellschaft, als unbeschränkt haftende Teilhaber einer Kommanditgesellschaft oder als Teilhaber einer andern auf einen Erwerbszweck gerichteten Personengesamtheit ohne juristische Persönlichkeit an der Führung eines Betriebes aktiv beteiligt sind, haben Anspruch auf eine Betriebszulage, sofern sie nicht aus unselbstständiger Erwerbstätigkeit ein höheres Einkommen erzielen.
+
+<sup>2</sup> Eltern, die eine Betreuungsentschädigung beziehen und als mitarbeitende Familienmitglieder in einem Landwirtschaftsbetrieb tätig sind, haben Anspruch auf eine Betriebszulage, wenn wegen ihrer Abwesenheit während der Dauer des Betreuungsurlaubs eine Ersatzkraft im Betrieb eingestellt werden muss. Der Bundesrat regelt die Einzelheiten, insbesondere betreffend den Kreis der Personen, die als mitarbeitende Familienmitglieder gelten.
+
+<sup>3</sup> Für die Höhe der Betriebszulage gilt Artikel 15 sinngemäss.
+
+[^16rter-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 16s
 
-**Verhältnis zu Leistungen anderer Sozialversicherungen**
+**Vorrang der Betreuungsentschädigung**[^16s-1]
 
 <sup>1</sup>
 
-Der Bezug der Betreuungsentschädigung geht folgenden Taggeldern oder Sozialversicherungsleistungen vor:
+Die Betreuungsentschädigung schliesst den Bezug der folgenden Taggelder aus:
 
 - a. der Arbeitslosenversicherung;
 - b. der Invalidenversicherung;
 - c. der Unfallversicherung;
-- d. der Militärversicherung.
+- d. der Militärversicherung;
+- e. der Entschädigung nach den Artikeln 9 und 10.
 
 <sup>2</sup>
 
-Das Taggeld entspricht mindestens dem bisher bezogenen Taggeld, wenn bis zum Beginn des Anspruchs auf die Betreuungsentschädigung Anspruch auf ein Taggeld nach Artikel 16*b* oder nach einem der folgenden Gesetze bestand:
+Bestand bis zum Beginn des Anspruchs auf die Betreuungsentschädigung Anspruch auf ein Taggeld nach diesem oder einem der folgenden Gesetze, so entspricht das Taggeld mindestens dem bisher bezogenen Taggeld:
 
-- a. Bundesgesetz vom 19. Juni 1959[^16s-1] über die Invalidenversicherung;
-- b. Bundesgesetz vom 18. März 1994[^16s-2] über die Krankenversicherung;
-- c. Bundesgesetz vom 20. März 1981[^16s-3] über die Unfallversicherung;
-- d. Bundesgesetz vom 19. Juni 1992[^16s-4] über die Militärversicherung;
-- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16s-5].
+- a. Bundesgesetz vom 19. Juni 1959[^16s-2] über die Invalidenversicherung;
+- b. Bundesgesetz vom 18. März 1994[^16s-3] über die Krankenversicherung;
+- c. Bundesgesetz vom 20. März 1981[^16s-4] über die Unfallversicherung;
+- d. Bundesgesetz vom 19. Juni 1992[^16s-5] über die Militärversicherung;
+- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16s-6].
 
-[^16s-1]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^16s-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^16s-3]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
-[^16s-4]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
-[^16s-5]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16s-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16s-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16s-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16s-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16s-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16s-6]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
+#### Art. 16s<sup>bis</sup>
+
+**Verhältnis zu kantonalen Regelungen**[^16sbis-1]
+
+In Ergänzung zu Kapitel III*c* können die Kantone eine höhere oder länger dauernde Betreuungsentschädigung vorsehen und zu deren Finanzierung besondere Beiträge erheben.
+
+[^16sbis-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### III*d*. Die Adoptionsentschädigung
 
@@ -698,6 +822,13 @@ Anspruchsberechtigt sind Personen, die:
   - 2\. Selbstständigerwerbende im Sinne von Artikel 12 ATSG sind, oder
   - 3\. im Betrieb des Ehemannes oder der Ehefrau mitarbeiten und einen Barlohn beziehen.
 
+<sup>1bis</sup>
+
+Der Bundesrat regelt die Anspruchsvoraussetzungen für Personen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit:
+
+- a. während der neun Monate unmittelbar vor der Aufnahme des Kindes nicht mindestens fünf Monate eine Erwerbstätigkeit ausgeübt haben;
+- b. im Zeitpunkt der Aufnahme des Kindes nicht Arbeitnehmende oder Selbstständigerwerbende sind.[^16t-3]
+
 <sup>2</sup>
 
 Bei einer gemeinschaftlichen Adoption:
@@ -709,11 +840,12 @@ Bei einer gemeinschaftlichen Adoption:
 
 <sup>4</sup> Werden gleichzeitig mehrere Kinder aufgenommen, so entsteht nur ein Anspruch.
 
-<sup>5</sup> Kein Anspruch entsteht bei einer Stiefkindadoption nach Artikel 264*c* Absatz 1 des Zivilgesetzbuchs[^16t-3].
+<sup>5</sup> Kein Anspruch entsteht bei einer Stiefkindadoption nach Artikel 264*c* Absatz 1 des Zivilgesetzbuchs[^16t-4].
 
 [^16t-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16t-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^16t-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^16t-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16t-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 16u
 
@@ -752,15 +884,85 @@ Der Anspruch endet:
 
 <sup>2</sup> Für die Ermittlung des Einkommens ist Artikel 11 Absatz 1 sinngemäss anwendbar.
 
-<sup>3</sup> Für den Höchstbetrag gilt Artikel 16*f* sinngemäss.
+<sup>3</sup> Für den Höchstbetrag der Adoptionsentschädigung gilt Artikel 16 Absätze 1 und 2 sinngemäss.[^16w-1]
+
+<sup>3bis</sup> Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Adoptionsentschädigung ausgerichtet.[^16w-2]
 
 <sup>4</sup> Teilen die Eltern den Adoptionsurlaub auf, so wird die Entschädigung für jeden Elternteil gesondert berechnet.
 
+[^16w-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16w-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+
+#### Art. 16w<sup>bis</sup>
+
+**Zulage für Betreuungskosten**[^16wbis-1]
+
+<sup>1</sup> Personen, die eine Adoptionsentschädigung beziehen, haben Anspruch auf eine Zulage für Betreuungskosten für ihre Kinder unter 16 Jahren, wenn sie mit diesen im gemeinsamen Haushalt leben und den Nachweis erbringen, dass sie während des Bezugs der Adoptionsentschädigung an mindestens zwei aufeinanderfolgenden Tagen aus gesundheitlichen Gründen die zur Wahrung des Kindeswohl erforderliche Kinderbetreuung nicht vollumfänglich wahrnehmen konnten und deshalb zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind.
+
+<sup>2</sup> Absatz 1 gilt auch für Pflegekinder, wenn sie unentgeltlich zu dauernder Pflege und Erziehung aufgenommen worden sind.
+
+<sup>3</sup> Der Bundesrat setzt den Höchstbetrag der Zulage für Betreuungskosten fest.
+
+[^16wbis-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 16w<sup>ter</sup>
+
+**Betriebszulage**[^16wter-1]
+
+<sup>1</sup> Personen, die eine Adoptionsentschädigung beziehen und als Eigentümer, Pächter oder Nutzniesser einen Betrieb führen oder als Teilhaber einer Kollektivgesellschaft, als unbeschränkt haftende Teilhaber einer Kommanditgesellschaft oder als Teilhaber einer andern auf einen Erwerbszweck gerichteten Personengesamtheit ohne juristische Persönlichkeit an der Führung eines Betriebes aktiv beteiligt sind, haben Anspruch auf eine Betriebszulage, sofern sie nicht aus unselbstständiger Erwerbstätigkeit ein höheres Einkommen erzielen.
+
+<sup>2</sup> Personen, die eine Adoptionsentschädigung beziehen und als mitarbeitende Familienmitglieder in einem Landwirtschaftsbetrieb tätig sind, haben Anspruch auf eine Betriebszulage, wenn wegen ihrer Abwesenheit während der Dauer des Adoptionsurlaubs eine Ersatzkraft im Betrieb eingestellt werden muss. Der Bundesrat regelt die Einzelheiten, insbesondere betreffend den Kreis der Personen, die als mitarbeitende Familienmitglieder gelten.
+
+<sup>3</sup> Für die Höhe der Betriebszulage gilt Artikel 15 sinngemäss.
+
+[^16wter-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
+#### Art. 16w<sup>quater</sup>
+
+**Vorrang der Adoptionsentschädigung**[^16wquater-1]
+
+<sup>1</sup>
+
+Die Adoptionsentschädigung schliesst den Bezug der folgenden Taggelder aus:
+
+- a. der Arbeitslosenversicherung;
+- b. der Invalidenversicherung;
+- c. der Unfallversicherung;
+- d. der Militärversicherung;
+- e. der Entschädigung nach den Artikeln 9 und 10;
+- f. der Betreuungsentschädigung nach den Artikeln 16*n*–16*s*<sup>bis</sup> der Eltern.
+
+<sup>2</sup>
+
+Bestand bis zum Beginn des Anspruchs auf die Adoptionsentschädigung Anspruch auf ein Taggeld nach diesem oder einem der folgenden Gesetze, so entspricht das Taggeld mindestens dem bisher bezogenen Taggeld:
+
+- a. Bundesgesetz vom 19. Juni 1959[^16wquater-2] über die Invalidenversicherung;
+- b. Bundesgesetz vom 18. März 1994[^16wquater-3] über die Krankenversicherung;
+- c. Bundesgesetz vom 20. März 1981[^16wquater-4] über die Unfallversicherung;
+- d. Bundesgesetz vom 19. Juni 1992[^16wquater-5] über die Militärversicherung;
+- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16wquater-6].
+
+[^16wquater-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^16wquater-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16wquater-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16wquater-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16wquater-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16wquater-6]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
 #### Art. 16x
 
-**Verhältnis zu kantonalen Regelungen**
+**Verhältnis zu kantonalen Regelungen**[^16x-1]
 
-In Ergänzung zu Kapitel III*d* können die Kantone eine höhere oder länger dauernde Adoptionsentschädigung vorsehen und zu deren Finanzierung besondere Beiträge erheben.
+<sup>1</sup>
+
+In Ergänzung zu Kapitel III*d* können die Kantone:
+
+- a. eine höhere oder länger dauernde Adoptionsentschädigung vorsehen;
+- b. für Personen, die ein mehr als vier Jahre altes Kind zur Adoption aufnehmen, eine Adoptionsentschädigung vorsehen.
+
+<sup>2</sup> Sie können zur Finanzierung der Entschädigungen nach Absatz 1 besondere Beiträge erheben.
+
+[^16x-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### IV. Verschiedene Bestimmungen
 
@@ -1204,3 +1406,17 @@ Die neuen Bestimmungen gelten auch, wenn die Geburt höchstens 98 Tage vor dem I
 [^u3-1]: [AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)
 
 Die Artikel 16*c*<sup>bis</sup> und 16*k*<sup>bis</sup> gelten nur für Todesfälle, die ab dem Tag des Inkrafttretens der Änderung vom 17. März 2023 eingetreten sind.
+
+## Übergangsbestimmungen zur Änderung vom 19. Dezember 2025 (Angleichung der EO-Leistungen)
+
+[^u4-1]
+
+[^u4-1]: [AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)
+
+<sup>1</sup> Der Anspruch auf Kinderzulagen von Personen, die im Zeitpunkt des Inkrafttretens der Änderung vom 19. Dezember 2025 Dienst leisten, endet am Ende des Dienstes.
+
+<sup>2</sup> Die Artikel 16*f*<sup>bis</sup>, 16*l*<sup>bis</sup>, 16*r*<sup>bis</sup> und 16*w*<sup>bis</sup> (Zulage für Betreuungskosten) finden auf alle Urlaube Anwendung, auf die im Zeitpunkt des Inkrafttretens dieser Änderung Anspruch besteht. Die Zulage für Betreuungskosten wird frühestens ab dem Inkrafttreten dieser Änderung und nur für die Dauer, für die zu diesem Zeitpunkt noch Anspruch auf Urlaub besteht, ausgerichtet.
+
+<sup>3</sup> Die Artikel 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> und 16*w*<sup>ter</sup> (Betriebszulage) finden auf alle Urlaube Anwendung, auf die im Zeitpunkt des Inkrafttretens dieser Änderung Anspruch besteht. Die Betriebszulage wird frühestens ab dem Inkrafttreten dieser Änderung und nur für die Dauer, für die zu diesem Zeitpunkt noch Anspruch auf Urlaub besteht, ausgerichtet.
+
+<sup>4</sup> Die Ansprüche nach den Artikeln 16*c* Absatz 3, 16*k* Absätze 5–7 und 16*n* Absatz 1 entstehen für alle Mütter, Kinder und Neugeborenen, die zum Zeitpunkt des Inkrafttretens dieser Änderung im Spital verweilen. Die Taggelder werden frühestens ab dem Inkrafttreten dieser Änderung und nur für die zu diesem Zeitpunkt noch verbleibende Dauer des Spitalaufenthalts ausgerichtet.
