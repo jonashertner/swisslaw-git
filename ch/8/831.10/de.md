@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenve
 short: AHVG
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20260101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20270101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20260101/de"
 
 (AHVG)[^t-1]
 
-vom 20. Dezember 1946 (Stand am 1. Januar 2026)
+vom 20. Dezember 1946 (Stand am 1. Januar 2027)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -125,17 +125,17 @@ Der Versicherung können beitreten:
 
 <sup>3</sup> Versicherte, welche die nötigen Auskünfte nicht erteilen oder ihre Beiträge nicht fristgerecht bezahlen, werden aus der freiwilligen Versicherung ausgeschlossen.
 
-<sup>4</sup> Die Beiträge der erwerbstätigen Versicherten betragen 8,7 Prozent des massgebenden Einkommens. Die Versicherten müssen aber in jedem Fall den Mindestbeitrag von 870 Franken[^2-3] im Jahr entrichten.[^2-4]
+<sup>4</sup> Die Beiträge der erwerbstätigen Versicherten betragen 8,7 Prozent des massgebenden Einkommens. Die Versicherten müssen aber in jedem Fall den Mindestbeitrag von 888 Franken[^2-3] im Jahr entrichten.[^2-4]
 
-<sup>5</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag liegt bei 870 Franken[^2-5] pro Jahr. Der Höchstbeitrag entspricht dem 25‑fachen Mindestbeitrag.[^2-6]
+<sup>5</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag liegt bei 888 Franken[^2-5] pro Jahr. Der Höchstbeitrag entspricht dem 25‑fachen Mindestbeitrag.[^2-6]
 
 <sup>6</sup> Der Bundesrat erlässt ergänzende Vorschriften über die freiwillige Versicherung; er bestimmt insbesondere die Frist und die Modalitäten des Beitritts, des Rücktritts und des Ausschlusses. Ferner regelt er die Festsetzung und Erhebung der Beiträge sowie die Gewährung von Leistungen. Er kann die Bestimmungen betreffend die Dauer der Beitragspflicht, die Berechnung der Beiträge sowie den Beitragsbezug den Besonderheiten der freiwilligen Versicherung anpassen.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^2-2]: Fassung gemäss Ziff. I 3 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^2-3]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^2-3]: Betrag gemäss Art. 2 Abs. 2 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^2-4]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^2-5]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^2-5]: Betrag gemäss Art. 2 Abs. 2 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^2-6]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Zweiter Abschnitt: Die Beiträge
@@ -248,15 +248,15 @@ Der Bundesrat kann für mitarbeitende Familienmitglieder in der Landwirtschaft G
 
 **Beiträge von Einkommen aus selbstständiger Erwerbstätigkeit 1. Grundsatz**[^8-1]
 
-<sup>1</sup> Vom Einkommen aus selbstständiger Erwerbstätigkeit wird ein Beitrag von 8,1 Prozent erhoben. Das Einkommen wird für die Berechnung des Beitrages auf die nächsten 100 Franken abgerundet. Beträgt es weniger als 60 500[^8-2], aber mindestens 10 100 Franken[^8-3] im Jahr, so vermindert sich der Beitragssatz nach einer vom Bundesrat aufzustellenden sinkenden Skala bis auf 4,35 Prozent.
+<sup>1</sup> Vom Einkommen aus selbstständiger Erwerbstätigkeit wird ein Beitrag von 8,1 Prozent erhoben. Das Einkommen wird für die Berechnung des Beitrages auf die nächsten 100 Franken abgerundet. Beträgt es weniger als 61 500[^8-2], aber mindestens 10 300 Franken[^8-3] im Jahr, so vermindert sich der Beitragssatz nach einer vom Bundesrat aufzustellenden sinkenden Skala bis auf 4,35 Prozent.
 
-<sup>2</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit 10 000 Franken[^8-4] oder weniger im Jahr, so hat der Versicherte den Mindestbeitrag von 435 Franken[^8-5] im Jahr zu entrichten, es sei denn, dieser Betrag sei bereits auf seinem massgebenden Lohn entrichtet worden. In diesem Fall kann er verlangen, dass der Beitrag für die selbstständige Erwerbstätigkeit zum untersten Satz der sinkenden Skala erhoben wird.
+<sup>2</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit 10 200 Franken[^8-4] oder weniger im Jahr, so hat der Versicherte den Mindestbeitrag von 444 Franken[^8-5] im Jahr zu entrichten, es sei denn, dieser Betrag sei bereits auf seinem massgebenden Lohn entrichtet worden. In diesem Fall kann er verlangen, dass der Beitrag für die selbstständige Erwerbstätigkeit zum untersten Satz der sinkenden Skala erhoben wird.
 
 [^8-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^8-2]: Betrag gemäss Art. 1 Bst. a der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-3]: Betrag gemäss Art. 1 Bst. b der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-4]: Betrag gemäss Art. 2 Abs. 1 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-5]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-2]: Betrag gemäss Art. 1 Bst. a der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-3]: Betrag gemäss Art. 1 Bst. b der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-4]: Betrag gemäss Art. 2 Abs. 1 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-5]: Betrag gemäss Art. 2 Abs. 2 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 9
 
@@ -301,7 +301,7 @@ Der Bundesrat kann die Grenzen der sinkenden Beitragsskala nach Artikel 8 sowie 
 
 [^10-1]
 
-<sup>1</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt 435 Franken[^10-2], der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Erwerbstätige, die im Kalenderjahr, gegebenenfalls mit Einschluss des Arbeitgeberbeitrages, weniger als 435 Franken entrichten, gelten als Nichterwerbstätige. Der Bundesrat kann den Grenzbetrag nach den sozialen Verhältnissen des Versicherten erhöhen, wenn dieser nicht dauernd voll erwerbstätig ist.[^10-3]
+<sup>1</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt 444 Franken[^10-2], der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Erwerbstätige, die im Kalenderjahr, gegebenenfalls mit Einschluss des Arbeitgeberbeitrages, weniger als 444 Franken[^10-3] entrichten, gelten als Nichterwerbstätige. Der Bundesrat kann den Grenzbetrag nach den sozialen Verhältnissen des Versicherten erhöhen, wenn dieser nicht dauernd voll erwerbstätig ist.[^10-4]
 
 <sup>2</sup>
 
@@ -309,20 +309,21 @@ Den Mindestbeitrag bezahlen:
 
 - a. nichterwerbstätige Studierende bis zum 31. Dezember des Jahres, in welchem sie das 25. Altersjahr vollenden;
 - b. Nichterwerbstätige, die ein Mindesteinkommen oder andere Leistungen der öffentlichen Sozialhilfe erhalten;
-- c. Nichterwerbstätige, die von Drittpersonen finanziell unterstützt werden.[^10-4]
+- c. Nichterwerbstätige, die von Drittpersonen finanziell unterstützt werden.[^10-5]
 
-<sup>2bis</sup> Der Bundesrat kann den Mindestbeitrag für weitere Nichterwerbstätige vorsehen, denen höhere Beiträge nicht zuzumuten sind.[^10-5]
+<sup>2bis</sup> Der Bundesrat kann den Mindestbeitrag für weitere Nichterwerbstätige vorsehen, denen höhere Beiträge nicht zuzumuten sind.[^10-6]
 
 <sup>3</sup> Der Bundesrat erlässt nähere Vorschriften über den Kreis der Personen, die als Nichterwerbstätige gelten, und über die Bemessung der Beiträge. Er kann bestimmen, dass vom Erwerbseinkommen bezahlte Beiträge auf Verlangen des Versicherten an die Beiträge angerechnet werden, die dieser als Nichterwerbstätiger schuldet.
 
-<sup>4</sup> Der Bundesrat kann Lehranstalten verpflichten, der zuständigen Ausgleichskasse alle Studierenden zu melden, die als Nichterwerbstätige beitragspflichtig sein könnten. Die Ausgleichskasse kann den Bezug der geschuldeten Beiträge der Lehranstalt übertragen, falls diese zustimmt.[^10-6]
+<sup>4</sup> Der Bundesrat kann Lehranstalten verpflichten, der zuständigen Ausgleichskasse alle Studierenden zu melden, die als Nichterwerbstätige beitragspflichtig sein könnten. Die Ausgleichskasse kann den Bezug der geschuldeten Beiträge der Lehranstalt übertragen, falls diese zustimmt.[^10-7]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^10-2]: Betrag gemäss Art. 2 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^10-3]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^10-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-6]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^10-2]: Betrag gemäss Art. 2 Abs. 2 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^10-3]: Betrag gemäss Art. 2 Abs. 2 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^10-4]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^10-5]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-6]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-7]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### IV. Herabsetzung und Erlass von Beiträgen
 
@@ -506,7 +507,8 @@ Mit fälligen Leistungen können verrechnet werden:
 
 - a. die Forderungen aufgrund dieses Gesetzes, des IVG[^20-4], des Erwerbsersatzgesetzes vom 25. September 1952[^20-5] und des Bundesgesetzes vom 20. Juni 1952[^20-6] über die Familienzulagen in der Landwirtschaft;
 - b. Rückforderungen von Ergänzungsleistungen zur Alters‑, Hinterlassenen- und Invalidenversicherung;
-- c. die Rückforderung von Renten und Taggeldern der obligatorischen Unfallversicherung, der Militärversicherung, der Arbeitslosenversicherung und der Krankenversicherung.[^20-7]
+- b<sup>bis</sup>.[^20-7] Rückforderungen von Überbrückungsleistungen für ältere Arbeitslose;
+- c. die Rückforderung von Renten und Taggeldern der obligatorischen Unfallversicherung, der Militärversicherung, der Arbeitslosenversicherung und der Krankenversicherung.[^20-8]
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1964 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)).
 [^20-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -514,7 +516,8 @@ Mit fälligen Leistungen können verrechnet werden:
 [^20-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^20-5]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^20-6]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
-[^20-7]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^20-7]: Eingefügt durch Ziff. II des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^20-8]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### II. Der Anspruch auf Altersrente
 
@@ -972,10 +975,10 @@ Es gelten folgende Bestimmungen:
 
 <sup>4</sup> Der Mindestbetrag wird gewährt, wenn das massgebende durchschnittliche Jahreseinkommen höchstens zwölfmal grösser ist, und der Höchstbetrag, wenn das massgebende durchschnittliche Jahreseinkommen wenigstens zweiundsiebzigmal grösser ist als der Mindestbetrag.
 
-<sup>5</sup> Der Mindestbetrag der vollen Altersrente von 1260 Franken entspricht dem Rentenindex von 229,1 Punkten.[^34-2]
+<sup>5</sup> Der Mindestbetrag der vollen Altersrente von 1280 Franken entspricht dem Rentenindex von 232,7 Punkten.[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^34-2]: Betrag und Indexstand gemäss Art. 3 und 4 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^34-2]: Betrag und Indexstand gemäss Art. 3 und 4 der V vom 2. Okt. 2026 vom über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 34<sup>bis</sup>
 

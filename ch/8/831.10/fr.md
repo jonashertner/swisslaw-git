@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et surviv
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20260101/fr"
 
 (LAVS)[^t-1]
 
-du 20 décembre 1946 (État le 1<sup>er</sup> janvier 2026)
+du 20 décembre 1946 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977 (9<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -122,17 +122,17 @@ Peuvent adhérer à l’assurance:
 
 <sup>3</sup> Les assurés sont exclus de l’assurance facultative s’ils ne fournissent pas les renseignements requis ou s’ils ne paient pas leurs cotisations dans le délai imparti.
 
-<sup>4</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 8.7 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimale de 870 francs par an[^2-3].[^2-4]
+<sup>4</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 8.7 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimale de 888 francs par an[^2-3].[^2-4]
 
-<sup>5</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation selon leur condition sociale. La cotisation minimale est de 870 francs par an[^2-5]. La cotisation maximale correspond à 25 fois la cotisation minimale.[^2-6]
+<sup>5</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation selon leur condition sociale. La cotisation minimale est de 888 francs par an[^2-5]. La cotisation maximale correspond à 25 fois la cotisation minimale.[^2-6]
 
 <sup>6</sup> Le Conseil fédéral édicte les dispositions complémentaires sur l’assurance facultative; il fixe notamment le délai et les modalités d’adhésion, de résiliation et d’exclusion. Il règle la fixation et la perception des cotisations ainsi que l’octroi des prestations. Il peut adapter les dispositions concernant la durée de l’obligation de verser les cotisations, le mode de calcul et la prise en compte des cotisations aux particularités de l’assurance facultative.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4601](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^2-2]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^2-3]: Montant adapté selon l’art. 2 al. 2 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^2-3]: Montant adapté selon l’art. 2 al. 2 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^2-4]: Nouvelle teneur selon le ch. I 5 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^2-5]: Montant adapté selon l’art. 2 al. 2 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^2-5]: Montant adapté selon l’art. 2 al. 2 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^2-6]: Nouvelle teneur selon le ch. I 5 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Chapitre II Les cotisations
@@ -245,15 +245,15 @@ Le Conseil fédéral peut fixer des salaires globaux pour les membres de la fami
 
 **Cotisations perçues sur le revenu provenant d’une activité indépendante 1. Principe**[^8-1]
 
-<sup>1</sup> Une cotisation de 8.1 % est perçue sur le revenu provenant d’une activité indépendante. Pour calculer la cotisation, le revenu est arrondi au multiple de 100 francs immédiatement inférieur. S’il est inférieur à 60 500 francs[^8-2] mais s’élève au moins à 10 100 francs[^8-3] par an, le taux de cotisation est ramené jusqu’à 4.35 % selon un barème dégressif établi par le Conseil fédéral.
+<sup>1</sup> Une cotisation de 8.1 % est perçue sur le revenu provenant d’une activité indépendante. Pour calculer la cotisation, le revenu est arrondi au multiple de 100 francs immédiatement inférieur. S’il est inférieur à 61 500 francs[^8-2] mais s’élève au moins à 10 300 francs[^8-3] par an, le taux de cotisation est ramené jusqu’à 4.35 % selon un barème dégressif établi par le Conseil fédéral.
 
-<sup>2</sup> Si le revenu annuel de l’activité indépendante est égal ou inférieur à 10 000 francs[^8-4], l’assuré paie la cotisation minimale de 435 francs par an[^8-5], sauf si ce montant a déjà été perçu sur son salaire déterminant. Dans ce cas, l’assuré peut demander que la cotisation due sur le revenu de l’activité indépendante soit perçue au taux le plus bas du barème dégressif.
+<sup>2</sup> Si le revenu annuel de l’activité indépendante est égal ou inférieur à 10 200 francs[^8-4], l’assuré paie la cotisation minimale de 444 francs par an[^8-5], sauf si ce montant a déjà été perçu sur son salaire déterminant. Dans ce cas, l’assuré peut demander que la cotisation due sur le revenu de l’activité indépendante soit perçue au taux le plus bas du barème dégressif.
 
 [^8-1]: Nouvelle teneur selon le ch. I 5 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^8-2]: Montant adapté selon l’art. 1 let. a de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-3]: Montant adapté selon l’art. 1 let. b de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-4]: Montant adapté selon l’art. 2 al. 1 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-5]: Montant adapté selon l’art. 2 al. 2 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-2]: Montant adapté selon l’art. 1 let. a de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-3]: Montant adapté selon l’art. 1 let. b de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-4]: Montant adapté selon l’art. 2 al. 1 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-5]: Montant adapté selon l’art. 2 al. 2 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 9
 
@@ -299,7 +299,7 @@ Le Conseil fédéral peut adapter à l’indice des rentes prévu à l’art. 33
 
 [^10-1]
 
-<sup>1</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation selon leur condition sociale. La cotisation minimale est de 435 francs[^10-2], la cotisation maximale correspond à 50 fois la cotisation minimale. Les assurés qui exercent une activité lucrative et qui paient moins de 435 francs pendant une année civile, y compris la part d’un éventuel employeur, sont considérés comme des personnes sans activité lucrative. Le Conseil fédéral peut majorer ce montant selon la condition sociale de l’assuré pour les personnes qui n’exercent pas durablement une activité lucrative à plein temps.[^10-3]
+<sup>1</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation selon leur condition sociale. La cotisation minimale est de 444 francs[^10-2], la cotisation maximale correspond à 50 fois la cotisation minimale. Les assurés qui exercent une activité lucrative et qui paient moins de 444 francs[^10-3] pendant une année civile, y compris la part d’un éventuel employeur, sont considérés comme des personnes sans activité lucrative. Le Conseil fédéral peut majorer ce montant selon la condition sociale de l’assuré pour les personnes qui n’exercent pas durablement une activité lucrative à plein temps.[^10-4]
 
 <sup>2</sup>
 
@@ -307,20 +307,21 @@ Les personnes suivantes paient la cotisation minimale:
 
 - a. les étudiants sans activité lucrative, jusqu’au 31 décembre de l’année où ils atteignent l’âge de 25 ans;
 - b. les personnes sans activité lucrative qui touchent un revenu minimum ou d’autres prestations de l’aide sociale publique;
-- c. les personnes sans activité lucrative qui sont assistées financièrement par des tiers.[^10-4]
+- c. les personnes sans activité lucrative qui sont assistées financièrement par des tiers.[^10-5]
 
-<sup>2bis</sup> Le Conseil fédéral peut prévoir que d’autres assurés sans activité lucrative paient la cotisation minimale si une cotisation plus élevée ne peut raisonnablement être exigée d’eux.[^10-5]
+<sup>2bis</sup> Le Conseil fédéral peut prévoir que d’autres assurés sans activité lucrative paient la cotisation minimale si une cotisation plus élevée ne peut raisonnablement être exigée d’eux.[^10-6]
 
 <sup>3</sup> Le Conseil fédéral édicte des prescriptions plus détaillées sur le cercle des personnes considérées comme n’exerçant pas d’activité lucrative ainsi que sur le calcul des cotisations. Il peut prévoir qu’à la demande de l’assuré, les cotisations sur le revenu du travail sont imputées sur les cotisations dont il est redevable au titre de personne sans activité lucrative.
 
-<sup>4</sup> Le Conseil fédéral peut obliger les établissements d’enseignement à communiquer à la caisse de compensation compétente le nom des étudiants qui pourraient être soumis à l’obligation de verser des cotisations en tant que personnes sans activité lucrative. La caisse de compensation peut transmettre à l’établissement, si celui-ci y consent, la compétence de prélever les cotisations dues.[^10-6]
+<sup>4</sup> Le Conseil fédéral peut obliger les établissements d’enseignement à communiquer à la caisse de compensation compétente le nom des étudiants qui pourraient être soumis à l’obligation de verser des cotisations en tant que personnes sans activité lucrative. La caisse de compensation peut transmettre à l’établissement, si celui-ci y consent, la compétence de prélever les cotisations dues.[^10-7]
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 24 juin 1977 (9<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^10-2]: Montant adapté selon l’art. 2 al. 2 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^10-3]: Nouvelle teneur selon le ch. I 5 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^10-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-5]: Introduit par le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-6]: Introduit par le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^10-2]: Montant adapté selon l’art. 2 al. 2 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^10-3]: Montant adapté selon l’art. 2 al. 2 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^10-4]: Nouvelle teneur selon le ch. I 5 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^10-5]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-6]: Introduit par le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-7]: Introduit par le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### IV. La réduction et la remise des cotisations
 
@@ -503,8 +504,9 @@ Le Conseil fédéral édicte des dispositions sur:[^14-6]
 Peuvent être compensées avec des prestations échues:
 
 - a. les créances découlant de la présente loi, de la LAI[^20-4], de la loi fédérale du 25 septembre 1952 sur le régime des allocations pour perte de gain en faveur des personnes servant dans l’armée ou dans la protection civile[^20-5], et de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^20-6];
-- b. les créances en restitution des prestations complémentaires à l’assurance-vieillesse, survivants et invalidité ainsi que
-- c. les créances en restitution des rentes et indemnités journalières de l’assurance-accidents obligatoire, de l’assurance militaire, de l’assurance-chômage et de l’assurance-maladie.[^20-7]
+- b. les créances en restitution des prestations complémentaires à l’assurance-vieillesse, survivants et invalidité;
+- b<sup>bis</sup>.[^20-7] les créances en restitution des prestations transitoires pour les chômeurs âgés, ainsi que
+- c. les créances en restitution des rentes et indemnités journalières de l’assurance-accidents obligatoire, de l’assurance militaire, de l’assurance-chômage et de l’assurance-maladie.[^20-8]
 
 [^20-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1963, en vigueur depuis le 1<sup>er</sup> janv. 1964 ([RO 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [FF 1963 II 497](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)).
 [^20-2]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -512,7 +514,8 @@ Peuvent être compensées avec des prestations échues:
 [^20-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^20-5]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)**.** Actuellement «LF sur les allocations pour perte de gain».
 [^20-6]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
-[^20-7]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^20-7]: Introduit par le ch. II de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^20-8]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### II. Le droit à la rente de vieillesse
 
@@ -965,11 +968,11 @@ Les dispositions suivantes sont applicables:
 
 <sup>4</sup> La rente minimale est versée lorsque le revenu annuel moyen déterminant ne dépasse pas douze fois son montant et la rente maximale lorsque le revenu annuel moyen déterminant correspond au moins à septante-deux fois le montant de la rente minimale.
 
-<sup>5</sup> Le montant minimal de la rente de vieillesse complète de 1260 francs correspond à un indice des rentes de 229,1 points.[^34-3]
+<sup>5</sup> Le montant minimal de la rente de vieillesse complète de 1280 francs correspond à un indice des rentes de 232,7 points.[^34-3]
 
 [^34-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994 (10<sup>e</sup> révision AVS), en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^34-2]: Nouvelle expression selon le ch. I de la LF du 17 juin 2011 (Amélioration de la mise en œuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)). Il a été tenu compte de cette mod. dans tout le texte.
-[^34-3]: Montant et niveau de l’indice adaptés selon les art. 3 et 4 de l’O du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^34-3]: Montant et niveau de l’indice adaptés selon les art. 3 et 4 de l’O du 2 oct. 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 34<sup>bis</sup>
 

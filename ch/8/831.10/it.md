@@ -4,11 +4,11 @@ title: "Legge federale del 20 dicembre 1946 sull'assicurazione per la vecchiaia 
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20260101/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20270101/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20260101/it"
 
 (LAVS)[^t-2][^t-1]
 
-del 20 dicembre 1946 (Stato 1° gennaio 2026)
+del 20 dicembre 1946 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^t-2]: Abbreviazione introdotta dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
@@ -124,17 +124,17 @@ Possono aderire all’assicurazione:
 
 <sup>3</sup> Gli assicurati sono esclusi dall’assicurazione facoltativa se non forniscono le informazioni richieste o non pagano i contributi nel termine prescritto.
 
-<sup>4</sup> I contributi degli assicurati che esercitano un’attività lucrativa sono pari all’8,7 per cento del reddito determinante. Il contributo minimo è comunque di 870 franchi[^2-3] all’anno.[^2-4]
+<sup>4</sup> I contributi degli assicurati che esercitano un’attività lucrativa sono pari all’8,7 per cento del reddito determinante. Il contributo minimo è comunque di 888 franchi[^2-3] all’anno.[^2-4]
 
-<sup>5</sup> Gli assicurati senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 870 franchi[^2-5] all’anno. Il contributo massimo corrisponde a 25 volte il contributo minimo.[^2-6]
+<sup>5</sup> Gli assicurati senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 888 franchi[^2-5] all’anno. Il contributo massimo corrisponde a 25 volte il contributo minimo.[^2-6]
 
 <sup>6</sup> Il Consiglio federale emana disposizioni completive sull’assicurazione facoltativa, disciplina segnatamente il termine e le modalità di adesione, di recesso e di esclusione. Disciplina inoltre la determinazione e la riscossione dei contributi, nonché la concessione delle prestazioni. Può adeguare alle particolarità dell’assicurazione facoltativa la durata dell’obbligo di pagare i contributi, come pure il calcolo e il computo dei contributi.
 
 [^2-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^2-2]: Nuovo testo giusta la cifra I n. 3 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^2-3]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^2-3]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^2-4]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^2-5]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^2-5]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^2-6]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Capo secondo: Contributi
@@ -160,7 +160,7 @@ Possono aderire all’assicurazione:
 Non sono tenuti a pagare i contributi:
 
 - a.[^3-3] gli adolescenti che esercitano un’attività lucrativa, fino al 31 dicembre dell’anno in cui compiono i 17 anni;
-- [tab] b. e c.[^3-4] …
+- [tab] b.–c.[^3-4] …
 - d.[^3-5] i membri della famiglia del capo azienda che lavorano con lui, fino al 31 dicembre dell’anno in cui compiono i 20 anni, se non ricevono un salario in contanti;
 - e.[^3-6] …
 
@@ -251,15 +251,15 @@ Il Consiglio federale può stabilire salari complessivi per i familiari che lavo
 
 **Contributi sul reddito di un’attività lucrativa indipendente 1. Regola**[^8-1]
 
-<sup>1</sup> Dal reddito di un’attività lucrativa indipendente è prelevato un contributo dell’8,1 per cento. Per il calcolo del contributo il reddito è arrotondato al multiplo di 100 franchi immediatamente inferiore. Se il reddito è inferiore a 60 500 franchi[^8-2], ma è almeno di 10 100 franchi[^8-3] l’anno, il tasso del contributo è ridotto fino al 4,35 per cento secondo una tavola scalare stabilita dal Consiglio federale.
+<sup>1</sup> Dal reddito di un’attività lucrativa indipendente è prelevato un contributo dell’8,1 per cento. Per il calcolo del contributo il reddito è arrotondato al multiplo di 100 franchi immediatamente inferiore. Se il reddito è inferiore a 61 500 franchi[^8-2], ma è almeno di 10 300 franchi[^8-3] l’anno, il tasso del contributo è ridotto fino al 4,35 per cento secondo una tavola scalare stabilita dal Consiglio federale.
 
-<sup>2</sup> Se il reddito annuo di un’attività lucrativa indipendente è uguale o inferiore a 10 000 franchi[^8-4], l’assicurato deve pagare il contributo minimo di 435 franchi[^8-5] l’anno, salvo che tale importo sia già stato pagato sul suo salario determinante. In questo caso l’assicurato può chiedere che il contributo sul reddito dell’attività lucrativa indipendente sia riscosso al tasso più basso della tavola scalare.
+<sup>2</sup> Se il reddito annuo di un’attività lucrativa indipendente è uguale o inferiore a 10 200 franchi[^8-4], l’assicurato deve pagare il contributo minimo di 444 franchi[^8-5] l’anno, salvo che tale importo sia già stato pagato sul suo salario determinante. In questo caso l’assicurato può chiedere che il contributo sul reddito dell’attività lucrativa indipendente sia riscosso al tasso più basso della tavola scalare.
 
 [^8-1]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^8-2]: Nuovo importo giusta l’art. 1 lett. a dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-3]: Nuovo importo giusta l’art. 1 lett. b dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-4]: Nuovo importo giusta l’art. 2 cpv. 1 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^8-5]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^8-2]: Nuovo importo giusta l’art. 1 lett. a dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-3]: Nuovo importo giusta l’art. 1 lett. b dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-4]: Nuovo importo giusta l’art. 2 cpv. 1 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^8-5]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 9
 
@@ -304,7 +304,7 @@ Il Consiglio federale può adeguare all’indice delle rendite secondo l’artic
 
 [^10-1]
 
-<sup>1</sup> Gli assicurati che non esercitano un’attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 435 franchi[^10-2]; il contributo massimo corrisponde a 50 volte il contributo minimo. Gli assicurati che esercitano un’attività lucrativa e che, durante un anno civile, pagano contributi inferiori 435 franchi, incluso il contributo di un eventuale datore di lavoro, sono considerati persone senza attività lucrativa. Il Consiglio federale può aumentare l’importo limite in funzione delle condizioni sociali dell’assicurato per le persone che non esercitano durevolmente un’attività lucrativa a tempo pieno.[^10-3]
+<sup>1</sup> Gli assicurati che non esercitano un’attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 444 franchi[^10-2]; il contributo massimo corrisponde a 50 volte il contributo minimo. Gli assicurati che esercitano un’attività lucrativa e che, durante un anno civile, pagano contributi inferiori 444 franchi[^10-3], incluso il contributo di un eventuale datore di lavoro, sono considerati persone senza attività lucrativa. Il Consiglio federale può aumentare l’importo limite in funzione delle condizioni sociali dell’assicurato per le persone che non esercitano durevolmente un’attività lucrativa a tempo pieno.[^10-4]
 
 <sup>2</sup>
 
@@ -312,20 +312,21 @@ Pagano il contributo minimo:
 
 - a. gli studenti che non esercitano un’attività lucrativa, fino al 31 dicembre dell’anno in cui compiono i 25 anni;
 - b. le persone senza attività lucrativa che ricevono un reddito minimo o altre prestazioni dell’aiuto sociale pubblico;
-- c. le persone senza attività lucrativa assistite finanziariamente da terzi.[^10-4]
+- c. le persone senza attività lucrativa assistite finanziariamente da terzi.[^10-5]
 
-<sup>2bis</sup> Il Consiglio federale può prevedere che altri assicurati senza attività lucrativa paghino il contributo minimo, se non si può ragionevolmente esigere ch’essi paghino contributi più elevati.[^10-5]
+<sup>2bis</sup> Il Consiglio federale può prevedere che altri assicurati senza attività lucrativa paghino il contributo minimo, se non si può ragionevolmente esigere ch’essi paghino contributi più elevati.[^10-6]
 
 <sup>3</sup> Il Consiglio federale emana prescrizioni particolareggiate sulla cerchia delle persone non considerate esercitanti un’attività lucrativa e sul calcolo dei contributi. Esso può prevedere che, a richiesta degli assicurati, i contributi pagati sul reddito di un’attività lucrativa siano imputati sui contributi da questi dovuti a titolo di persone non esercitanti un’attività lucrativa.
 
-<sup>4</sup> Il Consiglio federale può obbligare gli istituti scolastici a segnalare alla cassa di compensazione competente gli studenti potenzialmente obbligati a versare contributi a titolo di persone non esercitanti un’attività lucrativa. Se vi acconsente, la scuola può essere incaricata di prelevare i contributi.[^10-6]
+<sup>4</sup> Il Consiglio federale può obbligare gli istituti scolastici a segnalare alla cassa di compensazione competente gli studenti potenzialmente obbligati a versare contributi a titolo di persone non esercitanti un’attività lucrativa. Se vi acconsente, la scuola può essere incaricata di prelevare i contributi.[^10-7]
 
 [^10-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^10-2]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^10-3]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^10-4]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-5]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-6]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^10-2]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^10-3]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^10-4]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^10-5]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-6]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-7]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### IV. Riduzione e condono dei contributi
 
@@ -395,7 +396,7 @@ Il Consiglio federale emana prescrizioni su:
 - b. la procedura di diffida e di tassazione d’ufficio;
 - c.[^14-6] il pagamento di contributi arretrati;
 - d.[^14-7] il condono del pagamento di contributi arretrati, anche in deroga all’articolo 24 LPGA;
-- e.[^14-8] … . [^14-9]
+- e.[^14-8] … .[^14-9]
 
 <sup>5</sup> Il Consiglio federale può stabilire che non si debbano versare contributi su un salario determinante annuo che non superi l’importo della rendita mensile massima di vecchiaia; può escludere questa possibilità per determinate attività. Il lavoratore può tuttavia chiedere in ogni caso che il datore di lavoro versi i contributi.[^14-10]
 
@@ -502,19 +503,22 @@ Il Consiglio federale emana prescrizioni su:
 
 <sup>2</sup>
 
-Possono essere compensati con prestazioni scadute:
+Possono essere compensati con prestazioni esigibili:[^20-4]
 
-- a. i crediti derivanti dalla presente legge, dalla LAI[^20-4], dalla legge federale del 25 settembre 1952[^20-5] sulle indennità di perdita di guadagno in caso di servizio militare o di protezione civile e dalla legge federale del 20 giugno 1952[^20-6] sugli assegni familiari nell’agricoltura;
+- a. i crediti derivanti dalla presente legge, dalla LAI[^20-5], dalla legge federale del 25 settembre 1952[^20-6] sulle indennità di perdita di guadagno in caso di servizio militare o di protezione civile e dalla legge federale del 20 giugno 1952[^20-7] sugli assegni familiari nell’agricoltura;
 - b. i crediti per la restituzione di prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità;
-- c. i crediti per la restituzione di rendite e indennità giornaliere dell’assicurazione obbligatoria contro gli infortuni, dell’assicurazione militare, dell’assicurazione contro la disoccupazione e dell’assicurazione contro le malattie.[^20-7]
+- b<sup>bis</sup>.[^20-8] i crediti per la restituzione di prestazioni transitorie per i disoccupati anziani;
+- c. i crediti per la restituzione di rendite e indennità giornaliere dell’assicurazione obbligatoria contro gli infortuni, dell’assicurazione militare, dell’assicurazione contro la disoccupazione e dell’assicurazione contro le malattie.[^20-9]
 
 [^20-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
 [^20-2]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^20-3]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^20-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^20-5]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Ora: L del 25 set. 1952 sulle indennità di perdita di guadagno.
-[^20-6]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
-[^20-7]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^20-4]: Nuovo testo giusta la cifra II della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^20-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^20-6]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Ora: L del 25 set. 1952 sulle indennità di perdita di guadagno.
+[^20-7]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^20-8]: Introdotta dalla cifra II della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
+[^20-9]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### II. Diritto alla rendita di vecchiaia
 
@@ -653,7 +657,7 @@ Se una persona soddisfa contemporaneamente le condizioni per la concessione di u
 
 [^25-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
-#### Art. 26 a 28
+#### Art. 26–28
 
 [^2628-1]
 
@@ -854,7 +858,7 @@ Il Consiglio federale emana prescrizioni per il calcolo delle rendite.[^30bis-3]
 [^30bis-1]: Introdotto dalla cifra I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^30bis-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^30bis-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^30bis-4]: Nuovo testo del per. giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^30bis-4]: Nuovo testo del per. giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS),in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^30bis-5]: Nuovo testo del per. giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 30<sup>ter</sup>
@@ -977,10 +981,10 @@ Sono applicabili le disposizioni seguenti:
 
 <sup>4</sup> L’importo minimo è pagato fino a un reddito annuo medio determinante uguale a dodici volte il suo ammontare e l’importo massimo a partire da un reddito annuo medio determinante uguale o superiore a settantadue volte l’importo minimo.
 
-<sup>5</sup> L’importo minimo della rendita completa di vecchiaia di 1260 franchi corrisponde a un indice delle rendite di 229,1 punti.[^34-2]
+<sup>5</sup> L’importo minimo della rendita completa di vecchiaia di 1280 franchi corrisponde a un indice delle rendite di 232,7 punti.[^34-2]
 
 [^34-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^34-2]: Nuovi importi giusta gli art. 3 e 4 dell’O del 18 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^34-2]: Nuovi importi giusta gli art. 3 e 4 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 
 #### Art. 34<sup>bis</sup>
 
@@ -1237,7 +1241,7 @@ Le donne della generazione di transizione a partire dai 62 anni compiuti possono
 
 [^part1-chap3-lvlD-1]
 
-[^part1-chap3-lvlD-1]: Introdotto dalla cifra I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^part1-chap3-lvlD-1]: Introdotto dalla cifra I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 43<sup>bis</sup>
 
@@ -1275,7 +1279,7 @@ Le donne della generazione di transizione a partire dai 62 anni compiuti possono
 
 Chi, sino alla fine del mese in cui raggiunge l’età di riferimento o sino al momento in cui anticipa la riscossione della totalità della rendita, ha beneficiato di un contributo per l’assistenza dell’assicurazione per l’invalidità continua a ricevere un contributo d’importo pari al massimo a quello ricevuto fino ad allora. Al diritto al contributo per l’assistenza e alla sua entità si applicano per analogia gli articoli 42<sup>quater</sup>–42<sup>octies</sup> LAI[^43ter-2].
 
-[^43ter-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43ter-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^43ter-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 43<sup>quater</sup>
@@ -1355,7 +1359,7 @@ Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario del
 
 [^48-1]: Abrogato dall’all. n. 2 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, con effetto dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676); [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
-#### Art. 48<sup>bis</sup> a 48<sup>sexies</sup>
+#### Art. 48<sup>bis</sup>–48<sup>sexies</sup>
 
 [^48bis48sexies-1]
 
@@ -1605,7 +1609,7 @@ Il numero AVS è inoltre assegnato a una persona se risulta necessario:[^50c-3]
 [^50c-3]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^50c-4]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
-#### Art. 50d a 50g
+#### Art. 50d–50g
 
 [^50d50g-1]
 
@@ -1864,7 +1868,7 @@ Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 
 <sup>3</sup> Il Consiglio federale può affidare alle casse di compensazione altri compiti nell’ambito della presente legge.[^63-6]Esso disciplina la collaborazione tra le casse di compensazione e l’Ufficio centrale di compensazione.[^63-7]
 
-<sup>4</sup> … [^63-8]
+<sup>4</sup> …[^63-8]
 
 <sup>5</sup> …[^63-9]
 
@@ -1876,7 +1880,7 @@ Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 [^63-6]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963 in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
 [^63-7]: Nuovo testo del secondo per. giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^63-8]: Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^63-9]: Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-9]: Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391);[FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 63a
 
@@ -2208,7 +2212,7 @@ L’autorità di vigilanza può:
 
 ### Capo quinto: …
 
-#### Art. 74 a 83
+#### Art. 74–83
 
 [^7483-1]
 
@@ -2582,7 +2586,7 @@ L’amministrazione del Fondo di compensazione AVS è retta dalla legge del 16 g
 
 ### Capo quarto: …
 
-#### Art. 113 a 153
+#### Art. 113–153
 
 [^113153-1]
 
@@ -2734,7 +2738,7 @@ Il Consiglio federale può prevedere emolumenti per i servizi che l’Ufficio ce
 
 [^part5-1]
 
-[^part5-1]: Originaria parte terza, rispettiva,emte quarta.
+[^part5-1]: Originaria parte terza, rispettivamente quarta.
 
 #### Art. 154
 
@@ -2776,7 +2780,7 @@ Il Consiglio federale può prevedere emolumenti per i servizi che l’Ufficio ce
 
 <sup>3</sup> Allo stesso momento, il più presto, il Consiglio federale può anche adeguare corrispondentemente i limiti di reddito stabiliti negli articoli 42 capoverso 1 della LAVS e 2 capoverso 1 della legge federale del 19 marzo 1965 sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC), nonché la tavola scalare giusta gli articoli 6 e 8 della LAVS.
 
-### b. a d. …
+### b.–d. …
 
 [^u2-lvlu2-1]
 
