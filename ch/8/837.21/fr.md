@@ -4,11 +4,11 @@ title: Ordonnance du 11 juin 2021 sur les prestations transitoires pour les chô
 short: OPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/fr"
 
 (OPtra)
 
-du 11 juin 2021 (État le 1<sup>er</sup> janvier 2025)
+du 11 juin 2021 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 ## Chapitre 1 Droit aux prestations transitoires
 
@@ -45,7 +45,7 @@ arrête:
 <sup>3</sup> Si les prestations transitoires sont versées dans un État membre de l’Union européenne, en Islande, en Norvège ou au Liechtenstein, le droit à des prestations complémentaires à l’âge de référence n’est pas examiné.[^1-4]
 
 [^1-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^1-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^1-4]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -65,7 +65,7 @@ Si une personne dépose une demande de prestations transitoires, la fortune dét
 
 Lorsqu’un immeuble qui n’est pas considéré comme élément de la fortune nette conformément à l’art. 9*a*, al. 2, de la loi du 6 octobre 2006 sur les prestations complémentaires[^3-1] est grevé par des dettes hypothécaires, celles-ci ne sont pas prises en compte lors du calcul de la fortune nette déterminante pour les seuils visés à l’art. 5, al. 1, let. c, LPtra.
 
-[^3-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 4
 
@@ -124,6 +124,25 @@ L’adaptation en fonction du pouvoir d’achat du pays de résidence prévue à
 
 ### Section 2 Dépenses reconnues
 
+#### Art. 8a
+
+**Partage obligatoire du loyer**[^8a-1]
+
+### (Art. 9, al. 1, let. b, LPtra)
+
+<sup>1</sup> Lorsque des appartements ou des maisons familiales sont aussi occupés par des personnes non comprises dans le calcul de la prestation transitoire annuelle, le loyer doit être réparti entre toutes les personnes. Les parts de loyer des personnes non comprises dans le calcul ne sont pas prises en compte lors du calcul de la prestation transitoire annuelle.
+
+<sup>2</sup> Le montant du loyer est réparti à parts égales entre toutes les personnes.
+
+<sup>3</sup>
+
+Il est possible de déroger exceptionnellement à la répartition à parts égales:
+
+- a. s’il existe entre le bénéficiaire ou une personne comprise dans le calcul de la prestation transitoire et les autres personnes vivant dans l’appartement ou la maison familiale un contrat de location ou de sous-location valable et conforme aux conditions locales, ou
+- b. si les personnes vivant dans l’appartement ou la maison familiale occupent chacune une part différente de sa superficie.
+
+[^8a-1]: Introduit par le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
+
 #### Art. 9
 
 **Montant maximal reconnu au titre du loyer pour les personnes vivant en communauté d’habitation**
@@ -166,7 +185,7 @@ L’adaptation en fonction du pouvoir d’achat du pays de résidence prévue à
 
 Les personnes qui vivent en location dans un appartement qu’elles sont appelées à chauffer elles-mêmes lorsqu’elles n’ont aucun frais de chauffage à payer à leur bailleur au sens de l’art. 257*b*, al. 1, du code des obligations (CO)[^12-1] bénéficient, en sus des frais accessoires usuels, d’un forfait pour frais de chauffage égal à la moitié du montant fixé à l’art. 11, al. 3.
 
-[^12-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -185,7 +204,7 @@ Est considérée comme prime effective la prime qui a été approuvée par l’a
 - c. la forme d’assurance choisie le cas échéant;
 - d. la couverture des accidents choisie.
 
-[^13-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^13-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 14
 
@@ -248,11 +267,15 @@ Sont pris en compte pour le calcul des prestations transitoires:
 
 #### Art. 17
 
-**Détermination du revenu provenant de l’exercice d’une activité lucrative**
+**Détermination du revenu provenant de l’exercice d’une activité lucrative**[^17-1]
 
 ### (Art. 10, al. 1, let. a, LPtra)
 
-Le revenu annuel provenant de l’exercice d’une activité lucrative est déterminé en déduisant du revenu brut les frais d’obtention du revenu dûment établis ainsi que les cotisations dues aux assurances sociales obligatoires et prélevées sur le revenu.
+<sup>1</sup> Le revenu annuel provenant de l’exercice d’une activité lucrative est déterminé en déduisant du revenu brut les frais d’obtention du revenu dûment établis ainsi que les cotisations dues aux assurances sociales obligatoires et prélevées sur le revenu.
+
+<sup>2</sup> Si la législation sur l’impôt cantonal direct prévoit des déductions forfaitaires pour les frais professionnels, les cantons peuvent se fonder de manière uniforme sur ces déductions forfaitaires pour le calcul de la prestation transitoire annuelle, à condition que le bénéficiaire ne justifie pas de frais plus élevés.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
 
 #### Art. 18
 
@@ -262,8 +285,8 @@ Le revenu annuel provenant de l’exercice d’une activité lucrative est déte
 
 Le revenu en nature est évalué selon les prescriptions valables pour l’assurance-vieillesse et survivants. Pour les enfants qui ne sont pas soumis à l’obligation de payer des cotisations prévue par la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^18-1], la valeur de la nourriture et du logement est égale à la moitié des taux prévus à l’art. 11 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^18-2].
 
-[^18-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^18-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^18-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^18-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 19
 
@@ -316,7 +339,7 @@ De la valeur d’un immeuble qui sert d’habitation au bénéficiaire de presta
 
 <sup>3</sup> Dans les cantons dans lesquels, au sens de l’art. 17*a*, al. 6, de l’ordonnance du 15 janvier 1971 sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité[^22-1], l’application de la valeur de répartition est prévue pour évaluer la fortune, cette valeur s’applique également au calcul des prestations transitoires.
 
-[^22-1]: [RS 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
+[^22-1]: [RS 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
 
 #### Art. 23
 
@@ -503,8 +526,8 @@ Les frais d’acquisition ou de location de moyens auxiliaires sont remboursés 
 
 <sup>2</sup> Si un bénéficiaire de prestations transitoires opte pour une assurance avec une franchise à option au sens de l’art. 93 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^36-2], la participation aux coûts est remboursée à hauteur de 1000 francs par année au plus.
 
-[^36-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^36-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^36-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^36-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 ## Chapitre 4 Procédure et contentieux
 
@@ -522,7 +545,7 @@ Les frais d’acquisition ou de location de moyens auxiliaires sont remboursés 
 
 <sup>3</sup> Si la personne qui fait valoir un droit aux prestations transitoires est domiciliée à l’étranger, l’organe d’exécution compétent est celui du dernier lieu de domicile en Suisse. Pour les personnes qui n’ont jamais été domiciliées en Suisse, l’organe d’exécution compétent est celui du siège de leur dernier employeur.
 
-[^37-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^37-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^37-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 38
@@ -585,7 +608,7 @@ La prestation transitoire annuelle est relevée, réduite ou supprimée:
 - d. lors de l’examen périodique visé à l’art. 54, si l’on constate un changement des dépenses reconnues, des revenus déterminants et de la fortune;
 - e. en cas de transfert du domicile dans un État membre de l’Union européenne, en Islande, en Norvège ou au Liechtenstein.
 
-<sup>2</sup> On peut renoncer à adapter la prestation lorsque la modification au sens de l’al. 1, let. c et d, est inférieure à 120 francs par an.
+<sup>2</sup> On peut renoncer à adapter la prestation lorsque la modification au sens de l’al. 1, let. c et d, est inférieure à 300 francs par an. En cas de diminution de l’excédent des dépenses, lorsque la modification est inférieure à 600 francs par an, l’adaptation de la prestation peut également ne s’appliquer que pour l’avenir.[^44-1]
 
 <sup>3</sup>
 
@@ -612,6 +635,8 @@ La prestation transitoire annuelle doit faire l’objet d’une nouvelle décisi
 
 <sup>5</sup> Si une prestation transitoire annuelle en cours doit être réduite, en raison de la prise en compte d’un revenu hypothétique au sens de l’art. 13, al. 1, LPtra, la réduction ne pourra avoir lieu avant l’écoulement d’un délai de six mois après la notification de la décision afférente.
 
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
+
 #### Art. 45
 
 **Compétence en cas de changement de domicile**
@@ -627,7 +652,7 @@ En cas de changement de domicile du bénéficiaire, les prestations transitoires
 
 L’art. 209<sup>bis</sup> RAVS[^46-1] est applicable par analogie aux litiges concernant la communication de données.
 
-[^46-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^46-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 47
 
@@ -635,7 +660,7 @@ L’art. 209<sup>bis</sup> RAVS[^46-1] est applicable par analogie aux litiges c
 
 L’art. 209<sup>ter</sup> RAVS[^47-1] est applicable par analogie aux frais de communication et de publication de données.
 
-[^47-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^47-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 48
 

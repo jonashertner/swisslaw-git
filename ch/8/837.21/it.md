@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 giugno 2021 sulle prestazioni transitorie per i disocc
 short: OPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/it"
 
 (OPTD)
 
-dell’11 giugno 2021 (Stato 1° gennaio 2025)
+dell’11 giugno 2021 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 ## Capitolo 1: Diritto alle prestazioni transitorie
 
@@ -45,7 +45,7 @@ ordina:
 <sup>3</sup> Se le prestazioni transitorie sono versate in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein o in Norvegia, non si procede ad alcuna verifica del diritto alle prestazioni complementari in previsione dell’età di riferimento.[^1-4]
 
 [^1-1]: Nuovo testo giusta l’all. n. 14 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^1-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-3]: Nuovo testo giusta l’all. n. 14 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^1-4]: Nuovo testo giusta l’all. n. 14 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -65,7 +65,7 @@ Se una persona presenta una domanda per ricevere prestazioni transitorie, la sos
 
 Se un immobile che conformemente all’articolo 9*a* capoverso 2 della legge federale del 6 ottobre 2006[^3-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità non è una componente della sostanza netta è gravato da debiti ipotecari, questi non vengono computati per verificare se la sostanza netta superi la soglia di sostanza di cui all’articolo 5 capoverso 1 lettera c LPTD.
 
-[^3-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 4
 
@@ -122,6 +122,25 @@ Per stabilire di quali figli non va tenuto conto per il calcolo delle prestazion
 
 L’adeguamento al potere d’acquisto dello Stato di domicilio secondo l’articolo 8 LPTD è effettuato in base all’indice del potere d’acquisto dell’Ufficio federale di statistica.
 
+#### Art. 8a
+
+**Ripartizione della pigione**[^8a-1]
+
+### (art. 9 cpv. 1 lett. b LPTD)
+
+<sup>1</sup> Se in un appartamento o in una casa unifamiliare vivono anche persone che non sono incluse nel calcolo della prestazione transitoria annua, la pigione va ripartita tra le singole persone. Le quote della pigione delle persone che non sono incluse nel calcolo non sono considerate nel calcolo della prestazione transitoria annua.
+
+<sup>2</sup> L’ammontare della pigione è ripartito in parti uguali.
+
+<sup>3</sup>
+
+Si può eccezionalmente derogare alla ripartizione in parti uguali, se:
+
+- a. tra il beneficiario o una persona inclusa nel calcolo e le altre persone che vivono nell’appartamento o nella casa unifamiliare sussiste un contratto di affitto o subaffitto valido e conforme alle condizioni locali; o
+- b. le persone che vivono nell’appartamento o nella casa unifamiliare occupano per uso proprio parti dell’abitazione di dimensioni diverse.
+
+[^8a-1]: Introdotto dalla cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
+
 ### Sezione 2: Spese riconosciute
 
 #### Art. 9
@@ -154,9 +173,9 @@ L’adeguamento al potere d’acquisto dello Stato di domicilio secondo l’arti
 
 <sup>2</sup> Il capoverso 1 si applica anche alle persone che beneficiano di un usufrutto o sono titolari di un diritto di abitazione sull’immobile da esse abitato.
 
-<sup>3</sup> L’importo forfettario ammonta a 3480 franchi all’anno.[^11-1]
+<sup>3</sup> L’importo forfettario ammonta a 3480 franchi all’anno.[^10-1]
 
-[^11-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 12
 
@@ -164,9 +183,9 @@ L’adeguamento al potere d’acquisto dello Stato di domicilio secondo l’arti
 
 ### (art. 11 lett. e LPTD)
 
-Oltre alle spese accessorie usuali, alle persone che vivono in locazione in un appartamento da esse stesse riscaldato e non devono pagare al locatore alcuna spesa di riscaldamento ai sensi dell’articolo 257*b* capoverso 1 del Codice delle obbligazioni[^12-1] è concessa, per le spese di riscaldamento, la metà dell’importo forfettario di cui all’articolo 11 capoverso 3.
+Oltre alle spese accessorie usuali, alle persone che vivono in locazione in un appartamento da esse stesse riscaldato e non devono pagare al locatore alcuna spesa di riscaldamento ai sensi dell’articolo 257*b* capoverso 1 del Codice delle obbligazioni[^11-1] è concessa, per le spese di riscaldamento, la metà dell’importo forfettario di cui all’articolo 11 capoverso 3.
 
-[^12-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -178,14 +197,14 @@ Oltre alle spese accessorie usuali, alle persone che vivono in locazione in un a
 
 <sup>2</sup>
 
-Il premio effettivo è il premio che l’autorità di vigilanza di cui all’articolo 16 della legge del 26 settembre 2014[^13-1] sulla vigilanza sull’assicurazione malattie ha approvato per l’assicuratore-malattie, il Cantone e la regione di premi del beneficiario di prestazioni transitorie secondo:
+Il premio effettivo è il premio che l’autorità di vigilanza di cui all’articolo 16 della legge del 26 settembre 2014[^12-1] sulla vigilanza sull’assicurazione malattie ha approvato per l’assicuratore-malattie, il Cantone e la regione di premi del beneficiario di prestazioni transitorie secondo:
 
 - a. il suo gruppo di età;
 - b. la franchigia scelta;
 - c. eventualmente, la forma particolare scelta di assicurazione;
 - d. la copertura contro gli infortuni scelta.
 
-[^13-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 14
 
@@ -193,12 +212,12 @@ Il premio effettivo è il premio che l’autorità di vigilanza di cui all’art
 
 ### (art. 9 cpv. 4 LPTD)
 
-<sup>1</sup> La regione 1 corrisponde alla categoria 111 della tipologia dei Comuni 2020 (25 tipi).[^14-1] Essa comprende i cinque grandi centri di Berna, Zurigo, Basilea, Ginevra e Losanna.
+<sup>1</sup> La regione 1 corrisponde alla categoria 111 della tipologia dei Comuni 2020 (25 tipi).[^13-1] Essa comprende i cinque grandi centri di Berna, Zurigo, Basilea, Ginevra e Losanna.
 
-<sup>2</sup> La ripartizione dei rimanenti Comuni tra le altre due regioni si basa sulla tipologia urbano-rurale 2020.[^14-2] Nella regione 2 rientrano i Comuni delle categorie «urbana» e «intermedia», nella regione 3 quelli della categoria «rurale».
+<sup>2</sup> La ripartizione dei rimanenti Comuni tra le altre due regioni si basa sulla tipologia urbano-rurale 2020.[^13-2] Nella regione 2 rientrano i Comuni delle categorie «urbana» e «intermedia», nella regione 3 quelli della categoria «rurale».
 
-[^14-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
-[^14-2]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 472](https://fedlex.data.admin.ch/eli/oc/2024/472)).
 
 #### Art. 15
 
@@ -248,11 +267,15 @@ Per il calcolo delle prestazioni transitorie sono determinanti:
 
 #### Art. 17
 
-**Calcolo del reddito da attività lucrativa**
+**Calcolo del reddito da attività lucrativa**[^17-1]
 
 ### (art. 10 cpv. 1 lett. a LPTD)
 
-Il reddito annuo di un’attività lucrativa è calcolato deducendo dal reddito lordo le spese debitamente comprovate per il conseguimento del reddito e i contributi in funzione del reddito dovuti alle assicurazioni sociali obbligatorie.
+<sup>1</sup> Il reddito annuo di un’attività lucrativa è calcolato deducendo dal reddito lordo le spese debitamente comprovate per il conseguimento del reddito e i contributi in funzione del reddito dovuti alle assicurazioni sociali obbligatorie.
+
+<sup>2</sup> Se la legislazione sull’imposta cantonale diretta prevede deduzioni forfettarie per le spese professionali, per il calcolo della prestazione transitoria annua i Cantoni possono basarsi uniformemente su queste deduzioni, salvo se il beneficiario dimostra di aver sostenuto spese più elevate.
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
 
 #### Art. 18
 
@@ -262,8 +285,8 @@ Il reddito annuo di un’attività lucrativa è calcolato deducendo dal reddito 
 
 Il reddito in natura è valutato secondo le prescrizioni valide per l’assicurazione per la vecchiaia e i superstiti. Per i figli che non sottostanno all’obbligo di pagare i contributi previsti dalla legge federale del 20 dicembre 1946[^18-1] sull’assicurazione per la vecchiaia e per i superstiti, il valore del vitto e dell’alloggio è pari alla metà degli importi previsti nell’articolo 11 dell’ordinanza del 31 ottobre 1947[^18-2] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
 
-[^18-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^18-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^18-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^18-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 19
 
@@ -316,7 +339,7 @@ Dal valore di un immobile di cui il beneficiario delle prestazioni transitorie o
 
 <sup>3</sup> Nei Cantoni che prevedono la possibilità di applicare il valore di ripartizione per la valutazione della sostanza secondo l’articolo 17*a* capoverso 6 dell’ordinanza del 15 gennaio 1971[^22-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità, questo vale anche per il calcolo delle prestazioni transitorie.
 
-[^22-1]: [RS 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
+[^22-1]: [RS 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
 
 #### Art. 23
 
@@ -503,8 +526,8 @@ Le spese di acquisto o di noleggio di mezzi ausiliari sono rimborsate, se questi
 
 <sup>2</sup> Se un beneficiario sceglie un’assicurazione con una franchigia opzionale ai sensi dell’articolo 93 dell’ordinanza del 27 giugno 1995[^36-2] sull’assicurazione malattie, il rimborso della partecipazione ai costi ammonta a 1000 franchi al massimo all’anno.
 
-[^36-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^36-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^36-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^36-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 ## Capitolo 4: Procedura e contenzioso
 
@@ -522,7 +545,7 @@ Le spese di acquisto o di noleggio di mezzi ausiliari sono rimborsate, se questi
 
 <sup>3</sup> Se una persona domiciliata all’estero presenta una domanda per ricevere prestazioni transitorie, è competente l’organo esecutivo dell’ultimo Cantone in cui la persona è stata domiciliata in Svizzera. Per le persone che non sono mai state domiciliate in Svizzera è competente l’organo esecutivo del Cantone della sede del loro ultimo datore di lavoro.
 
-[^37-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^37-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^37-2]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 38
@@ -585,7 +608,7 @@ La prestazione transitoria annua è aumentata, ridotta o soppressa:
 - d. se durante il riesame periodico di cui all’articolo 54 si constata un cambiamento delle spese riconosciute, dei redditi computabili e della sostanza secondo la LPTD;
 - e. in caso di trasferimento del domicilio in uno Stato dell’Unione europea, oppure in Islanda, nel Liechtenstein o in Norvegia.
 
-<sup>2</sup> Si può rinunciare all’adeguamento, se la variazione secondo il capoverso 1 lettere c e d ammonta a meno di 120 franchi l’anno.
+<sup>2</sup> Si può rinunciare all’adeguamento, se la variazione secondo il capoverso 1 lettere c e d ammonta a meno di 300 franchi l’anno. In caso di diminuzione dell’eccedenza delle spese, se la variazione è inferiore a 600 franchi l’anno l’adeguamento può anche essere effettuato soltanto per il futuro.[^44-1]
 
 <sup>3</sup>
 
@@ -612,6 +635,8 @@ La prestazione transitoria annua deve essere oggetto di una nuova decisione con 
 
 <sup>5</sup> La riduzione di una prestazione transitoria corrente in seguito al computo di un reddito da attività lucrativa ipotetico secondo l’articolo 13 capoverso 1 LPTD prende effetto sei mesi dopo la notifica della relativa decisione.
 
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
+
 #### Art. 45
 
 **Competenza in caso di cambiamento di domicilio**
@@ -627,7 +652,7 @@ In caso di cambiamento di domicilio del beneficiario le prestazioni transitorie 
 
 In caso di vertenze in materia di comunicazione di dati, l’articolo 209<sup>bis</sup> OAVS[^46-1] è applicabile per analogia.
 
-[^46-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^46-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 47
 
@@ -635,7 +660,7 @@ In caso di vertenze in materia di comunicazione di dati, l’articolo 209<sup>bi
 
 Per quanto riguarda le spese di comunicazione e di pubblicazione dei dati, l’articolo 209<sup>ter</sup> OAVS[^47-1] è applicabile per analogia.
 
-[^47-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^47-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 48
 
@@ -729,6 +754,6 @@ Allegato
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376).

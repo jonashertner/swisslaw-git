@@ -4,11 +4,11 @@ title: Verordnung vom 11. Juni 2021 über Überbrückungsleistungen für ältere
 short: ÜLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20250101/de"
 
 (ÜLV)
 
-vom 11. Juni 2021 (Stand am 1. Januar 2025)
+vom 11. Juni 2021 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 ## 1. Kapitel: Anspruch auf Überbrückungsleistungen
 
@@ -45,7 +45,7 @@ verordnet:
 <sup>3</sup> Werden Überbrückungsleistungen in einen Mitgliedstaat der Europäischen Union, nach Island, Liechtenstein oder Norwegen ausgerichtet, so wird keine Prüfung eines Anspruchs auf Ergänzungsleistungen auf den Zeitpunkt des Erreichens des Referenzalters hin vorgenommen.[^1-4]
 
 [^1-1]: Fassung gemäss Anhang Ziff. 14 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^1-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-3]: Fassung gemäss Anhang Ziff. 14 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^1-4]: Fassung gemäss Anhang Ziff. 14 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -65,7 +65,7 @@ Meldet sich eine Person für Überbrückungsleistungen an, so ist für die Ermit
 
 Ist eine Liegenschaft, die nach Artikel 9*a* Absatz 2 des Bundesgesetzes vom 6. Oktober 2006[^3-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung nicht Bestandteil des Reinvermögens ist, mit Hypothekarschulden belastet, so werden diese bei der Ermittlung des Reinvermögens für die Vermögensschwelle nach Artikel 5 Absatz 1 Buchstabe c ÜLG nicht berücksichtigt.
 
-[^3-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 4
 
@@ -124,6 +124,25 @@ Die Anpassung an die Kaufkraft des Wohnsitzstaates nach Artikel 8 ÜLG erfolgt a
 
 ### 2. Abschnitt: Anerkannte Ausgaben
 
+#### Art. 8a
+
+**Mietzinsaufteilung**[^8a-1]
+
+### (Art. 9 Abs. 1 Bst. b ÜLG)
+
+<sup>1</sup> Werden Wohnungen oder Einfamilienhäuser auch von Personen bewohnt, welche nicht in die Berechnung der jährlichen Überbrückungsleistung eingeschlossen sind, dann ist der Mietzins auf die einzelnen Personen aufzuteilen. Die Mietzinsanteile der Personen, welche nicht in die Berechnung eingeschlossen sind, werden bei der Berechnung der jährlichen Überbrückungsleistung ausser Betracht gelassen.
+
+<sup>2</sup> Die Aufteilung hat zu gleichen Teilen zu erfolgen.
+
+<sup>3</sup>
+
+Von der Aufteilung zu gleichen Teilen kann ausnahmsweise abgewichen werden, wenn:
+
+- a. zwischen der Bezügerin oder dem Bezüger oder einer Person, die in die Berechnung eingeschlossen ist, und den weiteren in der Wohnung oder im Einfamilienhaus lebenden Personen ein gültiger, den ortsüblichen Verhältnissen entsprechender Miet- oder Untermietvertrag besteht; oder
+- b. die in der Wohnung oder im Einfamilienhaus lebenden Personen unterschiedlich grosse Teile davon für sich in Anspruch nehmen.
+
+[^8a-1]: Eingefügt durch Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
+
 #### Art. 9
 
 **Höchstbetrag der anerkannten Mietkosten für Personen in gemeinschaftlichen Wohnformen**
@@ -166,7 +185,7 @@ Die Anpassung an die Kaufkraft des Wohnsitzstaates nach Artikel 8 ÜLG erfolgt a
 
 Bei Personen, die ihre Mietwohnungen selber beheizen müssen und dem Vermieter keine Heizungskosten nach Artikel 257*b* Absatz 1 des Obligationenrechts[^12-1] zu bezahlen haben, wird für die Heizkosten zu den übrigen Nebenkosten die Hälfte der Pauschale nach Artikel 11 Absatz 3 hinzugezählt.
 
-[^12-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -185,7 +204,7 @@ Als tatsächliche Prämie gilt die Prämie, die die Aufsichtsbehörde nach Artik
 - c. gegebenenfalls für die von ihr gewählte besondere Versicherungsform;
 - d. für die von ihr gewählte Unfalldeckung.
 
-[^13-1]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^13-1]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 14
 
@@ -248,11 +267,15 @@ Massgebend für die Berechnung der Überbrückungsleistungen sind:
 
 #### Art. 17
 
-**Ermittlung des Erwerbseinkommens**
+**Ermittlung des Erwerbseinkommens**[^17-1]
 
 ### (Art. 10 Abs. 1 Bst. a ÜLG)
 
-Das jährliche Erwerbseinkommen wird ermittelt, indem vom Bruttoerwerbseinkommen die ausgewiesenen Gewinnungskosten sowie die einkommensabhängigen obligatorischen Sozialversicherungsbeiträge abgezogen werden.
+<sup>1</sup> Das jährliche Erwerbseinkommen wird ermittelt, indem vom Bruttoerwerbseinkommen die ausgewiesenen Gewinnungskosten sowie die einkommensabhängigen obligatorischen Sozialversicherungsbeiträge abgezogen werden.
+
+<sup>2</sup> Sieht die Gesetzgebung über die direkte kantonale Steuer für die Berufskosten Pauschalabzüge vor, so können die Kantone für die Berechnung der jährlichen Überbrückungsleistung einheitlich auf diese Pauschalabzüge abstellen, sofern die Bezügerin oder der Bezüger keine höheren Kosten ausweist.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
 
 #### Art. 18
 
@@ -262,8 +285,8 @@ Das jährliche Erwerbseinkommen wird ermittelt, indem vom Bruttoerwerbseinkommen
 
 Das Naturaleinkommen wird gemäss den für die Alters- und Hinterlassenenversicherung geltenden Vorschriften bewertet. Bei Kindern, die der Beitragspflicht nach dem Bundesgesetz vom 20. Dezember 1946[^18-1] über die Alters- und Hinterlassenenversicherung nicht unterliegen, sind für die Bewertung von Verpflegung und Unterkunft die halben Ansätze nach Artikel 11 der Verordnung vom 31. Oktober 1947[^18-2] über die Alters- und Hinterlassenenversicherung (AHVV) massgebend.
 
-[^18-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^18-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^18-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^18-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 19
 
@@ -316,7 +339,7 @@ Vom Wert einer Liegenschaft, die von der Bezügerin oder dem Bezüger oder einer
 
 <sup>3</sup> In Kantonen, die nach Artikel 17*a* Absatz 6 der Verordnung vom 15. Januar 1971[^22-1] über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung die Anwendung des Repartitionswerts für die Bewertung des Vermögens vorsehen, gilt dieser auch für die Berechnung der Überbrückungsleistungen.
 
-[^22-1]: [SR 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
+[^22-1]: [SR 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
 
 #### Art. 23
 
@@ -503,8 +526,8 @@ Kosten für die Anschaffung oder die Miete von Hilfsmitteln werden vergütet, so
 
 <sup>2</sup> Hat die Bezügerin oder der Bezüger eine Versicherung mit wählbarer Franchise nach Artikel 93 der Verordnung vom 27. Juni 1995[^36-2] über die Krankenversicherung gewählt, so wird für die Kostenbeteiligung ein Betrag von höchstens 1000 Franken pro Jahr vergütet.
 
-[^36-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^36-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^36-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^36-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 ## 4. Kapitel: Verfahren und Rechtspflege
 
@@ -522,7 +545,7 @@ Kosten für die Anschaffung oder die Miete von Hilfsmitteln werden vergütet, so
 
 <sup>3</sup> Beantragt eine Person mit Wohnsitz im Ausland Überbrückungsleistungen, so ist die Durchführungsstelle am letzten Wohnsitz der Person in der Schweiz zuständig. Für Personen, die nie Wohnsitz in der Schweiz hatten, ist die Durchführungsstelle am Sitz des letzten Arbeitgebers zuständig.
 
-[^37-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^37-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^37-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 38
@@ -585,7 +608,7 @@ Die jährliche Überbrückungsleistung wird erhöht, herabgesetzt oder aufgehobe
 - d. bei der periodischen Überprüfung nach Artikel 54, wenn eine Änderung der vom ÜLG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens festgestellt wird;
 - e. bei Wohnsitzverlegung in einen Mitgliedstaat der Europäischen Union, nach Island, Liechtenstein oder Norwegen.
 
-<sup>2</sup> Macht die Änderung nach Absatz 1 Buchstaben c und d weniger als 120 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden.
+<sup>2</sup> Macht die Änderung nach Absatz 1 Buchstaben c und d weniger als 300 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden. Macht die Änderung weniger als 600 Franken im Jahr aus, so kann bei einer Verminderung des Ausgabenüberschusses die Anpassung auch nur für die Zukunft erfolgen.[^44-1]
 
 <sup>3</sup>
 
@@ -612,6 +635,8 @@ Die jährliche Überbrückungsleistung ist auf folgenden Zeitpunkt neu zu verfü
 
 <sup>5</sup> Die Herabsetzung einer laufenden jährlichen Überbrückungsleistung infolge der Anrechnung eines hypothetischen Erwerbseinkommens nach Artikel 13 Absatz 1 ÜLG wird erst sechs Monate nach Zustellung der entsprechenden Verfügung wirksam.
 
+[^44-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 549](https://fedlex.data.admin.ch/eli/oc/2026/549)).
+
 #### Art. 45
 
 **Zuständigkeit bei Wohnsitzwechsel**
@@ -627,7 +652,7 @@ Bei Wohnsitzwechsel der Bezügerin oder des Bezügers sind die Überbrückungsle
 
 Für Streitigkeiten über Datenbekanntgaben ist Artikel 209<sup>bis</sup> AHVV[^46-1] sinngemäss anwendbar.
 
-[^46-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^46-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 47
 
@@ -635,7 +660,7 @@ Für Streitigkeiten über Datenbekanntgaben ist Artikel 209<sup>bis</sup> AHVV[^
 
 Für die Kosten der Bekanntgabe und der Publikation von Daten ist Artikel 209<sup>ter</sup> AHVV[^47-1] sinngemäss anwendbar.
 
-[^47-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^47-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 48
 
