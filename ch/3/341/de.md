@@ -4,18 +4,18 @@ title: Bundesgesetz vom 5. Oktober 1984 über die Leistungen des Bundes für den
 short: LSMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934"
 language: de
-version: 2018-01-01
+version: 2027-01-01
 adopted: 1984-10-05
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1986-1934_1934_1934-20180101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/1934_1934_1934/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1986-1934_1934_1934-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/1934_1934_1934/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Leistungen des Bundes für den Straf- und Massnahmenvollzug
 
-vom 5. Oktober 1984 (Stand am 1. Januar 2018)
+vom 5. Oktober 1984 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -23,7 +23,7 @@ gestützt auf Artikel 64<sup>bis</sup> der Bundesverfassung[^ingress-1], nach Ei
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Der genannten Bestimmung entspricht heute der Art. 123 Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [BS **1** 3]. Der genannten Bestimmung entspricht heute der Art. 123 Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)
 
 ## 1. Abschnitt: Zweck
@@ -60,7 +60,7 @@ Der Bund gewährt im Rahmen der bewilligten Kredite Beiträge an den Neu‑, Aus
 <sup>3</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss einen mehrjährigen Verpflichtungskredit für die Zusicherungen nach den Absätzen 1 und 2.[^2-4]
 
 [^2-1]: Fassung gemäss Anhang Ziff. 3 des Subventionsgesetzes vom 5. Okt. 1990, in Kraft seit 1. April 1991 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)).
-[^2-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^2-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^2-3]: Fassung gemäss Ziff. II 3 des BG vom 7. Okt. 1994, in Kraft seit 1. Jan. 1996 ([AS 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [BBl 1993 I 1169](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 [^2-4]: Eingefügt durch Anhang Ziff. 3 des Subventionsgesetzes vom 5. Okt. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Fassung gemäss Ziff. I 3 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
@@ -129,10 +129,10 @@ Der Bund gewährt Betriebsbeiträge an besondere erzieherische Aufwendungen öff
 
 <sup>2</sup> …[^5-5]
 
-[^5-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^5-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^5-2]: Fassung gemäss Ziff. II 3 des BG vom 7. Okt. 1994, in Kraft seit 1. Jan. 1996 ([AS 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [BBl 1993 I 1169](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 [^5-3]: Fassung gemäss Ziff. I 5 des BG vom 19. Dez. 2003 über das Entlastungsprogramm 2003, in Kraft seit 1. Jan. 2004 ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)).
-[^5-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^5-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^5-5]: Aufgehoben durch Ziff. I 5 des BG vom 19. Dez. 2003 über das Entlastungsprogramm 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 #### Art. 6
@@ -173,7 +173,7 @@ Der Bund kann Beiträge gewähren an die Entwicklung und Erprobung neuer Methode
 
 <sup>3</sup> Beiträge können auch an die Kosten der Auswertung solcher Versuche gewährt werden.
 
-[^8-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -190,9 +190,11 @@ Beiträge werden unter folgenden Voraussetzungen gewährt:
 
 #### Art. 10
 
-**Höhe der Beiträge**
+**Höhe der Beiträge**[^10-1]
 
-Der Beitrag beläuft sich auf höchstens 80 Prozent der anerkannten Projektkosten, bei bestehenden Einrichtungen auf höchstens 80 Prozent der projektbedingten Mehrkosten.
+Der Beitrag beläuft sich auf höchstens 50 Prozent der anerkannten Projektkosten, bei bestehenden Einrichtungen auf höchstens 50 Prozent der projektbedingten Mehrkosten.
+
+[^10-1]: Fassung gemäss Ziff. I 5 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ## 4*a*. Abschnitt: Beiträge an die Kosten für das Schweizerische Ausbildungszentrum für das Strafvollzugspersonal
 
@@ -309,7 +311,7 @@ Der Bundesrat vollzieht dieses Gesetz und erlässt die Ausführungsbestimmungen.
 Für die Dauer vom 1. Januar 2004 bis zum 31. Dezember 2007 können keine neuen Gesuche zur Gewährung von Betriebsbeiträgen nach Artikel 5 eingereicht werden; ausgenommen sind Gesuche für neue Heimtypen, die nach dem Jugendstrafgesetz vom 20. Juni 2003[^19a-2] zu erstellen sind.
 
 [^19a-1]: Eingefügt durch Ziff. I 5 des BG vom 19. Dez. 2003 über das Entlastungsprogramm 2003, in Kraft seit 1. Jan. 2004 ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)).
-[^19a-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551); [BBl 2003 4445](https://fedlex.data.admin.ch/eli/fga/2003/680)
+[^19a-2]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207); [BBl 2003 4445](https://fedlex.data.admin.ch/eli/fga/2003/680)
 
 #### Art. 20
 

@@ -4,18 +4,18 @@ title: "Loi fédérale du 5 octobre 1984 sur les prestations de la Confédérati
 short: LPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934"
 language: fr
-version: 2018-01-01
+version: 2027-01-01
 adopted: 1984-10-05
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-1934_1934_1934-20180101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/1934_1934_1934/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-1934_1934_1934-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/1934_1934_1934/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les prestations de la Confédération dans le domaine de l’exécution des peines et des mesures
 
-du 5 octobre 1984 (État le 1<sup>er</sup> janvier 2018)
+du 5 octobre 1984 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -23,7 +23,7 @@ vu l’art. 64<sup>bis</sup> de la constitution[^ingress-1]; vu le message du Co
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. A la disp. mentionnée correspond actuellement l’art. 123 al. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3]. A la disp. mentionnée correspond actuellement l’art. 123 al. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: [FF 1981 III 705](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)
 
 ## Section 1 But
@@ -60,7 +60,7 @@ La Confédération subventionne, dans les limites des crédits ouverts, la const
 <sup>3</sup> L’Assemblée fédérale approuve par voie d’arrêté fédéral simple un crédit d’engagement pluriannuel pour les subventions allouées en vertu des al. 1 et 2.[^2-4]
 
 [^2-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la L du 5 oct. 1990 sur les subventions, en vigueur depuis le 1<sup>er</sup> avr. 1991 ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)).
-[^2-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^2-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^2-3]: Nouvelle teneur selon le ch. II 3 de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 1093](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 [^2-4]: Introduit par le ch. 3 de l’annexe à la L du 5 oct. 1990 sur les subventions ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)). Nouvelle teneur selon le ch. I 3 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
@@ -129,10 +129,10 @@ La Confédération alloue des subventions d’exploitation pour des mesures édu
 
 <sup>2</sup> …[^5-5]
 
-[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^5-2]: Nouvelle teneur selon le ch. II 3 de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126)1132; [FF 1993 I 1093](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 [^5-3]: Nouvelle teneur selon le ch. I 5 de la LF du 19 déc. 2003 sur le programme d’allégement budgétaire 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 5091](https://fedlex.data.admin.ch/eli/fga/2003/887)).
-[^5-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^5-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^5-5]: Abrogé par le ch. I 5 de la LF du 19 déc. 2003 sur le programme d’allégement budgétaire 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 5091](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 #### Art. 6
@@ -173,7 +173,7 @@ La Confédération peut subventionner le développement et l’expérimentation 
 
 <sup>3</sup> Des subventions peuvent aussi être allouées pour l’évaluation des résultats de ces essais.
 
-[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -190,9 +190,11 @@ Les subventions sont allouées aux conditions suivantes:
 
 #### Art. 10
 
-**Montant des subventions**
+**Montant des subventions**[^10-1]
 
-La subvention est égale à 80 % au plus des frais reconnus occasionnés par la réalisation du projet et, pour les institutions qui existent déjà, à 80 % au plus des frais supplémentaires entraînés par cette réalisation.
+La subvention est égale à 50 % au plus des frais reconnus occasionnés par la réalisation du projet et, pour les institutions qui existent déjà, à 50 % au plus des frais supplémentaires entraînés par cette réalisation.
+
+[^10-1]: Nouvelle teneur selon le ch. I 5 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ## Section 4*a* Participation aux frais engendrés par le Centre suisse de formation pour le personnel pénitentiaire
 
@@ -309,7 +311,7 @@ Le Conseil fédéral est chargé d’exécuter la présente loi; il édicte les 
 Aucune nouvelle demande d’octroi de subventions d’exploitation au sens de l’art. 5 ne peut être déposée durant la période allant du 1<sup>er</sup> janvier 2004 au 31 décembre 2007, à l’exception des demandes relatives à de nouveaux types d’établissements devant être construits en vertu de la loi fédérale du 20 juin 2003 régissant la condition pénale des mineurs[^19a-2].
 
 [^19a-1]: Introduit par le ch. I 5 de la LF du 19 déc. 2003 sur le programme d’allégement budgétaire 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 5091](https://fedlex.data.admin.ch/eli/fga/2003/887)).
-[^19a-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551); [FF 2003 3990](https://fedlex.data.admin.ch/eli/fga/2003/680)
+[^19a-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207); [FF 2003 3990](https://fedlex.data.admin.ch/eli/fga/2003/680)
 
 #### Art. 20
 

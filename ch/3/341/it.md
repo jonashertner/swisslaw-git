@@ -4,18 +4,18 @@ title: "Legge federale del 5 ottobre 1984 sulle prestazioni della Confederazione
 short: LPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934"
 language: it
-version: 2018-01-01
+version: 2027-01-01
 adopted: 1984-10-05
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1986-1934_1934_1934-20180101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/1934_1934_1934/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1986-1934_1934_1934-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/1934_1934_1934/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulle prestazioni della Confederazione nel campo dell’esecuzione delle pene e delle misure
 
-del 5 ottobre 1984 (Stato 1° gennaio 2018)
+del 5 ottobre 1984 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -35,7 +35,7 @@ Le prestazioni previste nella presente legge devono contribuire:
 - a.[^1-1] a garantire l’applicazione uniforme delle prescrizioni e dei principi dell’esecuzione delle pene e delle misure;
 - b. ad approntare le basi necessarie per futuri sviluppi in questo settore.
 
-[^1-1]: Nuovo testo giusta il n. II 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^1-1]: Nuovo testo giusta la cifra II n. 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ## Sezione 2: Sussidi di costruzione
 
@@ -60,9 +60,9 @@ La Confederazione sussidia la costruzione, nei limiti dei crediti stanziati, l�
 <sup>3</sup> Mediante decreto federale semplice, l’Assemblea federale accorda un credito d’impegno pluriennale per le assegnazioni di cui ai capoversi 1 e 2.[^2-4]
 
 [^2-1]: Nuovo testo giusta il n. 3 dell’all. della L del 5 ott. 1990 sui sussidi, in vigore dal 1° apr. 1991 ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 297](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)).
-[^2-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-3]: Nuovo testo giusta il n. II 3 della LF del l7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
-[^2-4]: Introdotto dal n. 3 dell’all. della L del 5 ott. 1990 sui sussidi ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 297](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Nuovo testo giusta il n. I 3 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^2-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^2-3]: Nuovo testo giusta la cifra II n. 3 della LF del l7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
+[^2-4]: Introdotto dal n. 3 dell’all. della L del 5 ott. 1990 sui sussidi ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 297](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Nuovo testo giusta la cifra I n. 3 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
 #### Art. 3
 
@@ -90,9 +90,9 @@ Se il committente dei lavori non è un Cantone, i sussidi sono subordinati alle 
 
 <sup>3</sup> Se nel Cantone in cui il progetto di costruzione è realizzato non è garantita un’esecuzione conforme al diritto federale, i sussidi possono essere ridotti o negati. I sussidi che servono a rimediare a un’irregolarità non possono essere ridotti o negati.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. II 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^3-2]: Introdotta dal n. II 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^3-3]: Introdotto dal n. II 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^3-1]: Nuovo testo giusta la cifra II n. 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^3-2]: Introdotta dalla cifra II n. 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^3-3]: Introdotto dalla cifra II n. 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 4
 
@@ -106,7 +106,7 @@ Se il committente dei lavori non è un Cantone, i sussidi sono subordinati alle 
 
 <sup>4</sup> Non sono versati sussidi federali inferiori a 100 000 franchi.
 
-[^4-1]: Nuovo testo giusta il n. II 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^4-1]: Nuovo testo giusta la cifra II n. 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ## Sezione 3: Sussidi d’esercizio
 
@@ -129,11 +129,11 @@ La Confederazione concede sussidi d’esercizio per speciali misure educative pr
 
 <sup>2</sup> …[^5-5]
 
-[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^5-2]: Nuovo testo giusta il n. II 3 della LF del l7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
-[^5-3]: Nuovo testo giusta il n. I 5 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen 2004 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
-[^5-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^5-5]: Abrogato dal n. I 5 della LF del 19 dic. 2003 sul programma di sgravio 2003, con effetto dal 1° gen 2004 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^5-2]: Nuovo testo giusta la cifra II n. 3 della LF del l7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
+[^5-3]: Nuovo testo giusta la cifra I n. 5 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen 2004 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^5-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^5-5]: Abrogato dalla cifra I n. 5 della LF del 19 dic. 2003 sul programma di sgravio 2003, con effetto dal 1° gen 2004 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 #### Art. 6
 
@@ -153,8 +153,8 @@ La Confederazione concede sussidi d’esercizio per speciali misure educative pr
 
 <sup>3</sup> Nell’ambito di un accordo di prestazioni concluso con la competente autorità cantonale può essere concordato un indennizzo forfettario a favore di case di educazione sussidiabili. Il Consiglio federale stabilisce le condizioni quadro e i criteri di calcolo.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° set. 1999 ( [RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-2]: Nuovo testo giusta il n. II 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^7-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° set. 1999 ( [RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^7-2]: Nuovo testo giusta la cifra II n. 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ## Sezione 4: Sussidi per progetti sperimentali
 
@@ -173,7 +173,7 @@ La Confederazione può sussidiare lo sviluppo e la sperimentazione di nuovi meto
 
 <sup>3</sup> Anche le spese per la valutazione di queste sperimentazioni possono essere sussidiate.
 
-[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -190,15 +190,17 @@ I sussidi sono concessi alle seguenti condizioni:
 
 #### Art. 10
 
-**Ammontare dei sussidi**
+**Ammontare dei sussidi**[^10-1]
 
-Il sussidio ammonta al massimo all’80 per cento dei costi riconosciuti del progetto; nel caso di istituti già esistenti, al massimo all’80 per cento dei costi supplementari occasionati dal progetto.
+Il sussidio ammonta al massimo al 50 per cento dei costi riconosciuti del progetto; nel caso di istituti già esistenti, al massimo al 50 per cento dei costi supplementari occasionati dal progetto.
+
+[^10-1]: Nuovo testo giusta la cifra I n. 5 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ## Sezione 4*a*: Sussidi al Centro svizzero di formazione per il personale penitenziario
 
 [^sec4a-1][^sec4a-2]
 
-[^sec4a-1]: Introdotta dal n. II 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^sec4a-1]: Introdotta dalla cifra II n. 3 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^sec4a-2]: Dal 25 apr. 2017 «Centro svizzero di competenze in materia d'esecuzione di sanzioni penali (CSCSP)».
 
 #### Art. 10a
@@ -264,7 +266,7 @@ L’Ufficio federale stabilisce l’ammontare definitivo del sussidio in base al
 
 <sup>2</sup> L’Ufficio federale può, a domanda, accordare anticipazioni fino all’80 per cento dei sussidi assegnati.
 
-[^16-1]: Nuovo testo giusta il n. I 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° set. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^16-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° set. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 #### Art. 16a
 
@@ -276,7 +278,7 @@ L’Ufficio federale stabilisce l’ammontare definitivo del sussidio in base al
 
 <sup>3</sup> I sussidi forfetari possono essere versati sotto forma di anticipazioni (art. 16 cpv. 2) e al più presto allorché esistano spese imminenti.
 
-[^16a-1]: Introdotto dal n. I 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^16a-1]: Introdotto dalla cifra I n. 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998,in vigore dal 1° gen. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 ## Sezione 7: Informazione, documentazione e statistica
 
@@ -308,8 +310,8 @@ Il Consiglio federale provvede all’esecuzione della presente legge e emana le 
 
 Nel periodo dal 1° gennaio 2004 al 31 dicembre 2007 non possono essere presentate domande di sussidi d’esercizio ai sensi dell’articolo 5; sono eccettuate le domande per nuovi tipi di istituti da approntare secondo la legge federale del 20 giugno 2003[^19a-2] sul diritto penale minorile.
 
-[^19a-1]: Introdotto dal n. I 5 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen 2004 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
-[^19a-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^19a-1]: Introdotto dalla cifra I n. 5 della LF del 19 dic. 2003 sul programma di sgravio 2003, in vigore dal 1° gen 2004 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^19a-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 20
 
@@ -317,7 +319,7 @@ Nel periodo dal 1° gennaio 2004 al 31 dicembre 2007 non possono essere presenta
 
 La legge federale del 6 ottobre 1966[^20-1] sui sussidi federali agli stabilimenti penitenziari e alle case di educazione è abrogata.
 
-[^20-1]: [[RU 1967 32](https://fedlex.data.admin.ch/eli/oc/1967/29_31_32), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 111]
+[^20-1]: [[RU 1967 32](https://fedlex.data.admin.ch/eli/oc/1967/29_31_32), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I n. 111]
 
 #### Art. 21
 
@@ -339,7 +341,7 @@ I sussidi di costruzione sono assegnati in virtù del diritto anteriore, se:
 
 <sup>2</sup> Per il calcolo dei sussidi d’esercizio il nuovo diritto si applica per la prima volta al periodo di sussidio dell’anno che segue l’entrata in vigore.
 
-[^21-1]: Nuovo testo giusta il n. I 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, il cpv. 1 entra in vigore il 1° gen. 1999 e il cpv. 2 il 1° set. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^21-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, il cpv. 1 entra in vigore il 1° gen. 1999 e il cpv. 2 il 1° set. 1999 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 #### Art. 22
 
