@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les contributions à des cultures part
 short: OCCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20260101/fr"
 
 (Ordonnance sur les contributions à des cultures particulières, OCCP)[^t-1]
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2026)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -52,12 +52,7 @@ Les contributions à des cultures particulières sont versées pour les surfaces
 
 <sup>2</sup> Les contributions à des cultures particulières sont également versées pour les surfaces cultivées par tradition dans la zone limitrophe étrangère visées à l’art. 17, al. 2, de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^1-2].
 
-<sup>2bis</sup>
-
-La contribution supplémentaire pour les betteraves destinées à la production de sucre est octroyée à condition que l’une des contributions suivantes soit également octroyée:
-
-- a. contribution pour l’agriculture biologique selon l’art. 66 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-3];
-- b. contribution pour le non-recours aux produits phytosanitaires dans les grandes cultures selon l’art. 68 OPD.[^1-4]
+<sup>2bis</sup> …[^1-3]
 
 <sup>3</sup>
 
@@ -65,16 +60,15 @@ Aucune contribution n’est versée pour:
 
 - a. les surfaces situées en dehors de la surface agricole utile;
 - b. les parcelles ou parties de parcelles fortement envahies par des mauvaises herbes posant des problèmes, telles que le rumex, le chardon des champs, le chiendent, la folle avoine, le séneçon jacobée et les plantes néophytes envahissantes;
-- c.[^1-5] les surfaces affectées aux cultures de colza, tournesol, courges à huile, lin oléagineux, pavot, carthame des teinturiers, soja, haricots (*Phaseolus*), pois (*Pisum*), lupins (*Lupinus*), vesces (*Vicia*), pois chiches (*Cicer*) et lentilles (*Lens*) qui sont récoltées avant la maturité pour le battage ou qui ne sont pas récoltés pour les graines;
+- c.[^1-4] les surfaces affectées aux cultures de colza, tournesol, courges à huile, lin oléagineux, pavot, carthame des teinturiers, soja, haricots (*Phaseolus*), pois (*Pisum*), lupins (*Lupinus*), vesces (*Vicia*), pois chiches (*Cicer*) et lentilles (*Lens*) qui sont récoltées avant la maturité pour le battage ou qui ne sont pas récoltés pour les graines;
 - d. les surfaces affectées à la culture de courges à huile qui ne sont pas battues sur le champ;
-- e.[^1-6] les bandes culturales extensives visées à l’art. 55, al. 1, let. j, OPD.
+- e. les bandes culturales extensives visées à l’art. 55, al. 1, let. j, de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-5].
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 [^1-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^1-4]: Introduit par le ch. I de l’O du 2 fév. 2022 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^1-5]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^1-6]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-3]: Introduit par le ch. I de l’O du 2 fév. 2022 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Abrogé par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-5]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 2
 
@@ -83,21 +77,21 @@ Aucune contribution n’est versée pour:
 La contribution à des cultures particulières, par hectare et par an, s’élève à:
 
 <table>
-<tr><td></td><td>Francs</td></tr>
+<tr><th></th><th>Francs</th></tr>
 <tr><td>a. pour le colza, le tournesol, les courges à huile, le lin oléagineux, le pavot et le carthame des teinturiers:</td><td>700</td></tr>
 <tr><td>b.[^2-1] pour les plants de pommes de terre:</td><td>2500</td></tr>
 <tr><td>c.[^2-2] pour les semences de graminées fourragères, de légumineuses fourragères et de maïs:</td><td>1500</td></tr>
 <tr><td>d. pour le soja:</td><td>1000</td></tr>
 <tr><td>e*.*[^2-3] pour les haricots (*Phaseolus*), les pois (*Pisum*), les lupins (*Lupinus*), les vesces (*Vicia*), les pois chiches (*Cicer*) et les lentilles (*Lens*) ainsi que pour les mélanges visés à l’art. 6*b*, al. 2:</td><td>1000</td></tr>
-<tr><td>f.[^2-4] pour les betteraves sucrières destinées à la fabrication de sucre</td><td>2100</td></tr>
-<tr><td>g.[^2-5] contribution supplémentaire pour les betteraves sucrières destinées à la fabrication de sucre</td><td>200</td></tr>
+<tr><td>f.[^2-4] pour les betteraves sucrières destinées à la fabrication de sucre:</td><td>2100</td></tr>
+<tr><td>g.[^2-5] …</td><td></td></tr>
 </table>
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^2-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-5]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
+[^2-5]: Introduite par le ch. I de l’O du 2 fév. 2022 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Abrogée par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
 
 #### Art. 3
 
@@ -428,7 +422,7 @@ Sont notamment considérés comme cas de force majeure:
 
 L’ordonnance du 7 décembre 1998 sur les contributions à la culture des champs[^26-1] est abrogée.
 
-[^26-1]: [[RO 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44)[1698](https://fedlex.data.admin.ch/eli/oc/1999/259), [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51)[2507](https://fedlex.data.admin.ch/eli/oc/2001/370), [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778), [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154)[4829](https://fedlex.data.admin.ch/eli/oc/2006/745), [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821), [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513)[5821](https://fedlex.data.admin.ch/eli/oc/2008/801), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)ch. II 2, [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)ch. II 2, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 5]
+[^26-1]: [[RO 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44), [1698](https://fedlex.data.admin.ch/eli/oc/1999/259); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)ch. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)ch. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 5]
 
 #### Art. 27
 
@@ -438,7 +432,7 @@ L’ordonnance du 7 décembre 1998 sur les contributions à la culture des champ
 
 <sup>2</sup> En ce qui concerne les sociétés de personnes qui ont obtenu en 2013 des contributions en vertu de l’ordonnance du 7 décembre 1998 sur les contributions à la culture des champs, l’âge du plus jeune exploitant est déterminant jusqu’à fin 2015.
 
-[^27-1]: [[RO 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44)[1698](https://fedlex.data.admin.ch/eli/oc/1999/259), [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51)[2507](https://fedlex.data.admin.ch/eli/oc/2001/370), [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778), [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154)[4829](https://fedlex.data.admin.ch/eli/oc/2006/745), [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821), [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513)[5821](https://fedlex.data.admin.ch/eli/oc/2008/801), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)ch. II 2, [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)ch. II 2, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 5]
+[^27-1]: [[RO 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44), [1698](https://fedlex.data.admin.ch/eli/oc/1999/259); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)ch. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)ch. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 5]
 
 #### Art. 28
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i contributi per singole coltu
 short: OCSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20260101/it"
 
 (Ordinanza sui contributi per singole colture, OCSC)[^t-1]
 
-del 23 ottobre 2013 (Stato 1° gennaio 2026)
+del 23 ottobre 2013 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -52,12 +52,7 @@ I contributi per singole colture sono versati per superfici con le seguenti colt
 
 <sup>2</sup> I contributi per singole colture sono versati anche per le superfici coltivate per tradizione familiare nella zona di confine estera ai sensi dell’articolo 17 capoverso 2 dell’ordinanza del 7 dicembre 1998[^1-2] sulla terminologia agricola (OTerm).
 
-<sup>2bis</sup>
-
-Il contributo supplementare per barbabietole da zucchero per la produzione di zucchero è versato se è versato anche uno dei seguenti contributi:
-
-- a. contributo per l’agricoltura biologica ai sensi dell’articolo 66 dell’ordinanza del 23 ottobre 2013[^1-3] sui pagamenti diretti (OPD);
-- b. contributo per la rinuncia a prodotti fitosanitari in campicoltura ai sensi dell’articolo 68 OPD.[^1-4]
+<sup>2bis</sup> ...[^1-3]
 
 <sup>3</sup>
 
@@ -65,16 +60,15 @@ Non sono versati contributi per:
 
 - a. superfici al di fuori della superficie agricola utile;
 - b. particelle o parti di particelle caratterizzate da un’elevata presenza di piante problematiche, in particolare romice, stoppione («cardo dei campi»), agropiro («gramigna»), avena selvatica, erba di San Giacomo e neofite invasive;
-- c.[^1-5] superfici con colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero, cartamo, soia, fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*), raccolti prima della loro maturazione o non per l’estrazione dei granelli;
+- c.[^1-4] superfici con colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero, cartamo, soia, fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*), raccolti prima della loro maturazione o non per l’estrazione dei granelli;
 - d. superfici con zucche per l’estrazione di olio che non sono trebbiate sul campo;
-- e.[^1-6] fasce di colture estensive in campicoltura secondo l’articolo 55 capoverso 1 lettera j OPD.
+- e. fasce di colture estensive in campicoltura ai sensi dell’articolo 55 capoverso 1 lettera j dell’ordinanza del 23 ottobre 2013[^1-5] sui pagamenti diretti (OPD).
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 [^1-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^1-4]: Introdotto dalla cifra I dell’O del 2 feb. 2022 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Nuovo testo giusta l’all. n. 2 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^1-5]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^1-6]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-3]: Introdotto dalla cifra I dell’O del 2 feb. 2022 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Abrogato dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2027 ([RU 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-5]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 2
 
@@ -90,14 +84,14 @@ Per ettaro e anno il contributo per singole colture ammonta a:
 <tr><td>d. soia</td><td>1000</td></tr>
 <tr><td>e*.*[^2-3] fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*), nonché miscele ai sensi dell’articolo 6*b* capoverso 2</td><td>1000</td></tr>
 <tr><td>f.[^2-4] barbabietole da zucchero per la produzione di zucchero</td><td>2100</td></tr>
-<tr><td>g.[^2-5] contributo supplementare per le barbabietole da zucchero per la produzione di zucchero</td><td>200</td></tr>
+<tr><td>g.[^2-5] ...</td><td></td></tr>
 </table>
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2026 ([RU 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
 [^2-2]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2026 ([RU 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
 [^2-3]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^2-4]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-5]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
+[^2-5]: Introdotta dalla cifra I dell’O del 2 feb. 2022 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Abrogata dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2027 ([RU 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
 
 #### Art. 3
 
