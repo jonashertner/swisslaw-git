@@ -3,11 +3,11 @@ sr: "172.220.12"
 title: Ordinanza del 19 dicembre 2003 sulla retribuzione e su altre condizioni contrattuali stipulate con i quadri superiori e gli organi direttivi di imprese e istituti della Confederazione (Ordinanza sulla retribuzione dei quadri)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/30"
 language: it
-version: 2021-08-01
+version: 2027-01-01
 adopted: 2003-12-19
 in_force: 2004-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2004-30-20210801-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2004-30-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/it"
 
 (Ordinanza sulla retribuzione dei quadri)
 
-del 19 dicembre 2003 (Stato 1° agosto 2021)
+del 19 dicembre 2003 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -24,17 +24,17 @@ visti gli articoli 6*a* e 15 capoverso 6 della legge del 24 marzo 2000[^ingress-
 
 ordina:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-4]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^ingress-5]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
-[^ingress-6]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
-[^ingress-7]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-8]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-9]: [RS 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)
-[^ingress-10]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^ingress-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^ingress-4]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
+[^ingress-5]: [RS 732.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8546)
+[^ingress-6]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^ingress-7]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-8]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-9]: [RS 946.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11341)
+[^ingress-10]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^ingress-11]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -59,9 +59,9 @@ La presente ordinanza si applica:
 [^1-2]: Introdotta dall’art. 30 n. 2 dell’O del 25 ott. 2006 concernente l’Assicurazione svizzera contro i rischi delle esportazioni, in vigore dal 1° gen. 2007 ([RU 2006 4403](https://fedlex.data.admin.ch/eli/oc/2006/669)).
 [^1-3]: Introdotta dall’all. n. 3 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^1-4]: Introdotta dall’all. n. 3 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^1-5]: Introdotta dal n. I dell’O del 21 nov. 2012 ([RU 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)). Nuovo testo giusta il n. I 1 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^1-6]: Introdotta dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
-[^1-7]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
+[^1-5]: Introdotta dalla cifra I dell’O del 21 nov. 2012 ([RU 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)). Nuovo testo giusta la cifra I n. 1 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^1-6]: Introdotta dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
+[^1-7]: Introdotta dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
 
 #### Art. 2
 
@@ -77,7 +77,7 @@ La presente ordinanza si applica:
 
 Le imprese e gli istituti si adoperano affinché le comunità linguistiche siano rappresentate in seno ai loro organi direttivi superiori di cui all’articolo 2 capoverso 2 in modo corrispondente alla ripartizione delle lingue nazionali nella popolazione residente permanente della Svizzera.
 
-[^2a-1]: Introdotto dal n. III 1 dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^2a-1]: Introdotto dalla cifra III n. 1 dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 ## Sezione 2: Prestazioni del datore di lavoro
 
@@ -148,8 +148,8 @@ Le provvigioni sono calcolate di regola in funzione del risultato medio consegui
 
 <sup>3</sup> L’articolo 7 della legge federale del 17 dicembre 1993[^9-2] sul libero passaggio è in ogni caso applicabile.
 
-[^9-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^9-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^9-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^9-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 10
 
@@ -207,18 +207,19 @@ In casi motivati, il Dipartimento federale delle finanze (DFF) può incaricare i
 
 <sup>1</sup> Le aziende e gli istituti pubblicano le informazioni di cui all’articolo 13 capoverso 2 nel loro rapporto annuale o in un organo d’informazione equivalente. Commentano i dati che si scostano da quelli dell’anno precedente.
 
-<sup>2</sup> Le funzioni superiori dei quadri dell’Amministrazione federale ai sensi dell’articolo 15 capoverso 6 sono equiparate alle funzioni inserite nelle classi di stipendio 34–38.
+<sup>2</sup> …[^14-1]
 
 <sup>3</sup>
 
 Su richiesta, devono essere rese note le seguenti componenti versate alle funzioni superiori dei quadri:
 
-- a. indennità di residenza ai sensi dell’articolo 43 dell’O del 3 luglio 2001[^14-1] sul personale federale (OPers);
+- a.[^14-2] …
 - b. indennità di funzione ai sensi dell’articolo 46 OPers;
 - c. indennità speciali ai sensi dell’articolo 48 OPers;
 - d. indennità in funzione del mercato del lavoro ai sensi dell’articolo 50 OPers.
 
-[^14-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^14-1]: Abrogato dall’all. cifra II n. 3 dell’O del 27 mag. 2026, con effetto dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^14-2]: Abrogata dall’all. cifra II n. 3 dell’O del 27 mag. 2026, con effetto dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 ## Sezione 5: Disposizioni finali
 

@@ -3,11 +3,11 @@ sr: "172.220.12"
 title: Verordnung vom 19. Dezember 2003 über die Entlöhnung und weitere Vertragsbedingungen der obersten Kader und Leitungsorgane von Unternehmen und Anstalten des Bundes (Kaderlohnverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/30"
 language: de
-version: 2021-08-01
+version: 2027-01-01
 adopted: 2003-12-19
 in_force: 2004-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2004-30-20210801-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2004-30-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/de"
 
 (Kaderlohnverordnung)
 
-vom 19. Dezember 2003 (Stand am 1. August 2021)
+vom 19. Dezember 2003 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -24,16 +24,16 @@ gestützt auf die Artikel 6*a* und 15 Absatz 6 des Bundespersonalgesetzes vom 24
 
 verordnet:
 
-[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-4]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^ingress-5]: [SR 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
-[^ingress-6]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
-[^ingress-7]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-8]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-9]: [SR 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)
-[^ingress-10]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^ingress-4]: [SR 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
+[^ingress-5]: [SR 732.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8546)
+[^ingress-6]: [SR 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^ingress-7]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-8]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-9]: [SR 946.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11341)
+[^ingress-10]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^ingress-11]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -148,8 +148,8 @@ Die Bonifikationen bemessen sich grundsätzlich nach dem durchschnittlichen Erfo
 
 <sup>3</sup> Artikel 7 des Freizügigkeitsgesetzes vom 17. Dezember 1993[^9-2] ist in jedem Fall anwendbar.
 
-[^9-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^9-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^9-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^9-2]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 10
 
@@ -207,18 +207,19 @@ Das Eidgenössische Finanzdepartement (EFD) kann die Departemente in begründete
 
 <sup>1</sup> Die Unternehmen und Anstalten machen die Informationen nach Artikel 13 Absatz 2 im Jahresbericht oder in einem gleichwertigen Informationsorgan öffentlich zugänglich. Sie kommentieren die Abweichungen zu den Angaben des Vorjahres.
 
-<sup>2</sup> Als oberste Kaderfunktionen der Bundesverwaltung nach Artikel 15 Absatz 6 BPG gelten die in die Lohnklassen 34–38 eingereihten Funktionen.
+<sup>2</sup> …[^14-1]
 
 <sup>3</sup>
 
 Auf Verlangen bekannt zu geben sind die an die obersten Kaderfunktionen ausgerichteten:
 
-- a. Ortszuschläge nach Artikel 43 der Bundespersonalverordnung vom 3. Juli 2001[^14-1] (BPV);
+- a.[^14-2] …
 - b. Funktionszulagen nach Artikel 46 BPV;
 - c. Sonderzulagen nach Artikel 48 BPV;
 - d. Arbeitsmarktzulagen nach Artikel 50 BPV.
 
-[^14-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^14-1]: Aufgehoben durch Anhang Ziff. II 3 der V vom 27. Mai 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^14-2]: Aufgehoben durch Anhang Ziff. II 3 der V vom 27. Mai 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 

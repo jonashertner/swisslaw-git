@@ -3,11 +3,11 @@ sr: "172.220.12"
 title: "Ordonnance du 19 décembre 2003 sur la rémunération et sur d'autres conditions contractuelles convenues avec les cadres du plus haut niveau hiérarchique et les membres des organes dirigeants des entreprises et des établissements de la Confédération (Ordonnance sur les salaires des cadres)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/30"
 language: fr
-version: 2021-08-01
+version: 2027-01-01
 adopted: 2003-12-19
 in_force: 2004-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-30-20210801-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-30-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/fr"
 
 (Ordonnance sur les salaires des cadres)
 
-du 19 décembre 2003 (État le 1<sup>er</sup> août 2021)
+du 19 décembre 2003 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -24,16 +24,16 @@ vu les art. 6*a* et 15, al. 6, de la loi du 24 mars 2000 sur le personnel de la 
 
 arrête:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-4]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^ingress-5]: [RS 732.2](https://fedlex.data.admin.ch/eli/cc/2007/775)
-[^ingress-6]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
-[^ingress-7]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-8]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-9]: [RS 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)
-[^ingress-10]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^ingress-3]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^ingress-4]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
+[^ingress-5]: [RS 732.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8546)
+[^ingress-6]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^ingress-7]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-8]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-9]: [RS 946.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11341)
+[^ingress-10]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^ingress-11]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
 
 ## Section 1 Dispositions générales
@@ -148,8 +148,8 @@ Les bonifications sont calculées en principe sur la base des résultats moyens 
 
 <sup>3</sup> L’art. 7 de la loi fédérale du 17 décembre 1993 sur le libre passage[^9-2] s’applique dans tous les cas.
 
-[^9-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^9-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^9-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^9-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 10
 
@@ -207,18 +207,19 @@ Dans des cas dûment motivés, le Département des finances (DFF) peut charger l
 
 <sup>1</sup> Les entreprises et les établissements publient les informations prévues par l’art. 13, al. 2 dans leur rapport annuel ou dans un organe d’information comparable. Ils commentent les écarts par rapport aux chiffres de l’exercice précédent.
 
-<sup>2</sup> Sont réputées fonctions des cadres du plus haut niveau hiérarchique de l’administration fédérale visées à l’art. 15, al. 6, LPers, les fonctions des classes de salaires 34 à 38.
+<sup>2</sup> …[^14-1]
 
 <sup>3</sup>
 
 Les entreprises et les établissements communiquent sur demande les indemnités versées aux cadres du plus haut niveau hiérarchique au titre:
 
-- a. d’indemnités de résidence selon l’art. 43 de l’O du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^14-1];
+- a.[^14-2] …
 - b. de primes de fonction selon l’art. 46 OPers;
 - c. d’allocations spéciales selon l’art. 48 OPers;
 - d. d’allocations liées au marché de l’emploi selon l’art. 50 OPers.
 
-[^14-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^14-1]: Abrogé par l’annexe ch. II 3 de l’O du 27 mai 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^14-2]: Abrogée par l’annexe ch. II 3 de l’O du 27 mai 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 ## Section 5 Dispositions finales
 
