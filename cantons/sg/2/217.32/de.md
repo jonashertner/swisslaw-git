@@ -3,20 +3,19 @@ canton: SG
 number: "217.32"
 title: Personalreglement der Universität St.Gallen (HSG)
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2026-02-16
+version: 2027-01-01
+version_adopted: 2026-06-22
 adopted: 2014-05-05
 in_force: 2014-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.32"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3912/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3942/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalreglement der Universität St.Gallen (HSG)
 
-vom 05.05.2014 (Stand 01.01.2026)
+vom 05.05.2014 (Stand 01.01.2027)
 
 Der Universitätsrat der Universität St.Gallen
 
@@ -252,6 +251,16 @@ nachfolgendes Personalreglement:[^ingress-4]
 
 <sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Universität St.Gallen sind im Rahmen der gesetzlichen und reglementarischen Bestimmungen gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod versichert.
 
+#### Art. 20a
+
+**Einkauf in die Pensionskasse**
+
+<sup>1</sup> Zur Gewinnung exzellenter ordentlicher und assoziierter Professorinnen und Professoren sowie ständiger Dozierender kann die Rektorin oder der Rektor beschliessen, dass der Anteil der versicherten Person an der Einkaufssumme in die Pensionskasse ganz oder teilweise durch die Universität finanziert wird. Der Beschluss bedarf der Genehmigung der Präsidentin oder des Präsidenten des Universitätsrates.
+
+<sup>2</sup> Die Finanzierung erfolgt ausschliesslich aus für diesen Zweck von ausserhalb der Universität gestifteten Mitteln.
+
+<sup>3</sup> Die Einzahlung des übernommenen Anteils erfolgt in acht Jahresraten. Bei vorzeitiger Auflösung des Anstellungsverhältnisses verfällt der Anspruch auf die weiteren Jahresraten.
+
 #### Art. 21
 
 **Unfallversicherung**
@@ -477,6 +486,33 @@ nachfolgendes Personalreglement:[^ingress-4]
 <sup>1</sup> Die Entschädigungen aus Mehrfachanstellungen innerhalb der Universität gelten als Lohnbestandteile und sind entsprechend versichert. Die Versicherungspflicht umfasst den im beitragspflichtigen Zeitraum erzielten AHV-pflichtigen Lohn. Bei Mehrfachanstellungen wird am Ende des Jahres der gesamte AHV-pflichtige Lohn ermittelt. Allenfalls erfolgt eine rückwirkende Anpassung auf den tatsächlichen Jahreslohn.
 
 <sup>2</sup> Honorare aus Tätigkeiten ausserhalb der Universität werden im Rahmen der Regelung der Nebenbeschäftigungen abgewickelt und sind an der Universität nicht versichert.
+
+#### Art. 42a
+
+**Drittmittelfinanzierte Dozenturen**
+
+<sup>1</sup> Dozenturen können ganz oder teilweise durch Drittmittel finanziert werden.
+
+<sup>2</sup> Drittmittelfinanzierte Dozierende haben dieselben Rechte und Pflichten wie durch öffentliche Mittel nach [Art. 61](https://www.gesetzessammlung.sg.ch/data/217.1/de/art61) Bst. a–d des Universitätsgesetzes vom 14. November 2023[^42a-1] finanzierte Dozierende.
+
+<sup>3</sup> Die Anstellung von drittmittelfinanzierten Dozierenden endet mit dem Auslaufen der Finanzierung, wenn im Rahmen der Lehrstuhl- und Personalplanung nach [Art. 56](https://www.gesetzessammlung.sg.ch/data/217.15/de/art56) Abs. 2 Bst. b des Universitätsstatuts vom 30. August 2024[^42a-2] keine Fortführung mit dem Arbeitgeber vereinbart worden ist.
+
+[^42a-1]: sGS [217.1](https://www.gesetzessammlung.sg.ch/data/217.1/de).
+[^42a-2]: sGS [217.15](https://www.gesetzessammlung.sg.ch/data/217.15/de).
+
+#### Art. 42b
+
+**Drittmittelfinanzierte Exzellenzförderung**
+
+<sup>1</sup> Zur Anerkennung und Förderung von exzellenten Leistungen insbesondere im Rahmen der Lehr- und Forschungstätigkeit kann die Universität Dozierenden einmalige oder wiederkehrende zusätzliche Leistungen und Vergütungen gewähren.
+
+<sup>2</sup> Diese zusätzlichen Leistungen und Vergütungen werden ausschliesslich aus für diesen Zweck von ausserhalb der Universität gestifteten Mitteln finanziert.
+
+<sup>3</sup> Die Ausrichtung der zusätzlichen nach Abs. 2 dieser Bestimmung finanzierten Leistungen und Vergütungen endet mit dem Auslaufen der Finanzierung. Sie dürfen nicht durch öffentliche Mittel nach [Art. 61](https://www.gesetzessammlung.sg.ch/data/217.1/de/art61) Bst. a–d des Universitätsgesetzes vom 14. November 2023[^42b-1] weitergeführt werden.
+
+<sup>4</sup> Der Universitätsrat regelt die Einzelheiten und das Controlling.
+
+[^42b-1]: sGS [217.1](https://www.gesetzessammlung.sg.ch/data/217.1/de).
 
 ### 2. Lehrbeauftragte
 
