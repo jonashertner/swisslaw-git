@@ -4,13 +4,12 @@ number: "642.1"
 title: Steuergesetz
 short: StG
 language: de
-version: 2026-01-01
-valid_until: 2027-12-31
+version: 2028-01-01
 version_adopted: 2024-09-12
 adopted: 1976-03-10
 in_force: 1977-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/642.1"
-pdf: "https://lex.vs.ch/api/de/versions/3446/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3446/pdf_file"
 
 (StG)
 
-vom 10.03.1976 (Stand 01.01.2026)
+vom 10.03.1976 (Stand 01.01.2028)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -3362,7 +3361,7 @@ Im Fall der zeitweisen Abwesenheit eines Mitglieds können die Kommissionen weit
 <sup>1</sup> Steuererhebungsbehörde:
 
 - a) für die Kantonssteuern auf das Einkommen und Vermögen der natürlichen Personen sowie die Kantonssteuern der juristischen Personen, die Liegenschaftsgewinn-, Erbschafts- und Schenkungssteuern, für die Quellensteuern (Art. 108): die kantonale Steuerverwaltung;
-- b) Für die Gemeindesteuern auf das Einkommen und Vermögen der natürlichen Personen, für die Gemeindesteuer der juristischen Personen, für die Grundstücksteuer und für die Hundesteuer der Gemeinde: die Gemeindeverwaltungen.
+- b) für die Gemeindesteuern auf das Einkommen und Vermögen der natürlichen Personen, für die Gemeindesteuer der juristischen Personen, für die Grundstücksteuer: die Gemeindeverwaltungen oder auf Delegation der betroffenen Gemeinde hin, die kantonale Steuerverwaltung;
 - c) für die Hundesteuer der Gemeinde: die Gemeindeverwaltungen.
 
 <sup>2</sup> Erlassbehörde:

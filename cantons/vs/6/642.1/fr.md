@@ -4,13 +4,12 @@ number: "642.1"
 title: Loi fiscale
 short: LF
 language: fr
-version: 2026-01-01
-valid_until: 2027-12-31
+version: 2028-01-01
 version_adopted: 2024-09-12
 adopted: 1976-03-10
 in_force: 1977-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/642.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3446/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3447/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3446/pdf_file"
 
 (LF)
 
-du 10.03.1976 (état 01.01.2026)
+du 10.03.1976 (état 01.01.2028)
 
 Le Grand Conseil du canton du Valais
 
@@ -3356,7 +3355,7 @@ L'autorité de réclamation de l'impôt sur le revenu, de l'impôt sur la fortun
 <sup>1</sup> Autorités de perception:
 
 - a) pour les impôts cantonaux sur le revenu et la fortune des personnes physiques, pour les impôts cantonaux des personnes morales, pour l'impôt sur les gains immobiliers, pour l'impôt sur les successions et donations, pour l'impôt à la source (article 108): le Service cantonal des contributions;
-- b) pour les impôts communaux sur le revenu et la fortune des personnes physiques, pour les impôts communaux des personnes morales, pour l'impôt foncier et pour l'impôt communal sur les chiens: les administrations communales.
+- b) pour les impôts communaux sur le revenu et la fortune des personnes physiques, pour les impôts communaux des personnes morales et pour l'impôt foncier: les administrations communales ou, sur délégation, de la commune concernée, le Service cantonal des contributions;
 - c) pour l'impôt communal sur les chiens: les administrations communales.
 
 <sup>2</sup> Autorités pour la remise des impôts:
