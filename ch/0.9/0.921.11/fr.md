@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: "Accord international de 2006 sur les bois tropicaux, du 27 janvier 2006 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: fr
-version: 2026-05-27
+version: 2026-12-07
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20260527/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20260527-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20260527/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20261207/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20261207-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20261207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 27 avril 2007
 
 Entré en vigueur pour la Suisse le 7 décembre 2011
 
-(État le 27 mai 2026)
+(État le 7 décembre 2026)
 
 [^t-1]: [RO 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -709,7 +709,7 @@ Le Conseil procède à la liquidation des comptes d’un membre qui cesse d’ê
 
 <sup>7.</sup> Le Conseil notifie au dépositaire toute décision prise enapplication duprésent article.
 
-[^44-1]: Par Décision 4 (LVII), adoptée lors de sa cinquante-septième session le 3 déc. 2021, le Conseil international des bois tropicaux a décidé, conformément au deuxième paragraphe de l’art. 44, de proroger l’Accord jusqu’au 6 déc. 2026 ([RO 2022 31](https://fedlex.data.admin.ch/eli/oc/2022/31)).
+[^44-1]: Par Décision 4 (LVII), adoptée lors de sa cinquante-septième session le 3 déc. 2021, le Conseil international des bois tropicaux a décidé, conformément au deuxième paragraphe de l’art. 44, de proroger l’Accord jusqu’au 6 déc. 2026 ([RO 2022 31](https://fedlex.data.admin.ch/eli/oc/2022/31)), puis, par Décision 1 (LIX.1), adoptée le 27 mai 2024, jusqu’au 6 déc. 2029 ([RO 2024 368](https://fedlex.data.admin.ch/eli/oc/2024/368)).
 
 #### Art. 45
 
@@ -910,18 +910,18 @@ Champ d’application le 27 mai 2026[^t-2]
 <tr><td>Panama</td><td>14 février</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>16 décembre</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Pays-Bas <sup>d</sup></td><td>30 septembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Pérou</td><td>16 juin</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Philippines</td><td>8 juillet</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Pologne</td><td>5 novembre</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Portugal</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Pérou</td><td>16 juin</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Roumanie</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Royaume-Uni</td><td>5 mars</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>République centrafricaine</td><td>4 novembre</td><td>2014</td><td>4 novembre</td><td>2014</td></tr>
 <tr><td>République tchèque</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Roumanie</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Royaume-Uni</td><td>5 mars</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Slovaquie</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Slovénie</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Suisse</td><td>27 avril</td><td>2007</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Suède</td><td>28 octobre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Suisse</td><td>27 avril</td><td>2007</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Suriname</td><td>28 février</td><td>2014 A</td><td>28 février</td><td>2014</td></tr>
 <tr><td>Thaïlande</td><td>1<sup>er</sup> septembre</td><td>2015 A</td><td>1<sup>er</sup> septembre</td><td>2015</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>5 novembre</td><td>2012 A</td><td>5 janvier</td><td>2012</td></tr>

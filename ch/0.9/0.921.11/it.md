@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: Accordo internazionale del 2006 sui legni tropicali del 27 gennaio 2006 (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: it
-version: 2026-05-27
+version: 2026-12-07
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20260527/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20260527-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20260527/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20261207/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20261207-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20261207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 27 gennaio 2006 Approvato dall’Assemblea federale il 12 marzo 2007[^t-1] Ratificato dalla Svizzera con strumento depositato il 27 aprile 2007 Entrato in vigore per la Svizzera il 7 dicembre 2011
 
-(Stato 27 maggio 2026)
+(Stato 7 dicembre 2026)
 
 [^t-1]: [RU 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -689,7 +689,7 @@ Il Consiglio provvede alla liquidazione dei conti di un membro che cessi di far 
 
 **Durata, proroga e risoluzione**
 
-<sup>1.</sup> Il presente accordo resta in vigore per un periodo di dieci anni a decorrere dalla data dell’entrata in vigore[^44-1], a meno che il Consiglio non decida, con voto speciale in conformità dell’articolo 12, di prorogarlo, di rinegoziarlo o di risolverlo in conformità delle disposizioni del presente articolo.
+<sup>1.</sup> Il presente accordo resta in vigore per un periodo di dieci anni a decorrere dalla data dell’entrata in vigore, a meno che il Consiglio non decida, con voto speciale in conformità dell’articolo 12, di prorogarlo, di rinegoziarlo o di risolverlo in conformità delle disposizioni del presente articolo.[^44-1]
 
 <sup>2.</sup> Il Consiglio può decidere, con voto speciale in conformità dell’articolo 12, di prorogare il presente accordo per due periodi, di cui un periodo iniziale di cinque anni e un periodo aggiuntivo di tre anni
 
@@ -703,7 +703,7 @@ Il Consiglio provvede alla liquidazione dei conti di un membro che cessi di far 
 
 <sup>7.</sup> Il Consiglio notifica al depositario qualsiasi decisione presa a norma del presente articolo.
 
-[^44-1]: Con Dec. 4 (LVII), adottata il 3 dic. 2021 in occasione della sua cinquantasettesima sessione, il Consiglio internazionale dei legni tropicali ha deciso, in applicazione del para. 2, di prorogare l’Acc. fino al 6 dic. 2026 ([RU 2022 31](https://fedlex.data.admin.ch/eli/oc/2022/31)).
+[^44-1]: Con Dec. 4 (LVII), adottata il 3 dic. 2021 in occasione della sua cinquantasettesima sessione, il Consiglio internazionale dei legni tropicali ha deciso, in applicazione del para. 2, di prorogare l’Acc. fino al 6 dic. 2026 ([RU 2022 31](https://fedlex.data.admin.ch/eli/oc/2022/31)) e Con Dec. 1 (LIX.1), adottata il 27 mag. 2024, fino al 6 dic. 2029 ([RU 2024 368](https://fedlex.data.admin.ch/eli/oc/2024/368)).
 
 #### Art. 45
 
