@@ -3,20 +3,19 @@ canton: SG
 number: "351.52"
 title: Verordnung über die nach Ergänzungsleistungsgesetz anrechenbare Tagespauschale
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-12-09
+version: 2027-01-01
+version_adopted: 2026-09-01
 adopted: 2007-12-04
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/351.52"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3856/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3938/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die nach Ergänzungsleistungsgesetz anrechenbare Tagespauschale
 
-vom 04.12.2007 (Stand 01.01.2026)
+vom 04.12.2007 (Stand 01.01.2027)
 
 Die Regierung des Kantons St.Gallen
 
@@ -33,7 +32,11 @@ als Verordnung[^ingress-2]
 
 **Tagespauschale a) im Allgemeinen**
 
-<sup>1</sup> Die bei Aufenthalt in Heim oder Spital nach dem Ergänzungsleistungsgesetz vom 22. September 1991[^1-1] höchstens anrechenbare Tagespauschale für Pension und Betreuung beträgt Fr. 180.–.
+<sup>1</sup> Die bei Aufenthalt in Heim oder Spital nach dem Ergänzungsleistungsgesetz vom 22. September 1991[^1-1] höchstens anrechenbare Tagespauschale für Pension und Betreuung beträgt:
+
+- a) für das Jahr 2027 Fr. 185.–;
+- b) für das Jahr 2028 Fr. 190.–;
+- c) für das Jahr 2029 Fr. 196.–.
 
 <sup>2</sup> Fallen Pflegekosten nach Art. 8 Abs. 1 des Gesetzes über die Pflegefinanzierung vom 13. Februar 2011[^1-2] an, erhöht sich die höchstens anrechenbare Tagespauschale um diesen Betrag.
 
