@@ -4,11 +4,11 @@ title: "Ordinanza del 30 aprile 2014 sulle banche e le casse di risparmio (Ordin
 short: OBCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20250101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/it"
 
 (Ordinanza sulle banche, OBCR)
 
-del 30 aprile 2014 (Stato 1° gennaio 2025)
+del 30 aprile 2014 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge dell’8 novembre 1934[^ingress-1] sulle banche (LBCR)
 
 ordina:
 
-[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -52,7 +52,7 @@ La presente ordinanza disciplina segnatamente:
 
 - c. per le banche di rilevanza sistemica: la pianificazione d’emergenza e il miglioramento delle loro possibilità di risanamento e di liquidazione.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 2
 
@@ -77,12 +77,12 @@ Le banche sono suddivise dall’Autorità federale di vigilanza sui mercati fina
 
 <sup>5</sup> Almeno ogni cinque anni il Dipartimento federale delle finanze verifica d’intesa con la FINMA i valori soglia dei criteri di cui al capoverso 2 lettere a–c. A tal fine si orienta all’evoluzione a lungo termine della somma dei valori di tutte le banche in Svizzera in relazione al criterio corrispondente e propone al Consiglio federale eventuali adeguamenti.[^2-6]
 
-[^2-1]: Abrogato dal n. I dell’O del 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^2-1]: Abrogato dalla cifra I dell’O del 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^2-3]: Introdotto dall’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^2-4]: Introdotto dall’appendice n. 1 dell’O dell’11 mag. 2015 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^2-5]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^2-6]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^2-4]: Introdotto dall’appendice n. 1 dell’O dell’11 mag. 2015 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^2-5]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^2-6]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 3
 
@@ -92,7 +92,7 @@ Le banche sono suddivise dall’Autorità federale di vigilanza sui mercati fina
 
 Gli enti e istituti di diritto pubblico, come pure le casse di cui siffatti enti e istituti di diritto pubblico garantiscono integralmente gli impegni, non sono considerati banche o persone di cui all’articolo 1*b* LBCR[^3-1] anche se accettano depositi del pubblico a titolo professionale.
 
-[^3-1]: Nuova espressione giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-1]: Nuova espressione giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 3a
 
@@ -122,10 +122,10 @@ Le funzioni di una società del gruppo sono importanti per le attività soggette
 
 <sup>2</sup> L’attività delle imprese di assicurazione (settore assicurativo) è equiparata all’attività nel settore finanziario sempreché la presente ordinanza o l’ordinanza del 1° giugno 2012[^4-4] sui fondi propri (OFoP) non prevedano regolamentazioni derogative per queste imprese.
 
-[^4-1]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^4-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^4-3]: Introdotta dal n. III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^4-4]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^4-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-3]: Introdotta dalla cifra III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^4-4]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 5
 
@@ -179,11 +179,11 @@ Non sono considerati depositi:
 - f. i fondi il cui rimborso e la cui remunerazione sono garantiti da una banca (garanzia del rischio di insolvenza).
 
 [^5-1]: Nuovo testo giusta l’all. 11 n. 2 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^5-3]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^5-4]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^5-5]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^5-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^5-3]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-4]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-5]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^5-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 5a
 
@@ -207,7 +207,7 @@ Non sono considerati beni crittografici secondo il capoverso 1 i valori patrimon
 - b. di banche svizzere ed estere o di altre imprese sottoposte a vigilanza statale;
 - c. di investitori istituzionali aventi una tesoreria professionale.
 
-[^5a-1]: Introdotto dal n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5a-1]: Introdotto dalla cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 6
 
@@ -237,12 +237,12 @@ Non agisce a titolo professionale ai sensi della LBCR chiunque accetta sul lungo
 
 <sup>4</sup> Chiunque superi il valore soglia di cui al capoverso 2 lettera a deve notificarlo alla FINMA entro dieci giorni e presentarle una domanda di autorizzazione secondo le prescrizioni della LBCR entro 30 giorni. Se l’obiettivo di protezione della LBCR lo impone, la FINMA può vietare al richiedente di accettare ulteriori depositi del pubblico finché non si sarà pronunciata sulla domanda di autorizzazione.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
-[^6-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^6-3]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^6-4]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^6-5]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^6-6]: Abrogato dal n. I dell’O del 30 nov. 2018, con effetto dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
+[^6-2]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-3]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-4]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-5]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-6]: Abrogato dalla cifra I dell’O del 30 nov. 2018, con effetto dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 7
 
@@ -252,7 +252,7 @@ Non agisce a titolo professionale ai sensi della LBCR chiunque accetta sul lungo
 
 Le persone che non sono legittimate ad accettare depositi del pubblico o beni crittografici custoditi collettivamente a titolo professionale non possono fare pubblicità a tale scopo in nessuna forma.
 
-[^7-1]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 7a
 
@@ -275,9 +275,9 @@ Le persone di cui all’articolo 1*b* LBCR informano i propri clienti per scritt
 
 <sup>5</sup> Per supporto di dati durevole si intende un supporto cartaceo o qualsiasi altro mezzo che consenta la memorizzazione e la riproduzione inalterata di un’informazione.
 
-[^7a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^7a-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^7a-3]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^7a-2]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7a-3]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 7b
 
@@ -290,8 +290,8 @@ La rappresentanza di una banca estera che fornisce servizi finanziari secondo l�
 - a. osservare le disposizioni della LSerFi;
 - b. provvedere all’iscrizione dei suoi consulenti alla clientela in un registro dei consulenti secondo l’articolo 28 LSerFi se questi non forniscono i propri servizi in Svizzera esclusivamente a clienti professionali o istituzionali secondo l’articolo 4 LSerFi.
 
-[^7b-1]: Introdotto dal n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^7b-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^7b-1]: Introdotto dalla cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7b-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Capitolo 2: Autorizzazioni
 
@@ -299,7 +299,7 @@ La rappresentanza di una banca estera che fornisce servizi finanziari secondo l�
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 8
 
@@ -333,8 +333,8 @@ La domanda di autorizzazione per l’apertura di una nuova banca o persona di cu
 
 <sup>2</sup> Le persone che detengono una partecipazione qualificata devono consegnare alla FINMA una dichiarazione nella quale precisano se detengono la partecipazione per proprio conto o a titolo fiduciario per conto di terzi e se su questa partecipazione hanno concesso opzioni o diritti simili.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^8-2]: Nuovo testo giusta l’all. 10 n. II 29 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^8-2]: Nuovo testo giusta l’all. 10 cifra II n. 29 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 8a
 
@@ -346,13 +346,13 @@ La domanda di autorizzazione per l’apertura di una nuova banca o persona di cu
 
 <sup>2</sup> Se il mutamento è di grande importanza, per proseguire la propria attività esse devono ottenere previamente l’autorizzazione della FINMA.
 
-[^8a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 ### Sezione 2: Organizzazione delle banche
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 9
 
@@ -405,7 +405,7 @@ La direzione effettiva della banca deve situarsi in Svizzera. Sono fatte salve l
 <sup>5</sup> La FINMA disciplina le esigenze in materia di pubblicazione delle informazioni sull’organizzazione e sui rischi, in particolare sulla gestione dei rischi e sulle retribuzioni.[^12-3]
 
 [^12-1]: Nuovo testo del rimando giusta l’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^12-2]: Introdotto dall’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^12-2]: Introdotto dall’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^12-3]: Introdotto dall’all. n. 2 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 13
@@ -432,7 +432,7 @@ I banchieri privati devono inserire nel contratto di società o in un regolament
 
 [^chap2-sec2a-1]
 
-[^chap2-sec2a-1]: Introdotta dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^chap2-sec2a-1]: Introdotta dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 14a
 
@@ -536,11 +536,11 @@ I beni crittografici devono essere custoditi come segue:
 
 <sup>5</sup> In singoli casi fondati la FINMA può ammettere eccezioni all’obbligo secondo il capoverso 4 lettera a.[^14f-5]
 
-[^14f-1]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^14f-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^14f-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
-[^14f-4]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^14f-5]: Introdotto dal n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-2]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-3]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
+[^14f-4]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-5]: Introdotto dalla cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14g
 
@@ -576,8 +576,8 @@ I beni crittografici devono essere custoditi come segue:
 
 <sup>2</sup> Ai conferimenti in natura si applica per analogia l’articolo 15 capoverso 2.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^16-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^16-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 17
 
@@ -601,10 +601,10 @@ In casi particolari la FINMA può autorizzare eccezioni alle prescrizioni in mat
 
 <sup>3</sup> Le disposizioni dell’OFoP[^17a-3] e dell’OLiq[^17a-4] non si applicano alle persone di cui all’articolo 1*b* LBCR.
 
-[^17a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^17a-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^17a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^17a-4]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^17a-1]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^17a-2]: Nuovo testo giusta la cifra I n. 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^17a-3]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^17a-4]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 
 ### Sezione 4: Fattispecie transfrontaliere
 
@@ -722,7 +722,7 @@ Nell’ambito della vigilanza su base consolidata la FINMA verifica segnatamente
 
 <sup>3</sup> L’indipendenza può segnatamente essere data in presenza di modelli o scopi aziendali nettamente diversi.
 
-[^24a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 ## Capitolo 4: Presentazione dei conti
 
@@ -761,7 +761,7 @@ L’articolo 962 capoverso 1 numero 2 CO non si applica alle società cooperativ
 
 <sup>5</sup> Le persone ai sensi dell’articolo 962 capoverso 2 CO possono chiedere un conto annuale secondo il principio della rappresentazione corretta e veritiera se la banca non allestisce un conto di gruppo ai sensi degli articoli 33–41 o in base a una norma contabile internazionale riconosciuta dalla FINMA.
 
-[^25-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 26
 
@@ -785,7 +785,7 @@ L’allestimento del conto annuale è retto in particolare dai seguenti principi
 - h. divieto della compensazione tra attivi e passivi e tra costi e ricavi;
 - i. ottica economica.
 
-[^26-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 27
 
@@ -797,7 +797,7 @@ L’allestimento del conto annuale è retto in particolare dai seguenti principi
 
 <sup>2</sup> Gli attivi, i debiti e le operazioni fuori bilancio sono di norma valutati singolarmente, in quanto siano essenziali e non siano abitualmente valutati per gruppi a causa della loro affinità. Le partecipazioni, le immobilizzazioni materiali e i valori immateriali sono in ogni caso valutati singolarmente.
 
-[^27-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 28
 
@@ -815,7 +815,7 @@ L’articolazione del conto annuale è retta dall’allegato 1.
 
 La relazione annuale della banca è retta dall’articolo 961*c* CO[^29-1].
 
-[^29-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 30
 
@@ -841,13 +841,15 @@ Il rapporto di gestione ai sensi dell’articolo 6 capoverso 1 LBCR contiene la 
 
 ### (art. 6*a*, 6*b* cpv. 1 e 3 LBCR)
 
-<sup>1</sup> Il rapporto di gestione deve essere reso accessibile al pubblico entro quattro mesi e le chiusure intermedie entro due mesi dalla data della chiusura. Devono essere messi a disposizione in forma stampata.
+<sup>1</sup> Il rapporto di gestione deve essere reso accessibile al pubblico entro quattro mesi e le chiusure intermedie entro due mesi dalla data della chiusura. Devono essere messi a disposizione in versione cartacea o elettronica.[^32-1]
 
 <sup>2</sup> Il rapporto di gestione e le chiusure intermedie devono essere inoltrati alla FINMA. La FINMA disciplina nelle disposizioni di esecuzione il numero di esemplari, le modalità e il termine di inoltro del rapporto di gestione e delle chiusure intermedie.
 
 <sup>3</sup> La FINMA può prorogare i termini su richiesta della banca.
 
 <sup>4</sup> I banchieri privati sono esonerati dall’obbligo di pubblicazione se la loro pubblicità si riferisce unicamente all’attività di amministratori di beni o di commercianti di valori mobiliari e non comprende l’accettazione di depositi.
+
+[^32-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### Sezione 2: Conto di gruppo
 
@@ -950,7 +952,7 @@ Le persone ai sensi dell’articolo 961*d* capoverso 2 CO[^36-1] possono chieder
 - a. un conto annuale completo e una relazione annuale;
 - b. la pubblicazione di una chiusura intermedia a livello di società singola.
 
-[^36-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^36-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
@@ -964,7 +966,7 @@ Nelle disposizioni di esecuzione la FINMA stabilisce le prescrizioni particolari
 
 La relazione annuale di gruppo è retta dall’articolo 961*c* CO[^38-1].
 
-[^38-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -1010,7 +1012,7 @@ La FINMA precisa le disposizioni della presente ordinanza in materia di presenta
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^chap4a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 42a
 
@@ -1048,13 +1050,15 @@ Non sono considerati depositi privilegiati in particolare:
 
 #### Art. 42b
 
-**Importo privilegiato**
+**Importo privilegiato**[^42b-1]
 
 ### (art. 37*a* cpv. 1 e 7 nonché 37*b* cpv. 1 LBCR)
 
-<sup>1</sup> Per stabilire l’ammontare dell’importo privilegiato secondo l’articolo 37*a* capoverso 1 LBCR dei depositi privilegiati si sommano i singoli saldi a favore del depositante, compresi gli interessi maturati.
+<sup>1</sup> L’ammontare dell’importo privilegiato risulta dalla somma dei singoli saldi determinati per i depositi privilegiati al momento dell’ordine di una misura di protezione di cui all’articolo 26 capoverso 1 lettere e–h LBCR o dell’ordine di fallimento della banca. Per la determinazione dei saldi si tiene conto degli interessi passivi e attivi e degli emolumenti e si deduce un’eventuale imposta preventiva.
 
-<sup>2</sup> Non possono essere presi in considerazione le ipoteche, i prestiti o gli scoperti di altri conti né gli interessi e gli emolumenti a favore della banca non allibrati, indipendentemente dalla loro maturazione, esigibilità o scadenza.
+<sup>2</sup> Non possono essere considerati le ipoteche, i prestiti, gli scoperti di altri conti e altri crediti a favore della banca, indipendentemente dalla loro maturazione, esigibilità o scadenza.
+
+[^42b-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 42c
 
@@ -1079,11 +1083,11 @@ Non sono considerati depositanti privilegiati:
 
 <sup>4</sup> Un depositante che detiene depositi privilegiati presso un ufficio estero della banca è considerato, per questi depositi, un depositante a sé stante e indipendente.
 
-[^42c-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^42c-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^42c-3]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^42c-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^42c-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^42c-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^42c-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^42c-3]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^42c-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^42c-5]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 42d
 
@@ -1099,7 +1103,7 @@ Non sono considerati depositanti privilegiati:
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 42e
 
@@ -1109,7 +1113,7 @@ Non sono considerati depositanti privilegiati:
 
 La banca deve presentare al responsabile della garanzia dei depositi la richiesta di adesione almeno tre mesi prima dell’accettazione di depositi privilegiati.
 
-[^42e-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^42e-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 42f
 
@@ -1119,7 +1123,7 @@ La banca deve presentare al responsabile della garanzia dei depositi la richiest
 
 Le banche delle categorie 4 e 5 possono concedere al responsabile della garanzia dei depositi prestiti in contanti per assicurare i loro impegni contributivi.
 
-[^42f-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^42f-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 42g
 
@@ -1134,7 +1138,7 @@ Per garantire la possibilità di allestire il piano di pagamento, contattare i d
 - c. elenco dei depositanti: gestiscono un elenco dei depositanti (art. 42*i* cpv. 1) che consente all’incaricato dell’inchiesta, all’incaricato del risanamento o al liquidatore del fallimento (mandatario) di stabilire, entro 72 ore dall’ordine di una misura di protezione di cui all’articolo 26 capoverso 1 lettere e–h LBCR o dall’ordine di fallimento della banca, i depositi garantiti di ciascun depositante;
 - d. elenco riepilogativo: tengono un elenco riepilogativo dei depositi privilegiati che non rientrano tra i depositi garantiti (art. 42*i* cpv. 2). I depositi detenuti presso uffici esteri devono essere esposti per ciascuna Giurisdizione come saldo complessivo dei depositi privilegiati.
 
-[^42g-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^42g-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 42h
 
@@ -1144,7 +1148,7 @@ Per garantire la possibilità di allestire il piano di pagamento, contattare i d
 
 <sup>2</sup> Le banche con meno di 2500 depositanti devono tenere soltanto un elenco dei depositanti e un elenco riepilogativo.
 
-[^42h-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^42h-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 42i
 
@@ -1164,7 +1168,7 @@ Nell’elenco riepilogativo sono riportati i depositi privilegiati che non rient
 
 <sup>3</sup> Il responsabile della garanzia dei depositi definisce il formato dell’elenco dei depositanti.
 
-[^42i-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^42i-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 43
 
@@ -1176,7 +1180,7 @@ Nell’elenco riepilogativo sono riportati i depositi privilegiati che non rient
 
 <sup>2</sup> In presenza di indizi secondo i quali la contabilità non sia stata tenuta in modo regolare, il mandatario può sollecitare i depositanti a comprovare la legittimità del loro credito.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 44
 
@@ -1192,7 +1196,7 @@ Nell’elenco riepilogativo sono riportati i depositi privilegiati che non rient
 
 <sup>4</sup> I crediti delle fondazioni del pilastro 3a e di libero passaggio sono pagati alle rispettive fondazioni.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 44a
 
@@ -1204,7 +1208,7 @@ Nell’elenco riepilogativo sono riportati i depositi privilegiati che non rient
 
 <sup>2</sup> Il responsabile della garanzia dei depositi assicura la tutela della confidenzialità e disciplina la gestione dei conflitti d’interesse.
 
-[^44a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^44a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ## Capitolo 6: Averi non rivendicati
 
@@ -1449,7 +1453,7 @@ La banca o persona di cui all’articolo 1*b* LBCR liquidante conserva conformem
 
 <sup>4</sup> La banca di rilevanza sistemica deve aggiornare il piano d’emergenza entro la fine del secondo trimestre di ogni anno e presentarlo alla FINMA. Gli aggiornamenti devono essere presentati anche qualora intervengano modifiche che comportano una rielaborazione o su richiesta della FINMA.
 
-[^60-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^60-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^60-2]: Nuovo testo giusta l’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 61
@@ -1516,13 +1520,13 @@ Una banca di rilevanza sistemica non adempie le prescrizioni relative ai fondi p
 
 Gli impegni derivanti da operazioni di copertura relative all’emissione di obbligazioni soggette a bail-in non devono essere presi in considerazione nel calcolo del limite massimo del 5 per cento di cui all’articolo 30*b* capoverso 8 LBCR.
 
-[^63a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^63a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ### Sezione 2: Capacità di risanamento e di liquidazione
 
 [^chap7-sec2-1]
 
-[^chap7-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^chap7-sec2-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 64
 
@@ -1540,8 +1544,8 @@ Gli impegni derivanti da operazioni di copertura relative all’emissione di obb
 
 <sup>5</sup> Al momento della presentazione, una banca di rilevanza sistemica attiva a livello internazionale secondo l’articolo 124 OFoP[^64-1] documenta le misure predisposte o attuate per adempiere i criteri indicati nell’articolo 65*a* capoverso 2 relativi alla capacità di risanamento e di liquidazione in Svizzera e all’estero.[^64-2]
 
-[^64-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^64-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^64-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^64-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 65
 
@@ -1551,8 +1555,8 @@ Gli impegni derivanti da operazioni di copertura relative all’emissione di obb
 
 Una banca di rilevanza sistemica attiva a livello internazionale secondo l’articolo 124*a* OFoP[^65-2] deve mantenere la sua capacità di risanamento e di liquidazione in Svizzera e all’estero.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^65-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^65-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 65a
 
@@ -1576,7 +1580,7 @@ La FINMA procede alla valutazione basandosi in particolare sui seguenti criteri:
 - h. la banca garantisce i presupposti operativi per il risanamento attraverso una riduzione dei crediti o la conversione di capitale di terzi in capitale proprio con la partecipazione dei creditori;
 - i. la banca dispone di una strategia con diverse opzioni di ristrutturazione del modello aziendale.
 
-[^65a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^65a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 65b
 
@@ -1593,15 +1597,15 @@ Se constata ostacoli alla capacità di risanamento e di liquidazione in Svizzera
 
 <sup>2</sup> Per la valutazione della capacità di risanamento e di liquidazione e la determinazione di misure, la FINMA può consultare autorità estere in materia di vigilanza e di insolvenza e tenere conto della loro valutazione.
 
-[^65b-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^65b-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^65b-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^65b-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^65b-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^65b-3]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 
 ### Sezione 3: Informazione del pubblico
 
 [^chap7-sec3-1]
 
-[^chap7-sec3-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^chap7-sec3-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 66
 
@@ -1609,13 +1613,13 @@ Se constata ostacoli alla capacità di risanamento e di liquidazione in Svizzera
 
 La FINMA pubblica annualmente la sua valutazione della pianificazione d’emergenza e del piano di stabilizzazione delle banche di rilevanza sistemica nonché della capacità di risanamento e liquidazione in Svizzera e all’estero delle banche di rilevanza sistemica attive a livello internazionale e informa sullo stato del piano di liquidazione. A tal fine fornisce informazioni sugli accertamenti di rilievo.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ### Sezione 4: Società del gruppo importanti di banche di rilevanza sistemica con sede in Svizzera
 
 [^chap7-sec4-1]
 
-[^chap7-sec4-1]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^chap7-sec4-1]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 66a
 
@@ -1677,8 +1681,8 @@ La modifica di altri atti normativi è disciplinata nell’allegato 2.
 
 <sup>5</sup> Per l’attuazione delle misure ai sensi dell’articolo 12 capoverso 2<sup>bis</sup> la FINMA può accordare alle banche termini adeguati tenendo conto degli standard internazionali riconosciuti.[^69-3]
 
-[^69-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^69-2]: Nuovo testo giusta il n. III 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^69-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^69-2]: Nuovo testo giusta la cifra III n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^69-3]: Introdotto dall’all. 1 n. 11 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 69a
@@ -1689,7 +1693,7 @@ La modifica di altri atti normativi è disciplinata nell’allegato 2.
 
 <sup>2</sup> Le banche di rilevanza sistemica attive a livello internazionale devono presentare la documentazione di cui all’articolo 64 capoverso 5 la prima volta a fine giugno 2024.
 
-[^69a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^69a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 70
 
@@ -1699,11 +1703,13 @@ La modifica di altri atti normativi è disciplinata nell’allegato 2.
 
 <sup>2</sup> La FINMA può consentire l’applicazione anticipata delle nuove prescrizioni sulla presentazione dei conti conformemente al capitolo 4 per l’esercizio che inizia prima dell’entrata in vigore della presente ordinanza.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 28)
 
 ## Articolazione minima del conto annuale
+
+[^t-1]: Aggiornato dall’all. n. 1 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### A. Bilancio
 
@@ -1924,7 +1930,7 @@ L’allegato deve essere strutturato come segue:
 - e. spiegazioni relative alla valutazione delle coperture dei crediti, in particolare a criteri importanti per la determinazione del valore venale e del valore d’anticipo;
 - f. spiegazioni riguardanti la politica aziendale in caso di ricorso a strumenti finanziari derivati, comprese le spiegazioni riguardanti l’applicazione dell’«hedge accounting»;
 - g. spiegazioni riguardanti eventi importanti successivi alla data di chiusura del bilancio;
-- h. motivi che hanno indotto le dimissioni anticipate dell’ufficio di revisione;
+- h. motivi che hanno indotto le dimissioni anticipate o la revoca dell’ufficio di revisione;
 - i.
 
   informazioni sul bilancio:
@@ -1981,8 +1987,8 @@ L’allegato deve essere strutturato come segue:
   - 40\. indicazioni e spiegazioni relative al risultato per ogni diritto di partecipazione nel caso di banche i cui titoli di partecipazione sono quotati.
 
 [^annex1-lvlu1-lvlE-1]: [[RU 2013 4403](https://fedlex.data.admin.ch/eli/oc/2013/782). [RU 2022 113](https://fedlex.data.admin.ch/eli/oc/2022/113)].
-[^annex1-lvlu1-lvlE-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2023.
-[^annex1-lvlu1-lvlE-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex1-lvlu1-lvlE-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2023.
+[^annex1-lvlu1-lvlE-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 Allegato 2
 
@@ -1996,13 +2002,13 @@ Le ordinanze qui appresso sono modificate come segue:
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273).
 
-Allegato 3[^t-1]
+Allegato 3[^t-2]
 
 (art. 2 cpv. 2 e 3)
 
 ## Categorizzazione delle banche
 
-[^t-1]: Introdotto dal n. III 1 dell’O dell’11 mag. 2015 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-2]: Introdotto dalla cifra III n. 1 dell’O dell’11 mag. 2015 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nuovo testo giusta la cifra II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th></th><th colspan="4">**Criteri e valori soglia in mia. di fr.**</th></tr>

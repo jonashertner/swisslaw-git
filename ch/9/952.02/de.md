@@ -4,11 +4,11 @@ title: "Verordnung vom 30. April 2014 über die Banken und Sparkassen (Bankenver
 short: BankV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20250101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/de"
 
 (Bankenverordnung, BankV)
 
-vom 30. April 2014 (Stand am 1. Januar 2025)
+vom 30. April 2014 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Bankengesetz vom 8. November 1934[^ingress-1] (BankG),
 
 verordnet:
 
-[^ingress-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^ingress-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -125,7 +125,7 @@ Im Finanzbereich tätig ist, wer:
 [^4-1]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^4-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^4-3]: Eingefügt durch Ziff. III der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^4-4]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^4-4]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 5
 
@@ -179,11 +179,11 @@ Nicht als Einlagen gelten:
 - f. Gelder, deren Rückzahlung und Verzinsung durch eine Bank garantiert werden (Ausfallgarantie).
 
 [^5-1]: Fassung gemäss Anhang 11 Ziff. 2 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^5-3]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^5-4]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^5-5]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^5-5]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^5-6]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 5a
 
@@ -290,7 +290,7 @@ Die Vertretung einer ausländischen Bank, die Finanzdienstleistungen nach Artike
 - b. ihre Kundenberaterinnen und -berater in ein Beraterregister nach Artikel 28 FIDLEG eintragen lassen, wenn diese ihre Dienstleistungen in der Schweiz nicht ausschliesslich gegenüber professionellen oder institutionellen Kunden nach Artikel 4 FIDLEG erbringen.
 
 [^7b-1]: Eingefügt durch Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^7b-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^7b-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## 2. Kapitel: Bewilligungen
 
@@ -539,7 +539,7 @@ Kryptobasierte Vermögenswerte müssen wie folgt gehalten werden:
 
 [^14f-1]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^14f-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^14f-3]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^14f-3]: [SR 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 [^14f-4]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^14f-5]: Eingefügt durch Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
@@ -578,7 +578,7 @@ Kryptobasierte Vermögenswerte müssen wie folgt gehalten werden:
 <sup>2</sup> Auf Sacheinlagen ist Artikel 15 Absatz 2 sinngemäss anwendbar.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^16-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^16-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 17
 
@@ -604,8 +604,8 @@ In besonderen Fällen kann die FINMA Ausnahmen von den Mindestkapitalvorschrifte
 
 [^17a-1]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^17a-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^17a-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^17a-4]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^17a-3]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^17a-4]: [SR 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 
 ### 4. Abschnitt: Grenzüberschreitende Sachverhalte
 
@@ -762,7 +762,7 @@ Artikel 962 Absatz 1 Ziffer 2 OR findet keine Anwendung für Genossenschaften, s
 
 <sup>5</sup> Die Personen nach Artikel 962 Absatz 2 OR können eine Jahresrechnung nach dem True-and-Fair-View-Prinzip verlangen, wenn die Bank weder eine Konzernrechnung nach den Artikeln 33–41 noch eine Konzernrechnung nach einem durch die FINMA anerkannten internationalen Standard erstellt.
 
-[^25-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 26
 
@@ -786,7 +786,7 @@ Die Jahresrechnung folgt insbesondere den Grundsätzen der:
 - h. Unzulässigkeit der Verrechnung von Aktiven und Passiven sowie von Aufwand und Ertrag;
 - i. wirtschaftlichen Betrachtungsweise.
 
-[^26-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 27
 
@@ -798,7 +798,7 @@ Die Jahresrechnung folgt insbesondere den Grundsätzen der:
 
 <sup>2</sup> Aktiven, Verbindlichkeiten und Ausserbilanzgeschäfte werden in der Regel einzeln bewertet, sofern sie wesentlich sind und aufgrund ihrer Gleichartigkeit für die Bewertung nicht üblicherweise als Gruppe zusammengefasst werden. Beteiligungen, Sachanlagen und immaterielle Werte werden in jedem Fall einzeln bewertet.
 
-[^27-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 28
 
@@ -816,7 +816,7 @@ Die Gliederung der Jahresrechnung richtet sich nach Anhang 1.
 
 Der Lagebericht der Bank richtet sich nach Artikel 961*c* OR[^29-1].
 
-[^29-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 30
 
@@ -842,13 +842,15 @@ Der Geschäftsbericht nach Artikel 6 Absatz 1 BankG enthält den zusammenfassend
 
 ### (Art. 6*a*, 6*b* Abs. 1 und 3 BankG)
 
-<sup>1</sup> Der Geschäftsbericht ist innerhalb von vier Monaten und der Zwischenabschluss innerhalb von zwei Monaten nach Abschlusstermin der Öffentlichkeit zugänglich zu machen. Sie sind in gedruckter Form zur Verfügung zu stellen.
+<sup>1</sup> Der Geschäftsbericht ist innerhalb von vier Monaten und der Zwischenabschluss innerhalb von zwei Monaten nach Abschlusstermin der Öffentlichkeit zugänglich zu machen. Sie sind in gedruckter oder in elektronischer Form zur Verfügung zu stellen.[^32-1]
 
 <sup>2</sup> Geschäftsbericht und Zwischenabschlüsse sind der FINMA einzureichen. Die FINMA regelt in Ausführungsbestimmungen, in wie vielen Ausfertigungen, auf welche Art und innert welcher Frist der Geschäftsbericht und der Zwischenabschluss einzureichen sind.
 
 <sup>3</sup> Die FINMA kann die Fristen auf Gesuch der Bank hin erstrecken.
 
 <sup>4</sup> Privatbankiers sind von der Pflicht zur Veröffentlichung befreit, wenn sich ihre Werbung einzig auf ihre Tätigkeit als Vermögensverwalter oder Effektenhändler bezieht und das Einlagengeschäft nicht umfasst.
+
+[^32-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### 2. Abschnitt: Konzernrechnung
 
@@ -951,7 +953,7 @@ Die Personen nach Artikel 961*d* Absatz 2 OR[^36-1] können verlangen:
 - a. eine vollständige Jahresrechnung und einen Lagebericht;
 - b. die Offenlegung eines Zwischenabschlusses auf Einzelstufe.
 
-[^36-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^36-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
@@ -965,7 +967,7 @@ Die FINMA legt die besonderen Gliederungsvorschriften für die Konzernrechnung i
 
 Der Lagebericht des Konzerns richtet sich nach Artikel 961*c* OR[^38-1].
 
-[^38-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -1049,13 +1051,15 @@ Keine privilegierten Einlagen sind insbesondere:
 
 #### Art. 42b
 
-**Privilegierter Betrag**
+**Privilegierter Betrag**[^42b-1]
 
 ### (Art. 37*a* Abs. 1 und 7 sowie 37*b* Abs. 1 BankG)
 
-<sup>1</sup> Zur Feststellung der Höhe des nach Artikel 37*a* Absatz 1 BankG privilegierten Betrags der privilegierten Einlagen werden die einzelnen Saldi einschliesslich der aufgelaufenen Zinsen zugunsten der Einlegerin oder des Einlegers addiert.
+<sup>1</sup> Die Höhe des privilegierten Betrags wird bestimmt, indem für die privilegierten Einlagen die einzelnen Saldi im Zeitpunkt der Anordnung einer Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h BankG oder des Bankenkonkurses ermittelt und diese Saldi addiert werden. Für die Ermittlung der Saldi werden die Soll- und Habenzinsen und die Gebühren berücksichtigt und eine allfällige Verrechnungssteuer abgezogen.
 
-<sup>2</sup> Hypotheken, Darlehen oder in anderen Konti vorliegende Überzüge sowie nicht gebuchte Zinsen und Gebühren zugunsten der Bank dürfen nicht berücksichtigt werden, unabhängig davon, ob sie aufgelaufen, fällig oder verfallen sind.
+<sup>2</sup> Hypotheken, Darlehen, in anderen Konti vorliegende Überzüge und andere Forderungen zugunsten der Bank dürfen nicht verrechnet werden, unabhängig davon, ob sie aufgelaufen, fällig oder verfallen sind.
+
+[^42b-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 42c
 
@@ -1080,11 +1084,11 @@ Nicht als privilegierte Einlegerinnen oder Einleger gelten:
 
 <sup>4</sup> Hält eine Einlegerin oder ein Einleger privilegierte Einlagen bei einer ausländischen Geschäftsstelle der Bank, so gilt sie oder er für diese Einlagen als eigene, unabhängige Einlegerin beziehungsweise als eigener, unabhängiger Einleger.
 
-[^42c-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^42c-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^42c-3]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^42c-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^42c-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^42c-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^42c-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^42c-3]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^42c-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^42c-5]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 42d
 
@@ -1450,7 +1454,7 @@ Die liquidierende Bank oder Person nach Artikel 1*b* BankG bewahrt die Unterlage
 
 <sup>4</sup> Die systemrelevante Bank hat den Notfallplan jährlich bis zum Ende des zweiten Quartals zu aktualisieren und der FINMA einzureichen. Aktualisierungen sind auch einzureichen, wenn Veränderungen eine Überarbeitung notwendig machen oder wenn die FINMA dies verlangt.
 
-[^60-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^60-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^60-2]: Fassung gemäss Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 61
@@ -1541,7 +1545,7 @@ Verbindlichkeiten aus Absicherungsgeschäften im Zusammenhang mit der Ausgabe vo
 
 <sup>5</sup> Eine nach Artikel 124*a* ERV[^64-1] international tätige systemrelevante Bank muss bei der Einreichung dokumentieren, welche Massnahmen sie vorbereitet oder umgesetzt hat, um die in Artikel 65a Absatz 2 aufgeführten Kriterien für die Sanier- und Liquidierbarkeit im In- und Ausland zu erfüllen.[^64-2]
 
-[^64-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^64-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^64-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 65
@@ -1553,7 +1557,7 @@ Verbindlichkeiten aus Absicherungsgeschäften im Zusammenhang mit der Ausgabe vo
 Eine nach Artikel 124*a* ERV[^65-2] international tätige systemrelevante Bank muss ihre Sanier- und Liquidierbarkeit im In- und Ausland aufrechterhalten.
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^65-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^65-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 65a
 
@@ -1595,8 +1599,8 @@ Stellt die FINMA bei einer international tätigen systemrelevanten Bank Hinderni
 <sup>2</sup> Die FINMA kann ausländische Aufsichts- und Insolvenzbehörden konsultieren und die Beurteilung dieser Behörden bei der Beurteilung der Sanier- und Liquidierbarkeit und bei der Festlegung von Massnahmen berücksichtigen.
 
 [^65b-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^65b-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^65b-3]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^65b-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^65b-3]: [SR 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 
 ### 3. Abschnitt: Information der Öffentlichkeit
 
@@ -1678,7 +1682,7 @@ Die Änderung anderer Erlasse wird im Anhang 2 geregelt.
 
 <sup>5</sup> Für die Umsetzung der Massnahmen nach Artikel 12 Absatz 2<sup>bis</sup> kann die FINMA unter Berücksichtigung anerkannter internationaler Standards den Banken angemessene Fristen einräumen.[^69-3]
 
-[^69-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^69-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^69-2]: Fassung gemäss Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^69-3]: Eingefügt durch Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
@@ -1700,11 +1704,13 @@ Die Änderung anderer Erlasse wird im Anhang 2 geregelt.
 
 <sup>2</sup> Die FINMA kann die Anwendung der neuen Rechnungslegungsvorschriften gemäss 4. Kapitel für das Geschäftsjahr erlauben, das vor dem Inkrafttreten dieser Verordnung beginnt.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 28)
 
 ## Mindestgliederung der Jahresrechnung
+
+[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### A. Bilanz
 
@@ -1925,7 +1931,7 @@ Der Anhang ist wie folgt zu gliedern:
 - e. Erläuterungen zur Bewertung der Deckungen, insbesondere zu wichtigen Kriterien für die Ermittlung der Verkehrs- und Belehnungswerte;
 - f. Erläuterungen zur Geschäftspolitik beim Einsatz von derivativen Finanzinstrumenten inkl. der Erläuterungen im Zusammenhang mit der Anwendung von Hedge Accounting;
 - g. Erläuterung von wesentlichen Ereignissen nach dem Bilanzstichtag;
-- h. Gründe, die zu einem vorzeitigen Rücktritt der Revisionsstelle geführt haben;
+- h. Gründe, die zu einem vorzeitigen Rücktritt oder einer Abberufung der Revisionsstelle geführt haben;
 - i.
 
   Informationen zur Bilanz:
@@ -1982,8 +1988,8 @@ Der Anhang ist wie folgt zu gliedern:
   - 40\. Angaben und Erläuterungen zum Ergebnis je Beteiligungsrecht bei kotierten Banken, deren Beteiligungstitel kotiert sind.
 
 [^annex1-lvlu1-lvlE-1]: [[AS 2013 4403](https://fedlex.data.admin.ch/eli/oc/2013/782). [AS 2022 113](https://fedlex.data.admin.ch/eli/oc/2022/113)]
-[^annex1-lvlu1-lvlE-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2023 angepasst.
-[^annex1-lvlu1-lvlE-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex1-lvlu1-lvlE-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2023 angepasst.
+[^annex1-lvlu1-lvlE-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 Anhang 2
 
@@ -1997,13 +2003,13 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)konsultiert werden.
 
-Anhang 3[^t-1]
+Anhang 3[^t-2]
 
 (Art. 2 Abs. 2 und 3)
 
 ## Kategorisierung der Banken
 
-[^t-1]: Eingefügt durch Beilage Ziff. 1 der V vom 11. Mai 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-2]: Eingefügt durch Beilage Ziff. 1 der V vom 11. Mai 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th></th><th colspan="2">Kriterien sowie Schwellenwerte in Mrd. CHF</th><th></th><th></th><th></th></tr>

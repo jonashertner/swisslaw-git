@@ -4,11 +4,11 @@ title: "Ordonnance du 30 avril 2014 sur les banques et les caisses d'épargne (O
 short: OB
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20250101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20250101/fr"
 
 (Ordonnance sur les banques, OB)
 
-du 30 avril 2014 (État le 1<sup>er</sup> janvier 2025)
+du 30 avril 2014 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 8 novembre 1934 sur les banques (LB)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ## Chapitre 1 Dispositions générales
 
@@ -124,7 +124,7 @@ Est actif dans le domaine financier, quiconque:
 [^4-1]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^4-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^4-3]: Introduite par le ch. III de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^4-4]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^4-4]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 5
 
@@ -178,11 +178,11 @@ Ne sont pas considérés comme des dépôts:
 - f. les fonds dont le remboursement et la rémunération sont garantis par une banque (garantie du risque de défaillance).
 
 [^5-1]: Nouvelle teneur selon l’annexe 11 ch. 2 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^5-3]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^5-4]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^5-5]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^5-5]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^5-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 5a
 
@@ -289,7 +289,7 @@ La représentation d’une banque étrangère qui fournit des services financier
 - b. inscrire ses conseillers à la clientèle dans le registre des conseillers prévu à l’art. 28 LSFin lorsque les services qu’ils fournissent en Suisse ne sont pas exclusivement destinés à des clients professionnels ou à des clients institutionnels au sens de l’art. 4 LSFin.
 
 [^7b-1]: Introduit par le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^7b-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^7b-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Chapitre 2 Autorisations
 
@@ -540,7 +540,7 @@ Les cryptoactifs doivent être gardés:
 
 [^14f-1]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^14f-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^14f-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^14f-3]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 [^14f-4]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^14f-5]: Introduit par le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
@@ -579,7 +579,7 @@ Les cryptoactifs doivent être gardés:
 <sup>2</sup> L’art. 15, al. 2 s’applique par analogie aux apports en nature.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^16-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^16-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 17
 
@@ -605,8 +605,8 @@ Dans certains cas, la FINMA peut autoriser des exceptions aux prescriptions en m
 
 [^17a-1]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^17a-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^17a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^17a-4]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^17a-3]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^17a-4]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 
 ### Section 4 Situations transfrontières
 
@@ -765,7 +765,7 @@ L’art. 962, al. 1, ch. 2, CO ne s’applique pas aux sociétés coopératives:
 
 <sup>5</sup> Les personnes mentionnées à l’art. 962, al. 2, CO peuvent exiger des comptes annuels selon le principe de l’image fidèle en l’absence de comptes consolidés établis par la banque selon les art. 33 à 41 ou selon un standard comptable international reconnu par la FINMA.
 
-[^25-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^25-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 26
 
@@ -789,7 +789,7 @@ Les comptes annuels se fondent en particulier sur les principes suivants:
 - h. l’interdiction de la compensation entre les actifs et les passifs et entre les charges et les produits;
 - i. l’aspect économique.
 
-[^26-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 27
 
@@ -801,7 +801,7 @@ Les comptes annuels se fondent en particulier sur les principes suivants:
 
 <sup>2</sup> Les actifs, les engagements et les opérations hors bilan sont en règle générale évalués individuellement s’ils sont importants et qu’en raison de leur similitude ils ne sont habituellement pas regroupés. Dans tous les cas, les participations, les immobilisations corporelles et les valeurs immatérielles font l’objet d’une évaluation individuelle.
 
-[^27-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 28
 
@@ -819,7 +819,7 @@ La structure des comptes annuels est établie selon l’annexe 1.
 
 Le rapport annuel de la banque se fonde sur l’art. 961*c* CO[^29-1].
 
-[^29-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 30
 
@@ -845,13 +845,15 @@ Le rapport de gestion visé à l’art. 6, al. 1, LB contient le rapport récapi
 
 ### (art. 6*a*, 6*b*, al. 1 et 3, LB)
 
-<sup>1</sup> Le rapport de gestion doit être accessible au public dans un délai de quatre mois à compter de la date de clôture, les comptes intermédiaires dans un délai de deux mois à compter de la date de clôture. Ils doivent être disponibles sous forme imprimée.
+<sup>1</sup> Le rapport de gestion doit être accessible au public dans un délai de quatre mois à compter de la date de clôture; les comptes intermédiaires, dans un délai de deux mois. Le rapport et les comptes doivent être disponibles sous forme imprimée ou électronique.[^32-1]
 
 <sup>2</sup> Le rapport de gestion et les comptes intermédiaires doivent être remis à la FINMA. Celle-ci fixe dans ses dispositions d’exécution le nombre, le mode de distribution ainsi que le délai de remise des rapports de gestion et des comptes intermédiaires.
 
 <sup>3</sup> La FINMA peut prolonger les délais à la demande de la banque.
 
 <sup>4</sup> Les banquiers privés sont libérés de l’obligation de publication lorsque leur publicité se réfère uniquement à leur activité de gestionnaire de fortune ou de négociant en valeurs mobilières, et non à l’acceptation de dépôts.
+
+[^32-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### Section 2 Comptes consolidés
 
@@ -954,7 +956,7 @@ Les personnes mentionnées à l’art. 961*d*, al. 2, CO[^36-1] peuvent exiger:
 - a. des comptes annuels complets et un rapport annuel;
 - b. la publication de comptes intermédiaires individuels.
 
-[^36-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^36-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
@@ -968,7 +970,7 @@ La FINMA établit les prescriptions particulières relatives à la structure des
 
 Le rapport annuel consolidé se fonde sur l’art. 961*c* CO[^38-1].
 
-[^38-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39
 
@@ -1052,13 +1054,15 @@ Ne sont pas considérés comme des dépôts privilégiés, notamment:
 
 #### Art. 42b
 
-**Montant privilégié**
+**Montant privilégié**[^42b-1]
 
 ### (art. 37*a*, al. 1 et 7, et 37*b*, al. 1, LB)
 
-<sup>1</sup> Le montant privilégié au sens de l’art. 37*a*, al. 1, LB des dépôts privilégiés est déterminé par l’addition des différents soldes, intérêts courus compris, en faveur du déposant.
+<sup>1</sup> Le montant privilégié se détermine en établissant et additionnant les soldes de chaque dépôt privilégié au moment où la FINMA ordonne une mesure protectrice au sens de l’art. 26, al. 1, let. e à h, LB ou la faillite bancaire. Les soldes s’établissent en prenant en compte les intérêts débiteurs et créditeurs ainsi que les émoluments et en déduisant un éventuel impôt anticipé.
 
-<sup>2</sup> Les hypothèques, les prêts ou les découverts d’autres comptes ainsi que les intérêts et émoluments non comptabilisés en faveur de la banque ne doivent pas être pris en considération, que les montants correspondants soient ou non cumulés, exigibles ou échus.
+<sup>2</sup> Les hypothèques, les prêts, les découverts d’autres comptes et les autres créances en faveur de la banque ne sont pas pris en compte, que les montants correspondants soient ou non cumulés, exigibles ou échus.
+
+[^42b-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 42c
 
@@ -1083,11 +1087,11 @@ Ne sont pas considérés comme des déposants privilégiés:
 
 <sup>4</sup> Lorsqu’un déposant détient des dépôts privilégiés auprès d’un comptoir de la banque à l’étranger, il est considéré comme le déposant propre et indépendant de ces dépôts.
 
-[^42c-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^42c-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^42c-3]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^42c-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^42c-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^42c-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^42c-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^42c-3]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^42c-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^42c-5]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 42d
 
@@ -1453,7 +1457,7 @@ La banque ou la personne visée à l’art. 1*b* LB liquidatrice conserve les do
 
 <sup>4</sup> La banque d’importance systémique doit actualiser le plan d’urgence chaque année, avant la fin du deuxième trimestre, et le remettre à la FINMA. Des actualisations doivent également être remises si des modifications impliquent un remaniement du document ou si la FINMA le demande.
 
-[^60-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^60-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^60-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 61
@@ -1544,7 +1548,7 @@ Les engagements qui découlent des opérations de couverture en relation avec l�
 
 <sup>5</sup> Lors de la remise des documents, une banque d’importance systémique active au niveau international au sens de l’art. 124*a* OFR[^64-1] doit documenter les mesures qu’elle a prévues de prendre ou déjà prises pour remplir les critères énumérés à l’art. 65*a*, al. 2, en vue du maintien de sa capacité d’assainissement et de liquidation en Suisse et à l’étranger.[^64-2]
 
-[^64-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^64-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^64-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 65
@@ -1556,7 +1560,7 @@ Les engagements qui découlent des opérations de couverture en relation avec l�
 Une banque d’importance systémique active au niveau international au sens de l’art. 124*a* OFR[^65-2] est tenue de maintenir sa capacité d’assainissement et de liquidation en Suisse et à l’étranger.
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^65-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^65-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 65a
 
@@ -1598,8 +1602,8 @@ Si la FINMA constate des obstacles à la capacité d’assainissement et de liqu
 <sup>2</sup> La FINMA peut consulter des autorités étrangères de surveillance et de faillite et tenir compte de leur appréciation au moment d’évaluer la capacité d’assainissement et de liquidation ainsi qu’au moment de fixer des mesures.
 
 [^65b-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^65b-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^65b-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^65b-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^65b-3]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
 
 ### Section 3 Information du public
 
@@ -1681,7 +1685,7 @@ La modification d’autres actes est réglée à l’annexe 2.
 
 <sup>5</sup> La FINMA peut accorder des délais appropriés aux banques pour la mise en œuvre des mesures au sens de l’art. 12, al. 2<sup>bis</sup>.[^69-3]
 
-[^69-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^69-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^69-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^69-3]: Introduit par l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
@@ -1703,11 +1707,13 @@ La modification d’autres actes est réglée à l’annexe 2.
 
 <sup>2</sup> La FINMA peut autoriser l’application des dispositions relatives à l’établissement des comptes figurant au chapitre 4 à l’exercice précédant l’entrée en vigueur de la présente ordonnance.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 28)
 
 ## Structure minimale des comptes annuels
+
+[^t-1]: Mise à jour par l’annexe ch. 1 de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### A. Bilan
 
@@ -1928,7 +1934,7 @@ L’annexe doit être structurée comme suit:
 - e. Commentaire de l’évaluation des sûretés de crédit, en particulier des critères importants appliqués à la détermination des valeurs vénales et des valeurs de nantissement;
 - f. Commentaire de la politique d’affaires lors de la mise en œuvre d’instruments financiers dérivés, y c. les commentaires en lien avec l’utilisation de la comptabilité de couverture (*hedge accounting*);
 - g. Commentaire des événements significatifs survenus après la date du bilan;
-- h. Motifs qui ont conduit à une démission de l’organe de révision avant le terme de son mandat;
+- h. Motifs qui ont conduit à une démission de l’organe de révision avant le terme de son mandat ou à sa révocation;
 - i.
 
   Informations relatives au bilan:
@@ -1985,8 +1991,8 @@ L’annexe doit être structurée comme suit:
   - 40\. Indications et commentaires sur le résultat par droit de participation pour les banques dont les titres de participation sont cotés.
 
 [^annex1-lvlu1-lvlE-1]: [[RO 2013 4403](https://fedlex.data.admin.ch/eli/oc/2013/782). [RO 2022 113](https://fedlex.data.admin.ch/eli/oc/2022/113)].
-[^annex1-lvlu1-lvlE-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex1-lvlu1-lvlE-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex1-lvlu1-lvlE-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annex1-lvlu1-lvlE-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 Annexe 2
 
@@ -2000,13 +2006,13 @@ Les ordonnances suivantes sont modifiées comme suit:
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273).
 
-Annexe 3[^t-1]
+Annexe 3[^t-2]
 
 (art. 2, al. 2 et 3)
 
 ## Classification des banques
 
-[^t-1]: Introduite par l’annexe ch. 1 de l’O du 11 mai 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-2]: Introduite par l’annexe ch. 1 de l’O du 11 mai 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th></th><th colspan="2">Critères et seuils en milliards de francs</th><th></th><th></th><th></th></tr>
