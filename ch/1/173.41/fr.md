@@ -4,11 +4,11 @@ title: Loi du 20 mars 2009 sur le Tribunal fédéral des brevets (LTFB)
 short: LTFB
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/72"
 language: fr
-version: 2018-08-01
+version: 2027-01-01
 adopted: 2009-03-20
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/72/20180801/fr/xml/fedlex-data-admin-ch-eli-cc-2010-72-20180801-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/72/20180801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/72/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-72-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/72/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/72/20180801/fr"
 
 (LTFB)[^t-1]
 
-du 20 mars 2009 (État le 1<sup>er</sup> août 2018)
+du 20 mars 2009 (État le 1<sup>er</sup> janvier 2027)
 
-[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art.191*a*, al. 3, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 7 décembre 2007[^ingress-2],
+vu l’art. 191*a*, al. 2 et 3, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 7 décembre 2007[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
-[^ingress-2]: [FF 2008 373](https://fedlex.data.admin.ch/eli/fga/2008/145)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^ingress-3]: [FF 2008 373](https://fedlex.data.admin.ch/eli/fga/2008/145)
 
 ## Chapitre 1 Statut
 
@@ -36,9 +37,16 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Le Tribunal fédéral des brevets est le tribunal de première instance de la Confédération en matière de brevets.
+<sup>1</sup>
+
+Le Tribunal fédéral des brevets est, en matière de brevets:
+
+- a. la première instance dans les procédures civiles;
+- b. la première instance judiciaire de recours dans les procédures administratives.[^1-1]
 
 <sup>2</sup> Il statue comme autorité précédant le Tribunal fédéral.
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 2
 
@@ -58,9 +66,9 @@ Dans l’exercice de ses attributions judiciaires, le Tribunal fédéral des bre
 
 #### Art. 4
 
-**Financement**
+[^4-1]
 
-Le Tribunal fédéral des brevets est financé par les émoluments judiciaires et par des contributions de l’Institut Fédéral de la Propriété Intellectuelle (IPI) prélevées sur les taxes perçues annuellement sur les brevets.
+[^4-1]: Abrogé par l’annexe ch. 4 de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 5
 
@@ -103,11 +111,13 @@ Lorsque les circonstances le justifient, le Tribunal fédéral des brevets peut 
 
 <sup>1</sup> Le Tribunal fédéral des brevets se compose de juges ayant une formation juridique et de juges ayant une formation technique. Les juges doivent disposer de connaissances attestées en droit des brevets.
 
-<sup>2</sup> Le Tribunal fédéral des brevets se compose de deux juges ordinaires et d’un nombre suffisant de juges suppléants. La majorité des juges suppléants doivent avoir une formation technique.
+<sup>2</sup> Le Tribunal fédéral des brevets se compose de deux à quatre juges ordinaires et d’un nombre suffisant de juges suppléants.[^8-1] La majorité des juges suppléants doivent avoir une formation technique.
+
+[^8-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 9
 
-**Election**
+**Élection**
 
 <sup>1</sup> L’Assemblée fédérale élit les juges.
 
@@ -115,21 +125,26 @@ Lorsque les circonstances le justifient, le Tribunal fédéral des brevets peut 
 
 <sup>3</sup> L’Assemblée fédérale et la Commission judiciaire veillent à une représentation équitable des domaines techniques et des langues officielles.
 
-<sup>4</sup> L’IPI, les organisations spécialisées et les milieux intéressés actifs dans le domaine des brevets peuvent être consultés lors de la préparation de l’élection.
+<sup>4</sup> Les organisations spécialisées et les milieux intéressés actifs dans le domaine des brevets peuvent être consultés lors la préparation de l’élection.[^9-1]
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 10
 
 **Incompatibilité à raison de la fonction**
 
-<sup>1</sup> Les juges ne peuvent être membres de l’Assemblée fédérale ou du Conseil fédéral ou juges à un tribunal fédéral.
+<sup>1</sup> Les juges ne peuvent être membres de l’Assemblée fédérale, du Conseil fédéral ou du Conseil de l’Institut Fédéral de la Propriété Intellectuelle (IPI), ni juges auprès du Tribunal fédéral; ils ne peuvent pas non plus être employés par l’administration fédérale centrale ou par l’IPI.[^10-1]
 
 <sup>2</sup> Ils ne peuvent exercer aucune activité susceptible de nuire à l’exercice de leur fonction de juge, à l’indépendance du tribunal ou à sa réputation.
 
-<sup>3</sup> Ils ne peuvent exercer aucune fonction officielle pour un Etat étranger.
+<sup>3</sup> Ils ne peuvent exercer aucune fonction officielle pour un État étranger.
 
-<sup>4</sup> Les juges ordinaires ne peuvent représenter des tiers à titre professionnel devant les tribunaux.
+<sup>4</sup> Les juges ordinaires ne peuvent représenter des tiers à titre professionnel devant les tribunaux ou devant l’IPI.[^10-2]
 
 <sup>5</sup> Les juges ordinaires à plein temps ne peuvent exercer aucune fonction au service d’un canton ni exercer aucune autre activité lucrative. Ils ne peuvent pas non plus être membres de la direction, de l’administration, de l’organe de surveillance ou de l’organe de révision d’une entreprise commerciale.
+
+[^10-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^10-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 11
 
@@ -191,9 +206,15 @@ L’autorité qui a élu un juge peut le révoquer avant la fin de sa période d
 
 #### Art. 17
 
-**Rapports de travail et traitement**
+**Rapports de travail, taux d’occupation et traitement**[^17-1]
 
-L’Assemblée fédérale règle par une ordonnance les rapports de travail et le traitement des juges.
+<sup>1</sup> Les juges ordinaires exercent leur fonction à temps plein ou à temps partiel.
+
+<sup>2</sup> Lorsque les circonstances le justifient, le tribunal peut, dans le respect du nombre prescrit de juges ordinaires, approuver un changement du taux d’occupation durant la période de fonction.
+
+<sup>3</sup> L’Assemblée fédérale règle dans une ordonnance les rapports de travail et le traitement des juges.
+
+[^17-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ## Chapitre 3 Organisation et administration
 
@@ -219,14 +240,16 @@ L’Assemblée fédérale règle par une ordonnance les rapports de travail et l
 
 La Cour plénière élit à la vice-présidence:
 
-- a. le second juge ordinaire, ou
+- a.[^19-2] un juge ordinaire, ou
 - b. un juge suppléant ayant une formation juridique.
 
-<sup>2</sup> Si elle élit à la vice-présidence le second juge ordinaire, elle élit le troisième membre de la commission administrative parmi les juges suppléants. Un règlement peut prévoir la désignation d’un remplaçant.
+<sup>2</sup> Si elle élit à la vice-présidence un juge ordinaire, le troisième membre de la commission administrative est élu parmi les juges suppléants.[^19-3] Un règlement peut prévoir la désignation d’un remplaçant.
 
 <sup>3</sup> La Cour plénière ne peut procéder valablement à des élections que si deux tiers au moins des juges participent à la séance ou à la procédure de circulation.
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> août 2018 ([RO 2018 2753](https://fedlex.data.admin.ch/eli/oc/2018/406); [FF 2017 7133](https://fedlex.data.admin.ch/eli/fga/2017/2163)[7145](https://fedlex.data.admin.ch/eli/fga/2017/2165)).
+[^19-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^19-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 20
 
@@ -240,7 +263,7 @@ Elle se compose:
 
 - a. du président du tribunal;
 - b. du vice-président;
-- c. du second juge ordinaire ou, si celui-ci exerce la vice-présidence, d’un juge suppléant.[^20-1]
+- c.[^20-1] d’un deuxième juge ordinaire ou, lorsque celui-ci exerce la vice-présidence, d’un juge suppléant.[^20-2]
 
 <sup>3</sup>
 
@@ -249,7 +272,8 @@ La commission administrative est chargée:
 - a. d’édicter les règlements relatifs à l’organisation et à l’administration du tribunal, à la répartition des affaires, à la composition des cours appelées à statuer, à l’information, aux émoluments judiciaires, aux dépens alloués aux parties et aux indemnités allouées aux mandataires d’office, aux experts et aux témoins;
 - b. d’exercer toutes les tâches que la loi n’attribue pas à un autre organe.
 
-[^20-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> août 2018 ([RO 2018 2753](https://fedlex.data.admin.ch/eli/oc/2018/406); [FF 2017 7133](https://fedlex.data.admin.ch/eli/fga/2017/2163)[7145](https://fedlex.data.admin.ch/eli/fga/2017/2165)).
+[^20-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^20-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> août 2018 ([RO 2018 2753](https://fedlex.data.admin.ch/eli/oc/2018/406); [FF 2017 7133](https://fedlex.data.admin.ch/eli/fga/2017/2163)[7145](https://fedlex.data.admin.ch/eli/fga/2017/2165)).
 
 #### Art. 21
 
@@ -263,7 +287,9 @@ La commission administrative est chargée:
 
 <sup>4</sup> Les juges ayant une formation technique siègent en fonction des domaines dont relèvent les litiges.
 
-<sup>5</sup> Sauf cas de force majeure, un juge ordinaire au moins doit être membre de la cour appelée à statuer.
+<sup>5</sup> Un juge ordinaire au moins doit être membre de la cour appelée à statuer, sauf dans les cas de force majeure ou dans les cas où tous les juges ordinaires sont simultanément concernés par des demandes ou des motifs de récusation.[^21-1]
+
+[^21-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 22
 
@@ -284,25 +310,28 @@ La commission administrative est chargée:
 
 #### Art. 23
 
-**Juge unique**
+**Juge instructeur**[^23-1]
 
-<sup>1</sup>
+<sup>1</sup> Le président conduit la procédure en qualité de juge instructeur jusqu’au prononcé de l’arrêt. Il peut déléguer cette tâche à un autre juge ordinaire ou à un autre juge ayant une formation juridique.
 
-Le président statue en tant que juge unique:
+<sup>2</sup>
 
-- a. sur le refus d’entrer en matière sur des actions manifestement irrecevables;
+Le juge instructeur statue en tant que juge unique:
+
+- a. sur le refus d’entrer en matière sur des actions et des recours manifestement irrecevables;
 - b. sur les demandes de mesures provisionnelles;
 - c. sur les demandes d’assistance judiciaire;
 - d. sur la radiation du rôle des causes devenues sans objet ou closes par un retrait, un acquiescement ou une transaction;
-- e. sur les actions en octroi d’une licence conformément à l’art. 40*d* de la loi du 25 juin 1954 sur les brevets[^23-1].
+- e. sur les actions en octroi d’une licence conformément à l’art. 40*d* de la loi du 25 juin 1954 sur les brevets (LBI)[^23-2];
+- f. sur les décisions incidentes qui ressortissent à la compétence du juge instructeur conformément à la loi du 20 décembre 1968 sur la procédure administrative (PA)[^23-3].
 
-<sup>2</sup> Il peut déléguer ces tâches en tout ou en partie à d’autres juges ayant une formation juridique ou au second juge ordinaire.[^23-2]
+<sup>3</sup> Il peut à tout moment faire appel à un juge ayant une formation technique. Celui-ci a voix consultative.
 
-<sup>3</sup> Si des raisons juridiques ou des situations de fait l’exigent, le juge unique peut statuer avec deux autres juges.[^23-3] Il doit statuer avec deux autres juges lorsque la compréhension des faits techniques revêt une importance particulière.
+<sup>4</sup> Si des raisons juridiques ou des situations de fait l’exigent dans des procédures civiles, le juge instructeur peut statuer avec deux autres juges. Il doit statuer avec deux autres juges lorsque la compréhension des faits techniques revêt une importance particulière.
 
-[^23-1]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
-[^23-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> août 2018 ([RO 2018 2753](https://fedlex.data.admin.ch/eli/oc/2018/406); [FF 2017 7133](https://fedlex.data.admin.ch/eli/fga/2017/2163)[7145](https://fedlex.data.admin.ch/eli/fga/2017/2165)).
-[^23-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> août 2018 ([RO 2018 2753](https://fedlex.data.admin.ch/eli/oc/2018/406); [FF 2017 7133](https://fedlex.data.admin.ch/eli/fga/2017/2163)[7145](https://fedlex.data.admin.ch/eli/fga/2017/2165)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^23-2]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^23-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24
 
@@ -324,6 +353,15 @@ Le président statue en tant que juge unique:
 
 Le Tribunal fédéral des brevets informe le public sur sa jurisprudence.
 
+#### Art. 25a
+
+**Principe de transparence**[^25a-1]
+
+La loi du 17 décembre 2004 sur la transparence[^25a-2] s’applique par analogie au Tribunal fédéral des brevets dans la mesure où celui-ci accomplit des tâches administratives.
+
+[^25a-1]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^25a-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+
 ## Chapitre 4 Compétences
 
 #### Art. 26
@@ -332,15 +370,25 @@ Le Tribunal fédéral des brevets informe le public sur sa jurisprudence.
 
 Le Tribunal fédéral des brevets a la compétence exclusive:
 
-- a. de statuer sur les actions en validité ou en contrefaçon d’un brevet et les actions en octroi d’une licence sur un brevet;
+- a.[^26-1] de statuer sur les actions en validité ou en contrefaçon d’un brevet ou d’un certificat complémentaire de protection et sur les actions en octroi d’une licence concernant de tels titres de protection;
 - b. d’ordonner des mesures provisionnelles avant litispendance d’une action visée à la let. a;
 - c. d’exécuter les décisions qu’il a rendues en vertu de sa compétence exclusive.
 
-<sup>2</sup> Il a la compétence de juger d’autres actions civiles qui ont un lien de connexité avec des brevets, en particulier celles qui concernent la titularité ou la cession de brevets. La compétence du Tribunal fédéral des brevets n’exclut pas celle des tribunaux cantonaux.
+<sup>2</sup> Il a la compétence de juger d’autres actions civiles qui ont un lien de connexité avec des brevets ou des certificats complémentaires de protection, en particulier celles qui concernent la titularité sur de tels titres de protection ou leur cession.[^26-2] La compétence du Tribunal fédéral des brevets n’exclut pas celle des tribunaux cantonaux.
 
-<sup>3</sup> Si un tribunal cantonal doit statuer sur la question préjudicielle ou sur l’exception de nullité ou de contrefaçon d’un brevet, le juge fixe un délai approprié aux parties pour intenter l’action en nullité ou en contrefaçon devant le Tribunal fédéral des brevets. Le tribunal cantonal suspend la procédure jusqu’à ce que la décision du Tribunal fédéral des brevets soit entrée en force. Si le Tribunal fédéral des brevets n’est pas saisi dans le délai imparti, le tribunal cantonal reprend la procédure, et la question préjudicielle ou l’exception n’est pas prise en compte.
+<sup>3</sup> Si un tribunal cantonal doit statuer sur la question préjudicielle ou sur l’exception de nullité ou de contrefaçon d’un brevet ou d’un certificat complémentaire de protection, le juge fixe un délai approprié aux parties pour intenter l’action en validité ou en contrefaçon devant le Tribunal fédéral des brevets.[^26-3] Le tribunal cantonal suspend la procédure jusqu’à ce que la décision du Tribunal fédéral des brevets soit entrée en force. Si le Tribunal fédéral des brevets n’est pas saisi dans le délai imparti, le tribunal cantonal reprend la procédure, et la question préjudicielle ou l’exception n’est pas prise en compte.
 
-<sup>4</sup> Si le défendeur introduit une demande reconventionnelle en nullité ou en contrefaçon d’un brevet devant le tribunal cantonal, celui-ci transmet les deux demandes au Tribunal fédéral des brevets.
+<sup>4</sup> Si le défendeur introduit une demande reconventionnelle en nullité ou en contrefaçon d’un brevet ou d’un certificat complémentaire de protection devant le tribunal cantonal, ce dernier transmet les deux demandes au Tribunal fédéral des brevets.[^26-4]
+
+<sup>5</sup> Le Tribunal fédéral des brevets statue sur les recours formés contre les décisions au sens de l’art. 5 PA[^26-5] rendues par l’IPI en vertu de la LBI[^26-6].[^26-7]
+
+[^26-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^26-5]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^26-6]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^26-7]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ## Chapitre 5 Procédure
 
@@ -348,30 +396,51 @@ Le Tribunal fédéral des brevets a la compétence exclusive:
 
 #### Art. 27
 
-La procédure devant le Tribunal fédéral des brevets est régie par le code de procédure civile du 19 décembre 2008[^27-1], à moins que la loi du 25 juin 1954 sur les brevets[^27-2] ou la présente loi n’en dispose autrement.
+[^27-1]
 
-[^27-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
-[^27-2]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+<sup>1</sup> Les procédures civiles devant le Tribunal fédéral des brevets sont régies par le code de procédure civile[^27-2], à moins que la LBI[^27-3] ou la présente loi n’en dispose autrement.
+
+<sup>2</sup> Les procédures de recours administratif devant ce même tribunal sont régies par les chapitres 3 et 4 de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^27-4], à moins que la présente loi ou la LBI n’en disposent autrement.
+
+<sup>3</sup> Dans les procédures de recours administratif, l’art. 13, al. 1<sup>bis</sup>, PA[^27-5] s’applique par analogie aux objets et aux documents concernant des contacts entre une partie et un conseil en brevets au sens de l’art. 2 de la loi du 20 mars 2009 sur les conseils en brevets[^27-6] si celui‑ci exerce sa profession en toute indépendance.
+
+<sup>4</sup> Si le Tribunal fédéral des brevets admet un recours contre une décision par laquelle l’IPI a rejeté une demande de brevet ou l’a déclarée irrecevable, il renvoie la cause à l’IPI pour nouvelle décision.
+
+[^27-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^27-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^27-3]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^27-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^27-5]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^27-6]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 ### Section 2 Récusation
 
 #### Art. 28
 
-Les juges suppléants se récusent dans les procédures où une partie est représentée par une personne qui travaille dans la même étude d’avocats, dans le même cabinet de conseil en brevets ou pour le même employeur.
+[^28-1]
+
+Les juges et les greffiers se récusent dans les procédures où une partie est représentée par une personne qui travaille dans la même étude d’avocats, dans le même cabinet de conseil en brevets ou pour le même employeur qu’eux-mêmes.
+
+[^28-1]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### Section 3 Représentation des parties
 
 #### Art. 29
 
-<sup>1</sup> Un conseil en brevets au sens de l’art. 2 de la loi du 20 mars 2009 sur les conseils en brevets[^29-1] peut représenter une partie devant le Tribunal fédéral des brevets dans une procédure concernant la validité d’un brevet à condition qu’il exerce sa profession en toute indépendance.
+<sup>1</sup> Un conseil en brevets au sens de l’art. 2 de la loi du 20 mars 2009 sur les conseils en brevets[^29-1] peut représenter une partie devant le Tribunal fédéral des brevets dans une procédure civile concernant la validité d’un brevet ou d’un certificat complémentaire de protection, à condition qu’il exerce sa profession en toute indépendance.[^29-2]
 
-<sup>2</sup> A la demande du Tribunal fédéral des brevets, il doit apporter la preuve qu’il exerce sa profession en toute indépendance au moyen de documents appropriés.
+<sup>2</sup> À la demande du Tribunal fédéral des brevets, il doit apporter la preuve qu’il exerce sa profession en toute indépendance au moyen de documents appropriés.
 
 <sup>3</sup> Un conseil en brevets au sens de l’art. 2 de la loi du 20 mars 2009 sur les conseils en brevets peut faire un exposé technique des faits dans tous les débats du Tribunal fédéral des brevets.
 
 [^29-1]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
+[^29-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
-### Section 4 Frais et assistance judiciaire
+### Section 4 Frais et assistance judiciaire dans les procédures civiles
+
+[^chap5-sec4-1]
+
+[^chap5-sec4-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 30
 
@@ -426,66 +495,104 @@ Lorsque la partie au bénéfice de l’assistance judiciaire succombe, les frais
 - c. les avances que la partie adverse a effectuées lui sont restituées;
 - d. la partie au bénéfice de l’assistance judiciaire verse les dépens à la partie adverse.
 
-<sup>2</sup> Lorsque la partie au bénéfice de l’assistance judiciaire obtient gain de cause, le conseil juridique commis d’office est rémunéré équitablement par le tribunal lorsque les dépens ne peuvent pas être obtenus de la partie adverse ou qu’ils ne le seront vraisemblablement pas. La partie au bénéfice de l’assistance judiciaire rembourse le tribunal lorsqu’elle est en mesure de le faire.
+<sup>2</sup> Lorsque la partie au bénéfice de l’assistance judiciaire obtient gain de cause, le conseil juridique commis d’office est rémunéré équitablement par le tribunal lorsque les dépens ne peuvent pas être obtenus de la partie adverse ou qu’ils ne le seront vraisemblablement pas. La partie au bénéfice de l’assistance judiciaire rembourse le tribunal lorsqu’elle est en mesure de le faire. Le droit au remboursement de la Confédération se prescrit par dix ans à compter de la clôture définitive de la procédure.[^34-1]
 
-### Section 5 Conduite du procès et actes de procédure
+[^34-1]: Phrase introduite par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 5 Frais dans les procédures de recours administratif
+
+[^chap5-sec5-1]
+
+[^chap5-sec5-1]: Introduite par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+#### Art. 34a
+
+Dans les procédures de recours administratif, les frais sont régis par la PA[^34a-1]. Lorsqu’un conseil en brevets qui exerce sa profession en toute indépendance représente une partie dans une procédure de recours administratif, sa rémunération se calcule par analogie à celle d’un avocat pour sa représentation professionnelle.
+
+[^34a-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+### Section 6 Langue de la procédure
+
+[^chap5-sec6-1][^chap5-sec6-2]
+
+[^chap5-sec6-1]: Anciennement section 5.
+[^chap5-sec6-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 35
 
-**Juge instructeur**
+[^35-1]
 
-<sup>1</sup>
-
-Le président conduit la procédure au titre de juge instructeur jusqu’au prononcé de l’arrêt. Il peut confier cette tâche:
-
-- a. à un autre juge ayant une formation juridique, ou
-- b. au second juge ordinaire.[^35-1]
-
-<sup>2</sup> Le juge instructeur peut à tout moment faire appel à un juge ayant une formation technique, lequel a voix consultative.
-
-[^35-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> août 2018 ([RO 2018 2753](https://fedlex.data.admin.ch/eli/oc/2018/406); [FF 2017 7133](https://fedlex.data.admin.ch/eli/fga/2017/2163)[7145](https://fedlex.data.admin.ch/eli/fga/2017/2165)).
+[^35-1]: Abrogé par l’annexe ch. 4 de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 36
 
-**Langue de la procédure**
+**…[^36-1]**
 
-<sup>1</sup> Le tribunal désigne une des langues officielles comme langue de la procédure. Il tient compte de la langue des parties s’il s’agit d’une langue officielle.
+<sup>1</sup> Dans les procédures civiles, le juge instructeur désigne une des langues officielles comme langue de la procédure.[^36-2] Il tient compte de la langue des parties s’il s’agit d’une langue officielle.
+
+<sup>1bis</sup> Dans les procédures de recours administratif, la langue de la décision attaquée détermine la langue de la procédure. Si les parties utilisent une autre langue officielle, celle-ci peut être adoptée.[^36-3]
 
 <sup>2</sup> Chaque partie peut utiliser une langue officielle autre que celle de la procédure pour les actes de procédure et lors des débats.
 
-<sup>3</sup> L’anglais peut être utilisé avec l’accord du tribunal et des parties. Les jugements et les décisions relatives à la procédure sont toujours rédigés dans une langue officielle.
+<sup>3</sup> L’anglais peut être utilisé avec l’accord du juge instructeur et des parties.[^36-4] Les jugements et les décisions relatives à la procédure sont toujours rédigés dans une langue officielle.
 
 <sup>4</sup> Si une partie produit des pièces qui ne sont rédigées ni dans une langue officielle, ni en anglais dans le cas visé à l’al. 3, le tribunal peut, moyennant l’accord de la partie adverse, ne pas exiger de traduction. Il ordonne une traduction si nécessaire.
 
-### Section 6 Expertise
+[^36-1]: Abrogé par l’annexe ch. 4 de la LF du 15 mars 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^36-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^36-3]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^36-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 7 Expertise
+
+[^chap5-sec7-1]
+
+[^chap5-sec7-1]: Anciennement section 6.
 
 #### Art. 37
 
 <sup>1</sup> Toute expertise est rendue par écrit.
 
-<sup>2</sup> Les parties ont l’occasion de se prononcer par écrit sur l’expertise.
+<sup>2</sup> Les parties ont l’occasion de se prononcer sur l’expertise.[^37-1]
 
-<sup>3</sup> Si un juge ayant une formation technique dispose de connaissances spécialisées sur le fond, ses avis sont consignés dans le procès-verbal. Les parties ont l’occasion de se prononcer sur le procès-verbal.
+<sup>3</sup> Lorsqu’un juge ayant une formation technique donne un avis technique, ce dernier doit être consigné au procès-verbal.[^37-2] Les parties ont l’occasion de se prononcer sur le procès-verbal.
 
-### Section 7 Avis sur l’administration des preuves
+[^37-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^37-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 8 Avis sur l’administration des preuves
+
+[^chap5-sec8-1]
+
+[^chap5-sec8-1]: Anciennement section 7.
 
 #### Art. 38
 
-Au terme de l’administration des preuves, le Tribunal fédéral des brevets donne l’occasion aux parties, sur demande motivée, de se prononcer par écrit sur les résultats de l’administration des preuves.
+[^38-1]
 
-### Section 8 Procédure et décision d’octroi d’une licence ou de modification des conditions d’octroi d’une licence au sens de l’art. 40*d* de la loi sur les brevets
+Le Tribunal fédéral des brevets donne l’occasion aux parties, sur demande motivée, de se prononcer sur les résultats de l’administration des preuves au terme de celle‑ci.
+
+[^38-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+### Section 9 Procédure et décision d’octroi d’une licence ou de modification des conditions d’octroi d’une licence au sens de l’art. 40*d* LBI
+
+[^chap5-sec9-1][^chap5-sec9-2]
+
+[^chap5-sec9-1]: Anciennement section 8.
+[^chap5-sec9-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 39
 
-<sup>1</sup> La procédure d’octroi d’une licence ou de modification des conditions d’octroi d’une licence au sens de l’art. 40*d* de la loi du 25 juin 1954 sur les brevets[^39-1] est ouverte par une action revêtant l’une des formes énoncées à l’art. 130 du code de procédure civile[^39-2].[^39-3]
+<sup>1</sup> La procédure d’octroi d’une licence ou de modification des conditions d’octroi d’une licence au sens de l’art. 40*d* LBI[^39-1] est ouverte par une action revêtant l’une des formes énoncées à l’art. 130 du code de procédure civile[^39-2].[^39-3]
 
 <sup>2</sup> Elle doit être close par décision dans le mois qui suit l’introduction de l’action.
 
-<sup>3</sup> Au surplus, les dispositions relatives à la procédure sommaire du code de procédure civile du 19 décembre 2008 sont applicables.
+<sup>3</sup> Au surplus, les dispositions relatives à la procédure sommaire du code de procédure civile sont applicables.[^39-4]
 
 [^39-1]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^39-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
-[^39-3]: [RO 2010 6413](https://fedlex.data.admin.ch/eli/oc/2010/905)
+[^39-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^39-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -500,6 +607,16 @@ La modification du droit en vigueur est réglée en annexe.
 **Disposition transitoire**
 
 Le Tribunal fédéral des brevets reprend, dans son domaine de compétence, le traitement des procédures qui, au moment de l’entrée en vigueur de la présente loi, sont pendantes devant des tribunaux cantonaux, pour autant que les débats principaux n’aient pas eu lieu.
+
+#### Art. 41a
+
+**Dispositions transitoires relatives à la modification du 15 mars 2024**[^41a-1]
+
+<sup>1</sup> Les procédures de recours contre les décisions rendues par l’IPI avant l’entrée en vigueur de la modification du 15 mars 2024 sont régies par l’ancien droit.
+
+<sup>2</sup> L’incompatibilité visée à l’art. 10, al. 4, empêchant de représenter à titre professionnel des tiers devant l’IPI ne s’applique pas aux juges ordinaires qui sont membres du Tribunal fédéral des brevets au moment de l’entrée en vigueur de cette modification. Elle ne s’applique pas non plus pour le cas où les juges ordinaires sont réélus.
+
+[^41a-1]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 42
 
