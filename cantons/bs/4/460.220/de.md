@@ -3,22 +3,21 @@ canton: BS
 number: "460.220"
 title: Verordnung über die Abschlussprüfungen der Maturitätskurse für Berufstätige
 language: de
-version: 2017-01-01
-valid_until: 2027-08-15
-version_adopted: 2016-10-18
+version: 2027-08-16
+version_adopted: 2025-12-16
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/460.220"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6786/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Abschlussprüfungen der Maturitätskurse für Berufstätige
 
-Abschlussprüfungen MfB: Verordnung | Erwachsenenbildung
+Erwachsenenbildung
 
-Vom 11. Dezember 2007 (Stand 1. Januar 2017)
+Vom 11. Dezember 2007 (Stand 16. August 2027)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Zulassung**
 
-<sup>1</sup> Zu den Maturitätsprüfungen werden nur Kandidatinnen und Kandidaten zugelassen, die den Unterricht während der letzten zwei Jahre des Hauptkurses regelmässig besucht haben.
+<sup>1</sup> Zu den Maturitätsprüfungen werden nur Kandidierende zugelassen, die in den letzten beiden Jahren des Hauptkurses bis zu dem von der Schulleitung festgelegten Stichtag jeweils mindestens 80 % des Unterrichts des Schuljahres besucht haben.
 
 <sup>2</sup> Die Prüfungsleitung entscheidet über begründete Ausnahmen hinsichtlich der Bedingung, den Unterricht der letzten beiden Jahre vor der Maturität besucht zu haben.
 
@@ -104,20 +103,15 @@ beschliesst:
   - 3\. Englisch;
   - 4\. Geschichte;
   - 5\. Mathematik.
-- c) an der Abteilung mathematisch-naturwissenschaftlicher Richtung:
-  - 1\. Deutsch;
-  - 2\. Englisch-Französisch;
-  - 3\. Mathematik;
-  - 4\. Biologie;
-  - 5\. Physik-Chemie.
+- c) …
 
-<sup>2</sup> Physik-Chemie und Englisch-Französisch gelten je als ein Prüfungsfach.
+<sup>2</sup> …
 
 #### § 10
 
 **Prüfungsinhalte**
 
-<sup>1</sup> Die Prüfungsinhalte orientieren sich am Bildungsplan für die Gymnasien Basel-Stadt.
+<sup>1</sup> Die Prüfungsinhalte orientieren sich am Lehrplan für die Gymnasien Basel-Stadt.
 
 #### § 11
 
@@ -141,13 +135,9 @@ beschliesst:
   - 2\. Französisch;
   - 3\. Englisch;
   - 4\. Mathematik.
-- c) an der Abteilung mathematisch-naturwissenschaftlicher Richtung:
-  - 1\. Deutsch;
-  - 2\. Englisch oder Französisch;
-  - 3\. Mathematik;
-  - 4\. Biologie.
+- c) …
 
-<sup>2</sup> Für die schriftlichen Arbeiten wird eine Zeit von drei Stunden eingeräumt.
+<sup>2</sup> Für die schriftlichen Arbeiten wird eine Zeit von mindestens einer Stunde eingeräumt.
 
 #### § 13
 
@@ -155,9 +145,9 @@ beschliesst:
 
 <sup>1</sup> Mündlich wird in den in § 9 erwähnten Fächern geprüft.
 
-<sup>2</sup> Die mündliche Prüfung in Chemie findet am Schluss des Kursjahres statt, in dem der Chemieunterricht erteilt worden ist.
+<sup>2</sup> …
 
-<sup>3</sup> Jede Kandidatin bzw. jeder Kandidat wird pro Fach mindestens 15 Minuten geprüft. Dies gilt auch für die Doppelfächer Englisch-Französisch und Physik-Chemie.
+<sup>3</sup> Jede Kandidatin bzw. jeder Kandidat wird pro Fach mindestens 15 Minuten geprüft.
 
 <sup>4</sup> …
 
@@ -181,15 +171,13 @@ beschliesst:
 
 #### § 16
 
-<sup>1</sup> Die Maturitätsnote in Physik-Chemie wird aus den beiden Maturitätsnoten in Physik und Chemie, die Maturitätsnote Englisch-Französisch aus den beiden Maturitätsnoten in Englisch und Französisch durch Rundung des arithmetischen Mittels auf die nähere halbe Zahl gebildet.
-
-<sup>2</sup> Liegt das arithmetische Mittel in der Mitte zweier halber Zahlen, so ist auf die nächste halbe Zahl aufzurunden.
+**…**
 
 #### § 17
 
 **Validierung der Maturitätsnoten**
 
-<sup>1</sup> Die Maturitätsnoten werden vorbehaltlich dem Vorgehen gemäss § 18 dieser Verordnung durch die Unterschrift der Examinatorinnen und Examinatoren sowie der Expertinnen und Experten validiert.
+<sup>1</sup> Die Maturitätsnoten werden vorbehältlich dem Vorgehen gemäss § 18 durch die Examinierenden sowie die Expertinnen und Experten validiert.
 
 #### § 18
 
@@ -197,7 +185,7 @@ beschliesst:
 
 <sup>1</sup> An der Maturitätsprüfungskonferenz findet eine Aussprache über all jene Kandidatinnen und Kandidaten statt, deren Bestehen der Maturität in Frage gestellt ist.
 
-<sup>2</sup> An der Maturitätsprüfungskonferenz nehmen unter dem Vorsitz der Prüfungsleitung mindestens die an den entsprechenden Prüfungen beteiligten Examinatorinnen und Examinatoren, Expertinnen und Experten und eine Vertretung der Aufsichtskommission der Schule teil.
+<sup>2</sup> An der Maturitätsprüfungskonferenz nehmen unter dem Vorsitz der Prüfungsleitung mindestens die an den entsprechenden Prüfungen beteiligten Examinierenden und eine Vertretung der Aufsichtskommission der Schule teil.
 
 <sup>3</sup> An der Maturitätsprüfungskonferenz werden die Prüfungsleistungen der gefährdeten Schülerinnen und Schüler noch einmal gewürdigt und die Prüfungsnoten endgültig festgelegt. Der Entscheid über die Änderung einer Prüfungsnote liegt bei der entsprechenden Examinatorin oder dem entsprechenden Examinator sowie der entsprechenden Expertin oder dem entsprechenden Experten. Ist keine Einigung möglich, legt die Prüfungsleitung die Prüfungsnote endgültig fest.
 
