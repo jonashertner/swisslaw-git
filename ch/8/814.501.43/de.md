@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. Januar 2026 über die Personen- oder Umgebung
 short: DoV
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/59"
 language: de
-version: 2026-03-01
+version: 2027-01-01
 adopted: 2026-01-29
 in_force: 2026-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/fedlex-data-admin-ch-eli-cc-2026-59-20260301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20260301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2026-59-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20260301/de"
 
 (Dosimetrieverordnung, DoV)
 
-vom 29. Januar 2026 (Stand am 1. März 2026)
+vom 29. Januar 2026 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Departement des Innern (EDI), im Einvernehmen mit dem Eidgenössischen Nuklearsicherheitsinspektorat (ENSI),
 
@@ -436,19 +436,21 @@ Die Inkorporationsüberwachung ist durchzuführen:
 
 <sup>2</sup> Die Ergebnisse der Triagemessung werden nicht zur Dosisermittlung verwendet.
 
-<sup>3</sup> ...[^33-1]
+<sup>3</sup> Liegt das Resultat einer Triagemessung über der nuklidspezifischen Messschwelle gemäss Anhang 9, so muss die Bewilligungsinhaberin oder der Bewilligungsinhaber zusätzlich eine Inkorporationsmessung durchführen lassen.
 
 <sup>4</sup> Das BAG veröffentlicht im Einvernehmen mit dem ENSI nuklidspezifische Angaben zu den Messverfahren für die am häufigsten verwendeten Radionuklide.
 
 <sup>5</sup> Wird eine Inkorporationsmessung durchgeführt, so bestimmt die Personendosimetriestelle die effektive Folgedosis und meldet diese gemäss Artikel 69 StSV.
 
-[^33-1]: Tritt am 1. Jan. 2027 in Kraft.
-
 #### Art. 34
 
-[^34-1]
+**Triagemessung**
 
-[^34-1]: Tritt am 1. Jan. 2027 in Kraft.
+<sup>1</sup> Das Messverfahren der Triagemessung berücksichtigt die physikalisch-chemische und radiologische Charakterisierung der Radionuklide.
+
+<sup>2</sup> Das Messverfahren muss die Anforderungen nach Anhang 9 erfüllen.
+
+<sup>3</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber legt im Einvernehmen mit der Aufsichtsbehörde das Messverfahren fest. Sie oder er trägt die Verantwortung für die Durchführung der Triagemessung.
 
 #### Art. 35
 
@@ -507,11 +509,11 @@ Besteht für die Inkorporationsmessung eines bestimmten Radionuklids keine anerk
 
 <sup>1</sup> Die Anerkennung einer Personendosimetriestelle für Inkorporation nach den Artikeln 66–68 StSV erfolgt für definierte Radionuklide.
 
-<sup>2 und <sup>3</sup></sup> ... [^40-1]
+<sup>2</sup> Bei der Ausscheidungsanalyse müssen die Aktivitäten und Aktivitätskonzentrationen zwischen dem 10-fachen und dem 100-fachen Wert der nach Anhang 9 festgelegten nuklidspezifische Messschwelle mit einer maximalen Abweichung zum Sollwert von 20 Prozent bestimmt werden können.
+
+<sup>3</sup> Für Direktmessungen muss die Aktivität in einem Phantom, zwischen der nach Anhang 9 festgelegten nuklidspezifischen Messschwelle und deren 100-fachem Wert, bestimmt werden können. Das Phantom muss von der anerkennenden Behörde genehmigt sein. Der Messwert in diesem Bereich darf nicht mehr als 20 Prozent vom Sollwert abweichen.
 
 <sup>4</sup> Bestimmt eine Personendosimetriestelle für Inkorporation eine effektive Folgedosis, so muss diese gemäss Artikel 69 StSV übermittelt werden; ebenfalls zu übermitteln sind Einzelheiten zum Berechnungsverfahren.
-
-[^40-1]: Treten am 1. Jan. 2027 in Kraft.
 
 #### Art. 41
 
@@ -674,7 +676,7 @@ In der deutschen Version sind die Begriffe in alphabetischer Reihenfolge aufgef�
 <tr><td>Fading/Fading/Fading</td><td>Abweichung zwischen Messwert und Sollwert in Abhängigkeit von der Zeitspanne zwischen Bestrahlung und Auswertung relativ zum Sollwert in (%/Monat).</td></tr>
 <tr><td>Fluenz/Fluence/Fluenza</td><td>Die Fluenz in einem Punkt eines Strahlungsfeldes ist die Anzahl der Teilchen, die in eine kleine, um diesen Punkt zentrierte Kugel eintreten, dividiert durch die Querschnittsfläche dieser Kugel (cm<sup>-2</sup>).</td></tr>
 <tr><td>Gleichgewichtsfaktor/ Facteur d’équilibre/ Fattore di equilibrio</td><td>Der Gleichgewichtsfaktor *F* ist das Verhältnis von gleichgewichtsäquivalenter Radon-Aktivitätskonzentration zu realer Radon-Aktivitätskonzentration. Für Rn-222 beträgt der Gleichgewichtsfaktor 1, wenn sich die gesamten Radon-Folgeprodukte in Luft befinden (also kein Plate-out stattfindet). Er geht gegen Null, wenn alle Folgeprodukte aus der Luft kontinuierlich (mittels Plate-out, bspw. durch Luftreinigungssysteme) entfernt werden.</td></tr>
-<tr><td>Halbwertszeit, effektive/Période effective/Tempo di dimezzamento effettivo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image1.png)Die *effektive* Halbwertszeit berechnet sich wie folgt aus der *biologischen* und der *physikalischen* Halbwertszeit eines Radionuklides:</td></tr>
+<tr><td>Halbwertszeit, effektive/Période effective/Tempo di dimezzamento effettivo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image1.png)Die *effektive* Halbwertszeit berechnet sich wie folgt aus der *biologischen* und der *physikalischen* Halbwertszeit eines Radionuklides:</td></tr>
 <tr><td>Inhomogenes Strahlungsfeld/ Champ de rayonnement inhomogène/ Campo di radiazioni inomogeneo</td><td>Strahlungsfeld, in dem die Dosisleistung räumlich stark variiert.</td></tr>
 <tr><td>Inkorporationsmessung/ Mesure d’incorporation/ Misurazione dell’incorporazione</td><td>Bestimmung der effektiven Folgedosis *E*<sub>50</sub> aufgrund der gemessenen Körperaktivität oder der Aktivität in den Ausscheidungen.</td></tr>
 <tr><td>Kerma/Kerma/Kerma</td><td>Kerma ist die Summe der Anfangswerte der kinetischen Energien der in einem Volumenelement der Materie durch indirekt ionisierende Strahlung erzeugten geladenen Teilchen pro Masseneinheit (**k**inetic **e**nergy **r**eleased in **ma**terial) (J/kg, Gy).</td></tr>
@@ -835,25 +837,25 @@ Anhang 6
 
 Für die Interpretation wird standardmässig angenommen, dass die Inkorporation über den Inhalationspfad erfolgte. In diesem Fall wird die effektive Folgedosis *E*<sub>50</sub> – die operationelle Dosisgrösse bei innerer Bestrahlung als Produkt der inkorporierten Aktivität I und der Beurteilungsgrösse *e*<sub>inh</sub> (Dosiskoeffizienten für die Inhalationsinkorporation, veröffentlicht von der ICRP[^annex6-lvlu1-1]) – wie folgt ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image2.png) (1)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image2.png) (1)
 
 Der zur Zeit *t* nach der Inkorporation in einem Organ oder in den Ausscheidungen vorhandene Bruchteil der inhalierten Aktivität wird durch die Funktion *m*(*t*) (Retentions-/Exkretionsfraktion) abgeleitet. Man erhält so:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image3.png) (2)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image3.png) (2)
 
 wobei *M*(*t*) für die Aktivität in einem Organ oder in den Ausscheidungen steht (Messwert). Aus der Aktivität *M*(*t*) berechnet sich eine effektive Folgedosis *E*<sub>50</sub> von:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image4.png) (3)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image4.png) (3)
 
 Ist der Zeitraum *t* zwischen der Inkorporation und der Messung bekannt (spezielle Überwachung), so lässt sich die effektive Folgedosis *E*<sub>50</sub> mit Hilfe der Messgrösse *M*(*t*) und der Beziehung (3) berechnen.
 
 Bei der Routineüberwachung wird angenommen, dass die Inkorporation in der Mitte des Überwachungsintervalles *T* stattgefunden hat (d. h. *t* = *T*/2). Die effektive Folgedosis *E*<sub>50</sub> lässt sich mit Hilfe der Messgrösse *M(t)* (Aktivität), den Faktoren *e*<sub>inh</sub>/*m*(*t*) (ICRP) und folgender Beziehung abschätzen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image5.png) (4)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image5.png) (4)
 
-Liegt eine Inkorporation deutlich über der Nachweisgrenze und ist die effektive Halbwertszeit vergleichbar oder eindeutig länger als das Überwachungsintervall, so wird eine solche Inkorporation den nächsten Messwert beeinflussen. In diesem Fall muss bei weiteren Inkorporationsmessungen der Beitrag der vorangehenden Inkorporation berechnet und vom neuen Messwert abgezogen werden. Diese Korrektur berechnet sich aus der Extrapolation der vorangehenden Inkorporation *I*<sub>a</sub> auf den Zeitpunkt der neuen Messung mit Hilfe des Faktors *m*(Δ*t*). Δ*t* ist das Zeitintervall zwischen dem (angenommenen) Zeitpunkt der vorangehenden Inkorporation und der neuen Messung. Der Anteil *M*<sub>n</sub> des neuen Messwertes *M*(*t*), der auf eine neue Inkorporation zurückzuführen ist, wird mit dem Messwert *M*<sub>a</sub> der vorangehenden Messung wie folgt berechnet:
+Liegt eine Inkorporation deutlich über der Nachweisgrenze und ist die effektive Halbwertszeit vergleichbar oder eindeutig länger als das Überwachungsintervall, so wird eine solche Inkorporation den nächsten Messwert beeinflussen. In diesem Fall muss bei weiteren Inkorporationsmessungen der Beitrag der vorangehenden Inkorporation berechnet und vom neuen Messwert abgezogen werden. Diese Korrektur berechnet sich aus der Extrapolation der vorangehenden Inkorporation *I*<sub>a</sub> auf den Zeitpunkt der neuen Messung mit Hilfe des Faktors *m*(Δt). Δ*t* ist das Zeitintervall zwischen dem (angenommenen) Zeitpunkt der vorangehenden Inkorporation und der neuen Messung. Der Anteil *M*<sub>n</sub> des neuen Messwertes *M*(*t*), der auf eine neue Inkorporation zurückzuführen ist, wird mit dem Messwert *M*<sub>a</sub> der vorangehenden Messung wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image6.png) (5)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image6.png) (5)
 
 Die auf eine neue Inkorporation zurückzuführende effektive Folgedosis
 
@@ -863,7 +865,7 @@ errechnet sich dann gemäss Formel (4) wie folgt:
 
 [^annex6-lvlu1-1]: Siehe Fussnote zu Artikel 42.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image7.png) (6)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image7.png) (6)
 
 oder mit Hilfe der effektiven Folgedosis
 
@@ -871,11 +873,11 @@ E\_50^a
 
 der vorangehenden Inkorporation:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image8.png) (7)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image8.png) (7)
 
 Für die Korrektur bei der Routineüberwachung sind die Faktoren
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/de/xml/image/image9.png) (8)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/de/xml/image/image9.png) (8)
 
 mit Hilfe der *m*(*t*)-Werte zu berechnen. Die Zeitspanne ΔSONDZEICHENSymbol*t* beträgt (*n*+1/2) ∙ *T*, wobei *n* die Zahl der Intervalle bezeichnet, die die Inkorporation zurückliegt. Die *m*(*t*)-Werte müssten dem aktuellen Stand von Wissenschaft und Technik gemäss den Empfehlungen der ICRP entsprechen.SONDZEICHENSymbolSONDZEICHENSymbol In der Praxis sind diese Korrekturen erst zu berücksichtigen, wenn die Korrektur mehr als 10 % der resultierenden Dosis ausmacht.
 
@@ -938,6 +940,68 @@ Anhang 8
 - f. Fading
 - Effekt &lt; 20 % / Expositionsperiode
 
-Anhang 9[^t-1]
+Anhang 9
 
-[^t-1]: Tritt am 1. Jan. 2027 in Kraft.
+(Art. 33, 34 und 40)
+
+## Technische und organisatorische Anforderungen an Triagemessungen
+
+### 1 Auswahl und Betrieb des Messgeräts
+
+- 1\.1. Die Triagemessung ist im Betrieb mit einem geeigneten und von Personal vor Ort bedienten Messgerät durchzuführen, um zu prüfen, ob eine bestimmte nuklidspezifische Messschwelle überschritten ist und eine Inkorporation vorliegt.
+- 1\.2.
+
+  Das Messgerät muss geeignet sein nach:
+
+  - a. seiner Radionuklidsensitivität (abgegebene Strahlung und Zerfallsart);
+  - b. dem jeweiligen Stoffwechsel (Retention im Körper);
+  - c. der technischen Durchführbarkeit der Messung.
+
+- 1\.3. Ein ursprünglich für die Inkorporationsmessung bestimmtes Gerät kann für Triagemessungen verwendet werden, wenn ein vereinfachtes Verfahren zur Anwendung kommt.
+
+### 2 Nuklidspezifische Messschwellen und Überwachungsintervalle
+
+- 2\.1. Die nuklidspezifische Messschwelle wird grundsätzlich wie folgt festgelegt:
+
+S = (E\_50 , w e r t^)/(N ( T )) ∙ (m ( T / 2 ))/(e\_50)
+
+-
+
+  - a. E\_50 , w e r t^\_ ist der effektive Folgedosiswert [mSv];
+  - b. e\_50 ist der Dosiskoeffizient für die effektive Folgedosis infolge einer Inkorporation [mSv/Bq];
+  - c. *T* ist das Überwachungsintervall [Tag];
+  - d. m ( T / 2 ) ist die Retentions- oder Exkretionsfraktion;
+  - e. 𝑁(𝑇) ist die Anzahl der pro Jahr durchgeführten Triagemessungen.
+
+- 2\.2. Abweichungen von der Berechnungsmethode in 2.1 sind zulässig, sofern besondere nuklidspezifische Eigenschaften oder messtechnische Grenzen dies erfordern.
+- 2\.3. Die Berechnung der nuklidspezifischen Messschwelle hat basierend auf Dosiskoeffizienten und Retentions- oder Exkretionsfraktionen nach dem Stand der Wissenschaft und Technik gemäss den Empfehlungen der ICRP[^annex9-lvlu1-lvl2-1] zu erfolgen.
+- 2\.4.
+
+  Die nuklidspezifische Messschwelle und das Überwachungsintervall müssen gewährleisten:
+
+  - a. dass die effektive Folgedosis unter 1 mSv bleibt, wenn die nuklidspezifischen Messschwelle im Laufe des Jahres nie überschritten wird;
+  - b. dass, die Unter- oder Überschätzung der effektiven Folgedosis nicht mehr als einen Faktor 3 beträgt.
+
+- 2\.5. Können die in Absatz 2.4 festgelegten Anforderungen aus messtechnischen oder physikalischen Gründen nicht erfüllt werden, sind Ausnahmen zulässig, wenn durch geeignete Massnahmen, insbesondere durch Triagemessungen mit hoher Frequenz, die zuverlässige Erkennung signifikanter Inkorporationen sichergestellt ist.
+- 2\.6. Bei radioaktiven Stoffen mit sehr kurzen effektiven Halbwertszeiten (&lt; 1 Tag) hat die Überwachung der Inkorporation durch häufige Triagemessungen zu erfolgen. Dabei ist das Überwachungsintervall entsprechend der Halbwertszeit geeignet zu wählen.
+- 2\.7. Ist der Arbeitseinsatz in einem Kontrollbereich zeitlich kürzer als das Überwachungsintervall für das dort gehandhabte Radionuklid oder die dort für die Inkorporationsdosis relevanten Radionuklide, so ist nach der Beendigung des Arbeitseinsatzes eine Triagemessung durchzuführen.
+
+[^annex9-lvlu1-lvl2-1]: Siehe Fussnote zu Artikel 42.
+
+### 3 Kalibrierung
+
+- 3\.1. Die nuklidspezifische Messschwelle bei Messgeräten muss mittels Kalibrierung oder einer Vergleichsmessung bestimmt werden.
+- 3\.2. Die Kalibrierung der Messgeräte ist mindestens alle drei Jahre zu überprüfen.
+- 3\.3. An Arbeitsplätzen, an denen mehrere Radionuklide vorhanden sind, kann ein Messgerät auf das Radionuklid mit dem tiefsten Verhältnis: (Messschwelle/Kalibrierfaktor) eingestellt werden.
+
+### 4 Qualitätssicherung
+
+In betriebsinternen Weisungen müssen dokumentiert werden:
+
+- a. das für die Triagemessungen gewählte Messverfahren, insbesondere Dosisleistungsmessung, Urinanalyse mittels Flüssigszintillationsmessung, Schilddrüsenmessung und Kontamination der Hände mittels Kontaminationsmonitor;
+- b. die Kalibrierung;
+- c. die qualitätssichernden Massnahmen.
+
+### 5 Protokollierung
+
+Die Resultate der Triagemessungen müssen individuell protokolliert und mindestens zwei Jahre lang aufbewahrt werden.

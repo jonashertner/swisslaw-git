@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 janvier 2026 sur la dosimétrie individuelle et 
 short: ODos
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/59"
 language: fr
-version: 2026-03-01
+version: 2027-01-01
 adopted: 2026-01-29
 in_force: 2026-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-2026-59-20260301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20260301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2026-59-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20260301/fr"
 
 (Ordonnance sur la dosimétrie, ODos)
 
-du 29 janvier 2026 (État le 1<sup>er</sup> mars 2026)
+du 29 janvier 2026 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de l’intérieur (DFI), en accord avec l’Inspection fédérale de la sécurité nucléaire,
 
@@ -436,19 +436,21 @@ La surveillance d’incorporation est effectuée:
 
 <sup>2</sup> Les résultats des mesures de tri ne sont pas utilisés pour déterminer une dose.
 
-<sup>3</sup> …[^33-1]
+<sup>3</sup> Si le résultat d’une mesure de tri dépasse le seuil de mesure spécifique au radionucléide établi conformément à l’annexe 9, le titulaire de l’autorisation doit en outre procéder à une mesure d’incorporation.
 
 <sup>4</sup> L’OFSP, en accord avec l’Inspection fédérale de la sécurité nucléaire, publie des informations spécifiques aux radionucléides concernant les méthodes de mesure pour les radionucléides les plus fréquemment utilisés.
 
 <sup>5</sup> Si une mesure d’incorporation est réalisée, le service de dosimétrie individuelle évalue la dose efficace engagée et la notifie conformément à l’art. 69 ORaP.
 
-[^33-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027.
-
 #### Art. 34
 
-[^34-1]
+**Mesure de tri**
 
-[^34-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027.
+<sup>1</sup> La méthode utilisée en cas de mesure de tri tient compte des caractéristiques physicochimiques et radiologiques spécifiques aux radionucléides.
+
+<sup>2</sup> La méthode de mesure doit satisfaire aux exigences énoncées à l’annexe 9.
+
+<sup>3</sup> Le titulaire de l’autorisation définit la méthode de mesure en accord avec l’autorité de surveillance. Il est responsable de l’exécution de la mesure de tri.
 
 #### Art. 35
 
@@ -507,11 +509,11 @@ En l’absence d’un service de dosimétrie individuelle agréé pour mesurer l
 
 <sup>1</sup> L’agrément d’un service de dosimétrie individuelle pour l’incorporation au sens des art. 66 à 68 ORaP concerne des radionucléides définis.
 
-<sup>2</sup> et <sup>3</sup> …[^40-1]
+<sup>2</sup> Lors des analyses d’excrétions, les activités et les concentrations radioactives doivent pouvoir être déterminées entre 10 et 100 fois le seuil de mesure spécifique au radionucléide établi selon l’annexe 9, avec un écart par rapport à la valeur de référence de 20 % au maximum.
+
+<sup>3</sup> Pour les mesures directes, l’activité mesurée sur un fantôme doit pouvoir être déterminée entre le seuil de mesure spécifique au radionucléide établi selon l’annexe 9 et une valeur 100 fois supérieure. Le fantôme est approuvé par l’autorité habilitée à agréer. La valeur mesurée dans cette plage ne doit pas s’écarter de plus de 20 % de la valeur de référence.
 
 <sup>4</sup> Lorsqu’un service de dosimétrie individuelle pour l’incorporation détermine une dose efficace engagée, celle-ci doit être notifiée conformément à l’art. 69 ORaP. Les détails relatifs à la méthode de calcul doivent également être fournis.
-
-[^40-1]: Entrent en vigueur le 1<sup>er</sup> janv. 2027.
 
 #### Art. 41
 
@@ -674,7 +676,7 @@ Les termes sont présentés dans l’ordre alphabétique de la version allemande
 <tr><td>Fading/*Fading*/*Fading*</td><td>Écart entre la valeur mesurée et la valeur de référence en fonction du laps de temps entre l’irradiation et l’évaluation, par rapport à la valeur de référence en (%/mois).</td></tr>
 <tr><td>Fluenz/Fluence/Fluenza</td><td>La fluence en un point d’un champ de rayonnement désigne le nombre de particules entrant dans une petite sphère centrée sur ce point, divisé par la section transversale de cette sphère (cm<sup>-2</sup>).</td></tr>
 <tr><td>Gleichgewichtsfaktor/ Facteur d’équilibre/ Fattore di equilibrio</td><td>Le facteur d’équilibre *F* est le rapport entre la concentration d’activité du radon équivalente à l’équilibre et sa concentration réelle. Pour le radon-222, le facteur d’équilibre vaut 1 lorsque tous ses descendants sont présents dans l’air (donc en l’absence de dépôt sur les surfaces). Il tend vers zéro lorsque les descendants sont extraits de l’air en continu (par dépôt sur les surfaces ou par des systèmes de purification de l’air).</td></tr>
-<tr><td>Halbwertszeit, effektive/Période effective/Tempo di dimezzamento effettivo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image1.png)La période *effective* est calculée comme suit à partir de la période *biologique* et de la période *physique* d’un radionucléide:</td></tr>
+<tr><td>Halbwertszeit, effektive/Période effective/Tempo di dimezzamento effettivo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image1.png)La période *effective* est calculée comme suit à partir de la période *biologique* et de la période *physique* d’un radionucléide:</td></tr>
 <tr><td>Inhomogenes Strahlungsfeld/ Champ de rayonnement inhomogène/ Campo di radiazioni inomogeneo</td><td>Champ de rayonnement dans lequel le débit de dose varie fortement dans l’espace.</td></tr>
 <tr><td>Inkorporationsmessung/ Mesure d’incorporation/ Misurazione *dell’incorporazione*</td><td>Détermination de la dose efficace engagée *E*<sub>50</sub>, sur la base de la *mesure* de l’activité corporelle ou de celle d’excrétions.</td></tr>
 <tr><td>Kerma/*Kerma*/*Kerma*</td><td>Il s’agit de la somme, en un point dans la matière, des valeurs initiales des énergies cinétiques des particules chargées libérées par un rayonnement ionisant indirect par unité de masse de matière (***k****inetic* ***e****nergy* ***r****eleased* *in* ***ma****terial*) (J/kg, Gy).</td></tr>
@@ -842,25 +844,25 @@ Annexe 6
 
 Pour l’interprétation, on admet par défaut que l’incorporation est due à une inhalation. La dose efficace engagée *E*<sub>50</sub>, grandeur dosimétrique opérationnelle en cas d’incorporation, s’obtient en multipliant l’activité incorporée *I* par la grandeur d’appréciation *e*<sub>inh</sub> (coefficients de dose pour l’incorporation par inhalation, publiés par la CIPR[^annex6-lvlu1-1]):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image2.png) (1)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image2.png) (1)
 
 La fraction de l’activité se trouvant au temps *t* après une incorporation par inhalation dans un organe ou une excrétion est donnée par la fonction *m*(*t*) (fraction de rétention/d’excrétion). On a ainsi:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image3.png) (2)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image3.png) (2)
 
 où *M*(*t*) est l’activité dans l’organe ou l’excrétion (valeur de mesure). La dose efficace engagée *E*<sub>50</sub> s’obtient ainsi à partir de *M*(*t*):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image4.png) (3)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image4.png) (3)
 
 Lorsque l’intervalle de temps *t* entre l’incorporation et la mesure est connu (surveillance spéciale), la dose efficace engagée *E*<sub>50</sub> se calcule à partir de *M*(*t*) avec la formule (3).
 
 Lors de la surveillance de routine, on admet que l’incorporation a eu lieu au milieu de l’intervalle de surveillance *T* (ainsi *t* = *T*/2). La dose efficace engagée *E*<sub>50</sub> s’obtient à partir de la grandeur *M**(t)* (activité), des facteurs *e*<sub>inh</sub>/*m*(*t*) (CIPR) et du rapport suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image5.png) (4)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image5.png) (4)
 
 Lorsqu’une incorporation nettement supérieure à la limite de détection a eu lieu et que la période effective est comparable ou supérieure à l’intervalle de surveillance, cette incorporation aura une incidence sur les mesures ultérieures. Dans ce cas, la contribution des incorporations antérieures à la mesure en cours devra être calculée et soustraite. Cette correction se calcule par extrapolation de l’incorporation antérieure *I**<sub>a</sub>* au moment de la nouvelle mesure, ceci à l’aide du facteur *m*(Δ*t*). Δ*t* est l’intervalle de temps entre le moment (supposé) de l’incorporation précédente et la nouvelle mesure. La contribution *M*<sub>n</sub>(t) à la nouvelle mesure *M*(*t*) provenant de la nouvelle incorporation se calcule, à partir de la valeur *M*<sub>a</sub> de la mesure précédente, comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image6.png) (5)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image6.png) (5)
 
 La dose efficace engagée
 
@@ -870,7 +872,7 @@ due à la nouvelle incorporation se calcule à l’aide de la formule (4) comme 
 
 [^annex6-lvlu1-1]: Cf. note de bas de page relative à l’art. 42.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image7.png) (6)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image7.png) (6)
 
 ou, à l’aide de la dose efficace engagée
 
@@ -878,11 +880,11 @@ E\_50^a
 
 de l’incorporation précédente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image8.png) (7)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image8.png) (7)
 
 Dans le cas de la surveillance de routine, les facteurs de correction
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/fr/xml/image/image9.png) (8)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/fr/xml/image/image9.png) (8)
 
 peuvent être calculés à partir des valeurs de *m*(*t*). Le laps de temps Δ*t* prend les valeurs (*n*+1/2) *T*, où *n* est le nombre d’intervalles séparant le moment de l’incorporation et la mesure. Les valeurs *m*(*t*) doivent répondre à l’état actuel de la science et de la technique, conformément aux recommandations de la CIPR. En pratique, on ne tiendra compte de ces corrections que si leur contribution à la dose est supérieure à 10 %.
 
@@ -955,6 +957,68 @@ Annexe 8
 - f. *Fading*:
 - Effet &lt; 20 % / période d’exposition
 
-Annexe 9[^t-1]
+Annexe 9
 
-[^t-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027.
+(art. 33, 34 et 40)
+
+## Exigences techniques et organisationnelles pour les mesures de tri
+
+### 1. Sélection et utilisation de l’appareil de mesure
+
+- 1\.1. La mesure de tri doit être effectuée dans l’entreprise, avec un appareil de mesure approprié utilisé par le personnel sur place, afin de vérifier si un certain seuil de mesure spécifique aux radionucléides est dépassé et de détecter une éventuelle incorporation.
+- 1\.2.
+
+  L’appareil de mesure est adapté en fonction:
+
+  - a. de sa sensibilité aux radionucléides (type de rayonnement émis et mode de désintégration);
+  - b. du métabolisme spécifique (rétention dans l’organisme);
+  - c. de la faisabilité technique de la mesure.
+
+- 1\.3. Un appareil initialement destiné à mesurer l’incorporation peut être utilisé pour des mesures de tri si une procédure simplifiée est appliquée.
+
+### 2. Seuils de mesure spécifiques aux radionucléides et intervalles de surveillance
+
+- 2\.1. Le seuil de mesure spécifique à chaque radionucléide est défini de manière générale comme suit:
+
+S = (E\_50 , v a l e u r^)/(N ( T )) ∙ (m ( T / 2 ))/(e\_50)
+
+-
+
+  - a. E\_50 , v a l e u r^ est la valeur de dose efficace engagée [mSv];
+  - b. e\_50 est le coefficient de dose efficace engagée en cas d’incorporation [mSv/Bq];
+  - c. *T* est l’intervalle de surveillance [jour];
+  - d. m ( T / 2 ) est la fraction de rétention ou d’excrétion;
+  - e. 𝑁(𝑇) est le nombre de mesures de tri réalisées par an.
+
+- 2\.2. Des écarts par rapport à la méthode de calcul décrite au point 2.1 sont autorisés si des propriétés spécifiques à certains radionucléides ou des limites métrologiques l’exigent.
+- 2\.3. Le calcul du seuil de mesure spécifique aux radionucléides doit être effectué sur la base de coefficients de dose et de fractions de rétention ou d’excrétion répondant à l’état de la science et de la technique, conformément aux recommandations de la CIPR[^annex9-lvlu1-lvl2-1].
+- 2\.4.
+
+  Le seuil de mesure spécifique aux radionucléides et l’intervalle de surveillance garantissent que:
+
+  - a. la dose efficace engagée reste inférieure à 1 mSv si le seuil de mesure spécifique aux radionucléides n’est jamais dépassé au cours de l’année;
+  - b. la sous-estimation ou la surestimation de la dose efficace engagée n’excède pas un facteur 3.
+
+- 2\.5. Si, pour des raisons techniques ou physiques, les conditions fixées au point 2.4 ne peuvent pas être respectées, des dérogations sont autorisées si des mesures appropriées, notamment des mesures de tri effectuées à une fréquence élevée, garantissent la détection fiable des incorporations significatives.
+- 2\.6. Pour les substances radioactives ayant une période effective très courte (inférieure à 1 jour), la surveillance d’incorporation est assurée par des mesures de tri fréquentes. L’intervalle de surveillance est choisi en fonction de la période.
+- 2\.7. Lorsque l’intervention dans un secteur contrôlé est plus courte que l’intervalle de surveillance pour le radionucléide utilisé ou pour les radionucléides significatifs vis-à-vis de la dose d’incorporation, une mesure de tri est effectuée à la fin de l’intervention.
+
+[^annex9-lvlu1-lvl2-1]: Cf. note de bas de page relative à l’art. 42.
+
+### 3. Étalonnage
+
+- 3\.1. Les seuils de mesure spécifiques aux radionucléides pour les appareils de mesure sont déterminés à l’aide d’un étalonnage ou d’une mesure d’intercomparaison.
+- 3\.2. L’étalonnage des appareils de mesure est vérifié au moins tous les trois ans.
+- 3\.3. Aux postes de travail où plusieurs radionucléides sont présents, un appareil de mesure peut être étalonné sur le radionucléide présentant le rapport le plus faible: (seuil de mesure/facteur d’étalonnage).
+
+### 4. Assurance qualité
+
+Les directives internes à l’entreprise documentent:
+
+- a. les procédures utilisées lors des mesures de tri, notamment la mesure du débit de dose, l’analyse d’urine par scintillation liquide, la mesure de la glande thyroïde et la contamination des mains avec un moniteur de contamination;
+- b. l’étalonnage;
+- c. les mesures d’assurance qualité.
+
+### 5. Enregistrement des résultats
+
+Les résultats des mesures de tri sont consignés individuellement et conservés pendant au moins deux ans.

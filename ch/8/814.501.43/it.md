@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 gennaio 2026 sulla dosimetria individuale e amb
 short: ODos
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/59"
 language: it
-version: 2026-03-01
+version: 2027-01-01
 adopted: 2026-01-29
 in_force: 2026-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/it/xml/fedlex-data-admin-ch-eli-cc-2026-59-20260301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20260301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2026-59-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/59/20260301/it"
 
 (Ordinanza sulla dosimetria, ODos)
 
-del 29 gennaio 2026 (Stato 1° marzo 2026)
+del 29 gennaio 2026 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale dell’interno (DFI), d’intesa con l’Ispettorato federale della sicurezza nucleare,
 
@@ -436,19 +436,21 @@ La sorveglianza dell’incorporazione è effettuata:
 
 <sup>2</sup> I risultati della misurazione di sondaggio non sono utilizzati per la valutazione della dose.
 
-<sup>3</sup> ...[^33-1]
+<sup>3</sup> Se il risultato di una misurazione di sondaggio supera la soglia di misurazione specifica per il radionuclide stabilita conformemente all’allegato 9, il titolare dell’autorizzazione deve inoltre procedere a una misurazione d’incorporazione.
 
 <sup>4</sup> L’UFSP, d’intesa con l’Ispettorato federale della sicurezza nucleare, pubblica informazioni specifiche per i radionuclidi riguardanti i metodi di misurazione per i radionuclidi più frequentemente utilizzati.
 
 <sup>5</sup> Se viene effettuata una misurazione d’incorporazione, il servizio di dosimetria individuale calcola la dose efficace impegnata e la segnala conformemente all’articolo 69 ORaP.
 
-[^33-1]: Entra in vigore il 1° gen. 2027.
-
 #### Art. 34
 
-[^34-1]
+**Misurazione di sondaggio**
 
-[^34-1]: Entra in vigore il 1° gen. 2027.
+<sup>1</sup> Il metodo utilizzato per la misurazione di sondaggio deve tenere conto delle caratteristiche fisico-chimiche e radiologiche specifiche dei radionuclidi.
+
+<sup>2</sup> Il metodo deve soddisfare i requisiti indicati nell’allegato 9.
+
+<sup>3</sup> Il titolare della licenza definisce il metodo di misurazione d’intesa con l’autorità di vigilanza. È responsabile dell’esecuzione delle misurazioni di sondaggio.
 
 #### Art. 35
 
@@ -507,11 +509,11 @@ Se per determinati radionuclidi non sono disponibili servizi di dosimetria ricon
 
 <sup>1</sup> Il riconoscimento di un servizio di dosimetria individuale per le misurazioni dell’incorporazione secondo gli articoli 66–68 ORaP avviene per radionuclidi definiti.
 
-<sup>2 e <sup>3</sup></sup> ...[^40-1]
+<sup>2</sup> Nell’analisi degli escreti, devono poter essere valutate le attività e le concentrazioni di attività comprese tra 10 e 100 volte la soglia di misura di cui all’allegato 9, con una deviazione massima dal livello di riferimento del 20 per cento.
+
+<sup>3</sup> Per le misurazioni dirette, deve poter essere valutata su un fantoccio l’attività compresa tra la soglia di misura di cui all’allegato 9 e 100 volte il suo valore. Il fantoccio da utilizzare deve essere approvato dall’autorità di riconoscimento. Il valore misurato in questo intervallo può deviare dal livello di riferimento al massimo del 20 per cento.
 
 <sup>4</sup> Qualora un servizio di dosimetria individuale per l’incorporazione calcoli una dose efficace impegnata, questa deve essere notificata conformemente all’art. 69 ORaP; devono inoltre essere forniti i dettagli relativi al metodo di calcolo
-
-[^40-1]: Entrano in vigore il 1° gen. 2027.
 
 #### Art. 41
 
@@ -678,7 +680,7 @@ I termini sono elencati secondo l’ordine alfabetico della versione tedesca.
 <tr><td>Fading/Fading/*Fading*</td><td>Differenza relativa, espressa in unità percentuali del livello di riferimento (%/ mese), tra il valore misurato e quello di riferimento in funzione del lasso di tempo tra l’irradiazione e la valutazione.</td></tr>
 <tr><td>Fluenz/Fluence/Fluenza</td><td>La fluenza in un punto incluso in un campo di radiazioni è pari al numero di particelle entranti in una piccola sfera centrata nel punto, diviso per l’area del cerchio di raggio pari a quello della sfera (cm<sup>-2</sup>).</td></tr>
 <tr><td>Gleichgewichtsfaktor/ Facteur d’équilibre/Fattore di equilibrio</td><td>Il fattore di equilibrio *F* è dato dal rapporto tra la concentrazione di attività del radon equivalente all’equilibrio e la reale concentrazione di attività del radon. Per Rn-222 il fattore di equilibrio è 1, se la totalità dei prodotti di decadimento del radon si trovano nell’aria (e non si verifica quindi l’effetto *plate-out*). Il fattore di equilibrio scende invece attorno allo zero, se tutti i prodotti di decadimento del radon vengono eliminati continuamente dall’aria (per effetto *plate-out* o attraverso sistemi di purificazione dell’aria).</td></tr>
-<tr><td>Halbwertszeit, effektive/Période effective/Tempo di dimezzamento effettivo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/it/xml/image/image1.png)Il tempo di dimezzamento *effettivo* è calcolato a partire dal tempo di dimezzamento *biologico* e da quello *fisico* di un radionuclide secondo la relazione:</td></tr>
+<tr><td>Halbwertszeit, effektive/Période effective/Tempo di dimezzamento effettivo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/it/xml/image/image1.png)Il tempo di dimezzamento *effettivo* è calcolato a partire dal tempo di dimezzamento *biologico* e da quello *fisico* di un radionuclide secondo la relazione:</td></tr>
 <tr><td>Inhomogenes Strahlungsfeld/ Champ de rayonnement inhomogène/ Campo di radiazioni inomogeneo</td><td>Campo di radiazioni in cui l’intensità di dose varia fortemente nello spazio.</td></tr>
 <tr><td>Inkorporationsmessung/ Mesure d’incorporation/ Misurazione dell’incorporazione</td><td>Determinazione della dose efficace impegnata *E*<sub>50</sub>, sulla base della misurazione dell’attività corporea o di quella escreta.</td></tr>
 <tr><td>Kerma/Kerma/*Kerma*</td><td>Il kerma in un punto nella materia è pari alla somma delle energie cinetiche delle particelle ionizzanti cariche prodotte dalle radiazioni ionizzanti neutre, per unità di massa (**k**inetic **e**nergy **r**eleased in **ma**terial) (J/kg, Gy).</td></tr>
@@ -887,7 +889,7 @@ E\_50^n = M\_n ( t ) ∙ (e\_i n h)/(m ( T / 2 )) = M ( t ) ∙ (e\_i n h)/(m ( 
 
 (6)
 
-o mediante la dose efficace impegnata ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20260301/it/xml/image/image2.png) dovuta all’incorporazione precedente:
+o mediante la dose efficace impegnata ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/59/20270101/it/xml/image/image2.png) dovuta all’incorporazione precedente:
 
 E\_50^n = M ( t ) ∙ (e\_i n h)/(m ( T / 2 )) − E\_50^a ∙ (m ( ∆ t ))/(m ( T / 2 )) = M ( t ) ∙ (e\_i n h)/(m ( T / 2 )) − E\_50^a ∙ k ( ∆ t )
 
@@ -969,6 +971,70 @@ Allegato 8
 - f. *Fading*:
 - Effetto &lt; 20 % / periodo di esposizione
 
-Allegato 9[^t-1]
+Allegato 9
 
-[^t-1]: Entra in vigore il 1° gen. 2027.
+(art. 33, 34 e 40)
+
+## Requisiti tecnici e organizzativi per le misure di sondaggio
+
+### 1. Selezione e utilizzo dello strumento di misurazione
+
+- 1\.1. La misurazione di sondaggio deve essere effettuata direttamente all’interno dell’azienda, utilizzando uno strumento di misura idoneo impiegato dal personale stesso, al fine di verificare il superamento di un determinato valore soglia specifico per i radionuclidi e rilevare un’eventuale incorporazione.
+- 1\.2.
+
+  Lo strumento di misurazione deve essere adeguato a:
+
+  - a. sensibilità ai radionuclidi (tipo di radiazione emessa e modo di decadimento);
+  - b. metabolismo specifico (ritenzione nel corpo);
+  - c. fattibilità tecnica della misura.
+
+- 1\.3. Uno strumento originariamente destinato alla misurazione dell’incorporazione può essere utilizzato per le misurazioni di sondaggio se viene applicata una procedura semplificata.
+
+### 2. Soglia di misura specifica per radionuclidi e intervalli di sorveglianza
+
+- 2\.1. La soglia di misura specifica per ogni radionuclide è generalmente definita come segue:
+
+S = (E\_50 , v a l o r e)/(N ( T )) ∙ (m ( T / 2 ))/(e\_50)
+
+-
+
+  - a. E\_50 , v a l o r e è il valore della dose efficace impegnata [mSv];
+  - b. e\_50 è il coefficiente di dose efficace impegnata in caso di incorporazione [mSv/Bq];
+  - c. *T* è l’intervallo di sorveglianza [giorno];
+  - d. m ( T / 2 ) è la funzione di ritenzione o escrezione;
+  - e. 𝑁(𝑇) è il numero di misure di sondaggio effettuate all’anno.
+
+- 2\.2. Deviazioni dal metodo di calcolo descritto al punto 2.1 sono ammesse se caratteristiche specifiche di alcuni radionuclidi o limiti metrologici lo richiedono.
+- 2\.3. Il calcolo della soglia di misura specifica per radionuclide deve basarsi su coefficienti di dose e frazioni di ritenzione o di escrezione conformi allo stato attuale della scienza e della tecnica, in linea con le raccomandazioni della CIPR[^annex9-lvlu1-lvl2-1].
+- 2\.4.
+
+  La soglia di misura specifica per radionuclide e l’intervallo di sorveglianza devono garantire che:
+
+  - a. la dose efficace impegnata rimanga inferiore a 1 mSv, qualora la soglia non venga mai superata durante l’anno;
+  - b. la sottostima o sovrastima della dose efficace impegnata non superi un fattore 3.
+
+- 2\.5. Qualora, per motivi tecnici o fisici, le condizioni di cui al punto 2.4 non possono essere soddisfatte, sono ammesse deroghe a condizione che procedure adeguate, in particolare una maggiore frequenza delle misurazioni di sondaggio, garantiscano la rilevazione affidabile di eventuali incorporazioni significative.
+- 2\.6. Per sostanze radioattive con tempo di dimezzamento molto breve (inferiore a un giorno), la sorveglianza dell’incorporazione deve essere effettuata tramite misurazioni di sondaggio frequenti. L’intervallo di sorveglianza è scelto in funzione del tempo di dimezzamento.
+- 2\.7. Se il periodo di lavoro in un’area controllata è più breve dell’intervallo di sorveglianza previsto per il radionuclide utilizzato o per radionuclidi significativi ai fini della dose da incorporazione, è necessario effettuare una misura di sondaggio al termine del periodo di lavoro.
+
+[^annex9-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 42.
+
+### 3. Taratura
+
+- 3\.1. La soglia di misura specifica per ciascun radionuclide deve essere determinata mediante una taratura o una misura comparativa degli strumenti di misura.
+- 3\.2. Le soglie di misura devono essere controllate ogni tre anni.
+- 3\.3. Nei posti di lavoro dove sono presenti più radionuclidi, lo strumento di misura può essere tarato su quello che presenta il rapporto più basso: soglia di misura/fattore di taratura.
+
+### 4. Garanzia della qualità
+
+- 4\.1.
+
+  Le direttive interne dell’azienda devono documentare:
+
+  - a. le procedure utilizzate per le misurazioni di sondaggio, tra cui la misurazione dell’intensità di dose, l’analisi delle urine tramite scintillazione liquida, la misurazione della tiroide e la contaminazione delle mani con un sistema di misura della contaminazione;
+  - b. la taratura degli strumenti;
+  - c. le procedure di garanzia della qualità.
+
+### 5. Documentazione dei risultati
+
+I risultati delle misurazioni di sondaggio devono essere messi a verbale individualmente e conservati per almeno due anni.
