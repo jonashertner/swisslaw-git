@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Dezember 2019 über den Bevölkerungsschutz und den
 short: BZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/de"
 
 (Bevölkerungs- und Zivilschutzgesetz, BZG)
 
-vom 20. Dezember 2019 (Stand am 1. Januar 2026)
+vom 20. Dezember 2019 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -115,8 +115,8 @@ Er regelt im Bereich der Koordination des Verkehrswesens:
 
 <sup>3</sup> Er trifft Massnahmen zur Verstärkung des Bevölkerungsschutzes für den Fall von bewaffneten Konflikten.
 
-[^6-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^6-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^6-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^6-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 7
 
@@ -177,8 +177,8 @@ Der Bundesrat kann dem BABS Rechtsetzungskompetenzen übertragen zur Regelung:
 - a. der Verbreitung von Informationen und Verhaltensanweisungen;
 - b. der technischen Aspekte der Systeme zur Warnung der Behörden, zur Alarmierung und Information der Bevölkerung sowie der technischen Aspekte des Notfallradios.
 
-[^9-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^9-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^9-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^9-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 10
 
@@ -219,7 +219,7 @@ Dieses ist insbesondere zuständig für:
 
 <sup>5</sup> Der Bundesrat kann dem BABS Rechtsetzungskompetenzen übertragen zur Sicherstellung der Einsatzbereitschaft des vom Bund beschafften Materials.
 
-[^12-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^12-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 13
 
@@ -229,7 +229,7 @@ Dieses ist insbesondere zuständig für:
 
 <sup>2</sup> Es arbeitet im Rahmen der Forschung und Entwicklung im Bevölkerungsschutz mit nationalen und internationalen Partnern zusammen.
 
-[^13-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^13-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. Kapitel: Aufgaben der Kantone und Dritter
 
@@ -377,7 +377,7 @@ Der Bund koordiniert auf nationaler Ebene die Ausbildung der Angehörigen der Pa
 
 <sup>7</sup> Der Bundesrat regelt die Zuständigkeiten im Bereich der Ausbildung.
 
-[^22-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^22-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 6. Kapitel: Finanzierung
 
@@ -457,7 +457,7 @@ Der Bund trägt die Kosten für:
 - c. das Einsatzmaterial für die ABC-Einsatzorganisationen (Art. 12 Abs. 3);
 - d. die eigenen Aufwendungen in der Zusammenarbeit mit den Kantonen, den Partnerorganisationen sowie den Betreiberinnen kritischer Infrastrukturen (Art. 4).
 
-[^27-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^27-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ## 3. Titel: Zivilschutz
 
@@ -505,10 +505,18 @@ Nicht schutzdienstpflichtig ist, wer:
 
 <sup>3</sup> Der Bundesrat regelt die Ausnahmen für Auslandschweizer und Auslandschweizerinnen, die im grenznahen Ausland Wohnsitz haben (Abs. 2 Bst. d).
 
-[^29-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^29-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^29-3]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-3]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 [^29-4]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+
+#### Art. 29a
+
+**Zivildienstleistungen in einer Zivilschutzorganisation**[^29a-1]
+
+Zivildienstpflichtige Personen bleiben während der Dienstleistung in einer Zivilschutzorganisation der Zivildienstgesetzgebung unterstellt.
+
+[^29a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 30
 
@@ -547,10 +555,10 @@ Der Bundesrat kann:
 
 <sup>8</sup> Er kann die Schutzdienstpflicht auf Ersuchen eines von einer lange andauernden Katastrophe oder Notlage betroffenen Kantons um höchstens 100 Tage verlängern, sofern die Dienstpflicht aufgrund der Katastrophe oder Notlage für zu viele Schutzdienstpflichtige gleichzeitig endet und dadurch die Einsatzfähigkeit gefährdet ist.
 
-[^31-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^31-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^31-3]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^31-4]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-3]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-4]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 32
 
@@ -596,7 +604,7 @@ Für den Zivilschutz nicht rekrutiert werden Stellungspflichtige, die:
 - a. infolge eines Strafurteils nach Artikel 21 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^34-2] für die Armee untragbar sind; oder
 - b. den Anforderungen des Militärdiensts aus psychischen Gründen insofern nicht genügen, als sie Auffälligkeiten zeigen, die auf ein Gewaltpotenzial schliessen lassen.
 
-[^34-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^34-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 [^34-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35
@@ -609,17 +617,37 @@ Für den Zivilschutz nicht rekrutiert werden Stellungspflichtige, die:
 
 <sup>3 und <sup>4</sup></sup> …[^35-1]
 
-[^35-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^35-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 36
 
-**Personalpool**
+**Soll- und Ist-Bestand**[^36-1]
 
-<sup>1</sup> Nicht eingeteilte Schutzdienstpflichtige werden in einem gesamtschweizerischen Personalpool erfasst und nicht ausgebildet.
+<sup>1</sup> Die Kantone legen aufgrund ihres Leistungsprofils und ihrer Organisationsstruktur den Soll-Bestand an Dienstleistenden fest, den sie zur Erfüllung der Aufgaben nach Artikel 28 benötigen. Sie aktualisieren den Soll-Bestand mindestens alle fünf Jahre.
 
-<sup>2</sup> Sie können bei Bedarf einem Kanton zur Verfügung gestellt und von diesem eingeteilt werden.
+<sup>2</sup> Der Ist-Bestand umfasst die eingeteilten und ausgebildeten Zivilschutzangehörigen, die rekrutierten, aber noch nicht ausgebildeten Zivilschutzangehörigen sowie die dem Zivilschutz zugewiesenen zivildienstleistenden Personen.
 
-<sup>3</sup> Es besteht kein Anspruch darauf, eingeteilt zu werden und Schutzdienst zu leisten.
+<sup>3</sup> Liegt der Ist-Bestand eines Kantons unter seinem Soll-Bestand, so weist dieser Kanton einen Unterbestand auf. Liegt der Ist-Bestand eines Kantons über seinem Soll-Bestand, so weist dieser Kanton einen Überbestand auf.
+
+<sup>4</sup> Ist-, Unter- und Überbestand müssen jährlich erhoben werden.
+
+<sup>5</sup> Die Kantone stellen dem BABS die Zahlen zu den Beständen jährlich, die Grundlagen zur Festlegung des Sollbestands auf Anfrage zur Verfügung.
+
+<sup>6</sup> Der Bundesrat regelt die Einzelheiten.
+
+[^36-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+
+#### Art. 36a
+
+**Ausgleichen eines Unterbestands**[^36a-1]
+
+<sup>1</sup> Weist ein Kanton in einem Jahr einen Unterbestand auf, so kann dieser in erster Priorität mit Schutzdienstpflichtigen aus Kantonen mit einem Überbestand, in zweiter Priorität mit zivildienstpflichtigen Personen ausgeglichen werden.
+
+<sup>2</sup> Das BABS kann einem Kanton mit einem Unterbestand Schutzdienstpflichtige aus einem Kanton mit einem Überbestand zuteilen.
+
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten und das Verfahren.
+
+[^36a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 37
 
@@ -666,7 +694,7 @@ Schutzdienstleistende haben Anspruch auf Erwerbsausfallentschädigung nach dem E
 
 Schutzdienstpflichtigen und Personen, die freiwillig Schutzdienst leisten und ersatzabgabepflichtig sind, werden bei der Berechnung der Wehrpflichtersatzabgabe sämtliche geleisteten Schutzdiensttage angerechnet, die besoldet sind.
 
-[^41-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^41-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 42
 
@@ -712,7 +740,7 @@ Die Schutzdienstleistungen nach den Artikeln 49–53 dürfen insgesamt 66 Tage p
 
 <sup>4</sup> Gesuche um Verschiebung von Dienstleistungen sind an die aufbietende Stelle zu richten.
 
-[^45-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^45-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 46
 
@@ -732,7 +760,19 @@ Der Bundesrat kann die Schutzdienstpflichtigen aufbieten:
 
 <sup>4</sup> …[^46-1]
 
-[^46-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^46-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+
+#### Art. 46a
+
+**Aufgebot zur Zivildienstleistung in einer Zivilschutzorganisation**[^46a-1]
+
+<sup>1</sup> Die Zivilschutzorganisationen stellen der Vollzugsstelle des Bundes für den Zivildienst zur Erstellung des Aufgebots ihre Einsatzplanung und die Dienstvoranzeigen für die im Folgejahr zu leistenden Ausbildungsdienste zur Verfügung.
+
+<sup>2</sup> Sie teilen den zivildienstpflichtigen Personen die Einzelheiten, insbesondere Antrittsort und ‑zeit, spätestens sechs Wochen vor Beginn der Zivildienstleistung mit.
+
+<sup>3</sup> Zu einer Zivildienstleistung für einen Einsatz nach Artikel 46 Absätze 1 und 2 bietet die zuständige Zivilschutzorganisation die zivildienstpflichtige Person nach dem massgeblichen kantonalen Verfahren auf.
+
+[^46a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 47
 
@@ -755,7 +795,7 @@ Das BABS kontrolliert, ob:
 
 <sup>6</sup> Er regelt das Kontrollverfahren nach Absatz 2.
 
-[^47-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^47-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. Kapitel: Ausbildung
 
@@ -773,21 +813,24 @@ Die Kantone sind für die Ausbildung zuständig, sofern in diesem Gesetz nichts 
 
 <sup>1bis</sup> Personen, die nach der Vollendung ihres 24. Altersjahrs schutzdienstpflichtig werden, müssen die Grundausbildung innerhalb eines Jahres nach ihrer Einteilung im Zivilschutz beginnen.[^49-2]
 
-<sup>1ter</sup> Kann der Schutzdienstpflichtige die Frist des Beginns der Grundausbildung aus unvorhergesehenen Gründen nicht einhalten, so kann der Kanton diese verlängern. Der Schutzdienstpflichtige muss die Grundausbildung aber in jedem Fall spätestens in dem Jahr, in dem er 30 Jahre alt wird, beginnen.[^49-3]
+<sup>1ter</sup> Zivildienstpflichtige Personen, die Zivildienstleistungen in einer Zivilschutzorganisation erbringen, müssen die Grundausbildung innerhalb eines Jahres nach ihrer Zuweisung zum Zivilschutz beginnen.[^49-3]
+
+<sup>1quater</sup> Kann der Schutzdienstpflichtige die Frist des Beginns der Grundausbildung aus unvorhergesehenen Gründen nicht einhalten, so kann der Kanton diese verlängern. Der Schutzdienstpflichtige muss die Grundausbildung aber in jedem Fall spätestens in dem Jahr, in dem er 30 Jahre alt wird, beginnen.[^49-4]
 
 <sup>2</sup> Die Grundausbildung dauert 10–19 Tage.
 
 <sup>3</sup> Bei einer Umteilung können die Schutzdienstpflichtigen verpflichtet werden, im neuen Fachgebiet erneut eine Grundausbildung zu absolvieren. Die Kantone entscheiden über eine Umteilung.
 
-<sup>4</sup> Leistet eine Person freiwillig Schutzdienst oder hat sie bereits die Rekrutenschule absolviert, so kann der Kanton bestimmen, ob und welche Teile der Grundausbildung sie absolvieren muss. Der Bundesrat regelt die Einzelheiten.[^49-4]
+<sup>4</sup> Leistet eine Person freiwillig Schutzdienst oder hat sie bereits die Rekrutenschule absolviert, so kann der Kanton bestimmen, ob und welche Teile der Grundausbildung sie absolvieren muss. Der Bundesrat regelt die Einzelheiten.[^49-5]
 
-<sup>5 und <sup>6</sup></sup> …[^49-5]
+<sup>5 und <sup>6</sup></sup> …[^49-6]
 
-[^49-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^49-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^49-3]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^49-4]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^49-5]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-1]: Fassung gemäss Ziff. III des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz) ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)). Fassung gemäss Ziff. III des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-3]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz) ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)). Fassung gemäss Ziff. III des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-4]: Eingefügt durch Ziff. III des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-5]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-6]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 50
 
@@ -857,8 +900,8 @@ Es ist zuständig für:
 
 <sup>5</sup> Es legt in Zusammenarbeit mit den Kantonen die Ziele und die Inhalte der Zivilschutzausbildung fest.[^54-2]
 
-[^54-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^54-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^54-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^54-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 55
 
@@ -1032,7 +1075,7 @@ Die Spitalträgerschaften sorgen für die Erstellung, die Ausrüstung, den Unter
 
 <sup>3</sup> …[^71-1]
 
-[^71-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^71-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. Abschnitt: Gemeinsame Bestimmungen
 
@@ -1065,7 +1108,7 @@ Der Bundesrat kann dem BABS im Bereich der Schutzbauten Rechtsetzungskompetenzen
 - c. der Verwendung durch Dritte;
 - d.[^75-1] …
 
-[^75-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^75-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 6. Kapitel: Einsatzmaterial und Material für Schutzanlagen
 
@@ -1086,8 +1129,8 @@ Der Bund ist zuständig für die Beschaffung:
 
 <sup>4</sup> …[^76-2]
 
-[^76-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^76-2]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^76-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^76-2]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 7. Kapitel: Internationales Schutzzeichen und Ausweis des Zivilschutzes
 
@@ -1320,7 +1363,7 @@ Der Bundesrat legt fest:
 
 <sup>11</sup> Das BABS kann für Einsätze zugunsten der Gemeinschaft auf nationaler Ebene, die den Kantonen vergütet werden, Pauschalen pro schutzdienstleistende Person festlegen.
 
-[^91-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^91-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 92
 
@@ -1352,30 +1395,32 @@ Es bearbeitet die Personendaten der Kursteilnehmenden zur Durchführung der Ausb
 - a. Daten über die Gesundheit;
 - b.[^93-4] Personendaten, die es erlauben, die Eignung für eine Kader- oder Spezialistenfunktion zu beurteilen.
 
-<sup>3</sup> Die Kantone können die Daten der Schutzdienstpflichtigen bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz notwendig ist. Insbesondere können sie die für die Beurteilung der Fähigkeit einen bevorstehenden Dienst zu leisten notwendigen sanitätsdienstlichen Daten der Schutzdienstpflichtigen bearbeiten.
+<sup>3</sup> Die Kantone können die Daten von Schutzdienstpflichtigen sowie von zivildienstpflichtigen Personen, die Zivildienstleistungen in einer Zivilschutzorganisation erbringen, bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz notwendig ist. Sie können zur Beurteilung der Fähigkeit, einen bevorstehenden Dienst zu leisten, auch sanitätsdienstliche Daten bearbeiten.[^93-5]
 
-<sup>4</sup> …[^93-5]
+<sup>4</sup> …[^93-6]
 
-<sup>5</sup> …[^93-6]
+<sup>5</sup> …[^93-7]
 
 [^93-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-2]: Fassung gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-4]: Fassung gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^93-5]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
-[^93-6]: Aufgehoben durch Anhang Ziff. 17 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-5]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^93-6]: Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Bestimmungen zum Koordinierten Sanitätsdienst, dem Koordinierten Verkehr und den kantonalen Notfalltreffpunkten sowie allgemeine Bestimmungen zum Zivilschutz), mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^93-7]: Aufgehoben durch Anhang Ziff. 17 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
 **Bekanntgabe von Daten**
 
-<sup>1</sup> Die kontrollführenden Stellen der Kantone geben dem BABS die Daten über Schutzdienstpflichtige bekannt, die dieses zur Erfüllung der Aufgaben nach diesem Gesetz benötigt.
+<sup>1</sup> Die kontrollführenden Stellen der Kantone geben dem BABS die Daten über Schutzdienstpflichtige sowie über zivildienstpflichtige Personen, die Zivildienstleistungen in einer Zivilschutzorganisation erbringen, bekannt, soweit dies zur Erfüllung der Aufgaben nach diesem Gesetz notwendig ist.[^94-1]
 
-<sup>2</sup> Sie geben der Militärversicherung die Daten über die schutzdienstpflichtigen Personen bekannt, die diese für die Erfüllung ihrer Aufgaben nach dem MVG[^94-1] benötigt.
+<sup>2</sup> Sie geben der Militärversicherung die Daten über die schutzdienstpflichtigen Personen bekannt, die diese für die Erfüllung ihrer Aufgaben nach dem MVG[^94-2] benötigt.
 
 <sup>3</sup> Das BABS kann den für die Ausbildung zuständigen Stellen der Kantone die Beurteilungen des Kader- oder Spezialistenpotenzials der an Ausbildungen des Bundes teilnehmenden Personen zur Verfügung stellen.
 
-[^94-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^94-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^94-2]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ## 5. Titel: Gewerbliche Leistungen des BABS
 
@@ -1427,6 +1472,14 @@ Die Aufhebung und die Änderung anderer Erlasse sind im Anhang geregelt.
 
 [^99-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2028 ([AS 2024 786](https://fedlex.data.admin.ch/eli/oc/2024/786); [BBl 2024 1650](https://fedlex.data.admin.ch/eli/fga/2024/1650)).
 [^99-2]: [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
+
+#### Art. 99a
+
+**Übergangsbestimmung zur Änderung vom 21. März 2025**[^99a-1]
+
+Personen, die am 31. Dezember 2026 im gesamtschweizerischen Personalpool nach bisherigem Recht erfasst waren und in diesem Zeitpunkt das 28. Altersjahr noch nicht vollendet hatten, müssen innerhalb von zwei Jahren ab Inkrafttreten dieser Änderung einer Zivilschutzorganisation zugeteilt werden und die Grundausbildung beginnen, es sei denn, sie haben diese schon absolviert.
+
+[^99a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Einsatz von zivildienstpflichtigen Personen im Zivilschutz), in Kraft seit 1. Jan. 2027 ([AS 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 100
 

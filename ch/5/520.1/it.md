@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 2019 sulla protezione della popolazione e 
 short: LPPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/it"
 
 (LPPC)
 
-del 20 dicembre 2019 (Stato 1° gennaio 2026)
+del 20 dicembre 2019 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -215,7 +215,7 @@ Il Laboratorio di Spiez è competente in particolare per:
 
 <sup>3</sup> La Confederazione può sostenere le organizzazioni d’intervento specializzate nel settore NBC fornendo loro materiale d’intervento.
 
-<sup>4</sup> ...[^12-1]
+<sup>4</sup> …[^12-1]
 
 <sup>5</sup> Il Consiglio federale può delegare all’UFPP la competenza di emanare disposizioni volte a garantire la prontezza d’impiego del materiale acquisito dalla Confederazione.
 
@@ -453,7 +453,7 @@ I Cantoni e i terzi coinvolti si assumono i costi:
 La Confederazione si assume i costi per:
 
 - a. la ricerca e lo sviluppo di sua competenza (art. 13);
-- b.[^27-1] ...
+- b.[^27-1] …
 - c. il materiale d’intervento per le organizzazioni d’intervento specializzate nel settore NBC (art. 12 cpv. 3);
 - d. le attività di sua competenza nell’ambito della collaborazione con i Cantoni, le organizzazioni partner e i gestori di infrastrutture critiche (art. 4).
 
@@ -498,7 +498,7 @@ La protezione civile può inoltre essere chiamata a intervenire per:
 Non è tenuto a prestare servizio di protezione civile chi:
 
 - a. è tenuto a prestare servizio militare o servizio civile;
-- b.[^29-1] ...
+- b.[^29-1] …
 - c.[^29-2] è stato dichiarato inabile al servizio militare da una Commissione per la visita sanitaria dopo aver prestato almeno 166 giorni di servizio d’istruzione nell’esercito;
 - c<sup>bis</sup>.[^29-3] cessa di sottostare all’obbligo di prestare servizio civile; fanno eccezione le persone che l’organo federale preposto all’esecuzione del servizio civile ha licenziato anticipatamente dal servizio per motivi di salute conformemente all’articolo 11 capoverso 3 lettera b della legge del 6 ottobre 1995[^29-4] sul servizio civile e che fino a tale momento hanno prestato complessivamente meno di 166 giorni di servizio d’istruzione nell’esercito o di servizio civile;
 - d. è domiciliato all’estero.
@@ -509,6 +509,14 @@ Non è tenuto a prestare servizio di protezione civile chi:
 [^29-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 [^29-3]: Introdotta dalla cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 [^29-4]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+
+#### Art. 29a
+
+**Prestazioni di servizio civile in un’organizzazione di protezione civile**[^29a-1]
+
+Le persone che devono prestare servizio civile e ne prestano una parte in un’organizzazione di protezione civile rimangono assoggettate alla legislazione sul servizio civile.
+
+[^29a-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 30
 
@@ -532,7 +540,7 @@ Finché esercitano la loro funzione, le seguenti persone sono esentate dall’ob
 
 <sup>2</sup> Dura al massimo 14 anni o 245 giorni di servizio. Non sussiste il diritto a prestare complessivamente 245 giorni di servizio o più del minimo annuo stabilito nell’articolo 53 capoverso 1. I giorni di servizio militare prestati sono computati.[^31-2]
 
-<sup>3 e <sup>4</sup></sup> ...[^31-3]
+<sup>3 e <sup>4</sup></sup> …[^31-3]
 
 <sup>5</sup> Per i sottufficiali superiori e gli ufficiali, l’obbligo di prestare servizio di protezione civile dura fino alla fine dell’anno in cui compiono i 40 anni, a prescindere dal suo inizio e dai giorni di servizio prestati.
 
@@ -542,7 +550,7 @@ Finché esercitano la loro funzione, le seguenti persone sono esentate dall’ob
 
 Il Consiglio federale può:
 
-- a.[^31-4] ...
+- a.[^31-4] …
 - b. riassoggettare le persone congedate, fino a cinque anni dopo il loro congedo, all’obbligo di prestare servizio al fine di aumentare gli effettivi della protezione civile, segnatamente in caso di conflitto armato.
 
 <sup>8</sup> Può prolungare la durata dell’obbligo di prestare servizio di protezione civile di 100 giorni al massimo se lo chiede un Cantone colpito da una catastrofe o una situazione d’emergenza di lunga durata a causa della quale troppe persone tenute a prestare servizio di protezione civile (militi) raggiungono contemporaneamente la fine del loro obbligo di prestare servizio e la capacità d’intervento ne è pregiudicata.
@@ -607,19 +615,39 @@ Non sono reclutate nella protezione civile le persone soggette all’obbligo di 
 
 <sup>2</sup> Il Cantone decide in merito all’incorporazione dei militi che gli sono assegnati.
 
-<sup>3 e <sup>4</sup></sup> ...[^35-1]
+<sup>3 e <sup>4</sup></sup> …[^35-1]
 
 [^35-1]: Abrogati dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
 #### Art. 36
 
-**Riserva di personale**
+**Effettivo regolamentare ed effettivo reale**[^36-1]
 
-<sup>1</sup> I militi non incorporati sono registrati in una riserva nazionale di personale; non vengono istruiti.
+<sup>1</sup> In base al profilo delle loro prestazioni e alla loro struttura organizzativa, i Cantoni determinano l’effettivo regolamentare di cui necessitano per adempiere i compiti di cui all’articolo 28. Aggiornano l’effettivo regolamentare almeno ogni cinque anni.
 
-<sup>2</sup> Se necessario, tali militi possono essere messi a disposizione di un Cantone ed essere da questo incorporati.
+<sup>2</sup> L’effettivo reale comprende i militi incorporati e istruiti, i militi reclutati ma non ancora istruiti e le persone che devono prestare servizio civile assegnate alla protezione civile.
 
-<sup>3</sup> Non sussiste il diritto a essere incorporati e a prestare servizio di protezione civile.
+<sup>3</sup> Se l’effettivo reale è inferiore all’effettivo regolamentare, il Cantone presenta una carenza di effettivi. Se l’effettivo reale è superiore all’effettivo regolamentare, il Cantone presenta un esubero di effettivi.
+
+<sup>4</sup> L’effettivo reale, la carenza di effettivi e l’esubero di effettivi sono rilevati annualmente.
+
+<sup>5</sup> I Cantoni mettono ogni anno a disposizione dell’UFPP i dati relativi agli effettivi e, su richiesta, le basi per la determinazione dell’effettivo regolamentare.
+
+<sup>6</sup> Il Consiglio federale disciplina i dettagli.
+
+[^36-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+
+#### Art. 36a
+
+**Compensazione della carenza di effettivi**[^36a-1]
+
+<sup>1</sup> Se un anno un Cantone presenta una carenza di effettivi, questa può essere compensata innanzitutto con militi dei Cantoni che presentano un esubero di effettivi e, successivamente, con persone che devono prestare servizio civile.
+
+<sup>2</sup> L’UFPP può attribuire a un Cantone che presenta una carenza di effettivi militi di un Cantone che presenta un esubero di effettivi.
+
+<sup>3</sup> Il Consiglio federale disciplina i dettagli e la procedura.
+
+[^36a-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 37
 
@@ -730,9 +758,21 @@ Il Consiglio federale può chiamare in servizio i militi nei casi seguenti:
 
 <sup>3</sup> I Cantoni disciplinano la procedura di chiamata.
 
-<sup>4</sup> ...[^46-1]
+<sup>4</sup> …[^46-1]
 
 [^46-1]: Abrogato dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
+
+#### Art. 46a
+
+**Convocazione a prestazioni di servizio civile in un’organizzazione di protezione civile**[^46a-1]
+
+<sup>1</sup> Le organizzazioni di protezione civile mettono a disposizione dell’organo federale preposto all’esecuzione del servizio civile la loro pianificazione d’impiego e i preavvisi per i servizi d’istruzione da prestare nell’anno successivo, affinché possa predisporre la convocazione.
+
+<sup>2</sup> Esse comunicano alle persone che devono prestare servizio civile i dettagli relativi al servizio, in particolare il luogo e l’ora di entrata in servizio, almeno sei settimane prima dell’inizio della prestazione di servizio civile.
+
+<sup>3</sup> Se prestano una parte del servizio civile nell’ambito di un intervento ai sensi dell’articolo 46 capoversi 1 e 2, le persone che devono prestare servizio civile sono chiamate in servizio dall’organizzazione di protezione civile competente secondo la pertinente procedura cantonale.
+
+[^46a-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 47
 
@@ -749,7 +789,7 @@ L’UFPP controlla se:
 
 <sup>3</sup> Se i limiti temporali massimi di cui agli articoli 43 e 49–53 sono superati, l’UFPP ordina al Cantone interessato di non chiamare in servizio i militi e informa l’Ufficio centrale di compensazione.
 
-<sup>4</sup> ...[^47-1]
+<sup>4</sup> …[^47-1]
 
 <sup>5</sup> Il Consiglio federale stabilisce l’entità dei controlli di cui al capoverso 1. Può emanare regolamenti di carattere amministrativo e tecnico sull’uso del sistema PISA.
 
@@ -771,23 +811,26 @@ I Cantoni sono competenti per l’istruzione, salvo che la presente legge dispon
 
 <sup>1</sup> L’istruzione di base inizia al più tardi due anni dopo il reclutamento nella protezione civile.[^49-1]
 
-<sup>1bis</sup> Le persone assoggettate all’obbligo di prestare servizio di protezione civile dopo il compimento dei 24 anni iniziano l’istruzione di base entro un anno dalla loro incorporazione nella protezione civile. [^49-2]
+<sup>1bis</sup> Le persone assoggettate all’obbligo di prestare servizio di protezione civile dopo il compimento dei 24 anni iniziano l’istruzione di base entro un anno dalla loro incorporazione nella protezione civile.[^49-2]
 
-<sup>1ter</sup> Se, per motivi non prevedibili, un milite non può rispettare il termine previsto per l’inizio dell’istruzione di base, il Cantone ha la facoltà di prorogarlo. Il milite inizia in ogni caso l’istruzione di base al più tardi nell’anno in cui compie i 30 anni.[^49-3]
+<sup>1ter</sup> Le persone che devono prestare servizio civile e ne svolgono una parte in un’organizzazione di protezione civile iniziano l’istruzione di base entro un anno dalla loro assegnazione alla protezione civile.[^49-3]
+
+<sup>1quater</sup> Se, per motivi non prevedibili, un milite non può rispettare il termine previsto per l’inizio dell’istruzione di base, il Cantone ha la facoltà di prorogarlo. Il milite inizia in ogni caso l’istruzione di base al più tardi nell’anno in cui compie i 30 anni.[^49-4]
 
 <sup>2</sup> L’istruzione di base dura almeno 10 e al massimo 19 giorni.
 
 <sup>3</sup> In caso di cambiamento di incorporazione i militi possono essere obbligati ad assolvere nel nuovo settore ancora un’istruzione di base. I Cantoni decidono in merito ai cambiamenti d’incorporazione.
 
-<sup>4</sup> Il Cantone può decidere se e in che misura le persone che prestano servizio volontariamente o che hanno assolto la scuola reclute devono assolvere l’istruzione di base. Il Consiglio federale disciplina i dettagli.[^49-4]
+<sup>4</sup> Il Cantone può decidere se e in che misura le persone che prestano servizio volontariamente o che hanno assolto la scuola reclute devono assolvere l’istruzione di base. Il Consiglio federale disciplina i dettagli.[^49-5]
 
-<sup>5 e <sup>6</sup></sup> ...[^49-5]
+<sup>5 e <sup>6</sup></sup> …[^49-6]
 
-[^49-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
-[^49-2]: Introdotto dalla cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
-[^49-3]: Introdotto dalla cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
-[^49-4]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
-[^49-5]: Abrogati dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
+[^49-1]: Nuovo testo giusta la cifra III della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-2]: Introdotto dalla cifra I della LF del 21 mar. 2025 (RU 2025 703; FF 2024 1216). Nuovo testo giusta la cifra III della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-3]: Introdotto dalla cifra I della LF del 21 mar. 2025 (RU 2025 703; FF 2024 1216). Nuovo testo giusta la cifra III della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-4]: Introdotto dalla cifra III della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-5]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
+[^49-6]: Abrogati dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
 #### Art. 50
 
@@ -849,7 +892,7 @@ Il Consiglio federale stabilisce le condizioni e la procedura di autorizzazione 
 
 - a. l’istruzione centralizzata alla condotta degli ufficiali;
 - b. l’istruzione tecnica dei quadri e degli specialisti;
-- c.[^54-1] ...
+- c.[^54-1] …
 
 <sup>3</sup> L’UFPP può convenire con i Cantoni di svolgere corsi d’istruzione e di perfezionamento per loro conto.
 
@@ -857,7 +900,7 @@ Il Consiglio federale stabilisce le condizioni e la procedura di autorizzazione 
 
 <sup>5</sup> Stabilisce, in collaborazione con i Cantoni, gli obiettivi e i contenuti dell’istruzione in materia di protezione civile.[^54-2]
 
-[^54-1]: Abrogata dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
+[^54-1]: Abrogata dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 ([RU 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 [^54-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
 #### Art. 55
@@ -1030,7 +1073,7 @@ Gli enti ospedalieri provvedono alla realizzazione, all’equipaggiamento, alla 
 
 <sup>2</sup> Se vengono soppressi centri sanitari protetti od ospedali protetti, la sostituzione dei posti letto soppressi dev’essere garantita in base alla pianificazione del fabbisogno.
 
-<sup>3</sup> ...[^71-1]
+<sup>3</sup> …[^71-1]
 
 [^71-1]: Abrogato dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
@@ -1063,7 +1106,7 @@ Nell’ambito delle costruzioni di protezione, il Consiglio federale può delega
 - a. la progettazione, la realizzazione, l’equipaggiamento, la qualità, il rimodernamento, l’utilizzo, la manutenzione, i controlli periodici e la soppressione;
 - b. la gestione della costruzione di rifugi e la pianificazione dell’attribuzione;
 - c. l’utilizzo da parte di terzi;
-- d.[^75-1] ...
+- d.[^75-1] …
 
 [^75-1]: Abrogata dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
@@ -1078,13 +1121,13 @@ La Confederazione è responsabile dell’acquisizione:
 - a. del materiale standardizzato della protezione civile;
 - b. dei mezzi di comunicazione della protezione civile, compresi i terminali del sistema di radiocomunicazione mobile di sicurezza;
 - c. dell’equipaggiamento e del materiale per gli impianti di protezione;
-- d.[^76-1] ...
+- d.[^76-1] …
 
 <sup>2</sup> D’intesa con i Cantoni, la Confederazione può provvedere all’acquisizione dell’equipaggiamento personale e del materiale d’intervento dei militi.
 
 <sup>3</sup> Il Consiglio federale stabilisce il genere e la quantità del materiale standardizzato di cui al capoverso 1 lettera a. Può emanare direttive in materia di organizzazione, istruzione e intervento.
 
-<sup>4</sup> ...[^76-2]
+<sup>4</sup> …[^76-2]
 
 [^76-1]: Abrogata dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 [^76-2]: Abrogato dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
@@ -1281,7 +1324,7 @@ La Confederazione si assume i costi per:
 - a. il reclutamento dei militi;
 - b. l’istruzione da essa organizzata in virtù della presente legge e l’infrastruttura necessaria a questo scopo;
 - c. gli interventi dei militi in caso di chiamata da parte del Consiglio federale;
-- d.[^91-1] ...
+- d.[^91-1] …
 - e. il materiale d’intervento e il materiale per gli impianti di protezione secondo l’articolo 76 capoverso 1;
 - f. il soldo, la convocazione, il trasporto, il vitto e l’alloggio dei militi per gli interventi di pubblica utilità a livello nazionale;
 - g. il rinforzo della protezione civile in caso di conflitto armato;
@@ -1352,30 +1395,32 @@ Per organizzare i servizi d’istruzione, l’UFPP tratta i dati personali rigua
 - a. dati concernenti la salute;
 - b.[^93-4] dati personali che permettono di valutare il potenziale per funzioni di quadro o di specialista.
 
-<sup>3</sup> Se necessario per l’adempimento dei loro compiti secondo la presente legge, i Cantoni possono trattare i dati personali riguardanti i militi. In particolare, possono trattare i dati sanitari riguardanti i militi necessari per la valutazione dell’idoneità a prestare un servizio imminente.
+<sup>3</sup> Se necessario per l’adempimento dei loro compiti secondo la presente legge, i Cantoni possono trattare i dati personali riguardanti i militi e le persone che devono prestare servizio civile e ne svolgono una parte in un’organizzazione di protezione civile. Possono trattare anche i dati sanitari necessari per la valutazione dell’idoneità a prestare un servizio imminente.[^93-5]
 
-<sup>4</sup> ...[^93-5]
+<sup>4</sup> …[^93-6]
 
-<sup>5</sup> ...[^93-6]
+<sup>5</sup> …[^93-7]
 
 [^93-1]: Nuovo testo del per. giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-2]: Nuovo testo giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-3]: Nuovo testo del per. giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-4]: Nuovo testo giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^93-5]: Abrogato dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
-[^93-6]: Abrogato dall’all. n. 17 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-5]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^93-6]: Abrogato dalla cifra I della LF del 21 mar. 2025, con effetto dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
+[^93-7]: Abrogato dall’all. n. 17 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
 **Comunicazione di dati**
 
-<sup>1</sup> Gli organi cantonali addetti ai controlli comunicano all’UFPP i dati riguardanti i militi di cui lo stesso necessita per l’adempimento dei compiti secondo la presente legge.
+<sup>1</sup> Gli organi cantonali addetti ai controlli comunicano all’UFPP i dati riguardanti i militi e le persone che devono prestare servizio civile e ne svolgono una parte in un’organizzazione di protezione civile di cui lo stesso necessita per l’adempimento dei compiti secondo la presente legge.[^94-1]
 
-<sup>2</sup> Comunicano all’assicurazione militare i dati riguardanti i militi di cui la stessa necessita per adempiere i suoi compiti secondo la LAM[^94-1].
+<sup>2</sup> Comunicano all’assicurazione militare i dati riguardanti i militi di cui la stessa necessita per adempiere i suoi compiti secondo la LAM[^94-2].
 
 <sup>3</sup> L’UFPP può mettere a disposizione degli organi cantonali responsabili dell’istruzione le valutazioni del potenziale per funzioni di quadro o di specialista dei partecipanti ai servizi d’istruzione della Confederazione.
 
-[^94-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^94-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^94-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ## Titolo quinto: Prestazioni commerciali dell’UFPP
 
@@ -1428,6 +1473,14 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 [^99-1]: Introdotto dalla cifra I della LF del 20 dic. 2024, vigore il 1° gen. 2025 al 31 dic. 2028 ([RU 2024 786](https://fedlex.data.admin.ch/eli/oc/2024/786); [FF 2024 1650](https://fedlex.data.admin.ch/eli/fga/2024/1650)).
 [^99-2]: [RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
 
+#### Art. 99a
+
+**Disposizione transitoria della modifica del 21 marzo 2025**[^99a-1]
+
+Le persone che il 31 dicembre 2026 sono registrate nella riserva nazionale di personale secondo il diritto anteriore e non hanno ancora compiuto i 28 anni sono assegnate a un’organizzazione di protezione civile e iniziano l’istruzione di base, se non l’hanno ancora assolta, entro due anni dall’entrata in vigore della presente modifica.
+
+[^99a-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Impiego nella protezione civile di persone che devono prestare servizio civile), in vigore dal 1° gen. 2027 ([RU 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+
 #### Art. 100
 
 **Referendum ed entrata in vigore**
@@ -1454,7 +1507,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra II cpv. 1 lett. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887).

@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 2019 sur la protection de la population et
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/fr"
 
 (LPPCi)
 
-du 20 décembre 2019 (État le 1<sup>er</sup> janvier 2026)
+du 20 décembre 2019 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -115,8 +115,8 @@ Dans le domaine de la coordination des transports, il règle:
 
 <sup>3</sup> Il prend des mesures afin de renforcer la protection de la population en cas de conflit armé.
 
-[^6-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^6-2]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^6-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^6-2]: Introduit par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 7
 
@@ -177,8 +177,8 @@ Le Conseil fédéral peut déléguer des compétences législatives à l’OFPP 
 - a. la diffusion d’informations et de consignes de comportement;
 - b. les aspects techniques des systèmes d’alerte des autorités, de transmission de l’alarme à la population et d’information de celle-ci ainsi que les aspects techniques de la radio d’urgence.
 
-[^9-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^9-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^9-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^9-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 10
 
@@ -219,7 +219,7 @@ Le Laboratoire de Spiez est notamment chargé des tâches suivantes:
 
 <sup>5</sup> Le Conseil fédéral peut déléguer des compétences législatives à l’OFPP afin d’assurer la disponibilité opérationnelle du matériel acquis par la Confédération.
 
-[^12-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^12-1]: Abrogé par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 13
 
@@ -229,7 +229,7 @@ Le Laboratoire de Spiez est notamment chargé des tâches suivantes:
 
 <sup>2</sup> Il collabore avec des partenaires nationaux et internationaux en matière de recherche et de développement dans le domaine de la protection de la population.
 
-[^13-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 3 Tâches des cantons et des tiers
 
@@ -377,7 +377,7 @@ La Confédération coordonne, à l’échelon national, l’instruction des memb
 
 <sup>7</sup> Le Conseil fédéral règle les compétences en matière d’instruction.
 
-[^22-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^22-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 6 Financement
 
@@ -457,7 +457,7 @@ La Confédération supporte les coûts suivants:
 - c. coûts du matériel d’intervention destiné aux organisations d’intervention spécialisées dans le domaine NBC (art. 12, al. 3);
 - d. coûts de ses propres activités dans le cadre de la collaboration avec les cantons, les organisations partenaires et les exploitants d’infrastructures critiques (art. 4).
 
-[^27-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^27-1]: Abrogée par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ## Titre 3 Protection civile
 
@@ -505,10 +505,18 @@ Les personnes suivantes ne sont pas astreintes:
 
 <sup>3</sup> Le Conseil fédéral règle les exceptions applicables aux Suisses de l’étranger domiciliés dans une région étrangère limitrophe (al. 2, let. d).
 
-[^29-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^29-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^29-3]: Introduite par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^29-1]: Abrogée par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^29-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^29-3]: Introduite par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 [^29-4]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+
+#### Art. 29a
+
+**Services effectués par des personnes astreintes au service civil dans une organisation de protection civile**[^29a-1]
+
+Pendant leur service dans une organisation de protection civile, les personnes astreintes au service civil demeurent soumises à la législation sur le service civil.
+
+[^29a-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 30
 
@@ -547,10 +555,10 @@ Le Conseil fédéral peut:
 
 <sup>8</sup> Il peut prolonger de 100 jours au plus le service obligatoire dans un canton touché par une catastrophe ou une situation d’urgence de longue durée qui en fait la demande, pour autant qu’un nombre trop important de personnes astreintes soient libérées en même temps du service obligatoire à la suite de la catastrophe ou de la situation d’urgence et que ces libérations compromettent la capacité d’intervention.
 
-[^31-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^31-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^31-3]: Abrogés par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^31-4]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^31-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^31-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^31-3]: Abrogés par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^31-4]: Abrogée par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 32
 
@@ -596,7 +604,7 @@ Les conscrits qui remplissent l’une des conditions suivantes ne sont pas recru
 - a. leur présence au sein de l’armée est incompatible avec les impératifs du service militaire parce qu’ils ont été condamnés au sens de l’art. 21, al. 1, de la loi du 3 février 1995 sur l’armée[^34-2];
 - b. ils ne satisfont pas aux exigences du service militaire pour des raisons psychiques, dans la mesure où ils présentent des signes permettant de conclure à un risque de violence.
 
-[^34-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^34-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 [^34-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35
@@ -609,17 +617,37 @@ Les conscrits qui remplissent l’une des conditions suivantes ne sont pas recru
 
 <sup>3 et <sup>4</sup></sup> …[^35-1]
 
-[^35-1]: Abrogés par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^35-1]: Abrogés par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 36
 
-**Réserve de personnel**
+**Effectifs réels et effectifs nécessaires**[^36-1]
 
-<sup>1</sup> Les personnes astreintes non incorporées sont enregistrées dans une réserve nationale de personnel et ne suivent pas d’instruction.
+<sup>1</sup> Les cantons définissent, en fonction de leur profil de prestations et de leur structure organisationnelle, les effectifs nécessaires pour accomplir les tâches visées à l’art. 28. Ils mettent à jour les effectifs nécessaires tous les cinq ans au moins.
 
-<sup>2</sup> En cas de besoin, elles peuvent être mises à la disposition d’un canton et y être incorporées.
+<sup>2</sup> Les effectifs réels comprennent les membres de la protection civile incorporés et formés, les membres de la protection civile recrutés mais non encore formés et les personnes astreintes au service civil affectées à la protection civile.
 
-<sup>3</sup> Nul ne peut faire valoir un droit à être incorporé et à effectuer un service de protection civile.
+<sup>3</sup> Si un canton présente des effectifs réels inférieurs aux effectifs nécessaires, il est en sous-effectif. S’il présente des effectifs réels supérieurs aux effectifs nécessaires, il est en sureffectif.
+
+<sup>4</sup> Les effectifs nécessaires, les sous-effectifs et les sureffectifs sont recensés chaque année.
+
+<sup>5</sup> Les cantons mettent chaque année à la disposition de l’OFPP les chiffres relatifs aux effectifs et, sur demande, les bases permettant de définir les effectifs nécessaires.
+
+<sup>6</sup> Le Conseil fédéral règle les modalités.
+
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+
+#### Art. 36a
+
+**Compensation d’un sous-effectif**[^36a-1]
+
+<sup>1</sup> Si, une année, un canton est en sous-effectif, celui-ci peut être compensé en priorité par des personnes astreintes de cantons en sureffectif puis, par des personnes astreintes au service civil.
+
+<sup>2</sup> L’OFPP peut affecter à un canton en sous-effectif des personnes astreintes d’un canton en sureffectif.
+
+<sup>3</sup> Le Conseil fédéral règle les modalités et la procédure.
+
+[^36a-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 37
 
@@ -666,7 +694,7 @@ Les personnes qui effectuent un service de protection civile ont droit à une al
 
 Le calcul du montant de la taxe d’exemption prend en compte la totalité des jours de service de protection civile donnant droit à une solde effectués par les personnes astreintes et les personnes qui s’engagent volontairement dans la protection civile et sont assujetties à la taxe d’exemption.
 
-[^41-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^41-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 42
 
@@ -712,7 +740,7 @@ Les personnes astreintes ne peuvent être convoquées pour plus de 66 jours par 
 
 <sup>4</sup> Les demandes de report de service doivent être adressées à l’organe chargé de la convocation.
 
-[^45-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^45-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 46
 
@@ -732,7 +760,19 @@ Le Conseil fédéral peut convoquer les personnes astreintes dans les cas suivan
 
 <sup>4</sup> …[^46-1]
 
-[^46-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^46-1]: Abrogé par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+
+#### Art. 46a
+
+**Convocation à une période de service civil dans une organisation de protection civile**[^46a-1]
+
+<sup>1</sup> Afin d’établir la convocation, les organisations de protection civile mettent à la disposition de l’organe fédéral d’exécution du service civil leur planification d’intervention et les annonces préalables des services d’instruction à effectuer l’année suivante.
+
+<sup>2</sup> Elles communiquent les détails aux personnes astreintes au service civil, notamment le lieu et l’heure de l’entrée en service, au plus tard six semaines avant le début de la période de service civil.
+
+<sup>3</sup> L’organisation de protection civile compétente convoque la personne astreinte au service civil à une période de service civil effectuée dans le cadre d’une intervention au sens de l’art. 46, al. 1 et 2, conformément à la procédure cantonale déterminante.
+
+[^46a-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 47
 
@@ -755,7 +795,7 @@ L’OFPP contrôle:
 
 <sup>6</sup> Il règle la procédure de contrôle visée à l’al. 2.
 
-[^47-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^47-1]: Abrogé par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 3 Instruction
 
@@ -773,21 +813,24 @@ Sauf disposition contraire de la présente loi, l’instruction relève de la co
 
 <sup>1bis</sup> Les personnes qui sont soumises à l’obligation de servir dans la protection civile après l’âge de 24 ans doivent commencer l’instruction de base au cours de l’année suivant leur incorporation dans la protection civile.[^49-2]
 
-<sup>1ter</sup> Si, pour des raisons imprévues, la personne astreinte ne peut pas respecter le délai fixé pour le début de l’instruction de base, le canton peut prolonger ce délai. Dans tous les cas, l’instruction de base doit commencer au plus tard durant l’année au cours de laquelle la personne astreinte atteint l’âge de 30 ans.[^49-3]
+<sup>1ter</sup> Les personnes astreintes au service civil qui accomplissent du service civil dans une organisation de protection civile doivent commencer l’instruction de base au cours de l’année suivant leur affectation à la protection civile.[^49-3]
+
+<sup>1quater</sup> Si, pour des raisons imprévues, la personne astreinte ne peut pas respecter le délai fixé pour le début de l’instruction de base, le canton peut prolonger ce délai. Dans tous les cas, l’instruction de base doit commencer au plus tard durant l’année au cours de laquelle la personne astreinte atteint l’âge de 30 ans.[^49-4]
 
 <sup>2</sup> L’instruction de base dure de 10 à 19 jours.
 
 <sup>3</sup> En cas de changement d’affectation, la personne astreinte peut être tenue de suivre à nouveau une instruction de base dans un autre domaine. Les changements d’affectation relèvent de la compétence des cantons.
 
-<sup>4</sup> Si une personne s’engage volontairement dans la protection civile ou a déjà accompli l’école de recrues, le canton peut décider si elle doit suivre l’instruction de base et, le cas échéant, quelle partie de celle‑ci. Le Conseil fédéral règle les modalités.[^49-4]
+<sup>4</sup> Si une personne s’engage volontairement dans la protection civile ou a déjà accompli l’école de recrues, le canton peut décider si elle doit suivre l’instruction de base et, le cas échéant, quelle partie de celle‑ci. Le Conseil fédéral règle les modalités.[^49-5]
 
-<sup>5 et <sup>6</sup></sup> …[^49-5]
+<sup>5 et <sup>6</sup></sup> …[^49-6]
 
-[^49-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^49-2]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^49-3]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^49-4]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^49-5]: Abrogés par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^49-1]: Nouvelle teneur selon le ch. III de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-2]: Introduit par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile) (RO 2025 703; FF 2024 1216). Nouvelle teneur selon le ch. III de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-3]: Introduit par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile) (RO 2025 703; FF 2024 1216). Nouvelle teneur selon le ch. III de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-4]: Introduit par le ch. III de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-5]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^49-6]: Abrogés par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 50
 
@@ -857,8 +900,8 @@ Il est responsable:
 
 <sup>5</sup> Il définit les objectifs et le contenu de l’instruction de la protection civile en collaboration avec les cantons.[^54-2]
 
-[^54-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^54-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^54-1]: Abrogée par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^54-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 55
 
@@ -1032,7 +1075,7 @@ Les institutions dont relèvent les hôpitaux veillent à la réalisation, à l�
 
 <sup>3</sup> …[^71-1]
 
-[^71-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^71-1]: Abrogé par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Section 3 Dispositions communes
 
@@ -1065,7 +1108,7 @@ Le Conseil fédéral peut déléguer à l’OFPP des compétences législatives 
 - c. l’utilisation par des tiers;
 - d.[^75-1] …
 
-[^75-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^75-1]: Abrogée par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 6 Matériel pour l’intervention et pour les constructions protégées
 
@@ -1086,8 +1129,8 @@ La Confédération est responsable de l’acquisition:
 
 <sup>4</sup> …[^76-2]
 
-[^76-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^76-2]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^76-1]: Abrogée par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^76-2]: Abrogé par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 7 Signe distinctif international de la protection civile et carte d’identité du personnel de la protection civile
 
@@ -1320,7 +1363,7 @@ Le Conseil fédéral définit:
 
 <sup>11</sup> L’OFPP peut fixer un montant forfaitaire par personne en service pour les coûts des interventions en faveur de la collectivité d’envergure nationale qui sont remboursés aux cantons.
 
-[^91-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^91-1]: Abrogée par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 92
 
@@ -1352,30 +1395,32 @@ Pour organiser les services de formation, l’OFPP traite les données personnel
 - a. les données sur la santé;
 - b.[^93-4] les données personnelles permettant de déterminer le potentiel de cadre ou de spécialiste.
 
-<sup>3</sup> Les cantons peuvent traiter les données des personnes astreintes dans la mesure où elles sont nécessaires pour accomplir les tâches qui leur incombent en vertu de la présente loi. Ils peuvent notamment traiter les données sanitaires requises pour apprécier l’aptitude à effectuer un service à venir.
+<sup>3</sup> Les cantons peuvent traiter les données des personnes astreintes à servir dans la protection civile et celles des personnes astreintes au service civil qui accomplissent du service civil dans une organisation de protection civile dans la mesure où cela est nécessaire pour effectuer les tâches qui leur incombent en vertu de la présente loi. Ils peuvent également traiter les données sanitaires afin d’apprécier l’aptitude à effectuer un service à venir.[^93-5]
 
-<sup>4</sup> …[^93-5]
+<sup>4</sup> …[^93-6]
 
-<sup>5</sup> …[^93-6]
+<sup>5</sup> …[^93-7]
 
 [^93-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-2]: Nouvelle teneur selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-4]: Nouvelle teneur selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^93-5]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
-[^93-6]: Abrogé par l’annexe ch. 17 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-5]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^93-6]: Abrogé par le ch. I de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^93-7]: Abrogé par l’annexe ch. 17 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
 **Communication**
 
-<sup>1</sup> Les services cantonaux chargés des contrôles communiquent à l’OFPP les données concernant les personnes astreintes qui lui sont nécessaires pour accomplir les tâches qui lui incombent en vertu de la présente loi.
+<sup>1</sup> Les services cantonaux chargés des contrôles communiquent à l’OFPP les données concernant les personnes astreintes à servir dans la protection civile et celles concernant les personnes astreintes au service civil qui accomplissent du service civil dans une organisation de protection civile dans la mesure où cela est nécessaire pour effectuer les tâches qui lui incombent en vertu de la présente loi.[^94-1]
 
-<sup>2</sup> Ils communiquent à l’assurance militaire les données concernant les personnes astreintes qui lui sont nécessaires pour accomplir les tâches qui lui incombent en vertu de la LAM[^94-1].
+<sup>2</sup> Ils communiquent à l’assurance militaire les données concernant les personnes astreintes qui lui sont nécessaires pour accomplir les tâches qui lui incombent en vertu de la LAM[^94-2].
 
 <sup>3</sup> L’OFPP peut mettre à la disposition des organes cantonaux responsables de l’instruction les évaluations de l’aptitude des participants à des services d’instruction organisés par la Confédération à assumer des fonctions de cadre ou de spécialiste.
 
-[^94-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^94-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^94-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ## Titre 5 Prestations commerciales de l’OFPP
 
@@ -1427,6 +1472,14 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 
 [^99-1]: Introduit par le ch. I de la LF du 20 déc. 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2028 ([RO 2024 786](https://fedlex.data.admin.ch/eli/oc/2024/786); [FF 2024 1650](https://fedlex.data.admin.ch/eli/fga/2024/1650)).
 [^99-2]: [RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)
+
+#### Art. 99a
+
+**Disposition transitoire relative à la modification du 21 mars 2025**[^99a-1]
+
+Les personnes qui, le 31 décembre 2026, sont enregistrées dans la réserve nationale de personnel prévue sous l’ancien droit et n’ont pas encore atteint l’âge de 28 ans doivent être incorporées dans une organisation de protection civile dans un délai de deux ans à compter de l’entrée en vigueur de la présente modification et commencer l’instruction de base, à moins qu’elles ne l’aient déjà effectuée.
+
+[^99a-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Affectation de personnes astreintes au service civil dans la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 567](https://fedlex.data.admin.ch/eli/oc/2026/567); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 100
 
