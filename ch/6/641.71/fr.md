@@ -3,20 +3,22 @@ sr: "641.71"
 title: "Loi fédérale du 23 décembre 2011 sur la réduction des émissions de CO<sub>2</sub> (Loi sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/855"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-855-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-855-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la réduction des émissions de CO<sub>2</sub><sup>\*</sup>
+# Loi fédérale sur la réduction des émissions de CO<sub>2</sub>\*
 
-(Loi sur le CO<sub>2</sub>)
+(Loi sur le CO<sub>2</sub>)[^t-1]
 
-du 23 décembre 2011 (État le 1<sup>er</sup> janvier 2025)
+du 23 décembre 2011 (État le 1<sup>er</sup> janvier 2027)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -849,71 +851,56 @@ La taxe sur le CO<sub>2</sub> prélevée sur les combustibles fossiles est rembo
 
 **Principe**[^33a-1]
 
-<sup>1</sup> Un tiers du produit de la taxe sur le CO<sub>2</sub> est utilisé pour réduire les émissions de CO<sub>2</sub> des bâtiments ainsi que pour encourager les énergies renouvelables et les technologies visant la réduction des gaz à effet de serre (art. 34 à 35).
+<sup>1</sup>
 
-<sup>2</sup> À la fin d’un exercice comptable, les moyens à affectation obligatoire non épuisés ne peuvent dépasser 150 millions de francs.
+Jusqu’à la fin 2034, 45 % au plus du produit de la taxe sur le CO<sub>2</sub> sont utilisés aux fins suivantes:
 
-<sup>3</sup> Les moyens non épuisés visés à l’al. 2 peuvent être utilisés au cours des années suivantes en complément des encouragements prévus aux art. 34 et 34*a* pour la réduction des émissions de CO<sub>2</sub> des bâtiments et pour les énergies renouvelables.
+- a. remplacement des installations de production de chaleur et mesures dans le domaine de l’efficacité énergétique des bâtiments (art. 50*a* LEne[^33a-2]);
+- b. encouragement de projets d’utilisation directe de la géothermie pour la production de chaleur et encouragement de nouvelles installations de production de gaz renouvelables, en premier lieu celles qui injectent du gaz dans le réseau, ainsi que de l’agrandissement des infrastructures des installations existantes;
+- c. alimentation d’un fonds pour le financement de cautionnements visant la réduction des gaz à effet de serre (fonds de technologie).
 
-[^33a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+<sup>2</sup> Sur le produit annuel visé à l’al. 1, phrase introductive, un montant de 410 millions de francs au plus est d’abord utilisé aux fins visées à l’al. 1, let. a, et un montant de 40 millions de francs au plus aux fins visées à l’al. 1, let. b, étant entendu que 30 millions de francs sont réservés à la géothermie et 10 millions de francs à la production de gaz renouvelables.
+
+<sup>3</sup> Si le produit annuel dépasse 450 millions de francs, la part excédentaire est utilisée aux fins visées à l’al. 1, let. c, étant entendu que l’encouragement est de 25 millions de francs au plus.
+
+<sup>4</sup> À la fin d’un exercice comptable, les moyens à affectation obligatoire non épuisés ne peuvent dépasser 150 millions de francs.
+
+<sup>5</sup> Ils peuvent être utilisés aux fins visées à l’al. 1 au cours des années suivantes en sus des plafonds fixés aux al. 2 et 3.
+
+[^33a-1]: Introduit par le ch. I de la LF du 15 mars 2024 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nouvelle teneur selon le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^33a-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 34
 
-**Réduction des émissions de CO<sub>2</sub> des bâtiments**[^34-1]
+[^34-1]
 
-<sup>1</sup> Sous réserve des art. 34*a* et 35, les moyens visés à l’art. 33*a*, al. 1, sont affectés au financement de mesures de réduction à long terme des émissions de CO<sub>2</sub> des bâtiments, notamment de mesures de réduction de la consommation d’électricité durant les mois d’hiver. À cet égard, le bilan de CO<sub>2</sub> des matériaux de construction utilisés est également pris en considération.
-
-<sup>2</sup>
-
-à cet effet, la Confédération accorde aux cantons des contributions globales destinées aux mesures d’encouragement prévues aux art. 47, 48 et 50 LEne[^34-2]. Les contributions globales sont allouées selon les modalités de l’art. 52 LEne. Les dispositions particulières suivantes sont réservées:
-
-- a. les contributions globales sont allouées uniquement aux cantons qui disposent de programmes d’encouragement des assainissements énergétiques des enveloppes des bâtiments et de leurs installations techniques ainsi que des remplacements de chauffages électriques à résistance ou de chauffages existants utilisant des énergies fossiles, et qui garantissent une mise en œuvre harmonisée;
-- b. les contributions globales sont réparties entre une contribution de base par habitant et une contribution complémentaire; la contribution de base par habitant se monte à 30 % au plus des moyens disponibles; la contribution complémentaire ne doit pas représenter plus du double du crédit annuel accordé par le canton à la réalisation de son programme.
-
-<sup>3</sup> Le Conseil fédéral règle les modalités.
-
-[^34-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^34-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^34-1]: Abrogé par le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 34a
 
-**Encouragement des énergies renouvelables**[^34a-1]
+[^34a-1]
 
-<sup>1</sup>
-
-La Confédération peut consacrer chaque année 45 millions de francs au plus issus des moyens visés à l’art. 33*a*, al. 1, pour encourager:
-
-- a. des projets d’utilisation directe de la géothermie pour la production de chaleur;
-- b. la mise en valeur de ressources hydrothermales utilisables indirectement si une utilisation au sens de la let. a devait, après un premier forage exploratoire, se révéler impossible;
-- c. des planifications énergétiques territoriales communales et supracommunales concernant l’utilisation des énergies renouvelables et des rejets thermiques;
-- d. de nouvelles installations de production de gaz renouvelables, notamment celles qui injectent du gaz dans le réseau, ainsi que l’agrandissement notable des infrastructures des installations existantes;
-- e. des installations utilisant le solaire thermique pour la chaleur industrielle.
-
-<sup>2</sup> Les moyens destinés à encourager les projets visés à l’al. 1, let. b, peuvent être octroyés jusqu’à la fin 2030 au plus tard, et les moyens destinés à encourager les projets visés à l’al. 1, let. c, jusqu’à la fin 2035 au plus tard.
-
-<sup>3</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement.
-
-[^34a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^34a-1]: Introduit par le ch. I de la LF du 15 mars 2024 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Abrogé par le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 35
 
-**Encouragement des technologies visant la réduction des gaz à effet de serre**
+**Encouragement des technologies visant la réduction des gaz à effet de serre**[^35-1]
 
-<sup>1</sup> Un montant annuel de 25 millions de francs au plus issu des moyens visés à l’art. 33*a*, al. 1, est versé au fonds de technologie pour financer des cautionnements.[^35-1]
+<sup>1</sup> Le fonds de technologie (art. 33*a*, al. 1, let. c) est géré par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
 
-<sup>2</sup> Le fonds de technologie est géré par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
+<sup>2</sup>
 
-<sup>3</sup>
+Il permet à la Confédération de cautionner des prêts à des entreprises afin de développer et de commercialiser des installations et des procédés visant:
 
-Il permet à la Confédération de cautionner des prêts à des entreprises afin de développer et de commercialiser des installations et des procédés visant l’un des buts suivants:
+- a. à diminuer les émissions de gaz à effet de serre;
+- b. à permettre l’utilisation d’énergies renouvelables, ou
+- c. à promouvoir l’utilisation parcimonieuse des ressources naturelles.
 
-- a. diminuer les émissions de gaz à effet de serre;
-- b. permettre l’utilisation d’énergies renouvelables;
-- c. promouvoir l’utilisation parcimonieuse des ressources naturelles.
+<sup>3</sup> Les cautionnements sont octroyés pour une durée maximale de 10 ans.
 
-<sup>4</sup> Les cautionnements sont octroyés pour une durée maximale de 10 ans.
+<sup>4</sup> Un endettement du fonds n’est pas autorisé. Si le fonds est déficitaire à cause de pertes sur cautionnement imprévues, les moyens visés à l’art. 33*a*, al. 1, phrase introductive, sont d’abord utilisés aux fins de l’alimentation du fonds de technologie, jusqu’à la résorption des pertes sur cautionnement prévues, puis seulement conformément aux exigences de l’art. 33*a*. Le Conseil fédéral règle les modalités.
 
-[^35-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^35-1]: Nouvelle teneur selon le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 36
 
@@ -924,20 +911,22 @@ Il permet à la Confédération de cautionner des prêts à des entreprises afin
 Les moyens suivants sont répartis entre la population et les milieux économiques en fonction des montants qu’ils ont respectivement versés:
 
 - a. le produit de la taxe sur le CO<sub>2</sub> qui n’est pas remboursé en raison du non-respect des conditions fixées à l’art. 32*b*;
-- b. la part du produit de la taxe sur le CO<sub>2</sub> qui n’est pas utilisée pour réduire les émissions de CO<sub>2</sub> des bâtiments ou pour encourager les énergies renouvelables et les technologies visant la réduction des gaz à effet de serre;
+- b.[^36-1] la part du produit de la taxe sur le CO<sub>2</sub> qui n’est pas utilisée aux fins visées à l’art. 33*a*;
 - c. les moyens qui dépassent le montant de 150 millions de francs visé à l’art. 33*a*, al. 2, et
-- d. les moyens qui n’ont pas pu être utilisés en vertu de l’art. 33*a*, al. 3; ils sont répartis tous les cinq ans.[^36-1]
+- d.[^36-2] les moyens qui n’ont pas pu être utilisés en vertu de l’art. 33*a*, al. 5; ils sont répartis tous les cinq ans.[^36-3]
 
 <sup>2</sup> La part revenant à la population est répartie de façon égale entre toutes les personnes physiques. Le Conseil fédéral règle les modalités et la procédure de répartition. Il peut charger les cantons, des corporations de droit public ou des particuliers de procéder à la répartition, en les indemnisant en conséquence.
 
-<sup>3</sup> La part revenant aux milieux économiques est versée aux employeurs par l’intermédiaire des caisses de compensation AVS. Ce versement est fonction de la masse salariale sur laquelle l’employeur verse les cotisations à l’assurance-chômage conformément à l’art. 3 de la loi du 25 juin 1982 sur l’assurance-chômage[^36-2]. Les caisses de compensation AVS sont indemnisées en conséquence.[^36-3]
+<sup>3</sup> La part revenant aux milieux économiques est versée aux employeurs par l’intermédiaire des caisses de compensation AVS. Ce versement est fonction de la masse salariale sur laquelle l’employeur verse les cotisations à l’assurance-chômage conformément à l’art. 3 de la loi du 25 juin 1982 sur l’assurance-chômage[^36-4]. Les caisses de compensation AVS sont indemnisées en conséquence.[^36-5]
 
-<sup>4</sup> Aucune part du produit de la taxe sur le CO<sub>2</sub> n’est versée aux exploitants ayant pris un engagement de réduction.[^36-4]
+<sup>4</sup> Aucune part du produit de la taxe sur le CO<sub>2</sub> n’est versée aux exploitants ayant pris un engagement de réduction.[^36-6]
 
-[^36-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^36-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^36-1]: Nouvelle teneur selon le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^36-2]: Nouvelle teneur selon le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 [^36-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^36-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-4]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^36-5]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-6]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 37
 
@@ -953,27 +942,26 @@ Le produit de la sanction prévue à l’art. 13 est versé au fonds pour les ro
 
 <sup>1</sup>
 
-Les recettes issues de la mise aux enchères des droits d’émission pour aéronefs sont utilisées pour mettre en place:
+Les recettes issues de la mise aux enchères des droits d’émission pour les aéronefs sont utilisées comme suit:
 
-- a. des mesures visant à encourager le transport ferroviaire transfrontalier de voyageurs grandes lignes, notamment les trains de nuit, et
-- b. des mesures visant à réduire les émissions de gaz à effet de serre dans le secteur de l’aviation, notamment le développement et la production de carburants d’aviation synthétiques renouvelables.
+- a. au maximum 10 millions de francs par an pour des mesures visant à encourager le transport ferroviaire transfrontalier de voyageurs grandes lignes, notamment les trains de nuit, jusqu’à la fin 2030 au plus tard;
+- b. 20 millions de francs par an en 2027 et 2028 pour alléger le budget de la Confédération;
+- c. les moyens restants pour des mesures visant à réduire les émissions de gaz à effet de serre dans le secteur de l’aviation, notamment le développement et la production de carburants d’aviation synthétiques renouvelables.
 
-<sup>2</sup> Les moyens affectés aux mesures visées à l’al. 1, let. a, s’élèvent à 30 millions de francs par an au plus et peuvent être alloués jusqu’à la fin 2030 au plus tard. Les recettes non affectées peuvent être allouées aux mesures visées à l’al. 1, let. b.
+<sup>2</sup> Les moyens visés à l’al. 1, let. a ou c, non épuisés à la fin d’un exercice comptable peuvent être utilisés au cours des années suivantes aux fins auxquelles ils sont affectés. Les moyens visés à l’al. 1, let. a, qui n’ont pas été utilisés à la fin de 2030 ne sont plus obligatoirement affectés à ces fins.
 
-<sup>3</sup> Les moyens non épuisés peuvent être utilisés au cours des années suivantes.
+<sup>3</sup>
 
-<sup>4</sup>
-
-Les contributions aux mesures visées à l’al. 1, let. a, doivent encourager en particulier les offres qui présentent un rapport coût-efficacité avantageux en matière de réduction des émissions de gaz à effet de serre. L’octroi des moyens d’encouragement est soumis aux conditions suivantes:
+Les contributions aux mesures visées à l’al. 1, let. a, doivent encourager en particulier les offres qui présentent un rapport coût-efficacité avantageux en matière de réduction des émissions de gaz à effet de serre. L’octroi des contributions est soumis aux conditions suivantes:
 
 - a. l’offre est proposée durant plusieurs années;
-- b. l’attractivité des offres existantes est améliorée pour les voyageurs.
+- b. l’attrait des offres existantes est amélioré pour les voyageurs.
 
-<sup>5</sup> Les contributions aux mesures prévues à l’al. 1, let. b, se montent au plus à 60 % des coûts imputables. Exceptionnellement, elles peuvent s’élever à 70 %. Des dérogations peuvent être accordées en fonction de l’intérêt particulier que ces mesures représentent pour la Confédération et du rapport coût-utilité.
+<sup>4</sup> Les contributions aux mesures visées à l’al. 1, let. c, se montent au plus à 60 % des coûts imputables. Exceptionnellement, elles peuvent s’élever à 70 %.
 
-<sup>6</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement.
+<sup>5</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des contributions.
 
-[^37a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^37a-1]: Introduit par le ch. I de la LF du 15 mars 2024 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nouvelle teneur selon le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 37b
 
@@ -1152,7 +1140,12 @@ L’OFEV peut accorder aux organes et personnes suivants l’accès aux système
 
 **Encouragement des technologies de propulsion électrique**[^41a-1]
 
-<sup>1</sup> Jusqu’en 2030, la Confédération contribue, dans le transport de voyageurs concessionnaire, à hauteur de 47 millions de francs par an au plus à l’acquisition de véhicules à propulsion électrique et à la conversion de bateaux à la propulsion électrique.
+<sup>1</sup>
+
+Jusqu’en 2030, la Confédération contribue dans le transport de voyageurs concessionnaire à hauteur de 40 millions de francs par an au plus:
+
+- a. à l’acquisition de véhicules routiers et de bateaux à propulsion électrique;
+- b. à la conversion de bateaux à la propulsion électrique.[^41a-2]
 
 <sup>2</sup>
 
@@ -1167,6 +1160,7 @@ Les contributions couvrent les coûts suivants à hauteur de:
 <sup>4</sup> Le Conseil fédéral règle les conditions d’octroi et le calcul des moyens d’encouragement.
 
 [^41a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^41a-2]: Nouvelle teneur selon le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ## Chapitre 8 Dispositions pénales
 
@@ -1326,6 +1320,28 @@ La loi du 8 octobre 1999 sur le CO<sub>2</sub>[^46-1] est abrogée.
 [^49a-1]: Introduit par l’annexe ch. II 2 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^49a-2]: [RO 2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855)
 
+#### Art. 49b
+
+[^49b-1]
+
+[^49b-1]: Pas encore en vigueur ([FF 2025 2036](https://fedlex.data.admin.ch/eli/fga/2025/2036)).
+
+#### Art. 49c
+
+[^49c-1]
+
+[^49c-1]: Pas encore en vigueur.
+
+#### Art. 49d
+
+**Disposition transitoire relative à la modification du 20 mars 2026**[^49d-1]
+
+Le produit soumis à affectation, visé à l’art. 34 dans sa version du 23 décembre 2011[^49d-2], issu de la taxe sur le CO<sub>2</sub> prélevée, mais non utilisée, jusqu’à l’entrée en vigueur de la modification du 20 mars 2026 est utilisé aux fins visées à l’art. 33*a*, al. 1, let. a. Les plafonds visés aux art 33*a*, al. 2 et 3, de la présente loi, et 50*a*, al. 1, LEne[^49d-3] peuvent être dépassés.
+
+[^49d-1]: Introduit par le ch. I 10 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^49d-2]: [RO 2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855)
+[^49d-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
 #### Art. 50
 
 **Référendum et entrée en vigueur**
@@ -1337,3 +1353,15 @@ La loi du 8 octobre 1999 sur le CO<sub>2</sub>[^46-1] est abrogée.
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2013[^50-1]
 
 [^50-1]: ACF du 30 nov. 2012
+
+## Disposition transitoire relative aux modifications de la loi du 23 décembre 2011 sur le CO<sub>2</sub> et de la loi du 30 septembre 2016 sur l’énergie
+
+[^u1-1]
+
+[^u1-1]: [RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393)ch. III; [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)
+
+En 2027, les moyens visés à l’art. 33*a*, al. 1, let. a, de la loi du 23 décembre 2011 sur le CO<sub>2</sub> seront utilisés aux fins prévues à l’art. 34 de cette loi dans sa version du 15 mars 2024[^u1-2] et à l’art. 50*a* de la loi du 30 septembre 2016 sur l’énergie[^u1-3] dans sa version du 30 septembre 2022[^u1-4]. Le Conseil fédéral règle les modalités, en particulier la répartition des moyens et la procédure.
+
+[^u1-2]: [RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)
+[^u1-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^u1-4]: [RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)

@@ -3,11 +3,11 @@ sr: "641.71"
 title: "Bundesgesetz vom 23. Dezember 2011 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Gesetz)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/855"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-855-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2012-855-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20250101/de"
 
 (CO<sub>2</sub>-Gesetz)
 
-vom 23. Dezember 2011 (Stand am 1. Januar 2025)
+vom 23. Dezember 2011 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -851,71 +851,56 @@ Personen, die nachweisen, dass sie fossile Brennstoffe nicht energetisch genutzt
 
 **Grundsatz**[^33a-1]
 
-<sup>1</sup> Ein Drittel des Ertrags aus der CO<sub>2</sub>-Abgabe wird für die Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden, die Förderung von erneuerbarer Energie und die Förderung von Technologien zur Verminderung der Treibhausgase (Art. 34–35) verwendet.
+<sup>1</sup>
 
-<sup>2</sup> Am Ende eines Rechnungsjahres nicht ausgeschöpfte zweckgebundene Mittel dürfen nicht mehr als 150 Millionen Franken betragen.
+Bis Ende 2034 werden höchstens 45 Prozent des Ertrags aus der CO<sub>2</sub>-Abgabe verwendet für:
 
-<sup>3</sup> Die nicht ausgeschöpften Mittel nach Absatz 2 dürfen in den Folgejahren zusätzlich zu den Förderungen nach den Artikeln 34 und 34*a* für die Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden und für die Förderung erneuerbarer Energien verwendet werden.
+- a. den Ersatz von Wärmeerzeugungsanlagen und Massnahmen im Bereich der Energieeffizienz von Gebäuden (Art. 50*a* EnG[^33a-2]);
+- b. die Förderung von Projekten zur direkten Nutzung der Geothermie für die Wärmebereitstellung und die Förderung von neuen Anlagen und Erweiterungen der Infrastruktur von bestehenden Anlagen zur Bereitstellung erneuerbarer Gase, vorrangig von solchen, die Gas ins Netz einspeisen;
+- c. die Äufnung eines Fonds zur Finanzierung von Bürgschaften zur Verminderung der Treibhausgase (Technologiefonds).
 
-[^33a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+<sup>2</sup> Vom jährlichen Ertrag nach Absatz 1 Einleitungssatz werden vorab höchstens 410 Millionen Franken für die Zwecke nach Absatz 1 Buchstabe a und höchstens 40 Millionen Franken für die Zwecke nach Absatz 1 Buchstabe b eingesetzt, dabei werden 30 Millionen Franken für die Geothermie und 10 Millionen Franken für die Bereitstellung erneuerbarer Gase reserviert.
+
+<sup>3</sup> Übersteigt der jährliche Ertrag 450 Millionen Franken, so wird der Teil, der 450 Millionen Franken übersteigt, für den Zweck nach Absatz 1 Buchstabe c eingesetzt, dabei wird dieser höchstens mit 25 Millionen Franken gefördert.
+
+<sup>4</sup> Am Ende eines Rechnungsjahres nicht ausgeschöpfte zweckgebundene Mittel dürfen nicht mehr als 150 Millionen Franken betragen.
+
+<sup>5</sup> Sie dürfen in den Folgejahren zusätzlich zu den Höchstbeträgen nach den Absätzen 2 und 3 für die Zwecke nach Absatz 1 verwendet werden.
+
+[^33a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^33a-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 34
 
-**Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden**[^34-1]
+[^34-1]
 
-<sup>1</sup> Die Mittel nach Artikel 33*a* Absatz 1 werden unter Vorbehalt der Artikel 34*a* und 35 zur Finanzierung für Massnahmen zur langfristigen Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden verwendet, einschliesslich zur Senkung des Stromverbrauchs im Winterhalbjahr. Berücksichtigt wird dabei auch die CO<sub>2</sub>-Bilanz der eingesetzten Baumaterialien.
-
-<sup>2</sup>
-
-Der Bund gewährt den Kantonen zu diesem Zweck Globalbeiträge an Fördermassnahmen nach den Artikeln 47, 48 und 50 EnG[^34-2]. Die Ausrichtung der Globalbeiträge erfolgt nach Artikel 52 EnG. Die folgenden Besonderheiten bleiben vorbehalten:
-
-- a. Die Globalbeiträge werden nur Kantonen ausgerichtet, die über Programme zur Förderung energetischer Gebäudehüllen- und Gebäudetechniksanierungen sowie zum Ersatz bestehender elektrischer Widerstandsheizungen oder fossil betriebener Heizungen verfügen und dabei eine harmonisierte Umsetzung gewährleisten.
-- b. Die Globalbeiträge werden in einen Sockelbeitrag pro Einwohnerin oder Einwohner und in einen Ergänzungsbeitrag aufgeteilt; der Sockelbeitrag pro Einwohnerin oder Einwohner beträgt maximal 30 Prozent der verfügbaren Mittel; der Ergänzungsbeitrag darf nicht höher sein als das Doppelte des vom Kanton zur Durchführung seines Programms bewilligten jährlichen Kredits.
-
-<sup>3</sup> Der Bundesrat regelt die Einzelheiten.
-
-[^34-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^34-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^34-1]: Aufgehoben durch Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 34a
 
-**Förderung erneuerbarer Energien**[^34a-1]
+[^34a-1]
 
-<sup>1</sup>
-
-Von den Mitteln nach Artikel 33*a* Absatz 1 kann der Bund jährlich höchstens 45 Millionen Franken einsetzen für die Förderung von:
-
-- a. Projekten zur direkten Nutzung der Geothermie für die Wärmebereitstellung;
-- b. Erschliessungen indirekt nutzbarer hydrothermaler Ressourcen, wenn eine Nutzung nach Buchstabe a nach der ersten Explorationsbohrung nicht möglich ist;
-- c. kommunaler und überkommunaler räumlicher Energieplanung zur Nutzung erneuerbarer Energien und Abwärme;
-- d. neuen Anlagen und erheblichen Erweiterungen der Infrastruktur von bestehenden Anlagen zur Produktion erneuerbarer Gase, vorrangig von solchen, die Gas ins Netz einspeisen;
-- e. Anlagen zur Nutzung der Solarthermie für Prozesswärme.
-
-<sup>2</sup> Mittel zur Förderung von Vorhaben nach Absatz 1 Buchstabe b können längstens bis Ende 2030 und Mittel zur Förderung von Vorhaben nach Absatz 1 Buchstabe c längstens bis Ende 2035 gewährt werden.
-
-<sup>3</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Fördermittel und deren Bemessung.
-
-[^34a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^34a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Aufgehoben durch Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 35
 
-**Förderung von Technologien zur Verminderung der Treibhausgase**
+**Förderung von Technologien zur Verminderung der Treibhausgase**[^35-1]
 
-<sup>1</sup> Von den Mitteln nach Artikel 33*a* Absatz 1 werden jährlich höchstens 25 Millionen Franken dem Technologiefonds zur Finanzierung von Bürgschaften zugeführt.[^35-1]
+<sup>1</sup> Der Technologiefonds (Art. 33*a* Abs. 1 Bst. c) wird vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation verwaltet.
 
-<sup>2</sup> Der Technologiefonds wird durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation verwaltet.
+<sup>2</sup>
 
-<sup>3</sup>
-
-Mit den Mitteln aus dem Technologiefonds verbürgt der Bund Darlehen an Unternehmen, wenn diese damit Anlagen und Verfahren entwickeln und vermarkten, welche:
+Mit den Mitteln aus dem Technologiefonds verbürgt der Bund Darlehen an Unternehmen, wenn diese damit Anlagen und Verfahren entwickeln und vermarkten, die:
 
 - a. die Treibhausgasemissionen vermindern;
 - b. den Einsatz der erneuerbaren Energien ermöglichen; oder
 - c. den sparsamen Umgang mit den natürlichen Ressourcen fördern.
 
-<sup>4</sup> Die Bürgschaften werden für die Dauer von höchstens 10 Jahren gewährt.
+<sup>3</sup> Die Bürgschaften werden für die Dauer von höchstens 10 Jahren gewährt.
 
-[^35-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+<sup>4</sup> Der Technologiefonds darf sich nicht verschulden. Wird der Fondsstand infolge unerwarteter Bürgschaftsverluste negativ, so werden die Mittel nach Artikel 33*a* Absatz 1 Einleitungssatz zunächst für die Äufnung des Technologiefonds verwendet, bis dieser die erwarteten Bürgschaftsverluste wieder deckt, und erst dann nach den Vorgaben von Artikel 33*a* eingesetzt. Der Bundesrat regelt die Einzelheiten.
+
+[^35-1]: Fassung gemäss Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 36
 
@@ -926,20 +911,22 @@ Mit den Mitteln aus dem Technologiefonds verbürgt der Bund Darlehen an Unterneh
 An die Bevölkerung und die Wirtschaft werden nach Massgabe der von ihnen entrichteten Beträge folgende Mittel ausbezahlt:
 
 - a. der Ertrag aus der CO<sub>2</sub>-Abgabe, die mangels Erfüllung der Voraussetzungen nach Artikel 32*b* nicht zurückerstattet wird;
-- b. der Teil des Ertrags aus der CO<sub>2</sub>-Abgabe, der nicht für die Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden, die Förderung von erneuerbarer Energie und die Förderung von Technologien zur Verminderung der Treibhausgase verwendet wird;
+- b.[^36-1] der Teil des Ertrags der CO<sub>2</sub>-Abgabe, der nicht für Zwecke nach Artikel 33*a* verwendet wird;
 - c. die Mittel, die den Betrag von 150 Millionen Franken nach Artikel 33*a* Absatz 2 übersteigen; und
-- d. die Mittel, die nicht nach Artikel 33*a* Absatz 3 eingesetzt werden konnten; die Auszahlung erfolgt alle fünf Jahre.[^36-1]
+- d.[^36-2] die Mittel, die nicht nach Artikel 33*a* Absatz 5 eingesetzt werden konnten; die Auszahlung erfolgt alle fünf Jahre.[^36-3]
 
 <sup>2</sup> Der Anteil der Bevölkerung wird gleichmässig an alle natürlichen Personen verteilt. Der Bundesrat regelt Art und Verfahren der Verteilung. Er kann die Kantone, öffentlich-rechtliche Körperschaften oder Private gegen angemessene Entschädigung mit der Verteilung beauftragen.
 
-<sup>3</sup> Der Anteil der Wirtschaft wird den Arbeitgebern über die AHV-Ausgleichskassen ausgerichtet. Die Verteilung erfolgt nach Massgabe der Lohnsumme, auf die der Arbeitgeber nach Artikel 3 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^36-2] Beiträge an die Arbeitslosenversicherung entrichtet. Die Ausgleichskassen werden angemessen entschädigt.[^36-3]
+<sup>3</sup> Der Anteil der Wirtschaft wird den Arbeitgebern über die AHV-Ausgleichskassen ausgerichtet. Die Verteilung erfolgt nach Massgabe der Lohnsumme, auf die der Arbeitgeber nach Artikel 3 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^36-4] Beiträge an die Arbeitslosenversicherung entrichtet. Die Ausgleichskassen werden angemessen entschädigt.[^36-5]
 
-<sup>4</sup> Betreiber, die eine Verminderungsverpflichtung eingegangen sind, erhalten keinen Anteil aus dem Ertrag der CO<sub>2</sub>-Abgabe.[^36-4]
+<sup>4</sup> Betreiber, die eine Verminderungsverpflichtung eingegangen sind, erhalten keinen Anteil aus dem Ertrag der CO<sub>2</sub>-Abgabe.[^36-6]
 
-[^36-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^36-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^36-1]: Fassung gemäss Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^36-2]: Fassung gemäss Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 [^36-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^36-4]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-4]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^36-5]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^36-6]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 37
 
@@ -955,27 +942,26 @@ Der Ertrag aus der Sanktion nach Artikel 13 wird dem Fonds für die Nationalstra
 
 <sup>1</sup>
 
-Die Erlöse aus der Versteigerung der Emissionsrechte für Luftfahrzeuge werden eingesetzt für:
+Die Erlöse aus der Versteigerung der Emissionsrechte für Luftfahrzeuge werden in folgendem Umfang eingesetzt:
 
-- a. Massnahmen zur Förderung des grenzüberschreitenden Personenfernverkehrs auf der Schiene, insbesondere für die Förderung von Nachtzügen; und
-- b. Massnahmen zur Verminderung von Treibhausgasemissionen im Luftverkehr, insbesondere für die Entwicklung und Herstellung von erneuerbaren synthetischen Flugtreibstoffen.
+- a. höchstens 10 Millionen Franken pro Jahr für Massnahmen zur Förderung des grenzüberschreitenden Personenfernverkehrs auf der Schiene, insbesondere für die Förderung von Nachtzügen, längstens bis Ende 2030;
+- b. 20 Millionen Franken pro Jahr in den Jahren 2027 und 2028 für die Entlastung des Bundeshaushalts;
+- c. die verbleibenden Mittel für Massnahmen zur Verminderung von Treibhausgasemissionen im Luftverkehr, insbesondere für die Entwicklung und Herstellung von erneuerbaren synthetischen Flugtreibstoffen.
 
-<sup>2</sup> Für Massnahmen nach Absatz 1 Buchstabe a werden längstens bis Ende 2030 höchstens 30 Millionen Franken pro Jahr eingesetzt. Verbleibende Erlöse können für Mass-nahmen nach Absatz 1 Buchstabe b eingesetzt werden.
+<sup>2</sup> Am Ende eines Rechnungsjahres nicht ausgeschöpfte Mittel nach Absatz 1 Buchstaben a oder c können in den Folgejahren je zusätzlich für den entsprechenden Zweck verwendet werden. Für Mittel nach Absatz 1 Buchstabe a, die nicht bis Ende 2030 verwendet wurden, entfällt die Zweckbindung.
 
-<sup>3</sup> Nicht ausgeschöpfte Mittel dürfen jeweils in den Folgejahren verwendet werden.
+<sup>3</sup>
 
-<sup>4</sup>
+Mit den Beiträgen für Massnahmen nach Absatz 1 Buchstabe a werden insbesondere Angebote gefördert, die in Bezug auf die Verminderung der Treibhausgasemissionen kosteneffizient sind. Die Gewährung der Beiträge ist an die folgenden Voraussetzungen geknüpft:
 
-Mit den Beiträgen an die Massnahmen nach Absatz 1 Buchstabe a werden insbesondere Angebote gefördert, die in Bezug auf die Verminderung der Treibhausgasemissionen kosteneffizient sind. Die Gewährung der Fördermittel ist an die folgenden Voraussetzungen geknüpft:
-
-- a. Das Angebot wird während mehrerer Jahren zur Verfügung gestellt.
+- a. Das Angebot wird während mehrerer Jahre zur Verfügung gestellt.
 - b. Die Attraktivität bestehender Angebote für Reisende wird verbessert.
 
-<sup>5</sup> Die Beiträge an die Massnahmen nach Absatz 1 Buchstabe b betragen höchstens 60 Prozent der anrechenbaren Kosten. Ausnahmsweise können sie auf 70 Prozent der anrechenbaren Kosten erhöht werden. Massgebend für Ausnahmen sind das besondere Interesse des Bundes sowie das Verhältnis zwischen Kosten und Nutzen.
+<sup>4</sup> Für Massnahmen nach Absatz 1 Buchstabe c werden höchstens Beiträge im Umfang von 60 Prozent der anrechenbaren Kosten gewährt. Ausnahmsweise können sie auf 70 Prozent der anrechenbaren Kosten erhöht werden.
 
-<sup>6</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Fördermittel und deren Bemessung.
+<sup>5</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Beiträge und deren Bemessung.
 
-[^37a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^37a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Fassung gemäss Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 37b
 
@@ -1154,7 +1140,12 @@ Das BAFU kann folgenden Stellen und Personen Zugang zu den Informations- und Dok
 
 **Förderung von elektrischen Antriebstechnologien**[^41a-1]
 
-<sup>1</sup> Der Bund richtet bis 2030 in der konzessionierten Personenbeförderung Beiträge von höchstens 47 Millionen Franken pro Jahr an die Beschaffung von Fahrzeugen mit elektrischem Antrieb und an die Umrüstung von Schiffen auf einen elektrischen Antrieb aus.
+<sup>1</sup>
+
+Der Bund richtet bis 2030 für die konzessionierte Personenbeförderung Beiträge von höchstens 40 Millionen Franken pro Jahr aus an:
+
+- a. die Beschaffung von Strassenfahrzeugen und Schiffen mit elektrischem Antrieb;
+- b. die Umrüstung von Schiffen auf einen elektrischen Antrieb.[^41a-2]
 
 <sup>2</sup>
 
@@ -1169,6 +1160,7 @@ Die Beiträge decken die Kosten in folgendem Umfang:
 <sup>4</sup> Der Bundesrat regelt die Voraussetzungen für die Gewährung der Beiträge und deren Bemessung.
 
 [^41a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^41a-2]: Fassung gemäss Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ## 8. Kapitel: Strafbestimmungen
 
@@ -1328,6 +1320,28 @@ Das CO<sub>2</sub>-Gesetz vom 8. Oktober 1999[^46-1] wird aufgehoben.
 [^49a-1]: Eingefügt durch Anhang Ziff. II 2 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^49a-2]: [AS 2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855)
 
+#### Art. 49b
+
+[^49b-1]
+
+[^49b-1]: Noch nicht in Kraft ([BBl 2025 2036](https://fedlex.data.admin.ch/eli/fga/2025/2036)).
+
+#### Art. 49c
+
+[^49c-1]
+
+[^49c-1]: Noch nicht in Kraft.
+
+#### Art. 49d
+
+**Übergangsbestimmung zur Änderung vom 20. März 2026**[^49d-1]
+
+Der nach Artikel 34 in der Fassung vom 23. Dezember 2011[^49d-2] gebundene Ertrag aus der bis zum Inkrafttreten der Änderung vom 20. März 2026 erhobenen, aber nicht verwendeten CO<sub>2</sub>-Abgabe wird für die Zwecke nach Artikel 33*a* Absatz 1 Buchstabe a verwendet. Dabei dürfen die Höchstbeträge nach Artikel 33*a* Absätze 2 und 3 dieses Gesetzes und Artikel 50*a* Absatz 1 EnG[^49d-3] überschritten werden.
+
+[^49d-1]: Eingefügt durch Ziff. I 10 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^49d-2]: [AS 2012 6989](https://fedlex.data.admin.ch/eli/oc/2012/855)
+[^49d-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
 #### Art. 50
 
 **Referendum und Inkrafttreten**
@@ -1339,3 +1353,15 @@ Das CO<sub>2</sub>-Gesetz vom 8. Oktober 1999[^46-1] wird aufgehoben.
 Datum des Inkrafttretens: 1. Januar 2013[^50-1]
 
 [^50-1]: BRB vom 20. Nov. 2012
+
+## Übergangsbestimmung zu den Änderungen des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011 sowie des Energiegesetzes vom 30. September 2016
+
+[^u1-1]
+
+[^u1-1]: [AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393)Ziff. III; [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)
+
+Im Jahr 2027 werden die Mittel nach Artikel 33*a* Absatz 1 Buchstabe a des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011 eingesetzt für die Zwecke nach Artikel 34 dieses Gesetzes in der Fassung vom 15. März 2024[^u1-2] sowie nach Artikel 50*a* des Energiegesetzes vom 30. September 2016[^u1-3] in der Fassung vom 30. September 2022[^u1-4]. Der Bundesrat regelt die Einzelheiten, insbesondere die Verteilung der Mittel und das Verfahren.
+
+[^u1-2]: [AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)
+[^u1-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^u1-4]: [AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655)
