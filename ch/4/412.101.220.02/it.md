@@ -3,18 +3,18 @@ sr: "412.101.220.02"
 title: Ordinanza della SEFRI del 18 maggio 2021 sulla formazione professionale di base Assistente del commercio al dettaglio con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/313"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-313-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-313-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Assistente del commercio al dettaglio con certificato federale di formazione pratica (CFP)
 
-del 18 maggio 2021 (Stato 1° gennaio 2026)
+del 18 maggio 2021 (Stato 1° gennaio 2027)
 
 <table>
 <tr><td>71800</td><td>Assistente del commercio al dettaglio CFP Detailhandelsassistentin EBA/ Detailhandelsassistent EBA Assistante du commerce de détail AFP/ Assistant du commerce de détail AFP</td></tr>
@@ -528,11 +528,13 @@ L’ordinanza della SEFRI dell’8 dicembre 2004[^27-1] sulla formazione profess
 
 La presente ordinanza entra in vigore il 1° gennaio 2022.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2 cpv. 1, 20 cpv. 1 lett. a n. 3)
 
 ## Rami di formazione e d’esame
+
+[^t-1]: Aggiornato dalla cifra I dell’O della SEFRI del 1° ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 528](https://fedlex.data.admin.ch/eli/oc/2026/528)).
 
 <table>
 <tr><td>Numero</td><td>Denominazione tedesca</td><td>Denominazione francese</td><td></td><td>Denominazione italiana</td></tr>
@@ -558,4 +560,5 @@ Allegato
 <tr><td>71820</td><td>Sportartikel</td><td>Articles de sport</td><td colspan="2">Articoli sportivi</td></tr>
 <tr><td>71821</td><td>Textil</td><td>Textile</td><td colspan="2">Tessili</td><td></td></tr>
 <tr><td>71822</td><td>Zoofachhandel</td><td>Magasins spécialisés en biens zoologiques</td><td colspan="2">Commercio specializzato di animali</td><td></td></tr>
+<tr><td>71823</td><td>Living & Style</td><td>Living & Style</td><td colspan="2">Living & Style</td><td></td></tr>
 </table>

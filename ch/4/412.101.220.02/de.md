@@ -3,18 +3,18 @@ sr: "412.101.220.02"
 title: Verordnung des SBFI vom 18. Mai 2021 über die berufliche Grundbildung Detailhandelsassistentin/Detailhandelsassistent mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/313"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-313-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2021-313-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Detailhandelsassistentin/Detailhandelsassistent mit eidgenössischem Berufsattest (EBA)
 
-vom 18. Mai 2021 (Stand am 1. Januar 2026)
+vom 18. Mai 2021 (Stand am 1. Januar 2027)
 
 <table>
 <tr><td>71800</td><td>Detailhandelsassistentin EBA / Detailhandelsassistent EBA Assistante du commerce de détail AFP / Assistant du commerce de détail AFP Assistente del commercio al dettaglio CFP</td></tr>
@@ -528,11 +528,13 @@ Die Verordnung des SBFI vom 8. Dezember 2004[^27-1] über die berufliche Grundbi
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 2 Abs. 1 und 20 Abs. 1 Bst. a Ziff. 3)
 
 ## Ausbildungs- und Prüfungsbranchen
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des SBFI vom 1. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 528](https://fedlex.data.admin.ch/eli/oc/2026/528)).
 
 <table>
 <tr><td>Nummer</td><td>Deutsche Bezeichnung</td><td>Französische Bezeichnung</td><td>Italienische Bezeichnung</td></tr>
@@ -558,4 +560,5 @@ Anhang
 <tr><td>71820</td><td>Sportartikel</td><td>Articles de sport</td><td>Articoli sportivi</td></tr>
 <tr><td>71821</td><td>Textil</td><td>Textile</td><td>Tessili</td></tr>
 <tr><td>71822</td><td>Zoofachhandel</td><td>Magasins spécialisés en biens zoologiques</td><td>Commercio specializzato di animali</td></tr>
+<tr><td>71823</td><td>Living & Style</td><td>Living & Style</td><td>Living & Style</td></tr>
 </table>

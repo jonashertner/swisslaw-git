@@ -3,18 +3,18 @@ sr: "412.101.220.02"
 title: Ordonnance du SEFRI du 18 mai 2021 sur la formation professionnelle initiale d’assistante du commerce de détail / assistant du commerce de détail avec attestation fédérale de formation professionnelle (AFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/313"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-313-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-313-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’assistante du commerce de détail / assistant du commerce de détail avec attestation fédérale de formation professionnelle (AFP)
 
-du 18 mai 2021 (État le 1<sup>er</sup> janvier 2026)
+du 18 mai 2021 (État le 1<sup>er</sup> janvier 2027)
 
 <table>
 <tr><td>71800</td><td>Assistante du commerce de détail AFP / Assistant du commerce de détail AFP Detailhandelsassistentin EBA / Detailhandelsassistent EBA Assistente del commercio al dettaglio CFP</td></tr>
@@ -528,11 +528,13 @@ L’ordonnance du SEFRI du 8 décembre 2004 sur la formation professionnelle ini
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
 
-Annexe
+Annexe[^t-1]
 
 (art. 2, al. 1, et 20, al. 1, let. a, ch. 3)
 
 ## Branches de formation et d’examens
+
+[^t-1]: Mise à jour par le ch. I de l’O du SEFRI du 1<sup>er</sup> oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 528](https://fedlex.data.admin.ch/eli/oc/2026/528)).
 
 <table>
 <tr><td>Numéro</td><td>Dénomination allemande</td><td>Dénomination française</td><td>Dénomination italienne</td></tr>
@@ -558,4 +560,5 @@ Annexe
 <tr><td>71820</td><td>Sportartikel</td><td>Articles de sport</td><td>Articoli sportivi</td></tr>
 <tr><td>71821</td><td>Textil</td><td>Textile</td><td>Tessili</td></tr>
 <tr><td>71822</td><td>Zoofachhandel</td><td>Magasins spécialisés en biens zoologiques</td><td>Commercio specializzato di animali</td></tr>
+<tr><td>71823</td><td>Living & Style</td><td>Living & Style</td><td>Living & Style</td></tr>
 </table>
