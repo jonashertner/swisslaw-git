@@ -4,13 +4,12 @@ number: "411.0.1"
 title: Gesetz über die obligatorische Schule
 short: "Schulgesetz, SchG"
 language: de
-version: 2024-01-01
-valid_until: 2026-12-31
-version_adopted: 2023-10-12
+version: 2027-01-01
+version_adopted: 2025-05-23
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8484/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8666/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Obligatorische Schule - G
 
 (Schulgesetz, SchG)
 
-vom 09.09.2014 (Fassung in Kraft getreten am 01.01.2024)
+vom 09.09.2014 (Fassung in Kraft getreten am 01.01.2027)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -280,6 +279,18 @@ beschliesst:
 <sup>1</sup> Die Direktion bestimmt und veröffentlicht die Lehrpläne und setzt die Anzahl der wöchentlichen Lektionen für jedes Unterrichtsfach fest, wobei sie sich auf die interkantonalen Lehrpläne stützt.
 
 <sup>2</sup> Die Direktion erstellt die Liste der anerkannten Lehrmittel und des Schulmaterials.
+
+#### Art. 22a
+
+**Digitale Ausstattung von Schulen**
+
+<sup>1</sup> Um den Anforderungen der Lehrpläne im Bereich der digitalen Bildung gerecht zu werden, stellen die Gemeinden den Schulen die notwendige digitale Ausstattung der Schülerinnen und Schüler und den technischen Support zur zugehörigen Hardware zur Verfügung.
+
+<sup>2</sup> Die Direktion gibt Empfehlungen zu den Mindest- und Höchstdotationen für die digitale Ausstattung der Schülerinnen und Schüler nach Schulstufe ab. Im Bestreben nach Genügsamkeit ist sie aufgerufen, die gemeinsame Nutzung von Informatikausrüstung zu fördern. Die Geräte werden auf der Grundlage eines Konzepts der pädagogischen Verwendung, das von den Schulen eingereicht wird, angeschafft.
+
+<sup>3</sup> Die Direktion bestimmt die Qualitäts-, Sicherheits- und Nachhaltigkeitsstandards für die digitale Ausstattung und die damit verbundenen technischen Leistungen. Zudem spezifiziert sie die Standards für die IT-Infrastruktur in den Schulräumen und -anlagen, insbesondere für Verbindungselemente und Peripheriegeräte.
+
+<sup>4</sup> Der Staatsrat erlässt die erforderlichen Ausführungsbestimmungen.
 
 #### Art. 23
 
@@ -651,7 +662,7 @@ beschliesst:
 <sup>2</sup> In ihrer administrativen Tätigkeit erfüllen sie unter anderem folgende Aufgaben:
 
 - a) Sie erlassen ein Schulreglement.
-- b) Sie stellen Schulräume und Schulanlagen bereit und sorgen für deren Ausstattung, Unterhalt und den laufenden Betrieb.
+- b) Sie stellen Schulräume und Schulanlagen bereit und sorgen für deren Ausstattung, insbesondere mit einer IT-Infrastruktur, die den von der Direktion definierten Standards entspricht, sowie für deren Unterhalt und den laufenden Betrieb.
 - c) Sie stellen das nötige administrative und technische Personal für den guten Schulbetrieb an.
 - d) Sie beschaffen für die Schülerinnen und Schüler sowie die Lehrpersonen das benötigte Schulmaterial.
 - e) Sie richten eine Bibliothek ein und betreiben diese oder sorgen dafür, dass die Schülerinnen und Schüler leicht und unentgeltlich Zugang zu einer Bibliothek erhalten.
@@ -756,7 +767,12 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden tragen, nach Abzug des Anteils des Staates nach Artikel 67, sämtliche Kosten, die mit der Einrichtung und dem Betrieb einer Primarschule verbunden sind.
 
-<sup>2</sup> Zusätzlich zu seinem Beitrag nach Artikel 67 übernimmt der Staat sämtliche Lohn- und Lohnnebenkosten der Schulbehörden sowie die Kosten der anerkannten Lehrmittel und des Schulmaterials, einschliesslich deren Verwaltung.
+<sup>2</sup> Zusätzlich zu seinem Beitrag nach Artikel 67 übernimmt der Staat:
+
+- a) die Lohn- und Lohnnebenkosten der Schulbehörden;
+- b) die Kosten der anerkannten Lehrmittel und des Schulmaterials, einschliesslich deren Verwaltung;
+- c) die Kosten der digitalen Ausstattung der Lehrpersonen und des kantonalen Verwaltungspersonals;
+- d) die Kosten für das zentrale Verwaltungssystem und den technischen Support für die Software des ganzen Informatikparks.
 
 #### Art. 67
 
@@ -804,7 +820,12 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden des Schulkreises tragen, nach Abzug des Anteils des Staates nach Artikel 72, sämtliche Kosten, die mit der Einrichtung und dem Betrieb ihrer Orientierungsschule verbunden sind.
 
-<sup>2</sup> Zusätzlich zu seinem Beitrag nach Artikel 72 übernimmt der Staat sämtliche Lohn- und Lohnnebenkosten der Schulbehörden sowie die Kosten der anerkannten Lehrmittel und des Schulmaterials, einschliesslich deren Verwaltung.
+<sup>2</sup> Zusätzlich zu seinem Beitrag nach Artikel 72 übernimmt der Staat:
+
+- a) die Lohn- und Lohnnebenkosten der Schulbehörden;
+- b) die Kosten der anerkannten Lehrmittel und des Schulmaterials, einschliesslich deren Verwaltung;
+- c) die Kosten der digitalen Ausstattung der Lehrpersonen und des kantonalen Verwaltungspersonals;
+- d) die Kosten für das zentrale Verwaltungssystem und den technischen Support für die Software des gesamten Informatikparks.
 
 #### Art. 72
 
@@ -1139,6 +1160,12 @@ beschliesst:
 <sup>3</sup> Die Artikel 22 Abs. 2, 57 Abs. 2 Bst. d, 66 Abs. 2 und 71 Abs. 2 treten am 1. Januar 2020 im Hinblick auf das Schuljahr 2020/21 in Kraft.[^104a-1]
 
 [^104a-1]: Der vorliegende Absatz bezieht sich auf den Inhalt der Artikel 22 Abs. 2, 57 Abs. 2 Bst. d, 66 Abs. 2 und 71 Abs. 2 gemäß der Änderung vom 27.03.2019.
+
+#### Art. 104b
+
+**Digitale Ausstattung von Schulen (Art. 22a, 57 Abs. 2, 66 Abs. 2 Bst. c und 71 Abs. 2 Bst. c)**
+
+<sup>1</sup> Die Gemeinden müssen bis spätestens zum Schuljahr 2030/31 die Standards für die IT-Infrastruktur der Schulräume und -einrichtungen erfüllen. Die Schülerinnen und Schüler werden innerhalb derselben Frist gemäss den von der Direktion herausgegebenen Dotationsempfehlungen ausgestattet.
 
 #### Art. 105
 

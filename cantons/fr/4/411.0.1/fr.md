@@ -4,13 +4,12 @@ number: "411.0.1"
 title: Loi sur la scolarité obligatoire
 short: "loi scolaire, LS"
 language: fr
-version: 2024-01-01
-valid_until: 2026-12-31
-version_adopted: 2023-10-12
+version: 2027-01-01
+version_adopted: 2025-05-23
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8484/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8666/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Scolarité obligatoire - L
 
 (loi scolaire, LS)
 
-du 09.09.2014 (version entrée en vigueur le 01.01.2024)
+du 09.09.2014 (version entrée en vigueur le 01.01.2027)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -280,6 +279,18 @@ Décrète:
 <sup>1</sup> La Direction fixe et publie les plans d'études ainsi que le nombre d'unités d'enseignement hebdomadaires attribué à chaque discipline, en se conformant aux plans d'études intercantonaux.
 
 <sup>2</sup> La Direction établit la liste des moyens d'enseignement reconnus et des fournitures scolaires.
+
+#### Art. 22a
+
+**Equipements numériques des établissements**
+
+<sup>1</sup> Afin de répondre aux exigences des plans d'études en matière d'éducation numérique, les communes mettent à disposition des établissements les équipements numériques des élèves nécessaires, ainsi que le support technique matériel y relatif.
+
+<sup>2</sup> La Direction émet des recommandations sur les dotations minimales et maximales de l'équipement numérique des élèves par degré de scolarité. A des fins de sobriété, elle promeut la mutualisation des équipements numériques. L'acquisition d'appareils se base sur un concept d'utilisation pédagogique déposé par les établissements.
+
+<sup>3</sup> La Direction définit les standards de qualité, de sécurité et de durabilité des équipements numériques ainsi que les prestations techniques liées. Elle spécifie également les standards de l'infrastructure informatique des locaux et installations scolaires, en particulier des éléments de connexion et des périphériques.
+
+<sup>4</sup> Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
 
 #### Art. 23
 
@@ -651,7 +662,7 @@ Décrète:
 <sup>2</sup> Dans leur activité de gestion, elles doivent notamment:
 
 - a) édicter un règlement scolaire;
-- b) mettre à disposition les locaux et installations scolaires, les équiper, les entretenir et en assurer la gestion courante;
+- b) mettre à disposition les locaux et installations scolaires, les équiper, les doter d'une infrastructure informatique conforme aux standards définis par la Direction, les entretenir et en assurer la gestion courante;
 - c) engager le personnel administratif et technique nécessaire au bon fonctionnement de l'établissement;
 - d) procurer aux élèves et au corps enseignant le matériel scolaire nécessaire;
 - e) créer et gérer une bibliothèque ou en permettre facilement et gratuitement l'accès aux élèves;
@@ -756,7 +767,12 @@ Décrète:
 
 <sup>1</sup> Les communes supportent, sous déduction de la part de l'Etat fixée à l'article 67, tous les frais afférents à la création et au fonctionnement de l'école primaire.
 
-<sup>2</sup> En plus de sa participation fixée à l'article 67, l'Etat assume l'entier des frais de traitement des autorités scolaires et des charges y relatives ainsi que les frais des moyens d'enseignement reconnus et des fournitures scolaires, y compris leur gestion administrative.
+<sup>2</sup> En plus de sa participation fixée à l'article 67, l'Etat assume:
+
+- a) les frais de traitement des autorités scolaires et les charges y relatives;
+- b) les frais des moyens d'enseignement reconnus et des fournitures scolaires, y compris leur gestion administrative;
+- c) les frais de l'équipement numérique du personnel administratif cantonal et du corps enseignant;
+- d) les frais du système de gestion centralisée et du support technique logiciel de l'ensemble du parc informatique.
 
 #### Art. 67
 
@@ -804,7 +820,12 @@ Décrète:
 
 <sup>1</sup> Les communes du cercle scolaire supportent, sous déduction de la part de l'Etat fixée à l'article 72, tous les frais afférents à la création et au fonctionnement de leur école du cycle d'orientation.
 
-<sup>2</sup> En plus de sa participation fixée à l'article 72, l'Etat assume l'entier des frais de traitement des autorités scolaires et des charges y relatives ainsi que les frais des moyens d'enseignement reconnus et des fournitures scolaires, y compris leur gestion administrative.
+<sup>2</sup> En plus de sa participation fixée à l'article 72, l'Etat assume:
+
+- a) les frais de traitement des autorités scolaires et les charges y relatives;
+- b) les frais des moyens d'enseignement reconnus et des fournitures scolaires, y compris leur gestion administrative;
+- c) les frais de l'équipement numérique du personnel administratif cantonal et du corps enseignant;
+- d) les frais du système de gestion centralisée et du support technique logiciel de l'ensemble du parc informatique.
 
 #### Art. 72
 
@@ -1139,6 +1160,12 @@ Décrète:
 <sup>3</sup> Les articles 22 al. 2, 57 al. 2 let. d, 66 al. 2 et 71 al. 2 entrent en vigueur le 1<sup>er</sup> janvier 2020 en vue de l'année scolaire 2020/21.[^104a-1]
 
 [^104a-1]: Le présent alinéa fait référence à la teneur des articles 22 al. 2, 57 al. 2 let. d, 66 al. 2 et 71 al. 2 selon la modification du 27.03.2019.
+
+#### Art. 104b
+
+**Equipements numériques des établissements (art. 22a, 57 al. 2, 66 al. 2 let. c et 71 al. 2 let. c)**
+
+<sup>1</sup> Les communes doivent satisfaire aux standards de l'infrastructure informatique des locaux et installations scolaires en vue de l'année 2030/31 au plus tard. Les élèves seront équipés conformément aux recommandations de dotation émises par la Direction dans ce même délai.
 
 #### Art. 105
 
