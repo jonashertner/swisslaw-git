@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2025-04-01
+version: 2027-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20250401-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. April 2025)
+vom 5. Oktober 2007 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3715,9 +3715,10 @@ Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführte
 - k.[^269-19] Waffengesetz vom 20. Juni 1997[^269-20]: Artikel 33 Absatz 3;
 - l.[^269-21] Heilmittelgesetz vom 15. Dezember 2000[^269-22]: Artikel 86 Absätze 2 und 3;
 - m.[^269-23] Geldspielgesetz vom 29. September 2017[^269-24]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a;
-- n.[^269-25] Nachrichtendienstgesetz vom 25. September 2015[^269-26]: Artikel 74 Absatz 4.
+- n.[^269-25] Nachrichtendienstgesetz vom 25. September 2015[^269-26]: Artikel 74 Absatz 4;
+- o.[^269-27] Bundesgesetz vom 21. März 2025[^269-28] über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten: Artikel 44 und 45.
 
-<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-27] aufgeführten Straftaten.
+<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-29] aufgeführten Straftaten.
 
 [^269-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^269-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
@@ -3745,7 +3746,9 @@ Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführte
 [^269-24]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^269-25]: Eingefügt durch Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^269-26]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^269-27]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^269-27]: Eingefügt durch Anhang Ziff. 1 des BG vom 21. März 2025 über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten, in Kraft seit 1. Jan. 2027 ([AS 2026 509](https://fedlex.data.admin.ch/eli/oc/2026/509); [BBl 2023 2864](https://fedlex.data.admin.ch/eli/fga/2023/2864)).
+[^269-28]: [SR 730.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40470)
+[^269-29]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 269<sup>bis</sup>
 

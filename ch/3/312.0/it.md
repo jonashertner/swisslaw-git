@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2025-04-01
+version: 2027-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20250401-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° aprile 2025)
+del 5 ottobre 2007 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -951,7 +951,7 @@ I verbali del procedimento riportano tutti gli atti procedurali essenziali infor
 
 <sup>5</sup> Il verbale dell’interrogatorio è immediatamente letto o dato da leggere all’interrogato. Presa conoscenza del verbale, questi lo firma e ne vista ogni pagina. Se rifiuta di leggere integralmente il verbale o di firmarlo, il rifiuto e i motivi invocati sono annotati nel verbale medesimo.
 
-<sup>5bis</sup> ...[^78-2]
+<sup>5bis</sup> …[^78-2]
 
 <sup>6</sup> Se l’interrogatorio si svolge per videoconferenza, la dichiarazione orale dell’interrogato di aver preso conoscenza del verbale sostituisce la firma e il visto. Tale dichiarazione è annotata nel verbale medesimo.
 
@@ -2000,7 +2000,7 @@ A tal fine, chi dirige il procedimento può limitare adeguatamente i diritti pro
 
 <sup>1</sup> Chi dirige il procedimento può garantire l’anonimato alla persona da proteggere.
 
-<sup>2</sup> Se concede la garanzia dell’anonimato, il pubblico ministero la sottopone entro 30 giorni per approvazione al giudice dei provvedimenti coercitivi; nella richiesta d’approvazione il pubblico ministero precisa tutti i dettagli necessari alla valutazione della legalità del provvedimento. ...[^150-1]
+<sup>2</sup> Se concede la garanzia dell’anonimato, il pubblico ministero la sottopone entro 30 giorni per approvazione al giudice dei provvedimenti coercitivi; nella richiesta d’approvazione il pubblico ministero precisa tutti i dettagli necessari alla valutazione della legalità del provvedimento. …[^150-1]
 
 <sup>3</sup> Se il giudice dei provvedimenti coercitivi nega l’approvazione, le prove già assunte con la garanzia dell’anonimato non possono essere utilizzate.
 
@@ -2320,7 +2320,7 @@ Chi è vincolato dal segreto professionale in virtù delle disposizioni qui appr
 - c. articolo 2 della legge federale del 9 ottobre 1981[^173-3] sui consultori di gravidanza;
 - d.[^173-4] articolo 11 della legge federale del 23 marzo 2007[^173-5] concernente l’aiuto alle vittime di reati;
 - e.[^173-6] articolo 3*c* capoverso 4 LStup[^173-7];
-- f.[^173-8] ...
+- f.[^173-8] …
 
 <sup>2</sup> I depositari di altri segreti protetti dalla legge sono tenuti a deporre. Chi dirige il procedimento può liberarli dall’obbligo di deporre se essi possono rendere verosimile che l’interesse al mantenimento del segreto prevale su quello all’accertamento della verità.
 
@@ -3711,9 +3711,10 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 - k.[^269-19] legge del 20 giugno 1997[^269-20] sulle armi: articolo 33 capoverso 3;
 - l.[^269-21] legge del 15 dicembre 2000[^269-22] sugli agenti terapeutici: articolo 86 capoversi 2 e 3;
 - m.[^269-23] legge federale del 29 settembre 2017[^269-24] sui giochi in denaro: articolo 130 capoverso 2 per i reati di cui all’articolo 130 capoverso 1 lettera a;
-- n.[^269-25] legge federale del 25 settembre 2015[^269-26] sulle attività informative: articolo 74 capoverso 4.
+- n.[^269-25] legge federale del 25 settembre 2015[^269-26] sulle attività informative: articolo 74 capoverso 4;
+- o.[^269-27] legge federale del 21 marzo 2025[^269-28] sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso: articoli 44 e 45.
 
-<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^269-27].
+<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^269-29].
 
 [^269-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^269-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
@@ -3726,7 +3727,7 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 [^269-9]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 [^269-10]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^269-11]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
-[^269-12]: Nuovo testo giusta la cifra II della LF del 27 set. 2024, in vigore dal 1° apr 2025 (RU **20****25** 178; FF **20****23** 239).
+[^269-12]: Nuovo testo giusta la cifra II della LF del 27 set. 2024, in vigore dal 1° apr 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^269-13]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^269-14]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^269-15]: Introdotto dall’art. 34 n. 2 della L del 17 giu. 2011 sulla promozione dello sport ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nuovo testo giusta l’all. cifra II n. 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
@@ -3741,7 +3742,9 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 [^269-24]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^269-25]: Introdotta dall’all. cifra II n. 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^269-26]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^269-27]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^269-27]: Introdotta dall’all. n. 1 della LF del 21 mar. 2025 sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso, in vigore dal 1° gen. 2027 ([RU 2026 509](https://fedlex.data.admin.ch/eli/oc/2026/509); [FF 2023 2864](https://fedlex.data.admin.ch/eli/fga/2023/2864)).
+[^269-28]: [RS 730.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40470)
+[^269-29]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 269<sup>bis</sup>
 
@@ -5072,7 +5075,7 @@ Se nell’ambito della procedura preliminare i fatti sono stati ammessi dall’i
 
 - a. una multa;
 - b. una pena pecuniaria non superiore a 180 aliquote giornaliere;
-- c.[^352-1] ...
+- c.[^352-1] …
 - d. una pena detentiva non superiore a sei mesi.
 
 <sup>2</sup> Ciascuna delle pene di cui al capoverso 1 può essere cumulata con una misura di cui agli articoli 66 e 67*e*–73 CP[^352-2].[^352-3]
@@ -5543,7 +5546,7 @@ Contro le decisioni che il presente Codice dichiara definitive o non impugnabili
 
 <sup>3</sup> La Confederazione e i Cantoni designano le autorità legittimate a ricorrere nell’ambito della procedura penale in materia di contravvenzioni.
 
-<sup>4</sup> ...[^381-1]
+<sup>4</sup> …[^381-1]
 
 [^381-1]: Abrogato dalla cifra I della LF del 17 giu. 2022, con effetto dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 

@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2025-04-01
+version: 2027-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20250401-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20250401/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (État le 1<sup>er</sup> avril 2025)
+du 5 octobre 2007 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -3720,9 +3720,10 @@ Une surveillance peut être ordonnée aux fins de poursuivre les infractions vis
 - k.[^269-18] loi du 20 juin 1997 sur les armes[^269-19]: art. 33, al. 3;
 - l.[^269-20] loi du 15 décembre 2000 sur les produits thérapeutiques[^269-21]: art. 86, al. 2 et 3;
 - m.[^269-22] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^269-23]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a;
-- n.[^269-24] loi fédérale du 25 septembre 2015 sur le renseignement[^269-25]: art. 74, al. 4.
+- n.[^269-24] loi fédérale du 25 septembre 2015 sur le renseignement[^269-25]: art. 74, al. 4;
+- o.[^269-26] loi fédérale du 21 mars 2025 sur la surveillance et la transparence des marchés de gros de l’énergie[^269-27]: art. 44 et 45.
 
-<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-26].
+<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-28].
 
 [^269-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^269-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
@@ -3749,7 +3750,9 @@ Une surveillance peut être ordonnée aux fins de poursuivre les infractions vis
 [^269-23]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^269-24]: Introduite par l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^269-25]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^269-26]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
+[^269-26]: Introduite par l’annexe ch. 1 de la LF du 21 mars 2025 sur la surveillance et la transparence des marchés de gros de l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 509](https://fedlex.data.admin.ch/eli/oc/2026/509); [FF 2023 2864](https://fedlex.data.admin.ch/eli/fga/2023/2864)).
+[^269-27]: [RS 730.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40470)
+[^269-28]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 #### Art. 269<sup>bis</sup>
 
