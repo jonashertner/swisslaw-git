@@ -3,20 +3,22 @@ sr: "172.222.1"
 title: Bundesgesetz vom 20. Dezember 2006 über die Pensionskasse des Bundes (Publica-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/313"
 language: de
-version: 2023-01-01
+version: 2027-01-01
 adopted: 2006-12-20
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-313-20230101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-313-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Pensionskasse des Bundes
 
-(PUBLICA-Gesetz)
+(Publica-Gesetz)[^t-1]
 
-vom 20. Dezember 2006 (Stand am 1. Januar 2023)
+vom 20. Dezember 2006 (Stand am 1. Januar 2027)
+
+[^t-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -33,13 +35,15 @@ beschliesst:
 
 **Gegenstand**
 
-Dieses Gesetz regelt die Organisation der Pensionskasse des Bundes (PUBLICA) und legt ihre Aufgaben und Zuständigkeiten fest.
+Dieses Gesetz regelt die Organisation der Pensionskasse des Bundes (Publica[^1-1]) und legt ihre Aufgaben und Zuständigkeiten fest.
+
+[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2027 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
 **Rechtsform und Sitz**
 
-<sup>1</sup> PUBLICA ist eine öffentlichrechtliche Anstalt des Bundes mit eigener Rechtspersönlichkeit.
+<sup>1</sup> Publica ist eine öffentlichrechtliche Anstalt des Bundes mit eigener Rechtspersönlichkeit.
 
 <sup>2</sup> Sie hat ihren Sitz in Bern und ist im Handelsregister eingetragen.
 
@@ -47,9 +51,9 @@ Dieses Gesetz regelt die Organisation der Pensionskasse des Bundes (PUBLICA) und
 
 **Aufgaben**
 
-<sup>1</sup> PUBLICA versichert Arbeitnehmende gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod. Sie führt die Vorsorge durch gemäss dem Bundesgesetz vom 25. Juni 1982[^3-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und dem Freizügigkeitsgesetz vom 17. Dezember 1993[^3-2] (FZG). Sie ist im Register für die berufliche Vorsorge eingetragen.
+<sup>1</sup> Publica versichert Arbeitnehmende gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod. Sie führt die Vorsorge durch gemäss dem Bundesgesetz vom 25. Juni 1982[^3-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und dem Freizügigkeitsgesetz vom 17. Dezember 1993[^3-2] (FZG). Sie ist im Register für die berufliche Vorsorge eingetragen.
 
-<sup>2</sup> Der Bundesrat kann PUBLICA weitere Aufgaben übertragen, soweit diese mit dem Aufgabenbereich nach diesem Gesetz in einem sachlichen Zusammenhang stehen. Der Bund trägt die entsprechenden Kosten.
+<sup>2</sup> Der Bundesrat kann Publica weitere Aufgaben übertragen, soweit diese mit dem Aufgabenbereich nach diesem Gesetz in einem sachlichen Zusammenhang stehen. Der Bund trägt die entsprechenden Kosten.
 
 [^3-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^3-2]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
@@ -58,19 +62,21 @@ Dieses Gesetz regelt die Organisation der Pensionskasse des Bundes (PUBLICA) und
 
 **Anschluss**
 
-<sup>1</sup> PUBLICA angeschlossen sind Arbeitgeber nach Artikel 32*b* des Bundespersonalgesetzes vom 24. März 2000[^4-1] (BPG).
+<sup>1</sup> Publica angeschlossen sind Arbeitgeber nach Artikel 32*b* des Bundespersonalgesetzes vom 24. März 2000[^4-1] (BPG).
 
-<sup>2</sup> PUBLICA können sich ausserdem Arbeitgeber anschliessen, die dem Bund nahe stehen oder öffentliche Aufgaben des Bundes, eines Kantons oder einer Gemeinde erfüllen. Über den Anschluss entscheidet PUBLICA.
+<sup>2</sup> Publica können sich ausserdem Arbeitgeber anschliessen, die dem Bund nahe stehen oder öffentliche Aufgaben des Bundes erfüllen.[^4-2] Über den Anschluss entscheidet Publica.
 
-<sup>3</sup> Der Anschluss eines Arbeitgebers an PUBLICA erfolgt über einen Anschlussvertrag. Die Vorsorgereglemente sowie die Festlegung der Verwaltungskosten sind Bestandteil der Anschlussverträge.
+<sup>3</sup> Der Anschluss eines Arbeitgebers an Publica erfolgt über einen Anschlussvertrag. Die Festlegung der Verwaltungskosten ist Bestandteil des Anschlussvertrags.[^4-3]
 
 [^4-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^4-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^4-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 5
 
 **Rückgriff auf haftpflichtige Dritte**
 
-Gegenüber einem Dritten, der für den Versicherungsfall haftet, tritt PUBLICA bis auf die Höhe der reglementarischen Leistungen in die Ansprüche der versicherten Person und ihrer Hinterlassenen ein. Abwicklung und Umfang des Rückgriffs richten sich nach den Artikeln 72–75 des Bundesgesetzes vom 6. Oktober 2000[^5-1] über den allgemeinen Teil des Sozialversicherungsrechts (ATSG).
+Gegenüber einem Dritten, der für den Versicherungsfall haftet, tritt Publica bis auf die Höhe der reglementarischen Leistungen in die Ansprüche der versicherten Person und ihrer Hinterlassenen ein. Abwicklung und Umfang des Rückgriffs richten sich nach den Artikeln 72–75 des Bundesgesetzes vom 6. Oktober 2000[^5-1] über den allgemeinen Teil des Sozialversicherungsrechts (ATSG).
 
 [^5-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
@@ -78,7 +84,7 @@ Gegenüber einem Dritten, der für den Versicherungsfall haftet, tritt PUBLICA b
 
 **Datenbearbeitung**
 
-<sup>1</sup> PUBLICA bearbeitet die für die Durchführung der beruflichen Vorsorge notwendigen Personendaten der Versicherten und deren Angehörigen.
+<sup>1</sup> Publica bearbeitet die für die Durchführung der beruflichen Vorsorge notwendigen Personendaten der Versicherten und deren Angehörigen.
 
 <sup>2</sup>
 
@@ -87,7 +93,7 @@ Soweit es zur Erfüllung ihrer Aufgaben notwendig ist, kann sie folgende besonde
 - a. Daten über die Gesundheit;
 - b. Daten über Sozialmassnahmen und Betreibungen.
 
-<sup>3</sup> Zum Zweck der Kontrolle der Angaben von Versicherten kann PUBLICA insbesondere elektronisch eigene Daten mit Daten von in- und ausländischen Vorsorgeeinrichtungen und Sozialversicherungen vergleichen, namentlich mit solchen der Eidgenössischen Ausgleichskasse, der Zentralen Ausgleichsstelle, der Schweizerischen Ausgleichskasse, der Militärversicherung, der Schweizerischen Unfallversicherungsanstalt und der IV-Stelle für Versicherte im Ausland.
+<sup>3</sup> Zum Zweck der Kontrolle der Angaben von Versicherten kann Publica insbesondere elektronisch eigene Daten mit Daten von in- und ausländischen Vorsorgeeinrichtungen und Sozialversicherungen vergleichen, namentlich mit solchen der Eidgenössischen Ausgleichskasse, der Zentralen Ausgleichsstelle, der Schweizerischen Ausgleichskasse, der Militärversicherung, der Schweizerischen Unfallversicherungsanstalt und der IV-Stelle für Versicherte im Ausland.
 
 <sup>4</sup>
 
@@ -104,9 +110,9 @@ Die Kassenkommission (Art. 10 Bst. a) regelt:
 
 **Bildung von Vorsorgewerken**
 
-<sup>1</sup> Für jeden angeschlossenen Arbeitgeber und seine Arbeitnehmenden sowie die ihm zugeordneten Rentenbeziehenden bildet PUBLICA ein eigenes Vorsorgewerk.
+<sup>1</sup> Für jeden angeschlossenen Arbeitgeber und seine Arbeitnehmenden sowie die ihm zugeordneten Rentenbeziehenden bildet Publica ein eigenes Vorsorgewerk.
 
-<sup>2</sup> PUBLICA kann für mehrere angeschlossene Arbeitgeber ein gemeinschaftliches Vorsorgewerk bilden.
+<sup>2</sup> Publica kann für mehrere angeschlossene Arbeitgeber ein gemeinschaftliches Vorsorgewerk bilden.
 
 <sup>3</sup> Vorsorgewerke können auch gebildet oder weitergeführt werden, wenn einem Arbeitgeber nur Rentenbeziehende zugeordnet sind. Will ein angeschlossener Arbeitgeber ein Vorsorgewerk ohne Arbeitnehmende weiterführen, so ist ein neuer Anschlussvertrag abzuschliessen.
 
@@ -118,7 +124,7 @@ Die Kassenkommission (Art. 10 Bst. a) regelt:
 
 <sup>2</sup>
 
-PUBLICA bildet für die Gesamtheit der Vorsorgewerke:
+Publica bildet für die Gesamtheit der Vorsorgewerke:
 
 - a. eine Rückstellung zum Ausgleich der in den Vorsorgewerken auftretenden Schwankungen im Risikoverlauf bei Tod und Invalidität, soweit die Schwankungen nicht durch die Risikoprämien gedeckt werden können. Von diesem Risikoausgleich ausgenommen sind Vorsorgewerke ohne Arbeitnehmende (Art. 7 Abs. 3);
 - b. eine Rückstellung für Leistungen in besonderen Härtefällen.
@@ -127,13 +133,22 @@ PUBLICA bildet für die Gesamtheit der Vorsorgewerke:
 
 **Paritätisches Organ**
 
-<sup>1</sup> Für jedes Vorsorgewerk besteht ein paritätisches Organ, das aus Vertreterinnen und Vertretern des Arbeitgebers und der Arbeitnehmenden zusammengesetzt ist. Bei den nur aus Rentenbeziehenden bestehenden Vorsorgewerken kann auf ein paritätisches Organ verzichtet werden, wenn der Bund, ein Kanton oder eine Gemeinde eine Garantie für die Ausrichtung der Leistungen übernimmt.
+<sup>1</sup> Für jedes Vorsorgewerk besteht ein paritätisches Organ, das aus Vertreterinnen und Vertretern des Arbeitgebers und der Arbeitnehmenden zusammengesetzt ist. Bei den nur aus Rentenbeziehenden bestehenden Vorsorgewerken kann auf ein paritätisches Organ verzichtet werden, wenn der Bund eine Garantie für die Ausrichtung der Leistungen übernimmt.[^9-1]
 
 <sup>2</sup> Der Abschluss, die Änderung und die Auflösung des Anschlussvertrages bedarf der Mitwirkung und der Zustimmung des paritätischen Organs.
 
-<sup>3</sup> Das paritätische Organ nimmt die Aufgaben und Kompetenzen wahr, welche ihm durch dieses Gesetz, das Geschäfts- und Organisationsreglement von PUBLICA und durch den Anschlussvertrag zugeteilt werden.
+<sup>2bis</sup> Bei Anschlüssen nach Artikel 4 Absatz 1 erlässt, ändert oder hebt das paritätische Organ das Vorsorgereglement nach Artikel 32*c*<sup>bis</sup> Absatz 1 BPG[^9-2] auf, unter Vorbehalt der Genehmigung durch die Kassenkommission.[^9-3]
+
+<sup>2ter</sup> Bei Anschlüssen nach Artikel 4 Absatz 2 erlässt, ändert oder hebt das paritätische Organ das Vorsorgereglement auf, unter Vorbehalt der Genehmigung durch die Kassenkommission.[^9-4]
+
+<sup>3</sup> Das paritätische Organ nimmt die Aufgaben und Kompetenzen wahr, welche ihm durch dieses Gesetz, das Geschäfts- und Organisationsreglement von Publica und durch den Anschlussvertrag zugeteilt werden.
 
 <sup>4</sup> Der Arbeitgeber und seine Arbeitnehmenden bestimmen ihre Vertreterinnen und Vertreter im paritätischen Organ.
+
+[^9-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^9-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^9-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 3. Abschnitt: Organisation
 
@@ -141,33 +156,35 @@ PUBLICA bildet für die Gesamtheit der Vorsorgewerke:
 
 **Organe**
 
-PUBLICA verfügt über folgende Organe:
+Publica verfügt über folgende Organe:[^10-1]
 
 - a. Kassenkommission;
 - b. Delegiertenversammlung;
 - c. Direktion;
-- d. Revisionsstelle nach Artikel 53 Absatz 1 BVG[^10-1].
+- d.[^10-2] Revisionsstelle nach Artikel 52*a* Absatz 1 BVG[^10-3].
 
-[^10-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094). Dieser Art. ist heute aufgehoben. Siehe seit dem 1. Jan. 2012: Art. 52*a* Abs. 1 BVG.
+[^10-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 11
 
 **Aufgaben der Kassenkommission**
 
-<sup>1</sup> Die Kassenkommission ist das oberste Organ von PUBLICA. Sie übt die Leitung sowie die Aufsicht und Kontrolle über die Geschäftsführung von PUBLICA aus.
+<sup>1</sup> Die Kassenkommission ist das oberste Organ von Publica. Sie übt die Leitung sowie die Aufsicht und Kontrolle über die Geschäftsführung von Publica aus.
 
 <sup>2</sup>
 
 Sie hat zudem namentlich die folgenden Aufgaben:
 
-- a. Abschluss und Auflösung von Anschlussverträgen;
+- a.[^11-1] Abschluss, Änderung und Auflösung von Anschlussverträgen; Artikel 14 Absatz 3 bleibt vorbehalten;
 - b Ernennung der Direktion;
 - c. Wahl der Revisionsstelle und der Expertin oder des Experten für berufliche Vorsorge;
 - d. Genehmigung der Jahresrechnung;
 - e. Einleitung von Sanierungsmassnahmen;
 - f. Entscheid über die Äufnung von Rückstellungen nach Artikel 8 Absatz 2;
 - g. Entscheid über die Bildung gemeinschaftlicher Vorsorgewerke (Art. 7 Abs. 2);
-- h. Bestimmung der internen Beschwerdeinstanz nach Artikel 35 Absatz 1 BPG[^11-1].
+- h.[^11-2] Genehmigung der Vorsorgereglemente; die Genehmigung kann nur verweigert werden, wenn die Bestimmungen nicht gesetzeskonform sind oder von Vorgaben zu Leistungszielen abweichen oder wenn Leistungen nicht ausreichend finanziert sind.
 
 <sup>3</sup>
 
@@ -176,14 +193,19 @@ Sie erlässt namentlich:
 - a. das Geschäfts- und Organisationsreglement;
 - b. die Grundsätze der Risikopolitik;
 - c. das Reglement über die Rückstellungen und Reserven;
-- d.[^11-2] das Anlagereglement, einschliesslich der Anlagestrategien (Art. 15 Abs. 2);
+- d.[^11-3] das Anlagereglement, einschliesslich der Anlagestrategien (Art. 15 Abs. 2);
 - e. das Datenbearbeitungsreglement (Art. 6 Abs. 4);
 - f. das Kostenreglement;
 - g. das Mustervorsorgereglement;
-- h. den Musteranschlussvertrag.
+- h. den Musteranschlussvertrag;
+- i.[^11-4] die Bestimmungen über die Finanzierung der beruflichen Vorsorge für das Vorsorgewerk Publica und unterbreitet sie dann dem Bundesrat zur Genehmigung;
+- j.[^11-5] Vorgaben zu Leistungszielen.
 
-[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^11-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^11-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^11-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
@@ -191,13 +213,13 @@ Sie erlässt namentlich:
 
 <sup>1</sup> Die Kassenkommission besteht aus 16 Mitgliedern; die Amtsdauer der Mitglieder beträgt vier Jahre.
 
-<sup>2</sup> Sie ist paritätisch zusammengesetzt. Die Anzahl der Vertreterinnen und Vertreter der Arbeitgeber und Arbeitnehmenden pro Vorsorgewerk richtet sich nach dem Anteil des Deckungskapitals der einzelnen Vorsorgewerke am gesamten Deckungskapital von PUBLICA. Mindestens je ein Sitz steht der Gesamtheit der Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 32*a* Absatz 2 BPG[^12-1] und der Gesamtheit der angeschlossenen Arbeitgeber nach Artikel 4 Absatz 2 dieses Gesetzes zu.
+<sup>2</sup> Sie ist paritätisch zusammengesetzt. Die Anzahl der Vertreterinnen und Vertreter der Arbeitgeber und Arbeitnehmenden pro Vorsorgewerk richtet sich nach dem Anteil des Deckungskapitals der einzelnen Vorsorgewerke am gesamten Deckungskapital von Publica. Mindestens je ein Sitz steht der Gesamtheit der Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 32*a* Absatz 2 BPG[^12-1] und der Gesamtheit der angeschlossenen Arbeitgeber nach Artikel 4 Absatz 2 dieses Gesetzes zu.
 
 <sup>3</sup> Die Vertretung der Arbeitnehmenden wird durch die Delegiertenversammlung gewählt.
 
 <sup>4</sup> Die Arbeitgeber bestimmen ihre Vertretung in der Kassenkommission. Arbeitgeber können sich zusammenschliessen und eine gemeinsame Vertretung bestimmen.
 
-<sup>5</sup> Die von den Arbeitnehmenden und den Arbeitgebern gewählten Mitglieder der Kassenkommission müssen nicht Versicherte von PUBLICA sein.
+<sup>5</sup> Die von den Arbeitnehmenden und den Arbeitgebern gewählten Mitglieder der Kassenkommission müssen nicht Versicherte von Publica sein.
 
 <sup>6</sup> Die Kassenkommission konstituiert sich selbst. Sie kann Fachleute beiziehen und Ausschüsse einsetzen, deren Mitglieder nicht der Kassenkommission angehören müssen.
 
@@ -209,11 +231,11 @@ Sie erlässt namentlich:
 
 <sup>1</sup> Die Delegiertenversammlung setzt sich aus Arbeitnehmenden der angeschlossenen Arbeitgeber zusammen. Sie wählt die Vertretung der Arbeitnehmenden in die Kassenkommission.
 
-<sup>2</sup> Sie kann zu allen Belangen von PUBLICA Anträge an die Kassenkommission stellen.
+<sup>2</sup> Sie kann zu allen Belangen von Publica Anträge an die Kassenkommission stellen.
 
-<sup>3</sup> Sie wird jährlich von der Kassenkommission und der Direktion über den Geschäftsverlauf von PUBLICA orientiert.
+<sup>3</sup> Sie wird jährlich von der Kassenkommission und der Direktion über den Geschäftsverlauf von Publica orientiert.
 
-<sup>4</sup> Die Delegiertenversammlung hat 80 Mitglieder. Die Anzahl der Delegierten pro Vorsorgewerk richtet sich nach dem Anteil des Deckungskapitals der einzelnen Vorsorgewerke am gesamten Deckungskapital von PUBLICA. Vorsorgewerke können sich zusammenschliessen und eine gemeinsame Vertretung in der Delegiertenversammlung bestimmen.
+<sup>4</sup> Die Delegiertenversammlung hat 80 Mitglieder. Die Anzahl der Delegierten pro Vorsorgewerk richtet sich nach dem Anteil des Deckungskapitals der einzelnen Vorsorgewerke am gesamten Deckungskapital von Publica. Vorsorgewerke können sich zusammenschliessen und eine gemeinsame Vertretung in der Delegiertenversammlung bestimmen.
 
 <sup>5</sup> Die Amtsdauer der Delegierten beträgt vier Jahre.
 
@@ -221,11 +243,14 @@ Sie erlässt namentlich:
 
 **Direktion**
 
-<sup>1</sup> Die Direktion besorgt die laufenden Geschäfte von PUBLICA. Sie nimmt in beratender Funktion an den Sitzungen der Kassenkommission und deren Ausschüssen teil und kann Anträge stellen. Sie ernennt das Personal von PUBLICA.
+<sup>1</sup> Die Direktion besorgt die laufenden Geschäfte von Publica. Sie nimmt in beratender Funktion an den Sitzungen der Kassenkommission und deren Ausschüssen teil und kann Anträge stellen. Sie ernennt das Personal von Publica.
 
-<sup>2</sup> Die Direktion und das übrige Personal von PUBLICA unterstehen dem BPG[^14-1]. Sie sind für die berufliche Vorsorge bei PUBLICA versichert.
+<sup>2</sup> Die Direktion und das übrige Personal von Publica unterstehen dem BPG[^14-1]. Sie sind für die berufliche Vorsorge bei Publica versichert.
+
+<sup>3</sup> Die Direktion schliesst den Anschlussvertrag mit Publica ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung.[^14-2]
 
 [^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^14-2]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 4. Abschnitt: Vermögensanlage und Rechnungslegung
 
@@ -237,23 +262,24 @@ Sie erlässt namentlich:
 
 <sup>2</sup>
 
-Die Kassenkommission bestimmt je eine eigene Anlagestrategie für:
+Die Kassenkommission bestimmt:
 
-- a. die Vermögenswerte der Vorsorgewerke nach Artikel 7 Absatz 1;
-- b. die Vermögenswerte der Vorsorgewerke nach Artikel 7 Absatz 3;
-- c. die übrigen Vermögenswerte von PUBLICA, insbesondere die Rückstellungen nach Artikel 8 Absatz 2 und das Betriebskapital.
+- a. Anlagestrategien für die Vermögenswerte der Vorsorgewerke nach Artikel 7 Absätze 1 und 2;
+- b. eine Anlagestrategie für die Vermögenswerte der Vorsorgewerke nach Artikel 7 Absatz 3;
+- c. eine Anlagestrategie für die übrigen Vermögenswerte von Publica, insbesondere die Rückstellungen nach Artikel 8 Absatz 2 und das Betriebskapital.[^15-2]
 
-<sup>3</sup> Der Ertrag beziehungsweise der Verlust aus der Anlage des Vermögens wird jährlich auf die einzelnen Vorsorgewerke und auf PUBLICA entsprechend dem Anteil am Vermögen und der massgebenden Anlagestrategie aufgeteilt.
+<sup>3</sup> Der Ertrag beziehungsweise der Verlust aus der Anlage des Vermögens wird jährlich auf die einzelnen Vorsorgewerke und auf Publica entsprechend dem Anteil am Vermögen und der massgebenden Anlagestrategie aufgeteilt.
 
 <sup>4</sup> Das paritätische Organ des einzelnen Vorsorgewerks entscheidet über die Verwendung der dem Vorsorgewerk nach Äufnung seiner reglementarischen Rückstellungen und Reserven verbleibenden Erträge. Bei Vorsorgewerken nach Artikel 7 Absatz 3 entscheidet anstelle des paritätischen Organs die Kassenkommission.
 
 [^15-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^15-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 16
 
 **Bilanzierung**
 
-<sup>1</sup> PUBLICA führt die Vorsorgwerke nach dem Grundsatz der Bilanzierung in geschlossener Kasse.
+<sup>1</sup> Publica führt die Vorsorgwerke nach dem Grundsatz der Bilanzierung in geschlossener Kasse.
 
 <sup>2</sup> Vom Grundsatz der Bilanzierung in geschlossener Kasse kann ein einzelnes Vorsorgewerk abweichen, wenn der Bund, ein Kanton oder eine Gemeinde die Garantie für die Ausrichtung der Leistungen übernimmt.
 
@@ -261,11 +287,11 @@ Die Kassenkommission bestimmt je eine eigene Anlagestrategie für:
 
 **Rechnungslegung**
 
-<sup>1</sup> PUBLICA führt für jedes Vorsorgewerk getrennt Rechnung.
+<sup>1</sup> Publica führt für jedes Vorsorgewerk getrennt Rechnung.
 
-<sup>2</sup> Umfasst ein Vorsorgewerk mehrere Arbeitgeber, so kann PUBLICA auf Verlangen nach Arbeitgebern getrennt Rechnung führen. Die Arbeitgeber tragen die Mehrkosten.
+<sup>2</sup> Umfasst ein Vorsorgewerk mehrere Arbeitgeber, so kann Publica auf Verlangen nach Arbeitgebern getrennt Rechnung führen. Die Arbeitgeber tragen die Mehrkosten.
 
-<sup>3</sup> Die Rückstellungen nach Artikel 8 Absatz 2 werden der Bilanz von PUBLICA zugeordnet.
+<sup>3</sup> Die Rückstellungen nach Artikel 8 Absatz 2 werden der Bilanz von Publica zugeordnet.
 
 ## 5. Abschnitt: Übergangsbestimmungen
 
@@ -273,84 +299,20 @@ Die Kassenkommission bestimmt je eine eigene Anlagestrategie für:
 
 **Übergang der Vorsorgeverhältnisse**
 
-<sup>1</sup> Die Freizügigkeitsleistung nach dem FZG[^18-1] wird den Versicherten auf den Zeitpunkt des Inkrafttretens dieses Gesetzes als Einmaleinlage gutgeschrieben.
-
-<sup>2</sup> Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes wird für PUBLICA und jedes Vorsorgewerk je eine Eröffnungsbilanz erstellt. Diese gibt Auskunft über die Vermögenswerte, Verpflichtungen, Reserven und Rückstellungen sowie die freien Mittel.
+<sup>1 und <sup>2</sup></sup> …[^18-1]
 
 <sup>3</sup> Alle unter bisherigem Recht entstandenen Invalidenrenten sowie die reglementarischen Zuschläge zu den Renten werden unverändert übernommen. Ändern sich die individuellen Leistungsvoraussetzungen nach der Überführung, so werden die Leistungsansprüche gestützt auf die jeweils geltenden Bestimmungen beurteilt.
 
-<sup>4</sup> Versicherte, deren Rechte durch Artikel 71 Absatz 1 der Verordnung vom 24. August 1994[^18-2] über die Pensionskasse des Bundes (PKB-Statuten) geregelt werden, behalten diese auch unter dem neuen Recht. Das für die Finanzierung der Leistungen im Zeitpunkt der Pensionierung fehlende Deckungskapital ist PUBLICA von den jeweiligen Arbeitgebern zu vergüten. Diese können dafür Arbeitgeberbeitragsreserven verwenden.
+<sup>4</sup> Versicherte, deren Rechte durch Artikel 71 Absatz 1 der Verordnung vom 24. August 1994[^18-2] über die Pensionskasse des Bundes (PKB-Statuten) geregelt werden, behalten diese auch unter dem neuen Recht. Das für die Finanzierung der Leistungen im Zeitpunkt der Pensionierung fehlende Deckungskapital ist Publica von den jeweiligen Arbeitgebern zu vergüten. Diese können dafür Arbeitgeberbeitragsreserven verwenden.
 
-[^18-1]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^18-1]: Aufgehoben durch Anhang Ziff. 3 des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 [^18-2]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)]
 
-#### Art. 19
+#### Art. 19–23
 
-**Fehlbetragsschuld nach den PKB-Statuten**
+[^1923-1]
 
-<sup>1</sup> Der Bund übernimmt den Fehlbetragsanteil gemäss Schlussabrechnung der Pensionskasse des Bundes (PKB) per 31. Mai 2003 in der Höhe von 11 935 517 302 Franken.
-
-<sup>2</sup> Die von der PKB zu PUBLICA migrierten angeschlossenen Organisationen schulden PUBLICA ihren während der Geltungsdauer der PKB-Statuten[^19-1] betragsmässig festgelegten Fehlbetrag (eingefrorener Fehlbetrag). Die vor dem 1. Juni 2003 aus der PKB ausgetretenen Organisationen schulden über den beim Austritt bezahlten eingefrorenen Fehlbetrag hinaus keinen zusätzlichen Fehlbetrag. Vorbehalten bleiben spezialrechtliche Normen, welche die Übernahme des fehlenden Deckungskapitals durch den Arbeitgeber vorsehen.
-
-<sup>3</sup> Der Bund kann die Fehlbetragsschuld von einzelnen PUBLICA angeschlossenen Organisationen, die ihm besonders nahe stehen, ganz oder teilweise übernehmen, wenn die Bezahlung für die betreffende Organisation eine schwerwiegende finanzielle Härte zur Folge hat. Der Bundesrat regelt die Voraussetzungen, die Begrenzung und die Modalitäten der Übernahme.
-
-<sup>4</sup> Die vor dem 1. Juni 2003 aus der PKB ausgetretenen Arbeitgeber, bei denen während der Geltungsdauer der PKB-Statuten kein eingefrorener Fehlbetragsanteil festgelegt wurde, schulden über den beim Austritt gestützt auf Artikel 59 Absatz 3 der PKB-Statuten berechneten und fällig gewordenen Fehlbetrag hinaus keinen zusätzlichen Fehlbetrag. Vorbehalten bleiben spezialrechtliche Normen, welche die Übernahme des fehlenden Deckungskapitals durch den Arbeitgeber vorsehen.
-
-[^19-1]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533), [3705](https://fedlex.data.admin.ch/eli/oc/1995/3705_3705_3705); **1999** 2451. [AS 2004 301](https://fedlex.data.admin.ch/eli/oc/2004/14)Art. 1]
-
-#### Art. 20
-
-**Begleichung und Verzinsung der Fehlbetragsschulden**
-
-<sup>1</sup> Der Bund trägt seine Fehlbetragsschuld nach Artikel 19 Absatz 1 bis am 31. Mai 2008 ab.
-
-<sup>2</sup> Fehlbetragsschulden der PUBLICA angeschlossenen Organisationen sind innert einer mit PUBLICA vertraglich festzulegenden Frist abzutragen, längstens aber innert acht Jahren nach Inkrafttreten dieses Gesetzes.
-
-<sup>3</sup> Der Bund trägt die als Folge von Härtefällen (Art. 19 Abs. 3) übernommenen Fehlbetragsschulden innert fünf Jahren ab dem Zeitpunkt ab, in dem das Härtefallgesuch ganz oder teilweise gutgeheissen wurde.
-
-<sup>4</sup> Fehlbetragsschulden sind zum für die aktiven Versicherten jeweils geltenden technischen Zinssatz zu verzinsen.
-
-<sup>5</sup> Die dem Bund aus der Rückzahlung der Fehlbetragsschuld entstehende Belastung wird in der Bestandesrechnung des Bundes aktiviert und zu Lasten der Erfolgsrechnungen späterer Jahre abgeschrieben.
-
-#### Art. 21
-
-**Aufhebung von Bundesgarantien**
-
-<sup>1</sup>
-
-Rückwirkend erlöschen unter Vorbehalt von Absatz 2 alle Garantien gemäss Eröffnungsbilanz von PUBLICA, wonach der Bund das fehlende Deckungskapital für den Fall übernommen hat, dass:
-
-- a. PUBLICA bei Pensionierungen von weiblichen Angehörigen der Eintrittsgeneration Forderungen gegenüber angeschlossenen Organisationen gemäss Artikel 74 der Verordnung vom 25. April 2001[^21-1] über die Versicherung im Kernplan des Bundes gerichtlich nicht einbringen kann;
-- b. die neue Regelung für die freiwillige vorzeitige Pensionierung nicht auf den 1. Januar 2005 in Kraft gesetzt werden kann, bis zu deren Inkraftsetzung, spätestens jedoch bis zum Ablauf einer allfälligen Übergangsfrist;
-- c. ein rechtskräftiges Gerichtsurteil zu Ungunsten von PUBLICA oder des Bundes vorliegt, soweit der Anspruch auf die vorsorgerechtliche Leistung vor der Migration entstanden ist, namentlich im Fall von zum Migrationszeitpunkt pendenten Prozessen.
-
-<sup>2</sup> Die Bundesgarantie nach Absatz 1 Buchstabe c bleibt für Gerichtsfälle von besonderer finanzieller Tragweite bestehen. Als Gerichtsfall mit besonderer finanzieller Tragweite gilt ein Urteil, das auf Grund seines präjudiziellen Charakters die Anpassung zusätzlicher Versicherungsverhältnisse erfordert und das wegen der Höhe der fehlenden Deckungskapitalien oder wegen des für PUBLICA aus der Anpassung der Versicherungsverhältnisse entstehenden Bearbeitungsaufwandes ausserordentlich hohe Kosten verursacht.
-
-[^21-1]: [SR 172.222.034.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5514)
-
-#### Art. 22
-
-**Betriebskapital**
-
-Zur Finanzierung der betrieblich notwendigen Erstaufwendungen für die Errichtung von PUBLICA per 1. Juni 2003 bezahlt der Bund an PUBLICA einen einmaligen Betrag von 10 Millionen Franken.
-
-#### Art. 23
-
-**Einmaliger Bundesbeitrag für den Rentnerbestand**
-
-<sup>1</sup> Der Bund bezahlt PUBLICA mittels einer Einmaleinlage den erforderlichen Betrag, um den zusätzlichen Deckungskapitalbedarf auszugleichen, der sich aus der Senkung des technischen Zinssatzes nach Absatz 3 auf dem in Absatz 2 definierten Rentnerbestand am Tag des Inkrafttretens dieses Gesetzes ergibt.
-
-<sup>2</sup> Als Rentnerbestand gelten die Alters-, Invaliden- und Hinterlassenenrentnerinnen und -rentner, deren Renten spätestens am Tag vor dem Inkrafttreten dieses Gesetzes zu laufen begonnen haben. Darin eingeschlossen sind die Rentnerinnen und Rentner, die beim Austritt ihres Arbeitgebers vor dem 1. Juni 2003 bei der PKB zurück geblieben sind (geschlossene Rentnerbestände).
-
-<sup>3</sup> Der technische Zinssatz wird auf den geschlossenen Rentnerbeständen auf 3 Prozent und auf dem restlichen Rentnerbestand auf 3,5 Prozent gesenkt.
-
-<sup>4</sup> Der vom Bund nach Absatz 1 geschuldete Betrag reduziert sich um die Rückstellung, die PUBLICA für die geschlossenen Rentnerbestände gebildet hat.
-
-<sup>5</sup> PUBLICA weist die Einmaleinlage des Bundes den einzelnen Vorsorgewerken unter Beachtung der unterschiedlich hohen technischen Zinssätze (Abs. 3) sowie anteilsmässig zum Deckungskapital ihres Bestandes an Alters-, Invaliden- und Hinterlassenenrentnerinnen und -rentnern zu.
-
-<sup>6</sup> Mit der Einmaleinlage übernimmt der Bund gegenüber dem Rentnerbestand nach Absatz 2, insbesondere auch gegenüber den geschlossenen Rentnerbeständen, keine Arbeitgeberpflichten. Vorbehalten bleiben seine Verpflichtungen als Arbeitgeber gegenüber seinen eigenen Rentnerinnen und Rentnern (Art. 32*b* Abs. 1 BPG[^23-1]).
-
-[^23-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^1923-1]: Aufgehoben durch Anhang Ziff. 3 des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 24
 
@@ -381,19 +343,13 @@ Zur Finanzierung der betrieblich notwendigen Erstaufwendungen für die Errichtun
 
 **Garantie der Altersrenten für die Übergangsgeneration**
 
-Alle aktiven Versicherten, die im Zeitpunkt des Inkrafttretens dieses Gesetzes das 55., aber noch nicht das 65. Altersjahr vollendet haben, haben Anspruch auf eine statische Besitzstandsgarantie im Umfang von 95 Prozent der nach bisherigem Recht im Alter von 62 Jahren erreichbaren Altersrente, mindestens aber auf die Altersleistungen nach diesem Gesetz. Erfolgt die freiwillige vorzeitige Pensionierung vor dem vollendeten 62. Altersjahr, so wird der garantierte Anspruch versicherungsmathematisch gekürzt. Die aus der Besitzstandsgarantie resultierenden Kosten trägt PUBLICA.
+Alle aktiven Versicherten, die im Zeitpunkt des Inkrafttretens dieses Gesetzes das 55., aber noch nicht das 65. Altersjahr vollendet haben, haben Anspruch auf eine statische Besitzstandsgarantie im Umfang von 95 Prozent der nach bisherigem Recht im Alter von 62 Jahren erreichbaren Altersrente, mindestens aber auf die Altersleistungen nach diesem Gesetz. Erfolgt die freiwillige vorzeitige Pensionierung vor dem vollendeten 62. Altersjahr, so wird der garantierte Anspruch versicherungsmathematisch gekürzt. Die aus der Besitzstandsgarantie resultierenden Kosten trägt Publica.
 
 #### Art. 26
 
-**Vorbereitung des Wechsels zur Sammeleinrichtung PUBLICA**
+[^26-1]
 
-<sup>1</sup> Die Arbeitgeber und ihre Arbeitnehmenden bestimmen vor dem Inkrafttreten dieses Gesetzes ihre Vertretung im paritätischen Organ.
-
-<sup>2</sup> Das nach Absatz 1 bestellte paritätische Organ trifft die notwendigen Massnahmen, damit der Anschlussvertrag einschliesslich der Vorsorgereglemente auf den Zeitpunkt des Inkrafttretens dieses Gesetzes wirksam werden kann.
-
-<sup>3</sup> Die bisherige Kassenkommission nach PKB-Gesetz vom 23. Juni 2000[^26-1] trifft vor dem Inkrafttreten dieses Gesetzes die notwendigen Entscheide. Die Kassenkommission nach diesem Gesetz ist innert eines Jahres nach Inkrafttreten dieses Gesetzes zu bestellen. Bis sie bestellt ist, nimmt die bisherige Kassenkommission die Aufgaben nach Artikel 11 dieses Gesetzes wahr.
-
-[^26-1]: [[AS 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107); [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 13; [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369)]
+[^26-1]: Aufgehoben durch Anhang Ziff. 3 des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 

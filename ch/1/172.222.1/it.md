@@ -3,20 +3,22 @@ sr: "172.222.1"
 title: Legge federale del 20 dicembre 2006 sulla Cassa pensioni della Confederazione (Legge su Publica)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/313"
 language: it
-version: 2023-01-01
+version: 2027-01-01
 adopted: 2006-12-20
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-313-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-313-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla Cassa pensioni della Confederazione
 
-(Legge su PUBLICA)
+(Legge su Publica)[^t-1]
 
-del 20 dicembre 2006 (Stato 1° gennaio 2023)
+del 20 dicembre 2006 (Stato 1° gennaio 2027)
+
+[^t-1]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -33,23 +35,25 @@ decreta:
 
 **Oggetto**
 
-La presente legge regola l’organizzazione della Cassa pensioni della Confederazione (PUBLICA) e ne stabilisce compiti e competenze.
+La presente legge regola l’organizzazione della Cassa pensioni della Confederazione (Publica[^1-1]) e ne stabilisce compiti e competenze.
+
+[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2027. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
 **Forma giuridica e sede**
 
-<sup>1</sup> PUBLICA è un istituto di diritto pubblico della Confederazione dotato di personalità giuridica propria.
+<sup>1</sup> Publica è un istituto di diritto pubblico della Confederazione dotato di personalità giuridica propria.
 
-<sup>2</sup> PUBLICA ha sede a Berna ed è iscritta nel registro di commercio.
+<sup>2</sup> Publica ha sede a Berna ed è iscritta nel registro di commercio.
 
 #### Art. 3
 
 **Compiti**
 
-<sup>1</sup> PUBLICA assicura il personale contro le conseguenze economiche di vecchiaia, invalidità e morte. Essa attua la previdenza conformemente alla legge federale del 25 giugno 1982[^3-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e alla legge federale del 17 dicembre 1993[^3-2] sul libero passaggio (LFLP). È iscritta nel registro della previdenza professionale.
+<sup>1</sup> Publica assicura il personale contro le conseguenze economiche di vecchiaia, invalidità e morte. Essa attua la previdenza conformemente alla legge federale del 25 giugno 1982[^3-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e alla legge federale del 17 dicembre 1993[^3-2] sul libero passaggio (LFLP). È iscritta nel registro della previdenza professionale.
 
-<sup>2</sup> Il Consiglio federale può conferire a PUBLICA altri compiti, nella misura in cui sussista un nesso materiale con l’ambito dei compiti previsto dalla presente legge. La Confederazione assume le spese che ne derivano.
+<sup>2</sup> Il Consiglio federale può conferire a Publica altri compiti, nella misura in cui sussista un nesso materiale con l’ambito dei compiti previsto dalla presente legge. La Confederazione assume le spese che ne derivano.
 
 [^3-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^3-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
@@ -58,19 +62,21 @@ La presente legge regola l’organizzazione della Cassa pensioni della Confedera
 
 **Affiliazione**
 
-<sup>1</sup> Sono affiliati a PUBLICA i datori di lavoro di cui all’articolo 32*b* della legge del 24 marzo 2000[^4-1] sul personale federale (LPers).
+<sup>1</sup> Sono affiliati a Publica i datori di lavoro di cui all’articolo 32*b* della legge del 24 marzo 2000[^4-1] sul personale federale (LPers).
 
-<sup>2</sup> Possono inoltre affiliarsi a PUBLICA i datori di lavoro vicini alla Confederazione o che espletano compiti pubblici della Confederazione, di un Cantone o di un Comune. PUBLICA decide sull’affiliazione.
+<sup>2</sup> Possono inoltre affiliarsi a Publica i datori di lavoro vicini alla Confederazione o che espletano compiti pubblici della Confederazione.[^4-2] Publica decide sull’affiliazione.
 
-<sup>3</sup> L’affiliazione di un datore di lavoro a PUBLICA si effettua per contratto. I regolamenti della previdenza come pure la fissazione delle spese amministrative costituiscono parte integrante dei contratti.
+<sup>3</sup> L’affiliazione di un datore di lavoro a Publica si effettua per contratto. La fissazione delle spese amministrative costituisce parte integrante del contratto di affiliazione.[^4-3]
 
 [^4-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^4-2]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^4-3]: Nuovo testo del per. giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 5
 
 **Regresso nei confronti di terzi responsabili**
 
-PUBLICA è surrogata nei diritti dell’assicurato e dei suoi superstiti, fino a concorrenza delle prestazioni regolamentari, nei confronti di un terzo che risponde dell’evento assicurato. L’entità e la liquidazione del regresso sono disciplinate dagli articoli 72–75 della legge federale del 6 ottobre 2000[^5-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA).
+Publica è surrogata nei diritti dell’assicurato e dei suoi superstiti, fino a concorrenza delle prestazioni regolamentari, nei confronti di un terzo che risponde dell’evento assicurato. L’entità e la liquidazione del regresso sono disciplinate dagli articoli 72–75 della legge federale del 6 ottobre 2000[^5-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA).
 
 [^5-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
@@ -78,16 +84,16 @@ PUBLICA è surrogata nei diritti dell’assicurato e dei suoi superstiti, fino a
 
 **Trattamento dei dati**
 
-<sup>1</sup> PUBLICA tratta i dati personali necessari all’attuazione della previdenza professionale riguardanti gli assicurati e i loro congiunti.
+<sup>1</sup> Publica tratta i dati personali necessari all’attuazione della previdenza professionale riguardanti gli assicurati e i loro congiunti.
 
 <sup>2</sup>
 
-Se necessario all’adempimento dei compiti assegnatile, PUBLICA può trattare i seguenti dati personali particolarmente degni di protezione:
+Se necessario all’adempimento dei compiti assegnatile, Publica può trattare i seguenti dati personali particolarmente degni di protezione:
 
 - a. dati sulla salute;
 - b. dati su misure sociali e su esecuzioni per debiti.
 
-<sup>3</sup> Al fine di controllare le indicazioni fornite dagli assicurati, PUBLICA può in particolare confrontare i propri dati elettronici con quelli a disposizione di strutture previdenziali e assicurazioni sociali nel Paese e all’estero, segnatamente con quelli della Cassa federale di compensazione, dell’Ufficio centrale di compensazione, della Cassa svizzera di compensazione, dell’Assicurazione militare, dell’Istituto nazionale svizzero di assicurazione contro gli infortuni e dell’Ufficio AI per gli assicurati residenti all’estero.
+<sup>3</sup> Al fine di controllare le indicazioni fornite dagli assicurati, Publica può in particolare confrontare i propri dati elettronici con quelli a disposizione di strutture previdenziali e assicurazioni sociali nel Paese e all’estero, segnatamente con quelli della Cassa federale di compensazione, dell’Ufficio centrale di compensazione, della Cassa svizzera di compensazione, dell’Assicurazione militare, dell’Istituto nazionale svizzero di assicurazione contro gli infortuni e dell’Ufficio AI per gli assicurati residenti all’estero.
 
 <sup>4</sup>
 
@@ -104,9 +110,9 @@ La Commissione della cassa (art. 10 lett. a) disciplina:
 
 **Istituzione di casse di previdenza**
 
-<sup>1</sup> Per ogni datore di lavoro affiliato, per i suoi impiegati e per gli aventi diritto alle rendite che da esso dipendono, PUBLICA istituisce una specifica cassa di previdenza.
+<sup>1</sup> Per ogni datore di lavoro affiliato, per i suoi impiegati e per gli aventi diritto alle rendite che da esso dipendono, Publica istituisce una specifica cassa di previdenza.
 
-<sup>2</sup> PUBLICA può istituire una cassa di previdenza comune per più datori di lavoro affiliati.
+<sup>2</sup> Publica può istituire una cassa di previdenza comune per più datori di lavoro affiliati.
 
 <sup>3</sup> Possono essere istituite o mantenute casse di previdenza anche quando da un datore di lavoro dipendono soltanto aventi diritto alle rendite. Se un datore di lavoro affiliato vuole mantenere una cassa di previdenza senza avere impiegati, deve essere concluso un nuovo contratto di affiliazione.
 
@@ -118,7 +124,7 @@ La Commissione della cassa (art. 10 lett. a) disciplina:
 
 <sup>2</sup>
 
-Per l’insieme delle casse di previdenza, PUBLICA costituisce:
+Per l’insieme delle casse di previdenza, Publica costituisce:
 
 - a. un accantonamento per compensare le fluttuazioni nell’andamento dei rischi morte e invalidità, per quanto le fluttuazioni non possano essere coperte dai premi per il rischio. Sono escluse da questa compensazione le casse di previdenza senza impiegati (art. 7 cpv. 3);
 - b. un accantonamento per prestazioni in casi particolarmente gravosi.
@@ -127,13 +133,22 @@ Per l’insieme delle casse di previdenza, PUBLICA costituisce:
 
 **Organo paritetico**
 
-<sup>1</sup> Per ogni cassa di previdenza è costituito un organo paritetico composto di rappresentanti del datore di lavoro e degli impiegati. Per le casse di previdenza composte soltanto di aventi diritto alle rendite si può rinunciare all’organo paritetico se la Confederazione, un Cantone o un Comune garantiscono il versamento delle prestazioni.
+<sup>1</sup> Per ogni cassa di previdenza è costituito un organo paritetico composto di rappresentanti del datore di lavoro e degli impiegati. Per le casse di previdenza composte soltanto di aventi diritto alle rendite si può rinunciare all’organo paritetico se la Confederazione garantisce il versamento delle prestazioni.[^9-1]
 
 <sup>2</sup> La conclusione, la modifica e lo scioglimento del contratto d’affiliazione richiedono la partecipazione e il consenso dell’organo paritetico.
 
-<sup>3</sup> L’organo paritetico adempie tutti i compiti e assume tutte le competenze attribuitigli dalla presente legge, dal regolamento interno e organizzativo di PUBLICA e dal contratto di affiliazione.
+<sup>2bis</sup> Nel caso di affiliazioni secondo l’articolo 4 capoverso 1, l’organo paritetico emana, modifica o abroga il regolamento di previdenza di cui all’articolo 32*c*<sup>bis</sup> capoverso 1 LPers[^9-2], fatta salva l’approvazione della Commissione della cassa.[^9-3]
+
+<sup>2ter</sup> Nel caso di affiliazioni secondo l’articolo 4 capoverso 2, l’organo paritetico emana, modifica o abroga il regolamento di previdenza, fatta salva l’approvazione della Commissione della cassa.[^9-4]
+
+<sup>3</sup> L’organo paritetico adempie tutti i compiti e assume tutte le competenze attribuitigli dalla presente legge, dal regolamento interno e organizzativo di Publica e dal contratto di affiliazione.
 
 <sup>4</sup> Il datore di lavoro e i suoi impiegati designano i loro rappresentanti nell’organo paritetico.
+
+[^9-1]: Nuovo testo del per. giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^9-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9-3]: Introdotto dall’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^9-4]: Introdotto dall’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Sezione 3: Organizzazione
 
@@ -141,33 +156,34 @@ Per l’insieme delle casse di previdenza, PUBLICA costituisce:
 
 **Organi**
 
-PUBLICA dispone dei seguenti organi:
+Publica dispone dei seguenti organi:
 
 - a. la Commissione della cassa;
 - b. l’assemblea dei delegati;
 - c. la direzione;
-- d. l’ufficio di controllo ai sensi dell’articolo 53 capoverso 1 LPP[^10-1].
+- d.[^10-1] l’ufficio di revisione ai sensi dell’articolo 52*a* capoverso 1 LPP[^10-2].
 
-[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094). Questo art. è ora abrogato. Dal 1° gen. 2012 vedi art. 52*a* cpv. 1 LPP.
+[^10-1]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 11
 
 **Compiti della Commissione della cassa**
 
-<sup>1</sup> La Commissione della cassa è l’organo supremo di PUBLICA. Essa esercita la direzione, la vigilanza e il controllo sulla gestione di PUBLICA.
+<sup>1</sup> La Commissione della cassa è l’organo supremo di Publica. Essa esercita la direzione, la vigilanza e il controllo sulla gestione di Publica.
 
 <sup>2</sup>
 
 Inoltre, la Commissione della cassa ha segnatamente i seguenti compiti:
 
-- a. la conclusione e lo scioglimento dei contratti di affiliazione;
+- a.[^11-1] la conclusione, la modifica e lo scioglimento dei contratti di affiliazione; è fatto salvo l’articolo 14 capoverso 3;
 - b. la nomina della direzione;
 - c. la designazione dell’ufficio di controllo e dell’esperto per la previdenza professionale;
 - d. l’approvazione del conto annuale;
 - e. l’introduzione di provvedimenti di risanamento;
 - f. la decisione relativa alla costituzione di accantonamenti di cui all’articolo 8 capoverso 2;
 - g. la decisione sull’istituzione di casse di previdenza comuni (art. 7 cpv. 2);
-- h. la designazione dell’autorità interna di ricorso conformemente all’articolo 35 capoverso 1 LPers[^11-1].
+- h.[^11-2] l’approvazione dei regolamenti di previdenza; l’approvazione può essere negata soltanto se le disposizioni non sono conformi alla legge o se differiscono dalle direttive sugli obiettivi delle prestazioni oppure se il finanziamento delle prestazioni non è sufficiente.
 
 <sup>3</sup>
 
@@ -176,14 +192,19 @@ La Commissione della cassa emana segnatamente:
 - a. il regolamento interno e organizzativo;
 - b. i principi della politica in materia di rischi;
 - c. il regolamento su accantonamenti e riserve;
-- d.[^11-2] il regolamento d’investimento, comprese le strategie d’investimento (art. 15 cpv. 2);
+- d.[^11-3] il regolamento d’investimento, comprese le strategie d’investimento (art. 15 cpv. 2);
 - e. il regolamento sul trattamento dei dati (art. 6 cpv. 4);
 - f. il regolamento delle spese;
 - g. il regolamento modello della previdenza;
-- h. il contratto modello di affiliazione.
+- h. il contratto modello di affiliazione;
+- i.[^11-4] le disposizioni sul finanziamento della previdenza professionale applicabili alla cassa di previdenza Publica; sottopone tali disposizioni per approvazione al Consiglio federale;
+- j.[^11-5] le prescrizioni sugli obiettivi delle prestazioni.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^11-2]: Nuovo testo giusta il n. I 2 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6213](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^11-1]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-3]: Nuovo testo giusta la cifra I n. 2 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6213](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^11-4]: Introdotta dall’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-5]: Introdotta dall’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
@@ -191,13 +212,13 @@ La Commissione della cassa emana segnatamente:
 
 <sup>1</sup> La Commissione della cassa è composta di 16 membri; la durata del mandato dei membri è di quattro anni.
 
-<sup>2</sup> La Commissione della cassa è composta in maniera paritetica. Il numero dei rappresentanti dei datori di lavoro e degli impiegati per ogni cassa di previdenza dipende dalla quota del capitale di copertura di ciascuna cassa di previdenza nel capitale di copertura totale di PUBLICA. L’insieme delle unità amministrative federali decentralizzate ai sensi dell’articolo 32*a* capoverso 2 LPers[^12-1] e l’insieme dei datori di lavoro affiliati ai sensi dell’articolo 4 capoverso 2 della presente legge hanno diritto ad almeno un seggio ciascuno.
+<sup>2</sup> La Commissione della cassa è composta in maniera paritetica. Il numero dei rappresentanti dei datori di lavoro e degli impiegati per ogni cassa di previdenza dipende dalla quota del capitale di copertura di ciascuna cassa di previdenza nel capitale di copertura totale di Publica. L’insieme delle unità amministrative federali decentralizzate ai sensi dell’articolo 32*a* capoverso 2 LPers[^12-1] e l’insieme dei datori di lavoro affiliati ai sensi dell’articolo 4 capoverso 2 della presente legge hanno diritto ad almeno un seggio ciascuno.
 
 <sup>3</sup> I rappresentanti degli impiegati sono eletti dall’assemblea dei delegati.
 
 <sup>4</sup> I datori di lavoro designano i loro rappresentanti in seno alla Commissione della cassa. Possono unirsi e designare in comune i loro rappresentanti.
 
-<sup>5</sup> I membri della Commissione della cassa eletti dagli impiegati e dai datori di lavoro possono anche non essere assicurati di PUBLICA.
+<sup>5</sup> I membri della Commissione della cassa eletti dagli impiegati e dai datori di lavoro possono anche non essere assicurati di Publica.
 
 <sup>6</sup> La Commissione della cassa provvede alla propria costituzione. Può far capo a esperti e istituire comitati i cui membri possono anche non far parte della Commissione medesima.
 
@@ -209,11 +230,11 @@ La Commissione della cassa emana segnatamente:
 
 <sup>1</sup> L’assemblea dei delegati è composta degli impiegati dei datori di lavoro affiliati. Essa elegge i rappresentanti degli impiegati nella Commissione della cassa.
 
-<sup>2</sup> L’assemblea dei delegati può formulare proposte alla Commissione della cassa per tutte le questioni concernenti PUBLICA.
+<sup>2</sup> L’assemblea dei delegati può formulare proposte alla Commissione della cassa per tutte le questioni concernenti Publica.
 
-<sup>3</sup> Ogni anno l’assemblea dei delegati è informata sull’andamento degli affari di PUBLICA dalla Commissione della cassa e dalla direzione.
+<sup>3</sup> Ogni anno l’assemblea dei delegati è informata sull’andamento degli affari di Publica dalla Commissione della cassa e dalla direzione.
 
-<sup>4</sup> L’assemblea dei delegati è composta di 80 membri. Il numero dei delegati per cassa di previdenza dipende dalla quota del capitale di copertura di ciascuna cassa di previdenza nel capitale di copertura totale di PUBLICA. Le casse di previdenza possono unirsi e designare in comune i loro rappresentanti in seno all’assemblea dei delegati.
+<sup>4</sup> L’assemblea dei delegati è composta di 80 membri. Il numero dei delegati per cassa di previdenza dipende dalla quota del capitale di copertura di ciascuna cassa di previdenza nel capitale di copertura totale di Publica. Le casse di previdenza possono unirsi e designare in comune i loro rappresentanti in seno all’assemblea dei delegati.
 
 <sup>5</sup> La durata del mandato dei delegati è di quattro anni.
 
@@ -221,11 +242,14 @@ La Commissione della cassa emana segnatamente:
 
 **Direzione**
 
-<sup>1</sup> La direzione si occupa degli affari correnti di PUBLICA. Partecipa con funzione consultiva alle sedute della Commissione della cassa e dei suoi comitati e può presentare proposte. Nomina il personale di PUBLICA.
+<sup>1</sup> La direzione si occupa degli affari correnti di Publica. Partecipa con funzione consultiva alle sedute della Commissione della cassa e dei suoi comitati e può presentare proposte. Nomina il personale di Publica.
 
-<sup>2</sup> La direzione e il rimanente personale di PUBLICA sottostanno alla LPers[^14-1]. Sono assicurati presso PUBLICA per la previdenza professionale.
+<sup>2</sup> La direzione e il rimanente personale di Publica sottostanno alla LPers[^14-1]. Sono assicurati presso Publica per la previdenza professionale.
+
+<sup>3</sup> La direzione stipula il contratto di affiliazione a Publica e lo sottopone per approvazione al Consiglio federale.[^14-2]
 
 [^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^14-2]: Introdotto dall’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Sezione 4: Investimento del patrimonio e rendiconto
 
@@ -237,23 +261,24 @@ La Commissione della cassa emana segnatamente:
 
 <sup>2</sup>
 
-La Commissione della cassa definisce un’apposita strategia d’investimento per:
+La Commissione della cassa definisce:
 
-- a. i valori patrimoniali delle casse di previdenza di cui all’articolo 7 capoverso 1;
-- b. i valori patrimoniali delle casse di previdenza di cui all’articolo 7 capoverso 3;
-- c. gli altri valori patrimoniali di PUBLICA, in particolare gli accantonamenti di cui all’articolo 8 capoverso 2 e il capitale d’esercizio.
+- a. strategie d’investimento per i valori patrimoniali delle casse di previdenza di cui all’articolo 7 capoversi 1 e 2;
+- b. una strategia d’investimento per i valori patrimoniali delle casse di previdenza di cui all’articolo 7 capoverso 3;
+- c. una strategia d’investimento per gli altri valori patrimoniali di Publica, in particolare gli accantonamenti di cui all’articolo 8 capoverso 2 e il capitale d’esercizio.[^15-2]
 
-<sup>3</sup> Il ricavo o la perdita risultante dall’investimento del patrimonio è suddiviso ogni anno tra le singole casse di previdenza e PUBLICA, proporzionalmente alla loro quota rispettiva di patrimonio e conformemente alla strategia d’investimento determinante.
+<sup>3</sup> Il ricavo o la perdita risultante dall’investimento del patrimonio è suddiviso ogni anno tra le singole casse di previdenza e Publica, proporzionalmente alla loro quota rispettiva di patrimonio e conformemente alla strategia d’investimento determinante.
 
 <sup>4</sup> L’organo paritetico della singola cassa di previdenza decide in merito all’utilizzo delle somme che rimangono alla Cassa dopo aver effettuato gli accantonamenti e le riserve regolamentari. Nel caso delle casse di previdenza di cui all’articolo 7 capoverso 3, la Commissione della cassa decide in luogo e vece dell’organo paritetico.
 
-[^15-1]: Nuovo testo giusta il n. I 2 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6213](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^15-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6213](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^15-2]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 16
 
 **Bilancio**
 
-<sup>1</sup> PUBLICA gestisce le casse di previdenza secondo il principio del bilancio in cassa chiusa.
+<sup>1</sup> Publica gestisce le casse di previdenza secondo il principio del bilancio in cassa chiusa.
 
 <sup>2</sup> Le singole casse di previdenza possono derogare al principio del bilancio in cassa chiusa se la Confederazione, un Cantone o un Comune garantisce il versamento delle prestazioni.
 
@@ -261,11 +286,11 @@ La Commissione della cassa definisce un’apposita strategia d’investimento pe
 
 **Rendiconto**
 
-<sup>1</sup> PUBLICA tiene una contabilità separata per ogni cassa di previdenza.
+<sup>1</sup> Publica tiene una contabilità separata per ogni cassa di previdenza.
 
-<sup>2</sup> Se una cassa di previdenza comprende più datori di lavoro, PUBLICA può tenere a richiesta una contabilità separata per datore di lavoro. I datori di lavoro assumono le spese supplementari.
+<sup>2</sup> Se una cassa di previdenza comprende più datori di lavoro, Publica può tenere a richiesta una contabilità separata per datore di lavoro. I datori di lavoro assumono le spese supplementari.
 
-<sup>3</sup> Gli accantonamenti ai sensi dell’articolo 8 capoverso 2 sono annoverati nel bilancio di PUBLICA.
+<sup>3</sup> Gli accantonamenti ai sensi dell’articolo 8 capoverso 2 sono annoverati nel bilancio di Publica.
 
 ## Sezione 5: Disposizioni transitorie
 
@@ -273,84 +298,20 @@ La Commissione della cassa definisce un’apposita strategia d’investimento pe
 
 **Trasferimento dei rapporti di previdenza**
 
-<sup>1</sup> La prestazione di libero passaggio secondo la LFLP[^18-1] è accreditata agli assicurati quale versamento unico all’entrata in vigore della presente legge.
-
-<sup>2</sup> All’entrata in vigore della presente legge, per PUBLICA e per ciascuna cassa di previdenza è allestito un bilancio d’apertura. Questo bilancio informa sui valori patrimoniali, sugli obblighi, sulle riserve e sugli accantonamenti, nonché sui fondi liberi.
+<sup>1 e <sup>2</sup></sup> ...[^18-1]
 
 <sup>3</sup> Tutte le rendite d’invalidità maturate secondo il diritto previgente, nonché i supplementi regolamentari alle rendite permangono immutati. In caso di modifica delle condizioni individuali, i diritti alle prestazioni sono valutati secondo le disposizioni vigenti in quel momento.
 
-<sup>4</sup> Gli assicurati i cui diritti sono disciplinati dall’articolo 71 capoverso 1 dell’ordinanza del 24 agosto 1994[^18-2] concernente la Cassa pensioni della Confederazione (Statuti della CPC) conservano questi diritti anche con la nuova legge. I rispettivi datori di lavoro rimborsano a PUBLICA il capitale di copertura che manca per il finanziamento delle prestazioni al momento del pensionamento. A tal fine, possono utilizzare le riserve dei propri contributi.
+<sup>4</sup> Gli assicurati i cui diritti sono disciplinati dall’articolo 71 capoverso 1 dell’ordinanza del 24 agosto 1994[^18-2] concernente la Cassa pensioni della Confederazione (Statuti della CPC) conservano questi diritti anche con la nuova legge. I rispettivi datori di lavoro rimborsano a Publica il capitale di copertura che manca per il finanziamento delle prestazioni al momento del pensionamento. A tal fine, possono utilizzare le riserve dei propri contributi.
 
-[^18-1]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^18-1]: Abrogati dall’all. n. 3 della LF del 20 giu. 2025, con effetto dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 [^18-2]: [[RU 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)]
 
-#### Art. 19
+#### Art. 19–23
 
-**Debito risultante dal disavanzo secondo gli statuti della CPC**
+[^1923-1]
 
-<sup>1</sup> La Confederazione assume la quota del disavanzo secondo il bilancio finale della Cassa pensioni della Confederazione (CPC) al 31 maggio 2003 per un ammontare di 11 935 517 302 franchi.
-
-<sup>2</sup> Le organizzazioni affiliate trasferite dalla CPC a PUBLICA devono a quest’ultima il loro disavanzo determinato durante il periodo di validità degli Statuti della CPC[^19-1] (disavanzo congelato). Le organizzazioni uscite dalla CPC prima del 1° giugno 2003 non devono alcun disavanzo supplementare oltre a quello congelato versato al momento dell’uscita. Restano salve le norme speciali che prevedono l’assunzione del capitale di copertura mancante da parte del datore di lavoro.
-
-<sup>3</sup> La Confederazione può assumere, parzialmente o integralmente, il debito risultante dal disavanzo delle singole organizzazioni affiliate a PUBLICA che le sono particolarmente vicine, se il pagamento ha gravi conseguenze finanziarie per l’organizzazione interessata. Il Consiglio federale fissa le condizioni, i limiti e le modalità di tale assunzione.
-
-<sup>4</sup> I datori di lavoro usciti dalla CPC prima del 1° giugno 2003 e per i quali non è stata determinata nessuna quota congelata di disavanzo durante il periodo di validità degli Statuti della CPC non devono alcun disavanzo supplementare oltre a quello calcolato e divenuto esigibile al momento dell’uscita in base all’articolo 59 capoverso 3 degli Statuti della CPC. Restano salve le norme speciali che prevedono l’assunzione del capitale di copertura mancante da parte del datore di lavoro.
-
-[^19-1]: [[RU 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)[3705](https://fedlex.data.admin.ch/eli/oc/1995/3705_3705_3705), **1999** 2451. [RU 2004 301](https://fedlex.data.admin.ch/eli/oc/2004/14)art. 1]
-
-#### Art. 20
-
-**Pagamento e interessi del debito risultante dal disavanzo**
-
-<sup>1</sup> La Confederazione paga il proprio debito risultante dal disavanzo ai sensi dell’articolo 19 capoverso 1 entro il 31 maggio 2008.
-
-<sup>2</sup> I debiti risultanti dal disavanzo delle organizzazioni affiliate a PUBLICA devono essere estinti entro un termine da stabilire contrattualmente con PUBLICA, comunque entro otto anni dall’entrata in vigore della presente legge.
-
-<sup>3</sup> La Confederazione estingue i debiti risultanti dal disavanzo assunti per ovviare a situazioni particolarmente gravi (art. 19 cpv. 3) entro cinque anni dall’approvazione totale o parziale della relativa domanda di sostegno.
-
-<sup>4</sup> I debiti risultanti dal disavanzo sottostanno al tasso di interesse tecnico valido per gli assicurati attivi.
-
-<sup>5</sup> Gli oneri che derivano alla Confederazione dal pagamento del debito risultante dal disavanzo sono attivati nel conto capitale della Confederazione e ammortati a carico del conto economico di anni successivi.
-
-#### Art. 21
-
-**Abolizione delle garanzie della Confederazione**
-
-<sup>1</sup>
-
-Fatto salvo il capoverso 2, si estinguono con effetto retroattivo tutte le garanzie conformemente al bilancio di apertura di PUBLICA secondo cui la Confederazione assume il capitale di copertura mancante nel caso in cui:
-
-- a. per il pensionamento di donne della generazione d’entrata i cui diritti sono garantiti ai sensi dell’articolo 74 dell’ordinanza del 25 aprile 2001[^21-1] concernente l’assicurazione nel piano di base della Cassa pensioni della Confederazione, PUBLICA non possa far valere in giudizio crediti nei confronti delle organizzazioni affiliate;
-- b. le nuove norme per il pensionamento volontario anticipato non possano entrare in vigore il 1° gennaio 2005, fino alla loro entrata in vigore, comunque entro un eventuale termine di transizione;
-- c. vi sia una sentenza giudiziaria passata in giudicato avversa a PUBLICA oppure alla Confederazione, se il diritto alla prestazione previdenziale è sorto prima del trasferimento, segnatamente in caso di processi pendenti al momento del trasferimento.
-
-<sup>2</sup> La garanzia della Confederazione ai sensi del capoverso 1 lettera c sussiste per casi giudiziari di particolare importanza finanziaria. Sono casi giudiziari di particolare importanza finanziaria le sentenze che richiedono l’adeguamento di rapporti assicurativi supplementari a causa del loro carattere pregiudiziale e che a causa dell’entità dei capitali di copertura mancanti o a causa del dispendio amministrativo causato a PUBLICA dall’adeguamento dei rapporti assicurativi arrecano a PUBLICA spese straordinariamente elevate.
-
-[^21-1]: [RS 172.222.034.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5514)
-
-#### Art. 22
-
-**Capitale d’esercizio**
-
-Per finanziare le prime spese aziendali necessarie all’allestimento di PUBLICA entro il 1° giugno 2003, la Confederazione paga a PUBLICA un importo unico di 10 milioni di franchi.
-
-#### Art. 23
-
-**Contributo federale unico per l’effettivo degli aventi diritto alle rendite**
-
-<sup>1</sup> La Confederazione paga a PUBLICA, sotto forma di versamento unico, l’importo necessario per far fronte al fabbisogno supplementare di capitale di copertura risultante, il giorno dell’entrata in vigore della presente legge, dalla riduzione del tasso tecnico d’interesse secondo il capoverso 3 applicabile all’effettivo di aventi diritto alle rendite definito nel capoverso 2.
-
-<sup>2</sup> Per effettivo di aventi diritto alle rendite s’intendono le persone aventi diritto alle rendite di vecchiaia, invalidità e superstiti le cui rendite sono cominciate a decorrere il più tardi il giorno prima dell’entrata in vigore della presente legge. Ne fanno parte anche gli aventi diritto che sono rimasti affiliati alla CPC allorché il loro datore di lavoro l’ha lasciata prima del 1° giugno 2003 (effettivi chiusi di aventi diritto alle rendite).
-
-<sup>3</sup> Il tasso tecnico d’interesse si riduce al 3 per cento per gli effettivi chiusi di aventi diritto alle rendite e al 3,5 per cento per gli altri.
-
-<sup>4</sup> L’importo dovuto dalla Confederazione secondo il capoverso 1 è diminuito dell’accantonamento che PUBLICA ha costituito per gli effettivi chiusi di aventi diritto alle rendite.
-
-<sup>5</sup> PUBLICA devolve il versamento unico della Confederazione alle singole casse di previdenza tenendo conto dei diversi tassi tecnici d’interesse (cpv. 3) e proporzionalmente al capitale di copertura del loro effettivo di aventi diritto alle rendite di vecchiaia, invalidità e superstiti
-
-<sup>6</sup> Con il versamento unico la Confederazione non assume obblighi di datore di lavoro nei confronti dell’effettivo di aventi diritto alle rendite secondo il capoverso 2, in particolare nemmeno nei confronti degli effettivi chiusi. Sono fatti salvi i suoi obblighi di datore di lavoro nei confronti dei suoi propri aventi diritto alle rendite (art. 32*b* cpv. 1 LPers[^23-1]).
-
-[^23-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^1923-1]: Abrogato dall’all. n. 3 della LF del 20 giu. 2025, con effetto dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 24
 
@@ -364,7 +325,7 @@ Per finanziare le prime spese aziendali necessarie all’allestimento di PUBLICA
 
 <sup>4</sup> Il Consiglio federale può far sciogliere anticipatamente gli effettivi chiusi di aventi diritto alle rendite e trasferire nella sua cassa di previdenza i restanti aventi diritto, insieme con il capitale di copertura esistente. Anche in tal caso, gli ex datori di lavoro rimangono competenti per il finanziamento di un eventuale adeguamento straordinario al rincaro.
 
-[^24-1]: Per. introdotto dal n. I della LF del 18 mar. 2022 (Risanamento delle casse di previdenza degli effettivi chiusi di aventi diritto alle rendite), in vigore dal 1° gen. 2023 ([RU 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+[^24-1]: Per. introdotto dalla cifra I della LF del 18 mar. 2022 (Risanamento delle casse di previdenza degli effettivi chiusi di aventi diritto alle rendite), in vigore dal 1° gen. 2023 ([RU 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
 
 #### Art. 24a
 
@@ -374,26 +335,20 @@ Per finanziare le prime spese aziendali necessarie all’allestimento di PUBLICA
 
 <sup>2</sup> I contributi di risanamento sono chiesti con il preventivo della Confederazione dell’anno successivo alla presentazione dei conti annuali delle singole casse di previdenza degli effettivi chiusi di aventi diritto alle rendite.
 
-[^24a-1]: Introdotto dal n. I della LF del 18 mar. 2022 (Risanamento delle casse di previdenza degli effettivi chiusi di aventi diritto alle rendite), in vigore dal 1° gen. 2023 ([RU 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+[^24a-1]: Introdotto dalla cifra I della LF del 18 mar. 2022 (Risanamento delle casse di previdenza degli effettivi chiusi di aventi diritto alle rendite), in vigore dal 1° gen. 2023 ([RU 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
 [^24a-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 25
 
 **Garanzia delle rendite di vecchiaia per la generazione di transizione**
 
-Tutti gli assicurati attivi che all’entrata in vigore della presente legge hanno compiuto il 55° ma non ancora il 65° anno d’età hanno diritto a una garanzia statica dei diritti acquisiti pari al 95 per cento delle rendite di vecchiaia ottenibili, secondo il diritto previgente, all’età di 62 anni, ma almeno alle prestazioni di vecchiaia conformemente alla presente legge. Se il pensionamento volontario anticipato ha luogo prima del compimento del 62° anno di età, il diritto garantito è ridotto secondo canoni attuariali. PUBLICA assume i costi derivanti dalla garanzia dei diritti acquisiti.
+Tutti gli assicurati attivi che all’entrata in vigore della presente legge hanno compiuto il 55° ma non ancora il 65° anno d’età hanno diritto a una garanzia statica dei diritti acquisiti pari al 95 per cento delle rendite di vecchiaia ottenibili, secondo il diritto previgente, all’età di 62 anni, ma almeno alle prestazioni di vecchiaia conformemente alla presente legge. Se il pensionamento volontario anticipato ha luogo prima del compimento del 62° anno di età, il diritto garantito è ridotto secondo canoni attuariali. Publica assume i costi derivanti dalla garanzia dei diritti acquisiti.
 
 #### Art. 26
 
-**Preparazione al passaggio all’istituto collettore PUBLICA**
+[^26-1]
 
-<sup>1</sup> Prima dell’entrata in vigore della presente legge, i datori di lavoro e i loro impiegati designano i propri rappresentanti nell’organo paritetico.
-
-<sup>2</sup> L’organo paritetico designato conformemente al capoverso 1 adotta i provvedimenti necessari affinché il contratto di affiliazione, inclusi i regolamenti della previdenza, possa avere effetto all’entrata in vigore della presente legge.
-
-<sup>3</sup> La Commissione della cassa in carica secondo la legge del 23 giugno 2000[^26-1] sulla CPC prende le decisioni necessarie in vista dell’entrata in vigore della presente legge. La Commissione della cassa ai sensi della presente legge deve essere costituita entro un anno dall’entrata in vigore della presente legge. La Commissione della cassa secondo la legge anteriore assume i compiti di cui all’articolo 11 fino alla costituzione della Commissione della cassa secondo la presente legge.
-
-[^26-1]: [[RU 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369)]
+[^26-1]: Abrogato dall’all. n. 3 della LF del 20 giu. 2025, con effetto dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Sezione 6: Disposizioni finali
 

@@ -4,22 +4,23 @@ title: "Loi fédérale du 20 décembre 2006 régissant la Caisse fédérale de p
 short: LPublica
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/313"
 language: fr
-version: 2023-01-01
+version: 2027-01-01
 adopted: 2006-12-20
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-313-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-313-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale régissant la Caisse fédérale de pensions\*
 
-(Loi relative à PUBLICA, LPUBLICA)[^t-1]
+(Loi relative à Publica, LPublica)[^t-2][^t-1]
 
-du 20 décembre 2006 (État le 1<sup>er</sup> janvier 2023)
+du 20 décembre 2006 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -36,13 +37,15 @@ arrête:
 
 **Objet**
 
-La présente loi règle l’organisation de la Caisse fédérale de pensions (PUBLICA) et définit ses tâches et ses compétences.
+La présente loi règle l’organisation de la Caisse fédérale de pensions (Publica[^1-1]) et définit ses tâches et ses compétences.
+
+[^1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2027 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
 **Forme juridique et siège**
 
-<sup>1</sup> PUBLICA est un établissement de droit public de la Confédération doté de la personnalité juridique.
+<sup>1</sup> Publica est un établissement de droit public de la Confédération doté de la personnalité juridique.
 
 <sup>2</sup> Elle a son siège à Berne et est inscrite au registre du commerce.
 
@@ -50,9 +53,9 @@ La présente loi règle l’organisation de la Caisse fédérale de pensions (PU
 
 **Tâches**
 
-<sup>1</sup> PUBLICA assure le personnel des employeurs qui lui sont affiliés contre les conséquences économiques de la vieillesse, de l’invalidité et du décès. Elle met en œuvre la prévoyance selon la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^3-1] et la loi du 17 décembre 1993 sur le libre passage (LFLP)[^3-2]. Elle est inscrite au registre de la prévoyance professionnelle.
+<sup>1</sup> Publica assure le personnel des employeurs qui lui sont affiliés contre les conséquences économiques de la vieillesse, de l’invalidité et du décès. Elle met en œuvre la prévoyance selon la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^3-1] et la loi du 17 décembre 1993 sur le libre passage (LFLP)[^3-2]. Elle est inscrite au registre de la prévoyance professionnelle.
 
-<sup>2</sup> Le Conseil fédéral peut confier d’autres tâches à PUBLICA dans la mesure où elles ont un rapport objectif avec le champ d’activité défini par la présente loi. La Confédération prend à sa charge les frais qui en résultent.
+<sup>2</sup> Le Conseil fédéral peut confier d’autres tâches à Publica dans la mesure où elles ont un rapport objectif avec le champ d’activité défini par la présente loi. La Confédération prend à sa charge les frais qui en résultent.
 
 [^3-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^3-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
@@ -61,19 +64,21 @@ La présente loi règle l’organisation de la Caisse fédérale de pensions (PU
 
 **Affiliation**
 
-<sup>1</sup> Sont affiliés à PUBLICA les employeurs visés à l’art. 32*b* de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^4-1].
+<sup>1</sup> Sont affiliés à Publica les employeurs visés à l’art. 32*b* de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^4-1].
 
-<sup>2</sup> Peuvent également s’affilier à PUBLICA les employeurs qui sont proches de la Confédération ou qui remplissent une tâche publique pour le compte de la Confédération, d’un canton ou d’une commune. PUBLICA statue sur l’affiliation.
+<sup>2</sup> Peuvent également s’affilier à Publica les employeurs qui sont proches de la Confédération ou qui remplissent une tâche publique pour le compte de la Confédération.[^4-2] Publica statue sur l’affiliation.
 
-<sup>3</sup> L’affiliation s’effectue par la conclusion d’un contrat d’affiliation. Les règlements de prévoyance ainsi que la fixation des frais administratifs font partie intégrante de ce contrat.
+<sup>3</sup> L’affiliation s’effectue par la conclusion d’un contrat d’affiliation. La fixation des frais administratifs fait partie intégrante de ce contrat.[^4-3]
 
 [^4-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^4-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^4-3]: Nouvelle teneur de la phrase selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 5
 
 **Recours contre les tiers responsables**
 
-PUBLICA est subrogée, jusqu’à concurrence des prestations réglementaires, aux droits de l’assuré et de ses survivants contre tout tiers responsable. Le règlement et l’étendue de la subrogation sont régis par les art. 72 à 75 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^5-1].
+Publica est subrogée, jusqu’à concurrence des prestations réglementaires, aux droits de l’assuré et de ses survivants contre tout tiers responsable. Le règlement et l’étendue de la subrogation sont régis par les art. 72 à 75 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^5-1].
 
 [^5-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
@@ -81,7 +86,7 @@ PUBLICA est subrogée, jusqu’à concurrence des prestations réglementaires, a
 
 **Traitement des données**
 
-<sup>1</sup> PUBLICA traite les données personnelles des assurés et de leurs proches nécessaires à la mise en œuvre de la prévoyance professionnelle.
+<sup>1</sup> Publica traite les données personnelles des assurés et de leurs proches nécessaires à la mise en œuvre de la prévoyance professionnelle.
 
 <sup>2</sup>
 
@@ -90,7 +95,7 @@ Si l’accomplissement de ses tâches l’exige, elle peut traiter les données 
 - a. données relatives à la santé;
 - b. données relatives aux mesures sociales et aux poursuites.
 
-<sup>3</sup> Dans le but de contrôler les données des assurés, PUBLICA peut en particulier comparer ses données électroniques avec celles d’institutions de prévoyance et d’assurances sociales suisses et étrangères, notamment la Caisse fédérale de compensation, la Centrale de compensation, la Caisse suisse de compensation, l’Assu-rance militaire, la Caisse nationale suisse d’assurance en cas d’accidents et l’office AI pour les personnes résidant à l’étranger.
+<sup>3</sup> Dans le but de contrôler les données des assurés, Publica peut en particulier comparer ses données électroniques avec celles d’institutions de prévoyance et d’assurances sociales suisses et étrangères, notamment la Caisse fédérale de compensation, la Centrale de compensation, la Caisse suisse de compensation, l’Assu-rance militaire, la Caisse nationale suisse d’assurance en cas d’accidents et l’office AI pour les personnes résidant à l’étranger.
 
 <sup>4</sup>
 
@@ -107,9 +112,9 @@ La Commission de la caisse (art. 10, let. a) règle:
 
 **Constitution de caisses de prévoyance**
 
-<sup>1</sup> Pour chacun des employeurs qui lui sont affiliés, PUBLICA constitue une caisse de prévoyance regroupant l’employeur, ses employés et les bénéficiaires de rentes relevant de la prévoyance souscrite.
+<sup>1</sup> Pour chacun des employeurs qui lui sont affiliés, Publica constitue une caisse de prévoyance regroupant l’employeur, ses employés et les bénéficiaires de rentes relevant de la prévoyance souscrite.
 
-<sup>2</sup> PUBLICA peut constituer une caisse de prévoyance commune pour plusieurs employeurs affiliés.
+<sup>2</sup> Publica peut constituer une caisse de prévoyance commune pour plusieurs employeurs affiliés.
 
 <sup>3</sup> Une caisse de prévoyance peut aussi être constituée ou maintenue dans le cas d’un employeur dont ne relèvent que des bénéficiaires de rentes. Si un employeur souhaite rester affilié à une caisse de prévoyance sans avoir d’employés, un nouveau contrat d’affiliation doit être conclu.
 
@@ -121,7 +126,7 @@ La Commission de la caisse (art. 10, let. a) règle:
 
 <sup>2</sup>
 
-PUBLICA constitue pour l’ensemble des caisses de prévoyance:
+Publica constitue pour l’ensemble des caisses de prévoyance:
 
 - a. une provision destinée à compenser les fluctuations actuarielles des risques liées aux décès et aux cas d’invalidité qui ne peuvent être couvertes par les primes de risque; les caisses de prévoyance ne comptant pas d’employés (art. 7, al. 3) sont exclues;
 - b. une provision destinée aux prestations versées dans des cas de rigueur particuliers.
@@ -130,13 +135,22 @@ PUBLICA constitue pour l’ensemble des caisses de prévoyance:
 
 **Organe paritaire**
 
-<sup>1</sup> Chaque caisse de prévoyance comprend un organe paritaire composé de représentants de l’employeur et des employés. Les caisses de prévoyance qui ne comptent que des bénéficiaires de rentes sont libérées de cette obligation si la Confédération, un canton ou une commune garantit le versement des prestations.
+<sup>1</sup> Chaque caisse de prévoyance comprend un organe paritaire composé de représentants de l’employeur et des employés. Les caisses de prévoyance qui ne comptent que des bénéficiaires de rentes sont libérées de cette obligation si la Confédération garantit le versement des prestations.[^9-1]
 
 <sup>2</sup> Toute conclusion, modification ou résiliation d’un contrat d’affiliation requiert la participation et l’approbation de l’organe paritaire.
 
-<sup>3</sup> L’organe paritaire assume les tâches et les compétences que lui attribuent la présente loi, le règlement d’exploitation et d’organisation de PUBLICA et le contrat d’affiliation.
+<sup>2bis</sup> Pour les affiliations visées à l’art. 4, al. 1, l’organe paritaire édicte, modifie ou abroge le règlement de prévoyance visé à l’art. 32*c*<sup>bis</sup>, al. 1, LPers[^9-2], sous réserve de l’approbation de la commission.[^9-3]
+
+<sup>2ter</sup> Pour les affiliations visées à l’art. 4, al. 2, l’organe paritaire édicte, modifie ou résilie le règlement de prévoyance, sous réserve de l’approbation de la commission.[^9-4]
+
+<sup>3</sup> L’organe paritaire assume les tâches et les compétences que lui attribuent la présente loi, le règlement d’exploitation et d’organisation de Publica et le contrat d’affiliation.
 
 <sup>4</sup> L’employeur et ses employés désignent leurs représentants au sein de l’organe paritaire.
+
+[^9-1]: Nouvelle teneur de la phrase selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^9-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9-3]: Introduit par l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^9-4]: Introduit par l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 3 Organisation
 
@@ -144,49 +158,58 @@ PUBLICA constitue pour l’ensemble des caisses de prévoyance:
 
 **Organes**
 
-Les organes de PUBLICA sont:
+Les organes de Publica sont:[^10-1]
 
 - a. la Commission de la caisse (commission);
 - b. l’Assemblée des délégués;
 - c. la direction;
-- d. l’organe de contrôle au sens de l’art. 53, al. 1, LPP[^10-1].
+- d.[^10-2] l’organe de révision visé à l’art. 52*a*, al. 1, LPP[^10-3].
 
-[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094). Cet art. est actuellement abrogé. Depuis le 1<sup>er</sup> janv. 2012 voir art. 52*a*, al. 1, LPP.
+[^10-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 11
 
 **Tâches de la Commission**
 
-<sup>1</sup> La commission est l’organe suprême de PUBLICA. Elle en assure la direction et en surveille et contrôle la gestion.
+<sup>1</sup> La commission est l’organe suprême de Publica. Elle en assure la direction et en surveille et contrôle la gestion.
 
 <sup>2</sup>
 
-La commission a notamment les tâches suivantes:
+Elle a notamment les tâches suivantes:[^11-1]
 
-- a. conclure et résilier les contrats d’affiliation;
+- a.[^11-2] conclure, modifier et résilier les contrats d’affiliation; l’art. 14, al. 3, est réservé;
 - b. nommer la direction;
 - c. désigner l’organe de contrôle et l’expert en matière de prévoyance professionnelle;
 - d. approuver les comptes annuels;
 - e. prendre des mesures d’assainissement;
 - f. statuer sur la constitution de provisions au sens de l’art. 8, al. 2;
 - g. statuer sur la constitution de caisses de prévoyance communes (art. 7, al. 2);
-- h. désigner l’organe interne de recours visé à l’art. 35, al. 1, LPers[^11-1].
+- h.[^11-3] approuver les règlements de prévoyance; l’approbation ne peut être refusée que si les dispositions ne sont pas conformes à la loi ou s’écartent des prescriptions relatives aux objectifs de prestations ou si le financement des prestations est insuffisant.
 
 <sup>3</sup>
 
-La commission arrête en particulier:
+Elle arrête en particulier:[^11-4]
 
 - a. le règlement d’exploitation et d’organisation;
 - b. les principes de la politique de gestion des risques;
 - c. le règlement sur les provisions et les réserves;
-- d.[^11-2] le règlement sur les placements, y compris les stratégies de placement (art. 15, al. 2);
+- d.[^11-5] le règlement sur les placements, y compris les stratégies de placement (art. 15, al. 2);
 - e. le règlement sur le traitement des données (art. 6, al. 4);
 - f. le règlement sur les coûts;
 - g. le règlement-type de prévoyance;
-- h. le contrat-type d’affiliation.
+- h. le contrat-type d’affiliation;
+- i.[^11-6] les dispositions concernant le financement de la prévoyance professionnelle pour la caisse de prévoyance Publica et les soumet à l’approbation du Conseil fédéral;
+- j.[^11-7] les prescriptions relatives aux objectifs de prestations.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^11-2]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6433](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-5]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6433](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^11-6]: Introduite par l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-7]: Introduite par l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
@@ -194,13 +217,13 @@ La commission arrête en particulier:
 
 <sup>1</sup> La commission est composée de 16 membres nommés pour quatre ans.
 
-<sup>2</sup> La commission est composée de manière paritaire. Le nombre de représentants des employeurs et des employés par caisse de prévoyance est déterminé en fonction de la part de la réserve mathématique de cette caisse dans la réserve mathématique globale de PUBLICA. Un siège au moins revient respectivement à l’ensemble des unités administratives de l’administration fédérale décentralisée au sens de l’art. 32*a*, al. 2, LPers[^12-1] et à l’ensemble des employeurs affiliés au sens de l’art. 4, al. 2, de la présente loi.
+<sup>2</sup> La commission est composée de manière paritaire. Le nombre de représentants des employeurs et des employés par caisse de prévoyance est déterminé en fonction de la part de la réserve mathématique de cette caisse dans la réserve mathématique globale de Publica. Un siège au moins revient respectivement à l’ensemble des unités administratives de l’administration fédérale décentralisée au sens de l’art. 32*a*, al. 2, LPers[^12-1] et à l’ensemble des employeurs affiliés au sens de l’art. 4, al. 2, de la présente loi.
 
 <sup>3</sup> Les représentants des employés sont élus par l’Assemblée des délégués.
 
 <sup>4</sup> Les employeurs désignent leurs représentants. Ils peuvent se regrouper et désigner des représentants communs.
 
-<sup>5</sup> Les membres désignés par les employés et les employeurs ne doivent pas obligatoirement être assurés auprès de PUBLICA.
+<sup>5</sup> Les membres désignés par les employés et les employeurs ne doivent pas obligatoirement être assurés auprès de Publica.
 
 <sup>6</sup> La commission se constitue elle-même. Elle peut faire appel à des spécialistes et créer des comités, dont les membres ne sont pas tenus de siéger dans la commission.
 
@@ -212,11 +235,11 @@ La commission arrête en particulier:
 
 <sup>1</sup> L’Assemblée des délégués est composée d’employés des employeurs affiliés. Elle élit les représentants des employés à la commission.
 
-<sup>2</sup> Elle peut faire des propositions à la commission pour tout ce qui a trait à PUBLICA.
+<sup>2</sup> Elle peut faire des propositions à la commission pour tout ce qui a trait à Publica.
 
 <sup>3</sup> Elle est informée chaque année de la marche des affaires par la commission et la direction.
 
-<sup>4</sup> Elle comprend 80 membres. Le nombre de délégués pour une caisse de prévoyance donnée est déterminé en fonction de la part de la réserve mathématique de cette caisse dans la réserve mathématique globale de PUBLICA. Les caisses de prévoyance peuvent se regrouper et désigner des représentants communs.
+<sup>4</sup> Elle comprend 80 membres. Le nombre de délégués pour une caisse de prévoyance donnée est déterminé en fonction de la part de la réserve mathématique de cette caisse dans la réserve mathématique globale de Publica. Les caisses de prévoyance peuvent se regrouper et désigner des représentants communs.
 
 <sup>5</sup> Les délégués sont nommés pour quatre ans.
 
@@ -224,11 +247,14 @@ La commission arrête en particulier:
 
 **Direction**
 
-<sup>1</sup> La direction gère les affaires courantes de PUBLICA. Elle participe à titre consultatif aux séances de la commission et de ses comités et peut formuler des propositions. Elle nomme le personnel de PUBLICA.
+<sup>1</sup> La direction gère les affaires courantes de Publica. Elle participe à titre consultatif aux séances de la commission et de ses comités et peut formuler des propositions. Elle nomme le personnel de Publica.
 
-<sup>2</sup> La direction et le reste du personnel de PUBLICA sont soumis à la LPers[^14-1]. Ils sont assurés auprès de PUBLICA pour leur prévoyance professionnelle.
+<sup>2</sup> La direction et le reste du personnel de Publica sont soumis à la LPers[^14-1]. Ils sont assurés auprès de Publica pour leur prévoyance professionnelle.
+
+<sup>3</sup> La direction conclut le contrat d’affiliation à Publica et le soumet à l’approbation du Conseil fédéral.[^14-2]
 
 [^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^14-2]: Introduit par l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 4 Placement de la fortune et présentation des comptes
 
@@ -240,23 +266,24 @@ La commission arrête en particulier:
 
 <sup>2</sup>
 
-La commission définit une stratégie de placement distincte pour:
+La commission détermine:
 
-- a. les avoirs des caisses de prévoyance au sens de l’art. 7, al. 1;
-- b. les avoirs des caisses de prévoyance au sens de l’art. 7, al. 3;
-- c. les autres éléments de la fortune de PUBLICA, notamment les provisions au sens de l’art. 8, al. 2, et le capital d’exploitation.
+- a. les stratégies de placement pour les avoirs des caisses de prévoyance visées à l’art. 7, al. 1 et 2;
+- b. une stratégie de placement pour les avoirs des caisses de prévoyance visées à l’art. 7, al. 3;
+- c. une stratégie de placement pour les autres avoirs de Publica, notamment les provisions au sens de l’art. 8, al. 2, et le capital d’exploitation.[^15-2]
 
-<sup>3</sup> Les revenus ou les pertes découlant du placement de la fortune sont répartis chaque année entre les diverses caisses de prévoyance et PUBLICA, en fonction de leur part à la fortune et de la stratégie de placement.
+<sup>3</sup> Les revenus ou les pertes découlant du placement de la fortune sont répartis chaque année entre les diverses caisses de prévoyance et Publica, en fonction de leur part à la fortune et de la stratégie de placement.
 
 <sup>4</sup> L’organe paritaire de chaque caisse de prévoyance détermine l’affectation des revenus dont la caisse dispose après alimentation de ses provisions et réserves réglementaires. Pour les caisses de prévoyance au sens de l’art. 7, al. 3, la commission décide en lieu et place de l’organe paritaire.
 
 [^15-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6433](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 16
 
 **Bilan**
 
-<sup>1</sup> PUBLICA gère les caisses de prévoyance selon le principe du bilan en caisse fermée.
+<sup>1</sup> Publica gère les caisses de prévoyance selon le principe du bilan en caisse fermée.
 
 <sup>2</sup> Une caisse de prévoyance peut déroger au principe du bilan en caisse fermée si la Confédération, un canton ou une commune garantit le versement des prestations.
 
@@ -264,11 +291,11 @@ La commission définit une stratégie de placement distincte pour:
 
 **Présentation des comptes**
 
-<sup>1</sup> PUBLICA tient une comptabilité séparée pour chacune des caisses de prévoyance qui lui sont affiliées.
+<sup>1</sup> Publica tient une comptabilité séparée pour chacune des caisses de prévoyance qui lui sont affiliées.
 
-<sup>2</sup> Si une caisse de prévoyance regroupe plusieurs employeurs, PUBLICA peut tenir une comptabilité séparée pour les employeurs qui le demandent. Les employeurs prennent à leur charge les frais supplémentaires qui en résultent.
+<sup>2</sup> Si une caisse de prévoyance regroupe plusieurs employeurs, Publica peut tenir une comptabilité séparée pour les employeurs qui le demandent. Les employeurs prennent à leur charge les frais supplémentaires qui en résultent.
 
-<sup>3</sup> Les provisions au sens de l’art. 8, al. 2, sont portées au bilan de PUBLICA.
+<sup>3</sup> Les provisions au sens de l’art. 8, al. 2, sont portées au bilan de Publica.
 
 ## Section 5 Dispositions transitoires
 
@@ -276,84 +303,20 @@ La commission définit une stratégie de placement distincte pour:
 
 **Transfert des rapports de prévoyance**
 
-<sup>1</sup> À l’entrée en vigueur de la présente loi, la prestation de libre passage selon la LFLP[^18-1] est portée au crédit des assurés sous la forme d’un versement unique.
-
-<sup>2</sup> À l’entrée en vigueur de la présente loi, un bilan d’ouverture est établi pour PUBLICA et pour chacune des caisses de prévoyance. Il indique les avoirs, les engagements, les réserves, les provisions et les fonds libres.
+<sup>1 et <sup>2</sup></sup> …[^18-1]
 
 <sup>3</sup> Les rentes d’invalidité qui ont pris naissance sous l’ancien droit, ainsi que les suppléments réglementaires qui y sont liés sont repris tels quels. Si les conditions de prestations changent après le transfert, le droit aux prestations est évalué selon les dispositions en vigueur à ce moment-là.
 
-<sup>4</sup> Les assurés dont les droits sont régis par l’art. 71, al. 1, de l’ordonnance du 24 août 1994 régissant la Caisse fédérale de pensions (statuts de la CFP)[^18-2] conservent ces droits après l’entrée en vigueur du nouveau droit. Si la réserve mathématique ne suffit pas pour financer les prestations dues au moment du départ à la retraite, l’employeur concerné verse à PUBLICA le montant manquant. Il peut utiliser à cet effet ses réserves de cotisations patronales.
+<sup>4</sup> Les assurés dont les droits sont régis par l’art. 71, al. 1, de l’ordonnance du 24 août 1994 régissant la Caisse fédérale de pensions (statuts de la CFP)[^18-2] conservent ces droits après l’entrée en vigueur du nouveau droit. Si la réserve mathématique ne suffit pas pour financer les prestations dues au moment du départ à la retraite, l’employeur concerné verse à Publica le montant manquant. Il peut utiliser à cet effet ses réserves de cotisations patronales.
 
-[^18-1]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^18-1]: Abrogés par l’annexe ch. 3 de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 [^18-2]: [[RO 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)]
 
-#### Art. 19
+#### Art. 19 à 23
 
-**Dette sur le découvert technique selon les statuts de la CFP**
+[^1923-1]
 
-<sup>1</sup> La Confédération prend à sa charge la part du découvert technique figurant dans le décompte final établi au 31 mai 2003 par la Caisse fédérale de pensions (CFP), à savoir 11 935 517 302 francs.
-
-<sup>2</sup> Les organisations affiliées transférées de la CFP à PUBLICA sont débitrices envers celle-ci de leur découvert technique gelé, fixé pendant la durée de validité des statuts de la CFP[^19-1]. Les organisations sorties de la CFP avant le 1<sup>er</sup> juin 2003 ne sont débitrices d’aucun autre découvert technique que le découvert technique gelé au moment de la sortie. Les normes spéciales prévoyant la prise en charge de la réserve mathématique manquante par l’employeur sont réservées.
-
-<sup>3</sup> La Confédération peut prendre à sa charge tout ou partie du découvert technique dû par une organisation affiliée à PUBLICA qui lui est particulièrement proche si le paiement a des conséquences financières sérieuses pour cette organisation. Le Conseil fédéral fixe les conditions, les limites et les modalités de la prise en charge.
-
-<sup>4</sup> Les employeurs sortis de la CFP avant le 1<sup>er</sup> juin 2003 pour lesquels aucune part gelée au découvert technique n’a été fixée pendant la durée de validité des statuts de la CFP ne sont débiteurs d’aucun autre découvert technique que le découvert technique exigible calculé au moment de la sortie, conformément à l’art. 59, al. 3, des statuts de la CFP. Les normes spéciales prévoyant la prise en charge de la réserve mathématique manquante par l’employeur sont réservées.
-
-[^19-1]: [[RO 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)[3705](https://fedlex.data.admin.ch/eli/oc/1995/3705_3705_3705), **1999** 2451. [RO 2004 301](https://fedlex.data.admin.ch/eli/oc/2004/14)art. 1]
-
-#### Art. 20
-
-**Règlement et rémunération des dettes sur le découvert technique**
-
-<sup>1</sup> La Confédération rembourse jusqu’au 31 mai 2008 ses dettes sur le découvert technique au sens de l’art. 19, al. 1.
-
-<sup>2</sup> Les dettes sur le découvert technique des organisations affiliées à PUBLICA doivent être remboursées dans un délai fixé par contrat avec PUBLICA, ce délai ne devant pas dépasser huit ans à compter de l’entrée en vigueur de la présente loi.
-
-<sup>3</sup> La Confédération rembourse les dettes sur le découvert technique prises en charge lors de conséquences financières sérieuses au sens de l’art. 19, al. 3, dans les cinq ans à compter de l’approbation partielle ou intégrale de la demande y relative.
-
-<sup>4</sup> Les dettes sur le découvert technique portent intérêt au taux d’intérêt technique applicable aux assurés actifs.
-
-<sup>5</sup> La charge que représente pour la Confédération le remboursement de la dette sur le découvert technique est portée à l’actif du bilan; elle est amortie les années suivantes dans le compte de résultats.
-
-#### Art. 21
-
-**Suppression de garanties de la Confédération**
-
-<sup>1</sup>
-
-Sous réserve de l’al. 2, sont supprimées avec effet rétroactif les garanties qui prévoyaient dans le bilan d’ouverture de PUBLICA que la Confédération prendrait à sa charge la réserve mathématique manquante:
-
-- a. au cas où PUBLICA ne parviendrait pas à recouvrer par la voie judiciaire ses créances envers des organisations affiliées lors du départ à la retraite de femmes bénéficiant de la garantie de droits prévue à l’art. 74 de l’ordonnance du 25 avril 2001 relative à l’assurance dans le plan de base de la Caisse fédérale de pensions[^21-1];
-- b. au cas où les nouvelles dispositions relatives à la retraite anticipée volontaire ne pourraient pas entrer en vigueur le 1<sup>er</sup> janvier 2005: jusqu’à leur entrée en vigueur, mais au plus tard jusqu’à l’expiration d’un éventuel délai transitoire;
-- c. au cas où un droit à une prestation de prévoyance ayant pris naissance avant le transfert aurait été confirmé par un jugement exécutoire en défaveur de PUBLICA ou de la Confédération, notamment dans le cas d’un procès qui aurait été en cours au moment du transfert.
-
-<sup>2</sup> La garantie de la Confédération au sens de l’al. 1, let. c, continue de s’appliquer aux litiges d’une grande portée financière. Sont réputés tels les jugements qui, en raison de leur caractère de précédent, exigent l’adaptation des conditions d’assurance et qui, du fait du montant de la réserve mathématique manquante ou du travail généré au sein de PUBLICA par l’adaptation des conditions d’assurance, entraînent des frais extraordinairement élevés.
-
-[^21-1]: [RS 172.222.034.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5514)
-
-#### Art. 22
-
-**Capital d’exploitation**
-
-La Confédération verse à PUBLICA un montant unique de 10 millions de francs servant à financer les frais d’exploitation initiaux nécessaires à la création de PUBLICA au 1<sup>er</sup> juin 2003.
-
-#### Art. 23
-
-**Versement unique de la Confédération au profit de l’effectif des bénéficiaires de rentes**
-
-<sup>1</sup> La Confédération paie à PUBLICA, sous la forme d’un versement unique, le montant nécessaire pour combler le découvert technique découlant, le jour de l’entrée en vigueur de la présente loi, de l’abaissement visé à l’al. 3 du taux d’intérêt technique applicable à l’effectif des bénéficiaires de rentes défini à l’al. 2.
-
-<sup>2</sup> L’effectif des bénéficiaires de rentes est composé des bénéficiaires de rentes de vieillesse, d’invalidité ou de survivants dont les rentes ont commencé avant l’entrée en vigueur de la présente loi, y compris les bénéficiaires de rentes restés affiliés à la CFP alors que leur employeur l’a quittée avant le 1<sup>er</sup> juin 2003 (effectifs fermés de bénéficiaires de rentes).
-
-<sup>3</sup> Le taux d’intérêt technique est abaissé à 3 % pour les effectifs fermés de bénéficiaires de rentes et à 3,5 % pour tous les autres bénéficiaires de rentes.
-
-<sup>4</sup> Le montant dû par la Confédération en vertu de l’al. 1 est réduit du montant de la provision constituée par PUBLICA pour les effectifs fermés de bénéficiaires de rentes.
-
-<sup>5</sup> PUBLICA répartit le versement unique de la Confédération entre les diverses caisses de prévoyance, au prorata des divers taux d’intérêt technique (al. 3) et de la réserve mathématique de leur effectif de bénéficiaires de rentes de vieillesse, d’invalidité et de survivants.
-
-<sup>6</sup> La Confédération n’assume du fait de ce versement unique aucune obligation d’employeur à l’égard de l’effectif des bénéficiaires de rentes au sens de l’al. 2, en particulier à l’égard des effectifs fermés de bénéficiaires de rentes. Ses obligations d’employeur à l’égard de ses propres bénéficiaires de rentes (art. 32*b*, al. 1, LPers[^23-1]) sont réservées.
-
-[^23-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^1923-1]: Abrogés par l’annexe ch. 3 de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 24
 
@@ -384,19 +347,13 @@ La Confédération verse à PUBLICA un montant unique de 10 millions de francs s
 
 **Garantie des rentes de vieillesse de la génération de transition**
 
-Tous les assurés actifs qui ont atteint 55 ans mais n’ont pas encore 65 ans lors de l’entrée en vigueur de la présente loi ont droit à une garantie statique des acquis représentant 95 % de la rente de vieillesse qu’ils auraient perçue à 62 ans en vertu de l’ancien droit, mais au moins aux prestations de vieillesse prévues par la présente loi. Si la retraite anticipée volontaire survient avant l’âge de 62 ans, le droit garanti est réduit de manière actuarielle. PUBLICA prend en charge les coûts découlant de la garantie des acquis.
+Tous les assurés actifs qui ont atteint 55 ans mais n’ont pas encore 65 ans lors de l’entrée en vigueur de la présente loi ont droit à une garantie statique des acquis représentant 95 % de la rente de vieillesse qu’ils auraient perçue à 62 ans en vertu de l’ancien droit, mais au moins aux prestations de vieillesse prévues par la présente loi. Si la retraite anticipée volontaire survient avant l’âge de 62 ans, le droit garanti est réduit de manière actuarielle. Publica prend en charge les coûts découlant de la garantie des acquis.
 
 #### Art. 26
 
-**Préparatifs du passage à l’institution collective PUBLICA**
+[^26-1]
 
-<sup>1</sup> L’employeur et ses employés désignent leurs représentants au sein de l’organe paritaire avant l’entrée en vigueur de la présente loi.
-
-<sup>2</sup> L’organe paritaire formé conformément à l’al. 1 prend les mesures nécessaires pour que le contrat d’affiliation et les règlements de prévoyance puissent prendre effet à l’entrée en vigueur de la présente loi.
-
-<sup>3</sup> L’ancienne Commission de la caisse au sens de la loi du 23 juin 2000 sur la CFP[^26-1] prend avant l’entrée en vigueur de la présente loi les décisions nécessaires. La commission au sens de la présente loi doit être constituée dans un délai d’un an à compter de l’entrée en vigueur de cette dernière. Jusqu’à la constitution de cette commission, l’ancienne Commission de la caisse assume les tâches prévues à l’art. 11 de la présente loi.
-
-[^26-1]: [[RO 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369)]
+[^26-1]: Abrogé par l’annexe ch. 3 de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 6 Dispositions finales
 
