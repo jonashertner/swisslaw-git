@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 1990 über die Harmonisierung der direkten
 short: StHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: de
-version: 2028-01-01
+version: 2029-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20280101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20290101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20290101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de"
 
 (Steuerharmonisierungsgesetz, StHG)[^t-1]
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2028)
+vom 14. Dezember 1990 (Stand am 1. Januar 2029)
 
 [^t-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -178,21 +178,21 @@ Die Steuer nach dem Aufwand muss mindestens gleich hoch sein wie die Summe der n
 
 **Grundsatz**
 
-<sup>1</sup> Der Einkommenssteuer unterliegen alle wiederkehrenden und einmaligen Einkünfte, insbesondere solche aus unselbständiger und selbständiger Erwerbstätigkeit, aus Vermögensertrag, eingeschlossen die Eigennutzung von Grundstücken, aus Vorsorgeeinrichtungen sowie aus Leibrenten. Die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung[^7-1], einschliesslich Umschulungskosten, stellen unabhängig von deren Höhe keine steuerbaren Einkünfte dar. Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen (einschliesslich Gratisaktien, Gratisnennwerterhöhungen u. dgl.) sind im Umfang von 50 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.[^7-2] Die Kantone können eine höhere Besteuerung vorsehen.[^7-3] [^7-4]
+<sup>1</sup> Der Einkommenssteuer unterliegen alle wiederkehrenden und einmaligen Einkünfte, insbesondere solche aus unselbstständiger und selbstständiger Erwerbstätigkeit, aus Vermögensertrag, aus Vorsorgeeinrichtungen sowie aus Leibrenten.[^7-1] Die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung[^7-2], einschliesslich Umschulungskosten, stellen unabhängig von deren Höhe keine steuerbaren Einkünfte dar. Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen (einschliesslich Gratisaktien, Gratisnennwerterhöhungen u. dgl.) sind im Umfang von 50 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.[^7-3] Die Kantone können eine höhere Besteuerung vorsehen.[^7-4] [^7-5]
 
-<sup>1bis</sup> Ein bei der Rückgabe von Beteiligungsrechten im Sinne von Artikel 4*a* des Bundesgesetzes vom 13. Oktober 1965[^7-5] über die Verrechnungssteuer an die Kapitalgesellschaft oder Genossenschaft erzielter Vermögensertrag gilt in dem Jahr als realisiert, in welchem die Verrechnungssteuerforderung entsteht (Art. 12 Abs. 1 und 1<sup>bis</sup> des BG vom 13. Okt. 1965 über die Verrechnungssteuer).[^7-6]
+<sup>1bis</sup> Ein bei der Rückgabe von Beteiligungsrechten im Sinne von Artikel 4*a* des Bundesgesetzes vom 13. Oktober 1965[^7-6] über die Verrechnungssteuer an die Kapitalgesellschaft oder Genossenschaft erzielter Vermögensertrag gilt in dem Jahr als realisiert, in welchem die Verrechnungssteuerforderung entsteht (Art. 12 Abs. 1 und 1<sup>bis</sup> des BG vom 13. Okt. 1965 über die Verrechnungssteuer).[^7-7]
 
-<sup>1ter</sup> Erträge aus rückkaufsfähigen Kapitalversicherungen mit Einmalprämie sind im Erlebensfall oder bei Rückkauf steuerbar, ausser wenn diese Kapitalversicherungen der Vorsorge dienen. Als der Vorsorge dienend gilt die Auszahlung der Versicherungsleistung ab dem vollendeten 60. Altersjahr des Versicherten auf Grund eines mindestens fünfjährigen Vertragsverhältnisses, das vor Vollendung des 66. Altersjahres begründet wurde. In diesem Fall ist die Leistung steuerfrei.[^7-7]
+<sup>1ter</sup> Erträge aus rückkaufsfähigen Kapitalversicherungen mit Einmalprämie sind im Erlebensfall oder bei Rückkauf steuerbar, ausser wenn diese Kapitalversicherungen der Vorsorge dienen. Als der Vorsorge dienend gilt die Auszahlung der Versicherungsleistung ab dem vollendeten 60. Altersjahr des Versicherten auf Grund eines mindestens fünfjährigen Vertragsverhältnisses, das vor Vollendung des 66. Altersjahres begründet wurde. In diesem Fall ist die Leistung steuerfrei.[^7-8]
 
-<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de/xml/image/image1.png)
+<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/de/xml/image/image2.png)
 
 Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
 
 - a.
 
-  Bei garantierten Leistungen aus Leibrentenversicherungen, die dem Versicherungsvertragsgesetz vom 2. April 1908[^7-8] (VVG) unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Artikel 36 Absatz 1 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^7-9] bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  Bei garantierten Leistungen aus Leibrentenversicherungen, die dem Versicherungsvertragsgesetz vom 2. April 1908[^7-9] (VVG) unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Artikel 36 Absatz 1 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^7-10] bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
 
   - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt:
 
@@ -207,9 +207,9 @@ Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im U
 
   - 1\. Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt:
 
-- 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.[^7-10]
+- 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.[^7-11]
 
-<sup>3</sup> Einkünfte aus Anteilen an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^7-11] (KAG) werden den Anlegern anteilsmässig zugerechnet; Einkünfte aus Anteilen an kollektiven Kapitalanlagen mit direktem Grundbesitz sind nur steuerbar, soweit die Gesamterträge die Erträge aus direktem Grundbesitz übersteigen.[^7-12]
+<sup>3</sup> Einkünfte aus Anteilen an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^7-12] (KAG) werden den Anlegern anteilsmässig zugerechnet; Einkünfte aus Anteilen an kollektiven Kapitalanlagen mit direktem Grundbesitz sind nur steuerbar, soweit die Gesamterträge die Erträge aus direktem Grundbesitz übersteigen.[^7-13]
 
 <sup>4</sup>
 
@@ -218,42 +218,43 @@ Steuerfrei sind nur:
 - a. der Erlös aus Bezugsrechten, sofern die Vermögensrechte zum Privatvermögen gehören;
 - b. Kapitalgewinne auf beweglichem Privatvermögen; vorbehalten bleibt Artikel 12 Absatz 2 Buchstaben a und d;
 - c. Vermögensanfall infolge Erbschaft, Vermächtnis, Schenkung oder güterrechtlicher Auseinandersetzung;
-- d.[^7-13] der Vermögensanfall aus rückkaufsfähiger privater Kapitalversicherung, ausgenommen aus Freizügigkeitspolicen. Absatz 1<sup>ter</sup> bleibt vorbehalten;
+- d.[^7-14] der Vermögensanfall aus rückkaufsfähiger privater Kapitalversicherung, ausgenommen aus Freizügigkeitspolicen. Absatz 1<sup>ter</sup> bleibt vorbehalten;
 - e. Kapitalzahlungen, die bei Stellenwechsel vom Arbeitgeber oder von Einrichtungen der beruflichen Vorsorge ausgerichtet werden, wenn sie der Empfänger innert Jahresfrist zum Einkauf in eine Einrichtung der beruflichen Vorsorge oder zum Erwerb einer Freizügigkeitspolice verwendet;
 - f. Unterstützungen aus öffentlichen oder privaten Mitteln;
 - g. Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die vom geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten erhaltenen Unterhaltsbeiträge sowie die Unterhaltsbeiträge, die ein Elternteil für die unter seiner elterlichen Sorge stehenden Kinder erhält;
-- h.[^7-14] der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
-- h<sup>bis</sup>.[^7-15] der Sold der Milizfeuerwehrleute bis zu einem nach kantonalem Recht bestimmten jährlichen Betrag für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+- h.[^7-15] der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
+- h<sup>bis</sup>.[^7-16] der Sold der Milizfeuerwehrleute bis zu einem nach kantonalem Recht bestimmten jährlichen Betrag für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - i. Zahlungen von Genugtuungssummen;
 - k. Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
-- l.[^7-16] die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017[^7-17] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- l<sup>bis</sup>.[^7-18] die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken oder zu einem nach kantonalem Recht bestimmten höheren Betrag aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
-- l<sup>ter</sup>.[^7-19] die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- m.[^7-20] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die nach kantonalem Recht bestimmte Grenze nicht überschritten wird;
-- n.[^7-21] Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020[^7-22] über Überbrückungsleistungen für ältere Arbeitslose.
+- l.[^7-17] die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017[^7-18] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
+- l<sup>bis</sup>.[^7-19] die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken oder zu einem nach kantonalem Recht bestimmten höheren Betrag aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- l<sup>ter</sup>.[^7-20] die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
+- m.[^7-21] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die nach kantonalem Recht bestimmte Grenze nicht überschritten wird;
+- n.[^7-22] Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020[^7-23] über Überbrückungsleistungen für ältere Arbeitslose.
 
-[^7-1]: Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den französischen und den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^7-2]: Fassung des dritten Satz gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^7-3]: Vierter Satz eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^7-4]: Fassung gemäss Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behan lung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^7-5]: [SR 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
-[^7-6]: Eingefügt durch Ziff. I 2 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^7-7]: Eingefügt durch Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
-[^7-8]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
-[^7-9]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
-[^7-10]: Fassung gemäss Ziff. I 2 des BG vom 17. Juni 2022 über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen, in Kraft seit 1. Jan. 2025 ([AS 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [BBl 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
-[^7-11]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
-[^7-12]: Fassung gemäss Anhang Ziff. II 7 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^7-13]: Fassung gemäss Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
-[^7-14]: Fassung gemäss Anhang Ziff. 8 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^7-15]: Eingefügt durch Ziff. I 2 des BG vom 27. Juni 2011 über die Steuerbefreiung des Feuerwehrsoldes, in Kraft seit 1. Jan. 2013 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)).
-[^7-16]: Eingefügt durch Anhang Ziff. 3 des Spielbankengesetzes vom 18. Dez. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Fassung gemäss Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-17]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
-[^7-18]: Eingefügt durch Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-1]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^7-2]: Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den französischen und den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^7-3]: Fassung des dritten Satz gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7-4]: Vierter Satz eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^7-5]: Fassung gemäss Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behan lung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^7-6]: [SR 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
+[^7-7]: Eingefügt durch Ziff. I 2 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^7-8]: Eingefügt durch Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
+[^7-9]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^7-10]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^7-11]: Fassung gemäss Ziff. I 2 des BG vom 17. Juni 2022 über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen, in Kraft seit 1. Jan. 2025 ([AS 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [BBl 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
+[^7-12]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^7-13]: Fassung gemäss Anhang Ziff. II 7 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^7-14]: Fassung gemäss Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
+[^7-15]: Fassung gemäss Anhang Ziff. 8 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^7-16]: Eingefügt durch Ziff. I 2 des BG vom 27. Juni 2011 über die Steuerbefreiung des Feuerwehrsoldes, in Kraft seit 1. Jan. 2013 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)).
+[^7-17]: Eingefügt durch Anhang Ziff. 3 des Spielbankengesetzes vom 18. Dez. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Fassung gemäss Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-18]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^7-19]: Eingefügt durch Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-20]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über die Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-21]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^7-22]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^7-20]: Eingefügt durch Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-21]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über die Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-22]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^7-23]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 #### Art. 7a
 
@@ -398,7 +399,7 @@ Für das Einkommen aus Patenten und vergleichbaren Rechten bei selbstständiger 
 
 Allgemeine Abzüge sind:
 
-- a.[^9-2] die privaten Schuldzinsen im Umfang des nach den Artikeln 7 und 7*a* steuerbaren Vermögensertrages und weiterer 50 000 Franken;
+- a.[^9-2] die privaten Schuldzinsen im Verhältnis aller im Kanton gelegenen unbeweglichen Vermögenswerte, mit Ausnahme der Liegenschaften oder Liegenschaftsteile, die der steuerpflichtigen Person aufgrund von Eigentum oder eines unentgeltlichen Nutzungsrechts für den Eigengebrauch zur Verfügung stehen, zu den gesamten Vermögenswerten;
 - b.[^9-3] die dauernden Lasten sowie der Ertragsanteil nach Artikel 7 Absatz 2 Buchstabe c der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c. die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrenntlebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlichen Sorge stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d.[^9-4] die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
@@ -426,19 +427,14 @@ Allgemeine Abzüge sind:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
-<sup>3</sup>
+<sup>3</sup> Bei Liegenschaften im Privatvermögen können die Kantone Abzüge für Denkmalpflege vorsehen. Abziehbar sind die nicht durch Subventionen gedeckten Kosten denkmalpflegerischer Arbeiten, sofern die steuerpflichtige Person solche Massnahmen aufgrund gesetzlicher Vorschriften, im Einvernehmen mit den Behörden oder auf deren Anordnung hin, vorgenommen hat.[^9-14]
 
-Bei Liegenschaften im Privatvermögen können die Unterhaltskosten, die Kosten der Instandstellung von neu erworbenen Liegenschaften, die Versicherungsprämien und die Kosten der Verwaltung durch Dritte abgezogen werden. Zudem können die Kantone Abzüge für Umweltschutz, Energiesparen und Denkmalpflege vorsehen. Bei den drei letztgenannten Abzügen gilt folgende Regelung:[^9-14]
-
-- a.[^9-15] Bei den Investitionen, die dem Energiesparen und dem Umweltschutz dienen, bestimmt das Eidgenössische Finanzdepartement in Zusammenarbeit mit den Kantonen, welche Investitionen den Unterhaltskosten gleichgestellt werden können; den Unterhaltskosten gleichgestellt sind auch die Rückbaukosten im Hinblick auf den Ersatzneubau.
-- b. Die nicht durch Subventionen gedeckten Kosten denkmalpflegerischer Arbeiten sind abziehbar, sofern der Steuerpflichtige solche Massnahmen aufgrund gesetzlicher Vorschriften, im Einvernehmen mit den Behörden oder auf deren Anordnung hin vorgenommen hat.
-
-<sup>3bis</sup> Investitionen und Rückbaukosten im Hinblick auf einen Ersatzneubau nach Absatz 3 Buchstabe a sind in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der laufenden Steuerperiode, in welcher die Aufwendungen angefallen sind, steuerlich nicht vollständig berücksichtigt werden können.[^9-16]
+<sup>3bis</sup> ...[^9-15]
 
 <sup>4</sup> Andere Abzüge sind nicht zulässig. Vorbehalten sind die Kinderabzüge und andere Sozialabzüge des kantonalen Rechts.
 
 [^9-1]: Fassung gemäss Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behan lung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)). Berichtigung der RedK der BVers vom 18. Feb. 2015 ([AS 2015 993](https://fedlex.data.admin.ch/eli/oc/2015/186)).
-[^9-2]: Fassung gemäss Ziff. II 3 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^9-2]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^9-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Juni 2022 über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen, in Kraft seit 1. Jan. 2025 ([AS 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [BBl 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 [^9-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^9-5]: Fassung gemäss Anhang Ziff. 3 des Behindertengleichstellungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2005 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
@@ -450,9 +446,48 @@ Bei Liegenschaften im Privatvermögen können die Unterhaltskosten, die Kosten d
 [^9-11]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern, in Kraft seit 1. Jan. 2011 ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^9-12]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über die Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^9-13]: Eingefügt durch Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^9-14]: Fassung gemäss Ziff. I 2 des BG vom 3. Okt. 2008 über die steuerliche Behandlung von Instandstellungskosten bei Liegenschaften, in Kraft seit 1. Jan. 2010 ([AS 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [BBl 2007 7993](https://fedlex.data.admin.ch/eli/fga/2007/1291)[8009](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
-[^9-15]: Fassung gemäss Anhang Ziff. II 4 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^9-16]: Eingefügt durch Anhang Ziff. II 4 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^9-14]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-15]: Eingefügt durch Anhang Ziff. II 4 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Aufgehoben durch Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, mit Wirkung seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 9a
+
+**Vermietete oder verpachtete Liegenschaften**[^9a-1]
+
+<sup>1</sup>
+
+Bei vermieteten oder verpachteten Liegenschaften im Privatvermögen können abgezogen werden:
+
+- a. die Unterhaltskosten;
+- b. die Kosten der Instandstellung von neu erworbenen Liegenschaften;
+- c. die Versicherungsprämien;
+- d. die Kosten der Verwaltung durch Dritte.
+
+<sup>2</sup> Die Kantone können die Rückbaukosten im Hinblick auf den Ersatzneubau zum Abzug zulassen.
+
+<sup>3</sup> Die Kosten nach Absatz 2 sind in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der Steuerperiode, in der sie angefallen sind, steuerlich nicht vollständig berücksichtigt werden können.
+
+[^9a-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 9b
+
+**Selbstbewohnte Liegenschaften**[^9b-1]
+
+<sup>1</sup>
+
+Steuerpflichtige, die erstmals eine dauernd und ausschliesslich selbstbewohnte Liegenschaft in der Schweiz erwerben, können im ersten Steuerjahr nach dem Erwerb die auf diese Liegenschaft entfallenden privaten Schuldzinsen wie folgt abziehen:
+
+- a. Ehepaare in rechtlich und tatsächlich ungetrennter Ehe: bis zu 10 000 Franken;
+- b. übrige Steuerpflichtige: bis zu 5000 Franken.
+
+<sup>2</sup> Dieser Abzug ist nur so weit zulässig, als die Schuldzinsen nicht bereits nach Artikel 9 Absatz 2 Buchstabe a berücksichtigt worden sind.
+
+<sup>3</sup> In den nachfolgenden Steuerjahren vermindert sich der maximal abziehbare Betrag jährlich um 10 Prozent des Höchstbetrags nach Absatz 1.
+
+<sup>4</sup> Wird die Liegenschaft veräussert oder anders genutzt, so entfällt die Abzugsmöglichkeit ab dem ersten Steuerjahr nach der Veräusserung oder Nutzungsänderung. Erwirbt die steuerpflichtige Person innert angemessener Frist eine gleichgenutzte Ersatzliegenschaft in der Schweiz, so richtet sich die Abzugsmöglichkeit ab dem Jahr des Erwerbs der Liegenschaft für die verbleibenden Steuerjahre nach Absatz 3.
+
+<sup>5</sup> Artikel 9*a* Absätze 2 und 3 gilt sinngemäss.
+
+[^9b-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 10
 
@@ -552,13 +587,13 @@ Die Besteuerung wird aufgeschoben bei:
 - b.[^12-2] Eigentumswechsel unter Ehegatten im Zusammenhang mit dem Güterrecht, sowie zur Abgeltung ausserordentlicher Beiträge eines Ehegatten an den Unterhalt der Familie (Art. 165 des Zivilgesetzbuches[^12-3]) und scheidungsrechtlicher Ansprüche, sofern beide Ehegatten einverstanden sind;
 - c. Landumlegungen zwecks Güterzusammenlegung, Quartierplanung, Grenzbereinigung, Abrundung landwirtschaftlicher Heimwesen sowie bei Landumlegungen im Enteignungsverfahren oder drohender Enteignung;
 - d. vollständiger oder teilweiser Veräusserung eines land- oder forstwirtschaftlichen Grundstückes, soweit der Veräusserungserlös innert angemessener Frist zum Erwerb eines selbstbewirtschafteten Ersatzgrundstückes oder zur Verbesserung der eigenen, selbstbewirtschafteten land- oder forstwirtschaftlichen Grundstücke verwendet wird;
-- e. Veräusserung einer dauernd und ausschliesslich selbstgenutzten Wohnliegenschaft (Einfamilienhaus oder Eigentumswohnung), soweit der dabei erzielte Erlös innert angemessener Frist zum Erwerb oder zum Bau einer gleichgenutzten Ersatzliegenschaft in der Schweiz verwendet wird.
+- e.[^12-4] Veräusserung einer dauernd und ausschliesslich selbstbewohnten Liegenschaft, soweit der dabei erzielte Erlös innert angemessener Frist zum Erwerb oder zum Bau einer gleichgenutzten Ersatzliegenschaft in der Schweiz verwendet wird.
 
 <sup>4</sup>
 
 Die Kantone können die Grundstückgewinnsteuer auch auf Gewinnen aus der Veräusserung von Grundstücken des Geschäftsvermögens des Steuerpflichtigen erheben, sofern sie diese Gewinne von der Einkommens- und Gewinnsteuer ausnehmen oder die Grundstückgewinnsteuer auf die Einkommens- und Gewinnsteuer anrechnen. In beiden Fällen gilt:
 
-- a.[^12-4] die in den Artikeln 8 Absätze 3 und 4 und 24 Absätze 3 und 3<sup>quater</sup> genannten Tatbestände sind bei der Grundstückgewinnsteuer als steueraufschiebende Veräusserung zu behandeln;
+- a.[^12-5] die in den Artikeln 8 Absätze 3 und 4 und 24 Absätze 3 und 3<sup>quater</sup> genannten Tatbestände sind bei der Grundstückgewinnsteuer als steueraufschiebende Veräusserung zu behandeln;
 - b. die Überführung eines Grundstückes sowie von Anteilen daran vom Privatvermögen ins Geschäftsvermögen darf nicht einer Veräusserung gleichgestellt werden.
 
 <sup>5</sup> Die Kantone sorgen dafür, dass kurzfristig realisierte Grundstückgewinne stärker besteuert werden.
@@ -566,7 +601,8 @@ Die Kantone können die Grundstückgewinnsteuer auch auf Gewinnen aus der Veräu
 [^12-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^12-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^12-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^12-4]: Fassung gemäss Anhang Ziff. 8 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^12-4]: Fassung gemäss Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^12-5]: Fassung gemäss Anhang Ziff. 8 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### 4. Kapitel: Vermögenssteuer
 
@@ -2138,15 +2174,21 @@ Für die Beurteilung von Straftaten, die in Steuerperioden vor Inkrafttreten der
 
 #### Art. 78h
 
-[^78h-1]
+**Übergangsbestimmungen zur Änderung vom 20. Dezember 2024**[^78h-1]
 
-[^78h-1]: In Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+<sup>1</sup> Für Steuerpflichtige, die höchstens zehn Jahre vor dem Inkrafttreten der Änderung vom 20. Dezember 2024 erstmals eine dauernd und ausschliesslich selbstbewohnte Liegenschaft in der Schweiz erworben haben, gilt Artikel 9*b* für die nach dem Inkrafttreten verbleibenden Steuerjahre.
+
+<sup>2</sup> Bis das Ziel einer ausgeglichenen Treibhausgasbilanz erreicht ist, längstens aber bis 2050, können die Kantone Abzüge für Energiesparen und Umweltschutz vorsehen. Bei den Investitionen, die dem Energiesparen und dem Umweltschutz dienen, bestimmt das Eidgenössische Finanzdepartement in Zusammenarbeit mit den Kantonen, welche dieser Kosten abgezogen werden können.
+
+<sup>3</sup> Die Kosten nach Absatz 2 sind in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der Steuerperiode, in der sie angefallen sind, steuerlich nicht vollständig berücksichtigt werden können.
+
+[^78h-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 78i
 
 [^78i-1]
 
-[^78i-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([BBl 2025 2033](https://fedlex.data.admin.ch/eli/fga/2025/2033)),
+[^78i-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([BBl 2025 2033](https://fedlex.data.admin.ch/eli/fga/2025/2033)).
 
 #### Art. 78j
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts dire
 short: LHID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: fr
-version: 2028-01-01
+version: 2029-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20280101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20290101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20290101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr"
 
 (LHID)
 
-du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2028)
+du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2029)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -177,21 +177,21 @@ Le montant de l’impôt d’après la dépense doit être au moins égal à la 
 
 **Principe**
 
-<sup>1</sup> L’impôt sur le revenu a pour objet tous les revenus du contribuable, qu’ils soient uniques ou périodiques, en particulier le produit d’une activité lucrative dépendante ou indépendante, le rendement de la fortune y compris la valeur locative de l’habitation du contribuable dans son propre immeuble, les prestations d’institutions de prévoyance professionnelle ainsi que les rentes viagères. Quel que soit leur montant, les frais de formation et de formation continue[^7-1] à des fins professionnelles assumés par l’employeur, frais de reconversion compris, ne constituent pas des revenus imposables. Les dividendes, les parts de bénéfice, les excédents de liquidation et les avantages appréciables en argent provenant d’actions, de parts à des sociétés à responsabilité limitée, de parts à des sociétés coopératives et de bons de participation (y compris les actions gratuites, les augmentations gratuites de la valeur nominale, etc.) sont imposables à hauteur de 50 % lorsque ces droits de participation équivalent à 10 % au moins du capital-actions ou du capital social d’une société de capitaux ou d’une société coopérative.[^7-2] Les cantons peuvent prévoir une imposition plus élevée.[^7-3] [^7-4]
+<sup>1</sup> L’impôt sur le revenu a pour objet tous les revenus du contribuable, qu’ils soient uniques ou périodiques, en particulier le produit d’une activité lucrative dépendante ou indépendante, le rendement de la fortune, les prestations d’institutions de prévoyance ainsi que les rentes viagères.[^7-1] Quel que soit leur montant, les frais de formation et de formation continue[^7-2] à des fins professionnelles assumés par l’employeur, frais de reconversion compris, ne constituent pas des revenus imposables. Les dividendes, les parts de bénéfice, les excédents de liquidation et les avantages appréciables en argent provenant d’actions, de parts à des sociétés à responsabilité limitée, de parts à des sociétés coopératives et de bons de participation (y compris les actions gratuites, les augmentations gratuites de la valeur nominale, etc.) sont imposables à hauteur de 50 % lorsque ces droits de participation équivalent à 10 % au moins du capital-actions ou du capital social d’une société de capitaux ou d’une société coopérative.[^7-3] Les cantons peuvent prévoir une imposition plus élevée.[^7-4] [^7-5]
 
-<sup>1bis</sup> En cas de vente de droits de participation, au sens de l’art. 4*a* de la loi fédérale du 13 octobre 1965 sur l’impôt anticipé[^7-5], à la société de capitaux ou à la société coopérative qui les a émis, le revenu de la fortune est considéré comme étant réalisé dans l’année pendant laquelle la créance d’impôt prend naissance (art. 12, al. 1 et 1<sup>bis</sup>, de la LF du 13 oct. 1965 sur l’impôt anticipé).[^7-6]
+<sup>1bis</sup> En cas de vente de droits de participation, au sens de l’art. 4*a* de la loi fédérale du 13 octobre 1965 sur l’impôt anticipé[^7-6], à la société de capitaux ou à la société coopérative qui les a émis, le revenu de la fortune est considéré comme étant réalisé dans l’année pendant laquelle la créance d’impôt prend naissance (art. 12, al. 1 et 1<sup>bis</sup>, de la LF du 13 oct. 1965 sur l’impôt anticipé).[^7-7]
 
-<sup>1ter</sup> Les rendements versés, en cas de vie ou de rachat, d’assurances de capitaux susceptibles de rachat et acquittées au moyen d’une prime unique sont imposables, sauf si ces assurances servent à la prévoyance. La prestation d’assurance est réputée servir à la prévoyance lorsqu’elle est versée à un assuré de 60 ans révolus, en vertu d’un contrat qui a duré au moins cinq ans et qui a été conclu avant le 66<sup>e</sup> anniversaire de ce dernier. Dans ce cas, la prestation est exonérée.[^7-7]
+<sup>1ter</sup> Les rendements versés, en cas de vie ou de rachat, d’assurances de capitaux susceptibles de rachat et acquittées au moyen d’une prime unique sont imposables, sauf si ces assurances servent à la prévoyance. La prestation d’assurance est réputée servir à la prévoyance lorsqu’elle est versée à un assuré de 60 ans révolus, en vertu d’un contrat qui a duré au moins cinq ans et qui a été conclu avant le 66<sup>e</sup> anniversaire de ce dernier. Dans ce cas, la prestation est exonérée.[^7-8]
 
-<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr/xml/image/image1.png)
+<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/fr/xml/image/image2.png)
 
 Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d’entretien viager sont imposables à raison de leur part de rendement. Celle-ci se détermine comme suit:
 
 - a.
 
-  pour les prestations garanties provenant d’assurances de rentes viagères soumises à la loi du 2 avril 1908 sur le contrat d’assurance (LCA)[^7-8], le taux d’intérêt technique maximal (m) défini conformément à l’art. 36, al. 1, de la loi du 17 décembre 2004 sur la surveillance des assurances[^7-9] qui était applicable à la conclusion du contrat est déterminant pendant toute la durée de celui-ci:
+  pour les prestations garanties provenant d’assurances de rentes viagères soumises à la loi du 2 avril 1908 sur le contrat d’assurance (LCA)[^7-9], le taux d’intérêt technique maximal (m) défini conformément à l’art. 36, al. 1, de la loi du 17 décembre 2004 sur la surveillance des assurances[^7-10] qui était applicable à la conclusion du contrat est déterminant pendant toute la durée de celui-ci:
 
   - 1\. si le taux d’intérêt est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche:
 
@@ -206,9 +206,9 @@ Les assurances de rentes viagères ainsi que les contrats de rentes viagères et
 
   - 1\. si le rendement est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche:
 
-- 2\. si le rendement est nul ou négatif, la part de rendement est de 0 %.[^7-10]
+- 2\. si le rendement est nul ou négatif, la part de rendement est de 0 %.[^7-11]
 
-<sup>3</sup> Chacun des investisseurs ajoute à ses propres éléments imposables sa part du revenu de placements collectifs au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^7-11]; le revenu des parts de placements collectifs qui possèdent des immeubles en propriété directe est uniquement imposable lorsque l’ensemble des revenus du placement excède le rendement de ces immeubles.[^7-12]
+<sup>3</sup> Chacun des investisseurs ajoute à ses propres éléments imposables sa part du revenu de placements collectifs au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^7-12]; le revenu des parts de placements collectifs qui possèdent des immeubles en propriété directe est uniquement imposable lorsque l’ensemble des revenus du placement excède le rendement de ces immeubles.[^7-13]
 
 <sup>4</sup>
 
@@ -217,42 +217,43 @@ Sont seuls exonérés de l’impôt:
 - a. le produit de l’aliénation des droits de souscription, lorsque les droits patrimoniaux font partie de la fortune privée du contribuable;
 - b. les gains en capital réalisés sur des éléments de la fortune privée du contribuable. L’art. 12, al. 2, let. a et d, est réservé;
 - c. les dévolutions de fortune ensuite d’une succession, d’un legs, d’une donation ou de la liquidation du régime matrimonial;
-- d.[^7-13] les versements provenant d’assurances de capitaux privées susceptibles de rachat, à l’exception des polices de libre-passage. L’al. 1<sup>ter</sup> est réservé;
+- d.[^7-14] les versements provenant d’assurances de capitaux privées susceptibles de rachat, à l’exception des polices de libre-passage. L’al. 1<sup>ter</sup> est réservé;
 - e. les prestations en capital versées par l’employeur ou par une institution de prévoyance professionnelle lors d’un changement d’emploi, lorsque le bénéficiaire les réinvesti dans le délai d’un an dans une institution de prévoyance professionnelle ou les utilise pour acquérir une police de libre-passage;
 - f. les subsides provenant de fonds publics ou privés;
 - g. les prestations versées en exécution d’une obligation fondée sur le droit de la famille, à l’exception de la pension alimentaire que le conjoint divorcé, séparé judiciairement ou de fait obtient pour lui-même et des contributions d’entretien que l’un des parents reçoit pour les enfants sur lesquels il a l’autorité parentale;
-- h.[^7-14] la solde du service militaire et l’indemnité de fonction pour service de protection civile, ainsi que l’argent de poche des personnes astreintes au service civil;
-- h<sup>bis</sup>.[^7-15] la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel déterminé par le droit cantonal, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
+- h.[^7-15] la solde du service militaire et l’indemnité de fonction pour service de protection civile, ainsi que l’argent de poche des personnes astreintes au service civil;
+- h<sup>bis</sup>.[^7-16] la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel déterminé par le droit cantonal, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
 - i. les versements à titre de réparation du tort moral;
 - k. les revenus perçus en vertu de la législation fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité;
-- l.[^7-16] les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr)[^7-17], pour autant que ces gains ne soient pas issus d’une activité lucrative indépendante;
-- l<sup>bis</sup>.[^7-18] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs ou du montant supérieur fixé dans le droit cantonal provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
-- l<sup>ter</sup>.[^7-19] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
-- m.[^7-20] les gains unitaires jusqu’au seuil fixé dans le droit cantonal provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e, de cette loi.
-- n.[^7-21] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^7-22].
+- l.[^7-17] les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr)[^7-18], pour autant que ces gains ne soient pas issus d’une activité lucrative indépendante;
+- l<sup>bis</sup>.[^7-19] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs ou du montant supérieur fixé dans le droit cantonal provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
+- l<sup>ter</sup>.[^7-20] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
+- m.[^7-21] les gains unitaires jusqu’au seuil fixé dans le droit cantonal provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e, de cette loi.
+- n.[^7-22] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^7-23].
 
-[^7-1]: Nouvelle expression selon l’annexe ch. 24 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)). Il a été tenu compte de cette mod. dans tout le texte.
-[^7-2]: Nouvelle teneur de la phrase selon le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^7-3]: Phrase introduite par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^7-4]: Nouvelle teneur selon le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^7-5]: [RS 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
-[^7-6]: Introduit par le ch. I 2 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^7-7]: Introduit par le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-8]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
-[^7-9]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
-[^7-10]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2022 sur l’imposition des rentes viagères et des formes de prévoyance similaires, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
-[^7-11]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
-[^7-12]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^7-13]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-14]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^7-15]: Introduite par le ch. I 2 de la LF du 17 juin 2011 sur l’exonération de la solde allouée pour le service du feu, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2595](https://fedlex.data.admin.ch/eli/fga/2010/508)).
-[^7-16]: Introduite par l’annexe ch. 3 de la LF du 18 déc. 1998 sur les maisons de jeu ([RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 137](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-17]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
-[^7-18]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-1]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^7-2]: Nouvelle expression selon l’annexe ch. 24 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-3]: Nouvelle teneur de la phrase selon le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7-4]: Phrase introduite par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7-5]: Nouvelle teneur selon le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^7-6]: [RS 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
+[^7-7]: Introduit par le ch. I 2 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^7-8]: Introduit par le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^7-9]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^7-10]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^7-11]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2022 sur l’imposition des rentes viagères et des formes de prévoyance similaires, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
+[^7-12]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^7-13]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^7-14]: Nouvelle teneur selon le ch. I 6 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^7-15]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^7-16]: Introduite par le ch. I 2 de la LF du 17 juin 2011 sur l’exonération de la solde allouée pour le service du feu, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2595](https://fedlex.data.admin.ch/eli/fga/2010/508)).
+[^7-17]: Introduite par l’annexe ch. 3 de la LF du 18 déc. 1998 sur les maisons de jeu ([RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 137](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-18]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^7-19]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-20]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-21]: Introduite par l’annexe ch. 3 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^7-22]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^7-20]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-21]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-22]: Introduite par l’annexe ch. 3 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^7-23]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 #### Art. 7a
 
@@ -397,7 +398,7 @@ Les art. 24*a* et 24*b* s’appliquent par analogie aux revenus provenant de bre
 
 Les déductions générales sont:
 
-- a.[^9-2] les intérêts passifs privés à concurrence du rendement imposable de la fortune au sens des art. 7 et 7*a*, augmenté d’un montant de 50 000 francs;
+- a.[^9-2] les intérêts passifs privés, en fonction de la part que représente l’ensemble des valeurs patrimoniales immobilières situées dans le canton, à l’exception des immeubles ou des parties d’immeubles dont le contribuable se réserve l’usage en raison de son droit de propriété ou d’un droit de jouissance obtenu à titre gratuit, par rapport à l’ensemble de la fortune;
 - b.[^9-3] les charges durables et la part de rendement au sens de l’art. 7, al. 2, let. c, des prestations fondées sur des contrats de rentes viagères ou d’entretien viager;
 - c. la pension alimentaire versée au conjoint divorcé, séparé judiciairement ou de fait, ainsi que les contributions d’entretien versées à l’un des parents pour les enfants sur lesquels il a l’autorité parentale, à l’exclusion toutefois des prestations versées en exécution d’une obligation d’entretien ou d’assistance fondée sur le droit de la famille;
 - d.[^9-4] les primes, cotisations et montants légaux, statutaires ou réglementaires versés à l’assurance-vieillesse et survivants, à l’assurance-invalidité et à des institutions de la prévoyance professionnelle;
@@ -425,19 +426,14 @@ Les déductions générales sont:
   - 1\. il est titulaire d’un diplôme du degré secondaire II,
   - 2\. il a atteint l’âge de 20 ans et suit une formation visant à l’obtention d’un diplôme autre qu’un premier diplôme du degré secondaire II.
 
-<sup>3</sup>
+<sup>3</sup> Pour les contribuables qui possèdent des immeubles privés, les cantons peuvent prévoir des déductions pour la restauration des monuments historiques. Sont déductibles les frais occasionnés par les travaux que le contribuable entreprend en vertu de dispositions légales, en accord avec les autorités ou sur leur ordre, pour autant qu’ils ne soient pas subventionnés.[^9-14]
 
-Le contribuable qui possède des immeubles privés peut déduire les frais nécessaires à leur entretien, les frais de remise en état d’immeubles acquis récemment, les primes d’assurances relatives à ces immeubles et les frais d’administration par des tiers. En outre, les cantons peuvent prévoir des déductions pour la protection de l’environnement, les mesures d’économie d’énergie et la restauration des monuments historiques. Ces trois dernières déductions sont soumises à la réglementation suivante:[^9-14]
-
-- a.[^9-15] le Département fédéral des finances détermine en collaboration avec les cantons quels investissements destinés à économiser l’énergie et à ménager l’environnement peuvent être assimilés à des frais d’entretien; les frais de démolition en vue d’une construction de remplacement sont assimilés aux frais d’entretien.
-- b. pour autant qu’ils ne soient pas subventionnés, les frais occasionnés par des travaux de restauration de monuments historiques sont déductibles dans la mesure où le contribuable les a entrepris en vertu de dispositions légales, en accord avec les autorités ou sur ordre d’une autorité administrative.
-
-<sup>3bis</sup> Les coûts d’investissement et les frais de démolition en vue d’une construction de remplacement visés à l’al. 3, let. a, sont déductibles au cours des deux périodes fiscales suivantes, lorsqu’ils ne peuvent pas être entièrement pris en considération durant la période fiscale en cours, pendant laquelle les dépenses ont été effectuées.[^9-16]
+<sup>3bis</sup> …[^9-15]
 
 <sup>4</sup> On n’admettra pas d’autres déductions. Les déductions pour enfants et autres déductions sociales de droit cantonal sont réservées.
 
 [^9-1]: Nouvelle teneur selon le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)). Erratum de la CdR de l’Ass. féd. du 18 fév. 2015 ([RO 2015 993](https://fedlex.data.admin.ch/eli/oc/2015/186)).
-[^9-2]: Nouvelle teneur selon le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^9-2]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^9-3]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2022 sur l’imposition des rentes viagères et des formes de prévoyance similaires, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 [^9-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^9-5]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 13 déc. 2002 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1605](https://fedlex.data.admin.ch/eli/fga/2001/434)).
@@ -449,9 +445,48 @@ Le contribuable qui possède des immeubles privés peut déduire les frais néce
 [^9-11]: Introduite par le ch. I 2 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4237](https://fedlex.data.admin.ch/eli/fga/2009/815)). Rectifiée par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^9-12]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^9-13]: Introduite par le ch. I 2 de la LF sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^9-14]: Nouvelle teneur selon le ch. I 2 de la LF du 3 oct. 2008 sur le traitement fiscal des frais de remise en état des immeubles, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [FF 2007 7501](https://fedlex.data.admin.ch/eli/fga/2007/1291)[7517](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
-[^9-15]: Nouvelle teneur selon l’annexe ch. II 4 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^9-16]: Introduit par l’annexe ch. II 4 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^9-14]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-15]: Introduit par l’annexe ch. II 4 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Abrogé par le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, avec effet au 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 9a
+
+**Immeubles loués ou affermés**[^9a-1]
+
+<sup>1</sup>
+
+Pour les immeubles loués ou affermés détenus dans la fortune privée, sont déductibles:
+
+- a. les frais d’entretien;
+- b. les frais de remise en état d’un immeuble nouvellement acquis;
+- c. les primes d’assurance;
+- d. les frais d’administration par des tiers.
+
+<sup>2</sup> Les cantons peuvent autoriser la déduction des frais de démolition en vue d’une construction de remplacement.
+
+<sup>3</sup> Les frais visés à l’al. 2 sont déductibles au cours des deux périodes fiscales suivantes s’ils ne peuvent pas être entièrement pris en considération durant la période fiscale pendant laquelle ils ont été effectués.
+
+[^9a-1]: Introduit par le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 9b
+
+**Immeubles à usage personnel**[^9b-1]
+
+<sup>1</sup>
+
+Les contribuables qui acquièrent pour la première fois un immeuble en Suisse destiné durablement et exclusivement à leur usage personnel peuvent déduire les intérêts passifs privés imputables audit immeuble durant l’année fiscale qui suit celle au cours de laquelle ils l’ont acquis, à concurrence des montants suivants:
+
+- a. pour les époux vivant en ménage commun: jusqu’à 10 000 francs;
+- b. pour les autres contribuables: jusqu’à 5000 francs.
+
+<sup>2</sup> La déduction n’est autorisée que si les intérêts passifs n’ont pas déjà été pris en compte au titre de l’art. 9, al. 2, let. a.
+
+<sup>3</sup> Pendant les années fiscales suivantes, le montant maximal de la déduction diminue de 10 % par an du plafond fixé à l’al. 1.
+
+<sup>4</sup> Si l’immeuble est aliéné ou si son affectation est modifiée, la déduction n’est plus autorisée à partir de l’année fiscale qui suit l’aliénation ou le changement d’affectation. Si le contribuable acquiert dans un délai approprié un immeuble de remplacement en Suisse servant au même usage, la possibilité de déduction est régie par l’al. 3 à partir de l’année d’acquisition de l’immeuble pour les années fiscales restantes.
+
+<sup>5</sup> L’art. 9*a*, al. 2 et 3, s’applique par analogie.
+
+[^9b-1]: Introduit par le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 10
 
@@ -551,13 +586,13 @@ L’imposition est différée:
 - b.[^12-2] en cas de transfert de propriété entre époux en rapport avec le régime matrimonial ou en cas de dédommagement de contributions extraordinaires d’un époux à l’entretien de la famille (art. 165 CC[^12-3]) ou de prétentions découlant du droit du divorce, pour autant que les deux époux soient d’accord;
 - c. en cas de remembrement opéré soit en vue d’un remaniement parcellaire, de l’établissement d’un plan de quartier, de rectification de limites ou d’arrondissement d’une aire agricole, soit dans le cadre d’une procédure d’expropriation ou en raison d’une expropriation imminente;
 - d. en cas d’aliénation totale ou partielle d’un immeuble agricole ou sylvicole, à condition que le produit de l’aliénation soit utilisé dans un délai raisonnable pour l’acquisition d’un immeuble de remplacement exploité par le contribuable lui-même ou pour l’amélioration d’immeubles agricoles ou sylvicoles appartenant au contribuable et exploités par lui-même;
-- e. en cas d’aliénation de l’habitation (maison ou appartement) ayant durablement et exclusivement servi au propre usage de l’aliénateur, dans la mesure où le produit ainsi obtenu est affecté, dans un délai approprié, à l’acquisition ou à la construction en Suisse d’une habitation servant au même usage.
+- e.[^12-4] en cas d’aliénation d’un immeuble ayant été occupé durablement et exclusivement par son propriétaire, dans la mesure où le produit ainsi obtenu est affecté, dans un délai approprié, à l’acquisition ou à la construction en Suisse d’un immeuble de remplacement servant au même usage.
 
 <sup>4</sup>
 
 Les cantons peuvent percevoir l’impôt sur les gains immobiliers également sur les gains réalisés lors de l’aliénation d’immeubles faisant partie de la fortune commerciale du contribuable, à condition que ces gains ne soient pas soumis à l’impôt sur le revenu ou sur le bénéfice ou que l’impôt sur les gains immobiliers soit déduit de l’impôt sur le revenu ou sur le bénéfice. Dans l’un et l’autre cas:
 
-- a.[^12-4] les faits mentionnés aux art. 8, al. 3 et 4, et 24, al. 3 et 3<sup>quater</sup>, sont assimilés à des aliénations dont l’imposition est différée pour l’impôt sur les gains immobiliers;
+- a.[^12-5] les faits mentionnés aux art. 8, al. 3 et 4, et 24, al. 3 et 3<sup>quater</sup>, sont assimilés à des aliénations dont l’imposition est différée pour l’impôt sur les gains immobiliers;
 - b. le transfert de tout ou partie d’un immeuble de la fortune privée du contribuable dans sa fortune commerciale ne peut être assimilé à une aliénation.
 
 <sup>5</sup> Les cantons veillent à ce que les bénéfices réalisés à court terme soient imposés plus lourdement.
@@ -565,7 +600,8 @@ Les cantons peuvent percevoir l’impôt sur les gains immobiliers également su
 [^12-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^12-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^12-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^12-4]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^12-4]: Nouvelle teneur selon le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^12-5]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### Chapitre 4 Impôt sur la fortune
 
@@ -2140,9 +2176,15 @@ Le nouveau droit s’applique au jugement des infractions commises au cours de p
 
 #### Art. 78h
 
-[^78h-1]
+**Dispositions transitoires relatives à la modification du 20 décembre 2024**[^78h-1]
 
-[^78h-1]: Entre en vigueur le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+<sup>1</sup> Pour les contribuables qui ont acquis pour la première fois un immeuble en Suisse destiné durablement et exclusivement à leur usage personnel dix ans au plus avant l’entrée en vigueur de la modification du 20 décembre 2024, l’art. 9*b*, est applicable aux années fiscales restantes après l’entrée en vigueur.
+
+<sup>2</sup> Tant que l’objectif d’équilibrer le bilan des gaz à effet de serre n’est pas atteint, mais jusqu’en 2050 au plus tard, les cantons peuvent prévoir des déductions pour les investissements destinés à économiser l’énergie et à protéger l’environnement. Le Département fédéral des finances détermine en collaboration avec les cantons quelles dépenses peuvent être déduites.
+
+<sup>3</sup> Les frais visés à l’al. 2 sont déductibles au cours des deux périodes fiscales suivantes s’ils ne peuvent pas être entièrement pris en considération durant la période fiscale pendant laquelle ils ont été effectués.
+
+[^78h-1]: Introduit par le ch. I 2 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 78i
 

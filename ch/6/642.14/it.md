@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte di
 short: LAID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: it
-version: 2028-01-01
+version: 2029-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20280101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20290101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20290101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/it"
 
 (LAID)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2028)
+del 14 dicembre 1990 (Stato 1° gennaio 2029)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -94,7 +94,7 @@ Le persone fisiche senza domicilio o dimora fiscale in Svizzera sono assoggettat
 - g.[^4-5] fungono da intermediari nel commercio di immobili siti nel Cantone.
 
 [^4-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 4757](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
-[^4-2]: Introdotta dalla cifra I n. 2 della LF del 14 giu. 2024 sull’imposizione del telelavoro in ambito internazionale, in vigore dal 1° gen. 2025 ([RU 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
+[^4-2]: Introdotta della LF del 14 giu. 2024 sull’imposizione del telelavoro in ambito internazionale, in vigore dal 1° gen. 2025 ([RU 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
 [^4-3]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2010 sull’imposizione delle partecipazioni di collaboratore, in vigore dal 1° gen. 2013 ([RU 2011 3259](https://fedlex.data.admin.ch/eli/oc/2011/427); [FF 2005 495](https://fedlex.data.admin.ch/eli/fga/2005/88)).
 [^4-4]: Nuovo testo giusta la cifra I n. 2 della LF del 14 giu. 2024 sull’imposizione del telelavoro in ambito internazionale, in vigore dal 1° gen. 2025 ([RU 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [FF 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
 [^4-5]: Introdotta dalla cifra I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5039](https://fedlex.data.admin.ch/eli/oc/2017/547); [FF 2016 4757](https://fedlex.data.admin.ch/eli/fga/2016/1165)).
@@ -174,21 +174,21 @@ L’imposta secondo il dispendio deve essere almeno equivalente alla somma delle
 
 **Principio**
 
-<sup>1</sup> Sottostà all’imposta sul reddito la totalità dei proventi, periodici o unici, segnatamente quelli da attività lucrativa dipendente o indipendente, da reddito della sostanza compresa l’utilizzazione a scopo personale di fondi, da istituzioni di previdenza, nonché da rendite vitalizie. Quale che sia il loro ammontare, le spese di formazione e formazione continua[^7-1] professionali sostenute dal datore di lavoro, comprese le spese di riqualificazione, non costituiscono proventi imponibili. I dividendi, le quote di utili, le eccedenze di liquidazione come pure i vantaggi valutabili in denaro provenienti da azioni, quote in società a garanzia limitata o in società cooperative e buoni di partecipazione (compresi le azioni gratuite, gli aumenti gratuiti del valore nominale e simili) sono imponibili in ragione del 50 per cento se questi diritti di partecipazione rappresentano almeno il 10 per cento del capitale azionario o sociale di una società di capitali o di una società cooperativa.[^7-2] I Cantoni possono prevedere un’imposizione superiore.[^7-3] [^7-4]
+<sup>1</sup> Sottostà all’imposta sul reddito la totalità dei proventi, periodici o unici, segnatamente quelli da attività lucrativa dipendente o indipendente, da reddito della sostanza, da istituzioni di previdenza, nonché da rendite vitalizie.[^7-1] Quale che sia il loro ammontare, le spese di formazione e formazione continua[^7-2] professionali sostenute dal datore di lavoro, comprese le spese di riqualificazione, non costituiscono proventi imponibili. I dividendi, le quote di utili, le eccedenze di liquidazione come pure i vantaggi valutabili in denaro provenienti da azioni, quote in società a garanzia limitata o in società cooperative e buoni di partecipazione (compresi le azioni gratuite, gli aumenti gratuiti del valore nominale e simili) sono imponibili in ragione del 50 per cento se questi diritti di partecipazione rappresentano almeno il 10 per cento del capitale azionario o sociale di una società di capitali o di una società cooperativa.[^7-3] I Cantoni possono prevedere un’imposizione superiore.[^7-4] [^7-5]
 
-<sup>1bis</sup> In caso di vendita di diritti di partecipazione, ai sensi dell’articolo 4*a* della legge federale del 13 ottobre 1965[^7-5] sull’imposta preventiva, alla società di capitali o alla società cooperativa che li ha emessi, il reddito della sostanza è considerato realizzato nell’anno in cui sorge il credito fiscale dell’imposta preventiva (art. 12 cpv. 1 e 1<sup>bis</sup> della LF del 13 ott. 1965 sull’imposta preventiva).[^7-6]
+<sup>1bis</sup> In caso di vendita di diritti di partecipazione, ai sensi dell’articolo 4*a* della legge federale del 13 ottobre 1965[^7-6] sull’imposta preventiva, alla società di capitali o alla società cooperativa che li ha emessi, il reddito della sostanza è considerato realizzato nell’anno in cui sorge il credito fiscale dell’imposta preventiva (art. 12 cpv. 1 e 1<sup>bis</sup> della LF del 13 ott. 1965 sull’imposta preventiva).[^7-7]
 
-<sup>1ter</sup> I proventi da assicurazioni riscattabili di capitali con premio unico in caso di sopravvivenza o di riscatto sono imponibili, a meno che queste assicurazioni di capitali servano alla previdenza. Si considera che serva alla previdenza il pagamento della prestazione assicurativa a partire dal momento in cui l’assicurato ha compiuto i 60 anni sulla base di un rapporto contrattuale che è durato almeno cinque anni ed è stato istituito prima del compimento dei 66 anni. In questo caso la prestazione è esente da imposte.[^7-7]
+<sup>1ter</sup> I proventi da assicurazioni riscattabili di capitali con premio unico in caso di sopravvivenza o di riscatto sono imponibili, a meno che queste assicurazioni di capitali servano alla previdenza. Si considera che serva alla previdenza il pagamento della prestazione assicurativa a partire dal momento in cui l’assicurato ha compiuto i 60 anni sulla base di un rapporto contrattuale che è durato almeno cinque anni ed è stato istituito prima del compimento dei 66 anni. In questo caso la prestazione è esente da imposte.[^7-8]
 
-<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/it/xml/image/image1.png)
+<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/it/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20290101/it/xml/image/image2.png)
 
 Le assicurazioni di rendita vitalizia nonché i contratti di rendita vitalizia e di vitalizio sono imponibili nella misura della loro quota di reddito. Essa è calcolata come segue:
 
 - a.
 
-  nel caso di prestazioni garantite derivanti da assicurazioni di rendita vitalizia rette dalla legge del 2 aprile 1908[^7-8] sul contratto d’assicurazione (LCA), il tasso d’interesse tecnico massimo (m) definito al momento della conclusione del contratto conformemente all’articolo 36 capoverso 1 della legge del 17 dicembre 2004[^7-9] sulla sorveglianza degli assicuratori è determinante per tutta la durata contrattuale:
+  nel caso di prestazioni garantite derivanti da assicurazioni di rendita vitalizia rette dalla legge del 2 aprile 1908[^7-9] sul contratto d’assicurazione (LCA), il tasso d’interesse tecnico massimo (m) definito al momento della conclusione del contratto conformemente all’articolo 36 capoverso 1 della legge del 17 dicembre 2004[^7-10] sulla sorveglianza degli assicuratori è determinante per tutta la durata contrattuale:
 
   - 1\. se tale tasso d’interesse è superiore a zero, la quota di reddito è calcolata come segue, arrotondando il risultato per eccesso o per difetto al valore percentuale intero più vicino:
 
@@ -203,9 +203,9 @@ Le assicurazioni di rendita vitalizia nonché i contratti di rendita vitalizia e
 
   - 1\. se tale rendimento è superiore a zero, la quota di reddito è calcolata come segue, arrotondando il risultato per eccesso o per difetto al valore percentuale intero più vicino:
 
-- 2\. se tale rendimento è pari o inferiore a zero, la quota di reddito corrisponde allo zero per cento.[^7-10]
+- 2\. se tale rendimento è pari o inferiore a zero, la quota di reddito corrisponde allo zero per cento.[^7-11]
 
-<sup>3</sup> I proventi da quote di partecipazione a investimenti collettivi di capitale ai sensi della legge del 23 giugno 2006[^7-11] sugli investimenti collettivi (LICol) è attribuito agli investitori in funzione delle loro quote; i proventi da quote di partecipazione a investimenti collettivi di capitale con possesso fondiario diretto sono imponibili soltanto se la totalità dei redditi del fondo supera i redditi del possesso fondiario diretto.[^7-12]
+<sup>3</sup> I proventi da quote di partecipazione a investimenti collettivi di capitale ai sensi della legge del 23 giugno 2006[^7-12] sugli investimenti collettivi (LICol) è attribuito agli investitori in funzione delle loro quote; i proventi da quote di partecipazione a investimenti collettivi di capitale con possesso fondiario diretto sono imponibili soltanto se la totalità dei redditi del fondo supera i redditi del possesso fondiario diretto.[^7-13]
 
 <sup>4</sup>
 
@@ -214,42 +214,43 @@ Sono esenti dall’imposta soltanto:
 - a. il ricavo dall’alienazione di diritti di opzione, a condizione che i diritti patrimoniali appartengono alla sostanza privata;
 - b. gli utili in capitale conseguiti su elementi della sostanza mobiliare privata, fatto salvo l’articolo 12 capoverso 2 lettere a e d;
 - c. l’incremento patrimoniale derivante da eredità, legato, donazione o liquidazione del regime matrimoniale;
-- d.[^7-13] l’incremento patrimoniale derivante da assicurazioni private di capitali, soggette a riscatto, eccettuate quelle da polizze di libero passaggio. È fatto salvo il capoverso 1<sup>ter</sup>;
+- d.[^7-14] l’incremento patrimoniale derivante da assicurazioni private di capitali, soggette a riscatto, eccettuate quelle da polizze di libero passaggio. È fatto salvo il capoverso 1<sup>ter</sup>;
 - e. i pagamenti in capitale versati dal datore di lavoro o da un’istituzione di previdenza professionale in occasione di un cambiamento di impiego, a condizione che il beneficiario li trasferisca nel termine di un anno ad un’altra istituzione di previdenza professionale o li impieghi per acquistare una polizza di libero passaggio;
 - f. i sussidi d’assistenza provenienti da fondi pubblici o privati;
 - g. le prestazioni versate in adempimento di un obbligo fondato sul diritto di famiglia, ad eccezione degli alimenti percepiti dal coniuge divorziato o separato legalmente o di fatto, nonché degli alimenti che uno dei genitori percepisce per i figli sotto la sua autorità parentale;
-- h.[^7-14] il soldo del servizio militare e civile, nonché l’importo giornaliero per le piccole spese versato nel servizio civile;
-- h<sup>bis</sup>.[^7-15] il soldo dei pompieri di milizia sino a concorrenza di un ammontare determinato dal diritto cantonale per prestazioni in relazione all’adempimento dei compiti fondamentali dei pompieri (esercitazioni, servizi di picchetto, corsi, ispezioni e interventi effettivi per salvataggi, lotta contro gli incendi, lotta contro i sinistri in generale e contro i sinistri causati da elementi naturali e simili); sono eccettuati gli importi forfettari per i quadri, le indennità di funzione, le indennità per i lavori amministrativi e le indennità per prestazioni volontarie fornite dai pompieri;
+- h.[^7-15] il soldo del servizio militare e civile, nonché l’importo giornaliero per le piccole spese versato nel servizio civile;
+- h<sup>bis</sup>.[^7-16] il soldo dei pompieri di milizia sino a concorrenza di un ammontare determinato dal diritto cantonale per prestazioni in relazione all’adempimento dei compiti fondamentali dei pompieri (esercitazioni, servizi di picchetto, corsi, ispezioni e interventi effettivi per salvataggi, lotta contro gli incendi, lotta contro i sinistri in generale e contro i sinistri causati da elementi naturali e simili); sono eccettuati gli importi forfettari per i quadri, le indennità di funzione, le indennità per i lavori amministrativi e le indennità per prestazioni volontarie fornite dai pompieri;
 - i. i versamenti a titolo di riparazione morale;
 - k. i proventi ricevuti in virtù della legislazione federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.
-- l.[^7-16] le vincite ai giochi da casinò ammessi secondo la legge federale del 29 settembre 2017[^7-17] sui giochi in denaro (LGD) realizzate nelle case da gioco, purché tali vincite non provengano da un’attività lucrativa indipendente;
-- l<sup>bis</sup>.[^7-18] le singole vincite ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD sino a concorrenza di un importo pari a un milione di franchi o di un importo più elevato secondo il diritto cantonale;
-- l<sup>ter</sup>.[^7-19] le vincite ai giochi di piccola estensione ammessi secondo la LGD;
-- m.[^7-20] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite stabilito dal diritto cantonale;
-- n.[^7-21] i proventi ricevuti in virtù della legge federale del 19 giugno 2020[^7-22] sulle prestazioni transitorie per i disoccupati anziani.
+- l.[^7-17] le vincite ai giochi da casinò ammessi secondo la legge federale del 29 settembre 2017[^7-18] sui giochi in denaro (LGD) realizzate nelle case da gioco, purché tali vincite non provengano da un’attività lucrativa indipendente;
+- l<sup>bis</sup>.[^7-19] le singole vincite ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD sino a concorrenza di un importo pari a un milione di franchi o di un importo più elevato secondo il diritto cantonale;
+- l<sup>ter</sup>.[^7-20] le vincite ai giochi di piccola estensione ammessi secondo la LGD;
+- m.[^7-21] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite stabilito dal diritto cantonale;
+- n.[^7-22] i proventi ricevuti in virtù della legge federale del 19 giugno 2020[^7-23] sulle prestazioni transitorie per i disoccupati anziani.
 
-[^7-1]: Nuova espr. giusta l’all. n. 24 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^7-2]: Nuovo testo del terzo per. giusta la cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^7-3]: Quarto per. introdotto dalla cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^7-4]: Nuovo testo giusta la cifra I n. 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^7-5]: [RS 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
-[^7-6]: Introdotto dalla cifra I n. 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^7-7]: Introdotto dalla cifra I n. 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-8]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
-[^7-9]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
-[^7-10]: Nuovo testo giusta la cifra I n. 1 della LF del 17 giu. 2022 sull’imposizione delle rendite vitalizie e delle forme di previdenza simili, in vigore dal 1° gen. 2025 ([RU 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
-[^7-11]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
-[^7-12]: Nuovo testo giusta l’all. cifra II n. 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^7-13]: Nuovo testo giusta la cifra I n. 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^7-14]: Nuovo testo giusta l’all. n. 8 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^7-15]: Introdotta dalla cifra I n. 2 della LF del 17 giu. 2011 sull’esenzione fiscale del soldo dei pompieri, in vigore dal 1° gen. 2013 ([RU 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2497](https://fedlex.data.admin.ch/eli/fga/2010/508)).
-[^7-16]: Introdotta dell’all. n. 3 della LF del 18 dic. 1998 sulle case da gioco ([RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 129](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nuovo testo giusta l’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-17]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
-[^7-18]: Introdotta dall’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-1]: Nuovo testo giusta la cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^7-2]: Nuova espr. giusta l’all. n. 24 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-3]: Nuovo testo del terzo per. giusta la cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7-4]: Quarto per. introdotto dalla cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7-5]: Nuovo testo giusta la cifra I n. 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^7-6]: [RS 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
+[^7-7]: Introdotto dalla cifra I n. 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^7-8]: Introdotto dalla cifra I n. 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^7-9]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^7-10]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^7-11]: Nuovo testo giusta la cifra I n. 1 della LF del 17 giu. 2022 sull’imposizione delle rendite vitalizie e delle forme di previdenza simili, in vigore dal 1° gen. 2025 ([RU 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
+[^7-12]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^7-13]: Nuovo testo giusta l’all. cifra II n. 7 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^7-14]: Nuovo testo giusta la cifra I n. 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^7-15]: Nuovo testo giusta l’all. n. 8 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^7-16]: Introdotta dalla cifra I n. 2 della LF del 17 giu. 2011 sull’esenzione fiscale del soldo dei pompieri, in vigore dal 1° gen. 2013 ([RU 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2497](https://fedlex.data.admin.ch/eli/fga/2010/508)).
+[^7-17]: Introdotta dell’all. n. 3 della LF del 18 dic. 1998 sulle case da gioco ([RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 129](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nuovo testo giusta l’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-18]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^7-19]: Introdotta dall’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-20]: Introdotta testo giusta la cifra I n. 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^7-21]: Introdotta dall’all. n. 3 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^7-22]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^7-20]: Introdotta dall’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-21]: Introdotta testo giusta la cifra I n. 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-22]: Introdotta dall’all. n. 3 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^7-23]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 #### Art. 7a
 
@@ -290,7 +291,7 @@ Il capoverso 2 non si applica alle riserve da apporti di capitale:
 
 <sup>6</sup> Il capoverso 1 si applica agli apporti e all’aggio forniti durante la validità di un margine di variazione del capitale secondo gli articoli 653*s* e seguenti del Codice delle obbligazioni (CO)[^7b-2] per quanto eccedano le riserve rimborsate nell’ambito del suddetto margine di variazione del capitale.[^7b-3]
 
-[^7b-1]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta la cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7b-1]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta la cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^7b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^7b-3]: Introdotto dall’all. n. 8 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -366,9 +367,9 @@ Le riserve occulte di un’impresa di persone (impresa individuale, società di 
 <sup>4</sup> In caso di sostituzione di immobilizzi necessari all’azienda, le riserve occulte possono essere trasferite su beni sostitutivi se questi beni sono parimenti necessari all’azienda e sono situati in Svizzera. Rimane salva l’imposizione in caso di sostituzione di immobili con beni mobili.[^8-9]
 
 [^8-1]: Nuovo testo giusta la cifra I n. 6 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
-[^8-2]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^8-3]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^8-4]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^8-2]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^8-3]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^8-4]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^8-5]: Introdotto dalla cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^8-6]: Nuovo testo giusta l’all. n. 8 della LF del 16 dic. 2005 (diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^8-7]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
@@ -395,7 +396,7 @@ Ai redditi da brevetti e diritti analoghi in caso di attività lucrativa indipen
 
 Sono deduzioni generali:
 
-- a.[^9-2] gli interessi maturati su debiti privati, fino a concorrenza dei redditi da sostanza imponibili in virtù degli articoli 7 e 7*a* e di ulteriori 50 000 franchi;
+- a.[^9-2] gli interessi maturati su debiti privati, proporzionalmente al rapporto tra la sostanza immobiliare sita nel Cantone, eccettuati immobili o parti di essi che il contribuente ha a disposizione per uso proprio in forza del suo diritto di proprietà o di un usufrutto ottenuto a titolo gratuito, e la totalità della sostanza;
 - b.[^9-3] gli oneri permanenti nonché la quota di reddito secondo l’articolo 7 capoverso 2 lettera c delle prestazioni derivanti da contratti di rendita vitalizia e di vitalizio;
 - c. gli alimenti versati al coniuge divorziato o separato legalmente o di fatto, nonché gli alimenti versati a un genitore per i figli sotto la sua autorità parentale, escluse tuttavia le prestazioni versate in virtù di un obbligo di mantenimento o di assistenza fondato sul diritto di famiglia;
 - d.[^9-4] i versamenti, premi e contributi legali, statutari o regolamentari all’assicurazione vecchiaia, superstiti e invalidità, nonché a istituzioni di previdenza professionale;
@@ -423,19 +424,14 @@ Sono deduzioni generali:
   - 1\. abbia conseguito un diploma del livello secondario II, oppure
   - 2\. abbia compiuto i 20 anni e non si tratti di costi di formazione sostenuti fino al conseguimento di un primo diploma del livello secondario II.
 
-<sup>3</sup>
+<sup>3</sup> Per il contribuente che possiede immobili privati i Cantoni possono prevedere deduzioni per la cura di monumenti storici. Sono deducibili le spese non sussidiate per lavori di cura di monumenti storici che il contribuente ha intrapreso in virtù di disposizioni legali, d’intesa con le autorità o su loro ordine.[^9-14]
 
-Il contribuente che possiede immobili privati può dedurre le spese di manutenzione, le spese di riattazione di immobili di nuova acquisizione, i premi d’assicurazione e le spese d’amministrazione da parte di terzi. I Cantoni possono inoltre prevedere deduzioni per la protezione dell’ambiente, per provvedimenti di risparmio energetico e per la cura di monumenti storici. Negli ultimi tre casi vale la seguente norma:[^9-14]
-
-- a.[^9-15] il Dipartimento federale delle finanze determina in collaborazione con i Cantoni quali investimenti destinati al risparmio energetico e alla protezione dell’ambiente possono essere assimilati alle spese di manutenzione; le spese di demolizione in vista della costruzione di un immobile di sostituzione sono parimenti assimilate alle spese di manutenzione;
-- b. i costi non sussidiati di lavori di cura di monumenti storici sono deducibili nella misura in cui questi provvedimenti sono stati presi dal contribuente in virtù di una prescrizione legale, in accordo con l’autorità o su ordine di quest’ultima.
-
-<sup>3bis</sup> Gli investimentie le spese di demolizionein vista della costruzione di un immobile di sostituzione di cui al capoverso 3 lettera a sono deducibili nel corso dei due periodi fiscali successivi se non possono essere interamente presi in considerazione nel periodo fiscale durante il quale sono stati sostenuti.[^9-16]
+<sup>3bis</sup> …[^9-15]
 
 <sup>4</sup> Non sono ammesse altre deduzioni. Rimangono salve le deduzioni per i figli e le altre deduzioni sociali giusta il diritto cantonale.
 
 [^9-1]: Nuovo testo giusta la cifra I n. 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)). Correzione della Commissione di redazione dell’AF del 18 feb. 2015 ([RU 2015 993](https://fedlex.data.admin.ch/eli/oc/2015/186)).
-[^9-2]: Nuovo testo giusta la cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^9-2]: Nuovo testo giusta la cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^9-3]: Nuovo testo giusta la cifra I n. 1 della LF del 17 giu. 2022 sull’imposizione delle rendite vitalizie e delle forme di previdenza simili, in vigore dal 1° gen. 2025 ([RU 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [FF 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 [^9-4]: Nuovo testo giusta l’all. n. 4 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^9-5]: Nuovo testo giusta l’all. n. 3 della L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2005 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667)).
@@ -447,9 +443,48 @@ Il contribuente che possiede immobili privati può dedurre le spese di manutenzi
 [^9-11]: Introdotta dalla cifra I n. 2 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli, in vigore dal 1° gen. 2011 ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)). Rettificata dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl - [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^9-12]: Introdotta testo giusta la cifra I n. 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta l’all. cifra II n. 6 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^9-13]: Introdotta dalla cifra I n. 2 della LF del 27 set. 2013 sul trattamento fiscale delle spese di formazione e perfezionamento professionali, in vigore dal 1° gen. 2016 ([RU 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2365](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^9-14]: Nuovo testo giusta la cifra I n. 2 della LF del 3 ott. 2008 sul trattamento fiscale delle spese di riattazione degli immobili, in vigore dal 1° gen. 2010 ([RU 2009 1515](https://fedlex.data.admin.ch/eli/oc/2009/218); [FF 2007 7201](https://fedlex.data.admin.ch/eli/fga/2007/1291)[7217](https://fedlex.data.admin.ch/eli/fga/2007/1293)).
-[^9-15]: Nuovo testo giusta l’all. cifra II n. 4 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^9-16]: Introdotto giusta l’all. cifra II n. 4 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^9-14]: Nuovo testo giusta la cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-15]: Introdotto giusta l’all. cifra II n. 4 della LF del 30 set. 2016 sull’energia ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Abrogato dalla cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, con effetto dal 1° gen. 2029([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 9a
+
+**Immobili locati o affittati**[^9a-1]
+
+<sup>1</sup>
+
+Il contribuente che possiede immobili privati locati o affittati può dedurre:
+
+- a. le spese di manutenzione;
+- b. le spese di riattazione di immobili di nuova acquisizione;
+- c. i premi d’assicurazione;
+- d. le spese d’amministrazione da parte di terzi.
+
+<sup>2</sup> I Cantoni possono permettere la deduzione delle spese di demolizione in vista della costruzione di un immobile di sostituzione.
+
+<sup>3</sup> Le spese di cui al capoverso 2 sono deducibili nel corso dei due periodi fiscali successivi se non possono essere interamente prese in considerazione nel periodo fiscale durante il quale sono state sostenute.
+
+[^9a-1]: Introdotto dalla cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 9b
+
+**Immobili a uso proprio**[^9b-1]
+
+<sup>1</sup>
+
+I contribuenti che acquistano per la prima volta un immobile in Svizzera destinato durevolmente ed esclusivamente all’uso proprio possono dedurre come segue, nel primo anno fiscale successivo all’acquisto, gli interessi maturati sui debiti privati imputabili a tale immobile:
+
+- a. i coniugi che vivono in comunione domestica, fino a 10 000 franchi;
+- b. gli altri contribuenti, fino a 5000 franchi.
+
+<sup>2</sup> La deduzione è ammessa soltanto nella misura in cui gli interessi sui debiti non siano già stati presi in considerazione secondo l’articolo 9 capoverso 2 lettera a.
+
+<sup>3</sup> Negli anni fiscali successivi l’importo massimo deducibile diminuisce annualmente del 10 per cento dell’importo massimo di cui al capoverso 1.
+
+<sup>4</sup> Se l’immobile è alienato o la sua utilizzazione è modificata, la possibilità di deduzione decade a partire dal primo anno fiscale successivo all’alienazione o alla modifica dell’utilizzazione. Se il contribuente acquista entro un congruo termine un immobile sostitutivo adibito al medesimo scopo in Svizzera, a partire dall’anno dell’acquisto dell’immobile la possibilità di deduzione negli anni fiscali rimanenti è retta dal capoverso 3.
+
+<sup>5</sup> L’articolo 9*a* capoversi 2 e 3 si applica per analogia.
+
+[^9b-1]: Introdotto dalla cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 10
 
@@ -523,7 +558,7 @@ Alla deduzione delle spese di ricerca e sviluppo in caso di attività lucrativa 
 [^11-1]: Nuovo testo giusta la cifra I n. 2 della LF del 25 set. 2009 sullo sgravio fiscale delle famiglie con figli, in vigore dal 1° gen. 2011 ([RU 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4095](https://fedlex.data.admin.ch/eli/fga/2009/815)).
 [^11-2]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^11-3]: Introdotto dell’all. n. 5 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^11-4]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^11-4]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### Capitolo 3: Imposta sugli utili da sostanza immobiliare
 
@@ -549,13 +584,13 @@ L’imposizione è differita in caso di:
 - b.[^12-2] trapasso della proprietà tra coniugi in connessione con il regime matrimoniale, nonché d’indennità dovuta per i contributi straordinari di un coniuge al mantenimento della famiglia (art. 165 CC[^12-3]) e per le pretese fondate sul diritto del divorzio, nella misura in cui i coniugi sono d’accordo;
 - c. ricomposizione particellare ai fini di un raggruppamento di terreni, di un piano di quartiere, di rettificazione dei limiti di proprietà, di un arrotondamento dei poderi agricoli, nonché in caso di ricomposizione particellare nell’ambito di una procedura d’espropriazione o di un’espropriazione imminente;
 - d. alienazione totale o parziale di un fondo agricolo o silvicolo, purché il prodotto dell’alienazione venga utilizzato entro un congruo termine per l’acquisto di un fondo sostitutivo sfruttato dal contribuente stesso o per il miglioramento di fondi agricoli o silvicoli appartenenti al contribuente e sfruttati dallo stesso;
-- e. alienazione di un’abitazione (casa monofamiliare o appartamento) che ha servito durevolmente e esclusivamente all’uso personale del contribuente, a condizione che il ricavo sia destinato entro un congruo termine all’acquisto o alla costruzione in Svizzera di un’abitazione sostitutiva adibita al medesimo scopo.
+- e.[^12-4] alienazione di un immobile che ha servito durevolmente ed esclusivamente all’uso proprio del contribuente, a condizione che il ricavo sia destinato entro un congruo termine all’acquisto o alla costruzione in Svizzera di un immobile sostitutivo adibito al medesimo scopo.
 
 <sup>4</sup>
 
 I Cantoni possono riscuotere l’imposta sugli utili da sostanza immobiliare anche sugli utili conseguiti in seguito all’alienazione di fondi facenti parte della sostanza commerciale, sempreché esentino questi utili dall’imposta sul reddito e dall’imposta sull’utile oppure computino l’imposta sugli utili da sostanza immobiliare nell’imposta sul reddito o nell’imposta sull’utile. In ambedue i casi:
 
-- a.[^12-4] le fattispecie di cui agli articoli 8 capoversi 3 e 4 e 24 capoversi 3 e 3<sup>quater</sup> sono assimilate alle alienazioni la cui imposizione è differita ai fini dell’imposta sugli utili da sostanza immobiliare;
+- a.[^12-5] le fattispecie di cui agli articoli 8 capoversi 3 e 4 e 24 capoversi 3 e 3<sup>quater</sup> sono assimilate alle alienazioni la cui imposizione è differita ai fini dell’imposta sugli utili da sostanza immobiliare;
 - b. il trasferimento di tutto o di una parte di fondo dalla sostanza privata alla sostanza commerciale non può essere assimilato a un’alienazione.
 
 <sup>5</sup> I Cantoni provvedono affinché gli utili realizzati a corto termine siano imposti più gravemente.
@@ -563,7 +598,8 @@ I Cantoni possono riscuotere l’imposta sugli utili da sostanza immobiliare anc
 [^12-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^12-2]: Nuovo testo giusta l’all. n. 4 della LF del 26 giu. 1999, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^12-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^12-4]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^12-4]: Nuovo testo giusta la cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^12-5]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### Capitolo 4: Imposta sulla sostanza
 
@@ -794,7 +830,7 @@ Le riserve occulte di una persona giuridica non sono imponibili nell’ambito di
 
 <sup>5</sup> Le prestazioni che imprese miste di interesse pubblico procurano in modo preponderante a persone a loro vicine devono essere stimate al valore di mercato, al loro prezzo di costo aumentato di un margine adeguato o al loro prezzo di vendita finale diminuito di un margine di utile adeguato; il risultato di ciascuna impresa è adattato di conseguenza.
 
-[^24-1]: Nuovo testo giusta la cifra II n. 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
+[^24-1]: Nuovo testo giusta dalla cifra II n. 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 [^24-2]: Nuovo testo giusta l’all. n. 8 della L del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^24-3]: Nuovo testo giusta la cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^24-4]: Introdotto dalla cifra I n. 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
@@ -1036,14 +1072,14 @@ Gli utili delle persone giuridiche che perseguono scopi ideali non sono imponibi
 
 <sup>1quater</sup> Riguardo alle società madri delle banche di rilevanza sistemica di cui all’articolo 7 capoverso 1 della legge dell’8 novembre 1934[^28-5] sulle banche (LBCR), per il calcolo del ricavo netto di cui al capoverso 1 non sono considerati né i costi di finanziamento né i crediti iscritti a bilancio derivanti dal trasferimento interno al gruppo di risorse, relativi agli strumenti di capitale di terzi secondo l’articolo 11 capoverso 4 o 30*b* capoverso 6 o 7 lettera b LBCR approvati dall’Autorità federale di vigilanza sui mercati finanziari ai fini dell’adempimento di esigenze prudenziali.[^28-6]
 
-<sup>2–5</sup> …[^28-7]
+<sup>2<sup>–</sup><sup>5</sup></sup> …[^28-7]
 
 <sup>6</sup> Non sono ammesse altre eccezioni al calcolo ordinario dell’imposta prescritto dall’articolo 27.
 
 [^28-1]: Nuovo testo giusta la cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-2]: Nuovo testo giusta la cifra I n. 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^28-3]: Introdotto dalla cifra I n. 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Nuovo testo giusta il n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^28-4]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^28-4]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-5]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^28-6]: Introdotto dalla cifra I n. 2 della LF del 14 dic. 2018 sul calcolo della deduzione per partecipa-zioni in caso di banche di rilevanza sistemica ([RU 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1013](https://fedlex.data.admin.ch/eli/fga/2018/511)). Nuovo testo giusta l’all. n. 6 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^28-7]: Abrogati dalla cifra I n. 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, con effetto dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
@@ -1086,7 +1122,7 @@ Il capitale proprio imponibile delle società di capitali e delle società coope
 
 <sup>2</sup> I Cantoni possono computare l’imposta sull’utile nell’imposta sul capitale.[^30-1]
 
-[^30-1]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^30-1]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### Capitolo 4: Basi temporali
 
@@ -1706,7 +1742,7 @@ Se una persona di cui al capoverso 4 si denuncia spontaneamente per la prima vol
 <sup>3</sup> Le prescrizioni sui principi procedurali, sulla procedura di tassazione e sulla procedura di ricorso sono applicabili per analogia.
 
 [^57bis-1]: Introdotto dall’art. 3 n. 8 del DF del 17 dic. 2004 che approva e traspone gli accordi bilaterali con l’UE per l’associazione alla normativa di Schengen e Dublino, in vigore dal 1° mar. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^57bis-2]: Nuovo testo giusta la cifra I n. 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
+[^57bis-2]: Nuovo testo giusta dalla cifra II n. 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 [^57bis-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^57bis-4]: Nuovo testo giusta l’all. n. 58 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1766,7 +1802,7 @@ L’azione penale per sottrazione consumata d’imposta si prescrive in dieci an
 
 <sup>3</sup> La prescrizione non interviene se prima della scadenza del termine di prescrizione è pronunciata una decisione dell’autorità cantonale competente (art. 57<sup>bis</sup> cpv. 1).
 
-[^58-1]: Nuovo testo giusta la cifra I n. 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
+[^58-1]: Nuovo testo giusta dalla cifra II n. 2 della LF del 26 set. 2014 (adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 
 ### Capitolo 2: Delitti fiscali
 
@@ -1890,7 +1926,7 @@ La procedura penale e l’esecuzione della pena sono determinate dal diritto can
 
 [^72h-1]
 
-[^72h-1]: Introdotto dalla cifra II n. 7 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Abrogato dalla cifra I n. 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^72h-1]: Introdotto dalla cifra II n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Abrogato dalla cifra I n. 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72i
 
@@ -2008,7 +2044,7 @@ La procedura penale e l’esecuzione della pena sono determinate dal diritto can
 
 [^72z-1]
 
-[^72z-1]: Introdotto dalla cifra I n. 2 della LF del 14 dic. 2018 sul calcolo della deduzione per partecipazioni in caso di banche di rilevanza sistemica ([RU 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1013](https://fedlex.data.admin.ch/eli/fga/2018/511)). Abrogato dalla cifra I n. 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^72z-1]: Introdotto dalla cifra I n. 2 della LF del 14 dic. 2018 sul calcolo della deduzione per partecipa-zioni in caso di banche di rilevanza sistemica ([RU 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1013](https://fedlex.data.admin.ch/eli/fga/2018/511)). Abrogato dalla cifra I n. 4 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 72z<sup>bis</sup>
 
@@ -2056,7 +2092,7 @@ Il Consiglio federale emana le disposizioni esecutive. Disciplina, in particolar
 
 L’articolo 47 capoverso 2 della legge federale del 20 settembre 1949[^76-1] sull’assicurazione militare non si applica alle rendite e alle prestazioni di capitale che decorrono o diventano esigibili dopo l’entrata in vigore della presente legge.
 
-[^76-1]: [[RU 1949 1705](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705), [1956 825](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825), [1959 293](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293), [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245)cifra I, cifra II, [1968 580](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)app. n. 9, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 414; [RU 1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 n. 1,[1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 5, [1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116. [RU 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)all. n. 1]
+[^76-1]: [[RU 1949 1705](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 825](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 293](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245)cifra I; cifra II; [1968 580](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)app. n. 9; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 414; [RU 1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 n. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 5; [1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116. [RU 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)all. n. 1]
 
 #### Art. 77
 
@@ -2141,9 +2177,15 @@ Il nuovo diritto si applica al giudizio dei reati commessi in un periodo fiscale
 
 #### Art. 78h
 
-[^78h-1]
+**Disposizioni transitorie della modifica del 20 dicembre 2024**[^78h-1]
 
-[^78h-1]: In vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+<sup>1</sup> Per i contribuenti che hanno acquistato per la prima volta un immobile in Svizzera destinato durevolmente ed esclusivamente all’uso proprio nel corso dei dieci anni precedenti l’entrata in vigore della modifica del 20 dicembre 2024, l’articolo 9*b* si applica agli anni fiscali rimanenti dopo l’entrata in vigore.
+
+<sup>2</sup> Fintanto che non sia raggiunto l’obiettivo del saldo netto pari a zero delle emissioni di gas serra, ma non oltre il 2050, i Cantoni possono prevedere deduzioni per il risparmio energetico e la protezione dell’ambiente. Per gli investimenti destinati al risparmio energetico e alla protezione dell’ambiente il Dipartimento federale delle finanze determina in collaborazione con i Cantoni quali spese possono essere dedotte.
+
+<sup>3</sup> Le spese di cui al capoverso 2 sono deducibili nel corso dei due periodi fiscali successivi se non possono essere interamente prese in considerazione nel periodo fiscale durante il quale sono state sostenute.
+
+[^78h-1]: Introdotto dalla cifra I n. 2 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 78i
 
