@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Oktober 2008 über die Erhebung von Gebühren und Abg
 short: FINMA-GebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: de
-version: 2024-03-01
+version: 2027-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240301-de-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240301/de"
 
 (FINMA-Gebühren- und Abgabenverordnung, FINMA-GebV)
 
-vom 15. Oktober 2008 (Stand am 1. März 2024)
+vom 15. Oktober 2008 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -58,35 +58,34 @@ Die Gesamtkosten der FINMA setzen sich zusammen aus:
 
 Die FINMA ordnet ihre Kosten so weit als möglich folgenden Aufsichtsbereichen direkt zu:[^3-1]
 
-- a.[^3-2] dem Bereich der Grossbanken und der mit ihnen als Finanzgruppe verbundenen Gesellschaften (Art. 15 Abs. 2 Bst. a FINMAG);
-- a<sup>bis</sup>.[^3-3] dem Bereich der übrigen Banken und Wertpapierhäuser[^3-4] (Art. 15 Abs. 2 Bst. a FINMAG);
-- a<sup>ter</sup>.[^3-5] …
-- a<sup>quater</sup>.[^3-6] dem Bereich der Handelsplätze und der Handelssysteme für Distributed Ledger Technology-Effekten (DLT-Handelssysteme) (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
-- a<sup>quinquies</sup>.[^3-7] dem Bereich der zentralen Gegenparteien, Zentralverwahrer, Transaktionsregister und Zahlungssysteme (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
-- a<sup>sexies</sup>.[^3-8] dem Bereich der Personen nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^3-9] (BankG);
-- b.[^3-10] dem Bereich der kollektiven Kapitalanlagen (Art. 15 Abs. 2 Bst. a<sup>bis</sup> und b FINMAG);
+- a.[^3-2] dem Bereich der Grossbanken und der mit ihnen als Finanzgruppe verbundenen Gesellschaften (Art. 15 Abs. 2 Bst. a<sup>bis</sup> FINMAG);
+- a<sup>bis</sup>.[^3-3] dem Bereich der übrigen Banken und Wertpapierhäuser (Art. 15 Abs. 2 Bst. a<sup>bis</sup> FINMAG);
+- a<sup>ter</sup>.[^3-4] …
+- a<sup>quater</sup>.[^3-5] dem Bereich der Handelsplätze und der Handelssysteme für Distributed Ledger Technology-Effekten (DLT-Handelssysteme) (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
+- a<sup>quinquies</sup>.[^3-6] dem Bereich der zentralen Gegenparteien, Zentralverwahrer, Transaktionsregister und Zahlungssysteme (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
+- a<sup>sexies</sup>.[^3-7] dem Bereich der Personen nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^3-8] (BankG);
+- b.[^3-9] dem Bereich der kollektiven Kapitalanlagen (Art. 15 Abs. 2 Bst. a<sup>bis</sup> und b FINMAG);
 - c. dem Bereich der Versicherungsunternehmen (Art. 15 Abs. 2 Bst. c FINMAG);
 - d. dem Bereich der ungebundenen Versicherungsvermittlerinnen und Versicherungsvermittler (Art. 15 Abs. 2 Bst. c FINMAG);
 - e. dem Bereich der Selbstregulierungsorganisationen (Art. 15 Abs. 2 Bst. d FINMAG); und
-- f.[^3-11] …
-- g.[^3-12] …
-- h.[^3-13] dem Bereich der Aufsichtsorganisationen nach dem 3. Titel des FINMAG (Art. 15 Abs. 2 Bst. e FINMAG).
+- f.[^3-10] …
+- g.[^3-11] …
+- h.[^3-12] dem Bereich der Aufsichtsorganisationen nach dem 3. Titel des FINMAG (Art. 15 Abs. 2 Bst. e FINMAG).
 
 <sup>2</sup> Sie teilt die Strukturkosten im Verhältnis der direkt zugeordneten Kosten auf die Aufsichtsbereiche auf.
 
 [^3-1]: Fassung gemäss Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^3-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^3-3]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^3-4]: Ausdruck gemäss Anhang 1 Ziff. II 13 Abs. 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^3-5]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Aufgehoben durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^3-6]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^3-7]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-8]: Eingefügt durch Ziff. II 3 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^3-9]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^3-10]: Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-11]: Aufgehoben durch Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-12]: Aufgehoben durch Anhang Ziff. 5 der Finanzmarktprüfverordnung vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^3-13]: Eingefügt durch Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-2]: Fassung gemäss Anhang Ziff. 3 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Fassung gemäss Anhang Ziff. 3 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^3-4]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Aufgehoben durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^3-5]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^3-6]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-7]: Eingefügt durch Ziff. II 3 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^3-8]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^3-9]: Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-10]: Aufgehoben durch Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-11]: Aufgehoben durch Anhang Ziff. 5 der Finanzmarktprüfverordnung vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^3-12]: Eingefügt durch Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 4
 

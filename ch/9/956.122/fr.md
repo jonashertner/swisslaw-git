@@ -4,11 +4,11 @@ title: "Ordonnance du 15 octobre 2008 réglant la perception d'émoluments et de
 short: Oém-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: fr
-version: 2024-03-01
+version: 2027-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240301-fr-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240301/fr"
 
 (Ordonnance sur les émoluments et les taxes de la FINMA, Oém-FINMA)
 
-du 15 octobre 2008 (État le 1<sup>er</sup> mars 2024)
+du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -58,34 +58,33 @@ Les charges de la FINMA comprennent:
 
 Dans la mesure du possible, la FINMA impute ses coûts directement aux domaines de surveillance suivants:
 
-- a.[^3-1] domaine des grandes banques et des sociétés qui font partie du même groupe financier (art. 15, al. 2, let. a, LFINMA);
-- a<sup>bis</sup>.[^3-2] domaine des autres banques et maisons de titres[^3-3] (art. 15, al. 2, let. a, LFINMA);
-- a<sup>ter</sup>.[^3-4] …
-- a<sup>quater</sup>[^3-5] domaine des plates-formes de négociation et des systèmes de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (systèmes de négociation fondés sur la TRD) (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
-- a<sup>quinquies</sup>.[^3-6] domaine des contreparties centrales, des dépositaires centraux, des référentiels centraux et des systèmes de paiement (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
-- a<sup>sexies</sup>.[^3-7] domaine des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^3-8];
-- b.[^3-9] domaine des placements collectifs de capitaux (art. 15, al. 2, let. a<sup>bis</sup> et b, LFINMA);
+- a.[^3-1] domaine des grandes banques et des sociétés qui font partie du même groupe financier (art. 15, al. 2, let. a<sup>bis</sup>, LFINMA);
+- a<sup>bis</sup>.[^3-2] domaine des autres banques et maisons de titres (art. 15, al. 2, let. a<sup>bis</sup>, LFINMA);
+- a<sup>ter</sup>.[^3-3] …
+- a<sup>quater</sup>[^3-4] domaine des plates-formes de négociation et des systèmes de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (systèmes de négociation fondés sur la TRD) (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
+- a<sup>quinquies</sup>.[^3-5] domaine des contreparties centrales, des dépositaires centraux, des référentiels centraux et des systèmes de paiement (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
+- a<sup>sexies</sup>.[^3-6] domaine des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^3-7];
+- b.[^3-8] domaine des placements collectifs de capitaux (art. 15, al. 2, let. a<sup>bis</sup> et b, LFINMA);
 - c. domaine des entreprises d’assurance (art. 15, al. 2, let. c, LFINMA);
 - d. domaine des intermédiaires en assurance non liés à une entreprise (art. 15, al. 2, let. c, LFINMA);
 - e. domaine des organismes d’autorégulation (art. 15, al. 2, let. d, LFINMA);
-- f.[^3-10] …
-- g.[^3-11] …
-- h.[^3-12] domaine des organismes de surveillance au sens du titre 3 LFINMA (art. 15, al. 2, let. e, LFINMA).
+- f.[^3-9] …
+- g.[^3-10] …
+- h.[^3-11] domaine des organismes de surveillance au sens du titre 3 LFINMA (art. 15, al. 2, let. e, LFINMA).
 
 <sup>2</sup> Elle répartit les coûts structurels entre les domaines de surveillance proportionnellement aux coûts qui leur sont directement imputés.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^3-2]: Introduite par le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^3-3]: Nouvelle expression selon l’annexe 1 ch. II 13 al. 1 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Il a été tenu compte de cette mod. dans tout le texte.
-[^3-4]: Introduite par le ch. I de l’O du 17 nov. 2010 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Abrogée par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^3-5]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^3-6]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-7]: Introduite par le ch. II 3 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^3-8]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^3-9]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-10]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-11]: Abrogée par l’annexe ch. 5 de l’O du 5 nov. 2014 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^3-12]: Introduite par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^3-2]: Introduite par le ch. I de l’O du 17 nov. 2010 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Nouvelle teneur selon l’annexe ch. 3 de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^3-3]: Introduite par le ch. I de l’O du 17 nov. 2010 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Abrogée par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^3-4]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^3-5]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-6]: Introduite par le ch. II 3 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^3-7]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^3-8]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-9]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-10]: Abrogée par l’annexe ch. 5 de l’O du 5 nov. 2014 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^3-11]: Introduite par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 4
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 15 ottobre 2008 sulla riscossione di emolumenti e tasse da
 short: Oem-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: it
-version: 2024-03-01
+version: 2027-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240301-it-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2008-749-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240301/it"
 
 (Ordinanza sugli emolumenti e sulle tasse della FINMA, Oem-FINMA)
 
-del 15 ottobre 2008 (Stato 1° marzo 2024)
+del 15 ottobre 2008 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -58,34 +58,33 @@ I costi complessivi della FINMA comprendono:
 
 Per quanto possibile, la FINMA imputa i suoi costi direttamente agli ambiti di vigilanza seguenti:
 
-- a.[^3-1] ambito delle grandi banche e delle società ad esse associate come gruppo finanziario (art. 15 cpv. 2 lett. a LFINMA);
-- a<sup>bis</sup>.[^3-2] ambito delle altre banche e dei società di intermediazione mobiliare[^3-3] (art. 15 cpv. 2 lett. a LFINMA);
-- a<sup>ter</sup>.[^3-4] …
-- a<sup>quater</sup>.[^3-5] ambito delle sedi di negoziazione e dei sistemi di negoziazione per valori mobiliari da tecnologia di registro distribuito (sistemi di negoziazione TRD) (art. 15 cpv. 2 lett. a<sup>ter</sup> LFINMA);
-- a<sup>quinquies</sup>.[^3-6] ambito delle controparti centrali, dei depositari centrali, dei repertori di dati sulle negoziazioni (art. 15 cpv. 2 lett. a<sup>ter</sup> LFINMA);
-- a<sup>sexies</sup>.[^3-7] ambito delle persone di cui all’articolo 1*b* della legge dell’8 novembre 1934[^3-8] sulle banche (LBCR);
-- b.[^3-9] ambito degli investimenti collettivi di capitale (art. 15 cpv. 2 lett. a<sup>bis</sup> e b LFINMA);
+- a.[^3-1] ambito delle grandi banche e delle società ad esse associate come gruppo finanziario (art. 15 cpv. 2 lett. a<sup>bis</sup> LFINMA);
+- a<sup>bis</sup>.[^3-2] ambito delle altre banche e delle società di intermediazione mobiliare (art. 15 cpv. 2 lett. a<sup>bis</sup> LFINMA);
+- a<sup>ter</sup>.[^3-3] …
+- a<sup>quater</sup>.[^3-4] ambito delle sedi di negoziazione e dei sistemi di negoziazione per valori mobiliari da tecnologia di registro distribuito (sistemi di negoziazione TRD) (art. 15 cpv. 2 lett. a<sup>ter</sup> LFINMA);
+- a<sup>quinquies</sup>.[^3-5] ambito delle controparti centrali, dei depositari centrali, dei repertori di dati sulle negoziazioni (art. 15 cpv. 2 lett. a<sup>ter</sup> LFINMA);
+- a<sup>sexies</sup>.[^3-6] ambito delle persone di cui all’articolo 1*b* della legge dell’8 novembre 1934[^3-7] sulle banche (LBCR);
+- b.[^3-8] ambito degli investimenti collettivi di capitale (art. 15 cpv. 2 lett. a<sup>bis</sup> e b LFINMA);
 - c. ambito delle imprese di assicurazione (art. 15 cpv. 2 lett. c LFINMA);
 - d. ambito degli intermediari assicurativi non vincolati (art. 15 cpv. 2 lett. c LFINMA);
 - e. ambito degli organismi di autodisciplina (art. 15 cpv. 2 lett. d LFINMA);
-- f.[^3-10] …
-- g.[^3-11] …
-- h.[^3-12] ambito degli organismi di vigilanza secondo il titolo terzo LFINMA (art. 15 cpv. 2 lett. e LFINMA).
+- f.[^3-9] …
+- g.[^3-10] …
+- h.[^3-11] ambito degli organismi di vigilanza secondo il titolo terzo LFINMA (art. 15 cpv. 2 lett. e LFINMA).
 
 <sup>2</sup> Ripartisce i costi strutturali fra gli ambiti di vigilanza in proporzione ai costi che sono loro direttamente imputati.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^3-2]: Introdotta dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^3-3]: Nuova espr. giusta l’all. 1 n. II 13 cpv. 1 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. é tenuto conto in tutto il testo.
-[^3-4]: Introdotta dal n. I dell’O del 17 nov. 2010 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Abrogata dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^3-5]: Introdotta dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nuovo testo giusta il n. I 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^3-6]: Introdotta dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-7]: Introdotta dal n. II 3 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^3-8]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^3-9]: Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-10]: Abrogata dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-11]: Abrogata dall’all. n. 5 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^3-12]: Introdotta dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-1]: Nuovo testo giusta l’all. n. 3 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^3-2]: Introdotta dalla cifra I dell’O del 17 nov. 2010 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Nuovo testo giusta l’all. n. 3 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^3-3]: Introdotta dalla cifra I dell’O del 17 nov. 2010 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Abrogata dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^3-4]: Introdotta dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nuovo testo giusta la cifra I n. 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^3-5]: Introdotta dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nuovo testo giusta l’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-6]: Introdotta dalla cifra II n. 3 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^3-7]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^3-8]: Nuovo testo giusta l’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-9]: Abrogata dall’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-10]: Abrogata dall’all. n. 5 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^3-11]: Introdotta dall’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 4
 
@@ -130,7 +129,7 @@ Sempreché la presente ordinanza non preveda una regolamentazione specifica, si 
 
 <sup>2</sup> Alle riproduzioni si applica la tariffa di cui all’allegato.[^7-1]
 
-[^7-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
+[^7-1]: Introdotto dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 
 #### Art. 8
 
@@ -183,7 +182,7 @@ Per le verifiche e le procedure di vigilanza che si concludono senza una decisio
 
 <sup>3</sup> Essa è calcolata sulla base dei costi complessivi della FINMA per l’anno che precede l’anno di assoggettamento e delle riserve che devono essere costituite.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 
 #### Art. 12
 
@@ -195,8 +194,8 @@ Per le verifiche e le procedure di vigilanza che si concludono senza una decisio
 
 <sup>3</sup> …[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^12-2]: Abrogato dal n. I dell’O del 25 mar. 2009, con effetto dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
+[^12-2]: Abrogato dalla cifra I dell’O del 25 mar. 2009, con effetto dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
 
 #### Art. 13
 
@@ -220,7 +219,7 @@ Per le verifiche e le procedure di vigilanza che si concludono senza una decisio
 
 <sup>3</sup> Se dai conti della FINMA risulta un’eccedenza o un disavanzo, l’importo corrispondente viene riportato, per ogni ambito di vigilanza, sull’anno contabile successivo.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 
 #### Art. 15
 
@@ -238,7 +237,7 @@ Per le verifiche e le procedure di vigilanza che si concludono senza una decisio
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
-[^chap3-sec2-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
+[^chap3-sec2-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 [^chap3-sec2-2]: Nuovo testo giusta l’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 16
@@ -287,7 +286,7 @@ La tassa di base ammonta annualmente a:
 <sup>2</sup> Le società di intermediazione mobiliare e le banche con statuto di società di intermediazione mobiliare devono versare la tassa complementare in funzione del totale di bilancio e la tassa complementare in funzione della cifra d’affari realizzata con i valori mobiliari. Le banche senza statuto di società di intermediazione mobiliare devono versare soltanto la tassa complementare in funzione del totale di bilancio.[^17-2]
 
 [^17-1]: Nuovo testo giusta l’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^17-2]: Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^17-2]: Nuovo testo giusta l’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 18
 
@@ -369,11 +368,11 @@ La tassa di base per i piccoli sistemi di negoziazione TRD secondo l’articolo 
 - b. 50 000 franchi, se forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c LInFi.[^19a-6]
 
 [^19a-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
-[^19a-2]: Nuovo testo giusta il n. I 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^19a-3]: Introdotta dal n. I 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^19a-4]: Introdotta dal n. I 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-3]: Introdotta dalla cifra I n. 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-4]: Introdotta dalla cifra I n. 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^19a-5]: [RS 958.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11627)
-[^19a-6]: Introdotto dal n. I 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-6]: Introdotto dalla cifra I n. 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 19b
 
@@ -406,7 +405,7 @@ Il ricavo lordo comprende tutti i ricavi ai sensi dell’articolo 959*b* del Cod
 
 [^chap3-sec2b-1]
 
-[^chap3-sec2b-1]: Introdotta dal n. II 3 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^chap3-sec2b-1]: Introdotta dalla cifra II n. 3 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 19e
 
@@ -484,13 +483,13 @@ La tassa di base per gli investimenti collettivi di capitale svizzeri è versata
 <sup>4</sup> Il ricavo lordo comprende tutti i ricavi ai sensi dell’articolo 959*b* del Codice delle obbligazioni[^20-7].[^20-8]
 
 [^20-1]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^20-2]: Abrogata dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^20-3]: Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^20-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
+[^20-2]: Abrogata dall’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-3]: Nuovo testo giusta l’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^20-5]: Introdotto dall’all. n. 9 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^20-6]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^20-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^20-8]: Introdotto dal n. I dell’O del 21 nov. 2012 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Nuovo testo l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-8]: Introdotto dalla cifra I dell’O del 21 nov. 2012 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Nuovo testo l’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 21
 
@@ -512,8 +511,8 @@ La tassa complementare per gli investimenti collettivi di capitale svizzeri è v
 - c. dalle società in accomandita per investimenti collettivi di capitale;
 - d. dalle SICAF.
 
-[^21-1]: Nuova espr. giusta l’all. 1 n. II 13 cpv. 2 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. é tenuto conto in tutto il testo.
-[^21-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^21-1]: Nuova espr. giusta l’all. 1 cifra II n. 13 cpv. 2 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. é tenuto conto in tutto il testo.
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Nuovo testo giusta l’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 22
 
@@ -523,7 +522,7 @@ La tassa complementare per gli investimenti collettivi di capitale svizzeri è v
 
 <sup>2</sup> La tassa complementare ammonta a 50 000 franchi al massimo. Nel caso dei fondi ombrello questo limite massimo si applica a ciascun segmento patrimoniale.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 
 #### Art. 23
 
@@ -535,9 +534,9 @@ La tassa complementare per gli investimenti collettivi di capitale svizzeri è v
 
 <sup>3</sup> Le banche depositarie di investimenti collettivi di capitale svizzeri versano la tassa complementare in funzione del ricavo lordo. Quest’ultimo corrisponde alla commissione delle banche depositarie.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^23-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^23-3]: Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^23-3]: Nuovo testo giusta l’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Sezione 4: Imprese di assicurazione
 
@@ -559,7 +558,7 @@ La tassa di base ammonta a:
 <sup>3</sup> La tassa di base dei gruppi e dei conglomerati assicurativi è versata dall’impresa che è designata come interlocutrice secondo l’articolo 191 capoverso 3 dell’ordinanza del 9 novembre 2005[^24-3] sulla sorveglianza (OS).
 
 [^24-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
-[^24-2]: Nuovo testo giusta il n. III 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^24-2]: Nuovo testo giusta la cifra III n. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^24-3]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 25
@@ -592,11 +591,11 @@ L’importo determinante dei premi incassati corrisponde:
 <sup>5</sup> È assoggettata alla tassa l’impresa che è designata come interlocutrice secondo l’articolo 191 capoverso 3 dell’OS[^25-7].
 
 [^25-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
-[^25-2]: Nuovo testo giusta il n. III 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^25-3]: Introdotto dal n. I dell’O del 25 mar. 2009, in vigore dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
-[^25-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
-[^25-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
-[^25-6]: Nuovo testo giusta il n. III 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^25-2]: Nuovo testo giusta la cifra III n. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^25-3]: Introdotto dalla cifra I dell’O del 25 mar. 2009, in vigore dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
+[^25-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
+[^25-6]: Nuovo testo giusta la cifra III n. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^25-7]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 26
@@ -617,8 +616,8 @@ I costi per gli intermediari assicurativi vincolati a un’impresa di assicurazi
 
 <sup>2</sup> Sono determinanti le iscrizioni nel registro al 31 dicembre dell’anno che precede l’anno di assoggettamento.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
-[^27-2]: Introdotto dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
+[^27-2]: Introdotto dalla cifra I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 
 ### Sezione 6: Organismi di autodisciplina
 
@@ -628,7 +627,7 @@ I costi per gli intermediari assicurativi vincolati a un’impresa di assicurazi
 
 La tassa di base ammonta a 3000 franchi per organismo di autodisciplina.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2009, in vigore dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2009, in vigore dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
 
 #### Art. 29
 
@@ -664,13 +663,13 @@ Il ricavo lordo comprende tutti i ricavi ai sensi dell’articolo 959*b* del Cod
 [^31-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^31-2]: Nuovo testo giusta l’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^31-3]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^31-4]: Introdotta dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^31-4]: Introdotta dall’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Sezione 6*a*: Organismi di vigilanza secondo il titolo terzo LFINMA
 
 [^chap3-sec6a-1]
 
-[^chap3-sec6a-1]: Introdotta dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^chap3-sec6a-1]: Introdotta dall’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 31a
 
@@ -694,7 +693,7 @@ La tassa di base ammonta annualmente a 3000 franchi per organismo di vigilanza.
 
 [^3234-1]
 
-[^3234-1]: Abrogati dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3234-1]: Abrogati dall’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Sezione 8: …
 
@@ -758,7 +757,7 @@ Il diritto previgente si applica alla riscossione di emolumenti per le procedure
 
 La FINMA esamina le tasse di base di cui all’articolo 19*a* capoverso 1 lettere f e g due anni dopo l’entrata in vigore di questa modifica e redige un rapporto all’attenzione del Consiglio federale.
 
-[^39c-1]: Introdotto dal n. I 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^39c-1]: Introdotto dalla cifra I n. 9 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 40
 
@@ -772,7 +771,7 @@ Allegato[^t-1]
 
 ## Tariffe quadro ed esborsi
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 21 nov. 2012 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Aggiornato dall’all. n. 1 dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), dall’all. n. 5 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)), dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)), dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)) e dall’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 21 nov. 2012 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Aggiornato dall’all. n. 1 dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), dall’all. n. 5 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)), dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)), dall’all. 1 cifra II n. 13 dell’O del 6 nov. 2019 sugli istituti finanziari ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)) e dall’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th></th><th>in franchi</th></tr>
