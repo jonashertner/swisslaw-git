@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accord plurilatéral sur le commerce électronique
 document: Projet mis en consultation-2
 language: fr

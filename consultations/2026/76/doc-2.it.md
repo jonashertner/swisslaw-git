@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accordo plurilaterale sul commercio elettronico
 document: Progetto posto in consultazione-2
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Plurilaterales Abkommen über den elektronischen Geschäftsverkehr
 document: Vernehmlassungsvorlage-2
 language: de
