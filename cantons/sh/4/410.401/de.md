@@ -4,13 +4,12 @@ number: "410.401"
 title: Verordnung über die Arbeitsverhältnisse der Lehrpersonen an den öffentlichen Schulen
 short: Lehrerverordnung
 language: de
-version: 2026-08-01
-valid_until: 2027-07-31
+version: 2027-08-01
 version_adopted: 2026-08-18
 adopted: 2005-10-25
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.401"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2124/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2125/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/2124/pdf_file"
 
 (Lehrerverordnung)
 
-Vom 25.10.2005 (Stand 01.08.2026)
+Vom 25.10.2005 (Stand 01.08.2027)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -467,9 +466,11 @@ beschliesst:
 
 <sup>4</sup> Die berufsbefähigenden Aus- und Weiterbildungen sind in der unterrichtsfreien Zeit zu absolvieren. Für Prüfungstage und Projekttage, welche während der Unterrichtszeit stattfinden, werden die Stellvertretungskosten übernommen.
 
-<sup>5</sup> Die berufsbefähigenden Aus- und Weiterbildungen bedürfen der vorgängigen Zustimmung der zuständigen Schulbehörde bzw. Schulleitung bzw. Geschäftsleitung. Bei Lehrpersonen der Primar- und Sekundarstufe I bedarf es zudem der Bewilligung durch die Dienststelle Primar- und Sekundarstufe I. Es ist eine schriftliche Vereinbarung abzuschliessen. Diese enthält insbesondere die Einzelheiten zur berufsbefähigenden Aus- bzw. Weiterbildung, zur Kostenbeteiligung und zum Urlaub, zu allfälligen Stellvertretungskosten sowie zur Rückzahlungspflicht gemäss § 50 der Personalverordnung.
+<sup>5</sup> Vorbehältlich Abs. 5bis bedürfen die berufsbefähigenden Aus- und Weiterbildungen der vorgängigen Zustimmung der zuständigen Schulbehörde bzw. Schulleitung bzw. Geschäftsleitung. Bei Lehrpersonen der Primar- und Sekundarstufe I bedarf es zudem der Bewilligung durch die Dienststelle Primar- und Sekundarstufe I. Es ist eine schriftliche Vereinbarung abzuschliessen. Diese enthält insbesondere die Einzelheiten zur berufsbefähigenden Aus- bzw. Weiterbildung, zur Kostenbeteiligung und zum Urlaub, zu allfälligen Stellvertretungskosten sowie zur Rückzahlungspflicht gemäss § 50 der Personalverordnung.
 
-<sup>6</sup> § 50 der Personalverordnung findet keine Anwendung auf befristet angestellte Lehrpersonen.
+<sup>5<sup>bis</sup></sup> Abs. 5 findet keine Anwendung auf die Teilnahme an der Einführung kantonale Berufspraxis sowie an der gesamten Vertiefung kantonale Berufspraxis gemäss Berufseinführungsverordnung.
+
+<sup>6</sup> § 50 der Personalverordnung findet keine Anwendung auf befristet angestellte Lehrpersonen sowie auf Lehrpersonen, welche an der Einführung kantonale Berufspraxis sowie an der gesamten Vertiefung kantonale Berufspraxis gemäss Berufseinführungsverordnung teilnehmen.
 
 #### § 40b
 
