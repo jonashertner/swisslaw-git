@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 2014 über die Weiterbildung (WeBiG)
 short: WeBiG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/132"
 language: de
-version: 2017-01-01
+version: 2027-01-01
 adopted: 2014-06-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/132/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2016-132-20170101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/132/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2016-132-20270101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20170101/de"
 
 (WeBiG)
 
-vom 20. Juni 2014 (Stand am 1. Januar 2017)
+vom 20. Juni 2014 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -181,11 +181,12 @@ Der Bund kann im Rahmen der Spezialgesetzgebung Finanzhilfen für Weiterbildunge
 
 #### Art. 11
 
-**Ressortforschung des Bundes**
+**Ressortforschung des Bundes**[^11-1]
 
-Die Ressortforschung des Bundes in der Weiterbildung richtet sich nach Artikel 16 Absatz 2 Buchstaben b–d des Bundesgesetzes vom 14. Dezember 2012[^11-1] über die Förderung der Forschung und der Innovation.
+Die Ressortforschung des Bundes in der Weiterbildung richtet sich nach Artikel 16 Absatz 2 Buchstaben a, c und d des Bundesgesetzes vom 14. Dezember 2012[^11-2] über die Förderung der Forschung und der Innovation.
 
-[^11-1]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^11-1]: Fassung gemäss Ziff. I 8 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^11-2]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 12
 

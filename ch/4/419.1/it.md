@@ -4,11 +4,11 @@ title: Legge federale del 20 giugno 2014 sulla formazione continua (LFCo)
 short: LFCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/132"
 language: it
-version: 2017-01-01
+version: 2027-01-01
 adopted: 2014-06-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/132/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2016-132-20170101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/132/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2016-132-20270101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20170101/it"
 
 (LFCo)
 
-del 20 giugno 2014 (Stato 1° gennaio 2017)
+del 20 giugno 2014 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -181,11 +181,12 @@ Nella legislazione speciale, la Confederazione può prevedere la concessione di 
 
 #### Art. 11
 
-**Ricerca del settore pubblico federale**
+**Ricerca del settore pubblico federale**[^11-1]
 
-La ricerca del settore pubblico federale in materia di formazione continua è retta dall’articolo 16 capoverso 2 lettere b‒d della legge federale del 14 dicembre 2012[^11-1] sulla promozione della ricerca e dell’innovazione.
+La ricerca del settore pubblico federale in materia di formazione continua è retta dall’articolo 16 capoverso 2 lettere a, c e d della legge federale del 14 dicembre 2012[^11-2] sulla promozione della ricerca e dell’innovazione.
 
-[^11-1]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^11-1]: Nuovo testo giusta la cifra I n. 8 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^11-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 12
 

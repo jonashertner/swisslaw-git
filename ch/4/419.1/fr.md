@@ -4,11 +4,11 @@ title: Loi fédérale du 20 juin 2014 sur la formation continue (LFCo)
 short: LFCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/132"
 language: fr
-version: 2017-01-01
+version: 2027-01-01
 adopted: 2014-06-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/132/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-132-20170101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/132/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-132-20270101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/132/20170101/fr"
 
 (LFCo)[^t-1]
 
-du 20 juin 2014 (État le 1<sup>er</sup> janvier 2017)
+du 20 juin 2014 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -183,11 +183,12 @@ La Confédération peut prévoir l’octroi d’aides financières en faveur de 
 
 #### Art. 11
 
-**Recherche de l’administration fédérale**
+**Recherche de l’administration fédérale**[^11-1]
 
-La recherche de l’administration fédérale en matière de formation continue se fonde sur l’art. 16, al. 2, let. b à d, de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation[^11-1].
+La recherche de l’administration fédérale en matière de formation continue se fonde sur l’art. 16, al. 2, let. a, c et d, de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation[^11-2].
 
-[^11-1]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^11-1]: Nouvelle teneur selon le ch. I 8 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^11-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 12
 
