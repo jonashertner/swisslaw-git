@@ -3,11 +3,11 @@ sr: "414.110"
 title: Bundesgesetz vom 4. Oktober 1991 über die Eidgenössischen Technischen Hochschulen (ETH-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: de
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20270101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20280101/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20280101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/de"
 
 (ETH-Gesetz)
 
-vom 4. Oktober 1991 (Stand am 1. Januar 2027)
+vom 4. Oktober 1991 (Stand am 1. Januar 2028)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1170,7 +1170,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 **ETH-Beschwerdekommission**[^37a-1]
 
-<sup>1</sup> Der Bundesrat wählt die sieben Mitglieder der ETH-Beschwerdekommission.[^37a-2] Mindestens vier Mitglieder müssen dem ETH-Bereich angehören.
+<sup>1</sup> Der Bundesrat wählt die sieben Mitglieder der ETH-Beschwerdekommission.[^37a-2] Mindestens vier Mitglieder dürfen nicht dem ETH-Bereich angehören.[^37a-3]
 
 <sup>2</sup> Die Amtsdauer beträgt jeweils vier Jahre, wobei Wiederwahl möglich ist.
 
@@ -1178,11 +1178,12 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>4</sup> Die Kommission ist dem ETH-Rat administrativ zugewiesen. Sie verfügt über ein eigenes Sekretariat.
 
-<sup>5</sup> Der Bundesrat erlässt die Geschäftsordnung.[^37a-3] Er regelt darin namentlich die Zuständigkeit des Präsidenten in dringlichen Fällen und in Fällen von untergeordneter Bedeutung sowie die Bildung von Kammern mit selbstständiger Entscheidungsbefugnis.
+<sup>5</sup> Der Bundesrat erlässt die Geschäftsordnung.[^37a-4] Er regelt darin namentlich die Zuständigkeit des Präsidenten in dringlichen Fällen und in Fällen von untergeordneter Bedeutung sowie die Bildung von Kammern mit selbstständiger Entscheidungsbefugnis.
 
 [^37a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^37a-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^37a-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-3]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Jan. 2028 ([AS 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^37a-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37b
 

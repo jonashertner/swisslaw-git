@@ -3,11 +3,11 @@ sr: "414.110"
 title: Legge federale del 4 ottobre 1991 sui politecnici federali (Legge sui PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: it
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20270101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20280101/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20280101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20280101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/it"
 
 (Legge sui PF)
 
-del 4 ottobre 1991 (Stato 1° gennaio 2027)
+del 4 ottobre 1991 (Stato 1° gennaio 2028)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -40,7 +40,7 @@ La presente legge si applica al settore dei politecnici federali (settore dei PF
 
 - a. il Politecnico federale di Zurigo (PFZ);
 - b. il Politecnico federale di Losanna (PFL);
-- c.[^1-1] gli istituti di ricerca .
+- c.[^1-1] gli istituti di ricerca.
 
 <sup>2</sup> Questi istituti sono gestiti dalla Confederazione.
 
@@ -133,7 +133,7 @@ Nell’ambito degli obiettivi strategici definiti dal Consiglio federale per il 
 
 <sup>3</sup> Nei PF è garantita la libertà di insegnamento, di ricerca e di studio.
 
-<sup>4</sup> ...[^5-1]
+<sup>4</sup> …[^5-1]
 
 [^5-1]: Abrogato dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
@@ -282,7 +282,7 @@ Sono membri dei PF:
 
 <sup>1</sup> La Direzione della scuola assume assistenti per attività di insegnamento e di ricerca di durata limitata. Essi hanno la possibilità di perfezionarsi svolgendo ricerche o seguendo corsi.
 
-<sup>2 e <sup>3</sup></sup> ...[^15-2]
+<sup>2 e <sup>3</sup></sup> …[^15-2]
 
 [^15-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^15-2]: Abrogati dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
@@ -622,7 +622,7 @@ Durante le sedute del Consiglio dei PF, i membri di cui all’articolo 24 capove
 
 - a. alla ripartizione dei mezzi finanziari della Confederazione;
 - b. alle proposte di nomina dei presidenti delle scuole e dei direttori degli istituti di ricerca;
-- c. ...[^25a-2]
+- c. …[^25a-2]
 
 <sup>2</sup>
 
@@ -670,7 +670,7 @@ Il Consiglio dei PF dispone di uno stato maggiore.
 
 <sup>2</sup> Il Consiglio dei PF definisce nelle linee fondamentali l’organizzazione dei PF.[^27-1]
 
-<sup>3</sup> ...[^27-2]
+<sup>3</sup> …[^27-2]
 
 [^27-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^27-2]: Abrogato dall’all. n. 2 della LF del 14 dic. 2012, con effetto dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
@@ -1169,7 +1169,7 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 **Commissione di ricorso dei PF**[^37a-1]
 
-<sup>1</sup> Il Consiglio federale nomina i sette membri della Commissione di ricorso dei PF.[^37a-2] Almeno quattro di questi membri devono far parte del settore dei PF.
+<sup>1</sup> Il Consiglio federale nomina i sette membri della Commissione di ricorso dei PF.[^37a-2] Almeno quattro di questi membri non fanno parte del settore dei PF.[^37a-3]
 
 <sup>2</sup> La durata della funzione è di quattro anni e la rielezione è possibile.
 
@@ -1177,11 +1177,12 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>4</sup> La Commissione dipende amministrativamente dal Consiglio dei PF. Essa dispone di una propria segreteria.
 
-<sup>5</sup> Il Consiglio federale emana il regolamento della Commissione.[^37a-3]Vi disciplina segnatamente le competenze del presidente nei casi urgenti o di importanza secondaria e l’istituzione di camere con competenza decisionale autonoma.
+<sup>5</sup> Il Consiglio federale emana il regolamento della Commissione.[^37a-4]Vi disciplina segnatamente le competenze del presidente nei casi urgenti o di importanza secondaria e l’istituzione di camere con competenza decisionale autonoma.
 
 [^37a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^37a-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^37a-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-3]: Nuovo testo del secondo per. giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° gen. 2028 ([RU 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^37a-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37b
 
@@ -1235,7 +1236,7 @@ In caso di infrazioni disciplinari gravi o ripetute possono adottare le seguenti
 
 #### Art. 39
 
-**...[^39-1]**
+**…[^39-1]**
 
 <sup>1</sup> Il Consiglio federale esercita l’alta sorveglianza sui PF e sugli istituti di ricerca.
 
@@ -1267,7 +1268,7 @@ Sono abrogate:
 
 <sup>2</sup> Le seguenti leggi sono modificate come segue:
 
-...[^40-8]
+…[^40-8]
 
 [^40-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^40-2]: [CS **4** 105; [RU 1959 533](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533); [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 cpv. 1 e [3](https://fedlex.data.admin.ch/eli/oc/1970/3_3_3); [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 70]

@@ -3,11 +3,11 @@ sr: "414.110"
 title: Loi fédérale du 4 octobre 1991 sur les écoles polytechniques fédérales (Loi sur les EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: fr
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20270101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20280101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/fr"
 
 (Loi sur les EPF)[^t-1]
 
-du 4 octobre 1991 (État le 1<sup>er</sup> janvier 2027)
+du 4 octobre 1991 (État le 1<sup>er</sup> janvier 2028)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1175,7 +1175,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 **Commission de recours interne des EPF**[^37a-1]
 
-<sup>1</sup> Le Conseil fédéral nomme les sept membres de la Commission de recours interne des EPF.[^37a-2] Au moins quatre de ces membres doivent faire partie du domaine des EPF.
+<sup>1</sup> Le Conseil fédéral nomme les sept membres de la Commission de recours interne des EPF.[^37a-2] Au moins quatre de ces membres ne doivent pas appartenir au domaine des EPF.[^37a-3]
 
 <sup>2</sup> La durée de fonction est de quatre ans, le mandat étant renouvelable.
 
@@ -1183,11 +1183,12 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>4</sup> La commission est rattachée administrativement au Conseil des EPF. Elle possède son propre secrétariat.
 
-<sup>5</sup> Le Conseil fédéral édicte le règlement de la commission.[^37a-3] Il y règle notamment les compétences du président en cas d’urgence ou dans les cas d’importance secondaire ainsi que la création de chambres munies d’un pouvoir de décision indépendant.
+<sup>5</sup> Le Conseil fédéral édicte le règlement de la commission.[^37a-4] Il y règle notamment les compétences du président en cas d’urgence ou dans les cas d’importance secondaire ainsi que la création de chambres munies d’un pouvoir de décision indépendant.
 
 [^37a-1]: Introduit par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^37a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^37a-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-3]: Nouvelle teneur de la phrase selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^37a-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37b
 
