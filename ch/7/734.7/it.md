@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2026-08-13
+version: 2027-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260813/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260813-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260813/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260813/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 13 agosto 2026)
+del 23 marzo 2007 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -194,7 +194,7 @@ I gestori di rete coordinano le loro attività. Essi sono tenuti in particolare 
 
 <sup>1bis</sup> I produttori, i consumatori finali e i gestori di impianti di stoccaggio sostengono il proprio gestore di rete nell’attuazione di provvedimenti volti a garantire l’esercizio sicuro della rete. Essi si attengono alle sue istruzioni nel caso di provvedimenti ordinati secondo l’articolo 20*a*. Questi obblighi si applicano per analogia ai gestori di rete con reti collegate.[^8-1]
 
-<sup>2</sup> ...[^8-2]
+<sup>2</sup> …[^8-2]
 
 <sup>3</sup> I gestori di rete informano con scadenza annuale la Commissione dell’energia elettrica (ElCom) in merito all’esercizio e al carico delle reti, nonché in merito ad avvenimenti straordinari.
 
@@ -502,7 +502,7 @@ L’accesso alla rete può essere negato, con motivazione scritta, entro dieci g
 - c. in caso di utilizzazione transfrontaliera della rete, non è concessa la reciprocità da parte dello Stato estero; o
 - d. sussiste un’eccezione secondo l’articolo 17 capoverso 6.
 
-<sup>3</sup> ...[^13-1]
+<sup>3</sup> …[^13-1]
 
 [^13-1]: Abrogato dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, con effetto dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -521,7 +521,7 @@ Il corrispettivo per l’utilizzazione della rete è riscosso sulla base delle t
 - a.[^14-4] devono presentare strutture comprensibili che riflettano i costi causati dai consumatori finali;
 - b. non devono dipendere dalla distanza fra punto di prelievo e punto di immissione;
 - c.[^14-5] devono fondarsi sul profilo dell’acquisto e nella rete di un gestore di rete devono essere unitari per livello di tensione e gruppo di clienti;
-- d.[^14-6] ...
+- d.[^14-6] …
 - e.[^14-7] devono tenere conto degli obiettivi di efficienza dell’infrastruttura di rete e dell’impiego dell’energia elettrica e creare incentivi per una gestione stabile e sicura della rete.
 
 <sup>3bis</sup> Nel determinare le tariffe per l’utilizzazione della rete non possono essere presi in considerazione i costi fatturati individualmente dai gestori di rete.[^14-8]
@@ -1081,7 +1081,7 @@ In particolare, la società di rete:
 - g.[^20-4] informa l’opinione pubblica sulle motivazioni e sullo stato dei progetti da essa gestiti conformemente al piano pluriennale, illustrandone l’importanza per l’approvvigionamento di energia elettrica in Svizzera;
 - h.[^20-5] fornisce all’UFE e ai Cantoni le informazioni necessarie alle attività di relazioni pubbliche conformemente all’articolo 9*e* e mette loro a disposizione la relativa documentazione.
 
-<sup>3</sup> ...[^20-6]
+<sup>3</sup> …[^20-6]
 
 <sup>4</sup> Per adempiere i propri compiti, nel singolo caso la società di rete può chiedere l’espropriazione alla ElCom. Le disposizioni procedurali della legge federale del 20 giugno 1930[^20-7] sull’espropriazione non sono applicabili.
 
@@ -1134,13 +1134,15 @@ In particolare, la società di rete:
 
 <sup>2</sup> La ElCom non soggiace a istruzioni del Consiglio federale e del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni per quanto riguarda le sue decisioni. È indipendente dalle autorità amministrative. Dispone di una propria segreteria.
 
-<sup>3</sup> ...[^21-1]
+<sup>3</sup> …[^21-1]
 
 <sup>4</sup> La ElCom emana un regolamento sulla propria organizzazione e gestione, il quale deve essere approvato dal Consiglio federale.
 
-<sup>5</sup> Le spese della ElCom sono coperte da tasse amministrative. Il Consiglio federale disciplina i dettagli.
+<sup>5</sup> Le spese della ElCom sono coperte da emolumenti. Il Consiglio federale disciplina la riscossione di emolumenti secondo l’articolo 46*a* della legge del 21 marzo 1997[^21-2] sull’organizzazione del Governo e dell’Amministrazione (LOGA).[^21-3]
 
 [^21-1]: Abrogato dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, con effetto dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^21-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^21-3]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2025 sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso, in vigore dal 1° gen. 2027 ([RU 2026 509](https://fedlex.data.admin.ch/eli/oc/2026/509); [FF 2023 2864](https://fedlex.data.admin.ch/eli/fga/2023/2864)).
 
 #### Art. 22
 
@@ -1288,7 +1290,7 @@ A copertura dei costi necessari inerenti alla collaborazione della ElCom e dell�
 
 È punito con la multa sino a 100 000 franchi chiunque intenzionalmente:
 
-- a.[^29-1] ...
+- a.[^29-1] …
 - b. non separa sotto il profilo contabile e giuridico i settori della rete o lo fa in maniera errata o utilizza informazioni inerenti alla gestione della rete per altri settori d’attività (art. 10 e 33 cpv. 1);
 - c. non disgiunge i settori della rete per quanto concerne il calcolo dei costi o lo fa in maniera errata (art. 11);
 - d. non espone nel conteggio i costi per l’utilizzazione della rete o lo fa in maniera errata o fattura illecitamente costi per il cambiamento di fornitore (art. 12);
@@ -1400,7 +1402,7 @@ L’imputazione dei costi per l’energia di compensazione effettuata secondo il
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.[^34-1]
 
-<sup>3</sup> *...*[^34-2]
+<sup>3</sup> …[^34-2]
 
 Data dell’entrata in vigore:[^34-3] 1° gennaio 2008 Art. 21 e 22: 15 luglio 2007 N. 2 dell’all. (art. 8 cpv. 1, frase introduttiva e 3): 1° aprile 2008 N. 2 dell’all. (art. 7*a* cpv. 2 e 3): 1° maggio 2008 Art. 13 cpv. 1 e 2; n. 2 dell’all. (rimanenti disposizioni): 1° gennaio 2009
 
@@ -1418,7 +1420,7 @@ Allegato 1[^t-1]
 
 Le leggi qui appresso sono modificate come segue:
 
-...[^annex1-lvlu1-1]
+…[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418).
 

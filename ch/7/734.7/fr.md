@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2026-08-13
+version: 2027-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260813/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260813-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260813/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260813/fr"
 
 (LApEl)
 
-du 23 mars 2007 (État le 13 août 2026)
+du 23 mars 2007 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1138,9 +1138,11 @@ La société nationale a notamment les tâches suivantes:
 
 <sup>4</sup> L’ElCom élabore un règlement d’organisation et de fonctionnement et le soumet à l’approbation du Conseil fédéral.
 
-<sup>5</sup> Les coûts de l’ElCom sont couverts par des émoluments. Le Conseil fédéral fixe les modalités.
+<sup>5</sup> Les coûts de l’ElCom sont couverts par des émoluments. Le Conseil fédéral règle la perception d’émoluments conformément à l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^21-2].[^21-3]
 
 [^21-1]: Abrogé par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^21-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^21-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 21 mars 2025 sur la surveillance et la transparence des marchés de gros de l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 509](https://fedlex.data.admin.ch/eli/oc/2026/509); [FF 2023 2864](https://fedlex.data.admin.ch/eli/fga/2023/2864)).
 
 #### Art. 22
 
