@@ -4,13 +4,12 @@ number: "850.1"
 title: Sozialhilfegesetz
 short: SHG
 language: de
-version: 2023-04-01
-valid_until: 2026-12-31
-version_adopted: 2022-12-21
+version: 2027-01-01
+version_adopted: 2026-02-04
 adopted: 1984-03-29
 in_force: 1986-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2643/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3042/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ SHG
 
 (SHG)
 
-vom 29.03.1984 (Stand 01.04.2023)
+vom 29.03.1984 (Stand 01.01.2027)
 
 ## 1. Zweck und Organisation
 
@@ -59,6 +58,8 @@ vom 29.03.1984 (Stand 01.04.2023)
 
 <sup>2</sup> Wohnsitz und Aufenthalt bestimmen sich nach den Vorschriften des Bundes über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG)[^4-1].
 
+<sup>2<sup>bis</sup></sup> Zuständigkeitskonflikte sind in gegenseitigem Einvernehmen zu lösen. Kann trotz ernsthafter Bemühungen keine Einigung erzielt werden, entscheidet das Departement.
+
 <sup>3</sup> Kantonale Amtsstelle gemäss dem Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger ist das Sozialamt des Kantons Thurgau.
 
 [^4-1]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
@@ -91,7 +92,7 @@ vom 29.03.1984 (Stand 01.04.2023)
 
 **Bewilligung**
 
-<sup>1</sup> Errichtung und Betrieb eines Heimes bedürfen einer Bewilligung des Departementes.
+<sup>1</sup> Errichtung und Betrieb eines Heims bedürfen vorbehältlich § 6c einer Bewilligung des Departements.
 
 <sup>2</sup> Die Bewilligung wird erteilt, sofern
 
@@ -103,9 +104,14 @@ vom 29.03.1984 (Stand 01.04.2023)
 
 **Betreuungs- und Pflegeangebote**
 
-<sup>1</sup> Errichtung und Betrieb von Betreuungs- und Pflegeangeboten, in denen bis zu vier volljährigen Personen gegen Entgelt Unterkunft, Verpflegung, Betreuung oder weitere Dienstleistungen gewährt werden, bedürfen einer Bewilligung der Politischen Gemeinde und unterstehen deren Aufsicht. Der Regierungsrat regelt die Ausnahmen für Angehörige und enge Bezugspersonen.
+<sup>1</sup> Die Gemeinden bewilligen und beaufsichtigen Errichtung und Betrieb von Betreuungs- und Pflegeangeboten, in denen
+
+- 1\. im stationären Bereich bis zu vier volljährigen Personen gegen Entgelt Unterkunft, Verpflegung, Betreuung oder weitere Dienstleistungen gewährt werden oder
+- 2\. im ambulanten Bereich bis zu sechs volljährigen Personen gegen Entgelt Verpflegung, Betreuung oder weitere Dienstleistungen gewährt werden.
 
 <sup>2</sup> …
+
+<sup>3</sup> Der Regierungsrat regelt die Ausnahmen für Angehörige und enge Bezugspersonen.
 
 #### § 6d
 
@@ -128,6 +134,8 @@ vom 29.03.1984 (Stand 01.04.2023)
 **Unterstützung**
 
 <sup>1</sup> Verfügt jemand nicht über hinreichende Mittel zur Bestreitung des Lebensunterhalts für sich und seine Angehörigen mit gleichem Wohnsitz, sorgt die Gemeinde für die notwendige Unterstützung, sofern von der hilfsbedürftigen Person nicht verlangt werden kann, sich die Mittel durch eigene Arbeit zu beschaffen, und keine andere Hilfe möglich ist.
+
+<sup>2</sup> Unterstützte Personen in Pflegefamilien sowie in Kinder- und Jugendheimen haben nach Erreichen der Volljährigkeit bis zum Abschluss einer angemessenen Ausbildung, jedoch längstens bis zum vollendeten 25. Altersjahr, Anspruch auf Weiterführung der Unterbringung im bisherigen Umfang.
 
 #### § 8a
 
@@ -248,7 +256,7 @@ vom 29.03.1984 (Stand 01.04.2023)
 
 <sup>1</sup> Zu Unrecht bezogene Leistungen sind samt Zins zurückzuerstatten.
 
-<sup>2</sup> Wer nach dem vollendeten 18. Altersjahr Unterstützungsbeiträge bezogen hat, ist zur Rückerstattung verpflichtet, soweit dies zumutbar ist. Erben und Erbinnen haften bis zur Höhe ihrer Erbschaft.
+<sup>2</sup> Wer nach Abschluss einer angemessenen Ausbildung, spätestens jedoch ab dem vollendeten 25. Altersjahr, Unterstützungsbeiträge bezogen hat, ist zur Rückerstattung verpflichtet, soweit dies zumutbar ist. Erbinnen und Erben haften bis zur Höhe ihrer Erbschaft.
 
 <sup>3</sup> Wer Vorschüsse bezogen hat, ist zur Rückerstattung verpflichtet, soweit der Schuldner oder die Schuldnerin die vorgeschossenen Unterhaltsbeiträge bezahlt hat oder soweit er oder sie diesen oder diese beerbt.
 
@@ -286,7 +294,7 @@ vom 29.03.1984 (Stand 01.04.2023)
 
 <sup>1</sup> Der Kanton kann im Rahmen der Finanzkompetenzen Beiträge leisten, insbesondere an:
 
-- 1\. Erwerb, Bau oder Betrieb von Einrichtungen für hilfsbedürftige Personen
+- 1\. …
 - 2\. anerkannte Hilfswerke, soweit diese der Verhinderung oder Linderung sozialer Not dienen
 - 3\. Ausbildung von Fachpersonal
 
