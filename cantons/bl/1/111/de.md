@@ -4,13 +4,12 @@ number: "111"
 title: Anmeldungs- und Registergesetz
 short: ARG
 language: de
-version: 2024-07-01
-valid_until: 2032-06-30
+version: 2032-07-01
 version_adopted: 2024-06-27
 adopted: 2008-06-19
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111"
-pdf: "https://bl.clex.ch/api/de/versions/4008/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4011/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4008/pdf_file"
 
 (ARG)
 
-Vom 19.06.2008 (Stand 01.07.2024)
+Vom 19.06.2008 (Stand 01.07.2032)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -228,7 +227,7 @@ beschliesst:[^ingress-2]
 - n. die Verwaltungen der Bürgergemeinden,
 - o. die Verwaltungen der Zweckverbände der Bürgergemeinden,
 - p. die Verwaltungen der Kirchgemeinden der Landeskirchen,
-- q. die Stelle Ausbildungsbeiträge Pflege beider Basel.
+- q. …
 
 <sup>3</sup> Der Regierungsrat legt in der Verordnung die Abfrageberechtigungen im Einzelnen fest.
 
