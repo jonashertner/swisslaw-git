@@ -3,18 +3,18 @@ sr: "412.101.221.48"
 title: Verordnung des SBFI vom 23. Juli 2018 über die berufliche Grundbildung Recyclistin/Recyclist mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/518"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2018-07-23
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/518/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-518-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/518/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/518/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2018-518-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/518/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Recyclistin/Recyclist mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 23. Juli 2018 (Stand am 1. Januar 2026)
+vom 23. Juli 2018 (Stand am 1. Januar 2027)
 
 <table>
 <tr><td>95006</td><td>Recyclistin EFZ/Recyclist EFZ Recycleuse CFC/Recycleur CFC Riciclatrice AFC/Riciclatore AFC</td></tr>
@@ -115,77 +115,87 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 3\. Umwelt schützen,
   - 4\. Ressourcen schonen.
 
-## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
+## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und nachhaltige Entwicklung
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 5
 
-<sup>1</sup> Die Anbieter der Bildung geben den Lernenden zu Beginn und während der Bildung Vorschriften und Empfehlungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz, insbesondere zur Gefahrenkommunikation (Gefahrensymbole, Piktogramme, Gebotszeichen) in diesen drei Bereichen, ab und erklären sie ihnen.
+<sup>1</sup> Die Anbieter der Bildung geben den Lernenden zu Beginn und während der Bildung Vorschriften und Empfehlungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz, insbesondere zur Gefahren- und Sicherheitskommunikation in diesen drei Bereichen, ab und erklären sie ihnen.
 
 <sup>2</sup> Diese Vorschriften und Empfehlungen werden an allen Lernorten vermittelt und in den Qualifikationsverfahren berücksichtigt.
 
-<sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
+<sup>3</sup> Die berufsspezifischen Aspekte für eine nachhaltige Entwicklung werden an allen Lernorten vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-1] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die in Anhang 2 zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
 
-<sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
-
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+<sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
 #### Art. 6
 
-**Bildung in beruflicher Praxis im Betrieb und an vergleichbaren Lernorten**
+**Bildung in beruflicher Praxis**[^6-1]
 
-Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der beruflichen Grundbildung im Durchschnitt vier Tage pro Woche.
+<sup>1</sup> Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der beruflichen Grundbildung im Durchschnitt vier Tage pro Woche.
+
+<sup>2</sup> Der Lehrbetrieb muss den Lernenden die Möglichkeit bieten, den Führerausweis in der Kategorie F gemäss der Verkehrszulassungsverordnung vom 27. Oktober 1976[^6-2] zu erwerben. Der Lehrbetrieb übernimmt mindestens 500 Franken der Kosten für den Erwerb des Führerausweises.
+
+[^6-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
+[^6-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 7
 
 **Berufsfachschule**
 
-<sup>1</sup> Der obligatorische Unterricht an der Berufsfachschule umfasst 1080 Lektionen. Diese teiln sich gemäss nachfolgender Tabelle auf:
+<sup>1</sup> Der obligatorische Unterricht an der Berufsfachschule umfasst 1080 Lektionen. Diese teilen sich gemäss nachfolgender Tabelle auf:
 
 <table>
 <tr><th>Unterricht</th><th>1. Lehrjahr</th><th>2. Lehrjahr</th><th>3. Lehrjahr</th><th>Total</th></tr>
 <tr><td>a. Berufskenntnisse</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Entgegennehmen von Wertstoffen</td><td>60</td><td>40</td><td>20</td><td>120</td></tr>
-<tr><td>– Sortieren, Aufbereiten und Lagern von Wertstoffen – Bewirtschaften und Verladen von Wertstoffen</td><td>160</td><td>60</td><td>80</td><td>300</td></tr>
-<tr><td>– Schützen der Gesundheit und Gewährleisten der Arbeitssicherheit – Optimieren von Qualität, Wirtschaftlichkeit und Nachhaltigkeit</td><td>60</td><td>60</td><td>60</td><td>180</td></tr>
+<tr><td>– Sortieren, Aufbereiten und Lagern von Wertstoffen Bewirtschaften und Verladen von Wertstoffen</td><td>160</td><td>60</td><td>80</td><td>300</td></tr>
+<tr><td>– Schützen der Gesundheit und Gewährleisten der Arbeitssicherheit Optimieren von Qualität, Wirtschaftlichkeit und Nachhaltigkeit</td><td>60</td><td>60</td><td>60</td><td>180</td></tr>
 <tr><td>Total Berufskenntnisse</td><td>280</td><td>160</td><td>160</td><td>600</td></tr>
 <tr><td>b. Allgemeinbildung</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
 <tr><td>c. Sport</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
-<tr><td>Total Lektionen</td><td>440</td><td>320</td><td>320</td><td>1080</td></tr>
+<tr><td>Total Lektionen</td><td>440</td><td>320</td><td>320</td><td>1080.[^7-1]</td></tr>
 </table>
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-2] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-3].
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulortes. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
+[^7-2]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
-**Überbetriebliche Kurse**
+**Überbetriebliche Kurse**[^8-1]
 
-<sup>1</sup> Die überbetrieblichen Kurse umfassen 17 Tage zu 8 Stunden.
+<sup>1</sup> Die überbetrieblichen Kurse umfassen 19 Tage zu 8 Stunden.
 
-<sup>2</sup> Die Tage und die Inhalte sind wie folgt auf vier Kurse aufgeteilt:
+<sup>2</sup> Die Tage und die Inhalte sind wie folgt auf 4 Kurse aufgeteilt:
 
 <table>
-<tr><th>Lehrjahr</th><th>Kurs</th><th>Handlungskompetenzbereich/Handlungskompetenz</th><th>Dauer</th></tr>
-<tr><td>1</td><td>1</td><td>a. Sortieren, Aufbereiten und Lagern von Wertstoffen – Arbeitsmittel einsetzen und warten b. Schützen der Gesundheit und Gewährleisten der Arbeitssicherheit – Schutzmassnahmen bei Gefahren ergreifen – Massnahmen der Arbeitshygiene und -sicherheit ergreifen – Massnahmen der Notfallorganisation ergreifen</td><td>5 Tage</td></tr>
+<tr><th>Lehrjahr</th><th>Kurs</th><th>Handlungskompetenzbereiche und Handlungskompetenzen</th><th>Dauer</th></tr>
+<tr><td>1</td><td>1</td><td>Sortieren, Aufbereiten und Lagern von Wertstoffen – Arbeitsmittel einsetzen und warten Schützen der Gesundheit und Gewährleisten der Arbeitssicherheit – Schutzmassnahmen bei Gefahren ergreifen – Massnahmen der Arbeitshygiene und -sicherheit ergreifen – Massnahmen der Notfallorganisation ergreifen</td><td>5 Tage</td></tr>
 <tr><td>1</td><td>2</td><td>Entgegennehmen von Wertstoffen – Wertstoffe entladen (Staplerkurs)</td><td>4 Tage</td></tr>
-<tr><td>2</td><td>3</td><td>a. Sortieren, Aufbereiten und Lagern von Wertstoffen – Arbeitsmittel einsetzen und warten b. Schützen der Gesundheit und Gewährleisten der Arbeitssicherheit – Massnahmen der Arbeitshygiene und -sicherheit ergreifen – Massnahmen der Notfallorganisation ergreifen</td><td>4 Tage</td></tr>
-<tr><td>3</td><td>4</td><td>a. Entgegennehmen von Wertstoffen – Wertstoffe annehmen b. Sortieren, Aufbereiten und Lagern von Wertstoffen – Material sortieren – Wertstoffe aufbereiten</td><td>4 Tage</td></tr>
-<tr><td>Total</td><td></td><td></td><td>17 Tage</td></tr>
+<tr><td>2</td><td>3</td><td>Sortieren, Aufbereiten und Lagern von Wertstoffen – Arbeitsmittel einsetzen und warten Schützen der Gesundheit und Gewährleisten der Arbeitssicherheit – Massnahmen der Arbeitshygiene und -sicherheit ergreifen – Massnahmen der Notfallorganisation ergreifen Optimieren von Qualität, Wirtschaftlichkeit und Nachhaltigkeit – Ressourcen schonen</td><td>6 Tage</td></tr>
+<tr><td>3</td><td>4</td><td>Entgegennehmen von Wertstoffen – Wertstoffe annehmen Sortieren, Aufbereiten und Lagern von Wertstoffen – Material sortieren – Wertstoffe aufbereiten</td><td>4 Tage</td></tr>
+<tr><td colspan="3">Total</td><td>19 Tage</td></tr>
 </table>
 
 <sup>3</sup> Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden.
+
+[^8-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 ## 5. Abschnitt: Bildungsplan
 
@@ -230,7 +240,7 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 
 **Höchstzahl der Lernenden**
 
-<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 80 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.[^11-1]
 
 <sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
 
@@ -239,6 +249,11 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 <sup>4</sup> In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt.
 
 <sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
+
+<sup>6</sup> Der Betrieb organisiert die Arbeitszeit der Berufsbildnerinnen oder Berufsbildner und Fachkräfte so, dass die Lernenden während der beruflichen Praxis von einer Berufsbildnerin oder einem Berufsbildner oder von einer Fachkraft beaufsichtigt sind.[^11-2]
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
+[^11-2]: Eingefügt durch Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 ## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen
 
@@ -298,7 +313,14 @@ Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung 
   - 2\. von dieser beruflichen Erfahrung mindestens drei Jahre im Bereich der Recyclistin und des Recyclisten EFZ erworben hat, und
   - 3\. glaubhaft macht, den Anforderungen der jeweiligen Qualifikationsverfahren gewachsen zu sein.
 
-<sup>2</sup> Zusätzliche Voraussetzung für die Zulassung ist, dass die Kandidatin oder der Kandidat im Besitz des Ausweises für das Führen von Flurförderzeugen ist.
+<sup>2</sup>
+
+Zusätzlich muss die Kandidatin oder der Kandidat für die Zulassung zu den Qualifikationsverfahren:
+
+- a. im Besitz des Ausweises für das Führen von Flurförderzeugen sein; und
+- b. mindestens den Führerausweis in der Kategorie F erworben haben.[^16-1]
+
+[^16-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 17
 
@@ -434,7 +456,7 @@ Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung
 Die Schweizerische Kommission für Berufsentwicklung und Qualität fürRecyclistin und Recyclist EFZ setzt sich zusammen aus:
 
 - a. fünf bis acht Vertreterinnen oder Vertretern des Verbands Recycling Ausbildung Schweiz (R-Suisse);
-- b. zwei bis drei Vertreterinnen oder Vertretern der Fachlehrerschaft;
+- b.[^23-1] zwei bis drei Vertreterinnen oder Vertretern der Berufsfachschulen;
 - c. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
 
 <sup>2</sup>
@@ -454,6 +476,8 @@ Sie hat insbesondere folgende Aufgaben:
 - b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen.
 - c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans.
 - d. Sie nimmt Stellung zu den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
+
+[^23-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 24
 
@@ -475,17 +499,21 @@ Sie hat insbesondere folgende Aufgaben:
 
 Die Verordnung des SBFI vom 20. Oktober 2010[^25-1] über die berufliche Grundbildung Recyclistin/Recyclist mit eidgenössischem Fähigkeitszeugnis (EFZ) wird aufgehoben.
 
-[^25-1]: [[AS 2010 5827](https://fedlex.data.admin.ch/eli/oc/2010/827), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)]
+[^25-1]: [[AS 2010 5827](https://fedlex.data.admin.ch/eli/oc/2010/827); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)]
 
 #### Art. 26
 
-**Übergangsbestimmungen und erstmalige Anwendung einzelner Bestimmungen**
+**Übergangsbestimmungen zur Änderung vom 18. August 2026 und erstmalige Anwendung einzelner Bestimmungen**[^26-1]
 
-<sup>1</sup> Lernende, die ihre Bildung als Recyclistin oder Recyclist vor dem Inkrafttreten dieser Verordnung begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2023.
+<sup>1</sup> Die Änderung von Artikel 16 Absatz 2 kommt ab dem 1. Januar 2030 zur Anwendung.
 
-<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Recyclistin oder Recyclist bis zum 31. Dezember 2023 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+<sup>2</sup> Lernende, die ihre Ausbildung als Recyclistin oder Recyclist EFZ vor dem Inkrafttreten der Änderung vom 18. August 2026 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
 
-<sup>3</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 16–22) kommen ab dem 1. Januar 2022 zur Anwendung.
+<sup>3</sup> Lernende, die nach dem Inkrafttreten der Änderung vom 18. August 2026 eine verkürzte Ausbildung absolvieren, die vor dem 1. Januar 2030 endet, absolvieren sie nach bisherigem Recht und schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
+
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Recyclistin oder Recyclist EFZ gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2031 wiederholen, werden nach bisherigem Recht beurteilt.
+
+[^26-1]: Fassung gemäss Ziff. I der V des SBFI vom 18. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 27
 

@@ -3,18 +3,18 @@ sr: "412.101.221.48"
 title: Ordonnance du SEFRI du 23 juillet 2018 sur la formation professionnelle initiale de recycleuse/recycleur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/518"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2018-07-23
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/518/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-518-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/518/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/518/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-518-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/518/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de recycleuse / recycleur avec certificat fédéral de capacité (CFC)
 
-du 23 juillet 2018 (État le 1<sup>er</sup> janvier 2026)
+du 23 juillet 2018 (État le 1<sup>er</sup> janvier 2027)
 
 <table>
 <tr><td>95006</td><td>Recycleuse CFC / Recycleur CFC Recyclistin EFZ / Recyclist EFZ Riciclatrice AFC / Riciclatore AFC</td></tr>
@@ -115,29 +115,36 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   - 3\. protéger l’environnement,
   - 4\. économiser les ressources.
 
-## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
+## Section 3 Sécurité au travail, protection de la santé, protection de l’environnement et développement durable
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 5
 
-<sup>1</sup> Dès le début de la formation et tout au long de celle-ci, les prestataires de la formation remettent et expliquent aux personnes en formation les directives et les recommandations en matière de sécurité au travail, de protection de la santé et de protection de l’environnement, en particulier celles relatives à la communication des dangers (symboles de danger, pictogrammes, signes d’interdiction) dans ces trois domaines.
+<sup>1</sup> Dès le début de la formation et tout au long de celle-ci, les prestataires de la formation remettent et expliquent aux personnes en formation les directives et les recommandations en matière de sécurité au travail, de protection de la santé et de protection de l’environnement, en particulier les directives et les recommandations relatives à la communication des dangers et des mesures de sécurité dans ces trois domaines.
 
-<sup>2</sup> Les directives et les recommandations précitées font partie intégrante de la formation dispensée dans tous les lieux de formation et elles sont prises en considération dans les procédures de qualification.
+<sup>2</sup> Les directives et les recommandations précitées font partie intégrante de la formation dispensée dans tous les lieux de formation et sont prises en considération dans les procédures de qualification.
 
-<sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, dans tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
+<sup>3</sup> Les aspects liés au développement durable spécifiques à la profession sont transmis dans tous les lieux de formation.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-1], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1, OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe 2 du plan de formation.
 
-<sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
-
-[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+<sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
 #### Art. 6
 
-**Formation à la pratique professionnelle en entreprise et dans d’autres lieux de formation comparables**
+**Formation à la pratique professionnelle**[^6-1]
 
-La formation à la pratique professionnelle en entreprise s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 4 jours par semaine.
+<sup>1</sup> La formation à la pratique professionnelle en entreprise s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 4 jours par semaine.
+
+<sup>2</sup> L’entreprise formatrice offre aux personnes en formation la possibilité d’obtenir le permis de conduire de la catégorie spéciale F selon l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière[^6-2]. Elle prend en charge au moins 500 francs des frais d’obtention dudit permis.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
+[^6-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 7
 
@@ -149,43 +156,46 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>3<sup>e</sup> année</th><th>Total</th></tr>
 <tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Réception des matières</td><td>60</td><td>40</td><td>20</td><td>120</td></tr>
-<tr><td>– Tri, traitement et stockage des matières – Gestion et chargement des matières</td><td>160</td><td>60</td><td>80</td><td>300</td></tr>
-<tr><td>– Protection de la santé et sécurité au travail – Optimisation de la qualité, de la rentabilité et de la durabilité</td><td>60</td><td>60</td><td>60</td><td>180</td></tr>
+<tr><td>– Tri, traitement et stockage des matières Gestion et chargement des matières</td><td>160</td><td>60</td><td>80</td><td>300</td></tr>
+<tr><td>– Protection de la santé et sécurité au travail Optimisation de la qualité, de la rentabilité et de la durabilité</td><td>60</td><td>60</td><td>60</td><td>180</td></tr>
 <tr><td>Total Connaissances professionnelles</td><td>280</td><td>160</td><td>160</td><td>600</td></tr>
 <tr><td>b. Culture générale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
 <tr><td>c. Éducation physique</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
-<tr><td>Total des périodes d’enseignement</td><td>440</td><td>320</td><td>320</td><td>1080</td></tr>
+<tr><td>Total des périodes d’enseignement</td><td>440</td><td>320</td><td>320</td><td>1080.[^7-1]</td></tr>
 </table>
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-2] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-3].
 
 <sup>4</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
-[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
+[^7-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
-**Cours interentreprises**
+**Cours interentreprises**[^8-1]
 
-<sup>1</sup> Les cours interentreprises comprennent 17 jours de cours, à raison de 8 heures de cours par jour.
+<sup>1</sup> Les cours interentreprises comprennent 19 jours de cours, à raison de 8 heures de cours par jour.
 
 <sup>2</sup> Les jours et les contenus sont répartis sur 4 cours comme suit:
 
 <table>
-<tr><th>Année</th><th>Cours</th><th>Domaine de compétences opérationnelles / Compétence opérationnelle</th><th>Durée</th></tr>
-<tr><td>1<sup>re</sup></td><td>1</td><td>a. Tri, traitement et stockage des matières – utiliser et entretenir des moyens d’exploitation b. Protection de la santé et sécurité au travail – prendre des mesures en cas de dangers – prendre les mesures relatives à l’hygiène et à la sécurité au travail – prendre les mesures relatives à l’organisation en cas d’urgence</td><td>5 jours</td></tr>
-<tr><td>1<sup>re</sup></td><td>2</td><td>Réception des matières – décharger des matières (cours sur l’utilisation du chariot élévateur)</td><td>4 jours</td></tr>
-<tr><td>2<sup>e</sup></td><td>3</td><td>a. Tri, traitement et stockage des matières – utiliser et entretenir des moyens d’exploitation b. Protection de la santé et sécurité au travail – prendre les mesures relatives à l’hygiène et à la sécurité au travail – prendre les mesures relatives à l’organisation en cas d’urgence</td><td>4 jours</td></tr>
-<tr><td>3<sup>e</sup></td><td>4</td><td>a. Réception des matières – réceptionner des matières b. Tri, traitement et stockage des matières – trier du matériel – traiter des matières</td><td>4 jours</td></tr>
-<tr><td>Total</td><td></td><td></td><td>17 jours</td></tr>
+<tr><th>Année</th><th>Cours</th><th>Domaine de compétences opérationnelles / compétence opérationnelle</th><th>Durée</th></tr>
+<tr><td>1</td><td>1</td><td>Tri, traitement et stockage des matières – utiliser et entretenir des moyens d’exploitation Protection de la santé et sécurité au travail – prendre des mesures en cas de dangers – prendre les mesures relatives à l’hygiène et à la sécurité au travail – prendre les mesures relatives à l’organisation en cas d’urgence</td><td>5 jours</td></tr>
+<tr><td>1</td><td>2</td><td>Réception des matières – décharger des matières (cours sur l’utilisation du chariot élévateur)</td><td>4 jours</td></tr>
+<tr><td>2</td><td>3</td><td>Tri, traitement et stockage des matières – utiliser et entretenir des moyens d’exploitation Protection de la santé et sécurité au travail – prendre les mesures relatives à l’hygiène et à la sécurité au travail – prendre les mesures relatives à l’organisation en cas d’urgence Optimisation de la qualité, de la rentabilité et de la durabilité – économiser les ressources</td><td>6 jours</td></tr>
+<tr><td>3</td><td>4</td><td>Réception des matières – réceptionner des matières Tri, traitement et stockage des matières – trier du matériel – traiter des matières</td><td>4 jours</td></tr>
+<tr><td colspan="3">Total</td><td>19 jours</td></tr>
 </table>
 
 <sup>3</sup> Aucun cours interentreprises ne doit avoir lieu durant le dernier semestre de la formation professionnelle initiale.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 ## Section 5 Plan de formation
 
@@ -230,7 +240,7 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 
 **Nombre maximal de personnes en formation**
 
-<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
+<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 80 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.[^11-1]
 
 <sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
 
@@ -239,6 +249,11 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 <sup>4</sup> Dans les entreprises qui ne sont autorisées à former qu’une seule personne, une seconde personne peut commencer sa formation si la première entame sa dernière année de formation professionnelle initiale.
 
 <sup>5</sup> Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
+
+<sup>6</sup> Les entreprises organisent le temps de travail des formateurs et des professionnels de telle manière que les personnes en formation puissent être encadrées par un formateur ou un professionnel à tout moment de leur formation en entreprise.[^11-2]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
+[^11-2]: Introduit par le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 ## Section 7 Dossier de formation, rapport de formation et dossiers des prestations
 
@@ -298,7 +313,14 @@ Est admise aux procédures de qualification la personne qui a suivi la formation
   - 2\. a effectué 3 ans au minimum de cette expérience dans le domaine d’activité des recycleurs CFC, et
   - 3\. démontre qu’elle satisfait aux exigences des procédures de qualification.
 
-<sup>2</sup> À titre de condition supplémentaire pour l’admission à la procédure de qualification, le candidat doit disposer d’un permis de cariste.
+<sup>2</sup>
+
+À titre de condition supplémentaire pour l’admission aux procédures de qualification, la personne doit:
+
+- a. disposer d’une attestation de formation à la conduite du chariot élévateur;
+- b. avoir obtenu au moins le permis de conduire de la catégorie spéciale F.[^16-1]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 17
 
@@ -434,7 +456,7 @@ Si le CFC a été obtenu selon la procédure de qualification avec examen final,
 La Commission suisse pour le développement de la profession et la qualité de la formation desrecycleurs CFC (commission) comprend:
 
 - a. 5 à 8 représentants de l’Association Formation Recyclage Suisse R-Suisse;
-- b. 2 à 3 représentants des enseignants des connaissances professionnelles;
+- b.[^23-1] 2 ou 3 représentants des écoles professionnelles;
 - c. au moins 1 représentant de la Confédération et au moins 1 représentant des cantons.
 
 <sup>2</sup>
@@ -454,6 +476,8 @@ Elle est notamment chargée des tâches suivantes:
 - b. identifier les développements qui requièrent une modification de l’ordonnance et demander à l’organisation du monde du travail compétente de proposer au SEFRI les modifications voulues;
 - c. identifier les développements qui requièrent une adaptation du plan de formation et proposer à l’organisation du monde du travail compétente d’effectuer les adaptations voulues;
 - d. prendre position sur les instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, en particulier les dispositions d’exécution relatives à la procédure de qualification avec examen final.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 24
 
@@ -479,13 +503,17 @@ L’ordonnance du SEFRI du 20 octobre 2010 sur la formation professionnelle init
 
 #### Art. 26
 
-**Dispositions transitoires et première application de dispositions particulières**
+**Dispositions transitoires de la modification du 18 août 2026 et première application de dispositions particulières**[^26-1]
 
-<sup>1</sup> Les personnes qui ont commencé leur formation de recycleur avant l’entrée en vigueur de la présente ordonnance l’achèvent selon l’ancien droit, mais au plus tard le 31 décembre 2023.
+<sup>1</sup> La modification de l’art. 16, al. 2, est applicable au 1<sup>er</sup> janvier 2030.
 
-<sup>2</sup> Les candidats qui répètent la procédure de qualification avec examen final de recycleur jusqu’au 31 décembre 2023 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.
+<sup>2</sup> Les personnes qui ont commencé leur formation de recycleur CFC avant l’entrée en vigueur de la modification du 18 août 2026 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2031.
 
-<sup>3</sup> Les dispositions relatives aux procédures de qualification, au certificat et au titre (art. 16 à 22) sont applicables au 1<sup>er</sup> janvier 2022.
+<sup>3</sup> Les personnes qui, après l’entrée en vigueur de la modification du 18 août 2026, commencent une formation raccourcie se terminant avant le 1<sup>er</sup> janvier 2030 la suivent et l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2031.
+
+<sup>4</sup> Les candidats qui se sont présentés à la procédure de qualification avec examen final de recycleur CFC selon l’ancien droit et qui la répètent jusqu’au 31 décembre 2031 voient leurs prestations appréciées selon l’ancien droit.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 18 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 428](https://fedlex.data.admin.ch/eli/oc/2026/428)).
 
 #### Art. 27
 
