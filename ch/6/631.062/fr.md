@@ -4,11 +4,11 @@ title: Ordonnance du 29 juin 2022 relative à la coopération internationale en 
 short: OCISF
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/461"
 language: fr
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2022-06-29
 in_force: 2022-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-461-20260401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-461-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/fr"
 
 (OCISF)
 
-du 29 juin 2022 (État le 1<sup>er</sup> avril 2026)
+du 29 juin 2022 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -228,12 +228,13 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>7</sup> Une fois l’engagement terminé, il n’existe aucun droit à des compensations en temps ou à des indemnités pour les heures d’appoint, les heures supplémentaires, le travail dominical ou le travail de nuit.
 
-<sup>8</sup> Font exception à la restriction concernant les indemnités l’allocation de résidence au sens de l’art. 43 OPers[^11-4], l’allocation liée au marché de l’emploi au sens de l’art. 50 OPers et la prime de fonction au sens de l’art. 46 OPers.
+<sup>8</sup> Font exception à la restriction concernant les indemnités l’allocation liée au marché de l’emploi au sens de l’art. 50 OPers[^11-4] et la prime de fonction au sens de l’art. 46 OPers.[^11-5]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-2]: Abrogé par le ch. I de l’O du 25 fév. 2026, avec effet au 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^11-5]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 12
 

@@ -4,11 +4,11 @@ title: Verordnung vom 29. Juni 2022 über die internationale Zusammenarbeit zur 
 short: ViZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/461"
 language: de
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2022-06-29
 in_force: 2022-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2022-461-20260401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2022-461-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/de"
 
 (ViZG)
 
-vom 29. Juni 2022 (Stand am 1. April 2026)
+vom 29. Juni 2022 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -229,12 +229,13 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>7</sup> Für Mehrarbeit, Überzeit oder Sonntags- und Nachtarbeit besteht nach dem Ende des Einsatzes kein Anspruch auf Zeitkompensation oder Vergütung.
 
-<sup>8</sup> Von der Vergütungsbeschränkung ausgenommen sind der Ortszuschlag nach Artikel 43 der BPV[^11-4], die Arbeitsmarktzulage nach Artikel 50 BPV und die Funktionszulage nach Artikel 46 BPV.
+<sup>8</sup> Von der Vergütungsbeschränkung ausgenommen sind die Arbeitsmarktzulage nach Artikel 50 BPV[^11-4] und die Funktionszulage nach Artikel 46 BPV.[^11-5]
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-2]: Aufgehoben durch Ziff. I der V vom 25. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-4]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^11-5]: Fassung gemäss Anhang Ziff. II 4 der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 12
 
@@ -268,7 +269,7 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>2</sup> Die Einsatzzulage gilt der Abgeltung besonderer Einsatzbedingungen wie permanenter Verfügbarkeit, Entbehrungen und erhöhte Risiken vor Ort sowie dem materiellen Ausgleich für die mit dem Einsatz direkt verbundenen Mehrkosten wie Ausgaben für Kleinmaterial für den Einsatz, private Transportkosten vor Ort oder Haushaltsbedarf.[^14-2]
 
-<sup>2<sup>bis</sup></sup> Mit der Einsatzzulage gelten die im regulären Betrieb des BAZG entstehenden Ansprüche aus Sonntags-, Nacht- und Schichtarbeit sowie dem Pikettdienst als abgegolten. Es besteht kein zusätzlicher Anspruch auf Zeitgutschrift.[^14-3]
+<sup>2bis</sup> Mit der Einsatzzulage gelten die im regulären Betrieb des BAZG entstehenden Ansprüche aus Sonntags-, Nacht- und Schichtarbeit sowie dem Pikettdienst als abgegolten. Es besteht kein zusätzlicher Anspruch auf Zeitgutschrift.[^14-3]
 
 <sup>3</sup> Der Anspruch auf die Einsatzzulage besteht für die gesamte Dauer des Einsatzes.
 

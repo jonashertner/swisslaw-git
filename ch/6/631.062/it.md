@@ -4,11 +4,11 @@ title: Ordinanza del 29 giugno 2022 sulla cooperazione internazionale per la sic
 short: OCISC
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/461"
 language: it
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2022-06-29
 in_force: 2022-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2022-461-20260401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2022-461-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/it"
 
 (OCISC)
 
-del 29 giugno 2022 (Stato 1° aprile 2026)
+del 29 giugno 2022 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -227,12 +227,13 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>7</sup> Terminato l’impiego, non sussiste alcun diritto di compensazione del tempo di lavoro o a indennità per lavoro aggiuntivo, lavoro straordinario o lavoro domenicale e notturno.
 
-<sup>8</sup> Dalla limitazione dell’indennità sono escluse l’indennità di residenza secondo l’articolo 43 OPers[^11-4], l’indennità in funzione del mercato del lavoro secondo l’articolo 50 OPers e l’indennità di funzione secondo l’articolo 46 OPers.
+<sup>8</sup> Dalla limitazione dell’indennità sono escluse l’indennità in funzione del mercato del lavoro secondo l’articolo 50 OPers e l’indennità di funzione secondo l’articolo 46 OPers[^11-4].[^11-5]
 
 [^11-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-2]: Abrogato dalla cifra I dell’O del 25 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-3]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 [^11-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^11-5]: Nuovo testo giusta l’all. cifra II n. 4 dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 12
 
@@ -413,7 +414,7 @@ Per quanto attiene al rapporto di lavoro e alle norme disciplinari, il personale
 
 L’ordinanza del 26 agosto 2009[^27-1] sulla cooperazione operativa con gli altri Stati Schengen in materia di protezione delle frontiere esterne dello spazio Schengen (OCOFE) è abrogata.
 
-[^27-1]: [[RU 2009 4553](https://fedlex.data.admin.ch/eli/oc/2009/538); [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 n. II 2; [2015 2749](https://fedlex.data.admin.ch/eli/oc/2015/520); [2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)all.; [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)]
+[^27-1]: [[RU 2009 4553](https://fedlex.data.admin.ch/eli/oc/2009/538); [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 cifra II n. 2; [2015 2749](https://fedlex.data.admin.ch/eli/oc/2015/520); [2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)all.; [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)]
 
 #### Art. 28
 
