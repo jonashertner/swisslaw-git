@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2015 über die Finanzmarktinfrastrukturen un
 short: FinfraV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/de"
 
 (Finanzmarktinfrastrukturverordnung, FinfraV)
 
-vom 25. November 2015 (Stand am 1. Januar 2025)
+vom 25. November 2015 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^ingress-1] (
 
 verordnet:
 
-[^ingress-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^ingress-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -656,7 +656,7 @@ Von den Bestimmungen zur Vor- und zur Nachhandelstransparenz ausgenommen werden 
 
 <sup>4</sup> Ob Geschäfte im Rahmen öffentlicher Aufgaben und nicht zu Anlagezwecken getätigt werden, ist dem Handelsplatz mitzuteilen.
 
-[^29-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^29-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 30
 
@@ -778,7 +778,7 @@ Um der zusätzlichen Belastung der Systemkapazität Rechnung zu tragen, kann der
 
 <sup>4</sup> Das Reglement über die unabhängige Beschwerdeinstanz enthält Vorschriften betreffend Zusammensetzung, Wahl, Organisation und Verfahren vor der Beschwerdeinstanz.
 
-[^35-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^35-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 36
 
@@ -840,7 +840,7 @@ Nicht zu melden sind folgende im Ausland getätigte Geschäfte:
 
 Die Bewilligungs- und Anerkennungsvoraussetzungen für den Betreiber eines organisierten Handelssystems richten sich nach den Finanzmarktgesetzen nach Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^38-1].
 
-[^38-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^38-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 39
 
@@ -950,7 +950,7 @@ Die zentrale Gegenpartei ermöglicht den Teilnehmern, ihre Erfüllungsrisiken zu
 
 <sup>6</sup> Unterschreiten ihre Eigenmittel 110 Prozent der Anforderungen nach den Absätzen 1–4, so unterrichtet die zentrale Gegenpartei umgehend die FINMA und ihre Prüfgesellschaft und übermittelt der FINMA einen Plan, der darstellt, wie die Grenze wieder eingehalten werden kann.
 
-[^48-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^48-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^48-2]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^48-3]: Fassung gemäss Beilage Ziff. 2 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
@@ -962,7 +962,7 @@ Die zentrale Gegenpartei ermöglicht den Teilnehmern, ihre Erfüllungsrisiken zu
 
 Die zentrale Gegenpartei überwacht Kreditrisiken gegenüber einer einzelnen Gegenpartei oder einer Gruppe von verbundenen Gegenparteien, basierend auf den Berechnungsgrundsätzen nach dem 4. Abschnitt des 1. Kapitels des 4. Titels der ERV[^49-1].
 
-[^49-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^49-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 50
 
@@ -1054,7 +1054,7 @@ Der Zentralverwahrer ermöglicht den Teilnehmern, ihre Erfüllungsrisiken zu ver
 
 <sup>2</sup> Im Übrigen gilt Artikel 48 Absätze 3–6 sinngemäss.
 
-[^56-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^56-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^56-2]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^56-3]: Fassung gemäss Beilage Ziff. 2 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
@@ -1066,7 +1066,7 @@ Der Zentralverwahrer ermöglicht den Teilnehmern, ihre Erfüllungsrisiken zu ver
 
 Der Zentralverwahrer überwacht Kreditrisiken gegenüber einer einzelnen Gegenpartei oder einer Gruppe von verbundenen Gegenparteien, basierend auf den Berechnungsgrundsätzen nach dem 4. Abschnitt des 1. Kapitels des 4. Titels der ERV[^57-1].
 
-[^57-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^57-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 58
 
@@ -1170,7 +1170,7 @@ Ein DLT-Handelssystem übt seine Tätigkeit gewerbsmässig aus, wenn es:
 
 <sup>5</sup> Die Anforderungen nach Artikel 34 gelten sinngemäss.
 
-[^58f-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^58f-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 58g
 
@@ -1184,7 +1184,7 @@ Ein DLT-Handelssystem übt seine Tätigkeit gewerbsmässig aus, wenn es:
 
 <sup>3</sup> Es informiert seine Teilnehmer über die durchgeführten Prüfungen und deren Ergebnisse.
 
-[^58g-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^58g-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 58h
 
@@ -1375,9 +1375,11 @@ Das Transaktionsregister gewährt folgenden Behörden unter Vorbehalt von Absatz
 - c. der Übernahmekommission: zu Transaktionsdaten über Derivatgeschäfte, die einen Zusammenhang zu einem Verfahren in Übernahmesachen haben;
 - d. der Eidgenössischen Revisionsaufsichtsbehörde: zu Transaktionsdaten über Derivatgeschäfte, die sie in einem konkreten Aufsichtsverfahren über Revisionsunternehmen benötigt;
 - e. der Wettbewerbskommission: zu Transaktionsdaten über Derivatgeschäfte, die einen Zusammenhang zu einem Verfahren in Wettbewerbssachen haben;
-- f. der Elektrizitätskommission: zu Transaktionsdaten über Derivatgeschäfte, deren Basiswert Strom ist.
+- f.[^62-1] der Elektrizitätskommission: zu Transaktionsdaten über Derivatgeschäfte, deren Basiswert Strom oder Gas ist.
 
 <sup>2</sup> Das Transaktionsregister lehnt Anfragen ab, die auf Transaktionen und Positionen von Zentralbanken ausgerichtet sind.
+
+[^62-1]: Fassung gemäss Art. 41 Ziff. 2 der V vom 2. Okt. 2026 über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten, in Kraft seit 1. Jan. 2027 ([AS 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
 #### Art. 63
 
@@ -1751,7 +1753,7 @@ Derivatgeschäfte zur Reduzierung von Risiken sind unmittelbar mit der Geschäft
 - c. als Absicherungsgeschäfte nach einem Rechnungslegungsstandard gelten, der nach Artikel 1 der Verordnung vom 21. November 2012[^87-1] über die anerkannten Standards zur Rechnungslegung anerkannt ist; oder
 - d. als pauschale Absicherungsgeschäfte im Rahmen einer Bewirtschaftung von Geschäftsrisiken (Portfolio- oder Macrohedging) oder mittels Näherungsverfahren (Proxy Hedging) nach anerkannten internationalen Standards abgeschlossen werden.
 
-[^87-1]: [SR 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+[^87-1]: [SR 221.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5937)
 
 #### Art. 88
 
@@ -2099,8 +2101,8 @@ Fällt ein Geschäft in mehr als eine Derivatekategorie nach Absatz 2, so fällt
 
 <sup>6</sup> …[^103-3]
 
-[^103-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^103-2]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^103-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^103-2]: [SR 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 [^103-3]: Aufgehoben durch Ziff. I der V vom 5. Juli 2017, mit Wirkung seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 104
@@ -2134,9 +2136,9 @@ Zulässige Sicherheiten sind:
 <sup>4</sup> Die Sicherheiten sind täglich neu zu bewerten.
 
 [^104-1]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^104-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^104-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^104-3]: Eingefügt durch Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^104-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^104-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 105
 
@@ -2312,7 +2314,7 @@ Finanzielle und Nichtfinanzielle Gegenparteien regeln schriftlich oder in andere
 
 <sup>7</sup> Die Revisionsstelle meldet die Verstösse dem EFD, wenn die Gesellschaft die Verstösse nach Absatz 5 nicht innerhalb der gesetzten Frist behebt oder wenn sich diese wiederholen.
 
-[^114-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^114-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Kapitel: Offenlegung von Beteiligungen
 
@@ -2556,7 +2558,7 @@ Absatz 1 kann auch für Effektengeschäfte anwendbar erklärt werden, die von fo
 
 <sup>3</sup> Das EFD veröffentlicht eine Liste der Stellen, die unter Absatz 2 fallen.
 
-[^127-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^127-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 128
 
@@ -2674,7 +2676,7 @@ Die Pflicht nach Artikel 114 zur Prüfung durch die Revisionsstellen gilt nach 1
 <sup>2</sup> Das Eidgenössische Departement des Innern kann die Frist nach Absatz 1 erstrecken, um anerkannten internationalen Standards und der ausländischen Rechtsentwicklung Rechnung zu tragen.
 
 [^133-1]: Fassung gemäss Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^133-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^133-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^133-3]: Fassung gemäss Ziff. I der V des EDI vom 4. Sept. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
 [^133-4]: Eingefügt durch Ziff. I der V des EDI vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
 [^133-5]: Eingefügt durch Ziff. I der V des EDI vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
@@ -2813,23 +2815,23 @@ N: Nicht anwendbar
 <tr><td>77 Indexfaktor</td><td colspan="3">Adjustierungsfaktor des Referenzindexes in Bezug auf vergangene Kreditereignisse</td><td>U</td><td>U</td><td colspan="3">N</td><td>Ganzzahliger Wert mit maximal 3 Zeichen</td><td>Zwingende Angabe für Kreditderivate, die sich auf einen Index als Basiswert beziehen</td></tr>
 <tr><td colspan="4">Abschnitt 2*i* – Änderungen der Meldung</td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
 <tr><td>78 Art der Meldung</td><td colspan="3">Angabe der Art der Meldung</td><td>Z</td><td>Z</td><td colspan="3">Z</td><td>N = Transaktion wird erstmalig gemeldet</td><td>Zu verwenden für die erstmalige Meldung einer Transaktion oder Position, sofern der Meldetyp «X» nicht zutrifft. Ein OTC-Derivatgeschäft, das nach Abschluss noch gleichentags zentral abgerechnet wird, ist zumindest als zentral abgerechnete Transaktion zu melden. Die Meldung der dem Clearing gleichentags vorangehenden Transaktionen ist erlaubt jedoch nicht zwingend erforderlich. Ein OTC-Derivatgeschäft, das nicht gleichentags oder gar nicht zentral abgerechnet wird, ist zumindest auf Basis seines Status am Ende des Handelstages zu melden. Die Meldung der gleichentags vorangehenden Transaktionen ist erlaubt jedoch nicht zwingend erforderlich. Grosse, gesamthaft eingegangene und anschliessend zugeteilte Positionen (Block Trades), die nicht am gleichen Tag zugeteilt werden, sind zu melden. Erfolgt die Zuteilung am gleichen Tag, kann auf die Meldung des Block Trades verzichtet werden. Die Zuteilungen sind in beiden Fällen zu melden.</td></tr>
-<tr><td>[tab]</td><td colspan="3">Angabe, ob sich die Meldung auf eine einzelne Transaktion oder eine Position bezieht</td><td></td><td></td><td colspan="3"></td><td>X = Transaktion wird erstmalig gemeldet und es ist gleichentags vorgesehen die Transaktion in eine Position zu überführen.</td><td>Die resultierende Summe der Transaktionen ist am Tagesende als Position über Feld «Level» = «P» zu melden. Eine erneute Meldung einzelner Transaktionen als komprimiert ist damit hinfällig. Dieser Meldetyp ist primär für börsengehandelte Derivate (Exchange Traded Derivatives, ETDs) und Contracts for Difference (CFDs) vorgesehen. Bei börsengehandelten Derivaten mit Abrechnung über eine zentrale Gegenpartei besteht die Meldepflicht erst auf Stufe der zentralen Abrechnung (zentral abgerechnete Zuteilung, sog. *cleared allocation*). Die der zentralen Abrechnung vorangehenden Schritte sind noch nicht meldepflichtig.</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>M = Korrektur falscher Angaben, Ergänzung fehlender Angaben oder Aktualisierung von Positionen</td><td></td></tr>
-<tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>E = Meldung wurde fälschlicherweise gemacht und sollte gelöscht werden</td><td>Z.B. die doppelte Meldung der gleichen Transaktion mit unterschiedlichen «ID des Geschäftsabschlusses».</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>C = Vorzeitiger Verfall/Aufhebung des Kontrakts</td><td>Ein vordefinierter Verfall ist nicht zu melden. Für Korrekturmeldungen ist «Art der Meldung» = «M» zu verwenden.</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>Z = Kompression eines OTC-Derivatgeschäfts</td><td>Für Kompressionen nach Art. 108 Bst. d FinfraG vorgesehen. Die Transaktion wird damit geschlossen.</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>V = Meldung einer Bewertung</td><td>Laufende Meldung der Bewertungen gemäss Art. 109 FinfraG. Eine erstmalige Bewertungsmeldung kann entweder über «Art der Meldung» = «N» erfolgen oder in einer nachfolgenden Meldung über «Art der Meldung» = «V». Bei zentral abgerechneten Geschäften ist die Bewertung der zentralen Gegenpartei zu verwenden. Für nach Gesetz nicht zu bewertende Geschäfte ist keine Bewertung zu melden.</td></tr>
-<tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>D = Anpassung der «ID des Geschäftsabschlusses», sofern diese zum Zeitpunkt der Meldung noch nicht festlag.</td><td></td></tr>
-<tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>L = Anpassungen, die sich aufgrund bestimmter Ereignisse während der Laufzeit des Kontrakts ergeben und für die kein anderer Wert zutrifft (sogenannte *lifecycle events*)</td><td>Sämtliche Ereignisse während der Laufzeit von börsengehandelten Derivaten sind stets auf Ebene der Position zu melden. Ein Beispiel eines solchen Ereignisses ist die Teilausübung einer Option, welche die gesamte Position in dieser Option reduziert.</td></tr>
+<tr><td></td><td colspan="3">Angabe, ob sich die Meldung auf eine einzelne Transaktion oder eine Position bezieht</td><td></td><td></td><td colspan="3"></td><td>X = Transaktion wird erstmalig gemeldet und es ist gleichentags vorgesehen die Transaktion in eine Position zu überführen.</td><td>Die resultierende Summe der Transaktionen ist am Tagesende als Position über Feld «Level» = «P» zu melden. Eine erneute Meldung einzelner Transaktionen als komprimiert ist damit hinfällig. Dieser Meldetyp ist primär für börsengehandelte Derivate (Exchange Traded Derivatives, ETDs) und Contracts for Difference (CFDs) vorgesehen. Bei börsengehandelten Derivaten mit Abrechnung über eine zentrale Gegenpartei besteht die Meldepflicht erst auf Stufe der zentralen Abrechnung (zentral abgerechnete Zuteilung, sog. *cleared allocation*). Die der zentralen Abrechnung vorangehenden Schritte sind noch nicht meldepflichtig.</td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>M = Korrektur falscher Angaben, Ergänzung fehlender Angaben oder Aktualisierung von Positionen</td><td></td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>E = Meldung wurde fälschlicherweise gemacht und sollte gelöscht werden</td><td>Z.B. die doppelte Meldung der gleichen Transaktion mit unterschiedlichen «ID des Geschäftsabschlusses».</td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>C = Vorzeitiger Verfall/Aufhebung des Kontrakts</td><td>Ein vordefinierter Verfall ist nicht zu melden. Für Korrekturmeldungen ist «Art der Meldung» = «M» zu verwenden.</td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>Z = Kompression eines OTC-Derivatgeschäfts</td><td>Für Kompressionen nach Art. 108 Bst. d FinfraG vorgesehen. Die Transaktion wird damit geschlossen.</td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>V = Meldung einer Bewertung</td><td>Laufende Meldung der Bewertungen gemäss Art. 109 FinfraG. Eine erstmalige Bewertungsmeldung kann entweder über «Art der Meldung» = «N» erfolgen oder in einer nachfolgenden Meldung über «Art der Meldung» = «V». Bei zentral abgerechneten Geschäften ist die Bewertung der zentralen Gegenpartei zu verwenden. Für nach Gesetz nicht zu bewertende Geschäfte ist keine Bewertung zu melden.</td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>D = Anpassung der «ID des Geschäftsabschlusses», sofern diese zum Zeitpunkt der Meldung noch nicht festlag.</td><td></td></tr>
+<tr><td></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>L = Anpassungen, die sich aufgrund bestimmter Ereignisse während der Laufzeit des Kontrakts ergeben und für die kein anderer Wert zutrifft (sogenannte *lifecycle events*)</td><td>Sämtliche Ereignisse während der Laufzeit von börsengehandelten Derivaten sind stets auf Ebene der Position zu melden. Ein Beispiel eines solchen Ereignisses ist die Teilausübung einer Option, welche die gesamte Position in dieser Option reduziert.</td></tr>
 <tr><td>79 Ebene der Meldung</td><td colspan="3"></td><td>Z</td><td>Z</td><td colspan="3">N</td><td>T = Transaktion P = Position</td><td>Für eine Position ist nur dann eine erneute Meldung zu erstatten, wenn sie sich verändert hat. Es ist zulässig, Derivategeschäfte nur auf Ebene der Transaktion zu melden.</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: Feld «Ebene der Meldung» weist den Wert «T» auf
 [^annex2-lvlu1-2]: Feld «Ebene der Meldung» weist den Wert «P» auf
-[^annex2-lvlu1-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^annex2-lvlu1-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^annex2-lvlu1-5]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^annex2-lvlu1-6]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annex2-lvlu1-3]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^annex2-lvlu1-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^annex2-lvlu1-5]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^annex2-lvlu1-6]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 Anhang 3
 
@@ -2867,7 +2869,7 @@ Anhang 4[^t-2]
 
 Wertschriften mit mindestens einem Rating der Ratingklasse 6 oder 7 nach Anhang 2 ERV oder der Ratingklasse 4 nach Artikel 64*a* ERV sind nicht als Sicherheiten anerkannt.
 
-[^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 Anhang 5
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2015 sulle infrastrutture del mercato finanzia
 short: OInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/it"
 
 (Ordinanza sull’infrastruttura finanziaria, OInFi)
 
-del 25 novembre 2015 (Stato 1° gennaio 2025)
+del 25 novembre 2015 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 19 giugno 2015[^ingress-1] sull’infrastruttura finanziaria 
 
 ordina:
 
-[^ingress-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^ingress-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 ## Titolo primo: Disposizioni generali
 
@@ -81,7 +81,7 @@ Sono considerate operazioni di cassa le operazioni regolate immediatamente o ent
 - b. gli acquisti o le vendite di valori mobiliari indipendentemente dalla loro valuta, pagati entro il termine per il regolamento usuale sul mercato o prescritto dalla legge;
 - c. le operazioni prolungate in modo continuativo senza che sussista un obbligo giuridico oppure sia usuale un prolungamento tra le parti.
 
-[^2-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^2-1]: Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 3
 
@@ -327,8 +327,8 @@ Sono considerati servizi essenziali segnatamente anche:
   - 3\. la prima registrazione di valori mobiliari TRD su un conto titoli,
   - 4\. la riconciliazione dei portafogli.
 
-[^12-1]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^12-2]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^12-1]: Introdotta dalla cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^12-2]: Introdotta dalla cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 13
 
@@ -352,10 +352,10 @@ Il capitale minimo ammonta:
 
 <sup>2</sup> Se la fondazione avviene mediante conferimenti in natura, una società di audit abilitata verifica il valore degli attivi e la somma dei passivi. Ciò vale anche in caso di trasformazione di un’impresa esistente in un’infrastruttura del mercato finanziario.
 
-[^13-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^13-2]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^13-3]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^13-4]: Introdotto dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-1]: Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-2]: Introdotta dalla cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-3]: Introdotta dalla cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-4]: Introdotto dalla cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14
 
@@ -552,9 +552,9 @@ Un organismo di autodisciplina e sorveglianza adeguato comprende in particolare 
 
 <sup>4</sup> La sede di negoziazione stabilisce nei suoi regolamenti i compiti e le competenze degli organi nonché la rappresentanza degli emittenti e degli investitori in seno all’organo competente per l’ammissione di valori mobiliari al commercio.
 
-[^24-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^24-2]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^24-3]: Introdotto dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-1]: Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-2]: Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-3]: Introdotto dalla cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -656,7 +656,7 @@ Possono derogare alle disposizioni sulla trasparenza pre-negoziazione e post-neg
 
 <sup>4</sup> La sede di negoziazione deve essere informata se le operazioni sono effettuate nell’ambito di compiti pubblici e non a scopo di investimento.
 
-[^29-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^29-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 30
 
@@ -682,7 +682,7 @@ La sede di negoziazione deve disporre di sistemi, procedure e dispositivi effica
 
 <sup>4</sup> La sede di negoziazione può prevedere nei suoi regolamenti che i partecipanti segnalino le vendite allo scoperto nel suo sistema di negoziazione.
 
-[^30-1]: Nuovo testo giusta l’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^30-1]: Nuovo testo giusta l’all. 1 cifra II n. 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 31
 
@@ -778,7 +778,7 @@ Per tenere conto dello sfruttamento aggiuntivo della capacità del sistema, la s
 
 <sup>4</sup> Il regolamento dell’autorità indipendente di ricorso contiene prescrizioni concernenti la composizione, la nomina, l’organizzazione e le procedure di tale autorità.
 
-[^35-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^35-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 36
 
@@ -828,7 +828,7 @@ Non devono essere comunicate le seguenti operazioni effettuate all’estero:
 
 <sup>5</sup> Per effettuare la comunicazione si può ricorrere a terzi.
 
-[^37-1]: Nuova espressione giusta l’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^37-1]: Nuova espressione giusta l’all. 1 cifra II n. 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Sezione 3: Sistemi organizzati di negoziazione
 
@@ -840,7 +840,7 @@ Non devono essere comunicate le seguenti operazioni effettuate all’estero:
 
 Le condizioni per l’autorizzazione e il riconoscimento applicabili al gestore di un sistema organizzato di negoziazione sono rette dalle leggi sui mercati finanziari secondo l’articolo 1 capoverso 1 della legge del 22 giugno 2007[^38-1] sulla vigilanza dei mercati finanziari.
 
-[^38-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^38-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 39
 
@@ -950,7 +950,7 @@ La controparte centrale consente ai partecipanti di evitare i rischi legati all�
 
 <sup>6</sup> Se i suoi fondi scendono al di sotto del 110 per cento dei requisiti di cui ai capoversi 1–4, la controparte centrale ne informa immediatamente la FINMA e la sua società di audit e trasmette alla FINMA un piano indicando come intende rispettare nuovamente il limite.
 
-[^48-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^48-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^48-2]: Nuovo testo giusta l’all. n. 5 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^48-3]: Nuovo testo giusta l’appendice n. 2 dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
@@ -962,7 +962,7 @@ La controparte centrale consente ai partecipanti di evitare i rischi legati all�
 
 La controparte centrale sorveglia i rischi di credito nei confronti di una singola controparte o di un gruppo di controparti associate basandosi sui principi di calcolo stabiliti alla sezione 4 del capitolo 1 del titolo quarto dell’OFoP[^49-1].
 
-[^49-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^49-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 50
 
@@ -1054,7 +1054,7 @@ Il depositario centrale consente ai partecipanti di evitare i rischi legati all�
 
 <sup>2</sup> Per il resto si applica per analogia l’articolo 48 capoversi 3–6.
 
-[^56-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^56-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^56-2]: Nuovo testo giusta l’all. n. 5 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^56-3]: Nuovo testo giusta l’appendice n. 2 dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
@@ -1066,7 +1066,7 @@ Il depositario centrale consente ai partecipanti di evitare i rischi legati all�
 
 Il depositario centrale sorveglia i rischi di credito nei confronti di una singola controparte o di controparti associate a un gruppo basandosi sui principi di calcolo stabiliti alla sezione 4 del capitolo 1 del titolo quarto dell’OFoP[^57-1].
 
-[^57-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^57-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 58
 
@@ -1092,7 +1092,7 @@ Per liquidità in una valuta secondo l’articolo 67 capoverso 1 LInFi si intend
 
 [^tit2-chap4a-1]
 
-[^tit2-chap4a-1]: Introdotto dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^tit2-chap4a-1]: Introdotto dalla cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### Sezione 1: Definizioni
 
@@ -1170,7 +1170,7 @@ Un sistema di negoziazione TRD esercita la sua attività a titolo professionale 
 
 <sup>5</sup> I requisiti di cui all’articolo 34 si applicano per analogia.
 
-[^58f-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892).
+[^58f-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599).
 
 #### Art. 58g
 
@@ -1184,7 +1184,7 @@ Un sistema di negoziazione TRD esercita la sua attività a titolo professionale 
 
 <sup>3</sup> Il sistema di negoziazione TRD informa i propri partecipanti sulle verifiche eseguite e sul loro esito.
 
-[^58g-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^58g-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 58h
 
@@ -1345,7 +1345,7 @@ Esso registra tutte le modifiche dei dati comunicati, indicando:
 
 ### (art. 76 LInFi)
 
-<sup>1</sup> <sub>2</sub> I dati devono essere facilmente accessibili al pubblico.
+<sup>1</sup>
 
 Il repertorio di dati sulle negoziazioni pubblica almeno settimanalmente le posizioni aperte, il volume delle transazioni e i valori per le seguenti categorie di derivati:
 
@@ -1355,6 +1355,8 @@ Il repertorio di dati sulle negoziazioni pubblica almeno settimanalmente le posi
 - d. derivati su azioni;
 - e. derivati su tassi d’interesse;
 - f. altri derivati.
+
+<sup>2</sup> I dati devono essere facilmente accessibili al pubblico.
 
 <sup>3</sup> I dati pubblicati non devono permettere di trarre conclusioni sulle parti contrattuali.
 
@@ -1373,9 +1375,11 @@ Fatto salvo il capoverso 2, il repertorio di dati sulle negoziazioni accorda l�
 - c. alla Commissione delle offerte pubbliche di acquisto, per i dati relativi alle transazioni in derivati in relazione a una procedura concernente un’offerta pubblica d’acquisto;
 - d. all’Autorità federale di sorveglianza dei revisori, per i dati relativi alle transazioni in derivati di cui necessita nell’ambito di una procedura di sorveglianza concreta delle società di audit;
 - e. alla Commissione della concorrenza, per i dati relativi alle transazioni in derivati in relazione a una procedura in materia di concorrenza;
-- f. alla Commissione dell’energia elettrica, per i dati relativi alle transazioni in derivati il cui sottostante è un valore che riguarda l’energia elettrica.
+- f.[^62-1] alla Commissione dell’energia elettrica, per i dati concernenti le transazioni in derivati il cui sottostante è un valore che riguarda l’energia elettrica o il gas.
 
 <sup>2</sup> Il repertorio di dati sulle negoziazioni respinge le domande che concernono transazioni e posizioni delle banche centrali.
+
+[^62-1]: Nuovo testo giusta l’art. 41 n. 2 dell’O del 2 ott. 2026 sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso, in vigore dal 1° gen. 2027 ([RU 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
 #### Art. 63
 
@@ -1437,7 +1441,9 @@ Il repertorio di dati sulle negoziazioni mette a disposizione di privati un modu
 
 <sup>1</sup> Il sistema di pagamento garantisce una compensazione e un regolamento corretti e conformi alla legge delle obbligazioni di pagamento.
 
-<sub>2</sub> Esso stabilisce il momento a partire dal quale:
+<sup>2</sup>
+
+Esso stabilisce il momento a partire dal quale:
 
 - a. un ordine di pagamento non può più essere modificato o revocato;
 - b. un pagamento è regolato.
@@ -1493,16 +1499,18 @@ Nel caso di sistemi di pagamento di rilevanza sistemica i fondi propri devono pe
 
 ### (art. 82 LInFi)
 
-<sub>2</sub> Esso investe i propri mezzi finanziari esclusivamente in contanti o in strumenti finanziari liquidi con un basso rischio di credito e di mercato.
+<sup>1</sup>
 
-<sub>3</sub> Il sistema di pagamento verifica regolarmente il rispetto dei requisiti di cui al capoverso 1 sulla base di diversi scenari di stress. A tal fine, applica alla liquidità scarti di garanzia adeguati anche in condizioni di mercato estreme ma plausibili. Diversifica i sui fornitori di liquidità.
-
-<sub>4</sub> La strategia d’investimento del sistema di pagamento deve essere in linea con la sua strategia di gestione dei rischi. Il sistema di pagamento è tenuto a evitare i rischi di concentrazione.
-
-<sub>1</sub> Il sistema di pagamento deve disporre di liquidità di cui all’articolo 58 capoverso 1 sufficienti per:
+Il sistema di pagamento deve disporre di liquidità di cui all’articolo 58 capoverso 1 sufficienti per:
 
 - a. far fronte alle proprie obbligazioni di pagamento in tutte le valute anche in caso di inadempienza del partecipante nei confronti del quale esso presenta l’esposizione maggiore, in condizioni di mercato estreme ma plausibili; e
 - b. poter fornire i propri servizi e svolgere le proprie attività in maniera regolamentare.
+
+<sup>2</sup> Esso investe i propri mezzi finanziari esclusivamente in contanti o in strumenti finanziari liquidi con un basso rischio di credito e di mercato.
+
+<sup>3</sup> Il sistema di pagamento verifica regolarmente il rispetto dei requisiti di cui al capoverso 1 sulla base di diversi scenari di stress. A tal fine, applica alla liquidità scarti di garanzia adeguati anche in condizioni di mercato estreme ma plausibili. Diversifica i sui fornitori di liquidità.
+
+<sup>4</sup> La strategia d’investimento del sistema di pagamento deve essere in linea con la sua strategia di gestione dei rischi. Il sistema di pagamento è tenuto a evitare i rischi di concentrazione.
 
 ### Capitolo 7: Vigilanza e sorveglianza
 
@@ -1561,7 +1569,9 @@ Sono istruzioni impartite da partecipanti segnatamente le istruzioni che:
 
 ### (art. 92 LInFi)
 
-<sub>1</sub> Possono essere differiti in particolare:
+<sup>1</sup>
+
+Possono essere differiti in particolare:
 
 - a. i contratti sull’acquisto, sulla vendita, sul riacquisto, sul prestito di valori mobiliari e diritti valori e sulla negoziazione di opzioni su valori mobiliari e diritti valori;
 - b. i contratti sull’acquisto e sulla vendita con futura fornitura di materie prime nonché sulla negoziazione di opzioni su materie prime o sulla fornitura di materie prime;
@@ -1727,8 +1737,8 @@ Le operazioni in derivati a cui partecipa l’emittente di un titolo di credito 
 - d. le altre operazioni in derivati concluse nel quadro del «netting set» sono collegate all’aggregato di copertura;
 - e. la quota di garanzia dell’aggregato di copertura ammonta almeno al 102 per cento.[^86-2]
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^86-2]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^86-2]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 87
 
@@ -1743,7 +1753,7 @@ Le operazioni in derivati volte a ridurre i rischi sono direttamente correlate a
 - c. sono considerate operazioni di copertura secondo una norma contabile riconosciuta di cui all’articolo 1 dell’ordinanza del 21 novembre 2012[^87-1] sulle norme contabili riconosciute; o
 - d. sono concluse, secondo standard internazionali riconosciuti, come operazioni di copertura forfettarie nell’ambito di una gestione dei rischi aziendali («portfolio hedging» o «macro hedging») o mediante copertura indiretta («proxy hedging»).
 
-[^87-1]: [RS 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+[^87-1]: [RS 221.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5937)
 
 #### Art. 88
 
@@ -1840,13 +1850,13 @@ La comunicazione contiene le indicazioni di cui all’allegato 2.
 
 ### (art. 108 lett. a LInFi)
 
-<sub>1</sub> Le condizioni contrattuali devono essere confermate reciprocamente al più tardi il secondo giorno operativo successivo alla conclusione dell’operazione in derivati OTC.
+<sup>1</sup> Le condizioni contrattuali devono essere confermate reciprocamente al più tardi il secondo giorno operativo successivo alla conclusione dell’operazione in derivati OTC.
 
-<sub>2</sub> Le operazioni in derivati OTC concluse dopo le ore 16 devono essere confermate al più tardi il terzo giorno operativo successivo alla conclusione dell’operazione.
+<sup>2</sup> Le operazioni in derivati OTC concluse dopo le ore 16 devono essere confermate al più tardi il terzo giorno operativo successivo alla conclusione dell’operazione.
 
-<sub>3</sub> Per le transazioni complesse e le piccole controparti i termini si allungano di un giorno operativo.
+<sup>3</sup> Per le transazioni complesse e le piccole controparti i termini si allungano di un giorno operativo.
 
-<sub>4</sub> Le controparti possono concordare che un’operazione in derivati OTC è considerata confermata anche quando una di esse non faccia opposizione contro la conferma dell’altra.
+<sup>4</sup> Le controparti possono concordare che un’operazione in derivati OTC è considerata confermata anche quando una di esse non faccia opposizione contro la conferma dell’altra.
 
 #### Art. 96
 
@@ -1854,19 +1864,21 @@ La comunicazione contiene le indicazioni di cui all’allegato 2.
 
 ### (art. 108 lett. b LInFi)
 
-<sub>1</sub> Le modalità di riconciliazione del portafoglio devono essere concordate prima della conclusione di un’operazione in derivati OTC.
+<sup>1</sup> Le modalità di riconciliazione del portafoglio devono essere concordate prima della conclusione di un’operazione in derivati OTC.
 
-<sub>2</sub> La riconciliazione del portafoglio comprende le condizioni essenziali delle operazioni in derivati OTC concluse e la loro valutazione.
+<sup>2</sup> La riconciliazione del portafoglio comprende le condizioni essenziali delle operazioni in derivati OTC concluse e la loro valutazione.
 
-<sub>3</sub> Essa può essere effettuata da un terzo a cui le controparti hanno fatto ricorso.
+<sup>3</sup> Essa può essere effettuata da un terzo a cui le controparti hanno fatto ricorso.
 
-<sub>5</sub> I derivati che secondo l’articolo 101 capoverso 3 lettera b LInFi non sono soggetti all’obbligo di compensazione non vengono inclusi nella determinazione delle operazioni in corso secondo il capoverso 4.
+<sup>4</sup>
 
-<sub>4</sub> La riconciliazione del portafoglio deve essere effettuata:
+La riconciliazione del portafoglio deve essere effettuata:
 
 - a. ogni giorno operativo se tra le controparti sono in corso 500 o più operazioni in derivati OTC;
 - b. una volta alla settimana se tra le controparti sono in corso da 51 a 499 operazioni in derivati OTC in una data qualsiasi della settimana;
 - c. una volta ogni trimestre se tra le controparti sono in corso 50 o meno operazioni in derivati OTC in una data qualsiasi del trimestre.
+
+<sup>5</sup> I derivati che secondo l’articolo 101 capoverso 3 lettera b LInFi non sono soggetti all’obbligo di compensazione non vengono inclusi nella determinazione delle operazioni in corso secondo il capoverso 4.
 
 #### Art. 97
 
@@ -1874,9 +1886,11 @@ La comunicazione contiene le indicazioni di cui all’allegato 2.
 
 ### (art. 108 lett. c LInFi)
 
-<sub>1</sub> Il foro e il diritto applicabile in caso di eventuali controversie devono essere concordati al più tardi all’atto della conclusione di un’operazione in derivati OTC.
+<sup>1</sup> Il foro e il diritto applicabile in caso di eventuali controversie devono essere concordati al più tardi all’atto della conclusione di un’operazione in derivati OTC.
 
-<sub>2</sub> Nell’accordo devono essere definite procedure per:
+<sup>2</sup>
+
+Nell’accordo devono essere definite procedure per:
 
 - a. l’accertamento, la registrazione e la sorveglianza di controversie relative al riconoscimento o alla valutazione dell’operazione e allo scambio di garanzie tra le controparti; la registrazione deve comprendere almeno il tempo durante il quale la controversia è pendente, la controparte e l’importo contestato;
 - b. la risoluzione tempestiva delle controversie e per un processo specifico alle controversie che non sono risolte entro cinque giorni operativi.
@@ -1887,14 +1901,16 @@ La comunicazione contiene le indicazioni di cui all’allegato 2.
 
 ### (art. 108 lett. d LInFi)
 
-<sub>1</sub> È possibile rinunciare a una compressione del portafoglio nella misura in cui non comporti alcuna riduzione significativa del rischio di controparte e la controparte obbligata sia in grado di documentarlo almeno ogni sei mesi.
+<sup>1</sup> È possibile rinunciare a una compressione del portafoglio nella misura in cui non comporti alcuna riduzione significativa del rischio di controparte e la controparte obbligata sia in grado di documentarlo almeno ogni sei mesi.
 
-<sub>3</sub> È inoltre possibile rinunciare a una compressione del portafoglio anche se il relativo onere risultasse sproporzionato rispetto alla prevista riduzione del rischio di controparte.
+<sup>2</sup>
 
-<sub>2</sub> La compressione del portafoglio non comporta alcuna riduzione significativa del rischio di controparte in particolare se:
+La compressione del portafoglio non comporta alcuna riduzione significativa del rischio di controparte in particolare se:
 
 - a. il portafoglio non comprende o comprende soltanto poche operazioni di pareggio («offset») effettuate con derivati OTC;
 - b. la compressione metterebbe a rischio l’efficacia dei processi e dei controlli di rischio interni.
+
+<sup>3</sup> È inoltre possibile rinunciare a una compressione del portafoglio anche se il relativo onere risultasse sproporzionato rispetto alla prevista riduzione del rischio di controparte.
 
 #### Art. 99
 
@@ -1902,17 +1918,23 @@ La comunicazione contiene le indicazioni di cui all’allegato 2.
 
 ### (art. 109 LInFi)
 
-<sub>1</sub> Condizioni di mercato che impediscono la valutazione di un’operazione in derivati OTC sono date se:
+<sup>1</sup>
+
+Condizioni di mercato che impediscono la valutazione di un’operazione in derivati OTC sono date se:
 
 - a. il mercato è inattivo; o
 - b. la fascia di oscillazione delle stime plausibili del valore equo («fair value») è significativa e le probabilità delle diverse stime non possono essere sufficientemente valutate.
 
-<sub>2</sub> Il mercato è considerato inattivo per un’operazione in derivati OTC quando:
+<sup>2</sup>
+
+Il mercato è considerato inattivo per un’operazione in derivati OTC quando:
 
 - a. i prezzi quotati non sono disponibili facilmente né sistematicamente; e
 - b. i prezzi disponibili non sono riconducibili a transazioni di mercato effettuate regolarmente e nel rispetto delle usuali condizioni di mercato.
 
-<sub>3</sub> Se è consentita una valutazione in base a prezzi risultanti da un modello, il modello deve:
+<sup>3</sup>
+
+Se è consentita una valutazione in base a prezzi risultanti da un modello, il modello deve:
 
 - a. tenere conto di tutti i fattori che le controparti considererebbero nella definizione di un prezzo, utilizzando, per quanto possibile, anche le informazioni utili per la valutazione del mercato;
 - b. essere conforme ai modelli economici riconosciuti per la determinazione dei prezzi degli strumenti finanziari;
@@ -1937,7 +1959,7 @@ Nel caso in cui le controparti debbano scambiarsi garanzie, lo scambio avviene s
 
 <sup>3</sup> L’obbligo di cui al capoverso 2 sussiste di volta in volta durante l’intero anno civile successivo.
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 100a
 
@@ -1961,7 +1983,7 @@ Se una delle controparti di un’operazione in derivati è un emittente di un ti
 - a. la rinuncia a uno scambio di margini iniziali; o
 - b. che l’emittente del titolo di credito coperto o il soggetto giuridico dell’aggregato di copertura non versi alcun margine di variazione e la controparte versi margini di variazione in contanti.
 
-[^100a-1]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^100a-1]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 100b
 
@@ -1975,7 +1997,7 @@ Se una delle controparti di un’operazione in derivati è un emittente di un ti
 
 <sup>3</sup> Nelle operazioni infragruppo il margine iniziale può essere ridotto di 10 milioni di franchi al massimo.
 
-[^100b-1]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^100b-1]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 101
 
@@ -1989,7 +2011,7 @@ Se una delle controparti di un’operazione in derivati è un emittente di un ti
 
 <sup>3</sup> Il margine iniziale deve essere versato il giorno del calcolo secondo il capoverso 1. Per il regolamento si applicano i termini usuali sul mercato.
 
-[^101-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^101-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 101a
 
@@ -2021,7 +2043,7 @@ In deroga al capoverso 3, è consentito versare i margini di variazione entro du
   - 1\. il periodo che intercorre tra l’ultimo versamento dei margini di variazione e la possibile inadempienza della controparte, più i giorni che intercorrono tra il giorno del calcolo e il giorno del versamento dei margini di variazione, e
   - 2\. il periodo che è stimato necessario per sostituire le operazioni in derivati OTC interessate o per coprire i rischi a esse connesse.
 
-[^101a-1]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^101a-1]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 102
 
@@ -2044,7 +2066,7 @@ La controparte beneficiaria e il terzo depositario devono separare i margini ini
 - a. il margine iniziale sia immediatamente disponibile per la controparte beneficiaria in caso di fallimento o di insolvenza della controparte che versa il margine iniziale; e
 - b. la controparte che versa il margine iniziale sia sufficientemente coperta in caso di fallimento o di insolvenza della controparte beneficiaria o del terzo depositario.
 
-[^102-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^102-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 103
 
@@ -2079,9 +2101,9 @@ Se un’operazione rientra in più di una categoria di derivati secondo il capov
 
 <sup>6</sup> …[^103-3]
 
-[^103-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^103-2]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
-[^103-3]: Abrogato dal n. I dell’O del 5 lug. 2017, con effetto dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^103-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^103-2]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
+[^103-3]: Abrogato dalla cifra I dell’O del 5 lug. 2017, con effetto dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 104
 
@@ -2114,9 +2136,9 @@ Sono garanzie consentite:
 <sup>4</sup> Le garanzie devono essere rivalutate giornalmente.
 
 [^104-1]: Nuovo testo giusta l’all. n. 5 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^104-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^104-3]: Introdotta dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^104-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^104-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^104-3]: Introdotta dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^104-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 105
 
@@ -2143,7 +2165,7 @@ Esse adottano misure per:
 - b. escludere che le garanzie accettate siano emesse dal prestatore della garanzia o da un’impresa ad esso legata;
 - c. evitare rischi di correlazione significativi dalle garanzie ricevute.
 
-[^105-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^105-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 106
 
@@ -2176,9 +2198,9 @@ Essa può rinunciare ad esigere il versamento di margini iniziali e di variazion
 
 <sup>3</sup> Gli altri obblighi di riduzione dei rischi che richiederebbero una collaborazione da parte della controparte possono essere adempiuti unilateralmente, purché ciò sia conforme agli standard internazionali riconosciuti.
 
-[^106-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^106-2]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^106-3]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^106-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^106-2]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^106-3]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 107
 
@@ -2269,8 +2291,8 @@ Le controparti finanziarie e non finanziarie disciplinano per scritto o in un’
 
 <sup>3</sup> Le controparti finanziarie che sono incaricate da altre controparti finanziarie o non finanziarie di adempiere i loro obblighi disciplinano i relativi processi ai sensi del capoverso 1 per analogia.
 
-[^113-1]: Nuovo testo giusta l’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^113-2]: Nuovo testo giusta l’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^113-1]: Nuovo testo giusta l’all. 1 cifra II n. 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^113-2]: Nuovo testo giusta l’all. 1 cifra II n. 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 114
 
@@ -2292,7 +2314,7 @@ Le controparti finanziarie e non finanziarie disciplinano per scritto o in un’
 
 <sup>7</sup> Se la società non elimina entro il termine stabilito secondo il capoverso 5 le infrazioni che le sono state comunicate o se queste si ripetono, l’ufficio di revisione segnala le infrazioni al DFF.
 
-[^114-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^114-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Capitolo 2: Pubblicità delle partecipazioni
 
@@ -2500,9 +2522,9 @@ Le operazioni in valori mobiliari volte a stabilizzare il corso di un valore mob
 - d.[^126-2] sono annunciate alla sede di negoziazione o al sistema di negoziazione TRD al più tardi il quinto giorno di negoziazione successivo all’esecuzione e pubblicate dall’emittente al più tardi il quinto giorno di negoziazione successivo alla scadenza del termine di cui alla lettera a; e
 - e.[^126-3] l’emittente informa il pubblico al più tardi il quinto giorno di negoziazione successivo all’esercizio di un’opzione di sovrallocazione sul momento dell’esercizio nonché sul numero e il tipo dei valori mobiliari interessati.
 
-[^126-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^126-2]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^126-3]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-1]: Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-2]: Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-3]: Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 127
 
@@ -2536,7 +2558,7 @@ Le seguenti operazioni in valori mobiliari sono ammesse anche se rientrano nel c
 
 <sup>3</sup> Il DFF pubblica un elenco degli organismi a cui si applica il capoverso 1 lettera b numero 2.
 
-[^127-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^127-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 128
 
@@ -2568,10 +2590,10 @@ La comunicazione di un’informazione privilegiata a una persona non rientra nel
 
 <sup>2</sup> Fino al 31 dicembre 2017 la deroga all’obbligo di comunicazione di cui all’articolo 37 capoverso 4 può essere fatta valere senza un accordo secondo l’articolo 32 capoverso 3 LInFi o uno scambio di informazioni tra la FINMA e la competente autorità estera di vigilanza.
 
-[^129-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2703](https://fedlex.data.admin.ch/eli/oc/2016/434)).
-[^129-2]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^129-3]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^129-4]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^129-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2703](https://fedlex.data.admin.ch/eli/oc/2016/434)).
+[^129-2]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^129-3]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^129-4]: Introdotto dalla cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 130
 
@@ -2589,8 +2611,8 @@ L’obbligo di comunicazione a un repertorio di dati sulle negoziazioni di cui a
 
 <sup>3</sup> In casi particolari la FINMA può prorogare i termini di cui al presente articolo.
 
-[^130-1]: Nuovo testo giusta il n. I dell’O del 30 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 576](https://fedlex.data.admin.ch/eli/oc/2022/576)).
-[^130-2]: Nuovo testo giusta il n. I dell’O del 14 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
+[^130-1]: Nuovo testo giusta la cifra I dell’O del 30 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 576](https://fedlex.data.admin.ch/eli/oc/2022/576)).
+[^130-2]: Nuovo testo giusta la cifra I dell’O del 14 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
 
 #### Art. 131
 
@@ -2629,11 +2651,11 @@ L’obbligo di scambiare un margine iniziale si applica alle controparti la cui 
 
 <sup>6</sup> La FINMA può prorogare i termini di cui al presente articolo per tenere conto degli standard internazionali riconosciuti e dell’evoluzione del diritto estero.
 
-[^131-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^131-2]: Introdotta dall’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^131-3]: Nuovo testo giusta l’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^131-4]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^131-5]: Introdotto dal n. I dell’O del 5 lug. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)). Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^131-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^131-2]: Introdotta dall’all. 1 cifra II n. 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^131-3]: Nuovo testo giusta l’all. 1 cifra II n. 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^131-4]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^131-5]: Introdotto dalla cifra I dell’O del 5 lug. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)). Nuovo testo giusta la cifra I n. 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 132
 
@@ -2653,11 +2675,11 @@ L’obbligo di verifica da parte degli uffici di revisione di cui all’articolo
 
 <sup>2</sup> Il Dipartimento federale dell’interno può prorogare il termine di cui al capoverso 1 per tenere conto degli standard internazionali riconosciuti e dell’evoluzione del diritto estero.
 
-[^133-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^133-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^133-3]: Nuovo testo giusta il n. I dell’O del DFI del 4 set. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
-[^133-4]: Introdotto dal n. I dell’O del DFI del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
-[^133-5]: Introdotto dal n. I dell’O del DFI del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
+[^133-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^133-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^133-3]: Nuovo testo giusta la cifra I dell’O del DFI del 4 set. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
+[^133-4]: Introdotto dalla cifra I dell’O del DFI del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
+[^133-5]: Introdotto dalla cifra I dell’O del DFI del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
 
 #### Art. 134
 
@@ -2689,7 +2711,7 @@ Allegato 2[^t-1]
 
 ## Indicazioni da comunicare ai repertori di dati sulle negoziazioni
 
-[^t-1]: Aggiornato dall’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^t-1]: Aggiornato dall’all. 1 cifra II n. 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 Legenda relativa alla colonna «Convalida per T / P / V»:
 
@@ -2806,10 +2828,10 @@ N: Non applicabile
 
 [^annex2-lvlu1-1]: Il campo «Livello della comunicazione» riporta il valore «T».
 [^annex2-lvlu1-2]: Il campo «Livello della comunicazione» riporta il valore «P».
-[^annex2-lvlu1-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^annex2-lvlu1-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^annex2-lvlu1-5]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^annex2-lvlu1-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annex2-lvlu1-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^annex2-lvlu1-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^annex2-lvlu1-5]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^annex2-lvlu1-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 Allegato 3
 
@@ -2847,7 +2869,7 @@ Allegato 4[^t-2]
 
 I titoli con almeno un rating della classe di rating 6 o 7 secondo l’allegato 2 OFoP oppure della classe di rating 4 secondo l’articolo 64*a* OFoP non sono riconosciuti come garanzie.
 
-[^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 Allegato 5
 

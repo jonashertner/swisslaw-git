@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2015 sur les infrastructures des marchés fina
 short: OIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20250101/fr"
 
 (Ordonnance sur l’infrastructure des marchés financiers, OIMF)
 
-du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2025)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[
 
 arrête:
 
-[^ingress-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^ingress-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 ## Titre 1 Dispositions générales
 
@@ -656,7 +656,7 @@ Les opérations sur valeurs mobilières effectuées par les institutions ci-apr�
 
 <sup>4</sup> La plate-forme de négociation doit être informée si les opérations sont effectuées dans le cadre de tâches publiques et non à des fins de placement.
 
-[^29-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^29-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 30
 
@@ -778,7 +778,7 @@ Afin de tenir compte de l’utilisation supplémentaire des capacités du systè
 
 <sup>4</sup> Le règlement de l’instance de recours indépendante comprend des dispositions sur la composition, la nomination, l’organisation et les procédures de cette instance.
 
-[^35-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^35-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 36
 
@@ -840,7 +840,7 @@ Ne doivent pas être déclarées les opérations effectuées à l’étranger é
 
 Les conditions d’obtention d’une autorisation ou d’une reconnaissance applicables à l’exploitant d’un système organisé de négociation reposent sur les lois sur les marchés financiers qui sont énoncées à l’art. 1, al. 1, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^38-1].
 
-[^38-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^38-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 39
 
@@ -950,7 +950,7 @@ La contrepartie centrale permet aux participants d’éviter les risques de règ
 
 <sup>6</sup> Si ses fonds propres sont inférieurs à 110 % des exigences énoncées aux al. 1 à 4, la contrepartie centrale en informe immédiatement la FINMA et sa société d’audit et communique à la FINMA un plan précisant comment elle entend atteindre à nouveau ce seuil.
 
-[^48-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^48-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^48-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^48-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
@@ -962,7 +962,7 @@ La contrepartie centrale permet aux participants d’éviter les risques de règ
 
 La contrepartie centrale surveille les risques de crédit envers une contrepartie ou un groupe de contreparties liées en se basant sur les principes de calcul arrêtés au titre 4, chapitre 1, section 4 de l’OFR[^49-1].
 
-[^49-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^49-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 50
 
@@ -1054,7 +1054,7 @@ Le dépositaire central permet aux participants d’éviter les risques de règl
 
 <sup>2</sup> Pour le reste, l’art. 48, al. 3 à 6, s’applique par analogie.
 
-[^56-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^56-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^56-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^56-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
@@ -1066,7 +1066,7 @@ Le dépositaire central permet aux participants d’éviter les risques de règl
 
 Le dépositaire central surveille les risques de crédit envers une contrepartie ou un groupe de contreparties liées en se basant sur les principes de calcul arrêtés au titre 4, chapitre 1, section 4 de l’OFR[^57-1].
 
-[^57-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^57-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 58
 
@@ -1170,7 +1170,7 @@ Un système de négociation fondé sur la TRD exerce son activité à titre prof
 
 <sup>5</sup> Les exigences de l’art. 34 sont applicables par analogie.
 
-[^58f-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^58f-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 58g
 
@@ -1184,7 +1184,7 @@ Un système de négociation fondé sur la TRD exerce son activité à titre prof
 
 <sup>3</sup> Il informe ses participants des vérifications effectuées et de leurs résultats.
 
-[^58g-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^58g-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 58h
 
@@ -1375,9 +1375,11 @@ Sous réserve de l’al. 2, le référentiel central garantit l’accès aux don
 - c. la commission des OPA, pour les données concernant des transactions sur dérivés en rapport avec une procédure d’offre publique d’acquisition;
 - d. l’Autorité fédérale de surveillance de la révision, pour les données concernant des transactions sur dérivés dont elle a besoin dans le cadre d’une procédure concrète de surveillance d’entreprises de révision;
 - e. la Commission de la concurrence, pour les données concernant des transactions sur dérivés en rapport avec une procédure en matière de concurrence;
-- f. la Commission de l’électricité, pour les données concernant des transactions sur dérivés dont le sous-jacent porte sur l’électricité.
+- f.[^62-1] la Commission de l’électricité, pour les données concernant des transactions sur dérivés dont le sous-jacent porte sur l’électricité ou le gaz.
 
 <sup>2</sup> Le référentiel central refuse les demandes concernant les transactions et les positions de banques centrales.
+
+[^62-1]: Nouvelle teneur selon l’art. 41 ch. 2 de l’O du 2 oct. 2026 sur la surveillance et la transparence des marchés de gros de l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 551](https://fedlex.data.admin.ch/eli/oc/2026/551)).
 
 #### Art. 63
 
@@ -1751,7 +1753,7 @@ Les opérations sur dérivés destinées à réduire les risques sont directemen
 - c. sont considérées comme des opérations de couverture selon un référentiel comptable reconnu au sens de l’ordonnance du 21 novembre 2012 sur les normes comptables reconnues[^87-1], ou
 - d. sont réalisées selon des normes internationales reconnues à titre d’opérations de couverture forfaitaires dans le cadre d’une gestion de risques commerciaux (couverture de portefeuille ou *macro-hedging*) ou d’une couverture de substitution (*proxy hedging*).
 
-[^87-1]: [RS 221.432](https://fedlex.data.admin.ch/eli/cc/2012/812)
+[^87-1]: [RS 221.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5937)
 
 #### Art. 88
 
@@ -2099,8 +2101,8 @@ Si une opération entre dans plus d’une des catégories de dérivés énoncée
 
 <sup>6</sup> ...[^103-3]
 
-[^103-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^103-2]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^103-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^103-2]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 [^103-3]: Abrogé par le ch. I de l’O du 5 juil. 2017, avec effet au 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 
 #### Art. 104
@@ -2134,9 +2136,9 @@ Les garanties autorisées sont:
 <sup>4</sup> Les garanties doivent être réévaluées quotidiennement.
 
 [^104-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^104-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^104-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^104-3]: Introduite par le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^104-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^104-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 105
 
@@ -2312,7 +2314,7 @@ Les contreparties financières et non financières règlent en la forme écrite 
 
 <sup>7</sup> L’organe de révision déclare les infractions constatées au DFF si la société ne remédie pas dans le délai imparti aux infractions visées à l’al. 5 ou si elle récidive.
 
-[^114-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^114-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Chapitre 2 Publicité des participations
 
@@ -2556,7 +2558,7 @@ L’al. 1 peut également être déclaré applicable aux opérations sur valeurs
 
 <sup>3</sup> Le DFF publie une liste des institutions visées à l’al. 2.
 
-[^127-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^127-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 128
 
@@ -2674,7 +2676,7 @@ L’obligation de faire effectuer un audit par l’organe de révision au sens d
 <sup>2</sup> Le Département fédéral de l’intérieur peut prolonger le délai fixé à l’al. 1 pour tenir compte des normes internationales reconnues et de l’évolution du droit étranger.
 
 [^133-1]: Nouvelle teneur selon le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^133-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^133-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^133-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 sept. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
 [^133-4]: Introduit par le ch. I de l’O du DFI du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
 [^133-5]: Introduit par le ch. I de l’O du DFI du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
@@ -2813,23 +2815,23 @@ N: non applicable
 <tr><td>77 Facteur d’indice</td><td colspan="2">Facteur d’ajustement de l’indice de référence eu égard aux événements de crédit passés</td><td>R</td><td>R</td><td colspan="3">N</td><td>Valeur en chiffres entiers comportant au maximum 3 caractères</td><td>Indication obligatoire pour les dérivés de crédit qui se rapportent à un indice en tant qu’actif sous-jacent</td></tr>
 <tr><td colspan="2">Section 2*i* – Modifications de la déclaration</td><td></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
 <tr><td>78 Type de déclaration</td><td colspan="2">Indication du type de déclaration</td><td>O</td><td>O</td><td colspan="3">O</td><td>N = La transaction est déclarée pour la première fois</td><td>À utiliser pour la première déclaration d’une transaction ou d’une position si le type de déclaration «X» n’est pas applicable. Une opération sur dérivés de gré à gré qui est compensée le jour même de manière centralisée après avoir été conclue doit être déclarée au moins en tant que transaction compensée de manière centralisée. La déclaration des transactions précédant la compensation du même jour est autorisée, mais n’est pas obligatoire. Une opération sur dérivés de gré à gré qui n’est pas compensée le même jour ou qui n’est pas compensée de manière centralisée doit être déclarée au moins sur la base de son statut à la fin de la journée de négociation. La déclaration des transactions précédentes du même jour est autorisée, mais n’est pas obligatoire. Les transactions portant sur des blocs de titres, ou block trades (grande position contractée globalement avant d’être attribuée) qui ne sont pas attribuées le même jour doivent être déclarées. Si l’attribution intervient le jour même, il est possible de renoncer à déclarer le block trade. Les attributions doivent être déclarées dans les deux cas.</td></tr>
-<tr><td>[tab]</td><td colspan="2">Indication précisant si la déclaration se rapporte à une transaction ponctuelle ou à une position</td><td></td><td></td><td colspan="3"></td><td>X = La transaction est déclarée pour la première fois et il est prévu de transférer la transaction à une position le jour même.</td><td>Le total résultant des transactions doit être déclaré en fin de journée en tant que position par le biais du champ niveau «P». Cela rend inutile une nouvelle déclaration de transactions ponctuelles en tant que transactions comprimées. Ce type de déclaration est principalement prévu pour les dérivés négociés en bourse (Exchange Traded Derivatives, ETD) et les Contracts for Difference (CFD). Les dérivés négociés en bourse qui sont compensés par l’intermédiaire d’une contrepartie centrale ne sont soumis à l’obligation de déclarer qu’au niveau de la compensation centralisée (*cleared allocation*). Les étapes précédant la compensation centralisée ne sont pas encore soumises à l’obligation de déclarer.</td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>M = correction d’indications erronées, ajout d’indications manquantes ou actualisation de positions</td><td></td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>E = la déclaration a été effectuée à tort et doit être effacée</td><td>Par exemple, la double déclaration de la même transaction avec des «ID de conclusion de transaction» différents.</td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>C = Échéance ou résiliation anticipées du contrat</td><td>Une échéance définie à l’avance n’est pas à déclarer. Pour les déclarations de corrections, il convient d’utiliser le type de déclaration «M».</td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>Z = compression d’une opération de gré à gré sur dérivés</td><td>Compressions au sens de l’art. 108, let. d, LIMF. La transaction est alors close.</td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>V = déclaration d’évaluation</td><td>Déclaration continue des évaluations au sens de l’art. 109 LIMF. Une première déclaration d’évaluation peut se faire soit par le biais du type de déclaration «N», soit dans une déclaration ultérieure par le biais du type de déclaration «V». Pour les opérations compensées de manière centralisée, il convient d’utiliser l’évaluation de la contrepartie centrale. Aucune évaluation ne doit être déclarée pour les opérations qui, selon la loi, ne doivent pas faire l’objet d’une évaluation.</td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>D = adaptation de l’«ID de la conclusion de l’opération», dans la mesure où celui-ci n’est pas encore établi au moment de la déclaration.</td><td></td></tr>
-<tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>L = adaptations en raison de certains événements survenus pendant la durée du contrat et pour lesquelles aucune autre valeur n’est applicable (*lifecycle events*)</td><td>Tous les événements survenant pendant la durée des contrats de dérivés négociés en bourse doivent toujours être déclarés au niveau de la position. Un exemple de tel événement est l’exercice partiel d’une option, puisque cela réduit la position entière dans cette option.</td></tr>
+<tr><td></td><td colspan="2">Indication précisant si la déclaration se rapporte à une transaction ponctuelle ou à une position</td><td></td><td></td><td colspan="3"></td><td>X = La transaction est déclarée pour la première fois et il est prévu de transférer la transaction à une position le jour même.</td><td>Le total résultant des transactions doit être déclaré en fin de journée en tant que position par le biais du champ niveau «P». Cela rend inutile une nouvelle déclaration de transactions ponctuelles en tant que transactions comprimées. Ce type de déclaration est principalement prévu pour les dérivés négociés en bourse (Exchange Traded Derivatives, ETD) et les Contracts for Difference (CFD). Les dérivés négociés en bourse qui sont compensés par l’intermédiaire d’une contrepartie centrale ne sont soumis à l’obligation de déclarer qu’au niveau de la compensation centralisée (*cleared allocation*). Les étapes précédant la compensation centralisée ne sont pas encore soumises à l’obligation de déclarer.</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>M = correction d’indications erronées, ajout d’indications manquantes ou actualisation de positions</td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>E = la déclaration a été effectuée à tort et doit être effacée</td><td>Par exemple, la double déclaration de la même transaction avec des «ID de conclusion de transaction» différents.</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>C = Échéance ou résiliation anticipées du contrat</td><td>Une échéance définie à l’avance n’est pas à déclarer. Pour les déclarations de corrections, il convient d’utiliser le type de déclaration «M».</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>Z = compression d’une opération de gré à gré sur dérivés</td><td>Compressions au sens de l’art. 108, let. d, LIMF. La transaction est alors close.</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>V = déclaration d’évaluation</td><td>Déclaration continue des évaluations au sens de l’art. 109 LIMF. Une première déclaration d’évaluation peut se faire soit par le biais du type de déclaration «N», soit dans une déclaration ultérieure par le biais du type de déclaration «V». Pour les opérations compensées de manière centralisée, il convient d’utiliser l’évaluation de la contrepartie centrale. Aucune évaluation ne doit être déclarée pour les opérations qui, selon la loi, ne doivent pas faire l’objet d’une évaluation.</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>D = adaptation de l’«ID de la conclusion de l’opération», dans la mesure où celui-ci n’est pas encore établi au moment de la déclaration.</td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>L = adaptations en raison de certains événements survenus pendant la durée du contrat et pour lesquelles aucune autre valeur n’est applicable (*lifecycle events*)</td><td>Tous les événements survenant pendant la durée des contrats de dérivés négociés en bourse doivent toujours être déclarés au niveau de la position. Un exemple de tel événement est l’exercice partiel d’une option, puisque cela réduit la position entière dans cette option.</td></tr>
 <tr><td>79 Niveau de la déclaration</td><td colspan="2"></td><td>O</td><td>O</td><td colspan="3">N</td><td>T = transaction P = position</td><td>Une nouvelle déclaration ne doit être faite pour une position que si celle-ci a changé. Les opérations sur dérivés peuvent être déclarées uniquement au niveau de la transaction.</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: Le champ «niveau de la déclaration» présente la valeur «T»
 [^annex2-lvlu1-2]: Le champ «niveau de la déclaration» présente la valeur «P»
-[^annex2-lvlu1-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^annex2-lvlu1-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^annex2-lvlu1-5]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^annex2-lvlu1-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annex2-lvlu1-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^annex2-lvlu1-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^annex2-lvlu1-5]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^annex2-lvlu1-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 Annexe 3
 
@@ -2867,7 +2869,7 @@ Annexe 4[^t-2]
 
 Les titres bénéficiant d’au moins une notation des classes de notation 6 ou 7 selon l’annexe 2 ou de la classe de notation 4 selon l’art. 64*a* OFR ne sont pas reconnus comme des garanties.
 
-[^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 Annexe 5
 
