@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 11 avril 2018 sur l'imposition à la source dans le
 short: OIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: fr
-version: 2025-01-10
+version: 2027-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250110/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250110-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/fr"
 
 (Ordonnance sur l’imposition à la source, OIS)
 
-du 11 avril 2018 (État le 10 janvier 2025)
+du 11 avril 2018 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral des finances (DFF),
 
@@ -25,8 +25,8 @@ vu les art. 89, al. 2, 92, al. 5, 99*a*, al. 3, 99*b*, al. 2, et 161, al. 1, de 
 
 arrête:
 
-[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/eli/cc/1992/468_468_468)
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8189)
 
 ## Section 1 Dispositions générales
 
@@ -61,11 +61,11 @@ Pour la retenue de l’impôt à la source, les barèmes suivants sont appliqué
 
 <sup>3</sup> Le taux de l’impôt à la source appliqué aux frontaliers visés à l’al. 1, let. n à r, s’élève à 80 % du taux applicable pour le barème qui les concerne.[^1-10]
 
-[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-2]: Abrogée par le ch. I de l’O du DFF du 31 oct. 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
-[^1-3]: [RS 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^1-3]: [RS 0.672.913.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2529)
 [^1-4]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
-[^1-5]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410); [FF 2021 1919](https://fedlex.data.admin.ch/eli/fga/2021/1919)
+[^1-5]: [RS 0.642.045.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2477)
 [^1-6]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-7]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-8]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
@@ -102,7 +102,7 @@ Le contribuable est cependant imposé à la source en Suisse dans les cas suivan
 - b. il fait l’objet d’un détachement d’employés entre sociétés liées et la société sise en Suisse doit être considérée comme son employeur de fait;
 - c. il est fourni à une entreprise locataire de services sise en Suisse par un bailleur de services étranger, en violation de l’art. 12, al. 2, de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services[^4-1], et la rémunération de la prestation est financée par l’entreprise locataire.
 
-[^4-1]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^4-1]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 5
 
@@ -308,7 +308,7 @@ L’impôt est prélevé sur la base du salaire brut déclaré par l’employeur
 
 <sup>2</sup> Si, après sommation de la caisse de compensation AVS, l’employeur ne verse pas l’impôt, la caisse en informe l’autorité fiscale du canton dans lequel l’employeur a son siège ou son domicile. L’autorité fiscale recouvre alors l’impôt conformément à la législation sur les impôts.
 
-[^23-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^23-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 24
 
@@ -324,7 +324,7 @@ Après déduction de la provision à laquelle elle a droit, la caisse de compens
 
 L’ordonnance du 19 octobre 1993 sur l’imposition à la source[^25-1] est abrogée.
 
-[^25-1]: [[RO 1993 3324](https://fedlex.data.admin.ch/eli/oc/1993/3324_3324_3324), [1994 1788](https://fedlex.data.admin.ch/eli/oc/1994/1788_1788_1788), [2001 1055](https://fedlex.data.admin.ch/eli/oc/2001/156),[2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)annexe ch. 1, [2010 4481](https://fedlex.data.admin.ch/eli/oc/2010/633), [2011 4329](https://fedlex.data.admin.ch/eli/oc/2011/590), [2013 783](https://fedlex.data.admin.ch/eli/oc/2013/156)]
+[^25-1]: [[RO 1993 3324](https://fedlex.data.admin.ch/eli/oc/1993/3324_3324_3324); [1994 1788](https://fedlex.data.admin.ch/eli/oc/1994/1788_1788_1788); [2001 1055](https://fedlex.data.admin.ch/eli/oc/2001/156);[2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)annexe ch. 1; [2010 4481](https://fedlex.data.admin.ch/eli/oc/2010/633); [2011 4329](https://fedlex.data.admin.ch/eli/oc/2011/590); [2013 783](https://fedlex.data.admin.ch/eli/oc/2013/156)]
 
 #### Art. 26
 
@@ -346,52 +346,47 @@ Annexe[^t-1]
 
 ## Barèmes de l’impôt à la source
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFF du 22 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 478](https://fedlex.data.admin.ch/eli/oc/2024/478)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFF du 11 sept. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 485](https://fedlex.data.admin.ch/eli/oc/2026/485)).
 
 - 1\. L’impôt à la source des personnes soumises au barème D est égal à 1 % des revenus bruts.
 - 2\. L’impôt à la source sur les revenus acquis en compensation qui sont soumis au barème G s’élève à:
 
 <table>
-<tr><td>0.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 18 000 francs, puis à</td></tr>
-<tr><td>0.80 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>144.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 36 000 francs, puis à</td></tr>
-<tr><td>2.35 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>708.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 60 000 francs, puis à</td></tr>
-<tr><td>4.20 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>1 968.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 90 000 francs, puis à</td></tr>
-<tr><td>7.35 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>4 173.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 120 000 francs, puis à</td></tr>
-<tr><td>10.20 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>10 293.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 180 000 francs, puis à</td></tr>
-<tr><td>12.85 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>87 393.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 780 000 francs, puis à</td></tr>
-<tr><td>11.50 francs</td><td>pour chaque tranche de 100 francs supplémentaire.</td></tr>
+<tr><td>0.00 francs 0.80 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 18 000 francs, puis à pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>144.00 francs 2.35 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 36 000 francs, puis à pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>708.00 francs 4.15 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 60 000 francs, puis à pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>1 953.00 francs 7.35 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 90 000 francs, puis à pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>4 158.00 francs 10.15 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 120 000 francs, puis à pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>10 248.00 francs 12.80 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 180 000 francs, puis à pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>87 048.00 francs 11.50 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 780 000 francs, puis à pour chaque tranche de 100 francs supplémentaire.</td></tr>
 </table>
 
 - 3. a. Pour les personnes seules, l’impôt à la source perçu sur le montant brut des prestations en capital au sens de l’art. 19, al. 1, s’élève à:
 
 <table>
-<tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
-<tr><td>0,35 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
-<tr><td>0,55 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
-<tr><td>1,25 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
-<tr><td>1,60 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
-<tr><td>1,95 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
-<tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>750 000 francs</td></tr>
-<tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>750 000 francs</td></tr>
+<tr><th></th><th></th><th>Francs</th></tr>
+<tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000</td></tr>
+<tr><td>0,35 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000</td></tr>
+<tr><td>0,55 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000</td></tr>
+<tr><td>1,25 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000</td></tr>
+<tr><td>1,60 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000</td></tr>
+<tr><td>1,90 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000</td></tr>
+<tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>750 000</td></tr>
+<tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>750 000</td></tr>
 </table>
 
 - b. Pour les personnes mariées, l’impôt à la source perçu sur le montant brut des prestations en capital au sens de l’art. 19, al. 1, s’élève à:
 
 <table>
-<tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
-<tr><td>0,15 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
-<tr><td>0,50 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
-<tr><td>0,80 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
-<tr><td>1,15 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
-<tr><td>1,75 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
-<tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>900 000 francs</td></tr>
-<tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>900 000 francs</td></tr>
+<tr><th></th><th></th><th>Francs</th></tr>
+<tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000</td></tr>
+<tr><td>0,15 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000</td></tr>
+<tr><td>0,50 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000</td></tr>
+<tr><td>0,80 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000</td></tr>
+<tr><td>1,15 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000</td></tr>
+<tr><td>1,70 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000</td></tr>
+<tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>900 000</td></tr>
+<tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>900 000</td></tr>
 </table>
 
 - 4\. En application des dispositions de l’art. 20, l’impôt à la source n’est pas prélevé lorsque les revenus bruts imposables sont inférieurs à:

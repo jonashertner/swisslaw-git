@@ -4,11 +4,11 @@ title: "Ordinanza del DFF dell' 11 aprile 2018 sull'imposta alla fonte nel quadr
 short: OIFo
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: it
-version: 2025-01-10
+version: 2027-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250110/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250110-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/it"
 
 (Ordinanza sull’imposta alla fonte, OIFo)
 
-dell’11 aprile 2018 (Stato 10 gennaio 2025)
+dell’11 aprile 2018 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -25,8 +25,8 @@ visti gli articoli 89 capoverso 2, 92 capoverso 5, 99*a* capoverso 3, 99*b* capo
 
 ordina:
 
-[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/eli/cc/1992/468_468_468)
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8189)
 
 ## Sezione 1: Disposizioni generali
 
@@ -43,7 +43,7 @@ Per la ritenuta d’imposta alla fonte, alle persone indicate di seguito sono at
 - c. *tariffario C:* coniugi non separati legalmente o di fatto che esercitano entrambi un’attività lucrativa;
 - d. *tariffario D:* persone che ricevono prestazioni ai sensi dell’articolo 18 capoverso 3 della legge federale del 20 dicembre 1946[^1-1] sull’assicurazione per la vecchiaia e per i superstiti;
 - e. *tariffario E:* persone con imposizione secondo la procedura di conteggio semplificata di cui agli articoli 21–24;
-- f.[^1-2] *...*
+- f.[^1-2] …
 - g. *tariffario G:* persone assoggettate all’imposta alla fonte che percepiscono proventi compensativi di cui all’articolo 3 che non sono versati tramite il datore di lavoro;
 - h. *tariffario H:* persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale;
 - i. *tariffario L:* frontalieri secondo la Convenzione dell’11 agosto 1971[^1-3] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (CDI‑D) che adempiono le condizioni richieste per il tariffario A;
@@ -61,11 +61,11 @@ Per la ritenuta d’imposta alla fonte, alle persone indicate di seguito sono at
 
 <sup>3</sup> L’imposta alla fonte applicata ai lavoratori frontalieri di cui al capoverso 1 lettere n–r ammonta all’80 per cento dell’imposta alla fonte secondo il tariffario per il quale i lavoratori frontalieri adempiono le condizioni.[^1-10]
 
-[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-2]: Abrogata dalla cifra I dell’O del DFF del 31 ott. 2022, con effetto dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
-[^1-3]: [RS 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^1-3]: [RS 0.672.913.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2529)
 [^1-4]: Introdotta dalla cifra I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
-[^1-5]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410); [FF 2021 1919](https://fedlex.data.admin.ch/eli/fga/2021/1919)
+[^1-5]: [RS 0.642.045.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2477)
 [^1-6]: Introdotta dalla cifra I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-7]: Introdotta dalla cifra I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-8]: Introdotta dalla cifra I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
@@ -102,7 +102,7 @@ Tuttavia il contribuente è assoggettato all’imposta alla fonte in Svizzera se
 - b. viene effettuato un distacco di lavoratori tra società collegate e la società con sede in Svizzera è considerata il datore di lavoro effettivo; o
 - c. un prestatore estero di personale fornisce, in violazione dell’articolo 12 capoverso 2 della legge del 6 ottobre 1989[^4-1] sul collocamento, personale a prestito a un’impresa acquisitrice in Svizzera e la rimunerazione della prestazione è a carico di tale impresa acquisitrice.
 
-[^4-1]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^4-1]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 5
 
@@ -308,7 +308,7 @@ L’imposta è riscossa sulla base del salario lordo dichiarato dal datore di la
 
 <sup>2</sup> Se l’imposta non è versata nonostante diffida della cassa di compensazione AVS, quest’ultima ne informa l’autorità fiscale del Cantone in cui ha sede o domicilio il datore di lavoro. L’autorità fiscale riscuote l’imposta conformemente alle prescrizioni della legislazione fiscale.
 
-[^23-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^23-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 24
 
@@ -330,7 +330,7 @@ L’ordinanza del 19 ottobre 1993[^25-1] sull’imposta alla fonte è abrogata.
 
 **Modifica di un altro atto normativo**
 
-...[^26-1]
+…[^26-1]
 
 [^26-1]: La mod. può essere consultata alla [RU 2018 1829](https://fedlex.data.admin.ch/eli/oc/2018/274).
 
@@ -346,7 +346,7 @@ Allegato[^t-1]
 
 ## Tariffe dell’imposta alla fonte
 
-[^t-1]: Aggiornato dalla cifra I dell’O del DFI del 22 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 478](https://fedlex.data.admin.ch/eli/oc/2024/478)).
+[^t-1]: Aggiornato dalla cifra I dell’O del DFF dell’11 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 485](https://fedlex.data.admin.ch/eli/oc/2026/485)).
 
 - 1\. L’imposta alla fonte delle persone che rientrano nel tariffario D ammonta all’1 per cento dei proventi lordi.
 - 2\. L’imposta alla fonte sui proventi compensativi cui si applica il tariffario G è fissata come segue:
@@ -355,24 +355,24 @@ Allegato[^t-1]
 <tr><th></th><th>franchi</th></tr>
 <tr><td>fino a 18 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>0.00 0.80;</td></tr>
 <tr><td>fino a 36 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>144.00 2.35 in più;</td></tr>
-<tr><td>fino a 60 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>708.00 4.20 in più;</td></tr>
-<tr><td>fino a 90 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>1 968.00 7.35 in più;</td></tr>
-<tr><td>fino a 120 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>4 173.00 10.20 in più;</td></tr>
-<tr><td>fino a 180 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>10 293.00 12.85 in più;</td></tr>
-<tr><td>fino a 780 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>87 393.00 11.50 in più.</td></tr>
+<tr><td>fino a 60 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>708.00 4.15 in più;</td></tr>
+<tr><td>fino a 90 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>1 953.00 7.35 in più;</td></tr>
+<tr><td>fino a 120 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>4 158.00 10.15 in più;</td></tr>
+<tr><td>fino a 180 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>10 248.00 12.80 in più;</td></tr>
+<tr><td>fino a 780 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>87 048.00 11.50 in più.</td></tr>
 </table>
 
 - 3. a. Per le persone sole l’imposta alla fonte riscossa sull’ammontare lordo delle prestazioni in capitale secondo l’articolo 19 capoverso 1 è fissata come segue:
 
 <table>
-<tr><td>– per un importo fino a</td><td>[tab] 25 000 franchi</td><td>0,00 %</td></tr>
-<tr><td>– per un importo superiore a 25 000 e fino a</td><td>[tab] 50 000 franchi</td><td>0,35 %</td></tr>
-<tr><td>– per un importo superiore a 50 000 e fino a</td><td>[tab] 75 000 franchi</td><td>0,55 %</td></tr>
-<tr><td>– per un importo superiore a 75 000 e fino a</td><td>[tab] 100 000 franchi</td><td>1,25 %</td></tr>
-<tr><td>– per un importo superiore a 100 000 e fino a</td><td>[tab] 125 000 franchi</td><td>1,60 %</td></tr>
-<tr><td>– per un importo superiore a 125 000 e fino a</td><td>[tab] 150 000 franchi</td><td>1,95 %</td></tr>
-<tr><td>– per un importo superiore a 150 000 e fino a</td><td>[tab] 750 000 franchi</td><td>2,60 %</td></tr>
-<tr><td>– per un importo superiore a</td><td>[tab] 750 000 franchi</td><td>2,30 %</td></tr>
+<tr><td>– per un importo fino a</td><td>25 000 franchi</td><td>0,00 %</td></tr>
+<tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,35 %</td></tr>
+<tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,55 %</td></tr>
+<tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>1,25 %</td></tr>
+<tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,60 %</td></tr>
+<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>1,90 %</td></tr>
+<tr><td>– per un importo superiore a 150 000 e fino a</td><td>750 000 franchi</td><td>2,60 %</td></tr>
+<tr><td>– per un importo superiore a</td><td>750 000 franchi</td><td>2,30 %</td></tr>
 </table>
 
 - b. Per le persone coniugate l’imposta alla fonte riscossa sull’ammontare lordo delle prestazioni in capitale secondo l’articolo 19 capoverso 1 è fissata come segue:
@@ -383,7 +383,7 @@ Allegato[^t-1]
 <tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,50 %</td></tr>
 <tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>0,80 %</td></tr>
 <tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,15 %</td></tr>
-<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>1,75 %</td></tr>
+<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>1,70 %</td></tr>
 <tr><td>– per un importo superiore a 150 000 e fino a</td><td>900 000 franchi</td><td>2,60 %</td></tr>
 <tr><td>– per un importo superiore a</td><td>900 000 franchi</td><td>2,30 %</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 11. April 2018 über die Quellensteuer bei der di
 short: QStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: de
-version: 2025-01-10
+version: 2027-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250110/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250110-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250110/de"
 
 (Quellensteuerverordnung, QStV)
 
-vom 11. April 2018 (Stand am 10. Januar 2025)
+vom 11. April 2018 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 89 Absatz 2, 92 Absatz 5, 99*a* Absatz 3, 99*b* Absatz
 
 verordnet:
 
-[^ingress-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [SR 642.118](https://fedlex.data.admin.ch/eli/cc/1992/468_468_468)
+[^ingress-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [SR 642.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8189)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -61,11 +61,11 @@ Folgende Tarifcodes werden bei den nachstehend aufgeführten Personen für den Q
 
 <sup>3</sup> Die Quellensteuer der Grenzgängerinnen und Grenzgänger nach Absatz 1 Buchstaben n–r beträgt 80 Prozent der Quellensteuer nach dem Tarifcode, für den sie die Voraussetzungen erfüllen.[^1-10]
 
-[^1-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^1-2]: Aufgehoben durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
-[^1-3]: [SR 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^1-3]: [SR 0.672.913.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2529)
 [^1-4]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
-[^1-5]: [SR 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410); [BBl 2021 1919](https://fedlex.data.admin.ch/eli/fga/2021/1919)
+[^1-5]: [SR 0.642.045.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2477)
 [^1-6]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-7]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-8]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
@@ -102,7 +102,7 @@ Sie wird jedoch in der Schweiz an der Quelle besteuert, wenn:
 - b. eine Arbeitnehmerentsendung unter verbundenen Gesellschaften vorliegt und die Gesellschaft mit Sitz in der Schweiz als faktischer Arbeitgeber zu qualifizieren ist; oder
 - c. ein ausländischer Personalverleiher im Widerspruch zu Artikel 12 Absatz 2 des Arbeitsvermittlungsgesetzes vom 6. Oktober 1989[^4-1] Personal an einen Einsatzbetrieb in der Schweiz verleiht und die Vergütung der Leistung von diesem Einsatzbetrieb getragen wird.
 
-[^4-1]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^4-1]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 5
 
@@ -308,7 +308,7 @@ Die Steuer wird auf der Grundlage des vom Arbeitgeber der AHV-Ausgleichskasse ge
 
 <sup>2</sup> Wird die Steuer auf Mahnung der AHV-Ausgleichskasse hin nicht abgeliefert, so erstattet diese der Steuerbehörde des Kantons Meldung, in dem der Arbeitgeber seinen Sitz oder Wohnsitz hat. Die Steuerbehörde bezieht die Steuer nach den Vorschriften der Steuergesetzgebung.
 
-[^23-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^23-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 24
 
@@ -346,20 +346,20 @@ Anhang[^t-1]
 
 ## Quellensteuertarife
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EFD vom 22. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 478](https://fedlex.data.admin.ch/eli/oc/2024/478)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EFD vom 11. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 485](https://fedlex.data.admin.ch/eli/oc/2026/485)).
 
 - 1\. Die Quellensteuer von Personen mit dem Tarifcode D beträgt 1 Prozent der Bruttoeinkünfte.
 - 2\. Die Quellensteuer auf Ersatzeinkünften mit dem Tarifcode G beträgt:
 
 <table>
-<tr><th></th><th>Franken</th></tr>
-<tr><td>bis 18 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>0.00 0.80;</td></tr>
-<tr><td>für 36 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>144.00 2.35 mehr;</td></tr>
-<tr><td>für 60 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>708.00 4.20 mehr;</td></tr>
-<tr><td>für 90 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>1 968.00 7.35 mehr;</td></tr>
-<tr><td>für 120 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>4 173.00 10.20 mehr;</td></tr>
-<tr><td>für 180 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>10 293.00 12.85 mehr;</td></tr>
-<tr><td>für 780 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>87 393.00 11.50 mehr.</td></tr>
+<tr><th></th><th></th><th>Franken</th><th></th></tr>
+<tr><td>bis</td><td>18 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>0.00 0.80;</td><td></td></tr>
+<tr><td>für</td><td>36 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>144.00 2.35</td><td>mehr;</td></tr>
+<tr><td>für</td><td>60 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>708.00 4.15</td><td>mehr;</td></tr>
+<tr><td>für</td><td>90 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>1 953.00 7.35</td><td>mehr;</td></tr>
+<tr><td>für</td><td>120 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>4 158.00 10.15</td><td>mehr;</td></tr>
+<tr><td>für</td><td>180 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>10 248.00 12.80</td><td>mehr;</td></tr>
+<tr><td>für</td><td>780 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>87 048.00 11.50</td><td>mehr.</td></tr>
 </table>
 
 - 3. a. Die Quellensteuer auf dem Bruttobetrag der Kapitalleistungen nach Artikel 19 Absatz 1 beträgt für alleinstehende Personen:
@@ -370,7 +370,7 @@ Anhang[^t-1]
 <tr><td>– auf dem Betrag über 50 000 bis</td><td>75 000 Franken</td><td>0,55 %</td></tr>
 <tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>1,25 %</td></tr>
 <tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,60 %</td></tr>
-<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,95 %</td></tr>
+<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,90 %</td></tr>
 <tr><td>– auf dem Betrag über 150 000 bis</td><td>750 000 Franken</td><td>2,60 %</td></tr>
 <tr><td>– auf dem Betrag über</td><td>750 000 Franken</td><td>2,30 %</td></tr>
 </table>
@@ -383,7 +383,7 @@ Anhang[^t-1]
 <tr><td>– auf dem Betrag über 50 000 bis</td><td>75 000 Franken</td><td>0,50 %</td></tr>
 <tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>0,80 %</td></tr>
 <tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,15 %</td></tr>
-<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,75 %</td></tr>
+<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,70 %</td></tr>
 <tr><td>– auf dem Betrag über 150 000 bis</td><td>900 000 Franken</td><td>2,60 %</td></tr>
 <tr><td>– auf dem Betrag über</td><td>900 000 Franken</td><td>2,30 %</td></tr>
 </table>
