@@ -4,13 +4,12 @@ number: "161.3"
 title: Gesetz über die Entschädigung der Behörden
 short: "Entschädigungsgesetz, EntschG"
 language: de
-version: 2023-10-01
-valid_until: 2026-12-31
-version_adopted: 2023-06-28
+version: 2027-01-01
+version_adopted: 2026-06-10
 adopted: 2008-12-17
 in_force: 2009-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/161.3"
-pdf: "https://gesetze.nw.ch/api/de/versions/1185/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1538/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1185/pdf_file"
 
 (Entschädigungsgesetz, EntschG)
 
-vom 17.12.2008 (Stand 01.10.2023)
+vom 17.12.2008 (Stand 01.01.2027)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung,
+gestützt auf Art. 60 Abs. 1 der Kantonsverfassung,
 
 beschliesst:
 
@@ -33,7 +32,13 @@ beschliesst:
 
 **Geltungsbereich 1. Kanton**
 
-<sup>1</sup> Dieses Gesetz gilt für die Mitglieder der kantonalen Behörden und Kommissionen sowie für Mitglieder von Arbeitsgruppen, die durch den Regierungsrat eingesetzt werden.
+<sup>1</sup> Dieses Gesetz gilt für die Mitglieder:
+
+- 1\. des Landrates
+- 2\. des Regierungsrats;
+- 3\. der Gerichte;
+- 4\. weiterer kantonaler Behörden und Kommissionen;
+- 5\. von Arbeitsgruppen, die durch den Regierungsrat eingesetzt wurden.
 
 <sup>2</sup> Es gilt nicht für die Verwaltungsbehörden der selbständigen kantonalen Anstalten.
 
@@ -41,7 +46,7 @@ beschliesst:
 
 **2. Gemeinden**
 
-<sup>1</sup> Soweit die Gemeinden keine abweichenden Bestimmungen erlassen, sind die Art. 32–38 und Art. 40 Abs. 1 für Mitglieder von kommunalen Behörden und Kommissionen sinngemäss anwendbar.
+<sup>1</sup> Soweit die Gemeinden keine abweichenden Bestimmungen erlassen, sind die Art. 32–35 und Art. 40 Abs. 1 für Mitglieder von kommunalen Behörden und Kommissionen sinngemäss anwendbar.
 
 ## 2 Gehalts- und Rentenordnung
 
@@ -64,39 +69,45 @@ beschliesst:
 
 #### Art. 5
 
-**Sitzungsgeld für Kommissionssitzungen, Stundenvergütung**
+**Sitzungen der Kommissionen und des Landratsbüros**
 
-<sup>1</sup> Das Sitzungsgeld für Kommissionssitzungen beträgt für Mitglieder des Landrates Fr. 160.– je Halbtagessitzung; dauert die Sitzung weniger als zwei Stunden, beträgt das Sitzungsgeld Fr. 80.–.
+<sup>1</sup> Das Sitzungsgeld für Sitzungen der Kommissionen und des Landratsbüros beträgt für Mitglieder des Landrates Fr. 180.– je Halbtag. Je Tag beträgt das Sitzungsgeld höchstens Fr. 360.–.
 
-<sup>2</sup> Die Präsidien erhalten einen Zuschlag von 50 Prozent des Sitzungsgeldes, mindestens Fr. 80.– je Sitzung.
+<sup>2</sup> Die Präsidien erhalten einen Zuschlag von 50 Prozent des Sitzungsgeldes, mindestens Fr. 90.– je Sitzung.
 
-<sup>3</sup> Für eine schriftliche Berichterstattung oder einschlägige Arbeiten durch ein Kommissionsmitglied kann die Kommission eine angemessene Vergütung festsetzen.
+<sup>3</sup> Für eine schriftliche Berichterstattung oder einschlägige Arbeiten durch ein Mitglied kann die Kommission beziehungsweise das Landratsbüro eine angemessene Vergütung zusprechen.
+
+#### Art. 5a
+
+**Sitzungen von Arbeitsgruppen**
+
+<sup>1</sup> Für Sitzungen von Arbeitsgruppen kann das Landratsbüro eine Vergütung von Fr. 45.– je Stunde zusprechen.
 
 #### Art. 6
 
 **Spesenentschädigung 1. für Sitzungen im Kanton**
 
-<sup>1</sup> Die pauschale Spesenentschädigung, insbesondere für die Reise zu Landrats- und Kommissionssitzungen sowie für das Parkieren, beträgt jährlich Fr. 330.–.
+<sup>1</sup> Die pauschale Spesenentschädigung, insbesondere für die Reise zu Landrats- und Kommissionssitzungen sowie für das Parkieren, beträgt jährlich Fr. 600.–.
 
 #### Art. 7
 
-**2. für kantonsexterne Sendungen**
+**2. für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen**
 
-<sup>1</sup> Die Reiseentschädigung an Mitglieder des Landrates für kantonsexterne Sendungen richtet sich nach Art. 37.
+<sup>1</sup> Für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen wird eine Entschädigung im Rahmen von Art. 35 ausgerichtet.
 
 #### Art. 8
 
 **Beiträge an die Fraktionen**
 
-<sup>1</sup> Die Fraktionen erhalten jährlich einen Grundbeitrag von Fr. 4'500.– und einen Beitrag von Fr. 700.– je Fraktionsmitglied.
+<sup>1</sup> Die Fraktionen erhalten jährlich einen Grundbeitrag von Fr. 4'800.– und einen Beitrag von Fr. 750.– je Fraktionsmitglied.
 
-<sup>2</sup> Landratsmitglieder, die keiner Fraktion angehören, erhalten jährlich einen Beitrag von Fr. 700.–.
+<sup>2</sup> Landratsmitglieder, die keiner Fraktion angehören, erhalten jährlich einen Beitrag von Fr. 750.–.
 
 #### Art. 9
 
 **Auszahlung**
 
-<sup>1</sup> Die Entschädigungen gemäss Art. 3, 4, 5 und 8 werden halbjährlich und die übrigen Entschädigungen im Monat Dezember ausbezahlt.
+<sup>1</sup> Die Entschädigungen werden in der Regel im Juli und Dezember ausbezahlt. Pauschalentschädigungen werden anteilsmässig ausbezahlt.
 
 ### 2.2 Regierungsrat
 
@@ -256,11 +267,13 @@ beschliesst:
 
 #### Art. 24
 
-**2. Spesenpauschale**
+**2. Spesen**
 
 <sup>1</sup> Zusätzlich zum Gehalt der Gerichtspräsidien und der Vizepräsidien des Ober- und Verwaltungsgerichts wird bei einem Vollamt jährlich eine pauschale Spesenvergütung im Betrag von Fr. 3'600.– entrichtet.
 
 <sup>2</sup> Bei nicht vollamtlichen Präsidien oder Vizepräsidien wird die Spesenvergütung anteilsmässig entrichtet.
+
+<sup>3</sup> Für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen wird eine Entschädigung im Rahmen von Art. 35 ausgerichtet.
 
 #### Art. 25
 
@@ -272,7 +285,7 @@ beschliesst:
 
 **Mitglieder der Gerichte 1. Sitzungsgeld**
 
-<sup>1</sup> Das Sitzungsgeld für Gerichtssitzungen beträgt für Mitglieder des Gerichtes Fr. 160.– je Halbtagessitzung; dauert die Sitzung weniger als zwei Stunden, beträgt das Sitzungsgeld Fr. 80.–.
+<sup>1</sup> Das Sitzungsgeld für Gerichtssitzungen beträgt für Mitglieder des Gerichtes Fr. 180.– je Halbtagessitzung; dauert die Sitzung weniger als zwei Stunden, beträgt das Sitzungsgeld Fr. 90.–.
 
 <sup>2</sup> Für die Leitung einer Gerichtssitzung, für die Durchführung eines Vorverfahrens oder für die Durchführung einer Anhörung durch eine Richterin oder einen Richter setzt die zuständige Gerichtsabteilung eine angemessene Vergütung fest.
 
@@ -282,17 +295,19 @@ beschliesst:
 
 **2. Aktenstudium**
 
-<sup>1</sup> Die Gerichte setzen die Entschädigung für das Aktenstudium im Rahmen von Fr. 40.– bis Fr. 400.– einheitlich je Richterin beziehungsweise Richter und je Fall fest; bei Prozessen mit ausserordentlichem Zeitaufwand, insbesondere wenn in einem Fall ein nochmaliges oder zusätzliches Aktenstudium notwendig ist, kann die Entschädigung für das Aktenstudium angemessen erhöht werden. Die Vergütung beträgt in der Regel je Stunde Fr. 40.–.
+<sup>1</sup> Die Gerichte setzen die Entschädigung für das Aktenstudium im Rahmen von Fr. 45.– bis Fr. 450.– einheitlich je Richterin beziehungsweise Richter und je Fall fest; bei Prozessen mit ausserordentlichem Zeitaufwand, insbesondere wenn in einem Fall ein nochmaliges oder zusätzliches Aktenstudium notwendig ist, kann die Entschädigung für das Aktenstudium angemessen erhöht werden. Die Vergütung beträgt in der Regel je Stunde Fr. 45.–.
 
-<sup>2</sup> Für ein schriftliches Referat einer Richterin oder eines Richters setzt die zuständige Gerichtsabteilung eine angemessene Vergütung fest.
+<sup>2</sup> Für ein schriftliches Referat einer Richterin oder eines Richters setzt die zuständige Gerichtsabteilung eine angemessene Vergütung zwischen Fr. 45.– und Fr. 450.– fest.
 
 <sup>3</sup> Im Gehalt der Gerichtspräsidien und der Vizepräsidien des Ober- und Verwaltungsgerichts ist die Entschädigung für das Aktenstudium inbegriffen.
 
 #### Art. 28
 
-**3. Spesenpauschale**
+**3. Spesen**
 
-<sup>1</sup> Die Mitglieder der Gerichte erhalten jährlich eine pauschale Spesenvergütung im Betrag von Fr. 330.–, insbesondere für die Reise zu Gerichtssitzungen sowie für das Parkieren.
+<sup>1</sup> Die Mitglieder der Gerichte erhalten jährlich eine pauschale Spesenvergütung von Fr. 600.–, insbesondere für die Reise zu Gerichtssitzungen sowie für das Parkieren.
+
+<sup>2</sup> Für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen wird eine Entschädigung im Rahmen von Art. 35 ausgerichtet.
 
 #### Art. 29
 
@@ -325,9 +340,11 @@ beschliesst:
 
 #### Art. 30a
 
-**2. Spesenpauschale**
+**2. Spesen**
 
-<sup>1</sup> Die Mitglieder des Präsidiums der Schlichtungsbehörde erhalten jährlich eine pauschale Spesenvergütung im Betrag von Fr. 330.–, insbesondere für die Reise zu den Sitzungen sowie für das Parkieren.
+<sup>1</sup> Die Mitglieder des Präsidiums der Schlichtungsbehörde erhalten jährlich eine pauschale Spesenvergütung von Fr. 1'500.–, insbesondere für die Reise zu den Sitzungen sowie für das Parkieren. Bei nicht vollamtlichen Mitgliedern des Präsidiums wird die pauschale Spesenvergütung anteilsmässig entrichtet.
+
+<sup>2</sup> Für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen wird eine Entschädigung im Rahmen von Art. 35 ausgerichtet.
 
 #### Art. 30b
 
@@ -339,83 +356,87 @@ beschliesst:
 
 **Vertreterinnen und Vertreter in der Schlichtungsbehörde**
 
-<sup>1</sup> Die Vertreterinnen und Vertreter der Vermieter- und Mieterseite sowie der Arbeitgeber- und Arbeitnehmerseite des öffentlichen und privaten Bereichs werden gemäss den Bestimmungen für die Kommissionen entschädigt.
+<sup>1</sup> Die Vertreterinnen und Vertreter der Vermieter- und Mieterseite sowie der Arbeitgeber- und Arbeitnehmerseite des öffentlichen und privaten Bereichs werden sinngemäss nach Art. 26 und Art. 27 Abs. 1 entschädigt.
+
+<sup>2</sup> Sie erhalten jährlich eine pauschale Spesenvergütung von Fr. 300.–, insbesondere für die Reise zu Sitzungen sowie für das Parkieren.
+
+<sup>3</sup> Für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen wird eine Entschädigung im Rahmen von Art. 35 ausgerichtet.
 
 #### Art. 31
 
 **Auszahlung**
 
-<sup>1</sup> Die Auszahlung der Gehälter und der Spesenpauschale an die Gerichtspräsidien, die Vizepräsidien des Ober- und Verwaltungsgerichts sowie an die Präsidien der Schlichtungsbehörde erfolgt monatlich in zwölf gleichen Raten, während die übrigen Entschädigungen in halbjährlichen Raten zur Auszahlung gelangen.
+<sup>1</sup> Die Auszahlung der Gehälter und der Spesenpauschale an die Gerichtspräsidien, die Vizepräsidien des Ober- und Verwaltungsgerichts sowie an die Präsidien der Schlichtungsbehörde erfolgt monatlich in zwölf gleichen Raten, während die übrigen Entschädigungen in halbjährlichen Raten in der Regel im Juli und Dezember ausbezahlt werden.
 
-### 2.4 Kommissionen und Arbeitsgruppen
+### 2.4 Weitere Behörden und Kommissionen sowie Arbeitsgruppen
 
 #### Art. 32
 
-**Sitzungsgeld**
+**Behörden und Kommissionen 1. Sitzungsgeld, Zulage für die Sitzungsleitung**
 
-<sup>1</sup> Das Sitzungsgeld für Kommissionssitzungen beträgt Fr. 160.– je Halbtagessitzung; dauert die Sitzung weniger als zwei Stunden, beträgt das Sitzungsgeld Fr. 80.–.
+<sup>1</sup> Das Sitzungsgeld beträgt Fr. 180.– je Halbtagessitzung; dauert die Sitzung weniger als zwei Stunden, beträgt das Sitzungsgeld Fr. 90.–.
+
+<sup>2</sup> Für die Sitzungsleitung erhält das betreffende Mitglied einen Zuschlag von 50 Prozent, mindestens Fr. 90.– je Sitzung. Mitglieder, denen gemäss Art. 33 Abs. 3 für die Sitzung eine besondere Entschädigung ausgerichtet wird, haben keinen Anspruch auf eine Zulage.
+
+#### Art. 32a
+
+**2. Arbeitsentschädigung**
+
+<sup>1</sup> Für eine amtliche Sendung wird eine Arbeitsentschädigung von Fr. 180.– je Halbtag ausgerichtet; bei einem zeitlichen Aufwand von weniger als zwei Stunden beträgt die Arbeitsentschädigung Fr. 90.–.
 
 #### Art. 33
 
-**Schriftliche Berichterstattung, Aktenstudium**
+**3. besondere Entschädigungen**
 
-<sup>1</sup> Für eine schriftliche Berichterstattung oder einschlägige Arbeiten durch ein Kommissionsmitglied kann die Kommission eine angemessene Vergütung festsetzen.
+<sup>1</sup> Für eine schriftliche Berichterstattung, das Studium eines umfangreichen Dossiers oder andere einschlägige Arbeiten durch ein Mitglied kann die Behörde beziehungsweise Kommission eine angemessene Vergütung zusprechen.
 
-<sup>2</sup> Muss vor einer Sitzung ein umfangreiches Dossier studiert werden, kann die Kommission eine angemessene Vergütung festsetzen; die Vergütung beträgt in der Regel Fr. 40.– je Stunde.
+<sup>2</sup> …
 
-<sup>3</sup> Die Entschädigung für besondere Facharbeiten setzt der Regierungsrat fest.
+<sup>3</sup> Der Regierungsrat kann für Mitglieder, die besondere Facharbeiten ausführen oder über erhöhte Fachkenntnisse verfügen müssen, eine besondere Entschädigung festsetzen. Die Entschädigung darf je Stunde höchstens Fr. 150.– betragen.
 
 #### Art. 34
 
-**Zulage für die Sitzungsleitung**
+**4. Spesen**
 
-<sup>1</sup> Für die Sitzungsleitung erhält das betreffende Kommissionsmitglied einen Zuschlag von 50 Prozent, mindestens Fr. 80.– je Sitzung.
+<sup>1</sup> Für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen wird eine Entschädigung im Rahmen von Art. 35 ausgerichtet
+
+<sup>2</sup> Für kantonsexterne Mitglieder richtet sich die Reiseentschädigung für Sitzungen im Kanton sinngemäss nach Art. 35 Ziff. 1.
 
 #### Art. 34a
 
-**Entschädigung der Mitglieder von Arbeitsgruppen**
+**5. Auszahlung**
 
-<sup>1</sup> Für Arbeitsgruppen, die vom Regierungsrat eingesetzt wurden, richten sich das Sitzungsgeld und die Entschädigung für kantonsexterne Sendungen nach Art. 32 und Art. 37; weitere Entschädigungen werden nicht ausgerichtet.
+<sup>1</sup> Die Entschädigungen werden in der Regel im Juli und Dezember ausbezahlt.
 
-<sup>2</sup> Keinen Anspruch auf Sitzungsgelder haben in der Regel die Delegierten öffentlich-rechtlicher Körperschaften und öffentlich-rechtlicher Anstalten.
+<sup>2–3</sup> …
 
-<sup>3</sup> Der Regierungsrat kann im Rahmen seiner Finanzkompetenz mit Sachverständigen, die für Arbeitsgruppen beigezogen werden, eine abweichende Entschädigungsregelung vereinbaren.
+#### Art. 34b
 
-### 2.5 Gemeinsame Bestimmungen
+**Arbeitsgruppen**
+
+<sup>1</sup> Für Arbeitsgruppen, die vom Regierungsrat eingesetzt wurden, richtet sich die Entschädigung sinngemäss nach den Bestimmungen für Behörden und Kommissionen gemäss Art. 32 ff.
+
+<sup>2</sup> Keinen Anspruch auf eine Entschädigung haben in der Regel die Delegierten öffentlich-rechtlicher Körperschaften und öffentlich-rechtlicher Anstalten.
+
+<sup>3</sup> Für Mitglieder, die in ihrer Funktion als Landrat an Sitzungen der Arbeitsgruppe teilnehmen, richtet sich die Höhe der Entschädigung nach Art. 5a Abs. 1.
+
+### 2.5 Spesen für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen
 
 #### Art. 35
 
-**Taggelder für amtliche Sendungen**
+**Höhe der Spesen**
 
-<sup>1</sup> Die Mitglieder von Behörden und Kommissionen beziehen unter Vorbehalt von Art. 4, 11 und 24 für amtliche Sendungen:
+<sup>1</sup> Besteht gemäss diesem Gesetz ein Anspruch auf Spesen für kantonsexterne Sendungen, Mahlzeiten und Übernachtungen gelten folgende Regelungen:
 
-- 1\. eine Arbeitsentschädigung von Fr. 160.– je Halbtag; bei einem zeitlichen Aufwand von weniger als zwei Stunden beträgt die Arbeitsentschädigung Fr. 80.–;
-- 2\. eine Spesenentschädigung von Fr. 30.– je Halbtag; bei einem zeitlichen Aufwand von weniger als zwei Stunden entfällt die Spesenentschädigung;
-- 3\. eine Entschädigung von Fr. 150.–, sofern auswärts übernachtet werden muss und die Kosten nicht vom Kanton übernommen werden; kostet die Übernachtung mit dem Frühstück mehr, können die tatsächlichen Kosten in Rechnung gestellt werden.
+- 1\. Als Reiseentschädigung für kantonsexterne Sendungen wird die Fahrkarte erster Klasse öffentlicher Verkehrsmittel vergütet. Benützen mehrere Personen das gleiche Fahrzeug, werden eine Entschädigung von Fr. 0.70 je Fahrkilometer und die effektiven Kosten für die Parkierung entrichtet.
+- 2\. Je Mahlzeit bei kantonsexternen Sendungen wird eine Entschädigung von Fr. 30.- vergütet. Die Entschädigung entfällt, wenn die Mahlzeit kostenlos ist oder wenn der zeitliche Aufwand unter zwei Stunden liegt.
+- 3\. Für Übernachtungen bei kantonsexternen Sendungen einschliesslich Frühstück wird eine Pauschalentschädigung von Fr. 180.- vergütet, sofern kostenpflichtig übernachtet werden muss.
 
-#### Art. 36
+#### Art. 36–38
 
-**Reiseentschädigungen 1. für Sitzungen und amtliche Sendungen im Kanton**
+**…**
 
-<sup>1</sup> Die Mitglieder von Behörden und Kommissionen beziehen je Kilometer der Hin- und Rückreise zu Sitzungen oder amtlichen Sendungen im Kanton eine Entschädigung von Fr. –.70; die Reiseentschädigung wird nach der Distanztabelle berechnet, die vom Regierungsrat festgesetzt wird; vorbehalten bleiben Art. 4, 6, 11, 24, 28 und 30a.
-
-<sup>2</sup> Sofern eine Behörde oder eine Kommission ein Fahrzeug gemeinsam benützt, hat die Fahrzeughalterin oder der Fahrzeughalter Anspruch auf die Reiseentschädigung für die ausgewiesenen Fahrkilometer.
-
-<sup>3</sup> Mit dieser Entschädigung sind auch allfällige Parkplatzgebühren abgegolten.
-
-#### Art. 37
-
-**2. für kantonsexterne Sendungen**
-
-<sup>1</sup> Als Reiseentschädigung für kantonsexterne Sendungen wird die Fahrkarte erster Klasse öffentlicher Verkehrsmittel vergütet. Benützen mehrere Personen das gleiche Fahrzeug, wird eine Entschädigung von Fr. –.70 je Fahrkilometer entrichtet; vorbehalten bleiben Art. 4, 11 und 24.
-
-<sup>2</sup> Mit dieser Entschädigung sind auch allfällige Parkplatzgebühren abgegolten.
-
-#### Art. 38
-
-**Auszahlung**
-
-<sup>1</sup> Die Entschädigungen gemäss Art. 32–37 werden halbjährlich ausbezahlt.
+## 2.6 Überprüfung der Entschädigungen
 
 #### Art. 39
 
