@@ -4,52 +4,47 @@ number: "611.3"
 title: Einführungsgesetz zum Raumplanungsgesetz betreffend Mehrwertabgabe
 short: "Mehrwertabgabegesetz, MWAG"
 language: de
-version: 2017-08-01
-corrected: 2021-09-03
-version_adopted: 2017-04-12
+version: 2027-01-01
+version_adopted: 2026-06-10
 adopted: 2017-04-12
 in_force: 2017-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.3"
-pdf: "https://gesetze.nw.ch/api/de/versions/208/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1537/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zum Raumplanungsgesetz betreffend Mehrwertabgabe (Mehrwertabgabegesetz, MWAG)
+# Einführungsgesetz zum Raumplanungsgesetz betreffend Mehrwertabgabe
 
-vom 12. April 2017[^t-1]
+(Mehrwertabgabegesetz, MWAG)
+
+vom 12.04.2017 (Stand 01.01.2027)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 5 des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz, RPG)[^t-2],
+gestützt auf Art. 60 Abs. 1 der Kantonsverfassung, in Ausführung von Art. 5 des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz, RPG)[^ingress-1],
 
 beschliesst:
 
-[^t-1]: A 2017, 588, 1263; vom Bund genehmigt am 20. Juni 2017; in Kraft seit 1. August 2017
-[^t-2]: SR 700
+[^ingress-1]: SR 700
 
 #### Art. 1
 
 **Gegenstand**
 
-Dieses Gesetz regelt die Mehrwertabgabe gemäss der Raumplanungsgesetzgebung[^1-1].
+<sup>1</sup> Dieses Gesetz regelt die Mehrwertabgabe gemäss der Raumplanungsgesetzgebung[^1-1].
 
 [^1-1]: SR 700
 
 #### Art. 2
 
-**Mehrwertabgabe**
-
-- 1\. Pflicht, Befreiung
+**Mehrwertabgabe 1. Pflicht, Befreiung**
 
 <sup>1</sup> Grundeigentümerinnen und Grundeigentümer haben eine Mehrwertabgabe zu entrichten, wenn ihr Boden durch eine Neueinzonung einen Planungsvorteil erlangt.
 
-<sup>2</sup> Von der Abgabepflicht befreit sind:
+<sup>1a</sup> Eine Mehrwertabgabe wird nur erhoben, sofern ein Mehrwert von mehr als Fr. 30'000.- anfällt.
 
-- 1\. der Kanton, die Gemeinden und die Gemeindezweckverbände, wenn die Zone, in die der betroffene Boden eingezont wird, unmittelbar öffentlichen oder gemeinnützigen Zwecken oder Kultuszwecken dient;
-
-- 2\. Grundeigentümerinnen und Grundeigentümer für Bodenflächen bis 50 m<sup>2</sup>.
+<sup>2</sup> Der Kanton, die Gemeinden und die Gemeindeverbände sind von der Abgabepflicht befreit, wenn die Zone, in die der betroffene Boden eingezont wird, unmittelbar öffentlichen oder gemeinnützigen Zwecken oder Kultuszwecken dient.
 
 #### Art. 3
 
@@ -78,10 +73,13 @@ Dieses Gesetz regelt die Mehrwertabgabe gemäss der Raumplanungsgesetzgebung[^1-
 <sup>1</sup> Die Mehrwertabgabe wird fällig:
 
 - 1\. mit der Abnahme der Bauten und Anlagen vor dem Bezug beziehungsweise vor der Inbetriebnahme gemäss der Planungs- und Baugesetzgebung[^5-1]; oder
+- 2\. mit der Veräusserung des Grundstücks.
 
-- 2\. mit der Veräusserung des Grundstücks; dieser sind die Vorgänge gemäss Art. 136 Abs. 2 des Steuergesetzes (StG)[^5-2] gleichgestellt.
+<sup>1a</sup> Als Veräusserung gelten Eigentumswechsel und Rechtsgeschäfte, die wirtschaftlich einem Eigentumswechsel gleichkommen. Art. 136 Abs. 2 des Steuergesetzes (StG)[^5-2] ist sinngemäss anwendbar. Ausgenommen sind Eigentumswechsel durch Erbgang (Erbfolge, Erbteilung, Vermächtnis), Erbvorbezug oder Schenkung sowie unter Ehegatten zur Abgeltung von güter- und scheidungsrechtlichen Ansprüchen. Diesfalls geht die Abgabepflicht im Hinblick auf eine künftige Veräusserung auf die Rechtsnachfolgenden über.
 
-<sup>2</sup> Sie wird gesamthaft fällig, wenn von einem Grundstück nach erfolgter Neueinzonung nur ein Teil überbaut oder veräussert wird; bei einer in einem Sondernutzungsplan vorgesehenen Etappierung wird die Mehrwertabgabe anteilsmässig fällig.
+<sup>2</sup> Sie wird gesamthaft fällig, wenn von einem Grundstück nach erfolgter Neueinzonung nur ein Teil überbaut wird. Ausgenommen ist die Realisierung von Kleinbauten und Abstellplätzen, wenn das Bauvorhaben im Verhältnis zur Grundstücksfläche von sehr untergeordneter Tragweite ist.
+
+<sup>3</sup> Sie wird anteilsmässig fällig, wenn von einem Grundstück nur ein Teil veräussert wird oder ein Sondernutzungsplan in Etappen realisiert wird. Massgebend sind die übertragenen beziehungsweise ausgeschöpften Nutzungsmöglichkeiten.
 
 [^5-1]: NG 611.1
 [^5-2]: NG 521.1
@@ -110,7 +108,7 @@ Dieses Gesetz regelt die Mehrwertabgabe gemäss der Raumplanungsgesetzgebung[^1-
 
 **7. Sicherstellung**
 
-Der Kanton hat für die Mehrwertabgabe ein gesetzliches, allen eingetragenen Belastungen vorgehendes Grundpfandrecht ohne Eintragung im Grundbuch im Sinne von Art. 117 des Einführungsgesetzes zum Zivilgesetzbuch (EG ZGB)[^8-1].
+<sup>1</sup> Der Kanton hat für die Mehrwertabgabe ein gesetzliches, allen eingetragenen Belastungen vorgehendes Grundpfandrecht ohne Eintragung im Grundbuch im Sinne von Art. 117 des Einführungsgesetzes zum Zivilgesetzbuch (EG ZGB)[^8-1].
 
 [^8-1]: NG 211.1
 
@@ -118,21 +116,21 @@ Der Kanton hat für die Mehrwertabgabe ein gesetzliches, allen eingetragenen Bel
 
 **Aufwandabgeltung**
 
-Zur Deckung des Aufwandes für Verfügung und Bezug der Mehrwertabgabe steht dem Kanton eine Pauschale von Fr. 1‘000.– je eingezontes Grundstück zu, die von der eingezogenen Mehrwertabgabe in Abzug gebracht wird.
+<sup>1</sup> Zur Deckung des Aufwandes für Verfügung und Bezug der Mehrwertabgabe steht dem Kanton eine Pauschale von Fr. 1'000.– je eingezontes Grundstück zu, die von der eingezogenen Mehrwertabgabe in Abzug gebracht wird.
 
 #### Art. 10
 
-**Verwendung**
-
-### 1. Fonds
+**Verwendung 1. Zuweisung an Fonds, Verrechnung bei kompensatorischen Auszonungen**
 
 <sup>1</sup> Der Kanton weist die Erträge aus der Mehrwertabgabe zweckgebunden einem Fonds zu.
 
+<sup>1a</sup> Die Mehrwertabgabe kann bei kompensatorischen Auszonungen mit der zu leistenden Entschädigung verrechnet werden, wenn die betroffenen Grundeigentümerinnen und Grundeigentümer, die Gemeinde sowie der Regierungsrat zustimmen.
+
 <sup>2</sup> Entnahmen aus dem Fonds sind für Entschädigungen der Gemeinden bei Auszonungen zu verwenden.
 
-<sup>3</sup> Sind im Fonds mehr Mittel vorhanden als für Entschädigungen bei Auszonungen längerfristig notwendig sind, hat der Regierungsrat die Verwendung für weitere Massnahmen gemäss Art. 5 Abs. 1<sup>ter</sup> RPG[^h1Fonds-1] in einer Verordnung zu regeln.
+<sup>3</sup> Sind im Fonds mehr Mittel vorhanden als für Entschädigungen bei Auszonungen längerfristig notwendig sind, hat der Regierungsrat die Verwendung für weitere Massnahmen gemäss Art. 5 Abs. 1<sup>ter</sup> RPG[^10-1] in einer Verordnung zu regeln.
 
-[^h1Fonds-1]: SR 700
+[^10-1]: SR 700
 
 #### Art. 11
 
@@ -153,20 +151,16 @@ Zur Deckung des Aufwandes für Verfügung und Bezug der Mehrwertabgabe steht dem
 <sup>2</sup> Die Finanzdirektion richtet an die Gemeinden Abgeltungen aus dem Fonds aus, wenn:
 
 - 1\. die Höhe der Entschädigung in einer rechtskräftigen Verfügung im Enteignungsverfahren festgesetzt worden ist; oder
-
 - 2\. Gemeinde und Grundeigentümerin beziehungsweise Grundeigentümer eine Einigung erzielt haben, die:
-
-- a) auf einer materiellen Enteignung basiert;
-
-- b) eine angemessene Entschädigung aufweist; und
-
-- c) vom Regierungsrat genehmigt worden ist.
+  - a) auf einer materiellen Enteignung basiert;
+  - b) eine angemessene Entschädigung aufweist; und
+  - c) vom Regierungsrat genehmigt worden ist.
 
 #### Art. 13
 
 **Änderung des Steuergesetzes**
 
-Das Gesetz vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz, StG)[^13-1] wird wie folgt geändert: …
+<sup>1</sup> Das Gesetz vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz, StG)[^13-1] wird wie folgt geändert: …
 
 [^13-1]: NG 521.1
 
@@ -174,13 +168,13 @@ Das Gesetz vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (S
 
 **Übergangsbestimmung**
 
-Planungsvorteile sind auszugleichen, wenn der Beschluss der Gemeindeversammlung über Einzonungen nach dem Inkrafttreten dieses Gesetzes erfolgt ist.
+<sup>1</sup> Planungsvorteile sind auszugleichen, wenn der Beschluss der Gemeindeversammlung über Einzonungen nach dem Inkrafttreten dieses Gesetzes erfolgt ist.
 
 #### Art. 15
 
 **Vollzug**
 
-Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 16
 
@@ -188,8 +182,12 @@ Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestim
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Art. 8 bedarf gestützt auf Art. 52 Abs. 3 des Schlusstitels zum Zivilgesetzbuch[^16-1] der Genehmigung durch den Bund.
+<sup>2</sup> Art. 8 bedarf gestützt auf Art. 52 Abs. 3 des Schlusstitels zum Zivilgesetzbuch[^16-1] der Genehmigung durch den Bund[^16-2].
 
-<sup>3</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
+<sup>3</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^16-3].
 
 [^16-1]: SR 210
+[^16-2]: Vom Bund genehmigt am 20. Juni 2017
+[^16-3]: Datum des Inkrafttretens: 1. August 2017
+
+A 2017, 588, 1263
