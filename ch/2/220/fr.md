@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2026-10-01
+version: 2027-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20261001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20270701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20261001/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 1<sup>er</sup> octobre 2026)
+du 30 mars 1911 (État le 1<sup>er</sup> juillet 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -4550,12 +4550,12 @@ L’employeur ne peut pas réduire la durée des vacances si:
 
 <sup>1</sup> En cas de maternité, la travailleuse a droit, après l’accouchement, à un congé d’au moins 14 semaines.
 
-<sup>2</sup> En cas d’hospitalisation du nouveau-né, le congé est prolongé d’une durée équivalente à la prolongation de la durée du versement de l’allocation de maternité.[^329f-2]
+<sup>2</sup> En cas d’hospitalisation du nouveau-né ou de la mère, le congé de maternité est prolongé d’une durée équivalente à la prolongation de la durée du versement de l’allocation de maternité.[^329f-2]
 
 <sup>3</sup> En cas de décès de l’autre parent durant les six mois qui suivent la naissance de l’enfant, la travailleuse a droit à deux semaines de congé supplémentaires; celles-ci peuvent être prises sous la forme de semaines ou de journées dans un délai-cadre de six mois à compter du jour suivant le décès.[^329f-3]
 
 [^329f-1]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^329f-2]: Introduit par le ch. II de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-2]: Introduit par le ch. II de la LF du 18 déc. 2020 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^329f-3]: Introduit par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 5. Congé de l’autre parent
@@ -4573,11 +4573,19 @@ Ont droit au congé de l’autre parent de deux semaines:
 - a. le travailleur, s’il est le père légal au moment de la naissance de l’enfant ou s’il le devient au cours des six mois qui suivent;
 - b. la travailleuse, si elle est l’autre parent légal au moment de la naissance de l’enfant.
 
-<sup>2</sup> Le congé doit être pris dans les six mois qui suivent la naissance de l’enfant. Ce délai est suspendu pendant le congé au sens de l’art. 329*g*<sup>bis</sup>.
+<sup>1bis</sup> Lorsque la mère est hospitalisée de façon ininterrompue durant deux semaines au moins entre le jour de l’accouchement et les 14 semaines suivantes, le congé de l’autre parent est prolongé de la durée de l’hospitalisation restante à compter de la troisième semaine, mais de 12 semaines au maximum.[^329g-2]
 
-<sup>3</sup> Le congé peut être pris sous la forme de semaines ou de journées.
+<sup>2</sup> Le congé visé à l’al. 1 doit être pris dans les six mois qui suivent la naissance de l’enfant. Ce délai est suspendu pendant le congé au sens de l’art. 329*g*<sup>bis</sup>.[^329g-3]
+
+<sup>3</sup> Le congé visé à l’al. 1 peut être pris sous la forme de semaines ou de journées. La prolongation du congé visée à l’al. 1<sup>bis</sup> doit être prise en jours consécutifs.[^329g-4]
+
+<sup>4</sup> En dérogation à l’al. 3, si l’enfant est mort-né ou qu’il décède à la naissance ou dans les deux semaines qui suivent, l’autre parent doit prendre son congé ou le solde de celui-ci de manière ininterrompue à compter du jour qui suit le décès.[^329g-5]
 
 [^329g-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^329g-2]: Introduit par l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-5]: Introduit par l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### b. En cas de décès de la mère
 
@@ -4603,17 +4611,25 @@ Le travailleur a droit à un congé payé pour la prise en charge d’un membre 
 
 [^329h-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
-### 7. Congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
+### 7. Congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident ou qui est hospitalisé
+
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl7-1]
+
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl7-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 329i
 
 [^329i-1]
 
-<sup>1</sup> Si le travailleur a droit à une allocation de prise en charge au sens des art. 16*n* à 16*s* LAPG[^329i-2] parce que son enfant est gravement atteint dans sa santé en raison d’une maladie ou d’un accident, il a droit à un congé de prise en charge de quatorze semaines au plus.
+<sup>1</sup> Si le travailleur a droit à une allocation de prise en charge au sens des art. 16*n* à 16*s*<sup>bis</sup> LAPG[^329i-2] parce que son enfant est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG, il a droit à un congé de prise en charge de 14 semaines au plus.[^329i-3]
 
-<sup>2</sup> Le congé de prise en charge doit être pris dans un délai-cadre de 18 mois. Le délai-cadre commence à courir le jour pour lequel la première indemnité journalière est versée.
+<sup>1bis</sup> Si le travailleur a droit à une allocation de prise en charge au sens des art. 16*n* à 16*s*<sup>bis</sup> LAPG parce que son enfant est hospitalisé, il a droit, dès le quatrième jour d’hospitalisation, à un congé de prise en charge d’une durée égale à celle de l’hospitalisation et de la convalescence. Au total, il a droit à un congé de prise en charge de 14 semaines au plus.[^329i-4]
 
-<sup>3</sup> Si les deux parents travaillent, chacun a droit à un congé de prise en charge de sept semaines au plus. Ils peuvent convenir de se partager le congé de manière différente.
+<sup>2</sup> Le congé visé à l’al. 1 doit être pris dans un délai-cadre de 18 mois.[^329i-5] Le délai-cadre commence à courir le jour pour lequel la première indemnité journalière est versée.
+
+<sup>2bis</sup> Le congé visé à l’al. 1<sup>bis</sup> doit être pris durant l’hospitalisation et la convalescence.[^329i-6]
+
+<sup>3</sup> Si les deux parents travaillent, chacun a droit à la moitié du congé de prise en charge.[^329i-7] Ils peuvent convenir de se partager le congé de manière différente.
 
 <sup>4</sup> Le congé peut être pris en une fois ou sous la forme de journées.
 
@@ -4621,6 +4637,11 @@ Le travailleur a droit à un congé payé pour la prise en charge d’un membre 
 
 [^329i-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329i-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^329i-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-4]: Introduit par l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-6]: Introduit par l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-7]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### 8. Congé d’adoption
 
@@ -5164,7 +5185,7 @@ Après le temps d’essai, l’employeur ne peut pas résilier le contrat:
 - a.[^336c-2] pendant que le travailleur accomplit un service obligatoire, militaire ou dans la protection civile, ou un service civil, en vertu de la législation fédérale, ou encore pendant les quatre semaines qui précédent et qui suivent ce service pour autant qu’il ait duré plus de onze[^336c-3] jours;
 - b. pendant une incapacité de travail totale ou partielle résultant d’une maladie ou d’un accident non imputables à la faute du travailleur, et cela, durant 30 jours au cours de la première année de service, durant 90 jours de la deuxième à la cinquième année de service et durant 180 jours à partir de la sixième année de service;
 - c. pendant la grossesse et au cours des seize semaines qui suivent l’accouchement;
-- c<sup>bis</sup>.[^336c-4] avant le terme du congé de maternité prolongé conformément à l’art. 329*f*, al. 2;
+- c<sup>bis</sup>.[^336c-4] avant le terme du congé de maternité prolongé conformément à l’art. 329*f*, al. 2, mais au maximum pendant une durée de prolongation de 12 semaines, ou pendant la prolongation du congé de l’autre parent conformément à l’art. 329*g*, al. 1<sup>bis</sup>;
 - c<sup>ter</sup>.[^336c-5] entre le début du congé prévu à l’art. 329*f*, al. 3, et le dernier jour de congé pris, mais pendant trois mois au plus à compter de la fin de la période de protection prévue à la let. c;
 - c<sup>quater</sup>.[^336c-6] tant que dure le droit au congé de prise en charge visé à l’art. 329*i*, pour une période maximale de six mois à compter du jour où le délai-cadre commence à courir;
 - c<sup>quinquies</sup>.[^336c-7] pendant le congé prévu à l’art. 329*g*<sup>bis</sup>;
@@ -5177,7 +5198,7 @@ Après le temps d’essai, l’employeur ne peut pas résilier le contrat:
 [^336c-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^336c-3]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^336c-4]: Introduite par le ch. II de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-4]: Introduite par le ch. II de la LF du 18 déc. 2020 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025 (Harmonisation des prestations dans le régime des APG), en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^336c-5]: Introduite par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^336c-6]: Anciennement let. c<sup>bis</sup> puis c<sup>ter</sup>. Introduite par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^336c-7]: Introduite par l’annexe ch. 1 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
@@ -9310,9 +9331,7 @@ La société doit être inscrite au registre du commerce du lieu où elle a son 
 
 <sup>1</sup> La société n’acquiert la personnalité que par son inscription sur le registre du commerce.
 
-<sup>2</sup> La personnalité est acquise de par l’inscription, même si les conditions de celle-ci n’étaient pas remplies.
-
-<sup>3</sup> Toutefois, lorsque les intérêts de créanciers ou d’actionnaires sont gravement menacés ou compromis par le fait que des dispositions légales ou statutaires ont été violées lors de la fondation, le tribunal peut, à la requête d’un de ces créanciers ou actionnaires, prononcer la dissolution de la société. …[^643-1]
+<sup>2</sup> La personnalité est acquise de par l’inscription, même si les conditions de celle-ci n’étaient pas remplies. <sup>3</sup> Toutefois, lorsque les intérêts de créanciers ou d’actionnaires sont gravement menacés ou compromis par le fait que des dispositions légales ou statutaires ont été violées lors de la fondation, le tribunal peut, à la requête d’un de ces créanciers ou actionnaires, prononcer la dissolution de la société. …[^643-1]
 
 <sup>4</sup> L’action s’éteint si elle n’est pas introduite au plus tard trois mois dès la publication dans la *Feuille officielle suisse du commerce*.
 

@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2026-10-01
+version: 2027-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20261001/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20261001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20270701/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20270701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20270701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20261001/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° ottobre 2026)
+del 30 marzo 1911 (Stato 1° luglio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2187,7 +2187,7 @@ Nel commercio del bestiame (cavalli, asini, muli, bovini, pecore, capre e maiali
 
 <sup>4</sup> Se i difetti di una cosa integrata in un’opera immobiliare conformemente all’uso cui è normalmente destinata hanno causato i difetti dell’opera, il compratore deve darne notizia entro 60 giorni. Dei difetti non riconoscibili mediante l’ordinario esame deve dare notizia entro 60 giorni dalla loro scoperta. La pattuizione di termini più brevi è inefficace.[^201-1]
 
-[^201-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^201-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Nel commercio del bestiame
 
@@ -2442,7 +2442,7 @@ L’alienazione di fondi agricoli è inoltre retta dalla legge federale del 4 ot
 
 [^part2-tit6-chap3-lvlD-lvlI-1]
 
-[^part2-tit6-chap3-lvlD-lvlI-1]: Nuovo testo giusta la cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^part2-tit6-chap3-lvlD-lvlI-1]: Nuovo testo giusta la cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 #### Art. 219
 
@@ -2450,9 +2450,9 @@ L’alienazione di fondi agricoli è inoltre retta dalla legge federale del 4 ot
 
 <sup>2</sup> Se il fondo non ha la misura indicata dal registro fondiario in base ai rilievi ufficiali, il venditore non ha l’obbligo del risarcimento se non in quanto avesse espressamente stipulato tale garanzia.
 
-<sup>3</sup> ...[^219-1]
+<sup>3</sup> …[^219-1]
 
-[^219-1]: Abrogato dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), con effetto dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^219-1]: Abrogato dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), con effetto dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### II. Avviso relativo ai difetti, riparazione gratuita e prescrizione
 
@@ -2466,7 +2466,7 @@ L’alienazione di fondi agricoli è inoltre retta dalla legge federale del 4 ot
 
 <sup>3</sup> L’obbligo di garanzia per i difetti del fondo si prescrive in cinque anni dal trapasso della proprietà. Il termine di prescrizione non può essere modificato a svantaggio del compratore.
 
-[^219a-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^219a-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### E. Utili e rischi
 
@@ -2526,7 +2526,7 @@ Nel rimanente, alla vendita dei fondi si applicano per analogia le disposizioni 
 
 ### C. …
 
-#### Art. 226a a 226d
+#### Art. 226a–226d
 
 [^226a226d-1]
 
@@ -2538,7 +2538,7 @@ Nel rimanente, alla vendita dei fondi si applicano per analogia le disposizioni 
 
 [^226e-1]: Introdotto dalla cifra I della LF del 23 mar. 1962 ([RU 1962 1085](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); FF **1962** 593). Abrogato dalla cifra I della LF del 14 dic. 1990, con effetto dal 1° lug. 1991 ([RU 1991 974](https://fedlex.data.admin.ch/eli/oc/1991/974_974_974); [FF 1989 III 1121](https://fedlex.data.admin.ch/eli/fga/1989/3___1121), [1990 I 103](https://fedlex.data.admin.ch/eli/fga/1990/1_120_108_103)).
 
-#### Art. 226f a 226k
+#### Art. 226f–226k
 
 [^226f226k-1]
 
@@ -2562,7 +2562,7 @@ Nel rimanente, alla vendita dei fondi si applicano per analogia le disposizioni 
 
 [^227-1]: Abrogato dalla cifra I della LF del 23 mar. 1962, con effetto dal 1° gen. 1963 ([RU 1962 1085](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); FF **1962** 593).
 
-#### Art. 227a a 227i
+#### Art. 227a–227i
 
 [^227a227i-1]
 
@@ -3625,7 +3625,7 @@ Il conduttore che intende domandare la protrazione della locazione deve presenta
 
 ### Capo quarto: …
 
-#### Art. 274 a 274g
+#### Art. 274–274g
 
 [^274274g-1]
 
@@ -4542,12 +4542,12 @@ Il datore di lavoro non può neppure ridurre le vacanze:
 
 <sup>1</sup> Dopo il parto la lavoratrice ha diritto a un congedo di maternità di almeno 14 settimane.
 
-<sup>2</sup> In caso di degenza ospedaliera del neonato, il congedo di maternità è prolungato in misura equivalente al prolungamento della durata del versamento dell’indennità di maternità.[^329f-2]
+<sup>2</sup> In caso di degenza ospedaliera del neonato o della madre, il congedo di maternità è prolungato in misura equivalente al prolungamento della durata del versamento dell’indennità di maternità.[^329f-2]
 
 <sup>3</sup> In caso di decesso dell’altro genitore nei sei mesi successivi alla nascita del figlio, la lavoratrice ha diritto a due settimane di congedo supplementare; tale congedo può essere preso in settimane o in giorni entro un termine quadro di sei mesi a decorrere dal giorno successivo al decesso.[^329f-3]
 
 [^329f-1]: Introdotto dall’all. n. 1 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^329f-2]: Introdotto dalla cifra II della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-2]: Introdotto dalla cifra II della LF del 18 dic. 2020 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^329f-3]: Introdotto dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 5. Congedo per l’altro genitore
@@ -4565,11 +4565,19 @@ Ha diritto a un congedo di due settimane:
 - a. il lavoratore che è il padre legale al momento della nascita del figlio o lo diventa nei sei mesi seguenti;
 - b. la lavoratrice che è l’altro genitore legale al momento della nascita del figlio.
 
-<sup>2</sup> Il congedo deve essere preso entro sei mesi dalla nascita del figlio. Tale termine è sospeso durante il congedo secondo l’articolo 329*g*<sup>bis</sup>.
+<sup>1bis</sup> Se la madre è ricoverata in ospedale per almeno due settimane consecutive tra il giorno del parto e le 14 settimane successive, il congedo per l’altro genitore è prolungato di una durata equivalente a quella della degenza ospedaliera residua a contare dalla terza settimana, ma al massimo di 12 settimane.[^329g-2]
 
-<sup>3</sup> Il congedo può essere preso in settimane o in giorni.
+<sup>2</sup> Il congedo di cui al capoverso 1 deve essere preso entro sei mesi dalla nascita del figlio. Tale termine è sospeso durante il congedo secondo l’articolo 329*g*<sup>bis</sup>.[^329g-3]
+
+<sup>3</sup> Il congedo di cui al capoverso 1 può essere preso in settimane o in giorni. Il prolungamento del congedo secondo il capoverso 1<sup>bis</sup> deve essere preso in giorni consecutivi.[^329g-4]
+
+<sup>4</sup> In deroga al capoverso 3, se il figlio nasce morto o muore alla nascita o nelle due settimane successive, l’altro genitore deve prendere il proprio congedo o il relativo saldo in giorni consecutivi a partire dal giorno successivo al decesso.[^329g-5]
 
 [^329g-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Nuovo testo giusta l’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^329g-2]: Introdotto dall’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-3]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-4]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-5]: Introdotto dall’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### b. In caso di morte della madre
 
@@ -4595,17 +4603,25 @@ Il lavoratore ha diritto a un congedo pagato per il tempo necessario all’assis
 
 [^329h-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
-### 7. Congedo di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio
+### 7. Congedo di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio o che è ricoverato in ospedale
+
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl7-1]
+
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl7-1]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 329i
 
 [^329i-1]
 
-<sup>1</sup> Il lavoratore che ha diritto a un’indennità di assistenza ai sensi degli articoli 16*n*–16*s* LIPG[^329i-2] a causa di gravi problemi di salute di suo figlio dovuti a malattia o infortunio ha diritto a un congedo di assistenza massimo di 14 settimane.
+<sup>1</sup> Il lavoratore che ha diritto a un’indennità di assistenza ai sensi degli articoli 16*n*–16*s*<sup>bis</sup> LIPG[^329i-2] a causa di gravi problemi di salute di suo figlio secondo l’articolo 16*o* LIPG ha diritto a un congedo di assistenza massimo di 14 settimane.[^329i-3]
 
-<sup>2</sup> Il congedo di assistenza deve essere preso entro un termine quadro di 18 mesi. Il termine quadro decorre dal giorno per il quale è versata la prima indennità giornaliera.
+<sup>1bis</sup> Il lavoratore che ha diritto a un’indennità di assistenza ai sensi degli articoli 16*n*–16*s*<sup>bis</sup> LIPG a causa della degenza ospedaliera di suo figlio ha diritto, a partire dal quarto giorno di degenza ospedaliera, a un congedo di assistenza di durata corrispondente a quella della degenza e della convalescenza. In totale, ha diritto a un congedo di assistenza di 14 settimane al massimo.[^329i-4]
 
-<sup>3</sup> Se entrambi i genitori esercitano un’attività lucrativa, ognuno di loro ha diritto a un congedo di assistenza massimo di sette settimane. Possono concordare una ripartizione diversa del congedo.
+<sup>2</sup> Il congedo di cui al capoverso 1 deve essere preso entro un termine quadro di 18 mesi.[^329i-5] Il termine quadro decorre dal giorno per il quale è versata la prima indennità giornaliera.
+
+<sup>2bis</sup> Il congedo di cui al capoverso 1<sup>bis</sup> deve essere preso durante la degenza e la convalescenza.[^329i-6]
+
+<sup>3</sup> Se entrambi i genitori esercitano un’attività lucrativa, ognuno di loro ha diritto alla metà del congedo di assistenza.[^329i-7] Possono concordare una ripartizione diversa del congedo.
 
 <sup>4</sup> Il congedo può essere preso in una sola volta o in singoli giorni.
 
@@ -4613,6 +4629,11 @@ Il lavoratore ha diritto a un congedo pagato per il tempo necessario all’assis
 
 [^329i-1]: Introdotto dalla cifra II n. 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329i-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^329i-3]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-4]: Introdotto dall’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-5]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-6]: Introdotto dall’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-7]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### 8. Congedo di adozione
 
@@ -5151,7 +5172,7 @@ Dopo il tempo di prova, il datore di lavoro non può disdire il rapporto di lavo
 - a.[^336c-2] allorquando il lavoratore presta servizio obbligatorio svizzero, militare o di protezione civile, oppure servizio civile svizzero e, in quanto il servizio duri più di 11[^336c-3] giorni, nelle quattro settimane precedenti e seguenti;
 - b. allorquando il lavoratore è impedito di lavorare, in tutto o in parte, a causa di malattia o infortunio non imputabili a sua colpa, per 30 giorni nel primo anno di servizio, per 90 giorni dal secondo anno di servizio sino al quinto compreso e per 180 giorni dal sesto anno di servizio;
 - c. durante la gravidanza e nelle 16 settimane dopo il parto della lavoratrice;
-- c<sup>bis</sup>.[^336c-4] prima del termine del congedo di maternità prolungato conformemente all’articolo 329*f* capoverso 2;
+- c<sup>bis</sup>.[^336c-4] prima del termine del congedo di maternità prolungato conformemente all’articolo 329*f* capoverso 2, ma al massimo per una durata di prolungamento pari a 12 settimane, o durante il prolungamento del congedo per l’altro genitore secondo l’articolo 329*g* capoverso 1<sup>bis</sup>;
 - c<sup>ter</sup>.[^336c-5] tra l’inizio del congedo di cui all’articolo 329*f* capoverso 3 e l’ultimo giorno di congedo preso, ma al massimo per tre mesi a decorrere dalla fine del periodo stabilito nella lettera c;
 - c<sup>quater</sup>.[^336c-6] finché sussiste il diritto al congedo di assistenza di cui all’articolo 329*i*, ma al massimo per sei mesi a decorrere dall’inizio del termine quadro;
 - c<sup>quinquies</sup>.[^336c-7] durante il congedo di cui all’articolo 329*g*<sup>bis</sup>;
@@ -5164,7 +5185,7 @@ Dopo il tempo di prova, il datore di lavoro non può disdire il rapporto di lavo
 [^336c-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Nuovo testo giusta l’all. n. 3 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^336c-4]: Introdotta dalla cifra II della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-4]: Introdotta dalla cifra II della LF del 18 dic. 2020 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025 (Armonizzazione delle prestazioni nell’ordinamento delle IPG), in vigore dal 1° lug. 2027 ([RU 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [FF 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^336c-5]: Introdotta dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^336c-6]: Originaria lett. c<sup>bis</sup> e c<sup>ter</sup>. Introdotta dalla cifra II n. 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^336c-7]: Introdotta dall’all. n. 1 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
@@ -5429,7 +5450,7 @@ Mediante il contratto di tirocinio, il datore di lavoro si obbliga a formare ade
 
 #### Art. 345a
 
-<sup>1</sup> <sup>1</sup> Il datore di lavoro deve provvedere affinché il tirocinio si svolga sotto la responsabilità di una persona del mestiere che possieda le capacità professionali e qualità personali necessarie.
+<sup>1</sup> Il datore di lavoro deve provvedere affinché il tirocinio si svolga sotto la responsabilità di una persona del mestiere che possieda le capacità professionali e qualità personali necessarie.
 
 <sup>2</sup> Il datore di lavoro deve concedere all’apprendista, senza deduzione di salario, il tempo necessario per frequentare la scuola professionale di base e i corsi interaziendali e per sostenere gli esami di fine tirocinio.
 
@@ -6159,7 +6180,7 @@ Nel caso di un’opera immobiliare il termine per segnalare i difetti è di 60 g
 
 <sup>2</sup> Ciascuno dei contraenti ha diritto di chiedere a sue spese la verificazione dell’opera a mezzo di periti e la dichiarazione di collaudo.
 
-[^367-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^367-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Diritto del committente in caso di difetti
 
@@ -6173,8 +6194,8 @@ Nel caso di un’opera immobiliare il termine per segnalare i difetti è di 60 g
 
 <sup>3</sup> Quando si tratti di opere eseguite sul fondo del committente e che per loro natura non potrebbero essere rimosse senza gravissimo pregiudizio, il committente non ha che i diritti menzionati nel secondo capoverso di questo articolo.
 
-[^368-1]: Per. introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
-[^368-2]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^368-1]: Per. introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^368-2]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### c. Responsabilità del committente
 
@@ -6199,7 +6220,7 @@ Dei difetti dell’opera immobiliare irriconoscibili coll’ordinaria verificazi
 - a. difetti di un’opera mobiliare integrata nell’opera immobiliare conformemente all’uso cui è normalmente destinata;
 - b. difetti di un’opera eseguita da un architetto o da un ingegnere e che conformemente all’uso cui è normalmente destinata funge da base per la realizzazione dell’opera immobiliare.[^370-1]
 
-[^370-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^370-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### e. Prescrizione
 
@@ -6214,7 +6235,7 @@ Dei difetti dell’opera immobiliare irriconoscibili coll’ordinaria verificazi
 <sup>3</sup> Il termine di prescrizione di cinque anni non può essere modificato a svantaggio del committente. Per il resto si applicano per analogia le norme relative alla prescrizione dei corrispondenti diritti del compratore.[^371-2]
 
 [^371-1]: Nuovo testo giusta la cifra I della LF del 16 mar. 2012 (Prescrizione della garanzia per i difetti. Prolungamento e coordinamento), in vigore dal 1° gen. 2013 ([RU 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [FF 2011 2629](https://fedlex.data.admin.ch/eli/fga/2011/424)[3547](https://fedlex.data.admin.ch/eli/fga/2011/597)).
-[^371-2]: Nuovo testo giusta la cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^371-2]: Nuovo testo giusta la cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### II. Obblighi del committente
 
@@ -9051,7 +9072,7 @@ In una società le cui azioni sono quotate in borsa, lo statuto deve inoltre con
 [^626-5]: Introdotto dalla cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^626-6]: Introdotto dalla cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 627 e 628
+#### Art. 627–628
 
 [^627628-1]
 
@@ -9242,7 +9263,7 @@ Qualora, al momento della costituzione della società, siano pattuiti speciali v
 
 [^636-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 637 a 639
+#### Art. 637–639
 
 [^637639-1]
 
@@ -9342,7 +9363,7 @@ Ogni deliberazione dell’assemblea generale o del consiglio d’amministrazione
 
 [^647-1]: Nuovo testo giusta la cifra I n. 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-#### Art. 648 e 649
+#### Art. 648–649
 
 [^648649-1]
 
@@ -10214,7 +10235,7 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^662a-1]
 
-[^662a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal cifra I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^662a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal cifra I n. 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 663
 
@@ -10222,7 +10243,7 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^663-1]: Abrogato dalla cifra I n. 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-#### Art. 663a e 663b
+#### Art. 663a–663b
 
 [^663a663b-1]
 
@@ -10242,13 +10263,13 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^663c-1]: Introdotto dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dalla cifra I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 663d a 663h
+#### Art. 663d–663h
 
 [^663d663h-1]
 
 [^663d663h-1]: Introdotti dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dalla cifra I n. 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-#### Art. 664 e 665
+#### Art. 664–665
 
 [^664665-1]
 
@@ -10260,7 +10281,7 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^665a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dalla cifra I n. 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-#### Art. 666 e 667
+#### Art. 666–667
 
 [^666667-1]
 
@@ -10308,7 +10329,7 @@ Sono assegnati alla riserva legale da capitale:
 
 [^671-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 671a e 671b
+#### Art. 671a–671b
 
 [^671a671b-1]
 
@@ -11092,9 +11113,9 @@ Se l’assemblea generale non accede alla proposta, entro tre mesi azionisti che
 
 [^697k-1]: Introdotto dalla cifra I n. 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogato dalla cifra I n. 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, con effetto dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-#### Art. 697l
+#### Art. 697l–697m
 
-**e **Art. 697***m*[^697l697m-1]**
+[^697l697m-1]
 
 [^697l697m-1]: Introdotti dalla cifra I n. 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogati dall’all. n. 2 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, con effetto dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
@@ -11848,11 +11869,11 @@ La società risponde del danno che una persona, a cui è affidata la sua gestion
 
 [^722-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-#### Art. 723 e 724
+#### Art. 723–724
 
 [^723724-1]
 
-[^723724-1]: Abrogati dalla cifra I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^723724-1]: Abrogati dalla cifra I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)[FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### VII. Rischio d’insolvenza, perdita di capitale ed eccedenza di debiti
 
@@ -12620,7 +12641,7 @@ Terminata la liquidazione, i liquidatori devono notificare all’ufficio del reg
 
 ### I. …
 
-#### Art. 748 a 750
+#### Art. 748–750
 
 [^748750-1]
 
@@ -13381,9 +13402,9 @@ Le disposizioni del diritto della società anonima sui dividendi, gli acconti su
 
 [^798-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 798a e 798b
+#### Art. 798a
 
-[^798a798b-1]
+***–***798***b*[^798a798b-1]**
 
 [^798a798b-1]: Abrogati dalla cifra I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
@@ -13908,7 +13929,7 @@ Lo statuto deve contenere disposizioni sui punti seguenti:
 
 - 1\.[^832-1] la ditta e la sede della società
 - 2\. lo scopo della società;
-- 3\. e 4.[^832-2] …
+- 3\.–4.[^832-2] …
 - 5\.[^832-3] la forma delle comunicazioni della società ai soci.
 
 [^832-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -14245,7 +14266,7 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 <sup>1</sup> Lo statuto può in ispecie prevedere la costituzione di fondi destinati a creare ed a sostenere istituzioni di previdenza[^862-1] a favore d’impiegati e d’operai dell’impresa o di soci.
 
-<sup>2 a <sup>4</sup></sup> …[^862-2]
+<sup>2</sup> –<sup>4</sup> …[^862-2]
 
 [^862-1]: Nuovo termine giusta la cifra I lett. c della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
 [^862-2]: Abrogati dalla cifra I lett. b della LF del 21 mar. 1958, con effetto dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
@@ -14785,7 +14806,7 @@ In caso di lacune nell’organizzazione della società cooperativa, si applicano
 
 [^908-1]: Nuovo testo giusta la cifra I n. 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-#### Art. 909 e 910
+#### Art. 909–910
 
 [^909910-1]
 
@@ -15301,7 +15322,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione concernenti:
 
 <sup>3</sup> Rimangono riservate, in favore delle ditte iscritte in un altro luogo, le disposizioni sulla concorrenza sleale.
 
-#### Art. 947 e 948
+#### Art. 947–948
 
 [^947948-1]
 

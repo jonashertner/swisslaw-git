@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2026-10-01
+version: 2027-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20261001/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20261001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20270701/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20270701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20270701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Oktober 2026)
+vom 30. März 1911 (Stand am 1. Juli 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -4538,12 +4538,12 @@ Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 
 <sup>1</sup> Nach der Niederkunft hat die Arbeitnehmerin Anspruch auf einen Mutterschaftsurlaub von mindestens 14 Wochen.
 
-<sup>2</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.[^329f-2]
+<sup>2</sup> Bei Hospitalisierung des Neugeborenen oder der Mutter verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.[^329f-2]
 
 <sup>3</sup> Im Falle des Todes des andern Elternteils während der sechs Monate nach der Geburt des Kindes hat die Arbeitnehmerin Anspruch auf zwei Wochen zusätzlichen Urlaub; sie kann diesen Urlaub innert einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise beziehen.[^329f-3]
 
 [^329f-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^329f-2]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^329f-2]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^329f-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
 ### 5. Urlaub des andern Elternteils
@@ -4561,11 +4561,19 @@ Anspruch auf den Urlaub des andern Elternteils von zwei Wochen hat:
 - a. der Arbeitnehmer, der im Zeitpunkt der Geburt des Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird;
 - b. die Arbeitnehmerin, die im Zeitpunkt der Geburt des Kindes der rechtliche andere Elternteil ist.
 
-<sup>2</sup> Der Urlaub muss innert der sechs Monate nach der Geburt des Kindes bezogen werden. Diese Frist steht während des Urlaubs nach Artikel 329*g*<sup>bis</sup> still.
+<sup>1bis</sup> Verweilt die Mutter zwischen dem Tag der Niederkunft und den 14 Wochen danach ununterbrochen während mindestens zwei Wochen im Spital, so verlängert sich der Urlaub des andern Elternteils ab der dritten Woche um die verbleibende Dauer der Hospitalisierung, höchstens jedoch um zwölf Wochen.[^329g-2]
 
-<sup>3</sup> Der Urlaub kann wochen- oder tageweise bezogen werden.
+<sup>2</sup> Der Urlaub nach Absatz 1 muss innert der sechs Monate nach der Geburt des Kindes bezogen werden. Diese Frist steht während des Urlaubs nach Artikel 329*g*<sup>bis</sup> still.[^329g-3]
+
+<sup>3</sup> Der Urlaub nach Absatz 1 kann wochen- oder tageweise bezogen werden. Die Verlängerung des Urlaubs nach Absatz 1<sup>bis</sup> muss an aufeinanderfolgenden Tagen bezogen werden.[^329g-4]
+
+<sup>4</sup> In Abweichung von Absatz 3 muss der andere Elternteil den Urlaub oder die verbleibenden Taggelder ab dem Folgetag des Todestags am Stück beziehen, wenn das Kind tot geboren wird oder bei der Geburt oder in den zwei Wochen nach der Geburt stirbt.[^329g-5]
 
 [^329g-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Fassung gemäss Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
+[^329g-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329g-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 ### b. Im Falle des Todes der Mutter
 
@@ -4591,17 +4599,25 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [^329h-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
-### 7. Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
+### 7. Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten oder hospitalisierten Kindes
+
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl7-1]
+
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl7-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
 #### Art. 329i
 
 [^329i-1]
 
-<sup>1</sup> Hat die Arbeitnehmerin oder der Arbeitnehmer Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16*n*–16*s* EOG[^329i-2], weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
+<sup>1</sup> Hat die Arbeitnehmerin oder der Arbeitnehmer Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16*n*–16*s*<sup>bis</sup> EOG[^329i-2], weil ihr oder sein Kind im Sinne von Artikel 16*o* EOG gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.[^329i-3]
 
-<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+<sup>1bis</sup> Hat die Arbeitnehmerin oder der Arbeitnehmer Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16*n*−16*s*<sup>bis</sup> EOG, weil ihr oder sein Kind hospitalisiert ist, so hat sie oder er ab dem vierten Tag der Hospitalisierung Anspruch auf einen Betreuungsurlaub, welcher der Dauer des Spitalaufenthalts und der Genesung entspricht. Insgesamt hat sie oder er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.[^329i-4]
 
-<sup>3</sup> Sind beide Eltern Arbeitnehmende, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Sie können eine abweichende Aufteilung des Urlaubs wählen.
+<sup>2</sup> Der Urlaub nach Absatz 1 muss innerhalb einer Rahmenfrist von 18 Monaten bezogen werden.[^329i-5] Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>2bis</sup> Der Urlaub nach Absatz 1<sup>bis</sup> muss während des Spitalaufenthalts und der Genesung bezogen werden.[^329i-6]
+
+<sup>3</sup> Sind beide Eltern Arbeitnehmende, so hat jeder Elternteil Anspruch auf je die Hälfte des Betreuungsurlaubs.[^329i-7] Sie können eine abweichende Aufteilung des Urlaubs wählen.
 
 <sup>4</sup> Der Urlaub kann am Stück oder tageweise bezogen werden.
 
@@ -4609,8 +4625,13 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [^329i-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^329i-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
+[^329i-7]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 
-### 8. Adoptions- urlaub
+### 8. Adoptionsurlaub
 
 #### Art. 329j
 
@@ -5157,7 +5178,7 @@ Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kün
 - a.[^336c-2] während die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet, sowie, sofern die Dienstleistung mehr als elf[^336c-3] Tage dauert, während vier Wochen vorher und nachher;
 - b. während der Arbeitnehmer ohne eigenes Verschulden durch Krankheit oder durch Unfall ganz oder teilweise an der Arbeitsleistung verhindert ist, und zwar im ersten Dienstjahr während 30 Tagen, ab zweitem bis und mit fünftem Dienstjahr während 90 Tagen und ab sechstem Dienstjahr während 180 Tagen;
 - c. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
-- c<sup>bis</sup>.[^336c-4] vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329*f* Absatz 2;
+- c<sup>bis</sup>.[^336c-4] vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329*f* Absatz 2, höchstens aber während einer Verlängerung von 12 Wochen, oder während der Verlängerung des Urlaubs des andern Elternteils nach Artikel 329*g* Absatz 1<sup>bis</sup>;
 - c<sup>ter</sup>.[^336c-5] zwischen dem Beginn des Urlaubs nach Artikel 329*f* Absatz 3 und dem letzten bezogenen Urlaubstag, längstens aber während drei Monaten ab dem Ende der Sperrfrist nach Buchstabe c;
 - c<sup>quater</sup>.[^336c-6] solange der Anspruch auf Betreuungsurlaub nach Artikel 329*i* besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
 - c<sup>quinquies</sup>.[^336c-7] während des Urlaubs nach Artikel 329*g*<sup>bis</sup>;
@@ -5170,7 +5191,7 @@ Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kün
 [^336c-1]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Fassung gemäss Anhang Ziff. 3 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^336c-4]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-4]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025 (Angleichung der EO-Leistungen), in Kraft seit 1. Juli 2027 ([AS 2026 433](https://fedlex.data.admin.ch/eli/oc/2026/433); [BBl 2025 1528](https://fedlex.data.admin.ch/eli/fga/2025/1528)).
 [^336c-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^336c-6]: Ursprünglich: Bst. c<sup>bis</sup>, dann c<sup>ter</sup>. Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^336c-7]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
