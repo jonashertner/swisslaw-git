@@ -4,13 +4,13 @@ number: VIII D/21/1
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: EG KVG
 language: de
-version: 2023-01-01
-valid_until: 2026-12-31
-version_adopted: 2021-09-05
+version: 2027-01-01
+valid_until: 2027-12-31
+version_adopted: 2026-05-03
 adopted: 2015-05-03
 in_force: 2016-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2376/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2683/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2376/pdf_file"
 
 (EG KVG)
 
-Vom 03.05.2015 (Stand 01.01.2023)
+Vom 03.05.2015 (Stand 01.01.2027)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -27,7 +27,9 @@ Vom 03.05.2015 (Stand 01.01.2023)
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz regelt den Vollzug des Bundesgesetzes über die Krankenversicherung (KVG).
+<sup>1</sup> Dieses Gesetz regelt den Vollzug des Bundesgesetzes über die Krankenversicherung (KVG)[^1-1].
+
+[^1-1]: SR 832.10
 
 #### Art. 2
 
@@ -315,9 +317,7 @@ Vom 03.05.2015 (Stand 01.01.2023)
 
 #### Art. 27
 
-**Referenztarif**
-
-<sup>1</sup> Als Referenztarif für frei gewählte stationäre Behandlungen in einem Listenspital ausserhalb der Spitalliste des Wohnsitzkantons (Art. 41 Abs. 1bis KVG) gilt der jeweils günstigste Tarif für die betreffende Behandlung in einem Listenspital auf der Spitalliste des Kantons Glarus.
+**…**
 
 #### Art. 28
 
