@@ -4,13 +4,12 @@ number: "777"
 title: Verordnung zum Gesetz über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes
 short: Strassenverkehrsverordnung
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-12-09
+version: 2027-01-01
+version_adopted: 2026-04-28
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/777"
-pdf: "https://srl.lu.ch/api/de/versions/4617/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4775/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4617/pdf_file"
 
 (Strassenverkehrsverordnung)
 
-vom 09.12.1986 (Stand 01.01.2026)
+vom 09.12.1986 (Stand 01.01.2027)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -77,7 +76,7 @@ beschliesst:
 - c. Arbeitsanhänger, landwirtschaftliche Anhänger sowie Anhänger an Motorrädern, Kleinmotorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen — Fr. 31.–
 - d. Motorfahrräder — Fr. 31.–
 
-<sup>2</sup> Für dreirädrige Motorfahrzeuge und Kleinmotorfahrzeuge mit einer Leistung bis 13 Kilowatt beträgt die Steuer Fr. 165.–, für jedes weitere Kilowatt zusätzlich Fr. 1.90.
+<sup>2</sup> Für dreirädrige Motorfahrzeuge und Kleinmotorfahrzeuge mit einer Leistung bis 13 Kilowatt beträgt die Steuer Fr. 61.–, für jedes weitere Kilowatt zusätzlich Fr. 1.90, zuzüglich eines Zuschlags von Fr. 61.–. Bei rein elektrischen (batterieelektrischen oder wasserstoffelektrischen) Fahrzeugen wird ein Kompensationsabzug gemäss § 13 Absatz 2 des Gesetzes gewährt.
 
 <sup>3</sup> Für Fahrräder wird keine Steuer erhoben.
 
@@ -90,10 +89,12 @@ beschliesst:
 - a. bei der ersten Inverkehrsetzung der Kategorie A oder B gemäss Energieetikette angehören und
 - b. einen tieferen CO₂-Emissionswert aufweisen als die Hälfte des jeweils aktuellen Zielwertes des Bundes gemäss Anhang 4a der Verordnung über die Reduktion der CO₂-Emissionen vom 30. November 2012[^4a-1].
 
-<sup>1<sup>bis</sup></sup> Die Verkehrssteuer für Kleinbusse, Lieferwagen, leichte Motorwagen, Sattelschlepper bis 3,5 t, leichte Sattelmotorfahrzeuge und Motorräder mit weissen Schildern wird für das Jahr der ersten Inverkehrsetzung sowie für die vier darauffolgenden Jahre um 80 Prozent reduziert, wenn
+<sup>1<sup>bis</sup></sup> Die Verkehrssteuer für Kleinbusse, Lieferwagen, leichte Motorwagen, Sattelschlepper bis 3,5 t, leichte Sattelmotorfahrzeuge und zweirädrige Motorräder mit weissen Schildern wird für das Jahr der ersten Inverkehrsetzung sowie für die vier darauffolgenden Jahre um 80 Prozent reduziert, wenn
 
 - a. sie rein elektrisch (batterieelektrisch oder wasserstoffelektrisch) betrieben sind und
 - b. bei der ersten Inverkehrsetzung der Anteil der rein elektrischen Fahrzeuge an den in der entsprechenden Kategorie zugelassenen Fahrzeugen noch nicht 20 Prozent erreicht hat.
+
+<sup>1<sup>ter</sup></sup> Für Kleinmotorfahrzeuge, dreirädrige Motorfahrzeuge, dreirädrige Motorräder und Motorräder mit Seitenwagen wird der Zuschlag von Fr. 61.– nicht erhoben, wenn sie rein elektrisch (batterieelektrisch oder wasserstoffelektrisch) betrieben sind.
 
 <sup>2</sup> Halterinnen und Halter von Fahrzeugen, die eine reduzierte Steuer beanspruchen, haben den Nachweis zu erbringen, dass ihr Fahrzeug die Voraussetzungen erfüllt.
 
