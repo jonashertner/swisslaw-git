@@ -4,13 +4,12 @@ number: "413.820"
 title: Verordnung betreffend die Maturitätsprüfungen im Kanton Basel-Stadt
 short: "Maturitätsprüfungsverordnung, MPV"
 language: de
-version: 2024-08-12
-valid_until: 2027-08-15
-version_adopted: 2024-02-27
+version: 2027-08-16
+version_adopted: 2025-12-16
 adopted: 2000-03-28
 in_force: 1999-08-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.820"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6164/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6798/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mittelschulen
 
 (Maturitätsprüfungsverordnung, MPV)
 
-Vom 28. März 2000 (Stand 12. August 2024)
+Vom 28. März 2000 (Stand 16. August 2027)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -48,10 +47,11 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 <sup>1</sup> Folgende Schulen stellen aufgrund hauseigener Prüfungen kantonale Maturitätsausweise aus, die schweizerisch anerkannt sind:
 
-- a) das Gymnasium Bäumlihof, das Gymnasium Kirschgarten, das Gymnasium Leonhard, das Gymnasium am Münsterplatz, das Wirtschaftsgymnasium und das Freie Gymnasium;
+- a) das Gymnasium Bäumlihof, das Gymnasium Kirschgarten, das Gymnasium Leonhard, das Gymnasium am Münsterplatz und das Wirtschaftsgymnasium;
 - b) …
+- c) das Freie Gymnasium Basel und die SIS Swiss International School Basel.
 
-<sup>2</sup> Die Maturitätskurse für Berufstätige im Kanton Basel-Stadt stellen aufgrund hauseigener Prüfungen kantonale Maturitätsausweise aus (sprachlich-historische und mathematisch-naturwissenschaftliche Richtung), die unter Beachtung der von der Universität erlassenen besonderen Bestimmungen zur Zulassung zum Studium an der Universität Basel berechtigen.
+<sup>2</sup> Die Maturitätskurse für Berufstätige im Kanton Basel-Stadt stellen aufgrund hauseigener Prüfungen kantonale Maturitätsausweise aus (sprachlich-historische Richtung), die unter Beachtung der von der Universität erlassenen besonderen Bestimmungen zur Zulassung zum Studium an der Universität Basel berechtigen.
 
 <sup>3</sup> ...
 
@@ -66,9 +66,9 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 - a) Die Vereinbarkeit derer Bildungsgänge mit
   - aa) dieser Verordnung,
   - ab) dem Bildungsplan für die Gymnasien Basel-Stadt,
-  - ac) der Lernbeurteilungsverordnung Gymnasien und subsidiär mit der Schullaufbahnverordnung,
+  - ac) der Schullaufbahnverordnung,
   - ad) den kantonalen Rahmenvorgaben für die schriftlichen Maturitätsprüfungen sowie
-  - ae) den kantonalen Rahmenvorgaben für die Maturitätsarbeit.
+  - ae) dem Reglement für die Maturaarbeit an den Gymnasien im Kanton Basel-Stadt.
 - b) Mindestens so viele Lektionen, wie in den letzten vier Jahren in der im Bildungsplan enthaltenen Stundentafel ausgewiesen sind, müssen von Lehrpersonen erteilt werden, welche über die in § 5 dieser Verordnung genannten Qualifikationen verfügen.
 
 <sup>3</sup> Die Voraussetzungen für die Anerkennung von allgemeinbildenden Vollzeitschulen als kantonale Maturitätsschulen, die kantonale Maturitätsausweise ausstellen, gelten für die allgemeinbildenden Vollzeitund Teilzeitschulen für Erwachsene sinngemäss.
@@ -119,7 +119,7 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 <sup>2</sup> Ausnahmen werden vom Erziehungsrat beschlossen und vom Regierungsrat genehmigt.
 
-## II. Maturitätsprüfung und Maturaarbeit
+## II. Maturitätsprüfung und Maturitätsarbeit
 
 ### A. Gymnasien Basel-Stadt
 
@@ -127,13 +127,13 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 **Zulassung**
 
-<sup>1</sup> Zu den Maturitätsprüfungen werden nur Schülerinnen und Schüler zugelassen, die den Unterricht der letzten beiden Jahre vor der Maturität regelmässig besucht haben sowie die Maturaarbeit fristgerecht eingereicht haben.
+<sup>1</sup> Zu den Maturitätsprüfungen werden nur Schülerinnen und Schüler zugelassen, die in den letzten beiden Jahren bis zu dem von der Schulleitung festgelegten Stichtag jeweils mindestens 80 Prozent des Unterrichts des Schuljahres besucht sowie die Maturitätsarbeit fristgerecht eingereicht haben.
 
 <sup>1<sup>bis</sup></sup> Die Prüfungsleitung entscheidet über die Nichtzulassung zu den Maturitätsprüfungen bei Schülerinnen und Schülern, die eine der Voraussetzungen gemäss Abs. 1 nicht erfüllen. Sie gilt als erster gescheiterter Versuch, die Maturität zu erlangen.
 
 <sup>2</sup> Die Prüfungsleitung entscheidet über begründete Ausnahmen hinsichtlich der Voraussetzung, den Unterricht der letzten beiden Jahre vor der Maturität regelmässig besucht zu haben.
 
-<sup>3</sup> Schülerinnen und Schüler, die ihre Maturaarbeit wegen Krankheit, Unfall oder aus anderen zwingenden Gründen nicht fristgerecht einreichen können, haben dies unverzüglich der Prüfungsleitung zu melden. Bei der Geltendmachung von gesundheitlichen Gründen ist ein Arztzeugnis beizubringen.
+<sup>3</sup> Schülerinnen und Schüler, die ihre Maturitätsarbeit wegen Krankheit, Unfall oder aus anderen zwingenden Gründen nicht fristgerecht einreichen können, haben dies unverzüglich der Prüfungsleitung zu melden. Bei der Geltendmachung von gesundheitlichen Gründen ist ein ärztliches Zeugnis beizubringen.
 
 <sup>4</sup> Die Prüfungsleitung entscheidet über begründete Ausnahmen gemäss Abs. 3 und legt den Termin einer späteren Abgabe fest.
 
@@ -250,7 +250,7 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 <sup>2</sup> Bei den schriftlichen Prüfungen ist innerhalb einer Schule im jeweiligen Prüfungsfach Einheitlichkeit in Bezug auf den Inhalt, die Gestaltung sowie die Bewertung gemäss den kantonalen Rahmenvorgaben zu gewährleisten.
 
-<sup>3</sup> Bei den mündlichen Prüfungen ist innerhalb einer Schule im jeweiligen Prüfungsfach Einheitlichkeit in Bezug auf Inhalt, Gestaltung und Bewertung anzustreben.
+<sup>3</sup> Bei den mündlichen Prüfungen ist innerhalb einer Schule im jeweiligen Prüfungsfach Einheitlichkeit in Bezug auf Inhalt, Gestaltung und Bewertung zu gewährleisten.
 
 #### § 16
 
@@ -258,29 +258,29 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 <sup>1</sup> Die Maturitätsprüfungen finden in jedem Prüfungsfach schriftlich und mündlich statt.
 
-<sup>2</sup> Die schriftlichen Prüfungen dauern mindestens 3 Stunden, die mündlichen mindestens 15 Minuten.
+<sup>2</sup> Die schriftlichen Prüfungen dauern mindestens eine Stunde. Die mündlichen Prüfungen dauern bei Einzelprüfungen mindestens 15 Minuten, bei Gruppenprüfungen mindestens 20 Minuten.
 
 <sup>3</sup> Bei den mündlichen Prüfungen legt die Prüfungsleitung die Prüfungsdauer fest. Bei den schriftlichen Prüfungen ist die Prüfungsdauer in den kantonalen Rahmenvorgaben festgelegt.
 
-<sup>4</sup> Die schriftlichen Prüfungen werden unter ständiger Beaufsichtigung geschrieben.
+<sup>4</sup> …
 
 <sup>5</sup> Im Schwerpunktfach Musik wird zusätzlich zur schriftlichen und mündlichen Prüfung eine Prüfung in Form eines Instrumental- oder Vokalvortrags durchgeführt, die mindestens 20 Minuten dauert.
 
 #### § 17
 
-**Maturitätsnote in der Maturaarbeit**
+**Maturitätsnote in der Maturitätsarbeit**
 
-<sup>1</sup> Die Maturitätsnote in der Maturaarbeit wird aufgrund der schriftlichen Arbeit oder des Produkts samt Begleittext sowie deren mündlicher Präsentation und Fachgespräch mit je einer Note gesetzt.
+<sup>1</sup> Die Maturitätsnote in der Maturitätsarbeit wird aufgrund der schriftlichen Arbeit oder des Produkts samt Begleittext sowie deren mündlicher Präsentation und Fachgespräch mit je einer Note gesetzt.
 
 <sup>2</sup> Bei der Bewertung der schriftlichen Arbeit oder des Produkts samt Begleittext sind der Arbeitsprozess und das Arbeitsergebnis zu berücksichtigen.
 
 <sup>3</sup> Die Bewertung erfolgt in ganzen und halben Noten.
 
-<sup>4</sup> Für die Gesamtnote der Maturaarbeit wird die Note für die schriftliche Arbeit oder das Produkt samt Begleittext und die Note für die mündliche Präsentation und Fachgespräch mit je 50 Prozent gewichtet.
+<sup>4</sup> Für die Gesamtnote der Maturitätsarbeit wird die Note für die schriftliche Arbeit oder das Produkt samt Begleittext und die Note für die mündliche Präsentation und Fachgespräch mit je 50 Prozent gewichtet.
 
 <sup>5</sup> Ergibt die Berechnung einer Bewertung ein arithmetisches Mittel mit ,25 oder besser, so wird auf die nächste halbe Note und ergibt sie ein arithmetisches Mittel mit ,75 oder besser, wird sie auf die nächste ganze Note aufgerundet.
 
-<sup>6</sup> Die näheren Bestimmungen zur Maturaarbeit werden vom Erziehungsdepartement nach Anhörung des Erziehungsrates erlassen.
+<sup>6</sup> Die näheren Bestimmungen zur Maturitätsarbeit werden vom Erziehungsdepartement nach Anhörung des Erziehungsrates erlassen.
 
 #### § 18
 
@@ -304,12 +304,12 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 **Validierung der Noten der Nichtprüfungsfächer und der Prüfungsfächer**
 
-<sup>1</sup> Die Maturitätsnoten der Fächer, in denen keine Maturitätsprüfungen stattfinden, werden durch die Unterschrift der Lehrpersonen, die den abschliessenden Unterricht erteilt haben, validiert.
+<sup>1</sup> Die Maturitätsnoten der Fächer, in denen keine Maturitätsprüfungen stattfinden, werden durch die Lehrpersonen, die den abschliessenden Unterricht erteilt haben, validiert.
 
-<sup>2</sup> Die Maturitätsnoten der Fächer, in denen Maturitätsprüfungen stattfinden, werden vorbehältlich dem Vorgehen gemäss § 21 dieser Verordnung wie folgt validiert:
+<sup>2</sup> Die Maturitätsnoten der Fächer, in denen Maturitätsprüfungen stattfinden, werden vorbehältlich dem Vorgehen gemäss § 21 wie folgt validiert:
 
-- a) bei den mündlichen Prüfungen durch die Unterschrift der Examinatorinnen und Examinatoren sowie der Expertinnen und Experten;
-- b) bei den schriftlichen Prüfungen durch die Unterschrift der Examinatorinnen und Examinatoren, im Falle einer Zweitkorrektur durch die Unterschrift derjenigen Person, die die Zweitkorrektur durchgeführt hat.
+- a) bei den mündlichen Prüfungen durch die Examinierenden sowie die Expertinnen und Experten;
+- b) bei den schriftlichen Prüfungen durch die Examinierenden, im Falle einer Zweitkorrektur durch diejenige Person, die die Zweitkorrektur durchgeführt hat.
 
 #### § 21
 
@@ -325,7 +325,7 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 **Unerlaubte Hilfsmittel und andere Unredlichkeit**
 
-<sup>1</sup> Bei der Maturaarbeit und den Maturitätsprüfungen können die Benützung unerlaubter Hilfsmittel, die versuchte Benützung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit zur Verweigerung der Zulassung zu den Maturitätsprüfungen bzw. zur Verweigerung des Maturitätsausweises führen.
+<sup>1</sup> Bei der Maturitätsarbeit und den Maturitätsprüfungen können die Benützung unerlaubter Hilfsmittel, die versuchte Benützung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit zur Verweigerung der Zulassung zu den Maturitätsprüfungen bzw. zur Verweigerung des Maturitätsausweises führen.
 
 <sup>2</sup> Über die Verweigerung der Zulassung zu den Maturitätsprüfungen bzw. des Maturitätsausweises entscheidet das Aufsichtsorgan der Schule auf Antrag der Prüfungsleitung.
 
@@ -351,7 +351,7 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 <sup>1</sup> Schülerinnen und Schüler, denen gestützt auf diese Verordnung der Maturitätsausweis verweigert wird, können nach dem erneuten Besuch des letzten Jahreskurses die Maturitätsprüfungen wiederholen.
 
-<sup>2</sup> Sie teilen der Schulleitung zu Beginn des Schuljahres schriftlich mit, ob sie auch die Maturaarbeit wiederholen oder nicht. Falls sie die Maturaarbeit nicht wiederholen, zählt die bereits erhaltene Maturitätsnote für die Maturaarbeit.
+<sup>2</sup> Sie teilen der Schulleitung zu Beginn des Schuljahres schriftlich mit, ob sie auch die Maturitätsarbeit wiederholen oder nicht. Falls sie die Maturitätsarbeit nicht wiederholen, zählt die bereits erhaltene Maturitätsnote für die Maturitätsarbeit.
 
 <sup>3</sup> Zur Erlangung des Maturitätsausweises sind zwei Versuche zulässig.
 
