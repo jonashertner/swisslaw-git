@@ -4,13 +4,12 @@ number: "413.226"
 title: Verordnung über die Maturitätsabteilung an den thurgauischen Kantonsschulen
 short: MKV
 language: de
-version: 2023-02-01
-valid_until: 2028-07-31
-version_adopted: 2022-05-24
+version: 2028-08-01
+version_adopted: 2025-12-09
 adopted: 1999-07-06
 in_force: 1999-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.226"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2979/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2980/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ MKV
 
 (MKV)
 
-vom 06.07.1999 (Stand 01.02.2023)
+vom 06.07.1999 (Stand 01.08.2028)
 
 ## 1. Unterricht
 
@@ -37,52 +36,69 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 **Maturitätsfächer und obligatorische Fächer**
 
-<sup>1</sup> Die Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturaarbeit bilden die Maturitätsfächer.
+<sup>1</sup> Die Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturitätsarbeit bilden die Maturitätsfächer.
 
 <sup>2</sup> Grundlagenfächer sind:
 
 - 1\. Deutsch
-- 2\. Französisch
+- 2\. Französisch oder Italienisch
 - 3\. Englisch
 - 4\. Mathematik
+- 4a. Informatik
 - 5\. Biologie
 - 6\. Chemie
 - 7\. Physik
 - 8\. Geschichte
 - 9\. Geographie
-- 10\. Bildnerisches Gestalten und Musik
+- 9a. Wirtschaft und Recht
+- 10\. bildende Kunst und Musik
 
-<sup>3</sup> Mögliche Schwerpunktfächer sind:
+<sup>3</sup> Mögliche Fächer für das Schwerpunktfach sind:
 
 - 1\. Latein
 - 2\. Italienisch
 - 3\. Spanisch
-- 4\. Physik und Anwendungen der Mathematik
-- 5\. Biologie und Chemie
+- 3a. Französisch
+- 3b. Deutsch
+- 4\. Physik
+- 4a. Mathematik
+- 4b. Informatik
+- 5\. Biologie
+- 5a. Chemie
 - 6\. Wirtschaft und Recht
-- 7\. Bildnerisches Gestalten
+- 7\. bildende Kunst
 - 8\. Russisch
+- 9\. Geographie
+- 10\. Geschichte
 
-<sup>4</sup> Mögliche Ergänzungsfächer sind:
+<sup>3<sup>bis</sup></sup> Das Schwerpunktfach kann interdisziplinär aus den Fächern gemäss Abs. 3 zusammengesetzt sein und entsprechend bezeichnet werden. Deutsch kann als Schwerpunktfach ausschliesslich interdisziplinär angeboten werden.
+
+<sup>4</sup> Mögliche Fächer für das Ergänzungsfach sind:
 
 - 1\. Physik
 - 2\. Chemie
 - 3\. Biologie
-- 4\. Anwendungen der Mathematik
+- 4\. Mathematik
 - 4a. Informatik
 - 5\. Geschichte
 - 6\. Geographie
 - 7\. Wirtschaft und Recht
 - 8\. Philosophie
 - 9\. Pädagogik/Psychologie
-- 10\. Bildnerisches Gestalten
+- 10\. bildende Kunst
 - 11\. Musik
 - 12\. Sport
+- 13\. Deutsch
+- 14\. Englisch
+- 15\. Französisch
+- 16\. Italienisch
+- 17\. Spanisch
 
-<sup>5</sup> Alle Schülerinnen und Schüler belegen als weitere obligatorische Fächer:
+<sup>4<sup>bis</sup></sup> Das Ergänzungsfach kann interdisziplinär aus den Fächern gemäss Abs. 4 zusammengesetzt sein und entsprechend bezeichnet werden.
 
-- 1\. Wirtschaft und Recht
-- 2\. Informatik
+<sup>5</sup> Alle Schülerinnen und Schüler belegen Sport als obligatorisches Fach.
+
+<sup>6</sup> Die Kantonsschulen können weitere obligatorische Fächer bestimmen.
 
 ## 2. Promotion
 
@@ -95,7 +111,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 <sup>2</sup> Als Promotionsfächer gelten:
 
 - 1\. Deutsch
-- 2\. Französisch
+- 2\. Französisch oder Italienisch
 - 3\. Englisch
 - 4\. Mathematik
 - 4a. Informatik
@@ -105,10 +121,11 @@ vom 06.07.1999 (Stand 01.02.2023)
 - 8\. Geschichte
 - 9\. Geographie
 - 10\. Wirtschaft und Recht
-- 11\. Bildnerisches Gestalten
+- 11\. bildende Kunst
 - 12\. Musik
 - 13\. Schwerpunktfach
 - 14\. Ergänzungsfach
+- 15\. obligatorische Fächer nach § 2 Abs. 6
 
 <sup>3</sup> Freifächer zählen nicht für die Promotion.
 
@@ -129,13 +146,13 @@ vom 06.07.1999 (Stand 01.02.2023)
 - 1\. Für die ersten drei Semester gilt Abs. 2.
 - 2\. Am Ende des vierten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das nächste Schuljahr befördert werden kann.
 - 3\. Am Ende des fünften Semesters erfolgt kein Promotionsentscheid.
-- 4\. Am Ende des sechsten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das Maturajahr befördert werden kann.
+- 4\. Am Ende des sechsten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das Maturitätsjahr befördert werden kann.
 - 5\. Im siebten und achten Semester erfolgen keine Promotionsentscheide.
 
 <sup>4</sup> Für Kantonsschulen mit Jahrespromotion für die vierte Klasse gilt:
 
 - 1\. Für die ersten fünf Semester gilt Abs. 2.
-- 2\. Am Ende des sechsten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das Maturajahr befördert werden kann.
+- 2\. Am Ende des sechsten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das Maturitätsjahr befördert werden kann.
 - 3\. Im siebten und achten Semester erfolgen keine Promotionsentscheide.
 
 #### § 3b
@@ -144,9 +161,9 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 <sup>1</sup> Bei der Semesterpromotion wird am Ende des Semesters ein Zeugnis über die Leistungen während des Semesters ausgestellt.
 
-<sup>2</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 2 erhalten die Schülerinnen und Schüler am Ende des vierten, sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahres beurteilt werden, und am Ende des fünften und siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
+<sup>2</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 2 erhalten die Schülerinnen und Schüler am Ende des vierten, sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahrs beurteilt werden, und am Ende des fünften und siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
 
-<sup>3</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 3 erhalten die Schülerinnen und Schüler am Ende des sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahres beurteilt werden, und am Ende des siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
+<sup>3</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 3 erhalten die Schülerinnen und Schüler am Ende des sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahrs beurteilt werden, und am Ende des siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
 
 #### § 4
 
@@ -176,7 +193,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 **Provisorische Promotion und Nichtpromotion**
 
-<sup>1</sup> Für die Semesterpromotion gilt: Wer bei der Promotion die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch befördert, sofern die Schülerin oder der Schüler bei der vorhergehenden Promotion definitiv befördert wurde und an der Kantonsschule nicht mehr als einmal provisorisch befördert worden ist.
+<sup>1</sup> Für die Semesterpromotion gilt: Wer bei der Promotion die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch befördert, sofern sie oder er bei der vorhergehenden Promotion definitiv befördert wurde und an einer Mittelschule nicht mehr als einmal provisorisch befördert worden ist.
 
 <sup>1<sup>bis</sup></sup> Eine Schülerin oder ein Schüler der 1. Klasse wird am Ende des ersten Semesters von der Schule gewiesen, wenn in den für die Promotion massgebenden Fächern mehr als vier Noten unter 4 vorliegen. Eine Repetition ist nicht möglich.
 
@@ -195,7 +212,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 **Repetition**
 
-<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zwei zuletzt besuchten Semester wiederholen. An der Kantonsschule kann nur einmal repetiert werden.
+<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zwei zuletzt besuchten Semester wiederholen. An einer Mittelschule kann nur einmal repetiert werden.
 
 #### § 8
 
@@ -215,7 +232,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 **Organisation**
 
-<sup>1</sup> Die Prüfung steht unter der Leitung der Schulleitung und wird in der Regel von Lehrpersonen abgenommen, welche die Schülerinnen und Schüler in den Prüfungsfächern unterrichtet haben.
+<sup>1</sup> Die Prüfung steht unter der Leitung der Schulleitung und wird in der Regel von Lehrpersonen abgenommen, die die Schülerinnen und Schüler in den Prüfungsfächern unterrichtet haben.
 
 <sup>2</sup> Das Amt für Mittel- und Hochschulen ernennt auf Vorschlag der Schulleitung die Expertinnen und Experten. Diese überwachen die mündlichen Prüfungen und wirken bei der Notengebung mit.
 
@@ -223,7 +240,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 **Prüfungskommission**
 
-<sup>1</sup> Die Prüfungskommission besteht aus den Hauptlehrpersonen, den übrigen an den Prüfungen beteiligten Lehrpersonen sowie den Expertinnen und Experten.
+<sup>1</sup> Die Prüfungskommission besteht aus den Hauptlehrpersonen, den übrigen an den Maturitätsfächern beteiligten Lehrpersonen sowie den Expertinnen und Experten.
 
 <sup>2</sup> Den Vorsitz führt die Rektorin oder der Rektor.
 
@@ -240,18 +257,18 @@ vom 06.07.1999 (Stand 01.02.2023)
 <sup>1</sup> Prüfungsfächer sind:
 
 - 1\. Deutsch: — schriftlich und mündlich
-- 2\. Französisch: — schriftlich und mündlich
+- 2\. Französisch oder Italienisch: — schriftlich und mündlich
 - 3\. Englisch: — schriftlich und mündlich
 - 4\. Mathematik: — schriftlich und mündlich
-- 5\. Schwerpunktfach oder -fächergruppe: — schriftlich und mündlich
+- 5\. Schwerpunktfach: — schriftlich und mündlich
 
 #### § 14
 
 **Prüfungsdauer**
 
-<sup>1</sup> Die schriftlichen Prüfungen dauern in jedem Fach und in jeder Fächergruppe mindestens zwei, höchstens aber vier Stunden. Die Schulleitung entscheidet nach Anhören der Fachlehrperson über Art und Dauer in den einzelnen Fächern oder Fächergruppen.
+<sup>1</sup> Die schriftlichen Prüfungen dauern in jedem Fach mindestens zwei, höchstens aber vier Stunden. Die Schulleitung entscheidet nach Anhören der Fachlehrperson über Art und Dauer in den einzelnen Fächern.
 
-<sup>2</sup> Die mündlichen Prüfungen dauern pro Schülerin oder Schüler und Fach oder Fächergruppe je eine Viertelstunde.
+<sup>2</sup> Die mündlichen Prüfungen dauern pro Schülerin oder Schüler und Fach je eine Viertelstunde.
 
 #### § 15
 
@@ -271,7 +288,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 <sup>1</sup> Bei der Semesterpromotion ist die Erfahrungsnote der Durchschnitt der beiden letzten Zeugnisnoten. Bei der Jahrespromotion ist die Erfahrungsnote die letzte Zeugnisnote.
 
-<sup>2</sup> Für die Erfahrungsnote in der Fächergruppe Bildnerisches Gestalten und Musik werden die beiden Fächer gleichgewichtig berücksichtigt.
+<sup>2</sup> Für die Erfahrungsnote in der Fächergruppe bildende Kunst und Musik werden die beiden Fächer gleichgewichtig berücksichtigt.
 
 <sup>3</sup> Fehlen in einem Fach oder einer Fächergruppe die Grundlagen für die Erfahrungsnote, sind diese durch eine Prüfung zu ermitteln.
 
@@ -283,7 +300,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 <sup>2</sup> Zwischenrundungen bei Erfahrungs- und Prüfungsnoten sind ausgeschlossen.
 
-<sup>3</sup> Die Maturitätsnote der Maturaarbeit wird aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und der mündlichen Präsentation festgelegt.
+<sup>3</sup> Die Maturitätsnote der Maturitätsarbeit wird aufgrund der schriftlichen Arbeit und der mündlichen Präsentation festgelegt. Die Kantonsschulen bestimmen die Gewichtung der einzelnen Teile.
 
 #### § 19
 
@@ -302,7 +319,7 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 <sup>1</sup> Wer die Prüfung nicht bestanden hat, kann das letzte Schuljahr und anschliessend die Prüfung einmal wiederholen. § 7 ist nicht anwendbar.
 
-<sup>2</sup> Die Maturaarbeit kann freiwillig mit einem neuen Thema wiederholt werden. Es zählt in diesem Fall die Note der zweiten Arbeit.
+<sup>2</sup> Die Maturitätsarbeit kann freiwillig mit einem neuen Thema wiederholt werden. Es zählt in diesem Fall die Note der zweiten Arbeit.
 
 <sup>3</sup> Für die Ermittlung der Erfahrungsnoten sind die Zeugnisse aus den nicht wiederholten Semestern und aus dem Wiederholungsjahr massgebend.
 
@@ -316,33 +333,22 @@ vom 06.07.1999 (Stand 01.02.2023)
 
 **Maturitätszeugnis**
 
-<sup>1</sup> Form und Inhalt des Maturitätszeugnisses richten sich nach Art. 20 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar 1995 (MAR) in der Fassung vom 21. Juni 2018[^22-1].
+<sup>1</sup> Form und Inhalt des Maturitätszeugnisses richten sich nach Art. 27 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 22. Juni 2023 (MAR)[^22-1].
 
 <sup>2</sup> Zusätzlich werden die Noten für folgende Fächer eingetragen:
 
-- 1\. Wirtschaft und Recht
-- 2\. Informatik
+- 1\.–2. …
 - 3\. Sport
 
 <sup>3</sup> …
 
 <sup>4</sup> Der Konvent kann weitere Fächer bestimmen, bei denen Noten eingetragen werden.
 
-[^22-1]: Rechtssammlung EDK Nr. 4.2.1.1; [https://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf](https://edudoc.ch/record/38112/files/VO_MAR_d.pdf).
+[^22-1]: [https://edudoc.ch/record/234273/files/Anerkennungsreglement\_gymnasiale-Maturitaet\_2023\_d.pdf](https://edudoc.ch/record/234273/files/Anerkennungsreglement_gymnasiale-Maturitaet_2023_d.pdf) (Rechtssammlung EDK Nr. 4.2.1.1)
 
 ## 4. Übergangs- und Schlussbestimmungen
 
-#### § 23
-
-**Übergangsbestimmungen**
-
-<sup>1</sup> Die Änderungen von § 1, § 2 Abs. 3, Abs. 4 und Abs. 5, § 3, § 5, § 6 und § 22 Abs. 2 und Abs. 4 sowie des Anhangs gelten für alle ab Schuljahr 2020/2021 ins erste Semester eintretenden Schülerinnen und Schüler.
-
-<sup>1<sup>bis</sup></sup> Die Jahrespromotion kann für Schülerinnen und Schüler, die ab Schuljahr 2020/2021 ins erste Semester eingetreten sind, eingeführt werden. Schülerinnen und Schüler, die früher eingetreten sind, werden durchgehend semesterweise promoviert. Repetitionen bleiben vorbehalten.
-
-<sup>2–3</sup> …
-
-#### § 24–25
+#### § 23–25
 
 **…**
 
