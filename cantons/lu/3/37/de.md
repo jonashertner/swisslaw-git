@@ -3,20 +3,19 @@ canton: LU
 number: "37"
 title: Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-12-09
+version: 2027-01-01
+version_adopted: 2026-09-15
 adopted: 2003-05-06
 in_force: 2003-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/37"
-pdf: "https://srl.lu.ch/api/de/versions/4723/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen
 
-vom 06.05.2003 (Stand 01.01.2026)
+vom 06.05.2003 (Stand 01.01.2027)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -170,7 +169,7 @@ beschliesst:
 - f. Herausgabe der amtlichen Publikationen,
 - g. Organisation der offiziellen Anlässe des Regierungsrates und des Kantonsrates (Protokolldienst),
 - h. Rechtskraftbescheinigungen,
-- i. zentrale Dienste (Postdienst, Telefonzentrale).
+- i. Telefonzentrale der kantonalen Verwaltung.
 
 [^7-1]: Gemäss Änderung vom 28. April 2008, in Kraft seit dem 1. August 2008 (G 2008 256), wurde die Bezeichnung «Grosser Rat» durch «Kantonsrat» ersetzt.
 
