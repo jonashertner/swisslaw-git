@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. Juni 1967 über die Eidgenössische Finanzkontrolle
 short: FKG
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547"
 language: de
-version: 2023-09-01
+version: 2027-01-01
 adopted: 1967-06-28
 in_force: 1968-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20230901/de"
 
 (Finanzkontrollgesetz, FKG)[^t-1]
 
-Vom 28. Juni 1967 (Stand am 1. September 2023)
+Vom 28. Juni 1967 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994, in Kraft seit 1. März 1995 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 
@@ -189,6 +189,34 @@ Unter Vorbehalt der Sonderregelungen nach Artikel 19 sowie der spezialgesetzlich
 [^10-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994, in Kraft seit 1. März 1995 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 [^10-2]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 ([AS 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [BBl 1994 II 721](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). Fassung gemäss Anhang 1 Ziff. II 47 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
+#### Art. 10a
+
+**Meldungen und Datenbearbeitung**[^10a-1]
+
+<sup>1</sup> Die Eidgenössische Finanzkontrolle nimmt Meldungen zu Missständen in ihrem Aufgaben- und Aufsichtsbereich nach Artikel 6 beziehungsweise 8 sowie Meldungen und Anzeigen entgegen, welche im Rahmen einer Melde- beziehungsweise Anzeigepflicht erfolgen.
+
+<sup>2</sup> Sie betreibt eine Meldestelle.
+
+<sup>3</sup> Sie klärt den Sachverhalt ab und trifft die erforderlichen Massnahmen.
+
+<sup>4</sup> Sie darf für die Abklärung des Sachverhalts und das Umsetzen der erforderlichen Massnahmen Daten aus öffentlich zugänglichen Quellen erheben und besonders schützenswerte Daten juristischer Personen und besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c Ziffern 1, 2, 5 und 6 des Datenschutzgesetzes vom 25. September 2020[^10a-2] bearbeiten.
+
+<sup>5</sup> Sie darf zur Abklärung des Sachverhalts die besonders schützenswerten Daten nach Absatz 4 und besonders schützenswerte Daten juristischer Personen den zuständigen Behörden des Bundes und der Kantone bekanntgeben und mit diesen Informationen austauschen. Personendaten, welche die meldende Person betreffen, dürfen nur bekanntgegeben werden, wenn die meldende Person zustimmt.
+
+<sup>6</sup> Die Eidgenössische Finanzkontrolle darf die Daten bis fünf Jahre nach Abklärung des Sachverhalts aufbewahren.
+
+<sup>7</sup>
+
+Der Bundesrat regelt in den Ausführungsbestimmungen:
+
+- a. die Verantwortlichkeit für die Bearbeitungstätigkeit;
+- b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Archivierung und Vernichtung;
+- c. die Datenkategorien nach Absatz 4;
+- d. den Schutz und die Sicherheit der Daten.
+
+[^10a-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
 #### Art. 11
 
 **Stellen für interne Revision der zentralen Bundesverwaltung**[^11-1]
@@ -350,9 +378,11 @@ Der Finanzaufsicht durch die Eidgenössische Finanzkontrolle unterstehen nicht:
 
 #### Art. 21
 
-**Ausführungsvorschriften**
+**Ausführungsvorschriften**[^21-1]
 
-Ausführungsbestimmungen werden durch einen allgemein verbindlichen Bundesbeschluss erlassen, welcher dem Referendum nicht untersteht.
+Ausführungsbestimmungen werden durch eine Verordnung der Bundesversammlung erlassen. Vorbehalten bleibt Artikel 10*a* Absatz 7.
+
+[^21-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 22
 

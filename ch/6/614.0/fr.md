@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 juin 1967 sur le Contrôle fédéral des finances (
 short: LCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547"
 language: fr
-version: 2023-09-01
+version: 2027-01-01
 adopted: 1967-06-28
 in_force: 1968-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1505_1553_1547-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1967/1505_1553_1547/20230901/fr"
 
 (Loi sur le Contrôle des finances, LCF)[^t-2][^t-1]
 
-du 28 juin 1967 (État le 1<sup>er</sup> septembre 2023)
+du 28 juin 1967 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
@@ -192,6 +192,34 @@ Sont soumis à la surveillance financière du Contrôle fédéral des finances, 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)).
 [^10-2]: Introduit par le ch. I de la LF du 7 oct. 1994, en vigueur depuis le 1<sup>er</sup> mars 1995 ([RO 1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836); [FF 1994 II 709](https://fedlex.data.admin.ch/eli/fga/1994/2_721_709_645)). La mod. selon l’annexe 1 ch. II 47 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que les textes allemand et italien ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
+#### Art. 10a
+
+**Signalements et traitement des données**[^10a-1]
+
+<sup>1</sup> Le Contrôle fédéral des finances reçoit les signalements de faits répréhensibles relevant de son domaine de tâches visé à l’art. 6 ou de son champ de contrôle visé à l’art. 8, ainsi que les signalements et les dénonciations effectués conformément à une obligation de signaler ou de dénoncer.
+
+<sup>2</sup> Il exploite une centrale d’enregistrement des signalements et dénonciations.
+
+<sup>3</sup> Il établit les faits et prend les mesures nécessaires.
+
+<sup>4</sup> Il peut, afin d’établir les faits et de mettre en œuvre les mesures nécessaires, collecter des données provenant de sources accessibles au public et traiter les données sensibles concernant des personnes morales et les données sensibles visées à l’art. 5, let. c, ch. 1, 2, 5 et 6, de la loi fédérale du 25 septembre 2020 sur la protection des données[^10a-2].
+
+<sup>5</sup> Il peut communiquer aux autorités compétentes de la Confédération et des cantons les données sensibles visées à l’al. 4 et les données sensibles concernant des personnes morales qui sont nécessaires à l’établissement des faits, et échanger des informations avec ces autorités. Les données personnelles concernant l’auteur du signalement ne peuvent être communiquées que si ce dernier y consent.
+
+<sup>6</sup> Le Contrôle fédéral des finances peut conserver les données cinq ans au plus après que les faits ont été établis.
+
+<sup>7</sup>
+
+Le Conseil fédéral règle dans les dispositions d’exécution:
+
+- a. la responsabilité en ce qui concerne le traitement des données;
+- b. le traitement des données, notamment leur collecte, leur conservation, leur archivage et leur destruction;
+- c. les catégories de données visées à l’al. 4;
+- d. la protection et la sécurité des données.
+
+[^10a-1]: Introduit par l’annexe ch. 8 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
 #### Art. 11
 
 **Services de révision interne de l’administration fédérale centrale**[^11-1]
@@ -355,9 +383,11 @@ Ne sont pas soumises à la surveillance du Contrôle fédéral des finances:
 
 #### Art. 21
 
-**Prescriptions d’exécution**
+**Disposition d’exécution**[^21-1]
 
-Toutes prescriptions assurant l’exécution de la présente loi feront l’objet d’un arrêté fédéral de portée générale, non soumis au référendum.
+Les dispositions d’exécution sont édictées par une ordonnance de l’Assemblée fédérale. L’art. 10*a*, al. 7, est réservé.
+
+[^21-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 22
 
