@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderungen im Bereich des Bundesamts für Energie (BFE) mit In-krafttreten am 1. Juli 2027
 document: Vernehmlassungsvorlage-4
 language: de

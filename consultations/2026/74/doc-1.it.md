@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche di ordinanze nell’ambito di competenza dell’Ufficio federale dell’energia (UFE) con entrata in vigore il 1° luglio 2027
 document: Progetto posto in consultazione-2
 language: it
