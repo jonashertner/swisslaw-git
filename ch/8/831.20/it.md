@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 1959 sull’assicurazione per l’invalidit�
 short: LAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20260101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20260101/it"
 
 (LAI)[^t-1]
 
-del 19 giugno 1959 (Stato 1° gennaio 2026)
+del 19 giugno 1959 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
@@ -95,15 +95,15 @@ Sono tenuti a pagare i contributi gli assicurati e i datori di lavoro indicati n
 
 <sup>1</sup> La LAVS[^3-2] è applicabile, per analogia, al calcolo dei contributi dell’assicurazione per l’invalidità. Il contributo sul reddito di un’attività lucrativa è dell’1,4 per cento. I contributi delle persone assicurate obbligatoriamente, calcolati secondo la tavola scalare, sono graduati nello stesso modo dei contributi dell’assicurazione vecchiaia e superstiti. In tale ambito, è mantenuto il rapporto tra la percentuale summenzionata e il tasso non ridotto di contribuzione secondo l’articolo 8 capoverso 1 della LAVS. L’articolo 9<sup>bis</sup> della LAVS è applicabile per analogia.[^3-3]
 
-<sup>1bis</sup> Le persone senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 70 franchi[^3-4] all’anno se sono assicurate obbligatoriamente e di 140 franchi[^3-5] all’anno se sono assicurate facoltativamente in virtù dell’articolo 2 LAVS. Il contributo massimo corrisponde a 50 volte il contributo minimo dell’assicurazione obbligatoria.[^3-6]
+<sup>1bis</sup> Le persone senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 71 franchi[^3-4] all’anno se sono assicurate obbligatoriamente e di 142 franchi[^3-5] all’anno se sono assicurate facoltativamente in virtù dell’articolo 2 LAVS. Il contributo massimo corrisponde a 50 volte il contributo minimo dell’assicurazione obbligatoria.[^3-6]
 
 <sup>2</sup> I contributi sono riscossi come supplemento ai contributi dell’AVS. Gli articoli 11 e 14–16 LAVS[^3-7] sono applicabili per analogia con le rispettive deroghe alla LPGA[^3-8].[^3-9]
 
 [^3-1]: Nuovo testo giusta la cifra I della LF del 5 ott. 1967, in vigore dal 1° gen. 1968 ([RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29)42; [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)).
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-3]: Nuovo testo giusta l’all. n. 1 della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^3-4]: Importo giusta l’art. 6 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^3-5]: Importo giusta l’art. 6 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^3-4]: Importo giusta l’art. 6 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^3-5]: Importo giusta l’art. 6 dell’O del 2 ott. 2026 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^3-6]: Introdotto dall’all. n. 1 della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta l’all. n. 2 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^3-7]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-8]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
@@ -594,6 +594,43 @@ I provvedimenti sanitari di cui al capoverso 1 sono concessi per la cura di malf
 [^13-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^13-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
+#### Art. 13a
+
+**Provvedimenti sanitari eseguiti nel quadro di interventi precoci intensivi in caso di disturbi dello spettro autistico**[^13a-1]
+
+<sup>1</sup>
+
+L’assicurazione prende a carico i provvedimenti sanitari di cui all’articolo 13 eseguiti nel quadro di un intervento precoce intensivo per i bambini affetti da disturbi dello spettro autistico, se sono adempiute le seguenti condizioni:
+
+- a. l’intervento precoce intensivo è oggetto di una pianificazione da parte del Cantone nel quale è organizzato;
+- b. l’intervento precoce intensivo consiste in provvedimenti sanitari coordinati con provvedimenti pedagogici previsti dal diritto cantonale ed eseguiti insieme ad essi;
+- c. il metodo d’intervento precoce intensivo è scientificamente riconosciuto;
+- d.
+
+  tra l’Ufficio federale delle assicurazioni sociali (UFAS) e l’organo cantonale competente è stata conclusa una convenzione che disciplina:
+
+  - 1\. la collaborazione tra l’UFAS e l’organo cantonale competente,
+  - 2\. gli obiettivi dei provvedimenti sanitari,
+  - 3\. le condizioni che questi provvedimenti devono soddisfare,
+  - 4\. gli standard qualitativi dell’intervento precoce intensivo,
+  - 5\. le modalità della partecipazione finanziaria dell’assicurazione,
+  - 6\. il controllo e la valutazione.
+
+<sup>2</sup> I provvedimenti sanitari sono presi a carico mediante importi forfettari per singolo caso. Sono versati al Cantone nel quale è organizzato l’intervento precoce intensivo. L’assicurazione assume al massimo il 30 per cento delle spese medie stimate per l’intervento.
+
+<sup>3</sup>
+
+Il Consiglio federale disciplina:
+
+- a. il calcolo degli importi forfettari;
+- b. gli elementi essenziali dell’intervento precoce intensivo, quali la durata e l’intensità dei provvedimenti sanitari;
+- c. le condizioni che i fornitori di provvedimenti sanitari devono adempiere, comprese quelle relative alla formazione del personale;
+- d. le condizioni di partecipazione all’intervento precoce intensivo relative alla salute degli assicurati e alla loro età;
+- e. i criteri di valutazione dell’efficacia dell’intervento precoce intensivo;
+- f. le modalità della vigilanza.
+
+[^13a-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Intervento precoce intensivo in caso di disturbi dello spettro autistico), in vigore dal 1° gen. 2027 ([RU 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [FF 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
+
 #### Art. 14
 
 **Entità dei provvedimenti sanitari e condizioni per l’assunzione delle prestazioni**[^14-1]
@@ -668,12 +705,13 @@ Può disciplinare il rimborso delle spese per medicamenti:
 - b. omologati in Svizzera ma non inclusi nell’elenco delle specialità o nell’elenco di cui al capoverso 5; o
 - c. non omologati in Svizzera.
 
-<sup>4</sup> Può delegare al Dipartimento federale dell’interno (DFI) o all’Ufficio federale delle assicurazioni sociali (UFAS) i compiti di cui ai capoversi 1–3.
+<sup>4</sup> Può delegare al Dipartimento federale dell’interno (DFI) o all’UFAS i compiti di cui ai capoversi 1–3.[^14ter-2]
 
-<sup>5</sup> L’Ufficio federale competente tiene un elenco dei medicamenti per la cura delle infermità congenite secondo l’articolo 13, inclusi i prezzi massimi, sempreché tali medicamenti non figurino già nell’elenco delle specialità di cui all’articolo 52 capoverso 1 lettera b LAMal[^14ter-2].
+<sup>5</sup> L’Ufficio federale competente tiene un elenco dei medicamenti per la cura delle infermità congenite secondo l’articolo 13, inclusi i prezzi massimi, sempreché tali medicamenti non figurino già nell’elenco delle specialità di cui all’articolo 52 capoverso 1 lettera b LAMal[^14ter-3].
 
 [^14ter-1]: Introdotto dalla cifra I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^14ter-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^14ter-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Intervento precoce intensivo in caso di disturbi dello spettro autistico), in vigore dal 1° gen. 2027 ([RU 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [FF 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
+[^14ter-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### II<sup>bis</sup>. Consulenza e accompagnamento
 
@@ -1048,7 +1086,7 @@ La prestazione per i figli ammonta per ogni figlio al 2 per cento dell’importo
 
 [^23bis-1]: Introdotto dalla cifra II della LF del 18 dic. 1998 ([RU 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); FF **1998** 2695). Nuovo testo giusta la cifra I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-#### Art. 23<sup>ter</sup> a 23<sup>sexies</sup>
+#### Art. 23<sup>ter</sup>–23<sup>sexies</sup>
 
 [^23ter23sexies-1]
 
@@ -1177,7 +1215,7 @@ Sulle indennità giornaliere sono pagati contributi:
 
 <sup>2</sup> Il Consiglio federale, consultati i Cantoni e le organizzazioni interessate, emana le prescrizioni sul riconoscimento degli agenti esecutori indicati nel capoverso 1.
 
-[^26bis-1]: Introdotto dalla cifra I della LF del 5 ott. 1967, in vigore dal 1° gen. 1968 ( [RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)).
+[^26bis-1]: Introdotto dalla cifra I della LF del 5 ott. 1967, in vigore dal 1° gen. 1968 ([RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)).
 [^26bis-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 27
@@ -2272,10 +2310,13 @@ L’assicurazione rimborsa le seguenti spese:
 
 <sup>1bis</sup> Il Consiglio federale può prevedere che l’assicurazione rimborsi le spese per la tenuta dell’elenco dei medicamenti di cui all’articolo 14<sup>ter</sup> capoverso 5.[^67-2]
 
+<sup>1ter</sup> Può prevedere che l’assicurazione rimborsi integralmente o parzialmente alla Confederazione le spese sostenute dall’Ufficio federale di statistica (UST) per l’allestimento di statistiche sulla base dei dati di cui all’articolo 68<sup>novies</sup>.[^67-3]
+
 <sup>2</sup> Il DFI determina le spese computabili dell’UFAS.
 
 [^67-1]: Nuovo testo giusta la cifra I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^67-2]: Introdotto dalla cifra I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^67-3]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Intervento precoce intensivo in caso di disturbi dello spettro autistico), in vigore dal 1° gen. 2027 ([RU 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [FF 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
 
 #### Art. 68
 
@@ -2434,6 +2475,55 @@ A partire dalla 91<sup>a</sup> indennità giornaliera l’assicurazione per l’
 
 [^68octies-1]: Introdotto dalla cifra I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
+#### Art. 68<sup>novies</sup>
+
+**Raccolta e trasmissione di dati in relazione all’intervento precoce intensivo in caso di disturbi dello spettro autistico**[^68novies-1]
+
+<sup>1</sup>
+
+Le istituzioni che svolgono interventi precoci intensivi (art. 13*a*) raccolgono dati relativi agli assicurati a fini di:
+
+- a. controllo e valutazione dell’efficacia degli interventi da parte della Confederazione e dei Cantoni, conformemente all’articolo 13*a* capoverso 1 lettera d numero 6;
+- b. vigilanza, come prevista dal Consiglio federale secondo l’articolo 13*a* capoverso 3 lettera f.
+
+<sup>2</sup>
+
+Raccolgono i seguenti dati:
+
+- a. il numero AVS;
+- b. la data di nascita;
+- c. il sesso;
+- d. il Cantone di domicilio;
+- e. la data della diagnosi di disturbo dello spettro autistico;
+- f. le date dell’inizio e della fine della partecipazione all’intervento precoce intensivo;
+- g. i dati che consentono di seguire lo sviluppo del bambino in relazione con l’intervento precoce intensivo, quali i risultati di test;
+- h. i dati relativi ai provvedimenti che esse adottano per consolidare i risultati raggiunti prima dell’inizio della scuola o per agevolare la transizione in un altro ambiente o l’integrazione nella scuola.
+
+<sup>3</sup> Trasmettono i dati di cui al capoverso 2 all’organo cantonale competente.
+
+<sup>4</sup> Trasmettono i dati di cui al capoverso 2 lettere a–f e h all’ufficio AI competente, a fini di controllo, prima dell’inizio dell’intervento precoce intensivo e al più tardi al momento in cui questo termina o è interrotto.
+
+<sup>5</sup>
+
+L’organo cantonale competente trasmette:
+
+- a. all’UST i dati di cui al capoverso 2 lettere a, e, g e h a fini statistici;
+- b. all’UFAS i dati di cui al capoverso 2 lettere b, d, e, f e h a fini di controllo e di vigilanza.
+
+<sup>6</sup> Il Consiglio federale può prevedere che le istituzioni di cui al capoverso 1 raccolgano e trasmettano dati supplementari in relazione con l’intervento precoce intensivo.
+
+<sup>7</sup>
+
+Disciplina le modalità:
+
+- a. dell’informazione dell’assicurato;
+- b. dell’esercizio del diritto di opposizione dell’assicurato alla registrazione non anonimizzata dei dati a fini statistici;
+- c. dell’anonimizzazione e della distruzione dei dati.
+
+<sup>8</sup> Può delegare al DFI o all’UFAS i compiti di cui ai capoversi 6 e 7.
+
+[^68novies-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Intervento precoce intensivo in caso di disturbi dello spettro autistico), in vigore dal 1° gen. 2027 ([RU 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [FF 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
+
 ### Capitolo 5: Il contenzioso e le disposizioni penali
 
 #### Art. 69
@@ -2578,7 +2668,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 
 <sup>2</sup> Ogni anno il valore iniziale è adeguato al tasso di variazione degli introiti dell’imposta sul valore aggiunto; al tasso di variazione è applicato un fattore di sconto. Il valore degli introiti dell’imposta è rettificato in funzione di eventuali modifiche dell’aliquota d’imposta e della base di calcolo.
 
-<sup>3</sup> Il fattore di sconto corrisponde all’andamento del quoziente tra l’indice ai sensi dell’articolo 33<sup>ter</sup> capoverso 2 LAVS[^78-3], da calcolare ogni anno, e l’indice dei salari calcolato dall’Ufficio federale di statistica a partire dal 2011.
+<sup>3</sup> Il fattore di sconto corrisponde all’andamento del quoziente tra l’indice ai sensi dell’articolo 33<sup>ter</sup> capoverso 2 LAVS[^78-3], da calcolare ogni anno, e l’indice dei salari calcolato dall’UST a partire dal 2011.[^78-4]
 
 <sup>4</sup> Il contributo della Confederazione è calcolato secondo i capoversi 2 e 3; da questo importo sono dedotti i contributi all’assegno per grandi invalidi e alle rendite straordinarie secondo l’articolo 77 capoverso 2.
 
@@ -2589,6 +2679,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 [^78-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2014 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Il cpv. 4 è entrato in vigore il 1° gen. 2012.
 [^78-2]: Nuovo testo giusta la cifra I n. 12 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 [^78-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^78-4]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Intervento precoce intensivo in caso di disturbi dello spettro autistico), in vigore dal 1° gen. 2027 ([RU 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [FF 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
 
 #### Art. 78<sup>bis</sup>
 
@@ -2998,6 +3089,14 @@ c. Non adeguamento delle rendite correnti per i beneficiari che hanno 55 anni co
 Ai beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica hanno 55 anni compiuti continua ad applicarsi il diritto anteriore.
 
 [^u12-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+
+## Disposizione transitoria della modifica del 21 marzo 2025
+
+[^u13-1]
+
+[^u13-1]: [RU 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [FF 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)
+
+Per gli assicurati che hanno partecipato al progetto pilota «Intervento precoce intensivo per i bambini affetti da autismo infantile» e per i quali l’intervento prosegue presso lo stesso fornitore di prestazioni dopo la fine del progetto pilota, il finanziamento dei provvedimenti sanitari eseguiti nel quadro dell’intervento resta retto dal diritto che si applicava al progetto pilota.
 
 Allegato[^t-2]
 

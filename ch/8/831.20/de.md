@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG)
 short: IVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20260101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20260101/de"
 
 (IVG)[^t-1]
 
-vom 19. Juni 1959 (Stand am 1. Januar 2026)
+vom 19. Juni 1959 (Stand am 1. Januar 2027)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. II 1 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -96,15 +96,15 @@ Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^2-2] genannten Versich
 
 <sup>1</sup> Für die Beitragsbemessung gilt sinngemäss das AHVG[^3-2]. Die Beiträge vom Einkommen aus einer Erwerbstätigkeit betragen 1,4 Prozent. Die Beiträge der obligatorisch versicherten Personen, die in Anwendung der sinkenden Beitragsskala berechnet werden, werden in gleicher Weise abgestuft wie die Beiträge der Alters- und Hinterlassenenversicherung. Dabei wird das Verhältnis gewahrt zwischen dem vorstehend erwähnten Prozentsatz und dem unverminderten Beitragssatz nach Artikel 8 Absatz 1 AHVG. Dessen Artikel 9<sup>bis</sup> gilt sinngemäss.[^3-3]
 
-<sup>1bis</sup> Die Nichterwerbstätigen entrichten einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt pro Jahr 70 Franken[^3-4], wenn sie obligatorisch, und 140 Franken[^3-5], wenn sie freiwillig nach Artikel 2 AHVG versichert sind. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag der obligatorischen Versicherung.[^3-6]
+<sup>1bis</sup> Die Nichterwerbstätigen entrichten einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt pro Jahr 71 Franken[^3-4], wenn sie obligatorisch, und 142 Franken[^3-5], wenn sie freiwillig nach Artikel 2 AHVG versichert sind. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag der obligatorischen Versicherung.[^3-6]
 
 <sup>2</sup> Die Beiträge werden als Zuschläge zu den Beiträgen der Alters- und Hinterlassenenversicherung erhoben. Die Artikel 11 und 14–16 AHVG[^3-7] sind sinngemäss anwendbar mit ihren jeweiligen Abweichungen vom ATSG[^3-8].[^3-9]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
 [^3-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^3-4]: Beitrag gemäss Art. 6 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^3-5]: Beitrag gemäss Art. 6 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
+[^3-4]: Beitrag gemäss Art. 6 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
+[^3-5]: Beitrag gemäss Art. 6 der V vom 2. Okt. 2026 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 542](https://fedlex.data.admin.ch/eli/oc/2026/542)).
 [^3-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 23. Juni 2000 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Fassung gemäss Anhang Ziff. 2 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^3-7]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-8]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
@@ -593,6 +593,43 @@ Medizinische Massnahmen nach Absatz 1 werden gewährt für die Behandlung angebo
 [^13-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^13-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
+#### Art. 13a
+
+**Medizinische Massnahmen im Rahmen von intensiven Frühinterventionen bei Autismus-Spektrum-Störungen**[^13a-1]
+
+<sup>1</sup>
+
+Bei Kindern mit Autismus-Spektrum-Störungen übernimmt die Versicherung medizinische Massnahmen nach Artikel 13, die im Rahmen einer intensiven Frühintervention durchgeführt werden, wenn folgende Voraussetzungen erfüllt sind:
+
+- a. Der Kanton, in dem die intensive Frühintervention organisiert wird, hat dafür eine Planung erstellt.
+- b. Die intensive Frühintervention besteht aus medizinischen Massnahmen, die mit pädagogischen Massnahmen des kantonalen Rechts koordiniert sind und die mit diesen zusammen erbracht werden.
+- c. Die Methode der intensiven Frühintervention ist wissenschaftlich anerkannt.
+- d.
+
+  Eine Vereinbarung zwischen dem Bundesamt für Sozialversicherungen (BSV) und der zuständigen kantonalen Instanz regelt:
+
+  - 1\. die Zusammenarbeit zwischen dem BSV und der zuständigen kantonalen Instanz;
+  - 2\. die Ziele in Zusammenhang mit den medizinischen Massnahmen;
+  - 3\. die Voraussetzungen, die diese Massnahmen erfüllen müssen;
+  - 4\. die Qualitätsstandards für die intensive Frühintervention;
+  - 5\. die Modalitäten der finanziellen Beteiligung der Versicherung;
+  - 6\. die Kontrolle und die Evaluation.
+
+<sup>2</sup> Die medizinischen Massnahmen werden mittels Fallpauschalen übernommen. Diese werden dem Kanton, in dem die intensive Frühintervention organisiert wird, ausgerichtet. Die Versicherung übernimmt höchstens 30 Prozent der geschätzten durchschnittlichen Kosten der intensiven Frühintervention.
+
+<sup>3</sup>
+
+Der Bundesrat regelt:
+
+- a. die Berechnung der Fallpauschalen;
+- b. die wesentlichen Elemente der intensiven Frühintervention wie die Dauer und die Intensität der medizinischen Massnahmen;
+- c. die Voraussetzungen, die die Leistungserbringer der medizinischen Massnahmen erfüllen müssen, einschliesslich der Anforderungen an die Ausbildung des Personals;
+- d. die Anforderungen an Gesundheit und Alter für die Teilnahme an der intensiven Frühintervention;
+- e. die Kriterien, um die Wirksamkeit der intensiven Frühintervention zu evaluieren;
+- f. die Modalitäten der Aufsicht.
+
+[^13a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Intensive Frühintervention bei Autismus-Spektrum-Störungen), in Kraft seit 1. Jan. 2027 ([AS 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [BBl 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
+
 #### Art. 14
 
 **Umfang der medizinischen Massnahmen und Voraussetzungen für die Leistungsübernahme**[^14-1]
@@ -667,12 +704,13 @@ Er kann die Vergütung von Arzneimitteln regeln, die:
 - b. in der Schweiz zugelassen sind, jedoch nicht in der Spezialitätenliste oder in der gestützt auf Absatz 5 erstellten Liste aufgenommen sind; oder
 - c. in der Schweiz nicht zugelassen sind.
 
-<sup>4</sup> Er kann die Aufgaben nach den Absätzen 1−3 dem Eidgenössischen Departement des Innern (EDI) oder dem Bundesamt für Sozialversicherungen (BSV) übertragen.
+<sup>4</sup> Er kann die Aufgaben nach den Absätzen 1–3 dem Eidgenössischen Departement des Innern (EDI) oder dem BSV übertragen.[^14ter-2]
 
-<sup>5</sup> Das zuständige Bundesamt erstellt eine Liste der Arzneimittel zur Behandlung von Geburtsgebrechen nach Artikel 13, einschliesslich der Höchstpreise, sofern sie nicht bereits auf der Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b KVG[^14ter-2] aufgeführt sind.
+<sup>5</sup> Das zuständige Bundesamt erstellt eine Liste der Arzneimittel zur Behandlung von Geburtsgebrechen nach Artikel 13, einschliesslich der Höchstpreise, sofern sie nicht bereits auf der Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b KVG[^14ter-3] aufgeführt sind.
 
 [^14ter-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^14ter-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^14ter-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Intensive Frühintervention bei Autismus-Spektrum-Störungen), in Kraft seit 1. Jan. 2027 ([AS 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [BBl 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
+[^14ter-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### II<sup>bis</sup>. Beratung und Begleitung
 
@@ -1889,7 +1927,7 @@ Der Bundesrat kann dem BSV Aufgaben der Durchführung übertragen in den Bereich
 - a.[^53-3] Abgabe von Hilfsmitteln nach Artikel 21<sup>quater</sup>;
 - a<sup>bis</sup>.[^53-4] …
 - b. wissenschaftliche Auswertungen nach Artikel 68;
-- c. gesamtschweizerische Information über die Versicherungsleistungen nach Artikel 68<sup>te</sup><sup>r</sup>;
+- c. gesamtschweizerische Information über die Versicherungsleistungen nach Artikel 68<sup>ter</sup>;
 - d. Pilotversuche nach Artikel 68<sup>quater</sup>; und
 - e.[^53-5] Förderung der Invalidenhilfe nach den Artikeln 74 und 75.
 
@@ -2257,11 +2295,14 @@ Die Versicherung vergütet folgende Kosten:
 
 <sup>1bis</sup> Der Bundesrat kann vorsehen, dass die Kosten, die durch die Erstellung der Liste der Arzneimittel nach Artikel 14<sup>ter</sup> Absatz 5 entstehen, durch die Versicherung vergütet werden.[^67-2]
 
-<sup>2</sup> Das EDI[^67-3] bestimmt die anrechenbaren Kosten des BSV.
+<sup>1ter</sup> Er kann vorsehen, dass die Versicherung dem Bund die Kosten, die dem Bundesamt für Statistik (BFS) für die Erstellung von Statistiken gestützt auf Daten nach Artikel 68<sup>novies</sup> entstehen, ganz oder teilweise vergütet.[^67-3]
+
+<sup>2</sup> Das EDI[^67-4] bestimmt die anrechenbaren Kosten des BSV.
 
 [^67-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^67-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^67-3]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^67-3]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Intensive Frühintervention bei Autismus-Spektrum-Störungen), in Kraft seit 1. Jan. 2027 ([AS 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [BBl 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
+[^67-4]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 68
 
@@ -2420,6 +2461,55 @@ Ab dem 91. Taggeld übernimmt die Invalidenversicherung für die Personen nach A
 
 [^68octies-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
+#### Art. 68<sup>novies</sup>
+
+**Datenerhebung und -weitergabe im Zusammenhang mit der intensiven Frühintervention bei Autismus-Spektrum-Störungen**[^68novies-1]
+
+<sup>1</sup>
+
+Institutionen, die intensive Frühinterventionen (Art. 13*a*) durchführen, erheben Daten zur versicherten Person zu folgenden Zwecken:
+
+- a. Kontrolle und Evaluation der Wirksamkeit der intensiven Frühintervention durch den Bund und die Kantone nach Artikel 13*a* Absatz 1 Buchstabe d Ziffer 6;
+- b. Aufsicht, wie sie vom Bundesrat gestützt auf Artikel 13*a* Absatz 3 Buchstabe f vorgesehen ist.
+
+<sup>2</sup>
+
+Sie erheben folgende Daten:
+
+- a. AHV-Nummer;
+- b. Geburtsdatum;
+- c. Geschlecht;
+- d. Wohnkanton;
+- e. Datum der Diagnose der Autismus-Spektrum-Störung;
+- f. Anfangs- und Enddatum der Teilnahme an der intensiven Frühintervention;
+- g. Daten mit denen die Entwicklung des Kindes im Zusammenhang mit der intensiven Frühintervention verfolgt werden kann, wie Testresultate;
+- h. Daten zu den Massnahmen, die sie durchführen, um das Erreichte vor dem Schuleintritt zu festigen oder den Übergang in ein anderes Umfeld oder die Integration in die Schule zu erleichtern.
+
+<sup>3</sup> Sie übermitteln die Daten nach Absatz 2 an die zuständige kantonale Instanz.
+
+<sup>4</sup> Sie übermitteln die Daten nach Absatz 2 Buchstaben a–f und h vor dem Beginn der intensiven Frühintervention und spätestens an deren Ende oder bei deren Abbruch zu Kontrollzwecken an die zuständige IV‑Stelle.
+
+<sup>5</sup>
+
+Die zuständige kantonale Instanz übermittelt:
+
+- a. dem BFS die Daten nach Absatz 2 Buchstaben a, e, g und h zu Statistikzwecken;
+- b. dem BSV die Daten nach Absatz 2 Buchstaben b, d, e, f und h zu Kontroll- und Aufsichtszwecken.
+
+<sup>6</sup> Der Bundesrat kann vorsehen, dass die Institutionen nach Absatz 1 zusätzliche Daten zur intensiven Frühintervention erheben und übermitteln müssen.
+
+<sup>7</sup>
+
+Er regelt die Modalitäten in Bezug auf:
+
+- a. die Information der Versicherten;
+- b. die Ausübung des Rechts der Versicherten, Widerspruch gegen die nicht anonymisierte Speicherung der Daten zu Statistikzwecken einzulegen;
+- c. die Anonymisierung und die Vernichtung der Daten.
+
+<sup>8</sup> Er kann die Aufgaben nach den Absätzen 6 und 7 an das EDI oder das BSV übertragen.
+
+[^68novies-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Intensive Frühintervention bei Autismus-Spektrum-Störungen), in Kraft seit 1. Jan. 2027 ([AS 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [BBl 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
+
 ### 5. Kapitel: Die Rechtspflege- und Strafbestimmungen
 
 #### Art. 69
@@ -2565,7 +2655,7 @@ Die aufgrund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch:
 
 <sup>2</sup> Der Ausgangswert wird jährlich an die abdiskontierte Veränderungsrate der Mehrwertsteuereinnahmen angepasst. Die Mehrwertsteuereinnahmen werden um allfällige Änderungen der Steuersätze und der Bemessungsgrundlage bereinigt.
 
-<sup>3</sup> Der Diskontierungsfaktor entspricht der Entwicklung des Quotienten aus dem jährlich zu ermittelnden Index nach Artikel 33<sup>ter</sup> Absatz 2 AHVG[^78-3] und dem vom Bundesamt für Statistik ermittelten Lohnindex ab 2011.
+<sup>3</sup> Der Diskontierungsfaktor entspricht der Entwicklung des Quotienten aus dem jährlich zu ermittelnden Index nach Artikel 33<sup>ter</sup> Absatz 2 AHVG[^78-3] und dem vom BFS ermittelten Lohnindex ab 2011.[^78-4]
 
 <sup>4</sup> Der Bundesbeitrag entspricht dem nach den Absätzen 2 und 3 berechneten Betrag; davon werden die Beiträge an die Hilflosenentschädigung und an die ausserordentlichen Renten nach Artikel 77 Absatz 2 abgezogen.
 
@@ -2576,6 +2666,7 @@ Die aufgrund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch:
 [^78-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2014, Abs. 4 zweiter Teilsatz seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^78-2]: Fassung gemäss Ziff. I 12 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 [^78-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^78-4]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Intensive Frühintervention bei Autismus-Spektrum-Störungen), in Kraft seit 1. Jan. 2027 ([AS 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [BBl 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)).
 
 #### Art. 78<sup>bis</sup>
 
@@ -2988,6 +3079,14 @@ c. Nichtanpassung laufender Renten von Rentenbezügerinnen und -bezügern, die d
 Für Rentenbezügerinnen und -bezüger, deren Rentenanspruch vor Inkrafttreten dieser Änderung entstanden ist und die bei Inkrafttreten dieser Änderung das 55. Altersjahr vollendet haben, gilt das bisherige Recht.
 
 [^u12-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+
+## Übergangsbestimmung zur Änderung vom 21. März 2025
+
+[^u13-1]
+
+[^u13-1]: [AS 2026 204](https://fedlex.data.admin.ch/eli/oc/2026/204); [BBl 2024 2242](https://fedlex.data.admin.ch/eli/fga/2024/2242)
+
+Für Versicherte, die am Pilotversuch «Intensive Frühintervention bei Kindern mit frühkindlichem Autismus» teilgenommen haben und deren Frühintervention nach Ende des Pilotversuchs beim gleichen Leistungserbringer weitergeführt wird, richtet sich die Finanzierung der medizinischen Massnahmen, die im Rahmen der intensiven Frühintervention durchgeführt werden, weiterhin nach dem Recht, das für den Pilotversuch gegolten hat.
 
 Anhang[^t-2]
 
