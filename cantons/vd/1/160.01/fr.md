@@ -4,7 +4,7 @@ number: "160.01"
 title: "LOI du 05.10.2021 sur l'exercice des droits politiques (LEDP)"
 short: LEDP
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b"
 ---
 
@@ -635,7 +635,7 @@ décrète
 
 <sup>1</sup> L'arrondissement du Jura-Nord vaudois comprend :
 
-- a. le sous-arrondissement de La Vallée formé des communes de L'Abbaye, Le Chenit et Le Lieu, avec Le Chenit pour chef-lieu ;
+- a. le sous-arrondissement de la Vallée formée de la Commune de la Vallée de Joux, qui en constitue le chef-lieu.
 - b. le sous-arrondissement d'Yverdon formé des autres communes de l'arrondissement, avec Yverdon-les-Bains pour chef-lieu.
 
 <sup>2</sup> L'arrondissement de Lausanne comprend :
