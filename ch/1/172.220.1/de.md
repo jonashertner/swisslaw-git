@@ -4,11 +4,11 @@ title: Bundespersonalgesetz vom 24. März 2000 (BPG)
 short: BPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: de
-version: 2024-01-01
+version: 2027-01-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/de"
 
 (BPG)
 
-vom 24. März 2000 (Stand am 1. Januar 2024)
+vom 24. März 2000 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: BBl **1999** 1597
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -34,7 +34,11 @@ beschliesst:
 
 **Gegenstand**
 
-Dieses Gesetz regelt das Arbeitsverhältnis des Bundespersonals.
+<sup>1</sup> Dieses Gesetz regelt das Arbeitsverhältnis des Bundespersonals.
+
+<sup>2</sup> Es regelt die Bearbeitung von Personendaten von Angestellten, ehemaligen Angestellten, Bewerberinnen und Bewerbern sowie anderen Personen, die zwecks Rekrutierung kontaktiert werden, soweit die Personendaten zur Erfüllung der Aufgaben nach diesem Gesetz benötigt werden.[^1-1]
+
+[^1-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 2
 
@@ -62,26 +66,29 @@ Es gilt nicht:
 - a. für die von der Bundesversammlung nach Artikel 168 der Bundesverfassung gewählten Personen;
 - b.[^2-15] für die Lehrlinge, die dem Berufsbildungsgesetz vom 13. Dezember 2002[^2-16] unterstehen;
 - c.[^2-17] für das im Ausland rekrutierte und eingesetzte Personal;
-- d.[^2-18] für das Personal der Organisationen und Personen des öffentlichen oder privaten Rechts ausserhalb der Bundesverwaltung, die mit Verwaltungsaufgaben betraut werden, mit Ausnahme der Schweizerischen Bundesbahnen.
+- d.[^2-18] für das Personal der Organisationen und Personen des öffentlichen oder privaten Rechts ausserhalb der Bundesverwaltung, die mit Verwaltungsaufgaben betraut werden, mit Ausnahme der Schweizerischen Bundesbahnen;
+- e.[^2-19] für das Personal, das mit Verleihverträgen nach Artikel 22 des Arbeitsvermittlungsgesetzes vom 6. Oktober 1989[^2-20] (AVG) beschäftigt wird.
 
-[^2-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^2-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^2-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^2-4]: Aufgehoben durch Anhang Ziff. II 1 des Postorganisationsgesetzes vom 17. Dez. 2010, mit Wirkung seit 1. Okt. 2012 ([AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [BBl 2009 5265](https://fedlex.data.admin.ch/eli/fga/2009/919)).
-[^2-5]: [SR 742.31](https://fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847)
+[^2-5]: [SR 742.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8799)
 [^2-6]: Fassung gemäss Anhang Ziff. II 4 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^2-7]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^2-8]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^2-9]: [SR 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
+[^2-7]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^2-8]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^2-9]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
 [^2-10]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-11]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^2-11]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^2-12]: Eingefügt durch Anhang Ziff. II 4 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^2-13]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^2-14]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^2-15]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-16]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^2-16]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^2-17]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^2-18]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^2-19]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^2-20]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 3
 
@@ -125,7 +132,7 @@ Die Arbeitgeber setzen ihr Personal auf zweckmässige, wirtschaftliche und sozia
 - d. für die Chancengleichheit von Frau und Mann und zu deren Gleichstellung;
 - e.[^4-2] zur Sicherstellung der Vertretung der Sprachgemeinschaften im Personal entsprechend ihrem Anteil an der Wohnbevölkerung;
 - e<sup>bis</sup>.[^4-3] zur Förderung der Sprachkenntnisse der für die Ausübung der Funktion erforderlichen Amtssprachen, insbesondere zur Förderung der aktiven Kenntnisse einer zweiten Amtssprache und der passiven Kenntnisse einer dritten Amtssprache beim höheren Kader;
-- f. für die Chancengleichheit der Behinderten sowie zu deren Beschäftigung und Eingliederung;
+- f.[^4-4] zur Beschäftigung und Eingliederung von Menschen mit Behinderung sowie für deren Chancengleichheit;
 - g. zum Schutz der Persönlichkeit und der Gesundheit sowie zur Arbeitssicherheit ihres Personals;
 - h. zur Förderung eines umweltbewussten Verhaltens am Arbeitsplatz;
 - i. zur Schaffung von Arbeitsbedingungen, die dem Personal erlauben, seine Verantwortung in Familie und Gesellschaft wahrzunehmen;
@@ -137,6 +144,7 @@ Die Arbeitgeber setzen ihr Personal auf zweckmässige, wirtschaftliche und sozia
 [^4-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^4-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^4-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^4-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 5
 
@@ -146,7 +154,7 @@ Die Arbeitgeber setzen ihr Personal auf zweckmässige, wirtschaftliche und sozia
 
 <sup>2</sup> Er sorgt dafür, dass die Arbeitgeber ein geeignetes Controlling-System anwenden.
 
-<sup>3</sup> und <sup>4</sup> …[^5-1]
+<sup>3 und <sup>4</sup></sup> …[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
@@ -168,7 +176,7 @@ Die Arbeitgeber setzen ihr Personal auf zweckmässige, wirtschaftliche und sozia
 
 <sup>7</sup> Bei Streitigkeiten aus dem Arbeitsverhältnis des dem OR unterstellten Personals sind die zivilen Gerichte zuständig.
 
-[^6-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^6-2]: Die Berichtigung der Redaktionskommission der BVers vom 18. März 2015, veröffentlicht am 9. April 2015, betrifft nur die italienische Sprache ([AS 2015 1021](https://fedlex.data.admin.ch/eli/oc/2015/197)).
 [^6-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
@@ -198,13 +206,22 @@ Der Bundesrat erlässt Grundsätze über:
 
 <sup>5</sup> Die Grundsätze nach den Absätzen 1–4 gelten auch für Unternehmen, welche von Unternehmen und Anstalten, die diesem Gesetz unterstellt sind, kapital- und stimmenmässig beherrscht werden und ihren Sitz in der Schweiz haben.
 
-<sup>6</sup> Der Bundesrat sorgt dafür, dass die Grundsätze nach den Absätzen 1–5 für alle privatrechtlichen Unternehmen sinngemäss angewendet werden, die der Bund kapital- und stimmenmässig beherrscht und die ihren Sitz in der Schweiz haben. Ausgenommen sind Gesellschaften, deren Aktien an einer Börse kotiert sind. Für diese gelten die Artikel 663*b*<sup>bis</sup> und 663*c* Absatz 3 OR[^6a-4].[^6a-5]
+<sup>6</sup> Der Bundesrat sorgt dafür, dass die Grundsätze nach den Absätzen 1–5 für alle privatrechtlichen Unternehmen sinngemäss angewendet werden, die der Bund kapital- und stimmenmässig beherrscht und die ihren Sitz in der Schweiz haben. Ausgenommen sind Gesellschaften, deren Aktien an einer Börse kotiert sind; für diese gelten die Artikel 734–734*f* OR[^6a-4].[^6a-5]
 
 [^6a-1]: Eingefügt durch Ziff. I 2 des BG vom 20. Juni 2003 über die Entlöhnung und weitere Vertragsbedingungen des obersten Kaders und der Mitglieder leitender Organe von Unternehmen und Anstalten des Bundes, in Kraft seit 1. Febr. 2004 ([AS 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [BBl 2002 7496](https://fedlex.data.admin.ch/eli/fga/2002/1193)[7514](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
 [^6a-2]: Fassung gemäss Anhang Ziff. II 1 des Postorganisationsgesetzes vom 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [BBl 2009 5265](https://fedlex.data.admin.ch/eli/fga/2009/919)).
 [^6a-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^6a-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^6a-5]: Fassung gemäss Ziff. II des BG vom 7. Okt. 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
+[^6a-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^6a-5]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 6b
+
+**Personalverleihverträge**[^6b-1]
+
+Die Arbeitgeber können Personen mit Verleihverträgen nach Artikel 22 AVG[^6b-2] beschäftigen, sofern die Aufgabenerfüllung weder mit dem bestehenden Personal noch dem Abschluss eines Arbeitsvertrags nach diesem Gesetz, dem Erteilen eines Auftrags oder dem Abschluss eines Werkvertrags möglich ist.
+
+[^6b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6b-2]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 7
 
@@ -212,15 +229,23 @@ Der Bundesrat erlässt Grundsätze über:
 
 Offene Stellen werden öffentlich ausgeschrieben. Die Ausführungsbestimmungen regeln die Ausnahmen.
 
-## 2. Abschnitt: Entstehung, Beendigung und Auflösung des Arbeitsverhältnisses
+## 2. Abschnitt: Entstehung, Änderung, Beendigung und Auflösung des Arbeitsverhältnisses
+
+[^sec2-1]
+
+[^sec2-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 8
 
 **Entstehung und Anstellungsbedingungen**
 
-<sup>1</sup> Das Arbeitsverhältnis entsteht durch den Abschluss eines schriftlichen öffentlich-rechtlichen Arbeitsvertrags.[^8-1]
+<sup>1</sup> Das Arbeitsverhältnis entsteht durch den Abschluss eines öffentlich-rechtlichen Arbeitsvertrags.[^8-1]
 
-<sup>2</sup> Die Ausführungsbestimmungen regeln die Dauer der Probezeit. Sie können für Spezialfunktionen eine maximale Dauer der Probezeit von sechs Monaten vorsehen.[^8-2]
+<sup>1bis</sup> Die Ausführungsbestimmungen regeln das Verfahren des Vertragsabschlusses und das Festhalten des wesentlichen Inhalts des Vertrags.[^8-2]
+
+<sup>2</sup> Die Probezeit dauert in der Regel drei Monate. Sie kann in begründeten Fällen verlängert oder im Arbeitsvertrag auf eine kürzere oder längere Dauer festgesetzt oder wegbedungen werden. Sie darf höchstens fünf Monate betragen. Die Ausführungsbestimmungen können für Spezialfunktionen eine maximale Dauer der Probezeit von sechs Monaten vorsehen.[^8-3]
+
+<sup>2bis</sup> Bei Personen, die sicherheitsrelevante Tätigkeiten ausüben sollen, kann der Arbeitgeber psychologische oder medizinische Eignungsabklärungen verlangen. Die Ausführungsbestimmungen regeln, für welche Tätigkeiten solche Eignungsabklärungen verlangt werden können.[^8-4]
 
 <sup>3</sup>
 
@@ -229,8 +254,20 @@ Wenn dies für die Erfüllung hoheitlicher Aufgaben notwendig ist, regelt der Bu
 - a. welche Arbeitsverhältnisse nur Personen mit Schweizer Bürgerrecht zugänglich sind;
 - b. welche Arbeitsverhältnisse nur Personen zugänglich sind, die ausschliesslich über das Schweizer Bürgerrecht verfügen.
 
-[^8-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^8-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^8-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-2]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-4]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 8a
+
+**Änderung des Arbeitsorts, der Funktion oder des Arbeitsbereichs**[^8a-1]
+
+<sup>1</sup> Der Arbeitgeber kann unter Einhaltung der Kündigungsfristen den Arbeitsvertrag einseitig ändern, um den Arbeitsort, die Funktion oder den Arbeitsbereich zu ändern, wenn dies aus dienstlichen Gründen dauerhaft erforderlich und für die angestellte Person zumutbar ist.
+
+<sup>2</sup> Ist die Änderung aus dienstlichen Gründen erforderlich aber nicht dauerhaft, kann der Arbeitgeber den Arbeitsort, die Funktion oder den Arbeitsbereich ohne Änderung des Arbeitsvertrages ändern, sofern dies für die angestellte Person zumutbar ist.
+
+[^8a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9
 
@@ -244,38 +281,58 @@ Wenn dies für die Erfüllung hoheitlicher Aufgaben notwendig ist, regelt der Bu
 
 #### Art. 10
 
-**Beendigung**[^10-1]
+**Beendigung eines unbefristeten Arbeitsverhältnisses[^10-2]**[^10-1]
 
-<sup>1</sup> Das unbefristete Arbeitsverhältnis endet ohne Kündigung beim Erreichen der Altersgrenze nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^10-2] über die Alters- und Hinterlassenenversicherung (AHVG).
+<sup>1</sup> Das unbefristete Arbeitsverhältnis endet ohne Kündigung beim Erreichen des Referenzalters nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^10-3] über die Alters- und Hinterlassenenversicherung (AHVG) oder beim Tod der angestellten Person.[^10-4]
 
 <sup>2</sup>
 
 Die Ausführungsbestimmungen können:
 
-- a. für bestimmte Personalkategorien einen Altersrücktritt vor dem Erreichen der Altersgrenze nach Artikel 21 AHVG festlegen;
-- b. die Beschäftigung über das ordentliche Rücktrittsalter hinaus vorsehen.
+- a. für bestimmte Personalkategorien einen Altersrücktritt vor dem Erreichen des Referenzalters nach Artikel 21 AHVG festlegen;
+- b. die Möglichkeit einer Beschäftigung über das Referenzalter nach Artikel 21 AHVG hinaus vorsehen.[^10-5]
 
 <sup>3</sup>
 
-Der Arbeitgeber kann das unbefristete Arbeitsverhältnis aus sachlich hinreichenden Gründen ordentlich kündigen, insbesondere wegen:
+Der Arbeitgeber kann das unbefristete Arbeitsverhältnis aus sachlichen Gründen ordentlich kündigen, insbesondere wegen:[^10-6]
 
 - a. Verletzung wichtiger gesetzlicher oder vertraglicher Pflichten;
 - b. Mängeln in der Leistung oder im Verhalten;
 - c. mangelnder Eignung, Tauglichkeit oder Bereitschaft, die im Arbeitsvertrag vereinbarte Arbeit zu verrichten;
 - d. mangelnder Bereitschaft zur Verrichtung zumutbarer anderer Arbeit;
-- e. schwerwiegenden wirtschaftlichen oder betrieblichen Gründen, sofern der Arbeitgeber der angestellten Person keine zumutbare andere Arbeit anbieten kann;
+- e.[^10-7] wirtschaftlichen oder betrieblichen Gründen, sofern der Arbeitgeber der angestellten Person keine zumutbare andere Arbeit anbieten kann;
 - f. Wegfalls einer gesetzlichen oder vertraglichen Anstellungsbedingung.
 
-<sup>4</sup> Die Vertragsparteien können befristete und unbefristete Arbeitsverhältnisse aus wichtigen Gründen fristlos kündigen.
+<sup>4</sup> Die Vertragsparteien können unbefristete Arbeitsverhältnisse im gegenseitigen Einvernehmen jederzeit beenden oder aus wichtigen Gründen fristlos kündigen.[^10-8]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^10-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^10-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-5]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-6]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-7]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-8]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 11
 
-[^11-1]
+**Beendigung eines befristeten Arbeitsverhältnisses**[^11-1]
 
-[^11-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+<sup>1</sup> Das befristete Arbeitsverhältnis endet ohne Kündigung mit dem Ablauf der vereinbarten Vertragsdauer, beim Erreichen des Referenzalters nach Artikel 21 AHVG[^11-2] oder beim Tod der angestellten Person.
+
+<sup>2</sup> Die Ausführungsbestimmungen können die Möglichkeit einer Beschäftigung über das Referenzalter nach Artikel 21 AHVG hinaus vorsehen.
+
+<sup>3</sup>
+
+Sofern die Möglichkeit der Kündigung im Arbeitsvertrag vereinbart worden ist, kann:
+
+- a. die angestellte Person das befristete Arbeitsverhältnis ordentlich kündigen;
+- b. der Arbeitgeber das befristete Arbeitsverhältnis aus sachlichen Gründen, insbesondere aus den in Artikel 10 Absatz 3 aufgeführten Gründen, ordentlich kündigen.
+
+<sup>4</sup> Die Vertragsparteien können befristete Arbeitsverhältnisse im gegenseitigen Einvernehmen jederzeit beenden oder aus wichtigen Gründen fristlos kündigen.
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 12
 
@@ -291,9 +348,9 @@ Der Arbeitgeber kann das unbefristete Arbeitsverhältnis aus sachlich hinreichen
 
 **Formvorschriften**[^13-1]
 
-Die Verlängerung, die Befristung und die Beendigung des Arbeitsverhältnisses sowie jede Änderung des Arbeitsvertrages bedürfen zu ihrer Gültigkeit der schriftlichen Form.
+Jede Änderung des Arbeitsvertrages, insbesondere die Verlängerung, die Befristung und die Beendigung des Arbeitsverhältnisses, bedürfen der gleichen Form wie der Abschluss des Arbeitsvertrages.
 
-[^13-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^13-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 14
 
@@ -307,13 +364,14 @@ Fehlen spezialgesetzliche Regelungen, so gelten die Bestimmungen dieses Gesetzes
 
 - a. Das Arbeitsverhältnis wird durch Verfügung begründet, die der Zustimmung der gewählten Person bedarf.
 - b. Die Vorschriften dieses Gesetzes und des OR[^14-2] über die ordentliche Kündigung sind nicht anwendbar.
-- c. Die Wahlbehörde kann von einer Wiederwahl absehen, wenn dafür sachlich hinreichende Gründe vorliegen; verfügt sie nicht spätestens sechs Monate vor Ablauf der Amtsdauer die Nichtwiederwahl, so gilt die betreffende Person als wiedergewählt; im Beschwerdeverfahren sind Artikel 34*b* Absatz 1 Buchstabe a und 2 sowie Artikel 34*c* Absatz 1 Buchstaben a, b und d und 2 anwendbar.
+- c.[^14-3] Die Wahlbehörde kann von einer Wiederwahl absehen, wenn dafür sachliche Gründe vorliegen; verfügt sie nicht spätestens sechs Monate vor Ablauf der Amtsdauer die Nichtwiederwahl, so gilt die betreffende Person als wiedergewählt; im Beschwerdeverfahren sind Artikel 34*b* Absatz 1 Buchstabe a und 2 sowie 34*c* Absatz 1 Buchstaben a, b und d und 2 anwendbar.
 - d. Die gewählte Person kann unter Einhaltung einer dreimonatigen Frist auf das Ende jedes Monats um Auflösung des Arbeitsverhältnisses nachsuchen.
 
 <sup>3</sup> Aus wichtigen Gründen kann das Arbeitsverhältnis fristlos gekündigt werden.
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^14-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^14-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 3. Abschnitt: Rechte und Pflichten aus dem Arbeitsverhältnis
 
@@ -353,8 +411,8 @@ Fehlen spezialgesetzliche Regelungen, so gelten die Bestimmungen dieses Gesetzes
 Für die wöchentliche Höchstarbeitszeit gelten die Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^17-2] sinngemäss. Vorbehalten bleibt das Arbeitszeitgesetz vom 8. Oktober 1971[^17-3].
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^17-2]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^17-3]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^17-2]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^17-3]: [SR 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
 
 #### Art. 17a
 
@@ -369,7 +427,7 @@ Für die wöchentliche Höchstarbeitszeit gelten die Bestimmungen des Arbeitsges
 <sup>4</sup> Der Bundesrat regelt die Mindestferien sowie den Mindesturlaub der Eltern bei Geburt und Adoption.
 
 [^17a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^17a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 18
 
@@ -444,7 +502,7 @@ Die Arbeitgeber nach Artikel 3 Absatz 1 Buchstaben a, b und e–g sowie Absatz 3
 <sup>4</sup> Werden die Stellenbewerberinnen und Stellenbewerber sowie die Angestellten gleichzeitig einer Personensicherheitsprüfung nach dem ISG unterzogen, so werden die beiden Verfahren vereinigt.
 
 [^20b-1]: Eingefügt durch Anhang 1 Ziff. 4 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^20b-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^20b-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 21
 
@@ -470,6 +528,21 @@ Soweit es für die Aufgabenerfüllung notwendig ist, können die Ausführungsbes
 [^21-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^21-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
+#### Art. 21a
+
+**Verpflichtungen der Angestellten, die einer Vertrauenswürdigkeits- oder einer Personensicherheitsprüfung unterliegen**[^21a-1]
+
+Soweit es zur Wahrung der Interessen nach Artikel 20*b* Absatz 1, der sicheren Bearbeitung der Informationen, für die der Bund zuständig ist, oder des sicheren Einsatzes der Informatikmittel des Bundes notwendig ist, kann der Arbeitgeber nach Kenntnisnahme der Erklärung der Fachstellen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020[^21a-2] (ISG):
+
+- a. die Angestellten verpflichten, persönliche Daten offenzulegen;
+- b. bei den Angestellten psychologische oder medizinische Abklärungen durchführen lassen;
+- c. Massnahmen nach Artikel 25 treffen;
+- d. die Angestellten verpflichten, Auslandsreisen zu melden und gegebenenfalls bewilligen zu lassen;
+- e. andere Massnahmen zu treffen, die im Einzelfall geeignet erscheinen, das festgestellte Sicherheitsrisiko auf ein tragbares Mass zu reduzieren.
+
+[^21a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^21a-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+
 #### Art. 22
 
 **Berufs‑, Geschäfts- und Amtsgeheimnis**
@@ -480,20 +553,31 @@ Soweit es für die Aufgabenerfüllung notwendig ist, können die Ausführungsbes
 
 #### Art. 22a
 
-**Anzeigepflichten, Anzeigerechte und Schutz**[^22a-1]
+**Meldungen, Anzeigen und Schutz**[^22a-1]
 
-<sup>1</sup> Die Angestellten sind verpflichtet, alle von Amtes wegen zu verfolgenden Verbrechen oder Vergehen, die sie bei ihrer amtlichen Tätigkeit festgestellt haben oder die ihnen gemeldet worden sind, den Strafverfolgungsbehörden, ihren Vorgesetzten oder der Eidgenössischen Finanzkontrolle (EFK) anzuzeigen.
+<sup>1</sup> Haben Angestellte in Ausübung ihrer Funktion einen begründeten Verdacht, dass ein von Amtes wegen zu verfolgendes Verbrechen oder Vergehen im Zusammenhang mit einer Aufgabe des Bundes oder einer Tätigkeit ihres Arbeitgebers vorliegt, so sind sie verpflichtet, ihren Verdacht der Eidgenössischen Finanzkontrolle (EFK) oder ihren Vorgesetzten zu melden oder den Strafverfolgungsbehörden anzuzeigen. Angestellte des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) können einen solchen Verdacht auch der Meldestelle des EDA melden, sofern er einen Bezug zum Ausland aufweist.
 
-<sup>2</sup> Vorbehalten bleiben Anzeigepflichten aus anderen Bundesgesetzen.
+<sup>2</sup> Vorbehalten bleiben Melde- beziehungsweise Anzeigepflichten aus anderen Bundesgesetzen.
 
-<sup>3</sup> Die Anzeigepflicht entfällt für Personen, die nach den Artikeln 113 Absatz 1, 168 und 169 der Strafprozessordnung vom 5. Oktober 2007[^22a-2] zur Aussage- oder Zeugnisverweigerung berechtigt sind.
+<sup>3</sup>
 
-<sup>4</sup> Die Angestellten sind berechtigt, andere Unregelmässigkeiten, die sie bei ihrer amtlichen Tätigkeit festgestellt haben oder die ihnen gemeldet worden sind, der EFK zu melden. Die EFK klärt den Sachverhalt ab und trifft die notwendigen Massnahmen.
+Die Melde- beziehungsweise Anzeigepflicht entfällt für:
 
-<sup>5</sup> Wer in guten Treuen eine Anzeige oder Meldung erstattet oder wer als Zeuge oder Zeugin ausgesagt hat, darf deswegen nicht in seiner beruflichen Stellung benachteiligt werden.
+- a. Personen, die nach den Artikeln 113 Absatz 1, 168 und 169 der Strafprozessordnung[^22a-2] zur Aussage- oder Zeugnisverweigerung berechtigt sind;
+- b. sofern sie vom begründeten Verdacht während ihrer Tätigkeit Kenntnis erhalten: Angestellte der Personal- und Sozialberatung der Bundesverwaltung (PSB), der Fachstellen nach Artikel 31 Absatz 2 ISG[^22a-3] und anderer Vertrauensstellen der Arbeitgeber.
 
-[^22a-1]: Eingefügt durch Anhang Ziff. II 4 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^22a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+<sup>4</sup> Die Angestellten sind berechtigt, andere Unregelmässigkeiten, die sie in Ausübung ihrer Funktion festgestellt haben oder die ihnen gemeldet worden sind, der EFK zu melden. Angestellte des EDA können eine solche Unregelmässigkeit auch der Meldestelle des EDA melden, sofern sie einen Bezug zum Ausland aufweist.
+
+<sup>5</sup> Wer in guten Treuen eine Meldung oder Anzeige erstattet oder wer als Zeuge oder Zeugin ausgesagt hat, darf deswegen nicht in seiner beruflichen Stellung benachteiligt werden.
+
+<sup>6</sup> Die EFK, die Meldestelle des EDA beziehungsweise die oder der Vorgesetzte klären den Sachverhalt ab und treffen die notwendigen Massnahmen. Kann der Verdacht nach Absatz 1 nicht ausgeräumt werden, erstatten sie den Strafverfolgungsbehörden Anzeige.
+
+<sup>7</sup> Im Zusammenhang mit Meldungen nach dieser Bestimmung überwiegt bei Gesuchen nach dem Öffentlichkeitsgesetz vom 17. Dezember 2004[^22a-4] (BGÖ) das Interesse der Privatsphäre der Meldenden das öffentliche Interesse im Sinne von Artikel 7 Absatz 2 BGÖ.
+
+[^22a-1]: Eingefügt durch Anhang Ziff. II 4 des Strafbehördenorganisationsgesetzes vom 19. März 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^22a-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^22a-3]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^22a-4]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 23
 
@@ -525,18 +609,23 @@ Aus den gleichen Gründen kann er:
 Er kann insbesondere folgende Massnahmen treffen:
 
 - a. Unterstützungs- und Entwicklungsmassnahmen;
-- b. Verwarnung, Kürzung des Lohnes, Busse und Freistellung; sowie
+- b.[^25-2] Mahnung und Freistellung;
 - c. Änderung des Aufgabenkreises, der Arbeitszeit und des Arbeitsortes.
 
 <sup>3</sup> Soweit die Massnahmen den Arbeitsvertrag betreffen, vereinbart er sie schriftlich mit der angestellten Person. Bei Uneinigkeit richtet sich das Verfahren nach den Artikeln 34 und 36.
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^25-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 26
 
-[^26-1]
+**Verjährung der Fristen bei personalrechtlichen Massnahmen**[^26-1]
 
-[^26-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+<sup>1</sup> Nach Ablauf von drei Jahren nach der Entdeckung von Verletzungen von arbeitsrechtlichen Pflichten können keine personalrechtlichen Massnahmen mehr erstinstanzlich verfügt werden. In jedem Fall dürfen nach Ablauf von fünf Jahren nach der letzten Verletzung der Pflichten keine personalrechtlichen Massnahmen erstinstanzlich verfügt werden.
+
+<sup>2</sup> Die Fristen nach Absatz 1 ruhen, solange wegen des gleichen Sachverhalts ein Strafverfahren durchgeführt wird oder solange über Rechtsmittel noch nicht entschieden ist, die im Zusammenhang mit diesem Sachverhalt ergriffen worden sind.
+
+[^26-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 3*a*. Abschnitt: Datenbearbeitung
 
@@ -550,24 +639,84 @@ Er kann insbesondere folgende Massnahmen treffen:
 
 <sup>1</sup>
 
-Der Arbeitgeber bearbeitet in Papierform und in einem oder mehreren Informationssystemen Daten seiner Angestellten zur Erfüllung der Aufgaben nach diesem Gesetz, insbesondere für:
+Der Arbeitgeber bearbeitet Personendaten von Angestellten, ehemaligen Angestellten, Bewerberinnen und Bewerbern sowie anderen Personen, die zwecks Rekrutierung kontaktiert werden, zur Erfüllung der Aufgaben nach diesem Gesetz, insbesondere für:[^27-2]
 
-- a. die Ermittlung des erforderlichen Personalbedarfs;
-- b. die Sicherung des erforderlichen Personalbestands durch Rekrutierung von Mitarbeiterinnen und Mitarbeitern;
-- c. die Lohn- und Gehaltsabrechnung, das Anlegen von Personalakten, die Meldungen an die Sozialversicherungen;
+- a.[^27-3] die Ermittlung des erforderlichen Personalbedarfs und die Sicherung des erforderlichen Personalbestands durch Rekrutierung;
+- b.[^27-4] die Ausübung seines Weisungsrechts nach Artikel 321*d* OR[^27-5] und seiner Fürsorgepflicht nach Artikel 328 OR;
+- c.[^27-6] die Personalverwaltung, insbesondere für die Lohn- und Gehaltsabrechnung, das Anlegen und Abschliessen von Personalakten sowie die Meldungen an die Sozialversicherungen;
 - d. das Fördern sowie den langfristigen Erhalt von Mitarbeiterinnen und Mitarbeitern;
 - e. die Erhaltung und Verbesserung der Qualifikation der Mitarbeiterinnen und Mitarbeiter;
-- f. die Planung, Steuerung und Kontrolle durch Datenanalysen, Vergleiche, Berichterstattung und Massnahmenplanung.
+- f. die Planung, Steuerung und Kontrolle durch Datenanalysen, Vergleiche, Berichterstattung und Massnahmenplanung;
+- g.[^27-7] die Wiedereingliederung nach krankheits- und unfallbedingten Abwesenheiten;
+- h.[^27-8] das Auferlegen von Verpflichtungen und das Treffen von Massnahmen nach Artikel 21*a*;
+- i.[^27-9] die Verwaltung von Personendaten für den Personaleinsatz zur Bewältigung von ausserordentlichem oder besonders dringlichem Mehraufwand, insbesondere zugunsten der Krisenorganisation der Bundesverwaltung;
+- j.[^27-10] die Umsetzung von Massnahmen zum Schutz der Gesundheit sowie zur Arbeitssicherheit, insbesondere die Umsetzung von Massnahmen bei besonderen oder ausserordentlichen Lagen nach den Artikeln 6 beziehungsweise 7 des Epidemiengesetzes vom 28. September 2012[^27-11];
+- k.[^27-12] das Treffen der Massnahmen nach Artikel 22*a* Absatz 6;
+- l.[^27-13] die medizinische Eignungsprüfung bei sicherheitsrelevanten Tätigkeiten.
 
 <sup>2</sup>
 
-Er kann folgende für die Erfüllung seiner Aufgaben nach Absatz 1 notwendigen Daten seines Personals, einschliesslich besonders schützenswerter Personendaten, bearbeiten:[^27-2]
+Er darf, soweit es zur Erfüllung seiner Aufgaben nach Absatz 1 erforderlich ist, folgende besonders schützenswerte Personendaten bearbeiten:
 
-- a. Angaben zur Person;
-- b. Angaben zur gesundheitlichen Situation in Bezug auf die Arbeitsfähigkeit;
-- c. Angaben zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
-- d. Daten, die im Rahmen der Mitwirkung beim Vollzug des Sozialversicherungsrechts erforderlich sind;
-- e. Verfahrensakten und Entscheide von Behörden in Verbindung mit der Arbeit.
+- a.
+
+  bei den Aufgaben nach Absatz 1 Buchstaben a und i:
+
+  - 1\. Daten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^27-14] (DSG), die dem Arbeitgeber im Rahmen des Rekrutierungsverfahrens zur Verfügung gestellt werden,
+  - 2\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 3\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung,
+  - 4\. Straf- und Betreibungsregisterauszüge;
+
+- b. bei der Aufgabe nach Absatz 1 Buchstabe b: Daten nach Artikel 5 Buchstabe c Ziffern 1, 2, 5 und 6 DSG;
+- c.
+
+  bei den Aufgaben nach Absatz 1 Buchstabe c:
+
+  - 1\. Daten nach Artikel 5 Buchstabe c Ziffer 1 DSG, die dem Arbeitgeber von der angestellten Person zur Verfügung gestellt werden,
+  - 2\. Daten nach Artikel 5 Buchstabe c Ziffer 1 DSG, die im Zusammenhang mit einer Nebenbeschäftigung nach Artikel 23 dieses Gesetzes stehen,
+  - 3\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 4\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung,
+  - 5\. Daten, die im Rahmen der Mitwirkung beim Vollzug des Sozialversicherungsrechts erforderlich sind,
+  - 6\. Verfahrensakten und Entscheide von Behörden in Verbindung mit der Arbeit, und Straf- und Betreibungsregisterauszüge;
+
+- d.
+
+  bei den Aufgaben nach Absatz 1 Buchstaben d–f:
+
+  - 1\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 2\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
+
+- e.
+
+  bei der Aufgabe nach Absatz 1 Buchstabe g:
+
+  - 1\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 2\. Daten, die im Rahmen der Mitwirkung beim Vollzug des Sozialversicherungsrechts erforderlich sind,
+  - 3\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
+
+- f. bei der Aufgabe nach Absatz 1 Buchstabe h: Daten nach Artikel 5 Buchstabe c Ziffern 1, 2, 5 und 6 DSG, sofern sie sicherheitsrelevant sind;
+- g. bei der Aufgabe nach Absatz 1 Buchstabe j: Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit;
+- h. bei der Aufgabe nach Absatz 1 Buchstabe k: Daten nach Artikel 5 Buchstabe c Ziffern 1, 2 und 5 DSG;
+- i. bei der Aufgabe nach Absatz 1 Buchstabe l: Daten nach Artikel 5 Buchstabe c Ziffer 2 DSG.[^27-15]
+
+<sup>2bis</sup>
+
+Er darf, soweit es zur Erfüllung seiner Aufgaben nach Absatz 1 erforderlich ist, folgende Personendaten im Profiling, einschliesslich im Profiling mit hohem Risiko, bearbeiten:
+
+- a.
+
+  bei den Aufgaben nach Absatz 1 Buchstaben a und i zur Bewertung der Eignung für eine bestimmte Stelle, ein Projekt oder einen Einsatz:
+
+  - 1\. Daten nach Artikel 5 Buchstabe c Ziffer 1 DSG, die dem Arbeitgeber von der angestellten Person zur Verfügung gestellt werden,
+  - 2\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 3\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
+
+- b.
+
+  bei den Aufgaben nach Absatz 1 Buchstaben d und e zur Bewertung von gezieltem Förderungsbedarf und Entwicklungspotenzial:
+
+  - 1\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 2\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung.[^27-16]
 
 <sup>3</sup> Er ist verantwortlich für den Schutz und die Sicherheit der Daten.
 
@@ -577,73 +726,119 @@ Er kann folgende für die Erfüllung seiner Aufgaben nach Absatz 1 notwendigen D
 
 Er erlässt Ausführungsbestimmungen über:
 
-- a. die Architektur, die Organisation und den Betrieb des Informationssystems oder der Informationssysteme;
+- a.[^27-17] die Verantwortlichkeit für die Bearbeitungstätigkeit;
 - b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Archivierung und Vernichtung;
-- c. die Berechtigungen zur Datenbearbeitung;
+- c.[^27-18] …
 - d. die Datenkategorien nach Absatz 2;
 - e. den Schutz und die Sicherheit der Daten.
 
-<sup>6</sup> Er kann die Bekanntgabe von nicht besonders schützenswerten Daten im Abrufverfahren vorsehen. Er erlässt dazu Ausführungsbestimmungen.
+<sup>6</sup> …[^27-19]
 
 [^27-1]: Fassung gemäss Anhang Ziff. II 2 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^27-2]: Fassung gemäss Anhang 1 Ziff. II 14 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^27-6]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-7]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-8]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-9]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-10]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-11]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^27-12]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-13]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-14]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^27-15]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-16]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-17]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-18]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-19]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
-#### Art. 27a–27c
+#### Art. 27a
 
-[^27a27c-1]
+**Case Management**[^27a-1]
 
-[^27a27c-1]: Eingefügt durch Ziff. I 1 des BG vom 17. Juni 2011 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)). Aufgehoben durch Anhang Ziff. II 2 des Ausgleichsfondsgesetzes vom 16. Juni 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-
-#### Art. 27d
-
-**Dossier der Personal- und Sozialberatung**[^27d-1]
-
-<sup>1</sup>
-
-Die Personal- und Sozialberatung der Bundesverwaltung (PSB) bearbeitet in Papierform und in einem Informationssystem die Daten der Personen, die an sie gelangen (Klientinnen und Klienten), für:
-
-- a. die Beratung und Unterstützung der Klientinnen und Klienten in den Bereichen Arbeit, Soziales, Gesundheit und Finanzen;
-- b. den Entscheid über Leistungsgesuche nach der Verordnung vom 18. Dezember 2002[^27d-2] über den Unterstützungsfonds für das Bundespersonal;
-- c. die Mittelzuteilung für die berufliche Integration von Menschen mit Behinderungen in die Bundesverwaltung;
-- d. die Fallführung (*Case Management*).
+<sup>1</sup> Die Fachspezialisten und Fachspezialistinnen Case Management des Arbeitgebers bearbeiten die für das Case Management notwendigen Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit der Angestellten, insbesondere die Leistungsfähigkeit sowie den Grund und den Grad einer allfälligen Invalidität.
 
 <sup>2</sup>
 
-Die PSB kann die folgenden zur Erfüllung ihrer Aufgaben notwendigen Personendaten der Klientinnen und Klienten, einschliesslich besonders schützenswerter Personendaten, bearbeiten:[^27d-3]
+Die Fachspezialisten und Fachspezialistinnen dürfen mit den folgenden Personen und Stellen Daten nach Absatz 1 austauschen, sofern sie diese für die Erfüllung ihrer Aufgaben benötigen:
 
-- a. private Situation;
-- b. gesundheitliche Situation;
-- c. Leistungsfähigkeit;
-- d. Grund und Grad der Invalidität.
+- a. den direkten Vorgesetzten;
+- b. den Personaldiensten;
+- c. den Rechtsdiensten;
+- d. den zuständigen Stellen der Invalidenversicherung (IV), der Schweizerischen Unfallversicherungsanstalt (SUVA) und der Militärversicherung;
+- e. den vom Arbeitgeber beigezogenen Ärztinnen und Ärzten.
 
-<sup>3</sup> Die Angestellten der PSB und die für den technischen Support verantwortlichen Dienststellen erhalten Zugriff auf das Informationssystem, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
+<sup>3</sup>
+
+Der Arbeitgeber erlässt Ausführungsbestimmungen über:
+
+- a. die Verantwortlichkeit der Bearbeitungstätigkeit;
+- b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Archivierung und Vernichtung;
+- c. die Datenkategorien nach Absatz 1;
+- d. den Schutz und die Sicherheit der Daten.
+
+[^27a-1]: Eingefügt durch Ziff. I 1 des BG vom 17. Juni 2011 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)). Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 27b–27c
+
+[^27b27c-1]
+
+[^27b27c-1]: Eingefügt durch Ziff. I 1 des BG vom 17. Juni 2011 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)). Aufgehoben durch Anhang Ziff. II 2 des Ausgleichsfondsgesetzes vom 16. Juni 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+
+#### Art. 27d
+
+**Datenbearbeitung durch die PSB[^27d-2]**[^27d-1]
+
+<sup>1</sup>
+
+Die PSB bearbeitet die Daten der Personen, die an sie gelangen (Klientinnen und Klienten), für:[^27d-3]
+
+- a. die Beratung und Unterstützung der Klientinnen und Klienten in den Bereichen Arbeit, Soziales, Gesundheit und Finanzen;
+- b. den Entscheid über Leistungsgesuche nach der Verordnung vom 18. Dezember 2002[^27d-4] über den Unterstützungsfonds für das Bundespersonal;
+- c. die Mittelzuteilung für die berufliche Integration von Menschen mit Behinderungen in die Bundesverwaltung;
+- d.[^27d-5] das Case Management.
+
+<sup>2</sup> Sie kann zur Erfüllung ihrer Aufgaben die erforderlichen besonders schützenswerten Personendaten nach Artikel 5 Buchstabe c Ziffern 1, 2, 5 und 6 DSG[^27d-6] der Klientinnen und Klienten bearbeiten.[^27d-7]
+
+<sup>3</sup> …[^27d-8]
 
 <sup>4</sup>
 
-Die PSB kann den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten zugänglich machen, sofern sie diese zur Erfüllung ihrer Aufgaben benötigen:[^27d-4]
+Sie darf den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten zugänglich machen, sofern sie diese für die Erfüllung ihrer Aufgaben benötigen:[^27d-9]
 
 - a. den direkten Vorgesetzen;
 - b. den Personaldiensten;
 - c. den zuständigen Stellen der IV, der SUVA und der Militärversicherung;
-- d. dem ärztlichen Dienst der Bundesverwaltung;
+- d.[^27d-10] den vom Arbeitgeber beigezogenen Ärztinnen und Ärzten;
 - e. dem Eidgenössischen Personalamt im Rahmen der Mittelzuteilung für die berufliche Integration von Menschen mit Behinderungen;
 - f. den Mitgliedern des Fondsrates des Unterstützungsfonds für das Bundespersonal.
 
-<sup>5</sup> Die PSB ist verantwortlich für den Schutz der Daten und die Sicherheit des Informationssystems.
+<sup>5</sup> Die PSB ist verantwortlich für den Schutz und die Sicherheit der Daten.[^27d-11]
 
 <sup>6</sup>
 
 Der Bundesrat erlässt Ausführungsbestimmungen über:
 
-- a. die Organisation und den Betrieb des Informationssystems;
+- a.[^27d-12] die Verantwortlichkeit der Bearbeitungstätigkeit;
 - b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Bekanntgabe, Archivierung und Vernichtung;
-- c. die Berechtigungen zur Datenbearbeitung;
+- c.[^27d-13] …
 - d. die Datenkataloge.
 
 [^27d-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^27d-2]: [SR 172.222.023](https://fedlex.data.admin.ch/eli/cc/2003/58)
-[^27d-3]: Fassung gemäss Anhang 1 Ziff. II 14 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^27d-4]: Fassung gemäss Anhang 1 Ziff. II 14 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27d-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-4]: [SR 172.222.023](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5512)
+[^27d-5]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-6]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^27d-7]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-8]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-9]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-10]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-11]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-12]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-13]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 27e
 
@@ -653,45 +848,20 @@ Der Bundesrat erlässt Ausführungsbestimmungen über:
 
 #### Art. 28
 
-**Gesundheitsdaten**
+**Medizinische Expertisen**[^28-1]
 
 <sup>1</sup>
 
-Der zuständige ärztliche Dienst bearbeitet diejenigen besonders schützenswerten Personendaten über die Gesundheit, die notwendig sind für:
+Der Arbeitgeber darf den von ihm beigezogenen Ärztinnen und Ärzten Daten zur gesundheitlichen Situation in Bezug auf die Arbeitsfähigkeit der Angestellten oder ihre Eignung für sicherheitsrelevante Tätigkeiten zugänglich machen, sofern die Ärztinnen und Ärzte diese benötigen, um insbesondere bei krankheits- und unfallbedingten Arbeitsverhinderungen, bei Wiedereingliederungen sowie bei der beruflichen Integration:
 
-- a. die Eignungsbeurteilung der Bewerberinnen und Bewerber bei der Anstellung;
-- b. die Eignungsbeurteilung der Angestellten während der Dauer des Arbeitsverhältnisses;
-- c. die Beurteilung der Invaliditäts- und Morbiditätsrisiken der Bewerberinnen und Bewerber bei der Anstellung für sicherheitsrelevante Funktionen.[^28-1]
+- a. unabhängige Gutachten für den Arbeitgeber zu erstellen;
+- b. den Arbeitgeber zu beraten.
 
-<sup>1bis</sup> Er kann diese Daten in einem Informationssystem bearbeiten.[^28-2]
+<sup>2</sup> Er erhält so weit Auskunft über die Schlussfolgerungen aus ärztlichen Feststellungen, wie diese für die Beurteilung von Ansprüchen aus dem Arbeitsverhältnis erforderlich ist.
 
-<sup>1ter</sup> Die Angestellten des ärztlichen Dienstes und die für den technischen Support verantwortlichen Dienststellen erhalten Zugriff auf das Informationssystem, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.[^28-3]
+<sup>3</sup> Er darf die Schlussfolgerungen aus ärztlichen Feststellungen nur weitergeben, wenn dafür eine rechtliche Grundlage besteht oder die betroffene Person der Weitergabe schriftlich zugestimmt hat.
 
-<sup>1quater</sup>
-
-Der Bundesrat erlässt Ausführungsbestimmungen über:
-
-- a. die Organisation und den Betrieb des Informationssystems;
-- b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Bekanntgabe, Archivierung und Vernichtung;
-- c. die Datenkataloge;
-- d. die technischen und organisatorischen Schutzmassnahmen zur Verhinderung der Bearbeitung von Personendaten durch unberechtigte Dritte.[^28-4]
-
-<sup>2</sup> Er darf den interessierten Stellen über die Schlussfolgerungen aus ärztlichen Feststellungen nur so weit Auskunft erteilen, als das für die Beurteilung der Anstellungs‑, Versicherungs- oder Arbeitstauglichkeit von Bewerberinnen und Bewerbern oder für die Stellungnahme zu Ansprüchen aus dem Arbeitsverhältnis erforderlich ist.
-
-<sup>3</sup> Im Übrigen darf er Gesundheitsdaten und medizinische Akten nur mit schriftlicher Zustimmung der betroffenen Person weitergeben; wird die Zustimmung verweigert, so darf die Weitergabe nur mit Ermächtigung der in den Ausführungsbestimmungen zu bezeichnenden Stelle erfolgen.
-
-<sup>4</sup>
-
-Die Ermächtigung nach Absatz 3 wird verweigert, wenn:
-
-- a. die Person, über die Auskunft verlangt wird, ein überwiegendes Interesse an der Geheimhaltung hat; oder
-- b. diese den Arbeitgeber in der Durchführung seiner Aufgaben wesentlich beeinträchtigen würde; oder
-- c. öffentliche Interessen es verlangen.
-
-[^28-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^28-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 4. Abschnitt: Massnahmen zu Gunsten des Personals
 
@@ -721,15 +891,20 @@ Die Ermächtigung nach Absatz 3 wird verweigert, wenn:
 
 <sup>1</sup> Der Bundesrat regelt die Leistungen, die den Angestellten für den Unterhalt ihrer Kinder in Ergänzung zu den Familienzulagen nach den Familienzulagenordnungen der Kantone ausgerichtet werden.[^31-1]
 
-<sup>2</sup> Die Ausführungsbestimmungen können Massnahmen vorsehen, welche die Kinderbetreuung erleichtern. Sie können zu Gunsten von Angestellten, die abhängige Erwerbsbehinderte betreuen oder für solche aufkommen, Massnahmen zur Erleichterung der Betreuung sowie Leistungen vorsehen.
+<sup>2</sup> Die Ausführungsbestimmungen können Massnahmen vorsehen, welche die Kinderbetreuung erleichtern. Sie können zu Gunsten von Angestellten, die abhängige Menschen mit einer Erwerbsunfähigkeit aufgrund einer Behinderung betreuen oder für solche aufkommen, Massnahmen zur Erleichterung der Betreuung sowie Leistungen vorsehen.[^31-2]
 
 <sup>3</sup> Die Ausführungsbestimmungen können Massnahmen und Leistungen zur Milderung der Folgen sozialer Härten vorsehen.
 
-<sup>4</sup> Muss infolge wirtschaftlicher oder betrieblicher Massnahmen grösseren Personalbeständen gekündigt werden, so erlässt der Arbeitgeber einen Sozialplan. Wo das Arbeitsverhältnis durch Gesamtarbeitsvertrag (Art. 38) geregelt ist, legen die Vertragsparteien den Sozialplan gesamtarbeitsvertraglich fest. Können sie sich nicht einigen, so legt das Schiedsgericht (Art. 38 Abs. 3) den Sozialplan fest.
+<sup>4</sup> Muss infolge wirtschaftlicher oder betrieblicher Massnahmen grösseren Personalbeständen gekündigt werden, so handelt der Arbeitgeber mit den Personalverbänden einen Sozialplan aus. Können sich die Parteien bei der Aushandlung des Sozialplans nicht einigen, sind die Bestimmungen über Umstrukturierungen und Reorganisationen anwendbar.[^31-3]
+
+<sup>4bis</sup> Wo das Arbeitsverhältnis durch einen Gesamtarbeitsvertrag (Art. 38) geregelt ist, legen die Vertragsparteien den Sozialplan gesamtvertraglich fest. Können sie sich nicht einigen, so legt das Schiedsgericht (Art. 38 Abs. 3) den Sozialplan fest.[^31-4]
 
 <sup>5</sup> Die Ausführungsbestimmungen können weitere Massnahmen und Leistungen zur sozialen Sicherung des Personals vorsehen, insbesondere die Unterstützung bei beruflicher Umorientierung oder Leistungen bei vorzeitiger Pensionierung.
 
 [^31-1]: Fassung gemäss Anhang Ziff. 1 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^31-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^31-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^31-4]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32
 
@@ -749,45 +924,58 @@ Die Ausführungsbestimmungen können zusätzlich vorsehen:
 
 [^sec4b-1]
 
-[^sec4b-1]: Eingefügt durch Anhang des PUBLICA-Gesetzes vom 20. Dez. 2006, in Kraft seit 1. Mai 2007 für Art. 32*e* Abs. 3 und 1. Juli 2008 für die übrigen Bestimmungen ([AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131); [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)).
+[^sec4b-1]: Eingefügt durch Anhang des Publica-Gesetzes vom 20. Dez. 2006, in Kraft seit 1. Mai 2007 für Art. 32*e* Abs. 3 und 1. Juli 2008 für die übrigen Bestimmungen ([AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131); [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)).
 
 #### Art. 32a
 
 **Versichertes Personal**[^32a-1]
 
-<sup>1</sup> Angestellte der Arbeitgeber nach Artikel 2 Absatz 1 Buchstaben a, b und e–i sind bei PUBLICA gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod versichert.
+<sup>1</sup> Angestellte der Arbeitgeber nach Artikel 2 Absatz 1 Buchstaben a, b und e–i sind bei Publica[^32a-2] gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod versichert.
 
-<sup>2</sup> Verwaltungseinheiten der dezentralen Bundesverwaltung mit eigener Rechtspersönlichkeit und eigener Rechnung, die gestützt auf ein Spezialgesetz ein von diesem Gesetz abweichendes Personalstatut oder nach Artikel 3 Absatz 2 und 37 Absatz 3 eigene personalrechtliche Arbeitgeberbefugnisse haben, versichern ihre Angestellten ebenfalls bei PUBLICA.
+<sup>2</sup> Verwaltungseinheiten der dezentralen Bundesverwaltung mit eigener Rechtspersönlichkeit und eigener Rechnung, die gestützt auf ein Spezialgesetz ein von diesem Gesetz abweichendes Personalstatut oder nach Artikel 3 Absatz 2 und 37 Absatz 3 eigene personalrechtliche Arbeitgeberbefugnisse haben, versichern ihre Angestellten ebenfalls bei Publica.
 
 [^32a-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2027 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 32b
 
 **Arbeitgeber**
 
-<sup>1</sup> Der Bundesrat gilt als Arbeitgeber im Sinne des PUBLICA-Gesetzes vom 20. Dezember 2006[^32b-1] für die Angestellten nach Artikel 32*a*; Absatz 2 ist vorbehalten.
+<sup>1</sup> Der Bundesrat gilt als Arbeitgeber im Sinne des Publica-Gesetzes vom 20. Dezember 2006[^32b-1] für die Angestellten nach Artikel 32*a*; Absatz 2 ist vorbehalten.
 
 <sup>2</sup> Die Verwaltungseinheiten der dezentralen Bundesverwaltung mit eigener Rechtspersönlichkeit und eigener Rechnung sind Arbeitgeber für ihre Angestellten.
 
 <sup>3</sup> Der Bundesrat bestimmt die Arbeitgebervertreter und Arbeitgebervertreterinnen des Vorsorgewerks Bund (Art. 32*d* Abs. 2) in der Kassenkommission.
 
-[^32b-1]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32b-1]: [SR 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 #### Art. 32c
 
-**Anschluss an PUBLICA**
+**Anschluss an Publica**
 
-<sup>1</sup> Der Anschluss der Arbeitgeber an PUBLICA nach Artikel 4 Absatz 1 des PUBLICA-Gesetzes vom 20. Dezember 2006[^32c-1] erfolgt über einen öffentlichrechtlichen Anschlussvertrag. Für den Bundesrat erfolgt die Vertragsunterzeichnung durch das EFD.[^32c-2]
+<sup>1</sup> Der Anschluss der Arbeitgeber an Publica nach Artikel 4 Absatz 1 des Publica-Gesetzes vom 20. Dezember 2006[^32c-1] erfolgt über einen öffentlichrechtlichen Anschlussvertrag. Für den Bundesrat erfolgt die Vertragsunterzeichnung durch das EFD.[^32c-2]
 
-<sup>2</sup> Die Vorsorgereglemente bilden Bestandteil des Anschlussvertrages.
+<sup>2</sup> …[^32c-3]
 
-<sup>3</sup> Der Abschluss und die Änderung des Anschlussvertrages bedarf der Mitwirkung und der Zustimmung des paritätischen Organs. Anschlussverträge von anderen Arbeitgebern als dem Bundesrat bedürfen zu ihrer Rechtsverbindlichkeit zudem der Genehmigung durch den Bundesrat.
+<sup>3</sup> Der Abschluss, die Änderung und die Auflösung des Anschlussvertrages bedarf der Mitwirkung und Zustimmung des paritätischen Organs.[^32c-4] Anschlussverträge von anderen Arbeitgebern als dem Bundesrat bedürfen zu ihrer Rechtsverbindlichkeit zudem der Genehmigung durch den Bundesrat.
 
-<sup>4</sup> Änderungen von Anschlussverträgen bedürfen der Genehmigung durch den Bundesrat, wenn sie finanzielle Auswirkungen für den Arbeitgeber, die Angestellten, die Rentenbeziehenden oder das Vorsorgewerk haben.[^32c-3]
+<sup>4</sup> …[^32c-5]
 
-[^32c-1]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32c-1]: [SR 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 [^32c-2]: Fassung des letzten Satzes gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^32c-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32c-3]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32c-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32c-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)). Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 32c<sup>bis</sup>
+
+**Vorsorgereglemente**[^32cbis-1]
+
+<sup>1</sup> Die Vorsorgereglemente regeln die Leistungen.
+
+<sup>2</sup> Das paritätische Organ erlässt, ändert oder hebt das Vorsorgereglement unter Vorbehalt der Genehmigung durch die Kassenkommission auf.
+
+[^32cbis-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32d
 
@@ -799,7 +987,7 @@ Die Ausführungsbestimmungen können zusätzlich vorsehen:
 
 <sup>2bis</sup> Legen insbesondere Grösse, Struktur und Aufgaben eines Arbeitgebers den Zusammenschluss nach Absatz 1 oder einen Anschluss an das Vorsorgewerk Bund aus versicherungstechnischen oder vorsorgetechnischen Gründen nahe, so kann der Bundesrat den Zusammenschluss anordnen oder einem Anschlussbegehren zustimmen.[^32d-4]
 
-<sup>3</sup> Die Vorsorgewerke tragen die auf sie entfallenden Kosten selber. Bei gemeinschaftlichen Vorsorgewerken stellt PUBLICA nach Arbeitgebern getrennt Rechnung.
+<sup>3</sup> Die Vorsorgewerke tragen die auf sie entfallenden Kosten selber. Bei gemeinschaftlichen Vorsorgewerken stellt Publica nach Arbeitgebern getrennt Rechnung.
 
 [^32d-1]: Dritter Satz eingefügt durch Anhang Ziff. II 2 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^32d-2]: Zweiter Satz eingefügt durch Anhang Ziff. II 2 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
@@ -820,11 +1008,11 @@ Die Ausführungsbestimmungen können zusätzlich vorsehen:
 
 **Auflösung von Anschlussverträgen, Austritt von Verwaltungseinheiten und Statuswechsel**
 
-<sup>1</sup> Tritt ein Arbeitgeber oder eine Verwaltungseinheit aus PUBLICA oder einem Vorsorgewerk aus oder wechselt er oder sie den rechtlichen Status, so treten die dem Arbeitgeber oder der Verwaltungseinheit zugeordneten aktiven Versicherten und Rentenbeziehenden in die neue Vorsorgeeinrichtung beziehungsweise in das neue Vorsorgewerk über.
+<sup>1</sup> Tritt ein Arbeitgeber oder eine Verwaltungseinheit aus Publica oder einem Vorsorgewerk aus oder wechselt er oder sie den rechtlichen Status, so treten die dem Arbeitgeber oder der Verwaltungseinheit zugeordneten aktiven Versicherten und Rentenbeziehenden in die neue Vorsorgeeinrichtung beziehungsweise in das neue Vorsorgewerk über.
 
-<sup>2</sup> Die Rentenbeziehenden können bei PUBLICA beziehungsweise beim bisherigen Vorsorgewerk zurückgelassen werden, wenn die Interessen des Bundes an der Ausgliederung oder dem Statuswechsel dies erfordern.
+<sup>2</sup> Die Rentenbeziehenden können bei Publica beziehungsweise beim bisherigen Vorsorgewerk zurückgelassen werden, wenn die Interessen des Bundes an der Ausgliederung oder dem Statuswechsel dies erfordern.
 
-<sup>3</sup> Der nach dem Austritt oder Statuswechsel für die aktiven Versicherten zuständige Arbeitgeber ist auch für die Finanzierung der Arbeitgeberpflichten für die zurückgelassenen Rentenbeziehenden zuständig. Er gleicht PUBLICA einen allfälligen durch das Zurücklassen der Rentenbeziehenden entstehenden und nicht durch das vorhandene Vermögen gedeckten finanziellen Nachteil aus.
+<sup>3</sup> Der nach dem Austritt oder Statuswechsel für die aktiven Versicherten zuständige Arbeitgeber ist auch für die Finanzierung der Arbeitgeberpflichten für die zurückgelassenen Rentenbeziehenden zuständig. Er gleicht Publica einen allfälligen durch das Zurücklassen der Rentenbeziehenden entstehenden und nicht durch das vorhandene Vermögen gedeckten finanziellen Nachteil aus.
 
 <sup>4</sup> Der Bund kann die Finanzierung dieser Pflichten übernehmen, wenn der Bundesrat zuvor Arbeitgeber war und ein Gesetz nicht etwas anderes vorsieht.
 
@@ -832,13 +1020,19 @@ Die Ausführungsbestimmungen können zusätzlich vorsehen:
 
 **Finanzierung der Vorsorge**
 
-<sup>1</sup> Die Beiträge der Arbeitgeber für die Altersvorsorge, Risikoversicherung und Überbrückungsrente betragen gesamthaft mindestens 11 und höchstens 13,5 Prozent der versicherbaren Lohnsumme. Ihre Höhe richtet sich nach der Risiko- und Altersstruktur der Versicherten des Vorsorgewerks, den längerfristigen Ertragsaussichten, der Veränderung des technischen Zinses und der wirtschaftlichen Lage des Arbeitgebers.
+<sup>1</sup> Die Spar- und Risikobeiträge der Arbeitgeber betragen gesamthaft mindestens 11 und höchstens 13,5 Prozent der versicherbaren Lohnsumme.[^32g-1] Ihre Höhe richtet sich nach der Risiko- und Altersstruktur der Versicherten des Vorsorgewerks, den längerfristigen Ertragsaussichten, der Veränderung des technischen Zinses und der wirtschaftlichen Lage des Arbeitgebers.
 
-<sup>2</sup> Die Arbeitgeber legen ihre Beiträge nach Anhörung des paritätischen Organs der Vorsorgewerke fest.
+<sup>1bis</sup> In gemeinschaftlichen Vorsorgewerken gilt die Beitragsbandbreite nach Absatz 1 für das ganze Vorsorgewerk.[^32g-2]
+
+<sup>1ter</sup> Die Arbeitgeber weisen den Prozentsatz der Beiträge nach Absatz 1 in der Berichterstattung gemäss Artikel 5 Absatz 1 aus. Sie begründen allfällige Unter- oder Überschreitungen der Beitragsbandbreite und treffen die entsprechenden Korrekturmassnahmen.[^32g-3]
+
+<sup>2</sup> Der Bundesrat legt nach Anhörung des paritätischen Organs und Information der Kassenkommission die Bestimmungen über die Finanzierung für die Arbeitgeber im Vorsorgewerk Bund fest.[^32g-4]
+
+<sup>2bis</sup> Die Verwaltungseinheiten der dezentralen Bundesverwaltung, die nicht beim Vorsorgewerk Bund angeschlossen sind, legen nach Anhörung des jeweiligen paritätischen Organs und Information der Kassenkommission die Bestimmungen über die Finanzierung fest und unterbreiten sie dann dem Bundesrat zur Genehmigung.[^32g-5]
 
 <sup>3</sup> Die Arbeitgeber- und Arbeitnehmerbeiträge werden nach Alter der Versicherten gestaffelt.
 
-<sup>4</sup> Die Vorsorgereglemente können im Rahmen von Artikel 66 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^32g-1] über die Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und Artikel 331 Absatz 3 OR[^32g-2] Abweichungen von der paritätischen Finanzierung der Risikoleistungen und der Altersleistungen vorsehen.[^32g-3]
+<sup>4</sup> Die nach den Absätzen 2 und 2<sup>bis</sup> festzulegenden Bestimmungen können im Rahmen von Artikel 66 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^32g-6] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und Artikel 331 Absatz 3 OR[^32g-7] Abweichungen von der paritätischen Finanzierung der Risikoleistungen und der Altersleistungen vorsehen.[^32g-8]
 
 <sup>5</sup> Als versicherbarer Lohn gelten der AHV-pflichtige Lohn und die Zuschläge nach Artikel 15. Nicht zum versicherbaren Lohn gehören der Ersatz von Auslagen und Abgeltungen für Leistungen wie Mehrarbeit und Überzeit, Pikett-, Nacht- oder Schichtarbeit.
 
@@ -846,15 +1040,20 @@ Die Ausführungsbestimmungen können zusätzlich vorsehen:
 
 <sup>7</sup> Der versicherte Verdienst entspricht dem versicherbaren Jahreslohn, vermindert um den Koordinationsbetrag.
 
-[^32g-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^32g-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^32g-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32g-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-2]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-3]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-5]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-6]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^32g-7]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^32g-8]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32h
 
 **Erhebung der Arbeitgeberbeiträge**
 
-Die Arbeitgeber erheben die PUBLICA geschuldeten Arbeitgeberbeiträge bei ihren Verwaltungseinheiten in der Form eines vom Alter der angestellten Personen unabhängigen Beitrags auf der Summe der versicherten Verdienste. Dies gilt nicht für Arbeitgeber nach Artikel 32*a* Absatz 2.
+Die Arbeitgeber erheben die Publica geschuldeten Arbeitgeberbeiträge bei ihren Verwaltungseinheiten in der Form eines vom Alter der angestellten Personen unabhängigen Beitrags auf der Summe der versicherten Verdienste. Dies gilt nicht für Arbeitgeber nach Artikel 32*a* Absatz 2.
 
 #### Art. 32i
 
@@ -862,13 +1061,15 @@ Die Arbeitgeber erheben die PUBLICA geschuldeten Arbeitgeberbeiträge bei ihren 
 
 <sup>1</sup> Die Beitragspflicht für die Altersvorsorge im Beitragsprimat beginnt am 1. Januar nach dem vollendeten 21. Altersjahr und dauert bis zum Ende der Beitragspflicht gemäss AHVG[^32i-1].
 
-<sup>2</sup> Die Vorsorgereglemente können bestimmen, dass die Beiträge an die Altersvorsorge bis zum 70. Altersjahr rentenbildend sind.
+<sup>2</sup> …[^32i-2]
 
 <sup>3</sup> Beendet die versicherte Person zwischen dem vollendeten 60. und 70. Altersjahr das Arbeitsverhältnis oder reduziert sie den Beschäftigungsgrad, so kann sie die Ausrichtung der entsprechenden Altersrente oder Teilaltersrente verlangen.
 
-<sup>4</sup> Die reglementarische Altersleistung ergibt sich aus den geleisteten Beiträgen und den Vermögenserträgen. Die Umwandlungssätze werden versicherungsmathematisch festgelegt. Das Vorsorgereglement regelt den Bezug der Altersleistung in Form einer Kapitalabfindung und den Bezug der Altersleistung nach dem Ende der Beitragspflicht gemäss dem AHVG.
+<sup>4</sup> …[^32i-3]
 
-[^32i-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32i-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^32i-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32i-3]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32j
 
@@ -878,54 +1079,56 @@ Die Arbeitgeber erheben die PUBLICA geschuldeten Arbeitgeberbeiträge bei ihren 
 
 <sup>2</sup> Invalidenleistungen werden ausgerichtet, wenn die versicherte Person nach Artikel 23 BVG[^32j-1] anspruchsberechtigt wird und die Lohnzahlungen des Arbeitgebers durch Beendigung des Anstellungsverhältnisses beziehungsweise die sie ersetzenden Versicherungsleistungen aufhören.[^32j-2]
 
-<sup>2bis</sup> Liegt keine Invalidität nach Absatz 2 vor und besteht nach medizinischer Untersuchung durch den zuständigen ärztlichen Dienst lediglich eine Berufsinvalidität, so kann PUBLICA auf Antrag des Arbeitgebers Invalidenleistungen ausrichten, wenn Eingliederungsmassnahmen erfolglos geblieben sind. Der Arbeitgeber vergütet PUBLICA das dazu notwendige Deckungskapital.[^32j-3]
+<sup>2bis</sup> Liegt keine Invalidität nach Absatz 2 vor und besteht nach medizinischer Untersuchung durch den zuständigen ärztlichen Dienst lediglich eine Berufsinvalidität, so kann Publica auf Antrag des Arbeitgebers Invalidenleistungen ausrichten, wenn Eingliederungsmassnahmen erfolglos geblieben sind. Der Arbeitgeber vergütet Publica das dazu notwendige Deckungskapital.[^32j-3]
 
-<sup>3</sup> Die Leistungen bei Invalidität und Tod basieren auf dem Altersguthaben, das bis zum Ende der Beitragspflicht gemäss AHVG[^32j-4] erworben werden kann. Die Vorsorgereglemente können für die Ermittlung dieses Guthabens einen Projektionszins vorsehen.[^32j-5]
+<sup>3</sup> Die Leistungen bei Invalidität und Tod können nach dem Beitrags- oder Leistungsprimat oder einer Kombination davon definiert werden. Wenn die Leistungen nach dem Beitragsprimat definiert werden, können die Vorsorgereglemente für das Altersguthaben einen Projektionszins vorsehen.[^32j-4]
 
-[^32j-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^32j-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^32j-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^32j-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^32j-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^32j-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32j-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32k
 
 **Überbrückungsrenten**[^32k-1]
 
-<sup>1</sup> Die Ausführungsbestimmungen können eine Überbrückungsrente vorsehen für Fälle, in denen der Altersrücktritt vor dem Rentenalter nach Artikel 21 AHVG[^32k-2] erfolgt. Die Überbrückungsrente wird grundsätzlich durch die Angestellten finanziert. Die Arbeitgeber können sich im Einzelfall mit höchstens 50 Prozent an der Finanzierung der Überbrückungsrente beteiligen.
+<sup>1</sup> Die Ausführungsbestimmungen können eine Überbrückungsrente vorsehen für Fälle, in denen der Altersrücktritt vor dem Erreichen des Referenzalters nach Artikel 21 AHVG[^32k-2] erfolgt.[^32k-3] Die Überbrückungsrente wird grundsätzlich durch die Angestellten finanziert. Die Arbeitgeber können sich im Einzelfall mit höchstens 50 Prozent an der Finanzierung der Überbrückungsrente beteiligen.
 
 <sup>2</sup> Die Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente kann bei besonderen Personalkategorien oder aus sozialen Gründen mehr als 50 Prozent betragen.
 
 [^32k-1]: Fassung gemäss Ziff. I 2 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^32k-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32k-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^32k-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32l
 
-**Anpassung der Renten an die Teuerung aus Vermögenserträgen von PUBLICA**
+**Anpassung der Renten an die Teuerung aus Vermögenserträgen von Publica**
 
-<sup>1</sup> Das paritätische Organ des Vorsorgewerks legt die Höhe der Teuerungsanpassung auf den Renten nach dem dafür zur Verfügung stehenden Vermögensertrag fest. Eine Teuerungsanpassung darf erst nach erfolgtem Aufbau einer mindestens 15 %igen Schwankungsreserve erfolgen.
+<sup>1</sup> Das paritätische Organ des Vorsorgewerks legt die Höhe der Teuerungsanpassung auf den Renten entsprechend den finanziellen Möglichkeiten des Vorsorgewerks fest.[^32l-1] Eine Teuerungsanpassung darf erst nach erfolgtem Aufbau einer mindestens 15prozentigen Schwankungsreserve erfolgen.
 
-<sup>2</sup> Im Vorsorgewerk Bund gilt der Entscheid des paritätischen Organs für alle Arbeitgeber. Er hat keine Auswirkungen auf die ehemaligen Bundesangestellten, die im Zeitpunkt der Anpassung ihre Rente von einer anderen Vorsorgeeinrichtung als PUBLICA oder von einem anderen zu PUBLICA gehörenden Vorsorgewerk beziehen. Ebenfalls keine Auswirkungen hat der Entscheid auf die Rentnerinnen und Rentner, die einem geschlossenen Rentnerbestand angehören (Art. 23 Abs. 2 zweiter Satz PUBLICA-Gesetz vom 20. Dez. 2006[^32l-1]), solange diese Rentnerinnen und Rentner nicht nach Artikel 24 Absatz 4 des PUBLICA-Gesetzes vom 20. Dezember 2006 in das Vorsorgewerk Bund überführt worden sind.
+<sup>2</sup> Im Vorsorgewerk Bund gilt der Entscheid des paritätischen Organs für alle Arbeitgeber. Er hat keine Auswirkungen auf die ehemaligen Bundesangestellten, die im Zeitpunkt der Anpassung ihre Rente von einer anderen Vorsorgeeinrichtung als Publica oder von einem anderen zu Publica gehörenden Vorsorgewerk beziehen. Ebenfalls keine Auswirkungen hat der Entscheid auf die Rentnerinnen und Rentner, die einem geschlossenen Rentnerbestand angehören (Art. 23 Abs. 2 zweiter Satz Publica-Gesetz vom 20. Dez. 2006[^32l-2]), solange diese Rentnerinnen und Rentner nicht nach Artikel 24 Absatz 4 des Publica-Gesetzes vom 20. Dezember 2006 in das Vorsorgewerk Bund überführt worden sind.
 
-[^32l-1]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32l-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32l-2]: [SR 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 #### Art. 32m
 
 **Ausserordentliche Anpassung der Renten an die Teuerung und einmalige Zulagen durch die Arbeitgeber**[^32m-1]
 
-<sup>1</sup> Erlauben die Vermögenserträge des Vorsorgewerks keine oder nur eine ungenügende Anpassung der Renten an die Teuerung, so können die Arbeitgeber auf den Renten ihrer ehemaligen Angestellten eine angemessene ausserordentliche Teuerungsanpassung oder die Ausrichtung einer einmaligen Zulage beschliessen. Für die zum Vorsorgewerk Bund gehörenden Arbeitgeber entscheidet der Bundesrat.
+<sup>1</sup> Erlauben die finanziellen Möglichkeiten des Vorsorgewerks keine oder nur eine ungenügende Anpassung der Renten an die Teuerung, so können die Arbeitgeber auf den Renten ihrer ehemaligen Angestellten eine angemessene ausserordentliche Teuerungsanpassung oder die Ausrichtung einer einmaligen Zulage beschliessen.[^32m-2] Für die zum Vorsorgewerk Bund gehörenden Arbeitgeber entscheidet der Bundesrat.
 
 <sup>2</sup>
 
 Der Beschluss der Arbeitgeber nach Absatz 1 hat keine Auswirkungen:
 
-- a. auf die ehemaligen Angestellten, die im Zeitpunkt des Wirksamwerdens einer Massnahme nach Absatz 1 ihre Rente von einer anderen Vorsorgeeinrichtung als PUBLICA oder von einem anderen zu PUBLICA gehörenden Vorsorgewerk beziehen oder die innerhalb eines gemeinschaftlichen Vorsorgewerks nach Artikel 32*d* Absätze 1 und 2 einem anderen PUBLICA angeschlossenen Arbeitgeber zugeordnet sind; und
-- b. auf die Rentnerinnen und Rentner, die einem geschlossenen Rentnerbestand angehören (Art. 23 Abs. 2 zweiter Satz PUBLICA-Gesetz vom 20. Dez. 2006[^32m-2]).
+- a. auf die ehemaligen Angestellten, die im Zeitpunkt des Wirksamwerdens einer Massnahme nach Absatz 1 ihre Rente von einer anderen Vorsorgeeinrichtung als Publica oder von einem anderen zu Publica gehörenden Vorsorgewerk beziehen oder die innerhalb eines gemeinschaftlichen Vorsorgewerks nach Artikel 32*d* Absätze 1 und 2 einem anderen Publica angeschlossenen Arbeitgeber zugeordnet sind; und
+- b. auf die Rentnerinnen und Rentner, die einem geschlossenen Rentnerbestand angehören (Art. 23 Abs. 2 zweiter Satz Publica-Gesetz vom 20. Dez. 2006[^32m-3]).
 
-<sup>3</sup> Die Arbeitgeber vergüten PUBLICA das zur Finanzierung der Massnahmen nach Absatz 1 erforderliche Deckungskapital.
+<sup>3</sup> Die Arbeitgeber vergüten Publica das zur Finanzierung der Massnahmen nach Absatz 1 erforderliche Deckungskapital.
 
 [^32m-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^32m-2]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32m-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32m-3]: [SR 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 ## 5. Abschnitt: Mitwirkung und Sozialpartnerschaft
 
@@ -947,7 +1150,7 @@ Sie konsultieren das Personal und seine Organisationen insbesondere:
 
 <sup>4</sup> Die Ausführungsbestimmungen regeln die Mitwirkung des Personals und seiner Organisationen. Sie können Beratungs‑, Schlichtungs- und Entscheidungsorgane vorsehen, die paritätisch zusammengesetzt sein können.
 
-[^33-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^33-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## 6. Abschnitt: Verfahren
 
@@ -955,17 +1158,18 @@ Sie konsultieren das Personal und seine Organisationen insbesondere:
 
 **Streitigkeiten aus dem Arbeitsverhältnis**
 
-<sup>1</sup> Kommt bei Streitigkeiten aus dem Arbeitsverhältnis keine Einigung zu Stande, so erlässt der Arbeitgeber eine Verfügung.
+<sup>1</sup> Streitigkeiten aus dem Arbeitsverhältnis werden mittels Vereinbarung erledigt oder der Arbeitgeber erlässt eine Verfügung.[^34-1]
 
-<sup>1bis</sup> Versetzungsentscheide oder andere dienstliche Anweisungen an das einer Versetzungspflicht unterstehende Personal gemäss Artikel 21 Absatz 1 Buchstaben a und c<sup>bis</sup> stellen keine beschwerdefähigen Verfügungen dar.[^34-1]
+<sup>1bis</sup> Versetzungsentscheide oder andere dienstliche Anweisungen an das einer Versetzungspflicht unterstehende Personal gemäss Artikel 21 Absatz 1 Buchstaben a und c<sup>bis</sup> stellen keine beschwerdefähigen Verfügungen dar.[^34-2]
 
-<sup>2</sup> Das erstinstanzliche Verfahren sowie das Beschwerdeverfahren nach Artikel 36 sind kostenlos, ausser bei Mutwilligkeit.[^34-2]
+<sup>2</sup> Das erstinstanzliche Verfahren sowie das Beschwerdeverfahren nach Artikel 36 sind kostenlos, ausser bei Mutwilligkeit.[^34-3]
 
-<sup>3</sup> Abgewiesene Stellenbewerberinnen und Stellenbewerber haben keinen Anspruch auf den Erlass einer anfechtbaren Verfügung.[^34-3]
+<sup>3</sup> Abgewiesene Stellenbewerberinnen und Stellenbewerber haben keinen Anspruch auf den Erlass einer anfechtbaren Verfügung.[^34-4]
 
-[^34-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^34-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^34-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 34a
 
@@ -983,13 +1187,18 @@ Beschwerden haben nur aufschiebende Wirkung, wenn die Beschwerdeinstanz dies von
 
 Heisst die Beschwerdeinstanz die Beschwerde gegen eine Verfügung über die Kündigung des Arbeitsverhältnisses durch den Arbeitgeber gut und weist sie die Sache nicht ausnahmsweise an die Vorinstanz zurück, so muss sie:
 
-- a. der Beschwerdeführerin oder dem Beschwerdeführer eine Entschädigung zusprechen, wenn sachlich hinreichende Gründe für die ordentliche Kündigung oder wichtige Gründe für die fristlose Kündigung fehlen oder Verfahrensvorschriften verletzt worden sind;
+- a.[^34b-2] der Beschwerdeführerin oder dem Beschwerdeführer eine Entschädigung zusprechen, wenn sachliche Gründe für die ordentliche Kündigung oder wichtige Gründe für die fristlose Kündigung fehlen oder Verfahrensvorschriften verletzt worden sind;
 - b. die Fortzahlung des Lohnes bis zum Ablauf der ordentlichen Kündigungsfrist oder des befristeten Arbeitsvertrags anordnen, wenn im Fall einer fristlosen Kündigung wichtige Gründe fehlen;
 - c. das Arbeitsverhältnis bis zum Ablauf der ordentlichen Kündigungsfrist erstrecken, wenn Vorschriften über die Kündigungsfristen verletzt worden sind.
 
-<sup>2</sup> Die Entschädigung nach Absatz 1 Buchstabe a wird von der Beschwerdeinstanz unter Würdigung aller Umstände festgelegt. Sie beträgt in der Regel mindestens sechs Monatslöhne und höchstens einen Jahreslohn.
+<sup>2</sup> Die Entschädigung nach Absatz 1 Buchstabe a wird von der Beschwerdeinstanz unter Würdigung aller Umstände festgelegt. Sie beträgt höchstens acht Monatslöhne.[^34b-3]
+
+<sup>3</sup> Sind die Voraussetzungen für die Ausrichtung einer Entschädigung nach Artikel 19 erfüllt, wird diese mit den Entschädigungen nach Absatz 1 Buchstabe a kumuliert.[^34b-4]
 
 [^34b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34b-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34b-3]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34b-4]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 34c
 
@@ -999,16 +1208,23 @@ Heisst die Beschwerdeinstanz die Beschwerde gegen eine Verfügung über die Kün
 
 Der Arbeitgeber bietet der angestellten Person die bisherige oder, wenn dies nicht möglich ist, eine zumutbare andere Arbeit an, wenn die Beschwerdeinstanz die Beschwerde gegen eine Verfügung über die Kündigung des Arbeitsverhältnisses aus einem der folgenden Gründe gutgeheissen hat:
 
-- a. Die Kündigung wurde ausgesprochen, weil die angestellte Person in guten Treuen eine Anzeige nach Artikel 22*a* Absatz 1 oder eine Meldung nach Artikel 22*a* Absatz 4 erstattet oder weil sie als Zeuge oder Zeugin ausgesagt hat.
-- b. Die Kündigung ist missbräuchlich nach Artikel 336 OR[^34c-2].
+- a.[^34c-2] Die Kündigung wurde ausgesprochen, weil die angestellte Person in guten Treuen eine Meldung beziehungsweise Anzeige nach Artikel 22*a* Absätze 1 oder 4 erstattet hat oder weil sie als Zeuge oder Zeugin ausgesagt hat.
+- b. Die Kündigung ist missbräuchlich nach Artikel 336 OR[^34c-3].
 - c. Die Kündigung ist während eines in Artikel 336*c* Absatz 1 OR genannten Zeitraums ausgesprochen worden.
-- d. Die Kündigung ist diskriminierend nach Artikel 3 oder 4 des Gleichstellungsgesetzes vom 24. März 1995[^34c-3].
+- d. Die Kündigung ist diskriminierend nach Artikel 3 oder 4 des Gleichstellungsgesetzes vom 24. März 1995[^34c-4].
 
 <sup>2</sup> Die Beschwerdeinstanz spricht der angestellten Person bei einer Gutheissung der Beschwerde auf deren Gesuch hin anstelle einer Weiterbeschäftigung nach Absatz 1 eine Entschädigung von in der Regel mindestens sechs Monatslöhnen und höchstens einem Jahreslohn zu.
 
+<sup>3</sup> Die Entschädigung nach Absatz 2 wird mit der Entschädigung nach Artikel 19 kumuliert.[^34c-5]
+
+<sup>4</sup> Die Entschädigung nach Absatz 2 wird nicht mit der Entschädigung nach Artikel 34*b* Absatz 1 Buchstabe a kumuliert.[^34c-6]
+
 [^34c-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^34c-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^34c-3]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^34c-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34c-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^34c-4]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^34c-5]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34c-6]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 35
 
@@ -1030,7 +1246,7 @@ Der Arbeitgeber bietet der angestellten Person die bisherige oder, wenn dies nic
 
 [^36-1]: Fassung gemäss Anhang Ziff. 12 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^36-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^36-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^36-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 36a
 
@@ -1063,7 +1279,7 @@ Soweit nach Artikel 6 Absatz 2 sinngemäss das OR[^37-3] gilt, können die Arbei
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^37-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^37-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^37-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^37-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 38
@@ -1096,11 +1312,10 @@ Die Vertragsparteien können im GAV insbesondere vorsehen:
 
 <sup>1</sup> Das Beamtengesetz vom 30. Juni 1927[^39-1] wird aufgehoben.
 
-<sup>2</sup> Artikel 48 Absätze 1–5<sup>ter</sup> des Beamtengesetzes vom 30. Juni 1927 bleibt weiterhin in Kraft.
-
-<sup>3</sup> Der Bundesrat kann vorsehen, dass weitere Bestimmungen des Beamtengesetzes vom 30. Juni 1927 für beschränkte Zeit weiterhin in Kraft bleiben.
+<sup>2 und <sup>3</sup></sup> …[^39-2]
 
 [^39-1]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II, [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]
+[^39-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 40
 
@@ -1114,43 +1329,39 @@ Die Vertragsparteien können im GAV insbesondere vorsehen:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup>
-
-Bis zum Inkrafttreten der zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen nach Artikel 37 oder des GAV nach Artikel 38 richtet sich das Arbeitsverhältnis:
-
-- a. bei den Departementen, der Bundeskanzlei, den eidgenössischen Schieds- und Rekurskommissionen, beim Bundesgericht sowie bei den Parlamentsdiensten nach der Angestelltenordnung vom 10. November 1959[^41-1];
-- b. bei den Schweizerischen Bundesbahnen nach der Angestelltenordnung der SBB vom 2. Juli 1993[^41-2];
-- c. bei der Schweizerischen Post nach der Angestelltenordnung Post[^41-3].
-
-<sup>2</sup> Der Bundesrat kann weitere Ausführungserlasse, die sich auf das Beamtengesetz vom 30. Juni 1927[^41-4] stützten, zeitlich begrenzt für anwendbar erklären.
-
-<sup>3</sup> Wurde zu einer Streitigkeit über Ansprüche aus dem Arbeitsverhältnis vor dem Inkrafttreten dieses Gesetzes eine Verfügung erlassen, so richtet sich das Beschwerdeverfahren nach dem alten Recht.
+<sup>1<sup>–</sup><sup>3</sup></sup> ... [^41-1]
 
 <sup>4</sup> Arbeitsverhältnisse, die vor Inkrafttreten dieses Gesetzes gemäss dem Beamtengesetz vom 30. Juni 1927 bestehen, gelten automatisch nach dem neuen Recht, es sei denn, sie seien durch ordentliche Kündigung oder Nichtwiederwahl gemäss altem Recht aufgelöst worden.
 
-[^41-1]: [[AS 1959 1181](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217); [1962 289](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300), [1237](https://fedlex.data.admin.ch/eli/oc/1962/1237_1278_1291); [1968 130](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136), [1674](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639); [1971 101](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105); [1972 192](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196); [1973 157](https://fedlex.data.admin.ch/eli/oc/1973/157_157_159); [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713); [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421); [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290); [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49), [945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945), [1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111); [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406), [743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743); [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197), [2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097); [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974); [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31); [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30), [1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223), [1498](https://fedlex.data.admin.ch/eli/oc/1989/1498_1498_); [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105); [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087), [1090](https://fedlex.data.admin.ch/eli/oc/1991/1090_1090_1090), [1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148), [1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397), [1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642); [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Anhang Ziff. 2, [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)Art. 13 Abs. 3, [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819), [2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936); [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6), [279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279), [366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366); [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9), [3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)Anhang Ziff. 10, [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099); [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237), [305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305), [804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804); [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732); [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)Anhang, [2958](https://fedlex.data.admin.ch/eli/oc/2000/528). [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. I 4]
-[^41-2]: [[AS 1993 2915](https://fedlex.data.admin.ch/eli/oc/1993/2915_2915_2915). [AS 2003 4209](https://fedlex.data.admin.ch/eli/oc/2003/622)]
-[^41-3]: **[**[AS 1996 2127](https://fedlex.data.admin.ch/eli/oc/1996/2127_2127_2127). [AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. III 6–22]
-[^41-4]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]
+[^41-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 41a
 
 **Übergangsbestimmungen zur Änderung vom 20. Dezember 2006**[^41a-1]
 
-<sup>1</sup> Die Vorbereitung des Wechsels zum Beitragsprimat richtet sich nach Artikel 26 des PUBLICA-Gesetzes vom 20. Dezember 2006[^41a-2]. Das paritätische Organ beantragt dem EFD rechtzeitig zu Handen des Bundesrates die notwendigen Massnahmen, damit der Anschlussvertrag einschliesslich der Vorsorgereglemente auf den Zeitpunkt des Inkrafttretens dieses Gesetzes wirksam werden kann.
+<sup>1</sup> …[^41a-2]
 
 <sup>2</sup>
 
-Solange für Frauen ein tieferes AHV-Alter als für die Männer gilt, sehen die Vorsorgereglemente vor:
+Solange für Frauen ein tieferes Referenzalter als für die Männer gilt, sehen die Vorsorgereglemente vor:[^41a-3]
 
 - a. dass für Frauen, die zwischen dem vollendeten 64. und 65. Altersjahr in Pension gehen, der für das Alter 65 angewendete Umwandlungssatz gilt;
 - b. dass die Projektion der Altersguthaben zur Ermittlung der Leistungen bei Invalidität und Tod für Männer und Frauen bis zum vollendeten 65. Altersjahr erfolgt.
 
-<sup>3</sup> …[^41a-3]
+<sup>3</sup> …[^41a-4]
 
-[^41a-1]: Eingefügt durch Anhang des PUBLICA-Gesetzes vom 20. Dez. 2006, in Kraft seit 1. Mai 2007 für Abs. 1 und 1. Juli 2008 für die übrigen Bestimmungen ([AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)[2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131); [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)).
-[^41a-2]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
-[^41a-3]: Aufgehoben durch Ziff. I 2 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^41a-1]: Eingefügt durch Anhang des Publica-Gesetzes vom 20. Dez. 2006, in Kraft seit 1. Mai 2007 für Abs. 1 und 1. Juli 2008 für die übrigen Bestimmungen ([AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)[2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131); [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)).
+[^41a-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^41a-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^41a-4]: Aufgehoben durch Ziff. I 2 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+
+#### Art. 41b
+
+**Übergangsbestimmung zur Änderung vom 20. Juni 2025**[^41b-1]
+
+Wurde zu einer Streitigkeit über Ansprüche aus dem Arbeitsverhältnis vor dem Inkrafttreten der Änderung vom 20. Juni 2025 eine Verfügung erlassen, so bemisst sich die Entschädigung gemäss Artikel 34*b* nach bisherigem Recht.
+
+[^41b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 42
 

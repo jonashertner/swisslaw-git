@@ -4,11 +4,11 @@ title: Loi du 24 mars 2000 sur le personnel de la Confédération (LPers)
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: fr
-version: 2024-01-01
+version: 2027-01-01
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20240101/fr"
 
 (LPers)
 
-du 24 mars 2000 (État le 1<sup>er</sup> janvier 2024)
+du 24 mars 2000 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: FF **1999** 1421
 
 ## Section 1 Dispositions générales
@@ -34,7 +34,11 @@ arrête:
 
 **Objet**
 
-La présente loi régit les rapports de travail entre la Confédération et son personnel.
+<sup>1</sup> La présente loi régit les rapports de travail entre la Confédération et son personnel.
+
+<sup>2</sup> Elle régit le traitement des données personnelles des employés, des anciens employés, des candidats et des personnes contactées à des fins de recrutement, pour autant que ces données soient nécessaires à l’exécution des tâches assignées par la présente loi.[^1-1]
+
+[^1-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 2
 
@@ -62,27 +66,30 @@ Elle ne s’applique pas:
 - a. aux personnes élues par l’Assemblée fédérale en vertu de l’art. 168 de la Constitution;
 - b.[^2-16] aux apprentis soumis à la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^2-17];
 - c.[^2-18] au personnel recruté à l’étranger et engagé pour y travailler;
-- d.[^2-19] au personnel des organisations et des personnes de droit public ou de droit privé extérieures à l’administration fédérale auxquelles sont confiées des tâches administratives, à l’exception des Chemins de fer fédéraux.
+- d.[^2-19] au personnel des organisations et des personnes de droit public ou de droit privé extérieures à l’administration fédérale auxquelles sont confiées des tâches administratives, à l’exception des Chemins de fer fédéraux;
+- e.[^2-20] au personnel dont l’engagement repose sur un contrat de location de services au sens de l’art. 22 de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services (LSE)[^2-21].
 
-[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^2-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^2-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^2-4]: Abrogée par l’annexe ch. II 1 de la LF du 17 déc. 2010 sur l’organisation de la Poste, avec effet au 1<sup>er</sup> oct. 2012 ([RO 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [FF 2009 4731](https://fedlex.data.admin.ch/eli/fga/2009/919)).
-[^2-5]: [RS 742.31](https://fedlex.data.admin.ch/eli/cc/1998/2847_2847_2847)
+[^2-5]: [RS 742.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8799)
 [^2-6]: Nouvelle teneur selon l’annexe ch. II 4 de la L du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^2-7]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^2-8]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^2-9]: [RS 173.41](https://fedlex.data.admin.ch/eli/cc/2010/72)
+[^2-7]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^2-8]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^2-9]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
 [^2-10]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-11]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^2-11]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^2-12]: Introduite par l’annexe ch. II 4 de la L du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^2-13]: Introduite par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-14]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^2-14]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^2-15]: Introduite par l’annexe ch. 3 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^2-16]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^2-17]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^2-17]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^2-18]: Introduite par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^2-19]: Introduite par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^2-20]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^2-21]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 3
 
@@ -126,7 +133,7 @@ L’employeur emploie son personnel de façon adéquate, économique et responsa
 - d. l’égalité des chances et l’égalité de traitement entre femmes et hommes;
 - e.[^4-2] une représentation des communautés linguistiques nationales correspondant à la population résidente;
 - e<sup>bis</sup>.[^4-3] la promotion des compétences linguistiques des employés dans les langues officielles nécessaires à l’exercice de leur fonction, ainsi que la promotion de connaissances actives d’une deuxième langue officielle et des connaissances passives d’une troisième langue officielle pour les cadres supérieurs;
-- f. des chances égales aux handicapés, leur accès aux emplois et leur intégration;
+- f.[^4-4] des chances égales aux personnes handicapées, leur accès aux emplois et leur intégration;
 - g. la protection de la personnalité et de la santé ainsi que la sécurité au travail de son personnel;
 - h. le développement d’un comportement écophile sur le lieu de travail;
 - i. des conditions de travail qui permettent au personnel d’exercer ses responsabilités familiales et d’assumer ses engagements sociaux;
@@ -138,6 +145,7 @@ L’employeur emploie son personnel de façon adéquate, économique et responsa
 [^4-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^4-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^4-3]: Introduite par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^4-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 5
 
@@ -147,7 +155,7 @@ L’employeur emploie son personnel de façon adéquate, économique et responsa
 
 <sup>2</sup> Il veille à ce que l’employeur opère un controlling approprié.
 
-<sup>3</sup> et <sup>4</sup> …[^5-1]
+<sup>3 et <sup>4</sup></sup> …[^5-1]
 
 [^5-1]: Abrogés par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
@@ -169,7 +177,7 @@ L’employeur emploie son personnel de façon adéquate, économique et responsa
 
 <sup>7</sup> En cas de litige découlant des rapports de travail du personnel soumis au CO, les tribunaux civils sont compétents.
 
-[^6-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^6-2]: Erratum de la CdR de l’Ass. féd. du 18 mars 2015, publié le 9 avr. 2015, ne concerne que le texte italien ([RO 2015 1021](https://fedlex.data.admin.ch/eli/oc/2015/197)).
 [^6-3]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
@@ -199,13 +207,22 @@ Le Conseil fédéral édicte les principes applicables:
 
 <sup>5</sup> Les principes édictés en vertu des al. 1 à 4 s’appliquent aussi aux entreprises sises en Suisse dont le capital et les voix sont détenus, à titre majoritaire, par une entreprise ou un établissement soumis à la présente loi.
 
-<sup>6</sup> Le Conseil fédéral veille à ce que les principes édictés en vertu des al. 1 à 5 soient appliqués par analogie à toutes les entreprises régies par le droit privé, dont le capital et les voix sont détenus, à titre majoritaire, par la Confédération et dont le siège se trouve en Suisse. Sont exceptées les sociétés dont les actions sont cotées en bourse. Les art. 663*b*<sup>bis</sup> et 663*c*, al. 3, du code des obligations[^6a-4] s’appliquent à ces dernières.[^6a-5]
+<sup>6</sup> Le Conseil fédéral veille à ce que les principes édictés en vertu des al. 1 à 5 s’appliquent par analogie à toutes les entreprises régies par le droit privé dont le capital et les voix sont détenus, à titre majoritaire, par la Confédération et dont le siège se trouve en Suisse. Sont exceptées les sociétés dont les actions sont cotées en bourse; les art. 734 à 734*f* CO[^6a-4] s’appliquent à ces dernières.[^6a-5]
 
 [^6a-1]: Introduit par le ch. I 2 de la LF du 20 juin 2003 sur la rémunération et sur d’autres conditions contractuelles convenues avec les cadres du plus haut niveau hiérarchique et les membres des organes dirigeants des entreprises et établissements de la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 2004 ([RO 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6972](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6990](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
 [^6a-2]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 17 déc. 2010 sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587); [FF 2009 4731](https://fedlex.data.admin.ch/eli/fga/2009/919)).
 [^6a-3]: Introduite par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^6a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^6a-5]: Nouvelle teneur selon le ch. II de la LF du 7 oct. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [FF 2004 4223](https://fedlex.data.admin.ch/eli/fga/2004/731)).
+[^6a-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^6a-5]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 6b
+
+**Contrats de location de services**[^6b-1]
+
+L’employeur peut engager des personnes sur la base de contrats de location de services au sens de l’art. 22 LSE[^6b-2], dans la mesure où l’exécution des tâches n’est possible ni avec l’effectif actuel, ni par la conclusion d’un contrat de travail fondé sur la présente loi, l’attribution d’un mandat ou la conclusion d’un contrat d’entreprise.
+
+[^6b-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^6b-2]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 7
 
@@ -213,15 +230,23 @@ Le Conseil fédéral édicte les principes applicables:
 
 Les postes vacants font l’objet d’une mise au concours publique. Les dispositions d’exécution règlent les exceptions.
 
-## Section 2 Naissance et fin des rapports de travail
+## Section 2 Naissance, modification et fin des rapports de travail
+
+[^sec2-1]
+
+[^sec2-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 8
 
 **Création des rapports de travail et conditions d’engagement**
 
-<sup>1</sup> Les rapports de travail découlent de la conclusion d’un contrat de travail de droit public établi en la forme écrite.[^8-1]
+<sup>1</sup> Les rapports de travail découlent de la conclusion d’un contrat de travail de droit public.[^8-1]
 
-<sup>2</sup> Les dispositions d’exécution réglementent la période d’essai. Elles peuvent prévoir une période d’essai de six mois au maximum pour des fonctions spéciales.[^8-2]
+<sup>1bis</sup> Les dispositions d’exécution régissent la procédure de conclusion des contrats et la consignation de leur contenu essentiel.[^8-2]
+
+<sup>2</sup> La période d’essai dure en principe trois mois. Elle peut être prolongée dans des cas dûment motivés, être fixée dans le contrat de travail pour une durée plus courte ou plus longue, ou être supprimée. Elle dure cinq mois au maximum. Les dispositions d’exécution peuvent prévoir une période d’essai de six mois au maximum pour des fonctions spéciales.[^8-3]
+
+<sup>2bis</sup> L’employeur peut exiger de l’employé qui exerce des activités touchant à la sécurité qu’il se soumette à un examen d’aptitude psychologique ou médical. Les dispositions d’exécution déterminent les activités pour lesquelles ce genre d’examen peut être requis[^8-4]
 
 <sup>3</sup>
 
@@ -230,8 +255,20 @@ Si l’accomplissement de tâches impliquant l’exercice de la puissance publiq
 - a. les emplois auxquels n’ont accès que les personnes de nationalité suisse;
 - b. les emplois auxquels n’ont accès que les personnes possédant exclusivement la nationalité suisse.
 
-[^8-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^8-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-2]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-4]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 8a
+
+**Modification du lieu de travail, de la fonction ou du domaine d’activité**[^8a-1]
+
+<sup>1</sup> Pour autant qu’il respecte le délai de résiliation, l’employeur peut remanier le contrat de travail de manière unilatérale afin de modifier le lieu de travail, la fonction ou le domaine d’activité de l’employé, si cette modification est durablement nécessaire pour des raisons de service et peut raisonnablement être exigée.
+
+<sup>2</sup> Il peut modifier le lieu de travail, la fonction ou le domaine d’activité de l’employé sans remanier le contrat de travail si cette modification s’impose pour des raisons de service, mais qu’elle n’est pas durablement nécessaire et si elle peut raisonnablement être exigée.
+
+[^8a-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9
 
@@ -245,38 +282,58 @@ Si l’accomplissement de tâches impliquant l’exercice de la puissance publiq
 
 #### Art. 10
 
-**Fin des rapports de travail**[^10-1]
+**Fin des rapports de travail de durée indéterminée[^10-2]**[^10-1]
 
-<sup>1</sup> Les rapports de travail de durée indéterminée prennent fin sans résiliation à l’âge limite fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^10-2].
+<sup>1</sup> Les rapports de travail de durée indéterminée prennent fin sans résiliation à l’âge de référence fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^10-3] ou en cas de décès de l’employé.[^10-4]
 
 <sup>2</sup>
 
 Les dispositions d’exécution peuvent:
 
-- a. arrêter, pour des catégories de personnel déterminées, un âge de la retraite inférieur à celui que prévoit l’art. 21 LAVS;
-- b. prévoir une activité allant au-delà de l’âge ordinaire de la retraite.
+- a. arrêter, pour des catégories de personnel déterminées, un âge de la retraite inférieur à l’âge de référence fixé à l’art. 21 LAVS;
+- b. prévoir la possibilité d’une activité au-delà de l’âge de référence fixé à l’art. 21 LAVS.[^10-5]
 
 <sup>3</sup>
 
-L’employeur peut résilier un contrat de durée indéterminée en cas de motifs objectivement suffisants, notamment dans les cas suivants:
+L’employeur peut résilier des rapports de travail de durée indéterminée pour des motifs objectifs par une résiliation ordinaire, notamment dans les cas suivants:[^10-6]
 
 - a. violation d’obligations légales ou contractuelles importantes;
 - b. manquements dans les prestations ou dans le comportement;
 - c. aptitudes ou capacités insuffisantes pour effectuer le travail convenu dans le contrat ou mauvaise volonté de l’employé à accomplir ce travail;
 - d. mauvaise volonté de l’employé à accomplir un autre travail pouvant raisonnablement être exigé de lui;
-- e. impératifs économiques ou impératifs d’exploitation majeurs, dans la mesure où l’employeur ne peut proposer à l’employé un autre travail pouvant raisonnablement être exigé de lui;
+- e.[^10-7] impératifs économiques ou impératifs d’exploitation, dans la mesure où l’employeur ne peut proposer à l’employé un autre travail pouvant raisonnablement être exigé de lui;
 - f. non-satisfaction de l’une des conditions d’engagement fixées dans la loi ou dans le contrat de travail.
 
-<sup>4</sup> Les parties peuvent, pour de justes motifs, résilier avec effet immédiat les contrats de durée déterminée et les contrats de durée indéterminée.
+<sup>4</sup> Les parties peuvent résilier en tout temps d’un commun accord ou, avec effet immédiat pour de justes motifs, les rapports de travail de durée indéterminée.[^10-8]
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^10-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^10-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-5]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-6]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-7]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^10-8]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 11
 
-[^11-1]
+**Fin des rapports de travail de durée déterminée**[^11-1]
 
-[^11-1]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+<sup>1</sup> Les rapports de travail de durée déterminée prennent fin sans résiliation à l’expiration des délais convenus dans le contrat de travail, à l’âge de référence fixé à l’art. 21 LAVS[^11-2] ou en cas de décès de l’employé.
+
+<sup>2</sup> Les dispositions d’exécution peuvent prévoir la possibilité d’une activité au-delà de l’âge de référence fixé à l’art. 21 LAVS.
+
+<sup>3</sup>
+
+Si la possibilité d’une résiliation a été convenue dans le contrat de travail:
+
+- a. l’employé peut résilier les rapports de travail de durée déterminée par une résiliation ordinaire;
+- b. l’employeur peut résilier les rapports de travail de durée déterminée par une résiliation ordinaire pour des motifs objectifs, en particulier pour les motifs mentionnés à l’art. 10, al. 3.
+
+<sup>4</sup> Les parties peuvent résilier en tout temps d’un commun accord ou, avec effet immédiat pour de justes motifs, les rapports de travail de durée déterminée.
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 12
 
@@ -290,11 +347,11 @@ L’employeur peut résilier un contrat de durée indéterminée en cas de motif
 
 #### Art. 13
 
-**Formes prescrites**[^13-1]
+**Prescriptions de forme**[^13-1]
 
-La prolongation des rapports de travail, la limitation de leur durée et leur fin, ainsi que toute modification du contrat de travail ne sont valables que si elles sont établies en la forme écrite.
+Toute modification du contrat de travail, notamment la prolongation des rapports de travail, la limitation de leur durée et leur fin, est soumise aux mêmes exigences de forme que la conclusion du contrat.
 
-[^13-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 14
 
@@ -308,13 +365,14 @@ En l’absence de dispositions fixées dans la loi spéciale, les dispositions d
 
 - a. les rapports de travail sont fondés sur une décision soumise à l’accord de la personne nommée;
 - b. les dispositions de la présente loi et du CO[^14-2] concernant la résiliation ordinaire ne sont pas applicables;
-- c. l’autorité de nomination peut renoncer à reconduire des rapports de travail pour des motifs objectivement suffisants; si l’autorité de nomination n’a pas pris de décision de non-reconduction au moins six mois avant la fin de la durée de fonction, la personne concernée est considérée comme reconduite dans ses fonctions; dans la procédure de recours, les art. 34*b*, al. 1, let. a, et 2 et 34*c*, al. 1, let. a, b et d, et 2 sont applicables;
+- c.[^14-3] l’autorité de nomination peut renoncer à reconduire des rapports de travail pour des motifs objectifs; si l’autorité de nomination n’a pas pris de décision de non-reconduction au moins six mois avant la fin de la durée de fonction, la personne concernée est considérée comme reconduite dans ses fonctions; dans la procédure de recours, les art. 34*b*, al. 1, let. a, et 2, et 34*c*, al. 1, let. a, b et d, et 2, sont applicables;
 - d. la personne nommée peut demander la résiliation de ses rapports de travail pour la fin d’un mois, en respectant un délai de préavis de trois mois.
 
 <sup>3</sup> Les rapports de travail peuvent être résiliés avec effet immédiat pour de justes motifs.
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^14-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^14-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 3 Droits et obligations résultant des rapports de travail
 
@@ -354,8 +412,8 @@ En l’absence de dispositions fixées dans la loi spéciale, les dispositions d
 Les dispositions de la loi du 13 mars 1964 sur le travail[^17-2] concernant la durée maximale de la semaine de travail sont applicables par analogie. La loi du 8 octobre 1971 sur la durée de travail[^17-3] est réservée.
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^17-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^17-3]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^17-2]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^17-3]: [RS 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
 
 #### Art. 17a
 
@@ -370,7 +428,7 @@ Les dispositions de la loi du 13 mars 1964 sur le travail[^17-2] concernant la d
 <sup>4</sup> Le Conseil fédéral fixe le nombre minimal de jours de vacances et la durée minimale du congé parental en cas de naissance ou d’adoption.
 
 [^17a-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^17a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^17a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 18
 
@@ -445,7 +503,7 @@ Les employeurs au sens de l’art. 3, al. 1, let. a, b, et e à g, et al. 3, peu
 <sup>4</sup> Lorsque les candidats à un poste et les employés sont soumis simultanément à un contrôle de sécurité au sens de la LSI, les deux procédures sont combinées.
 
 [^20b-1]: Introduit par l’annexe 1 ch. 4 de la LF du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^20b-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^20b-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 21
 
@@ -471,6 +529,21 @@ Les dispositions d’exécution peuvent prévoir que l’employé doit, si sa fo
 [^21-2]: Introduite par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^21-3]: Introduite par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
+#### Art. 21a
+
+**Obligations des employés soumis à un contrôle de loyauté ou à un contrôle de sécurité relatif aux personnes**[^21a-1]
+
+Si la préservation des intérêts visés à l’art. 20*b*, al. 1, la sécurité du traitement des informations relevant de la compétence de la Confédération ou la sécurité de ses moyens informatiques l’exigent, l’employeur peut, après avoir pris connaissance de la déclaration rendue par le service spécialisé visé à l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^21a-2]:
+
+- a. obliger l’employé à communiquer des données personnelles;
+- b. soumettre l’employé à des examens psychologiques ou médicaux;
+- c. prendre les mesures visées à l’art. 25;
+- d. obliger l’employé à annoncer les voyages à l’étranger et les faire approuver le cas échéant;
+- e. prendre les autres mesures qui semblent à même, dans le cas d’espèce, de ramener à un niveau acceptable le risque pour la sécurité qui a été constaté.
+
+[^21a-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^21a-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+
 #### Art. 22
 
 **Secret professionnel, secret d’affaires et secret de fonction**
@@ -481,20 +554,31 @@ Les dispositions d’exécution peuvent prévoir que l’employé doit, si sa fo
 
 #### Art. 22a
 
-**Obligation de dénoncer, droit de dénoncer et protection**[^22a-1]
+**Signalement, dénonciation et protection**[^22a-1]
 
-<sup>1</sup> Les employés sont tenus de dénoncer aux autorités de poursuite pénale, à leurs supérieurs ou au Contrôle fédéral des finances tous les crimes et délits poursuivis d’office dont ils ont eu connaissance ou qui leur ont été signalés dans l’exercice de leur fonction.
+<sup>1</sup> Lorsqu’un employé a, dans l’exercice de sa fonction, un soupçon fondé qu’un crime ou un délit poursuivi d’office ayant un rapport avec une tâche de la Confédération ou une activité de son employeur a été commis, il est tenu de le signaler au Contrôle fédéral des finances (CDF) ou à ses supérieurs ou de le dénoncer aux autorités de poursuite pénale. Un employé du Département fédéral des affaires étrangères (DFAE) qui a un soupçon de ce genre peut aussi le signaler sur la plateforme d’annonce du DFAE si le crime ou le délit concerné a un rapport avec l’étranger.
 
-<sup>2</sup> Les obligations de dénoncer prévues par d’autres lois fédérales sont réservées.
+<sup>2</sup> Les obligations de signaler ou de dénoncer prévues par d’autres lois fédérales sont réservées.
 
-<sup>3</sup> Les personnes qui ont le droit de refuser de déposer ou de témoigner selon les art. 113, al. 1, 168 et 169 du code de procédure pénale du 5 octobre 2007[^22a-2] ne sont pas soumises à l’obligation de dénoncer.
+<sup>3</sup>
 
-<sup>4</sup> Les employés ont le droit de signaler au Contrôle fédéral des finances les autres irrégularités dont ils ont eu connaissance ou qui leur ont été signalées dans l’exercice de leur fonction. Le Contrôle fédéral des finances établit les faits et prend les mesures nécessaires.
+Ne sont pas soumis à l’obligation de signaler ou de dénoncer:
 
-<sup>5</sup> Nul ne doit subir un désavantage sur le plan professionnel pour avoir, de bonne foi, dénoncé une infraction ou annoncé une irrégularité ou pour avoir déposé comme témoin.
+- a. les personnes qui ont le droit de refuser de déposer ou de témoigner selon les art. 113, al. 1, 168 et 169 du code de procédure pénale[^22a-2];
+- b. les employés de la Consultation sociale du personnel de l’administration fédérale (CSPers), des services spécialisés visés à l’art. 31, al. 2, LSI[^22a-3] et d’autres services de personnes de confiance de l’employeur, dans la mesure où ils ont pris connaissance du soupçon fondé dans le cadre de leur activité.
 
-[^22a-1]: Introduit par l’annexe ch. II 4 de la L du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^22a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+<sup>4</sup> Les employés ont le droit de signaler au CDF les autres irrégularités qu’ils ont constatées dans l’exercice de leur fonction ou qui leur ont été signalées. Les employés du DFAE peuvent aussi signaler ces irrégularités à la plateforme d’annonce du DFAE si celles-ci ont un rapport avec l’étranger.
+
+<sup>5</sup> Nul ne doit subir un désavantage sur le plan professionnel pour avoir, de bonne foi, fait un signalement ou une dénonciation ou déposé comme témoin.
+
+<sup>6</sup> Le CDF, la plateforme d’annonce du DFAE ou le supérieur hiérarchique établissent les faits et prennent les mesures nécessaires. S’ils ne peuvent pas lever le soupçon visé à l’al. 1, ils déposent une plainte devant les autorités de poursuite pénale.
+
+<sup>7</sup> Dans le cadre des demandes d’accès fondées sur la loi du 17 décembre 2004 sur la transparence (LTrans)[^22a-4] et déposées en lien avec des signalements au sens de la présente disposition, la protection de la sphère privée des auteurs de signalements prime l’intérêt public au sens de l’art. 7, al. 2, LTrans.
+
+[^22a-1]: Introduit par l’annexe ch. II 4 de la L du 19 mars 2010 sur l’organisation des autorités pénales ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^22a-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^22a-3]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^22a-4]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 23
 
@@ -526,18 +610,23 @@ Pour les mêmes motifs, il peut:
 Il peut notamment prendre les mesures suivantes:
 
 - a. mesures de soutien ou de développement;
-- b. avertissement, réduction du salaire, amende, suspension;
+- b.[^25-2] avertissement et suspension;
 - c. changement du domaine d’activité, du temps de travail ou du lieu de travail.
 
 <sup>3</sup> Si la mesure concerne le contrat de travail, l’employeur la définit par écrit en accord avec l’employé. En cas de désaccord, la procédure prévue aux art. 34 et 36 est applicable.
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^25-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 26
 
-[^26-1]
+**Délais de prescription des mesures fondées sur le droit du personnel**[^26-1]
 
-[^26-1]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+<sup>1</sup> Plus aucune mesure fondée sur le droit du personnel ne peut être prononcée en première instance trois ans après la découverte de violations des obligations professionnelles. Dans tous les cas, aucune mesure fondée sur le droit du personnel ne peut être prononcée en première instance cinq ans après la dernière violation des obligations.
+
+<sup>2</sup> Les délais visés à l’al. 1 sont suspendus pendant la durée de la procédure pénale engagée en raison du même fait ou jusqu’à droit connu sur les recours exercés en lien avec ce fait.
+
+[^26-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 3*a* Traitement des données
 
@@ -551,24 +640,84 @@ Il peut notamment prendre les mesures suivantes:
 
 <sup>1</sup>
 
-L’employeur traite, sous forme papier et dans un ou plusieurs systèmes d’information, les données relatives au personnel dont il a besoin pour exécuter les tâches qui lui sont assignées par la présente loi, notamment pour:
+L’employeur traite les données personnelles des employés, des anciens employés, des candidats et des personnes avec lesquelles il a pris contact à des fins de recrutement, dans la mesure où ces données sont nécessaires à l’exécution des tâches relevant de la présente loi, notamment pour:[^27-2]
 
-- a. déterminer les effectifs nécessaires;
-- b. recruter du personnel afin de garantir les effectifs nécessaires;
-- c. gérer les salaires et les rémunérations, établir les dossiers du personnel et gérer les communications adressées aux assurances sociales;
+- a.[^27-3] déterminer les effectifs nécessaires et recruter du personnel afin de les garantir;
+- b.[^27-4] exercer son droit de donner des instructions en vertu de l’art. 321*d* CO[^27-5] et son devoir d’assistance en application de l’art. 328 CO;
+- c.[^27-6] assurer la gestion du personnel, notamment établir le décompte des salaires et des traitements, établir et clore les dossiers du personnel et gérer les communications adressées aux assurances sociales;
 - d. promouvoir les mesures de développement et de fidélisation des employés;
 - e. maintenir et augmenter le niveau de qualification des employés;
-- f. assurer une planification, un pilotage et un contrôle au moyen d’analyses de données, de comparaisons, de rapports et de plans de mesures.
+- f. assurer une planification, un pilotage et un contrôle au moyen d’analyses de données, de comparaisons, de rapports et de plans de mesures;
+- g.[^27-7] assurer le retour des employés au travail après une absence pour cause de maladie ou d’accident;
+- h.[^27-8] imposer au personnel des obligations et prendre des mesures fondées sur l’art. 21*a*;
+- i.[^27-9] gérer les données personnelles des personnes dont l’affectation vise à répondre à un besoin supplémentaire extraordinaire ou particulièrement urgent, notamment en faveur de l’organisation de crise de l’administration fédérale;
+- j.[^27-10] mettre en œuvre des mesures de protection de la santé et de sécurité au travail, notamment dans les situations particulières ou les situations extraordinaires au sens des art. 6 et 7 de la loi du 28 septembre 2012 sur les épidémies[^27-11];
+- k.[^27-12] prendre les mesures visées à l’art. 22*a*, al. 6;
+- l.[^27-13] soumettre à un examen d’aptitude médical l’employé qui exerce des activités touchant à la sécurité.
 
 <sup>2</sup>
 
-Il peut traiter les données ci-après relatives au personnel qui sont nécessaires à l’exécution des tâches mentionnées à l’al. 1, y compris les données sensibles:[^27-2]
+Il peut, si l’exécution de ses tâches visées à l’al. 1 l’exige, traiter les données sensibles suivantes:
 
-- a. données relatives à la personne;
-- b. données relatives à l’état de santé en rapport avec la capacité de travail;
-- c. données relatives aux prestations, au potentiel et au développement personnel et professionnel;
-- d. données requises dans le cadre de la collaboration à la mise en œuvre du droit des assurances sociales;
-- e. actes de procédure et décisions des autorités ayant trait au travail.
+- a.
+
+  pour les tâches visées à l’al. 1, let. a et i:
+
+  - 1\. données visées à l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^27-14] qui sont mises à la disposition de l’employeur dans le cadre de la procédure de recrutement,
+  - 2\. données relatives à l’état de santé en rapport avec la capacité de travail,
+  - 3\. données relatives aux prestations, au potentiel et au développement personnel et professionnel,
+  - 4\. extraits du casier judiciaire et du registre des poursuites;
+
+- b. pour la tâche visée à l’al. 1, let. b: données visées à l’art. 5, let. c, ch. 1, 2, 5 et 6, LPD;
+- c.
+
+  pour les tâches visées à l’al. 1, let. c:
+
+  - 1\. données visées à l’art. 5, let. c, ch. 1, LPD que l’employé met à la disposition de l’employeur,
+  - 2\. données visées à l’art. 5, let. c, ch. 1, LPD qui concernent une activité accessoire au sens de l’art. 23 de la présente loi,
+  - 3\. données relatives à l’état de santé en rapport avec la capacité de travail,
+  - 4\. données relatives aux prestations, au potentiel et au développement personnel et professionnel,
+  - 5\. données requises dans le cadre de la collaboration à la mise en œuvre du droit des assurances sociales,
+  - 6\. actes de procédure et décisions des autorités ayant trait au travail ainsi qu’extraits du casier judiciaire et du registre des poursuites;
+
+- d.
+
+  pour les tâches visées à l’al. 1, let. d à f:
+
+  - 1\. données relatives à l’état de santé en rapport avec la capacité de travail,
+  - 2\. données relatives aux prestations, au potentiel et au développement personnel et professionnel;
+
+- e.
+
+  pour la tâche visée à l’al. 1, let. g:
+
+  - 1\. données relatives à l’état de santé en rapport avec la capacité de travail,
+  - 2\. données requises dans le cadre de la collaboration à la mise en œuvre du droit des assurances sociales,
+  - 3\. données relatives aux prestations, au potentiel et au développement personnel et professionnel;
+
+- f. pour la tâche visée à l’al. 1, let. h: données visées à l’art. 5, let. c, ch. 1, 2, 5 et 6, LPD, dans la mesure où elles sont importantes pour la sécurité;
+- g. pour la tâche visée à l’al. 1, let. j: données relatives à l’état de santé en rapport avec la capacité de travail;
+- h. pour la tâche visée à l’al. 1, let. k: données visées à l’art. 5, let. c, ch. 1, 2 et 5, LPD;
+- i. pour la tâche visée à l’al. 1, let. l: données visées à l’art. 5, let. c, ch. 2, LPD.[^27-15]
+
+<sup>2bis</sup>
+
+Il peut, si l’exécution de ses tâches visées à l’al. 1 l’exige, traiter les données personnelles suivantes dans le cadre d’un profilage, y compris d’un profilage à risque élevé:
+
+- a.
+
+  pour les tâches visées à l’al. 1, let. a et i, afin d’évaluer l’aptitude par rapport à une fonction déterminée, à un projet ou à une affectation:
+
+  - 1\. données visées à l’art. 5, let. c, ch. 1, LPD que l’employé met à la disposition de l’employeur,
+  - 2\. données relatives à l’état de santé en rapport avec la capacité de travail,
+  - 3\. données relatives aux prestations, au potentiel et au développement personnel et professionnel;
+
+- b.
+
+  pour les tâches visées à l’al. 1, let. d et e, afin d’évaluer le besoin de mesures de développement ciblées, ainsi que le potentiel de développement:
+
+  - 1\. données relatives à l’état de santé en rapport avec la capacité de travail,
+  - 2\. données relatives aux prestations, au potentiel et au développement personnel et professionnel.[^27-16]
 
 <sup>3</sup> Il est responsable de la protection et de la sécurité des données.
 
@@ -578,73 +727,118 @@ Il peut traiter les données ci-après relatives au personnel qui sont nécessai
 
 Il édicte des dispositions d’exécution concernant:
 
-- a. l’architecture, l’organisation et l’exploitation des systèmes d’information;
+- a.[^27-17] la responsabilité en ce qui concerne le traitement des données;
 - b. le traitement des données, notamment leur collecte, leur conservation, leur archivage et leur destruction;
-- c. les autorisations de traitement des données;
+- c.[^27-18] …
 - d. les catégories de données visées à l’al. 2;
 - e. la protection et la sécurité des données.
 
-<sup>6</sup> Il peut prévoir la communication de données non sensibles à des tiers par consultation en ligne. Il édicte les dispositions d’exécution.
+<sup>6</sup> …[^27-19]
 
 [^27-1]: Nouvelle teneur selon l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^27-2]: Nouvelle teneur selon l’annexe 1 ch. II 14 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^27-6]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-7]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-8]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-9]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-10]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-11]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^27-12]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-13]: Introduite par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-14]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^27-15]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-16]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-17]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-18]: Abrogée par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27-19]: Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
-#### Art. 27a à 27c
+#### Art. 27a
 
-[^27a27c-1]
+**Gestion de cas**[^27a-1]
 
-[^27a27c-1]: Introduits par le ch. I 1 de la LF du 17 juin 2011 ([RO 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6433](https://fedlex.data.admin.ch/eli/fga/2010/1290)). Abrogés par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-
-#### Art. 27d
-
-**Dossier de la Consultation sociale du personnel**[^27d-1]
-
-<sup>1</sup>
-
-La Consultation sociale du personnel de l’administration fédérale (CSPers) traite, sur papier et dans un système d’information, les données qui concernent les personnes faisant appel à ses services (clients) et dont elle a besoin pour exécuter les tâches suivantes:
-
-- a. conseiller et soutenir les clients dans les domaines du travail, des questions sociales, de la santé et des questions financières;
-- b. statuer sur les demandes de prestations prévues par l’ordonnance du 18 décembre 2002 concernant le fonds de secours du personnel de la Confédération[^27d-2];
-- c. déterminer l’affectation des moyens financiers destinés à l’intégration professionnelle des personnes handicapées dans l’administration fédérale;
-- d. gérer les cas dont elle est saisie.
+<sup>1</sup> Les spécialistes de la gestion de cas auxquels l’employeur a recours traitent les données nécessaires à la gestion de cas relatives à l’état de santé en rapport avec la capacité de travail de l’employé, notamment l’aptitude à fournir les prestations attendues ainsi que les causes et le degré d’une éventuelle invalidité.
 
 <sup>2</sup>
 
-La CSPers peut traiter les données personnelles et les données sensibles ci-après qui concernent ses clients et sont nécessaires à l’exécution de ses tâches:[^27d-3]
+Ils peuvent partager les données mentionnées à l’al. 1 avec les personnes et les services ci-après, pour autant que l’exécution de leurs tâches l’exige:
 
-- a. situation personnelle;
-- b. état de santé;
-- c. capacité de travail;
-- d. causes et degré de l’invalidité.
+- a. supérieurs directs;
+- b. services du personnel;
+- c. services juridiques;
+- d. services responsables de l’assurance-invalidité (AI), de la Caisse nationale suisse d’assurance en cas d’accidents (CNA) et de l’assurance militaire;
+- e. médecins mandatés par l’employeur.
 
-<sup>3</sup> Les employés de la CSPers et les services d’assistance technique ont accès au système d’information pour autant que l’exécution de leurs tâches l’exige.
+<sup>3</sup>
+
+L’employeur édicte des dispositions d’exécution concernant:
+
+- a. la responsabilité en ce qui concerne le traitement des données;
+- b. le traitement des données, notamment leur collecte, leur conservation, leur archivage et leur destruction;
+- c. les catégories de données visées à l’al. 1;
+- d. la protection et la sécurité des données.
+
+[^27a-1]: Introduit par le ch. I 1 de la LF du 17 juin 2011 ([RO 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6433](https://fedlex.data.admin.ch/eli/fga/2010/1290)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 27b et 27c
+
+[^27b27c-1]
+
+[^27b27c-1]: Introduits par le ch. I 1 de la LF du 17 juin 2011 ([RO 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6433](https://fedlex.data.admin.ch/eli/fga/2010/1290)). Abrogés par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+
+#### Art. 27d
+
+**Traitement des données par la CSPers[^27d-2]**[^27d-1]
+
+<sup>1</sup>
+
+La CSPers traite les données qui concernent les personnes faisant appel à ses services (clients) et dont elle a besoin pour exécuter les tâches suivantes:[^27d-3]
+
+- a. conseiller et soutenir les clients dans les domaines du travail, des questions sociales, de la santé et des questions financières;
+- b. statuer sur les demandes de prestations prévues par l’ordonnance du 18 décembre 2002 concernant le fonds de secours du personnel de la Confédération[^27d-4];
+- c. déterminer l’affectation des moyens financiers destinés à l’intégration professionnelle des personnes handicapées dans l’administration fédérale;
+- d. gérer les cas dont elle est saisie.
+
+<sup>2</sup> Elle peut, si l’exécution de ses tâches l’exige, traiter les données sensibles visées à l’art. 5, let. c, ch. 1, 2, 5 et 6, LPD[^27d-5] qui concernent ses clients.[^27d-6]
+
+<sup>3</sup> …[^27d-7]
 
 <sup>4</sup>
 
-La CSPers peut rendre accessibles aux personnes et aux services ci-après les données mentionnées à l’al. 2, pour autant que l’exécution de leurs tâches l’exige:[^27d-4]
+Elle peut accorder l’accès aux données mentionnées à l’al. 2 aux personnes et aux services ci-après, pour autant que l’exécution de leurs tâches l’exige:[^27d-8]
 
 - a. supérieurs directs;
 - b. services du personnel;
 - c. services responsables de l’AI, de la CNA et de l’assurance militaire;
-- d. service médical de l’administration fédérale;
+- d.[^27d-9] médecins mandatés par l’employeur;
 - e. Office fédéral du personnel, dans le cadre de l’affectation des moyens financiers destinés à l’intégration professionnelle des personnes handicapées;
 - f. membres du conseil de gestion du Fonds de secours du personnel de la Confédération.
 
-<sup>5</sup> La CSPers est responsable de la protection des données et de la sécurité du système d’information.
+<sup>5</sup> Elle est responsable de la protection et de la sécurité des données.[^27d-10]
 
 <sup>6</sup>
 
 Le Conseil fédéral édicte des dispositions d’exécution concernant:
 
-- a. l’organisation et l’exploitation du système d’information;
+- a.[^27d-11] la responsabilité en ce qui concerne le traitement des données;
 - b. le traitement des données, notamment leur collecte, leur conservation, leur communication, leur archivage et leur destruction;
-- c. les autorisations de traiter des données;
+- c.[^27d-12] …
 - d. les catalogues de données.
 
 [^27d-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^27d-2]: [RS 172.222.023](https://fedlex.data.admin.ch/eli/cc/2003/58)
-[^27d-3]: Nouvelle teneur selon l’annexe 1 ch. II 14 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^27d-4]: Nouvelle teneur selon l’annexe 1 ch. II 14 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^27d-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-4]: [RS 172.222.023](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5512)
+[^27d-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^27d-6]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-7]: Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-8]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-9]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-10]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-11]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^27d-12]: Abrogée par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 27e
 
@@ -654,45 +848,20 @@ Le Conseil fédéral édicte des dispositions d’exécution concernant:
 
 #### Art. 28
 
-**Données relatives à la santé**
+**Expertises médicales**[^28-1]
 
 <sup>1</sup>
 
-Le service médical compétent traite les données sensibles concernant la santé qui sont nécessaires à l’évaluation des aptitudes et risques suivants:
+L’employeur peut accorder aux médecins mandatés par lui l’accès aux données relatives à l’état de santé en rapport avec la capacité de travail des employés ou leur aptitude à exercer des activités touchant à la sécurité, dans la mesure où les médecins ont besoin de ces données pour exécuter les tâches suivantes en cas, notamment, d’empêchement de travailler pour cause de maladie ou d’accident, de réintégration ou d’intégration professionnelle des employés:
 
-- a. aptitude au travail des candidats lors de l’engagement;
-- b. aptitude au travail des employés pendant la durée des rapports de travail;
-- c. risques d’invalidité et de morbidité des candidats lors de l’engagement pour des fonctions touchant à la sécurité.[^28-1]
+- a. établir, à l’intention de l’employeur, des expertises indépendantes;
+- b. conseiller l’employeur.
 
-<sup>1bis</sup> Il peut traiter ces données dans un système d’information.[^28-2]
+<sup>2</sup> Il reçoit des renseignements sur les conclusions tirées de constatations médicales dans la mesure où cela est nécessaire pour évaluer les droits découlant des rapports de travail.
 
-<sup>1ter</sup> Les employés du service médical et les services d’assistance technique ont accès au système d’information pour autant que l’exécution de leurs tâches l’exige.[^28-3]
+<sup>3</sup> Il ne peut transmettre les conclusions tirées de constatations médicales que s’il existe une base légale ou si la personne concernée y a consenti par écrit.
 
-<sup>1quater</sup>
-
-Le Conseil fédéral édicte des dispositions d’exécution concernant les domaines suivants:
-
-- a. l’organisation et l’exploitation du système d’information;
-- b. le traitement des données, notamment leur collecte, leur conservation, leur communication, leur archivage et leur destruction;
-- c. les catalogues de données;
-- d. les mesures de protection techniques et organisationnelles visant à empêcher que des tiers non autorisés ne traitent des données personnelles.[^28-4]
-
-<sup>2</sup> Il ne peut communiquer aux services intéressés des renseignements sur les conclusions tirées de constatations médicales que si cela est nécessaire à l’appréciation de l’aptitude du candidat à être engagé, à être assuré ou à exercer le travail confié ou pour prendre position sur des revendications découlant des rapports de travail.
-
-<sup>3</sup> Au demeurant, il peut communiquer des données relatives à la santé et des dossiers médicaux à condition que la personne concernée ait donné son consentement écrit ou, à défaut, avec l’autorisation du service désigné dans les dispositions d’exécution.
-
-<sup>4</sup>
-
-Cette autorisation est refusée lorsque:
-
-- a. la personne concernée a un intérêt prépondérant au maintien du secret;
-- b. elle entraverait fortement l’employeur dans l’exécution de ses tâches, ou que
-- c. l’intérêt public le requiert.
-
-[^28-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-2]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-3]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^28-4]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^28-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 4 Mesures en faveur du personnel
 
@@ -722,15 +891,20 @@ Cette autorisation est refusée lorsque:
 
 <sup>1</sup> Le Conseil fédéral définit les prestations versées à l’employé pour l’entretien des enfants en complément des allocations familiales prévues par les régimes cantonaux d’allocations familiales.[^31-1]
 
-<sup>2</sup> Les dispositions d’exécution peuvent prévoir des mesures propres à faciliter la prise en charge d’enfants. Elles peuvent prévoir le versement de prestations à l’employé pour les personnes incapables d’exercer une activité lucrative dont il a la charge ou à l’entretien desquelles il subvient, ainsi que des mesures propres à faciliter la prise en charge de ces personnes.
+<sup>2</sup> Les dispositions d’exécution peuvent prévoir des mesures propres à faciliter la prise en charge d’enfants. Elles peuvent prévoir le versement de prestations à l’employé pour les personnes incapables d’exercer une activité lucrative pour cause de handicap dont il a la charge ou à l’entretien desquelles il subvient, ainsi que des mesures propres à faciliter la prise en charge de ces personnes.[^31-2]
 
 <sup>3</sup> Les dispositions d’exécution peuvent instituer des prestations et des mesures propres à atténuer les conséquences de situations sociales difficiles qui affectent l’employé.
 
-<sup>4</sup> Si un nombre important d’employés doivent être licenciés par suite de mesures économiques ou de mesures d’exploitation, l’employeur met en place un plan social. Lorsque les rapports de travail sont régis par une convention collective de travail en vertu de l’art. 38, cette dernière réglemente le plan social. Si les parties ne parviennent pas à s’entendre, le plan social est établi par le tribunal arbitral (art. 38, al. 3).
+<sup>4</sup> Si un nombre important d’employés doivent être licenciés par suite de mesures économiques ou de mesures d’exploitation, l’employeur négocie un plan social avec les associations du personnel. Si les parties ne parviennent pas à s’entendre lors des négociations portant sur le plan social, les dispositions relatives aux restructurations et aux réorganisations s’appliquent.[^31-3]
+
+<sup>4bis</sup> Lorsque les rapports de travail sont régis par une convention collective de travail en vertu de l’art. 38, cette dernière réglemente le plan social. Si les parties ne parviennent pas à s’entendre, le plan social est établi par le tribunal arbitral (art. 38, al. 3).[^31-4]
 
 <sup>5</sup> Les dispositions d’exécution peuvent instituer d’autres prestations et d’autres mesures de protection sociale, en particulier des mesures d’aide à la réorientation professionnelle ou des prestations en cas de retraite anticipée.
 
 [^31-1]: Nouvelle teneur selon l’annexe ch. 1 de la L du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
+[^31-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^31-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^31-4]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32
 
@@ -750,45 +924,58 @@ Les dispositions d’exécution peuvent également prévoir:
 
 [^sec4b-1]
 
-[^sec4b-1]: Introduite par l’annexe à la L du 20 déc. 2006 relative à PUBLICA, en vigueur depuis le 1<sup>er</sup> mai 2007 pour l’art. 32*e*, al. 3 ([RO 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313); [FF 2005 5457](https://fedlex.data.admin.ch/eli/fga/2005/951)) et le 1<sup>er</sup> juil. 2008 pour les autres dispositions ([RO 2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+[^sec4b-1]: Introduite par l’annexe à la L du 20 déc. 2006 relative à Publica, en vigueur depuis le 1<sup>er</sup> mai 2007 pour l’art. 32*e*, al. 3 ([RO 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313); [FF 2005 5457](https://fedlex.data.admin.ch/eli/fga/2005/951)) et le 1<sup>er</sup> juil. 2008 pour les autres dispositions ([RO 2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
 
 #### Art. 32a
 
 **Personnel assuré**[^32a-1]
 
-<sup>1</sup> Le personnel des employeurs visés à l’art. 2, al. 1, let. a, b et e à i, est assuré auprès de PUBLICA contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.
+<sup>1</sup> Le personnel des employeurs visés à l’art. 2, al. 1, let. a, b et e à i, est assuré auprès de Publica[^32a-2] contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.
 
-<sup>2</sup> Les unités administratives de l’administration fédérale décentralisée qui sont dotées de la personnalité juridique et d’une comptabilité propre dont le personnel est régi par un statut dérogeant à la présente loi en vertu d’une loi spéciale ou qui ont les compétences d’employeur visées aux art. 3, al. 2, et 37, al. 3, en matière de droit du personnel assurent également leurs employés auprès de PUBLICA.
+<sup>2</sup> Les unités administratives de l’administration fédérale décentralisée qui sont dotées de la personnalité juridique et d’une comptabilité propre dont le personnel est régi par un statut dérogeant à la présente loi en vertu d’une loi spéciale ou qui ont les compétences d’employeur visées aux art. 3, al. 2, et 37, al. 3, en matière de droit du personnel assurent également leurs employés auprès de Publica.
 
 [^32a-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32a-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2027 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 32b
 
 **Employeurs**
 
-<sup>1</sup> Le Conseil fédéral est réputé employeur au sens de la loi du 20 décembre 2006 relative à PUBLICA[^32b-1] pour les employés visés à l’art. 32*a*; l’al. 2 est réservé.
+<sup>1</sup> Le Conseil fédéral est réputé employeur au sens de la loi du 20 décembre 2006 relative à Publica[^32b-1] pour les employés visés à l’art. 32*a*; l’al. 2 est réservé.
 
 <sup>2</sup> Les unités administratives de l’administration fédérale décentralisée dotées de la personnalité juridique et d’une comptabilité propre sont considérées comme employeur pour leur personnel.
 
 <sup>3</sup> Le Conseil fédéral désigne les personnes qui représentent au sein de la Commission de la caisse les employeurs faisant partie de la Caisse de prévoyance de la Confédération (art. 32*d*, al. 2).
 
-[^32b-1]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32b-1]: [RS 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 #### Art. 32c
 
-**Affiliation à PUBLICA**
+**Affiliation à Publica**
 
-<sup>1</sup> L’affiliation des employeurs à PUBLICA au sens de l’art. 4, al. 1, de la loi du 20 décembre 2006 relative à PUBLICA[^32c-1] prend la forme d’un contrat d’affiliation de droit public. Le DFF signe les contrats pour le Conseil fédéral.[^32c-2]
+<sup>1</sup> L’affiliation des employeurs à Publica au sens de l’art. 4, al. 1, de la loi du 20 décembre 2006 relative à Publica[^32c-1] prend la forme d’un contrat d’affiliation de droit public. Le DFF signe les contrats pour le Conseil fédéral.[^32c-2]
 
-<sup>2</sup> Les règlements de prévoyance font partie intégrante du contrat d’affiliation.
+<sup>2</sup> …[^32c-3]
 
-<sup>3</sup> Toute conclusion ou modification d’un contrat d’affiliation requiert la participation et l’approbation de l’organe paritaire. Le contrat d’affiliation de tout autre employeur que le Conseil fédéral doit de plus être approuvé par ce dernier pour avoir force obligatoire.
+<sup>3</sup> Toute conclusion, modification ou résiliation d’un contrat d’affiliation requiert la participation et l’approbation de l’organe paritaire.[^32c-4] Le contrat d’affiliation de tout autre employeur que le Conseil fédéral doit de plus être approuvé par ce dernier pour avoir force obligatoire.
 
-<sup>4</sup> La modification d’un contrat d’affiliation requiert l’approbation du Conseil fédéral si elle a des répercussions financières pour l’employeur, pour les employés, pour les bénéficiaires de rentes ou pour la caisse de prévoyance.[^32c-3]
+<sup>4</sup> …[^32c-5]
 
-[^32c-1]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32c-1]: [RS 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 [^32c-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^32c-3]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32c-3]: Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32c-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32c-5]: Introduit par le ch. I de la LF du 14 déc. 2012 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)). Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 32c<sup>bis</sup>
+
+**Règlements de prévoyance**[^32cbis-1]
+
+<sup>1</sup> Les règlements de prévoyance définissent les prestations.
+
+<sup>2</sup> L’organe paritaire édicte, modifie ou abroge le règlement de prévoyance, sous réserve de l’approbation de la Commission de la caisse.
+
+[^32cbis-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32d
 
@@ -800,7 +987,7 @@ Les dispositions d’exécution peuvent également prévoir:
 
 <sup>2bis</sup> Le Conseil fédéral peut ordonner un regroupement au sens de l’al. 1 ou accepter une affiliation à la Caisse de prévoyance de la Confédération si des caractéristiques telles que la taille, la structure ou les tâches d’un employeur l’exigent en vertu de considérations actuarielles ou dans l’optique de la prévoyance.[^32d-4]
 
-<sup>3</sup> Les caisses de prévoyance assument leur part des frais. Dans le cas des caisses de prévoyance communes, PUBLICA établit un décompte séparé pour chaque employeur.
+<sup>3</sup> Les caisses de prévoyance assument leur part des frais. Dans le cas des caisses de prévoyance communes, Publica établit un décompte séparé pour chaque employeur.
 
 [^32d-1]: Troisième phrase introduite par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^32d-2]: Segonde phrase introduite par l’annexe ch. II 2 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
@@ -821,11 +1008,11 @@ Les dispositions d’exécution peuvent également prévoir:
 
 **Résiliation de contrats d’affiliation, sortie d’unités administratives et changement de statut**
 
-<sup>1</sup> Si un employeur ou une unité administrative quitte PUBLICA ou une caisse de prévoyance ou change de statut juridique, les assurés actifs et les bénéficiaires de rentes relevant de cet employeur ou de cette unité administrative sont transférés dans la nouvelle institution de prévoyance ou dans la nouvelle caisse de prévoyance.
+<sup>1</sup> Si un employeur ou une unité administrative quitte Publica ou une caisse de prévoyance ou change de statut juridique, les assurés actifs et les bénéficiaires de rentes relevant de cet employeur ou de cette unité administrative sont transférés dans la nouvelle institution de prévoyance ou dans la nouvelle caisse de prévoyance.
 
-<sup>2</sup> Lorsque l’intérêt de la Confédération à la sortie ou au changement de statut de l’employeur ou de l’unité administrative l’exige, l’assurance des bénéficiaires de rentes peut être maintenue auprès de PUBLICA ou de leur précédente caisse de prévoyance.
+<sup>2</sup> Lorsque l’intérêt de la Confédération à la sortie ou au changement de statut de l’employeur ou de l’unité administrative l’exige, l’assurance des bénéficiaires de rentes peut être maintenue auprès de Publica ou de leur précédente caisse de prévoyance.
 
-<sup>3</sup> Après sa sortie ou son changement de statut, l’employeur dont relèvent des assurés actifs continue à répondre du financement des obligations patronales envers les bénéficiaires de rentes restés assurés auprès de PUBLICA. Il assume les pertes éventuelles non couvertes par la fortune et découlant du maintien des bénéficiaires de rentes dans PUBLICA.
+<sup>3</sup> Après sa sortie ou son changement de statut, l’employeur dont relèvent des assurés actifs continue à répondre du financement des obligations patronales envers les bénéficiaires de rentes restés assurés auprès de Publica. Il assume les pertes éventuelles non couvertes par la fortune et découlant du maintien des bénéficiaires de rentes dans Publica.
 
 <sup>4</sup> La Confédération peut assurer le financement de ces obligations si le Conseil fédéral était auparavant l’employeur et qu’aucune loi ne prévoie d’autre solution.
 
@@ -833,13 +1020,19 @@ Les dispositions d’exécution peuvent également prévoir:
 
 **Financement de la prévoyance**
 
-<sup>1</sup> Les cotisations patronales pour la prévoyance vieillesse, l’assurance risque et la rente transitoire représentent globalement au moins 11 % et au plus 13,5 % de la masse salariale assurable. Leur montant est déterminé en fonction de la structure des risques et de la structure des âges des assurés de la caisse de prévoyance, des perspectives de rendement à long terme, de la modification du taux d’intérêt technique et de la situation économique des employeurs.
+<sup>1</sup> Les cotisations d’épargne et les cotisations de risque de l’employeur représentent globalement au moins 11 % et au plus 13,5 % de la masse salariale assurable.[^32g-1] Leur montant est déterminé en fonction de la structure des risques et de la structure des âges des assurés de la caisse de prévoyance, des perspectives de rendement à long terme, de la modification du taux d’intérêt technique et de la situation économique des employeurs.
 
-<sup>2</sup> L’employeur fixe le montant de sa cotisation après avoir entendu l’organe paritaire de sa caisse de prévoyance.
+<sup>1bis</sup> Dans les caisses de prévoyance communes, la fourchette des cotisations visée à l’al. 1 s’applique à l’ensemble de la caisse de prévoyance.[^32g-2]
+
+<sup>1ter</sup> L’employeur mentionne le pourcentage des cotisations visées à l’al. 1 dans le rapport visé à l’art. 5, al. 1. Il justifie les éventuels dépassements vers le bas ou vers le haut de la fourchette des cotisations et prend les mesures correctives qui s’imposent.[^32g-3]
+
+<sup>2</sup> Le Conseil fédéral règle les dispositions concernant le financement qui s’appliquent aux employeurs affiliés à la Caisse de prévoyance de la Confédération, après avoir entendu l’organe paritaire et informé la Commission de la caisse.[^32g-4]
+
+<sup>2bis</sup> Les unités administratives de l’administration fédérale décentralisée qui ne sont pas affiliées à la Caisse de prévoyance de la Confédération règlent les dispositions concernant le financement après avoir entendu l’organe paritaire correspondant et informé la Commission de la caisse et les soumettent à l’approbation du Conseil fédéral.[^32g-5]
 
 <sup>3</sup> Les cotisations patronales et salariales sont échelonnées en fonction de l’âge des assurés.
 
-<sup>4</sup> Les règlements de prévoyance peuvent prévoir des dérogations au financement paritaire prévu à l’art. 66, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance vieillesse, survivants et invalidité (LPP)[^32g-1] et à l’art. 331, al. 3, CO[^32g-2] en ce qui concerne le financement des prestations pour risques et des prestations de vieillesse.[^32g-3]
+<sup>4</sup> Les dispositions visées aux al. 2 et 2<sup>bis</sup> peuvent prévoir, en application des art. 66, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^32g-6] et 331, al. 3, CO[^32g-7], des dérogations au financement paritaire des prestations de risque et des prestations de vieillesse.[^32g-8]
 
 <sup>5</sup> Le salaire assurable comprend le salaire soumis à l’AVS et les suppléments visés à l’art. 15. Ne font pas partie du salaire assurable les indemnités versées au titre du remboursement de frais, ni les indemnités versées pour des prestations telles que les heures d’appoint, les heures supplémentaires, le service de permanence, le travail de nuit ou le travail en équipes.
 
@@ -847,15 +1040,20 @@ Les dispositions d’exécution peuvent également prévoir:
 
 <sup>7</sup> Le gain assuré correspond au salaire annuel assurable, déduction faite du montant de coordination.
 
-[^32g-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^32g-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^32g-3]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32g-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-2]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-3]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-5]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32g-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^32g-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^32g-8]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32h
 
 **Prélèvement des cotisations patronales**
 
-Les employeurs prélèvent auprès de leurs unités administratives respectives les cotisations patronales dues à PUBLICA sur la somme des gains assurés, sous la forme d’une contribution indépendante de l’âge des employés. Cette disposition ne s’applique pas aux employeurs visés à l’art. 32*a*, al. 2.
+Les employeurs prélèvent auprès de leurs unités administratives respectives les cotisations patronales dues à Publica sur la somme des gains assurés, sous la forme d’une contribution indépendante de l’âge des employés. Cette disposition ne s’applique pas aux employeurs visés à l’art. 32*a*, al. 2.
 
 #### Art. 32i
 
@@ -863,13 +1061,15 @@ Les employeurs prélèvent auprès de leurs unités administratives respectives 
 
 <sup>1</sup> L’obligation de cotiser à la prévoyance professionnelle de vieillesse en primauté de cotisations commence le 1<sup>er</sup> janvier de l’année suivant celle où la personne a eu 21 ans et prend fin à l’âge où cesse l’obligation de cotiser selon la LAVS[^32i-1].
 
-<sup>2</sup> Les règlements de prévoyance peuvent prévoir que les cotisations versées à la prévoyance vieillesse sont constitutives de rente jusqu’à l’âge de 70 ans.
+<sup>2</sup> …[^32i-2]
 
 <sup>3</sup> L’assuré peut exiger le versement de la rente de vieillesse ou de la rente partielle de vieillesse lorsque ses rapports de travail cessent entre 60 et 70 ans ou que son taux d’occupation diminue.
 
-<sup>4</sup> Les prestations de vieillesse réglementaires dépendent des cotisations versées et des revenus de la fortune. Les taux de conversion sont fixés de manière actuarielle. Le règlement sur la prévoyance précise les modalités de perception des prestations de vieillesse sous forme de capital ou sous forme de rentes perçues dès l’âge où cesse l’obligation de cotiser selon la LAVS.
+<sup>4</sup> …[^32i-3]
 
-[^32i-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32i-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^32i-2]: Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32i-3]: Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32j
 
@@ -879,54 +1079,56 @@ Les employeurs prélèvent auprès de leurs unités administratives respectives 
 
 <sup>2</sup> L’assuré perçoit des prestations d’invalidité lorsqu’il y a droit en vertu de l’art. 23 LPP[^32j-1] et qu’il ne reçoit plus de salaire de son employeur du fait de la fin des rapports de travail ni de prestations d’assurance remplaçant le salaire.[^32j-2]
 
-<sup>2bis</sup> Si l’assuré n’est pas invalide au sens de l’al. 2 mais que l’examen du service médical compétent révèle une invalidité professionnelle, PUBLICA peut lui verser des prestations d’invalidité sur proposition de son employeur lorsque les mesures de réadaptation sont restées sans succès. L’employeur rembourse à PUBLICA la réserve mathématique nécessaire.[^32j-3]
+<sup>2bis</sup> Si l’assuré n’est pas invalide au sens de l’al. 2 mais que l’examen du service médical compétent révèle une invalidité professionnelle, Publica peut lui verser des prestations d’invalidité sur proposition de son employeur lorsque les mesures de réadaptation sont restées sans succès. L’employeur rembourse à Publica la réserve mathématique nécessaire.[^32j-3]
 
-<sup>3</sup> Les prestations versées en cas d’invalidité ou de décès se fondent sur l’avoir de vieillesse pouvant être accumulé jusqu’à l’âge où cesse l’obligation de cotiser selon la LAVS[^32j-4]. Les règlements de prévoyance peuvent prévoir un intérêt de projection relatif à cet avoir.[^32j-5]
+<sup>3</sup> Les prestations d’invalidité et de décès peuvent être définies selon la primauté des cotisations ou des prestations, ou une combinaison des deux. Si les prestations sont définies selon la primauté des cotisations, les règlements de prévoyance peuvent prévoir un intérêt de projection relatif à l’avoir de vieillesse.[^32j-4]
 
-[^32j-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^32j-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^32j-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^32j-3]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^32j-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^32j-5]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^32j-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32k
 
 **Rentes transitoires**[^32k-1]
 
-<sup>1</sup> Les dispositions d’exécution peuvent prévoir une rente transitoire pour les cas où la retraite est prise avant l’âge donnant droit à une rente de vieillesse au sens de l’art. 21 LAVS[^32k-2]. La rente transitoire est financée par l’employé. L’employeur peut, dans certains cas, participer jusqu’à concurrence de 50 % au financement de la rente transitoire.
+<sup>1</sup> Les dispositions d’exécution peuvent prévoir une rente transitoire pour les cas où la retraite intervient avant l’âge de référence fixé à l’art. 21 LAVS[^32k-2].[^32k-3] La rente transitoire est financée par l’employé. L’employeur peut, dans certains cas, participer jusqu’à concurrence de 50 % au financement de la rente transitoire.
 
 <sup>2</sup> La participation de l’employeur au financement de la rente transitoire peut dépasser 50 % pour certaines catégories de personnel ou pour des raisons sociales.
 
 [^32k-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^32k-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32k-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^32k-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 32l
 
-**Adaptation des rentes au renchérissement en fonction des revenus de la fortune de PUBLICA**
+**Adaptation des rentes au renchérissement en fonction des revenus de la fortune de Publica**
 
-<sup>1</sup> L’organe paritaire de la caisse de prévoyance fixe l’adaptation des rentes au renchérissement en fonction des revenus de la fortune disponibles à cet effet. Il ne peut être procédé à aucune adaptation des rentes au renchérissement avant la constitution d’une réserve de couverture des risques de fluctuation de 15 % au moins.
+<sup>1</sup> L’organe paritaire de la caisse de prévoyance fixe l’adaptation des rentes au renchérissement en fonction des possibilités financières de la caisse de prévoyance.[^32l-1] Il ne peut être procédé à aucune adaptation des rentes au renchérissement avant la constitution d’une réserve de couverture des risques de fluctuation de 15 % au moins.
 
-<sup>2</sup> L’adaptation des rentes de la Caisse de prévoyance de la Confédération s’applique à tous les employeurs. Elle est sans effet pour les anciens employés de la Confédération qui, au moment de l’adaptation, perçoivent une rente d’une institution de prévoyance autre que PUBLICA ou d’une autre caisse de prévoyance faisant partie de PUBLICA. De même, la décision est sans effet pour les membres d’un effectif fermé de bénéficiaires de rentes (art. 23, al. 2, in fine, de la loi du 20 déc. 2006 relative à PUBLICA[^32l-1]), pour autant que ces bénéficiaires de rentes n’aient pas été transférés selon l’art. 24, al. 4, de la loi du 20 décembre 2006 relative à PUBLICA, à la caisse de prévoyance de la Confédération.
+<sup>2</sup> L’adaptation des rentes de la Caisse de prévoyance de la Confédération s’applique à tous les employeurs. Elle est sans effet pour les anciens employés de la Confédération qui, au moment de l’adaptation, perçoivent une rente d’une institution de prévoyance autre que Publica ou d’une autre caisse de prévoyance faisant partie de Publica. De même, la décision est sans effet pour les membres d’un effectif fermé de bénéficiaires de rentes (art. 23, al. 2, in fine, de la loi du 20 déc. 2006 relative à Publica[^32l-2]), pour autant que ces bénéficiaires de rentes n’aient pas été transférés selon l’art. 24, al. 4, de la loi du 20 décembre 2006 relative à Publica, à la caisse de prévoyance de la Confédération.
 
-[^32l-1]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32l-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32l-2]: [RS 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 #### Art. 32m
 
 **Adaptation extraordinaire des rentes au renchérissement et octroi d’une allocation unique par l’employeur**[^32m-1]
 
-<sup>1</sup> Si les revenus de la fortune de la caisse de prévoyance ne permettent pas d’adapter les rentes au renchérissement de manière suffisante, les employeurs peuvent décider d’adapter les rentes de leurs anciens employés de manière adéquate, à titre extraordinaire, ou de leur verser une allocation unique. Dans le cas des employeurs affiliés à la Caisse de prévoyance de la Confédération, le Conseil fédéral fixe l’adaptation extraordinaire des rentes ou décide de l’octroi d’une allocation unique.
+<sup>1</sup> Si les possibilités financières de la caisse de prévoyance ne permettent pas d’adapter les rentes au renchérissement de manière suffisante, les employeurs peuvent décider d’adapter les rentes de leurs anciens employés de manière adéquate, à titre extraordinaire, ou de leur verser une allocation unique.[^32m-2] Dans le cas des employeurs affiliés à la Caisse de prévoyance de la Confédération, le Conseil fédéral fixe l’adaptation extraordinaire des rentes ou décide de l’octroi d’une allocation unique.
 
 <sup>2</sup>
 
 La décision des employeurs visée à l’art. 1 est sans effet pour:
 
-- a. les anciens employés qui, au moment où les mesures visées à l’al. 1 prennent effet, perçoivent une rente d’une institution de prévoyance autre que PUBLICA ou d’une autre caisse de prévoyance faisant partie de PUBLICA ou qui, au sein d’une caisse de prévoyance commune au sens de l’art. 32*d*, al. 1 et 2, perçoivent des rentes relevant de la prévoyance souscrite par un autre employeur affilié à PUBLICA;
-- b. les membres d’un effectif fermé de bénéficiaires de rentes (art. 23, al. 2, in fine, de la loi du 20 décembre 2006 relative à PUBLICA[^32m-2]).
+- a. les anciens employés qui, au moment où les mesures visées à l’al. 1 prennent effet, perçoivent une rente d’une institution de prévoyance autre que Publica ou d’une autre caisse de prévoyance faisant partie de Publica ou qui, au sein d’une caisse de prévoyance commune au sens de l’art. 32*d*, al. 1 et 2, perçoivent des rentes relevant de la prévoyance souscrite par un autre employeur affilié à Publica;
+- b. les membres d’un effectif fermé de bénéficiaires de rentes (art. 23, al. 2, in fine, de la loi du 20 décembre 2006 relative à Publica[^32m-3]).
 
-<sup>3</sup> Les employeurs remboursent à PUBLICA le capital nécessaire au financement des mesures visées à l’al. 1.
+<sup>3</sup> Les employeurs remboursent à Publica le capital nécessaire au financement des mesures visées à l’al. 1.
 
 [^32m-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^32m-2]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^32m-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^32m-3]: [RS 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 ## Section 5 Participation et partenariat social
 
@@ -948,7 +1150,7 @@ Il consulte le personnel et les associations qui le représentent, notamment:
 
 <sup>4</sup> Les dispositions d’exécution réglementent la participation du personnel et de ses associations. Elles peuvent prévoir des organes de consultation, d’arbitrage et de décision dont la composition peut être paritaire.
 
-[^33-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^33-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## Section 6 Procédure
 
@@ -956,17 +1158,18 @@ Il consulte le personnel et les associations qui le représentent, notamment:
 
 **Litiges liés aux rapports de travail**
 
-<sup>1</sup> Si, lors de litiges liés aux rapports de travail, aucun accord n’intervient, l’employeur rend une décision.
+<sup>1</sup> Les litiges liés aux rapports de travail sont réglés au moyen d’une convention, ou l’employeur rend une décision.[^34-1]
 
-<sup>1bis</sup> Les décisions portant sur le transfert d’employés et les autres instructions de service adressées aux personnes soumises à la discipline des transferts en vertu de l’art. 21, al. 1, let. a et c<sup>bis</sup>, ne constituent pas des décisions susceptibles de recours.[^34-1]
+<sup>1bis</sup> Les décisions portant sur le transfert d’employés et les autres instructions de service adressées aux personnes soumises à la discipline des transferts en vertu de l’art. 21, al. 1, let. a et c<sup>bis</sup>, ne constituent pas des décisions susceptibles de recours.[^34-2]
 
-<sup>2</sup> La procédure de première instance et la procédure de recours visées à l’art. 36 sont gratuites, sauf en cas de recours téméraire.[^34-2]
+<sup>2</sup> La procédure de première instance et la procédure de recours visées à l’art. 36 sont gratuites, sauf en cas de recours téméraire.[^34-3]
 
-<sup>3</sup> Les personnes dont la candidature à un poste a été rejetée ne peuvent exiger qu’une décision susceptible de recours soit rendue.[^34-3]
+<sup>3</sup> Les personnes dont la candidature à un poste a été rejetée ne peuvent exiger qu’une décision susceptible de recours soit rendue.[^34-4]
 
-[^34-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^34-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^34-3]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34-2]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34-3]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34-4]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 34a
 
@@ -984,13 +1187,18 @@ Les recours n’ont un effet suspensif que si l’instance de recours l’ordonn
 
 Si l’instance de recours approuve le recours contre une décision de résiliation des rapports de travail prise par l’employeur et que, exceptionnellement, elle ne renvoie pas le dossier à l’instance précédente, elle est tenue:
 
-- a. d’allouer une indemnité au recourant s’il y a eu résiliation ordinaire en l’absence de motifs objectivement suffisants ou résiliation immédiate en l’absence de justes motifs, ou si les règles de procédure n’ont pas été respectées;
+- a.[^34b-2] d’allouer une indemnité au recourant s’il y a eu résiliation ordinaire en l’absence de motifs objectifs ou résiliation immédiate en l’absence de justes motifs, ou si les règles de procédure n’ont pas été respectées;
 - b. d’ordonner le versement du salaire jusqu’à l’expiration du délai de congé ordinaire ou du contrat de travail de durée déterminée s’il y a eu résiliation immédiate en l’absence de justes motifs;
 - c. de prolonger les rapports de travail jusqu’à l’expiration du délai de congé ordinaire si les dispositions relatives aux délais de congé n’ont pas été respectées.
 
-<sup>2</sup> L’instance de recours fixe l’indemnité visée à l’al. 1, let. a, en tenant compte des circonstances. Le montant de l’indemnité correspond en règle générale à six mois de salaire au moins et à un salaire annuel au plus.
+<sup>2</sup> L’instance de recours fixe l’indemnité visée à l’al. 1, let. a, en tenant compte des circonstances. Le montant de l’indemnité correspond à huit mois de salaire au plus.[^34b-3]
+
+<sup>3</sup> Si les conditions du versement de l’indemnité visée à l’art. 19 sont remplies, celle-ci se cumule avec l’indemnité visée à l’al. 1, let. a.[^34b-4]
 
 [^34b-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^34b-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34b-3]: Nouvelle teneur de la phrase selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34b-4]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art 34c
 
@@ -1000,16 +1208,23 @@ Si l’instance de recours approuve le recours contre une décision de résiliat
 
 L’employeur propose à l’employé de le réintégrer dans l’emploi qu’il occupait ou, si cela est impossible, lui propose un autre travail pouvant raisonnablement être exigé de lui lorsque l’instance de recours a admis le recours contre une décision de résiliation des rapports de travail parce que la résiliation:
 
-- a. était motivée par le fait que l’employé avait, de bonne foi, dénoncé une infraction en vertu de l’art. 22*a*, al. 1, ou signalé une irrégularité en vertu de l’art. 22*a*, al. 4, ou qu’il avait déposé comme témoin;
-- b. était abusive en vertu de l’art. 336 CO[^34c-2];
+- a.[^34c-2] était motivée par le fait que l’employé avait, de bonne foi, fait un signalement ou une dénonciation en vertu de l’art. 22*a*, al. 1 ou 4, ou qu’il avait déposé comme témoin;
+- b. était abusive en vertu de l’art. 336 CO[^34c-3];
 - c. avait été prononcée pendant une des périodes visées à l’art. 336*c*, al. 1, CO;
-- d. était discriminatoire en vertu des art. 3 ou 4 de la loi du 24 mars 1995 sur l’égalité[^34c-3].
+- d. était discriminatoire en vertu des art. 3 ou 4 de la loi du 24 mars 1995 sur l’égalité[^34c-4].
 
 <sup>2</sup> Si le recours est admis et que l’employé en fait la demande, l’instance de recours lui accorde une indemnité correspondant en règle générale à six mois de salaire au moins et à un salaire annuel au plus en lieu et place de la réintégration visée à l’al. 1.
 
+<sup>3</sup> L’indemnité visée à l’al. 2 se cumule avec l’indemnité visée à l’art. 19.[^34c-5]
+
+<sup>4</sup> Elle ne se cumule pas avec l’indemnité visée à l’art. 34*b*, al. 1, let. a.[^34c-6]
+
 [^34c-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^34c-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^34c-3]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^34c-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34c-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^34c-4]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^34c-5]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^34c-6]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 35
 
@@ -1031,7 +1246,7 @@ L’employeur propose à l’employé de le réintégrer dans l’emploi qu’il
 
 [^36-1]: Nouvelle teneur selon l’annexe ch. 12 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^36-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^36-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^36-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 36a
 
@@ -1064,7 +1279,7 @@ Si le CO[^37-3] s’applique par analogie en vertu de l’art. 6, al. 2, les emp
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 [^37-2]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^37-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^37-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^37-4]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 38
@@ -1097,11 +1312,10 @@ La CCT peut notamment disposer:
 
 <sup>1</sup> Le statut des fonctionnaires du 30 juin 1927[^39-1] est abrogé.
 
-<sup>2</sup> L’art. 48, al. 1 à 5<sup>ter</sup>, du statut des fonctionnaires du 30 juin 1927 reste en vigueur.
+<sup>2 et <sup>3</sup></sup> …[^39-2]
 
-<sup>3</sup> Le Conseil fédéral peut prévoir que d’autres dispositions du statut des fonctionnaires du 30 juin 1927 restent en vigueur pour une période limitée.
-
-[^39-1]: [RS **1** 459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]
+[^39-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]
+[^39-2]: Abrogés par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 40
 
@@ -1115,43 +1329,39 @@ La CCT peut notamment disposer:
 
 **Dispositions transitoires**
 
-<sup>1</sup>
-
-Jusqu’à l’entrée en vigueur des dispositions portant exécution de la présente loi édictées en vertu de l’art. 37 ou de la convention collective de travail visée à l’art. 38, les rapports de travail seront régis par:
-
-- a. le règlement des employés du 10 novembre 1959[^41-1], dans les départements, à la Chancellerie fédérale, dans les commissions fédérales de recours et d’arbitrage, dans le tribunal fédéral et dans les services du Parlement;
-- b. le règlement des employés CFF du 2 juillet 1993[^41-2], aux Chemins de fer fédéraux;
-- c. le règlement des employés PTT[^41-3], au sein de la Poste Suisse.
-
-<sup>2</sup> Le Conseil fédéral peut maintenir en application, pour une durée limitée, d’autres actes législatifs se fondant sur le statut des fonctionnaires du 30 juin 1927[^41-4].
-
-<sup>3</sup> Si un litige relatif à des prétentions découlant des rapports de travail a donné lieu à une décision rendue avant l’entrée en vigueur de la présente loi, la procédure de recours est régie par l’ancien droit.
+<sup>1 à <sup>3</sup></sup> …[^41-1]
 
 <sup>4</sup> Les rapports de travail établis avant l’entrée en vigueur de la présente loi en vertu du statut des fonctionnaires du 30 juin 1927 sont automatiquement maintenus conformément au nouveau droit à moins d’avoir été dissous par une résiliation ordinaire ou par une non-reconduction en vertu de l’ancien droit.
 
-[^41-1]: [[RO 1959 1221](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217), [1962 295](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300)[1276](https://fedlex.data.admin.ch/eli/oc/1962/1235_1276_1288), [1968 133](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136)[1720](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639), [1971 105](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105), [1972 196](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196), [1973 157](https://fedlex.data.admin.ch/eli/oc/1973/157_157_159), [1974 7](https://fedlex.data.admin.ch/eli/oc/1974/7_7_7), [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713), [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421), [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290), [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49)[945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945)[1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111), [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406)[743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743), [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197)[2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097), [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974), [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31), [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30)[1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223)[1498](https://fedlex.data.admin.ch/eli/oc/1989/1498_1498_), [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105), [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087)[1090](https://fedlex.data.admin.ch/eli/oc/1991/1090_1090_1090)[1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148)[1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397)[1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642), [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)annexe ch. 2 [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)art. 13 al. 3 [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819)[2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936), [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6)[279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279)[366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366), [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9)[3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)annexe ch. 10 [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099), [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237)[305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305)[804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804), [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732), [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)annexe 2958. [RO 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)annexe ch. I 4]
-[^41-2]: [[RO 1993 2915](https://fedlex.data.admin.ch/eli/oc/1993/2915_2915_2915). [RO 2003 4209](https://fedlex.data.admin.ch/eli/oc/2003/622)]
-[^41-3]: [[RO 1996 2127](https://fedlex.data.admin.ch/eli/oc/1996/2127_2127_2127). [RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. III 6-22].
-[^41-4]: [RS **1** 459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]
+[^41-1]: Abrogés par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 41a
 
 **Dispositions transitoires relatives à la modification du 20 décembre 2006**[^41a-1]
 
-<sup>1</sup> Les préparatifs du passage à la primauté des cotisations s’effectuent conformément à l’art. 26 de la loi du 20 décembre 2006 relative à PUBLICA[^41a-2]. L’organe paritaire propose en temps voulu au DFF, à l’attention du Conseil fédéral, les mesures nécessaires pour que le contrat d’affiliation et les règlements de prévoyance puissent prendre effet à l’entrée en vigueur de la présente loi.
+<sup>1</sup> …[^41a-2]
 
 <sup>2</sup>
 
-Tant que l’âge donnant droit à l’AVS est plus bas pour les femmes que pour les hommes, les règlements de prévoyance prévoient:
+Tant que l’âge de référence est plus bas pour les femmes que pour les hommes, les règlements de prévoyance prévoient:[^41a-3]
 
 - a. d’utiliser pour les femmes qui prennent leur retraite entre 64 et 65 ans le même taux de conversion que pour les personnes qui prennent leur retraite à 65 ans;
 - b. de déterminer les prestations versées aux femmes et aux hommes en cas d’invalidité ou de décès en fonction de la projection relative à l’avoir vieillesse pouvant être accumulé jusqu’à l’âge de 65 ans.
 
-<sup>3</sup> …[^41a-3]
+<sup>3</sup> …[^41a-4]
 
-[^41a-1]: Introduit par l’annexe à la L du 20 déc. 2006 relative à PUBLICA, en vigueur depuis le 1<sup>er</sup> mai 2007 pour l’al. 1 ([RO 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313); [FF 2005 5457](https://fedlex.data.admin.ch/eli/fga/2005/951)) et le 1<sup>er</sup> juil. 2008 pour les autres alinéas ([RO 2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
-[^41a-2]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
-[^41a-3]: Abrogé par le ch. I 2 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^41a-1]: Introduit par l’annexe à la L du 20 déc. 2006 relative à Publica, en vigueur depuis le 1<sup>er</sup> mai 2007 pour l’al. 1 ([RO 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313); [FF 2005 5457](https://fedlex.data.admin.ch/eli/fga/2005/951)) et le 1<sup>er</sup> juil. 2008 pour les autres alinéas ([RO 2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+[^41a-2]: Abrogé par le ch. I de la LF du 20 juin 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^41a-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^41a-4]: Abrogé par le ch. I 2 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+
+#### Art. 41b
+
+**Disposition transitoire relative à la modification du 20 juin 2025**[^41b-1]
+
+Si un litige relatif à des prétentions découlant des rapports de travail a donné lieu à une décision rendue avant l’entrée en vigueur de la modification du 20 juin 2025, l’indemnité est calculée sur la base de l’art. 34*b* de l’ancien droit.
+
+[^41b-1]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 42
 
