@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione LM/OEs 2029
 document: Progetto posto in consultazione
 language: it

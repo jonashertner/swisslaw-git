@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision LAAM/OOrgA 2029
 document: Projet mis en consultation-2
 language: fr
