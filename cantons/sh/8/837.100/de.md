@@ -4,13 +4,12 @@ number: "837.100"
 title: Arbeitslosenhilfegesetz
 short: AHG
 language: de
-version: 2025-01-01
-valid_until: 2026-12-31
-version_adopted: 2024-10-25
+version: 2027-01-01
+version_adopted: 2025-11-03
 adopted: 1997-02-17
 in_force: 1997-10-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/837.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1915/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2097/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1915/pdf_file"
 
 (AHG)
 
-Vom 17.02.1997 (Stand 01.01.2025)
+Vom 17.02.1997 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Schaffhausen,
 
@@ -135,17 +134,19 @@ beschliesst:
 
 **Aufsicht kantonale Arbeitslosenkasse**
 
-<sup>1</sup> Kantonale Aufsichtsbehörde ist der Regierungsrat oder das von ihm als zuständig bezeichnete Departement, soweit nicht die Aufsichtsbehörden des Bundes gemäss Art. 110 AVIG zuständig sind.
+<sup>1</sup> Kantonale Aufsichtsbehörde ist die Verwaltungskommission der Sozialversicherungsanstalt Schaffhausen soweit nicht der Regierungsrat oder das von ihm als zuständig bezeichnete Departement zuständig ist.
 
-<sup>2</sup> Der kantonalen Aufsichtsbehörde obliegt insbesondere:
+<sup>2</sup> Der Verwaltungskommission obliegt die Behandlung von Aufsichtsbeschwerden, welche nicht in die Zuständigkeit der Bundesbehörden fallen.
 
-- a) die Bezeichnung der externen Revisionsstelle
-- b) die Vereinbarung mit der AHV-Ausgleichskasse über die Deckung der Verwaltungskosten
-- c) die Genehmigung von Jahresrechnung und Jahresbericht der AHV-Ausgleichskasse betreffend die Durchführung dieses Gesetzes
-- d) die Behandlung von Aufsichtsbeschwerden, welche nicht in die Zuständigkeit der Bundesbehörden fallen
-- e) der Erlass der notwendigen Ausführungsbestimmungen
-- f) die Festlegung des Satzes für die Beiträge der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer gemäss Art. 17 Abs. 1
-- g) die Bestimmung über die Verwendung des Vermögens gemäss Art. 19
+<sup>3</sup> Dem Regierungsrat obliegt:
+
+- a) die Festlegung des Satzes für die Beiträge der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer gemäss Art. 17 Abs. 1 lit. d
+- b) die Bestimmung über die Verwendung des Vermögens gemäss Art. 19
+- c) der Erlass der notwendigen Ausführungsbestimmungen dieses Gesetzes
+
+<sup>4</sup> Dem zuständigen Departement obliegt:
+
+- a) die Vereinbarung mit den Sozialversicherungsanstalt Schaffhausen über die Deckung der Verwaltungskosten
 
 #### Art. 12
 
