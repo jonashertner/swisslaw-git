@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2011 sulla promozione e sul coordinamento
 short: LPSU
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: it
-version: 2025-06-01
+version: 2027-01-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2014-691-20250601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2014-691-20270101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/it"
 
 (LPSU)
 
-del 30 settembre 2011 (Stato 1° giugno 2025)
+del 30 settembre 2011 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -405,6 +405,25 @@ Per l’ammissione al primo livello di studio, le scuole universitarie professio
 
 <sup>2</sup> Conformemente alla Convenzione sulla cooperazione, il Consiglio delle scuole universitarie specifica le condizioni d’ammissione per i singoli settori di studio. Può anche prevedere condizioni d’ammissione supplementari.
 
+#### Art. 25a
+
+**Cicli di studio bachelor con pratica integrata nelle scuole universitarie professionali**[^25a-1]
+
+<sup>1</sup> Le scuole universitarie professionali possono offrire cicli di studio bachelor con pratica integrata nei campi della matematica, dell’informatica, delle scienze naturali e della tecnica. La durata degli studi è prolungata di un anno, che corrisponde alla durata dell’esperienza lavorativa ai sensi dell’articolo 25 capoverso 1 lettera b.
+
+<sup>2</sup>
+
+Le scuole universitarie professionali possono ammettere senza esame le seguenti persone:
+
+- a. i titolari di una maturità professionale che non dispongono di una formazione professionale di base in una professione connessa con il settore di studio scelto;
+- b. i titolari di una maturità liceale.
+
+<sup>3</sup> Il Consiglio delle scuole universitarie determina i cicli di studio bachelor con pratica integrata e stabilisce le altre condizioni per l’ammissione, la struttura degli studi e la valutazione periodica.
+
+<sup>4</sup> Se nell’ambito della valutazione di cui al capoverso 3 il Consiglio delle scuole universitarie accerta effetti indesiderati in materia di politica della formazione, la Confederazione avvia nuovi negoziati concernenti la definizione dei cicli di studio bachelor con pratica integrata o, se del caso, sopprime l’offerta nella sua integralità.
+
+[^25a-1]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° gen. 2027 ([RU 2026 481](https://fedlex.data.admin.ch/eli/oc/2026/481); [FF 2025 1694](https://fedlex.data.admin.ch/eli/fga/2025/1694)).
+
 #### Art. 26
 
 **Struttura degli studi nelle scuole universitarie professionali**
@@ -695,7 +714,7 @@ Essa stabilisce mediante decreto federale semplice un limite di spesa distinto p
 - a. i sussidi di base destinati alle università cantonali e ad altri istituti accademici;
 - b. i sussidi di base destinati alle scuole universitarie professionali e ad altri istituti accademici.
 
-<sup>3</sup> I limiti di spesa devono essere stabiliti in modo che i corrispondenti crediti di pagamento annui garantiscano le aliquote previste per i sussidi.
+<sup>3</sup> …[^48-1]
 
 <sup>4</sup>
 
@@ -703,6 +722,8 @@ L’Assemblea federale stanzia mediante decreto federale semplice un credito d�
 
 - a. i sussidi per gli investimenti edili e le spese locative, nonché i sussidi alle infrastrutture comuni delle scuole universitarie e degli altri istituti accademici;
 - b. i sussidi vincolati a progetti.
+
+[^48-1]: Abrogato dalla cifra I n. 7 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Sezione 3: Sussidi di base
 
@@ -714,12 +735,14 @@ I sussidi di base sono accordati per finanziare le spese di gestione.
 
 #### Art. 50
 
-**Aliquote**
+**Aliquote**[^50-1]
 
 Dell’importo globale dei costi di riferimento la Confederazione assume:
 
-- a. il 20 per cento per le università cantonali;
-- b. il 30 per cento per le scuole universitarie professionali.
+- a. al massimo il 20 per cento per le università cantonali;
+- b. al massimo il 30 per cento per le scuole universitarie professionali.
+
+[^50-1]: Nuovo testo giusta la cifra I n. 7 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 51
 
@@ -1058,7 +1081,7 @@ Il Dipartimento competente definisce:
 - b. le condizioni di ammissione per diplomati di altri cicli di studio;
 - c. gli obiettivi di apprendimento dell’esperienza lavorativa di un anno nei singoli settori di studio.
 
-[^73-1]: Non pubblicate nella RU. Il testo di queste Dec. può essere richiesto alla Segreteria di Stato per la formazione, la ricerca e l’innovazione(SEFRI), Einsteinstrasse 2, 3003 Berna e consultato all’indirizzo [www.sbf i .admin.ch](https://www.sbfi.admin.ch/it).
+[^73-1]: Non pubblicate nella RU. Il testo di queste Dec. può essere richiesto alla Segreteria di Stato per la formazione, la ricerca e l’innovazione(SEFRI), Einsteinstrasse 2, 3003 Berna e consultato all’indirizzo [www.sbfi.admin.ch](https://www.sbfi.admin.ch/it).
 
 #### Art. 74
 

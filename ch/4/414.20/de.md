@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen
 short: HFKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: de
-version: 2025-06-01
+version: 2027-01-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2014-691-20250601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2014-691-20270101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/de"
 
 (Hochschulförderungs- und -koordinationsgesetz, HFKG)
 
-vom 30. September 2011 (Stand am 1. Juni 2025)
+vom 30. September 2011 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -61,7 +61,9 @@ Hochschulen im Sinne dieses Gesetzes sind:
 
 <sup>3</sup> Für die ETH und die anderen eidgenössischen Institutionen des Hochschulbereichs gilt dieses Gesetz mit Ausnahme der Bestimmungen über die Grundbeiträge sowie die Bauinvestitions- und die Baunutzungsbeiträge.
 
-<sup>4</sup> Für die Akkreditierung privater Universitäten, Fachhochschulen, pädagogischer Hochschulen und anderer privater Institutionen des Hochschulbereichs gelten die Bestimmungen des 5. und des 9. Kapitels dieses Gesetzes. Für die Teilnahme dieser Hochschulen an der Rektorenkonferenz der schweizerischen Hochschulen gilt Artikel 19 Absatz 2.
+<sup>4</sup> Für die Akkreditierung privater Universitäten, Fachhochschulen, pädagogischer Hochschulen und anderer privater Institutionen des Hochschulbereichs gelten die Bestimmungen des 5. und des 9. Kapitels dieses Gesetzes. Für die Teilnahme dieser Hochschulen an der Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen[^2-1] gilt Artikel 19 Absatz 2.
+
+[^2-1]: Ausdruck gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 481](https://fedlex.data.admin.ch/eli/oc/2026/481); [BBl 2025 1694](https://fedlex.data.admin.ch/eli/fga/2025/1694)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 #### Art. 3
 
@@ -136,7 +138,7 @@ Sie regelt, soweit dieses Gesetz keine Bestimmungen enthält, überdies:
 Die gemeinsamen Organe sind:
 
 - a. die Schweizerische Hochschulkonferenz in der Zusammensetzung als Plenarversammlung oder als Hochschulrat;
-- b. die Rektorenkonferenz der schweizerischen Hochschulen;
+- b. die Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen;
 - c. der Schweizerische Akkreditierungsrat.
 
 #### Art. 8
@@ -235,7 +237,7 @@ Mit beratender Stimme nehmen an den Sitzungen der Schweizerischen Hochschulkonfe
 - a. die Staatssekretärin oder der Staatssekretär für Bildung, Forschung und Innovation[^13-1];
 - b.[^13-2] …
 - c. die Generalsekretärin oder der Generalsekretär der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK);
-- d. die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident der Rektorenkonferenz der schweizerischen Hochschulen;
+- d. die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident der Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen;
 - e. die Präsidentin oder der Präsident des ETH-Rates;
 - f. die Präsidentin oder der Präsident des Forschungsrats des Schweizerischen Nationalfonds;
 - g.[^13-3] eine Vertreterin oder ein Vertreter der Innosuisse;
@@ -321,23 +323,23 @@ Die Entscheide des Hochschulrates bedürfen:
 
 Der Bundesrat informiert die für die Bildung und Forschung zuständigen parlamentarischen Kommissionen über die wichtigen Entwicklungen in der schweizerischen Hochschulpolitik sowie über die Aufgabenteilung in besonders kostenintensiven Bereichen.
 
-### 3. Abschnitt: Rektorenkonferenz der schweizerischen Hochschulen
+### 3. Abschnitt: Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen
 
 #### Art. 19
 
 **Zusammensetzung und Organisation**
 
-<sup>1</sup> Die Rektorenkonferenz der schweizerischen Hochschulen setzt sich zusammen aus den Rektorinnen, Rektoren, Präsidentinnen oder Präsidenten der schweizerischen Hochschulen.
+<sup>1</sup> Die Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen setzt sich zusammen aus den Rektorinnen, Rektoren, Präsidentinnen oder Präsidenten der schweizerischen Hochschulen.
 
 <sup>2</sup> Sie konstituiert sich selbst. Sie gibt sich ein Organisationsreglement. Dieses regelt auch die Teilnahme der Rektorinnen, Rektoren, Präsidentinnen und Präsidenten der nach diesem Gesetz akkreditierten privaten Hochschulen. Das Organisationsreglement bedarf der Genehmigung durch den Hochschulrat.
 
-<sup>3</sup> Die Rektorenkonferenz der schweizerischen Hochschulen verfügt über ein eigenes Budget und führt eine eigene Rechnung.
+<sup>3</sup> Die Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen verfügt über ein eigenes Budget und führt eine eigene Rechnung.
 
 #### Art. 20
 
 **Aufgaben und Zuständigkeiten**
 
-Die Rektorenkonferenz der schweizerischen Hochschulen hat die Aufgaben und die Zuständigkeiten, die ihr die Zusammenarbeitsvereinbarung überträgt.
+Die Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen hat die Aufgaben und die Zuständigkeiten, die ihr die Zusammenarbeitsvereinbarung überträgt.
 
 ### 4. Abschnitt: Schweizerischer Akkreditierungsrat und Schweizerische Agentur für Akkreditierung und Qualitätssicherung
 
@@ -404,6 +406,25 @@ Die Fachhochschulen verlangen für die Zulassung zur ersten Studienstufe:
 - c. eine Fachmaturität in einer dem Fachbereich verwandten Studienrichtung.
 
 <sup>2</sup> Der Hochschulrat konkretisiert gestützt auf die Zusammenarbeitsvereinbarung die Zulassungsvoraussetzungen für die einzelnen Fachbereiche. Er kann auch ergänzende Zulassungsvoraussetzungen vorsehen.
+
+#### Art. 25a
+
+**Bachelorstudiengänge an Fachhochschulen mit integrierter Praxis**[^25a-1]
+
+<sup>1</sup> In den Bereichen Mathematik, Informatik, Naturwissenschaften und Technik können die Fachhochschulen Bachelorstudiengänge mit integrierter Praxis anbieten. Die Studiendauer wird um ein Jahr verlängert, was der Dauer der Arbeitswelterfahrung im Sinne von Artikel 25 Absatz 1 Buchstabe b entspricht.
+
+<sup>2</sup>
+
+Die Fachhochschulen können folgende Personen prüfungsfrei aufnehmen:
+
+- a. Inhaberinnen und Inhaber einer Berufsmaturität, die nicht über eine berufliche Grundbildung in einem dem Fachbereich verwandten Beruf verfügen;
+- b. Inhaberinnen und Inhaber einer gymnasialen Maturität.
+
+<sup>3</sup> Der Hochschulrat bestimmt die Bachelorstudiengänge mit integrierter Praxis und regelt die weiteren Voraussetzungen für die Zulassung und Studiengestaltung sowie die regelmässige Evaluation.
+
+<sup>4</sup> Sollte der Hochschulrat im Rahmen der Evaluation nach Absatz 3 feststellen, dass bildungspolitisch unerwünschte Effekte auftreten, leitet der Bund eine erneute Verhandlung über die Ausgestaltung der Bachelorstudiengänge mit integrierter Praxis ein oder stellt das Angebot gegebenenfalls ganz ein.
+
+[^25a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 481](https://fedlex.data.admin.ch/eli/oc/2026/481); [BBl 2025 1694](https://fedlex.data.admin.ch/eli/fga/2025/1694)).
 
 #### Art. 26
 
@@ -535,13 +556,13 @@ Die Koordination umfasst:
 
 <sup>1</sup> Die Hochschulen und die anderen Institutionen des Hochschulbereichs erarbeiten eine mehrjährige Entwicklungs- und Finanzplanung. Diese enthält die mehrjährigen Ziele und Schwerpunkte sowie den Finanzbedarf.
 
-<sup>2</sup> Die Hochschulen, die anderen Institutionen des Hochschulbereichs und ihre Träger berücksichtigen die Vorgaben der Schweizerischen Hochschulkonferenz und die Empfehlungen der Rektorenkonferenz der schweizerischen Hochschulen.
+<sup>2</sup> Die Hochschulen, die anderen Institutionen des Hochschulbereichs und ihre Träger berücksichtigen die Vorgaben der Schweizerischen Hochschulkonferenz und die Empfehlungen der Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen.
 
 #### Art. 38
 
-**Auf der Ebene der Rektorenkonferenz der schweizerischen Hochschulen**
+**Auf der Ebene der Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen**
 
-<sup>1</sup> Die Rektorenkonferenz der schweizerischen Hochschulen stellt der Schweizerischen Hochschulkonferenz Antrag zur gesamtschweizerischen hochschulpolitischen Koordination und Aufgabenteilung in besonders kostenintensiven Bereichen.
+<sup>1</sup> Die Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen stellt der Schweizerischen Hochschulkonferenz Antrag zur gesamtschweizerischen hochschulpolitischen Koordination und Aufgabenteilung in besonders kostenintensiven Bereichen.
 
 <sup>2</sup>
 
@@ -566,7 +587,7 @@ Sie stützt sich dabei auf die Entwicklungs- und Finanzplanung der Hochschulen u
 
 **Aufgabenteilung in besonders kostenintensiven Bereichen**
 
-<sup>1</sup> Der Hochschulrat bestimmt auf Antrag der Rektorenkonferenz der schweizerischen Hochschulen die besonders kostenintensiven Bereiche und beschliesst die Aufgabenteilung in diesen Bereichen.
+<sup>1</sup> Der Hochschulrat bestimmt auf Antrag der Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen die besonders kostenintensiven Bereiche und beschliesst die Aufgabenteilung in diesen Bereichen.
 
 <sup>2</sup> Zur Bestimmung der besonders kostenintensiven Bereiche sind die Aufwendungen in einem Fachbereich oder einer Disziplin in Beziehung zu setzen zu den Aufwendungen im gesamten Hochschulbereich. Die Aufwendungen für einen besonders kostenintensiven Bereich müssen einen erheblichen Anteil an den Gesamtausgaben im schweizerischen Hochschulbereich ausmachen.
 
@@ -609,7 +630,7 @@ Er stützt sich dabei insbesondere auf:
 
 **Finanzielle Rahmenbedingungen**
 
-Die Plenarversammlung legt im Rahmen der Finanzplanungen des Bundes und der Kantone die finanziellen Rahmenbedingungen fest, die in einer Finanzierungsperiode zu beachten sind; dazu hört sie vorgängig die Rektorenkonferenz der schweizerischen Hochschulen an.
+Die Plenarversammlung legt im Rahmen der Finanzplanungen des Bundes und der Kantone die finanziellen Rahmenbedingungen fest, die in einer Finanzierungsperiode zu beachten sind; dazu hört sie vorgängig die Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen an.
 
 #### Art. 44
 
@@ -695,7 +716,7 @@ Sie beschliesst mit einfachem Bundesbeschluss je einen Zahlungsrahmen:
 - a. für die Grundbeiträge für die kantonalen Universitäten und für andere Institutionen des Hochschulbereichs;
 - b. für die Grundbeiträge für die Fachhochschulen und für andere Institutionen des Hochschulbereichs.
 
-<sup>3</sup> Die Zahlungsrahmen müssen so bemessen sein, dass die entsprechenden jährlichen Zahlungskredite die Beitragssätze gewährleisten.
+<sup>3</sup> ...[^48-1]
 
 <sup>4</sup>
 
@@ -703,6 +724,8 @@ Die Bundesversammlung beschliesst mit einfachem Bundesbeschluss je einen Verpfli
 
 - a. die Bauinvestitions- und Baunutzungsbeiträge sowie für die Beiträge an gemeinsame Infrastruktureinrichtungen der Hochschulen und der anderen Institutionen des Hochschulbereichs;
 - b. die projektgebundenen Beiträge.
+
+[^48-1]: Aufgehoben durch Ziff. I 7 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### 3. Abschnitt: Grundbeiträge
 
@@ -714,12 +737,14 @@ Grundbeiträge werden an die Betriebsaufwendungen gewährt.
 
 #### Art. 50
 
-**Beitragssätze**
+**Beitragssätze**[^50-1]
 
 Der Bund übernimmt vom Gesamtbetrag der Referenzkosten:
 
-- a. 20 Prozent bei den kantonalen Universitäten;
-- b. 30 Prozent bei den Fachhochschulen.
+- a. höchstens 20 Prozent bei den kantonalen Universitäten;
+- b. höchstens 30 Prozent bei den Fachhochschulen.
+
+[^50-1]: Fassung gemäss Ziff. I 7 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 51
 
@@ -964,7 +989,7 @@ In den Verträgen nach Absatz 1 kann der Bundesrat auch Vereinbarungen treffen �
 - d. die Beteiligung des Bundes an öffentlich-rechtlichen oder privatrechtlichen juristischen Personen;
 - e. den Beitritt zu internationalen Organisationen.
 
-<sup>3</sup> Der Hochschulrat und die Rektorenkonferenz der schweizerischen Hochschulen wirken gestützt auf die Zusammenarbeitsvereinbarung an der Vorbereitung dieser Abkommen mit. Die Zusammenarbeitsvereinbarung regelt das Verfahren der Mitwirkung.
+<sup>3</sup> Der Hochschulrat und die Konferenz der Rektorinnen und Rektoren der schweizerischen Hochschulen wirken gestützt auf die Zusammenarbeitsvereinbarung an der Vorbereitung dieser Abkommen mit. Die Zusammenarbeitsvereinbarung regelt das Verfahren der Mitwirkung.
 
 ## 11. Kapitel: Schlussbestimmungen
 

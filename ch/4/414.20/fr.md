@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2011 sur l'encouragement des hautes écol
 short: LEHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: fr
-version: 2025-06-01
+version: 2027-01-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2014-691-20250601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-691-20270101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20250601/fr"
 
 (Loi sur l’encouragement et la coordination des hautes écoles, LEHE)[^t-1]
 
-du 30 septembre 2011 (État le 1<sup>er</sup> juin 2025)
+du 30 septembre 2011 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -63,7 +63,9 @@ Sont réputées hautes écoles au sens de la présente loi:
 
 <sup>3</sup> Les dispositions de la présente loi régissant les contributions de base, les contributions d’investissements et les contributions aux frais locatifs ne s’appliquent pas aux EPF et aux autres institutions fédérales du domaine des hautes écoles.
 
-<sup>4</sup> Les chap. 5 et 9 s’appliquent également à l’accréditation des universités, hautes écoles spécialisées et hautes écoles pédagogiques privées ainsi que des autres institutions privées du domaine des hautes écoles. La participation de ces hautes écoles à la Conférence des recteurs des hautes écoles suisses est régie par l’art. 19, al. 2.
+<sup>4</sup> Les chap. 5 et 9 s’appliquent également à l’accréditation des universités, hautes écoles spécialisées et hautes écoles pédagogiques privées ainsi que des autres institutions privées du domaine des hautes écoles. La participation de ces hautes écoles à la Conférence des rectrices et recteurs des hautes écoles suisses[^2-1] est régie par l’art. 19, al. 2.
+
+[^2-1]: Nouvelle expression selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 481](https://fedlex.data.admin.ch/eli/oc/2026/481); [FF 2025 1694](https://fedlex.data.admin.ch/eli/fga/2025/1694)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 3
 
@@ -138,7 +140,7 @@ Elle règle, si la présente loi ne le fait pas:
 Les organes communs sont:
 
 - a. la Conférence suisse des hautes écoles, qu’elle siège en Conférence plénière ou en Conseil des hautes écoles;
-- b. la Conférence des recteurs des hautes écoles suisses;
+- b. la Conférence des rectrices et recteurs des hautes écoles suisses;
 - c. le Conseil suisse d’accréditation.
 
 #### Art. 8
@@ -237,7 +239,7 @@ Les personnes suivantes participent aux séances de la Conférence suisse des ha
 - a. le secrétaire d’état à la formation, à la recherche et à l’innovation[^13-1];
 - b.[^13-2] …
 - c. le secrétaire général de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP);
-- d. le président et le vice-président de la Conférence des recteurs des hautes écoles suisses;
+- d. le président et le vice-président de la Conférence des rectrices et recteurs des hautes écoles suisses;
 - e. le président du Conseil des EPF;
 - f. le président du conseil de recherche du Fonds national suisse;
 - g.[^13-3] un représentant d’Innosuisse;
@@ -323,23 +325,23 @@ Les décisions du Conseil des hautes écoles sont adoptées aux conditions suiva
 
 Le Conseil fédéral informe les commissions parlementaires compétentes en matière de formation et de recherche sur les développements majeurs de la politique suisse des hautes écoles ainsi que sur la répartition des tâches dans les domaines particulièrement onéreux.
 
-### Section 3 Conférence des recteurs des hautes écoles suisses
+### Section 3 Conférence des rectrices et recteurs des hautes écoles suisses
 
 #### Art. 19
 
 **Composition et organisation**
 
-<sup>1</sup> La Conférence des recteurs des hautes écoles suisses se compose des recteurs ou présidents des hautes écoles suisses.
+<sup>1</sup> La Conférence des rectrices et recteurs des hautes écoles suisses se compose des recteurs ou présidents des hautes écoles suisses.
 
 <sup>2</sup> Elle se constitue elle-même. Elle se dote d’un règlement d’organisation. Celui-ci porte notamment sur les modalités de la représentation des recteurs et des présidents des hautes écoles privées accréditées au sens de la présente loi. Le règlement d’organisation est soumis à l’approbation du Conseil des hautes écoles.
 
-<sup>3</sup> La Conférence des recteurs des hautes écoles suisses a son propre budget et tient sa propre comptabilité.
+<sup>3</sup> La Conférence des rectrices et recteurs des hautes écoles suisses a son propre budget et tient sa propre comptabilité.
 
 #### Art. 20
 
 **Tâches et compétences**
 
-La Conférence des recteurs des hautes écoles suisses assume les tâches et les compétences que lui délègue la convention de coopération.
+La Conférence des rectrices et recteurs des hautes écoles suisses assume les tâches et les compétences que lui délègue la convention de coopération.
 
 ### Section 4 Conseil suisse d’accréditation et Agence suisse d’accréditation et d’assurance de la qualité
 
@@ -406,6 +408,25 @@ L’admission au premier cycle d’études dans une haute école spécialisée r
 - c. une maturité spécialisée dans une spécialisation apparentée au domaine d’études choisi.
 
 <sup>2</sup> En vertu de la convention de coopération, le Conseil des hautes écoles précise les conditions d’admission applicables aux différents domaines d’études. Il peut aussi prévoir des conditions supplémentaires.
+
+#### Art. 25a
+
+**Filières d’études bachelor intégrant une partie pratique proposées dans les hautes écoles spécialisées**[^25a-1]
+
+<sup>1</sup> Les hautes écoles spécialisées peuvent proposer des filières d’études bachelor intégrant une partie pratique dans le domaine des mathématiques, de l’informatique, des sciences naturelles et de la technique. La durée des études est prolongée d’une année, ce qui correspond à la durée de l’expérience du monde du travail au sens de l’art. 25, al. 1, let. b.
+
+<sup>2</sup>
+
+Les hautes écoles spécialisées peuvent admettre sans examen les personnes suivantes:
+
+- a. les titulaires d’une maturité professionnelle n’ayant pas suivi de formation professionnelle initiale dans une profession apparentée au domaine d’études choisi;
+- b. les titulaires d’une maturité gymnasiale.
+
+<sup>3</sup> Le Conseil des hautes écoles détermine les filières d’études bachelor intégrant une partie pratique et fixe les autres conditions les concernant en matière d’admission, de nature des études et d’évaluation régulière.
+
+<sup>4</sup> Si, dans le cadre de l’évaluation visée à l’al. 3, le Conseil des hautes écoles constate des effets non souhaités en matière de politique de formation, la Confédération lance de nouvelles négociations sur l’aménagement des filières d’études bachelor intégrant une partie pratique ou, le cas échéant, supprime l’offre dans sa totalité.
+
+[^25a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 481](https://fedlex.data.admin.ch/eli/oc/2026/481); [FF 2025 1694](https://fedlex.data.admin.ch/eli/fga/2025/1694)).
 
 #### Art. 26
 
@@ -537,13 +558,13 @@ La coordination comporte les éléments suivants:
 
 <sup>1</sup> Les hautes écoles et les autres institutions du domaine des hautes écoles établissent une planification pluriannuelle en matière de financement et de développement. Celle-ci indique les objectifs et les priorités des institutions ainsi que les besoins financiers qui en découlent.
 
-<sup>2</sup> Les hautes écoles, les autres institutions du domaine des hautes écoles et les collectivités responsables observent les décisions de la Conférence suisse des hautes écoles et les recommandations de la Conférence des recteurs des hautes écoles suisses.
+<sup>2</sup> Les hautes écoles, les autres institutions du domaine des hautes écoles et les collectivités responsables observent les décisions de la Conférence suisse des hautes écoles et les recommandations de la Conférence des rectrices et recteurs des hautes écoles suisses.
 
 #### Art. 38
 
-**Au niveau de la Conférence des recteurs des hautes écoles suisses**
+**Au niveau de la Conférence des rectrices et recteurs des hautes écoles suisses**
 
-<sup>1</sup> La Conférence des recteurs des hautes écoles suisses propose à la Conférence suisse des hautes écoles un projet de coordination de la politique des hautes écoles à l’échelle nationale et de répartition des tâches dans les domaines particulièrement onéreux.
+<sup>1</sup> La Conférence des rectrices et recteurs des hautes écoles suisses propose à la Conférence suisse des hautes écoles un projet de coordination de la politique des hautes écoles à l’échelle nationale et de répartition des tâches dans les domaines particulièrement onéreux.
 
 <sup>2</sup>
 
@@ -568,7 +589,7 @@ Elle se fonde pour ce faire sur la planification des hautes écoles et des autre
 
 **Répartition des tâches dans les domaines particulièrement onéreux**
 
-<sup>1</sup> Sur proposition de la Conférence des recteurs des hautes écoles suisses, le Conseil des hautes écoles définit les domaines particulièrement onéreux et décide de la répartition des tâches dans ces domaines.
+<sup>1</sup> Sur proposition de la Conférence des rectrices et recteurs des hautes écoles suisses, le Conseil des hautes écoles définit les domaines particulièrement onéreux et décide de la répartition des tâches dans ces domaines.
 
 <sup>2</sup> Pour identifier les domaines particulièrement onéreux, les charges d’un domaine d’études ou d’une discipline en particulier sont mises en relation avec les charges de l’ensemble du domaine des hautes écoles. Un domaine d’études sera réputé particulièrement onéreux si ses charges représentent une proportion importante des charges globales du domaine suisse des hautes écoles.
 
@@ -611,7 +632,7 @@ Il se fonde notamment sur les éléments suivants:
 
 **Cadre financier**
 
-La Conférence plénière définit, dans le cadre des planifications financières de la Confédération et des cantons, le cadre financier applicable à chaque période de financement; elle consulte préalablement la Conférence des recteurs des hautes écoles suisses.
+La Conférence plénière définit, dans le cadre des planifications financières de la Confédération et des cantons, le cadre financier applicable à chaque période de financement; elle consulte préalablement la Conférence des rectrices et recteurs des hautes écoles suisses.
 
 #### Art. 44
 
@@ -697,7 +718,7 @@ Elle fixe dans un arrêté fédéral simple:
 - a. un plafond de dépenses pour les contributions de base aux universités et à d’autres institutions du domaine des hautes écoles;
 - b. un plafond de dépenses pour les contributions de base aux hautes écoles spécialisées et à d’autres institutions du domaine des hautes écoles.
 
-<sup>3</sup> Les plafonds de dépenses sont fixés de manière à ce que les crédits de paiement annuels garantissent les taux de financement.
+<sup>3</sup> …[^48-1]
 
 <sup>4</sup>
 
@@ -705,6 +726,8 @@ L’Assemblée fédérale ouvre par voie d’arrêté fédéral simple:
 
 - a. un crédit d’engagement pour les contributions d’investissements, les participations aux frais locatifs et les contributions pour les infrastructures communes des hautes écoles et des autres institutions du domaine des hautes écoles;
 - b. un crédit d’engagement pour les contributions liées à des projets.
+
+[^48-1]: Abrogé par le ch. I 7 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Section 3 Contributions de base
 
@@ -716,12 +739,14 @@ Les contributions de base sont allouées à titre de participation aux frais d�
 
 #### Art. 50
 
-**Taux de financement**
+**Taux de financement**[^50-1]
 
 La Confédération prend en charge la part suivante du montant total des coûts de référence:
 
-- a. 20 % pour les universités cantonales;
-- b. 30 % pour les hautes écoles spécialisées.
+- a. 20 % au plus pour les universités cantonales;
+- b. 30 % au plus pour les hautes écoles spécialisées.
+
+[^50-1]: Nouvelle teneur selon le ch. I 7 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 51
 
@@ -966,7 +991,7 @@ Dans le cadre des accords visés à l’al. 1, le Conseil fédéral peut égalem
 - d. la participation de la Confédération à des entités juridiques de droit public ou privé;
 - e. l’adhésion à des organisations internationales.
 
-<sup>3</sup> En vertu de la convention de coopération, le Conseil des hautes écoles et la Conférence des recteurs des hautes écoles suisses participent à la préparation des traités. La convention de coopération règle la procédure.
+<sup>3</sup> En vertu de la convention de coopération, le Conseil des hautes écoles et la Conférence des rectrices et recteurs des hautes écoles suisses participent à la préparation des traités. La convention de coopération règle la procédure.
 
 ## Chapitre 11 Dispositions finales
 
