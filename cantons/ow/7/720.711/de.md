@@ -3,20 +3,19 @@ canton: OW
 number: "720.711"
 title: Ausführungsbestimmungen über Beiträge an Wanderwege
 language: de
-version: 2022-01-01
-valid_until: 2026-12-31
-version_adopted: 2021-12-14
+version: 2027-01-01
+version_adopted: 2026-05-12
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/720.711"
-pdf: "http://gdb.ow.ch/api/de/versions/1566/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2023/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über Beiträge an Wanderwege
 
-vom 14.12.2021 (Stand 01.01.2022)
+vom 12.05.2026 (Stand 01.01.2027)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -34,24 +33,30 @@ beschliesst:
 
 #### Art. 2
 
-**Beitragsberechtigte Kosten**
+**Entschädigung**
 
-<sup>1</sup> Der Aufwand nach Art. 16 Abs. 6 VV FWG wird wie folgt vergütet:
+<sup>1</sup> Der Kanton entschädigt dem Verein Obwaldner Wanderwege den Aufwand nach Art. 16 Abs. 6 VV FWG mit einem pauschalen jährlichen Beitrag von Fr. 49 500.–.
 
-- a. pauschaler Jahresbeitrag bis Fr. 5 000.– gemäss Leistungsvereinbarung;
-- b. Planung, Beratung und Koordination sowohl für den Vollzug auf Gemeindeebene als auch im Auftrag der kantonalen Fachstelle mit Fr. 35.– je Stunde;
-- c. ausgewiesene Kurskosten für die Aus- und Weiterbildung der beigezogenen Fachleute;
-- d. Kursbesuch unter Anrechnung der tatsächlichen Kursdauer zum gleichen Ansatz wie die übrigen Vollzugsaufgaben;
-- e. Fahrtspesen nach den für die kantonale Verwaltung geltenden Bestimmungen.
+#### Art. 3
+
+**Leistungsvereinbarung**
+
+<sup>1</sup> Das Bau- und Raumentwicklungsdepartement schliesst mit dem Verein Obwaldner Wanderwege eine Vereinbarung ab, in welcher die zu erbringenden Leistungen festgelegt werden.
+
+#### Art. 4
+
+**Jahresrechnung**
+
+<sup>1</sup> Der Verein Obwaldner Wanderwege reicht dem Bau- und Raumentwicklungsdepartement seine Jahresrechnung jeweils umgehend nach Genehmigung durch die Generalversammlung ein.
 
 **Informationen zum Erlass**
 
-Ursprüngliche Fundstelle: OGS 2021, 55
+Ursprüngliche Fundstelle: OGS 2026, 12
 
-Ursprüngliches Inkrafttreten: 1. Januar 2022
+Ursprüngliches Inkrafttreten: 1. Januar 2027
 
 Aufgehobener Erlass:
 
-Ausführungsbestimmungen über Beiträge an Wanderwege vom 4. Juli 1995 (OGS 1995, 88, OGS 1999, 60, OGS 2007, 26 und 55, OGS 2016, 64)
+AB über Beiträge an Wanderwege vom 14. Dezember 2021 (OGS 2021, 55)
 
-OGS 2021, 55
+2026, 012
