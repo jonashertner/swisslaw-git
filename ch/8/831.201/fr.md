@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2025-06-01
+version: 2027-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250601/fr"
 
 (RAI)[^t-1]
 
-du 17 janvier 1961 (État le 1<sup>er</sup> juin 2025)
+du 17 janvier 1961 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -27,8 +27,8 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 
 ## Chapitre I Les personnes assurées et les cotisations
@@ -39,7 +39,7 @@ arrête:
 
 Les dispositions du chap. I et des art. 34 à 43 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^1-1] sont applicables par analogie. L’assurance facultative pour les ressortissants suisses résidant à l’étranger fait l’objet de dispositions réglementaires spéciales.
 
-[^1-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)**.** Abréviation introduite par le ch. II 1 de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^1-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)**.** Abréviation introduite par le ch. II 1 de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
 #### Art. 1<sup>bis</sup>
 
@@ -50,29 +50,29 @@ Les dispositions du chap. I et des art. 34 à 43 du règlement du 31 octobre 194
 <table>
 <tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour-cent du revenu</th></tr>
 <tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
-<tr><td>10 100</td><td colspan="2">17 600</td><td>0,752</td></tr>
-<tr><td>17 600</td><td colspan="2">23 000</td><td>0,769</td></tr>
-<tr><td>23 000</td><td colspan="2">25 500</td><td>0,786</td></tr>
-<tr><td>25 500</td><td colspan="2">28 000</td><td>0,804</td></tr>
-<tr><td>28 000</td><td colspan="2">30 500</td><td>0,821</td></tr>
-<tr><td>30 500</td><td colspan="2">33 000</td><td>0,838</td></tr>
-<tr><td>33 000</td><td colspan="2">35 500</td><td>0,873</td></tr>
-<tr><td>35 500</td><td colspan="2">38 000</td><td>0,907</td></tr>
-<tr><td>38 000</td><td colspan="2">40 500</td><td>0,942</td></tr>
-<tr><td>40 500</td><td colspan="2">43 000</td><td>0,977</td></tr>
-<tr><td>43 000</td><td colspan="2">45 500</td><td>1,011</td></tr>
-<tr><td>45 500</td><td colspan="2">48 000</td><td>1,046</td></tr>
-<tr><td>48 000</td><td colspan="2">50 500</td><td>1,098</td></tr>
-<tr><td>50 500</td><td colspan="2">53 000</td><td>1,149</td></tr>
-<tr><td>53 000</td><td colspan="2">55 500</td><td>1,201</td></tr>
-<tr><td>55 500</td><td colspan="2">58 000</td><td>1,253</td></tr>
-<tr><td>58 000</td><td colspan="2">60 500</td><td>1,305</td></tr>
+<tr><td>10 300</td><td colspan="2">17 700</td><td>0,752</td></tr>
+<tr><td>17 700</td><td colspan="2">24 000</td><td>0,769</td></tr>
+<tr><td>24 000</td><td colspan="2">26 500</td><td>0,786</td></tr>
+<tr><td>26 500</td><td colspan="2">29 000</td><td>0,804</td></tr>
+<tr><td>29 000</td><td colspan="2">31 500</td><td>0,821</td></tr>
+<tr><td>31 500</td><td colspan="2">34 000</td><td>0,838</td></tr>
+<tr><td>34 000</td><td colspan="2">36 500</td><td>0,873</td></tr>
+<tr><td>36 500</td><td colspan="2">39 000</td><td>0,907</td></tr>
+<tr><td>39 000</td><td colspan="2">41 500</td><td>0,942</td></tr>
+<tr><td>41 500</td><td colspan="2">44 000</td><td>0,977</td></tr>
+<tr><td>44 000</td><td colspan="2">46 500</td><td>1,011</td></tr>
+<tr><td>46 500</td><td colspan="2">49 000</td><td>1,046</td></tr>
+<tr><td>49 000</td><td colspan="2">51 500</td><td>1,098</td></tr>
+<tr><td>51 500</td><td colspan="2">54 000</td><td>1,149</td></tr>
+<tr><td>54 000</td><td colspan="2">56 500</td><td>1,201</td></tr>
+<tr><td>56 500</td><td colspan="2">59 000</td><td>1,253</td></tr>
+<tr><td>59 000</td><td colspan="2">61 500</td><td>1,305</td></tr>
 </table>
 
-<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 70 à 3500 francs par an. Les art. 28 à 30 RAVS sont applicables par analogie.
+<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 71 à 3550 francs par an. Les art. 28 à 30 RAVS sont applicables par analogie.
 
-[^1bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1987 ([RO 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 466](https://fedlex.data.admin.ch/eli/oc/2024/466)).
-[^1bis-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^1bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1987 ([RO 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 544](https://fedlex.data.admin.ch/eli/oc/2026/544)).
+[^1bis-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 ## Chapitre I*a* Détection précoce
 
@@ -130,8 +130,8 @@ La phase d’intervention précoce s’achève par:
 - b. la communication du fait qu’aucune mesure de réadaptation ne peut être mise en œuvre avec succès et que le droit à la rente sera examiné, ou
 - c. la décision selon laquelle l’assuré n’a droit ni à des mesures de réadaptation prévues à l’art. 8, al. 3, let. a<sup>ter</sup> [^1septies-2] et b, LAI, ni à une rente.
 
-[^1septies-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^1septies-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^1septies-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^1septies-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 1<sup>octies</sup>
 
@@ -290,8 +290,8 @@ Un médicament est ajouté à la liste des spécialités en matière d’infirmi
 <sup>4</sup> Si les conditions de l’entrée en matière sur une demande au sens de l’art. 69, al. 4, OAMal sont remplies avant que l’Institut suisse des produits thérapeutiques ne délivre l’autorisation définitive, l’OFSP rend sa décision concernant la demande dans un délai raisonnable une fois l’autorisation en question délivrée.
 
 [^3sexies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^3sexies-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^3sexies-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^3sexies-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
+[^3sexies-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 3<sup>septies</sup>
 
@@ -307,7 +307,7 @@ Le titulaire de l’autorisation est en outre tenu de rembourser au Fonds de com
 - b. pendant les deux années suivant la baisse du prix de fabrique due à l’extension des indications ou à la modification de la limitation au sens de l’art. 65*f*, al. 2, 1<sup>re</sup> phrase, OAMal[^3septies-2], pour autant que le chiffre d’affaires supplémentaire effectivement réalisé ait été supérieur au chiffre d’affaires supplémentaire estimé lors de la baisse du prix.
 
 [^3septies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^3septies-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^3septies-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 3<sup>octies</sup>
 
@@ -338,7 +338,7 @@ Elle rembourse aussi:
 - d. les moyens et appareils diagnostiques ou thérapeutiques.
 
 [^3novies-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 509](https://fedlex.data.admin.ch/eli/oc/2023/509)).
-[^3novies-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^3novies-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 3<sup>decies</sup>
 
@@ -349,7 +349,7 @@ Elle rembourse aussi:
 <sup>2</sup> L’office AI rend dans un délai raisonnable une décision concernant les demandes de remboursement des médicaments dans des cas particuliers. L’OFAS définit dans des directives les cas où il doit être préalablement consulté.
 
 [^3decies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^3decies-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^3decies-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 4
 
@@ -525,7 +525,7 @@ Dans des cas particuliers, la formation professionnelle initiale peut être cons
 <sup>5</sup> L’octroi d’une mesure de formation pratique au sens de l’art. 16, al. 3, let. c, LAI vaut pour la durée de la formation en question.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^5-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^5-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 5<sup>bis</sup>
 
@@ -562,7 +562,7 @@ Si l’assuré a des frais supplémentaires du fait qu’il doit loger et prendr
 - b. pour le logement, les frais nécessaires et attestés jusqu’à concurrence du montant visé à l’art. 90, al. 4, let. c.
 
 [^5bis-1]: Introduit par le ch. I de l’O du 21 mai 2003 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^5bis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5bis-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 5<sup>ter</sup>
 
@@ -637,7 +637,7 @@ L’allocation d’initiation au travail n’est pas allouée à l’assuré qui
 <sup>5</sup> L’allocation d’initiation au travail est versée par la Centrale de compensation.
 
 [^6ter-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^6ter-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^6ter-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 6<sup>quater</sup>
 
@@ -874,7 +874,7 @@ Les assurés contraints d’interrompre une mesure de réadaptation pour cause d
 [^20quater-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^20quater-4]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^20quater-5]: Abrogé par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^20quater-6]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^20quater-6]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^20quater-7]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 20<sup>quinquies</sup>
@@ -884,7 +884,7 @@ Les assurés contraints d’interrompre une mesure de réadaptation pour cause d
 Les assurés qui sont au bénéfice d’une allocation en vertu de la LAPG[^20quinquies-2] n’ont pas droit à une indemnité journalière de l’assurance-invalidité.
 
 [^20quinquies-1]: Introduit par le ch. I de l’O du 29 juin 1983 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^20quinquies-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^20quinquies-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 20<sup>sexies</sup>
 
@@ -926,7 +926,7 @@ Lors de l’établissement du revenu déterminant au sens de l’art. 23, al. 3,
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21-2]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^21-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-4]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^21-4]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^21-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^21-6]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^21-7]: Introduite par l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
@@ -975,7 +975,7 @@ Le revenu déterminant est converti en revenu journalier. Il est calculé de la 
 <sup>2</sup> L’indemnité journalière pour les assurés qui rendent vraisemblable que, durant la période de réadaptation, ils auraient entrepris une activité lucrative indépendante d’une assez longue durée est calculée d’après le revenu qu’ils auraient pu en obtenir.
 
 [^21quater-1]: Introduit par le ch. I de l’O du 31 mai 1999 ([RO 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
-[^21quater-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21quater-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^21quater-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>quinquies</sup>
@@ -1010,11 +1010,11 @@ Durant la réadaptation, un examen a lieu d’office tous les deux ans pour éta
 
 [^21septies-1]: Introduit par le ch. I de l’O du 31 mai 1999 ([RO 1999 1851](https://fedlex.data.admin.ch/eli/oc/1999/304)). Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21septies-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^21septies-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21septies-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^21septies-4]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^21septies-5]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^21septies-5]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^21septies-6]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^21septies-7]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^21septies-7]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^21septies-8]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 21<sup>octies</sup>
@@ -1059,9 +1059,9 @@ En l’absence de contrat d’apprentissage au sens de la LFPr[^22-2], le montan
 <sup>5</sup> Si l’assuré a droit à une prestation pour enfant au sens de l’art. 22<sup>bis</sup>, al. 2, LAI, le montant de l’indemnité journalière est majoré du montant de la prestation pour enfant selon l’art. 23<sup>bis</sup> LAI, à la condition que le revenu soit inférieur à celui fixé aux art. 13, al. 3, et 19, al. 1<sup>bis</sup>, de la loi fédérale du 24 mars 2006 sur les allocations familiales[^22-4].
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^22-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^22-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^22-4]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^22-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^22-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^22-4]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 
 #### Art. 22<sup>bis</sup>
 
@@ -1180,8 +1180,8 @@ Sont notamment remboursés les frais de garde ou d’assistance suivants:
 <sup>6</sup> Les art. 59*f*, 59*h* et 59*i* OAMal[^24bis-3] sont applicables par analogie à la communication des données au sens de l’art. 27, al. 8, LAI, ainsi qu’à leur transmission, à leur sécurité, à leur conservation et au règlement de traitement.[^24bis-4]
 
 [^24bis-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^24bis-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^24bis-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^24bis-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^24bis-3]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^24bis-4]: Introduit par l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 24<sup>ter</sup>
@@ -1195,7 +1195,7 @@ Sont notamment remboursés les frais de garde ou d’assistance suivants:
 <sup>3</sup> Les fournisseurs de prestations mettent à la disposition des services spécialisés compétents de la Confédération, de l’association Commission des tarifs médicaux LAA ainsi que des partenaires tarifaires les documents nécessaires à la fixation du tarif.
 
 [^24ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^24ter-2]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^24ter-2]: [RS 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 24<sup>quater</sup>
 
@@ -1277,8 +1277,8 @@ Est réputé revenu au sens de l’art. 16 LPGA le revenu annuel présumable sur
 <sup>4</sup> Les valeurs statistiques visées à l’al. 3 sont adaptées au temps de travail usuel au sein de l’entreprise selon la division économique ainsi qu’à l’évolution des salaires nominaux.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^25-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^25-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^25-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^25-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 26
 
@@ -1407,7 +1407,7 @@ Il y a interruption notable de l’incapacité de travail au sens de l’art. 28
 La rente d’invalidité n’est versée que si l’assuré révoque l’anticipation de sa rente de vieillesse ou y renonce, comme prévu à l’art. 56<sup>ter</sup> RAVS[^29quater-2].
 
 [^29quater-1]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^29quater-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^29quater-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 ### III. Prestation transitoire
 
@@ -1462,7 +1462,7 @@ Une prestation transitoire est versée aux conditions suivantes:
 <sup>2</sup> La réduction des deux rentes d’un couple en vertu de l’art. 37, al. 1<sup>bis</sup>, LAI, s’effectue en fonction de la rente du conjoint qui présente le degré d’invalidité le plus élevé.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
-[^32-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^32-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^32-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 32<sup>bis</sup>
@@ -1472,7 +1472,7 @@ Une prestation transitoire est versée aux conditions suivantes:
 Lorsqu’un assuré dont la rente a été supprimée pour cause d’abaissement du degré de l’invalidité a, dans les trois ans qui suivent, de nouveau droit à une rente (art. 28 LAI) en raison de la même atteinte à la santé, les bases de calcul de l’ancienne rente restent déterminantes si cela est plus avantageux pour l’ayant droit. Si, durant cette période, son conjoint a été mis au bénéfice d’une rente de vieillesse ou d’invalidité ou s’il est décédé, l’art. 29<sup>quinquies</sup> LAVS[^32bis-2] est applicable.
 
 [^32bis-1]: Introduit par le ch. I de l’O du 29 juin 1983 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
-[^32bis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32bis-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 33
 
@@ -1489,7 +1489,7 @@ Lorsqu’un assuré dont la rente a été supprimée pour cause d’abaissement 
 <sup>2</sup> La réduction des rentes pour enfant correspondant à des rentes AI dont le pourcentage est inférieur aux 100 % d’une rente entière se calcule en fonction de la proportion à une rente entière.[^33bis-3]
 
 [^33bis-1]: Introduit par le ch. II 1 de l’O du 11 oct. 1972 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4151](https://fedlex.data.admin.ch/eli/oc/2006/613)).
-[^33bis-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^33bis-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^33bis-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 33<sup>ter</sup>
@@ -1501,7 +1501,7 @@ Lorsqu’un assuré dont la rente a été supprimée pour cause d’abaissement 
 <sup>2</sup> Les art. 59 et 60 RAVS[^33ter-2] sont applicables.
 
 [^33ter-1]: Introduit par le ch. I de l’O du 18 sept. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2635](https://fedlex.data.admin.ch/eli/oc/2000/425)).
-[^33ter-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^33ter-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 ### C. Les rentes extraordinaires
 
@@ -1512,7 +1512,7 @@ Lorsqu’un assuré dont la rente a été supprimée pour cause d’abaissement 
 L’art. 54<sup>bis</sup> RAVS[^34-2], s’applique par analogie en cas de réduction des rentes extraordinaires pour enfants en vertu de l’art. 40, al. 2, LAI.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
-[^34-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^34-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 ### D. L’allocation pour impotent
 
@@ -1541,7 +1541,7 @@ L’art. 54<sup>bis</sup> RAVS[^34-2], s’applique par analogie en cas de rédu
 
 <sup>2bis</sup> Les assurés mineurs qui séjournent dans un établissement hospitalier aux frais de l’assurance sociale et qui ont droit à une allocation pour impotent en vertu de l’art. 42<sup>bis</sup>, al. 4, LAI, sont tenus de joindre l’attestation de l’établissement hospitalier prévue par cette disposition à la facture transmise à l’office AI.[^35bis-3]
 
-<sup>2ter</sup> Les assurés mineurs qui supportent eux-mêmes les coûts de leur séjour en home conservent leur droit à l’allocation pour impotent.[^35bis-4]
+<sup>2ter</sup> Les assurés mineurs qui supportent eux-mêmes les coûts de leur séjour en home conservent leur droit à l’allocation pour impotent entière.[^35bis-4]
 
 <sup>3</sup> Sont déterminants pour les séjours en institution les jours durant lesquels l’assurance-invalidité prend en charge les frais de séjour résidentiel dans une institution.[^35bis-5]
 
@@ -1552,7 +1552,7 @@ L’art. 54<sup>bis</sup> RAVS[^34-2], s’applique par analogie en cas de rédu
 [^35bis-1]: Introduit par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^35bis-2]: Nouvelle teneur de la phrase selon le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 [^35bis-3]: Introduit par le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^35bis-4]: Introduit par le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
+[^35bis-4]: Introduit par le ch. I 1 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)). Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 544](https://fedlex.data.admin.ch/eli/oc/2026/544)).
 [^35bis-5]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 [^35bis-6]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -1583,7 +1583,7 @@ Un logement collectif n’est pas assimilé à un home:
 <sup>5</sup> Les institutions qui servent au traitement curatif ne sont pas assimilés à des homes.
 
 [^35ter-1]: Introduit par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^35ter-2]: [RS 831.26](https://fedlex.data.admin.ch/eli/cc/2007/802)
+[^35ter-2]: [RS 831.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10070)
 
 #### Art. 36
 
@@ -1646,7 +1646,7 @@ Le besoin d’un accompagnement pour faire face aux nécessités de la vie au se
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^38-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^38-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^38-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^38-4]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
 #### Art. 39
@@ -1751,16 +1751,16 @@ Pour les groupes de personnes mentionnés ci-dessous, le nombre d’actes ordina
 
 **Montant de la contribution d’assistance**[^39f-1]
 
-<sup>1</sup> La contribution d’assistance se monte à 35 fr. 30 par heure.
+<sup>1</sup> La contribution d’assistance se monte à 35 fr. 85 par heure.
 
-<sup>2</sup> Si l’assistant doit disposer de qualifications particulières pour fournir les prestations requises dans les domaines prévus à l’art. 39*c*, let. e à g, le montant de la contribution d’assistance s’élève à 52 fr. 95 par heure.
+<sup>2</sup> Si l’assistant doit disposer de qualifications particulières pour fournir les prestations requises dans les domaines prévus à l’art. 39*c*, let. e à g, le montant de la contribution d’assistance s’élève à 53 fr. 80 par heure.
 
-<sup>3</sup> L’office AI détermine le montant forfaitaire de la contribution d’assistance allouée pour les prestations de nuit en fonction de l’intensité de l’aide à apporter à l’assuré. Le montant de la contribution s’élève à 169 fr. 10 par nuit au maximum.
+<sup>3</sup> L’office AI détermine le montant forfaitaire de la contribution d’assistance allouée pour les prestations de nuit en fonction de l’intensité de l’aide à apporter à l’assuré. Le montant de la contribution s’élève à 171 fr. 75 par nuit au maximum.
 
 <sup>4</sup> L’art. 33<sup>ter</sup> LAVS[^39f-2] s’applique par analogie à l’adaptation des montants fixés aux al. 1 à 3 en fonction de l’évolution des salaires et des prix.
 
-[^39f-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 466](https://fedlex.data.admin.ch/eli/oc/2024/466)).
-[^39f-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^39f-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 544](https://fedlex.data.admin.ch/eli/oc/2026/544)).
+[^39f-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 39g
 
@@ -1788,7 +1788,7 @@ Le montant annuel de la contribution d’assistance équivaut:
 
 <sup>2</sup> Si l’assistant est empêché de travailler pour des causes qui tiennent à l’assuré, la contribution d’assistance est encore versée pendant trois mois au plus pour autant que le montant de la contribution d’assistance annuelle ne soit pas dépassé.
 
-[^39h-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^39h-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 39i
 
@@ -1921,7 +1921,7 @@ L’office AI exécute, outre les tâches explicitement mentionnées dans la loi
 [^41-7]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^41-8]: Nouvelle teneur selon le ch. II 92 de l’O du 8 nov. 2006 (Révision totale de la procédure fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^41-9]: Introduite par le ch. I de l’O du 29 nov. 1995 ([RO 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^41-10]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^41-10]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^41-11]: Introduite par le ch. I de l’O du 16 nov. 2011 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Abrogée par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^41-12]: Abrogé par le ch. I de l’O du 19 sept. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 [^41-13]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
@@ -2002,7 +2002,7 @@ La trésorerie des offices AI cantonaux et communs est tenue par la caisse de co
 Les art. 122 à 125<sup>bis</sup> RAVS[^44-2] sont applicables par analogie lorsqu’il s’agit de déterminer la caisse de compensation compétente pour calculer et verser les rentes, les indemnités journalières et les allocations pour impotent pour les assurés majeurs.
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
-[^44-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^44-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 45
 
@@ -2122,7 +2122,7 @@ L’OFAS peut, dans le cadre de ses contrôles relatifs au respect des critères
 <sup>3</sup> Les art. 159, let. b et c, et 160, al. 1 et 3 à 5, RAVS[^54-2] s’appliquent par analogie à la révision de la tenue des comptes de l’office AI.[^54-3]
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^54-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^54-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^54-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 55
@@ -2187,11 +2187,14 @@ L’OFAS peut, dans le cadre de ses contrôles relatifs au respect des critères
 
 <sup>1bis</sup> Si l’assuré n’exerce pas lui-même le droit aux prestations, il doit autoriser les personnes et les instances mentionnées à l’art. 6*a* LAI à fournir aux organes de l’assurance-invalidité tous les renseignements et les documents nécessaires pour établir ce droit et le bien-fondé de prétentions récursoires.[^66-2]
 
-<sup>2</sup> Si l’assuré est incapable de discernement, son représentant légal accorde l’autorisation visée à l’art. 6*a* LAI en signant la demande.[^66-3]
+<sup>1ter</sup> Si un moyen auxiliaire est nécessaire à l’exercice d’une activité lucrative sur le lieu de travail de l’assuré, l’employeur peut remplir le formulaire officiel pour l’assuré et le transmettre à l’assurance. La demande doit être discutée au préalable avec l’assuré, et le formulaire doit être signé par celui-ci.[^66-3]
 
-[^66-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Cette mod. remplace celle de l’art. 144 de l’O du 20 déc. 1982 sur l’assurance-accidents ([RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)).
+<sup>2</sup> Si l’assuré est incapable de discernement, son représentant légal accorde l’autorisation visée à l’art. 6*a* LAI en signant la demande.[^66-4]
+
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 912](https://fedlex.data.admin.ch/eli/oc/1983/912_912_912)). Cette mod. remplace celle de l’art. 144 de l’O du 20 déc. 1982 sur l’assurance-accidents ([RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)).
 [^66-2]: Introduit par le ch. I de l’O du 28 sept. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^66-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^66-3]: Introduit par le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 544](https://fedlex.data.admin.ch/eli/oc/2026/544)).
+[^66-4]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 67
 
@@ -2263,7 +2266,7 @@ Les offices AI cantonaux et communs feront, en collaboration avec les caisses de
 [^72bis-1]: Introduit par le ch. II 1 de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^72bis-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^72bis-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^72bis-4]: Ce terme a été adapté en application de l’art. 12 al. 1 LPubl ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^72bis-4]: Ce terme a été adapté en application de l’art. 12 al. 1 LPubl ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 72<sup>ter</sup>
 
@@ -2305,7 +2308,7 @@ Le préavis sera notifié en particulier:
 [^73bis-1]: Introduit par le ch. I de l’O du 21 janv. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)). Nouvelle teneur selon le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
 [^73bis-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^73bis-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^73bis-4]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^73bis-4]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 73<sup>ter</sup>
 
@@ -2405,7 +2408,7 @@ La décision sera notifiée en particulier:[^76-2]
 [^76-7]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^76-8]: Abrogée par le ch. I de l’O du 26 avr. 2006, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
 [^76-9]: Introduite par le ch. I de l’O du 11 sept. 2002 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)). Abrogée par le ch. I de l’O du 26 avr. 2006, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2007](https://fedlex.data.admin.ch/eli/oc/2006/311)).
-[^76-10]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^76-10]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^76-11]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
 
 #### Art. 77
@@ -2517,9 +2520,9 @@ Les fournisseurs de prestations doivent faire figurer sur leurs factures toutes 
 <sup>4</sup> L’office AI détermine pour quelles factures un examen supplémentaire est nécessaire.
 
 [^79quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^79quater-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^79quater-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^79quater-3]: Nouvelle teneur selon l’annexe 2 ch. II 118 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^79quater-4]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^79quater-4]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^79quater-5]: Nouvelle teneur selon l’annexe 3 ch. 16 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 [^79quater-6]: Nouvelle teneur selon l’annexe 2 ch. II 118 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -2530,7 +2533,7 @@ Les fournisseurs de prestations doivent faire figurer sur leurs factures toutes 
 L’art. 59*a*<sup>bis</sup> OAMal[^79quinquies-2] s’applique au domaine ambulatoire et au domaine de la réadaptation médicale.
 
 [^79quinquies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^79quinquies-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^79quinquies-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 79<sup>sexies</sup>
 
@@ -2561,7 +2564,7 @@ Lors d’une formation professionnelle initiale, les indemnités journalières s
 
 <sup>3</sup> …[^80-6]
 
-[^80-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^80-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^80-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 [^80-3]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 1987, en vigueur depuis le 1<sup>er</sup> juil. 1987 ([RO 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456)).
 [^80-4]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
@@ -2588,7 +2591,7 @@ Lors d’une formation professionnelle initiale, les indemnités journalières s
 <sup>2</sup> Aucune cotisation n’est prélevée sur l’allocation pour frais de garde et d’assistance.[^81bis-4]
 
 [^81bis-1]: Introduit par le ch. III de l’O du 27 oct. 1987 ([RO 1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5635](https://fedlex.data.admin.ch/eli/oc/2005/769)).
-[^81bis-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^81bis-2]: [RS 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
 [^81bis-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^81bis-4]: Introduit par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
@@ -2609,7 +2612,7 @@ Lors d’une formation professionnelle initiale, les indemnités journalières s
 <sup>3</sup> Pour le versement des allocations pour impotent destinées aux mineurs et des contributions d’assistance, les art. 78 et 79 s’appliquent par analogie. Les prestations relevant des allocations pour impotent destinées aux mineurs sont facturées trimestriellement, celles qui relèvent des contributions d’assistance sont facturées mensuellement.[^82-3]
 
 [^82-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
-[^82-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^82-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^82-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 83
@@ -2620,7 +2623,7 @@ Lors d’une formation professionnelle initiale, les indemnités journalières s
 
 <sup>2</sup> …[^83-3]
 
-[^83-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^83-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^83-2]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)).
 [^83-3]: Abrogé par le ch. I de l’O du 21 mai 2003, avec effet le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
@@ -2662,7 +2665,7 @@ Sont considérées comme une avance, les prestations:
 <sup>3</sup> Les arrérages de rente peuvent être versés à l’organisme ayant consenti une avance jusqu’à concurrence, au plus, du montant de celle-ci et pour la période à laquelle se rapportent les rentes.
 
 [^85bis-1]: Introduit par le ch. I de l’O du 27 sept. 1993, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 2925](https://fedlex.data.admin.ch/eli/oc/1993/2925_2925_2925)).
-[^85bis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^85bis-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### D<sup>bis</sup> …
 
@@ -2805,7 +2808,7 @@ Si un assureur-maladie au sens de la LSAMal a avisé l’office AI ou la caisse 
 
 Les modalités et la procédure de l’assurance-accidents des personnes visées à l’art. 1*a*, al. 1, let. c, LAA[^88sexies-1] sont régies par la législation sur l’assurance-accidents.
 
-[^88sexies-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^88sexies-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 88<sup>septies</sup>
 
@@ -2815,7 +2818,7 @@ Les modalités et la procédure de l’assurance-accidents des personnes visées
 
 <sup>2</sup> La Centrale de compensation indique la masse salariale individuellement pour chaque office AI.
 
-[^88septies-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^88septies-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 88<sup>octies</sup>
 
@@ -2825,7 +2828,7 @@ Les modalités et la procédure de l’assurance-accidents des personnes visées
 
 <sup>2</sup> Une fois la facture approuvée, la Centrale de compensation rembourse les primes à la CNA.
 
-[^88octies-1]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
+[^88octies-1]: [RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
 
 ## Chapitre VII Dispositions diverses
 
@@ -2840,7 +2843,7 @@ Les modalités et la procédure de l’assurance-accidents des personnes visées
 Sauf dispositions contraires de la LAI ou du présent règlement, les dispositions des chap. IV et VI, ainsi que les art. 205 à 214 RAVS[^89-2] sont applicables par analogie.
 
 [^89-1]: Nouvelle teneur selon le ch. I de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^89-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^89-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 89<sup>bis</sup>
 
@@ -2922,7 +2925,7 @@ Sur les contributions versées selon les al. 1 et 2, il n’est pas perçu de co
 - d. de l’assurance-chômage.
 
 [^91-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
-[^91-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^91-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^91-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 92
@@ -3008,8 +3011,8 @@ Les offices AI peuvent demander à l’OFAS des contributions allant de 50 000 �
 <sup>3</sup> Les mesures préparant à une formation professionnelle initiale au sens de l’art. 68<sup>bis</sup>, al. 1<sup>ter</sup>, LAI se déroulent après la scolarité obligatoire et en premier lieu dans des structures ordinaires de la formation professionnelle. Par analogie avec l’art. 7, al. 2, de l’ordonnance du 19 novembre 2003 sur la formation professionnelle[^96quater-3], elles durent un an au maximum.
 
 [^96quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^96quater-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^96quater-3]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^96quater-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^96quater-3]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 #### Art. 97
 
@@ -3044,8 +3047,8 @@ Dans le cadre de l’exécution de projets pilotes en vertu de l’art. 68<sup>q
 <sup>2</sup> Les projets pilotes ne doivent pas compromettre les droits des bénéficiaires de prestations prévus par la loi.
 
 [^98-1]: Anciennement sous Chap. VIII. Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^98-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^98-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^98-2]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^98-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 98<sup>bis</sup>
 
@@ -3087,7 +3090,7 @@ Les conventions de collaboration contiennent au minimum des dispositions sur:
 <sup>3</sup> Lorsqu’une convention de collaboration prévoit que l’assurance-invalidité participe au financement des mesures, les conditions de la loi fédérale du 5 octobre 1990 sur les subventions[^98quater-2] doivent être respectées.
 
 [^98quater-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^98quater-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^98quater-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Chapitre VIII Les subventions pour l’encouragement de l’aide aux invalides
 
@@ -3154,7 +3157,7 @@ Une organisation se consacre dans une large mesure à l’aide aux invalides au 
 <sup>2</sup> Pour l’octroi d’aides financières, l’OFAS conclut, en vertu de la loi du 5 octobre 1990 sur les subventions[^108-2], des contrats de prestations avec les organisations au sens de l’al. 1; ces contrats portent sur les prestations considérées et ont une durée maximale de quatre ans. S’il s’avère impossible de conclure un contrat, l’OFAS rend une décision susceptible de recours sur le droit aux subventions.
 
 [^108-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
-[^108-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^108-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 108<sup>bis</sup>
 
@@ -3354,7 +3357,7 @@ Les nouvelle dispositions de l’art. 21<sup>bis</sup>, al. 1[^u4-2] et 4, let. 
 
 <sup>3</sup> La durée de validité de l’art. 69, al. 4, deuxième phrase, est limitée à trois ans.
 
-[^u10-2]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439). Actuellement O concernant l’assurance-vieillesse, survivants et invalidité facultative.
+[^u10-2]: [RS 831.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10019). Actuellement O concernant l’assurance-vieillesse, survivants et invalidité facultative.
 
 ## Dispositions finales de la modification du 12 février 2003
 
@@ -3411,7 +3414,7 @@ Jusqu’à l’entrée en vigueur de la loi du 24 mars 2006 sur les allocations 
 - a. 200 francs pour l’allocation pour enfant;
 - b. 250 francs pour l’allocation de formation professionnelle.
 
-[^u15-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^u15-2]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 
 ## Dispositions transitoires de la modification du 16 novembre 2011
 
