@@ -1,92 +1,115 @@
 ---
 canton: SH
 number: "410.403"
-title: Verordnung des Erziehungsrates über die Berufseinführung der Lehrpersonen der Volksschule und die Einführung der Wiedereinsteigerinnen und Wiedereinsteiger
+title: Verordnung des Erziehungsrates über die Berufseinführung der Lehrpersonen der Primar- und Sekundarstufe I
 short: Berufseinführungsverordnung
 language: de
-version: 2004-02-01
-corrected: 2024-05-25
-version_adopted: 2003-11-26
+version: 2027-08-01
+version_adopted: 2026-03-18
 adopted: 2003-11-26
 in_force: 2004-02-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.403"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/94/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2077/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Erziehungsrates über die Berufseinführung der Lehrpersonen der Volksschule und die Einführung der Wiedereinsteigerinnen und Wiedereinsteiger (Berufseinführungsverordnung)
+# Verordnung des Erziehungsrates über die Berufseinführung der Lehrpersonen der Primar- und Sekundarstufe I
 
-vom 26. November 2003
+(Berufseinführungsverordnung)
+
+Vom 18.03.2026 (Stand 01.08.2027)
 
 Der Erziehungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 65 und 88 Abs. 1 des Schulgesetzes vom 27. April 1981[^t-1], und auf § 51 des Schuldekretes vom 27. April 1981[^t-2],
+gestützt auf Art. 64, 65 und 88 Abs. 1 des Schulgesetzes vom 27. April 1981,
 
-verordnet:
-
-[^t-1]: SHR 410.100.
-[^t-2]: SHR 410.110.
+beschliesst:
 
 #### § 1
 
-Ziel der Berufseinführung ist, die Lehrpersonen in der ersten Berufs- oder Wiedereinstiegsphase zu begleiten und die Fähigkeit und Bereitschaft zur Zusammenarbeit zu fördern. Die Berufseinführung ist auf die Berufspraxis ausgerichtet. Sie unterstützt die berufliche Identifikation und Integration der Lehrpersonen und trägt zur Vertiefung der Professionalität bei.
+**Zweck**
+
+<sup>1</sup> Zweck der Berufseinführung ist, den Lehrpersonen Kompetenzen in der kantonalen Berufspraxis zu vermitteln. Sie ergänzt die berufliche Qualifikation, unterstützt die kantonale Integration der Lehrpersonen und trägt zur Vertiefung der Professionalität bei.
 
 #### § 2
 
-<sup>1</sup> Lehrpersonen, die neu in den Schuldienst eintreten, sind verpflichtet, an der Berufseinführung teilzunehmen.
+**Organisation**
 
-<sup>2</sup> Wiedereinsteigerinnen und Wiedereinsteiger, die länger als fünf Jahre nicht mehr unterrichtet haben, sind zur Mitarbeit in einer Praxisgruppe gemäss § 4 Abs. 1 verpflichtet.
+<sup>1</sup> Die Leitung der Berufseinführung obliegt dem Prorektorat Weiterbildung, Dienstleistungen, Forschung und Entwicklung der Pädagogischen Hochschule Schaffhausen (Prorektorat Weiterbildung und Dienstleistung). Dieses ist für die Durchführung, Administration sowie Absenzenregelung verantwortlich und stellt die Teilnahmebestätigungen aus.
+
+<sup>2</sup> Die Dienststelle Primar- und Sekundarstufe I des Erziehungsdepartements (Dienststelle) meldet dem Prorektorat Weiterbildung und Dienstleistung diejenigen Lehrpersonen, welche jeweils im kommenden Schuljahr einen oder mehrere Teile der Berufseinführung absolvieren.
 
 #### § 3
 
-Die Leitung der Berufseinführung liegt beim Prorektorat Weiterbildung der Pädagogischen Hochschule Schaffhausen.
+**Inhalt und Umfang**
 
-Amtsblatt 2003, S. 1762.
+<sup>1</sup> Die Berufseinführung umfasst zwei Teile:
+
+- 1\. Einführung kantonale Berufspraxis (EKB);
+- 2\. Vertiefung kantonale Berufspraxis (VKB).
+
+<sup>2</sup> Die EKB beinhaltet einführende Veranstaltungen zur kantonalen Berufspraxis hinsichtlich struktureller, personeller und pädagogischer Themen im Umfang von insgesamt neun Stunden.
+
+<sup>3</sup> Die VKB ist auf vertiefende Inhalte zur kantonalen Berufspraxis ausgerichtet. Sie beinhaltet den Besuch von Wahlmodulen und die Arbeit in einer Praxisgruppe im Umfang von 60 Stunden sowie Hospitationen im Umfang von vier Halbtagen.
 
 #### § 4
 
-<sup>1</sup> Im ersten Berufsjahr werden die Lehrpersonen einer geleiteten Praxisgruppe zugeteilt. Die Mitarbeit in einer solchen ist ab 12 Unterrichtslektionen obligatorisch.
+**Teilnahmepflicht, freiwillige Teilnahme**
 
-<sup>2</sup> Im zweiten Berufsjahr ist die Mitarbeit in Praxisgruppen auf freiwilliger Basis weiterhin möglich.
+<sup>1</sup> Die Teilnahme an der EKB ist für alle Lehrpersonen obligatorisch, welche zum ersten Mal oder nach einer Unterbrechung des Lehrberufs von mehr als fünf Jahren erneut als Lehrperson während mindestens sechs Monaten an einer Regel- oder Sonderklasse im Kanton Schaffhausen unterrichten.
+
+<sup>2</sup> Die Teilnahme an der VKB ist obligatorisch für Lehrpersonen, welche kumulativ
+
+- a) erstmals an einer Regel- oder Sonderklasse im Kanton Schaffhausen unterrichten;
+- b) über ein EDK-anerkanntes Lehrdiplom oder einen EDK-anerkannten Hochschulabschluss in Sonderpädagogik mit Vertiefungsrichtung Schulische Heilpädagogik oder ein Zeugnis über die zweite Staatsprüfung in Deutschland für ein Lehramt verfügen;
+- c) ein konferenzpflichtiges Pensum aufweisen;
+- d) eine oder mehrere der Voraussetzungen in Abs. 2 nicht erfüllen.
+
+<sup>3</sup> Die Teilnahme an der VKB ist freiwillig für Lehrpersonen, welche kumulativ
+
+- a) an einer Regel- oder Sonderklasse im Kanton Schaffhausen unterrichten;
+- b) über ein Lehrdiplom verfügen oder ein Studium an einer schweizerischen Pädagogischen Hochschule absolvieren oder vollständig besucht haben;
+- c) eine oder mehrere der Voraussetzungen in Abs. 2 nicht erfüllen.
 
 #### § 5
 
-<sup>1</sup> Die Leiterinnen und Leiter der Praxisgruppen organisieren und leiten im ersten Berufsjahr der Teilnehmerinnen und Teilnehmer zehn Sitzungen in der unterrichtsfreien Arbeitszeit. Sie besuchen den Unterricht der zugeteilten Lehrpersonen.
+**Einführung kantonale Berufspraxis (EKB)**
 
-<sup>2</sup> Unterrichtsbesuche (Hospitationen) sind ein Bestandteil der Berufseinführung. Dafür stehen den Teilnehmerinnen und Teilnehmern pro Schuljahr vier Unterrichtshalbtage zur Verfügung.
+<sup>1</sup> Die EKB ist eine Weiterbildung zur Berufsbefähigung im Sinne von § 40a Abs. 1 der Lehrerverordnung. Es gelten die Bestimmungen in § 40a der Lehrerverordnung.
+
+<sup>2</sup> Die Teilnahme hat im ersten Anstellungsjahr als Lehrperson zu erfolgen.
+
+<sup>3</sup> Die Lehrpersonen erhalten eine Teilnahmebestätigung.
 
 #### § 6
 
-<sup>1</sup> Die Leiterinnen und Leiter der Praxisgruppen sind erfahrene Lehrpersonen, die in Zusammenarbeit mit dem Schulinspektorat und unter dem Beizug von Fachpersonen für ihre Aufgabe ausgebildet werden.
+**Vertiefung kantonale Berufspraxis (VKB) bei verpflichtender Teilnahme**
 
-<sup>2</sup> Die Entlastung der Leiterinnen und Leiter der Praxisgruppen ist abhängig von der Gruppengrösse und beträgt 2 - 3 Wochenlektionen. Einzelheiten werden durch die Leitung der Berufseinführung geregelt.
+<sup>1</sup> Die verpflichtende Teilnahme an der VKB ist eine Weiterbildung zur Berufsbefähigung im Sinne von § 40a Abs. 1 der Lehrerverordnung. Es gelten die Bestimmungen in § 40a der Lehrerverordnung.
 
-<sup>3</sup> Sie erhalten zudem eine Funktionsentschädigung von 1'000 Fr. im Jahr.
+<sup>2</sup> Die Teilnahme an der VKB hat in der Regel im ersten Anstellungsjahr als Lehrperson zu erfolgen. Die Schulleitung kann in begründeten Fällen eine Teilnahme im zweiten oder dritten Jahr bewilligen.
+
+<sup>3</sup> Die Lehrpersonen erhalten pro abgeschlossenes Modul eine Teilnahmebestätigung.
 
 #### § 7
 
-<sup>1</sup> Im zweiten oder dritten Jahr nach Berufseintritt kann eine intensive Weiterbildung organisiert werden.
+**Vertiefung kantonale Berufspraxis (VKB) bei freiwilliger Teilnahme**
 
-<sup>2</sup> Die Weiterbildungspflicht der Lehrpersonen, die neu in den Schuldienst eintreten, richtet sich im Übrigen nach der Verordnung über die Weiterbildung der Lehrpersonen[^7-1].
+<sup>1</sup> Lehrpersonen, welche freiwillig an der VKB teilnehmen, können diese entweder vollständig absolvieren oder einzelne Wahlmodule besuchen.
 
-<sup>3</sup> Die besuchten Teile der Berufseinführung sind im Testatheft festzuhalten. Der Eintrag ist von der Praxisgruppenleitung bzw. Kursleitung zu unterschreiben.
+<sup>2</sup> Eine freiwillige Teilnahme an der VKB ist möglich, sofern freie Plätze vorhanden sind. Die Schulleitungen melden die Lehrpersonen, welche eine freiwillige Teilnahme an der VKB planen, bis spätestens anfangs Mai der Dienststelle. Diese entscheidet über die Teilnahme nach zeitlichem Eingang der Gesuche und im Rahmen der verfügbaren Plätze. Lehrpersonen, welche die VKB vollständig absolvieren würden, haben bei der Zuteilung Vorrang.
 
-<sup>4</sup> Das Testatheft ist am Ende des zweiten Berufsjahres der Leitung der Berufseinführung zur Kontrolle einzureichen.
+<sup>3</sup> Eine freiwillige Teilnahme an der gesamten VKB gilt als Weiterbildung zur Berufsbefähigung im Sinne von § 40a Abs. 1 der Lehrerverordnung. Es gelten die Bestimmungen in § 40a der Lehrerverordnung. Werden nur einzelne Wahlmodule besucht, kommen die Bestimmungen in § 40b der Lehrerverordnung und der Weiterbildungsverordnung zur Anwendung.
 
-[^7-1]: SHR 410.413.
+<sup>4</sup> Die Lehrpersonen erhalten pro abgeschlossenes Modul eine Teilnahmebestätigung. Bereits abgeschlossene Module werden bei einer erneuten freiwilligen oder verpflichten-den Teilnahme an der VKB innerhalb von fünf Jahren angerechnet.
 
 #### § 8
 
-<sup>1</sup> Diese Verordnung tritt am 1. Februar 2004 in Kraft.
+**Leitungspersonen der Praxisgruppen**
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^8-1] und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>1</sup> Lehrpersonen, welche die Praxisgruppen im Rahmen der VKB leiten, müssen über eine Ausbildung zur Praxislehrperson der entsprechenden Schulstufe verfügen.
 
-<sup>3</sup> Sie ersetzt die Verordnung über die obligatorische Fortbildung der Lehrkräfte der Volksschule ohne Wählbarkeitsausweis des Kantons Schaffhausen (Berufseinführungsverordnung) vom 24. September 1997.
+<sup>2</sup> Die Leitungspersonen der Praxisgruppe erhalten für ihre Tätigkeit eine Unterrichtsentlastung von maximal drei Jahreslektionen. Der Umfang der Unterrichtsentlastung wird durch die Dienststelle, in Absprache mit der Schulleitung, dem Prorektorat Weiterbildung und Dienstleistung sowie den Leitungspersonen der Praxisgruppen festgelegt.
 
-Vom Regierungsrat genehmigt am 9. Dezember 2003.
-
-Fussnoten:
-
-[^8-1]: Amtsblatt 2003, S. 1762.
+2026-05
