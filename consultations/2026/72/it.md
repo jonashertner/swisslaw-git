@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale della legge federale concernente l’Assicurazione svizzera contro i rischi delle esportazioni (Legge sull’assicurazione contro i rischi delle esportazioni, LARE)"
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi fédérale sur l’Assurance suisse contre les risques à l’exportation (LASRE)
 document: Projet mis en consultation
 language: fr
