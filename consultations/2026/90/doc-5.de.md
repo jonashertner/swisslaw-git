@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungspaket Umwelt Frühling 2027
 document: Vernehmlassungsvorlage-5
 language: de

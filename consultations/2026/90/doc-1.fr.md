@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Paquet d’ordonnances environnementales du printemps 2027
 document: Projet mis en consultation-3
 language: fr
