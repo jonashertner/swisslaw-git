@@ -4,13 +4,12 @@ number: "423.332"
 title: "Verordnung über die Promotion, den Fachmittelschulabschluss und die Fachmaturität an der Fachmittelschule"
 short: V FMS
 language: de
-version: 2026-08-01
-valid_until: 2027-07-31
-version_adopted: 2026-05-13
+version: 2027-08-01
+version_adopted: 2026-08-26
 adopted: 2010-05-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.332"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3992/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4037/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3992/pdf_file"
 
 (V FMS)
 
-Vom 19.05.2010 (Stand 01.08.2026)
+Vom 19.05.2010 (Stand 01.08.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -232,7 +231,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Das BKS erklärt die ganze Abschlussprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Abschlussprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Das BKS erklärt die ganze Abschlussprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt oder benutzt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Abschlussprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> Die Prüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
 
@@ -246,19 +245,47 @@ beschliesst:
 
 <sup>1</sup> Der Erziehungsrat ernennt auf die Amtsdauer von vier Jahren eine Prüfungskommission FMS. Dieser gehören an
 
-- a) ein Mitglied des Erziehungsrats, welches den Vorsitz innehat,
-- b) sechs Vertreterinnen beziehungsweise Vertreter der Höheren Fachschulen und von Fachhochschulen,
-- c) je ein Mitglied der Schulleitungen der Neuen Kantonsschule Aarau und der Kantonsschulen Stein, Wettingen, Wohlen und Zofingen, das für die administrative Geschäftsführung der Fachmittelschule zuständig ist, mit beratender Stimme.
+- a) ein Mitglied des Erziehungsrats, welches das Präsidium innehat,
+- b) sechs Vertreterinnen beziehungsweise Vertreter der Höheren Fachschulen, der Pädagogischen Hochschulen und von Fachhochschulen, wobei jedes Berufsfeld vertreten sein soll,
+- c) je ein Mitglied der Schulleitungen der Neuen Kantonsschule Aarau und der Kantonsschulen Stein, Wettingen, Wohlen und Zofingen, sowie eine Vertreterin oder ein Vertreter des BKS, mit beratender Stimme.
 
-<sup>2</sup> Die Prüfungskommission ist insbesondere zuständig für
+<sup>1<sup>bis</sup></sup> Die Prüfungskommission wählt aus ihren Mitgliedern mit Stimmrecht das Vizepräsidium für die Dauer einer Amtsperiode von vier Jahren. Das Vizepräsidium fungiert als Stellvertretung des Präsidiums und übernimmt während dessen Abwesenheit sowie nach Absprache dessen Aufgaben.
 
-- a) die Leitung und Überwachung der Prüfungen,
-- b) die Ernennung der Fachexpertinnen und Fachexperten,
-- c) das Festlegen der Anlage der Prüfungen,
-- d) die Genehmigung der Themen und Aufgaben der Fachprüfungen,
-- e) das Festlegen der zulässigen Hilfsmittel für die schriftlichen und praktischen Prüfungen,
-- f) die Erarbeitung der Grundlagen für die Prüfungsentscheide des BKS,
-- g) die Berichterstattung über die Prüfungen im Allgemeinen zuhanden des Erziehungsrats, des BKS und der Schulleitungen.
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Die Prüfungskommission ist insbesondere zuständig für
+
+- a) den Erlass von einheitlichen überfachlichen und fachspezifischen formalen Rahmenvorgaben für die Fachmittelschul- und Fachmaturitätsprüfungen für sämtliche Fachmittelschulen sowie die Festlegung der zulässigen Hilfsmittel,
+- b) das Festlegen von Richtlinien zur Auswahl und zum Einsatz von Expertinnen und Experten zuhanden der Schulleitungen,
+- c) die Berichterstattung über die Prüfungen im Allgemeinen zuhanden des Erziehungsrats, des BKS und der Schulleitungen.
+
+#### § 17a
+
+**Prüfungsvalidierung**
+
+<sup>1</sup> Die schriftlichen Abschlussprüfungen werden extern validiert.
+
+<sup>2</sup> Die Fachmittelschulen tauschen sich zwecks Gewährleistung eines einheitlichen Prüfungsniveaus und zur Berichterstattung an die Prüfungskommission aus.
+
+#### § 17b
+
+**Schulleitungen**
+
+<sup>1</sup> Die Schulleitungen sind an ihrer Schule insbesondere zuständig für die
+
+- a) Erstellung des Prüfungsprogramms und das Sicherstellen der Prüfungsvalidierung,
+- b) Auswahl und den Einsatz der Expertinnen und Experten gemäss den Richtlinien der Prüfungskommission,
+- c) Überwachung des Prüfungsablaufs.
+
+#### § 17c
+
+**Fachmittelschulabschluss- und Fachmaturitätskonferenz**
+
+<sup>1</sup> Die Fachmittelschulabschluss- und Fachmaturitätskonferenz setzt sich aus den Vertreterinnen beziehungsweise Vertretern der Prüfungskommission gemäss § 17 Abs. 1 lit. b, deren Präsidium und einem Mitglied der jeweiligen Schulleitung zusammen.
+
+<sup>2</sup> An den Sitzungen der Konferenz nehmen die Examinatorinnen und Examinatoren sowie alle Lehrpersonen, die den abschliessenden Unterricht in den nicht geprüften Fächern erteilt haben, nach Bedarf mit beratender Stimme teil.
+
+<sup>3</sup> Die Konferenz erarbeitet die Grundlagen für die Fachmittelschul- und Fachmaturitätsentscheide zuhanden des BKS.
 
 ## 4. Abschluss mit Fachmittelschulausweis
 
@@ -480,7 +507,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Das BKS erklärt die ganze Fachmaturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Fachmaturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Das BKS erklärt die ganze Fachmaturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt oder benutzt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Fachmaturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> Die Prüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
 
