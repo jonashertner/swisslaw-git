@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFSPO du 12 juillet 2012 concernant «Jeunesse et sport�
 short: O OFSPO J+S
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/463"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2012-07-12
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-463-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-463-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20260101/fr"
 
 (O OFSPO J+S)
 
-du 12 juillet 2012 (État le 1<sup>er</sup> janvier 2026)
+du 12 juillet 2012 (État le 1<sup>er</sup> janvier 2027)
 
 L’Office fédéral du sport (OFSPO),
 
@@ -148,21 +148,20 @@ La structure de la formation de base et de la formation continue des moniteurs J
 
 <sup>1</sup> La durée de la formation de base et des formations continues est réglée comme suit:
 
-**Moniteur**
+Moniteur
 
-**Coach**
+Coach
 
-**Expert (spécialisation)**
+Expert (spécialisation)
 
-**Expert coach (spécialisation)**
+Expert coach (spécialisation)
 
 <table>
 <tr><th>Niveaux de formation</th><th>Durée de chaque cours/module (jours)</th></tr>
 <tr><td>Formation de base</td><td>Cours: de 5 à 12</td></tr>
-<tr><td>Formation continue 1</td><td>Modules: de 1 à 6</td></tr>
-<tr><td>Formation continue 2</td><td>Modules: de 1 à 6</td></tr>
+<tr><td>Formation continue</td><td>Modules: de 1 à 6</td></tr>
 <tr><td>Formation complémentaire Sécurité</td><td>Cours: de 2 à 6</td></tr>
-<tr><td>Formation continue Sécurité</td><td>Modules: de 1 à 6</td></tr>
+<tr><td>Formation continue Sécurité</td><td>Module: de 1 à 6</td></tr>
 </table>
 
 <table>
@@ -190,7 +189,7 @@ La structure de la formation de base et de la formation continue des moniteurs J
 <sup>4</sup> La durée d’enseignement par journée de formation est de 6 heures au moins, et de 3 heures au moins par demi-journée.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 [^10-3]: Abrogé par le ch. I de l’O de l’OFSPO du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 11
@@ -238,9 +237,9 @@ Un cours ou un module J+S est réputé réussi lorsque le participant:
 
 **Reconnaissance de moniteur J+S**[^15-1]
 
-La reconnaissance de moniteur J+S est attribuée pour un sport J+S nommément désigné ou pour le sport scolaire et pour le groupe cible des enfants ou le groupe cible des jeunes.
+La reconnaissance de moniteur J+S est attribuée pour un sport J+S nommément désigné ou pour le sport scolaire.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 16
 
@@ -248,9 +247,10 @@ La reconnaissance de moniteur J+S est attribuée pour un sport J+S nommément d�
 
 <sup>1</sup> La reconnaissance de moniteur J+S Sport scolaire donne le droit de diriger des activités dans les sports J+S suivants: aïkido, allround, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, BMX, boxe light-contact, course d’orientation, curling, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, danses standard/latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, kick-boxing light, lutte, lutte suisse, monocycle, natation, natation artistique, natation de sauvetage, parkour, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, plongeon, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, triathlon, unihockey, volleyball, VTT, waterpolo et wushu/kung-fu.
 
-<sup>2</sup> Les moniteurs J+S Sport scolaire qui disposent d’une reconnaissance valable et qui souhaitent encadrer des activités en dehors des groupes d’utilisateurs 4 et 5 dans des sports visés à l’al. 1 peuvent demander la reconnaissance de moniteur J+S dans le sport concerné pour leur groupe cible. L’OFSPO la leur attribue s’ils remplissent les conditions d’admission à la formation de base de moniteur J+S dans le sport concerné.
+<sup>2</sup> Les moniteurs J+S Sport scolaire qui disposent d’une reconnaissance valable et qui souhaitent encadrer des activités en dehors des groupes d’utilisateurs 4 et 5 dans des sports visés à l’al. 1 peuvent demander la reconnaissance de moniteur J+S dans le sport concerné. L’OFSPO la leur attribue s’ils remplissent les conditions d’admission à la formation de base de moniteur J+S dans le sport concerné.[^16-2]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 17
 
@@ -262,31 +262,28 @@ La reconnaissance de moniteur J+S est attribuée pour un sport J+S nommément d�
 
 **Reconnaissance de moniteur J+S pour les moniteurs de sport militaire**[^18-1]
 
-<sup>1</sup> Les moniteurs de sport militaire visés à l’annexe 2 qui souhaitent exercer une activité de moniteur J+S peuvent demander la reconnaissance de moniteur J+S pour le groupe cible des jeunes dans les sports suivants: aïkido, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, biathlon, BMX, boxe light-contact, course d’orientation, curling, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, danses standard/latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, kick-boxing light, lutte, lutte suisse, monocyle, natation artistique, natation, natation de sauvetage, parkour, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, plongeon, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, triathlon, unihockey, volleyball, VTT, waterpolo et wushu/kung-fu.
+<sup>1</sup> Les moniteurs de sport militaire visés à l’annexe 2 qui souhaitent exercer une activité de moniteur J+S peuvent demander la reconnaissance de moniteur J+S dans les sports suivants: aïkido, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, biathlon, BMX, boxe light-contact, course d’orientation, curling, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, danses standard/latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, kick-boxing light, lutte, lutte suisse, monocycle, natation artistique, natation, natation de sauvetage, parkour, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, plongeon, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, triathlon, unihockey, volleyball, VTT, waterpolo et wushu/kung-fu.[^18-2]
 
 <sup>2</sup> L’OFSPO délivre la reconnaissance visée à l’al. 1 aux personnes qui en font la demande lorsque celles-ci remplissent les conditions d’admission à la formation de base de moniteur J+S dans le sport concerné.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 19
 
 **Reconnaissance de moniteur J+S pour les experts J+S**[^19-1]
 
-Les experts J+S reconnus doivent être titulaires d’une reconnaissance de moniteur J+S dans leur sport et dans leur groupe cible.
+Les experts J+S reconnus doivent être titulaires d’une reconnaissance de moniteur J+S dans leur sport.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 20
 
 **Conditions à remplir pour diriger des activités J+S**[^20-1]
 
-<sup>1</sup> Pour diriger des activités réalisées dans le cadre de cours ou de camps J+S, les moniteurs J+S engagés doivent avoir suivi l’une des formations visées à l’annexe 3 pour le groupe cible concerné.
+Pour diriger des activités réalisées dans le cadre de cours ou de camps J+S, les moniteurs J+S engagés doivent avoir suivi l’une des formations visées à l’annexe 3.
 
-<sup>2</sup> Si un moniteur J+S ne possède pas toutes les formations requises pour diriger des activités J+S dans lesquelles des enfants et des jeunes s’entraînent ensemble, un moniteur J+S supplémentaire ayant suivi la formation requise doit être engagé.
-
-<sup>3</sup> Les moniteurs J+S requis en vertu de l’al. 2 ne sont pas assimilés à des moniteurs supplémentaires au sens de l’annexe 2 OPESp et aucun montant de base au sens de l’annexe 3, let. A, OPESp n’est alloué à ce titre.
-
-[^20-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 21
 
@@ -388,17 +385,17 @@ Annexe 1[^t-1]
 
 ## Structure de la formation et de la formation continue
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 16 nov. 2017 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)). Mise à jour par le ch. II al. 1 de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ### 1. Formation et formation continue des moniteurs J+S et des experts J+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20270101/fr/xml/image/image1.png)
 
-Les modules de formation continue permettent de conserver une reconnaissance de moniteur J+S, de recouvrer une reconnaissance de moniteur J+S devenue caduque ou d’approfondir les compétences de moniteur J+S. Les modules de la formation continue 2 font suite à ceux de la formation continue 1.
+Les modules de formation continue permettent de conserver une reconnaissance de moniteur J+S, de recouvrer une reconnaissance de moniteur J+S devenue caduque ou d’approfondir les compétences de moniteur J+S.
 
 ### 2. Formation et formation continue des coachs J+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20270101/fr/xml/image/image2.png)
 
 Annexe 2[^t-2]
 
@@ -425,7 +422,7 @@ Annexe 3[^t-3]
 
 ## Formations requises pour les moniteurs J+S
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 30 mars 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)). Mise à jour par le ch. II al. 2 de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026, le ch. 1.1 depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ### 1. Reconnaissances requises dans les sports J+S
 
@@ -434,92 +431,92 @@ Annexe 3[^t-3]
 <table>
 <tr><th>Sport</th><th>Reconnaissance requise</th></tr>
 <tr><td>Aïkido</td><td>Aïkido</td></tr>
-<tr><td>Allround</td><td>Aïkido, allround, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, BMX, boxe light-contact, course d’orientation, curling, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, danses standard/latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, judo, ju-jitsu, karaté, kick-boxing light, jeux nationaux, lutte, lutte suisse, monocycle, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, parkour, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, unihockey, volleyball, VTT, wushu/kung-fu.</td></tr>
+<tr><td>Allround</td><td>Allround</td></tr>
 <tr><td>Alpinisme</td><td>Alpinisme</td></tr>
-<tr><td>Arbalète</td><td>Arbalète, arc, carabine, pistolet</td></tr>
-<tr><td>Arc</td><td>Arbalète, arc, carabine, pistolet</td></tr>
-<tr><td>Athlétisme</td><td>Athlétisme, gymnastique, triathlon</td></tr>
+<tr><td>Arbalète</td><td>Arbalète, carabine, pistolet</td></tr>
+<tr><td>Arc</td><td>Arc</td></tr>
+<tr><td>Athlétisme</td><td>Athlétisme, gymnastique</td></tr>
 <tr><td>Aviron</td><td>Aviron</td></tr>
 <tr><td>Badminton</td><td>Badminton</td></tr>
-<tr><td>Balle à la corbeille</td><td>Balle à la corbeille, balle au poing, basketball, handball, gymnastique</td></tr>
-<tr><td>Balle au poing</td><td>Balle à la corbeille, balle au poing, gymnastique, volleyball</td></tr>
+<tr><td>Balle à la corbeille</td><td>Balle à la corbeille, balle au poing, gymnastique</td></tr>
+<tr><td>Balle au poing</td><td>Balle à la corbeille, balle au poing, gymnastique</td></tr>
 <tr><td>Baseball/softball</td><td>Baseball/softball</td></tr>
-<tr><td>Basketball</td><td>Balle à la corbeille, basketball</td></tr>
-<tr><td>Biathlon</td><td>Biathlon</td></tr>
+<tr><td>Basketball</td><td>Basketball</td></tr>
+<tr><td>Biathlon</td><td>Biathlon, carabine</td></tr>
 <tr><td>BMX</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Boxe light-contact</td><td>Boxe light-contact</td></tr>
 <tr><td>Canoë-kayak</td><td>Canoë-kayak</td></tr>
-<tr><td>Carabine</td><td>Arbalète, arc, carabine, pistolet</td></tr>
-<tr><td>Course d’orientation</td><td>Course d’orientation, cyclisme sur route, cyclo-cross, ski de fond, VTT</td></tr>
+<tr><td>Carabine</td><td>Arbalète, carabine, pistolet</td></tr>
+<tr><td>Course d’orientation</td><td>Course d’orientation, ski de fond</td></tr>
 <tr><td>Course nautique</td><td>Course nautique</td></tr>
 <tr><td>Curling</td><td>Curling</td></tr>
 <tr><td>Cycle-balle</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Cyclisme artistique</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Cyclisme sur piste</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Cyclisme sur route</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, triathlon, VTT</td></tr>
+<tr><td>Cyclisme sur route</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Cyclo-cross</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Danses standard/latines</td><td>Danses standard/latines, gymnastique rythmique, gymnastique et danse, rock’n’roll</td></tr>
-<tr><td>Equitation</td><td>Equitation, voltige</td></tr>
+<tr><td>Danses standard/latines</td><td>Danses standard/latines, gymnastique et danse, rock’n’roll</td></tr>
+<tr><td>Équitation</td><td>Equitation, voltige</td></tr>
 <tr><td>Escalade sportive</td><td>Alpinisme, escalade sportive</td></tr>
 <tr><td>Escrime</td><td>Escrime</td></tr>
 <tr><td>Excursions à skis</td><td>Excursions à skis</td></tr>
 <tr><td>Football</td><td>Football</td></tr>
 <tr><td>Football américain</td><td>Football américain</td></tr>
 <tr><td>Golf</td><td>Golf</td></tr>
-<tr><td>Gymnastique</td><td>Athlétisme, balle à la corbeille, balle au poing, baseball/softball, basketball, danses standard/latines, football, gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, handball, jeux nationaux, rhönrad, rock’n’roll, tchoukball, trampoline, unihockey, volleyball</td></tr>
+<tr><td>Gymnastique</td><td>Athlétisme, balle à la corbeille, balle au poing, gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, jeux nationaux, rhönrad</td></tr>
 <tr><td>Gymnastique acrobatique</td><td>Gymnastique acrobatique</td></tr>
-<tr><td>Gymnastique artistique</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
-<tr><td>Gymnastique rythmique</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
-<tr><td>Gymnastique aux agrès</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
-<tr><td>Gymnastique et danse</td><td>Danses standard/latines, gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace, rhönrad, rock’n’roll</td></tr>
-<tr><td>Handball</td><td>Handball, balle à la corbeille</td></tr>
-<tr><td>Hockey inline</td><td>Hockey inline, hockey sur glace, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey, street-hockey</td></tr>
+<tr><td>Gymnastique artistique</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad</td></tr>
+<tr><td>Gymnastique aux agrès</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad</td></tr>
+<tr><td>Gymnastique et danse</td><td>Danses standard/latines, gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, rock’n’roll</td></tr>
+<tr><td>Gymnastique rythmique</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad</td></tr>
+<tr><td>Handball</td><td>Handball</td></tr>
+<tr><td>Hockey inline</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey</td></tr>
 <tr><td>Hockey sur gazon</td><td>Hockey sur gazon</td></tr>
-<tr><td>Hockey sur glace</td><td>Hockey inline, hockey sur glace, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace, rink-hockey, street-hockey</td></tr>
+<tr><td>Hockey sur glace</td><td>Hockey sur glace, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
 <tr><td>Hornuss</td><td>Hornuss</td></tr>
-<tr><td>Jeux nationaux</td><td>Gymnastique, jeux nationaux, lutte, lutte suisse</td></tr>
-<tr><td>Judo</td><td>Judo, ju-jitsu</td></tr>
-<tr><td>Ju-jitsu</td><td>Judo, ju-jitsu</td></tr>
+<tr><td>Jeux nationaux</td><td>Gymnastique, jeux nationaux, lutte suisse</td></tr>
+<tr><td>Judo</td><td>Judo</td></tr>
+<tr><td>Ju-Jitsu</td><td>Ju-Jitsu</td></tr>
 <tr><td>Karaté</td><td>Karaté</td></tr>
 <tr><td>Kick-boxing light</td><td>Kick-boxing light</td></tr>
-<tr><td>Lutte</td><td>Jeux nationaux, lutte</td></tr>
+<tr><td>Lutte</td><td>Lutte</td></tr>
 <tr><td>Lutte suisse</td><td>Jeux nationaux, lutte suisse</td></tr>
 <tr><td>Monocycle</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Natation</td><td>Natation, natation artistique, natation de sauvetage, plongeon, triathlon, water-polo</td></tr>
-<tr><td>Natation artistique</td><td>Gymnastique rythmique, gymnastique et danse, natation, natation artistique, natation de sauvetage, plongeon, water-polo</td></tr>
-<tr><td>Natation de sauvetage</td><td>Natation, natation artistique, natation de sauvetage, plongeon, water-polo</td></tr>
+<tr><td>Natation</td><td>Natation, natation artistique, natation de sauvetage, plongeon, waterpolo</td></tr>
+<tr><td>Natation artistique</td><td>Natation, natation artistique, natation de sauvetage, plongeon, waterpolo</td></tr>
+<tr><td>Natation de sauvetage</td><td>Natation, natation de sauvetage</td></tr>
 <tr><td>Parkour</td><td>Parkour</td></tr>
-<tr><td>Patinage artistique sur glace</td><td>Hockey sur glace, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
-<tr><td>Patinage artistique sur roulettes</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur glace, rink-hockey</td></tr>
-<tr><td>Patinage de vitesse sur glace</td><td>Hockey sur glace, patinage artistique sur glace, patinage de vitesse sur glace, patinage de vitesse, patinage synchronisé sur glace</td></tr>
-<tr><td>Patinage de vitesse sur roulettes</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, rink-hockey</td></tr>
-<tr><td>Patinage synchronisé sur glace</td><td>Hockey sur glace, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
-<tr><td>Pistolet</td><td>Arbalète, arc, carabine, pistolet</td></tr>
+<tr><td>Patinage artistique sur glace</td><td>Hockey sur glace, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
+<tr><td>Patinage artistique sur roulettes</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey</td></tr>
+<tr><td>Patinage de vitesse sur glace</td><td>Hockey sur glace, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
+<tr><td>Patinage de vitesse sur roulettes</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey</td></tr>
+<tr><td>Patinage synchronisé sur glace</td><td>Hockey sur glace, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
+<tr><td>Pistolet</td><td>Arbalète, carabine, pistolet</td></tr>
 <tr><td>Planche à voile</td><td>Planche à voile</td></tr>
-<tr><td>Plongeon</td><td>Plongeon, natation, natation artistique, natation de sauvetage, water-polo</td></tr>
-<tr><td>Rhönrad</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
-<tr><td>Rink-hockey</td><td>Hockey inline, hockey sur glace, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey, street-hockey</td></tr>
-<tr><td>Rock’n’roll</td><td>Danses standard/latines, gymnastique rythmique, gymnastique et danse, rock’n’roll</td></tr>
+<tr><td>Plongeon</td><td>Natation, natation artistique, natation de sauvetage, plongeon, waterpolo</td></tr>
+<tr><td>Rhönrad</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad</td></tr>
+<tr><td>Rink-hockey</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey</td></tr>
+<tr><td>Rock’n’roll</td><td>Danses standard/latines, gymnastique et danse, rock’n’roll</td></tr>
 <tr><td>Rugby</td><td>Rugby</td></tr>
-<tr><td>Saut à skis</td><td>Saut à skis</td></tr>
-<tr><td>Ski</td><td>Ski, snowboard</td></tr>
-<tr><td>Ski de fond</td><td>Course d’orientation, ski de fond</td></tr>
+<tr><td>Saut à ski</td><td>Saut à ski</td></tr>
+<tr><td>Ski</td><td>Ski, Snowboard</td></tr>
+<tr><td>Ski de fond</td><td>Biathlon, course d’orientation, ski de fond</td></tr>
 <tr><td>Snowboard</td><td>Ski, snowboard</td></tr>
 <tr><td>Squash</td><td>Squash</td></tr>
 <tr><td>Street-hockey</td><td>Hockey inline, hockey sur glace, rink-hockey, street-hockey</td></tr>
-<tr><td>Sport de camp/trekking</td><td>Sport de camp/trekking</td></tr>
+<tr><td>Sport de camp/ trekking</td><td>Sport de camp/trekking</td></tr>
 <tr><td>Tchoukball</td><td>Tchoukball</td></tr>
 <tr><td>Tennis</td><td>Tennis</td></tr>
 <tr><td>Tennis de table</td><td>Tennis de table</td></tr>
 <tr><td>Trampoline</td><td>Trampoline</td></tr>
 <tr><td>Trial</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Triathlon</td><td>Athlétisme, cyclisme sur piste, cyclisme sur route, natation, triathlon, VTT</td></tr>
-<tr><td>Unihockey</td><td>Unihockey, gymnastique</td></tr>
+<tr><td>Triathlon</td><td>Triathlon</td></tr>
+<tr><td>Unihockey</td><td>Unihockey</td></tr>
 <tr><td>Voile</td><td>Voile</td></tr>
-<tr><td>Volleyball</td><td>Balle au poing, gymnastique, volleyball</td></tr>
+<tr><td>Volleyball</td><td>Volleyball</td></tr>
 <tr><td>Voltige</td><td>Equitation, voltige</td></tr>
 <tr><td>VTT</td><td>BMX, cycle-balle, cyclo-cross, cyclisme artistique, cyclisme sur piste, cyclisme sur route, monocycle, trial, VTT</td></tr>
-<tr><td>Water-polo</td><td>Natation, natation artistique, natation de sauvetage, plongeon, water-polo,</td></tr>
+<tr><td>Waterpolo</td><td>Natation, natation artistique, natation de sauvetage, plongeon, waterpolo</td></tr>
 <tr><td>Wushu/kung-fu</td><td>Wushu/kung-fu</td></tr>
 </table>
 

@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFSPO del 12 luglio 2012 concernente «Gioventù e Sport�
 short: O-G+S-UFSPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/463"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2012-07-12
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-463-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2012-463-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20260101/it"
 
 (O-G+S-UFSPO)
 
-del 12 luglio 2012 (Stato 1° gennaio 2026)
+del 12 luglio 2012 (Stato 1° gennaio 2027)
 
 L’Ufficio federale dello sport (UFSPO),
 
@@ -146,21 +146,20 @@ La struttura della formazione e della formazione continua dei monitori G+S, degl
 
 <sup>1</sup> La durata della formazione e della formazione continua è regolata come segue:
 
-**Monitore**
+Monitore
 
-**Coach**
+Coach
 
-**Esperto (specializzazione)**
+Esperto (specializzazione)
 
-**Esperto coach (specializzazione)**
+Esperto coach (specializzazione)
 
 <table>
 <tr><th>Livello di formazione</th><th>Durata dei singoli corsi/moduli (giorni)</th></tr>
 <tr><td>Formazione di base</td><td>Corso: 5–12</td></tr>
-<tr><td>Formazione continua 1</td><td>Moduli: 1–6</td></tr>
-<tr><td>Formazione continua 2</td><td>Moduli: 1–6</td></tr>
-<tr><td>Formazione complementare «sicurezza»</td><td>Corso: 2–6</td></tr>
 <tr><td>Formazione continua</td><td>Moduli: 1–6</td></tr>
+<tr><td>Formazione complementare «sicurezza»</td><td>Corso: 2–6</td></tr>
+<tr><td>Formazione continua «sicurezza»</td><td>Modulo: 1–6</td></tr>
 </table>
 
 <table>
@@ -188,7 +187,7 @@ La struttura della formazione e della formazione continua dei monitori G+S, degl
 <sup>4</sup> La durata dell’insegnamento è di almeno 6 ore per una giornata di formazione e di almeno 3 ore per mezza giornata di formazione.
 
 [^10-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
-[^10-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 [^10-3]: Abrogato dalla cifra I dell’O dell’UFSPO del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 11
@@ -236,9 +235,9 @@ Un corso o un modulo G+S si considerano superati se:
 
 **Riconoscimento quale monitore G+S**[^15-1]
 
-Il riconoscimento quale monitore G+S è attribuito per una determinata disciplina sportiva G+S o nello sport scolastico e nei gruppi di destinatari «bambini» o «giovani».
+Il riconoscimento quale monitore G+S è attribuito per una determinata disciplina sportiva G+S o nello sport scolastico.
 
-[^15-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 16
 
@@ -246,10 +245,11 @@ Il riconoscimento quale monitore G+S è attribuito per una determinata disciplin
 
 <sup>1</sup> Il riconoscimento quale monitore G+S Sport scolastico autorizza a svolgere attività nelle seguenti discipline sportive G+S: aikido, allround, artistic swimming, atletica leggera, badminton, baseball/softball, BMX, calcio, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, sci di fondo, squash, streethockey, tchoukball, tennis, tennistavolo, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, e wushu/kung-fu.[^16-2]
 
-<sup>2</sup> I monitori G+S di sport scolastico con un riconoscimento valido e che intendono svolgere l’attività di monitore G+S al di fuori dei gruppi di utenti 4 e 5 in discipline sportive G+S di cui al capoverso 1 possono richiedere il riconoscimento quali monitori G+S nella relativa disciplina sportiva per il corrispondente gruppo di destinatari. L’UFSPO rilascia il riconoscimento se la persona che ne fa richiesta soddisfa i requisiti per l’ammissione alla formazione di base quale monitore G+S nella relativa disciplina sportiva.
+<sup>2</sup> I monitori G+S Sport scolastico con un riconoscimento valido e che intendono svolgere l’attività di monitore G+S al di fuori dei gruppi di utenti 4 e 5 in discipline sportive G+S di cui al capoverso 1 possono richiedere il riconoscimento quali monitori G+S nella relativa disciplina sportiva. L’UFSPO rilascia il riconoscimento se la persona che ne fa richiesta soddisfa i requisiti per l’ammissione alla formazione di base quale monitore G+S nella relativa disciplina sportiva.[^16-3]
 
 [^16-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 [^16-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 17
 
@@ -261,31 +261,28 @@ Il riconoscimento quale monitore G+S è attribuito per una determinata disciplin
 
 **Riconoscimento quale monitore G+S per monitori di sport militare**[^18-1]
 
-<sup>1</sup> I monitori di sport militare secondo l’allegato 2 che vogliono svolgere un’attività di monitori G+S possono richiedere il riconoscimento quali monitori G+S per il gruppo di destinatari «giovani» nelle seguenti discipline sportive: aikido, artistic swimming, atletica leggera, badminton, baseball/softball, biathlon, BMX, calcio, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, sci di fondo, squash, streethockey, tchoukball, tennis, tennistavolo, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, e wushu/kung fu.
+<sup>1</sup> I monitori di sport militare secondo l’allegato 2 che vogliono svolgere un’attività di monitori G+S possono richiedere il riconoscimento quali monitori G+S nelle seguenti discipline sportive: aikido, artistic swimming, atletica leggera, badminton, baseball/softball, biathlon, BMX, calcio, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, sci di fondo, squash, streethockey, tchoukball, tennis, tennistavolo, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, e wushu/kung-fu.[^18-2]
 
 <sup>2</sup> L’UFSPO rilascia il riconoscimento di cui al capoverso 1 se la persona che ne fa richiesta soddisfa i requisiti per l’ammissione alla formazione di base quale monitore G+S nella relativa disciplina sportiva.
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 19
 
 **Riconoscimento quale monitore G+S per gli esperti G+S**[^19-1]
 
-Gli esperti G+S riconosciuti sono titolari del riconoscimento quali monitori G+S per le rispettive discipline sportive e per i rispettivi gruppi di destinatari.
+Gli esperti G+S riconosciuti sono titolari del riconoscimento quali monitori G+S per le rispettive discipline sportive.
 
-[^19-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 20
 
 **Requisiti per dirigere le attività G+S**[^20-1]
 
-<sup>1</sup> Per dirigere le attività nei corsi e nei campi G+S, i monitori G+S impiegati devono disporre di una formazione ai sensi dell’allegato 3 per il rispettivo gruppo di destinatari.
+Per dirigere le attività nei corsi e nei campi G+S, i monitori G+S impiegati devono disporre di una formazione ai sensi dell’allegato 3.
 
-<sup>2</sup> Se per le attività G+S che vedono bambini e giovani allenarsi insieme il monitore G+S non dispone di tutte le formazioni necessarie, occorre impiegare un ulteriore monitore G+S che dispone delle formazioni necessarie.
-
-<sup>3</sup> I monitori G+S necessari ai sensi del capoverso 2 non sono considerati come monitori in più ai sensi dell’allegato 2 OPPSpo e per loro non si versa alcun importo di base ai sensi dell’allegato 3 lettera A OPPSpo.
-
-[^20-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 21
 
@@ -387,17 +384,17 @@ Allegato 1[^t-1]
 
 ## Struttura della formazione e della formazione continua
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O dell’UFSPO del 16 nov. 2017 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)). Aggiornato dalla cifra II cpv. 1 dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ### 1. Formazione e formazione continua dei monitori G+S e degli esperti G+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20270101/it/xml/image/image1.png)
 
-I moduli della formazione continua servono a prolungare il riconoscimento quale monitore, a recuperare il riconoscimento scaduto o ad approfondire le competenze utili al monitore. I moduli del livello di formazione continua 2 si basano su quelli del livello di formazione continua 1.
+I moduli della formazione continua servono a prolungare il riconoscimento quale monitore, a recuperare il riconoscimento scaduto o ad approfondire le competenze utili al monitore.
 
 ### 2. Formazione e formazione continua dei coach G+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20270101/it/xml/image/image2.png)
 
 Allegato 2[^t-2]
 
@@ -424,7 +421,7 @@ Allegato 3[^t-3]
 
 ## Formazioni necessarie per i monitori G+S
 
-[^t-3]: Nuovo testo giusta la cifra II dell’O dell’UFSPO del 30 mar. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)). Aggiornato dalla cifra II cpv. 2 dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ed il n. 1.1 dal 1° gen. 2027 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ### 1. Riconoscimenti necessari nelle discipline sportive G+S
 
@@ -433,75 +430,75 @@ Allegato 3[^t-3]
 <table>
 <tr><th>Disciplina sportiva</th><th>Riconoscimento necessario</th></tr>
 <tr><td>Aikido</td><td>Aikido</td></tr>
-<tr><td>Allround</td><td>Aikido, allround, atletica leggera, badminton, baseball/softball, BMX, calcio, ciclismo su pista, ciclismo su strada, ciclismo artistico, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, pallacanestro, pallacesto, pallamano, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, sci di fondo, squash, streethockey, tchoukball, tennis, tennistavolo, trampolino, trial in bicicletta, unihockey, e wushu/kung fu.</td></tr>
+<tr><td>Allround</td><td>Allround</td></tr>
 <tr><td>Alpinismo</td><td>Alpinismo</td></tr>
 <tr><td>Arrampicata sportiva</td><td>Alpinismo, arrampicata sportiva</td></tr>
-<tr><td>Artistic Swimming</td><td>Artistic swimming, ginnastica e danza, ginnastica ritmica, nuoto, nuoto di salvataggio, pallanuoto, tuffi</td></tr>
-<tr><td>Atletica leggera</td><td>Atletica leggera, ginnastica, triathlon</td></tr>
+<tr><td>Artistic Swimming</td><td>Artistic swimming, nuoto, nuoto di salvataggio, pallanuoto, tuffi</td></tr>
+<tr><td>Atletica leggera</td><td>Atletica leggera, ginnastica</td></tr>
 <tr><td>Badminton</td><td>Badminton</td></tr>
-<tr><td>Balestra</td><td>Balestra, carabina, pistola, tiro con l’arco</td></tr>
+<tr><td>Balestra</td><td>Balestra, carabina, pistola</td></tr>
 <tr><td>Baseball/Softball</td><td>Baseball/Softball</td></tr>
-<tr><td>Biathlon</td><td>Biathlon</td></tr>
-<tr><td>BMX</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, monociclo, ciclismo su strada, rampichino, trial in bicicletta</td></tr>
+<tr><td>Biathlon</td><td>Biathlon, carabina</td></tr>
+<tr><td>BMX</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, ciclismo su strada, monociclo, rampichino, trial in bicicletta</td></tr>
 <tr><td>Calcio</td><td>Calcio</td></tr>
 <tr><td>Canoismo</td><td>Canoismo</td></tr>
 <tr><td>Canottaggio</td><td>Canottaggio</td></tr>
-<tr><td>Carabina</td><td>Balestra, carabina, pistola, tiro con l’arco</td></tr>
+<tr><td>Carabina</td><td>Balestra, carabina, pistola</td></tr>
 <tr><td>Ciclismo artistico</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, ciclismo su strada, monociclo, rampichino, trial in bicicletta</td></tr>
-<tr><td>Ciclismo su pista</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, monociclo, ciclismo su strada, rampichino, trial in bicicletta.</td></tr>
-<tr><td>Ciclismo su strada</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, monociclo, rampichino, trial in bicicletta, triathlon</td></tr>
-<tr><td>Ciclocross</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, monociclo, ciclismo su strada, rampichino, trial in bicicletta.</td></tr>
+<tr><td>Ciclismo su pista</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, ciclismo su strada, monociclo, rampichino, trial in bicicletta</td></tr>
+<tr><td>Ciclismo su strada</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, monociclo, rampichino, trial in bicicletta</td></tr>
+<tr><td>Ciclocross</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, ciclismo su strada, monociclo, rampichino, trial in bicicletta</td></tr>
 <tr><td>Ciclopalla</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, ciclismo su strada, monociclo, rampichino, trial in bicicletta</td></tr>
-<tr><td>Corsa d’orientamento</td><td>Ciclismo su strada, ciclocross, corsa d’orientamento, rampichino. sci di fondo</td></tr>
+<tr><td>Corsa d’orientamento</td><td>Corsa d’orientamento, sci di fondo</td></tr>
 <tr><td>Curling</td><td>Curling</td></tr>
-<tr><td>Danze standard/latine</td><td>Danze standard/latine, ginnastica e danza, ginnastica ritmica, rock’n’roll</td></tr>
+<tr><td>Danze standard/latine</td><td>Danze standard/latine, ginnastica e danza, rock’n’roll</td></tr>
 <tr><td>Equitazione</td><td>Equitazione, volteggio</td></tr>
 <tr><td>Football americano</td><td>Football americano</td></tr>
 <tr><td>Gara nautica</td><td>Gara nautica</td></tr>
-<tr><td>Ginnastica</td><td>Atletica leggera, baseball/softball, calcio, danze standard/latine, ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, pallacanestro, pallacesto, pallamano, pallapugno, pallavolo, rock’n’roll, ruota di Rhön, tchoukball, trampolino, unihockey</td></tr>
+<tr><td>Ginnastica</td><td>Atletica leggera, ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, pallacesto, pallapugno, ruota di Rhön</td></tr>
 <tr><td>Ginnastica acrobatica</td><td>Ginnastica acrobatica</td></tr>
-<tr><td>Ginnastica agli attrezzi</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön, trampolino</td></tr>
-<tr><td>Ginnastica artistica</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön, trampolino</td></tr>
-<tr><td>Ginnastica e danza</td><td>Danze standard/latine, ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, pattinaggio artistico, pattinaggio sincronizzato, rock’n’roll, ruota di Rhön</td></tr>
-<tr><td>Ginnastica ritmica</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön, trampolino</td></tr>
-<tr><td>Giochi nazionali</td><td>Ginnastica, giochi nazionali, lotta, lotta svizzera</td></tr>
+<tr><td>Ginnastica agli attrezzi</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön</td></tr>
+<tr><td>Ginnastica artistica</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön</td></tr>
+<tr><td>Ginnastica e danza</td><td>Danze standard/latine, ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, rock’n’roll, ruota di Rhön</td></tr>
+<tr><td>Ginnastica ritmica</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön</td></tr>
+<tr><td>Giochi nazionali</td><td>Ginnastica, giochi nazionali, lotta svizzera</td></tr>
 <tr><td>Golf</td><td>Golf</td></tr>
-<tr><td>Hockey a rotelle</td><td>Hockey a rotelle, hockey inline, hockey su ghiaccio, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, streethockey</td></tr>
-<tr><td>Hockey inline</td><td>Hockey a rotelle, hockey inline, hockey su ghiaccio, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, streethockey</td></tr>
-<tr><td>Hockey su ghiaccio</td><td>Hockey a rotelle, hockey inline, hockey su ghiaccio, pattinaggio artistico, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, streethockey</td></tr>
+<tr><td>Hockey a rotelle</td><td>Hockey a rotelle, hockey inline, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle</td></tr>
+<tr><td>Hockey inline</td><td>Hockey a rotelle, hockey inline, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle</td></tr>
+<tr><td>Hockey su ghiaccio</td><td>Hockey su ghiaccio, pattinaggio artistico, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato</td></tr>
 <tr><td>Hockey su prato</td><td>Hockey su prato</td></tr>
 <tr><td>Hornuss</td><td>Hornuss</td></tr>
-<tr><td>Judo</td><td>Judo, ju-jitsu</td></tr>
-<tr><td>Ju-jitsu</td><td>Judo, ju-jitsu</td></tr>
+<tr><td>Judo</td><td>Judo</td></tr>
+<tr><td>Ju-jitsu</td><td>Ju-jitsu</td></tr>
 <tr><td>Karate</td><td>Karate</td></tr>
 <tr><td>Kickboxing light</td><td>Kickboxing light</td></tr>
 <tr><td>Light contact boxing</td><td>Light contact boxing</td></tr>
-<tr><td>Lotta</td><td>Lotta, giochi nazionali</td></tr>
+<tr><td>Lotta</td><td>Lotta</td></tr>
 <tr><td>Lotta svizzera</td><td>Giochi nazionali, lotta svizzera</td></tr>
 <tr><td>Monociclo</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, ciclismo su strada, monociclo, rampichino, trial in bicicletta</td></tr>
-<tr><td>Nuoto</td><td>Artistic swimming, nuoto, nuoto di salvataggio, pallanuoto, triathlon, tuffi</td></tr>
-<tr><td>Nuoto di salvataggio</td><td>Artistic swimming, nuoto, nuoto di salvataggio, pallanuoto, tuffi</td></tr>
-<tr><td>Pallacanestro</td><td>Pallacanestro, pallacesto</td></tr>
-<tr><td>Pallacesto</td><td>Ginnastica, pallacanestro, pallacesto, pallamano, pallapugno</td></tr>
-<tr><td>Pallamano</td><td>Pallamano, pallacesto</td></tr>
+<tr><td>Nuoto</td><td>Artistic swimming, nuoto, nuoto di salvataggio, pallanuoto, tuffi</td></tr>
+<tr><td>Nuoto di salvataggio</td><td>Nuoto, nuoto di salvataggio</td></tr>
+<tr><td>Pallacanestro</td><td>Pallacanestro</td></tr>
+<tr><td>Pallacesto</td><td>Ginnastica, pallacesto, pallapugno</td></tr>
+<tr><td>Pallamano</td><td>Pallamano</td></tr>
 <tr><td>Pallanuoto</td><td>Artistic swimming, nuoto, nuoto di salvataggio, pallanuoto, tuffi</td></tr>
-<tr><td>Pallapugno</td><td>Ginnastica, pallacesto, pallapugno, pallavolo</td></tr>
-<tr><td>Pallavolo</td><td>Ginnastica, pallapugno, pallavolo</td></tr>
+<tr><td>Pallapugno</td><td>Ginnastica, pallacesto, pallapugno</td></tr>
+<tr><td>Pallavolo</td><td>Pallavolo</td></tr>
 <tr><td>Parkour</td><td>Parkour</td></tr>
-<tr><td>Pattinaggio artistico</td><td>Hockey su ghiaccio, ginnastica e danza, pattinaggio artistico, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato</td></tr>
+<tr><td>Pattinaggio artistico</td><td>Hockey su ghiaccio, pattinaggio artistico, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato</td></tr>
 <tr><td>Pattinaggio artistico a rotelle</td><td>Hockey a rotelle, hockey inline, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle</td></tr>
-<tr><td>Pattinaggio di velocità a rotelle</td><td>Hockey a rotelle, hockey inline, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio</td></tr>
-<tr><td>Pattinaggio di velocità su ghiaccio</td><td>Hockey su ghiaccio, pattinaggio artistico, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato</td></tr>
-<tr><td>Pattinaggio sincronizzato</td><td>Hockey su ghiaccio, ginnastica e danza, pattinaggio artistico, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato</td></tr>
-<tr><td>Pistola</td><td>Balestra, carabina, pistola, tiro con l’arco</td></tr>
+<tr><td>Pattinaggio di velocità a rotelle</td><td>Hockey a rotelle, hockey inline, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle</td></tr>
+<tr><td>Pattinaggio di velocità su ghiaccio</td><td>Hockey su ghiaccio, pattinaggio artistico, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato</td></tr>
+<tr><td>Pattinaggio sincronizzato</td><td>Hockey su ghiaccio, pattinaggio artistico, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato</td></tr>
+<tr><td>Pistola</td><td>Balestra, carabina, pistola</td></tr>
 <tr><td>Rampichino</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclocross, ciclopalla, ciclismo su strada, monociclo, rampichino, trial in bicicletta</td></tr>
-<tr><td>Rock’n’Roll</td><td>Danze standard/latine, ginnastica e danza, ginnastica ritmica, rock’n’roll</td></tr>
+<tr><td>Rock’n’Roll</td><td>Danze standard/latine, ginnastica e danza, rock’n’roll</td></tr>
 <tr><td>Rugby</td><td>Rugby</td></tr>
-<tr><td>Ruota di Rhön</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön, trampolino</td></tr>
+<tr><td>Ruota di Rhön</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, ruota di Rhön</td></tr>
 <tr><td>Salto con gli sci</td><td>Salto con gli sci</td></tr>
 <tr><td>Scherma</td><td>Scherma</td></tr>
 <tr><td>Sci</td><td>Sci, snowboard</td></tr>
-<tr><td>Sci di fondo</td><td>Corsa d’orientamento, sci di fondo</td></tr>
+<tr><td>Sci di fondo</td><td>Biathlon, corsa d’orientamento, sci di fondo</td></tr>
 <tr><td>Sci escursionismo</td><td>Sci escursionismo</td></tr>
 <tr><td>Snowboard</td><td>Sci, snowboard</td></tr>
 <tr><td>Sport di campo/trekking</td><td>Sport di campo/trekking</td></tr>
@@ -511,15 +508,15 @@ Allegato 3[^t-3]
 <tr><td>Tchoukball</td><td>Tchoukball</td></tr>
 <tr><td>Tennis</td><td>Tennis</td></tr>
 <tr><td>Tennistavolo</td><td>Tennistavolo</td></tr>
-<tr><td>Tiro con l’arco</td><td>Tiro con l’arco, carabina, pistola, tiro con l’arco</td></tr>
+<tr><td>Tiro con l’arco</td><td>Tiro con l’arco</td></tr>
 <tr><td>Trampolino</td><td>Trampolino</td></tr>
 <tr><td>Trial in bicicletta</td><td>BMX, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, monociclo, rampichino, trial in bicicletta</td></tr>
-<tr><td>Triathlon</td><td>Atletica leggera, ciclismo su pista, ciclismo su strada, nuoto, rampichino, triathlon</td></tr>
+<tr><td>Triathlon</td><td>Triathlon</td></tr>
 <tr><td>Tuffi</td><td>Artistic swimming, nuoto, nuoto di salvataggio, pallanuoto, tuffi</td></tr>
-<tr><td>Unihockey</td><td>Unihockey, ginnastica</td></tr>
+<tr><td>Unihockey</td><td>Unihockey</td></tr>
 <tr><td>Vela</td><td>Vela</td></tr>
 <tr><td>Volteggio</td><td>Volteggio, equitazione</td></tr>
-<tr><td>Wushu/kung fu</td><td>Wushu/kung fu</td></tr>
+<tr><td>Wushu/kung-fu</td><td>Wushu/kung-fu</td></tr>
 </table>
 
 1.2 Per lo svolgimento di un campo G+S nella disciplina sportiva sport di campo/trekking almeno uno dei monitori impiegati deve disporre, a complemento di quanto indicato al numero 1.1, di:
