@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft glei
 short: PartG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/de"
 
 (Partnerschaftsgesetz, PartG)
 
-vom 18. Juni 2004 (Stand am 1. Januar 2025)
+vom 18. Juni 2004 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 38 Absatz 2, 112 Absatz 1, 113 Absatz 1, 119 Absatz 2,
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
 ## 1. Kapitel: Gegenstand
@@ -143,7 +143,7 @@ Die beiden Partnerinnen oder Partner leisten einander Beistand und nehmen aufein
 
 <sup>2</sup> Bei der Eintragung der Partnerschaft können sie aber gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass sie den Ledignamen der einen Partnerin oder des einen Partners als gemeinsamen Namen tragen wollen.
 
-[^12a-1]: Eingefügt durch Ziff. II 2 des BG vom 30. Sept. 2011 (Name und Bürgerrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^12a-1]: Eingefügt durch Ziff. II 2 des BG vom 30. Sept. 2011 (Name und Bürgerrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347), [7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 #### Art. 13
 
@@ -155,7 +155,7 @@ Die beiden Partnerinnen oder Partner leisten einander Beistand und nehmen aufein
 
 <sup>3</sup> Erfüllt eine Partnerin oder ein Partner die Unterhaltspflicht nicht, so kann das Gericht deren oder dessen Schuldnerin oder Schuldner anweisen, die Zahlungen ganz oder teilweise der andern Partnerin oder dem andern Partner zu leisten.
 
-[^13-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^13-2]: Zweiter Satz eingefügt durch Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 14
@@ -212,7 +212,7 @@ Auf Antrag muss das Gericht:
 
 <sup>4</sup> Verändern sich die Verhältnisse, so passt das Gericht auf Antrag die Massnahmen an oder hebt sie auf.
 
-[^17-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^17-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^17-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### 2. Abschnitt: Vermögensrecht
@@ -281,7 +281,7 @@ Steht ein Vermögenswert im Miteigentum der beiden Partnerinnen oder Partner und
 
 <sup>4</sup> Die Artikel 185 und 193 ZGB sind sinngemäss anwendbar.
 
-[^25-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^25-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^25-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^25-3]: Aufgehoben durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Erbrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
@@ -301,7 +301,7 @@ Steht ein Vermögenswert im Miteigentum der beiden Partnerinnen oder Partner und
 
 <sup>2</sup> Die Vormundschaftsbehörde kann unter den Voraussetzungen von Artikel 274*a* ZGB[^27-1] bei Aufhebung des Zusammenlebens und bei Auflösung der eingetragenen Partnerschaft einen Anspruch auf persönlichen Verkehr einräumen.
 
-[^27-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 27a
 
@@ -310,7 +310,7 @@ Steht ein Vermögenswert im Miteigentum der beiden Partnerinnen oder Partner und
 Hat eine Person das minderjährige Kind ihrer Partnerin oder ihres Partners adoptiert, so sind die Artikel 270–327*c* ZGB[^27a-2] sinngemäss anwendbar.
 
 [^27a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^27a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 28
 
@@ -346,9 +346,9 @@ Jede Partnerin oder jeder Partner kann die Auflösung der eingetragenen Partners
 
 **Name**[^30a-1]
 
-Die Person, die ihren Namen bei der Eintragung der Partnerschaft geändert hat, behält diesen Namen nach der Auflösung; sie kann aber jederzeit gegenüber der Zivil- standsbeamtin oder dem Zivilstandsbeamten erklären, dass sie wieder ihren Ledignamen tragen will.
+Die Person, die ihren Namen bei der Eintragung der Partnerschaft geändert hat, behält diesen Namen nach der Auflösung; sie kann aber jederzeit gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass sie wieder einen vor der Eintragung der Partnerschaft geführten Namen tragen will.
 
-[^30a-1]: Eingefügt durch Ziff. II 2 des BG vom 30. Sept. 2011 (Name und Bürgerrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30a-1]: Eingefügt durch Ziff. II 2 des BG vom 30. Sept. 2011 (Name und Bürgerrecht) ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347), [7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2026 (Doppelnamen bei der Eheschliessung), in Kraft seit 1. Jan. 2027 ([AS 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [BBl 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 #### Art. 31
 
@@ -393,7 +393,7 @@ Die während der Dauer der eingetragenen Partnerschaft erworbenen Austrittsleist
 
 <sup>4</sup> Im Übrigen sind die Artikel 125 Absätze 2 und 3 sowie 126–134 ZGB[^34-2] sinngemäss anwendbar.[^34-3]
 
-[^34-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^34-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ## 4*a*. Kapitel: Umwandlung der eingetragenen Partnerschaft in eine Ehe
@@ -442,11 +442,9 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 **Koordination mit Änderungen anderer Erlasse**
 
-### …
+…[^37-1]
 
-[^37-subdiv-1]
-
-[^37-subdiv-1]: Die Koordinationsbestimmungen können unter [AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)konsultiert werden.
+[^37-1]: Die Koordinationsbestimmungen können unter [AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)konsultiert werden.
 
 #### Art. 37a
 
@@ -465,6 +463,20 @@ Wurde die Partnerschaft vor dem Inkrafttreten der Änderung vom 30. September 20
 <sup>2</sup> Haben beide Partnerinnen oder beide Partner im Zeitpunkt des Inkrafttretens dieser Änderung das 18. Altersjahr vollendet, so kann der Ungültigkeitsgrund nur von der Partnerin oder dem Partner geltend gemacht werden, die oder der zur Zeit der Eintragung minderjährig war und im Zeitpunkt der Einreichung der Ungültigkeitsklage das 25. Altersjahr noch nicht vollendet hat.
 
 [^37b-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+#### Art. 37c
+
+**Übergangsbestimmungen zur Änderung vom 20. März 2026**[^37c-1]
+
+<sup>1</sup> Wer in einer eingetragenen Partnerschaft lebt, kann jederzeit vor der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, einen Doppelnamen tragen zu wollen. Der Doppelname wird aus den vor Eintragung der Partnerschaft geführten Namen der Partnerinnen oder Partner gebildet.
+
+<sup>2</sup> Trug eine Partnerin oder ein Partner vor der Eintragung der Partnerschaft bereits einen Doppelnamen, so darf nur einer der zwei Namen, die diesen bildeten, für den neuen Doppelnamen verwendet werden.
+
+<sup>3</sup> Die zwei Namen des Doppelnamens können mit einem Bindestrich verbunden werden.
+
+<sup>4</sup> Die Änderung des Namens der Partnerinnen oder Partner hat keine Auswirkungen auf den Namen ihrer Kinder.
+
+[^37c-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2026 (Doppelnamen bei der Eheschliessung), in Kraft seit 1. Jan. 2027 ([AS 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [BBl 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 #### Art. 38
 

@@ -4,11 +4,11 @@ title: "Legge federale del 18 giugno 2004 sull'unione domestica registrata di co
 short: LUD
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/it"
 
 (Legge sull’unione domestica registrata, LUD)
 
-del 18 giugno 2004 (Stato 1° gennaio 2025)
+del 18 giugno 2004 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 38 capoverso 2, 112 capoverso 1, 113 capoverso 1, 119 capover
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
 ## Capitolo 1: Oggetto
@@ -46,19 +46,21 @@ La presente legge disciplina gli effetti e lo scioglimento nonché la conversion
 
 ## Capitolo 2: Registrazione dell’unione domestica
 
-### Sezione 1: ...
+### Sezione 1: …
 
-#### Art. 3 e 4
+#### Art. 3–4
 
 [^34-1]
 
 [^34-1]: Abrogati dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-### Sezione 2: ...
+### Sezione 2: …
 
-**Art. 5** a **8**[^chap2-sec2-1]
+#### Art. 5–8
 
-[^chap2-sec2-1]: Abrogati dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^58-1]
+
+[^58-1]: Abrogati dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Sezione 3: Annullamento
 
@@ -95,7 +97,7 @@ L’unione domestica registrata è tuttavia valida se il partner in questione:
 
 **Annullabilità assoluta: unione domestica registrata con minorenni**[^9b-1]
 
-- [tab] <sup>1</sup> L’azione di annullamento dell’unione domestica registrata è promossa d’ufficio dall’autorità cantonale competente al domicilio dei partner; la può inoltre proporre qualsiasi interessato. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nulla un’unione domestica registrata ne informano l’autorità competente per promuovere l’azione.
+<sup>1</sup> L’azione di annullamento dell’unione domestica registrata è promossa d’ufficio dall’autorità cantonale competente al domicilio dei partner; la può inoltre proporre qualsiasi interessato. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nulla un’unione domestica registrata ne informano l’autorità competente per promuovere l’azione.
 
 <sup>2</sup> L’annullamento di un’unione domestica già sciolta non è proponibile d’ufficio; lo può tuttavia proporre qualsiasi interessato.
 
@@ -139,7 +141,7 @@ I partner si devono assistenza e rispetto reciproci.
 
 <sup>2</sup> Al momento della registrazione dell’unione domestica, i partner possono tuttavia dichiarare all’ufficiale dello stato civile di voler assumere un cognome comune; possono scegliere tra il cognome da celibe o nubile di uno di loro.
 
-[^12a-1]: Introdotto dal n. II 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^12a-1]: Introdotto dalla cifra II n. 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 #### Art. 13
 
@@ -151,7 +153,7 @@ I partner si devono assistenza e rispetto reciproci.
 
 <sup>3</sup> Se un partner non adempie il proprio obbligo di mantenimento, il giudice può ordinare ai suoi debitori che facciano i loro pagamenti, in tutto o in parte, all’altro.
 
-[^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^13-2]: Per. introdotto dall’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 14
@@ -208,7 +210,7 @@ Ad istanza di parte, il giudice:
 
 <sup>4</sup> In caso di modifica delle circostanze, il giudice, ad istanza di parte, adatta o revoca le misure prese.
 
-[^17-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^17-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^17-2]: Introdotto dall’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### Sezione 2: Rapporti patrimoniali
@@ -271,13 +273,13 @@ Se un bene è in comproprietà dei partner, il partner che provi d’avere un in
 
 <sup>1</sup> I partner possono concordare mediante convenzione patrimoniale una regolamentazione speciale per il caso in cui l’unione domestica registrata sia sciolta. Possono segnatamente convenire che i beni siano divisi conformemente agli articoli 196–219 CC[^25-1].[^25-2]
 
-<sup>2</sup> ...[^25-3]
+<sup>2</sup> …[^25-3]
 
 <sup>3</sup> La convenzione patrimoniale è stipulata per atto pubblico firmato dai contraenti e, se del caso, dal rappresentante legale.
 
 <sup>4</sup> Gli articoli 185 e 193 CC si applicano per analogia.
 
-[^25-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^25-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^25-2]: Nuovo testo del per. giusta l’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^25-3]: Abrogato dall’all. n. 1 della LF del 18 dic. 2020 (Diritto successorio), con effetto dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
@@ -297,7 +299,7 @@ Se un bene è in comproprietà dei partner, il partner che provi d’avere un in
 
 <sup>2</sup> In caso di sospensione della vita comune o di scioglimento dell’unione domestica registrata, l’autorità tutoria può, alle condizioni di cui all’articolo 274*a* CC[^27-1], conferire il diritto di intrattenere relazioni personali.
 
-[^27-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 27a
 
@@ -306,7 +308,7 @@ Se un bene è in comproprietà dei partner, il partner che provi d’avere un in
 Se una persona ha adottato il figlio minorenne del partner, si applicano per analogia gli articoli 270–327*c* CC[^27a-2].
 
 [^27a-1]: Introdotto dall’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^27a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 28
 
@@ -342,9 +344,9 @@ Un partner può domandare lo scioglimento dell’unione domestica registrata se 
 
 **Cognome**[^30a-1]
 
-Il partner che ha cambiato cognome in occasione della registrazione dell’unione domestica conserva il nuovo cognome anche dopo lo scioglimento della stessa; può tuttavia dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
+Il partner che ha cambiato cognome in occasione della registrazione dell’unione domestica conserva il nuovo cognome anche dopo lo scioglimento della stessa; può tuttavia dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere un cognome portato prima della registrazione dell’unione domestica.
 
-[^30a-1]: Introdotto dal n. II 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30a-1]: Introdotto dalla cifra II n. 2 della LF del 30 set. 2011 (Cognome e cittadinanza) ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nuovo testo giusta l’all. n. 2 della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 #### Art. 31
 
@@ -389,7 +391,7 @@ Le prestazioni di uscita della previdenza professionale acquisite durante l’un
 
 <sup>4</sup> Per il rimanente si applicano per analogia gli articoli 125 capoversi 2 e 3 nonché 126–134 CC[^34-2].[^34-3]
 
-[^34-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^34-3]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ## Capitolo 4*a*: Conversione dell’unione domestica registrata in matrimonio
@@ -438,7 +440,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 **Coordinamento con modifiche di altre leggi**
 
-...[^37-1]
+…[^37-1]
 
 [^37-1]: Le disp. di coordinazione possono essere consultate alla [RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782).
 
@@ -448,7 +450,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 Se l’unione domestica è stata registrata prima dell’entrata in vigore della modifica del 30 settembre 2011 del Codice civile, i partner possono, entro un anno dall’entrata in vigore di tale modifica, dichiarare all’ufficiale dello stato civile di voler assumere un cognome comune; possono scegliere tra il cognome da celibe o nubile di uno di loro.
 
-[^37a-1]: Introdotto dal n. II 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^37a-1]: Introdotto dalla cifra II n. 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 
 #### Art. 37b
 
@@ -459,6 +461,20 @@ Se l’unione domestica è stata registrata prima dell’entrata in vigore della
 <sup>2</sup> Se all’entrata in vigore della presente modifica entrambi i partner hanno compiuto il diciottesimo anno di età, la causa di annullamento può essere invocata soltanto dal partner che era minorenne al momento della registrazione dell’unione domestica e non ha ancora compiuto il venticinquesimo anno di età nel momento in cui è promossa l’azione.
 
 [^37b-1]: Introdotto dall’all. n. 3 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+#### Art. 37c
+
+**Disposizioni transitorie della modifica del 20 marzo 2026**[^37c-1]
+
+<sup>1</sup> Chi vive in unione domestica registrata può dichiarare in ogni tempo all’ufficiale dello stato civile di voler portare un doppio cognome. Il doppio cognome è formato dai cognomi portati dai partner prima della registrazione dell’unione domestica.
+
+<sup>2</sup> Se prima della registrazione dell’unione domestica uno dei partner portava già un doppio cognome, soltanto uno di questi due cognomi può essere utilizzato per formare il nuovo doppio cognome.
+
+<sup>3</sup> I due cognomi del doppio cognome possono essere uniti da un trattino.
+
+<sup>4</sup> La modifica del cognome del partner non ha effetti sul cognome dei figli.
+
+[^37c-1]: Introdotto dall’all. n. 2 della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 #### Art. 38
 
@@ -478,6 +494,6 @@ Allegato
 
 ## Modifica del diritto vigente
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782).

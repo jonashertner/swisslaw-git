@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2004 sur le partenariat enregistré entre pers
 short: LPart
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/fr"
 
 (Loi sur le partenariat, LPart)
 
-du 18 juin 2004 (État le 1<sup>er</sup> janvier 2025)
+du 18 juin 2004 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 38, al. 2, 112, al. 1, 113, al. 1, 119, al. 2, 121, al. 1, 122, al. 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
 ## Chapitre 1 Objet
@@ -153,7 +153,7 @@ Les partenaires se doivent l’un à l’autre assistance et respect.
 
 <sup>3</sup> Lorsque l’un des partenaires ne satisfait pas à son devoir d’entretien à l’égard de la communauté, le juge peut prescrire à ses débiteurs d’opérer tout ou partie de leurs paiements entre les mains de l’autre.
 
-[^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^13-2]: Phrase introduite par l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 14
@@ -210,7 +210,7 @@ Au-delà des besoins courants, un partenaire ne représente la communauté que:
 
 <sup>4</sup> Lorsque des faits nouveaux le commandent, le juge, à la requête de l’un des partenaires, ordonne des modifications ou lève les mesures prises.
 
-[^17-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^17-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^17-2]: Introduit par l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### Section 2 Rapports patrimoniaux
@@ -279,7 +279,7 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 
 <sup>4</sup> Les art. 185 et 193 CC sont applicables par analogie.
 
-[^25-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^25-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^25-2]: Nouvelle teneur de la phrase selon l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1er janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^25-3]: Abrogé par l’annexe ch. 1 de la LF du 18 déc. 2020 (Droit des successions), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
@@ -299,7 +299,7 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 
 <sup>2</sup> En cas de suspension de la vie commune ou en cas de dissolution du partenariat enregistré, un partenaire peut se voir accorder par l’autorité tutélaire le droit d’entretenir des relations personnelles avec l’enfant de l’autre partenaire en vertu de l’art. 274*a* CC[^27-1].
 
-[^27-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 27a
 
@@ -308,7 +308,7 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 Lorsque l’un des deux partenaires a adopté l’enfant mineur de l’autre, les art. 270 à 327*c* CC[^27a-2] sont applicables par analogie.
 
 [^27a-1]: Introduit par par l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
-[^27a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 28
 
@@ -344,9 +344,9 @@ Un partenaire peut demander la dissolution du partenariat enregistré si, au mom
 
 **Nom**[^30a-1]
 
-Le partenaire qui a changé de nom lors de l’enregistrement du partenariat conserve ce nom après la dissolution; il peut toutefois déclarer en tout temps à l’officier de l’état civil vouloir reprendre son nom de célibataire.
+Le partenaire qui a changé de nom lors de l’enregistrement du partenariat conserve ce nom après la dissolution; il peut toutefois déclarer en tout temps à l’officier de l’état civil vouloir reprendre un nom porté avant l’enregistrement du partenariat.
 
-[^30a-1]: Introduit par le ch. II 2 de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30a-1]: Introduit par le ch. II 2 de la LF du 30 sept. 2011 (Nom et droit de cité) ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 #### Art. 31
 
@@ -391,7 +391,7 @@ Les prestations de sortie de la prévoyance professionnelle acquises pendant la 
 
 <sup>4</sup> Au surplus, les art. 125, al. 2 et 3, et 126 à 134 CC[^34-2] sont applicables par analogie.[^34-3]
 
-[^34-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^34-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ## Chapitre 4*a* Conversion du partenariat enregistré en mariage
@@ -461,6 +461,20 @@ Lorsque le partenariat a été enregistré avant l’entrée en vigueur de la mo
 <sup>2</sup> Si les deux partenaires ont atteint l’âge de 18 ans au moment de l’entrée en vigueur du nouveau droit, la cause d’annulation ne peut être invoquée que par le partenaire qui était mineur au moment de l’enregistrement, pour autant qu’il n’ait pas atteint l’âge de 25 ans au moment où l’action en annulation du partenariat est intentée.
 
 [^37b-1]: Introduit par l’annexe ch. 3 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+#### Art. 37c
+
+**Dispositions transitoires relatives à la modification du 20 mars 2026**[^37c-1]
+
+<sup>1</sup> Toute personne liée par un partenariat enregistré peut en tout temps déclarer à l’officier de l’état civil vouloir porter un double nom. Le double nom est composé des noms portés par les partenaires avant l’enregistrement du partenariat.
+
+<sup>2</sup> Si un des partenaires portait déjà un double nom avant l’enregistrement du partenariat, seul un des deux noms qui le composaient peut être utilisé pour le nouveau double nom.
+
+<sup>3</sup> Les deux noms du double nom peuvent être reliés par un trait d’union.
+
+<sup>4</sup> Le changement de nom du partenaire n’a pas d’effet sur le nom des enfants.
+
+[^37c-1]: Introduit par l’annexe ch. 2 de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 #### Art. 38
 
