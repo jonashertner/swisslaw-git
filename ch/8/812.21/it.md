@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sui medicamenti e i dispositivi medi
 short: LATer
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20250101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20270101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/it"
 
 (Legge sugli agenti terapeutici, LATer)
 
-del 15 dicembre 2000 (Stato 1° gennaio 2025)
+del 15 dicembre 2000 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -61,7 +61,7 @@ Nell’esecuzione della presente legge, in particolare nell’emanazione di ordi
 La presente legge si applica:
 
 - a.[^2-1] al trattamento di medicamenti e dispositivi medici (agenti terapeutici);
-- b. agli stupefacenti ai sensi della legge federale del 3 ottobre 1951[^2-2] sugli stupefacenti, per quanto siano utilizzati come agenti terapeutici;
+- b. agli stupefacenti ai sensi della legge federale del 3 ottobre 1951[^2-2] sugli stupefacenti , per quanto siano utilizzati come agenti terapeutici;
 - c. ai metodi terapeutici quali la terapia genica, per quanto in relazione diretta con agenti terapeutici. Il Consiglio federale può emanare disposizioni speciali in merito.
 
 <sup>2</sup> Il Consiglio federale può escludere del tutto o in parte dal campo d’applicazione della presente legge i dispositivi medici per uso veterinario o destinati alla diagnostica veterinaria.
@@ -2054,13 +2054,16 @@ Il Consiglio dell’Istituto è l’organo strategico dell’Istituto e ne tutel
 - j. vigila sulla Direzione e provvede a istituire un sistema di controllo interno e di gestione dei rischi adeguato all’Istituto;
 - k. emana le disposizioni di cui all’articolo 82 capoverso 2;
 - l. approva il piano di gestione e il preventivo;
-- m. stipula il contratto di affiliazione alla Cassa pensioni della Confederazione (PUBLICA) e lo sottopone per approvazione al Consiglio federale;
+- m.[^72a-2] stipula il contratto di affiliazione alla Cassa pensioni della Confederazione (Publica) e lo sottopone per approvazione al Consiglio federale;
 - n. stabilisce la composizione, la procedura di nomina e l’organizzazione dell’organo paritetico per l’istituto di previdenza;
-- o. emana disposizioni regolamentari che assicurano l’indipendenza dei periti incaricati dall’Istituto.
+- o. emana disposizioni regolamentari che assicurano l’indipendenza dei periti incaricati dall’Istituto;
+- p.[^72a-3] emana le disposizioni sul finanziamento della previdenza professionale e le sottopone per approvazione al Consiglio federale.
 
 <sup>2</sup> I membri del Consiglio dell’Istituto adempiono i loro compiti e obblighi con la massima diligenza e tutelano in buona fede gli interessi dell’Istituto. Il Consiglio dell’Istituto prende i provvedimenti organizzativi necessari per tutelare gli interessi dell’Istituto e per evitare conflitti d’interesse.
 
 [^72a-1]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^72a-2]: Nuovo testo giusta l’all. n. 11 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^72a-3]: Introdotta dall’all. n. 11 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 73
 
@@ -2323,7 +2326,7 @@ Il Consiglio federale esercita la sua funzione di vigilanza e di controllo in pa
 - a. nominando e revocando i membri e il presidente del Consiglio dell’Istituto;
 - b. approvando la costituzione e lo scioglimento del rapporto di lavoro con il direttore;
 - c. nominando e revocando l’Ufficio di revisione;
-- d. approvando l’ordinanza sul personale dell’Istituto e quella sugli emolumenti nonché il contratto di affiliazione a PUBLICA;
+- d.[^81a-1] approvando l’ordinanza sul personale dell’Istituto e quella sugli emolumenti, il contratto di affiliazione a Publica e le disposizioni sul finanziamento della previdenza professionale;
 - e. approvando la relazione sulla gestione e decidendo la destinazione di un eventuale utile;
 - f. approvando gli obiettivi strategici e verificandone annualmente il raggiungimento;
 - g. deliberando il discarico del Consiglio dell’Istituto.
@@ -2331,6 +2334,8 @@ Il Consiglio federale esercita la sua funzione di vigilanza e di controllo in pa
 <sup>4</sup> Per verificare il raggiungimento degli obiettivi strategici, il Consiglio federale può consultare i documenti commerciali dell’Istituto e informarsi in qualsiasi momento sulla sua attività.
 
 <sup>5</sup> Sono fatte salve le competenze legali del Controllo federale delle finanze.
+
+[^81a-1]: Nuovo testo giusta l’all. n. 11 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Capitolo 6: Esecuzione
 

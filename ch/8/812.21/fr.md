@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur les médicaments et les disposit
 short: LPTh
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20250101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20270101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20250101/fr"
 
 (Loi sur les produits thérapeutiques, LPTh)[^t-1]
 
-du 15 décembre 2000 (État le 1<sup>er</sup> janvier 2025)
+du 15 décembre 2000 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -2054,13 +2054,16 @@ Le conseil de l’institut est l’organe stratégique de l’institut, dont il 
 - j. il exerce la surveillance sur la direction et veille à la mise en place d’un système de contrôle interne et d’un système de gestion des risques adaptés à l’institut;
 - k. il édicte les dispositions visées à l’art. 82, al. 2;
 - l. il approuve le plan de gestion et le budget;
-- m. il conclut le contrat d’affiliation à la caisse de pension de la Confédération (PUBLICA) et le soumet à l’approbation du Conseil fédéral;
+- m.[^72a-2] il conclut le contrat d’affiliation à la Caisse fédérale de pensions (Publica) et le soumet à l’approbation du Conseil fédéral;
 - n. il règle la composition, l’élection et l’organisation de l’organe paritaire de la caisse de prévoyance;
-- o. il édicte les dispositions réglementaires permettant de garantir l’indépendance des experts mandatés par l’institut.
+- o. il édicte les dispositions réglementaires permettant de garantir l’indépendance des experts mandatés par l’institut;
+- p.[^72a-3] il édicte les dispositions concernant le financement de la prévoyance professionnelle et les soumet à l’approbation du Conseil fédéral.
 
 <sup>2</sup> Les membres du conseil de l’institut remplissent leurs tâches et leurs obligations avec diligence et veillent fidèlement aux intérêts de l’institut. Le conseil de l’institut adopte les mesures d’organisation qui s’imposent afin de préserver les intérêts de l’institut et d’éviter les conflits d’intérêts.
 
 [^72a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^72a-2]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^72a-3]: Introduite par l’annexe ch. 11 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 73
 
@@ -2323,7 +2326,7 @@ Le Conseil fédéral exerce sa fonction de surveillance et de contrôle, notamme
 - a. en nommant et en révoquant les membres et le président du conseil de l’institut;
 - b. en approuvant la conclusion et la résiliation du contrat de travail du directeur;
 - c. en nommant et en révoquant l’organe de révision;
-- d. en approuvant l’ordonnance sur le personnel de l’institut, l’ordonnance sur les émoluments et le contrat d’affiliation à PUBLICA;
+- d.[^81a-1] en approuvant l’ordonnance sur le personnel de l’institut, l’ordonnance sur les émoluments, le contrat d’affiliation à Publica et les dispositions concernant le financement de la prévoyance professionnelle;
 - e. en approuvant le rapport de gestion et, le cas échéant, en décidant de l’emploi du bénéfice;
 - f. en approuvant les objectifs stratégiques et en vérifiant, chaque année, qu’ils sont atteints;
 - g. en donnant décharge au conseil de l’institut.
@@ -2331,6 +2334,8 @@ Le Conseil fédéral exerce sa fonction de surveillance et de contrôle, notamme
 <sup>4</sup> Pour vérifier que les objectifs stratégiques sont atteints, le Conseil fédéral a un droit de regard sur les dossiers de l’institut et peut, à cette fin, exiger en tout temps des informations sur ses activités.
 
 <sup>5</sup> Les compétences légales du Contrôle fédéral des finances sont réservées.
+
+[^81a-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Chapitre 6 Exécution
 
