@@ -4,13 +4,12 @@ number: VI E/211/3
 title: Verordnung über die Verhütung und Vergütung von Wildschäden
 short: Wildschadenverordnung
 language: de
-version: 2023-01-01
-valid_until: 2026-12-31
-version_adopted: 2022-08-31
+version: 2027-01-01
+version_adopted: 2026-02-18
 adopted: 1992-12-09
 in_force: 1993-03-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.211.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2333/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2682/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,17 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2333/pdf_file"
 
 (Wildschadenverordnung)
 
-Vom 09.12.1992 (Stand 01.01.2023)
+Vom 09.12.1992 (Stand 01.01.2027)
 
 Der Landrat,
 
-gestützt auf die Artikel 12 und 13 des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wild lebender Säugetiere und Vögel, die Artikel 9 und 10 der Verordnung des Bundes vom 29. Februar 1988 über die Jagd und den Schutz wild lebender Säugetiere und Vögel, die Artikel 3, 4, 4a und 4b des Gesetzes vom 6. Mai 1979 über die Jagd und den Schutz wild lebender Säugetiere und Vögel (kantonales Jagdgesetz)[^ingress-1],
+gestützt auf Artikel 12 und 13 des Jagdgesetzes des Bundes (JSG)[^ingress-1], Artikel 9 und 10 der Jagdverordnung des Bundes (JSV)[^ingress-2] sowie Artikel 3–4b des Kantonalen Jagdgesetzes[^ingress-3],
 
-verordnet:
+erlässt:
 
-[^ingress-1]: GS [VI E/211/1](https://gesetze.gl.ch/data/VI-E.211.1/de)
+[^ingress-1]: SR 922.0
+[^ingress-2]: SR 922.01
+[^ingress-3]: GS [VI E/211/1](https://gesetze.gl.ch/data/VI-E.211.1/de)
 
 ## 1. Wildschadenverhütung
 
@@ -99,17 +100,19 @@ verordnet:
 
 ## 2. Wildschadenvergütung
 
+### 2.1. Vergütung von durch jagdbare Arten verursachten Schäden
+
 #### Art. 8
 
 **Vergütung von Wildschäden an die Landwirtschaft**
 
 <sup>1</sup> Die durch jagdbares Wild und Steinwild verursachten Schäden an landwirtschaftlichen Kulturen und Nutztieren werden vom Kanton angemessen vergütet.
 
-<sup>2</sup> Die Schadenvergütungen werden aus den Mitteln des Wildschadenfonds geleistet.
+<sup>2</sup> …
 
 <sup>3</sup> Ausgenommen sind Schäden durch Tiere, gegen welche nach Artikel 4 dieser Verordnung, Artikel 12 des Bundesgesetzes und Artikel 9 Absatz 1 der eidgenössischen Verordnung Selbsthilfemassnahmen ergriffen werden dürfen.
 
-<sup>4</sup> Der Kanton vergütet den durch die geschützten Wildarten Luchs, Bär, Wolf, Biber, Otter und Adler verursachten Schaden, soweit er vom Bund nicht übernommen wird.
+<sup>4</sup> …
 
 <sup>5</sup> Kein Anspruch auf eine Schadenvergütung besteht für Heu- und Viehalpen.
 
@@ -144,7 +147,7 @@ verordnet:
 
 <sup>1</sup> Durch jagdbares Wild und Steinwild verursachte Schäden am Wald werden vom Kanton angemessen vergütet.
 
-<sup>2</sup> Die Schadenvergütungen werden aus den Mitteln des Wildschadenfonds geleistet.
+<sup>2</sup> …
 
 <sup>3</sup> Der Anspruch auf Schadenvergütung entfällt, wenn:
 
@@ -169,6 +172,80 @@ verordnet:
 <sup>3</sup> Die Schätzer haben innerhalb eines Jahres, während der Vegetationsperiode, die Ursache des Schadens festzustellen, den Wildschaden gemäss den Richtlinien der zuständigen kantonalen Forstbehörde in seinem Umfang abzuschätzen und über die Vergütung zu entscheiden.
 
 <sup>4</sup> Die Schadenerfassung erfolgt objektweise bezogen auf eine lokalisierbare Jungwuchs- oder Pflanzfläche oder einen eindeutig abgrenzbaren Bestand.
+
+#### Art. 11a
+
+**Finanzierung der Entschädigungen**
+
+<sup>1</sup> Die Schadenvergütungen für die Wildschäden an die Landwirtschaft und für die Wildschäden im Wald werden aus den Mitteln des Wildschadenfonds geleistet.
+
+<sup>2</sup> Der jährlich in den Wildschadenfonds einzulegende Beitrag aus den Einnahmen, die der Kanton aus dem Wildabschuss erzielt, beträgt 10 Prozent.
+
+### 2.2. Vergütung von durch geschützte Arten verursachten Schäden
+
+#### Art. 11b
+
+**Vergütung von Schäden an die Landwirtschaft**
+
+<sup>1</sup> Der Kanton vergütet den nachweislich durch geschützte Wildarten gemäss Artikel 10 JSV verursachten Schaden im Rahmen der Bundesgesetzgebung, soweit er vom Bund nicht übernommen wird.
+
+<sup>2</sup> Der Kanton entrichtet unabhängig von Absatz 1 für Schäden an Nutztieren eine angemessene Entschädigung, wenn:
+
+- a. die Tiere aus in Übereinstimmung mit Artikel 10b JSV fachgerecht geschützten Herden stammen; und
+- b. der Schaden mit überwiegender Wahrscheinlichkeit auf die Präsenz eines Grossraubtieres im Zeitpunkt des Schadenseintritts zurückzuführen ist.
+
+<sup>3</sup> Der Anspruch auf Schadenvergütung entfällt oder wird herabgesetzt, wenn:
+
+- a. der Geschädigte den Schaden mitverschuldet hat;
+- b. der Geschädigte die zumutbaren Abwehrmassnahmen nicht getroffen hat;
+- c. der Geschädigte die zumutbaren Massnahmen zur frühzeitigen Schadenfeststellung nicht ergriffen hat;
+- d. der Schaden nicht rechtzeitig nach dessen Feststellung gemeldet wurde (Art. 12);
+- e. die Schadenmeldung offensichtlich oder verdeckt falsche oder irreführende Angaben enthält.
+
+<sup>4</sup> Für während der Sömmerung (Juni–September) eingetretene Schäden an Schafen und Ziegen gilt in den Fällen von Absatz 2 eine Bagatellschadengrenze, bei deren Nichterreichen keine Entschädigung ausgerichtet wird. Die Bagatellschadengrenze entspricht der durchschnittlichen Sterblichkeit der Tiere während der Sömmerungsperiode (in Prozent) und beträgt:
+
+- a. für Schafe: — 3 Prozent;
+- b. für Ziegen: — 1.5 Prozent.
+
+#### Art. 11c
+
+**Nutztierentschädigungskommission**
+
+<sup>1</sup> Zur Beurteilung der Entschädigungsvoraussetzungen von Artikel 11b Absatz 2 wählt der Regierungsrat eine Kommission (Nutztierentschädigungskommission).
+
+<sup>2</sup> Die Nutztierentschädigungskommission besteht aus fünf Mitgliedern:
+
+- a. dem Leiter der Abteilung Landwirtschaft, der von Amtes wegen den Vorsitz innehat;
+- b. einem Vertreter des Herdenschutzes aus der Abteilung Landwirtschaft;
+- c. einem Vertreter des kantonstierärztlichen Dienstes;
+- d. zwei Vertretern der kantonalen Jagdbehörde.
+
+<sup>3</sup> Die Abteilung Landwirtschaft:
+
+- a. führt das Sekretariat;
+- b. bereitet die Geschäfte der Nutztierentschädigungskommission vor;
+- c. vollzieht die Beschlüsse der Nutztierentschädigungskommission.
+
+<sup>4</sup> Entscheide der Nutztierentschädigungskommission sind vom Vorsitzenden und vom Sekretariat der Kommission gemeinsam zu unterzeichnen.
+
+#### Art. 11d
+
+**Schadenschätzung und Entschädigungshöhe**
+
+<sup>1</sup> Die Schadenschätzung erfolgt durch die kantonale Jagdbehörde:
+
+- a. bei Schafen und Ziegen: — auf Basis der Einschätztabellen des jeweiligen nationalen Zuchtverbandes;
+- b. bei den übrigen Nutztieren: — im Einzelfall, nötigenfalls unter Beizug Sachverständiger.
+
+<sup>2</sup> In den Fällen von Artikel 11b Absatz 2 beträgt die Entschädigungshöhe 80 Prozent.
+
+#### Art. 11e
+
+**Vergütung von Schäden im Wald und an Bauten und Anlagen**
+
+<sup>1</sup> Es werden keine Schäden im Wald durch geschützte Arten nach Artikel 10 JSV entschädigt.
+
+<sup>2</sup> Schäden an Bauten und Anlagen durch Biber werden im Rahmen der Bundesgesetzgebung entschädigt.
 
 ## 3. Gemeinsame Bestimmungen
 
@@ -215,6 +292,8 @@ verordnet:
 **Rechtsschutz**
 
 <sup>1</sup> Der Rechtsschutz gegen Verfügungen und Schätzungsentscheide gestützt auf diese Verordnung richtet sich nach Artikel 10a des kantonalen Jagdgesetzes.
+
+<sup>2</sup> Die Entscheide der Nutztierentschädigungskommission unterliegen der Beschwerde an das Departement Volkswirtschaft und Inneres und anschliessend der Verwaltungsgerichtsbeschwerde an das Verwaltungsgericht.
 
 #### Art. 19
 
