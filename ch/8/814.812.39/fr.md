@@ -4,11 +4,11 @@ title: Ordonnance du DETEC du 24 novembre 2022 relative au permis pour l’emplo
 short: OPer-H
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/867"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2022-11-24
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/867/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-867-20260101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/867/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/867/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-867-20270101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/867/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/867/20260101/fr"
 
 (OPer-H)
 
-du 24 novembre 2022 (État le 1<sup>er</sup> janvier 2026)
+du 24 novembre 2022 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -85,9 +85,9 @@ Une personne est instruite au sens de l’al. 3 si elle a reçu au moins les inf
 
 #### Art. 4
 
-[^4-1]
+**Formations continues**
 
-[^4-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027 (voir art. 12 let. b).
+Le contenu et l’organisation des formations continues en vertu de l’art. 10 ORRChim ainsi que les droits et devoirs des titulaires de permis et des organes chargés des formations continues sont réglementés à l’annexe 3.
 
 ## Section 3 Tâches des services compétents
 
@@ -160,9 +160,30 @@ Les tâches et compétences des organes chargés des examens sont les suivantes:
 
 #### Art. 8
 
-[^8-1]
+**Organes chargés des formations continues**
 
-[^8-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027 (voir art. 12 let. b).
+<sup>1</sup>
+
+Une organisation est reconnue comme organe chargé des formations continues si elle remplit les conditions suivantes:
+
+- a. elle ne poursuit aucun intérêt particulier lié à la vente ou à la promotion des produits phytosanitaires;
+- b. elle est une personne morale ayant son siège en Suisse;
+- c. elle propose des formations continues présentielles et ouvertes aux mêmes conditions à toutes les personnes intéressées;
+- d. elle propose des formations continues en vertu de l’annexe 3;
+- e. elle a accès à une infrastructure et à un équipement d’enseignement adéquats et fait appel à des intervenants qui possèdent les qualifications didactiques et spécifiques appropriées.
+
+<sup>2</sup> Les organes qui disposent d’un système d’assurance qualité dans le domaine de la formation et les organes cantonaux ou fédéraux proposant des formations continues doivent fournir à l’OFEV les informations mentionnées à l’art. 4, al. 1, de l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires. Ils sont exemptés d’apporter les preuves des conditions requises à l’al. 1.
+
+<sup>3</sup>
+
+Les tâches et compétences des organes chargés des formations continues sont les suivantes:
+
+- a. garantir une organisation et un enseignement irréprochables;
+- b. informer immédiatement l’OFEV si l’une des conditions mentionnées à l’al. 1 n’est plus remplie;
+- c. effectuer des formations continues à thèmes imposés;
+- d. tenir à jour le programme des formations continues et communiquer les offres de formation continue en vertu de l’annexe 3;
+- e. effectuer un contrôle des présences et indiquer dans le Registre Permis PPh les informations sur les formations continues suivies par chaque participant dans les 30 jours ouvrables suivant la formation;
+- f. conserver pendant cinq ans toutes les données conformément à l’art. 4, al. 2, de l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires.
 
 #### Art. 9
 
@@ -182,7 +203,7 @@ Les autorités suivantes sont notamment représentées par un délégué au sein
 
 <sup>3</sup> La commission des permis conseille l’OFEV sur les questions d’exécution de la présente ordonnance.
 
-## [Section 4](https://www.admin.ch/opc/fr/classified-compilation/20041559/index.html) [Émoluments](https://www.admin.ch/opc/fr/classified-compilation/20041559/index.html)
+## Section 4 Émoluments
 
 #### Art. 10
 
@@ -434,8 +455,60 @@ Les personnes qui ont réussi l’examen se voient délivrer un permis.
 
 <sup>2</sup> L’organe chargé des examens fixe la date de consultation; il tient compte des disponibilités de la personne concernée.
 
-Annexe 3[^t-1]
+Annexe 3
 
 (art. 4)
 
-[^t-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027.
+## Règlement des formations continues
+
+Le présent règlement définit l’organisation des formations continues pour le renouvellement du permis pour l’emploi de produits phytosanitaires dans l’horticulture, les droits et devoirs des titulaires desdits permis ainsi que ceux des organes chargés des formations continues. Les droits et devoirs des titulaires de permis et des organes chargés des formations continues n’entrent pas dans le champ d’application de la présente ordonnance sont réglés par l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires.
+
+### 1. Publication et inscription
+
+<sup>1</sup> Les organes chargés des formations continues publient sur leur site Internet leurs offres de formations continues pour le renouvellement du permis. L’offre doit mentionner explicitement:
+
+- a. le titre;
+- b. le type de formation continue à thèmes imposés et/ou à option avec la mention du nombre d’heures qui peuvent être comptabilisées pour le renouvellement du permis;
+- c. le permis visé par la formation continue;
+- d. le ou les objectifs de l’annexe 1 visés par la formation;
+- e. le calendrier complet (la date, l’heure de début et de fin) et le lieu de la formation continue;
+- f. la méthode et la langue d’enseignement;
+- g. le public cible;
+- h. la présentation des intervenants;
+- i. le prix.
+
+<sup>2</sup> Les inscriptions se font directement auprès de l’organe chargé des formations continues.
+
+### 2. Déroulement
+
+Les formations continues sont organisées exclusivement par les organes reconnus par l’OFEV.
+
+### 3. Contenu
+
+<sup>1</sup> Le contenu des formations continues porte sur un ou plusieurs objectifs de l’annexe 1. Les objectifs des formations continues à thèmes imposés sont déterminés par l’OFEV pour cinq ans et ceux des formations continues à thèmes à option sont choisis par la commission des examens.
+
+<sup>2</sup> Le suivi des formations continues à thèmes imposés et à option requises conditionne le renouvellement du permis.
+
+### 4. Forme
+
+<sup>1</sup> Les formations continues sont enseignées selon la méthode de participation active. Les formations continues à thèmes imposés sont limitées à 30 participants par enseignant. Les formations à thèmes à option peuvent réunir plus de 30 participants par enseignant.
+
+<sup>2</sup> D’autres formes de formation continue, à condition qu’elles soient reconnues par l’OFEV, ne sont pas exclues.
+
+### 5. Durée
+
+<sup>1</sup> Les formations continues durent six heures pour le renouvellement du permis, dont deux heures de formations continues à thèmes imposés et quatre heures de formations continues à thèmes à option.
+
+<sup>2</sup> Les formations continues peuvent être réparties sur plusieurs journées. Chaque formation dure au minimum une heure. Les repas ne sont pas comptabilisés dans le nombre d’heures requises pour le renouvellement du permis.
+
+<sup>3</sup> Une formation continue pour le renouvellement du permis peut être organisée avec d’autres formations continues non spécifiques au renouvellement du permis dans une même journée.
+
+### 6. Émoluments
+
+L’organe chargé des formations continues peut prélever des émoluments pour la formation continue qui couvrent tout au plus le temps consacré à la conception, à l’organisation, à la préparation et à l’exécution des formations continues. Les émoluments sont à la charge des titulaires de permis.
+
+### 7. Prolongation du permis
+
+<sup>1</sup> Le permis est renouvelé tous les cinq ans à compter de sa délivrance ou de son renouvellement.
+
+<sup>2</sup> Les heures de formation continue suivies sont prises en compte dès que l’organe chargé des formations continues a confirmé la participation du titulaire du permis dans le Registre Permis PPh.

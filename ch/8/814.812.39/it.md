@@ -4,11 +4,11 @@ title: Ordinanza del DATEC del 24 novembre 2022 concernente l’autorizzazione s
 short: OAS-O
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/867"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2022-11-24
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/867/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-867-20260101-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/867/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/867/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2022-867-20270101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/867/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/867/20260101/it"
 
 (OAS-O)
 
-del 24 novembre 2022 (Stato 1° gennaio 2026)
+del 24 novembre 2022 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -85,9 +85,9 @@ Una persona è considerata istruita ai sensi del capoverso 3 se ha ottenuto alme
 
 #### Art. 4
 
-[^4-1]
+**Formazione continua**
 
-[^4-1]: Entra in vigore il 1° gen. 2027 (vedi art. 12 lett. b).
+Il contenuto e l’organizzazione della formazione continua secondo l’articolo 10 ORRPChim, i diritti e i doveri dei titolari delle autorizzazioni speciali e degli organi incaricati della formazione continua sono disciplinati nell’allegato 3.
 
 ## Sezione 3: Compiti dei servizi competenti
 
@@ -160,9 +160,30 @@ Gli organi incaricati degli esami hanno i compiti e le competenze seguenti:
 
 #### Art. 8
 
-[^8-1]
+**Organi incaricati della formazione continua**
 
-[^8-1]: Entra in vigore il 1° gen. 2027 (vedi art. 12 lett. b).
+<sup>1</sup>
+
+Un’organizzazione è riconosciuta come organo incaricato della formazione continua se soddisfa le condizioni seguenti:
+
+- a. non persegue alcun interesse particolare legato alla vendita o alla promozione dei prodotti fitosanitari;
+- b. è una persona giuridica con sede in Svizzera;
+- c. propone le formazioni continue in presenza e alle stesse condizioni a tutte le persone interessate;
+- d. propone le formazioni continue secondo l’allegato 3;
+- e. ha accesso a un’infrastruttura e a strumenti d’insegnamento adeguati e ricorre a insegnanti che possiedono le qualifiche didattiche e specifiche appropriate.
+
+<sup>2</sup> Gli organi che dispongono di un sistema di garanzia della qualità nell’ambito della formazione e gli organi cantonali o federali che offrono formazioni continue devono comunicare all’UFAM le informazioni di cui all’articolo 4 capoverso 1 dell’ordinanza del 16 novembre 2022 concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari. Sono esentati dal presentare le prove delle condizioni richieste di cui al capoverso 1.
+
+<sup>3</sup>
+
+Gli organi incaricati della formazione continua hanno i compiti e le competenze seguenti:
+
+- a. garantiscono un’organizzazione e un insegnamento impeccabili;
+- b. informano immediatamente l’UFAM se una delle condizioni indicate al capoverso 1 non è più soddisfatta;
+- c. propongono formazioni continue su argomenti obbligatori;
+- d. tengono aggiornato il programma di formazione continua e comunicano le relative offerte secondo l’allegato 3;
+- e. eseguono un controllo delle presenze e indicano nel Registro Autorizzazioni speciali PF le informazioni sulla formazione continua seguita da ciascun partecipante entro trenta giorni lavorativi successivi alla formazione.
+- f. conservano per cinque anni tutti i dati di cui all’articolo 4 capoverso 2 dell’ordinanza del 16 novembre 2022 concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari.
 
 #### Art. 9
 
@@ -337,7 +358,7 @@ Le competenze e conoscenze richieste sono definite dagli obiettivi seguenti:
 
 Allegato 2
 
-(art. 3 cpv. 2)
+(art. 2 cpv. 2)
 
 ## Regolamento concernente gli esami per l’ottenimento dell’autorizzazione speciale
 
@@ -434,8 +455,60 @@ Le persone che superano l’esame ricevono un’autorizzazione speciale.
 
 <sup>2</sup> L’organo incaricato degli esami stabilisce la data della consultazione; a tal fine tiene conto delle disponibilità della persona interessata.
 
-Allegato 3[^t-1]
+Allegato 3
 
 (art. 4)
 
-[^t-1]: Entra in vigore il 1° gen. 2027.
+## Regolamento per la formazione continua
+
+Il presente regolamento definisce l’organizzazione della formazione continua per il rinnovo dell’autorizzazione speciale per l’impiego di prodotti fitosanitari nell’orticoltura, i diritti e i doveri dei titolari delle suddette autorizzazioni speciali nonché degli organi incaricati della formazione continua. I diritti e i doveri dei titolari di autorizzazioni speciali e degli organi incaricati della formazione continua che non rientrano nel campo d’applicazione della presente ordinanza sono disciplinati nell’ordinanza del 16 novembre 2022 concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari.
+
+### 1 Pubblicazione e iscrizione
+
+<sup>1</sup> Gli organi incaricati della formazione continua pubblicano sul loro sito Internet le proprie offerte di formazione continua per il rinnovo dell’autorizzazione speciale. L’offerta deve indicare esplicitamente:
+
+- a. il titolo;
+- b. il tipo di formazione continua su argomenti obbligatori e/o facoltativi con l’indicazione del numero di ore computabili per il rinnovo dell’autorizzazione speciale;
+- c. l’autorizzazione speciale oggetto della formazione continua;
+- d. l’obiettivo o gli obiettivi elencati nell’allegato 1 oggetto della formazione;
+- e. il calendario completo (data, ora di inizio e fine) e il luogo della formazione continua;
+- f. il metodo e la lingua d’insegnamento;
+- g. il pubblico destinatario;
+- h. la presentazione dei partecipanti;
+- i. il prezzo.
+
+<sup>2</sup> Le iscrizioni si effettuano direttamente presso l’organo incaricato della formazione continua.
+
+### 2 Svolgimento
+
+La formazione continua è organizzata esclusivamente dagli organi riconosciuti dall’UFAM.
+
+### 3 Contenuto
+
+<sup>1</sup> Il contenuto della formazione continua verte su uno o più obiettivi dell’allegato 1. Gli obiettivi della formazione continua su argomenti obbligatori sono determinati dall’UFAM per cinque anni, mentre quelli della formazione continua su argomenti facoltativi sono scelti dalla commissione d’esame.
+
+<sup>2</sup> Il rinnovo dell’autorizzazione speciale è subordinato alla partecipazione alla formazione continua richiesta su argomenti obbligatori e facoltativi.
+
+### 4 Forma
+
+<sup>1</sup> La formazione continua è impartita secondo il metodo della partecipazione attiva. La formazione continua su argomenti obbligatori è limitata a trenta partecipanti per insegnante. La formazione continua su argomenti facoltativi può superare i 30 partecipanti per insegnante.
+
+<sup>2</sup> Non si escludono altre forme di formazione continua, purché siano riconosciute dall’UFAM.
+
+### 5 Durata
+
+<sup>1</sup> La formazione continua per il rinnovo dell’autorizzazione speciale dura sei ore, di cui due ore di formazione continua su argomenti obbligatori e quattro ore di formazione continua su argomenti facoltativi.
+
+<sup>2</sup> La formazione continua può essere ripartita su più giornate. Ogni formazione dura almeno un’ora. I pasti non sono computati nel numero di ore richieste per il rinnovo dell’autorizzazione speciale.
+
+<sup>3</sup> È possibile organizzare una formazione continua per il rinnovo dell’autorizzazione speciale con altre formazioni continue non specifiche per il rinnovo dell’autorizzazione speciale in una stessa giornata.
+
+### 6 Emolumenti
+
+L’organo incaricato della formazione continua può prelevare un emolumento per la formazione continua volto a coprire al massimo il tempo dedicato alla pianificazione, all’organizzazione, alla preparazione nonché allo svolgimento della formazione continua. Gli emolumenti sono a carico dei titolari dell’autorizzazione speciale.
+
+### 7 Proroga dell’autorizzazione speciale
+
+<sup>1</sup> L’autorizzazione speciale è rinnovata ogni cinque anni a decorrere dal rilascio dell’autorizzazione speciale o dal suo rinnovo.
+
+<sup>2</sup> Le ore di formazione continua seguite sono computate non appena l’organo incaricato della formazione continua conferma la partecipazione del titolare dell’autorizzazione speciale nel Registro Autorizzazioni speciali PF.
