@@ -4,13 +4,12 @@ number: VIII B/21/1
 title: Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
 short: "Einführungsgesetz zum Gewässerschutzgesetz, EG GSchG"
 language: de
-version: 2018-07-01
-valid_until: 2026-12-31
-version_adopted: 2018-05-06
+version: 2027-01-01
+version_adopted: 2026-05-03
 adopted: 1995-05-07
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-B.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2035/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2671/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2035/pdf_file"
 
 (Einführungsgesetz zum Gewässerschutzgesetz, EG GSchG)
 
-Vom 07.05.1995 (Stand 01.07.2018)
+Vom 07.05.1995 (Stand 01.01.2027)
 
 Die Landsgemeinde,
 
@@ -299,14 +298,18 @@ beschliesst:
 
 <sup>2</sup> Er wird mit einer Entnahme aus den Steuerreserven von 4 Millionen Franken dotiert.
 
-<sup>3</sup> Der Landrat dotiert den Fonds jährlich mit einem Beitrag.
+<sup>3</sup> Der Fonds wird jährlich dotiert mit:
+
+- a. den Abgaben der Betreiber von Bauten und Anlagen gemäss Artikel 21a des Kantonalen Fischereigesetzes[^18b-2]; und
+- b. einem vom Landrat festgelegten Beitrag.
 
 <sup>4</sup> Sämtliche in diesem Zusammenhang stehenden Einnahmen und Ausgaben werden über die Erfolgsrechnung abgewickelt. Der Gewässerrenaturierungsfonds gleicht den Nettoaufwand aus.
 
-<sup>5</sup> Das Kapital des Fonds wird gemäss den Vorgaben der Verordnung zum Finanzhaushaltgesetz[^18b-2] verzinst.
+<sup>5</sup> Das Kapital des Fonds wird gemäss den Vorgaben der Verordnung zum Finanzhaushaltgesetz[^18b-3] verzinst.
 
 [^18b-1]: GS [VI A/1](https://gesetze.gl.ch/data/VI-A.1/de)
-[^18b-2]: GS [VI A/1/2/1](https://gesetze.gl.ch/data/VI-A.1.2.1/de)
+[^18b-2]: GS [VI E/31/1](https://gesetze.gl.ch/data/VI-E.31.1/de)
+[^18b-3]: GS [VI A/1/2/1](https://gesetze.gl.ch/data/VI-A.1.2.1/de)
 
 #### Art. 18c
 
