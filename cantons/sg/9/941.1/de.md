@@ -4,13 +4,12 @@ number: "941.1"
 title: Gerichtsgesetz
 short: GerG
 language: de
-version: 2018-07-01
-corrected: 2018-05-08
-version_adopted: 2018-01-30
+version: 2027-06-01
+version_adopted: 2026-04-28
 adopted: 1987-04-02
 in_force: 1987-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/941.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2391/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3908/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2391/pdf_file"
 
 (GerG)
 
-vom 02.04.1987 (Stand 01.07.2018)
+vom 02.04.1987 (Stand 01.06.2027)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -179,9 +178,9 @@ als Gesetz:[^ingress-5]
 
 **Kantonsgericht a) Zusammensetzung**
 
-<sup>1</sup> Dem Kantonsgericht gehören als Mitglieder hauptamtliche Richterinnen oder Richter in der erforderlichen Zahl an.
+<sup>1</sup> Dem Kantonsgericht gehören als Mitglieder hauptamtliche und nebenamtliche Richterinnen oder Richter in der erforderlichen Zahl an.
 
-<sup>2</sup> Die hauptamtlichen Mitglieder des Kreisgerichtes sind Ersatzrichterinnen oder Ersatzrichter. Weitere Ersatzrichterinnen oder Ersatzrichter werden nach Bedarf bestellt.
+<sup>2</sup> Die hauptamtlichen Mitglieder des Kreisgerichtes sind Ersatzrichterinnen oder Ersatzrichter.
 
 #### Art. 12
 
@@ -193,7 +192,13 @@ als Gesetz:[^ingress-5]
 
 **Handelsgericht**
 
-<sup>1</sup> Dem Handelsgericht gehören zwei Mitglieder des Kantonsgerichtes als Präsidentin bzw. Präsident und als Vizepräsidentin bzw. Vizepräsident sowie Handelsrichterinnen oder Handelsrichter in der erforderlichen Zahl an.
+<sup>1</sup> Dem Handelsgericht gehören an:
+
+- a) ein hauptamtliches Mitglied des Kantonsgerichtes als Präsidentin bzw. Präsident;
+- b) drei hauptamtliche Mitglieder des Kantonsgerichtes als Vizepräsidentinnen bzw. Vizepräsidenten;
+- c) Handelsrichterinnen oder Handelsrichter in der erforderlichen Zahl.
+
+<sup>1<sup>bis</sup></sup> Die weiteren Mitglieder des Kantonsgerichtes sind Ersatzrichterinnen und Ersatzrichter.
 
 <sup>2</sup> Das Handelsgericht spricht Recht in der Besetzung von zwei Kantonsrichterinnen oder Kantonsrichtern und drei Handelsrichterinnen oder Handelsrichtern. Vorbehalten bleibt die Zuständigkeit der Präsidentin oder des Präsidenten als Einzelrichterin bzw. Einzelrichter.
 
@@ -296,7 +301,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Der Kantonsrat wählt:
 
-- a) die Mitglieder, die Ersatzrichterinnen oder Ersatzrichter und aus den Mitgliedern Präsidentin oder Präsident des Kantonsgerichtes;
+- a) die hauptamtlichen und nebenamtlichen Mitglieder und aus den hauptamtlichen Mitgliedern Präsidentin oder Präsident des Kantonsgerichtes;
 - b) die Handelsrichterinnen oder Handelsrichter;
 - c) …
 - d) die Präsidentin oder den Präsidenten und die weiteren Mitglieder der Anklagekammer;
@@ -306,9 +311,9 @@ als Gesetz:[^ingress-5]
 
 #### Art. 24bis
 
-**5. Versicherungsgericht**
+**5. Präsidentin oder Präsident des Schiedsgerichtes**
 
-<sup>1</sup> Die Präsidentin oder der Präsident des Versicherungsgerichtes wählt die Fachrichterinnen oder Fachrichter nach Art. 17 Abs. 1 Satz 2 dieses Erlasses auf Vorschlag der am Verfahren beteiligten Parteien.
+<sup>1</sup> Die Präsidentin oder der Präsident des Schiedsgerichtes wählt die Fachrichterinnen oder Fachrichter nach Art. 17 Abs. 1 Satz 2 dieses Erlasses auf Vorschlag der am Verfahren beteiligten Parteien.
 
 #### Art. 25
 
@@ -316,9 +321,11 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Wahlfähig als Richterin oder Richter, Ersatzrichterin oder Ersatzrichter ist jede stimmfähige Person.
 
-<sup>2</sup> Richterinnen oder Richter und Ersatzrichterinnen oder Ersatzrichter können ihr Amt ausüben, wenn sie im örtlichen Zuständigkeitsbereich wohnen. Das zuständige Departement kann für beschränkte Zeit Ausnahmen bewilligen, wenn wichtige Gründe vorliegen und die Erfüllung der Amtspflichten gewährleistet ist.
+<sup>2</sup> Richterinnen oder Richter und Ersatzrichterinnen oder Ersatzrichter können ihr Amt ausüben, wenn sie im Kanton wohnen. Das zuständige Departement kann für beschränkte Zeit Ausnahmen bewilligen, wenn wichtige Gründe vorliegen und die Erfüllung der Amtspflichten gewährleistet ist.
 
-<sup>3</sup> Fachrichterinnen und Fachrichter der Verwaltungsrekurskommission und des Versicherungsgerichtes müssen nicht im örtlichen Zuständigkeitsbereich wohnen.
+<sup>2<sup>bis</sup></sup> Nebenamtliche Kreisrichterinnen und Kreisrichter können ihr Amt ausüben, wenn sie im örtlichen Zuständigkeitsbereich wohnen.
+
+<sup>3</sup> Fachrichterinnen und Fachrichter der Verwaltungsrekurskommission und des Versicherungsgerichtes müssen nicht im Kanton wohnen.
 
 #### Art. 26
 
@@ -328,6 +335,8 @@ als Gesetz:[^ingress-5]
 
 - a) ein juristisches Studium mit dem Lizentiat oder dem Master einer schweizerischen Hochschule abgeschlossen hat oder im Besitz eines schweizerischen Anwaltspatents ist. Die Voraussetzung erfüllt auch, wer über einen anderen Hochschulabschluss oder Fähigkeitsausweis verfügt, den die Präsidentin oder der Präsident des Kantonsgerichtes als gleichwertig anerkannt hat;
 - b) über wenigstens drei Jahre Berufserfahrung in der Rechtspflege oder Advokatur verfügt.
+
+<sup>1<sup>bis</sup></sup> Bei Gesamterneuerungswahlen oder zeitgleich stattfindenden Ersatzwahlen kann sich eine Person nicht in mehreren Gerichtskreisen als hauptamtliches oder teilamtliches Mitglied des Kreisgerichtes zur Wahl stellen.
 
 <sup>2</sup> Der Entscheid der Präsidentin oder des Präsidenten des Kantonsgerichtes nach Abs. 1 Bst. a dieser Bestimmung kann innert vierzehn Tagen beim Kantonsgericht angefochten werden. Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege über den Rekurs[^26-1] werden sachgemäss angewendet.
 
@@ -364,7 +373,10 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Die Präsidentin oder der Präsident der Regierung vereidigt die Kreisgerichtspräsidentinnen oder Kreisgerichtspräsidenten.
 
-<sup>3</sup> Die Präsidentin oder der Präsident des Verwaltungsgerichtes vereidigt die nebenamtlichen Richterinnen oder Richter und die Fachrichterinnen oder Fachrichter der Verwaltungsrekurskommission und des Versicherungsgerichtes.
+<sup>3</sup> Die Präsidentin oder der Präsident des Verwaltungsgerichtes vereidigt:
+
+- a) die nebenamtlichen Richterinnen oder Richter und die Fachrichterinnen oder Fachrichter der Verwaltungsrekurskommission;
+- b) …
 
 <sup>4</sup> Wer wiedergewählt wird oder ein anderes Amt übernimmt, muss Pflichteid oder Handgelübde nicht wiederholen.
 
