@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur le bureau de notification pour les dispositifs médicaux vitaux
 document: Projet mis en consultation-2
 language: fr

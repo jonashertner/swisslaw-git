@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Meldestelle für lebenswichtige Medizinprodukte
 document: Vernehmlassungsvorlage-2
 language: de

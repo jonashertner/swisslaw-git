@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sul centro di notifica per i dispositivi medici d’importanza vitale
 document: Progetto posto in consultazione-2
 language: it
