@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Politische Rechte für Menschen mit Behinderungen: Änderung der Bundesverfassung und Bundesgesetz über die politischen Rechte von Menschen mit Behinderungen"
 document: Vernehmlassungsvorlage BPR
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Droits politiques pour les personnes en situation de handicap: modification de la Constitution et loi fédérale sur les droits politiques des personnes en situation de handicap"
 document: Projet mis en consultation LDP
 language: fr

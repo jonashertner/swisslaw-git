@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Diritti politici per persone con disabilità: modifica della Costituzione federale e legge federale sui diritti politici delle persone con disabilità"
 document: Progetto posto in consultazione LDP
 language: it
