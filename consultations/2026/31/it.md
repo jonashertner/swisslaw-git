@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione del Terzo Protocollo addizionale alla Convenzione europea di assistenza giudiziaria in materia penale
 document: Progetto posto in consultazione
 language: it

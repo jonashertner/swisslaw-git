@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung des Dritten Zusatzprotokolls zum Europäischen Übereinkommen über die Rechtshilfe in Strafsachen
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation du Troisième Protocole additionnel à la Convention européenne d’entraide judiciaire en matière pénale
 document: Projet mis en consultation
 language: fr
