@@ -1,38 +1,40 @@
 ---
 canton: BS
 number: "153.115"
-title: Weisung betreffend Ausrichtung von Sitzungsgeldern
+title: Verordnung betreffend die Entschädigung von Kommissionmitgliedern
+short: VEKo
 language: de
-version: 2004-07-11
-valid_until: 2026-12-31
-version_adopted: 2004-07-06
+version: 2027-01-01
+version_adopted: 2026-05-05
 adopted: 2002-02-05
 in_force: 2002-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/153.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3179/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6881/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Weisung betreffend Ausrichtung von Sitzungsgeldern
+# Verordnung betreffend die Entschädigung von Kommissionmitgliedern
 
-Sitzungsgelder: Weisung | Regierung und Verwaltung
+Regierung und Verwaltung
 
-Vom 5. Februar 2002 (Stand 11. Juli 2004)
+(VEKo)
+
+Vom 5. Mai 2026 (Stand 1. Januar 2027)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-in Würdigung und Anerkennung der von den Mitgliedern der regierungsrätlichen Kommissionen geleisteten Beiträge zur Entwicklung von Staat und Gesellschaft, im Bewusstsein, dass die Mitarbeit in Kommissionen auf dem Prinzip der Ehrenamtlichkeit beruht, im Bestreben, allfällige in der Kommissionsarbeit begründete finanzielle Opfer der Kommissionsmitglieder zu minimieren,
+gestützt auf § 34 Abs. 3 des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz, OG) vom 22. April 1976 [^ingress-1], unter Verweis auf seine Erläuterungen Nr. [P250468](https://www.bs.ch/regierungsratsbeschluesse/P250468?backUrl=/apps/regierungsratsbeschluesse?action=search%26previousAction1=%26previousAction2=%26previousAction3=%26previousAction4=%26geschaeftId=ea2a283688304eb4b8a8d05bdf13a511%26sitzungId=9a127869d7c74dcaab10fcff2e3ce1de%26text=P250468),
 
-erlässt folgende Weisung:
+beschliesst:
+
+[^ingress-1]: SG [153.100](https://www.gesetzessammlung.bs.ch/data/153.100/de)
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Weisung regelt die Entschädigung von Kommissionsmitgliedern, die vom Regierungsrat auf dessen Amtsdauer ernannt werden.
-
-<sup>2</sup> Zudem gelten die Bestimmungen dieser Weisung auch für Departementskommissionen, wenn der Regierungsrat dies ausdrücklich beschliesst.
+<sup>1</sup> Diese Verordnung gilt für die Kommissionsmitglieder, die vom Regierungsrat gewählt werden sowie für die Mitglieder von Departementskommissionen, wenn der Regierungsrat dies ausdrücklich beschliesst.
 
 #### § 2
 
@@ -42,142 +44,98 @@ erlässt folgende Weisung:
 
 #### § 3
 
-**Anspruch auf Sitzungsgelder**
+**Anspruch auf Entschädigung**
 
-<sup>1</sup> An Kommissionen, die mehr als vier Sitzungen pro Jahr abhalten, können in Abweichung vom Grundsatz Sitzungsgelder ausgerichtet werden, wenn der Umfang der Kommissionstätigkeit so erheblich ist, dass den Mitwirkenden eine ehrenamtliche Tätigkeit nicht zugemutet werden kann, oder wenn von den Mitwirkenden ein hohes Expertenwissen verlangt wird.
+<sup>1</sup> In Abweichung vom Grundsatz gemäss § 2 wird den Kommissionsmitgliedern eine Entschädigung ausgerichtet, wenn sie an mehr als drei Sitzungen pro Jahr teilnehmen.
+
+<sup>2</sup> Als Sitzung gilt auch ein Zirkularbeschluss gemäss § 10.
 
 #### § 4
 
-**Ausschluss der Anspruchsberechtigung**
+**Ausschluss des Entschädigungsanspruchs**
 
-<sup>1</sup> Keinen Anspruch auf Sitzungsgelder haben Kommissionspräsidentinnen und Kommissionspräsidenten, Kommissionsmitglieder wie auch Kommissionssekretärinnen und Kommissionssekretäre, die in einem Arbeitsverhältnis zum Kanton Basel-Stadt stehen, wenn die Kommissionstätigkeit zur Funktionsausübung gehört und daher ordentliche Arbeitszeit ist.
+<sup>1</sup> Keinen Anspruch auf eine Entschädigung haben Kommissionsmitglieder, die Mitarbeitende des Kantons sind, soweit deren Kommissionstätigkeit in direktem Zusammenhang mit ihrem Aufgabengebiet steht und diese daher ordentliche Arbeitszeit darstellt oder ein Anspruch auf bezahlten Urlaub gemäss § 16 Abs. 1 lit. c der Verordnung betreffend Ferien und Urlaub der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt (Ferien- und Urlaubsverordnung, FUV) vom 6. Juli 2004 [^4-1] besteht.
+
+[^4-1]: SG [162.410](https://www.gesetzessammlung.bs.ch/data/162.410/de)
 
 #### § 5
 
-**Grundansätze für Sitzungsgelder**
+**Grundansatz**
 
-<sup>1</sup> Pro Sitzung werden folgende Sitzungsgelder ausgerichtet:[^5-1]
+<sup>1</sup> Pro Sitzung von zwei bis vier Stunden Dauer wird folgende Entschädigung ausgerichtet:
 
-- a) Grundansatz — CHF 100
-- b) Zuschlag für Selbständigerwerbende mit Verdienstausfall — CHF 150
-- c) Aktenstudium — CHF 40
-- d) Protokoll — CHF 25
-- e) Entscheidmotivierung pro Fall — CHF 30
-
-<sup>2</sup> Die Ansätze gelten für halbtägige Sitzungen von mindestens zwei Stunden und höchstens vier Stunden. Bei kürzeren Sitzungen wird das Sitzungsgeld um einen Drittel gekürzt, bei längeren Sitzungen um die Hälfte erhöht.
-
-<sup>3</sup> Für Aktenstudium wird nur dann Sitzungsgeld ausgerichtet, wenn das Aktenstudium regelmässig mindestens zwei Stunden in Anspruch nimmt.
-
-<sup>4</sup> Werden die Geschäfte auf dem Zirkulationsweg erledigt, so kann für den mutmasslichen Zeitaufwand von rund vier Stunden das Sitzungsgeld für eine halbtägige Sitzung ausgerichtet werden.
-
-[^5-1]: Softwarebedingte redaktionelle Einfügung von Gliederungsziffern und -buchstaben.
+- a) Unselbständigerwerbende oder Nichterwerbstätige
+  - 1\. Präsidium oder Vorsitz — Fr. 200
+  - 2\. Mitglieder — Fr. 150
+  - 3\. Protokollführende Mitglieder — Fr. 175
+- b) Selbständigerwerbende
+  - 1\. Präsidium oder Vorsitz — Fr. 250
+  - 2\. Mitglieder — Fr. 200
+  - 3\. Protokollführende Mitglieder — Fr. 225
 
 #### § 6
 
-**Zuschläge für erhöhten Aufwand**
+**Grundansatz für Kommissionen mit weittragenden Entscheidungen**
 
-<sup>1</sup> Die Departementsvorsteherinnen und Departementsvorsteher können für Kommissionen, deren Mitglieder einen erhöhten Aufwand erbringen müssen, höhere Sitzungsgelder bewilligen:
+<sup>1</sup> Der Regierungsrat kann für Kommissionen, deren Mitglieder die für das Staatswesen weittragende Entscheidungen vorbereiten oder treffen, höhere Entschädigungen bewilligen (Anhang).
 
-- a) Grundansatz — CHF 100
-- b) Zuschlag für Selbständigerwerbende mit Verdienstausfall — CHF 200
-- c) Jahresentschädigung pauschal — CHF 500
+<sup>2</sup> Für das Staatswesen weittragende Entscheidungen liegen insbesondere vor, wenn diese tiefgreifende Auswirkungen auf den Kanton Basel-Stadt als Ganzes haben, in der Sache ein grosser Ermessensspielraum besteht oder die Folgen des Entscheids nicht oder nur schwer abänderbar sind.
 
-<sup>2</sup> Die Jahresentschädigung wird nur an Kommissionsmitglieder ausgerichtet, die an mindestens 50% der Sitzungen pro Jahr teilgenommen haben.
+<sup>3</sup> Pro Sitzung von zwei bis vier Stunden Dauer wird folgende Entschädigung ausgerichtet:
+
+- a) Unselbständigerwerbende oder Nichterwerbstätige
+  - 1\. Präsidium oder Vorsitz — Fr. 300
+  - 2\. Mitglieder — Fr. 250
+  - 3\. Protokollführende Mitglieder — Fr. 275
+- b) Selbständigerwerbende
+  - 1\. Präsidium oder Vorsitz — Fr. 450
+  - 2\. Mitglieder — Fr. 400
+  - 3\. Protokollführende Mitglieder — Fr. 425
 
 #### § 7
 
-**Zuschläge für weittragende Entscheidungen**
+**Kürzung bzw. Erhöhung der Entschädigung**
 
-<sup>1</sup> Die Departementsvorsteherinnen und Departementsvorsteher können für Kommissionen, deren Mitglieder für das Staatswesen weittragende Entscheidungen vorbereiten oder treffen müssen, höhere Sitzungsgelder bewilligen:
-
-- a) Grundansatz — CHF 100
-- b) Zuschlag für Selbständigerwerbende mit Verdienstausfall — CHF 250
-- c) Jahresentschädigung pauschal — CHF 1'000
-
-<sup>2</sup> Die Jahresentschädigung wird nur an Kommissionsmitglieder ausgerichtet, die an mindestens 50% der Sitzungen pro Jahr teilgenommen haben.
+<sup>1</sup> Entschädigungen gemäss §§ 5 und 6 werden bei Sitzungen unter zwei Stunden um einen Drittel gekürzt, bei Sitzungen über vier Stunden um ein Drittel erhöht und bei Sitzungen über sechs Stunden verdoppelt.
 
 #### § 8
 
-**Zusatzaufwand für Präsidium oder Vorsitz**
+**Zusätzliche Entschädigung für Betreuungsaufgaben**
 
-<sup>1</sup> Obliegen einer Vorsitzenden bzw. einem Vorsitzenden einer Kommission oder einer Kammer über das Aktenstudium hinausgehende zusätzliche Vorbereitungsaufgaben, namentlich prozessleitende Funktionen, die mindestens eine Stunde pro Sitzung in Anspruch nehmen, wird eine zusätzliche Entschädigung von CHF 50 pro halbtägige Sitzung ausgerichtet.
+<sup>1</sup> Kommissionsmitgliedern werden für die Betreuung von Kindern oder pflegebedürftigen nahen Familienangehörigen zusätzliche Entschädigungen bis maximal Fr. 80 pro Sitzung ausgerichtet, falls aufgrund ihrer Kommissionstätigkeit nachweisbare zusätzliche finanzielle Aufwendungen resultieren.
+
+<sup>2</sup> Als nahe Angehörige gelten Verwandte in auf- und absteigender Linie sowie Ehegatten, eingetragene Partnerinnen und Partner und Personen, mit welcher eine faktische Lebensgemeinschaft geführt wird.
 
 #### § 9
 
-**Zuschlag für Betreuungsaufgaben**
+**Zusätzliche Entschädigung für ausserordentlichen Aufwand**
 
-<sup>1</sup> Nichterwerbstätigen oder teilzeiterwerbstätigen Kommissionsmitgliedern werden zusätzlich zum Grundansatz die aufgrund ihrer Kommissionstätigkeit nachweisbaren finanziellen Aufwendungen für die Betreuung von Kindern oder pflegebedürftigen nahen Familienangehörigen bis maximal zu einem Betrag von CHF 80 pro halbtägige Sitzung vergütet.
+<sup>1</sup> Für einen ausserordentlichen Aufwand ausserhalb der Sitzungen kann eine zusätzliche Entschädigung ausgerichtet werden mit einem Stundenansatz von Fr. 75 zuzüglich allfälliger Auslagen.
+
+<sup>2</sup> Die Entschädigungen gemäss Abs. 1 sind betreffend die Kommissionsmitglieder durch die Präsidien und betreffend die Präsidien durch die Departementsvorstehenden zu bewilligen.
 
 #### § 10
 
-**Ausserordentliche Entschädigungen**
+**Zirkularbeschlüsse**
 
-<sup>1</sup> Für einen ausserordentlichen Aufwand ausserhalb der Sitzungen kann die Präsidentin bzw. der Präsident einer Kommission eine spezielle Entschädigung bewilligen. Für einen ausserordentlichen Aufwand der Präsidentin bzw. des Präsidenten einer Kommission entscheidet die Departementsvorsteherin bzw. der Departementsvorsteher. Der Stundenansatz beträgt CHF 75 zuzüglich allfällige Auslagen. Über den ausserordentlichen Aufwand ist Buch zu führen.
+<sup>1</sup> Die Entschädigung für die Mitwirkung an Zirkularbeschlüssen beträgt ein Drittel der Entschädigung pro Sitzung von zwei bis vier Stunden Dauer gemäss §§ 5 oder 6.
 
 #### § 11
 
-**Festsetzung und Auszahlung der Sitzungsgelder**
+**Berechnung der Entschädigungen**
 
-<sup>1</sup> Für die Festsetzung der zu ermittelnden Sitzungsgelder trägt die Kommissionspräsidentin bzw. der Kommissionspräsident die Verantwortung.
-
-<sup>2</sup> Für die Auszahlung der Sitzungsgelder sind die Sekretariate der Kommissionen zuständig.
+<sup>1</sup> Für die Berechnung der Entschädigungen tragen die Präsidien die Verantwortung.
 
 #### § 12
 
-**Ablieferungspflichtige Nebeneinkünfte**
-
-<sup>1</sup> Für Kommissionsmitglieder, die in einem Arbeitsverhältnis zum Kanton Basel-Stadt stehen, gelten die Sitzungsgelder als ablieferungspflichtige Nebeneinkünfte im Sinne von § 20 des Lohngesetzes.
-
-#### § 13
-
 **Sozialabgaben**
 
-<sup>1</sup> Auf den Sitzungsgeldern sind die üblichen Sozialabgaben zu erheben.
+<sup>1</sup> Auf den Entschädigungen werden die üblichen Sozialabgaben erhoben.
 
 <sup>2</sup> Die Beiträge werden paritätisch erhoben.
 
-#### § 14
+*Schlussbestimmung*
 
-<sup>1</sup> Auf den Sitzungsgeldern ist, sofern sie in Ausübung eines öffentlichen Amtes anfallen, keine Mehrwertsteuer geschuldet.
+Diese Verordnung ist zu publizieren; sie tritt am 1. Januar 2027 in Kraft. Auf den gleichen Zeitpunkt wird die Weisung betreffend Ausrichtung von Sitzungsgeldern vom 5. Februar 2002 aufgehoben.
 
-#### § 15
-
-**Übergangs- und Schlussbestimmungen**
-
-<sup>1</sup> Mit Wirksamkeit dieser Weisung werden sämtliche widersprechenden Verordnungen und Regierungsratsbeschlüsse aufgehoben, insbesondere
-
-– RRB vom 28. April 1964
-
-– RRB 2346 vom 4. Juli 1972
-
-– RRB 946 vom 25. März 1975
-
-– RRB 1059 vom 2. April 1975
-
-– RRB 2114 vom 8. Juli 1975
-
-– RRB 158 vom 16. Januar 1979
-
-– RRB 41/16 vom 21. Oktober 1986
-
-– RRB 46/8 vom 18. November 1986
-
-– RRB 30/53 vom 7. August 1990
-
-– RRB 06/16 vom 5. Februar 1991
-
-– RRB 49/18 vom 10. Dezember 1991
-
-– RRB 03/22 vom 21. Januar 1992
-
-– RRB 41/90 vom 2. September 1997
-
-– RRB 05/68 vom 2. Februar 1999
-
-– RRB vom 4. April 2000
-
-Diese Weisung ist zu publizieren; sie wird rückwirkend am 1. Januar 2002 wirksam.[^footer-1]
-
-KB 16.02.2002
-
-[^footer-1]: Publiziert am 16. 2. 2002.
+KB 27.05.2026
