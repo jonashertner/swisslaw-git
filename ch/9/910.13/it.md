@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i pagamenti diretti all'agrico
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20260101-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20270101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/it"
 
 (Ordinanza sui pagamenti diretti, OPD)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2026)
+del 23 ottobre 2013 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -122,7 +122,7 @@ Non ha diritto ai contributi una persona fisica o una società di persone che ha
 
 <sup>3</sup> Hanno diritto al contributo per la biodiversità e al contributo per la biodiversità regionale e la qualità del paesaggio anche le persone giuridiche con sede in Svizzera nonché i Cantoni e i Comuni, a condizione che siano gestori dell’azienda. Fanno eccezione le persone giuridiche che si può presumere siano state costituite allo scopo di eludere il limite di età o le esigenze relative alla formazione.[^3-2]
 
-[^3-1]: Introdotto la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^3-1]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^3-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 4
@@ -156,7 +156,7 @@ Il gestore deve aver seguito una delle seguenti formazioni:
 [^4-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^4-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^4-4]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^4-5]: Introdotto la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^4-5]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
 #### Art. 5
 
@@ -211,6 +211,92 @@ Persone fisiche e giuridiche nonché collettività di diritto pubblico e Comuni 
 
 <sup>3</sup> Le condizioni di cui agli articoli 3–9 non sono applicabili.
 
+### Sezione 1*a*: Copertura assicurativa in caso di malattia e infortunio
+
+[^tit1-chap2-sec1a-1]
+
+[^tit1-chap2-sec1a-1]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+
+#### Art. 10a
+
+**Requisito**
+
+<sup>1</sup>
+
+I coniugi o i partner registrati dei gestori devono disporre di una copertura assicurativa in caso di malattia e infortunio se:
+
+- a. al 1° gennaio dell’anno di contribuzione sono sposati o vivono in un’unione domestica registrata con i gestori;
+- b. al 1° gennaio dell’anno di contribuzione non hanno ancora compiuto 65 anni; e
+- c. nell’anno precedente quello di contribuzione non hanno conseguito un reddito proprio superiore al salario annuo minimo di cui all’articolo 7 della legge federale del 25 giugno 1982[^10a-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità.
+
+<sup>2</sup> Per collaborazione regolare e considerevole nell’azienda ai sensi dell’articolo 70*a* capoverso 1 lettera i LAgr s’intende una collaborazione che nella dichiarazione d’imposta è stata fatta valere con una deduzione per coniugi con doppio reddito ai sensi dell’articolo 33 capoverso 2 della legge federale del 14 dicembre 1990[^10a-2] sull’imposta federale diretta (LIFD).
+
+[^10a-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^10a-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+#### Art. 10b
+
+**Deroghe al requisito**
+
+<sup>1</sup>
+
+Non è necessaria una copertura assicurativa se:
+
+- a. nell’anno precedente quello di contribuzione i gestori dimostrano che i coniugi o i partner registrati hanno conseguito un reddito proprio superiore al salario annuo minimo di cui all’articolo 7 della legge federale del 25 giugno 1982[^10b-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità;
+- b. nella dichiarazione d’imposta i gestori non hanno fatto valere alcuna deduzione per coniugi con doppio reddito ai sensi dell’articolo 33 capoverso 2 LIFD[^10b-2];
+- c. negli ultimi due anni precedenti quello di contribuzione la coppia di gestori ha conseguito, in media, un reddito imponibile ai sensi della LIFD di 12 000 franchi al massimo;
+- d. l’azienda è gestita da una persona giuridica ai sensi dell’articolo 3 capoverso 3; o
+- e. l’azienda è un’azienda d’estivazione o un’azienda con pascoli comunitari.
+
+<sup>2</sup> Per la prova che non è stata fatta valere alcuna deduzione per coniugi con doppio reddito ai sensi dell’articolo 33 capoverso 2 LIFD è determinante l’ultimo anno fiscale oggetto di una tassazione cresciuta in giudicato prima dell’anno di contribuzione. Se questo risale a più di quattro anni prima, ci si basa sulla tassazione provvisoria.
+
+<sup>3</sup> Per la prova del reddito imponibile della coppia di gestori secondo il capoverso 1 lettera c sono determinanti i valori degli ultimi due anni fiscali che sono stati oggetto di una tassazione cresciuta in giudicato entro la fine dell’anno di contribuzione. Se questi risalgono a più di quattro anni prima, ci si basa sulla tassazione provvisoria.
+
+<sup>4</sup> Dopo il matrimonio o dopo la registrazione dell’unione domestica le ultime dichiarazioni d’imposta presentate da entrambe le persone sono considerate una prova ai sensi dei capoversi 2 e 3 finché non è disponibile una tassazione congiunta cresciuta in giudicato.
+
+[^10b-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^10b-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+#### Art. 10c
+
+**Portata della copertura assicurativa**
+
+La copertura assicurativa deve comprendere:
+
+- a.[^10c-1] un’assicurazione d’indennità giornaliera che copre il rischio di incapacità lavorativa per malattia e infortunio, esclusa la maternità;
+- b. una previdenza contro i rischi d’invalidità e decesso per malattia e infortunio.
+
+[^10c-1]: Correzione del 9 mag. 2025 ([RU 2025 290](https://fedlex.data.admin.ch/eli/oc/2025/290)).
+
+#### Art. 10d
+
+**Esigenze relative all’assicurazione d’indennità giornaliera**
+
+<sup>1</sup> L’indennità giornaliera deve ammontare almeno a 100 franchi al giorno.
+
+<sup>2</sup> Deve essere versata al più tardi dopo un termine di attesa di 60 giorni per la durata dell’incapacità lavorativa. Può essere versata per un massimo di due anni.
+
+#### Art. 10e
+
+**Esigenze relative alla previdenza contro i rischi**
+
+<sup>1</sup>
+
+La previdenza contro i rischi deve prevedere:
+
+- a. una rendita per un importo di almeno 24 000 franchi all’anno; o
+- b. una prestazione in capitale per un importo di almeno 300 000 franchi.
+
+<sup>2</sup> Se si sceglie una combinazione di rendita e prestazione in capitale, gli importi minimi di cui al capoverso 1 si applicano proporzionalmente.
+
+#### Art. 10f
+
+**Deroghe al requisito di una copertura assicurativa a causa dello stato di salute della persona da assicurare**
+
+<sup>1</sup> Se non è possibile assicurare uno o più rischi di cui all’articolo 10*c* perché un’assicurazione ha rifiutato la persona da assicurare a causa del suo stato di salute o ha applicato una riserva, non vi è alcun obbligo di una copertura assicurativa.
+
+<sup>2</sup> La riserva può risalire al massimo a cinque anni prima.
+
 ### Sezione 2: Prova che le esigenze ecologiche sono rispettate
 
 #### Art. 11
@@ -238,7 +324,7 @@ Le prescrizioni della legislazione sulla protezione degli animali determinanti p
 <sup>3</sup> Allo scopo di ottimizzare la ripartizione di concime sulle singole particelle, almeno una volta ogni dieci anni tutte le particelle devono essere sottoposte ad analisi del suolo secondo l’allegato 1 numero 2.2.
 
 [^13-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
-[^13-2]: Introdotto la cifra II dell’O del 12 feb. 2020, in vigore dal 1° gen. 2022 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
+[^13-2]: Introdotto dalla cifra II dell’O del 12 feb. 2020, in vigore dal 1° gen. 2022 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
 
 #### Art. 14
 
@@ -261,14 +347,14 @@ Sono computabili come superfici per la promozione della biodiversità le superfi
 
 [^14-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^14-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^14-3]: Introdotto la cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^14-4]: Introdotto la cifra I dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^14-3]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^14-4]: Introdotto dalla cifra I dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 14a
 
 [^14a-1]
 
-[^14a-1]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). abrogato dalla cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), con effetto dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). abrogato dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 15
 
@@ -393,7 +479,7 @@ La convenzione deve essere approvata dal Cantone. È approvata se:
 - c. le aziende hanno designato un organo di controllo comune;
 - d. nessuna delle aziende ha già concluso un’altra convenzione per la fornitura congiunta della PER.
 
-[^22-1]: Introdotta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogata dalla cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), con effetto dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^22-1]: Introdotta la cifra I dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 23
 
@@ -421,7 +507,7 @@ Le esigenze relative alle registrazioni sono fissate nell’allegato 1 numero 1.
 
 <sup>2</sup> Le deroghe necessitano dell’autorizzazione dell’UFAG.
 
-[^25a-1]: Introdotto la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^25a-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 [^25a-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### Sezione 3: Esigenze in materia di gestione per l’estivazione e la regione d’estivazione
@@ -476,11 +562,11 @@ L’autorizzazione deve contenere i seguenti oneri:
 <sup>8</sup> La pacciamatura di cui al capoverso 5 è ammessa sulla stessa superficie al massimo per due anni consecutivi. Successivamente va garantita una gestione sostenibile attraverso un uso adeguato dei pascoli. La pacciamatura può essere effettuata nuovamente al più presto dopo otto anni.[^29-6]
 
 [^29-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^29-2]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^29-3]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^29-4]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^29-5]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^29-6]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^29-2]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^29-3]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^29-4]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^29-5]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^29-6]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 #### Art. 30
 
@@ -563,7 +649,7 @@ Se un eventuale piano di gestione secondo l’allegato 2 numero 2 contiene esige
 [^35-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^35-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^35-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^35-4]: Introdotto la cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogato la cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^35-4]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogato la cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^35-5]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^35-6]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^35-7]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
@@ -591,7 +677,7 @@ Per il calcolo del carico di aziende d’estivazione e con pascoli comunitari so
 
 <sup>4</sup> L’effettivo degli altri animali da reddito deve essere indicato dal gestore all’atto della presentazione della domanda per i pagamenti diretti.
 
-[^36-1]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^36-1]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^36-2]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 [^36-3]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
@@ -617,8 +703,8 @@ Per il calcolo del carico di aziende d’estivazione e con pascoli comunitari so
 
 [^37-1]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 [^37-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^37-3]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^37-4]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^37-3]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^37-4]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### Sezione 3: Disposizioni particolari per l’estivazione e la regione d’estivazione
 
@@ -646,7 +732,7 @@ Per il calcolo del carico di aziende d’estivazione e con pascoli comunitari so
 
 <sup>5</sup> Nel caso di aziende d’estivazione o con pascoli comunitari che avviano l’attività d’estivazione, il Cantone determina provvisoriamente il carico usuale sulla base dell’effettivo realmente estivato. Dopo tre anni determina definitivamente il carico usuale tenendo conto del carico medio durante i tre anni corrispondenti e dell’esigenza relativa a un’utilizzazione sostenibile.
 
-[^39-1]: [[RU 2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175), [2002 1140](https://fedlex.data.admin.ch/eli/oc/2002/186), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 17. [RU 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818)art. 29]
+[^39-1]: [[RU 2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175); [2002 1140](https://fedlex.data.admin.ch/eli/oc/2002/186); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 17. [RU 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818)art. 29]
 
 #### Art. 40
 
@@ -706,9 +792,9 @@ Per il versamento dei contributi a partire dal 2024, esso adegua il carico usual
 [^41-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^41-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^41-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^41-4]: Introdotto la cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
-[^41-5]: Introdotto la cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
-[^41-6]: Introdotto la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^41-4]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^41-5]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^41-6]: Introdotto dalla cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ## Titolo 2: Contributi
 
@@ -811,7 +897,7 @@ Il contributo di alpeggio è versato per CN per gli animali da reddito che consu
 
 Per vacche da latte, pecore munte e capre munte, oltre al contributo di cui all’articolo 47 capoverso 2 lettera d, è versato un contributo supplementare per la produzione di latte.
 
-[^47a-1]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^47a-1]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 #### Art. 47b
 
@@ -838,7 +924,7 @@ Il contributo supplementare è versato se:
 
 <sup>4</sup> Il piano di protezione del bestiame deve indicare le misure e i provvedimenti aziendali e tecnici che permettono di proteggere una o più categorie di animali dai grandi predatori durante il periodo d’estivazione. Deve essere approvato dal Cantone. Quest’ultimo verifica l’osservanza del piano.
 
-[^47b-1]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^47b-1]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^47b-2]: [RS 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
 
 #### Art. 48
@@ -865,7 +951,7 @@ Se il carico diverge considerevolmente dal carico usuale, il contributo d’esti
 
 [^49-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^49-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
-[^49-3]: Introdotto la cifra I dell’O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^49-3]: Introdotto dalla cifra I dell’O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### Capitolo 2: Contributi per la sicurezza dell’approvvigionamento
 
@@ -990,12 +1076,12 @@ Per le seguenti superfici i contributi sono versati soltanto nelle seguenti zone
 [^55-4]: Abrogata la cifra I dell’O del 28 ott. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^55-5]: Abrogata la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), con effetto dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^55-6]: Introdotta la cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogato dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
-[^55-7]: Introdotto la cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^55-7]: Introdotto dalla cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^55-8]: Nuovo testo giusta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^55-9]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^55-10]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^55-11]: Introdotto la cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^55-12]: Introdotto la cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^55-11]: Introdotto dalla cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^55-12]: Introdotto dalla cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
 ### Sezione 2: Contributo
 
@@ -1045,7 +1131,7 @@ Il gestore è tenuto a gestire in maniera corrispondente gli alberi di cui all�
 [^57-2]: Abrogata la cifra I dell’O del 13 apr. 2022, con effetto dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^57-3]: Introdotta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° nov. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^57-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^57-5]: Introdotto la cifra I dell’O del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^57-5]: Introdotto dalla cifra I dell’O del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 58
 
@@ -1088,7 +1174,7 @@ Sulle superfici per la promozione della biodiversità non devono essere utilizza
 [^58-7]: Abrogato la cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^58-8]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^58-9]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^58-10]: Introdotto la cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^58-10]: Introdotto dalla cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 #### Art. 58a
 
@@ -1104,7 +1190,7 @@ Sulle superfici per la promozione della biodiversità non devono essere utilizza
 
 <sup>5</sup> Per la semina di superfici per la promozione della biodiversità di cui all’articolo 55 capoverso 1 lettere a–e, g ed o, alle miscele di sementi standardizzate vanno preferite sementi locali con fiorume di superfici permanentemente inerbite esistenti da tempo.
 
-[^58a-1]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^58a-1]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^58a-2]: Le composizioni delle miscele di sementi adatte possono essere consultate su [www.blw.admin.ch/it/contributi-biodiversita](https://www.blw.admin.ch/it/contributi-biodiversita).
 
 #### Art. 59
@@ -1127,7 +1213,7 @@ Sulle superfici per la promozione della biodiversità non devono essere utilizza
 
 [^59-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^59-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^59-3]: Introdotto la cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^59-3]: Introdotto dalla cifra I dell’O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^59-4]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^59-5]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^59-6]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
@@ -1519,17 +1605,17 @@ Le strisce per organismi utili possono essere falciate come segue:
 
 [^71b-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^71b-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-3]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-3]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-4]: Le composizioni delle miscele di sementi adatte possono essere consultate su [www.blw.admin.ch/it/contributi-sistemi-produzione](https://www.blw.admin.ch/it/contributi-sistemi-produzione).
-[^71b-5]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-6]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-5]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-6]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-7]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-8]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-8]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-9]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-10]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 [^71b-11]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
-[^71b-12]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-13]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-12]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-13]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### Sezione 5: Contributi per il miglioramento della fertilità del suolo
 
@@ -1612,7 +1698,7 @@ Non sono versati contributi per l’impianto di:
 
 [^71d-1]: Abrogata dalla cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71d-2]: Nuovo testo giusta la cifra III dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^71d-3]: Introdotto la cifra III dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^71d-3]: Introdotto dalla cifra III dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^71d-4]: Nuova espressione giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^71d-5]: Abrogato la cifra III dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
@@ -1637,7 +1723,7 @@ Non sono versati contributi per l’impianto di:
 <sup>3</sup> Per le aziende che adempiono il bilancio di concimazione equilibrato di cui all’articolo 13 a livello interaziendale secondo l’articolo 22 capoverso 1 o 2 lettera a, l’esigenza di cui al capoverso 2 può essere adempiuta a livello interaziendale.[^71e-2]
 
 [^71e-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71e-2]: Introdotto la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71e-2]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### Sezione 7: Contributo per la produzione di latte e carne basata sulla superficie inerbita
 
@@ -1774,7 +1860,7 @@ Per i contributi per il benessere degli animali si considerano le seguenti categ
 [^73-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^73-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^73-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^73-4]: Introdotto la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^73-4]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
 #### Art. 74
 
@@ -1820,7 +1906,7 @@ Per sistemi di stabulazione particolarmente rispettosi degli animali si intendon
 
 <sup>4</sup> Il contributo è versato soltanto se agli animali di tutte le categorie di cui all’articolo 73 lettera a per i quali non è versato alcun contributo per il pascolo è concessa l’uscita di cui all’articolo 75 capoverso 1.
 
-[^75a-1]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^75a-1]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 76
 
@@ -1852,13 +1938,13 @@ Esse contengono:
 
 <sup>2</sup> Le deroghe necessitano dell’autorizzazione dell’UFAG.
 
-[^76a-1]: Introdotto la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^76a-1]: Introdotto dalla cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### Sezione 9: Contributo per la durata d’utilizzo prolungata delle vacche
 
 [^tit2-chap5-sec9-1]
 
-[^tit2-chap5-sec9-1]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^tit2-chap5-sec9-1]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 77
 
@@ -1881,7 +1967,7 @@ Non è versato alcun contributo:
 
 [^tit2-chap5a-1]
 
-[^tit2-chap5a-1]: Introdotto la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^tit2-chap5a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 78
 
@@ -1969,7 +2055,7 @@ Per superfici, a favore delle quali è versato un contributo per la biodiversit�
 
 [^82a-1]
 
-[^82a-1]: Introdotto la cifra I dell’O del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Abrogato la cifra I dell’O del 13 apr. 2022, con effetto dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^82a-1]: Introdotto dalla cifra I dell’O del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Abrogato la cifra I dell’O del 13 apr. 2022, con effetto dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art 82b
 
@@ -2098,7 +2184,7 @@ Se in un’azienda le USM diminuiscono del 50 per cento o più, il contributo di
 <sup>4</sup> Non vi è alcuna riduzione per i gestori di cui all’articolo 4 capoversi 5 e 6.[^94-2]
 
 [^94-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
-[^94-2]: Introdotto la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^94-2]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
 #### Art. 95
 
@@ -2145,7 +2231,7 @@ Per la pianificazione coordinata dei controlli conformemente all’ordinanza del
 [^97-4]: Abrogata la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), con effetto dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^97-5]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 [^97-6]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
-[^97-7]: Introdotto la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^97-7]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
 #### Art. 98
 
@@ -2181,7 +2267,8 @@ La domanda deve contenere in particolare i seguenti dati:
 
 - e.[^98-7] i dati necessari per la determinazione dei contributi per i sistemi di produzione;
 - f. le variazioni di superficie, gli indirizzi delle aziende interessate e i vecchi e i nuovi gestori;
-- g. i pagamenti diretti dell’UE ricevuti l’anno precedente per le superfici situate nella zona di confine estera coltivate per tradizione familiare.
+- g. i pagamenti diretti dell’UE ricevuti l’anno precedente per le superfici situate nella zona di confine estera coltivate per tradizione familiare;
+- h.[^98-8] una dichiarazione che non vi è alcun obbligo di una copertura assicurativa ai sensi degli articoli 10*a*–10*f* o che è stata stipulata una copertura assicurativa ai sensi degli articoli 10*a*–10*f*.
 
 <sup>4</sup> I gestori di aziende con superfici situate nella zona economica estera coltivate per tradizione familiare sono tenuti, su richiesta, a presentare al Cantone un attestato del servizio estero incaricato dei versamenti relativo ai pagamenti diretti dell’UE versati.
 
@@ -2192,17 +2279,18 @@ La domanda deve contenere in particolare i seguenti dati:
 Il Cantone stabilisce:
 
 - a. se la domanda deve essere presentata in forma cartacea o elettronicamente;
-- b.[^98-8] se le domande presentate elettronicamente possono essere munite di firma elettronica qualificata secondo l’articolo 2 lettera e della legge del 18 marzo 2016[^98-9] sulla firma elettronica.
+- b.[^98-9] se le domande presentate elettronicamente possono essere munite di firma elettronica qualificata secondo l’articolo 2 lettera e della legge del 18 marzo 2016[^98-10] sulla firma elettronica.
 
 [^98-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^98-2]: Introdotto la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^98-2]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^98-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^98-4]: Abrogata la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), con effetto dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^98-5]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^98-6]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^98-7]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^98-8]: Nuovo testo giusta l’all. cifra II n. 9 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^98-9]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^98-8]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^98-9]: Nuovo testo giusta l’all. cifra II n. 9 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^98-10]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 99
 
@@ -2240,7 +2328,7 @@ Se il gestore non può adempiere le esigenze relative ai tipi di pagamenti diret
 
 [^100-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^100-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^100-3]: Introdotto la cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^100-3]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
 #### Art. 100a
 
@@ -2248,7 +2336,7 @@ Se il gestore non può adempiere le esigenze relative ai tipi di pagamenti diret
 
 In caso di modifica delle aliquote del contributo per provvedimenti con una determinata durata d’impegno, entro il 1° maggio dell’anno di contribuzione, il gestore può notificare all’autorità indicata dal Cantone competente, seguendo la procedura da esso stabilita, che a partire dall’anno della riduzione del contributo rinuncia all’ulteriore partecipazione.
 
-[^100a-1]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^100a-1]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### Capitolo 2: Prova e controlli
 
@@ -2256,7 +2344,11 @@ In caso di modifica delle aliquote del contributo per provvedimenti con una dete
 
 **Prova**
 
-I gestori che presentano una domanda per determinati tipi di pagamenti diretti sono tenuti a dimostrare alle autorità preposte all’esecuzione che adempiono o hanno adempiuto le esigenze dei rispettivi tipi di pagamenti diretti, comprese quelle della PER, nell’intera azienda.
+<sup>1</sup> I gestori che presentano una domanda per determinati tipi di pagamenti diretti sono tenuti a dimostrare alle autorità preposte all’esecuzione che adempiono o hanno adempiuto le esigenze dei rispettivi tipi di pagamenti diretti, comprese quelle della PER, nell’intera azienda.
+
+<sup>2</sup> I gestori, su richiesta dell’autorità preposta all’esecuzione, devono comprovare i dati di cui all’articolo 98 capoverso 3 lettera h. La copertura assicurativa va dimostrata con una conferma da parte di un assicuratore.[^101-1]
+
+[^101-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 102
 
@@ -2266,10 +2358,13 @@ I gestori che presentano una domanda per determinati tipi di pagamenti diretti s
 
 <sup>2</sup> I controlli sulla protezione degli animali nell’ambito della PER vanno svolti secondo le disposizioni della legislazione sulla protezione degli animali.
 
-<sup>3 e <sup>4</sup></sup> ...[^102-2]
+<sup>3</sup> I Cantoni controllano annualmente, a campione e in funzione del rischio, se esiste la copertura assicurativa in caso di malattia e infortunio richiesta secondo gli articoli 10*a*–10*f*. Controllano inoltre ogni azienda secondo l’articolo 3 capoverso 1 OCoC.[^102-2]
+
+<sup>4</sup> ...[^102-3]
 
 [^102-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
-[^102-2]: Abrogati la cifra I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^102-2]: Nuovo testo giusto la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^102-3]: Abrogato dalla cifra I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 103
 
@@ -2355,7 +2450,7 @@ Sono considerate cause di forza maggiore in particolare:
 <sup>3</sup> Se a causa di misure ordinate per evitare l’introduzione e la diffusione di organismi da quarantena e altri organismi nocivi particolarmente pericolosi ai sensi dell’ordinanza del 31 ottobre 2018[^107-1] sulla salute dei vegetali non possono essere adempiute le esigenze della PER e dei tipi di pagamenti diretti di cui all’articolo 2 lettera a numero 6 e c–f, i contributi non sono né ridotti né negati.[^107-2]
 
 [^107-1]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
-[^107-2]: Introdotto la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^107-2]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
 #### Art. 107a
 
@@ -2374,7 +2469,7 @@ Se a causa del pericolo rappresentato dai grandi predatori per gli animali da re
 
 <sup>4</sup> I Cantoni notificano all’UFAG a fine novembre le domande per gli scarichi anticipati degli alpi dovuti ai grandi predatori. L’UFAG definisce forma e contenuto della notifica.
 
-[^107a-1]: Introdotto la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^107a-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^107a-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^107a-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^107a-4]: [RS 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
@@ -2418,7 +2513,7 @@ Se a causa del pericolo rappresentato dai grandi predatori per gli animali da re
 
 All’atto del versamento nel 2025, l’importo da versare per i pagamenti diretti secondo l’articolo 2 lettere a, b, c numero 1, e ed f è ridotto dell’1,7 per cento.
 
-[^109a-1]: Introdotto la cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^109a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 110
 
@@ -2532,7 +2627,7 @@ I contributi per il 2015 e il 2016 non sono ridotti per:
 
 <sup>2</sup> Per le lacune di cui all’allegato 8 numero 2.7, nel 2015 e nel 2016 i contributi sono ridotti al massimo del 100 per cento.
 
-[^115a-1]: Introdotto la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
+[^115a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 
 #### Art. 115b
 
@@ -2540,7 +2635,7 @@ I contributi per il 2015 e il 2016 non sono ridotti per:
 
 Per il calcolo della correzione lineare secondo il modulo complementare 6 e del bilancio import/export secondo il modulo complementare 7 di Suisse-Bilanz, versione 1.8[^115b-2], il Cantone può stabilire da solo il periodo di riferimento per gli anni 2015 e 2016. Per i polli da ingrasso il periodo di calcolo è l’anno civile.
 
-[^115b-1]: Introdotto la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^115b-1]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^115b-2]: I moduli complementari 6 e 7 possono essere consultati sul sito Internet: [www.blw.admin.ch/it/prova-esigenze-ecologiche-rispettate](https://www.blw.admin.ch/it/prova-esigenze-ecologiche-rispettate)
 
 #### Art. 115c
@@ -2557,7 +2652,7 @@ Per il calcolo della correzione lineare secondo il modulo complementare 6 e del 
 
 <sup>5</sup> Negli anni 2018 e 2019 il gestore oppure l’azienda d’estivazione o con pascoli comunitari può notificare al servizio designato dal Cantone competente, per scritto o elettronicamente, entro il 1° maggio, rispettivamente entro il 15 novembre, se l’effettivo determinante di animali della specie equina realmente detenuto nell’azienda diverge dall’effettivo rilevato secondo l’articolo 36 capoversi 2 lettera a e 3. Il servizio designato dal Cantone competente corregge l’effettivo conformemente alla notifica o mette a disposizione una possibilità di correzione elettronica.
 
-[^115c-1]: Introdotto la cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017, il cpv. 5 entra in vigore il 1° gen. 2018 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^115c-1]: Introdotto dalla cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017, il cpv. 5 entra in vigore il 1° gen. 2018 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 [^115c-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 115d
@@ -2572,7 +2667,7 @@ Per il calcolo della correzione lineare secondo il modulo complementare 6 e del 
 
 <sup>4</sup> Per il controllo del bilancio delle sostanze nutritive di cui all’allegato 1 numero 2 nel 2018 si applica il diritto anteriore.
 
-[^115d-1]: Introdotto la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^115d-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
 #### Art. 115e
 
@@ -2586,7 +2681,7 @@ Per il calcolo della correzione lineare secondo il modulo complementare 6 e del 
 
 <sup>4</sup> Per l’anno di contribuzione 2019 la notifica concernente i contributi di cui all’articolo 2 lettera f numero 5 (aziende biologiche) e 7 nonché i contributi per animali di cui all’articolo 75 capoverso 2<sup>bis</sup> può essere presentata entro il termine di cui all’articolo 99 capoverso 1.
 
-[^115e-1]: Introdotto la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^115e-1]: Introdotto dalla cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 115f
 
@@ -2596,7 +2691,7 @@ Per il calcolo della correzione lineare secondo il modulo complementare 6 e del 
 
 <sup>2</sup> Se si constatano lacune di cui all’allegato 8 numero 2.2.3 lettera c, i pagamenti diretti per il 2021 non sono ridotti se si tratta della mancata indicazione dei numeri di omologazione di prodotti fitosanitari.
 
-[^115f-1]: Introdotto la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^115f-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 #### Art. 115g
 
@@ -2612,10 +2707,10 @@ Per il calcolo della correzione lineare secondo il modulo complementare 6 e del 
 
 <sup>5</sup> Se si constatano lacune di cui all’allegato 8 numero 2.2.4 lettera c, i pagamenti diretti per il 2024 non vengono ridotti.[^115g-4]
 
-[^115g-1]: Introdotto la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^115g-1]: Introdotto dalla cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^115g-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^115g-3]: Introdotto la cifra I dell’O del 24 gen. 2024, in vigore dal 1° gen. 2024 ([RU 2024 42](https://fedlex.data.admin.ch/eli/oc/2024/42)).
-[^115g-4]: Introdotto la cifra I dell’O del 24 gen. 2024, in vigore dal 1° gen. 2024 ([RU 2024 42](https://fedlex.data.admin.ch/eli/oc/2024/42)).
+[^115g-3]: Introdotto dalla cifra I dell’O del 24 gen. 2024, in vigore dal 1° gen. 2024 ([RU 2024 42](https://fedlex.data.admin.ch/eli/oc/2024/42)).
+[^115g-4]: Introdotto dalla cifra I dell’O del 24 gen. 2024, in vigore dal 1° gen. 2024 ([RU 2024 42](https://fedlex.data.admin.ch/eli/oc/2024/42)).
 
 #### Art. 115h
 
@@ -2623,9 +2718,9 @@ Per il calcolo della correzione lineare secondo il modulo complementare 6 e del 
 
 <sup>1</sup> Se si constatano lacune di cui all’allegato 8 numero 2.2.9a lettera d, i pagamenti diretti per il 2025 e il 2026 non vengono ridotti.
 
-<sup>2</sup> ... [^115h-2]
+<sup>2</sup> Per le persone di cui all’articolo 10*a* capoverso 1 nate nel 1972 o prima non vi è alcun obbligo di una copertura assicurativa in caso di malattia e infortunio.[^115h-2]
 
-[^115h-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^115h-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025, il cpv. 2, in vigore il 1° gen. 2027 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^115h-2]: In vigore dal 1° gen. 2027.
 
 #### Art. 115i
@@ -2644,7 +2739,7 @@ Per il calcolo della correzione lineare secondo il modulo complementare 6 e del 
 
 <sup>6</sup> Per i cereali in file distanziate quali superficie per la promozione della biodiversità specifiche di una regione secondo il diritto anteriore il contributo per la rinuncia a prodotti fitosanitari in campicoltura di cui all’articolo 68 del diritto anteriore e il contributo per la rinuncia a erbicidi in campicoltura e nelle colture speciali di cui all’articolo 71*a* del diritto anteriore sono ancora versati nel 2026 e nel 2027.
 
-[^115i-1]: Introdotto la cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^115i-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 116
 
@@ -2657,7 +2752,7 @@ Sono abrogate:
 - 3\. l’ordinanza del 4 aprile 2001[^116-3] sulla qualità ecologica.
 
 [^116-1]: [[RU 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29); [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)art. 20 n. 2; [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48), [1310](https://fedlex.data.admin.ch/eli/oc/2001/179)art. 22 n. 1, [3539](https://fedlex.data.admin.ch/eli/oc/2001/525); [2003 1998](https://fedlex.data.admin.ch/eli/oc/2003/301), [5321](https://fedlex.data.admin.ch/eli/oc/2003/777); [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153), [4827](https://fedlex.data.admin.ch/eli/oc/2006/744); [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817); [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511), [5819](https://fedlex.data.admin.ch/eli/oc/2008/800); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338), [6091](https://fedlex.data.admin.ch/eli/oc/2009/745); [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835); [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337), [5295](https://fedlex.data.admin.ch/eli/oc/2011/765), [5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 3, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. 3; [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
-[^116-2]: [[RU 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)cifra II n. 1; [2010 2321](https://fedlex.data.admin.ch/eli/oc/2010/336), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835)II 1; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 4, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 4]
+[^116-2]: [[RU 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)cifra II n. 1; [2010 2321](https://fedlex.data.admin.ch/eli/oc/2010/336), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835)cifra II n. 1; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 4, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 4]
 [^116-3]: [[RU 2001 1310](https://fedlex.data.admin.ch/eli/oc/2001/179), [2003 4871](https://fedlex.data.admin.ch/eli/oc/2003/717), [2007 6157](https://fedlex.data.admin.ch/eli/oc/2007/819), [2009 6313](https://fedlex.data.admin.ch/eli/oc/2009/769), [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)cifra II n. 3]
 
 #### Art. 117
@@ -2684,7 +2779,7 @@ Allegato 1[^t-1]
 
 ## Prova che le esigenze ecologiche sono rispettate
 
-[^t-1]: Aggiornato la cifra II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), la cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), la cifra I dell’O dell’UFAG del 5 ott. 2022 ([RU 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), la cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), la cifra II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), la cifra II cpv. 1 dell’O del 1° nov. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) e la cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2024 al 31 dic. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), la cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), la cifra I dell’O dell’UFAG del 5 ott. 2022 ([RU 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), la cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), la cifra II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), la cifra II cpv. 1 dell’O del 1° nov. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) e la cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Registrazioni
 
@@ -2695,23 +2790,40 @@ Allegato 1[^t-1]
   - a. elenco delle particelle, superficie dell’azienda, superficie agricola utile, altre superfici;
   - b. piano delle particelle con particelle gestite e piano delle particelle delle superfici per la promozione della biodiversità;
   - c. dati concernenti la concimazione, la protezione dei vegetali (prodotto impiegato, numero di omologazione del prodotto impiegato, data e quantità), il raccolto e le rese nonché per le colture campicole dati concernenti le varietà, l’avvicendamento delle colture e la lavorazione del suolo;
-  - d. il bilancio delle sostanze nutritive calcolato e la documentazione necessaria per il calcolo del bilancio delle sostanze nutritive;
+  - d. il bilancio delle sostanze nutritive calcolato e condiviso per l’esecuzione nel servizio web centrale messo a disposizione dall’UFAG nonché la documentazione necessaria secondo la Guida «Suisse-Bilanz»[^annex1-lvlu1-lvl1-1];
   - e. altre registrazioni, se necessarie.
 
 - 1\.2 L’obbligo di registrazione secondo il numero 1.1 lettere a e b decade se, ai fini del controllo, il Cantone mette elettronicamente a disposizione riproduzioni SIG e liste di dati aggiornate. I Cantoni disciplinano la procedura.
+
+[^annex1-lvlu1-lvl1-1]: Le versioni della Guida applicabili possono essere consultate all’indirizzo [www.blw.admin.ch](https://www.blw.admin.ch/blw/it/home/instrumente/direktzahlungen/oekologischer-leistungsnachweis/ausgeglichene-duengerbilanz.html) &gt; Strumenti &gt; Pagamenti diretti &gt; Prova che le esigenze ecologiche sono rispettate &gt; Bilancio di concimazione equilibrato e analisi del suolo (art. 13 OPD).
 
 ### 2 Bilancio di concimazione equilibrato
 
 ### 2.1 Bilancio delle sostanze nutritive
 
-- 2\.1.1 Mediante il bilancio delle sostanze nutritive si deve dimostrare che l’apporto di azoto o di fosforo non è eccessivo. Il bilancio è calcolato sulla base del metodo «Suisse-Bilanz» secondo la Guida «Suisse-Bilanz»[^annex1-lvlu1-lvl2-lvl21-1] dell’UFAG. Si applicano la versione in vigore dal 1° gennaio del rispettivo anno e quella in vigore dal 1° gennaio dell’anno precedente. Il gestore può scegliere a quale versione attenersi. L’UFAG è competente per l’omologazione dei programmi software per il calcolo del bilancio delle sostanze nutritive.
-- 2\.1.2 Per il calcolo del bilancio delle sostanze nutritive sono determinanti i dati dell’anno civile precedente l’anno di contribuzione. Il bilancio delle sostanze nutritive deve essere calcolato ogni anno. All’atto del controllo è determinante il bilancio chiuso delle sostanze nutritive dell’anno precedente.
-- 2\.1.3 Tutti i trasferimenti di concimi aziendali e concimi ottenuti dal riciclaggio all’interno e fuori dell’agricoltura nonché tra le aziende devono essere registrati nel sistema d’informazione centrale sulla gestione delle sostanze nutritive di cui all’articolo 14 OSIAgr[^annex1-lvlu1-lvl2-lvl21-2] nell’applicazione Internet Hoduflu. Soltanto i trasferimenti di concimi aziendali e concimi ottenuti dal riciclaggio ivi registrati sono riconosciuti per l’adempimento di Suisse-Bilanz. Il Cantone può respingere tenori in sostanze nutritive non plausibili. Su richiesta del Cantone, il fornitore deve comprovare a sue spese la plausibilità dei tenori in sostanze nutritive indicati.
+- 2\.1.1 Mediante il bilancio delle sostanze nutritive si deve dimostrare che l’apporto di azoto o di fosforo non è eccessivo. Il bilancio è calcolato sulla base del metodo «Suisse-Bilanz» secondo la Guida «Suisse-Bilanz» dell’UFAG. I gestori possono applicare la versione della Guida in vigore dal 1° gennaio dell’anno di contribuzione o quella in vigore dal 1° gennaio dell’anno precedente.
+- 2\.1.2 Per il calcolo del bilancio delle sostanze nutritive sono determinanti i dati dell’anno civile precedente l’anno di contribuzione. Il bilancio delle sostanze nutritive deve essere calcolato ogni anno. All’atto del controllo è determinante il bilancio chiuso delle sostanze nutritive dell’anno precedente. Il calcolo e la condivisione del bilancio delle sostanze nutritive per l’esecuzione devono essere effettuati elettronicamente nel servizio web centrale messo a disposizione dall’UFAG.
+- 2\.1.3 …
+- 2\.1.3a
+
+  Per il calcolo del bilancio delle sostanze nutritive sono determinanti i seguenti trasferimenti di sostanze nutritive:
+
+  - a. i trasferimenti di concimi e di alimenti concentrati per animali registrati nel sistema d’informazione centrale sulla gestione delle sostanze nutritive di cui all’articolo 14 OSIAgr;
+  - b. i trasferimenti di foraggio di base.
+
+- 2\.1.3b Il Cantone può respingere tenori in sostanze nutritive non plausibili utilizzati nel calcolo di cui al numero 2.1.3a. Su richiesta del Cantone, il fornitore deve comprovare a sue spese la plausibilità dei tenori in sostanze nutritive indicati.
 - 2\.1.4 …
 - 2\.1.5 Sull’insieme dell’azienda il bilancio fosforico del bilancio chiuso delle sostanze nutritive deve corrispondere al fabbisogno delle colture. I Cantoni possono decretare norme più severe per determinate regioni e aziende. Le aziende che, sulla base di analisi del suolo effettuate da un laboratorio autorizzato in base a un metodo riconosciuto, forniscono la prova che il suolo è sottoconcimato, possono far valere, sulla base di un piano di concimazione relativo all’insieme dell’azienda, un fabbisogno maggiore. I prati sfruttati in modo poco intensivo non devono essere concimati. È fatto salvo il numero 2.1.6.
-- 2\.1.6 Le aziende che si trovano in un settore d’alimentazione (Zo) delimitato dal Cantone secondo l’articolo 29 capoverso 1 lettera d dell’ordinanza del 28 ottobre 1998[^annex1-lvlu1-lvl2-lvl21-3] sulla protezione delle acque (OPAc) e che secondo «Suisse-Bilanz» presentano un grado di approvvigionamento di fosforo (quoziente di produzione di sostanze nutritive provenienti dalla cessione di concimi aziendali e fabbisogno nutritivo delle colture) superiore al 100 per cento, con riguardo alla problematica del fosforo, possono spandere l’80 per cento al massimo del fabbisogno di fosforo. Se, mediante campioni di terreno prelevati dalle autorità di controllo competenti, l’azienda prova che nessuna particella gestita si trova nella classe di fertilità D o E secondo il numero 2.2, si applicano le disposizioni di cui al numero 2.1.5. In queste zone i Cantoni fissano, d’intesa con l’UFAG, le rese massime di sostanza secca per il bilancio delle sostanze nutritive.
+- 2\.1.6 Le aziende che si trovano in un settore d’alimentazione (Zo) delimitato dal Cantone secondo l’articolo 29 capoverso 1 lettera d dell’ordinanza del 28 ottobre 1998[^annex1-lvlu1-lvl2-lvl21-1] sulla protezione delle acque (OPAc) e che secondo «Suisse-Bilanz» presentano un grado di approvvigionamento di fosforo (quoziente di produzione di sostanze nutritive provenienti dalla cessione di concimi aziendali e fabbisogno nutritivo delle colture) superiore al 100 per cento, con riguardo alla problematica del fosforo, possono spandere l’80 per cento al massimo del fabbisogno di fosforo. Se, mediante campioni di terreno prelevati dalle autorità di controllo competenti, l’azienda prova che nessuna particella gestita si trova nella classe di fertilità D o E secondo il numero 2.2, si applicano le disposizioni di cui al numero 2.1.5. In queste zone i Cantoni fissano, d’intesa con l’UFAG, le rese massime di sostanza secca per il bilancio delle sostanze nutritive.
 - 2\.1.7 Sull’insieme dell’azienda il bilancio azotato del bilancio chiuso delle sostanze nutritive deve corrispondere al fabbisogno delle colture. I Cantoni possono prevedere norme più severe per determinate regioni e aziende.
-- 2\.1.8 Il riporto di sostanze nutritive sul bilancio delle sostanze nutritive dell’anno seguente non è, per principio, possibile. In viticoltura e in frutticoltura è permesso spandere concime fosforico sull’arco di più anni. Nelle altre colture è possibile spandere fosforo apportato all’azienda sotto forma di compost e calce per 3 anni al massimo. Tutto l’azoto distribuito con questi concimi deve comunque essere considerato nel bilancio azotato dell’anno di spandimento.
+- 2\.1.8
+
+  Il riporto di sostanze nutritive sul bilancio delle sostanze nutritive dell’anno seguente è consentito come segue:
+
+  - a. al massimo il 5 per cento sia di fosforo sia di azoto calcolato in kg del fabbisogno di sostanze nutritive può essere riportato nel bilancio delle sostanze nutritive dell’anno seguente sempreché non sia stato effettuato alcun riporto nell’anno precedente;
+  - b. in viticoltura e in frutticoltura il concime fosforico sparso può essere ripartito su cinque anni al massimo;
+  - c. nelle altre colture il fosforo apportato sotto forma di compost e calce può essere ripartito su tre anni al massimo.
+
 - 2\.1.9
 
   Dal calcolo del bilancio delle sostanze nutritive relativo a tutta l’azienda sono dispensate le aziende che non apportano alcun concime azotato o fosforico, se la loro densità di animali non supera i seguenti valori per ettaro di superficie fertilizzabile:
@@ -2753,14 +2865,12 @@ Allegato 1[^t-1]
 </table>
 
 - 2\.1.10 In casi particolari, segnatamente per aziende con colture speciali o allevamento di animali senza base foraggera, i Cantoni possono richiedere un bilancio delle sostanze nutritive anche se non sono raggiunti i valori limite di cui ai numeri 2.1.9 e 2.1.9a.
-- 2\.1.11 Le rese in SS di prati e pascoli secondo la tabella 3 della Guida Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-4] sono considerate come valori massimi per il bilancio di concimazione equilibrato. Se vengono fatte valere rese superiori, queste vanno comprovate da una stima sulla resa. Il Cantone può respingere stime sulla resa non plausibili. Su richiesta del Cantone, il richiedente deve comprovare, a sue spese, la plausibilità delle sue stime sulla resa.
+- 2\.1.11 Le rese in SS di prati e pascoli secondo la tabella 3 della Guida Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-2] sono considerate come valori massimi per il bilancio di concimazione equilibrato. Se vengono fatte valere rese superiori, queste vanno comprovate da una stima sulla resa. Il Cantone può respingere stime sulla resa non plausibili. Su richiesta del Cantone, il richiedente deve comprovare, a sue spese, la plausibilità delle sue stime sulla resa.
 - 2\.1.12 La chiusura della correzione lineare secondo il modulo complementare 6 e del bilancio import/export secondo il modulo complementare 7 del metodo «Suisse-Bilanz» giusta il numero 2.1 deve avvenire tra il 1° aprile e il 31 agosto dell’anno di contribuzione. Il periodo di calcolo comprende almeno i dieci mesi precedenti. La correzione lineare chiusa o il bilancio import/export chiuso è da inoltrare entro il 30 settembre dell’anno di contribuzione ai servizi cantonali preposti all’esecuzione.
 - 2\.1.13 Per i trasferimenti dei concimi aziendali registrati nel sistema d’informazione centrale sulla gestione delle sostanze nutritive le aziende con convenzioni sulla correzione lineare secondo il modulo complementare 6 o sul bilancio import/export secondo il modulo complementare 7 del metodo «Suisse-Bilanz» devono utilizzare tenori in sostanze nutritive specifici dell’azienda.
 
-[^annex1-lvlu1-lvl2-lvl21-1]: Le versioni della Guida applicabili possono essere consultate www.blw.admin.ch/it/prova-esigenze-ecologiche-rispettate .
-[^annex1-lvlu1-lvl2-lvl21-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
-[^annex1-lvlu1-lvl2-lvl21-3]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl2-lvl21-4]: La guida può essere consultata sul sito Internet: www.blw.admin.ch/it/prova-esigenze-ecologiche-rispettate .
+[^annex1-lvlu1-lvl2-lvl21-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^annex1-lvlu1-lvl2-lvl21-2]: La guida può essere consultata sul sito Internet: www.blw.admin.ch/it/prova-esigenze-ecologiche-rispettate .
 
 ### 2.2 Analisi del suolo
 
@@ -2861,7 +2971,7 @@ Allegato 1[^t-1]
 - 5\.1.6 Se la causa di una perdita di suolo su una particella gestita secondo il numero 5.1.2 non è chiara, il servizio cantonale competente la stabilisce. Successivamente provvede affinché venga applicata una procedura concordata tesa a evitare l’erosione nella rispettiva regione.
 - 5\.1.7 I controlli sono eseguiti in maniera mirata, dopo le piogge, in luoghi a rischio. I servizi cantonali competenti tengono un elenco dei casi di perdita di suolo constatati.
 
-[^annex1-lvlu1-lvl5-lvl51-1]: Il promemoria può essere consultato sul sito Internet: [www.agridea.ch](http://www.agridea.ch) &gt; Publications &gt; Environnement, paysage &gt; Protection des ressources (eau-air-sol) &gt; Erosion: Quelle quantité de terre perdue?
+[^annex1-lvlu1-lvl5-lvl51-1]: Il promemoria può essere consultato sul sito Internet: [https://shop.agridea.ch/](https://shop.agridea.ch/fr/categorie/protection-des-ressources) &gt; Publications &gt; Production végétale, Environnement &gt; Protection des ressources: «Erosion: Quelle quantité de terre perdue? »
 
 ### 6 Selezione e utilizzazione mirata dei prodotti fitosanitari
 
@@ -3038,7 +3148,7 @@ Allegato 1[^t-1]
 - 9\.7 Lungo paludi, prati e pascoli secchi e siti di riproduzione di anfibi devono essere rispettate le prescrizioni in materia di gestione e le dimensioni delle zone tampone di cui agli articoli 18*a* e 18*b* LPN[^annex1-lvlu1-lvl9-3].
 
 [^annex1-lvlu1-lvl9-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl9-2]: Il promemoria è consultabile su: [www.agridea.ch](https://agridea.abacuscity.ch/it/3~410420~Shop/Pubblicazioni/Produzione-vegetale/Aspetti-legali-e-amministrativi) &gt; Indice &gt; Pubblicazioni &gt; Produzione vegetale &gt; Aspetti legali e amministrativi.
+[^annex1-lvlu1-lvl9-2]: Il promemoria è consultabile su: [https://shop.agridea.ch/](https://shop.agridea.ch/fr/categorie/biodiversite) &gt; Publications &gt; Production végétale, Environnement &gt; Biodiversité: «Bordures tampon, Comment les mesurer, comment les exploiter?».
 [^annex1-lvlu1-lvl9-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 Allegato 2[^t-2]
@@ -3047,7 +3157,7 @@ Allegato 2[^t-2]
 
 ## Disposizioni particolari per l’estivazione e la regione d’estivazione
 
-[^t-2]: Aggiornato la cifra II delle O del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), la cifra II cpv. 1 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) e dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-2]: Aggiornato dalla cifra II delle O del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), la cifra II cpv. 1 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) e dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Superfici sulle quali non è ammesso il pascolo
 
@@ -3177,7 +3287,7 @@ Allegato 4[^t-3]
 
 ## Condizioni concernenti le superfici per la promozione della biodiversità
 
-[^t-3]: Aggiornato la cifra II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), la cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), la cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), la cifra II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), la cifra II cpv. 1 dell’O del 1° nov. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) e la cifra II dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), la cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), la cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), la cifra II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), la cifra II cpv. 1 dell’O del 1° nov. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) e la cifra II dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### A Superfici per la promozione della biodiversità
 
@@ -3482,8 +3592,7 @@ Allegato 4[^t-3]
 ### 5 Continuazione di progetti di interconnessione
 
 - 5\.1 Prima della scadenza degli otto anni di durata del progetto occorre verificare il grado di raggiungimento degli obiettivi. Ai fini della continuazione del progetto, gli obiettivi d’attuazione definiti devono essere raggiunti nella misura dell’80 per cento. In casi motivati si può derogare a tale disposizione.
-
-### 5.2 Le finalità (obiettivi d’attuazione e provvedimenti) vanno verificate e adeguate. Il rapporto relativo al progetto deve essere conforme alle esigenze minime per l’interconnessione (n. 2–4).
+- 5\.2 Le finalità (obiettivi d’attuazione e provvedimenti) vanno verificate e adeguate. Il rapporto relativo al progetto deve essere conforme alle esigenze minime per l’interconnessione (n. 2–4).
 
 Allegato 4a[^t-4]
 
@@ -3491,7 +3600,7 @@ Allegato 4a[^t-4]
 
 ## Miscele di sementi adatte per le superfici per la promozione della biodiversità e le strisce per organismi utili
 
-[^t-4]: Introdotto la cifra II cpv. 2 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### A Criteri per la valutazione di miscele di sementi per le superfici per la promozione della biodiversità e le strisce per organismi utili
 
@@ -3582,7 +3691,7 @@ Allegato 5[^t-5]
 
 ## Esigenze specifiche del programma per la produzione di latte e carne basata sulla superficie inerbita (PLCSI)
 
-[^t-5]: Aggiornato la cifra II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), la cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’O dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), la cifra II cpv. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) e dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-5]: Aggiornato dalla cifra II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), la cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’O dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), la cifra II cpv. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) e dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Definizione dei foraggi e della razione
 
@@ -3642,7 +3751,7 @@ Allegato 6[^t-6]
 
 ## Esigenze specifiche dei contributi per il benessere degli animali
 
-[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aggiornato la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), dalla correzione del 5 lug. 2021 ([RU 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)), la cifra II dell’O del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), la cifra II cpv. 1 delle O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), dalla cifra II dell’O del 6 nov. 2024 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) e dall’all. n. 4 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aggiornato dalla cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), dalla correzione del 5 lug. 2021 ([RU 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)), la cifra II dell’O del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), la cifra II cpv. 1 delle O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), dalla cifra II dell’O del 6 nov. 2024 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) e dall’all. n. 4 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### A Esigenze dei contributi SSRA
 
@@ -4048,7 +4157,7 @@ Allegato 6a[^t-7]
 
 ## Condizioni e oneri per il contributo per il foraggiamento scaglionato di suini a tenore ridotto di azoto
 
-[^t-7]: Introdotto la cifra II cpv. 3 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^t-7]: Introdotto dalla cifra II cpv. 3 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### 1 Determinazione dell’effettivo di animali per categoria di animali per il calcolo del valore limite specifico dell’azienda
 
@@ -4101,7 +4210,7 @@ Allegato 7[^t-8]
 
 ## Aliquote dei contributi
 
-[^t-8]: Aggiornato la cifra II delle O del 20 mag. 2015 ([RU 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), la cifra II e III dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), la cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) e la cifra II delle O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686),[671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^t-8]: Aggiornato dalla cifra II delle O del 20 mag. 2015 ([RU 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), la cifra II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), la cifra II e III dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), la cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) e la cifra II delle O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686),[671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 1 Contributi per il paesaggio rurale
 
@@ -4240,7 +4349,7 @@ Allegato 7[^t-8]
 <tr><td>*9.* *Striscia su superficie coltiva*</td><td>3300</td><td colspan="2"></td></tr>
 <tr><td>*10.* *Vigneti con biodiversità naturale*</td><td>–</td><td colspan="2">1100</td></tr>
 <tr><td>*11.* *Prato rivierasco*</td><td>300</td><td colspan="2"></td></tr>
-<tr><td>*12.* *Superfici inerbite e terreni da strame ricchi di specie nella regione d’estivazione*</td><td>–</td><td colspan="2">150, al massi- mo tutta- via 300 per CN</td></tr>
+<tr><td>*12.* *Superfici inerbite e terreni da strame ricchi di specie nella regione d’estivazione*</td><td>–</td><td colspan="2">150, al massi- mo tuttavia 300 per CN</td></tr>
 </table>
 
 - 3\.1.2 Sono stabiliti i seguenti contributi:
@@ -4417,7 +4526,7 @@ Allegato 8[^t-9]
 
 ## Riduzione dei pagamenti diretti
 
-[^t-9]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aggiornato la cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), la cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), la cifra II dell’O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dalla correzione del 18 ago. 2020 ([RU 2020 3585](https://fedlex.data.admin.ch/eli/oc/2020/641)), la cifra II delle O dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), la cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), la cifra II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), dalla correzione del 14 mar. 2023 ([RU 2023 126](https://fedlex.data.admin.ch/eli/oc/2023/126)), la cifra II cpv. 1 dell’O del 1° nov. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) e la cifra II dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^t-9]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aggiornato dalla cifra II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dalla cifra II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dalla cifra II dell’O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dalla correzione del 18 ago. 2020 ([RU 2020 3585](https://fedlex.data.admin.ch/eli/oc/2020/641)), dalla cifra II delle O dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), dalla cifra II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), dalla cifra II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), dalla correzione del 14 mar. 2023 ([RU 2023 126](https://fedlex.data.admin.ch/eli/oc/2023/126)), dalla cifra II cpv. 1 dell’O del 1° nov. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), dalla cifra II dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)) e dalla cifra II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2027 ([RU 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Considerazioni generali
 
@@ -4511,6 +4620,11 @@ Allegato 8[^t-9]
 
 [^annex8-lvlu1-lvl2-lvl21-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
+### 2.1a Copertura assicurativa in caso di malattia e infortunio
+
+- 2\.1a.1 Se la copertura assicurativa in caso di malattia e infortunio è insufficiente o mancante, la riduzione alla prima infrazione è pari al 10 per cento di tutti i pagamenti diretti, tuttavia almeno 500 franchi e al massimo 2000 franchi all’anno.
+- La riduzione percentuale nonché gli importi minimo e massimo della riduzione sono raddoppiati nel primo caso di recidiva e quadruplicati a partire dal secondo.
+
 ### 2.2 Prova che le esigenze ecologiche sono rispettate
 
 - 2\.2.1 Le riduzioni avvengono mediante la detrazione di importi forfettari, di importi per unità e mediante l’assegnazione di punti convertiti in importi applicando la formula seguente:
@@ -4529,7 +4643,7 @@ Allegato 8[^t-9]
 
 <table>
 <tr><th colspan="2">Lacuna per il punto di controllo</th><th>Riduzione</th></tr>
-<tr><td colspan="2">a. Piano aziendale, elenco delle particelle, rapporto sulla rotazione delle colture o modulo delle quote colturali, bollettini di consegna per il concime aziendale o estratti da HODUFLU, registrazioni alimenti NPr, analisi del suolo risalenti a oltre 10 anni, test delle irroratrici risalenti a oltre 3 anni incompleti, mancanti, errati, inutilizzabili o non validi (all. 1 n. 1, 2.2 e 6.1a.1)</td><td>50 fr. per documento o per analisi del suolo Si applica la riduzione soltanto se la lacuna permane dopo il termine d’inoltro suppletivo o se il documento non è inoltrato successivamente</td></tr>
+<tr><td colspan="2">a. Piano aziendale, elenco delle particelle, rapporto sulla rotazione delle colture o modulo delle quote colturali, registrazioni alimenti NPr, analisi del suolo risalenti a oltre 10 anni, test delle irroratrici risalenti a oltre 3 anni incompleti, mancanti, errati, inutilizzabili o non validi (all. 1 n. 1, 2.2 e 6.1a.1)</td><td>50 fr. per documento o per analisi del suolo Si applica la riduzione soltanto se la lacuna permane dopo il termine d’inoltro suppletivo o se il documento non è inoltrato successivamente</td></tr>
 <tr><td colspan="2">b. Bilancio delle sostanze nutritive, inclusi i giustificativi necessari, incompleto, mancante, errato o inutilizzabile (all. 1 n. 1)</td><td>200 fr. Se la lacuna permane dopo il termine suppletivo di 10 giorni al massimo: 110 punti</td></tr>
 <tr><td colspan="2">c. Calendario foraggero o libretto dei prati, libretto dei campi o schede delle colture incompleti, mancanti, errati o inutilizzabili; aggiornamento: fino a una settimana prima del controllo (all. 1 n. 1)</td><td>200 fr. per documento</td></tr>
 <tr><td>d. Bilancio semplificato delle sostanze nutritive, inclusi i giustificativi necessari, incompleto, mancante, errato o inutilizzabile (all. 1 n. 2.1.9a)</td><td colspan="2">200 fr. Termine suppletivo per il bilancio delle sostanze nutritive secondo il metodo «Suisse-Bilanz»</td></tr>

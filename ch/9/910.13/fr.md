@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20260101-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20270101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2026)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -211,6 +211,92 @@ Les personnes physiques et morales, communes et collectivités de droit public o
 <sup>2</sup> Les cantons n’ont pas droit aux contributions.
 
 <sup>3</sup> Les conditions visées aux art. 3 à 9 ne sont pas applicables.
+
+### Section 1*a* Couverture d’assurance en cas de maladie et d’accident
+
+[^tit1-chap2-sec1a-1]
+
+[^tit1-chap2-sec1a-1]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+
+#### Art. 10a
+
+**Exigence**
+
+<sup>1</sup>
+
+Le conjoint ou le partenaire enregistré de l’exploitant doit disposer d’une couverture d’assurance en cas de maladie et d’accident dans les cas suivants:
+
+- a. il est marié ou lié par un partenariat enregistré avec l’exploitant le 1<sup>er</sup> janvier de l’année de contributions;
+- b. il n’a pas encore atteint l’âge de 65 ans le 1<sup>er</sup> janvier de l’année de contributions;
+- c. l’année précédant l’année de contributions, il n’a pas réalisé un revenu propre supérieur au salaire minimum annuel visé à l’art. 7 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^10a-1].
+
+<sup>2</sup> Par travail régulier et important dans l’entreprise au sens de l’art. 70*a*, al. 1, let. i, LAgr, on entend une collaboration pour laquelle une déduction pour double revenu a été appliquée dans la déclaration fiscale en vertu de l’art. 33, al. 2, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^10a-2].
+
+[^10a-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^10a-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+#### Art. 10b
+
+**Exceptions à l’exigence**
+
+<sup>1</sup>
+
+Aucune couverture d’assurance n’est exigible si l’une des conditions suivantes est remplie:
+
+- a. l’exploitant démontre que, l’année précédant l’année de contributions, le conjoint ou le partenaire enregistré a réalisé un revenu propre supérieur au salaire minimum annuel visé à l’art. 7 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^10b-1];
+- b. l’exploitant n’a pas fait valoir une déduction pour double revenu dans la déclaration fiscale conformément à l’art. 33, al. 2, LIFD[^10b-2];
+- c. le revenu imposable au sens de la LIFD réalisé par le couple d’exploitants au cours des deux années précédant l’année de contributions est inférieur ou égal à 12 000 francs en moyenne annuelle;
+- d. l’exploitation est gérée par une personne morale selon l’art. 3, al. 3;
+- e. l’exploitation est une exploitation d’estivage ou une exploitation de pâturages communautaires.
+
+<sup>2</sup> La dernière taxation annuelle entrée en force avant l’année de contributions est déterminante pour prouver qu’aucune déduction pour double revenu n’a été appliquée selon l’art. 33, al. 2, LIFD. Si celle-ci remonte à plus de quatre ans, on se fondera sur la taxation provisoire.
+
+<sup>3</sup> Sont déterminantes pour la preuve du revenu imposable du couple d’exploitants selon l’al. 1, let. c, les valeurs des deux dernières années fiscales ayant fait l’objet d’une taxation définitive entrée en force au plus tard à la fin de l’année de contributions. Si ces dernières remontent à plus de quatre ans, on se fondera sur la taxation provisoire.
+
+<sup>4</sup> Après le mariage ou l’enregistrement du partenariat et jusqu’à l’entrée en force d’une taxation commune, la dernière déclaration d’impôts déposée par chaque conjoint sert de preuve conformément aux al. 2 et 3.
+
+[^10b-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^10b-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+#### Art. 10c
+
+**Étendue de la couverture d’assurance**
+
+La couverture d’assurance englobe:
+
+- a.[^10c-1] une assurance d’indemnités journalières couvrant les risques d’incapacité de travail pour cause de maladie et d’accident, à l’exclusion de la maternité;
+- b. une prévention des risques d’invalidité et de décès pour cause de maladie et d’accident.
+
+[^10c-1]: Erratum du 9 mai 2025 ([RO 2025 290](https://fedlex.data.admin.ch/eli/oc/2025/290)).
+
+#### Art. 10d
+
+**Exigences relatives à l’indemnité journalière**
+
+<sup>1</sup> L’indemnité journalière s’élève à au moins 100 francs par jour.
+
+<sup>2</sup> Elle est versée pendant la durée de l’incapacité de travail, au plus tard après un délai d’attente de 60 jours. Elle est versée au maximum pendant deux ans.
+
+#### Art. 10e
+
+**Exigences relatives à la prévention des risques**
+
+<sup>1</sup>
+
+La prévention des risques prévoit:
+
+- a. une rente d’au moins 24 000 francs par année, ou
+- b. une prestation en capital d’au moins 300 000 francs.
+
+<sup>2</sup> Si une combinaison de rente et de prestation en capital est choisie, les montants minimaux indiqués à l’al. 1 s’appliquent proportionnellement.
+
+#### Art. 10f
+
+**Exceptions à l’obligation de couverture d’assurance en raison de l’état de santé de la personne à assurer**
+
+<sup>1</sup> Si un ou plusieurs des risques visés à l’art. 10*c* ne peuvent pas être assurés parce qu’une assurance a refusé la personne à assurer en raison de son état de santé ou a émis des réserves, l’obligation de couverture d’assurance ne s’applique pas.
+
+<sup>2</sup> Les réserves peuvent remonter à cinq ans au plus.
 
 ### Section 2 Prestations écologiques requises
 
@@ -2179,7 +2265,8 @@ La demande doit comprendre notamment les indications suivantes:
 
 - e.[^98-6] les indications nécessaires pour le calcul des contributions au système de production;
 - f. les mutations de surfaces et l’adresse des exploitations concernées par ces transferts, avec indication du nom de l’ancien et du nouvel exploitant;
-- g. les paiements directs de l’Union européenne touchés l’année précédente pour les surfaces exploitées par tradition dans la zone limitrophe étrangère.
+- g. les paiements directs de l’Union européenne touchés l’année précédente pour les surfaces exploitées par tradition dans la zone limitrophe étrangère;
+- h.[^98-7] une déclaration attestant qu’il n’existe pas d’obligation de couverture d’assurance conformément aux art. 10*a* à 10*f* ou attestant de la conclusion d’une couverture d’assurance conformément aux art. 10*a* à 10*f*.
 
 <sup>4</sup> À la demande du canton, les exploitants d’entreprises agricoles ayant des surfaces exploitées par tradition dans la zone limitrophe étrangère doivent produire une attestation du service officiel étranger chargé du versement, sur laquelle figure le montant des paiements directs octroyés par l’UE.
 
@@ -2190,7 +2277,7 @@ La demande doit comprendre notamment les indications suivantes:
 Le canton décide:
 
 - a. si la demande doit être déposée sur support papier ou par voie électronique;
-- b.[^98-7] si les requêtes qui sont déposées par voie électronique peuvent être munies d’une signature électronique qualifiée au sens de l’art. 2, let. e, de la loi du 18 mars 2016 sur la signature électronique[^98-8].
+- b.[^98-8] si les requêtes qui sont déposées par voie électronique peuvent être munies d’une signature électronique qualifiée au sens de l’art. 2, let. e, de la loi du 18 mars 2016 sur la signature électronique[^98-9].
 
 [^98-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^98-2]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
@@ -2198,8 +2285,9 @@ Le canton décide:
 [^98-4]: Abrogée par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^98-5]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^98-6]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^98-7]: Nouvelle teneur selon l’annexe ch. II 9 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^98-8]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^98-7]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^98-8]: Nouvelle teneur selon l’annexe ch. II 9 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^98-9]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 99
 
@@ -2253,7 +2341,11 @@ En cas de modification des taux de contribution pour des mesures assorties d’u
 
 **Attestation**
 
-Les exploitants qui déposent une demande pour certains types de paiements directs doivent prouver aux autorités d’exécution qu’ils satisfont ou ont satisfait aux exigences des types de paiements directs concernés, y compris celles des PER, dans l’ensemble de l’exploitation.
+<sup>1</sup> Les exploitants qui déposent une demande pour certains types de paiements directs doivent prouver aux autorités d’exécution qu’ils satisfont ou ont satisfait aux exigences des types de paiements directs concernés, y compris celles des PER, dans l’ensemble de l’exploitation.
+
+<sup>2</sup> Sur demande de l’autorité d’exécution, les exploitants doivent fournir la preuve des indications visées à l’art. 98, al. 3, let. h. La couverture d’assurance est prouvée au moyen d’une attestation d’assurance.[^101-1]
+
+[^101-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 102
 
@@ -2263,10 +2355,13 @@ Les exploitants qui déposent une demande pour certains types de paiements direc
 
 <sup>2</sup> Tous les contrôles concernant la protection des animaux dans le cadre des PER doivent être effectués conformément aux dispositions de la législation en matière de protection des animaux.
 
-<sup>3 et <sup>4</sup></sup> …[^102-2]
+<sup>3</sup> Les cantons contrôlent chaque année par sondage et en fonction des risques si la couverture d’assurance en cas de maladie et d’accident requise selon les art. 10*a* à 10*f* a été conclue. Ils contrôlent en outre chaque exploitation conformément à l’art. 3, al. 1, OCCEA.[^102-2]
+
+<sup>4</sup> …[^102-3]
 
 [^102-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
-[^102-2]: Abrogés par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^102-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^102-3]: Abrogé par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 103
 
@@ -2622,10 +2717,9 @@ Pour le calcul de la correction linéaire selon le module complémentaire 6 et d
 
 <sup>1</sup> En cas de manquement constaté conformément à l’annexe 8, ch. 2.2.9a, let. d, les paiements directs ne sont pas réduits en 2025 et 2026.
 
-<sup>2</sup> …[^115h-2]
+<sup>2</sup> L’obligation de couverture d’assurance en cas de maladie et d’accident ne s’applique pas aux personnes visées à l’art. 10*a*, al. 1, nées en 1972 ou antérieurement.
 
-[^115h-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
-[^115h-2]: En vigueur le 1<sup>er</sup> janv. 2027.
+[^115h-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve de l’al. 2, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 115i
 
@@ -2683,7 +2777,7 @@ Annexe 1[^t-1]
 
 ## Prestations écologiques requises
 
-[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), le ch. I de l’O de l’OFAG du 5 oct. 2022 ([RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve du ch. 2.1.3, en vigueur jusqu’au 31 déc. 2026 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), le ch. I de l’O de l’OFAG du 5 oct. 2022 ([RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Enregistrements
 
@@ -2694,23 +2788,40 @@ Annexe 1[^t-1]
   - a. la liste des parcelles, la surface de l’exploitation, la surface agricole utile, les autres surfaces;
   - b. le plan des parcelles comprenant les parcelles d’exploitation ainsi que le plan des parcelles des surfaces de promotion de la biodiversité;
   - c. la fumure, la protection phytosanitaire (produit utilisé, numéro d’homologation du produit utilisé, date d’utilisation et quantité appliquée), les dates de récolte et les rendements, ainsi que, pour les grandes cultures, des données supplémentaires concernant les variétés, l’assolement et le travail du sol;
-  - d. le bilan de fumure calculé et les documents permettant de calculer le bilan de fumure;
+  - d. le bilan de fumure calculé dans le service central en ligne mis à disposition par l’OFAG et validé pour l’exécution ainsi que les documents nécessaires selon le guide Suisse-Bilanz[^annex1-lvlu1-lvl1-1];
   - e. d’autres enregistrements, dans la mesure où ils sont utiles.
 
 - 1\.2 L’enregistrement visé au ch. 1.1, let. a et b, n’est pas obligatoire si le canton met à disposition les représentations GIS et les listes de données mises à jour par voie électronique. Les cantons règlent la procédure.
+
+[^annex1-lvlu1-lvl1-1]: La version applicable du guide peut être consultée à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 
 ### 2 Bilan de fumure équilibré
 
 ### 2.1 Bilan de fumure
 
-- 2\.1.1 Le bilan de fumure sert à montrer que les apports d’azote et de phosphore ne sont pas excédentaires. Le bilan est calculé à l’aide de la méthode «Suisse-Bilanz», d’après le Guide Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-1] de l’OFAG. Sont applicables l’édition valable à partir du 1<sup>er</sup> janvier de l’année en cours et celle valable à partir du 1<sup>er</sup> janvier de l’année précédente. L’exploitant peut choisir laquelle des deux éditions il souhaite appliquer. L’OFAG est responsable de l’autorisation des logiciels de calcul du bilan de fumure.
-- 2\.1.2 Concernant le calcul du bilan de fumure, ce sont les données de l’année civile précédant l’année de contributions qui sont déterminantes. Le bilan de fumure doit être calculé chaque année. Lors du contrôle c’est le bilan de fumure bouclé de l’année précédente qui est déterminant.
-- 2\.1.3 L’ensemble des transferts d’engrais de ferme et d’engrais de recyclage à l’intérieur ou en dehors de l’agriculture ainsi qu’entre les exploitations doit être enregistré dans le système central d’information sur la gestion des éléments fertilisants de l’application Internet Hoduflu, en vertu de l’art. 14 OSIAgr[^annex1-lvlu1-lvl2-lvl21-2]. Seuls les transferts d’engrais de ferme et d’engrais de recyclage enregistrés dans ce système sont pris en compte dans le calcul du «Suisse-Bilanz». Le canton peut refuser les teneurs en éléments fertilisants non plausibles. Sur demande du canton, le remettant doit démontrer à ses frais la plausibilité des teneurs indiquées.
+- 2\.1.1 Le bilan de fumure sert à montrer que les apports d’azote et de phosphore ne sont pas excédentaires. Le bilan est calculé à l’aide de la méthode «Suisse-Bilanz», d’après le Guide Suisse-Bilanz de l’OFAG. L’exploitant peut appliquer l’édition du guide valable à partir du 1<sup>er</sup> janvier de l’année de contributions ou celle valable à partir du 1<sup>er</sup> janvier de l’année précédente.
+- 2\.1.2 Pour le calcul du bilan de fumure, les données déterminantes sont celles de l’année civile précédant l’année de contributions. Le bilan de fumure doit être calculé chaque année. Lors du contrôle, le bilan de fumure bouclé de l’année précédente est déterminant. Le calcul et la validation du bilan de fumure pour l’exécution sont à effectuer par voie électronique dans le service central en ligne mis à disposition par l’OFAG.
+- 2\.1.3 …
+- 2\.1.3a
+
+  Les transferts d’éléments fertilisants suivants sont pris en compte pour le calcul du bilan de fumure:
+
+  - a. les transferts d’engrais et d’aliments concentrés saisis dans le système central d’information sur la gestion des éléments fertilisants visé à l’art. 14 OSIAgr;
+  - b. les transferts de fourrage de base.
+
+- 2\.1.3b Le canton peut refuser les teneurs en éléments fertilisants non plausibles utilisées dans le calcul visé au ch. 2.1.3a. Sur demande du canton, le remettant doit démontrer à ses frais la plausibilité des teneurs indiquées.
 - 2\.1.4 *Abrogé*
 - 2\.1.5 En ce qui concerne le bilan de phosphore établi sur la base d’un bilan de fumure bouclé, il doit correspondre aux besoins des cultures dans l’ensemble de l’exploitation. Les cantons peuvent édicter des règles plus sévères pour certaines régions ou certaines exploitations. S’ils produisent un plan de fumure, les exploitants peuvent faire valoir un besoin en engrais plus élevé à condition de prouver, à l’aide d’analyses du sol effectuées selon des méthodes reconnues par un laboratoire agréé, que la teneur des sols en phosphore est insuffisante. Cette fertilisation n’est pas autorisée pour les prairies peu intensives. Le ch. 2.1.6 est réservé.
-- 2\.1.6 Eu égard à la problématique du phosphore, les exploitations situées dans une aire d’alimentation (Zo) que le canton a délimitée conformément à l’art. 29, al. 1, let. d, de l’ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)[^annex1-lvlu1-lvl2-lvl21-3] qui présentent selon «Suisse-Bilan» un taux d’auto-fertilisation en phosphore (production d’éléments fertilisants avant la cession des engrais de ferme, divisée par le besoin des cultures en éléments fertilisants) supérieur à 100 %, peuvent épandre au maximum 80 % de leurs besoins en phosphore. Si l’exploitant prouve à l’aide d’échantillons de sol prélevés par les autorités de contrôle compétentes qu’aucune parcelle d’exploitation n’appartient aux classes de fertilité D ou E au sens du ch. 2.2, les dispositions du ch. 2.1.5 sont applicables. Pour ces régions, les cantons fixent, d’entente avec l’OFAG, des rendements en matière sèche maximaux pour le bilan de fumure.
+- 2\.1.6 Eu égard à la problématique du phosphore, les exploitations situées dans une aire d’alimentation (Zo) que le canton a délimitée conformément à l’art. 29, al. 1, let. d, de l’ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)[^annex1-lvlu1-lvl2-lvl21-1] qui présentent selon «Suisse-Bilan» un taux d’auto-fertilisation en phosphore (production d’éléments fertilisants avant la cession des engrais de ferme, divisée par le besoin des cultures en éléments fertilisants) supérieur à 100 %, peuvent épandre au maximum 80 % de leurs besoins en phosphore. Si l’exploitant prouve à l’aide d’échantillons de sol prélevés par les autorités de contrôle compétentes qu’aucune parcelle d’exploitation n’appartient aux classes de fertilité D ou E au sens du ch. 2.2, les dispositions du ch. 2.1.5 sont applicables. Pour ces régions, les cantons fixent, d’entente avec l’OFAG, des rendements en matière sèche maximaux pour le bilan de fumure.
 - 2\.1.7 En ce qui concerne le bilan d’azote établi sur la base d’un bilan de fumure bouclé, il doit correspondre aux besoins des cultures dans l’ensemble de l’exploitation. Les cantons peuvent prévoir des règles plus sévères pour certaines régions ou certaines exploitations.
-- 2\.1.8 Le report d’éléments fertilisants sur le bilan de fumure des années suivantes n’est d’une manière générale pas possible. En viticulture et en arboriculture, la répartition des engrais phosphorés sur plusieurs années est autorisée. En ce qui concerne les autres cultures, l’apport de phosphore sous forme de compost et de chaux peut être réparti sur trois années au maximum. Les apports d’azote issus de ces engrais doivent toutefois être portés intégralement au bilan de l’année d’application.
+- 2\.1.8
+
+  Le report d’éléments fertilisants sur le bilan de fumure des années suivantes est autorisé selon les modalités suivantes:
+
+  - a. au maximum 5 % du phosphore et de l’azote, calculés en kg des besoins en éléments fertilisants, peuvent être transférés dans le bilan de fumure de l’année suivante si aucun report n’a eu lieu l’année précédente;
+  - b. en viticulture et en arboriculture, la répartition des engrais phosphorés épandus sur cinq ans au maximum est autorisée;
+  - c. pour les autres cultures, l’apport de phosphore sous forme de compost et de chaux peut être réparti sur trois années au maximum.
+
 - 2\.1.9
 
   Les exploitation qui n’importent pas d’engrais azotés ou phosphorés sont dispensées du calcul de l’équilibre de la fumure dans l’ensemble de l’exploitation, si la charge en bétail par hectare de surface fertilisable ne dépasse pas les valeurs suivantes:
@@ -2752,14 +2863,12 @@ Annexe 1[^t-1]
 </table>
 
 - 2\.1.10 Dans les cas spéciaux, notamment pour les exploitations pratiquant des cultures spéciales ou la garde d’animaux sans base fourragère, les cantons peuvent exiger un bilan de fumure même si les limites prévues aux ch. 2.1.9 et 2.1.9a ne sont pas atteintes.
-- 2\.1.11 Les rendements en MS des prairies et pâturages fixés dans le tableau 3 du guide Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-4] servent de valeurs maximales pour le bilan de fumure équilibré. Si les rendements annoncés dépassent ces valeurs, ils doivent être justifiés à l’aide d’une estimation de la valeur de rendement. Le canton peut refuser les estimations de la valeur de rendement non plausibles. Le demandeur doit démontrer à ses frais la plausibilité de ses estimations sur demande du canton.
+- 2\.1.11 Les rendements en MS des prairies et pâturages fixés dans le tableau 3 du guide Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-2] servent de valeurs maximales pour le bilan de fumure équilibré. Si les rendements annoncés dépassent ces valeurs, ils doivent être justifiés à l’aide d’une estimation de la valeur de rendement. Le canton peut refuser les estimations de la valeur de rendement non plausibles. Le demandeur doit démontrer à ses frais la plausibilité de ses estimations sur demande du canton.
 - 2\.1.12 La clôture de la correction linéaire selon le module complémentaire 6 et du bilan import-export selon le module complémentaire 7 de la méthode «Suisse-Bilanz», selon le ch. 2.1.1, doit avoir lieu entre le 1<sup>er</sup> avril et le 31 août de l’année de contributions. La période de calcul doit comprendre au moins les dix mois précédents. La correction linéaire ou le bilan import-export réalisés doivent être déposés auprès de l’organe d’exécution cantonal au plus tard le 30 septembre de l’année de contributions.
 - 2\.1.13 Les exploitations qui ont conclu des conventions sur la correction linéaire selon le module complémentaire 6 ou sur le bilan import-export selon le module complémentaire 7 de la méthode «Suisse-Bilanz», doivent utiliser les teneurs en éléments fertilisants spécifiques à l’exploitation pour les transferts d’engrais de ferme saisis dans système central d’information sur la gestion des éléments fertilisants.
 
-[^annex1-lvlu1-lvl2-lvl21-1]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
-[^annex1-lvlu1-lvl2-lvl21-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
-[^annex1-lvlu1-lvl2-lvl21-3]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl2-lvl21-4]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
+[^annex1-lvlu1-lvl2-lvl21-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^annex1-lvlu1-lvl2-lvl21-2]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 
 ### 2.2 Analyses du sol
 
@@ -2860,7 +2969,7 @@ Annexe 1[^t-1]
 - 5\.1.6 Si la cause de la perte de sol visée au ch. 5.1.2 sur une parcelle d’exploitation n’est pas claire, le service cantonal compétent la détermine. Il veille ensuite à ce qu’une procédure concertée de prévention de l’érosion soit appliquée dans la région concernée.
 - 5\.1.7 Les contrôles sont effectués de manière ciblée dans les zones à risque après des précipitations. Les services cantonaux compétents établissent une liste des pertes de sol constatées.
 
-[^annex1-lvlu1-lvl5-lvl51-1]: La fiche technique est disponible sous: [www.agridea.ch](http://www.agridea.ch) &gt; Publications &gt; Environnement, Paysage &gt; Protection des ressources (eau-air-sol) &gt; Erosion: Quelle quantité de terre perdue?
+[^annex1-lvlu1-lvl5-lvl51-1]: La fiche technique est disponible sous [https://shop.agridea.ch/](https://shop.agridea.ch/fr/categorie/protection-des-ressources) &gt; Publications &gt; Production végétale, Environnement &gt; Protection des ressources
 
 ### 6 Sélection et utilisation ciblée des produits phytosanitaires
 
@@ -3034,7 +3143,7 @@ Annexe 1[^t-1]
 - 9\.7 Les prescriptions en matière d’exploitation et la largeur des bordures tampon doivent être respectées conformément à l’art. 18*a* et 18*b* LPN[^annex1-lvlu1-lvl9-3], le long des bas-marais, des sites de reproduction de batraciens et des prairies et pâturages secs.
 
 [^annex1-lvlu1-lvl9-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl9-2]: La brochure est disponible sous [www.agridea.ch](http://www.agridea.ch) &gt; [Accueil](https://agridea.abacuscity.ch/fr/0~0~Shop)&gt; [Publications](https://agridea.abacuscity.ch/fr/1~1~Shop/Publications)&gt; [Production végétale, Environnement](https://agridea.abacuscity.ch/fr/2~410~Shop/Publications/Production-v%C3%A9g%C3%A9tale-Environnement)&gt; [Aspects légaux et administratifs](https://agridea.abacuscity.ch/fr/3~410420~Shop/Publications/Production-v%C3%A9g%C3%A9tale-Environnement/Aspects-l%C3%A9gaux-et-administratifs)
+[^annex1-lvlu1-lvl9-2]: La brochure est disponible sous [https://shop.agridea.ch/](https://shop.agridea.ch/fr/categorie/biodiversite) &gt; Publications &gt; Production végétale, Environnement &gt; Biodiversité.
 [^annex1-lvlu1-lvl9-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 Annexe 2[^t-2]
@@ -4409,7 +4518,7 @@ Annexe 8[^t-9]
 
 ## Réduction des paiements directs
 
-[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II des O du 6 nov. 2024 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) et du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II des O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage) ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)) et du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Généralités
 
@@ -4513,6 +4622,11 @@ Annexe 8[^t-9]
 
 [^annex8-lvlu1-lvl2-lvl21-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
+### 2.1a Couverture d’assurance en cas de maladie et d’accident
+
+- 2\.1a.1 En cas d’absence ou de lacune de couverture d’assurance maladie ou d’assurance accident, la réduction est de 10 % du total des paiements directs pour la première infraction, mais au minimum de 500 francs et au maximum de 2000 francs par an.
+- La réduction en pourcentage et les montants minimaux et maximaux sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.
+
 ### 2.2 Prestations écologiques requises
 
 - 2\.2.1 Les réductions consistent en des déductions de montants forfaitaires et de montants par unité; des points sont également distribués et convertis en montants au moyen du calcul suivant:
@@ -4531,7 +4645,7 @@ Annexe 8[^t-9]
 
 <table>
 <tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
-<tr><td>a. Plan d’exploitation, liste des parcelles, rapport sur la rotation des cultures ou formulaire sur les parts de cultures disponible, bulletins de livraison des engrais de ferme ou extrait d’HODUFLU, enregistrements des aliments NPr, analyses du sol (de plus de 10 ans), tests des pulvérisateurs de plus de 3 ans incomplets, manquants, erronés, inutilisables ou invalides (annexe 1, ch. 1, 2.2 et 6.1a.1)</td><td>50 fr. par document ou par analyse du sol La réduction n’est effectuée que si le manquement est encore présent à l’expiration du délai supplémentaire accordé ou si le document n’est pas fourni</td></tr>
+<tr><td>a. Plan d’exploitation, liste des parcelles, rapport sur la rotation des cultures ou formulaire sur les parts de cultures disponibles, enregistrements des aliments NPr, analyses du sol (de plus de 10 ans), tests des pulvérisateurs de plus de 3 ans, incomplets, manquants, erronés, inutilisables ou invalides (annexe 1, ch. 1, 2.2 et 6.1a.1)</td><td>[tab] 50 fr. par document ou par analyse du sol La réduction n’est effectuée que si le manquement est encore présent à l’expiration du délai supplémentaire accordé ou si le document n’est pas fourni</td></tr>
 <tr><td>b. Bilan de fumure (y compris les justificatifs nécessaires) incomplet, manquant, erroné ou inutilisable (annexe 1, ch. 1)</td><td>[tab] 200 fr. Si le manquement est encore présent après l’expiration du délai supplémentaire accordé de 10 jours au maximum, 110 points sont déduits</td></tr>
 <tr><td>c. Calendrier des prairies ou carnet des prés, carnet des champs ou fiches de cultures, incomplets, manquants, erronés ou inutilisables; actualisation: jusqu’à une semaine avant le contrôle (annexe 1, ch. 1)</td><td>200 fr. par document</td></tr>
 <tr><td>d. Bilan de fumure simplifié (y compris les justificatifs nécessaires) incomplet, manquant, erroné ou inutilisable (annexe 1, ch. 2.1.9a)</td><td>200 fr. Délai supplémentaire pour le bilan de fumure selon la méthode «Suisse-Bilanz»</td></tr>

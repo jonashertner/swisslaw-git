@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20260101-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20270101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2026)
+vom 23. Oktober 2013 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -210,6 +210,90 @@ Natürliche und juristische Personen sowie öffentlich-rechtliche Körperschafte
 <sup>2</sup> Kantone sind nicht beitragsberechtigt.
 
 <sup>3</sup> Die Voraussetzungen nach den Artikeln 3–9 sind nicht anwendbar.
+
+### 1*a*. Abschnitt: Versicherungsschutz bei Krankheit und Unfall
+
+[^tit1-chap2-sec1a-1]
+
+[^tit1-chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+
+#### Art. 10a
+
+**Erfordernis**
+
+<sup>1</sup>
+
+Die Ehepartnerin, der Ehepartner, die eingetragene Partnerin oder der eingetragene Partner des Bewirtschafters oder der Bewirtschafterin muss über einen Versicherungsschutz bei Krankheit und Unfall verfügen, wenn sie oder er:
+
+- a. am 1. Januar des Beitragsjahres mit dem Bewirtschafter oder der Bewirtschafterin des Betriebs verheiratet ist oder in eingetragener Partnerschaft lebt;
+- b. am 1. Januar des Beitragsjahres das 65. Altersjahr noch nicht vollendet hat; und
+- c. im Jahr vor dem Beitragsjahr kein eigenes Einkommen erzielt hat, das höher ist als der jährliche Mindestlohn nach Artikel 7 des Bundesgesetzes vom 25. Juni 1982[^10a-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge.
+
+<sup>2</sup> Als regelmässige und beträchtliche Mitarbeit auf dem Betrieb im Sinne von Artikel 70*a* Absatz 1 Buchstabe i LwG gilt eine Mitarbeit, die in der Steuererklärung mit einem Zweiverdienerabzug nach Artikel 33 Absatz 2 des Bundesgesetzes vom 14. Dezember 1990[^10a-2] über die direkte Bundessteuer (DBG) geltend gemacht wurde.
+
+[^10a-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^10a-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+#### Art. 10b
+
+**Ausnahmen vom Erfordernis**
+
+<sup>1</sup>
+
+Kein Versicherungsschutz ist erforderlich, wenn:
+
+- a. der Bewirtschafter oder die Bewirtschafterin nachweist, dass die Ehepartnerin, der Ehepartner, die eingetragene Partnerin oder der eingetragene Partner im Jahr vor dem Beitragsjahr ein eigenes Einkommen über dem jährlichen Mindestlohn nach Artikel 7 des Bundesgesetzes vom 25. Juni 1982[^10b-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge erzielt hat;
+- b. der Bewirtschafter oder die Bewirtschafterin keinen Zweiverdienerabzug nach Artikel 33 Absatz 2 DBG[^10b-2] in der Steuererklärung geltend gemacht hat;
+- c. das Bewirtschafterpaar im Durchschnitt der letzten zwei Jahre vor dem Beitragsjahr ein steuerbares Einkommen nach dem DBG von höchstens 12 000 Franken erzielt hat;
+- d. der Betrieb von einer juristischen Person nach Artikel 3 Absatz 3 bewirtschaftet wird; oder
+- e. es sich bei dem Betrieb um einen Sömmerungs- oder Gemeinschaftsweidebetrieb handelt.
+
+<sup>2</sup> Massgebend für den Nachweis, dass kein Zweiverdienerabzug nach Artikel 33 Absatz 2 DBG geltend gemacht wurde, ist das letzte Steuerjahr, das vor dem Beitragsjahr rechtskräftig veranlagt worden ist.Liegt dieses mehr als vier Jahre zurück, so wird auf die provisorische Veranlagung abgestellt.
+
+<sup>3</sup> Massgebend für den Nachweis des steuerbaren Einkommens des Bewirtschafterpaares nach Absatz 1 Buchstabe c sind die Werte der letzten zwei Steuerjahre, die bis zum Ende des Beitragsjahres rechtskräftig veranlagt worden sind. Liegen diese mehr als vier Jahre zurück, so wird auf die provisorische Veranlagung abgestellt.
+
+<sup>4</sup> Nach der Heirat oder nach der Eintragung einer Partnerschaft gelten bis zum Vorliegen einer gemeinsamen Veranlagung die letzten eingereichten Steuererklärungen beider Personen als Nachweis nach den Absätzen 2 und 3.
+
+[^10b-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^10b-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+#### Art. 10c
+
+**Umfang des Versicherungsschutzes**
+
+Der Versicherungsschutz muss umfassen:
+
+- a. eine Taggeldversicherung mit Abdeckung des Risikos Arbeitsunfähigkeit infolge Krankheit und Unfall, ohne Mutterschaft;
+- b. eine Risikovorsorge mit Abdeckung der Risiken Invalidität und Tod infolge Krankheit und Unfall.
+
+#### Art. 10d
+
+**Anforderungen an die Taggeldversicherung**
+
+<sup>1</sup> Das Taggeld muss mindestens 100 Franken pro Tag betragen.
+
+<sup>2</sup> Es muss spätestens nach 60 Tagen Wartefrist während der Dauer der Arbeitsunfähigkeit ausgerichtet werden. Es darf längstens während zweier Jahre ausgerichtet werden.
+
+#### Art. 10e
+
+**Anforderungen an die Risikovorsorge**
+
+<sup>1</sup>
+
+Die Risikovorsorge muss vorsehen:
+
+- a. eine Rente in der Höhe von mindestens 24 000 Franken pro Jahr; oder
+- b. eine Kapitalleistung in der Höhe von mindestens 300 000 Franken.
+
+<sup>2</sup> Wird eine Kombination von Rente und Kapitalleistung gewählt, so gelten die Mindesthöhen nach Absatz 1 anteilsmässig.
+
+#### Art. 10f
+
+**Ausnahmen vom Erfordernis eines Versicherungsschutzes aufgrund des Gesundheitszustands der zu versichernden Person**
+
+<sup>1</sup> Kann eines oder mehrere der Risiken nach Artikel 10*c* nicht versichert werden, weil eine Versicherung die zu versichernde Person wegen ihres Gesundheitszustands abgelehnt oder einen Vorbehalt angebracht hat, so besteht keine Pflicht zu einem entsprechenden Versicherungsschutz.
+
+<sup>2</sup> Der Vorbehalt darf höchstens fünf Jahre alt sein.
 
 ### 2. Abschnitt: Ökologischer Leistungsnachweis
 
@@ -1517,7 +1601,7 @@ Nützlingsstreifen dürfen wie folgt geschnitten werden:
 [^71b-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^71b-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-4]: Die jeweils geltenden Zusammensetzungen der geeigneten Saatmischungen sind abrufbar unter: [www.blw.admin.ch/de/produktionssystembeitraege](https://www.blw.admin.ch/de/produktionssystembeitraege).
+[^71b-4]: Die jeweils geltenden Zusammensetzungen der geeigneten Saatmischungen sind abrufbar unter: [www.blw.adm i n.ch/de/produktionssystembeitraege](https://www.blw.admin.ch/de/produktionssystembeitraege).
 [^71b-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-6]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^71b-7]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
@@ -2177,7 +2261,8 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 
 - e.[^98-6] die erforderlichen Angaben für die Festsetzung der Produktionssystembeiträge;
 - f. Flächenänderungen, die Adresse der davon betroffenen Betriebe sowie die bisherigen und die neuen Bewirtschafter und Bewirtschafterinnen;
-- g. die für angestammte Flächen in der ausländischen Grenzzone für das Vorjahr erhaltenen Direktzahlungen der EU.
+- g. die für angestammte Flächen in der ausländischen Grenzzone für das Vorjahr erhaltenen Direktzahlungen der EU;
+- h. [^98-7] eine Erklärung, dass keine Versicherungspflicht nach den Artikeln 10*a*–10*f* besteht oder dass ein Versicherungsschutz nach den Artikeln 10*a*–10*f* abgeschlossen wurde.
 
 <sup>4</sup> Bewirtschafter und Bewirtschafterinnen von Betrieben mit angestammten Flächen in der ausländischen Wirtschaftszone haben dem Kanton auf Verlangen eine Bestätigung der mit der Auszahlung beauftragten ausländischen Amtsstelle über die ausgerichteten Direktzahlungen der EU einzureichen.
 
@@ -2188,7 +2273,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 Der Kanton bestimmt:
 
 - a. ob das Gesuch in Papierform oder elektronisch einzureichen ist;
-- b.[^98-7] ob Gesuche, die elektronisch eingereicht werden, mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^98-8] über die elektronische Signatur versehen werden können.
+- b.[^98-8] ob Gesuche, die elektronisch eingereicht werden, mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^98-9] über die elektronische Signatur versehen werden können.
 
 [^98-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^98-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
@@ -2196,8 +2281,9 @@ Der Kanton bestimmt:
 [^98-4]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^98-5]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^98-6]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
-[^98-7]: Fassung gemäss Anhang Ziff. II 9 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^98-8]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^98-7]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^98-8]: Fassung gemäss Anhang Ziff. II 9 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^98-9]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 99
 
@@ -2251,7 +2337,11 @@ Bei der Änderung von Beitragsansätzen für Massnahmen mit einer bestimmten Ver
 
 **Nachweis**
 
-Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahlungsarten einreichen, haben gegenüber den Vollzugsbehörden nachzuweisen, dass sie die Anforderungen der betreffenden Direktzahlungsarten, einschliesslich jene des ÖLN, auf dem gesamten Betrieb erfüllen beziehungsweise erfüllt haben.
+<sup>1</sup> Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahlungsarten einreichen, haben gegenüber den Vollzugsbehörden nachzuweisen, dass sie die Anforderungen der betreffenden Direktzahlungsarten, einschliesslich jene des ÖLN, auf dem gesamten Betrieb erfüllen beziehungsweise erfüllt haben.
+
+<sup>2</sup> Bewirtschafter und Bewirtschafterinnen müssen auf Verlangen der Vollzugsbehörde ihre Angaben nach Artikel 98 Absatz 3 Buchstabe h belegen. Der Versicherungsschutz ist mit einer Bestätigung einer Versicherung nachzuweisen.[^101-1]
+
+[^101-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 102
 
@@ -2261,10 +2351,13 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>2</sup> Tierschutzkontrollen im Rahmen des ÖLN sind nach den Bestimmungen der Tierschutzgesetzgebung durchzuführen.
 
-<sup>3 und <sup>4</sup></sup> …[^102-2]
+<sup>3</sup> Die Kantone kontrollieren jährlich stichprobenweise und risikobasiert, ob der erforderliche Versicherungsschutz bei Krankheit und Unfall nach den Artikeln 10*a*–10*f* vorhanden ist. Sie kontrollieren zudem jeden Betrieb gemäss Artikel 3 Absatz 1 VKKL.[^102-2]
+
+<sup>4</sup> …[^102-3]
 
 [^102-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
-[^102-2]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^102-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^102-3]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 103
 
@@ -2618,10 +2711,9 @@ Für die Berechnung der linearen Korrektur gemäss Zusatzmodul 6 und der Import/
 
 <sup>1</sup> Bei festgestellten Mängeln nach Anhang 8 Ziffer 2.2.9a Buchstabe d werden die Direktzahlungen für die Jahre 2025 und 2026 nicht gekürzt.
 
-<sup>2</sup> …[^115h-2]
+<sup>2</sup> Für Personen nach Artikel 10*a* Absatz 1 mit Jahrgang 1972 und älter besteht keine Pflicht zu einem Versicherungsschutz bei Krankheit und Unfall.
 
-[^115h-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
-[^115h-2]: Noch nicht in Kraft.
+[^115h-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025, Abs. 2 in Kraft seit 1. Jan. 2027 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 #### Art. 115i
 
@@ -2679,7 +2771,7 @@ Anhang 1[^t-1]
 
 ## Ökologischer Leistungsnachweis
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), Ziff. I der V des BLW vom 5. Okt. 2022 ([AS 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), Ziff. II Abs. 1 der V vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) und Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025, Ziff. 2.1.3 bis zum 31. Dez. 2026 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), Ziff. I der V des BLW vom 5. Okt. 2022 ([AS 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), Ziff. II Abs. 1 der V vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) und Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Aufzeichnungen
 
@@ -2690,23 +2782,40 @@ Anhang 1[^t-1]
   - a. Parzellenverzeichnis, Betriebsfläche, landwirtschaftliche Nutzfläche, übrige Flächen;
   - b. Parzellenplan mit Bewirtschaftungsparzellen sowie Parzellenplan der Biodiversitätsförderflächen;
   - c. Düngung, Pflanzenschutz (eingesetztes Produkt, Zulassungsnummer des eingesetzten Produktes, Einsatzdatum und ‑menge), Erntedaten und -erträge sowie bei den Ackerkulturen zusätzlich Angaben über Sorten, Fruchtfolge und Bodenbearbeitung;
-  - d. die berechnete Nährstoffbilanz und die zur Berechnung der Nährstoffbilanz notwendigen Unterlagen;
+  - d. die im vom BLW zur Verfügung gestellten zentralen Web-Service berechnete und für den Vollzug freigegebene Nährstoffbilanz sowie die gemäss Wegleitung Suisse-Bilanz[^annex1-lvlu1-lvl1-1] notwendigen Unterlagen;
   - e. weitere Aufzeichnungen, sofern diese zweckdienlich sind.
 
 - 1\.2 Die Aufzeichnungspflicht nach Ziffer 1.1 Buchstaben a und b entfällt, wenn der Kanton für die Kontrolle aktuelle GIS-Darstellungen und Datenlisten elektronisch zur Verfügung stellt. Die Kantone regeln das Verfahren.
+
+[^annex1-lvlu1-lvl1-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter: [www.blw.admin.ch](https://www.blw.admin.ch/blw/de/home.html) &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungs-nachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
 
 ### 2 Ausgeglichene Düngerbilanz
 
 ### 2.1 Nährstoffbilanz
 
-- 2\.1.1 Mittels der Nährstoffbilanz ist zu zeigen, dass kein überschüssiger Stickstoff oder Phosphor verwendet wird. Für die Bilanzierung gilt die Methode «Suisse-Bilanz» nach der Wegleitung Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-1] des BLW. Anwendbar sind die Versionen der Wegleitung mit Geltung ab dem 1. Januar des jeweiligen Jahres und mit Geltung ab dem 1. Januar des vorangehenden Jahres. Der Bewirtschafter oder die Bewirtschafterin kann wählen, welche der Versionen er oder sie einhalten will. Das BLW ist für die Zulassung der Software-Programme zur Berechnung der Nährstoffbilanz zuständig.
-- 2\.1.2 Für die Berechnung der Nährstoffbilanz sind die Daten des Kalenderjahres massgebend, das dem Beitragsjahr vorausgeht. Die Nährstoffbilanz muss jährlich berechnet werden. Bei der Kontrolle ist die abgeschlossene Nährstoffbilanz des Vorjahres massgebend.
-- 2\.1.3 Sämtliche Verschiebungen von Hof- und Recyclingdünger, in und aus der Landwirtschaft sowie zwischen den Betrieben müssen im zentralen Informationssystem zum Nährstoffmanagement nach Artikel 14 ISLV[^annex1-lvlu1-lvl2-lvl21-2] in der Internetapplikation Hoduflu erfasst werden. Es werden nur die darin erfassten Verschiebungen von Hof- und Recyclingdünger für die Erfüllung der «Suisse-Bilanz» anerkannt. Der Kanton kann nicht plausible Nährstoffgehalte zurückweisen. Auf Verlangen des Kantons muss der Abgeber oder die Abgeberin die Plausibilität der angegebenen Nährstoffgehalte zu seinen oder ihren Lasten belegen.
+- 2\.1.1 Anhand der Nährstoffbilanz ist zu zeigen, dass kein überschüssiger Stickstoff oder Phosphor verwendet wird. Für die Bilanzierung gilt die Methode «Suisse-Bilanz» nach der Wegleitung Suisse-Bilanz des BLW. Die Bewirtschafter und Bewirtschafterinnen können die Version der Wegleitung mit Geltung ab dem 1. Januar des Beitragsjahres oder der Wegleitung mit Geltung ab dem 1. Januar des vorangehenden Jahres anwenden.
+- 2\.1.2 Für die Berechnung der Nährstoffbilanz sind die Daten des Kalenderjahres massgebend, das dem Beitragsjahr vorausgeht. Die Nährstoffbilanz muss jährlich berechnet werden. Bei der Kontrolle ist die abgeschlossene Nährstoffbilanz des Vorjahres massgebend. Die Berechnung und Freigabe der Nährstoffbilanz für den Vollzug muss elektronisch im vom BLW zur Verfügung gestellten zentralen Web-Service erfolgen.
+- 2\.1.3 …
+- 2\.1.3a
+
+  Für die Berechnung der Nährstoffbilanz sind die folgenden Nährstoffverschiebungen massgebend:
+
+  - a. die im zentralen Informationssystem zum Nährstoffmanagement nach Artikel 14 ISLV erfassten Verschiebungen von Düngern und Kraftfutter;
+  - b. die Verschiebungen von Grundfutter.
+
+- 2\.1.3b Der Kanton kann nicht plausible Nährstoffgehalte, die bei der Berechnung nach Ziffer 2.1.3a verwendet wurden, zurückweisen. Auf Verlangen des Kantons muss der Abgeber oder die Abgeberin die Plausibilität der angegebenen Nährstoffgehalte zu seinen oder ihren Lasten belegen.
 - 2\.1.4 …
 - 2\.1.5 Die Phosphorbilanz der abgeschlossenen Nährstoffbilanz muss gesamtbetrieblich dem Bedarf der Kulturen entsprechen. Die Kantone können für bestimmte Gebiete und Betriebe strengere Regeln verordnen. Betriebe, die mit Bodenanalysen nach einer anerkannten Methode eines anerkannten Labors den Nachweis erbringen, dass die Böden unterversorgt sind, können mit Einbezug eines gesamtbetrieblichen Düngungsplanes einen höheren Bedarf geltend machen. Wenig intensiv genutzte Wiesen dürfen dabei nicht aufgedüngt werden. Vorbehalten bleibt Ziffer 2.1.6.
-- 2\.1.6 Betriebe, die sich in einem vom Kanton nach Artikel 29 Absatz 1 Buchstabe d der Gewässerschutzverordnung vom 28. Oktober 1998[^annex1-lvlu1-lvl2-lvl21-3] (GSchV) im Hinblick auf die Phosphorproblematik ausgeschiedenen Zuströmbereich (Zo) befinden und einen Phosphoreigenversorgungsgrad (Quotient aus Nährstoffanfall vor Hofdüngerabgabe und Nährstoffbedarf der Kulturen) grösser als 100 Prozent gemäss «Suisse-Bilanz» ausweisen, dürfen maximal 80 Prozent des Phosphorbedarfs ausbringen. Weist der Betrieb mittels durch die zuständige Kontrollbehörde entnommenen Bodenproben nach, dass sich keine Bewirtschaftungsparzelle in der Bodenversorgungsklasse D oder E nach Ziffer 2.2 befindet, gelten die Bestimmungen nach Ziffer 2.1.5. In diesen Gebieten legen die Kantone in Absprache mit dem BLW maximale Trockensubstanz-Erträge für die Nährstoffbilanz fest.
+- 2\.1.6 Betriebe, die sich in einem vom Kanton nach Artikel 29 Absatz 1 Buchstabe d der Gewässerschutzverordnung vom 28. Oktober 1998[^annex1-lvlu1-lvl2-lvl21-1] (GSchV) im Hinblick auf die Phosphorproblematik ausgeschiedenen Zuströmbereich (Zo) befinden und einen Phosphoreigenversorgungsgrad (Quotient aus Nährstoffanfall vor Hofdüngerabgabe und Nährstoffbedarf der Kulturen) grösser als 100 Prozent gemäss «Suisse-Bilanz» ausweisen, dürfen maximal 80 Prozent des Phosphorbedarfs ausbringen. Weist der Betrieb mittels durch die zuständige Kontrollbehörde entnommenen Bodenproben nach, dass sich keine Bewirtschaftungsparzelle in der Bodenversorgungsklasse D oder E nach Ziffer 2.2 befindet, gelten die Bestimmungen nach Ziffer 2.1.5. In diesen Gebieten legen die Kantone in Absprache mit dem BLW maximale Trockensubstanz-Erträge für die Nährstoffbilanz fest.
 - 2\.1.7 Die Stickstoffbilanz der abgeschlossenen Nährstoffbilanz muss gesamtbetrieblich dem Bedarf der Kulturen entsprechen. Die Kantone können für bestimmte Gebiete und Betriebe strengere Regeln vorsehen.
-- 2\.1.8 Der Übertrag von Nährstoffen auf die Nährstoffbilanz des Folgejahres ist grundsätzlich nicht möglich. Im Rebbau und im Obstbau ist die Verteilung phosphorhaltiger Dünger über mehrere Jahre zugelassen. In den übrigen Kulturen darf auf den Betrieb zugeführter Phosphor in Form von Kompost und Kalk auf maximal drei Jahre verteilt werden. Der mit diesen Düngern ausgebrachte Stickstoff muss jedoch vollständig in der Stickstoffbilanz des Ausbringjahres berücksichtigt werden.
+- 2\.1.8
+
+  Der Übertrag von Nährstoffen auf die Nährstoffbilanz des Folgejahres ist wie folgt zulässig:
+
+  - a. Höchstens je 5 Prozent der Nährstoffe Phosphor und Stickstoff gemessen in kg des Nährstoffbedarfs können in die Nährstoffbilanz des Folgejahres übertragen werden, sofern im Vorjahr kein Übertrag erfolgt ist.
+  - b. Im Rebbau und im Obstbau kann ausgebrachter phosphorhaltiger Dünger auf höchstens fünf Jahre verteilt werden.
+  - c. In den übrigen Kulturen darf in Form von Kompost und Kalk zugeführter Phosphor auf höchstens drei Jahre verteilt werden.
+
 - 2\.1.9
 
   Betriebe, die keine stickstoff- oder phosphorhaltigen Dünger zuführen, sind von der Berechnung des gesamtbetrieblichen Nährstoffhaushalts befreit, wenn ihr Viehbesatz pro Hektare düngbare Fläche folgende Werte nicht überschreitet:
@@ -2748,14 +2857,12 @@ Anhang 1[^t-1]
 </table>
 
 - 2\.1.10 Die Kantone können bei Spezialfällen, namentlich bei Betrieben mit Spezialkulturen oder bodenunabhängiger Tierhaltung, auch beim Unterschreiten der Grenzen nach den Ziffern 2.1.9 und 2.1.9a eine Nährstoffbilanz verlangen.
-- 2\.1.11 Die TS-Erträge für Wiesen und Weiden gemäss Tabelle 3 der Wegleitung Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-4] gelten als Maximalwerte für die ausgeglichene Düngerbilanz. Werden höhere Erträge geltend gemacht, so sind diese mit einer Ertragsschätzung nachzuweisen. Der Kanton kann nicht plausible Ertragsschätzungen zurückweisen. Der Gesuchsteller oder die Gesuchstellerin muss die Plausibilität der Ertragsschätzungen auf Verlangen des Kantons zu seinen oder ihren Lasten belegen.
+- 2\.1.11 Die TS-Erträge für Wiesen und Weiden gemäss Tabelle 3 der Wegleitung Suisse-Bilanz[^annex1-lvlu1-lvl2-lvl21-2] gelten als Maximalwerte für die ausgeglichene Düngerbilanz. Werden höhere Erträge geltend gemacht, so sind diese mit einer Ertragsschätzung nachzuweisen. Der Kanton kann nicht plausible Ertragsschätzungen zurückweisen. Der Gesuchsteller oder die Gesuchstellerin muss die Plausibilität der Ertragsschätzungen auf Verlangen des Kantons zu seinen oder ihren Lasten belegen.
 - 2\.1.12 Der Abschluss der linearen Korrektur gemäss Zusatzmodul 6 und der Import/Export-Bilanz gemäss Zusatzmodul 7 der Methode «Suisse-Bilanz» nach Ziffer 2.1.1 muss zwischen dem 1. April und dem 31. August des Beitragsjahres erfolgen. Die Berechnungsperiode umfasst dabei mindestens die zehn vorangehenden Monate. Die abgeschlossene lineare Korrektur oder die Import/Export-Bilanz muss bis zum 30. September des Beitragsjahres der kantonalen Vollzugsstelle eingereicht werden.
 - 2\.1.13 Betriebe, mit Vereinbarungen über die lineare Korrektur gemäss Zusatzmodul 6 oder über die Import-/Export-Bilanz gemäss Zusatzmodul 7 der Methode Suisse-Bilanz müssen für im zentralen Informationssystem zum Nährstoffmanagement erfasste Hofdüngerverschiebungen betriebsspezifische Nährstoffgehalte verwenden.
 
-[^annex1-lvlu1-lvl2-lvl21-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter: [www.blw.admin.ch/de/oekologischer-leistungsnachweis](http://www.blw.admin.ch/de/oekologischer-leistungsnachweis).
-[^annex1-lvlu1-lvl2-lvl21-2]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
-[^annex1-lvlu1-lvl2-lvl21-3]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl2-lvl21-4]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter: [www.blw.admin.ch/de/oekologischer-leistungsnachweis](http://www.blw.admin.ch/de/oekologischer-leistungsnachweis).
+[^annex1-lvlu1-lvl2-lvl21-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^annex1-lvlu1-lvl2-lvl21-2]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter: [www.blw.admin.ch/de/oekologischer-leistungsnachweis](http://www.blw.admin.ch/de/oekologischer-leistungsnachweis).
 
 ### 2.2 Bodenuntersuchungen
 
@@ -2843,7 +2950,7 @@ Anhang 1[^t-1]
 ### 5.1 Erosionsschutz
 
 - 5\.1.1 Es dürfen keine relevanten erosions- und bewirtschaftungsbedingten Bodenabträge auf der Ackerfläche auftreten.
-- 5\.1.2 Ein Bodenabtrag gilt dann als relevant, wenn er mindestens den Fällen in der Rubrik «2 bis 4 t/ha» des Merkblatts «Wie viel Erde geht verloren?» von Agridea vom November 2007[^annex1-lvlu1-lvl5-lvl51-1] entspricht.
+- 5\.1.2 Ein Bodenabtrag gilt dann als relevant, wenn er mindestens den Fällen in der Rubrik «2 bis 4 t/ha» des Merkblatts «Erosion: Wie viel Erde geht verloren?» von Agridea vom November 2007[^annex1-lvlu1-lvl5-lvl51-1] entspricht.
 - 5\.1.3 Ein Bodenabtrag gilt als bewirtschaftungsbedingt, wenn er weder auf eine primär naturbedingte noch auf eine primär infrastrukturbedingte Ursache oder auf eine Kombination dieser beiden Ursachen zurückzuführen ist.
 - 5\.1.4
 
@@ -2856,7 +2963,7 @@ Anhang 1[^t-1]
 - 5\.1.6 Ist die Ursache für einen Bodenabtrag nach Ziffer 5.1.2 auf einer Bewirtschaftungsparzelle unklar, so stellt die zuständige kantonale Stelle die Ursache fest. Sie sorgt in der Folge für ein abgestimmtes Vorgehen zur Verhinderung von Erosion im entsprechenden Gebiet.
 - 5\.1.7 Die Kontrollen werden gezielt nach Regen-Ereignissen auf gefährdeten Standorten durchgeführt. Die zuständigen kantonalen Stellen führen eine Liste mit den festgestellten Bodenabträgen.
 
-[^annex1-lvlu1-lvl5-lvl51-1]: Das Merkblatt ist abrufbar unter: [www.agridea.ch](http://www.agridea.ch) &gt; Publikationen &gt; Umwelt, Natur, Landschaft &gt; Ressourcenschutz (Boden, Wasser, Luft) &gt; Wie-viel-Erde-geht-verloren?
+[^annex1-lvlu1-lvl5-lvl51-1]: Das Merkblatt ist abrufbar unter: [https://shop.agridea.ch/](https://shop.agridea.ch/de/kategorie/ressourcenschutz) &gt; Publikationen &gt; Pflanzenbau, Umwelt, Natur &gt; Ressourcenschutz.
 
 ### 6 Auswahl und gezielte Anwendung von Pflanzenschutzmitteln
 
@@ -3033,7 +3140,7 @@ Anhang 1[^t-1]
 - 9\.7 Entlang von Flachmooren, Trockenwiesen und ‑weiden sowie Amphibienlaichgebieten sind die Bewirtschaftungsvorschriften und Ausmasse der Pufferzonen nach den Artikeln 18*a* und 18*b* NHG[^annex1-lvlu1-lvl9-3] einzuhalten.
 
 [^annex1-lvlu1-lvl9-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl9-2]: Das Merkblatt ist abrufbar unter: [www.agridea.ch](http://www.agridea.ch) &gt; Übersicht &gt; Publikationen &gt; Pflanzenbau, Umwelt, Natur, Landschaft &gt; Beiträge und Bedingungen im Ökoausgleich.
+[^annex1-lvlu1-lvl9-2]: Das Merkblatt ist abrufbar unter: [https://shop.agridea.ch/](https://shop.agridea.ch/de/kategorie/biodiversitaet) &gt; Publikationen &gt; Pflanzenbau, Umwelt, Natur &gt; Biodiversität.
 [^annex1-lvlu1-lvl9-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 Anhang 2[^t-2]
@@ -4353,11 +4460,11 @@ Anhang 7[^t-8]
 
 Anhang 8[^t-9]
 
-(Art. 105 Abs. 1, 115*a* Abs. 1 und 2, 115*c* Abs. 2, 115*f* Abs. 2, 115*g* Abs. 2 und 115*i* Abs. 1, 2, 4 und 5)
+(Art. 105 Abs. 1, 115*a* Abs. 1 und 2, 115*c* Abs. 2, 115*f* Abs. 2, 115*g* Abs. 2 und 115*h* Abs. 2)
 
 ## Kürzungen der Direktzahlungen
 
-[^t-9]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) und vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^t-9]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)), vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität) ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)) und Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 
 ### 1 Allgemeines
 
@@ -4450,6 +4557,11 @@ Anhang 8[^t-9]
 
 [^annex8-lvlu1-lvl2-lvl21-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
+### 2.1*a* Versicherungsschutz bei Krankheit und Unfall
+
+- 2\.1a.1 Bei mangelhaftem oder fehlendem Versicherungsschutz bei Krankheit und Unfall beträgt die Kürzung beim erstmaligen Verstoss 10 Prozent aller Direktzahlungen, mindestens aber 500 Franken und höchstens 2000 Franken pro Jahr.
+- Die Kürzung in Prozent und die minimalen und maximalen Kürzungsbeträge werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
+
 ### 2.2 Ökologischer Leistungsnachweis
 
 - 2\.2.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen, von Beträgen pro Einheit und über die Vergabe von Punkten, die folgendermassen in Beträge umgerechnet werden:
@@ -4468,7 +4580,7 @@ Anhang 8[^t-9]
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Betriebsplan, Parzellenverzeichnis, Fruchtfolgerapport oder Formular der Kulturanteile, Hofdüngerlieferscheine bzw. Auszüge HODUFLU, Aufzeichnungen NPr-Futter, Bodenanalysen älter als 10-jährig, Spritzentest älter als 3-jährig, unvollständig, fehlend, falsch, unbrauchbar oder ungültig (Anh. 1 Ziff. 1, 2.2 und 6.1a.1)</td><td>50 Fr. pro Dokument bzw. pro Bodenanalyse Kürzung wird erst vorgenommen, wenn der Mangel nach der Nachfrist weiter besteht bzw. wenn das Dokument nicht nachgereicht wurde</td></tr>
+<tr><td>a. Betriebsplan, Parzellenverzeichnis, Fruchtfolgerapport oder Formular der Kulturanteile, Aufzeichnungen NPr‑Futter, Bodenanalysen älter als 10‑jährig, Spritzentest älter als 3-jährig, unvollständig, fehlend, falsch, unbrauchbar oder ungültig (Anh. 1 Ziff. 1, 2.2 und 6.1a.1)</td><td>50 Fr. pro Dokument bzw. pro Bodenanalyse Kürzung wird erst vorgenommen, wenn der Mangel nach der Nachfrist weiter besteht bzw. wenn das Dokument nicht nachgereicht wurde</td></tr>
 <tr><td>b. Nährstoffbilanz, inkl. notwendige Belege, unvollständig, fehlend, falsch oder unbrauchbar (Anh. 1 Ziff. 1)</td><td>200 Fr. Besteht der Mangel nach der Nachfrist von maximal 10 Tagen immer noch: 110 Pte.</td></tr>
 <tr><td>c. Wiesenkalender oder Wiesenjournal, Feldkalender oder Kulturblätter unvollständig, fehlend, falsch oder unbrauchbar; Aktualisierung: bis auf eine Woche vor der Kontrolle (Anh. 1 Ziff. 1)</td><td>200 Fr. pro Dokument</td></tr>
 <tr><td>d. Vereinfachte Nährstoffbilanzierung, inkl. notwendige Belege, unvollständig, fehlend, falsch oder unbrauchbar (Anh. 1 Ziff. 2.1.9.a)</td><td colspan="2">200 Fr. Nachfrist für die Nährstoffbilanz nach der Methode «Suisse-Bilanz»</td></tr>
