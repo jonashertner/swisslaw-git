@@ -3,11 +3,11 @@ sr: "455.163"
 title: "Ordinanza dell'USAV del 12 aprile 2010 concernente la detenzione di animali da laboratorio, la produzione di animali geneticamente modificati e i metodi utilizzati nella sperimentazione animale (Ordinanza sulla sperimentazione animale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/207"
 language: it
-version: 2025-02-01
+version: 2027-02-01
 adopted: 2010-04-12
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2010-207-20250201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20270201/it/xml/fedlex-data-admin-ch-eli-cc-2010-207-20270201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20270201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/it"
 
 (Ordinanza sulla sperimentazione animale)
 
-del 12 aprile 2010 (Stato 1° febbraio 2025)
+del 12 aprile 2010 (Stato 1° febbraio 2027)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) [^ingress-1],
 
@@ -24,8 +24,8 @@ visti gli articoli 124 capoverso 2, 136 capoverso 2, 142 capoverso 4 e 209 capov
 
 ordina:
 
-[^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali (RS 1**70.512.1**), con effetto dal 1° gen. 2014.
-[^ingress-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2014.
+[^ingress-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ## Sezione 1: Oggetto
 
@@ -163,7 +163,7 @@ Nel caso di piccoli roditori sono ammesse le seguenti combinazioni di metodi di 
 - a.[^10-1] amputazione della prima falange di un dito nei primi nove giorni dalla nascita; a ogni animale possono essere amputate al massimo due estremità distali delle dita;
 - b. identificazione tramite perforazione o incisione auricolare dopo lo svezzamento.
 
-[^10-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 11
 
@@ -275,7 +275,7 @@ La notifica provvisoria deve indicare:
 
 <sup>4</sup> Se l’esistenza di aggravi è confermata in base al rilevamento, il direttore del centro di detenzione di animali da laboratorio è tenuto a effettuare una notifica definitiva ai sensi dell’articolo 18. In caso di mancata conferma di aggravi inizialmente individuati, egli deve parimenti notificare tale fatto all’autorità cantonale.
 
-[^17-1]: Introdotta dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^17-1]: Introdotta dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 18
 
@@ -296,7 +296,7 @@ La notifica definitiva deve indicare:
 - d. la ponderazione degli interessi, alla luce degli aggravi rilevati per gli animali e dei potenziali vantaggi per la ricerca, la terapia o la diagnosi, nonché della possibilità di concretizzare tali vantaggi;
 - e. la portata dell’allevamento e il numero di animali oggetto di sperimentazione previsti.
 
-[^18-1]: Introdotta dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^18-1]: Introdotta dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 19
 
@@ -365,7 +365,7 @@ Le informazioni più importanti concernenti le linee geneticamente modificate no
 
 <sup>3</sup> La scheda tecnica è considerata una comunicazione ai sensi dell’articolo 13 dell’ordinanza del 25 agosto 1999[^23-1] sull’impiego confinato nel caso in cui animali geneticamente modificati siano trasferiti da un sistema chiuso a un altro. Nel caso della cessione di una linea nuova non ancora sufficientemente caratterizzata oppure di una linea suscettibile di presentare mutazioni patologiche, devono essere comunicati tutti i dati disponibili al momento della cessione.
 
-[^23-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)cifra I n. 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6. [RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)art. 33 n. 1]. Vedi ora l’O del 9 mag. 2012 ([RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)).
+[^23-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)cifra I n. 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6. [RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)art. 33 n. 1]. Vedi ora l’O del 9 mag. 2012 ([RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)).
 
 ## Sezione 5: Determinazione del livello di sofferenza
 
@@ -417,7 +417,7 @@ Nella valutazione dell’opportunità di eseguire un esperimento occorre conside
 
 <sup>3</sup> Il Cantone primario verifica le notifiche e trasmette all’USAV, secondo l’articolo 145 capoverso 4 OPAn, il numero di animali utilizzati in tutti i Cantoni coinvolti.
 
-[^27-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^27-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 ## Sezione 7: Domande e notifiche concernenti i centri di detenzione di animali da laboratorio e gli esperimenti sugli animali
 
@@ -500,7 +500,7 @@ In caso di linee prive di mutazioni patologiche, per ogni specie animale possono
 - a. le linee geneticamente modificate;
 - b. le linee non geneticamente modificate.
 
-[^29-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^29-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 30
 
@@ -510,7 +510,7 @@ In caso di linee prive di mutazioni patologiche, per ogni specie animale possono
 
 Le domande di autorizzazione per esperimenti sugli animali devono indicare:
 
-- a. la specie, il numero, il sesso e la provenienza degli animali di cui è previsto l’utilizzo;
+- a.[^30-1] la specie, il numero, il sesso e la provenienza degli animali da utilizzare, da allevare o da importare per l’esperimento;
 - b. l’utilizzo di animali geneticamente modificati o di animali con mutazioni patologiche, comprese le informazioni inerenti alla scheda tecnica di cui all’articolo 23 ed eventualmente alla decisione di cui all’articolo 127 OPAn;
 - c. l’indirizzo del centro di detenzione degli animali;
 - d. i locali, l’infrastruttura e il luogo di esecuzione dell’esperimento;
@@ -522,8 +522,11 @@ Le domande di autorizzazione per esperimenti sugli animali devono indicare:
 - j. i previsti effetti degli aggravi sulle condizioni di salute degli animali, inclusi i livelli di sofferenza per ogni fase dell’esperimento o gruppo;
 - k. la sorveglianza degli animali e i criteri d’interruzione;
 - l. la valutazione dei risultati dell’esperimento;
-- m. le ragioni dell’esperimento, la metodologia, l’aggravio per gli animali e il numero di animali utilizzati;
+- m.[^30-2] le ragioni dell’esperimento, la metodologia, l’aggravio per gli animali nonché il numero di animali da utilizzare in vista dell’allevamento e dell’esperimento;
 - n. la ponderazione degli interessi.
+
+[^30-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2027 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2027 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 31
 
@@ -548,7 +551,7 @@ Le notifiche relative agli esperimenti sugli animali devono indicare:
 
 [^sec8-1]
 
-[^sec8-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^sec8-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 31a
 
@@ -559,7 +562,7 @@ In deroga all’articolo 29 capoversi 1 e 3, le notifiche relative ai centri di 
 - a. il numero degli animali nati nell’azienda, stabilito al momento dello svezzamento;
 - b. il numero di animali importati dall’estero.
 
-[^31a-1]: Introdotto dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^31a-1]: Introdotto dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 32
 
@@ -567,7 +570,7 @@ In deroga all’articolo 29 capoversi 1 e 3, le notifiche relative ai centri di 
 
 La presente ordinanza entra in vigore il 1° maggio 2010.
 
-[^32-1]: Introdotto dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^32-1]: Introdotto dalla cifra I dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 Allegato 1[^t-1]
 
@@ -575,7 +578,7 @@ Allegato 1[^t-1]
 
 ## Metodi riconosciuti per la produzione di animali geneticamente modificati
 
-[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25))
+[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 - a. incrocio di linee geneticamente modificate;
 - b. iniezione pronucleare a topi, ratti, conigli e porcellini d’India;

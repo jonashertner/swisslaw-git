@@ -3,11 +3,11 @@ sr: "455.163"
 title: Verordnung des BLV vom 12. April 2010 über die Haltung von Versuchstieren und die Erzeugung gentechnisch veränderter Tiere sowie über die Verfahren bei Tierversuchen (Tierversuchsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/207"
 language: de
-version: 2025-02-01
+version: 2027-02-01
 adopted: 2010-04-12
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2010-207-20250201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20270201/de/xml/fedlex-data-admin-ch-eli-cc-2010-207-20270201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20270201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/de"
 
 (Tierversuchsverordnung)
 
-vom 12. April 2010 (Stand am 1. Februar 2025)
+vom 12. April 2010 (Stand am 1. Februar 2027)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^ingress-1],
 
@@ -24,8 +24,8 @@ gestützt auf die Artikel 124 Absatz 2, 136 Absatz 2, 142 Absatz 4 und 209 Absat
 
 verordnet:
 
-[^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^ingress-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^ingress-2]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -365,7 +365,7 @@ Bei gentechnisch veränderten Linien sowie belasteten Mutanten sind die wichtigs
 
 <sup>3</sup> Es dient als Mitteilung nach Artikel 13 der Einschliessungsverordnung vom 25. August 1999[^23-1], wenn gentechnisch veränderte Tiere von einem geschlossenen System in ein anderes verbracht werden. Bei der Weitergabe einer neuen, noch nicht ausreichend charakterisierten Linie oder einer wahrscheinlich belasteten Linie sind alle bis zu diesem Zeitpunkt vorliegenden Befunde mitzuliefern.
 
-[^23-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 6. [AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)Art. 33 Ziff. 1]. Siehe heute: die V vom 9. Mai 2012 ([SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)).
+[^23-1]: [[AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 6. [AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)Art. 33 Ziff. 1]. Siehe heute: die V vom 9. Mai 2012 ([SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)).
 
 ## 5. Abschnitt: Festlegung des Schweregrads von Belastungen
 
@@ -510,7 +510,7 @@ Bei unbelasteten Linien können pro Tierart zusammengefasst werden:
 
 Gesuche um die Bewilligung von Tierversuchen müssen folgende Angaben enthalten:
 
-- a. Art, Zahl, Geschlecht und Herkunft der Tiere, die verwendet werden sollen;
+- a.[^30-1] Art, Zahl, Geschlecht und Herkunft der Tiere, die im Versuch eingesetzt, die gesamthaft für den Versuch gezüchtet oder die für den Versuch importiert werden sollen;
 - b. Angaben zur Verwendung gentechnisch veränderter Tiere oder belasteter Mutanten einschliesslich des Datenblattes nach Artikel 23 der vorliegenden Verordnung und gegebenenfalls des Entscheids nach Artikel 127 TSchV;
 - c. Adresse der Tierhaltung;
 - d. Räumlichkeiten, Infrastruktur und Ort der Versuchsdurchführung;
@@ -522,8 +522,11 @@ Gesuche um die Bewilligung von Tierversuchen müssen folgende Angaben enthalten:
 - j. voraussichtliche Auswirkungen der Belastungen auf das Befinden der Tiere einschliesslich Schweregrad der Belastungen pro Versuchsteil oder Gruppe;
 - k. Überwachung der Tiere und Abbruchkriterien;
 - l. Auswertung der Versuchsergebnisse;
-- m. Begründung für den Versuch, die Methodik, die Belastung der Tiere und die Tierzahlen;
+- m.[^30-2] Begründung für den Versuch, die Methodik, die Belastung der Tiere sowie die Tierzahlen bezogen auf die Zucht und den Versuch;
 - n. Güterabwägung.
+
+[^30-1]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2027 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+[^30-2]: Fassung gemäss Ziff. I der V des BLV vom 20. Dez. 2024, in Kraft seit 1. Febr. 2027 ([AS 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 31
 

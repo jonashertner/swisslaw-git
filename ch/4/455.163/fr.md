@@ -3,11 +3,11 @@ sr: "455.163"
 title: "Ordonnance de l'OSAV du 12 avril 2010 concernant la détention des animaux d'expérience, la production d'animaux génétiquement modifiés et les méthodes utilisées dans l'expérimentation animale (Ordonnance sur l'expérimentation animale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/207"
 language: fr
-version: 2025-02-01
+version: 2027-02-01
 adopted: 2010-04-12
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-207-20250201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/207/20270201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-207-20270201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20270201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/207/20250201/fr"
 
 (Ordonnance sur l’expérimentation animale)
 
-du 12 avril 2010 (État le 1<sup>er</sup> février 2025)
+du 12 avril 2010 (État le 1<sup>er</sup> février 2027)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^ingress-1],
 
@@ -25,7 +25,7 @@ vu les art. 124, al. 2, 136, al. 2, 142, al. 4 et 209, al. 1 de l’ordonnance d
 arrête:
 
 [^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^ingress-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ## Section 1 Objet
 
@@ -365,7 +365,7 @@ Les principales informations relatives aux lignées génétiquement modifiées e
 
 <sup>3</sup> La fiche de données tient lieu de communication au sens de l’art. 13 de l’ordonnance du 25 août 1999 sur l’utilisation des organismes en milieu confiné[^23-1] en cas de transfert d’animaux génétiquement modifiés d’un milieu confiné dans un autre. Au moment de la cession d’une lignée nouvelle qui n’a pas encore été suffisamment caractérisée ou d’une lignée susceptible de présenter un phénotype invalidant, il sera également remis à l’acquéreur toutes les données recueillies à cette date.
 
-[^23-1]: [[RO 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 6. AS **2012** 2777 art. 33 ch. 1]. Voir actuellement l’O du 9 mai 2012 ([RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)).
+[^23-1]: [[RO 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 3, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 82, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 35, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 6. AS **2012** 2777 art. 33 ch. 1]. Voir actuellement l’O du 9 mai 2012 ([RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)).
 
 ## Section 5 Détermination du degré de gravité de la contrainte
 
@@ -510,7 +510,7 @@ Les lignées qui ne présentent pas de phénotype invalidant peuvent être annon
 
 La demande d’autorisation de pratiquer des expériences sur animaux doit contenir les informations suivantes:
 
-- a. l’espèce animale, le nombre, le sexe et l’origine des animaux qui seront utilisés;
+- a.[^30-1] l’espèce animale, le nombre, le sexe et l’origine des animaux qui seront utilisés dans l’expérience, ainsi que l’espèce animale, le nombre, le sexe et l’origine des animaux qui seront élevés ou importés en vue d’une expérience;
 - b. l’utilisation des animaux génétiquement modifiés et des mutants présentant un phénotype invalidant, y compris la fiche de données au sens de l’art. 23 de la présente ordonnance et, le cas échéant, la décision visée à l’art. 127 OPAn;
 - c. l’adresse de l’animalerie;
 - d. les locaux, l’infrastructure et le lieu où sera effectuée l’expérience;
@@ -522,8 +522,11 @@ La demande d’autorisation de pratiquer des expériences sur animaux doit conte
 - j. les effets prévisibles des contraintes sur le bien-être général des animaux, y compris le degré de gravité des contraintes pour chaque partie de l’expérience ou pour chaque groupe;
 - k. le système de surveillance des animaux et les critères d’arrêt de l’expérience;
 - l. l’analyse des résultats de l’expérience;
-- m. la justification de l’expérience, de la méthode, de la contrainte subie par les animaux et du nombre d’animaux utilisé;
+- m.[^30-2] la justification de l’expérience, de la méthode, de la contrainte subie par les animaux ainsi que du nombre d’animaux élevés en vue de l’expérience et du nombre d’animaux qui seront utilisés dans l’expérience;
 - n. la pesée des intérêts.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2027 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2027 ([RO 2025 25](https://fedlex.data.admin.ch/eli/oc/2025/25)).
 
 #### Art. 31
 
