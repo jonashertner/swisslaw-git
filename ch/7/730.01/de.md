@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Juli 2026)
+vom 1. November 2017 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -609,13 +609,24 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
-#### Art. 12
+#### [Art. 12](https://www.fedlex.admin.ch/eli/cc/2017/763/de)
 
-**Vergütung**
+**[Vergütung](https://www.fedlex.admin.ch/eli/cc/2017/763/de)**[^12-1]
 
-<sup>1</sup> Der für die Festlegung der Vergütung erforderliche vierteljährlich gemittelte Marktpreis entspricht dem Referenz-Marktpreis nach Artikel 15 Absätze 1 und 3 der Energieförderungsverordnung vom 1. November 2017[^12-1].[^12-2]
+<sup>1</sup> Der Marktpreis für die Vergütung für Elektrizität entspricht dem Preis am Spotmarkt im Day-Ahead-Handel für das Marktgebiet Schweiz zum Tageswechselkurs gemäss Schweizerischer Nationalbank. An Wochenenden und Feiertagen gilt der Tageswechselkurs des letzten Werktags der Schweizerischen Nationalbank.
 
-<sup>1bis</sup>
+<sup>2</sup> Der für die Ermittlung des Differenzbetrags nach Artikel 15 Absatz 1<sup>bis</sup> EnG massgebende Referenz-Marktpreis entspricht dem vierteljährlich gemittelten Referenz-Marktpreis nach Artikel 15 Absatz 1 der Energieförderungsverordnung vom 1. November 2017[^12-2].
+
+<sup>3</sup> Für Elektrizitätserzeugungsanlagen, deren Installation nicht der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^12-3] unterliegt und die nicht mit einem intelligenten Messsystem nach Artikel 8*a*<sup>decies</sup> StromVV[^12-4] ausgestattet sind, kann der Netzbetreiber abweichend von den Artikeln 11 und 12*a* sowie den Absätzen 1 und 2 eine angemessene jährliche Pauschale für die Vergütung der eingespeisten Elektrizität vorsehen.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^12-2]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^12-3]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-4]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+
+#### Art. 12a
+
+**Minimalvergütungen**[^12a-1]
 
 Die Minimalvergütung für Anlagen mit einer Leistung von weniger als 150 kW beträgt:
 
@@ -628,18 +639,9 @@ Die Minimalvergütung für Anlagen mit einer Leistung von weniger als 150 kW bet
   - 2\. für die Leistung ab 30 kW: 0 Rp./kWh;
 
 - c. für Photovoltaikanlagen ohne Eigenverbrauch mit einer Leistung ab 30 kW: 6,2 Rp./kWh;
-- d. für Wasserkraftanlagen: 12 Rp./kWh.[^12-3]
+- d. für Wasserkraftanlagen: 12 Rp./kWh.
 
-<sup>2</sup> Bei der Vergütung für Elektrizität aus fossil und teilweise fossil befeuerten Wärme-Kraft-Kopplungsanlagen ergibt sich der Marktpreis aus den Stundenpreisen am Spotmarkt im Day-ahead-Handel für das Marktgebiet Schweiz.
-
-<sup>3</sup> Für Elektrizitätserzeugungsanlagen, deren Installation nicht der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^12-4] unterliegen und die nicht mit einem intelligenten Messsystem nach Artikel 8*a* StromVV[^12-5] ausgestattet sind, kann der Netzbetreiber abweichend von Artikel 11 und den Absätzen 1 und 2 eine angemessene jährliche Pauschale für die Vergütung der eingespeisten Elektrizität vorsehen.[^12-6]
-
-[^12-1]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
-[^12-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
-[^12-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
-[^12-4]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^12-5]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
-[^12-6]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^12a-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 13
 
@@ -2055,6 +2057,15 @@ Für nicht rückerstattungsberechtigte Endverbraucherinnen und Endverbraucher na
 <sup>3</sup> Lieferungen aus geltenden Verträgen von Elektrizitätslieferanten mit Endverbraucherinnen und Endverbrauchern, die von ihrem Anspruch auf Netzzugang Gebrauch gemacht haben und deren Vertragsabschluss vor dem 1. Januar 2024 liegt, sind bis zum 31. Dezember 2027 von der Berechnung des Referenzstromabsatzes ausgenommen. Die Elektrizitätslieferanten melden dem BFE die entsprechenden Lieferungen des Vorjahres jeweils bis zum 30. April.
 
 [^80b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 80c
+
+**Übergangsbestimmung zur Änderung vom 27. Mai 2026**[^80c-1]
+
+Für bestehende Anlagen, die noch nicht mit einem intelligenten Messsystem nach Artikel 8*a*<sup>decies</sup> StromVV[^80c-2] ausgestattet sind, richtet sich die Vergütung nach Artikel 12 Absatz 1 und 1<sup>bis</sup> in der Fassung vom 1. Januar 2026, längstens jedoch bis zum 31. Dezember 2027.
+
+[^80c-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^80c-2]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 81
 

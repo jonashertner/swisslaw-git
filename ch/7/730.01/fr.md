@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2026)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -610,11 +610,22 @@ Les gestionnaires de réseau sont tenus de reprendre et de rétribuer:
 
 #### Art. 12
 
-**Rétribution**
+**Rétribution**[^12-1]
 
-<sup>1</sup> Le prix de marché moyen sur un trimestre nécessaire au calcul de la rétribution correspond au prix de marché de référence visé à l’art. 15, al. 1 et 3, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^12-1].[^12-2]
+<sup>1</sup> Le prix du marché pour la rétribution de l’électricité correspond au prix du marché spot pour le commerce du jour d’avant (*day-ahead*) concernant le marché suisse, au cours de change du jour publié par la Banque nationale suisse. Les week-ends et les jours fériés, le cours de change du dernier jour ouvrable de la Banque nationale suisse est applicable.
 
-<sup>1bis</sup>
+<sup>2</sup> Le prix de marché de référence déterminant pour le calcul de la différence visée à l’art. 15, al. 1<sup>bis</sup>, LEne correspond au prix de marché de référence moyen sur un trimestre visé à l’art. 15, al. 1, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^12-2].
+
+<sup>3</sup> Pour une installation produisant de l’électricité et dont les travaux d’installation ne sont pas soumis au régime de l’autorisation visé à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^12-3] et qui n’est pas équipée d’un système de mesure intelligent au sens de l’art. 8*a*<sup>decies</sup> OApEl[^12-4], le gestionnaire de réseau peut prévoir, en dérogation aux art. 11 et 12*a* et aux al. 1 et 2, un forfait annuel approprié pour rétribuer l’électricité injectée.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^12-2]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^12-3]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-4]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+
+#### Art. 12a
+
+**Rétributions minimales**[^12a-1]
 
 La rétribution minimale pour les installations d’une puissance inférieure à 150 kW est:
 
@@ -627,18 +638,9 @@ La rétribution minimale pour les installations d’une puissance inférieure à
   - 2\. 0 ct./kWh pour la puissance égale ou supérieure à 30 kW;
 
 - c. de 6,2 ct./kWh pour les installations photovoltaïques sans consommation propre d’une puissance égale ou supérieure à 30 kW;
-- d. de 12 ct./kWh pour les installations hydroélectriques.[^12-3]
+- d. de 12 ct./kWh pour les installations hydroélectriques.
 
-<sup>2</sup> Dans le cas de la rétribution de l’électricité issue d’installations de couplage chaleur-force à combustibles fossiles et en partie fossiles, le prix du marché résulte des tarifs horaires sur le marché spot pour le commerce du jour d’avant (day-ahead) concernant le marché suisse.
-
-<sup>3</sup> Pour une installation produisant de l’électricité et dont les travaux d’installation ne sont pas soumis au régime de l’autorisation visé à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^12-4] et qui n’est pas équipée d’un système de mesure intelligent au sens de l’art. 8*a* OApEl[^12-5], le gestionnaire de réseau peut prévoir, en dérogation à l’art. 11 et aux al. 1 et 2, un forfait annuel approprié pour rétribuer l’électricité injectée.[^12-6]
-
-[^12-1]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
-[^12-3]: Introduit par le ch. I de l’O du 19 fév. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
-[^12-4]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^12-5]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
-[^12-6]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^12a-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 13
 
@@ -2054,6 +2056,15 @@ Pour les consommateurs finaux visés à l’art. 39, al. 3, 1<sup>re</sup> phras
 
 [^80b-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
+#### Art. 80c
+
+**Disposition transitoire concernant la modification du 27 mai 2026**[^80c-1]
+
+Pour les installations existantes qui ne sont pas encore équipées d’un système de mesure intelligent visé à l’art. 8*a*<sup>decies</sup> OApEl[^80c-2], la rétribution est versée conformément à l’art. 12, al. 1 et 1<sup>bis</sup>, dans la version du 1<sup>er</sup> janvier 2026, mais jusqu’au 31 décembre 2027 au plus tard.
+
+[^80c-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^80c-2]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+
 #### Art. 81
 
 **Entrée en vigueur**
@@ -2121,7 +2132,7 @@ Annexe 2[^t-2]
   - p. le financement et les coûts administratifs du projet durant la phase de recherche de ressources géothermiques, de réalisation d’installations géothermiques et de développement, ainsi que durant l’exploitation et tout le démantèlement.
 
 - 3\.2 Examen de la demande
-- 3\.2.1.
+- 3\.2.1
 
   Le groupe d’experts examine et évalue la demande sur la base des renseignements visés au ch. 3.1, notamment concernant:
 
@@ -2132,7 +2143,7 @@ Annexe 2[^t-2]
   - e. la plus-value pour la recherche des ressources géothermiques du sous-sol suisse en vue de trouver des réservoirs géothermiques;
   - f. la gestion des risques pour la santé, la sécurité au travail, la sécurité de l’exploitation et l’environnement.
 
-- 3\.2.2.
+- 3\.2.2
 
   Si le groupe d’experts évalue positivement le projet, il émet notamment une recommandation à l’intention de l’OFEN concernant:
 

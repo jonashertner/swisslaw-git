@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° luglio 2026)
+del 1° novembre 2017 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -611,11 +611,22 @@ Il gestore di rete deve ritirare e rimunerare:
 
 #### Art. 12
 
-**Rimunerazione**
+**Rimunerazione**[^12-1]
 
-<sup>1</sup> Il prezzo di mercato medio trimestrale necessario per stabilire la rimunerazione corrisponde al prezzo di mercato di riferimento secondo l’articolo 15 capoversi 1 e 3 dell’ordinanza del 1° novembre 2017[^12-1] sulla promozione dell’energia.[^12-2]
+<sup>1</sup> Il prezzo di mercato per la rimunerazione dell’elettricità corrisponde al prezzo sul mercato spot (*day-ahead*) per l’area di mercato Svizzera al tasso di cambio secondo la Banca nazionale svizzera. Nei fine settimana e nei giorni festivi si applica il tasso di cambio dell’ultimo giorno lavorativo della Banca nazionale svizzera.
 
-<sup>1bis</sup>
+<sup>2</sup> Il prezzo di mercato di riferimento determinante per il calcolo dell’importo della differenza secondo l’articolo 15 capoverso 1<sup>bis</sup> LEne corrisponde al prezzo di mercato di riferimento medio trimestrale di cui all’articolo 15 capoverso 1 dell’ordinanza del 1° novembre 2017[^12-2] sulla promozione dell’energia.
+
+<sup>3</sup> Per gli impianti di produzione di elettricità la cui installazione non è soggetta all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^12-3] sugli impianti a bassa tensione e che non sono dotati di un sistema di misurazione intelligente di cui all’articolo 8*a*<sup>decies</sup> OAEl[^12-4], il gestore di rete può prevedere, in deroga agli articoli 11, 12*a* e ai capoversi 1 e 2, un adeguato importo forfettario annuale per la rimunerazione dell’elettricità immessa.
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^12-2]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^12-3]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-4]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+
+#### Art. 12a
+
+**Rimunerazione**[^12a-1]
 
 La rimunerazione minima per impianti con una potenza inferiore a 150 kW ammonta a:
 
@@ -628,18 +639,9 @@ La rimunerazione minima per impianti con una potenza inferiore a 150 kW ammonta 
   - 2\. per la quota di potenza a partire da 30 kW: 0 ct./kWh;
 
 - c. per impianti fotovoltaici senza consumo proprio con una potenza a partire da 30 kW: 6,2 ct./kWh;
-- d. per impianti idroelettrici: 12 ct./kWh.[^12-3]
+- d. per impianti idroelettrici: 12 ct./kWh.
 
-<sup>2</sup> Nella rimunerazione dell’elettricità da impianti di cogenerazione alimentati interamente o parzialmente con vettori energetici fossili il prezzo di mercato risulta dai prezzi orari sul mercato spot (day-ahead) per l’area di mercato Svizzera.
-
-<sup>3</sup> Per gli impianti di produzione di elettricità la cui installazione non è soggetta all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^12-4] sugli impianti a bassa tensione e che non sono dotati di un sistema di misurazione intelligente di cui all’articolo 8*a* OAEl[^12-5], il gestore di rete può prevedere, in deroga all’articolo 11 e ai capoversi 1 e 2, un adeguato importo forfettario annuale per la rimunerazione dell’elettricità immessa.[^12-6]
-
-[^12-1]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
-[^12-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
-[^12-3]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
-[^12-4]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^12-5]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
-[^12-6]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 13
 
@@ -2060,6 +2062,15 @@ Per i consumatori finali non aventi diritto al rimborso secondo l’articolo 39 
 [^80b-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 [^80b-2]: Correzione del 30 ott. 2025 ([RU 2025 664](https://fedlex.data.admin.ch/eli/oc/2025/664)).
 
+#### Art. 80c
+
+**Disposizione transitoria della modifica del 27 maggio 2026**[^80c-1]
+
+Per gli impianti esistenti non ancora dotati di un sistema di misurazione intelligente di cui all’articolo 8*a*<sup>decies</sup> OAEI[^80c-2], la rimunerazione è versata secondo l’articolo 12 capoversi 1 e 1<sup>bis</sup> nella versione del 1° gennaio 2026, ma al più tardi entro il 31 dicembre 2027.
+
+[^80c-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^80c-2]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+
 #### Art. 81
 
 **Entrata in vigore**
@@ -2388,7 +2399,7 @@ La sostituzione viene promossa se sono soddisfatte le seguenti condizioni:
 - d. la pompa di calore dispone di un marchio di qualità nazionale o internazionale valido in Svizzera;
 - e. la pompa di calore dispone di una misurazione a regola d’arte dell’elettricità e del calore.
 
-[^annex6a-lvlu1-lvl1-lvl12-lvl121-1]: La norma SN EN 14825 del luglio 2022 su condizionatori d’aria, refrigeratori di liquidi e pompe di calore può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex6a-lvlu1-lvl1-lvl12-lvl121-1]: La norma SN EN 14825 del luglio 2022 su condizionatori d’aria, refrigeratori di liquidi e pompe di calore può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch)
 
 ### 1.2.2 Restrizione
 
@@ -2422,7 +2433,7 @@ La sostituzione viene promossa se sono soddisfatte le seguenti condizioni:
 - f. per le pompe di calore con sonde geotermiche è disponibile un marchio di qualità per le imprese di trivellazioni per sonde geotermiche;
 - g. la pompa di calore dispone di una misurazione a regola d’arte dell’elettricità e del calore.
 
-[^annex6a-lvlu1-lvl1-lvl13-lvl131-1]: La norma SN EN 14825 del luglio 2022 su condizionatori d’aria, refrigeratori di liquidi e pompe di calore può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex6a-lvlu1-lvl1-lvl13-lvl131-1]: La norma SN EN 14825 del luglio 2022 su condizionatori d’aria, refrigeratori di liquidi e pompe di calore può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch)
 
 ### 1.3.2 Restrizione
 
