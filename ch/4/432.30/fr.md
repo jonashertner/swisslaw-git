@@ -4,11 +4,11 @@ title: "Loi fédérale du 12 juin 2009 sur les musées et les collections de la 
 short: LMC
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/598"
 language: fr
-version: 2010-01-01
+version: 2027-01-01
 adopted: 2009-06-12
 in_force: 2009-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/598/20100101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-598-20100101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20100101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/598/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-598-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20100101/fr"
 
 (Loi sur les musées et les collections, LMC)[^t-1]
 
-du 12 juin 2009 (État le 1<sup>er</sup> janvier 2010)
+du 12 juin 2009 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -174,7 +174,12 @@ Le conseil du musée:
 - e. nomme les autres membres de la direction sur proposition du directeur;
 - f. contrôle la gestion;
 - g. édicte le règlement du personnel, sous réserve de l’approbation du Conseil fédéral;
-- h. édicte le règlement d’organisation.
+- h. édicte le règlement d’organisation;
+- i.[^11-1] conclut le contrat d’affiliation à la Caisse fédérale de pensions (Publica) et le soumet à l’approbation du Conseil fédéral;
+- j.[^11-2] édicte les dispositions concernant le financement de la prévoyance professionnelle et les soumet à l’approbation du Conseil fédéral.
+
+[^11-1]: Introduite par l’annexe ch. 7 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Introduite par l’annexe ch. 7 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
@@ -212,9 +217,10 @@ Le directeur préside la direction. Ses tâches sont les suivantes:
 
 <sup>1</sup> Les rapports de travail du personnel du MNS sont régis par la loi du 24 mars 2000 sur le personnel de la Confédération[^14-1].
 
-<sup>2</sup> Le personnel du MNS est assuré auprès de la Caisse fédérale de pensions (PUBLICA).
+<sup>2</sup> Le personnel du MNS est assuré auprès de Publica.[^14-2]
 
 [^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^14-2]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ### Section 3 Objets de collection et biens-fonds
 
@@ -407,7 +413,7 @@ Les rapports de travail des collaborateurs des musées et du Centre des collecti
 Le MNS est l’employeur compétent pour les bénéficiaires de rentes qui remplissent les conditions suivantes:
 
 - a. ils relèvent administrativement des musées et du Centre des collections du Groupe MUSEE SUISSE;
-- b. leurs rentes AVS ont commencé à être versées par PUBLICA avant l’entrée en vigueur de la présente loi.
+- b. leurs rentes AVS ont commencé à être versées par Publica avant l’entrée en vigueur de la présente loi.
 
 <sup>2</sup> Le MNS est également réputé être l’employeur compétent dans le cas où une rente d’invalidité débute après l’entrée en vigueur de la présente loi alors que l’incapacité de travail à la source de l’invalidité est survenue à une date antérieure.
 

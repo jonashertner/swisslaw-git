@@ -4,18 +4,18 @@ title: "Legge federale del 12 giugno 2009 concernente i musei e le collezioni de
 short: LMC
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/598"
 language: it
-version: 2010-01-01
+version: 2027-01-01
 adopted: 2009-06-12
 in_force: 2009-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/598/20100101/it/xml/fedlex-data-admin-ch-eli-cc-2009-598-20100101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20100101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/598/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2009-598-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente i musei e le collezioni della Confederazione (Legge sui musei e le collezioni, LMC)
 
-del 12 giugno 2009 (Stato 1° gennaio 2010)
+del 12 giugno 2009 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -170,7 +170,12 @@ Il consiglio museale ha i compiti seguenti:
 - e. nomina gli altri membri della direzione su proposta del direttore;
 - f. controlla la gestione;
 - g. emana il regolamento del personale, fatta salva l’approvazione del Consiglio federale;
-- h. emana il regolamento interno.
+- h. emana il regolamento interno;
+- i.[^11-1] stipula il contratto di affiliazione alla Cassa pensioni della Confederazione (Publica) e lo sottopone per approvazione al Consiglio federale;
+- j.[^11-2] emana le disposizioni sul finanziamento della previdenza professionale e le sottopone per approvazione al Consiglio federale.
+
+[^11-1]: Introdotta dall’all. n. 7 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Introdotta dall’all. n. 7 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
@@ -208,9 +213,10 @@ Il direttore presiede la direzione. Egli:
 
 <sup>1</sup> I rapporti di lavoro del personale del MNS sono disciplinati dalla legge del 24 marzo 2000[^14-1] sul personale federale.
 
-<sup>2</sup> Il personale del MNS è affiliato alla Cassa pensioni della Confederazione (PUBLICA).
+<sup>2</sup> Il personale del MNS è assicurato presso Publica.[^14-2]
 
 [^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^14-2]: Nuovo testo giusta l’all. n. 7 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ### Sezione 3: Oggetti da collezione e immobili
 
@@ -403,9 +409,11 @@ I rapporti di lavoro del personale dei musei e del Centro delle collezioni di cu
 Il MNS è considerato il datore di lavoro competente per i beneficiari di rendite:
 
 - a. che dipendono dai musei e dal Centro delle collezioni del Gruppo MUSEE SUISSE; e
-- b. le cui rendite di vecchiaia, d’invalidità o per superstiti della previdenza professionale hanno iniziato a decorrere presso la Cassa pensioni della Confederazione (PUBLICA) prima dell’entrata in vigore della presente legge.
+- b.[^30-1] le cui rendite di vecchiaia, d’invalidità o per superstiti della previdenza professionale hanno iniziato a decorrere presso Publica prima dell’entrata in vigore della presente legge.
 
 <sup>2</sup> Il MNS è parimenti considerato il datore di lavoro competente qualora una rendita d’invalidità inizi a decorrere dopo l’entrata in vigore della presente legge ma l’incapacità al lavoro che ha provocato l’invalidità sia sopravvenuta prima della sua entrata in vigore.
+
+[^30-1]: Nuovo testo giusta l’all. n. 7 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 31
 

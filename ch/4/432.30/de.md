@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Museen und Sammlungen des Bunde
 short: MSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/598"
 language: de
-version: 2010-01-01
+version: 2027-01-01
 adopted: 2009-06-12
 in_force: 2009-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/598/20100101/de/xml/fedlex-data-admin-ch-eli-cc-2009-598-20100101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20100101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/598/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2009-598-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/598/20100101/de"
 
 (Museums- und Sammlungsgesetz, MSG)
 
-vom 12. Juni 2009 (Stand am 1. Januar 2010)
+vom 12. Juni 2009 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -173,6 +173,11 @@ Der Museumsrat hat folgende Aufgaben:
 - f. Er überwacht die Geschäftsführung.
 - g. Er erlässt, unter Vorbehalt der Genehmigung durch den Bundesrat, das Personalreglement.
 - h. Er erlässt die Geschäftsordnung.
+- i.[^11-1] Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (Publica) ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung.
+- j.[^11-2] Er erlässt die Bestimmungen über die Finanzierung der beruflichen Vorsorge und unterbreitet sie dann dem Bundesrat zur Genehmigung.
+
+[^11-1]: Eingefügt durch Anhang Ziff. 7 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Eingefügt durch Anhang Ziff. 7 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
@@ -210,9 +215,10 @@ Die Direktorin oder der Direktor steht der Geschäftsleitung vor. Sie oder er:
 
 <sup>1</sup> Das Arbeitsverhältnis des Personals des SNM untersteht dem Bundespersonalgesetz vom 24. März 2000[^14-1].
 
-<sup>2</sup> Das Personal des SNM ist bei der Pensionskasse des Bundes (PUBLICA) versichert.
+<sup>2</sup> Das Personal des SNM ist bei Publica versichert.[^14-2]
 
 [^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^14-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ### 3. Abschnitt: Sammlungsgegenstände und Liegenschaften
 
@@ -358,8 +364,8 @@ Folgende Erlasse werden aufgehoben:
 - a. das Bundesgesetz vom 27. Juni 1890[^26-1] über die Errichtung eines Schweizerischen Landesmuseums;
 - b. der Bundesbeschluss vom 5. März 1970[^26-2] über den Kredit für die Erwerbung vaterländischer Altertümer.
 
-[^26-1]: [BS **11** 690; [AS 1973 929](https://fedlex.data.admin.ch/eli/oc/1973/929_929_929), [1985 152](https://fedlex.data.admin.ch/eli/oc/1985/152_152_152)]
-[^26-2]: [[AS 1970 1033](https://fedlex.data.admin.ch/eli/oc/1970/1033_1033_1033), [1987 32](https://fedlex.data.admin.ch/eli/oc/1987/32_32_32)]
+[^26-1]: [BS **11** 690; [AS 1973 929](https://fedlex.data.admin.ch/eli/oc/1973/929_929_929); [1985 152](https://fedlex.data.admin.ch/eli/oc/1985/152_152_152)]
+[^26-2]: [[AS 1970 1033](https://fedlex.data.admin.ch/eli/oc/1970/1033_1033_1033); [1987 32](https://fedlex.data.admin.ch/eli/oc/1987/32_32_32)]
 
 #### Art. 27
 
@@ -405,9 +411,11 @@ Die Arbeitsverhältnisse des Personals der Museen und des Sammlungszentrums nach
 Das SNM gilt als zuständige Arbeitgeberin für die Rentenbezügerinnen und Rentenbezüger:
 
 - a. die den Museen und dem Sammlungszentrum der MUSEE-SUISSE-Gruppe zugeordnet sind; und
-- b. deren Alters-, Invaliden- oder Hinterlassenenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten dieses Gesetzes bei der Pensionskasse des Bundes (PUBLICA) zu laufen begonnen haben.
+- b.[^30-1] deren Alters-, Invaliden- oder Hinterlassenenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten dieses Gesetzes bei Publica zu laufen begonnen haben.
 
 <sup>2</sup> Das SNM gilt ebenfalls als zuständige Arbeitgeberin, wenn eine Invalidenrente nach Inkrafttreten dieses Gesetzes zu laufen beginnt, die Arbeitsunfähigkeit, die zur Invalidität geführt hat, aber vor dem Inkrafttreten dieses Gesetzes eingetreten war.
+
+[^30-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 31
 
