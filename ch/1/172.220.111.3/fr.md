@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20270101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/fr"
 
 (OPers)
 
-du 3 juillet 2001 (État le 1<sup>er</sup> juillet 2026)
+du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -49,31 +49,32 @@ La présente ordonnance régit les rapports de travail:
 
 Ne sont pas soumis à la présente ordonnance:
 
-- a. le personnel régi par le code des obligations (CO)[^1-5] (art. 6, al. 5 et 6, LPers);
+- a.[^1-5] le personnel régi par le code des obligations (CO)[^1-6] (art. 6, al. 5 et 6, LPers), sauf pour ce qui concerne les dispositions du chapitre 4*a*;
 - b. le personnel du Département fédéral des affaires étrangères (DFAE) employé à l’étranger sur la base d’un contrat de droit privé et non transférable;
-- c.[^1-6] le personnel du domaine des EPF.
-- d. les apprentis, régis par la loi fédérale du 19 avril 1978 sur la formation professionnelle[^1-7];
-- e. le personnel régi par la loi du 20 mars 1981 sur le travail à domicile[^1-8];
-- f.[^1-9] le personnel régi par l’ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire (OPers-PDHH)[^1-10].
+- c.[^1-7] le personnel du domaine des EPF.
+- d. les apprentis, régis par la loi fédérale du 19 avril 1978 sur la formation professionnelle[^1-8];
+- e. le personnel régi par la loi du 20 mars 1981 sur le travail à domicile[^1-9];
+- f.[^1-10] le personnel régi par l’ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire (OPers-PDHH)[^1-11].
 
 <sup>3</sup> Dans la présente ordonnance, le terme «département» désigne les départements et la Chancellerie fédérale.
 
-<sup>4</sup> En tant qu’employeurs, le Ministère public de la Confédération, l’autorité de surveillance du Ministère public de la Confédération et l’Assemblée fédérale pour le personnel des Services du Parlement ne sont pas liés aux normes et directives du Conseil fédéral. Ils assument pour leur personnel par analogie les compétences que la présente ordonnance attribue aux départements et prennent les décisions de l’employeur.[^1-11]
+<sup>4</sup> En tant qu’employeurs, le Ministère public de la Confédération, l’autorité de surveillance du Ministère public de la Confédération et l’Assemblée fédérale pour le personnel des Services du Parlement ne sont pas liés aux normes et directives du Conseil fédéral. Ils assument pour leur personnel par analogie les compétences que la présente ordonnance attribue aux départements et prennent les décisions de l’employeur.[^1-12]
 
-<sup>5</sup> La politique du personnel du Conseil fédéral et du Département fédéral des finances (DFF) est déterminante pour le Ministère public de la Confédération et pour l’autorité de surveillance du Ministère public de la Confédération, pour autant que le statut ou la fonction particulière de ces autorités n’exige pas une autre solution.[^1-12]
+<sup>5</sup> La politique du personnel du Conseil fédéral et du Département fédéral des finances (DFF) est déterminante pour le Ministère public de la Confédération et pour l’autorité de surveillance du Ministère public de la Confédération, pour autant que le statut ou la fonction particulière de ces autorités n’exige pas une autre solution.[^1-13]
 
 [^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^1-2]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^1-3]: Introduite par le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^1-6]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-7]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
-[^1-8]: [RS 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
-[^1-9]: Nouvelle teneur selon l’art. 42 ch. 1 de l’O du 2 déc. 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
-[^1-10]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
-[^1-11]: Introduit selon le ch. I de l’O du 20 nov. 2013 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^1-12]: Introduit selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^1-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^1-7]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^1-8]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
+[^1-9]: [RS 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
+[^1-10]: Nouvelle teneur selon l’art. 42 ch. 1 de l’O du 2 déc. 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
+[^1-11]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
+[^1-12]: Introduit selon le ch. I de l’O du 20 nov. 2013 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^1-13]: Introduit selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
 #### Art. 2
 
@@ -162,26 +163,28 @@ Les départements prennent des mesures ciblées afin:
 
 Dans les cas suivants, il peut demander à l’employé de rembourser les frais de formation et de formation continue:
 
-- a. l’employé interrompt la formation ou la formation continue;
-- b.
+- a.[^4-6] l’employé interrompt la formation ou la formation continue ou ne la réussit pas, ou
+- b.[^4-7]
 
-  l’employé résilie son contrat de travail pendant la formation ou la formation continue ou dans les délais suivants à compter de la fin de la formation ou de la formation continue sans établir immédiatement de nouveaux rapports de travail auprès d’une autre unité administrative au sens de l’art. 1:
+  l’employé résilie son contrat de travail pendant la formation ou la formation continue ou dans les délais suivants à compter de la fin de la formation ou de la formation continue sans établir immédiatement de nouveaux rapports de travail auprès d’un employeur du personnel visé à l’art. 1, al. 1:
 
   - 1\. part des frais inférieure à 50 000 francs: dans un délai de deux ans,
-  - 2\. part des frais à partir de 50 000 francs: dans un délai de quatre ans.[^4-6]
+  - 2\. part des frais à partir de 50 000 francs: dans un délai de quatre ans.[^4-8]
 
-<sup>5bis</sup> Pour le remboursement des frais visés à l’al. 4<sup>bis</sup>, les délais courent à partir du jour suivant la fin de la période d’essai.[^4-7]
+<sup>5bis</sup> Pour le remboursement des frais visés à l’al. 4<sup>bis</sup>, les délais courent à partir du jour suivant la fin de la période d’essai.[^4-9]
 
-<sup>6</sup> …[^4-8]
+<sup>6</sup> Si l’employé établit de nouveaux rapports de travail auprès d’un employeur du personnel visé à l’art. 1, al. 1, le droit de lui demander le remboursement des frais visé à l’al. 5 est transféré au nouvel employeur.[^4-10]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-5]: Introduit par le ch. I de l’O du 13 nov. 2019 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)). Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^4-6]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-7]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-8]: Abrogé par le ch. I de l’O du 24 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^4-7]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^4-8]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^4-9]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^4-10]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 5
 
@@ -696,12 +699,13 @@ Les diplômés d’une haute école peuvent être engagés par contrat de durée
 
 <sup>3</sup> Le salaire des stagiaires des hautes écoles est fixé par le DFF. Il ne fait pas l’objet d’une évolution au sens de l’art. 39. Il donne lieu à un versement mensuel égal à <sup>1</sup>/<sub>12</sub> du salaire annuel.
 
-<sup>4</sup> Les stagiaires des hautes écoles ne perçoivent aucune indemnité de résidence (art. 43) et ne bénéficient pas de la compensation du renchérissement (art. 44).
+<sup>4</sup> Les stagiaires des hautes écoles ne bénéficient pas de la compensation du renchérissement (art. 44).[^25a-5]
 
 [^25a-1]: Introduit par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^25a-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^25a-3]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^25a-4]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-5]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 25b
 
@@ -937,7 +941,7 @@ Un avertissement n’est pas nécessaire dans l’un des cas suivants:
 
 [^34a-1]
 
-[^34a-1]: Introduit par le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogé par l’art. 7 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Voir toutefois les disp. trans. à l’art. 8 de cette O.
+[^34a-1]: Introduit par le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de Publica ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogé par l’art. 7 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Voir toutefois les disp. trans. à l’art. 8 de cette O.
 
 #### Art. 35
 
@@ -969,63 +973,80 @@ Un avertissement n’est pas nécessaire dans l’un des cas suivants:
 
 ### (art. 15 LPers)
 
-Le salaire est fixé d’après les classes de salaire suivantes:
+<sup>1</sup> Le salaire est fixé d’après les classes de salaire 1 à 38.
 
 <table>
-<tr><th>Classe de salaire</th><th>Montant maximal en francs</th></tr>
-<tr><td>38</td><td>370 568</td></tr>
-<tr><td>37</td><td>308 552</td></tr>
-<tr><td>36</td><td>289 645</td></tr>
-<tr><td>35</td><td>270 922</td></tr>
-<tr><td>34</td><td>252 402</td></tr>
-<tr><td>33</td><td>234 053</td></tr>
-<tr><td>32</td><td>215 920</td></tr>
-<tr><td>31</td><td>206 892</td></tr>
-<tr><td>30</td><td>197 876</td></tr>
-<tr><td>29</td><td>184 415</td></tr>
-<tr><td>28</td><td>175 683</td></tr>
-<tr><td>27</td><td>168 040</td></tr>
-<tr><td>26</td><td>160 427</td></tr>
-<tr><td>25</td><td>152 804</td></tr>
-<tr><td>24</td><td>145 206</td></tr>
-<tr><td>23</td><td>136 849</td></tr>
-<tr><td>22</td><td>130 478</td></tr>
-<tr><td>21</td><td>125 463</td></tr>
-<tr><td>20</td><td>120 463</td></tr>
-<tr><td>19</td><td>115 458</td></tr>
-<tr><td>18</td><td>110 463</td></tr>
-<tr><td>17</td><td>105 442</td></tr>
-<tr><td>16</td><td>101 225</td></tr>
-<tr><td>15</td><td>97 295</td></tr>
-<tr><td>14</td><td>93 420</td></tr>
-<tr><td>13</td><td>90 165</td></tr>
-<tr><td>12</td><td>87 001</td></tr>
-<tr><td>11</td><td>83 888</td></tr>
-<tr><td>10</td><td>80 852</td></tr>
-<tr><td>9</td><td>77 780</td></tr>
-<tr><td>8</td><td>74 695</td></tr>
-<tr><td>7</td><td>71 685</td></tr>
-<tr><td>6</td><td>68 643</td></tr>
-<tr><td>5</td><td>65 591</td></tr>
-<tr><td>4</td><td>63 744</td></tr>
-<tr><td>3</td><td>62 746</td></tr>
-<tr><td>2</td><td>61 750</td></tr>
-<tr><td>1</td><td>60 764</td></tr>
+<tr><th>Classe de salaire</th><th>Montant minimal en francs (brut)</th><th>Salaire cible en francs (brut)</th><th>Montant maximal en francs (brut)</th></tr>
+<tr><td>38</td><td>256 977</td><td>385 465</td><td>411 163</td></tr>
+<tr><td>37</td><td>236 047</td><td>354 070</td><td>377 675</td></tr>
+<tr><td>36</td><td>221 833</td><td>332 749</td><td>354 932</td></tr>
+<tr><td>35</td><td>207 755</td><td>311 633</td><td>332 408</td></tr>
+<tr><td>34</td><td>193 833</td><td>290 749</td><td>310 132</td></tr>
+<tr><td>33</td><td>180 036</td><td>270 053</td><td>288 057</td></tr>
+<tr><td>32</td><td>166 402</td><td>249 604</td><td>266 244</td></tr>
+<tr><td>31</td><td>156 713</td><td>235 069</td><td>250 740</td></tr>
+<tr><td>30</td><td>147 278</td><td>220 917</td><td>235 645</td></tr>
+<tr><td>29</td><td>134 931</td><td>202 396</td><td>215 889</td></tr>
+<tr><td>28</td><td>126 248</td><td>189 372</td><td>201 997</td></tr>
+<tr><td>27</td><td>118 551</td><td>177 826</td><td>189 681</td></tr>
+<tr><td>26</td><td>113 346</td><td>170 019</td><td>181 354</td></tr>
+<tr><td>25</td><td>108 135</td><td>162 203</td><td>173 016</td></tr>
+<tr><td>24</td><td>102 943</td><td>154 414</td><td>164 708</td></tr>
+<tr><td>23</td><td>97 231</td><td>145 846</td><td>155 569</td></tr>
+<tr><td>22</td><td>92 876</td><td>139 313</td><td>148 601</td></tr>
+<tr><td>21</td><td>89 450</td><td>134 171</td><td>143 116</td></tr>
+<tr><td>20</td><td>86 031</td><td>129 047</td><td>137 650</td></tr>
+<tr><td>19</td><td>82 610</td><td>123 915</td><td>132 176</td></tr>
+<tr><td>18</td><td>79 197</td><td>118 795</td><td>126 715</td></tr>
+<tr><td>17</td><td>75 764</td><td>113 646</td><td>121 222</td></tr>
+<tr><td>16</td><td>72 883</td><td>109 324</td><td>116 612</td></tr>
+<tr><td>15</td><td>70 196</td><td>105 293</td><td>112 313</td></tr>
+<tr><td>14</td><td>67 547</td><td>101 320</td><td>108 075</td></tr>
+<tr><td>13</td><td>65 323</td><td>97 984</td><td>104 516</td></tr>
+<tr><td>12</td><td>63 159</td><td>94 738</td><td>101 054</td></tr>
+<tr><td>11</td><td>61 033</td><td>91 549</td><td>97 652</td></tr>
+<tr><td>10</td><td>58 956</td><td>88 434</td><td>94 330</td></tr>
+<tr><td>9</td><td>56 858</td><td>85 286</td><td>90 972</td></tr>
+<tr><td>8</td><td>54 749</td><td>82 123</td><td>87 598</td></tr>
+<tr><td>7</td><td>52 691</td><td>79 037</td><td>84 306</td></tr>
+<tr><td>6</td><td>50 612</td><td>75 918</td><td>80 979</td></tr>
+<tr><td>5</td><td>48 527</td><td>72 790</td><td>77 643</td></tr>
+<tr><td>4</td><td>47 263</td><td>70 895</td><td>75 621</td></tr>
+<tr><td>3</td><td>46 582</td><td>69 873</td><td>74 531</td></tr>
+<tr><td>2</td><td>45 900</td><td>68 850</td><td>73 440</td></tr>
+<tr><td>1</td><td>45 227</td><td>67 840</td><td>72 363</td></tr>
 </table>
 
-[^36-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+<sup>2</sup> Le salaire minimal prévu à l’art. 7 de l’ordonnance-cadre LPers du 20 décembre 2000[^36-2] s’applique dans tous les cas.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^36-2]: [RS 172.220.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5346)
 
 #### Art. 37
 
-**Salaire de départ**
+**Salaire de départ**[^37-1]
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Lors de l’engagement, l’autorité compétente en vertu de l’art. 2 détermine le salaire de la personne engagée dans le cadre des classes de salaire définies à l’art. 36. Elle tient compte dans une juste mesure de sa formation et de son expérience professionnelle et extra-professionnelle, ainsi que du marché de l’emploi.
+<sup>1</sup> Lors de l’engagement, l’autorité compétente en vertu de l’art. 2 détermine le salaire de la personne engagée d’après les classes de salaire définies à l’art. 36. Elle tient compte dans une juste mesure de son expérience professionnelle et extra-professionnelle en rapport avec la fonction, ainsi que du marché de l’emploi.
 
-<sup>2</sup> Le DFF met à disposition les valeurs indicatives servant à fixer le salaire, notamment celles qui concernent le niveau de formation et l’expérience en rapport avec la fonction.[^37-1]
+<sup>2</sup>
 
-[^37-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+Si la personne engagée n’a aucune année d’expérience pouvant être prise en compte lors de son entrée en fonction, son salaire de départ correspond à 100 % du montant minimal de la classe de salaire. Il est relevé comme suit:
+
+- a. de 1 à 5 années d’expérience: de 2,95 % du montant minimal de la classe de salaire par année d’expérience;
+- b. de 6 à 10 années d’expérience: de 2,45 % du montant minimal de la classe de salaire par année d’expérience;
+- c. de 11 à 15 années d’expérience: de 1,95 % du montant minimal de la classe de salaire par année d’expérience;
+- d. de 16 à 20 années d’expérience: de 1,45 % du montant minimal de la classe de salaire par année d’expérience.
+
+<sup>3</sup> Si la situation le justifie, le salaire de départ peut être plus élevé.
+
+<sup>4</sup> Les collaborateurs sont informés des éléments déterminants pour le calcul de leur salaire de départ.
+
+<sup>5</sup> Le DFF met à disposition les valeurs indicatives servant à fixer le salaire, notamment celles qui concernent le niveau de formation et l’expérience en rapport avec la fonction.[^37-2]
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^37-2]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309), [324](https://fedlex.data.admin.ch/eli/oc/2026/324)).
 
 #### Art. 38
 
@@ -1033,11 +1054,11 @@ Le salaire est fixé d’après les classes de salaire suivantes:
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Le salaire, l’indemnité de résidence et les allocations versés aux employés à temps partiel sont adaptés à leur degré d’occupation. L’art. 51*a* est réservé.[^38-1]
+<sup>1</sup> Le salaire et les allocations versés aux employés à temps partiel sont adaptés à leur taux d’occupation. L’art. 51 est réservé.[^38-1]
 
 <sup>2</sup> Si l’horaire de travail est irrégulier, il peut être convenu avec l’employé d’un salaire journalier, d’un salaire moyen ou d’un salaire horaire.
 
-[^38-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 38a
 
@@ -1047,17 +1068,16 @@ Le salaire est fixé d’après les classes de salaire suivantes:
 
 <sup>1</sup>
 
-Si une personne présente une capacité de travail réduite en raison de problèmes de santé, les parties au contrat de travail peuvent convenir:[^38a-2]
+Si une personne présente une capacité de travail réduite en raison de problèmes de santé, les parties au contrat de travail peuvent convenir:
 
-- a.[^38a-3] d’un taux d’occupation plus élevé que celui qui est nécessaire pour l’exécution des tâches; le salaire et l’indemnité de résidence restent inchangés;
-- b. d’un salaire et d’une indemnité de résidence moins élevés, correspondant à la capacité de travail, pour un taux d’occupation restant inchangé.
+- a. d’un taux d’occupation plus élevé que celui qui est nécessaire pour l’exécution des tâches; le salaire reste inchangé;
+- b. d’un salaire moins élevé correspondant à la capacité de travail, pour un taux d’occupation restant inchangé.[^38a-2]
 
-<sup>2</sup> L’employeur examine périodiquement la convention. Dès que l’employé présente à nouveau la capacité de travail requise pour l’exécution de ses tâches, la convention doit être annulée.[^38a-4]
+<sup>2</sup> L’employeur examine périodiquement la convention. Dès que l’employé présente à nouveau la capacité de travail requise pour l’exécution de ses tâches, la convention doit être annulée.[^38a-3]
 
 [^38a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^38a-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^38a-2]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^38a-3]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^38a-4]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 
 #### Art. 39
 
@@ -1113,9 +1133,9 @@ Si l’employé dépasse les exigences visées à l’art. 16, al. 1, le supéri
 
 ### (art. 15 LPers)
 
-Si le salaire d’un employé se situe à un niveau trop bas par rapport à celui des autres employés, l’autorité compétente en vertu de l’art. 2 peut l’augmenter. Cette adaptation peut être réalisée en une ou plusieurs étapes; elle ne doit pas dépasser 10 % du montant maximal de la classe de salaire fixée dans le contrat de travail. Le salaire adapté ne doit pas dépasser le montant maximal de la classe de salaire.
+Si le salaire d’un employé se situe à un niveau trop bas par rapport à celui des autres employés, l’autorité compétente en vertu de l’art. 2 peut l’augmenter. Cette adaptation peut être réalisée en une ou plusieurs étapes; elle ne doit pas dépasser 10 % du salaire cible de la classe de salaire fixée dans le contrat de travail. Le salaire adapté ne doit pas dépasser le montant maximal de la classe de salaire.
 
-[^40-1]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 41
 
@@ -1139,13 +1159,9 @@ Les unités administratives qui ont la compétence de fixer l’évolution du sa
 
 #### Art. 43
 
-**Indemnité de résidence**
+[^43-1]
 
-### (art. 15 LPers)
-
-<sup>1</sup> Au salaire s’ajoute une indemnité de résidence échelonnée en fonction du coût de la vie, des impôts, de l’importance et de la situation de la localité où l’emploi est exercé.
-
-<sup>2</sup> L’indemnité de résidence ne doit pas dépasser 6000 francs.
+[^43-1]: Abrogé par le ch. I de l’O du 3 sept. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 44
 
@@ -1160,24 +1176,26 @@ Les unités administratives qui ont la compétence de fixer l’évolution du sa
 La compensation du renchérissement est versée sur:
 
 - a. le salaire;
-- b. l’indemnité de résidence;
+- b.[^44-1] …
 - c. les indemnités versées pour le travail effectué le dimanche et le travail de nuit;
 - d. l’indemnité versée pour le service de permanence;
 - e. la prime de fonction;
-- e<sup>bis</sup>.[^44-1] l’allocation versée pour chaque engagement effectué dans le cadre de plans de service fixes;
+- e<sup>bis</sup>.[^44-2] l’allocation versée pour chaque engagement effectué dans le cadre de plans de service fixes;
 - f. l’allocation spéciale;
 - g. l’allocation liée au marché de l’emploi;
-- h.[^44-2] les allocations complétant l’allocation familiale;
-- i.[^44-3] …
+- h.[^44-3] les allocations complétant l’allocation familiale;
+- i.[^44-4] …
 
-<sup>3</sup> Les montants maximaux fixés pour le salaire (art. 36) et pour l’indemnité de résidence (art. 43) sont majorés en fonction du renchérissement,
+<sup>3</sup> Les montants minimaux, les salaires cibles et les montants maximaux des classes de salaire visés à l’art. 36 sont majorés en fonction du renchérissement.[^44-5]
 
-<sup>4</sup> …[^44-4]
+<sup>4</sup> Le DFF adapte les montants minimaux, les salaires cibles et les montants maximaux visés à l’art. 36 en fonction du renchérissement.[^44-6]
 
-[^44-1]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
-[^44-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44-3]: Introduite par l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogée par le ch. I de l’O du 13 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^44-4]: Abrogé par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, avec effet au 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^44-1]: Abrogée par le ch. I de l’O du 3 sept. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44-2]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^44-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44-4]: Introduite par l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogée par le ch. I de l’O du 13 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^44-5]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44-6]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 44a
 
@@ -1196,15 +1214,18 @@ N’ont pas droit à une augmentation de leur salaire réel les employés:
 - a. occupant une fonction moins bien évaluée que précédemment, mais dont le salaire antérieur a été maintenu nominalement, ou
 - b. dont le salaire a atteint le montant maximal de la classe de salaire 38.[^44a-4]
 
-<sup>4</sup> L’augmentation du salaire réel est versée sur le salaire visé à l’art. 36 et sur la prime de fonction visée à l’art. 46. Les montants maximaux des classes de salaire 1 à 37 sont modifiés en fonction de l’augmentation du salaire réel.[^44a-5]
+<sup>4</sup> L’augmentation du salaire réel est versée sur le salaire visé à l’art. 36 et sur la prime de fonction visée à l’art. 46. Les montants minimaux, les salaires cibles et les montants maximaux des classes de salaire 1 à 37 sont modifiés en fonction de l’augmentation du salaire réel.[^44a-5]
 
 <sup>5</sup> La compensation du renchérissement au sens de l’art. 44 versée au moment de l’entrée en vigueur d’une augmentation du salaire réel est calculée sur la base des montants précédant ladite augmentation.
+
+<sup>6</sup> Le DFF adapte les montants minimaux, les salaires cibles et les montants maximaux visés à l’art. 36 en fonction de l’augmentation du salaire réel.[^44a-6]
 
 [^44a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^44a-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^44a-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^44a-4]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44a-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-5]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44a-6]: Introduit par le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 45
 
@@ -1226,15 +1247,17 @@ Des indemnités peuvent être allouées pour:
 
 #### Art. 46
 
-**Prime de fonction**
+**Prime de fonction**[^46-1]
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Une prime de fonction peut être versée aux employés qui remplissent des tâches particulièrement exigeantes ne justifiant toutefois pas une affectation durable dans une classe de salaire supérieure.
+<sup>1</sup> Une prime de fonction peut être versée aux employés qui remplissent temporairement des tâches plus exigeantes ne justifiant toutefois pas une affectation durable dans une classe de salaire supérieure.
 
-<sup>2</sup> La prime de fonction ne doit pas dépasser la différence entre le montant maximal de la classe de salaire fixée dans le contrat de travail et le montant maximal de la classe de salaire à laquelle est affectée la fonction.[^46-1]
+<sup>2</sup> L’octroi d’une prime pour l’exercice temporaire d’une fonction plus exigeante suppose une évaluation plus élevée de la fonction par l’organe compétent visé à l’art. 53.
 
-[^46-1]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+<sup>3</sup> La prime de fonction ne doit pas dépasser la différence entre le salaire cible de la classe de salaire fixée dans le contrat de travail et le salaire cible de la classe de salaire supérieure à laquelle est affectée la fonction exercée temporairement.
+
+[^46-1]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 47
 
@@ -1297,11 +1320,11 @@ Pour récompenser immédiatement des prestations et des engagements particuliers
 
 ### (art. 15 LPers)
 
-<sup>1</sup> L’autorité compétente en vertu de l’art. 2 peut octroyer une allocation liée au marché de l’emploi afin d’attirer ou de fidéliser un personnel aux compétences reconnues; cette allocation représente 20 % au plus du montant maximal de la classe de salaire fixée dans le contrat de travail. L’allocation liée au marché de l’emploi peut être octroyée au maximum pendant cinq ans.[^50-1]
+<sup>1</sup> L’autorité compétente en vertu de l’art. 2 peut octroyer une allocation liée au marché de l’emploi afin d’attirer ou de fidéliser un personnel aux compétences reconnues; cette allocation représente 20 % au plus du salaire cible de la classe de salaire fixée dans le contrat de travail. L’allocation liée au marché de l’emploi peut être octroyée au maximum pendant cinq ans.[^50-1]
 
 <sup>2</sup> L’allocation liée au marché de l’emploi est octroyée après approbation du DFF. Le Conseil fédéral statue sur l’octroi de cette allocation au personnel visé à l’art. 2, al. 1.
 
-[^50-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 51
 
@@ -1369,32 +1392,39 @@ Le montant des allocations complétant l’allocation familiale correspond à la
 
 <sup>2bis</sup> Un organe de coordination composé de représentants des départements et dirigé par le DFF formule des recommandations à l’intention des départements concernant l’évaluation des fonctions.[^52-1]
 
-<sup>3</sup> Les critères déterminants pour l’évaluation sont la formation requise, l’étendue des tâches ainsi que le niveau d’exigences, de responsabilités et de risques inhérents à la fonction.
+<sup>3</sup> Les critères déterminants pour l’évaluation sont la formation requise, l’expérience préalablement requise en rapport avec la fonction, l’étendue des tâches ainsi que le niveau d’exigences, de responsabilités et de risques inhérents à la fonction.[^52-2]
 
-<sup>4</sup> Le DFF veille à ce que des fonctions comparables dans l’administration fédérale soient affectées aux mêmes classes de salaire. Il définit en collaboration avec les autres départements les fonctions de référence et les affecte à des classes de salaire. La classe de salaire la plus élevée d’une fonction de référence ne peut être dépassée qu’avec l’accord du DFF.[^52-2]
+<sup>4</sup> Le DFF veille à ce que des fonctions comparables dans l’administration fédérale soient affectées aux mêmes classes de salaire. Il définit en collaboration avec les autres départements les fonctions de référence et les affecte à des classes de salaire. La classe de salaire la plus élevée d’une fonction de référence ne peut être dépassée qu’avec l’accord du DFF.[^52-3]
 
 <sup>5</sup> Les départements règlent, en accord avec le DFF, la classification des fonctions qui relèvent de leur seule compétence.
 
-<sup>6</sup> L’autorité compétente en vertu de l’art. 2 peut ranger jusqu’à 2 % des postes des classes de salaire 1 à 30 dans la classe supérieure à celle que prévoit l’évaluation ordinaire de la fonction, à condition que cette mesure soit fondée sur un élargissement de la fonction lié aux qualités particulières de la personne engagée.[^52-3]
+<sup>6</sup> L’autorité compétente en vertu de l’art. 2 peut ranger jusqu’à 2 % des postes des classes de salaire 1 à 30 dans la classe supérieure à celle que prévoit l’évaluation ordinaire de la fonction, à condition que cette mesure soit fondée sur un élargissement de la fonction lié aux qualités particulières de la personne engagée.[^52-4]
 
-<sup>7</sup> …[^52-4]
+<sup>7</sup> …[^52-5]
 
-<sup>7bis</sup> Lorsque la condition d’affectation d’une fonction à une classe supérieure prévue à l’al. 6 n’est plus remplie, l’autorité compétente en vertu de l’art. 2 modifie la classe de salaire et le salaire dans le contrat de travail. L’art. 52*a* n’est pas applicable.[^52-5]
+<sup>7bis</sup> Lorsque la condition d’affectation d’une fonction à une classe supérieure prévue à l’al. 6 n’est plus remplie, l’autorité compétente en vertu de l’art. 2 modifie la classe de salaire et le salaire dans le contrat de travail. L’art. 52*a* n’est pas applicable.[^52-6]
 
-<sup>8</sup> Pour le personnel en cours de formation ou engagé sur la base de conditions particulières, le DFF peut fixer un salaire maximum qui se situe au-dessous du montant maximal de la classe de salaire 1.[^52-6]
+<sup>8</sup> Pour le personnel en cours de formation ou engagé sur la base de conditions particulières, le DFF peut fixer un salaire maximum qui se situe au-dessous du montant maximal de la classe de salaire 1.[^52-7]
 
 [^52-1]: Introduit par le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^52-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^52-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^52-4]: Abrogé par le ch. I de l’O du 22 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52-5]: Introduit par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^52-6]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^52-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^52-3]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^52-4]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^52-5]: Abrogé par le ch. I de l’O du 22 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
+[^52-6]: Introduit par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^52-7]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 52a
 
 **Affectation de la fonction à une classe de salaire inférieure**[^52a-1]
 
-<sup>1</sup> Si la fonction de l’employé est affectée à une classe de salaire inférieure ou qu’une fonction moins bien évaluée lui est confiée pour des raisons qui ne lui sont pas imputables, la classe de salaire est modifiée dans le contrat de travail. Si le salaire dépasse le montant maximal fixé pour cette nouvelle classe, le salaire acquis est maintenu pendant deux ans. Pendant ce délai, il n’est pas indexé sur le renchérissement et aucune augmentation de salaire selon l’art. 39 n’est accordée tant qu’il dépasse le montant auquel l’employé peut prétendre sur la base de l’évaluation de la fonction. Le salaire est adapté à la valeur effective de la fonction après deux ans au plus tard.
+<sup>1</sup> Si la fonction de l’employé est affectée à une classe de salaire inférieure ou qu’une fonction moins bien évaluée lui est confiée pour des raisons qui ne lui sont pas imputables, la classe de salaire est modifiée dans le contrat de travail. Le salaire antérieur est maintenu pendant deux ans (garantie du salaire).[^52a-2]
+
+<sup>1bis</sup> Pendant la garantie du salaire, toute évolution du salaire, compensation du renchérissement ou augmentation du salaire réel est exclue.[^52a-3]
+
+<sup>1ter</sup> À l’expiration de la garantie du salaire, le salaire est adapté à la nouvelle classe de salaire. Le rapport entre le nouveau salaire et le montant maximal de la nouvelle classe de salaire correspond au rapport entre le salaire et le montant maximal de la classe de salaire en vigueur au moment de l’affectation à une classe de salaire inférieure.[^52a-4]
+
+<sup>1quater</sup> Si, avant l’expiration de la garantie du salaire, la compensation du renchérissement ou l’augmentation du salaire réel mène à ce que la position du salaire dans la nouvelle classe de salaire visée à l’al. 1<sup>ter</sup> dépasse le salaire garanti, le salaire est adapté à la nouvelle classe de salaire.[^52a-5]
 
 <sup>2</sup>
 
@@ -1406,6 +1436,10 @@ Par dérogation à l’al. 1, le délai d’adaptation du salaire à la valeur e
 <sup>3</sup> Après deux ans, le Conseil fédéral peut adapter le salaire de l’employé qui avait 55 ans révolus lors de la réévaluation de sa fonction ou de l’attribution d’une nouvelle fonction et qui était rangé dans la classe 32 ou dans une classe supérieure, si le montant maximal fixé pour ladite classe dépasse de plus de 10 % le montant maximal fixé pour la nouvelle classe.
 
 [^52a-1]: Introduit par le ch. I de l’O du 22 déc. 2004 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^52a-2]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-3]: Introduit par le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-4]: Introduit par le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-5]: Introduit par le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 52b
 
@@ -1486,12 +1520,13 @@ Les organes chargés de l’évaluation des fonctions dans l’administration f�
 
 <sup>4</sup> En cas de transfert dans une autre unité administrative au sens de l’art. 1, al. 1, dans le cadre d’une mesure de réadaptation au sens de l’art. 11*a*, les délais prévus à l’art. 56, al. 1 et 2, ne recommencent pas à courir.
 
-<sup>5</sup> Si le contrat de travail d’un employé est résilié en vertu de l’art. 31*a*, al. 5, l’obligation de verser le salaire visée à l’art. 56, al. 1 et 2, subsiste aussi longtemps que le contrat résilié le prévoyait. Le salaire perçu en vertu du nouveau contrat de travail ainsi que les prestations financières de l’assurance-invalidité et de PUBLICA sont imputés sur le salaire versé.
+<sup>5</sup> Si le contrat de travail d’un employé est résilié en vertu de l’art. 31*a*, al. 5, l’obligation de verser le salaire visée à l’art. 56, al. 1 et 2, subsiste aussi longtemps que le contrat résilié le prévoyait. Le salaire perçu en vertu du nouveau contrat de travail ainsi que les prestations financières de l’assurance-invalidité et de la Caisse fédérale de pensions (Publica) sont imputés sur le salaire versé.[^56a-3]
 
 <sup>6</sup> Dans le cas d’un contrat de travail de durée déterminée, le versement du salaire selon l’art. 56, al. 1 et 2, cesse au plus tard à la fin du contrat de travail.
 
 [^56a-1]: Introduit par le ch. I de l’O du 2 déc. 2016 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)). Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^56a-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^56a-3]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 56b
 
@@ -1708,6 +1743,112 @@ Le DFF a les tâches suivantes:
 - b. il règle l’octroi des contributions uniques;
 - c. il désigne l’autorité compétente pour l’octroi des prestations de l’employeur.
 
+#### Art. 63a
+
+**Participation au rachat**[^63a-1]
+
+### (art. 32, let. a, LPers)
+
+L’autorité compétente en vertu de l’art. 2 peut participer au rachat réglementaire en le finançant par ses crédits de personnel si, lors d’un nouvel engagement, la prévoyance semble inadéquate au regard de l’importance de la fonction et des qualifications de la personne à engager.
+
+[^63a-1]: Anciennement art. 88*c*. Introduit par le ch. I de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379); [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+
+#### Art. 63b
+
+**Congé**[^63b-1]
+
+### (art. 17*a* et 31, al. 5, LPers)
+
+[^63b-2]
+
+<sup>1</sup> En cas de congé non payé ou partiellement payé, la couverture d’assurance reste inchangée pendant deux mois au minimum.
+
+<sup>2</sup> L’autorité compétente en vertu de l’art. 2 qui accorde à l’employé un congé non payé ou partiellement payé de plus de deux mois doit convenir avec lui, avant le début du congé, du maintien ou non de l’assurance et de l’obligation de cotiser à partir du troisième mois de congé et, le cas échéant, des modalités de ce maintien.
+
+<sup>3</sup> Lorsque l’autorité compétente en vertu l’art. 2 ne prend plus en charge les cotisations de l’employeur ou la cotisation de risque[^63b-3] à partir du troisième mois de congé, elle annonce le congé à Publica[^63b-4]. L’employé peut maintenir la couverture d’assurance qu’il avait jusqu’alors en payant, en plus de sa propre cotisation d’épargne, la cotisation de l’employeur et la cotisation de risque, ou limiter l’assurance à la couverture des risques de décès et d’invalidité.
+
+<sup>4</sup> Les cotisations dues par l’employé pendant son congé sont déduites de son salaire dès la reprise du travail.
+
+[^63b-1]: Anciennement art. 88*d*. Introduit par le ch. I de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379); [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+[^63b-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^63b-3]: Nouvelle expression selon le ch. I al. 2 de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)). Il a été tenu compte de cette mod. dans tout le texte.
+[^63b-4]: Nouvelle expression selon le ch. I al. 1 de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 63c
+
+**Maintien de la prévoyance après une réduction de salaire**[^63c-1]
+
+<sup>1</sup> Lorsque le salaire assurable d’un employé est réduit de moitié au plus après l’âge de 58 ans, la prévoyance peut être maintenue, à sa demande, au niveau de la dernière couverture d’assurance (art. 33*a* de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité [LPP][^63c-2]); à cette fin, l’employé doit s’acquitter non seulement de ses propres cotisations d’épargne mais également de celles de l’employeur et de la cotisation de risque sur la part du salaire assuré jusqu’alors correspondant à la réduction de salaire.
+
+<sup>2</sup> Les adaptations salariales générales, notamment les augmentations de salaire en termes réels et les corrections globales de classification n’ont aucune incidence sur les cotisations versées sur la part correspondant à la réduction de salaire.[^63c-3]
+
+<sup>3</sup> Si la réduction du salaire assuré est opérée dans l’intérêt de l’autorité compétente au sens de l’art. 2, cette dernière peut prendre à sa charge la moitié au plus des cotisations d’épargne et de la cotisation de risque destinées au maintien de la prévoyance, et en imputer les coûts au budget du personnel. Cette contribution peut être temporaire.[^63c-4]
+
+[^63c-1]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63c-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^63c-3]: Anciennement art. 88*d*<sup>bis</sup>, al. 2. Introduit par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^63c-4]: Anciennement art. 88*d*<sup>bis</sup>, al. 3. Introduit par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+
+#### Art. 63d
+
+**Maintien de la prévoyance vieillesse après 65 ans**[^63d-1]
+
+Lorsque l’employeur et l’employé conviennent de maintenir les relations de travail au-delà de l’âge de 65 ans, la prévoyance vieillesse de l’employé peut être maintenue, à sa demande, jusqu’à la fin de son activité lucrative, mais au plus tard jusqu’à ce qu’il ait atteint l’âge de 70 ans (art. 33*b* LPP[^63d-2]). Dans ce cas, l’autorité compétente finance les cotisations d’épargne de l’employeur.
+
+[^63d-1]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63d-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+
+#### Art. 63e
+
+**Participation de l’employeur au financement de la rente transitoire**[^63e-1]
+
+<sup>1</sup> L’employé qui part à la retraite avant d’avoir atteint l’âge de référence fixé à l’art. 21 LAVS[^63e-2] peut percevoir une rente transitoire.[^63e-3]
+
+<sup>2</sup>
+
+L’employeur participe au financement de la rente transitoire si l’employé:
+
+- a. prend à titre volontaire une retraite complète ou partielle;
+- b. a 62 ans révolus;
+- c. a été employé, immédiatement avant sa retraite, pendant au moins cinq ans auprès d’employeurs selon l’art. 2, al. 1, let. f ou g, LPers, ou au sein d’unités administratives selon l’art. 1;
+- d. a exercé pendant au moins cinq ans une fonction continuellement très pénible sur le plan physique ou psychique, et
+- e. demande le versement d’une rente transitoire complète ou d’une demi-rente transitoire.[^63e-4]
+
+<sup>3</sup>
+
+Les activités continuellement très pénibles sur le plan physique ou psychique mentionnées à l’al. 1<sup>bis</sup>, let. d, se présentent dans les cas suivants:
+
+- a. activités en présence d’agents physiques, chimiques ou biologiques qui peuvent représenter un danger pour la santé;
+- b. activités exercées dans des conditions de travail difficiles, notamment avec des températures extrêmes, des conditions climatiques rudes ou de mauvaises conditions de lumière;
+- c. activités avec de lourdes charges pour l’appareil locomoteur;
+- d. activités présentant un risque d’accident accru;
+- e. activités très répétitives, monotones ou émotionnellement difficiles, qui peuvent conduire à un fort stress psychique;
+- f. activités avec des horaires contraignants, telles que des engagements effectués dans le cadre de plans de service fixes (art. 10*b*) ou le travail de nuit.[^63e-5]
+
+<sup>4</sup> Le DFF détermine, en accord avec les départements, les fonctions dont l’exercice donne droit à une participation de l’employeur au financement de la rente transitoire.[^63e-6]
+
+<sup>5</sup> Le montant total de la rente transitoire est déterminé selon le règlement de prévoyance du 15 juin 2007 pour les personnes employées et les bénéficiaires de rentes de la Caisse de prévoyance de la Confédération (RPEC)[^63e-7].
+
+<sup>6</sup> Le calcul des coûts actuariels d’une rente transitoire tient compte du nombre d’années de travail, du taux d’occupation moyen pendant ces années de travail et du pourcentage de la rente de vieillesse réglementaire à percevoir.[^63e-8]
+
+<sup>7</sup> Les rapports de travail exercés auprès d’employeurs selon l’art. 2, al. 1, let. f et g, LPers ainsi qu’au sein d’unités administratives selon l’art. 1 sont pris en compte pour le calcul du nombre d’années de travail et du degré d’occupation moyen, pour autant qu’ils n’aient pas été interrompus pendant plus de trois ans. Les années de travail entamées sont retenues comme années entières après achèvement du sixième mois. La période d’apprentissage au sens de la législation sur la formation professionnelle et les stages qui y sont liés ne sont pas pris en compte.[^63e-9]
+
+<sup>8</sup> La participation en pourcentage de l’employeur au financement de la rente transitoire est réglée à l’annexe 1. En cas de retraite anticipée après l’âge de 62 ans révolus, elle est réduite d’un vingt-cinquième par année manquante jusqu’à la 25<sup>e</sup> année de travail révolue.[^63e-10]
+
+<sup>9</sup> L’unité administrative au sein de laquelle l’employé travaillait immédiatement avant sa retraite anticipée examine si les conditions d’octroi d’une rente transitoire sont remplies et calcule le degré d’occupation moyen de l’employé.[^63e-11]
+
+[^63e-1]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63e-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^63e-3]: Anciennement art. 88*f*, al. 1. Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^63e-4]: Anciennement art. 88*f*, al. 1<sup>bis</sup>. Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-5]: Anciennement art. 88*f*, al. 1<sup>ter</sup>. Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-6]: Anciennement art. 88*f*, al. 1<sup>quater</sup>. Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-7]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^63e-8]: Anciennement art. 88*f*, al. 3. Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^63e-9]: Anciennement art. 88*f*, al. 4. Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^63e-10]: Anciennement art. 88*f*, al. 5. Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^63e-11]: Anciennement art. 88*f*, al. 6. Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+
 ### Section 5 Temps de travail, vacances, congés
 
 #### Art. 64
@@ -1866,17 +2007,18 @@ L’employé a droit à:
 - a. 6 semaines de vacances par année civile jusqu’à l’année au cours de laquelle il atteint l’âge de 20 ans;
 - b. 5 semaines de vacances par année civile à partir de l’année au cours de laquelle il atteint l’âge de 21 ans;
 - c. 6 semaines de vacances par année civile à partir de l’année au cours de laquelle il atteint l’âge de 50 ans;
-- d. 7 semaines de vacances par année civile à partir de l’année au cours de laquelle il atteint l’âge de 60 ans.[^67-2]
+- d.[^67-2] 6 semaines et 2 jours de vacances par année civile à partir de l’année au cours de laquelle il atteint l’âge de 60 ans.[^67-3]
 
 <sup>2</sup> Les vacances doivent être fixées de manière à ne pas nuire à l’exécution des travaux et à permettre à l’employé de se détendre.
 
 <sup>3</sup> Les vacances doivent être prises pendant l’année civile au cours de laquelle le droit aux vacances prend naissance. Si cela est impossible pour des raisons d’exploitation majeures ou en raison d’un accident ou d’une maladie, elles doivent être prises l’année suivante.
 
-<sup>4</sup> …[^67-3]
+<sup>4</sup> …[^67-4]
 
 [^67-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^67-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^67-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)). Abrogé par le ch. I de l’O du 12 juin 2015, avec effet au 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^67-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^67-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^67-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)). Abrogé par le ch. I de l’O du 12 juin 2015, avec effet au 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 67a
 
@@ -1997,25 +2139,18 @@ Le DFF fixe les indemnités versées pour:
 
 <sup>1</sup> Une prime de fidélité est octroyée après 10 années de travail puis tous les 5 ans jusqu’à ce que l’employé ait accompli 45 années de travail.[^73-1]
 
-<sup>2</sup>
+<sup>2</sup> La prime de fidélité consiste en la moitié du salaire mensuel après 10 années de travail et après chaque nouvelle tranche de 5 années de travail.[^73-2]
 
-La prime de fidélité consiste:
-
-- a.[^73-2] …
-- b. en la moitié du salaire mensuel après 10 années et 15 années de travail;
-- c. en un salaire mensuel après chaque nouvelle tranche de 5 années de travail.[^73-3]
-
-<sup>3</sup> La prime de fidélité est en principe versée en espèces. En accord avec le supérieur hiérarchique, la totalité ou la moitié de cette prime peut, à titre exceptionnel, être prise sous la forme d’un congé payé.[^73-4]
+<sup>3</sup> La prime de fidélité est en principe versée en espèces. En accord avec le supérieur hiérarchique, la totalité ou la moitié de cette prime peut, à titre exceptionnel, être prise sous la forme d’un congé payé.[^73-3]
 
 <sup>4</sup> L’autorité compétente en vertu de l’art. 2 peut refuser de verser tout ou partie de la prime de fidélité aux employés dont les prestations ou le comportement ne donnent que partiellement satisfaction.
 
-<sup>5</sup> Les rapports de travail exercés sans interruption auprès d’employeurs selon l’art. 2, al. 1, let. f et g, LPers ainsi qu’au sein d’unités administratives selon l’art. 1 sont pris en compte pour le calcul du nombre d’années de travail, quel que soit le taux d’occupation. La période d’apprentissage au sens de la législation sur la formation professionnelle et les stages qui y sont liés ne sont pas pris en compte.[^73-5]
+<sup>5</sup> Les rapports de travail exercés sans interruption auprès d’employeurs selon l’art. 2, al. 1, let. f et g, LPers ainsi qu’au sein d’unités administratives selon l’art. 1 sont pris en compte pour le calcul du nombre d’années de travail, quel que soit le taux d’occupation. La période d’apprentissage au sens de la législation sur la formation professionnelle et les stages qui y sont liés ne sont pas pris en compte.[^73-4]
 
 [^73-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3155](https://fedlex.data.admin.ch/eli/oc/2015/589)).
-[^73-2]: Abrogée par le ch. I de l’O du 11 sept. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3155](https://fedlex.data.admin.ch/eli/oc/2015/589)).
-[^73-3]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
-[^73-4]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^73-5]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^73-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^73-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^73-4]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 74
 
@@ -2408,169 +2543,196 @@ On entend par organisations internationales au sens de la présente disposition:
 [^88-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^88-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^88-4]: Introduit par l’annexe ch. 4 de l’O du 7 décembre 2007 sur l’État hôte ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^88-5]: Introduit par le ch. I de l’O du 20 nov. 2013 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^88-5]: Introduit par le ch. I de l’O du 20 nov. 2013 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Mis à jour par le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 ## Chapitre 4*a* Prévoyance professionnelle
 
 [^chap4a-1]
 
-[^chap4a-1]: Introduit par le ch. I de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
-
-### Section 1 Salaire déterminant
+[^chap4a-1]: Introduit par le ch. I de l’O du 15 juin 2007 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 88a
 
-**Salaire assurable**
+**Champ d’application**
 
-### (art. 32*g*, al. 5, LPers)
+### (art. 32*d*, al. 1, et 32*g*, al. 2, LPers)
 
-<sup>1</sup> Sont assurés auprès de PUBLICA, dans le cadre des dispositions réglementaires, le salaire ainsi que les éléments du salaire selon l’annexe 2. Ne sont pas assurées les prestations de l’employeur selon les art. 81 à 83.[^88a-1]
-
-<sup>2</sup> Si aucune compensation du renchérissement n’est versée à un employé en vertu de l’art. 52*a* ou si le salaire de cet employé est réduit en vertu de l’art. 56, al. 2, le salaire assurable précédent reste inchangé jusqu’à ce que la compensation du renchérissement soit à nouveau versée ou que le droit au salaire en cas de maladie ou d’accident s’éteigne.[^88a-2]
-
-<sup>3</sup> …[^88a-3]
-
-<sup>4</sup> …[^88a-4]
-
-[^88a-1]: Nouvelle teneur selon le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^88a-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^88a-3]: Abrogé par le ch. I de l’O du 20 juin 2014, avec effet au 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88a-4]: Abrogé par le ch. I de l’O du 12 oct. 2016, avec effet au 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
+Les dispositions du présent chapitre s’appliquent aux employeurs affiliés à la Caisse de prévoyance de la Confédération.
 
 #### Art. 88b
 
-**Annonce**
+**Assurance des employés**
 
-### (art. 32*g*, al. 5, LPers)
+### (art. 32*i*, al. 1, et 32*j*, al. 1, LPers)
 
-Le salaire assurable est annoncé à PUBLICA en tant que salaire déterminant par l’autorité compétente en vertu de l’art. 2.
+<sup>1</sup>
 
-### Section 2 Prestations de l’employeur
+Les employés sont assurés selon les modalités suivantes:
+
+- a. dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 17 ans: contre les risques de décès et d’invalidité;
+- b. dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 21 ans: également contre la vieillesse.
+
+<sup>2</sup> L’al. 1 s’applique également aux personnes qui sont déjà assujetties à l’assurance obligatoire pour une activité lucrative exercée à titre principal.
+
+<sup>3</sup> L’assurance est régie par le RPEC[^88b-1].
+
+[^88b-1]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 
 #### Art. 88c
 
-**Participation au rachat**
+**Personnes non assurées**
 
-### (art. 32, let. a, LPers)
+Ne sont pas assurés:
 
-L’autorité compétente en vertu de l’art. 2 peut participer au rachat réglementaire en le finançant par ses crédits de personnel si, lors d’un nouvel engagement, la prévoyance semble inadéquate au regard de l’importance de la fonction et des qualifications de la personne à engager.
+- a. les employés qui sont engagés pour une durée limitée ne dépassant pas trois mois; l’art. 1*k* de l’ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^88c-1] est réservé;
+- b. les employés qui n’exercent qu’une activité accessoire auprès d’un employeur affilié à la Caisse de prévoyance de la Confédération et qui exercent une activité lucrative indépendante à titre principal;
+- c. les personnes qui sont invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^88c-2], à raison de 70 % au moins;
+- d. les personnes qui, au sens de l’art. 26*a* LPP[^88c-3], restent assurées à titre provisoire auprès de l’institution de prévoyance tenue de leur verser des prestations;
+- e. le personnel du DFAE qui est employé à l’étranger sur la base d’un contrat de droit privé et qui n’est pas transférable, pour lequel le DFAE n’est pas soumis à l’obligation de payer des cotisations à l’assurance-vieillesse et survivants;
+- f. les personnes qui ont atteint l’âge de référence; l’art. 63*d* est réservé.
+
+[^88c-1]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^88c-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^88c-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 88d
 
-**Congé**
+**Fin de l’assurance**
 
-### (art. 17*a* et 31, al. 5, LPers)
+<sup>1</sup>
 
-[^88d-1]
+L’assurance prend fin:
 
-<sup>1</sup> En cas de congé non payé ou partiellement payé, la couverture d’assurance reste inchangée pendant deux mois au minimum.
+- a. lorsque les rapports de travail cessent, à moins qu’à ce moment la personne n’ait droit à des prestations de vieillesse ou d’invalidité et que l’assurance ne soit maintenue en vertu des dispositions réglementaires;
+- b. lorsque la personne a atteint l’âge de référence; l’art. 63*d* et les dispositions réglementaires sont réservés.
 
-<sup>2</sup> L’autorité compétente en vertu de l’art. 2 qui accorde à l’employé un congé non payé ou partiellement payé de plus de deux mois doit convenir avec lui, avant le début du congé, du maintien ou non de l’assurance et de l’obligation de cotiser à partir du troisième mois de congé et, le cas échéant, des modalités de ce maintien.
+<sup>2</sup>
 
-<sup>3</sup> Lorsque l’autorité compétente en vertu l’art. 2 ne prend plus en charge les cotisations de l’employeur ou la prime de risque à partir du troisième mois de congé, elle annonce le congé à PUBLICA. L’employé peut maintenir la couverture d’assurance qu’il avait jusqu’alors en payant, en plus de sa propre cotisation d’épargne, la cotisation de l’employeur et la prime de risque, ou limiter l’assurance à la couverture des risques de décès et d’invalidité.
+La personne concernée reste assurée contre les risques de décès et d’invalidité:
 
-<sup>4</sup> Les cotisations dues par l’employé pendant son congé sont déduites de son salaire dès la reprise du travail.
+- a. durant un mois après la cessation des rapports de travail;
+- b. durant dix mois au plus après la fin du versement du salaire, si les rapports de travail continuent; elle doit s’acquitter de la part de la cotisation de risque qui lui incombe.
 
-[^88d-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+<sup>3</sup> Si la cessation des rapports de travail visée à l’al. 2, let. b, est litigieuse, l’art. 10 de l’ordonnance du 31 août 1983 sur l’assurance-chômage[^88d-1] est réservé.
 
-#### Art. 88d<sup>bis</sup>
-
-**Maintien de la prévoyance après une réduction de salaire**[^88dbis-1]
-
-<sup>1</sup> Lorsque le salaire assuré d’une personne employée est réduit de moitié au plus après l’âge de 58 ans, la prévoyance peut à sa demande être maintenue au niveau de la dernière couverture d’assurance (art. 33*a* LPP[^88dbis-2]); à cette fin la personne employée doit s’acquitter non seulement de ses propres cotisations d’épargne mais également de celles de l’employeur et de la prime de risque sur la part du salaire assuré jusqu’alors correspondant à la réduction de salaire.
-
-<sup>2</sup> Les adaptations salariales générales, notamment les augmentations de salaire en termes réels et les corrections globales de classification n’ont aucune incidence sur les cotisations versées sur la part correspondant à la réduction de salaire.
-
-<sup>3</sup> Si la réduction du salaire assuré est opérée dans l’intérêt de l’autorité compétente au sens de l’art. 2, cette dernière peut prendre à sa charge la moitié au plus des cotisations d’épargne et de la prime de risque destinées au maintien de la prévoyance, et en imputer les coûts au budget du personnel. Cette contribution peut être temporaire.
-
-[^88dbis-1]: Introduit par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dbis-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-
-#### Art. 88d<sup>ter</sup>
-
-**Maintien de la prévoyance après l’âge de 65 ans**[^88dter-1]
-
-Lorsque l’employeur et la personne employée conviennent de maintenir les relations de travail au-delà de l’âge de 65 ans, la prévoyance vieillesse de la personne employée peut être maintenue, à sa demande, jusqu’à la fin de son activité lucrative, mais au plus tard jusqu’à ce qu’elle ait atteint l’âge de 70 ans (art. 33 LPP[^88dter-2]). Dans ce cas, l’autorité compétente finance les cotisations d’épargne de l’employeur.
-
-[^88dter-1]: Introduit par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dter-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^88d-1]: [RS 837.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10284)
 
 #### Art. 88e
 
-[^88e-1]
+**Salaire annuel déterminant**
 
-[^88e-1]: Abrogé par le ch. I de l’O du 13 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+### (art. 32*g*, al. 5, LPers)
+
+<sup>1</sup> Sont assurés le salaire et les éléments du salaire visés à l’annexe 2. Ne sont pas assurées les prestations de l’employeur visées aux art. 81 à 83.
+
+<sup>2</sup> Si aucune compensation du renchérissement n’est versée à un employé en raison de l’affectation de sa fonction à une classe de salaire inférieure (art. 52*a*) ou si le salaire de cet employé est réduit en raison d’une incapacité de travailler (art. 56, al. 1 et 2), le salaire annuel précédemment déterminant reste inchangé jusqu’à ce que la compensation du renchérissement soit de nouveau versée ou que le droit au salaire en cas de maladie ou d’accident s’éteigne.
+
+<sup>3</sup> Le salaire annuel déterminant des employés à temps partiel correspond au salaire que ceux-ci obtiendraient à un taux d’occupation de 100 %.
+
+<sup>4</sup> Si une personne exerce plusieurs emplois auprès du même employeur affilié à la Caisse de prévoyance de la Confédération, la totalité du salaire est prise en compte.
+
+<sup>5</sup> Les employeurs qui fixent le salaire sur la base de leur propre règlement concernant le personnel y mentionnent les éléments du salaire par analogie avec l’annexe 2.
 
 #### Art. 88f
 
-**Participation de l’employeur au financement de la rente transitoire**[^88f-1]
+**Gain assuré**
 
-### (art. 32*k* LPers)
+### (art. 32*g*, al. 6 et 7, LPers)
 
-<sup>1</sup> L’employé qui part à la retraite avant d’avoir atteint l’âge de référence fixé à l’art. 21 LAVS[^88f-2] peut percevoir une rente transitoire.[^88f-3]
+<sup>1</sup> Le gain assuré correspond au salaire annuel déterminant, déduction faite du montant de coordination, converti au taux d’occupation déterminant pour l’assurance.
 
-<sup>1bis</sup>
+<sup>2</sup> Le montant de coordination correspond à 30 % du salaire annuel déterminant, mais au plus au montant limite inférieur visé à l’art. 8, al. 1, LPP[^88f-1].
 
-L’employeur participe au financement de la rente transitoire si l’employé:
+[^88f-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
-- a. prend à titre volontaire une retraite complète ou partielle;
-- b. a 62 ans révolus;
-- c. a été employé, immédiatement avant sa retraite, pendant au moins cinq ans auprès d’employeurs selon l’art. 2, al. 1, let. f ou g, LPers, ou au sein d’unités administratives selon l’art. 1;
-- d. a exercé pendant au moins cinq ans une fonction continuellement très pénible sur le plan physique ou psychique, et
-- e. demande le versement d’une rente transitoire complète ou d’une demi-rente transitoire.[^88f-4]
+#### Art. 88g
 
-<sup>1ter</sup>
+**Cotisations d’épargne**
 
-Les activités continuellement très pénibles sur le plan physique ou psychique mentionnées à l’al. 1<sup>bis</sup>, let. d, se présentent dans les cas suivants:
+<sup>1</sup> Les cotisations d’épargne sont calculées sur la base du gain assuré.
 
-- a. activités en présence d’agents physiques, chimiques ou biologiques qui peuvent représenter un danger pour la santé;
-- b. activités exercées dans des conditions de travail difficiles, notamment avec des températures extrêmes, des conditions climatiques rudes ou de mauvaises conditions de lumière;
-- c. activités avec de lourdes charges pour l’appareil locomoteur;
-- d. activités présentant un risque d’accident accru;
-- e. activités très répétitives, monotones ou émotionnellement difficiles, qui peuvent conduire à un fort stress psychique;
-- f. activités avec des horaires contraignants, telles que des engagements effectués dans le cadre de plans de service fixes (art. 10*b*) ou le travail de nuit.[^88f-5]
+<sup>2</sup> Les cotisations d’épargne ordinaires sont portées au crédit de l’avoir de vieillesse.
 
-<sup>1quater</sup> Le DFF détermine, en accord avec les départements, les fonctions dont l’exercice donne droit à une participation de l’employeur au financement de la rente transitoire.[^88f-6]
+#### Art. 88h
 
-<sup>2</sup> Le montant maximal de la rente transitoire complète correspond à la rente simple maximale de vieillesse de l’AVS.
+**Plans de prévoyance**
 
-<sup>3</sup> Le calcul des coûts actuariels d’une rente transitoire tient compte du nombre d’années de travail, du taux d’occupation moyen pendant ces années de travail et du pourcentage de la rente de vieillesse réglementaire à percevoir.
+### (art. 32*g*, al. 4, LPers)
 
-<sup>4</sup> Les rapports de travail exercés auprès d’employeurs selon l’art. 2, al. 1, let. f et g, LPers ainsi qu’au sein d’unités administratives selon l’art. 1 sont pris en compte pour le calcul du nombre d’années de travail et du degré d’occupation moyen, pour autant qu’ils n’aient pas été interrompus pendant plus de trois ans. Les années de travail entamées sont retenues comme années entières après achèvement du sixième mois. La période d’apprentissage au sens de la législation sur la formation professionnelle et les stages qui y sont liés ne sont pas pris en compte.[^88f-7]
+<sup>1</sup>
 
-<sup>5</sup> La participation en pourcentage de l’employeur au financement de la rente transitoire est réglée à l’annexe 1. En cas de retraite anticipée après l’âge de 62 ans révolus, elle est réduite d’un vingt-cinquième par année manquante jusqu’à la 25<sup>e</sup> année de travail révolue.
+Les employés sont assurés selon les modalités suivantes:
 
-<sup>6</sup> L’unité administrative au sein de laquelle l’employé travaillait immédiatement avant sa retraite anticipée examine si les conditions d’octroi d’une rente transitoire sont remplies et calcule le degré d’occupation moyen de l’employé.
+- a. jusqu’à la classe de salaire 23: dans le plan standard;
+- b. à partir de la classe de salaire 24: dans le plan pour cadres.
 
-[^88f-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88f-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^88f-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^88f-4]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-5]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-6]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-7]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+<sup>2</sup> Les cotisations sont fixées à l’annexe 4.
 
-### Section 3 …
+<sup>3</sup> Les employés dont l’employeur fixe le salaire sur la base de son propre règlement concernant le personnel sont assurés dans le plan standard ou dans le plan pour cadres prévu par le règlement de leur employeur concernant le personnel.
 
-#### Art. 88gà 88j
+#### Art. 88i
 
-[^88g88j-1]
+**Plans de prévoyance pour les personnes appartenant à des catégories particulières de personnel**
 
-[^88g88j-1]: Abrogés par l’art. 7 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Voir toutefois les disp. trans. à l’art. 8 de cette O.
+### (art. 32*g*, al. 4, LPers)
 
-### Section 4 …
+<sup>1</sup>
+
+Les personnes qui bénéficient de cotisations supplémentaires de l’employeur en vertu de l’art. 3 de l’ordonnance du 20 février 2013 sur la retraite des membres des catégories particulières de personnel[^88i-1] sont assurées selon les modalités suivantes:
+
+- a. jusqu’à la classe de salaire 23: dans le plan standard;
+- b. à partir de la classe de salaire 24: dans le plan pour cadres.
+
+<sup>2</sup> Les cotisations sont fixées à l’annexe 5.
+
+<sup>3</sup> Les cotisations d’épargne ordinaires sont portées au crédit de l’avoir de vieillesse et les cotisations d’épargne supplémentaires, à celui de l’avoir d’épargne spécial.
+
+[^88i-1]: [RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
+
+#### Art. 88j
+
+**Cotisation de risque**
+
+<sup>1</sup> La cotisation de risque est calculée sur la base du gain assuré.
+
+<sup>2</sup> Elle est de 1,5 %.
+
+<sup>3</sup> L’employeur prend en charge les trois quarts des coûts liés à cette cotisation, le quart restant incombant à l’employé.
 
 #### Art. 88k
 
-[^88k-1]
+**Frais administratifs**
 
-[^88k-1]: Introduit par le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogée par le ch. I de l’O du 2 déc. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+Les frais administratifs sont intégralement payés par l’employeur.
 
 #### Art. 88l
 
-[^88l-1]
+**Mesures d’assainissement**
 
-[^88l-1]: Introduit par le ch. I de l’O du 24 nov. 2010 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)). Abrogé par le ch. I de l’O du 20 nov. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+<sup>1</sup> L’accord du Conseil fédéral est requis lorsqu’il est prévu de financer des prestations sur-obligatoires au moyen de mesures d’assainissement.
+
+<sup>2</sup> L’employeur peut prévoir une participation aux mesures d’assainissement supérieure aux montants paritaires.
+
+<sup>3</sup> Les cotisations d’assainissement à payer par l’employeur et par l’employé sont dues dans leur totalité par l’employeur.
+
+<sup>4</sup> S’il fait ajourner le versement de la prestation ou maintient l’assurance, l’employé paie sa cotisation d’assainissement.
+
+<sup>5</sup> La part de cotisation est déduite mensuellement du salaire.
+
+#### Art. 88m
+
+**Apports à la caisse de prévoyance**
+
+### (art. 32*g*, al. 2, LPers)
+
+L’employeur peut effectuer des apports à la caisse de prévoyance aux fins suivantes:
+
+- a. constituer des réserves de cotisations d’employeur;
+- b. constituer des réserves de cotisations d’employeur incluant une déclaration de renonciation à leur utilisation conformément aux dispositions réglementaires;
+- c. résorber un découvert;
+- d. financer des mesures d’atténuation;
+- e. accroître le taux de couverture jusqu’à concurrence de 110 %;
+- f. financer des bonifications d’intérêts.
 
 ## Chapitre 5 Devoirs du personnel
 
@@ -3091,12 +3253,12 @@ En cas d’attribution d’un nouveau lieu de travail dans le cadre d’une rest
 
 - a. une participation temporaire aux frais de déplacement entre le domicile et le lieu de travail;
 - b. une participation aux frais de déménagement;
-- c. le maintien de l’ancienne indemnité de résidence pendant deux ans si elle est plus élevée que celle du nouveau lieu de travail;
-- d. une réduction de l’indemnité de résidence, s’opérant en plusieurs étapes sur une période de quatre ans au maximum, si le nouveau lieu de travail est classé dans une zone inférieure de six échelons ou plus par rapport à l’ancien lieu de travail.
+- c. et d.[^105-2] …
 
 <sup>3</sup> Les mesures et prestations prévues par le plan social visé à l’art. 105*d* s’appliquent par analogie dans des cas particuliers, pour autant que la présente ordonnance ne prévoie pas de réglementation en la matière.
 
 [^105-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
+[^105-2]: Abrogées par le ch. I de l’O du 3 sept. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 105a
 
@@ -3141,18 +3303,19 @@ En outre, au moins l’une des conditions suivantes doit être remplie:
 
 L’employeur peut, pour des raisons pertinentes, fournir les prestations suivantes en sus des rentes visées aux al. 1 et 2:[^105b-2]
 
-- a. une participation aux coûts de maintien de la prévoyance selon l’art. 88*d*<sup>bis</sup>, al. 3;
-- b. une participation au rachat visant à augmenter la rente de vieillesse selon l’art. 32*a* RPEC[^105b-3];
-- c.[^105b-4] une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^105b-5], mais au plus tard jusqu’à l’âge de référence fixé à l’art. 21 LAVS[^105b-6];
-- d.[^105b-7] …
+- a.[^105b-3] une participation aux coûts de maintien de la prévoyance selon l’art. 63*c*, al. 3;
+- b. une participation au rachat visant à augmenter la rente de vieillesse selon l’art. 32*a* RPEC[^105b-4];
+- c.[^105b-5] une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^105b-6], mais au plus tard jusqu’à l’âge de référence fixé à l’art. 21 LAVS[^105b-7];
+- d.[^105b-8] …
 
 [^105b-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 [^105b-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^105b-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
-[^105b-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^105b-5]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
-[^105b-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^105b-7]: Abrogée par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^105b-3]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^105b-4]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^105b-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-6]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-7]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^105b-8]: Abrogée par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
 
@@ -3342,41 +3505,42 @@ Le DFAE peut, en accord avec le DFF, édicter des dispositions dérogatoires app
 - a.[^114-2] art. 15 et 16: dialogue et évaluation personnelle;
 - b. art. 38: salaire du personnel à temps partiel;
 - c. art. 39: évolution du salaire;
-- d. art. 43: indemnité de résidence;
+- d.[^114-3] …
 - e. art. 44: compensation du renchérissement;
 - f. art. 46: prime de fonction;
-- g.[^114-3] art. 49: prime de prestations;
+- g.[^114-4] art. 49: prime de prestations;
 - h. art. 52: évaluation de la fonction;
-- h<sup>bis</sup>.[^114-4] art. 52*a*: affectation de la fonction à une classe de salaire inférieure;
+- h<sup>bis</sup>.[^114-5] art. 52*a*: affectation de la fonction à une classe de salaire inférieure;
 - i. art. 53: organes chargés de l’évaluation de la fonction;
 - j. art. 63: prestations en cas d’accident professionnel;
 - k. art. 64: temps de travail;
-- k<sup>bis</sup>.[^114-5] art. 64*b*: horaire de travail fondé sur la confiance;
+- k<sup>bis</sup>.[^114-6] art. 64*b*: horaire de travail fondé sur la confiance;
 - l. art. 65: heures d’appoint et heures supplémentaires;
 - m. art. 66: jours de congé;
 - n. art. 67: vacances;
 - o. art. 68: congés;
-- o<sup>bis</sup>.[^114-6] art. 75*a,* al. 2: accueil extrafamilial des enfants;
-- o<sup>ter</sup>.[^114-7] art. 75*b*: droit au remboursement des coûts de l’accueil extrafamilial des enfants;
-- p.[^114-8] art. 78, al. 2, let. k: versement d’indemnités au personnel de la DDC;
-- q.[^114-9] art. 78, al. 2<sup>bis</sup>: indemnités au personnel de la DDC pour cessation des rapports de travail intervenue d’un commun accord;
-- r. et s.[^114-10] …
+- o<sup>bis</sup>.[^114-7] art. 75*a,* al. 2: accueil extrafamilial des enfants;
+- o<sup>ter</sup>.[^114-8] art. 75*b*: droit au remboursement des coûts de l’accueil extrafamilial des enfants;
+- p.[^114-9] art. 78, al. 2, let. k: versement d’indemnités au personnel de la DDC;
+- q.[^114-10] art. 78, al. 2<sup>bis</sup>: indemnités au personnel de la DDC pour cessation des rapports de travail intervenue d’un commun accord;
+- r. et s.[^114-11] …
 
 <sup>3</sup> La situation personnelle du personnel envoyé à l’étranger est prise en compte dans la détermination du montant de l’indemnité et dans la définition des mesures visées aux art. 63 et 81 à 88. Dans ses dispositions d’exécution le DFAE détermine, en accord avec le DFF, si et dans quelle mesure il y a lieu de prendre en considération des personnes accompagnantes autres que les membres de la famille; il fixe les modalités.
 
-<sup>4</sup> Le DFAE édicte, en accord avec le DFF, des dispositions relatives à l’indexation des lieux d’affectation selon le degré de difficulté des conditions de vie, la ville de Berne servant de référence avec 100 points d’indice, et désigne les lieux d’affectation où les conditions de vie sont très difficiles.[^114-11]
+<sup>4</sup> Le DFAE édicte, en accord avec le DFF, des dispositions relatives à l’indexation des lieux d’affectation selon le degré de difficulté des conditions de vie, la ville de Berne servant de référence avec 100 points d’indice, et désigne les lieux d’affectation où les conditions de vie sont très difficiles.[^114-12]
 
 [^114-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^114-2]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
-[^114-3]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
-[^114-4]: Anciennement let. r. Introduite par le ch. I de l’O du 22 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^114-5]: Anciennement let. s. Introduite par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)). Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
-[^114-6]: Introduite par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-3]: Abrogée par le ch. I de l’O du 3 sept. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^114-4]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^114-5]: Anciennement let. r. Introduite par le ch. I de l’O du 22 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
+[^114-6]: Anciennement let. s. Introduite par le ch. I de l’O du 5 déc. 2008 ([RO 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)). Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^114-7]: Introduite par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-8]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-8]: Introduite par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
 [^114-9]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^114-10]: Abrogées par le ch. I de l’O du 24 nov. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-11]: Introduit par le ch. 7 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
+[^114-10]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-11]: Abrogées par le ch. I de l’O du 24 nov. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-12]: Introduit par le ch. 7 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
 
 #### Art. 115
 
@@ -3473,7 +3637,7 @@ Il peut, après entente avec le Département fédéral de l’intérieur, édict
 
 [^116a-1]
 
-[^116a-1]: Introduit par le ch. I de l’O du 22 déc. 2004 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Abrogé par le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^116a-1]: Introduit par le ch. I de l’O du 22 déc. 2004 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Abrogé par le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de Publica, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116b
 
@@ -3493,20 +3657,20 @@ Il peut, après entente avec le Département fédéral de l’intérieur, édict
 
 Au début du congé de préretraite au sens de l’art. 34, une indemnité équivalant aux trois quarts du salaire annuel perçu pour la dernière année de service est versée en remplacement de la prestation selon l’art. 88*h*:[^116c-3]
 
-- a. aux employés visés à l’art. 33, al. 1, let a et b, qui ont 51 ans révolus au moment de la mise en vigueur intégrale de la loi relative à PUBLICA;
-- b. aux employés visés à l’art. 33, al. 1, let. c, qui ont 53 ans révolus au moment de la mise en vigueur intégrale de la loi relative à PUBLICA.
+- a. aux employés visés à l’art. 33, al. 1, let a et b, qui ont 51 ans révolus au moment de la mise en vigueur intégrale de la loi relative à Publica;
+- b. aux employés visés à l’art. 33, al. 1, let. c, qui ont 53 ans révolus au moment de la mise en vigueur intégrale de la loi relative à Publica.
 
-<sup>3</sup> Les employés visés à l’art. 33, al. 2, perçoivent avec leur dernier salaire une indemnité équivalant aux trois quarts de leur dernier salaire annuel s’ils ont 55 ans révolus au moment de la mise en vigueur intégrale de la loi relative à PUBLICA.
+<sup>3</sup> Les employés visés à l’art. 33, al. 2, perçoivent avec leur dernier salaire une indemnité équivalant aux trois quarts de leur dernier salaire annuel s’ils ont 55 ans révolus au moment de la mise en vigueur intégrale de la loi relative à Publica.
 
-<sup>4</sup> L’indemnité selon les al. 2 et 3 est créditée sur l’avoir de vieillesse de l’assuré auprès de PUBLICA dans le cadre de la LPP[^116c-4], ou versée directement à l’assuré si celui-ci le demande.
+<sup>4</sup> L’indemnité selon les al. 2 et 3 est créditée sur l’avoir de vieillesse de l’assuré auprès de Publica dans le cadre de la LPP[^116c-4], ou versée directement à l’assuré si celui-ci le demande.
 
 <sup>5</sup> L’art. 34*a*, al. 2, ne s’applique pas aux employés selon l’al. 2.[^116c-5]
 
-[^116c-1]: Introduit par le ch. I de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Voir aussi les disp. trans. à l’art. 8 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel ([RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)).
+[^116c-1]: Introduit par le ch. I de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Voir aussi les disp. trans. à l’art. 8 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel ([RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)).
 [^116c-2]: Art. 33 dans sa version du 3 juil. 2001 ([RO 2001 2206](https://fedlex.data.admin.ch/eli/oc/2001/319)), al. 1 à 3<sup>bis</sup> dans la version de l’O du 5 déc. 2003 sur l’abrogation et la mod. d’O en relation avec la nouvelle réglementation du personnel militaire ([RO 2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)); art. 16 de l’O du 2 déc. 1991 régissant le versement de prestations en cas de retraite anticipée des agents soumis à des rapports de service particuliers, dans la version de la mod. du 28 juin 2000 ([RO 2000 2429](https://fedlex.data.admin.ch/eli/oc/2000/388)).
 [^116c-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
 [^116c-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^116c-5]: Nouvelle teneur selon le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^116c-5]: Nouvelle teneur selon le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de Publica, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116d
 
@@ -3535,9 +3699,10 @@ Au début du congé de préretraite au sens de l’art. 34, une indemnité équi
 
 <sup>2</sup> La participation de l’employeur au financement de la rente transitoire des employés qui ont atteint l’âge de 59 ans révolus avant l’entrée en vigueur de la modification du 20 juin 2014 et qui prendront une retraite anticipée au plus tard le 31 juillet 2017 est réglée en vertu de l’ancien droit.
 
-<sup>3</sup> Le calcul de la rente transitoire selon l’art. 88*f* tient compte, en vertu de l’ancien droit, des années de travail reconnues avant l’entrée en vigueur de la modification du 20 juin 2014 et du degré d’occupation moyen en résultant.
+<sup>3</sup> Le calcul de la rente transitoire selon l’art. 63*e* tient compte, en vertu de l’ancien droit, des années de travail reconnues avant l’entrée en vigueur de la présente modification et du degré d’occupation moyen qui en résulte.[^116f-2]
 
 [^116f-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^116f-2]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 116g
 
@@ -3587,14 +3752,15 @@ Si la fonction des employés âgés de 55 ans révolus ou plus lors de l’entr�
 
 <sup>2</sup> A droit à une augmentation de son salaire réel au sens de l’art. 44*a*, al. 2, l’employée dont les rapports de travail sont résiliés par suite de son départ à la retraite volontaire avant l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS.
 
-<sup>3</sup> L’employée qui part à la retraite avant d’avoir atteint l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS, peut percevoir une rente transitoire au sens de l’art. 88*f*, al. 1.
+<sup>3</sup> L’employée qui part à la retraite avant d’avoir atteint l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS, peut percevoir une rente transitoire au sens de l’art. 63*e*, al. 1.[^116l-4]
 
-<sup>4</sup> En sus des rentes visées à l’art. 105*b*, al. 1 et 2, l’employeur peut fournir, pour des raisons pertinentes, une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes de l’employée selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^116l-4], mais au plus tard jusqu’à l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS.
+<sup>4</sup> En sus des rentes visées à l’art. 105*b*, al. 1 et 2, l’employeur peut fournir, pour des raisons pertinentes, une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes de l’employée selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^116l-5], mais au plus tard jusqu’à l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS.
 
 [^116l-1]: Introduit par l’annexe ch. 1 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^116l-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
 [^116l-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^116l-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^116l-4]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^116l-5]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 116m
 
@@ -3686,11 +3852,11 @@ La présente ordonnance entre en vigueur au 1<sup>er</sup> janvier 2002.
 
 Annexe 1[^t-1]
 
-(art. 88*f*, al. 5)
+(art. 63*e*, al. 8)
 
 ## Participation de l’employeur au financement de la rente transitoire
 
-[^t-1]: Introduite par le ch. II de l’O du 15 juin 2007 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Nouvelle teneur selon le ch. II de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^t-1]: Introduite par le ch. II de l’O du 15 juin 2007 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nouvelle teneur selon le ch. II de l’O du 15 nov. 2017 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)). Mise à jour par le ch. II al. 1 de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 <table>
 <tr><td></td><td>Plan standard (classes de salaire)</td><td></td><td></td><td>Plan pour cadres (classes de salaire)</td></tr>
@@ -3702,11 +3868,11 @@ Annexe 1[^t-1]
 
 Annexe 2[^t-2]
 
-(art. 88*a*, al. 1)
+(art. 88*e*, al. 1)
 
-## Éléments du salaire assurable
+## Éléments du salaire annuel déterminant
 
-[^t-2]: Introduite par le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Mise à jour par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)), le ch. I de l’O du 12 juin 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)) et le ch. II de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^t-2]: Introduite par le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de Publica ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Mise à jour par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)), le ch. II de l’O du 3 sept. 2025 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)) et le ch. II al. 1 de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 - a. Salaire mensuel selon l’art. 36 et salaire mensuel du personnel de la Confédération selon l’art. 12, al. 2, OPers-PDHH[^annex2-lvlu1-1], mais au maximum le salaire mensuel du département concerné; évolution du salaire selon l’art. 39, al. 1 à 5, et adaptations exceptionnelles du salaire selon l’art. 40 jusqu’au montant maximal de la classe de salaire;
 - b. salaire horaire, salaire journalier et salaire moyen selon l’art. 38, al. 2;
@@ -3755,3 +3921,87 @@ Annexe 3[^t-3]
 - 3\. L’indemnité prévue au ch. 1 peut être relevée à douze mois de salaire au maximum si des raisons pertinentes le justifient, notamment en cas de situation sociale difficile.
 - 4\. Les interruptions des rapports de travail dont la durée ne dépasse pas trois ans ne sont pas prises en compte.
 - 5\. Les années de travail ou de vie entamées sont arrondies au nombre supérieur.
+
+Annexe 4[^t-4]
+
+(art. 88*h,* al. 2)
+
+## Cotisations d’épargne
+
+[^t-4]: Introduite par le ch. II al. 2 de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+Pour les employés, les cotisations d’épargne sont fixées selon le tableau suivant:
+
+- a. dans le plan standard (jusqu’à la classe de salaire 23):
+
+<table>
+<tr><th>Âge de l’employé</th><th>Cotisation de l’employé en %</th><th>Cotisation de l’employeur en %</th><th>Total en %</th></tr>
+<tr><td>de 22 à 34 ans</td><td>5,85</td><td>6,90</td><td>12,75</td></tr>
+<tr><td>de 35 à 44 ans</td><td>7,25</td><td>9,00</td><td>16,25</td></tr>
+<tr><td>de 45 à 54 ans</td><td>9,40</td><td>16,60</td><td>26,00</td></tr>
+<tr><td>de 55 à 65 ans</td><td>12,50</td><td>21,75</td><td>34,25</td></tr>
+<tr><td>de 66 à 70 ans</td><td>5,85</td><td>5,85</td><td>11,70</td></tr>
+</table>
+
+- b. dans le plan pour cadres (à partir de la classe de salaire 24):
+
+<table>
+<tr><th>Âge de l’employé</th><th>Cotisation de l’employé en %</th><th>Cotisation de l’employeur en %</th><th>Total en %</th></tr>
+<tr><td>de 22 à 34 ans</td><td>5,95</td><td>6,80</td><td>12,75</td></tr>
+<tr><td>de 35 à 44 ans</td><td>7,25</td><td>9,00</td><td>16,25</td></tr>
+<tr><td>de 45 à 54 ans</td><td>9,70</td><td>19,20</td><td>28,90</td></tr>
+<tr><td>de 55 à 65 ans</td><td>12,80</td><td>24,30</td><td>37,10</td></tr>
+<tr><td>de 66 à 70 ans</td><td>5,95</td><td>5,95</td><td>11,90</td></tr>
+</table>
+
+Annexe 5[^t-5]
+
+(art. *88i*, al. 2)
+
+## Cotisations d’épargne pour les personnes appartenant à des catégories particulières de personnel
+
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+\1. Pour les militaires de carrière et les membres du Corps des gardes-frontière, les cotisations d’épargne sont fixées selon le tableau suivant:
+
+- a. dans le plan standard (jusqu’à la classe de salaire 23):
+
+<table>
+<tr><th>Âge de l’employé</th><th>Cotisation de l’employé en %</th><th>Cotisation de l’employeur en %</th><th>Cotisation supplémentaire de l’employeur en %</th><th>Total en %</th></tr>
+<tr><td>de 22 à 34 ans</td><td>5,85</td><td>6,90</td><td>2,00</td><td>14,75</td></tr>
+<tr><td>de 35 à 44 ans</td><td>7,25</td><td>9,00</td><td>2,00</td><td>18,25</td></tr>
+<tr><td>de 45 à 54 ans</td><td>9,40</td><td>16,60</td><td>5,00</td><td>31,00</td></tr>
+<tr><td>de 55 à 65 ans</td><td>12,50</td><td>21,75</td><td>5,00</td><td>39,25</td></tr>
+</table>
+
+- b. dans le plan pour cadres (à partir de la classe de salaire 24):
+
+<table>
+<tr><th>Âge de l’employé</th><th>Cotisation de l’employé en %</th><th>Cotisation de l’employeur en %</th><th>Cotisation supplémentaire de l’employeur en %</th><th>Total en %</th></tr>
+<tr><td>de 22 à 34 ans</td><td>5,95</td><td>6,80</td><td>2,00</td><td>14,75</td></tr>
+<tr><td>de 35 à 44 ans</td><td>7,25</td><td>9,00</td><td>2,00</td><td>18,25</td></tr>
+<tr><td>de 45 à 54 ans</td><td>9,70</td><td>19,20</td><td>6,00</td><td>34,90</td></tr>
+<tr><td>de 55 à 65 ans</td><td>12,80</td><td>24,30</td><td>6,00</td><td>43,10</td></tr>
+</table>
+
+\2. Pour les employés du DFAE soumis à la discipline des transferts, les cotisations d’épargne sont fixées selon le tableau suivant:
+
+- a. dans le plan standard (jusqu’à la classe de salaire 23):
+
+<table>
+<tr><th>Âge de l’employé</th><th>Cotisation de l’employé en %</th><th>Cotisation de l’employeur en %</th><th>Cotisation supplémentaire de l’employeur en %</th><th>Total en %</th></tr>
+<tr><td>de 22 à 34 ans</td><td>5,85</td><td>6,90</td><td>10,00</td><td>22,75</td></tr>
+<tr><td>de 35 à 44 ans</td><td>7,25</td><td>9,00</td><td>10,00</td><td>26,25</td></tr>
+<tr><td>de 45 à 54 ans</td><td>9,40</td><td>16,60</td><td>10,00</td><td>36,00</td></tr>
+<tr><td>de 55 à 65 ans</td><td>12,50</td><td>21,75</td><td>10,00</td><td>44,25</td></tr>
+</table>
+
+- b. dans le plan pour cadres (à partir de la classe de salaire 24):
+
+<table>
+<tr><th>Âge de l’employé</th><th>Cotisation de l’employé en %</th><th>Cotisation de l’employeur en %</th><th>Cotisation supplémentaire de l’employeur en %</th><th>Total en %</th></tr>
+<tr><td>de 22 à 34 ans</td><td>5,95</td><td>6,80</td><td>10,00</td><td>22,75</td></tr>
+<tr><td>de 35 à 44 ans</td><td>7,25</td><td>9,00</td><td>10,00</td><td>26,25</td></tr>
+<tr><td>de 45 à 54 ans</td><td>9,70</td><td>19,20</td><td>10,00</td><td>38,90</td></tr>
+<tr><td>de 55 à 65 ans</td><td>12,80</td><td>24,30</td><td>10,00</td><td>47,10</td></tr>
+</table>

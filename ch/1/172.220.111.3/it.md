@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20270101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° luglio 2026)
+del 3 luglio 2001 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -49,31 +49,32 @@ La presente ordinanza disciplina i rapporti di lavoro:
 
 Non sottostanno alla presente ordinanza:
 
-- a. il personale assoggettato al Codice delle obbligazioni (CO)[^1-5] (art. 6 cpv. 5 e 6 LPers);
+- a.[^1-5] il personale assoggettato al Codice delle obbligazioni (CO)[^1-6] (art. 6 cpv. 5 e 6 LPers);
 - b. il personale del Dipartimento federale degli affari esteri (DFAE) non trasferibile e impiegato all’estero sulla base di un contratto di diritto privato;
-- c.[^1-6] il personale del settore dei PF;
-- d. gli apprendisti che sottostanno alla legge federale del 19 aprile 1978[^1-7] sulla formazione professionale;
-- e. il personale che sottostà alla legge federale del 20 marzo 1981[^1-8] sul lavoro a domicilio;
-- f.[^1-9] il personale secondo l’ordinanza del 2 dicembre 2005[^1-10] sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario (OPers-PRA).
+- c.[^1-7] il personale del settore dei PF;
+- d. gli apprendisti che sottostanno alla legge federale del 19 aprile 1978[^1-8] sulla formazione professionale;
+- e. il personale che sottostà alla legge federale del 20 marzo 1981[^1-9] sul lavoro a domicilio;
+- f.[^1-10] il personale secondo l’ordinanza del 2 dicembre 2005[^1-11] sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario (OPers-PRA).
 
 <sup>3</sup> Nella presente ordinanza il termine «Dipartimento» designa i Dipartimenti e la Cancelleria federale.
 
-<sup>4</sup> Il Ministero pubblico della Confederazione, l’autorità di vigilanza sul Ministero pubblico della Confederazione e l’Assemblea federale per il personale dei Servizi del Parlamento in quanto datori di lavoro non sono vincolati alle norme o alle istruzioni del Consiglio federale. Per il loro personale essi si avvalgono per analogia delle competenze che la presente ordinanza attribuisce ai Dipartimenti e prendono le decisioni del datore di lavoro.[^1-11]
+<sup>4</sup> Il Ministero pubblico della Confederazione, l’autorità di vigilanza sul Ministero pubblico della Confederazione e l’Assemblea federale per il personale dei Servizi del Parlamento in quanto datori di lavoro non sono vincolati alle norme o alle istruzioni del Consiglio federale. Per il loro personale essi si avvalgono per analogia delle competenze che la presente ordinanza attribuisce ai Dipartimenti e prendono le decisioni del datore di lavoro.[^1-12]
 
-<sup>5</sup> La politica del personale del Consiglio federale e del il Dipartimento federale delle finanze (DFF) è determinante per il Ministero pubblico della Confederazione e per l’autorità di vigilanza sul Ministero pubblico della Confederazione, a meno che la particolare funzione o posizione di queste autorità non renda necessario un regime diverso.[^1-12]
+<sup>5</sup> La politica del personale del Consiglio federale e del il Dipartimento federale delle finanze (DFF) è determinante per il Ministero pubblico della Confederazione e per l’autorità di vigilanza sul Ministero pubblico della Confederazione, a meno che la particolare funzione o posizione di queste autorità non renda necessario un regime diverso.[^1-13]
 
 [^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^1-2]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^1-3]: Introdotta dalla cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^1-4]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^1-6]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-7]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1, **1998** 1822 art. 2; **1999** 2374 cifra I n. 2; **2003** 187 all. cifra II n. 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra I n. 1]. Vedi ora la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
-[^1-8]: [RS 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
-[^1-9]: Nuovo testo giusta l’art. 42 n. 1 dell’O del 2 dic. 2005 sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario, in vigore dal 1° gen. 2006 ([RU 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
-[^1-10]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
-[^1-11]: Introdotto dalla cifra I dell’O del 20 nov. 2013 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^1-12]: Introdotto dalla cifra I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^1-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^1-7]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^1-8]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1, **1998** 1822 art. 2; **1999** 2374 cifra I n. 2; **2003** 187 all. cifra II n. 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra I n. 1]. Vedi ora la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
+[^1-9]: [RS 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
+[^1-10]: Nuovo testo giusta l’art. 42 n. 1 dell’O del 2 dic. 2005 sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario, in vigore dal 1° gen. 2006 ([RU 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
+[^1-11]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
+[^1-12]: Introdotto dalla cifra I dell’O del 20 nov. 2013 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^1-13]: Introdotto dalla cifra I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
 #### Art. 2
 
@@ -162,26 +163,28 @@ I Dipartimenti prendono misure mirate per:
 
 Esso può chiedere all’impiegato di rimborsare i costi di formazione e di formazione continua se questi:
 
-- a. le interrompe; oppure
+- a.[^4-6] interrompe o non conclude con successo la formazione o la formazione continua; oppure
 - b.
 
-  scioglie il rapporto di lavoro durante la formazione o la formazione continua, oppure entro i termini seguenti a decorrere dalla conclusione della formazione o della formazione continua e non inizia immediatamente un nuovo rapporto di lavoro presso un’unità amministrativa secondo l’articolo 1:
+  scioglie il rapporto di lavoro durante la formazione o la formazione continua, oppure entro i termini seguenti a decorrere dalla conclusione della formazione o della formazione continua e non inizia immediatamente un nuovo rapporto di lavoro presso un datore di lavoro del personale secondo l’articolo 1 capoverso 1:[^4-7]
 
   - 1\. partecipazione ai costi inferiore a 50 000 franchi: entro due anni,
-  - 2\. partecipazione ai costi superiore a 50 000 franchi: entro quattro anni.[^4-6]
+  - 2\. partecipazione ai costi superiore a 50 000 franchi: entro quattro anni.[^4-8]
 
-<sup>5bis</sup> Per il rimborso dei costi di cui al capoverso 4<sup>bis</sup>, i termini decorrono dal giorno successivo alla conclusione del periodo di prova.[^4-7]
+<sup>5bis</sup> Per il rimborso dei costi di cui al capoverso 4<sup>bis</sup>, i termini decorrono dal giorno successivo alla conclusione del periodo di prova.[^4-9]
 
-<sup>6</sup> …[^4-8]
+<sup>6</sup> Se l’impiegato inizia un nuovo rapporto di lavoro presso un datore di lavoro del personale secondo l’articolo 1 capoverso 1, il diritto al rimborso di cui al capoverso 5 è trasferito al nuovo datore di lavoro.[^4-10]
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-3]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-4]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-5]: Introdotto dalla cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-6]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-7]: Introdotto dalla cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-8]: Abrogato dalla cifra I dell’O del 24 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^4-6]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^4-7]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^4-8]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^4-9]: Introdotto dalla cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^4-10]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 5
 
@@ -696,12 +699,13 @@ I i diplomandi e i diplomati delle scuole universitarie possono essere assunti c
 
 <sup>3</sup> Lo stipendio dei praticanti universitari è stabilito dal DFF. Non è prevista l’evoluzione dello stipendio (art. 39). Mensilmente è versato 1/12 dello stipendio annuo.
 
-<sup>4</sup> I praticanti universitari non ricevono né l’indennità di residenza (art. 43) né la compensazione del rincaro (art. 44).
+<sup>4</sup> I praticanti universitari non ricevono la compensazione del rincaro (art. 44).[^25a-5]
 
 [^25a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^25a-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^25a-3]: Introdotta dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^25a-4]: Introdotta dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-5]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 25b
 
@@ -937,7 +941,7 @@ In caso di incapacità o inattitudine dell’impiegato, prima di recedere dal ra
 
 [^34a-1]
 
-[^34a-1]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, con effetto dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Vedi tuttavia le disp. trans. all’art. 8 di detta mod.
+[^34a-1]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso Publica ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, con effetto dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Vedi tuttavia le disp. trans. all’art. 8 di detta mod.
 
 #### Art. 35
 
@@ -949,7 +953,7 @@ In caso di incapacità o inattitudine dell’impiegato, prima di recedere dal ra
 
 <sup>1</sup> Dopo la fine del rapporto di lavoro a seguito del raggiungimento dell’età di riferimento secondo l’articolo 21 della legge federale del 20 dicembre 1946[^35-3] su l’assicurazione per la vecchiaia e per i superstiti (LAVS), l’autorità competente secondo l’articolo 2 può costituire, d’accordo con la persona interessata, un nuovo rapporto di lavoro. L’articolo 52*a* non è applicabile.[^35-4]
 
-<sup>2</sup> *…* [^35-5]
+<sup>2</sup> *…*[^35-5]
 
 <sup>3</sup> Il rapporto di lavoro di cui al capoverso 1 termina senza disdetta al più tardi alla fine del mese in cui l’impiegato compie il 70° anno d’età.
 
@@ -969,63 +973,80 @@ In caso di incapacità o inattitudine dell’impiegato, prima di recedere dal ra
 
 ### (art. 15 LPers)
 
-Lo stipendio è fissato nel quadro delle seguenti classi:
+<sup>1</sup> Lo stipendio è fissato nel quadro delle classi di stipendio 1–38.
 
 <table>
-<tr><th>Classi di stipendio</th><th></th><th>Importi massimi in franchi</th></tr>
-<tr><td>38</td><td></td><td>370 568</td></tr>
-<tr><td>37</td><td></td><td>308 552</td></tr>
-<tr><td>36</td><td></td><td>289 645</td></tr>
-<tr><td>35</td><td></td><td>270 922</td></tr>
-<tr><td>34</td><td></td><td>252 402</td></tr>
-<tr><td>33</td><td></td><td>234 053</td></tr>
-<tr><td>32</td><td></td><td>215 920</td></tr>
-<tr><td>31</td><td></td><td>206 892</td></tr>
-<tr><td>30</td><td></td><td>197 876</td></tr>
-<tr><td>29</td><td></td><td>184 415</td></tr>
-<tr><td>28</td><td></td><td>175 683</td></tr>
-<tr><td>27</td><td></td><td>168 040</td></tr>
-<tr><td>26</td><td></td><td>160 427</td></tr>
-<tr><td>25</td><td></td><td>152 804</td></tr>
-<tr><td>24</td><td></td><td>145 206</td></tr>
-<tr><td>23</td><td></td><td>136 849</td></tr>
-<tr><td>22</td><td></td><td>130 478</td></tr>
-<tr><td>21</td><td></td><td>125 463</td></tr>
-<tr><td>20</td><td></td><td>120 463</td></tr>
-<tr><td>19</td><td></td><td>115 458</td></tr>
-<tr><td>18</td><td></td><td>110 463</td></tr>
-<tr><td>17</td><td></td><td>105 442</td></tr>
-<tr><td>16</td><td></td><td>101 225</td></tr>
-<tr><td>15</td><td></td><td>97 295</td></tr>
-<tr><td>14</td><td></td><td>93 420</td></tr>
-<tr><td>13</td><td></td><td>90 165</td></tr>
-<tr><td>12</td><td></td><td>87 001</td></tr>
-<tr><td>11</td><td></td><td>83 888</td></tr>
-<tr><td>10</td><td></td><td>80 852</td></tr>
-<tr><td>9</td><td></td><td>77 780</td></tr>
-<tr><td>8</td><td></td><td>74 695</td></tr>
-<tr><td>7</td><td></td><td>71 685</td></tr>
-<tr><td>6</td><td></td><td>68 643</td></tr>
-<tr><td>5</td><td></td><td>65 591</td></tr>
-<tr><td>4</td><td></td><td>63 744</td></tr>
-<tr><td>3</td><td></td><td>62 746</td></tr>
-<tr><td>2</td><td></td><td>61 750</td></tr>
-<tr><td>1</td><td></td><td>60 764</td></tr>
+<tr><th>Classe di stipendio</th><th>Importo minimo in franchi (lordo)</th><th>Obiettivo salariale in franchi (lordo)</th><th>Importo massimo in franchi (lordo)</th></tr>
+<tr><td>38</td><td>256 977</td><td>385 465</td><td>411 163</td></tr>
+<tr><td>37</td><td>236 047</td><td>354 070</td><td>377 675</td></tr>
+<tr><td>36</td><td>221 833</td><td>332 749</td><td>354 932</td></tr>
+<tr><td>35</td><td>207 755</td><td>311 633</td><td>332 408</td></tr>
+<tr><td>34</td><td>193 833</td><td>290 749</td><td>310 132</td></tr>
+<tr><td>33</td><td>180 036</td><td>270 053</td><td>288 057</td></tr>
+<tr><td>32</td><td>166 402</td><td>249 604</td><td>266 244</td></tr>
+<tr><td>31</td><td>156 713</td><td>235 069</td><td>250 740</td></tr>
+<tr><td>30</td><td>147 278</td><td>220 917</td><td>235 645</td></tr>
+<tr><td>29</td><td>134 931</td><td>202 396</td><td>215 889</td></tr>
+<tr><td>28</td><td>126 248</td><td>189 372</td><td>201 997</td></tr>
+<tr><td>27</td><td>118 551</td><td>177 826</td><td>189 681</td></tr>
+<tr><td>26</td><td>113 346</td><td>170 019</td><td>181 354</td></tr>
+<tr><td>25</td><td>108 135</td><td>162 203</td><td>173 016</td></tr>
+<tr><td>24</td><td>102 943</td><td>154 414</td><td>164 708</td></tr>
+<tr><td>23</td><td>97 231</td><td>145 846</td><td>155 569</td></tr>
+<tr><td>22</td><td>92 876</td><td>139 313</td><td>148 601</td></tr>
+<tr><td>21</td><td>89 450</td><td>134 171</td><td>143 116</td></tr>
+<tr><td>20</td><td>86 031</td><td>129 047</td><td>137 650</td></tr>
+<tr><td>19</td><td>82 610</td><td>123 915</td><td>132 176</td></tr>
+<tr><td>18</td><td>79 197</td><td>118 795</td><td>126 715</td></tr>
+<tr><td>17</td><td>75 764</td><td>113 646</td><td>121 222</td></tr>
+<tr><td>16</td><td>72 883</td><td>109 324</td><td>116 612</td></tr>
+<tr><td>15</td><td>70 196</td><td>105 293</td><td>112 313</td></tr>
+<tr><td>14</td><td>67 547</td><td>101 320</td><td>108 075</td></tr>
+<tr><td>13</td><td>65 323</td><td>97 984</td><td>104 516</td></tr>
+<tr><td>12</td><td>63 159</td><td>94 738</td><td>101 054</td></tr>
+<tr><td>11</td><td>61 033</td><td>91 549</td><td>97 652</td></tr>
+<tr><td>10</td><td>58 956</td><td>88 434</td><td>94 330</td></tr>
+<tr><td>9</td><td>56 858</td><td>85 286</td><td>90 972</td></tr>
+<tr><td>8</td><td>54 749</td><td>82 123</td><td>87 598</td></tr>
+<tr><td>7</td><td>52 691</td><td>79 037</td><td>84 306</td></tr>
+<tr><td>6</td><td>50 612</td><td>75 918</td><td>80 979</td></tr>
+<tr><td>5</td><td>48 527</td><td>72 790</td><td>77 643</td></tr>
+<tr><td>4</td><td>47 263</td><td>70 895</td><td>75 621</td></tr>
+<tr><td>3</td><td>46 582</td><td>69 873</td><td>74 531</td></tr>
+<tr><td>2</td><td>45 900</td><td>68 850</td><td>73 440</td></tr>
+<tr><td>1</td><td>45 227</td><td>67 840</td><td>72 363</td></tr>
 </table>
 
-[^36-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+<sup>2</sup> Lo stipendio minimo secondo l’articolo 7 dell’ordinanza quadro LPers del 20 dicembre 2000[^36-2] è applicabile in ogni caso.
+
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^36-2]: [RS 172.220.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5346)
 
 #### Art. 37
 
-**Stipendio iniziale**
+**Stipendio iniziale**[^37-1]
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Al momento dell’assunzione l’autorità competente ai sensi dell’articolo 2 fissa uno stipendio nell’ambito delle classi secondo l’articolo 36. Tiene conto in giusta misura della formazione e dell’esperienza professionale e di vita della persona da assumere nonché della situazione sul mercato del lavoro.
+<sup>1</sup> Nel quadro dell’assunzione l’autorità competente ai sensi dell’articolo 2 fissa lo stipendio secondo le classi di stipendio di cui all’articolo 36. Tiene conto in misura adeguata dell’esperienza professionale e di vita della persona da assumere rilevante per la funzione nonché della situazione sul mercato del lavoro.
 
-<sup>2</sup> Il DFF fornisce i valori indicativi per la fissazione dello stipendio, in particolare in relazione al livello di formazione e all’esperienza professionale rilevante per la funzione.[^37-1]
+<sup>2</sup>
 
-[^37-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+In caso di entrata in servizio senza anni di esperienza computabili, lo stipendio iniziale corrisponde al 100 per cento dell’importo minimo della classe di stipendio. Il suo importo aumenta come indicato di seguito:
+
+- a. con 1–5 anni di esperienza: del 2,95 per cento dell’importo minimo della classe di stipendio per ogni anno di esperienza;
+- b. con 6–10 anni di esperienza: del 2,45 per cento dell’importo minimo della classe di stipendio per ogni anno di esperienza;
+- c. con 11–15 anni di esperienza: dell’1,95 per cento dell’importo minimo della classe di stipendio per ogni anno di esperienza;
+- d. con 16–20 anni di esperienza: dell’1,45 per cento dell’importo minimo della classe di stipendio per ogni anno di esperienza.
+
+<sup>3</sup> In casi motivati lo stipendio iniziale può essere più elevato.
+
+<sup>4</sup> I collaboratori ricevono chiarimenti sul calcolo del loro stipendio iniziale.
+
+<sup>5</sup> Il DFF fornisce i valori indicativi per la fissazione dello stipendio, in particolare in relazione al livello di formazione e all’esperienza professionale rilevante per la funzione.[^37-2]
+
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^37-2]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309), [324](https://fedlex.data.admin.ch/eli/oc/2026/324)).
 
 #### Art. 38
 
@@ -1033,11 +1054,11 @@ Lo stipendio è fissato nel quadro delle seguenti classi:
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Il salario, l’indennità di residenza e gli assegni degli impiegati a tempo parziale corrispondono al loro tasso di occupazione. È fatto salvo l’articolo 51*a*.[^38-1]
+<sup>1</sup> Il salario e gli assegni degli impiegati a tempo parziale corrispondono al loro tasso di occupazione. È fatto salvo l’articolo 51.[^38-1]
 
 <sup>2</sup> Se l’impiego è irregolare, si può convenire con gli impiegati uno stipendio giornaliero, medio oppure orario.
 
-[^38-1]: Nuovo testo giusta l’all. n. 2 dell’O del 31 ott. 2007 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 38a
 
@@ -1047,17 +1068,16 @@ Lo stipendio è fissato nel quadro delle seguenti classi:
 
 <sup>1</sup>
 
-Qualora la capacità di rendimento di una persona sia ridotta a causa di problemi di salute, le parti possono convenire che:[^38a-2]
+Qualora la capacità di rendimento di una persona sia ridotta a causa di problemi di salute, le parti possono convenire che:
 
-- a.[^38a-3] si applica un tasso di occupazione più elevato di quello richiesto per l’adempimento dei compiti; lo stipendio e l’indennità di residenza restano invariati;
-- b. lasciando il tasso di occupazione invariato, sono versati uno stipendio e un’indennità di residenza meno elevati corrispondenti alla capacità di rendimento.
+- a. sia applicato un tasso di occupazione più elevato di quello richiesto per l’adempimento dei compiti; lo stipendio resta invariato;
+- b. lasciando il tasso di occupazione invariato, è versato uno stipendio meno elevato corrispondente alla capacità di rendimento.[^38a-2]
 
-<sup>2</sup> I datori di lavoro verificano periodicamente la convenzione. Quest’ultima deve essere annullata non appena l’impiegato raggiunge la capacità di rendimento richiesta per l’adempimento dei compiti.[^38a-4]
+<sup>2</sup> I datori di lavoro verificano periodicamente la convenzione. Quest’ultima deve essere annullata non appena l’impiegato raggiunge la capacità di rendimento richiesta per l’adempimento dei compiti.[^38a-3]
 
 [^38a-1]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^38a-2]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^38a-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^38a-3]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^38a-4]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 
 #### Art. 39
 
@@ -1113,9 +1133,9 @@ Se un impiegato adempie ampiamente i requisiti di cui all’articolo 16 capovers
 
 ### (art. 15 LPers)
 
-Se lo stipendio è troppo basso rispetto ad altri stipendi, l’autorità competente ai sensi dell’articolo 2 può adeguarlo. L’adeguamento può avvenire in una volta sola o a tappe e non può superare il 10 per cento dell’importo massimo della classe di stipendio stabilita nel contratto di lavoro. Lo stipendio così adeguato non può superare l’importo massimo della classe di stipendio.
+Se lo stipendio è troppo basso rispetto ad altri stipendi, l’autorità competente ai sensi dell’articolo 2 può adeguarlo. L’adeguamento può avvenire in una o più tappe e il suo importo non può superare il 10 per cento dell’obiettivo salariale della classe di stipendio stabilita nel contratto di lavoro. Lo stipendio così adeguato non può superare l’importo massimo della classe di stipendio.
 
-[^40-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 41
 
@@ -1139,13 +1159,9 @@ Le unità amministrative competenti per stabilire l’evoluzione dello stipendio
 
 #### Art. 43
 
-**Indennità di residenza**
+[^43-1]
 
-### (art. 15 LPers)
-
-<sup>1</sup> Allo stipendio si aggiunge un’indennità di residenza graduata in base al costo della vita, alle imposte e alla grandezza e ubicazione della località in cui è esercitato il lavoro.
-
-<sup>2</sup> L’indennità di residenza non deve superare i 6000 franchi.
+[^43-1]: Abrogato dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 44
 
@@ -1160,24 +1176,26 @@ Le unità amministrative competenti per stabilire l’evoluzione dello stipendio
 La compensazione del rincaro è versata su:
 
 - a. lo stipendio;
-- b. l’indennità di residenza;
+- b.[^44-1] ...
 - c. le indennità per il lavoro domenicale e notturno;
 - d. le indennità per il servizio di picchetto;
 - e. le indennità di funzione;
-- e<sup>bis</sup>.[^44-1] le indennità per impieghi nel quadro di piani di servizio fissi;
+- e<sup>bis</sup>.[^44-2] le indennità per impieghi nel quadro di piani di servizio fissi;
 - f. le indennità speciali;
 - g. l’indennità in funzione del mercato del lavoro;
-- h.[^44-2] le prestazioni integrative;
-- i.[^44-3] …
+- h.[^44-3] le prestazioni integrative;
+- i.[^44-4] …
 
-<sup>3</sup> Gli importi massimi dello stipendio (art. 36) e dell’indennità di residenza (art. 43) sono aumentati in funzione della compensazione del rincaro.
+<sup>3</sup> Gli importi minimi, gli obiettivi salariali e gli importi massimi di ogni classe di stipendio di cui all’articolo 36 aumentano in funzione della compensazione del rincaro.[^44-5]
 
-<sup>4</sup> …[^44-4]
+<sup>4</sup> Il DFF adegua gli importi minimi, gli obiettivi salariali e gli importi massimi di cui all’articolo 36 in funzione della compensazione del rincaro.[^44-6]
 
-[^44-1]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
-[^44-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44-3]: Introdotta dall’all. n. 2 dell’O del 31 ott. 2007 sugli assegni familiari ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogata dalla cifra I dell’O del 13 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^44-4]: Abrogato dalla cifra I n. 1 dell’O del 5 nov. 2008, con effetto dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^44-1]: Abrogata dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44-2]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^44-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44-4]: Introdotta dall’all. n. 2 dell’O del 31 ott. 2007 sugli assegni familiari ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogata dalla cifra I dell’O del 13 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^44-5]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44-6]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 44a
 
@@ -1196,15 +1214,18 @@ Non hanno diritto all’aumento reale dello stipendio gli impiegati:
 - a. ai quali, in caso di valutazione inferiore della funzione, è garantito in termini nominali lo stipendio attuale; o
 - b. il cui stipendio ha raggiunto l’importo massimo della classe di stipendio 38.[^44a-4]
 
-<sup>4</sup> L’aumento reale dello stipendio è versato sullo stipendio secondo l’articolo 36 e sull’indennità di funzione secondo l’articolo 46. Gli importi massimi delle classi di stipendio 1–37 aumentano in funzione dell’aumento reale dello stipendio.[^44a-5]
+<sup>4</sup> L’aumento reale dello stipendio è versato sullo stipendio di cui all’articolo 36 e sull’indennità di funzione di cui all’articolo 46. Gli importi minimi, gli obiettivi salariali e gli importi massimi delle classi di stipendio 1–37 aumentano in funzione dell’aumento reale dello stipendio.[^44a-5]
 
 <sup>5</sup> Se è versata al momento dell’entrata in vigore di un aumento reale dello stipendio, la compensazione del rincaro secondo l’articolo 44 è calcolata prima di detto aumento.
+
+<sup>6</sup> Il DFF adegua gli importi minimi, gli obiettivi salariali e gli importi massimi di cui all’articolo 36 in funzione dell’aumento reale dello stipendio.[^44a-6]
 
 [^44a-1]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^44a-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^44a-3]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^44a-4]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44a-5]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-5]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44a-6]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 45
 
@@ -1226,15 +1247,17 @@ Possono essere versate indennità per:
 
 #### Art. 46
 
-**Indennità di funzione**
+**Indennità di funzione**[^46-1]
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Indennità di funzione possono essere versate a impiegati che adempiono compiti particolarmente esigenti senza che tuttavia si giustifichi un trasferimento durevole in una classe di stipendio superiore.
+<sup>1</sup> Un’indennità di funzione può essere concessa a impiegati che adempiono temporaneamente compiti con requisiti più alti senza che tuttavia si giustifichi un’assegnazione durevole a una classe di stipendio superiore.
 
-<sup>2</sup> Le indennità di funzione non devono superare la differenza tra l’importo massimo della classe di stipendio stabilita nel contratto di lavoro e l’importo massimo stabilito per la funzione con classe di stipendio superiore.[^46-1]
+<sup>2</sup> La concessione di un’indennità di funzione per la funzione esercitata temporaneamente presuppone una valutazione più alta della funzione da parte del competente organo di valutazione secondo l’articolo 53.
 
-[^46-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+<sup>3</sup> L’indennità di funzione non deve superare la differenza tra l’obiettivo salariale della classe di stipendio conformemente al contratto di lavoro e l’obiettivo salariale stabilito per la funzione esercitata temporaneamente con valutazione più alta.
+
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 47
 
@@ -1294,11 +1317,11 @@ Per ricompensare immediatamente impieghi e prestazioni particolari possono esser
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Per acquisire personale particolarmente qualificato e indurlo a rimanere, l’autorità competente ai sensi dell’articolo 2 può concedere un’indennità in funzione del mercato del lavoro che ammonta fino al 20 per cento dell’importo massimo della classe di stipendio stabilita nel contratto di lavoro. L’indennità in funzione del mercato del lavoro è concessa per cinque anni al massimo.[^50-1]
+<sup>1</sup> Per acquisire personale particolarmente qualificato e indurlo a rimanere, l’autorità competente ai sensi dell’articolo 2 può concedere un’indennità in funzione del mercato del lavoro che ammonta fino al 20 per cento dell’obiettivo salariale della classe di stipendio stabilita nel contratto di lavoro. L’indennità in funzione del mercato del lavoro è concessa per cinque anni al massimo.[^50-1]
 
 <sup>2</sup> La concessione dell’indennità sottostà all’approvazione del DFF. Il Consiglio federale decide in merito alla concessione dell’indennità agli impiegati di cui all’articolo 2 capoverso 1.
 
-[^50-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 51
 
@@ -1366,32 +1389,39 @@ L’importo delle prestazioni integrative corrisponde alla differenza tra l’im
 
 <sup>2bis</sup> Un organo di coordinamento composto di rappresentanti dei dipartimenti e diretto dal DFF formula raccomandazioni sulle valutazioni delle funzioni all’attenzione dei dipartimenti.[^52-1]
 
-<sup>3</sup> I criteri determinanti per la valutazione sono la formazione preliminare richiesta, l’entità dei compiti e delle esigenze, le responsabilità e i rischi inerenti alla funzione.
+<sup>3</sup> I criteri determinanti per la valutazione sono la formazione preliminare richiesta, l’esperienza presupposta rilevante per la funzione, l’entità dei compiti e delle esigenze, le responsabilità e i rischi inerenti alla funzione.[^52-2]
 
-<sup>4</sup> Il DFF fa in modo che le funzioni paragonabili nell’Amministrazione federale siano assegnate alle stesse classi di stipendio. In collaborazione con gli altri dipartimenti, definisce le funzioni di riferimento e le assegna alle singole classi di stipendio. La classe di stipendio massima di una funzione di riferimento può essere superata soltanto con il consenso del DFF.[^52-2]
+<sup>4</sup> Il DFF fa in modo che le funzioni paragonabili nell’Amministrazione federale siano assegnate alle stesse classi di stipendio. In collaborazione con gli altri dipartimenti, definisce le funzioni di riferimento e le assegna alle singole classi di stipendio. La classe di stipendio massima di una funzione di riferimento può essere superata soltanto con il consenso del DFF.[^52-3]
 
 <sup>5</sup> I Dipartimenti disciplinano, d’intesa con il DFF, la classificazione delle funzioni che rientrano esclusivamente nel loro settore di competenza.
 
-<sup>6</sup> L’autorità competente ai sensi dell’articolo 2 può assegnare fino al 2 per cento dei posti che rientrano nelle classi di stipendio 1–30 a una classe superiore a quella prevista dalla valutazione ordinaria; questa misura può essere decisa solo in caso di ampliamento della funzione legato specificamente all’impiegato interessato.[^52-3]
+<sup>6</sup> L’autorità competente ai sensi dell’articolo 2 può assegnare fino al 2 per cento dei posti che rientrano nelle classi di stipendio 1–30 a una classe superiore a quella prevista dalla valutazione ordinaria; questa misura può essere decisa solo in caso di ampliamento della funzione legato specificamente all’impiegato interessato.[^52-4]
 
-<sup>7</sup> …[^52-4]
+<sup>7</sup> …[^52-5]
 
-<sup>7bis</sup> Se viene a mancare il presupposto per l’assegnazione a una classe superiore secondo il capoverso 6, l’autorità competente di cui all’articolo 2 adegua la classe di stipendio e lo stipendio nel contratto di lavoro. L’articolo 52*a* non è applicabile.[^52-5]
+<sup>7bis</sup> Se viene a mancare il presupposto per l’assegnazione a una classe superiore secondo il capoverso 6, l’autorità competente di cui all’articolo 2 adegua la classe di stipendio e lo stipendio nel contratto di lavoro. L’articolo 52*a* non è applicabile.[^52-6]
 
-<sup>8</sup> Per il personale che segue una formazione o è assunto a condizioni particolari, il DFF può stabilire uno stipendio massimo inferiore all’importo massimo della classe di stipendio 1.[^52-6]
+<sup>8</sup> Per il personale che segue una formazione o è assunto a condizioni particolari, il DFF può stabilire uno stipendio massimo inferiore all’importo massimo della classe di stipendio 1.[^52-7]
 
 [^52-1]: Introdotto dalla cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^52-2]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^52-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^52-4]: Abrogato dalla cifra I dell’O del 22 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52-5]: Introdotto dalla cifra I n. 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^52-6]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^52-3]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^52-4]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^52-5]: Abrogato dalla cifra I dell’O del 22 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
+[^52-6]: Introdotto dalla cifra I n. 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^52-7]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 52a
 
 **Inquadramento della funzione in una classe inferiore di stipendio**[^52a-1]
 
-<sup>1</sup> Se per motivi non riconducibili all’impiegato una funzione viene inquadrata in una classe inferiore di stipendio o se a un impiegato viene assegnata una funzione inquadrata in una classe inferiore di stipendio, la classe di stipendio è adeguata nel contratto di lavoro. Se supera l’importo massimo stabilito per questa nuova classe, lo stipendio rimane invariato per due anni. Durante tale periodo e fintantoché lo stipendio supera l’ammontare giustificato in base alla valutazione della funzione non è versata l’indennità di rincaro e non è accordato alcun aumento secondo l’articolo 39. Lo stipendio è adeguato alla nuova classe al più tardi dopo due anni.
+<sup>1</sup> Se per motivi non riconducibili all’impiegato una funzione viene inquadrata in una classe inferiore di stipendio o se a un impiegato viene assegnata una funzione inquadrata in una classe inferiore di stipendio, la classe di stipendio è adeguata nel contratto di lavoro. Lo stipendio precedente è garantito per due anni (garanzia salariale).[^52a-2]
+
+<sup>1bis</sup> Per la durata della garanzia salariale, l’evoluzione dello stipendio, la compensazione del rincaro e l’aumento reale dello stipendio non si applicano allo stipendio.[^52a-3]
+
+<sup>1ter</sup> Allo scadere della garanzia salariale, lo stipendio è adeguato alla nuova classe di stipendio. Il rapporto tra il nuovo stipendio e l’importo massimo della nuova classe di stipendio corrisponde al rapporto tra lo stipendio precedente e l’importo massimo della classe di stipendio precedente al momento dell’inquadramento in una classe inferiore.[^52a-4]
+
+<sup>1quater</sup> Se, attraverso la compensazione del rincaro o l’aumento reale dello stipendio, lo stipendio nella nuova classe di stipendio di cui al capoverso 1<sup>ter</sup> supera lo stipendio garantito prima della scadenza della garanzia salariale, lo stipendio è adeguato alla nuova classe di stipendio.[^52a-5]
 
 <sup>2</sup>
 
@@ -1403,6 +1433,10 @@ In deroga al capoverso 1, il periodo per l’adeguamento dello stipendio alla nu
 <sup>3</sup> Il Consiglio federale può adeguare, dopo due anni, lo stipendio di un impiegato che al momento della nuova valutazione della sua funzione o dell’assegnazione di una nuova funzione aveva compiuto il 55° anno d’età e la cui funzione era inquadrata nella classe di stipendio 32 o in una classe superiore se l’ammontare massimo della nuova classe è inferiore di oltre il 10 per cento a quello della classe precedente.
 
 [^52a-1]: Introdotto dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^52a-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-3]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-4]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-5]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 52b
 
@@ -1483,12 +1517,13 @@ Gli organi incaricati di valutare le funzioni nell’Amministrazione federale so
 
 <sup>4</sup> In caso di passaggio a un’altra unità amministrativa secondo l’articolo 1 capoverso 1 nel quadro di un provvedimento d’integrazione secondo l’articolo 11*a*, i periodi di cui all’articolo 56 capoversi 1 e 2 non riprendono a decorrere.
 
-<sup>5</sup> Se il rapporto di lavoro di un impiegato è disdetto in virtù dell’articolo 31*a* capoverso 5, l’obbligo di continuare a pagare lo stipendio secondo l’articolo 56 capoversi 1 e 2 prosegue finché lo prevede il contratto disdetto. In tal caso sono computati lo stipendio secondo il nuovo rapporto di lavoro nonché le prestazioni finanziarie dell’assicurazione per l’invalidità e di PUBLICA.
+<sup>5</sup> Se il rapporto di lavoro di un impiegato è disdetto in virtù dell’articolo 31*a* capoverso 5, l’obbligo di continuare a pagare lo stipendio secondo l’articolo 56 capoversi 1 e 2 prosegue finché lo prevede il contratto disdetto. In tal caso sono computati lo stipendio secondo il nuovo rapporto di lavoro nonché le prestazioni finanziarie dell’assicurazione per l’invalidità e della Cassa pensioni della Confederazione (Publica).[^56a-3]
 
 <sup>6</sup> In caso di rapporti di lavoro di durata determinata, la continuazione del pagamento dello stipendio secondo l’articolo 56 capoversi 1 e 2 termina al più tardi con la fine del rapporto di lavoro.
 
 [^56a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)). Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^56a-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^56a-3]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 56b
 
@@ -1703,6 +1738,111 @@ Il DFF ha i compiti seguenti:
 - b. disciplina il versamento dei contributi unici;
 - c. designa l’organo competente per versare le prestazioni del datore di lavoro.
 
+#### Art. 63a
+
+**Partecipazione al riscatto**[^63a-1]
+
+### (art. 32 lett. a LPers)
+
+L’autorità competente secondo l’articolo 2 può partecipare al riscatto regolamentare finanziandolo mediante i propri crediti per il personale se, in occasione di una nuova assunzione, la previdenza sembra inadeguata rispetto all’importanza della funzione e delle qualifiche della persona da assumere.
+
+[^63a-1]: Originario art. 88*c*. Introdotto dalla cifra I dell’O del 15 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+
+#### Art. 63b
+
+**Congedo**[^63b-1]
+
+### (art. 17*a* e 31 cpv. 5 LPers)
+
+[^63b-2]
+
+<sup>1</sup> In caso di congedo non pagato o parzialmente pagato la copertura assicurativa rimane immutata per almeno due mesi.
+
+<sup>2</sup> L’autorità competente secondo l’articolo 2 che accorda un congedo non pagato o parzialmente pagato di più di due mesi, prima dell’inizio di tale congedo conviene con l’impiegato se e come continueranno a sussistere l’assicurazione e l’obbligo di pagare i contributi a partire dal terzo mese di congedo.
+
+<sup>3</sup> Se dal terzo mese di congedo l’autorità competente secondo l’articolo 2 non assume più i contributi del datore di lavoro o i contributi di rischio[^63b-3], essa comunica il congedo a Publica[^63b-4]. La persona assicurata può mantenere la copertura assicurativa avuta finora pagando, oltre ai contributi di risparmio, anche i contributi di risparmio del datore di lavoro e i contributi di rischio, o limitare l’assicurazione alla copertura dei rischi di morte e invalidità.
+
+<sup>4</sup> I contributi dovuti dall’impiegato durante il suo congedo sono dedotti dal suo salario alla ripresa del lavoro.
+
+[^63b-1]: Originario art. 88*d*. Introdotto dalla cifra I dell’O del 15 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+[^63b-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^63b-3]: Nuova espr. giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63b-4]: Nuova espr. giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)). Di detta mod. é tenuto conto in tutto il presente testo.
+
+#### Art. 63c
+
+**Continuazione della previdenza dopo la riduzione dello stipendio**[^63c-1]
+
+<sup>1</sup> Se lo stipendio assicurabile di un impiegato che ha compiuto il 58° anno d*’*età è diminuito al massimo della metà, l*’*impiegato può mantenere, dietro sua richiesta, la previdenza per la copertura assicurativa precedente (art. 33a della legge federale del 25 giugno 1982[^63c-2] sulla previdenza professionale per la vecchiaia, i superstiti e l*’*invalidità [LPP]) pagando, oltre ai propri contributi di risparmio, anche i contributi di risparmio del datore di lavoro e il contributo di rischio sulla quota corrispondente alla riduzione dello stipendio del precedente guadagno assicurato.
+
+<sup>2</sup> In caso di adeguamenti dello stipendio, segnatamente di aumenti reali dello stipendio e di correzioni generali di classificazione, i contributi versati non sono adeguati alla quota corrispondente alla riduzione dello stipendio.[^63c-3]
+
+<sup>3</sup> Se lo stipendio è ridotto nell’interesse dell’autorità competente di cui all’articolo 2, questa autorità può finanziare a carico dei crediti per il personale i contributi di risparmio e il contributo di rischio per la continuazione della previdenza, al massimo in ragione del 50 per cento. La partecipazione ai costi può essere limitata nel tempo.[^63c-4]
+
+[^63c-1]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63c-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^63c-3]: Originario art. 88*d*<sup>bis</sup> cpv. 2. Introdotto dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^63c-4]: Originario art. 88*d*<sup>bis</sup> cpv. 3. Introdotto dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+
+#### Art. 63d
+
+**Continuazione della previdenza dopo il compimento del 65° anno di età**[^63d-1]
+
+Se il datore di lavoro e l’impiegato convengono il proseguimento del rapporto di lavoro oltre il 65° anno d’età, l’impiegato può richiedere la continuazione della previdenza per la vecchiaia fino alla cessazione dell’attività lucrativa, ma al massimo fino al compimento del 70° anno d’età (art. 33*b* LPP[^63d-2]). In questo caso l’autorità competente di cui all’articolo 2 finanzia i contributi di risparmio del datore di lavoro.
+
+[^63d-1]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63d-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+
+#### Art. 63e
+
+**Partecipazione del datore di lavoro al finanziamento della rendita transitoria**[^63e-1]
+
+<sup>1</sup> Le persone che vanno in pensione prima di raggiungere l’età di riferimento secondo l’articolo 21 LAVS possono ottenere una rendita transitoria.[^63e-2]
+
+<sup>2</sup>
+
+Il datore di lavoro partecipa al finanziamento della rendita transitoria, se l’impiegato:
+
+- a. chiede il pensionamento parziale o integrale;
+- b. ha compiuto 62 anni;
+- c. nel periodo che precede immediatamente il pensionamento ha lavorato per almeno cinque anni presso datori di lavoro di cui all’articolo 2 capoverso 1 lettere f o g LPers oppure in unità amministrative di cui all’articolo 1;
+- d. ha esercitato una funzione che per almeno cinque anni ha comportato un persistente elevato carico fisico o psichico; e
+- e. chiede il versamento di una rendita transitoria intera o di una mezza rendita transitoria.[^63e-3]
+
+<sup>3</sup>
+
+Un persistente elevato carico fisico o psichico secondo il capoverso 1bis lettera d si presenta nei casi seguenti:
+
+- a. attività con influssi di natura fisica, chimica o biologica che possono mettere in pericolo la salute;
+- b. attività esercitate in un ambiente di lavoro difficile, segnatamente in presenza di temperature estreme, condizioni climatiche rigide o scarsa illuminazione;
+- c. attività con elevati carichi per l’apparato locomotore;
+- d. attività con un elevato rischio d’infortunio;
+- e. attività molto ripetitive, monotone o emotivamente gravose che possono provocare un elevato carico psichico;
+- f. attività con orari di lavoro costrittivi come impieghi nel quadro di piani di servizio fissi (art. 10*b*) o il lavoro notturno.[^63e-4]
+
+<sup>4</sup> Il DFF determina d’intesa con i dipartimenti le funzioni il cui esercizio implica la partecipazione del datore di lavoro al finanziamento della rendita transitoria.[^63e-5]
+
+<sup>5</sup> L*’*ammontare dell*’*intera rendita transitoria si basa sul regolamento di previdenza del 15 giugno 2007[^63e-6] per gli impiegati e i beneficiari di rendite della Cassa di previdenza della Confederazione (RPIC).
+
+<sup>6</sup> Nel calcolo dei costi attuariali di una rendita transitoria si tiene conto del numero degli anni d’impiego, del tasso di occupazione medio durante gli anni d’impiego e della quota percentuale della rendita di vecchiaia regolamentare da percepire.[^63e-7]
+
+<sup>7</sup> Per calcolare gli anni d’impiego e il tasso di occupazione medio contano i rapporti di lavoro presso i datori di lavoro ai sensi dell’articolo 2 capoverso 1 lettere f e g LPers e nelle unità amministrative ai sensi dell’articolo 1, purché non siano stati interrotti per più di tre anni. Gli anni d’impiego interrotti vengono computati quali anni d’impiego interi solo dopo il sesto mese. Il periodo di tirocinio secondo la legislazione sulla formazione professionale e i periodi di pratica corrispondenti non sono presi in considerazione.[^63e-8]
+
+<sup>8</sup> La partecipazione percentuale del datore di lavoro al finanziamento della rendita transitoria è disciplinata nell’allegato 1. In caso di pensionamento anticipato dopo il compimento del 62° anno d’età, tale partecipazione è decurtata di un venticinquesimo per ogni anno mancante al compimento del 25° anno d’impiego.[^63e-9]
+
+<sup>9</sup> L’unità amministrativa presso cui l’impiegato ha lavorato nel periodo che precede immediatamente il pensionamento anticipato verifica le condizioni del diritto alla rendita e calcola il suo tasso di occupazione medio.[^63e-10]
+
+[^63e-1]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63e-2]: Originario art. 88*f* cpv. 1. Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^63e-3]: Originario art. 88*f* cpv. 1<sup>bis</sup>. Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-4]: Originario art. 88*f* cpv. 1<sup>ter</sup>. Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-5]: Originario art. 88*f* cpv. 1<sup>quater</sup>. Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-6]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^63e-7]: Originario art. 88*f* cpv. 3. Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^63e-8]: Originario art. 88*f* cpv. 4. Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^63e-9]: Originario art. 88*f* cpv. 5. Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^63e-10]: Originario art. 88*f* cpv. 6. Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+
 ### Sezione 5: Tempo di lavoro, vacanze, congedi
 
 #### Art. 64
@@ -1861,17 +2001,18 @@ Ogni anno civile gli impiegati hanno diritto a:
 - a. sei settimane di vacanza fino all’anno civile incluso in cui compiono il 20° anno d’età;
 - b. cinque settimane di vacanza a partire dall’anno civile in cui compiono il 21° anno d’età;
 - c. sei settimane di vacanza a partire dall’anno civile in cui compiono il 50° anno d’età;
-- d. sette settimane di vacanza a partire dall’anno civile in cui compiono il 60° anno d’età.[^67-2]
+- d.[^67-2] sei settimane e due giorni di vacanza a partire dall’anno civile in cui compiono il 60° anno d’età.[^67-3]
 
 <sup>2</sup> Le vacanze devono essere stabilite in modo da non pregiudicare il lavoro e da consentire all’impiegato di riposare.
 
 <sup>3</sup> Le vacanze devono essere prese nel corso dell’anno civile in cui nasce il diritto. Se questo non è possibile a causa di impellenti motivi di lavoro, di malattia o infortunio, esse devono essere prese l’anno successivo.
 
-<sup>4</sup> …[^67-3]
+<sup>4</sup> …[^67-4]
 
 [^67-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^67-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^67-3]: Introdotto dalla cifra I dell’O del 1° mag. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)). Abrogato dalla cifra I dell’O del 12 giu. 2015, con effetto dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^67-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^67-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^67-4]: Introdotto dalla cifra I dell’O del 1° mag. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)). Abrogato dalla cifra I dell’O del 12 giu. 2015, con effetto dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 67a
 
@@ -1992,25 +2133,18 @@ Il DFF disciplina i rimborsi per:
 
 <sup>1</sup> Un premio di fedeltà è attribuito dopo dieci anni d’impiego e, in seguito, ogni cinque anni fino a che l’impiegato ha compiuto il 45° anno d’impiego.[^73-1]
 
-<sup>2</sup>
+<sup>2</sup> Il premio di fedeltà consiste nella metà dello stipendio mensile dopo dieci anni d’impiego e, successivamente, dopo ogni cinque anni d’impiego.[^73-2]
 
-Il premio di fedeltà consiste:
-
-- a.[^73-2] …
-- b. nella metà dello stipendio mensile, dopo dieci e 15 anni d’impiego;
-- c. in uno stipendio mensile, dopo ulteriori cinque anni d’impiego.[^73-3]
-
-<sup>3</sup> Il premio di fedeltà viene in linea di principio corrisposto in contanti. D’intesa con il superiore e a titolo eccezionale gli impiegati lo possono percepire per intero o per metà sotto forma di congedo pagato.[^73-4]
+<sup>3</sup> Il premio di fedeltà viene in linea di principio corrisposto in contanti. D’intesa con il superiore e a titolo eccezionale gli impiegati lo possono percepire per intero o per metà sotto forma di congedo pagato.[^73-3]
 
 <sup>4</sup> L’autorità competente ai sensi dell’articolo 2 può rifiutare tutto il premio di fedeltà o parte di esso a impiegati le cui prestazioni o il cui comportamento sono soltanto in parte soddisfacenti.
 
-<sup>5</sup> Per calcolare il numero degli anni d’impiego contano, indipendentemente dal tasso di occupazione, i rapporti di lavoro ininterrotti presso i datori di lavoro ai sensi dell’articolo 2 capoverso 1 lettere f e g LPers e nelle unità amministrative ai sensi dell’articolo 1. Il periodo di tirocinio secondo la legislazione sulla formazione professionale e i periodi di pratica corrispondenti non sono presi in considerazione.[^73-5]
+<sup>5</sup> Per calcolare il numero degli anni d’impiego contano, indipendentemente dal tasso di occupazione, i rapporti di lavoro ininterrotti presso i datori di lavoro ai sensi dell’articolo 2 capoverso 1 lettere f e g LPers e nelle unità amministrative ai sensi dell’articolo 1. Il periodo di tirocinio secondo la legislazione sulla formazione professionale e i periodi di pratica corrispondenti non sono presi in considerazione.[^73-4]
 
 [^73-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3155](https://fedlex.data.admin.ch/eli/oc/2015/589)).
-[^73-2]: Abrogata dalla cifra I dell’O dell’11 set. 2015, con effetto dal 1° gen. 2016 ([RU 2015 3155](https://fedlex.data.admin.ch/eli/oc/2015/589)).
-[^73-3]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
-[^73-4]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^73-5]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^73-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^73-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^73-4]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 74
 
@@ -2406,163 +2540,190 @@ Per organizzazioni internazionali ai sensi della presente disposizione si intend
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dalla cifra I dell’O del 15 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
-
-### Sezione 1: Salario determinante
+[^chap4a-1]: Introdotto dalla cifra I dell’O del 15 giu. 2007 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 88a
 
-**Salario assicurabile**
+**Campo d’applicazione**
 
-### (art. 32*g* cpv. 5 LPers)
+### (art. 32*d* cpv. 1 e art. 32*g* cpv. 2 LPers)
 
-<sup>1</sup> Sono assicurati presso PUBLICA, nel quadro delle disposizioni regolamentari, lo stipendio e le componenti dello stipendio di cui all’allegato 2. Non sono assicurate le prestazioni del datore di lavoro ai sensi degli articoli 81–83.[^88a-1]
-
-<sup>2</sup> Se, secondo l’articolo 52*a*, a un impiegato non viene versata alcuna indennità di rincaro oppure se, secondo l’articolo 56 capoverso 2, il salario di tale impiegato viene ridotto, il salario assicurabile precedente resta invariato fino a quando l’indennità di rincaro è di nuovo versata o il diritto al salario in caso di malattia o di infortunio si estingue.[^88a-2]
-
-<sup>3</sup> …[^88a-3]
-
-<sup>4</sup> …[^88a-4]
-
-[^88a-1]: Nuovo testo giusta la cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^88a-2]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^88a-3]: Abrogato dalla cifra I dell’O del 20 giu. 2014, con effetto dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88a-4]: Abrogato dalla cifra I dell’O del 12 ott. 2016, con effetto dal 1° dic. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
+Il presente capitolo si applica ai datori di lavoro affiliati alla Cassa di previdenza della Confederazione.
 
 #### Art. 88b
 
-**Comunicazione**
+**Assicurazione degli impiegati**
 
-### (art. 32*g* cpv. 5 LPers)
+### (art. 32*i* cpv. 1 e art. 32*j* cpv. 1 LPers)
 
-Il salario assicurabile è comunicato a PUBLICA quale stipendio determinante dall’autorità competente secondo l’articolo 2.
+<sup>1</sup>
 
-### Sezione 2: Prestazioni del datore di lavoro
+Gli impiegati sono assicurati come segue:
+
+- a. a partire dal 1° gennaio successivo al compimento del 17° anno di età: per i rischi di decesso e di invalidità;
+- b. a partire dal 1° gennaio successivo al compimento del 21° anno di età: anche per la vecchiaia.
+
+<sup>2</sup> Il capoverso 1 si applica anche alle persone già assicurate obbligatoriamente per un’attività lucrativa principale.
+
+<sup>3</sup> L’assicurazione è retta dal RPIC[^88b-1].
+
+[^88b-1]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 
 #### Art. 88c
 
-**Partecipazione al riscatto**
+**Persone non assicurate**
 
-### (art. 32 lett. a LPers)
+Non sono assicurati:
 
-L’autorità competente secondo l’articolo 2 può partecipare al riscatto regolamentare finanziandolo mediante i propri crediti per il personale se, in occasione di una nuova assunzione, la previdenza sembra inadeguata rispetto all’importanza della funzione e delle qualifiche della persona da assumere.
+- a. gli impiegati con un contratto di lavoro a tempo determinato di tre mesi al massimo; è fatto salvo l’articolo 1*k* dell’ordinanza del 18 aprile 1984[^88c-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità;
+- b. gli impiegati che svolgono un’attività accessoria ed esercitano un’attività indipendente a titolo principale;
+- c. le persone che presentano un’invalidità almeno del 70 per cento secondo la legge federale del 19 giugno 1959[^88c-2] sull’assicurazione per l’invalidità;
+- d. le persone che continuano ad essere affiliate provvisoriamente all’istituto di previdenza tenuto a versare loro prestazioni d’invalidità secondo l’articolo 26*a* LPP[^88c-3];
+- e. le persone impiegate dal DFAE all’estero sulla base di un contratto di diritto privato e non trasferibili per le quali il DFAE non è tenuto a versare contributi all’AVS;
+- f. le persone che hanno raggiunto l’età di riferimento; è fatto salvo l’articolo 63*d*.
+
+[^88c-1]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^88c-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^88c-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 88d
 
-**Congedo**
+**Fine dell’assicurazione**
 
-### (art. 17*a* e 31 cpv. 5 LPers)
+<sup>1</sup>
 
-[^88d-1]
+L’assicurazione termina:
 
-<sup>1</sup> In caso di congedo non pagato o parzialmente pagato la copertura assicurativa rimane immutata per almeno due mesi.
+- a. con la cessazione del rapporto di lavoro, sempre che in quel momento non sia maturato un diritto a prestazioni di vecchiaia o d’invalidità e l’assicurazione sia mantenuta secondo le disposizioni regolamentari;
+- b. al raggiungimento dell’età di riferimento; sono fatti salvi l’articolo 63*d* e le disposizioni regolamentari.
 
-<sup>2</sup> L’autorità competente secondo l’articolo 2 che accorda un congedo non pagato o parzialmente pagato di più di due mesi, prima dell’inizio di tale congedo conviene con l’impiegato se e come continueranno a sussistere l’assicurazione e l’obbligo di pagare i contributi a partire dal terzo mese di congedo.
+<sup>2</sup>
 
-<sup>3</sup> Se dal terzo mese di congedo l’autorità competente secondo l’articolo 2 non assume più i contributi del datore di lavoro o i premi di rischio, essa comunica il congedo a PUBLICA. La persona assicurata può mantenere la copertura assicurativa avuta finora pagando, oltre ai contributi di risparmio, anche i contributi di risparmio del datore di lavoro e i premi di rischio, o limitare l’assicurazione alla copertura dei rischi di morte e invalidità.
+Per i rischi di decesso e d’invalidità, la persona rimane assicurata per la durata di:
 
-<sup>4</sup> I contributi dovuti dall’impiegato durante il suo congedo sono dedotti dal suo salario alla ripresa del lavoro.
+- a. un mese dalla cessazione del rapporto di lavoro;
+- b. al massimo dieci mesi dal momento in cui termina il versamento dello stipendio, se il rapporto di lavoro prosegue; il contributo di rischio viene fatturato all’impiegato in proporzione.
 
-[^88d-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+<sup>3</sup> Se, nel caso di cui al capoverso 2 lettera b, la cessazione del rapporto di lavoro è controversa, è fatto salvo l’articolo 10 dell’ordinanza del 31 agosto 1983[^88d-1] sull’assicurazione contro la disoccupazione.
 
-#### Art. 88d<sup>bis</sup>
-
-**Continuazione della previdenza in seguito alla riduzione dello stipendio**[^88dbis-1]
-
-<sup>1</sup> Se lo stipendio assicurabile di un impiegato che ha compiuto il 58° anno d’età è diminuito al massimo della metà, l’impiegato può mantenere, dietro sua richiesta, la previdenza per la copertura assicurativa precedente (art. 33*a* LPP[^88dbis-2]) pagando, oltre ai propri contributi di risparmio, anche i contributi di risparmio del datore di lavoro e il premio di rischio sulla quota del guadagno finora assicurato corrispondente alla riduzione dello stipendio.
-
-<sup>2</sup> In caso di adeguamenti dello stipendio, segnatamente di aumenti reali dello stipendio e di correzioni generali di classificazione, i contributi versati non sono adeguati alla quota corrispondente alla riduzione dello stipendio.
-
-<sup>3</sup> Se lo stipendio è ridotto nell’interesse dell’autorità competente di cui all’articolo 2, questa autorità può finanziare a carico dei crediti per il personale i contributi di risparmio e il premio di rischio per la continuazione della previdenza, al massimo in ragione del 50 per cento. La partecipazione ai costi può essere limitata nel tempo.
-
-[^88dbis-1]: Introdotto dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dbis-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-
-#### Art. 88d<sup>ter</sup>
-
-**Continuazione della previdenza dopo il compimento del 65° anno d’età**[^88dter-1]
-
-Se il datore di lavoro e l’impiegato convengono il proseguimento del rapporto di lavoro oltre il 65° anno d’età, l’impiegato può richiedere la continuazione della previdenza per la vecchiaia fino alla cessazione dell’attività lucrativa, ma al massimo fino al compimento del 70° anno d’età (art. 33 LPP[^88dter-2]). In questo caso l’autorità competente finanzia i contributi di risparmio del datore di lavoro.
-
-[^88dter-1]: Introdotto dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dter-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^88d-1]: [RS 837.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10284)
 
 #### Art. 88e
 
-[^88e-1]
+**Stipendio annuo determinante**
 
-[^88e-1]: Abrogato dalla cifra I dell’O del 13 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+### (art. 32*g* cpv. 5 LPers)
+
+<sup>1</sup> Sono assicurati lo stipendio e le componenti dello stipendio di cui all’allegato 2. Non sono assicurate le prestazioni del datore di lavoro di cui agli articoli 81–83.
+
+<sup>2</sup> Se, a seguito di un inquadramento della funzione in una classe inferiore di stipendio (art. 52*a*), a un impiegato non viene versata alcuna indennità di rincaro oppure se il salario di tale impiegato viene ridotto a causa di un impedimento al lavoro (art. 56 cpv. 1 e 2), lo stipendio annuo determinante precedente resta invariato fino a quando l’indennità di rincaro è di nuovo versata o il diritto al salario in caso di malattia o di infortunio si estingue.
+
+<sup>3</sup> Lo stipendio annuo determinante degli impiegati a tempo parziale corrisponde allo stipendio che sarebbe conseguito con un tasso di occupazione del 100 per cento.
+
+<sup>4</sup> Se una persona ha più impieghi presso lo stesso datore di lavoro affiliato alla Cassa di previdenza della Confederazione, si considera l’intero stipendio.
+
+<sup>5</sup> I datori di lavoro che disciplinano lo stipendio secondo regolamenti propri in materia di personale devono indicare in tali regolamenti le componenti dello stipendio analogamente all’allegato 2.
 
 #### Art. 88f
 
-**Partecipazione del datore di lavoro al finanziamento della rendita transitoria**[^88f-1]
+**Guadagno assicurato**
 
-### (art. 32*k* LPers)
+### (art. 32*g* cpv. 6 e 7 LPers)
 
-<sup>1</sup> Le persone che vanno in pensione prima di raggiungere l’età di riferimento secondo l’articolo 21 LAVS[^88f-2] possono ottenere una rendita transitoria.[^88f-3]
+<sup>1</sup> Il guadagno assicurato corrisponde allo stipendio annuo determinante diminuito dell’importo di coordinamento e convertito nel tasso di occupazione determinante per l’assicurazione.
 
-<sup>1bis</sup>
+<sup>2</sup> L’importo di coordinamento corrisponde al 30 per cento dello stipendio annuo determinante, ma al massimo all’importo limite inferiore di cui all’articolo 8 capoverso 1 LPP[^88f-1].
 
-Il datore di lavoro partecipa al finanziamento della rendita transitoria, se l’impiegato:
+[^88f-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
-- a. chiede il pensionamento parziale o integrale;
-- b. ha compiuto 62 anni;
-- c. nel periodo che precede immediatamente il pensionamento ha lavorato per almeno cinque anni presso datori di lavoro di cui all’articolo 2 capoverso 1 lettere f o g LPers oppure in unità amministrative di cui all’articolo 1;
-- d. ha esercitato una funzione che per almeno cinque anni ha comportato un persistente elevato carico fisico o psichico; e
-- e. chiede il versamento di una rendita transitoria intera o di una mezza rendita transitoria.[^88f-4]
+#### Art. 88g
 
-<sup>1ter</sup>
+**Contributi di risparmio**
 
-Un persistente elevato carico fisico o psichico secondo il capoverso 1bis lettera d si presenta nei casi seguenti:
+<sup>1</sup> I contributi di risparmio sono calcolati in base al guadagno assicurato.
 
-- a. attività con influssi di natura fisica, chimica o biologica che possono mettere in pericolo la salute;
-- b. attività esercitate in un ambiente di lavoro difficile, segnatamente in presenza di temperature estreme, condizioni climatiche rigide o scarsa illuminazione;
-- c. attività con elevati carichi per l’apparato locomotore;
-- d. attività con un elevato rischio d’infortunio;
-- e. attività molto ripetitive, monotone o emotivamente gravose che possono provocare un elevato carico psichico;
-- f. attività con orari di lavoro costrittivi come impieghi nel quadro di piani di servizio fissi (art. 10*b*) o il lavoro notturno.[^88f-5]
+<sup>2</sup> I contributi di risparmio ordinari sono accreditati all’avere di vecchiaia.
 
-<sup>1quater</sup> Il DFF determina d’intesa con i dipartimenti le funzioni il cui esercizio implica la partecipazione del datore di lavoro al finanziamento della rendita transitoria.
+#### Art. 88h
 
-<sup>2</sup> L’importo massimo della rendita transitoria intera corrisponde al massimo della rendita semplice di vecchiaia.[^88f-6]
+**Piani previdenziali**
 
-<sup>3</sup> Nel calcolo dei costi attuariali di una rendita transitoria si tiene conto del numero degli anni d’impiego, del tasso di occupazione medio durante gli anni d’impiego e della quota percentuale della rendita di vecchiaia regolamentare da percepire.
+### (art. 32*g* cpv. 4 LPers)
 
-<sup>4</sup> Per calcolare gli anni d’impiego e il tasso di occupazione medio contano i rapporti di lavoro presso i datori di lavoro ai sensi dell’articolo 2 capoverso 1 lettere f e g LPers e nelle unità amministrative ai sensi dell’articolo 1, purché non siano stati interrotti per più di tre anni. Gli anni d’impiego interrotti vengono computati quali anni d’impiego interi solo dopo il sesto mese. Il periodo di tirocinio secondo la legislazione sulla formazione professionale e i periodi di pratica corrispondenti non sono presi in considerazione.[^88f-7]
+<sup>1</sup>
 
-<sup>5</sup> La partecipazione percentuale del datore di lavoro al finanziamento della rendita transitoria è disciplinata nell’allegato 1. In caso di pensionamento anticipato dopo il compimento del 62° anno d’età, tale partecipazione è decurtata di un venticinquesimo per ogni anno mancante al compimento del 25° anno d’impiego.
+Gli impiegati sono assicurati come segue:
 
-<sup>6</sup> L’unità amministrativa presso cui l’impiegato ha lavorato nel periodo che precede immediatamente il pensionamento anticipato verifica le condizioni del diritto alla rendita e calcola il suo tasso di occupazione medio.
+- a. piano standard: fino alla classe di stipendio 23;
+- b. piano per quadri: a partire dalla classe di stipendio 24.
 
-[^88f-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88f-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^88f-3]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^88f-4]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-5]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-6]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-7]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+<sup>2</sup> I contributi sono stabiliti nell’allegato 4.
 
-### Sezione 3: …
+<sup>3</sup> Gli impiegati di datori di lavoro che disciplinano lo stipendio secondo regolamenti propri in materia di personale sono assicurati, conformemente al regolamento sul personale del loro datore di lavoro, nel piano standard o nel piano per quadri.
 
-#### Art. 88g a 88j
+#### Art. 88i
 
-[^88g88j-1]
+**Piani previdenziali per persone appartenenti a particolari categorie di personale**
 
-[^88g88j-1]: Abrogata dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, con effetto dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Vedi anche le disp. trans. all’art. 8 di detta mod.
+### (art. 32*g* cpv. 4 LPers)
 
-### Sezione 4: …
+<sup>1</sup>
+
+Se le persone appartenenti a particolari categorie di personale ricevono contributi di risparmio supplementari secondo l’articolo 3 dell’ordinanza del 20 febbraio 2013[^88i-1] concernente il pensionamento in particolari categorie di personale, esse sono assicurate come segue:
+
+- a. piano standard: fino alla classe di stipendio 23;
+- b. piano per quadri: a partire dalla classe di stipendio 24.
+
+<sup>2</sup> I contributi sono stabiliti nell’allegato 5.
+
+<sup>3</sup> I contributi di risparmio ordinari sono accreditati all’avere di vecchiaia, mentre i contributi di risparmio supplementari all’avere di risparmio speciale.
+
+[^88i-1]: [RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
+
+#### Art. 88j
+
+**Contributo di rischio**
+
+<sup>1</sup> Il contributo di rischio è calcolato in base al guadagno assicurato.
+
+<sup>2</sup> Il contributo di rischio è dell’1,5 per cento.
+
+<sup>3</sup> Il datore di lavoro assume tre quarti dei costi del contributo, l’impiegato un quarto.
 
 #### Art. 88k
 
-[^88k-1]
+**Spese amministrative**
 
-[^88k-1]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+Le spese amministrative sono interamente pagate dal datore di lavoro.
 
 #### Art. 88l
 
-[^88l-1]
+**Misure di risanamento**
 
-[^88l-1]: Introdotto dalla cifra I dell’O del 24 nov. 2010 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)). Abrogato dalla cifra I dell’O del 20 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+<sup>1</sup> Se servono a finanziare prestazioni sovraobbligatorie, le misure di risanamento richiedono l’approvazione del Consiglio federale.
+
+<sup>2</sup> Il datore di lavoro può prevedere una partecipazione sovraparitetica alle misure di risanamento.
+
+<sup>3</sup> I contributi di risanamento che devono essere prestati dal datore di lavoro e dall’impiegato sono dovuti per intero dal datore di lavoro.
+
+<sup>4</sup> In caso di differimento della riscossione della prestazione di vecchiaia o di continuazione dell’assicurazione, l’impiegato deve pagare il proprio contributo di risanamento.
+
+<sup>5</sup> La quota di contributo viene dedotta mensilmente dallo stipendio.
+
+#### Art. 88m
+
+**Versamenti nella cassa di previdenza**
+
+### (art. 32*g* cpv. 2 LPers)
+
+Il datore di lavoro può effettuare versamenti nella cassa di previdenza per i seguenti scopi:
+
+- a. costituire riserve di contributi del datore di lavoro;
+- b. costituire riserve di contributi del datore di lavoro con rinuncia di utilizzazione conformemente alle disposizioni regolamentari;
+- c. colmare una copertura insufficiente;
+- d. finanziare misure di attenuazione;
+- e. rafforzare il grado di copertura, al massimo fino al raggiungimento di un grado di copertura del 110 per cento;
+- f. finanziare i contributi in conto interessi.
 
 ## Capitolo 5: Obblighi del personale
 
@@ -3083,12 +3244,12 @@ In caso di attribuzione a un nuovo luogo di lavoro nell’ambito di ristrutturaz
 
 - a. partecipazione limitata alle spese del tragitto per recarsi al lavoro;
 - b. partecipazione alle spese di trasloco;
-- c. mantenimento dell’indennità di residenza attuale per due anni se quest’ultima è superiore a quella del nuovo luogo di lavoro;
-- d. riduzione graduale dell’indennità di residenza per quattro anni al massimo se l’indennità di residenza del nuovo luogo di lavoro è inferiore di sei o più zone.
+- c.e d .[^105-2]...
 
 <sup>3</sup> Le misure e le prestazioni del piano sociale (art. 105*d*) sono applicabili per analogia al singolo caso se la presente ordinanza non prevede una regolamentazione specifica.
 
 [^105-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
+[^105-2]: Abrogate dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 105a
 
@@ -3133,18 +3294,19 @@ Inoltre, almeno una delle seguenti condizioni deve essere adempiuta:
 
 Per motivi validi, in aggiunta alle rendite di cui ai capoversi 1 e 2, il datore di lavoro può fornire le prestazioni seguenti:[^105b-2]
 
-- a. partecipazione ai costi per la continuazione della previdenza secondo l’articolo 88*d*<sup>bis</sup> capoverso 3;
-- b. partecipazione al riscatto finalizzato all’aumento della rendita di vecchiaia secondo l’articolo 32*a* RPIC[^105b-3];
-- c.[^105b-4] assunzione completa o parziale dei contributi dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^105b-5] sull’assicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento dell’età di riferimento secondo l’articolo 21 LAVS[^105b-6];
-- d.[^105b-7] …
+- a.[^105b-3] partecipazione ai costi per la continuazione della previdenza secondo l’articolo 63*c* capoverso 3;
+- b. partecipazione al riscatto finalizzato all’aumento della rendita di vecchiaia secondo l’articolo 32*a* RPIC[^105b-4];
+- c.[^105b-5] assunzione completa o parziale dei contributi dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^105b-6] sull’assicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento dell’età di riferimento secondo l’articolo 21 LAVS[^105b-7];
+- d.[^105b-8] ...
 
 [^105b-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 [^105b-2]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^105b-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
-[^105b-4]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^105b-5]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
-[^105b-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^105b-7]: Abrogata dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^105b-3]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^105b-4]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^105b-5]: Nuovo testo giusta l’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-6]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-7]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^105b-8]: Abrogata dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
 
@@ -3334,40 +3496,41 @@ Il DFAE può, d’intesa con il DFF, emanare disposizioni derogatorie per il per
 - a.[^114-1] articoli 15–16: dialogo e valutazione del personale;
 - b. articolo 38: stipendio in caso di occupazione a tempo parziale;
 - c. articolo 39: evoluzione dello stipendio;
-- d. articolo 43: indennità di residenza;
+- d.[^114-2] ...
 - e. articolo 44: compensazione del rincaro;
 - f. articolo 46: indennità di funzione;
-- g.[^114-2] articolo 49: premi di prestazione;
+- g.[^114-3] articolo 49: premi di prestazione;
 - h. articolo 52: valutazione della funzione;
-- h<sup>bis</sup>.[^114-3] articolo 64*b*: orario di lavoro basato sulla fiducia;
+- h<sup>bis</sup>.[^114-4] articolo 64*b*: orario di lavoro basato sulla fiducia;
 - i. articolo 53: organi di valutazione;
 - j. articolo 63: prestazioni in caso di infortunio professionale;
 - k. articolo 64: tempo di lavoro;
-- k<sup>bis</sup>.[^114-4] articolo 64*b*: orario di lavoro basato sulla fiducia;
+- k<sup>bis</sup>.[^114-5] articolo 64*b*: orario di lavoro basato sulla fiducia;
 - l. articolo 65: lavoro aggiuntivo e lavoro straordinario;
 - m. articolo 66: giorni di libero;
 - n. articolo 67: vacanze;
 - o. articolo 68: congedi;
-- o<sup>bis</sup>.[^114-5] articolo 75*a* capoverso 2: Custodia di bambini complementare alla famiglia;
-- o<sup>ter</sup>.[^114-6] articolo 75*b*: Diritto al rimborso dei costi per la custodia di bambini complementare alla famiglia;
-- p.[^114-7] articolo 78 capoverso 2 lettera k: versamento d’indennità al personale della DSC;
-- q.[^114-8] articolo 78 capoverso 2<sup>bis</sup>: indennità al personale della DSC per cessazione del rapporto di lavoro intervenuta di comune accordo;
-- r. e s.[^114-9] …
+- o<sup>bis</sup>.[^114-6] articolo 75*a* capoverso 2: Custodia di bambini complementare alla famiglia;
+- o<sup>ter</sup>.[^114-7] articolo 75*b*: Diritto al rimborso dei costi per la custodia di bambini complementare alla famiglia;
+- p.[^114-8] articolo 78 capoverso 2 lettera k: versamento d’indennità al personale della DSC;
+- q.[^114-9] articolo 78 capoverso 2<sup>bis</sup>: indennità al personale della DSC per cessazione del rapporto di lavoro intervenuta di comune accordo;
+- r. e s.[^114-10] …
 
 <sup>3</sup> Nel determinare le retribuzioni e altre misure a favore del personale secondo gli articoli 63 e 81–88 si tiene conto della situazione peculiare del personale distaccato. Il DFAE, d’intesa con il DFF, stabilisce nelle disposizioni d’esecuzione in quale misura considerare altre persone di accompagnamento oltre ai membri della famiglia e disciplina i particolari.
 
-<sup>4</sup> Il DFAE emana, d’intesa con il DFF, prescrizioni concernenti l’indicizzazione dei luoghi d’impiego, classificati per difficoltà delle condizioni di vita, basandosi in merito sull’indice di 100 punti della Città di Berna, e stabilisce i luoghi d’impiego dove regnano condizioni di vita molto difficili.[^114-10]
+<sup>4</sup> Il DFAE emana, d’intesa con il DFF, prescrizioni concernenti l’indicizzazione dei luoghi d’impiego, classificati per difficoltà delle condizioni di vita, basandosi in merito sull’indice di 100 punti della Città di Berna, e stabilisce i luoghi d’impiego dove regnano condizioni di vita molto difficili.[^114-11]
 
 [^114-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
-[^114-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
-[^114-3]: Originaria lett. r. Introdotta dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
-[^114-4]: Originaria lett. s. Introdotta dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
-[^114-5]: Introdotta dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-2]: Abrogata dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2027 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^114-3]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^114-4]: Originaria lett. r. Introdotta dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^114-5]: Originaria lett. s. Introdotta dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^114-6]: Introdotta dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-7]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-7]: Introdotta dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
 [^114-8]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^114-9]: Abrogate dalla cifra I dell’O del 24 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-10]: Introdotto dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, in vigore dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
+[^114-9]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-10]: Abrogate dalla cifra I dell’O del 24 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-11]: Introdotto dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, in vigore dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
 
 #### Art. 115
 
@@ -3464,7 +3627,7 @@ Esso può, d’intesa con il Dipartimento federale dell’interno, emanare dispo
 
 [^116a-1]
 
-[^116a-1]: Introdotto dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Abrogato dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, con effetto dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^116a-1]: Introdotto dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Abrogato dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso Publica, con effetto dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116b
 
@@ -3484,12 +3647,12 @@ Esso può, d’intesa con il Dipartimento federale dell’interno, emanare dispo
 
 All’inizio del congedo di prepensionamento ai sensi dell’articolo 34 le persone seguenti percepiscono, in luogo della prestazione secondo l’articolo 88*h*, un’indennità unica equivalente ai tre quarti dell’ultimo salario annuo:[^116c-3]
 
-- a. gli impiegati di cui all’articolo 33 capoverso 1 lettere a e b che al momento della messa in vigore integrale della legge su PUBLICA hanno compiuto il 51° anno d’età;
-- b. gli impiegati di cui all’articolo 33 capoverso 1 lettera c che al momento della messa in vigore integrale della legge su PUBLICA hanno compiuto il 53° anno d’età.
+- a. gli impiegati di cui all’articolo 33 capoverso 1 lettere a e b che al momento della messa in vigore integrale della legge su Publica hanno compiuto il 51° anno d’età;
+- b. gli impiegati di cui all’articolo 33 capoverso 1 lettera c che al momento della messa in vigore integrale della legge su Publica hanno compiuto il 53° anno d’età.
 
-<sup>3</sup> Gli impiegati di cui all’articolo 33 capoverso 2 che al momento della messa in vigore integrale della legge su PUBLICA hanno compiuto il 55° anno d’età percepiscono con il loro ultimo salario un’indennità unica equivalente ai tre quadri del loro ultimo salario annuo.
+<sup>3</sup> Gli impiegati di cui all’articolo 33 capoverso 2 che al momento della messa in vigore integrale della legge su Publica hanno compiuto il 55° anno d’età percepiscono con il loro ultimo salario un’indennità unica equivalente ai tre quadri del loro ultimo salario annuo.
 
-<sup>4</sup> L’indennità unica secondo i capoversi 2 e 3 è accreditata sull’avere di vecchiaia dell’assicurato presso PUBLICA nel quadro della LPP[^116c-4] o versata direttamente all’assicurato su sua richiesta.
+<sup>4</sup> L’indennità unica secondo i capoversi 2 e 3 è accreditata sull’avere di vecchiaia dell’assicurato presso Publica nel quadro della LPP[^116c-4] o versata direttamente all’assicurato su sua richiesta.
 
 <sup>5</sup> L’articolo 34*a* capoverso 2 non si applica agli impiegati di cui al capoverso 2.[^116c-5]
 
@@ -3497,7 +3660,7 @@ All’inizio del congedo di prepensionamento ai sensi dell’articolo 34 le pers
 [^116c-2]: Art. 33 nella versione del 3 lug. 2001 ([RU 2001 2206](https://fedlex.data.admin.ch/eli/oc/2001/319)), cpv. 1–3<sup>bis</sup> nella versione dell’O del 5 dic. 2003 concernente l’abrogazione e la modifica di ordinanze in relazione con la nuova regolamentazione del personale militare ([RU 2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)); art. 16 dell’O del 2 dic. 1991 sulle prestazioni in caso di pensionamento anticipato di dipendenti in speciali rapporti di servizio, nella versione della modifica del 28 giu. 2000 ([RU 2000 2429](https://fedlex.data.admin.ch/eli/oc/2000/388)).
 [^116c-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
 [^116c-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^116c-5]: Nuovo testo giusta la cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^116c-5]: Nuovo testo giusta la cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso Publica, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116d
 
@@ -3526,9 +3689,10 @@ All’inizio del congedo di prepensionamento ai sensi dell’articolo 34 le pers
 
 <sup>2</sup> La partecipazione del datore di lavoro al finanziamento della rendita transitoria degli impiegati che hanno compiuto il 59° anno d’età al momento dell’entrata in vigore della modifica del 20 giugno 2014 e che saranno pensionati anticipatamente al più tardi entro il 31 luglio 2017, è retta dal diritto previgente.
 
-<sup>3</sup> Per il calcolo della rendita transitoria secondo l’articolo 88*f*, gli anni d’impiego riconosciuti prima dell’entrata in vigore della presente modifica e il relativo tasso di occupazione medio sono conteggiati secondo il diritto anteriore.
+<sup>3</sup> Per il calcolo della rendita transitoria secondo l’articolo 63*e*, gli anni d’impiego riconosciuti prima dell’entrata in vigore della presente modifica e il relativo tasso di occupazione medio sono conteggiati secondo il diritto anteriore.[^116f-2]
 
 [^116f-1]: Introdotto dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^116f-2]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 116g
 
@@ -3578,14 +3742,15 @@ Lo stipendio di impiegati che all’entrata in vigore della modifica del 12 magg
 
 <sup>2</sup> L’impiegata il cui rapporto di lavoro è disdetto a seguito di pensionamento anticipato volontario prima del raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS ha diritto all’aumento reale dello stipendio secondo l’articolo 44*a* capoverso 2.
 
-<sup>3</sup> L’impiegata che va in pensione prima di raggiungere l’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS può ottenere una rendita transitoria secondo l’articolo 88*f* capoverso 1.
+<sup>3</sup> L’impiegata che va in pensione prima di raggiungere l’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS può ottenere una rendita transitoria secondo l’articolo 63e capoverso 1.[^116l-4]
 
-<sup>4</sup> Per motivi validi, in aggiunta alle rendite di cui all’articolo 105*b* capoversi 1 e 2, il datore di lavoro può assumere completamente o parzialmente i contributi dell’impiegata dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^116l-4] sull’assicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS.
+<sup>4</sup> Per motivi validi, in aggiunta alle rendite di cui all’articolo 105*b* capoversi 1 e 2, il datore di lavoro può assumere completamente o parzialmente i contributi dell’impiegata dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^116l-5] sull’assicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS.
 
 [^116l-1]: Introdotto dall’all. n. 1 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^116l-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
 [^116l-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^116l-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^116l-4]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^116l-5]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 116m
 
@@ -3677,11 +3842,11 @@ La presente ordinanza entra in vigore il 1° gennaio 2002.
 
 Allegato 1[^t-1]
 
-(art. 88*f* cpv. 5)
+(art. 63*e* cpv. 8)
 
 ## Partecipazione percentuale del datore di lavoro al finanziamento della rendita transitoria
 
-[^t-1]: Introdotto dalla cifra II dell’O del 15 giu. 2007 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Nuovo testo giusta la cifra II dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^t-1]: Introdotto dalla cifra II dell’O del 15 giu. 2007 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nuovo testo giusta la cifra II dell’O del 15 nov. 2017, in vigore dal 1° lug. 2018 ([RU 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)). Aggiornato dalla cifra II cpv. 1 dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 <table>
 <tr><td></td><td>Piano standard (classi di stipendio)</td><td></td><td></td><td>Piano per quadri (classi di stipendio)</td></tr>
@@ -3693,11 +3858,11 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
-(art. 88*a* cpv. 1)
+(art. 88*e* cpv. 1)
 
-## Componenti dello stipendio assicurabile
+## Componenti dello stipendio annuo determinante
 
-[^t-2]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Aggiornato dalla cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)), del 12 giu. ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)) e dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^t-2]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso Publica ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Aggiornato dalla cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785), dalla cifra II dell’O del 3 set. 2025 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)) e dalla cifra II cpv. 1 dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 - a. stipendio mensile secondo l’articolo 36 e stipendio mensile degli impiegati della Confederazione secondo l’articolo 12 capoverso 2 OPers-PRA[^annex2-lvlu1-1], ma al massimo lo stipendio mensile del dipartimento da cui proviene l’impiegato. L’evoluzione dello stipendio secondo l’articolo 39 capoversi 1–5 e gli adeguamenti straordinari dello stipendio secondo l’articolo 40 fino all’importo massimo della classe di stipendio;
 - b. lo stipendio orario, giornaliero oppure medio secondo l’articolo 38 capoverso 2;
@@ -3746,3 +3911,87 @@ Allegato 3[^t-3]
 - 3\. In presenza di motivi validi, segnatamente situazioni sociali difficili, l’indennità calcolata secondo il capoverso 1 può essere aumentata al massimo a 12 stipendi mensili.
 - 4\. Le interruzioni della durata d’impiego non sono prese in considerazione, sempre che non superino la durata di tre anni.
 - 5\. Ai fini del calcolo degli anni d’età e d’impiego, gli anni interrotti sono arrotondati per eccesso.
+
+Allegato 4[^t-4]
+
+(art. 88*h* cpv. 2)
+
+## Contributi di risparmio
+
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+Agli impiegati si applicano i seguenti contributi di risparmio:
+
+- a. nel piano standard (fino alla classe di stipendio 23):
+
+<table>
+<tr><th>Età dell’impiegato</th><th>Contributo dell’impiegato in per cento</th><th>Contributo del datore di lavoro in per cento</th><th>Totale in per cento</th></tr>
+<tr><td>22–34</td><td>5,85</td><td>6,90</td><td>12,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>16,25</td></tr>
+<tr><td>45–54</td><td>9,40</td><td>16,60</td><td>26,00</td></tr>
+<tr><td>55–65</td><td>12,50</td><td>21,75</td><td>34,25</td></tr>
+<tr><td>66–70</td><td>5,85</td><td>5,85</td><td>11,70</td></tr>
+</table>
+
+- b. nel piano per quadri (a partire dalla classe di stipendio 24):
+
+<table>
+<tr><th>Età dell’impiegato</th><th>Contributo dell’impiegato in per cento</th><th>Contributo del datore di lavoro in per cento</th><th>Totale in per cento</th></tr>
+<tr><td>22–34</td><td>5,95</td><td>6,80</td><td>12,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>16,25</td></tr>
+<tr><td>45–54</td><td>9,70</td><td>19,20</td><td>28,90</td></tr>
+<tr><td>55–65</td><td>12,80</td><td>24,30</td><td>37,10</td></tr>
+<tr><td>66–70</td><td>5,95</td><td>5,95</td><td>11,90</td></tr>
+</table>
+
+Allegato 5[^t-5]
+
+(art. 88*i* cpv. 2)
+
+## Contributi di risparmio per le persone appartenenti a particolari categorie di personale
+
+[^t-5]: Introdotto dalla cifra II cpv. 2 dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+\1. Ai militari di professione e ai membri del Corpo delle guardie di confine si applicano i seguenti contributi di risparmio:
+
+- a. nel piano standard (fino alla classe di stipendio 23):
+
+<table>
+<tr><th>Età dell’impiegato</th><th>Contributo dell’impiegato in per cento</th><th>Contributo del datore di lavoro in per cento</th><th>Contributo supplementare del datore di lavoro in per cento</th><th>Totale in per cento</th></tr>
+<tr><td>22–34</td><td>5,85</td><td>6,90</td><td>2,00</td><td>14,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>2,00</td><td>18,25</td></tr>
+<tr><td>45–54</td><td>9,40</td><td>16,60</td><td>5,00</td><td>31,00</td></tr>
+<tr><td>55–65</td><td>12,50</td><td>21,75</td><td>5,00</td><td>39,25</td></tr>
+</table>
+
+- b. nel piano per quadri (a partire dalla classe di stipendio 24):
+
+<table>
+<tr><th>Età dell’impiegato</th><th>Contributo dell’impiegato in per cento</th><th>Contributo del datore di lavoro in per cento</th><th>Contributo supplementare del datore di lavoro in per cento</th><th>Totale in per cento</th></tr>
+<tr><td>22–34</td><td>5,95</td><td>6,80</td><td>2,00</td><td>14,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>2,00</td><td>18,25</td></tr>
+<tr><td>45–54</td><td>9,70</td><td>19,20</td><td>6,00</td><td>34,90</td></tr>
+<tr><td>55–65</td><td>12,80</td><td>24,30</td><td>6,00</td><td>43,10</td></tr>
+</table>
+
+\2. Agli impiegati del DFAE soggetti all’obbligo del trasferimento si applicano i seguenti contributi di risparmio:
+
+- a. nel piano standard (fino alla classe di stipendio 23):
+
+<table>
+<tr><th>Età dell’impiegato</th><th>Contributo dell’impiegato in per cento</th><th>Contributo del datore di lavoro in per cento</th><th>Contributo supplementare del datore di lavoro in per cento</th><th>Totale in per cento</th></tr>
+<tr><td>22–34</td><td>5,85</td><td>6,90</td><td>10,00</td><td>22,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>10,00</td><td>26,25</td></tr>
+<tr><td>45–54</td><td>9,40</td><td>16,60</td><td>10,00</td><td>36,00</td></tr>
+<tr><td>55–65</td><td>12,50</td><td>21,75</td><td>10,00</td><td>44,25</td></tr>
+</table>
+
+- b. nel piano per quadri (a partire dalla classe di stipendio 24):
+
+<table>
+<tr><th>Età dell’impiegato</th><th>Contributo dell’impiegato in per cento</th><th>Contributo del datore di lavoro in per cento</th><th>Contributo supplementare del datore di lavoro in per cento</th><th>Totale in per cento</th></tr>
+<tr><td>22–34</td><td>5,95</td><td>6,80</td><td>10,00</td><td>22,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>10,00</td><td>26,25</td></tr>
+<tr><td>45–54</td><td>9,70</td><td>19,20</td><td>10,00</td><td>38,90</td></tr>
+<tr><td>55–65</td><td>12,80</td><td>24,30</td><td>10,00</td><td>47,10</td></tr>
+</table>

@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20270101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. Juli 2026)
+vom 3. Juli 2001 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -49,31 +49,32 @@ Diese Verordnung regelt die Arbeitsverhältnisse:
 
 Dieser Verordnung nicht unterstellt sind:
 
-- a. das dem Obligationenrecht[^1-5] (OR) unterstellte Personal (Art. 6 Abs. 5 und 6 BPG);
+- a.[^1-5] das dem Obligationenrecht (OR)[^1-6] unterstellte Personal (Art. 6 Abs. 5 und 6 BPG), ausser in Bezug auf das 4*a*. Kapitel;
 - b. das im Ausland privatrechtlich angestellte und nicht versetzbare Personal des Eidgenössischen Departementes für auswärtige Angelegenheiten (EDA);
-- c.[^1-6] das Personal des ETH-Bereichs;
-- d. die Lehrlinge, die dem Bundesgesetz vom 19. April 1978[^1-7] über die Berufsbildung unterstehen;
-- e. das Personal, das dem Heimarbeitsgesetz vom 20. März 1981[^1-8] untersteht;
-- f.[^1-9] das Personal nach der Verordnung vom 2. Dezember 2005[^1-10] über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe (PVFMH).
+- c.[^1-7] das Personal des ETH-Bereichs;
+- d. die Lehrlinge, die dem Bundesgesetz vom 19. April 1978[^1-8] über die Berufsbildung unterstehen;
+- e. das Personal, das dem Heimarbeitsgesetz vom 20. März 1981[^1-9] untersteht;
+- f.[^1-10] das Personal nach der Verordnung vom 2. Dezember 2005[^1-11] über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe (PVFMH).
 
 <sup>3</sup> In dieser Verordnung bezeichnet der Ausdruck «Departemente» die Departemente und die Bundeskanzlei.
 
-<sup>4</sup> Die Bundesanwaltschaft, die Aufsichtsbehörde über die Bundesanwaltschaft und die Bundesversammlung für das Personal der Parlamentsdienste sind als Arbeitgeber nicht an Vorgaben und Weisungen des Bundesrats gebunden. Sie nehmen für ihr Personal sinngemäss die Kompetenzen wahr, die diese Verordnung den Departementen gewährt, und treffen die Arbeitgeberentscheide für ihr Personal.[^1-11]
+<sup>4</sup> Die Bundesanwaltschaft, die Aufsichtsbehörde über die Bundesanwaltschaft und die Bundesversammlung für das Personal der Parlamentsdienste sind als Arbeitgeber nicht an Vorgaben und Weisungen des Bundesrats gebunden. Sie nehmen für ihr Personal sinngemäss die Kompetenzen wahr, die diese Verordnung den Departementen gewährt, und treffen die Arbeitgeberentscheide für ihr Personal.[^1-12]
 
-<sup>5</sup> Die Personalpolitik des Bundesrats und des Eidgenössischen Finanzdepartements (EFD) ist für die Bundesanwaltschaft und die Aufsichtsbehörde über die Bundesanwaltschaft massgebend, sofern die besondere Stellung oder Funktion dieser Behörden nicht etwas anderes verlangt.[^1-12]
+<sup>5</sup> Die Personalpolitik des Bundesrats und des Eidgenössischen Finanzdepartements (EFD) ist für die Bundesanwaltschaft und die Aufsichtsbehörde über die Bundesanwaltschaft massgebend, sofern die besondere Stellung oder Funktion dieser Behörden nicht etwas anderes verlangt.[^1-13]
 
 [^1-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^1-2]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^1-3]: Eingefügt durch Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^1-4]: Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^1-6]: Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-7]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Heute: das Berufsbildungsgesetz vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
-[^1-8]: [SR 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
-[^1-9]: Fassung gemäss Art. 42 Ziff. 1 der V vom 2. Dez. 2005 über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe, in Kraft seit 1. Jan. 2006 ([AS 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
-[^1-10]: [SR 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
-[^1-11]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^1-12]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+[^1-5]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^1-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^1-7]: Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^1-8]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Heute: das Berufsbildungsgesetz vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
+[^1-9]: [SR 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
+[^1-10]: Fassung gemäss Art. 42 Ziff. 1 der V vom 2. Dez. 2005 über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe, in Kraft seit 1. Jan. 2006 ([AS 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
+[^1-11]: [SR 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
+[^1-12]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^1-13]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
 #### Art. 2
 
@@ -162,26 +163,28 @@ Die Departemente treffen gezielte Massnahmen, um:
 
 Er kann von den Angestellten Aus- und Weiterbildungskosten zurückfordern, wenn diese:
 
-- a. die Aus- oder Weiterbildung abbrechen; oder
+- a.[^4-6] die Aus- oder Weiterbildung abbrechen oder nicht erfolgreich abschliessen; oder
 - b.
 
-  das Arbeitsverhältnis während der Aus- oder der Weiterbildung oder innerhalb der folgenden Fristen seit Abschluss der Aus- oder der Weiterbildung auflösen und nicht unterbruchslos ein neues Arbeitsverhältnis bei einer Verwaltungseinheit nach Artikel 1 eingehen:
+  das Arbeitsverhältnis während der Aus- und Weiterbildung oder innerhalb der folgenden Fristen seit Abschluss der Aus- oder der Weiterbildung auflösen und nicht unterbruchslos ein neues Arbeitsverhältnis bei einem Arbeitgeber des Personals nach Artikel 1 Absatz 1 eingehen:[^4-7]
 
   - 1\. Kostenanteil unter 50 000 Franken: innerhalb von zwei Jahren,
-  - 2\. Kostenanteil ab 50 000 Franken: innerhalb von vier Jahren.[^4-6]
+  - 2\. Kostenanteil ab 50 000 Franken: innerhalb von vier Jahren.[^4-8]
 
-<sup>5bis</sup> Für die Rückforderung von Kosten gemäss Absatz 4<sup>bis</sup> laufen die Fristen ab dem Tag nach erfolgreichem Bestehen der Probezeit.[^4-7]
+<sup>5bis</sup> Für die Rückforderung von Kosten gemäss Absatz 4<sup>bis</sup> laufen die Fristen ab dem Tag nach erfolgreichem Bestehen der Probezeit.[^4-9]
 
-<sup>6</sup> …[^4-8]
+<sup>6</sup> Gehen Angestellte ein neues Arbeitsverhältnis bei einem Arbeitgeber des Personals nach Artikel 1 Absatz 1 ein, so geht das Rückforderungsrecht nach Absatz 5 auf den neuen Arbeitgeber über.[^4-10]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-6]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-7]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^4-8]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2018, mit Wirkung seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^4-7]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^4-8]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^4-9]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^4-10]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 5
 
@@ -699,12 +702,13 @@ Absolventen und Absolventinnen von Hochschulen können mit einem befristeten Ver
 
 <sup>3</sup> Der Lohn für Hochschulpraktikanten und -praktikantinnen wird durch das EFD festgelegt. Er ist von einer Lohnentwicklung (Art. 39) ausgenommen. Monatlich wird ein Zwölftel des Jahreslohns ausbezahlt.
 
-<sup>4</sup> Die Hochschulpraktikanten und -praktikantinnen erhalten weder einen Ortszuschlag (Art. 43) noch einen Teuerungsausgleich (Art. 44).
+<sup>4</sup> Die Hochschulpraktikanten und -praktikantinnen erhalten keinen Teuerungsausgleich (Art. 44).[^25a-5]
 
 [^25a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^25a-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^25a-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^25a-4]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-5]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 25b
 
@@ -972,63 +976,80 @@ Auf eine Mahnung kann verzichtet werden, wenn:
 
 ### (Art. 15 BPG)
 
-Der Lohn wird im Rahmen folgender Lohnklassen festgesetzt:
+<sup>1</sup> Der Lohn wird im Rahmen der Lohnklassen 1–38 festgesetzt.
 
 <table>
-<tr><th>Lohnklasse</th><th>Höchstbetrag in Franken</th></tr>
-<tr><td>38</td><td>370 568</td></tr>
-<tr><td>37</td><td>308 552</td></tr>
-<tr><td>36</td><td>289 645</td></tr>
-<tr><td>35</td><td>270 922</td></tr>
-<tr><td>34</td><td>252 402</td></tr>
-<tr><td>33</td><td>234 053</td></tr>
-<tr><td>32</td><td>215 920</td></tr>
-<tr><td>31</td><td>206 892</td></tr>
-<tr><td>30</td><td>197 876</td></tr>
-<tr><td>29</td><td>184 415</td></tr>
-<tr><td>28</td><td>175 683</td></tr>
-<tr><td>27</td><td>168 040</td></tr>
-<tr><td>26</td><td>160 427</td></tr>
-<tr><td>25</td><td>152 804</td></tr>
-<tr><td>24</td><td>145 206</td></tr>
-<tr><td>23</td><td>136 849</td></tr>
-<tr><td>22</td><td>130 478</td></tr>
-<tr><td>21</td><td>125 463</td></tr>
-<tr><td>20</td><td>120 463</td></tr>
-<tr><td>19</td><td>115 458</td></tr>
-<tr><td>18</td><td>110 463</td></tr>
-<tr><td>17</td><td>105 442</td></tr>
-<tr><td>16</td><td>101 225</td></tr>
-<tr><td>15</td><td>97 295</td></tr>
-<tr><td>14</td><td>93 420</td></tr>
-<tr><td>13</td><td>90 165</td></tr>
-<tr><td>12</td><td>87 001</td></tr>
-<tr><td>11</td><td>83 888</td></tr>
-<tr><td>10</td><td>80 852</td></tr>
-<tr><td>9</td><td>77 780</td></tr>
-<tr><td>8</td><td>74 695</td></tr>
-<tr><td>7</td><td>71 685</td></tr>
-<tr><td>6</td><td>68 643</td></tr>
-<tr><td>5</td><td>65 591</td></tr>
-<tr><td>4</td><td>63 744</td></tr>
-<tr><td>3</td><td>62 746</td></tr>
-<tr><td>2</td><td>61 750</td></tr>
-<tr><td>1</td><td>60 764</td></tr>
+<tr><th>Lohnklasse</th><th>Mindestbetrag in Franken (brutto)</th><th>Ziellohn in Franken (brutto)</th><th>Höchstbetrag in Franken (brutto)</th></tr>
+<tr><td>38</td><td>256 977</td><td>385 465</td><td>411 163</td></tr>
+<tr><td>37</td><td>236 047</td><td>354 070</td><td>377 675</td></tr>
+<tr><td>36</td><td>221 833</td><td>332 749</td><td>354 932</td></tr>
+<tr><td>35</td><td>207 755</td><td>311 633</td><td>332 408</td></tr>
+<tr><td>34</td><td>193 833</td><td>290 749</td><td>310 132</td></tr>
+<tr><td>33</td><td>180 036</td><td>270 053</td><td>288 057</td></tr>
+<tr><td>32</td><td>166 402</td><td>249 604</td><td>266 244</td></tr>
+<tr><td>31</td><td>156 713</td><td>235 069</td><td>250 740</td></tr>
+<tr><td>30</td><td>147 278</td><td>220 917</td><td>235 645</td></tr>
+<tr><td>29</td><td>134 931</td><td>202 396</td><td>215 889</td></tr>
+<tr><td>28</td><td>126 248</td><td>189 372</td><td>201 997</td></tr>
+<tr><td>27</td><td>118 551</td><td>177 826</td><td>189 681</td></tr>
+<tr><td>26</td><td>113 346</td><td>170 019</td><td>181 354</td></tr>
+<tr><td>25</td><td>108 135</td><td>162 203</td><td>173 016</td></tr>
+<tr><td>24</td><td>102 943</td><td>154 414</td><td>164 708</td></tr>
+<tr><td>23</td><td>97 231</td><td>145 846</td><td>155 569</td></tr>
+<tr><td>22</td><td>92 876</td><td>139 313</td><td>148 601</td></tr>
+<tr><td>21</td><td>89 450</td><td>134 171</td><td>143 116</td></tr>
+<tr><td>20</td><td>86 031</td><td>129 047</td><td>137 650</td></tr>
+<tr><td>19</td><td>82 610</td><td>123 915</td><td>132 176</td></tr>
+<tr><td>18</td><td>79 197</td><td>118 795</td><td>126 715</td></tr>
+<tr><td>17</td><td>75 764</td><td>113 646</td><td>121 222</td></tr>
+<tr><td>16</td><td>72 883</td><td>109 324</td><td>116 612</td></tr>
+<tr><td>15</td><td>70 196</td><td>105 293</td><td>112 313</td></tr>
+<tr><td>14</td><td>67 547</td><td>101 320</td><td>108 075</td></tr>
+<tr><td>13</td><td>65 323</td><td>97 984</td><td>104 516</td></tr>
+<tr><td>12</td><td>63 159</td><td>94 738</td><td>101 054</td></tr>
+<tr><td>11</td><td>61 033</td><td>91 549</td><td>97 652</td></tr>
+<tr><td>10</td><td>58 956</td><td>88 434</td><td>94 330</td></tr>
+<tr><td>9</td><td>56 858</td><td>85 286</td><td>90 972</td></tr>
+<tr><td>8</td><td>54 749</td><td>82 123</td><td>87 598</td></tr>
+<tr><td>7</td><td>52 691</td><td>79 037</td><td>84 306</td></tr>
+<tr><td>6</td><td>50 612</td><td>75 918</td><td>80 979</td></tr>
+<tr><td>5</td><td>48 527</td><td>72 790</td><td>77 643</td></tr>
+<tr><td>4</td><td>47 263</td><td>70 895</td><td>75 621</td></tr>
+<tr><td>3</td><td>46 582</td><td>69 873</td><td>74 531</td></tr>
+<tr><td>2</td><td>45 900</td><td>68 850</td><td>73 440</td></tr>
+<tr><td>1</td><td>45 227</td><td>67 840</td><td>72 363</td></tr>
 </table>
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+<sup>2</sup> Der Mindestlohn nach Artikel 7 der Rahmenverordnung BPG vom 20. Dezember 2000[^36-2] findet in jedem Fall Anwendung.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^36-2]: [SR 172.220.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5346)
 
 #### Art. 37
 
-**Anfangslohn**
+**Anfangslohn**[^37-1]
 
 ### (Art. 15 BPG)
 
-<sup>1</sup> Bei der Anstellung setzt die zuständige Stelle nach Artikel 2 einen Lohn im Rahmen der Klassen nach Artikel 36 fest. Sie berücksichtigt dabei angemessen die Ausbildung und die Berufs- und Lebenserfahrung der anzustellenden Person sowie die Lage auf dem Arbeitsmarkt.
+<sup>1</sup> Bei der Anstellung setzt die zuständige Stelle nach Artikel 2 den Lohn im Rahmen der Lohnklassen nach Artikel 36 fest. Sie berücksichtigt dabei in angemessener Weise die funktionsrelevante Berufs- und Lebenserfahrung der anzustellenden Person sowie die Lage auf dem Arbeitsmarkt.
 
-<sup>2</sup> Das EFD stellt die Richtwerte zur Lohnfestsetzung insbesondere in Bezug auf das Bildungsniveau und die funktionsrelevante Erfahrung zur Verfügung.[^37-1]
+<sup>2</sup>
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+Der Anfangslohn entspricht bei einem Stellenantritt ohne anrechenbare Erfahrungsjahre 100 Prozent des Mindestbetrages der Lohnklasse. Er erhöht sich wie folgt:
+
+- a. für die Erfahrungsjahre 1–5: pro Jahr um 2,95 Prozent des Mindestbetrags der Lohnklasse;
+- b. für die Erfahrungsjahre 6–10: pro Jahr um 2,45 Prozent des Mindestbetrags der Lohnklasse;
+- c. für die Erfahrungsjahre 11–15: pro Jahr um 1,95 Prozent des Mindestbetrags der Lohnklasse;
+- d. für die Erfahrungsjahre 16–20: pro Jahr um 1,45 Prozent des Mindestbetrags der Lohnklasse.
+
+<sup>3</sup> In begründeten Fällen kann der Anfangslohn höher angesetzt werden.
+
+<sup>4</sup> Die Mitarbeitenden erhalten Aufschluss über die Berechnung ihres Anfangslohns.
+
+<sup>5</sup> Das EFD stellt die Richtwerte zur Lohnfestsetzung insbesondere in Bezug auf das Bildungsniveau und die funktionsrelevante Erfahrung zur Verfügung.[^37-2]
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^37-2]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309), [324](https://fedlex.data.admin.ch/eli/oc/2026/324)).
 
 #### Art. 38
 
@@ -1036,11 +1057,11 @@ Der Lohn wird im Rahmen folgender Lohnklassen festgesetzt:
 
 ### (Art. 15 BPG)
 
-<sup>1</sup> Bei teilzeitbeschäftigten Angestellten entsprechen der Lohn, der Ortszuschlag und die Zulagen dem Beschäftigungsgrad. Artikel 51*a* bleibt vorbehalten.[^38-1]
+<sup>1</sup> Bei teilzeitbeschäftigten Angestellten entsprechen der Lohn und die Zulagen dem Beschäftigungsgrad. Artikel 51 bleibt vorbehalten.[^38-1]
 
 <sup>2</sup> Bei unregelmässigem Einsatz können mit den Angestellten Tages‑, Durchschnitts- oder Stundenlöhne vereinbart werden.
 
-[^38-1]: Fassung gemäss Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
+[^38-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 38a
 
@@ -1050,17 +1071,16 @@ Der Lohn wird im Rahmen folgender Lohnklassen festgesetzt:
 
 <sup>1</sup>
 
-Ist die Leistungsfähigkeit einer Person infolge gesundheitlicher Probleme vermindert, so können die Vertragsparteien vereinbaren, dass:[^38a-2]
+Ist die Leistungsfähigkeit einer Person infolge gesundheitlicher Probleme vermindert, so können die Vertragsparteien vereinbaren, dass:
 
-- a.[^38a-3] ein höherer Beschäftigungsgrad gilt, als zur Erfüllung der Aufgaben notwendig ist; Lohn und Ortszuschlag bleiben unverändert;
-- b. bei gleichbleibendem Beschäftigungsgrad ein tieferer Lohn und Ortszuschlag ausgerichtet wird, der dem Grad der Leistungsfähigkeit entspricht.
+- a. ein höherer Beschäftigungsgrad gilt, als zur Erfüllung der Aufgaben notwendig ist; der Lohn bleibt unverändert;
+- b. bei gleichbleibendem Beschäftigungsgrad ein tieferer Lohn ausgerichtet wird, der dem Grad der Leistungsfähigkeit entspricht.[^38a-2]
 
-<sup>2</sup> Die Arbeitgeber überprüfen die Vereinbarung regelmässig. Sobald die angestellte Person die für die Erfüllung der Aufgaben erforderliche Leistungsfähigkeit erreicht hat, ist die Vereinbarung aufzuheben.[^38a-4]
+<sup>2</sup> Die Arbeitgeber überprüfen die Vereinbarung regelmässig. Sobald die angestellte Person die für die Erfüllung der Aufgaben erforderliche Leistungsfähigkeit erreicht hat, ist die Vereinbarung aufzuheben.[^38a-3]
 
 [^38a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^38a-2]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^38a-2]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^38a-3]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^38a-4]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 
 #### Art. 39
 
@@ -1116,9 +1136,9 @@ Die Lohnentwicklung der angestellten Person orientiert sich an einer Lohnentwick
 
 ### (Art. 15 BPG)
 
-Liegt der Lohn gemessen an anderen Löhnen zu tief, so kann ihn die zuständige Stelle nach Artikel 2 anpassen. Die Anpassung kann in einem oder mehreren Schritten vorgenommen werden und darf 10 Prozent des Höchstbetrags der Lohnklasse nach Arbeitsvertrag nicht übersteigen. Der angepasste Lohn darf den Höchstbetrag der Lohnklasse nicht übersteigen.
+Liegt der Lohn gemessen an anderen Löhnen zu tief, so kann ihn die zuständige Stelle nach Artikel 2 anpassen. Die Anpassung kann in einem oder mehreren Schritten vorgenommen werden und darf 10 Prozent des Ziellohnes der Lohnklasse nach Arbeitsvertrag nicht übersteigen. Der angepasste Lohn darf den Höchstbetrag der Lohnklasse nicht übersteigen.
 
-[^40-1]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^40-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 41
 
@@ -1142,13 +1162,9 @@ Die für die Festsetzung der Lohnentwicklung und der Leistungsprämien zuständi
 
 #### Art. 43
 
-**Ortszuschlag**
+[^43-1]
 
-### (Art. 15 BPG)
-
-<sup>1</sup> Zum Lohn wird ein Ortszuschlag ausgerichtet, der abgestuft ist nach den Lebenskosten, den Steuern sowie der Grösse und Lage des Arbeitsortes.
-
-<sup>2</sup> Der Ortszuschlag darf 6000 Franken nicht übersteigen.
+[^43-1]: Aufgehoben durch Ziff. I der V vom 3. Sept. 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 44
 
@@ -1163,24 +1179,26 @@ Die für die Festsetzung der Lohnentwicklung und der Leistungsprämien zuständi
 Der Teuerungsausgleich wird ausgerichtet auf:
 
 - a. den Lohn;
-- b. den Ortszuschlag;
+- b.[^44-1] …
 - c. die Vergütungen für Sonntags- und Nachtarbeit;
 - d. die Vergütungen für Pikettdienst;
 - e. die Funktionszulagen;
-- e<sup>bis</sup>.[^44-1] die Zulagen für Einsätze im Rahmen von festen Dienstplänen;
+- e<sup>bis</sup>.[^44-2] die Zulagen für Einsätze im Rahmen von festen Dienstplänen;
 - f. die Sonderzulagen;
 - g. die Arbeitsmarktzulage;
-- h.[^44-2] die ergänzenden Leistungen;
-- i.[^44-3] …
+- h.[^44-3] die ergänzenden Leistungen;
+- i.[^44-4] …
 
-<sup>3</sup> Die Höchstbeträge des Lohnes (Art. 36) und des Ortszuschlages (Art. 43) erhöhen sich jeweils um den Teuerungsausgleich.
+<sup>3</sup> Die Mindestbeträge, die Ziellöhne und die Höchstbeträge der Lohnklassen nach Artikel 36 erhöhen sich jeweils um den Teuerungsausgleich.[^44-5]
 
-<sup>4</sup> …[^44-4]
+<sup>4</sup> Das EFD passt die Mindestbeträge, die Ziellöhne und die Höchstbeträge nach Artikel 36 entsprechend dem Teuerungsausgleich an.[^44-6]
 
-[^44-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
-[^44-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44-3]: Eingefügt durch Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^44-4]: Aufgehoben durch Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, mit Wirkung seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^44-1]: Aufgehoben durch Ziff. I der V vom 3. Sept. 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44-2]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^44-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44-4]: Eingefügt durch Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^44-5]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44-6]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 44a
 
@@ -1199,15 +1217,18 @@ Keine Reallohnerhöhung erhalten Angestellte:
 - a. denen bei tieferer Funktionsbewertung der bisherige Lohn nominal garantiert ist; oder
 - b. deren Lohn den Höchstbetrag der Lohnklasse 38 erreicht hat.[^44a-4]
 
-<sup>4</sup> Die Reallohnerhöhung wird auf dem Lohn nach Artikel 36 und den Funktionszulagen nach Artikel 46 ausgerichtet. Die Höchstbeträge der Lohnklassen 1–37 erhöhen sich jeweils im Umfang der Reallohnerhöhungen.[^44a-5]
+<sup>4</sup> Die Reallohnerhöhung wird auf dem Lohn nach Artikel 36 und den Funktionszulagen nach Artikel 46 ausgerichtet. Die Mindestbeträge, die Ziellöhne und die Höchstbeträge der Lohnklassen 1–37 erhöhen sich jeweils im Umfang der Reallohnerhöhungenen.[^44a-5]
 
 <sup>5</sup> Ein zum gleichen Zeitpunkt des Inkrafttretens einer Reallohnerhöhung ausgerichteter Teuerungsausgleich nach Artikel 44 wird vor der Reallohnerhöhung vollzogen.
+
+<sup>6</sup> Das EFD passt die Mindestbeträge, die Ziellöhne und die Höchstbeträge nach Artikel 36 entsprechend der Reallohnerhöhung an.[^44a-6]
 
 [^44a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^44a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^44a-3]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^44a-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44a-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44a-5]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^44a-6]: Eingefügt durch Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 45
 
@@ -1229,15 +1250,17 @@ Vergütungen können ausgerichtet werden für:
 
 #### Art. 46
 
-**Funktionszulagen**
+**Funktionszulagen**[^46-1]
 
 ### (Art. 15 BPG)
 
-<sup>1</sup> An Angestellte, die Aufgaben mit besonderen Anforderungen und Beanspruchungen erfüllen, ohne dass eine dauerhafte Höhereinreihung gerechtfertigt ist, können Funktionszulagen ausgerichtet werden.
+<sup>1</sup> Angestellten, die vorübergehend Aufgaben mit höheren Anforderungen und Beanspruchungen erfüllen, ohne dass eine dauerhafte Höhereinreihung gerechtfertigt ist, kann eine Funktionszulage gewährt werden.
 
-<sup>2</sup> Die Funktionszulagen entsprechen höchstens dem Unterschied zwischen dem Höchstbetrag der Lohnklasse nach Arbeitsvertrag und dem Höchstbetrag der Lohnklasse der höher eingereihten Funktion.[^46-1]
+<sup>2</sup> Die Gewährung einer Funktionszulage für die vorübergehend ausgeübte Funktion setzt eine höhere Bewertung der Funktion durch die zuständige Bewertungsstelle nach Artikel 53 voraus.
 
-[^46-1]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+<sup>3</sup> Die Funktionszulage entspricht höchstens der Differenz zwischen dem Ziellohn der Lohnklasse gemäss dem Arbeitsvertrag und dem Ziellohn der höher bewerteten, vorübergehend ausgeübten Funktion.
+
+[^46-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 47
 
@@ -1297,11 +1320,11 @@ Für die sofortige Abgeltung besonderer Einsätze und Leistungen können Spontan
 
 ### (Art. 15 BPG)
 
-<sup>1</sup> Zur Gewinnung und Erhaltung ausgewiesenen Personals kann die zuständige Stelle nach Artikel 2 eine Arbeitsmarktzulage von bis zu 20 Prozent des Höchstbetrages der Lohnklasse nach Arbeitsvertrag gewähren. Die Arbeitsmarktzulage wird während längstens fünf Jahren gewährt.[^50-1]
+<sup>1</sup> Zur Gewinnung und Erhaltung ausgewiesenen Personals kann die zuständige Stelle nach Artikel 2 eine Arbeitsmarktzulage von bis zu 20 Prozent des Ziellohns der Lohnklasse nach Arbeitsvertrag gewähren. Die Arbeitsmarktzulage wird während längstens fünf Jahren gewährt.[^50-1]
 
 <sup>2</sup> Für die Gewährung der Zulage ist die Zustimmung des EFD erforderlich. Der Bundesrat entscheidet über die Gewährung der Zulage an Angestellte nach Artikel 2 Absatz 1.
 
-[^50-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^50-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 51
 
@@ -1369,32 +1392,39 @@ Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem mass
 
 <sup>2bis</sup> Ein aus Vertreterinnen und Vertretern der Departemente zusammengesetztes Koordinationsgremium unter der Leitung des EFD gibt zuhanden der Departemente Empfehlungen zu Funktionsbewertungen ab.[^52-1]
 
-<sup>3</sup> Massgebend für die Bewertung sind die erforderliche Vorbildung, der Umfang des Aufgabenkreises sowie das Mass der betrieblichen Anforderungen, Verantwortlichkeiten und Gefährdungen.
+<sup>3</sup> Massgebend für die Bewertung sind die erforderliche Vorbildung, die vorausgesetzte funktionsrelevante Erfahrung, der Umfang des Aufgabenkreises sowie das Mass der betrieblichen Anforderungen, Verantwortlichkeiten und Gefährdungen.[^52-2]
 
-<sup>4</sup> Das EFD sorgt dafür, dass in der Bundesverwaltung vergleichbare Funktionen gleichen Lohnklassen zugewiesen werden. Es bestimmt in Zusammenarbeit mit den anderen Departementen die Referenzfunktionen und weist diesen Lohnklassen zu. Die höchste Lohnklasse einer Referenzfunktion darf nur mit Zustimmung des EFD überschritten werden.[^52-2]
+<sup>4</sup> Das EFD sorgt dafür, dass in der Bundesverwaltung vergleichbare Funktionen gleichen Lohnklassen zugewiesen werden. Es bestimmt in Zusammenarbeit mit den anderen Departementen die Referenzfunktionen und weist diesen Lohnklassen zu. Die höchste Lohnklasse einer Referenzfunktion darf nur mit Zustimmung des EFD überschritten werden.[^52-3]
 
 <sup>5</sup> Die Departemente regeln im Einvernehmen mit dem EFD die Einreihung der Funktionen, die allein in ihrem Zuständigkeitsbereich liegen.
 
-<sup>6</sup> Die zuständige Stelle nach Artikel 2 kann bis 2 Prozent der Stellen der Lohnklassen 1–30 in Bezug auf die ordentliche Bewertung eine Klasse höher einreihen; Voraussetzung dafür ist eine durch die angestellte Person begründete Funktionserweiterung.[^52-3]
+<sup>6</sup> Die zuständige Stelle nach Artikel 2 kann bis 2 Prozent der Stellen der Lohnklassen 1–30 in Bezug auf die ordentliche Bewertung eine Klasse höher einreihen; Voraussetzung dafür ist eine durch die angestellte Person begründete Funktionserweiterung.[^52-4]
 
-<sup>7</sup> …[^52-4]
+<sup>7</sup> …[^52-5]
 
-<sup>7bis</sup> Fällt die Voraussetzung für die Höherbewertung nach Absatz 6 weg, so passt die zuständige Stelle nach Artikel 2 die Lohnklasse und den Lohn im Arbeitsvertrag an. Artikel 52*a* ist nicht anwendbar.[^52-5]
+<sup>7bis</sup> Fällt die Voraussetzung für die Höherbewertung nach Absatz 6 weg, so passt die zuständige Stelle nach Artikel 2 die Lohnklasse und den Lohn im Arbeitsvertrag an. Artikel 52*a* ist nicht anwendbar.[^52-6]
 
-<sup>8</sup> Für Personal, das sich in Ausbildung befindet oder aufgrund besonderer Verhältnisse angestellt wird, kann das EFD einen Maximallohn festlegen, der niedriger ist als der Höchstbetrag der Lohnklasse 1.[^52-6]
+<sup>8</sup> Für Personal, das sich in Ausbildung befindet oder aufgrund besonderer Verhältnisse angestellt wird, kann das EFD einen Maximallohn festlegen, der niedriger ist als der Höchstbetrag der Lohnklasse 1.[^52-7]
 
 [^52-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^52-2]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^52-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^52-4]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52-5]: Eingefügt durch Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^52-6]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^52-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^52-3]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^52-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^52-5]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
+[^52-6]: Eingefügt durch Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^52-7]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 52a
 
 **Tieferbewertung einer Funktion**[^52a-1]
 
-<sup>1</sup> Muss aus Gründen, die nicht bei der angestellten Person liegen, eine Funktion tiefer bewertet oder eine tiefer bewertete Funktion zugewiesen werden, so wird die Lohnklasse im Arbeitsvertrag angepasst. Übersteigt der Lohn den Höchstbetrag der neuen Lohnklasse, so bleibt er während zwei Jahren unverändert. Er wird während dieser Frist vom Teuerungsausgleich und von einer Lohnerhöhung nach Artikel 39 ausgenommen, bis er den Betrag nicht mehr übersteigt, der aufgrund der Funktionsbewertung gerechtfertigt ist. Nach spätestens zwei Jahren wird der Lohn an die neue Lohnklasse angepasst.
+<sup>1</sup> Muss aus Gründen, die nicht bei der angestellten Person liegen, eine Funktion tiefer bewertet oder der Person eine tiefer bewertete Funktion zugewiesen werden, so wird die Lohnklasse im Arbeitsvertrag angepasst. Der bisherige Lohn bleibt während zwei Jahren garantiert (Lohngarantie).[^52a-2]
+
+<sup>1bis</sup> Der Lohn bleibt während der Lohngarantie von der Lohnentwicklung, dem Teuerungsausgleich und der Reallohnerhöhung ausgenommen.[^52a-3]
+
+<sup>1ter</sup> Nach Ablauf der Lohngarantie wird der Lohn an die neue Lohnklasse angepasst. Das Verhältnis des neuen Lohns zum Höchstbetrag der neuen Lohnklasse entspricht dem Verhältnis des bisherigen Lohns zum Höchstbetrag der bisherigen Lohnklasse im Zeitpunkt der Tieferbewertung.[^52a-4]
+
+<sup>1quater</sup> Führt ein Teuerungsausgleich oder eine Reallohnerhöhung dazu, dass die Lohnposition in der neuen Lohnklasse nach Absatz 1<sup>ter</sup> den garantierten Lohn vor Ablauf der Lohngarantie übersteigt, so wird der Lohn an die neue Lohnklasse angepasst.[^52a-5]
 
 <sup>2</sup>
 
@@ -1406,6 +1436,10 @@ Abweichend von Absatz 1 beträgt die Frist für die Anpassung des Lohnes an die 
 <sup>3</sup> Der Bundesrat kann den Lohn einer angestellten Person, die vor der Neubewertung ihrer Funktion oder der Zuweisung einer neuen Funktion das 55. Altersjahr vollendet hat und in der Lohnklasse 32 oder höher eingereiht war, nach zwei Jahren anpassen, sofern der Höchstbetrag der neuen Lohnklasse mehr als 10 Prozent unter demjenigen der bisherigen Lohnklasse liegt.
 
 [^52a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^52a-2]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-3]: Eingefügt durch Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-4]: Eingefügt durch Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^52a-5]: Eingefügt durch Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 52b
 
@@ -1437,14 +1471,14 @@ Bewertungsstellen für die Funktionen in der Bundesverwaltung sind:
 
 <sup>2</sup> Die Departemente können die Bewertungskompetenzen für die Funktionen der Klassen 1–31 ganz oder teilweise an das EPA delegieren.[^53-2]
 
-[^53-1]: Fassung gemäss Ziff. I der V vom 24. Jan. 2007, in Kraft seit 1. Jan. 2007 ([AS 2007 271](https://fedlex.data.admin.ch/eli/oc/2007/52)[869](https://fedlex.data.admin.ch/eli/oc/2007/157)).
+[^53-1]: Fassung gemäss Ziff. I der V vom 24. Jan. 2007, in Kraft seit 1. Jan. 2007 ([AS 2007 271](https://fedlex.data.admin.ch/eli/oc/2007/52), [869](https://fedlex.data.admin.ch/eli/oc/2007/157)).
 [^53-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 
 #### Art. 54–55
 
 [^5455-1]
 
-[^5455-1]: Aufgehoben durch Ziff. I der V vom 24. Jan. 2007, mit Wirkung seit 1. Jan. 2007 ([AS 2007 271](https://fedlex.data.admin.ch/eli/oc/2007/52)[869](https://fedlex.data.admin.ch/eli/oc/2007/157)).
+[^5455-1]: Aufgehoben durch Ziff. I der V vom 24. Jan. 2007, mit Wirkung seit 1. Jan. 2007 ([AS 2007 271](https://fedlex.data.admin.ch/eli/oc/2007/52), [869](https://fedlex.data.admin.ch/eli/oc/2007/157)).
 
 ### 4. Abschnitt: Sozialleistungen
 
@@ -1486,12 +1520,13 @@ Bewertungsstellen für die Funktionen in der Bundesverwaltung sind:
 
 <sup>4</sup> Bei einem Übertritt in eine andere Verwaltungseinheit nach Artikel 1 Absatz 1 im Rahmen einer Eingliederungsmassnahme nach Artikel 11*a* beginnen die Fristen nach Artikel 56 Absätze 1 und 2 nicht neu zu laufen.
 
-<sup>5</sup> Wird einer angestellten Person nach Artikel 31*a* Absatz 5 gekündigt, so besteht die Lohnfortzahlungspflicht nach Artikel 56 Absätze 1 und 2 so lange weiter, wie sie nach dem gekündigten Arbeitsverhältnis gedauert hätte. Der Lohn nach dem neuen Arbeitsverhältnis und die finanziellen Leistungen der Invalidenversicherung sowie von PUBLICA werden dabei angerechnet.
+<sup>5</sup> Wird einer angestellten Person nach Artikel 31*a* Absatz 5 gekündigt, so besteht die Lohnfortzahlungspflicht nach Artikel 56 Absätze 1 und 2 so lange weiter, wie sie nach dem gekündigten Arbeitsverhältnis gedauert hätte. Der Lohn nach dem neuen Arbeitsverhältnis sowie die finanziellen Leistungen der Invalidenversicherung und der Pensionskasse des Bundes (Publica) werden dabei angerechnet.[^56a-3]
 
 <sup>6</sup> Bei befristeten Arbeitsverhältnissen endet die Lohnfortzahlung nach Artikel 56 Absätze 1 und 2 spätestens mit dem Ende des Arbeitsverhältnisses.
 
 [^56a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^56a-2]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^56a-3]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 56b
 
@@ -1707,6 +1742,112 @@ Das EFD hat folgende Aufgaben:
 - b. Es regelt die Ausrichtung einmaliger Beiträge.
 - c. Es bezeichnet die für die Ausrichtung der Leistungen des Arbeitgebers zuständige Stelle.
 
+#### Art. 63a
+
+**Beteiligung am Einkauf**[^63a-1]
+
+### (Art. 32 Bst. a BPG)
+
+Die zuständige Stelle nach Artikel 2 kann sich zulasten ihrer Personalkredite am reglementarischen Einkauf beteiligen, sofern bei Neuanstellungen der Vorsorgeschutz gemessen an der Funktion und Qualifikation der anzustellenden Person als unangemessen gering erscheint.
+
+[^63a-1]: Ursprünglich Art. 88*c*. Eingefügt durch Ziff. I der V vom 15. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379); [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+
+#### Art. 63b
+
+**Urlaub**[^63b-1]
+
+### (Art. 17*a* und 31 Abs. 5 BPG)
+
+[^63b-2]
+
+<sup>1</sup> Während eines unbezahlten oder teilweise bezahlten Urlaubs bleibt der Versicherungsschutz während mindestens zwei Monaten unverändert.
+
+<sup>2</sup> Gewährt die zuständige Stelle nach Artikel 2 einen unbezahlten oder teilweise bezahlten Urlaub von mehr als zwei Monaten, so vereinbart sie mit der angestellten Person vor Urlaubsantritt, ob und wie die Versicherung und die Beitragspflicht ab dem dritten Urlaubsmonat weiter bestehen sollen.
+
+<sup>3</sup> Übernimmt die zuständige Stelle nach Artikel 2 ab dem dritten Urlaubsmonat die Arbeitgeberbeiträge oder den Risikobeitrag[^63b-3] nicht mehr, so meldet sie den Urlaub Publica[^63b-4]. Die angestellte Person kann den bisherigen Versicherungsschutz aufrechterhalten, indem sie nebst den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers und den Risikobeitrag bezahlt, oder die Versicherung auf die Risiken Tod und Invalidität beschränken.
+
+<sup>4</sup> Die während des Urlaubs von der angestellten Person geschuldeten Beiträge werden ihr nach der Wiederaufnahme der Arbeit vom Lohn abgezogen.
+
+[^63b-1]: Ursprünglich Art. 88*d*. Eingefügt durch Ziff. I der V vom 15. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379); [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
+[^63b-2]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^63b-3]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^63b-4]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 63c
+
+**Weiterführung der Vorsorge nach einer Lohnreduktion**[^63c-1]
+
+<sup>1</sup> Wird der versicherbare Lohn einer angestellten Person nach dem 58. Altersjahr um höchstens die Hälfte reduziert, so kann auf ihr Verlangen die Vorsorge für den bisherigen Versicherungsschutz aufrechterhalten werden (Art. 33a des Bundesgesetzes vom 25. Juni 1982[^63c-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge [BVG]), indem die angestellte Person neben den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers und den Risikobeitrag auf dem der Lohnreduktion entsprechenden Anteil des bisherigen versicherten Verdienstes bezahlt.
+
+<sup>2</sup> Bei generellen Lohnanpassungen, namentlich bei Reallohnerhöhungen und generellen Einreihungskorrekturen, verändern sich die bezahlten Beiträge auf dem der Lohnreduktion entsprechenden Anteil nicht.[^63c-3]
+
+<sup>3</sup> Wird der Lohn im Interesse der zuständigen Stelle nach Artikel 2 reduziert, so kann sie sich zulasten der Personalkredite bis höchstens zur Hälfte an den Sparbeiträgen und am Risikobeitrag für die Weiterführung der Vorsorge beteiligen. Die Kostenbeteiligung kann befristet werden. [^63c-4]
+
+[^63c-1]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63c-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^63c-3]: Ursprünglich Art. 88*d*<sup>bis</sup> Abs. 2. Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^63c-4]: Ursprünglich Art. 88*d*<sup>bis</sup> Abs. 3. Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+
+#### Art. 63d
+
+**[Weiterführung der Vorsorge nach Vollendung des 65. Altersjahres](https://www.fedlex.admin.ch/eli/cc/2001/319/de)**[^63d-1]
+
+Vereinbaren der Arbeitgeber und die angestellte Person eine Fortsetzung des Anstellungsverhältnisses über das 65. Altersjahr hinaus, so kann auf Verlangen der angestellten Person ihre Altersvorsorge bis zum Ende der Erwerbstätigkeit, höchstens jedoch bis zur Vollendung des 70. Altersjahres weitergeführt werden (Art. 33*b* BVG[^63d-2]). In diesem Fall finanziert die zuständige Stelle nach Artikel 2 die Sparbeiträge des Arbeitgebers.
+
+[^63d-1]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63d-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+
+#### Art. 63e
+
+**Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente**[^63e-1]
+
+<sup>1</sup> Personen, die sich vor dem Erreichen des Referenzalters nach Artikel 21 AHVG[^63e-2] pensionieren lassen, können eine Überbrückungsrente beziehen.[^63e-3]
+
+<sup>2</sup>
+
+Der Arbeitgeber beteiligt sich an der Finanzierung der Überbrückungsrente, wenn die angestellte Person:
+
+- a. freiwillig ganz oder teilweise pensioniert wird;
+- b. das 62. Altersjahr vollendet hat;
+- c. unmittelbar vor der Pensionierung mindestens fünf Jahre bei Arbeitgebern nach Artikel 2 Absatz 1 Buchstaben f oder g BPG oder in Verwaltungseinheiten nach Artikel 1 gearbeitet hat;
+- d. in einer Funktion tätig war, die während mindestens fünf Jahren mit einer andauernd hohen physischen oder psychischen Belastung verbunden ist; und
+- e. die Ausrichtung einer ganzen oder halben Überbrückungsrente verlangt.[^63e-4]
+
+<sup>3</sup>
+
+Tätigkeiten mit einer andauernd hohen physischen oder psychischen Belastung nach Absatz 1<sup>bis</sup> Buchstabe d liegen in den folgenden Fällen vor:
+
+- a. Tätigkeiten mit physikalischen, chemischen oder biologische Einflüssen, die zu einer Gesundheitsgefährdung führen können;
+- b. Tätigkeiten in einer schwierigen Arbeitsumgebung, namentlich bei extremen Temperaturen, rauen klimatischen Bedingungen oder schlechten Lichtverhältnissen;
+- c. Tätigkeiten mit erhöhten Belastungen für den Bewegungsapparat;
+- d. Tätigkeiten mit einer erhöhten Unfallgefahr;
+- e. stark repetitive, einseitige oder emotional belastende Tätigkeiten, die zu einer hohen psychischen Belastung führen können;
+- f. Tätigkeiten mit belastenden Arbeitszeiten, wie Einsätze im Rahmen von festen Dienstplänen (Art. 10*b*) oder Nachtarbeit.[^63e-5]
+
+<sup>4</sup> Das EFD legt im Einvernehmen mit den Departementen die Funktionen fest, bei deren Ausübung ein Anspruch auf Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente besteht.[^63e-6]
+
+<sup>5</sup> Die Höhe der ganzen Überbrückungsrente richtet sich nach dem Vorsorgereglement vom 15. Juni 2007[^63e-7] für die Angestellten und Rentenbeziehenden des Vorsorgewerks Bund (VRAB).
+
+<sup>6</sup> Bei der Berechnung der versicherungstechnischen Kosten einer Überbrückungsrente werden die Anzahl Anstellungsjahre, der durchschnittliche Beschäftigungsgrad während der Anstellungsjahre und der prozentuale Anteil der zu beziehenden reglementarischen Altersrente berücksichtigt.[^63e-8]
+
+<sup>7</sup> Für die Berechnung der Anstellungsjahre und des durchschnittlichen Beschäftigungsgrades zählen die Arbeitsverhältnisse bei Arbeitgebern nach Artikel 2 Absatz 1 Buchstaben f und g BPG sowie in Verwaltungseinheiten nach Artikel 1, sofern sie nicht während mehr als drei Jahren unterbrochen werden. Angebrochene Anstellungsjahre werden nach Vollendung des sechsten Monats als ganze Anstellungsjahre angerechnet. Die Lehrzeit nach der Gesetzgebung über die Berufsbildung und die damit verbundenen Praktika werden nicht berücksichtigt.[^63e-9]
+
+<sup>8</sup> Die prozentuale Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente richtet sich nach Anhang 1. Sie wird bei einer vorzeitigen Pensionierung nach dem vollendeten 62. Altersjahr für jedes Jahr, das bis zum vollendeten 25. Anstellungsjahr fehlt, um einen Fünfundzwanzigstel gekürzt.[^63e-10]
+
+<sup>9</sup> Die Verwaltungseinheit, bei der die angestellte Person unmittelbar vor der vorzeitigen Pensionierung gearbeitet hat, prüft die Anspruchsvoraussetzungen und berechnet den durchschnittlichen Beschäftigungsgrad dieser Person.[^63e-11]
+
+[^63e-1]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^63e-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^63e-3]: Ursprünglich Art. 88*f* Abs. 1. Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^63e-4]: Ursprünglich Art. 88*f* Abs. 1<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-5]: Ursprünglich Art. 88*f* Abs. 1<sup>ter</sup>. Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-6]: Ursprünglich Art. 88*f* Abs. 1<sup>quater</sup>. Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^63e-7]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^63e-8]: Ursprünglich Art. 88*f* Abs. 3. Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^63e-9]: Ursprünglich Art. 88*f* Abs. 4. Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^63e-10]: Ursprünglich Art. 88*f* Abs. 5. Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^63e-11]: Ursprünglich Art. 88*f* Abs. 6. Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+
 ### 5. Abschnitt: Arbeitszeit, Ferien, Urlaub
 
 #### Art. 64
@@ -1865,17 +2006,18 @@ Die Angestellten haben pro Kalenderjahr Anspruch auf Ferien von:
 - a. 6 Wochen bis und mit dem Kalenderjahr, in dem sie das 20. Altersjahr vollenden;
 - b. 5 Wochen vom Beginn des Kalenderjahres an, in dem sie das 21. Altersjahr vollenden;
 - c. 6 Wochen vom Beginn des Kalenderjahres an, in dem sie das 50. Altersjahr vollenden;
-- d. 7 Wochen vom Beginn des Kalenderjahres an, in dem sie das 60. Altersjahr vollenden.[^67-2]
+- d.[^67-2] 6 Wochen und 2 Tagen vom Beginn des Kalenderjahres an, in dem sie das 60. Altersjahr vollenden.[^67-3]
 
 <sup>2</sup> Ferien sind derart anzusetzen, dass der Ablauf der Arbeiten nicht beeinträchtigt und die Erholung gewährleistet wird.
 
 <sup>3</sup> Ferien sind in dem Kalenderjahr zu beziehen, in welchem der Anspruch entsteht. Ist dies aus zwingenden betrieblichen Gründen oder wegen Krankheit oder Unfall nicht möglich, so sind sie im Folgejahr zu beziehen.
 
-<sup>4</sup> …[^67-3]
+<sup>4</sup> …[^67-4]
 
 [^67-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^67-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^67-3]: Eingefügt durch Ziff. I der V vom 1. Mai 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)). Aufgehoben durch Ziff. I der V vom 12. Juni 2015, mit Wirkung seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^67-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^67-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^67-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)). Aufgehoben durch Ziff. I der V vom 12. Juni 2015, mit Wirkung seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 67a
 
@@ -1996,25 +2138,18 @@ Das EFD regelt die Vergütungen für:
 
 <sup>1</sup> Nach 10 Anstellungsjahren und jeweils nach 5 weiteren Anstellungsjahren wird bis zur Vollendung des 45. Anstellungsjahres eine Treueprämie ausgerichtet.[^73-1]
 
-<sup>2</sup>
+<sup>2</sup> Die Treueprämie besteht aus der Hälfte des Monatslohns nach zehn und nach jeweils fünf weiteren Anstellungsjahren.[^73-2]
 
-Die Treueprämie besteht aus:
-
-- a.[^73-2] …
-- b. der Hälfte des Monatslohns nach zehn und nach 15 Anstellungsjahren;
-- c. einem Monatslohn nach jeweils fünf weiteren Anstellungsjahren.[^73-3]
-
-<sup>3</sup> Die Treueprämie wird grundsätzlich als Barbetrag ausgerichtet. Die Angestellten können sie im Einvernehmen mit den Vorgesetzten ausnahmsweise ganz oder zur Hälfte als bezahlten Urlaub beziehen.[^73-4]
+<sup>3</sup> Die Treueprämie wird grundsätzlich als Barbetrag ausgerichtet. Die Angestellten können sie im Einvernehmen mit den Vorgesetzten ausnahmsweise ganz oder zur Hälfte als bezahlten Urlaub beziehen.[^73-3]
 
 <sup>4</sup> Die zuständige Stelle nach Artikel 2 kann die Treueprämie Angestellten, deren Leistungen oder Verhalten nur teilweise genügen, ganz oder teilweise verweigern.
 
-<sup>5</sup> Für die Berechnung der Anzahl Anstellungsjahre zählen unabhängig vom Beschäftigungsgrad die ununterbrochenen Arbeitsverhältnisse bei Arbeitgebern nach Artikel 2 Absatz 1 Buchstaben f und g BPG sowie in Verwaltungseinheiten nach Artikel 1. Die Lehrzeit nach der Gesetzgebung über die Berufsbildung und die damit verbundenen Praktika werden nicht berücksichtigt.[^73-5]
+<sup>5</sup> Für die Berechnung der Anzahl Anstellungsjahre zählen unabhängig vom Beschäftigungsgrad die ununterbrochenen Arbeitsverhältnisse bei Arbeitgebern nach Artikel 2 Absatz 1 Buchstaben f und g BPG sowie in Verwaltungseinheiten nach Artikel 1. Die Lehrzeit nach der Gesetzgebung über die Berufsbildung und die damit verbundenen Praktika werden nicht berücksichtigt.[^73-4]
 
 [^73-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3155](https://fedlex.data.admin.ch/eli/oc/2015/589)).
-[^73-2]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3155](https://fedlex.data.admin.ch/eli/oc/2015/589)).
-[^73-3]: Fassung gemäss Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
-[^73-4]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^73-5]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^73-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^73-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^73-4]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 74
 
@@ -2411,163 +2546,190 @@ Als internationale Organisationen im Sinne dieser Bestimmung gelten:
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
-
-### 1. Abschnitt: Massgebender Lohn
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 88a
 
-**Versicherbarer Lohn**
+**Geltungsbereich**
 
-### (Art. 32*g* Abs. 5 BPG)
+### (Art. 32*d* Abs. 1 und Art. 32*g* Abs. 2 BPG)
 
-<sup>1</sup> Bei PUBLICA versichert werden im Rahmen der reglementarischen Bestimmungen der Lohn sowie die Lohnbestandteile nach Anhang 2. Nicht versichert werden die Leistungen des Arbeitgebers nach den Artikeln 81–83.[^88a-1]
-
-<sup>2</sup> Wird einer angestellten Person nach Artikel 52*a* keine Teuerungszulage ausgerichtet oder wird ihr Lohn nach Artikel 56 Absatz 2 herabgesetzt, so bleibt der bisherige versicherbare Lohn bis zu dem Zeitpunkt unverändert, in dem die Teuerungszulage wieder ausgerichtet wird oder der Lohnanspruch bei Krankheit oder Unfall erlischt.[^88a-2]
-
-<sup>3</sup> …[^88a-3]
-
-<sup>4</sup> …[^88a-4]
-
-[^88a-1]: Fassung gemäss Ziff. II 3 der V über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^88a-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^88a-3]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88a-4]: Aufgehoben durch Ziff. I der V vom 12. Okt. 2016, mit Wirkung seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
+Dieses Kapitel gilt für Arbeitgeber, die dem Vorsorgewerk Bund angeschlossen sind.
 
 #### Art. 88b
 
-**Meldung**
+**Versicherung der angestellten Personen**
 
-### (Art. 32*g* Abs. 5 BPG)
+### (Art. 32*i* Abs. 1 und Art. 32*j* Abs. 1 BPG)
 
-Der versicherbare Lohn wird PUBLICA von der zuständigen Stelle nach Artikel 2 als massgebender Lohn gemeldet.
+<sup>1</sup>
 
-### 2. Abschnitt: Leistungen des Arbeitgebers
+Die angestellten Personen werden wie folgt versichert:
+
+- a. ab dem 1. Januar nach Vollendung des 17. Altersjahres: für die Risiken Tod und Invalidität;
+- b. ab dem 1. Januar nach Vollendung des 21. Altersjahres: auch für das Alter.
+
+<sup>2</sup> Absatz 1 gilt auch für Personen, die bereits für eine hauptberufliche Erwerbstätigkeit obligatorisch versichert sind.
+
+<sup>3</sup> Die Versicherung erfolgt nach dem VRAB[^88b-1].
+
+[^88b-1]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 
 #### Art. 88c
 
-**Beteiligung am Einkauf**
+**Nicht versicherte Personen**
 
-### (Art. 32 Bst. a BPG)
+Nicht versichert werden:
 
-Die zuständige Stelle nach Artikel 2 kann sich zulasten ihrer Personalkredite am reglementarischen Einkauf beteiligen, sofern bei Neuanstellungen der Vorsorgeschutz gemessen an der Funktion und Qualifikation der anzustellenden Person als unangemessen gering erscheint.
+- a. angestellte Personen mit einem befristeten Arbeitsvertrag von höchstens drei Monaten; vorbehalten ist Artikel 1*k* der Verordnung vom 18. April 1984[^88c-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge;
+- b. angestellte Personen, die nebenberuflich tätig sind und im Hauptberuf eine selbstständige Erwerbstätigkeit ausüben;
+- c. Personen, die nach dem Bundesgesetz vom 19. Juni 1959[^88c-2] über die Invalidenversicherung zu mindestens 70 Prozent invalid sind;
+- d. Personen, die nach Artikel 26*a* BVG[^88c-3] bei der leistungspflichtigen Vorsorgeeinrichtung provisorisch weiterversichert werden;
+- e. vom EDA im Ausland privatrechtlich angestellte, nicht versetzbare Personen, für die das EDA gegenüber der Alters- und Hinterlassenenversicherung nicht beitragspflichtig ist;
+- f. Personen, die das Referenzalter erreicht haben; Artikel 63*d* bleibt vorbehalten.
+
+[^88c-1]: [SR 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
+[^88c-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^88c-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 88d
 
-**Urlaub**
+**Ende der Versicherung**
 
-### (Art. 17*a* und 31 Abs. 5 BPG)
+<sup>1</sup>
 
-[^88d-1]
+Die Versicherung endet, wenn:
 
-<sup>1</sup> Während eines unbezahlten oder teilweise bezahlten Urlaubs bleibt der Versicherungsschutz während mindestens zwei Monaten unverändert.
+- a. das Arbeitsverhältnis endet, es sei denn, es besteht in diesem Zeitpunkt ein Anspruch auf Alters- oder Invalidenleistungen und die Versicherung wird nach den reglementarischen Bestimmungen weitergeführt;
+- b. das Referenzalter erreicht wird; Artikel 63*d* und die reglementarischen Bestimmungen bleiben vorbehalten.
 
-<sup>2</sup> Gewährt die zuständige Stelle nach Artikel 2 einen unbezahlten oder teilweise bezahlten Urlaub von mehr als zwei Monaten, so vereinbart sie mit der angestellten Person vor Urlaubsantritt, ob und wie die Versicherung und die Beitragspflicht ab dem dritten Urlaubsmonat weiter bestehen sollen.
+<sup>2</sup>
 
-<sup>3</sup> Übernimmt die zuständige Stelle nach Artikel 2 ab dem dritten Urlaubsmonat die Arbeitgeberbeiträge oder die Risikoprämie nicht mehr, so meldet sie den Urlaub PUBLICA. Die angestellte Person kann den bisherigen Versicherungsschutz aufrechterhalten, indem sie nebst den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers und die Risikoprämie bezahlt, oder die Versicherung auf die Risiken Tod und Invalidität beschränken.
+Für die Risiken Tod und Invalidität bleibt die betroffene Person für die folgende Dauer versichert:
 
-<sup>4</sup> Die während des Urlaubs von der angestellten Person geschuldeten Beiträge werden ihr nach der Wiederaufnahme der Arbeit vom Lohn abgezogen.
+- a. während eines Monats nach Beendigung des Arbeitsverhältnisses;
+- b. während höchstens zehn Monaten nach Ende der Lohnfortzahlung, wenn das Arbeitsverhältnis noch andauert; der Risikobeitrag wird der angestellten Person anteilsmässig in Rechnung gestellt.
 
-[^88d-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+<sup>3</sup> Ist im Fall von Absatz 2 Buchstabe b die Beendigung des Arbeitsverhältnisses strittig, so bleibt Artikel 10 der Arbeitslosenversicherungsverordnung vom 31. August 1983[^88d-1] vorbehalten.
 
-#### Art. 88d<sup>bis</sup>
-
-**Weiterführung der Vorsorge nach Lohnreduktion**[^88dbis-1]
-
-<sup>1</sup> Wird der versicherbare Lohn einer angestellten Person nach dem 58. Altersjahr um höchstens die Hälfte reduziert, so kann auf ihr Verlangen die Vorsorge für den bisherigen Versicherungsschutz aufrechterhalten werden (Art. 33*a* BVG[^88dbis-2]), indem sie neben den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers und die Risikoprämie auf dem der Lohnreduktion entsprechenden Anteil des bisherigen versicherten Verdienstes bezahlt.
-
-<sup>2</sup> Bei generellen Lohnanpassungen, namentlich bei Reallohnerhöhungen und generellen Einreihungskorrekturen, verändern sich die bezahlten Beiträge auf dem der Lohnreduktion entsprechenden Anteil nicht.
-
-<sup>3</sup> Wird der Lohn im Interesse der zuständigen Stelle nach Artikel 2 reduziert, so kann sie sich zulasten der Personalkredite bis höchstens zur Hälfte an den Sparbeiträgen und an der Risikoprämie für die Weiterführung der Vorsorge beteiligen. Die Kostenbeteiligung kann befristet werden.
-
-[^88dbis-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dbis-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-
-#### Art. 88d<sup>ter</sup>
-
-**Weiterführung der Vorsorge nach Vollendung des 65. Altersjahres**[^88dter-1]
-
-Vereinbaren der Arbeitgeber und die angestellte Person eine Fortsetzung des Anstellungsverhältnisses über das 65. Altersjahr hinaus, so kann auf Verlangen der angestellten Person ihre Altersvorsorge bis zum Ende der Erwerbstätigkeit, höchstens jedoch bis zur Vollendung des 70. Altersjahres weitergeführt werden (Art. 33 BVG[^88dter-2]). In diesem Fall finanziert die zuständige Stelle die Sparbeiträge des Arbeitgebers.
-
-[^88dter-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dter-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^88d-1]: [SR 837.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10284)
 
 #### Art. 88e
 
-[^88e-1]
+**Massgebender Jahreslohn**
 
-[^88e-1]: Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+### (Art. 32*g* Abs. 5 BPG)
+
+<sup>1</sup> Versichert werden der Lohn sowie die Lohnbestandteile nach Anhang 2. Nicht versichert werden die Leistungen des Arbeitgebers nach den Artikeln 81–83.
+
+<sup>2</sup> Wird einer angestellten Person aufgrund der Tieferbewertung ihrer Funktion (Art. 52*a*) keine Teuerungszulage ausgerichtet oder wird ihr Lohn aufgrund einer Arbeitsverhinderung herabgesetzt (Art. 56 Abs. 1 und 2), so bleibt der bisherige massgebende Jahreslohn bis zu dem Zeitpunkt unverändert, in dem die Teuerungszulage wieder ausgerichtet wird oder der Lohnanspruch bei Krankheit oder Unfall erlischt.
+
+<sup>3</sup> Bei teilzeitbeschäftigten Angestellten entspricht der massgebende Jahreslohn dem Lohn, der bei einem Beschäftigungsgrad von 100 Prozent erzielt würde.
+
+<sup>4</sup> Verfügt eine Person über mehrere Anstellungen beim gleichen Arbeitgeber des Vorsorgewerks Bund, so wird der gesamte Lohn berücksichtigt.
+
+<sup>5</sup> Arbeitgeber, die den Lohn nach ihren eigenen Personalerlassen regeln, müssen in ihren Personalerlassen die Lohnbestandteile analog zu Anhang 2 aufführen.
 
 #### Art. 88f
 
-**Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente**[^88f-1]
+**Versicherter Verdienst**
 
-### (Art. 32*k* BPG)
+### (Art. 32*g* Abs. 6 und 7 BPG)
 
-<sup>1</sup> Personen, die sich vor dem Erreichen des Referenzalters nach Artikel 21 AHVG[^88f-2] pensionieren lassen, können eine Überbrückungsrente beziehen.[^88f-3]
+<sup>1</sup> Der versicherte Verdienst entspricht dem massgebenden Jahreslohn, vermindert um den Koordinationsbetrag und umgerechnet auf den für die Versicherung massgebenden Beschäftigungsgrad.
 
-<sup>1bis</sup>
+<sup>2</sup> Der Koordinationsbetrag entspricht 30 Prozent des massgebenden Jahreslohns, höchstens aber dem unteren Grenzbetrag nach Artikel 8 Absatz 1 BVG[^88f-1].
 
-Der Arbeitgeber beteiligt sich an der Finanzierung der Überbrückungsrente, wenn die angestellte Person:
+[^88f-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
-- a. freiwillig ganz oder teilweise pensioniert wird;
-- b. das 62. Altersjahr vollendet hat;
-- c. unmittelbar vor der Pensionierung mindestens fünf Jahre bei Arbeitgebern nach Artikel 2 Absatz 1 Buchstaben f oder g BPG oder in Verwaltungseinheiten nach Artikel 1 gearbeitet hat;
-- d. in einer Funktion tätig war, die während mindestens fünf Jahren mit einer andauernd hohen physischen oder psychischen Belastung verbunden ist; und
-- e. die Ausrichtung einer ganzen oder halben Überbrückungsrente verlangt.[^88f-4]
+#### Art. 88g
 
-<sup>1ter</sup>
+**Sparbeiträge**
 
-Tätigkeiten mit einer andauernd hohen physischen oder psychischen Belastung nach Absatz 1<sup>bis</sup> Buchstabe d liegen in den folgenden Fällen vor:
+<sup>1</sup> Die Berechnung der Sparbeiträge erfolgt auf der Grundlage des versicherten Verdiensts.
 
-- a. Tätigkeiten mit physikalischen, chemischen oder biologische Einflüssen, die zu einer Gesundheitsgefährdung führen können;
-- b. Tätigkeiten in einer schwierigen Arbeitsumgebung, namentlich bei extremen Temperaturen, rauen klimatischen Bedingungen oder schlechten Lichtverhältnissen;
-- c. Tätigkeiten mit erhöhten Belastungen für den Bewegungsapparat;
-- d. Tätigkeiten mit einer erhöhten Unfallgefahr;
-- e. stark repetitive, einseitige oder emotional belastende Tätigkeiten, die zu einer hohen psychischen Belastung führen können;
-- f. Tätigkeiten mit belastenden Arbeitszeiten, wie Einsätze im Rahmen von festen Dienstplänen (Art. 10*b*) oder Nachtarbeit.[^88f-5]
+<sup>2</sup> Die ordentlichen Sparbeiträge werden dem Altersguthaben gutgeschrieben.
 
-<sup>1quater</sup> Das EFD legt im Einvernehmen mit den Departementen die Funktionen fest, bei deren Ausübung ein Anspruch auf Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente besteht.[^88f-6]
+#### Art. 88h
 
-<sup>2</sup> Die ganze Überbrückungsrente entspricht höchstens der maximalen einfachen AHV-Altersrente.
+**Vorsorgepläne**
 
-<sup>3</sup> Bei der Berechnung der versicherungstechnischen Kosten einer Überbrückungsrente werden die Anzahl Anstellungsjahre, der durchschnittliche Beschäftigungsgrad während der Anstellungsjahre und der prozentuale Anteil der zu beziehenden reglementarischen Altersrente berücksichtigt.
+### (Art. 32*g* Abs. 4 BPG)
 
-<sup>4</sup> Für die Berechnung der Anstellungsjahre und des durchschnittlichen Beschäftigungsgrades zählen die Arbeitsverhältnisse bei Arbeitgebern nach Artikel 2 Absatz 1 Buchstaben f und g BPG sowie in Verwaltungseinheiten nach Artikel 1, sofern sie nicht während mehr als drei Jahren unterbrochen werden. Angebrochene Anstellungsjahre werden nach Vollendung des sechsten Monats als ganze Anstellungsjahre angerechnet. Die Lehrzeit nach der Gesetzgebung über die Berufsbildung und die damit verbundenen Praktika werden nicht berücksichtigt.[^88f-7]
+<sup>1</sup>
 
-<sup>5</sup> Die prozentuale Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente richtet sich nach Anhang 1. Sie wird bei einer vorzeitigen Pensionierung nach dem vollendeten 62. Altersjahr für jedes Jahr, das bis zum vollendeten 25. Anstellungsjahr fehlt, um einen Fünfundzwanzigstel gekürzt.
+Die angestellten Personen sind wie folgt versichert:
 
-<sup>6</sup> Die Verwaltungseinheit, bei der die angestellte Person unmittelbar vor der vorzeitigen Pensionierung gearbeitet hat, prüft die Anspruchsvoraussetzungen und berechnet den durchschnittlichen Beschäftigungsgrad dieser Person.
+- a. bis Lohnklasse 23 im Standardplan;
+- b. ab Lohnklasse 24 im Kaderplan.
 
-[^88f-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88f-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^88f-3]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^88f-4]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-6]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
-[^88f-7]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+<sup>2</sup> Die Beiträge sind in Anhang 4 festgelegt.
 
-### 3. Abschnitt: …
+<sup>3</sup> Angestellte Personen von Arbeitgebern, die den Lohn nach ihren eigenen Personalerlassen regeln, sind gemäss dem Personalerlass ihres Arbeitgebers im Standardplan oder Kaderplan versichert.
 
-#### Art. 88g–88j
+#### Art. 88i
 
-[^88g88j-1]
+**Vorsorgepläne für Angehörige der besonderenPersonalkategorien**
 
-[^88g88j-1]: Aufgehoben durch Art. 7 der V vom 20. Febr. 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien, mit Wirkung seit 1. Juli 2013 ([AS 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Siehe jedoch die UeB in Art. 8 dieser V.
+### (Art. 32*g* Abs. 4 BPG)
 
-### 4. Abschnitt: …
+<sup>1</sup>
+
+Erhalten Angehörige der besonderen Personalkategorien zusätzliche Sparbeiträge des Arbeitgebers nach Artikel 3 der Verordnung vom 20. Februar 2013[^88i-1] über die Pensionierung von Angehörigen der besonderen Personalkategorien, so sind sie wie folgt versichert:
+
+- a. bis Lohnklasse 23 im Standardplan;
+- b. ab Lohnklasse 24 im Kaderplan.
+
+<sup>2</sup> Die Beiträge sind in Anhang 5 festgelegt.
+
+<sup>3</sup> Die ordentlichen Sparbeiträge werden dem Altersguthaben gutgeschrieben, die zusätzlichen Sparbeiträge dem Sondersparguthaben.
+
+[^88i-1]: [SR 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
+
+#### Art. 88j
+
+**Risikobeitrag**
+
+<sup>1</sup> Die Berechnung des Risikobeitrags erfolgt auf der Grundlage des versicherten Verdiensts.
+
+<sup>2</sup> Der Risikobeitrag beträgt 1,5 Prozent.
+
+<sup>3</sup> Der Arbeitgeber übernimmt drei Viertel der Kosten des Beitrags, die angestellte Person ein Viertel.
 
 #### Art. 88k
 
-[^88k-1]
+**Verwaltungskosten**
 
-[^88k-1]: Eingefügt durch Ziff. II 3 der V über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA vom 21. Mai 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Aufgehoben durch Ziff. I der V vom 2. Dez. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+Die Verwaltungskosten werden vollständig vom Arbeitgeber bezahlt.
 
 #### Art. 88l
 
-[^88l-1]
+**Sanierungsmassnahmen**
 
-[^88l-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)). Aufgehoben durch Ziff. I der V vom 20. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+<sup>1</sup> Sollen mit Sanierungsmassnahmen überobligatorische Leistungen finanziert werden, so ist die Zustimmung des Bundesrates erforderlich.
+
+<sup>2</sup> Der Arbeitgeber kann eine überparitätische Beteiligung an Sanierungsmassnahmen vorsehen.
+
+<sup>3</sup> Die vom Arbeitgeber und der angestellten Person zu leistenden Sanierungsbeiträge sind gesamthaft vom Arbeitgeber geschuldet.
+
+<sup>4</sup> Beim Aufschub des Leistungsbezugs oder einer Weiterführung der Versicherung schuldet die angestellte Person ihren Sanierungsbeitrag.
+
+<sup>5</sup> Der Beitragsanteil wird monatlich vom Lohn abgezogen.
+
+#### Art. 88m
+
+**Einlagen in das Vorsorgewerk**
+
+### (Art. 32*g* Abs. 2 BPG)
+
+Der Arbeitgeber kann für nachfolgende Zwecke Einlagen in das Vorsorgewerk tätigen:
+
+- a. zur Bildung von Arbeitgeberbeitragsreserven;
+- b. zur Bildung von Arbeitgeberbeitragsreserven mit Verwendungsverzicht gemäss den reglementarischen Bestimmungen;
+- c. zur Behebung einer Unterdeckung;
+- d. zur Finanzierung von Abfederungsmassnahmen;
+- e. zur Stärkung des Deckungsgrades, höchstens bis zum Erreichen eines Deckungsgrades von 110 Prozent;
+- f. zur Finanzierung von Zinszuschüssen.
 
 ## 5. Kapitel: Pflichten des Personals
 
@@ -2748,7 +2910,7 @@ Ein Interessenkonflikt liegt insbesondere vor, wenn:
 
 <sup>6</sup> Zu Unrecht bezogene Karenzfristentschädigungen müssen zurückerstattet werden.
 
-[^94b-1]: Ursprünglich Art. 94a Abs. 2. Eingefügt durch Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4483](https://fedlex.data.admin.ch/eli/oc/2012/525)). Fassung gemäss Ziff. I 2 der Karenzfristverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
+[^94b-1]: Ursprünglich: Art. 94*a* Abs. 2. Eingefügt durch Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4483](https://fedlex.data.admin.ch/eli/oc/2012/525)). Fassung gemäss Ziff. I 2 der Karenzfristverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
 
 #### Art. 94c
 
@@ -3088,12 +3250,12 @@ Bei einer Zuweisung eines neuen Arbeitsorts im Rahmen von Umstrukturierungen und
 
 - a. befristete Beteiligung an den Kosten für den Arbeitsweg;
 - b. Beteiligung an den Umzugskosten;
-- c. Beibehaltung des bisherigen Ortszuschlages während zwei Jahren, sofern dieser höher ist als am neuen Arbeitsort;
-- d. gestaffelte Reduktion des Ortzuschlags während höchstens vier Jahren, sofern der neue Arbeitsort sechs oder mehr Stufen tiefer eingereiht ist.
+- c. und d.[^105-2] …
 
 <sup>3</sup> Die Massnahmen und Leistungen des Sozialplans (Art. 105*d*) sind im Einzelfall analog anwendbar, sofern diese Verordnung keine eigene entsprechende Regelung vorsieht.
 
 [^105-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
+[^105-2]: Aufgehoben durch Ziff. I der V vom 3. Sept. 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 105a
 
@@ -3138,18 +3300,19 @@ Zudem muss mindestens eine der folgenden Bedingungen erfüllt sein:
 
 Der Arbeitgeber kann aus triftigen Gründen zusätzlich zu den Renten nach den Absätzen 1 und 2 die folgenden Leistungen erbringen:[^105b-2]
 
-- a. eine Beteiligung an den Kosten für die Weiterführung der Vorsorge nach Artikel 88*d*<sup>bis</sup> Absatz 3;
-- b. eine Beteiligung am Einkauf zur Erhöhung der Altersrente nach Artikel 32*a* VRAB[^105b-3];
-- c.[^105b-4] vollständige oder teilweise Übernahme der auf das Renteneinkommen entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^105b-5] über die Alters- und Hinterlassenenversicherung, längstens aber bis zum Erreichen des Referenzalters nach Artikel 21 AHVG[^105b-6];
-- d.[^105b-7] …
+- a.[^105b-3] eine Beteiligung an den Kosten für die Weiterführung der Vorsorge nach Artikel 63*c* Absatz 3;
+- b. eine Beteiligung am Einkauf zur Erhöhung der Altersrente nach Artikel 32*a* VRAB[^105b-4];
+- c.[^105b-5] vollständige oder teilweise Übernahme der auf das Renteneinkommen entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^105b-6] über die Alters- und Hinterlassenenversicherung, längstens aber bis zum Erreichen des Referenzalters nach Artikel 21 AHVG[^105b-7];
+- d.[^105b-8] …
 
 [^105b-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 [^105b-2]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^105b-3]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
-[^105b-4]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^105b-5]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
-[^105b-6]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^105b-7]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^105b-3]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^105b-4]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^105b-5]: Fassung gemäss Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^105b-6]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-7]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^105b-8]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
 
@@ -3339,40 +3502,41 @@ Das EDA kann im Einvernehmen mit dem EFD abweichende Bestimmungen für das der V
 - a.[^114-1] Artikel 15 und 16: Dialog und Personalbeurteilung;
 - b. Artikel 38: Lohn bei Teilzeitbeschäftigung;
 - c. Artikel 39: Lohnentwicklung;
-- d. Artikel 43: Ortszuschlag;
+- d.[^114-2] …
 - e. Artikel 44: Teuerungsausgleich;
 - f. Artikel 46: Funktionszulagen;
-- g.[^114-2] Artikel 49: Leistungsprämien;
+- g.[^114-3] Artikel 49: Leistungsprämien;
 - h. Artikel 52: Funktionsbewertung;
-- h<sup>bis</sup>.[^114-3] Artikel 52*a*: Tieferbewertung einer Funktion;
+- h<sup>bis</sup>.[^114-4] Artikel 52*a*: Tieferbewertung einer Funktion;
 - i. Artikel 53: Bewertungsstellen;
 - j. Artikel 63: Leistungen bei Berufsunfall;
 - k. Artikel 64: Arbeitszeit;
-- k<sup>bis</sup>.[^114-4] Artikel 64*b*: Vertrauensarbeitszeit;
+- k<sup>bis</sup>.[^114-5] Artikel 64*b*: Vertrauensarbeitszeit;
 - l. Artikel 65: Mehrarbeit und Überzeit;
 - m. Artikel 66: Freie Tage;
 - n. Artikel 67: Ferien;
 - o. Artikel 68: Urlaub;
-- o<sup>bis</sup>.[^114-5] Artikel 75*a* Absatz 2: Familienergänzende Kinderbetreuung;
-- o<sup>ter</sup>.[^114-6] Artikel 75*b*: Anspruch auf Vergütung von Kosten der familienergänzenden Kinderbetreuung;
-- p.[^114-7] Artikel 78 Absatz 2 Buchstabe k: Ausrichtung von Entschädigungen an Personal der DEZA;
-- q.[^114-8] Artikel 78 Absatz 2<sup>bis</sup>: Entschädigungen an Personal der DEZA bei Beendigung des Arbeitsverhältnisses im gegenseitigen Einvernehmen;
-- r. und s.[^114-9] …
+- o<sup>bis</sup>.[^114-6] Artikel 75*a* Absatz 2: Familienergänzende Kinderbetreuung;
+- o<sup>ter</sup>.[^114-7] Artikel 75*b*: Anspruch auf Vergütung von Kosten der familienergänzenden Kinderbetreuung;
+- p.[^114-8] Artikel 78 Absatz 2 Buchstabe k: Ausrichtung von Entschädigungen an Personal der DEZA;
+- q.[^114-9] Artikel 78 Absatz 2<sup>bis</sup>: Entschädigungen an Personal der DEZA bei Beendigung des Arbeitsverhältnisses im gegenseitigen Einvernehmen;
+- r. und s.[^114-10] …
 
 <sup>3</sup> Bei der Festlegung der Abgeltungen und sonstiger Massnahmen zugunsten des Personals nach den Artikeln 63 und 81–88 wird der persönlichen Situation des entsandten Personals Rechnung getragen. In den Ausführungsbestimmungen bestimmt das EDA im Einvernehmen mit dem EFD, inwieweit über die Familienangehörigen hinaus weitere Begleitpersonen zu berücksichtigen sind, und ordnet die Einzelheiten.
 
-<sup>4</sup> Das EDA erlässt im Einvernehmen mit dem EFD Bestimmungen über die Indexierung der Einsatzorte, abgestuft nach Schwierigkeit der Lebensbedingungen, wobei von 100 Indexpunkten für die Stadt Bern auszugehen ist, und legt jene Einsatzorte fest, an denen sehr schwierige Lebensbedingungen herrschen.[^114-10]
+<sup>4</sup> Das EDA erlässt im Einvernehmen mit dem EFD Bestimmungen über die Indexierung der Einsatzorte, abgestuft nach Schwierigkeit der Lebensbedingungen, wobei von 100 Indexpunkten für die Stadt Bern auszugehen ist, und legt jene Einsatzorte fest, an denen sehr schwierige Lebensbedingungen herrschen.[^114-11]
 
 [^114-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
-[^114-2]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
-[^114-3]: Ursprünglich Bst. r. Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^114-4]: Ursprünglich Bst. s. Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)). Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
-[^114-5]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-2]: Aufgehoben durch Ziff. I der V vom 3. Sept. 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^114-3]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^114-4]: Ursprünglich Bst. r. Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
+[^114-5]: Ursprünglich Bst. s. Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)). Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^114-6]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-7]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-7]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
 [^114-8]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^114-9]: Aufgehoben durch Ziff. I der V vom 24. Nov. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-10]: Eingefügt durch Art. 7 der V vom 20. Febr. 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien, in Kraft seit 1. Juli 2013 ([AS 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
+[^114-9]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-10]: Aufgehoben durch Ziff. I der V vom 24. Nov. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-11]: Eingefügt durch Art. 7 der V vom 20. Febr. 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien, in Kraft seit 1. Juli 2013 ([AS 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
 
 #### Art. 115
 
@@ -3489,16 +3653,16 @@ Es kann im Einvernehmen mit dem Eidgenössischen Departement des Innern abweiche
 
 Bei Beginn des Vorruhestandsurlaubs nach Artikel 34 erhalten folgende Personen anstelle der Leistung nach Artikel 88*h* eine Abfindung in der Höhe von drei Vierteln des letzten Jahresgehalts:[^116c-3]
 
-- a. Angestellte nach Artikel 33 Absatz 1 Buchstaben a und b, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des PUBLICA-Gesetzes das 51. Altersjahr vollendet haben;
-- b. Angestellte nach Artikel 33 Absatz 1 Buchstabe c, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des PUBLICA-Gesetzes das 53. Altersjahr vollendet haben.
+- a. Angestellte nach Artikel 33 Absatz 1 Buchstaben a und b, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des Publica-Gesetzes das 51. Altersjahr vollendet haben;
+- b. Angestellte nach Artikel 33 Absatz 1 Buchstabe c, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des Publica-Gesetzes das 53. Altersjahr vollendet haben.
 
-<sup>3</sup> Angestellte nach Artikel 33 Absatz 2 erhalten mit ihrem letzten Lohn eine Abfindung in der Höhe von drei Vierteln des letzten Jahresgehalts, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des PUBLICA-Gesetzes das 55. Altersjahr vollendet haben.
+<sup>3</sup> Angestellte nach Artikel 33 Absatz 2 erhalten mit ihrem letzten Lohn eine Abfindung in der Höhe von drei Vierteln des letzten Jahresgehalts, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des Publica-Gesetzes das 55. Altersjahr vollendet haben.
 
-<sup>4</sup> Die Abfindung nach den Absätzen 2 und 3 wird im Rahmen des BVG[^116c-4] zugunsten des Altersguthabens an PUBLICA überwiesen oder auf Verlangen der versicherten Person bar ausbezahlt.
+<sup>4</sup> Die Abfindung nach den Absätzen 2 und 3 wird im Rahmen des BVG[^116c-4] zugunsten des Altersguthabens an Publica überwiesen oder auf Verlangen der versicherten Person bar ausbezahlt.
 
 <sup>5</sup> Für Angestellte nach Absatz 2 wird Artikel 34*a* Absatz 2 nicht angewendet.[^116c-5]
 
-[^116c-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Siehe auch die UeB in Art. 8 der V vom 20. Febr. 2013 über die Pensionierung von Angehörigen der besonderen Personalategorien (SR **172.222.111.35**).
+[^116c-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379); [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Siehe auch die UeB in Art. 8 der V vom 20. Febr. 2013 über die Pensionierung von Angehörigen der besonderen Personalategorien (SR **172.222.111.35**).
 [^116c-2]: Art. 33 in der Fassung vom 3. Juli 2001 ([AS 2001 2206](https://fedlex.data.admin.ch/eli/oc/2001/319)), Abs. 1–3<sup>bis</sup> in der Fassung der V vom 5. Dez. 2003 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit der Neuregelung des militärischen Personals ([AS 2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)); Art. 16 der V vom 2. Dez. 1991 über die Leistungen bei vorzeitigem Altersrücktritt von Bediensteten in besonderen Dienstverhältnissen in der Fassung der Änd. vom 28. Juni 2000 ([AS 2000 2429](https://fedlex.data.admin.ch/eli/oc/2000/388)).
 [^116c-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
 [^116c-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
@@ -3531,9 +3695,10 @@ Bei Beginn des Vorruhestandsurlaubs nach Artikel 34 erhalten folgende Personen a
 
 <sup>2</sup> Die Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente von Angestellten, die beim Inkrafttreten der Änderung vom 20 Juni 2014 das 59. Altersjahr vollendet haben und bis spätestens am 31. Juli 2017 vorzeitig pensioniert werden, richtet sich nach bisherigem Recht.
 
-<sup>3</sup> Für die Berechnung der Überbrückungsrente nach Artikel 88*f* werden die vor dem Inkrafttreten dieser Änderung anerkannten Anstellungsjahre und der daraus ermittelte durchschnittliche Beschäftigungsgrad nach bisherigem Recht angerechnet.
+<sup>3</sup> Für die Berechnung der Überbrückungsrente nach Artikel 63*e* werden die vor dem Inkrafttreten dieser Änderung anerkannten Anstellungsjahre und der daraus ermittelte durchschnittliche Beschäftigungsgrad nach bisherigem Recht angerechnet.[^116f-2]
 
 [^116f-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^116f-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 #### Art. 116g
 
@@ -3583,14 +3748,15 @@ Der Lohn von Angestellten, deren Funktion aus Gründen, die nicht bei ihnen lieg
 
 <sup>2</sup> Anspruch auf eine Reallohnerhöhung nach Artikel 44*a* Absatz 2 haben weibliche Angestellte infolge freiwilligen Altersrücktritts vor dem Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters.
 
-<sup>3</sup> Weibliche Angestellte, die sich vor dem Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters pensionieren lassen, können eine Überbrückungsrente nach Artikel 88*f* Absatz 1 beziehen.
+<sup>3</sup> Weibliche Angestellte, die sich vor dem Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters pensionieren lassen, können eine Überbrückungsrente nach Artikel 63*e* Absatz 1 beziehen.[^116l-4]
 
-<sup>4</sup> Der Arbeitgeber kann aus triftigen Gründen zusätzlich zu den Renten nach Artikel 105*b* Absätze 1 und 2 die auf das Renteneinkommen der weiblichen Angestellten entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^116l-4] über die Alters- und Hinterlassenenversicherung vollständig oder teilweise übernehmen, längstens aber bis zum Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters.
+<sup>4</sup> Der Arbeitgeber kann aus triftigen Gründen zusätzlich zu den Renten nach Artikel 105*b* Absätze 1 und 2 die auf das Renteneinkommen der weiblichen Angestellten entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^116l-5] über die Alters- und Hinterlassenenversicherung vollständig oder teilweise übernehmen, längstens aber bis zum Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters.
 
 [^116l-1]: Eingefügt durch Anhang Ziff. 1 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^116l-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
 [^116l-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^116l-4]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^116l-4]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+[^116l-5]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 116m
 
@@ -3682,11 +3848,11 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 Anhang 1[^t-1]
 
-(Art. 88*f* Abs. 5)
+(Art. 63*e* Abs. 8)
 
 ## Prozentuale Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente
 
-[^t-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Fassung gemäss Ziff. II der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
+[^t-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Fassung gemäss Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 <table>
 <tr><td></td><td>Standardplan (Lohnklassen)</td><td></td><td></td><td>Kaderplan (Lohnklassen)</td></tr>
@@ -3698,11 +3864,11 @@ Anhang 1[^t-1]
 
 Anhang 2[^t-2]
 
-(Art. 88*a* Abs. 1)
+(Art. 88*e* Abs. 1)
 
-## Bestandteile des versicherbaren Lohnes
+## Bestandteile des massgebenden Jahreslohns
 
-[^t-2]: Eingefügt durch Ziff. II 3 der V über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA vom 21. Mai 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Bereinigt gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)), vom 12. Juni 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)) und Ziff. II der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^t-2]: Eingefügt durch Ziff. II 3 der V über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA vom 21. Mai 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Bereinigt gemäss Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)), Ziff. II der V vom 3. Sept. 2025 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)) und Ziff. II Abs. 1 der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
 
 - a. der Monatslohn nach Artikel 36 und der Monatslohn von Angestellten des Bundes nach Artikel 12 Absatz 2 PVFMH[^annex2-lvlu1-1], höchstens jedoch der Monatslohn des Stammdepartements, die Lohnentwicklung nach Artikel 39 Absätze 1–5 und die ausserordentlichen Lohnanpassungen nach Artikel 40 bis zum Höchstbetrag der Lohnklasse;
 - b. der Stunden-, Tages- und Durchschnittslohn nach Artikel 38 Absatz 2;
@@ -3751,3 +3917,87 @@ Anhang 3[^t-3]
 - 3\. Liegen triftige Gründe vor, namentlich eine soziale Härte, so kann die nach Absatz 1 ermittelte Entschädigung auf maximal 12 Monatslöhne erhöht werden.
 - 4\. Unterbrüche bei der Anstellungsdauer werden nicht beachtet, sofern sie die Dauer von drei Jahren nicht übersteigen.
 - 5\. Angebrochene Anstellungs- und Lebensjahre werden aufgerundet.
+
+Anhang 4[^t-4]
+
+(Art. 88*h* Abs. 2)
+
+## Sparbeiträge
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+Für die angestellten Personen gelten folgende Sparbeiträge:
+
+- a. im Standardplan (bis Lohnklasse 23):
+
+<table>
+<tr><th>Alter der angestellten Person</th><th>Beitrag angestellte Person in Prozent</th><th>Beitrag Arbeitgeber in Prozent</th><th>Total in Prozent</th></tr>
+<tr><td>22–34</td><td>5,85</td><td>6,90</td><td>12,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>16,25</td></tr>
+<tr><td>45–54</td><td>9,40</td><td>16,60</td><td>26,00</td></tr>
+<tr><td>55–65</td><td>12,50</td><td>21,75</td><td>34,25</td></tr>
+<tr><td>66–70</td><td>5,85</td><td>5,85</td><td>11,70</td></tr>
+</table>
+
+- b. im Kaderplan (ab Lohnklasse 24):
+
+<table>
+<tr><th>Alter der angestellten Person</th><th>Beitrag angestellte Person in Prozent</th><th>Beitrag Arbeitgeber in Prozent</th><th>Total in Prozent</th></tr>
+<tr><td>22–34</td><td>5,95</td><td>6,80</td><td>12,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>16,25</td></tr>
+<tr><td>45–54</td><td>9,70</td><td>19,20</td><td>28,90</td></tr>
+<tr><td>55–65</td><td>12,80</td><td>24,30</td><td>37,10</td></tr>
+<tr><td>66–70</td><td>5,95</td><td>5,95</td><td>11,90</td></tr>
+</table>
+
+Anhang 5[^t-5]
+
+(Art. 88*i* Abs. 2)
+
+## Sparbeiträge für Angehörige der besonderen Personalkategorien
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+\1. Für das Berufsmilitär und das Grenzwachtkorps gelten folgende Sparbeiträge:
+
+- a. im Standardplan (bis Lohnklasse 23):
+
+<table>
+<tr><th>Alter der angestellten Person</th><th>Beitrag angestellte Person in Prozent</th><th>Beitrag Arbeitgeber in Prozent</th><th>Zusätzlicher Beitrag Arbeitgeber in Prozent</th><th>Total in Prozent</th></tr>
+<tr><td>22–34</td><td>5,85</td><td>6,90</td><td>2,00</td><td>14,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>2,00</td><td>18,25</td></tr>
+<tr><td>45–54</td><td>9,40</td><td>16,60</td><td>5,00</td><td>31,00</td></tr>
+<tr><td>55–65</td><td>12,50</td><td>21,75</td><td>5,00</td><td>39,25</td></tr>
+</table>
+
+- b. im Kaderplan (ab Lohnklasse 24):
+
+<table>
+<tr><th>Alter der angestellten Person</th><th>Beitrag angestellte Person in Prozent</th><th>Beitrag Arbeitgeber in Prozent</th><th>Zusätzlicher Beitrag Arbeitgeber in Prozent</th><th>Total in Prozent</th></tr>
+<tr><td>22–34</td><td>5,95</td><td>6,80</td><td>2,00</td><td>14,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>2,00</td><td>18,25</td></tr>
+<tr><td>45–54</td><td>9,70</td><td>19,20</td><td>6,00</td><td>34,90</td></tr>
+<tr><td>55–65</td><td>12,80</td><td>24,30</td><td>6,00</td><td>43,10</td></tr>
+</table>
+
+\2. Für versetzungspflichtige Angestellte des EDA gelten folgende Sparbeiträge:
+
+- a. im Standardplan (bis Lohnklasse 23):
+
+<table>
+<tr><th>Alter der angestellten Person</th><th>Beitrag angestellte Person in Prozent</th><th>Beitrag Arbeitgeber in Prozent</th><th>Zusätzlicher Beitrag Arbeitgeber in Prozent</th><th>Total in Prozent</th></tr>
+<tr><td>22–34</td><td>5,85</td><td>6,90</td><td>10,00</td><td>22,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>10,00</td><td>26,25</td></tr>
+<tr><td>45–54</td><td>9,40</td><td>16,60</td><td>10,00</td><td>36,00</td></tr>
+<tr><td>55–65</td><td>12,50</td><td>21,75</td><td>10,00</td><td>44,25</td></tr>
+</table>
+
+- b. im Kaderplan (ab Lohnklasse 24):
+
+<table>
+<tr><th>Alter der angestellten Person</th><th>Beitrag angestellte Person in Prozent</th><th>Beitrag Arbeitgeber in Prozent</th><th>Zusätzlicher Beitrag Arbeitgeber in Prozent</th><th>Total in Prozent</th></tr>
+<tr><td>22–34</td><td>5,95</td><td>6,80</td><td>10,00</td><td>22,75</td></tr>
+<tr><td>35–44</td><td>7,25</td><td>9,00</td><td>10,00</td><td>26,25</td></tr>
+<tr><td>45–54</td><td>9,70</td><td>19,20</td><td>10,00</td><td>38,90</td></tr>
+<tr><td>55–65</td><td>12,80</td><td>24,30</td><td>10,00</td><td>47,10</td></tr>
+</table>
