@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2020 über Überbrückungsleistungen für älte
 short: ÜLG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: de
-version: 2027-01-01
+version: 2029-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20270101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20290101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20290101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20290101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/de"
 
 (ÜLG)
 
-vom 19. Juni 2020 (Stand am 1. Januar 2027)
+vom 19. Juni 2020 (Stand am 1. Januar 2029)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -179,11 +179,11 @@ Als Ausgaben werden anerkannt:
 
   - 3\. bei Notwendigkeit der Miete einer rollstuhlgängigen Wohnung: zusätzlich 7020 Franken;
 
-- c. anstelle des Mietzinses der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben; Buchstabe b gilt sinngemäss;
+- c.[^9-3] die vom Bundesrat nach Artikel 11 Buchstabe d bestimmte Pauschale für die Nebenkosten bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben;
 - d. Gewinnungskosten bis zur Höhe des Bruttoerwerbseinkommens;
-- e. Gebäudeunterhaltskosten und Hypothekarzinsen bis zur Höhe des Bruttoertrages der Liegenschaft;
+- e.[^9-4] Gebäudeunterhaltskosten und Hypothekarzinsen bis zur Höhe des Bruttoertrags der Liegenschaft; bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben, entspricht der Bruttoertrag den Mietzinsausgaben für zwei im gleichen Haushalt lebende Personen nach Buchstabe b;
 - f. Beiträge an die Sozialversicherungen des Bundes einschliesslich der Beiträge an die berufliche Vorsorge unter Ausschluss der Prämie für die Krankenversicherung;
-- g. bei einer freiwilligen Versicherung in der beruflichen Vorsorge: die Risiko- und die Verwaltungskostenbeiträge sowie allfällige Sanierungsbeiträge an die berufliche Vorsorge nach den Artikeln 47 und 47a BVG[^9-3];
+- g. bei einer freiwilligen Versicherung in der beruflichen Vorsorge: die Risiko- und die Verwaltungskostenbeiträge sowie allfällige Sanierungsbeiträge an die berufliche Vorsorge nach den Artikeln 47 und 47a BVG[^9-5];
 - h. der jährliche Pauschalbetrag für die obligatorische Krankenpflegeversicherung; er entspricht der Höhe der kantonalen beziehungsweise regionalen Durchschnittsprämie für die obligatorische Krankenpflegeversicherung, einschliesslich Unfalldeckung, höchstens jedoch der tatsächlichen Prämie;
 - i. geleistete familienrechtliche Unterhaltsbeiträge.
 
@@ -206,7 +206,9 @@ Für Personen, die in gemeinschaftlichen Wohnformen leben und bei denen keine ge
 
 [^9-1]: Beträge angepasst gemäss Art. 1 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
 [^9-2]: Beträge angepasst gemäss Art. 2 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
-[^9-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^9-3]: Fassung gemäss Ziff. I 4 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-4]: Fassung gemäss Ziff. I 4 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-5]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10
 
@@ -217,27 +219,30 @@ Für Personen, die in gemeinschaftlichen Wohnformen leben und bei denen keine ge
 Als Einnahmen werden angerechnet:
 
 - a.[^10-1] zwei Drittel der Erwerbseinkünfte in Geld oder Naturalien, soweit sie bei alleinstehenden Personen jährlich 1300 Franken und bei Ehepaaren und Personen mit minderjährigen oder noch in Ausbildung stehenden und weniger als 25 Jahre alten Kindern 1950 Franken übersteigen; das Erwerbseinkommen von Ehegatten ohne Anspruch auf Überbrückungsleistungen wird zu 80 Prozent angerechnet;
-- b. Einkünfte aus beweglichem und unbeweglichem Vermögen einschliesslich des Jahreswerts einer Nutzniessung oder eines Wohnrechts oder des Jahresmietwerts einer Liegenschaft, an der die Bezügerin oder der Bezüger oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, Eigentum hat und die von mindestens einer dieser Personen bewohnt wird;
-- c. ein Fünfzehntel des Reinvermögens, soweit es bei alleinstehenden Personen 30 000 Franken, bei Ehepaaren 50 000 Franken und bei minderjährigen oder noch in Ausbildung stehenden und weniger als 25 Jahre alten Kindern 15 000 Franken übersteigt; gehört der Bezügerin oder dem Bezüger oder einer anderen Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, eine Liegenschaft, die mindestens von einer dieser Personen bewohnt wird, so ist nur der 112 500 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen; Solidaritätsbeiträge nach Artikel 4 Absatz 1 des Bundesgesetzes vom 30. September 2016[^10-2] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981 sind beim Vermögen nicht zu berücksichtigen;
+- b.[^10-2] Einkünfte aus beweglichem und unbeweglichem Vermögen; Einkünfte aus Liegenschaften werden nur angerechnet, wenn die Bezügerin oder der Bezüger oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, die Liegenschaft nicht selbst bewohnt;
+- c. ein Fünfzehntel des Reinvermögens, soweit es bei alleinstehenden Personen 30 000 Franken, bei Ehepaaren 50 000 Franken und bei minderjährigen oder noch in Ausbildung stehenden und weniger als 25 Jahre alten Kindern 15 000 Franken übersteigt; gehört der Bezügerin oder dem Bezüger oder einer anderen Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, eine Liegenschaft, die mindestens von einer dieser Personen bewohnt wird, so ist nur der 112 500 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen; Solidaritätsbeiträge nach Artikel 4 Absatz 1 des Bundesgesetzes vom 30. September 2016[^10-3] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981 sind beim Vermögen nicht zu berücksichtigen;
 - d. Renten, Pensionen und andere wiederkehrende Leistungen;
 - e. Leistungen aus Verpfründungsvertrag und ähnlichen Vereinbarungen;
 - f. Familienzulagen;
 - g. familienrechtliche Unterhaltsbeiträge;
-- h. die individuelle Prämienverbilligung nach Artikel 65 Absatz 1 des Bundesgesetzes vom 18. März 1994[^10-3] über die Krankenversicherung (KVG).
+- h. die individuelle Prämienverbilligung nach Artikel 65 Absatz 1 des Bundesgesetzes vom 18. März 1994[^10-4] über die Krankenversicherung (KVG).
 
 <sup>2</sup>
 
 Nicht angerechnet werden:
 
-- a. Verwandtenunterstützungen nach den Artikeln 328–330 des Zivilgesetzbuches[^10-4];
+- a. Verwandtenunterstützungen nach den Artikeln 328–330 des Zivilgesetzbuches[^10-5];
 - b. Unterstützungen der öffentlichen Sozialhilfe;
 - c. Hilflosenentschädigungen der Sozialversicherungen;
-- d. Stipendien und andere Ausbildungsbeihilfen für Kinder in Ausbildung unter 25 Jahre.
+- d. Stipendien und andere Ausbildungsbeihilfen für Kinder in Ausbildung unter 25 Jahre;
+- e.[^10-6] der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben.
 
 [^10-1]: Beträge angepasst gemäss Art. 3 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-2]: [SR 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
-[^10-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^10-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^10-2]: Fassung gemäss Ziff. I 4 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^10-3]: [SR 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
+[^10-4]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^10-5]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^10-6]: Eingefügt durch Ziff. I 4 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 11
 
@@ -248,8 +253,10 @@ Der Bundesrat bestimmt:
 - a. die Bewertung der anrechenbaren Einnahmen, der anerkannten Ausgaben und des Vermögens;
 - b. die Berücksichtigung der Hypothekarschulden für die Ermittlung des Reinvermögens;
 - c. die zeitlich massgebenden Einnahmen und Ausgaben;
-- d. die Pauschale für die Nebenkosten bei einer Liegenschaft, die von der Person bewohnt wird, die an der Liegenschaft Eigentum oder Nutzniessung hat;
+- d.[^11-1] die Pauschale für die Nebenkosten bei einer Liegenschaft, die von der Person bewohnt wird, die an der Liegenschaft Eigentum, Nutzniessung oder ein Wohnrecht hat;
 - e. die Pauschale für Heizkosten einer gemieteten Wohnung, sofern diese von der Mieterin oder vom Mieter direkt getragen werden müssen.
+
+[^11-1]: Fassung gemäss Ziff. I 4 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 12
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 19 juin 2020 sur les prestations transitoires pour les 
 short: LPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: fr
-version: 2027-01-01
+version: 2029-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20270101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20290101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20290101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20290101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/fr"
 
 (LPtra)
 
-du 19 juin 2020 (État le 1<sup>er</sup> janvier 2027)
+du 19 juin 2020 (État le 1<sup>er</sup> janvier 2029)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -179,11 +179,11 @@ Les dépenses reconnues comprennent:
 
   - 3\. 7020 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
 
-- c. la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul des prestations transitoires ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie;
+- c.[^9-3] le forfait pour frais accessoires défini par le Conseil fédéral en application de l’art. 11, let. d, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul des prestations transitoires ont un droit de propriété, un usufruit ou un droit d’habitation;
 - d. les frais d’obtention du revenu, jusqu’à concurrence du revenu brut de l’activité lucrative;
-- e. les frais d’entretien des bâtiments et les intérêts hypothécaires jusqu’à concurrence du rendement brut de l’immeuble;
+- e.[^9-4] les frais d’entretien des bâtiments et les intérêts hypothécaires jusqu’à concurrence du rendement brut de l’immeuble; pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul des prestations transitoires ont un droit de propriété, un usufruit ou un droit d’habitation, le rendement brut correspond aux dépenses reconnues de loyer pour deux personnes vivant dans le même ménage selon la let. b;
 - f. les cotisations aux assurances sociales de la Confédération, y compris les cotisations à la prévoyance professionnelle, à l’exclusion des primes d’assurance-maladie;
-- g. en cas d’assurance facultative, les contributions aux coûts du risque et aux frais administratifs ainsi que les éventuelles contributions d’assainissement au titre de la prévoyance professionnelle visées à l’art. 47 et 47*a* LPP[^9-3];
+- g. en cas d’assurance facultative, les contributions aux coûts du risque et aux frais administratifs ainsi que les éventuelles contributions d’assainissement au titre de la prévoyance professionnelle visées à l’art. 47 et 47*a* LPP[^9-5];
 - h. le montant pour l’assurance obligatoire des soins; il consiste en un montant forfaitaire annuel qui correspond au montant de la prime moyenne cantonale ou régionale pour l’assurance obligatoire des soins (couverture accidents comprise), mais qui n’excède pas celui de la prime effective;
 - i. les contributions d’entretien versées en vertu du droit de la famille.
 
@@ -206,7 +206,9 @@ Pour les personnes vivant en communauté d’habitation, lorsqu’il n’y a pas
 
 [^9-1]: Montants adaptés selon l’art. 1 de l’O du 2 oct. 2026 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
 [^9-2]: Montants adaptés selon l’art. 2 de l’O du 2 oct. 2026 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
-[^9-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^9-3]: Nouvelle teneur selon le ch. I 4 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-4]: Nouvelle teneur selon le ch. I 4 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-5]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10
 
@@ -217,27 +219,30 @@ Pour les personnes vivant en communauté d’habitation, lorsqu’il n’y a pas
 Les revenus déterminants comprennent:
 
 - a.[^10-1] deux tiers des ressources en espèces ou en nature provenant de l’exercice d’une activité lucrative, pour autant qu’elles excèdent annuellement 1300 francs pour les personnes seules et 1950 francs pour les couples et les personnes qui ont des enfants mineurs ou des enfants encore en formation âgés de moins de 25 ans; le revenu de l’activité lucrative du conjoint qui n’a pas droit aux prestations transitoires est pris en compte à hauteur de 80 %;
-- b. le produit de la fortune mobilière et immobilière, y compris la valeur annuelle d’un usufruit ou d’un droit d’habitation ou la valeur locative annuelle d’un immeuble dont le bénéficiaire de prestations transitoires ou une autre personne comprise dans le calcul de ces prestations est propriétaire, et qui sert d’habitation à l’une de ces personnes au moins;
-- c. un quinzième de la fortune nette, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les enfants mineurs ou les enfants encore en formation âgés de moins de 25 ans; si le bénéficiaire de prestations transitoires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune; les contributions de solidarité prévues à l’art. 4, al. 1, de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^10-2] n’entrent pas en considération au titre de la fortune;
+- b.[^10-2] le produit de la fortune mobilière et immobilière; le produit d’un immeuble n’est pris en compte que si le bénéficiaire de prestations transitoires ou une autre personne comprise dans le calcul de ces prestations n’habite pas dans l’immeuble;
+- c. un quinzième de la fortune nette, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les enfants mineurs ou les enfants encore en formation âgés de moins de 25 ans; si le bénéficiaire de prestations transitoires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune; les contributions de solidarité prévues à l’art. 4, al. 1, de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^10-3] n’entrent pas en considération au titre de la fortune;
 - d. les rentes, pensions et autres prestations périodiques;
 - e. les prestations touchées en vertu d’un contrat d’entretien viager ou de toute autre convention analogue;
 - f. les allocations familiales;
 - g. les contributions d’entretien prévues par le droit de la famille;
-- h. la réduction individuelle des primes au sens de l’art. 65, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^10-3].
+- h. la réduction individuelle des primes au sens de l’art. 65, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^10-4].
 
 <sup>2</sup>
 
 Ne sont pas pris en compte:
 
-- a. les aliments fournis par les parents en vertu des art. 328 à 330 du code civil[^10-4];
+- a. les aliments fournis par les parents en vertu des art. 328 à 330 du code civil[^10-5];
 - b. les prestations d’aide sociale;
 - c. les allocations pour impotent des assurances sociales;
-- d. les bourses d’études et autres aides financières destinées à l’instruction qui sont octroyées pour les enfants en formation âgés de moins de 25 ans.
+- d. les bourses d’études et autres aides financières destinées à l’instruction qui sont octroyées pour les enfants en formation âgés de moins de 25 ans;
+- e.[^10-6] la valeur locative de l’immeuble pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation transitoire ont un droit de propriété, un usufruit ou un droit d’habitation.
 
 [^10-1]: Montants adaptés selon l’art. 3 al. 2 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-2]: [RS 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
-[^10-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^10-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^10-2]: Nouvelle teneur selon le ch. I 4 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^10-3]: [RS 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
+[^10-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^10-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^10-6]: Introduite par le ch. I 4 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 11
 
@@ -248,8 +253,10 @@ Le Conseil fédéral règle:
 - a. l’évaluation des revenus déterminants, des dépenses reconnues et de la fortune;
 - b. la prise en compte des dettes hypothécaires pour le calcul de la fortune nette;
 - c. la période à prendre en considération pour déterminer les revenus et les dépenses;
-- d. le forfait pour frais accessoires d’une personne résidant dans un immeuble à titre de propriétaire ou d’usufruitier;
+- d.[^11-1] le forfait pour frais accessoires d’une personne résidant dans un immeuble à titre de propriétaire, d’usufruitier ou de titulaire d’un droit d’habitation;
 - e. le forfait pour frais de chauffage d’un appartement loué, si le locataire doit les supporter lui-même.
+
+[^11-1]: Nouvelle teneur selon le ch. I 4 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 12
 

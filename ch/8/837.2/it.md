@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2020 sulle prestazioni transitorie per i dis
 short: LPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: it
-version: 2027-01-01
+version: 2029-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20270101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20290101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20290101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20290101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/it"
 
 (LPTD)
 
-del 19 giugno 2020 (Stato 1° gennaio 2027)
+del 19 giugno 2020 (Stato 1° gennaio 2029)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -179,11 +179,11 @@ Sono riconosciute le spese seguenti:
 
   - 3\. 7020 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
 
-- c. in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietarie, usufruttuarie o sul quale hanno un diritto d’abitazione; la lettera b si applica per analogia;
+- c.[^9-3] l’importo forfettario per le spese accessorie stabilito dal Consiglio federale di cui all’articolo 11 lettera d, nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietarie, usufruttuarie o usuarie;
 - d. le spese per il conseguimento del reddito, fino a concorrenza del reddito lordo dell’attività lucrativa;
-- e. le spese di manutenzione di fabbricati e gli interessi ipotecari, fino a concorrenza del ricavo lordo dell’immobile;
+- e.[^9-4] le spese di manutenzione di fabbricati e gli interessi ipotecari, fino a concorrenza del ricavo lordo dell’immobile; nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietarie, usufruttuarie o usuarie, il ricavo lordo corrisponde alle spese di pigione per due persone che vivono nella stessa economia domestica secondo la lettera b;
 - f. i premi versati alle assicurazioni sociali della Confederazione, inclusi i contributi alla previdenza professionale ed eccettuato il premio per l’assicurazione malattie;
-- g. in caso di assicurazione facoltativa alla previdenza professionale, i contributi di rischio e i contributi alle spese di amministrazione nonché eventuali contributi di risanamento versati alla previdenza professionale conformemente agli articoli 47 e 47*a* LPP[^9-3];
+- g. in caso di assicurazione facoltativa alla previdenza professionale, i contributi di rischio e i contributi alle spese di amministrazione nonché eventuali contributi di risanamento versati alla previdenza professionale conformemente agli articoli 47 e 47*a* LPP[^9-5];
 - h. l’importo forfettario annuo per l’assicurazione obbligatoria delle cure medico-sanitarie; esso corrisponde al premio medio cantonale o regionale per l’assicurazione obbligatoria delle cure medico-sanitarie, compresa la copertura infortuni, ma al massimo al premio effettivo;
 - i. le pensioni alimentari versate in virtù del diritto di famiglia.
 
@@ -206,7 +206,9 @@ Per le persone che condividono l’alloggio e per le quali non è effettuato un 
 
 [^9-1]: Importi adeguati dall’art. 1 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
 [^9-2]: Importi adeguati dall’art. 2 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
-[^9-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^9-3]: Nuovo testo giusta la cifra I n. 4 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-4]: Nuovo testo giusta la cifra I n. 4 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-5]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10
 
@@ -217,27 +219,30 @@ Per le persone che condividono l’alloggio e per le quali non è effettuato un 
 Sono computati come reddito:
 
 - a.[^10-1] due terzi dei redditi da attività lucrativa in denaro o in natura, per quanto superino annualmente 1300 franchi per le persone sole e 1950 franchi per le coppie sposate e le persone con figli minorenni o di età inferiore a 25 anni ancora in formazione; per i coniugi che non hanno diritto alla prestazione transitoria, il reddito da attività lucrativa è computato in ragione dell’80 per cento;
-- b. i proventi della sostanza mobile e immobile, incluso il valore annuo di un usufrutto o di un diritto di abitazione oppure il valore locativo annuo di un immobile di cui il beneficiario della prestazione transitoria o un’altra persona compresa nel calcolo di questa prestazione sono proprietari e che serve quale abitazione ad almeno una di queste persone;
-- c. un quindicesimo della sostanza netta, per quanto superi 30 000 franchi per le persone sole, 50 000 franchi per le coppie sposate e 15 000 franchi per i figli minorenni o di età inferiore a 25 anni ancora in formazione; se il beneficiario della prestazione transitoria o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietari di un immobile che serve quale abitazione ad almeno una di queste persone, soltanto il valore dell’immobile eccedente 112 500 franchi è computato quale sostanza; il contributo di solidarietà di cui all’articolo 4 capoverso 1 della legge federale del 30 settembre 2016[^10-2] sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981 non è computato quale sostanza;
+- b.[^10-2] i proventi della sostanza mobile e immobile; i proventi di un immobile sono computati soltanto se il beneficiario o un’altra persona compresa nel calcolo della prestazione transitoria non abita l’immobile;
+- c. un quindicesimo della sostanza netta, per quanto superi 30 000 franchi per le persone sole, 50 000 franchi per le coppie sposate e 15 000 franchi per i figli minorenni o di età inferiore a 25 anni ancora in formazione; se il beneficiario della prestazione transitoria o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietari di un immobile che serve quale abitazione ad almeno una di queste persone, soltanto il valore dell’immobile eccedente 112 500 franchi è computato quale sostanza; il contributo di solidarietà di cui all’articolo 4 capoverso 1 della legge federale del 30 settembre 2016[^10-3] sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981 non è computato quale sostanza;
 - d. le rendite, le pensioni e le altre prestazioni periodiche;
 - e. le prestazioni derivanti da un contratto di vitalizio o da una convenzione analoga;
 - f. gli assegni familiari;
 - g. le pensioni alimentari previste dal diritto di famiglia;
-- h. la riduzione individuale dei premi secondo l’articolo 65 capoverso 1 della legge federale del 18 marzo 1994[^10-3] sull’assicurazione malattie (LAMal).
+- h. la riduzione individuale dei premi secondo l’articolo 65 capoverso 1 della legge federale del 18 marzo 1994[^10-4] sull’assicurazione malattie (LAMal).
 
 <sup>2</sup>
 
 Non sono computati:
 
-- a. le prestazioni dei parenti secondo gli articoli 328–330 del Codice civile[^10-4];
+- a. le prestazioni dei parenti secondo gli articoli 328–330 del Codice civile[^10-5];
 - b. le prestazioni dell’aiuto pubblico sociale;
 - c. gli assegni per grandi invalidi delle assicurazioni sociali;
-- d. le borse di studio e altri aiuti all’istruzione per i figli di età inferiore a 25 anni ancora in formazione.
+- d. le borse di studio e altri aiuti all’istruzione per i figli di età inferiore a 25 anni ancora in formazione;
+- e.[^10-6] il valore locativo dell’immobile, nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietarie, usufruttuarie o usuarie.
 
 [^10-1]: Importi adeguati dall’art. 3 cpv. 2 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-2]: [<sup>RS</sup> <sup>211.223.13</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
-[^10-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^10-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^10-2]: Nuovo testo giusta la cifra I n. 4 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^10-3]: [<sup>RS</sup> <sup>211.223.13</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
+[^10-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^10-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^10-6]: Introdotta dalla cifra I n. 4 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 11
 
@@ -248,8 +253,10 @@ Il Consiglio federale determina:
 - a. la valutazione dei redditi computabili, delle spese riconosciute e della sostanza;
 - b. il computo dei debiti ipotecari per il calcolo della sostanza netta;
 - c. i redditi e le spese determinanti nel tempo;
-- d. l’importo forfettario per le spese accessorie di un immobile occupato dal proprietario o dall’usufruttuario;
+- d.[^11-1] l’importo forfettario per le spese accessorie di un immobile abitato dal proprietario, dall’usufruttuario o dall’usuario;
 - e. l’importo forfettario per le spese di riscaldamento di un appartamento locato, per quanto queste ultime siano assunte direttamente dal locatario.
+
+[^11-1]: Nuovo testo giusta la cifra I n. 4 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 12
 
