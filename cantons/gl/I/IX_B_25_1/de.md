@@ -3,20 +3,19 @@ canton: GL
 number: IX B/25/1
 title: Gesetz über die Handels- und Gewerbetätigkeiten
 language: de
-version: 2014-09-01
-valid_until: 2026-12-31
-version_adopted: 2014-05-04
+version: 2027-01-01
+version_adopted: 2026-05-03
 adopted: 2013-05-05
 in_force: 2014-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-B.25.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1656/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2685/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Handels- und Gewerbetätigkeiten
 
-Vom 05.05.2013 (Stand 01.09.2014)
+Vom 05.05.2013 (Stand 01.01.2027)
 
 (Erlassen von der Landsgemeinde am 5. Mai 2013)
 
@@ -169,13 +168,11 @@ Vom 05.05.2013 (Stand 01.09.2014)
 
 <sup>1</sup> Öffentliche Filmvorführungen im Freien unterstehen der Meldepflicht an den Kanton und die betreffende Gemeinde. Diese sorgt dafür, dass die Anwohner frühzeitig über die vorgesehene Durchführung informiert werden.
 
-## 8. Handel mit Tabakwaren
+## 8.
 
 #### Art. 19
 
-<sup>1</sup> Der Verkauf von Tabakwaren ist nur an Jugendliche erlaubt, die das 16. Altersjahr zurückgelegt haben.
-
-<sup>2</sup> Das Verkaufspersonal überprüft im Zweifelsfall das Alter der Kundschaft.
+**…**
 
 ## 9. Eichwesen
 
