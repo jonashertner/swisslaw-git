@@ -4,11 +4,11 @@ title: Ordinanza del 23 aprile 2008 sulla protezione degli animali (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: it
-version: 2026-02-01
+version: 2027-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20260201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20270201/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20270201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20270201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/it"
 
 (OPAn)
 
-del 23 aprile 2008 (Stato 1° febbraio 2026)
+del 23 aprile 2008 (Stato 1° febbraio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -2288,7 +2288,10 @@ Il responsabile d’esperimento:
 
 - a. si assume la responsabilità, dal punto di vista scientifico e della protezione degli animali, per la pianificazione e una corretta esecuzione dell’esperimento;
 - b. è responsabile dell’assegnazione del lavoro, dell’istruzione delle persone che eseguono esperimenti, del controllo dei lavori, dell’organizzazione dell’assistenza adeguata agli animali da laboratorio, della loro sorveglianza e dello svolgimento dei necessari lavori di documentazione;
-- c. stabilisce chi si assume la responsabilità del centro di detenzione per tutta la durata dell’esperimento e ne disciplina i particolari in una convenzione stipulata con il direttore del centro di detenzione.
+- c. stabilisce chi si assume la responsabilità del centro di detenzione per tutta la durata dell’esperimento e ne disciplina i particolari in una convenzione stipulata con il direttore del centro di detenzione;
+- d.[^131-1] garantisce che il numero consentito di animali da laboratorio allevati e detenuti per un esperimento specifico (art. 118*a* cpv. 1) sia motivato nell’autorizzazione per eseguire esperimenti sugli animali e non venga superato.
+
+[^131-1]: Introdotta dalla cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2027 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 132
 
@@ -2317,7 +2320,7 @@ Essa:
 
 **Requisiti per le persone che eseguono esperimenti**
 
-<sup>1</sup> Le persone che eseguono esperimenti devono aver conseguito una formazione di cui all’articolo 197 nell’esecuzione di esperimenti. [^134-1]
+<sup>1</sup> Le persone che eseguono esperimenti devono aver conseguito una formazione di cui all’articolo 197 nell’esecuzione di esperimenti.[^134-1]
 
 <sup>2</sup> Per eseguire esperimenti su animali di specie poco utilizzate o con metodi sperimentali non standardizzati è necessario fornire attestazione di ulteriori conoscenze specifiche.
 

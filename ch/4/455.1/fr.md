@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2026-02-01
+version: 2027-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20260201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20270201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20270201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20270201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/fr"
 
 (OPAn)
 
-du 23 avril 2008 (État le 1<sup>er</sup> février 2026)
+du 23 avril 2008 (État le 1<sup>er</sup> février 2027)
 
 Le Conseil fédéral suisse,
 
@@ -2317,7 +2317,10 @@ Le directeur de l’expérience:
 
 - a. est chargé de la planification et de l’exécution correcte de l’expérience, du point de vue scientifique et du point de vue de la protection des animaux;
 - b. est compétent pour la répartition du travail, l’instruction et le contrôle des travaux des expérimentateurs, l’organisation des soins adéquats aux animaux d’expérience et leur surveillance durant l’expérience, et pour l’exécution des travaux de documentation nécessaires;
-- c. désigne la personne qui sera responsable de l’animalerie durant toute la durée de l’expérience, et règle ce point dans une convention avec le responsable de l’animalerie.
+- c. désigne la personne qui sera responsable de l’animalerie durant toute la durée de l’expérience, et règle ce point dans une convention avec le responsable de l’animalerie;
+- d.[^131-1] veille à ce que le nombre d’animaux d’expérience admis au sens de l’art. 118*a*, al. 1, pour l’élevage et la détention en vue d’une expérience spécifique soit justifié dans la demande d’autorisation de pratiquer une expérience sur animaux et qu’il ne soit pas dépassé.
+
+[^131-1]: Introduite par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2027 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 132
 

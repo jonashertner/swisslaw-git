@@ -4,11 +4,11 @@ title: Tierschutzverordnung vom 23. April 2008 (TSchV)
 short: TSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: de
-version: 2026-02-01
+version: 2027-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20260201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20270201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20270201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20270201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/de"
 
 (TSchV)
 
-vom 23. April 2008 (Stand am 1. Februar 2026)
+vom 23. April 2008 (Stand am 1. Februar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -2283,7 +2283,10 @@ Die Versuchsleiterin oder der Versuchsleiter:
 
 - a. trägt für die Planung und die fachgerechte Durchführung des Tierversuchs in wissenschaftlicher und tierschützerischer Hinsicht die Verantwortung;
 - b. ist zuständig für die Arbeitszuteilung, die Instruktion der versuchsdurchführenden Personen, die Kontrolle der Arbeiten, die Organisation der fachgerechten Betreuung der Versuchstiere und deren Überwachung im Versuch sowie die Ausführung der notwendigen Dokumentationsarbeiten;
-- c. legt für die ganze Dauer des Versuchs fest, wer die Verantwortung für die Tierhaltung übernimmt und regelt dies in einer Vereinbarung mit der Leiterin oder dem Leiter der Versuchstierhaltung.
+- c. legt für die ganze Dauer des Versuchs fest, wer die Verantwortung für die Tierhaltung übernimmt und regelt dies in einer Vereinbarung mit der Leiterin oder dem Leiter der Versuchstierhaltung;
+- d.[^131-1] stellt sicher, dass bei der Zucht und der Haltung von Versuchstieren, die für einen bestimmten Tierversuch vorgesehen sind, die zulässige Anzahl Versuchstiere (Art. 118*a* Abs. 1) in der Tierversuchsbewilligung begründet und bei der Zucht und der Haltung nicht überschritten wird.
+
+[^131-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2027 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 132
 
