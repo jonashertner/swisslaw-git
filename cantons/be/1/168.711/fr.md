@@ -4,13 +4,12 @@ number: "168.711"
 title: "Ordonnance sur la rémunération des avocats et avocates commis d'office"
 short: ORA
 language: fr
-version: 2011-01-01
-valid_until: 2026-12-31
-version_adopted: 2010-10-20
+version: 2027-01-01
+version_adopted: 2026-04-29
 adopted: 2010-10-20
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/168.711"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1053/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3372/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1053/pdf_file"
 
 (ORA)
 
-du 20.10.2010 (état au 01.01.2011)
+du 20.10.2010 (état au 01.01.2027)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -35,7 +34,7 @@ arrête:
 
 **Montant horaire**
 
-<sup>1</sup> Le montant horaire pour la rémunération des avocats et avocates commis d’office s’élève à 200 francs.
+<sup>1</sup> Le montant horaire pour la rémunération des avocats et avocates commis d’office s’élève à 210 francs.
 
 #### Art. 2
 

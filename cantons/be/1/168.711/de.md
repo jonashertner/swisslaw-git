@@ -4,13 +4,12 @@ number: "168.711"
 title: Verordnung über die Entschädigung der amtlichen Anwältinnen und Anwälte
 short: EAV
 language: de
-version: 2011-01-01
-valid_until: 2026-12-31
-version_adopted: 2010-10-20
+version: 2027-01-01
+version_adopted: 2026-04-29
 adopted: 2010-10-20
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/168.711"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1053/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1053/pdf_file"
 
 (EAV)
 
-vom 20.10.2010 (Stand 01.01.2011)
+vom 20.10.2010 (Stand 01.01.2027)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -35,7 +34,7 @@ beschliesst:
 
 **Stundenansatz**
 
-<sup>1</sup> Der Stundenansatz für die Entschädigung der amtlich bestellten Anwältinnen und Anwälte beträgt 200 Franken.
+<sup>1</sup> Der Stundenansatz für die Entschädigung der amtlich bestellten Anwältinnen und Anwälte beträgt 210 Franken.
 
 #### Art. 2
 
