@@ -4,11 +4,11 @@ title: "Ordinanza del 15 gennaio 1971 sulle prestazioni complementari all'assicu
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: it
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20270101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20280101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20280101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20280101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,20 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/it"
 
 (OPC-AVS/AI)[^t-1]<sup>,</sup> [^t-2]
 
-del 15 gennaio 1971 (Stato 1° gennaio 2027)
+del 15 gennaio 1971 (Stato 1° gennaio 2028)
 
 [^t-1]: Nuovo testo del tit. abbreviato giusta la cifra I dell’O del 13 set. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4385](https://fedlex.data.admin.ch/eli/oc/1995/4385_4385_4385)).
 [^t-2]: Nuovo tit. giusta la cifra V dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i titoli marginali sono stati accentrati.
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA); visti gli articoli 4 capoverso 4, 5 capoverso 6, 9 capoverso 5, 10 capoversi 1<sup>ter</sup> e 1<sup>quinquies</sup>, 11*a* capoverso 3, secondo periodo, 14 capoverso 4, 24 capoverso 2, secondo periodo, e 33 della legge federale del 6 ottobre 2006[^ingress-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC),[^ingress-3]
+visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA); visti gli articoli 4 capoverso 4, 5 capoverso 6, 9 capoverso 5, 10 capoversi 1<sup>ter</sup> e 1<sup>quinquies</sup>, 11*a* capoverso 3, secondo periodo, 14 capoverso 4, secondo periodo, 14*a* capoverso 5, 24 capoverso 2 e 33 della legge federale del 6 ottobre 2006[^ingress-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
-[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2028 ([RU 2026 466](https://fedlex.data.admin.ch/eli/oc/2026/466)).
 
 ## Capo primo: Prestazioni complementari
 
@@ -463,7 +463,7 @@ Se in virtù dell’articolo 65*d* capoverso 3 lettera b della legge federale de
 Si può eccezionalmente derogare alla ripartizione in parti uguali, se:
 
 - a. tra il beneficiario o una persona inclusa nel calcolo PC e le altre persone che vivono nell’appartamento o nella casa unifamiliare sussiste un contratto di affitto o subaffitto valido e conforme alle condizioni locali; o
-- b. le persone che vivono nell’appartamento o nella casa unifamiliare occupano per uso proprio parti dell’abitazione di dimensioni diverse.[^16c-3]
+- b. le persone che vivono nell’appartamento o nella casa unifamiliare occupano per uso proprio parti dell’abitazione di dimensioni diverse.[^16c-3].
 
 [^16c-1]: Introdotto dalla cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^16c-2]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
@@ -551,7 +551,7 @@ Dal valore di un immobile di cui il beneficiario delle prestazioni complementari
 
 <sup>1</sup> La valutazione della sostanza computabile deve essere effettuata secondo le regole stabilite dalla legislazione sull’imposta cantonale diretta del Cantone di domicilio.
 
-<sup>2 e <sup>3</sup></sup> …[^17a-2]
+<sup>2–3</sup> …[^17a-2]
 
 <sup>4</sup> La sostanza immobiliare che non serve di abitazione al richiedente o a una persona compresa nel calcolo delle PC deve essere computata al valore corrente.
 
@@ -675,11 +675,29 @@ Le spese di malattia e d’invalidità per i figli di cui non si tiene conto con
 [^19b-2]: Nuovo testo giusta l’all. n. 1 dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^19b-3]: Nuovo testo giusta l’all. n. 1 dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
+#### Art. 19c
+
+**Rimborso pro rata delle prestazioni di aiuto e assistenza a domicilio**[^19c-1]
+
+<sup>1</sup>
+
+Le persone che vivono in un istituto o in un ospedale conformemente all’articolo 10 capoverso 2 LPC, ma vivono a casa per determinati periodi, hanno diritto, per questi periodi, al seguente rimborso delle prestazioni di cui all’articolo 14*a* LPC per anno civile:
+
+- a. un sesto della somma degli importi forfettari di cui all’articolo 14*a* capoverso 4 LPC, se trascorrono almeno 60 giorni a casa;
+- b. un quarto della somma degli importi forfettari di cui all’articolo 14*a* capoverso 4 LPC, se trascorrono almeno 90 giorni a casa;
+- c. un terzo della somma degli importi forfettari di cui all’articolo 14*a* capoverso 4 LPC, se trascorrono almeno 120 giorni a casa;
+- d. cinque dodicesimi della somma degli importi forfettari di cui all’articolo 14*a* capoverso 4 LPC, se trascorrono almeno 150 giorni a casa;
+- e. la meta della somma degli importi forfettari di cui all’articolo 14*a* capoverso 4 LPC, se trascorrono almeno 180 giorni a casa.
+
+<sup>2</sup> Per fissare il rimborso, l’organo esecutivo cantonale tiene conto dei soggiorni a casa previsti nell’anno civile corrente. Se non sono disponibili dati al riguardo, può basarsi sui dati dell’anno civile precedente o su altri dati che consentano una stima più attendibile dei presumibili soggiorni a casa durante l’anno civile corrente.
+
+[^19c-1]: Introdotto dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2028 ([RU 2026 466](https://fedlex.data.admin.ch/eli/oc/2026/466)).
+
 ### IV. Disposizioni diverse
 
 [^chap1-lvlA-lvlIV-1]
 
-[^chap1-lvlA-lvlIV-1]: Originario cifra. III.
+[^chap1-lvlA-lvlIV-1]: Originario cifra III.
 
 #### Art. 20
 
@@ -816,8 +834,8 @@ La prestazione complementare annua deve essere oggetto di una nuova decisione da
 [^25-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-5]: Introdotta dalla cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
-[^25-6]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
-[^25-7]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
+[^25-6]: NT
+[^25-7]: NT
 [^25-8]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-9]: Introdotta dalla cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^25-10]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
@@ -1392,7 +1410,7 @@ Rapporti e conti annuali vanno presentati all’Ufficio federale. Questo può em
 
 **Tra gli organi cantonali e le istituzioni di utilità pubblica**
 
-<sup>1<sup>1</sup></sup> e <sup>2</sup> …[^53-1]
+<sup>1–2</sup> …[^53-1]
 
 <sup>3</sup> I Cantoni possono stipulare accordi con le istituzioni di utilità pubblica per coordinare l’attività di queste con quella degli organi cantonali che assegnano le prestazioni complementari.
 
@@ -1490,7 +1508,7 @@ La vigilanza di cui all’articolo 28 LPC è esercitata dall’Ufficio federale.
 
 <sup>2</sup> Il Dipartimento è incaricato della esecuzione.
 
-[^59-1]: [[RU 1965 1041](https://fedlex.data.admin.ch/eli/oc/1965/1045_1057_1041), [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)cifra II lett. B n. 6, **1969** 135 cifra V lett. a]
+[^59-1]: [[RU 1965 1041](https://fedlex.data.admin.ch/eli/oc/1965/1045_1057_1041); [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)cifra II lett. B n. 6; **1969** 135 cifra V lett. a]
 
 ## Disposizioni finali della modifica del 12 giugno 1989
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Januar 1971 über die Ergänzungsleistungen zur Alter
 short: ELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: de
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20270101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20280101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20280101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,19 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/de"
 
 (ELV)[^t-1]
 
-vom 15. Januar 1971 (Stand am 1. Januar 2027)
+vom 15. Januar 1971 (Stand am 1. Januar 2028)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmungen wurden die Randtit. in Sachüberschriften umgewandelt.
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) und auf die Artikel 4 Absatz 4, 5 Absatz 6, 9 Absatz 5, 10 Absätze 1<sup>ter</sup> und 1<sup>quinquies</sup>, 11*a* Absatz 3 zweiter Satz, 14 Absatz 4, 24 Absatz 2 zweiter Satz und 33 des Bundesgesetzes vom 6. Oktober 2006[^ingress-2] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG),[^ingress-3]
+gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) und auf die Artikel 4 Absatz 4, 5 Absatz 6, 9 Absatz 5, 10 Absätze 1<sup>ter</sup> und 1<sup>quinquies</sup>, 11*a* Absatz 3 zweiter Satz, 14 Absatz 4 zweiter Satz, 14*a* Absatz 5, 24 Absatz 2 und 33 des Bundesgesetzes vom 6. Oktober 2006[^ingress-2] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^ingress-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2028 ([AS 2026 466](https://fedlex.data.admin.ch/eli/oc/2026/466)).
 
 ## Erster Abschnitt: Ergänzungsleistungen
 
@@ -670,6 +670,24 @@ Krankheits- und Behinderungskosten von Kindern, die nach Artikel 8 Absatz 2 auss
 [^19b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3877](https://fedlex.data.admin.ch/eli/oc/2003/562)). Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^19b-2]: Fassung gemäss Anhang Ziff. 1 der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^19b-3]: Fassung gemäss Anhang Ziff. 1 der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+
+#### Art. 19c
+
+**Pro-rata-Vergütung von Leistungen für Hilfe und Betreuung zu Hause**[^19c-1]
+
+<sup>1</sup>
+
+Personen, die gemäss Artikel 10 Absatz 2 ELG in einem Heim oder einem Spital leben, die aber während bestimmter Zeiten zu Hause leben, haben pro Kalenderjahr für diese Zeiten folgenden Anspruch auf die Vergütung der Leistungen nach Artikel 14*a* ELG:
+
+- a. sofern sie mindestens 60 Tage zu Hause verbringen: ein Sechstel der Summe der Pauschalen nach Artikel 14*a* Absatz 4 ELG;
+- b. sofern sie mindestens 90 Tage zu Hause verbringen: ein Viertel der Summe der Pauschalen nach Artikel 14*a* Absatz 4 ELG;
+- c. sofern sie mindestens 120 Tage zu Hause verbringen: ein Drittel der Summe der Pauschalen nach Artikel 14*a* Absatz 4 ELG;
+- d. sofern sie mindestens 150 Tage zu Hause verbringen: fünf Zwölftel der Summe der Pauschalen nach Artikel 14*a* Absatz 4 ELG;
+- e. sofern sie mindestens 180 Tage zu Hause verbringen: die Hälfte der Summe der Pauschalen nach Artikel 14*a* Absatz 4 ELG.
+
+<sup>2</sup> Für die Festlegung der Vergütung berücksichtigt die kantonale Durchführungsstelle die geplanten Aufenthalte zu Hause im laufenden Kalenderjahr. Falls dazu keine Daten vorliegen, kann sie die Angaben zum vorangegangenen Kalenderjahr oder andere Daten, die eine bessere Schätzung der voraussichtlichen Aufenthalte zu Hause im laufenden Kalenderjahr erlauben, berücksichtigen.
+
+[^19c-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2028 ([AS 2026 466](https://fedlex.data.admin.ch/eli/oc/2026/466)).
 
 ### IV. Verschiedene Bestimmungen
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: fr
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20270101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20280101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,20 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/fr"
 
 (OPC-AVS/AI)[^t-1] [^t-2]
 
-du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2027)
+du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2028)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 [^t-2]: Nouvelle abréviation selon le ch. I de l’O du 24 nov. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 2085](https://fedlex.data.admin.ch/eli/oc/1982/2085_2085_2085)).
 
 Le Conseil fédéral suisse,
 
-vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^ingress-1], vu les art. 4, al. 4, 5, al. 6, 9, al. 5, 10, al. 1<sup>ter</sup> et 1<sup>quinquies</sup>, 11*a*, al. 3, 2<sup>e</sup> phrase, 14, al. 4, 24, al. 2, 2<sup>e</sup> phrase, et 33 de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^ingress-2],[^ingress-3]
+vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^ingress-1], vu les art. 4, al. 4, 5, al. 6, 9, al. 5, 10, al. 1<sup>ter</sup> et 1<sup>quinquies</sup>, 11*a*, al. 3, 2<sup>e</sup> phrase, 14, al. 4, 2<sup>e</sup> phrase, 14*a*, al. 5, 24, al. 2, et 33 de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 466](https://fedlex.data.admin.ch/eli/oc/2026/466)).
 
 ## Chapitre I Les prestations complémentaires
 
@@ -672,6 +672,24 @@ Les frais de maladie et d’invalidité des enfants dont il n’est pas tenu com
 [^19b-1]: Introduit par le ch. I de l’O du 21 mai 2003 ([RO 2003 3877](https://fedlex.data.admin.ch/eli/oc/2003/562)). Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^19b-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^19b-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+
+#### Art. 19c
+
+**Remboursement au pro rata des prestations d’aide et d’assistance à domicile**[^19c-1]
+
+<sup>1</sup>
+
+Les personnes qui vivent dans un home ou dans un hôpital au sens de l’art. 10, al. 2, LPC, mais qui vivent à domicile pendant certaines périodes, ont droit, par année civile pour ces périodes au remboursement des prestations visées à l’art. 14*a* LPC selon les modalités suivantes:
+
+- a. un sixième de la somme des forfaits visés à l’art. 14*a*, al. 4, LPC, si elles passent au moins 60 jours à domicile;
+- b. un quart de la somme des forfaits visés à l’art. 14*a*, al. 4, LPC, si elles passent au moins 90 jours à domicile;
+- c. un tiers de la somme des forfaits visés à l’art. 14*a*, al. 4, LPC, si elles passent au moins 120 jours à domicile;
+- d. cinq douzièmes de la somme des forfaits visés à l’art. 14*a*, al. 4, LPC, si elles passent au moins 150 jours à domicile;
+- e. la moitié de la somme des forfaits visés à l’art. 14*a*, al. 4, LPC, si elles passent au moins 180 jours à domicile.
+
+<sup>2</sup> Pour déterminer le remboursement, l’organe d’exécution cantonal prend en considération les séjours à domicile prévus de l’année civile en cours. À défaut de données disponibles à cet effet, il peut se fonder sur les données relatives à l’année civile précédente ou sur d’autres données propres à permettre une estimation plus précise des séjours à domicile prévus pour l’année civile en cours.
+
+[^19c-1]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 466](https://fedlex.data.admin.ch/eli/oc/2026/466)).
 
 ### IV. Dispositions diverses
 
