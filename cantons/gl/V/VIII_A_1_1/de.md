@@ -4,13 +4,12 @@ number: VIII A/1/1
 title: Gesetz über das Gesundheitswesen
 short: "Gesundheitsgesetz, GesG"
 language: de
-version: 2023-01-01
-valid_until: 2026-12-31
-version_adopted: 2021-09-05
+version: 2027-01-01
+version_adopted: 2026-05-03
 adopted: 2007-05-06
 in_force: 2008-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2373/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2684/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2373/pdf_file"
 
 (Gesundheitsgesetz, GesG)
 
-Vom 06.05.2007 (Stand 01.01.2023)
+Vom 06.05.2007 (Stand 01.01.2027)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -188,7 +187,26 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 **Lebensmittel und Chemikalien**
 
-<sup>1</sup> Der Regierungsrat regelt den Vollzug des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände und des Bundesgesetzes über den Schutz vor gefährlichen Stoffen und Zubereitungen. Er kann Vereinbarungen mit anderen Kantonen über den gemeinsamen Vollzug oder dessen Übertragung auf ausserkantonale Organe abschliessen.
+<sup>1</sup> Der Regierungsrat regelt den Vollzug des Lebensmittelgesetzes[^14-1] und des Chemikaliengesetzes[^14-2]. Er kann Vereinbarungen mit anderen Kantonen über den gemeinsamen Vollzug oder dessen Übertragung auf ausserkantonale Organe abschliessen.
+
+[^14-1]: SR 817.0
+[^14-2]: SR 813.1
+
+#### Art. 14a
+
+**Nichtionisierende Strahlung und Schall**
+
+<sup>1</sup> Der Regierungsrat regelt den Vollzug des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall[^14a-1]. Er kann Vereinbarungen mit anderen Kantonen über den gemeinsamen Vollzug oder dessen Übertragung auf ausserkantonale Organe abschliessen.
+
+[^14a-1]: SR 814.71
+
+#### Art. 14b
+
+**Tabakprodukte**
+
+<sup>1</sup> Der Regierungsrat regelt den Vollzug des Tabakproduktegesetzes[^14b-1]. Er kann Vereinbarungen mit anderen Kantonen über den gemeinsamen Vollzug oder dessen Übertragung auf ausserkantonale Organe abschliessen.
+
+[^14b-1]: SR 818.32
 
 #### Art. 15
 
@@ -210,7 +228,7 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 <sup>1</sup> Der Kanton gewährleistet den Betrieb eines Spitals mit Standort im Kanton Glarus (Kantonsspital).
 
-<sup>2</sup> Das Kantonsspital gewährleistet die Grundversorgung und den Betrieb einer Notfallstation im Kanton. Zur Grundversorgung zählen ärztliche Behandlungen, welche von den Einwohnern des Kantons in bedeutendem Umfang benötigt werden und die einer Spitalinfrastruktur bedürfen.
+<sup>2</sup> Das Kantonsspital gewährleistet die Grundversorgung und den Betrieb einer Notfallstation im Kanton. Zur Grundversorgung zählen akutsomatische Behandlungen, welche von den Einwohnern des Kantons in bedeutendem Umfang benötigt werden und die einer Spitalinfrastruktur bedürfen.
 
 <sup>3</sup> Der Landrat regelt, welche Leistungen zur Grundversorgung gehören.
 
@@ -522,7 +540,7 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 <sup>2</sup> Das Dossier kann elektronisch geführt werden, wenn Gewähr für die Einhaltung des Datenschutzes besteht und jede Änderung sowie ihr Urheber identifizierbar bleibt.
 
-<sup>3</sup> Die Dossiers sind so lange aufzubewahren, als es die Interessen der betroffenen Person und ihrer Angehörigen erfordern, mindestens aber zehn Jahre.
+<sup>3</sup> Die Dossiers sind so lange aufzubewahren, als es die Interessen der betroffenen Person und ihrer Angehörigen erfordern, mindestens aber 20 Jahre.
 
 <sup>4</sup> Wer seine Tätigkeit vorübergehend oder endgültig einstellt, teilt dies den Patienten auf geeignete Weise mit. Auf Verlangen werden ihnen die Dossiers ausgehändigt oder an eine von ihnen bezeichnete Person mit einer Berufsausübungsbewilligung weitergeleitet.
 
@@ -900,6 +918,12 @@ Vom 06.05.2007 (Stand 01.01.2023)
 - e. die Vollziehungsverordnung vom 28. März 1989 zur Verordnung des Bundesrates über den Handel mit Wein.
 
 <sup>2</sup> Die übrigen Erlasse betreffend das Gesundheitswesen gelten bis zu ihrer formellen Aufhebung oder ihrer Anpassung weiter, soweit sie mit diesem Gesetz nicht in Widerspruch stehen.
+
+#### Art. 64a
+
+**Übergangsbestimmung zur Änderung vom 3. Mai 2026**
+
+<sup>1</sup> Für Patientendokumentationen bei denen die zehnjährige Aufbewahrungsfrist zum Zeitpunkt der Inkraftsetzung der Änderung von Artikel 32 Absatz 3 noch nicht abgelaufen ist, gilt die Mindestaufbewahrungsfrist von 20 Jahren.
 
 #### Art. 65
 
