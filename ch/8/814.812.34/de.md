@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 24. November 2022 über die Fachbewilligung für 
 short: VFB-L
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/864"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2022-11-24
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/864/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-864-20260101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/864/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/864/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2022-864-20270101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/864/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/864/20260101/de"
 
 (VFB-L)
 
-vom 24. November 2022 (Stand am 1. Januar 2026)
+vom 24. November 2022 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -80,9 +80,9 @@ Eine Person gilt als angeleitet im Sinne von Absatz 3, wenn sie wenigstens die f
 
 #### Art. 4
 
-[^4-1]
+**Weiterbildung**
 
-[^4-1]: Tritt am 1. Jan. 2027 in Kraft (siehe Art. 13 Bst. b).
+Der Inhalt und die Organisation der Weiterbildungen gemäss Artikel 10 ChemRRV sowie die Rechte und Pflichten der Inhaberinnen und Inhaber von Fachbewilligungen und der anerkannten Weiterbildungseinrichtungen sind in Anhang 3 geregelt.
 
 ## 3. Abschnitt: Aufgaben der zuständigen Stellen
 
@@ -154,9 +154,31 @@ Die Prüfungsstellen haben folgende Aufgaben und Befugnisse:
 
 #### Art. 8
 
-[^8-1]
+**Weiterbildungseinrichtungen**
 
-[^8-1]: Tritt am 1. Jan. 2027 in Kraft (siehe Art. 13 Bst. b).
+<sup>1</sup>
+
+Eine Einrichtung wird als Weiterbildungseinrichtung anerkannt, wenn sie folgende Voraussetzungen erfüllt:
+
+- a. Sie verfolgt kein besonderes Interesse im Zusammenhang mit dem Verkauf oder der Verkaufsförderung von Pflanzenschutzmitteln.
+- b. Es handelt sich um eine juristische Person mit Sitz in der Schweiz.
+- c. Sie bietet Weiterbildungen als Präsenzveranstaltungen an, die allen Interessierten zu den gleichen Bedingungen offenstehen.
+- d. Sie bietet Weiterbildungen nach Anhang 3 an.
+- e. Sie hat Zugang zu geeigneter Unterrichtsstruktur und -ausrüstung und setzt Dozentinnen und Dozenten ein, die über angemessene didaktische und fachliche Qualifikationen verfügen.
+
+<sup>2</sup> Die Einrichtungen, die über ein Qualitätssicherungssystem im Bildungsbereich verfügen, sowie die Stellen der Kantone und des Bundes, die Weiterbildungen anbieten, müssen dem BAFU die Angaben nach Artikel 3 Absatz 1 der Verordnung vom 16. November 2022 über das Register der Fachbewilligungen für die Verwendung von Pflanzenschutzmitteln zur Verfügung stellen. Sie sind davon befreit, die Erfüllung der in Absatz 1 geforderten Voraussetzungen nachweisen zu müssen.
+
+<sup>3</sup>
+
+Die Weiterbildungseinrichtungen haben folgende Aufgaben und Befugnisse:
+
+- a. Sie gewährleisten eine einwandfreie Organisation und Durchführung des Unterrichts.
+- b. Sie informieren das BAFU unverzüglich, wenn eine der in Absatz 1 genannten Voraussetzungen nicht mehr erfüllt ist.
+- c. Sie führen Weiterbildungen zu den vorgegebenen Themen durch.
+- d. Sie wählen optionale Weiterbildungsthemen gemäss Anhang 3.
+- e. Sie halten das Weiterbildungsprogramm auf dem neusten Stand und informieren über die Weiterbildungsangebote gemäss Anhang 3 Ziffer 1.
+- f. Sie führen eine Präsenzkontrolle durch und stellen den Inhaberinnen und Inhabern von Fachbewilligungen am Tag der Weiterbildung einen Code aus, mit dem diese innerhalb von 30 Tagen nach der Weiterbildung ihre Anwesenheit direkt in ihrem Konto im Register Fachbewilligungen PSM bestätigen können.
+- g. Sie bewahren alle Daten gemäss Artikel 4 Absatz 2 der Verordnung vom 16. November 2022 über das Register der Fachbewilligungen für die Verwendung von Pflanzenschutzmitteln während fünf Jahren auf.
 
 #### Art. 9
 
@@ -198,7 +220,7 @@ Im Fachbewilligungsausschuss sind namentlich die folgenden Behörden mit je eine
 
 Die Verordnung des UVEK vom 28. Juni 2005[^11-1] über die Fachbewilligung für die Verwendung von Pflanzenschutzmitteln in der Landwirtschaft und im Gartenbau wird aufgehoben.
 
-[^11-1]: [[AS 2005 3461](https://fedlex.data.admin.ch/eli/oc/2005/501); [2007 357](https://fedlex.data.admin.ch/eli/oc/2007/70)I 1; [2015 2005](https://fedlex.data.admin.ch/eli/oc/2015/372)I 1]
+[^11-1]: [[AS 2005 3461](https://fedlex.data.admin.ch/eli/oc/2005/501); [2007 357](https://fedlex.data.admin.ch/eli/oc/2007/70)Ziff. I 1; [2015 2005](https://fedlex.data.admin.ch/eli/oc/2015/372)Ziff. I 1]
 
 #### Art. 12
 
@@ -445,8 +467,60 @@ Nach bestandener Prüfung wird der geprüften Person eine Fachbewilligung ausges
 
 <sup>2</sup> Der Zeitpunkt der Einsichtnahme wird von der Prüfungsstelle festgelegt; sie berücksichtigt die Verfügbarkeit der geprüften Person.
 
-Anhang 3[^t-1]
+Anhang 3
 
 (Art. 4)
 
-[^t-1]: Tritt am 1. Jan. 2027 in Kraft.
+## Reglement über die Weiterbildungen
+
+Das vorliegende Reglement legt die Organisation der Weiterbildungen für die Verlängerung der Fachbewilligung für die Verwendung von Pflanzenschutzmitteln in der Landwirtschaft sowie die Rechte und Pflichten der Inhaberinnen und Inhaber dieser Fachbewilligungen und der Weiterbildungseinrichtungen fest. Die Rechte und Pflichten der Inhaberinnen und Inhaber einer Fachbewilligung sowie der Weiterbildungseinrichtungen, die nicht unter diese Verordnung fallen, sind in der Verordnung vom 16. November 2022 über das Register der Fachbewilligungen für die Verwendung von Pflanzenschutzmitteln geregelt.
+
+### 1 Ausschreibung und Anmeldung
+
+<sup>1</sup> Die Weiterbildungseinrichtungen veröffentlichen auf ihrer Website ihre Weiterbildungsangebote für die Verlängerung der Fachbewilligung. Im Angebot müssen folgende Punkte explizit erwähnt werden:
+
+- a. der Titel;
+- b. die Art der Weiterbildung zu vorgegebenen und/oder optionalen Themen mit der Angabe der Anzahl Stunden, die für die Verlängerung der Fachbewilligung angerechnet werden können;
+- c. die Fachbewilligung, auf die sich die Weiterbildung bezieht;
+- d. das Ziel oder die Ziele aus Anhang 1, auf das oder die sich die Weiterbildung bezieht;
+- e. der vollständige Zeitplan (Datum, Uhrzeit für Beginn und Ende der Veranstaltung) sowie der Ort der Weiterbildung;
+- f. die verwendete Unterrichtsmethode und die Kurssprache;
+- g. das Zielpublikum;
+- h. die Vorstellung der Dozentinnen und Dozenten;
+- i. der Preis.
+
+<sup>2</sup> Die Anmeldung erfolgt direkt bei der Weiterbildungseinrichtung.
+
+### 2 Durchführung
+
+Die Weiterbildungen werden ausschliesslich von den vom BAFU anerkannten Einrichtungen organisiert.
+
+### 3 Inhalt
+
+<sup>1</sup> Der Inhalt der Weiterbildungen bezieht sich auf ein oder mehrere Ziele aus Anhang 1. Die Ziele der Weiterbildungen zu vorgegebenen Themen werden vom BAFU für fünf Jahre festgelegt und die Ziele der Weiterbildungen zu optionalen Themen werden von den Weiterbildungseinrichtungen bestimmt.
+
+<sup>2</sup> Die Teilnahme an den erforderlichen Weiterbildungen zu vorgegebenen und zu optionalen Themen ist eine Voraussetzung für die Verlängerung der Fachbewilligung.
+
+### 4 Form
+
+<sup>1</sup> Der Unterricht basiert auf teilnehmeraktivierenden Methoden. Die Weiterbildungen zu vorgegebenen Themen sind auf 30 Teilnehmerinnen und Teilnehmer pro dozierende Person beschränkt. Bei Weiterbildungen zu optionalen Themen hingegen kann die Zahl der Teilnehmerinnen und Teilnehmer pro dozierende Person über 30 liegen.
+
+<sup>2</sup> Andere Formen der Weiterbildung sind nicht ausgeschlossen, sofern sie vom BAFU anerkannt sind.
+
+### 5 Dauer
+
+<sup>1</sup> Für die Verlängerung der Fachbewilligung müssen Weiterbildungen im Umfang von acht Stunden besucht werden; zwei Stunden davon entfallen auf Weiterbildungen zu vorgegebenen Themen und sechs Stunden auf Weiterbildungen zu optionalen Themen.
+
+<sup>2</sup> Die Weiterbildungen können auf mehrere Tage aufgeteilt werden. Jede Weiterbildung dauert mindestens eine Stunde. Mahlzeiten sind in der erforderlichen Anzahl Stunden für die Verlängerung der Fachbewilligung nicht inbegriffen.
+
+<sup>3</sup> Eine Weiterbildung für die Verlängerung der Fachbewilligung kann mit anderen für die Verlängerung der Fachbewilligung nicht relevanten Weiterbildungen an einem Tag organisiert werden.
+
+### 6 Gebühren
+
+Die Weiterbildungseinrichtung kann eine Gebühr für die Weiterbildungen erheben, die höchstens den entstandenen Zeitaufwand für die Konzipierung, Organisation, Vorbereitung und Durchführung der Weiterbildungen deckt. Die Gebühren gehen zulasten der Inhaberinnen und Inhaber einer Fachbewilligung.
+
+### 7 Verlängerung der Fachbewilligung
+
+<sup>1</sup> Die Fachbewilligung muss alle fünf Jahre ab der Ausstellung oder Verlängerung der Bewilligung verlängert werden.
+
+<sup>2</sup> Die absolvierten Weiterbildungsstunden werden angerechnet, sobald die Inhaberin oder der Inhaber der Fachbewilligung ihre bzw. seine Teilnahme in ihrem beziehungsweise seinem Konto im Register Fachbewilligungen PSM bestätigt hat.
