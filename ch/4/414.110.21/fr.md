@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> octobre 2021 sur la Commission de recours i
 short: OCREPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: fr
-version: 2025-05-01
+version: 2028-01-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2021-604-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-604-20280101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/fr"
 
 (OCREPF)
 
-du 1<sup>er</sup> octobre 2021 (État le 1<sup>er</sup> mai 2025)
+du 1<sup>er</sup> octobre 2021 (État le 1<sup>er</sup> janvier 2028)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 37*a*, al. 5, de la loi du 4 octobre 1991 sur les EPF[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## Section 1 Objet
 
@@ -47,15 +47,16 @@ La commission comprend:
 - b. un vice-président;
 - c. cinq autres membres.
 
-<sup>2</sup> Le président, le vice-président et un des cinq autres membres ne peuvent faire partie du domaine des EPF.
+<sup>2</sup> Le président, le vice-président et au moins deux des cinq autres membres ne peuvent faire partie du domaine des EPF.[^2-1]
 
-<sup>3</sup> Le Conseil fédéral veille à ce que la commission soit composée de manière équilibrée. Les art. 8*c* et 8*c*<sup>bis</sup> de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^2-1] sont applicables par analogie.
+<sup>3</sup> Le Conseil fédéral veille à ce que la commission soit composée de manière équilibrée. Les art. 8*c* et 8*c*<sup>bis</sup> de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^2-2] sont applicables par analogie.
 
 <sup>4</sup> Le Conseil des EPF publie sur son site Internet la liste des membres de la commission.
 
 <sup>5</sup> Le siège de la commission est à Berne.
 
-[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
+[^2-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 #### Art. 3
 
@@ -92,7 +93,7 @@ Les membres de la commission ne peuvent faire partie des services suivants ni de
 
 <sup>3</sup> Les motifs d’incompatibilité à raison de la personne visés à l’art 8 de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^5-1] s’appliquent en outre par analogie.
 
-[^5-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^5-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 6
 
@@ -134,7 +135,7 @@ Les membres de la commission ne peuvent faire partie des services suivants ni de
 
 <sup>2</sup> La commission est l’autorité supérieure habilitée à délier du secret de fonction au sens de l’art. 320, ch. 2, du code pénal[^8-1].
 
-[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -174,8 +175,8 @@ Les membres de la commission ne peuvent faire partie des services suivants ni de
 
 <sup>7</sup> En cas de surcharge de travail momentanée, il est exceptionnellement possible de mandater des adjoints juridiques. Ces juristes n’ont pas de voix consultative et ne peuvent pas signer de décisions.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^11-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^11-2]: [RS 172.220.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5379)
 
 #### Art. 12
 
@@ -206,7 +207,7 @@ Le secrétariat exécute les tâches techniques et administratives liées à l�
 
 <sup>2</sup> Les personnes concernées par un motif de récusation sont tenues d’en informer le président en temps utile.
 
-[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 14
 
@@ -299,8 +300,8 @@ Il est notamment compétent pour édicter des décisions incidentes:
 
 Les frais de procédure et les dépens sont fixés conformément aux art. 63 et 64 PA[^22-1] et à l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^22-2].
 
-[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-2]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 ## Section 5 Dispositions finales
 
@@ -314,11 +315,11 @@ Le règlement de la Commission de recours interne des EPF du 18 septembre 2003[^
 
 #### Art. 24
 
-**Dispositions transitoires**
+**Disposition transitoire relative à la modification du 21 mars 2025**[^24-1]
 
-<sup>1</sup> La réglementation sur les indemnités prévue à l’art. 7, al. 4, 3<sup>e</sup> phrase, est applicable à partir de la prochaine législature.
+La composition de la commission respecte le principe prévu à l’art. 2, al. 2, de la modification du 21 mars 2025 à partir de la prochaine nomination de remplacement, et au plus tard à partir du renouvellement intégral de la commission.
 
-<sup>2</sup> Le rapport pour l’année 2021 est remis au Conseil des EPF.
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 25
 

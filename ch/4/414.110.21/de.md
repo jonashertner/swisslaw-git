@@ -4,11 +4,11 @@ title: Verordnung vom 1. Oktober 2021 über die ETH-Beschwerdekommission (VETHBK
 short: VETHBK
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: de
-version: 2025-05-01
+version: 2028-01-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2021-604-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20280101/de/xml/fedlex-data-admin-ch-eli-cc-2021-604-20280101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/de"
 
 (VETHBK)
 
-vom 1. Oktober 2021 (Stand am 1. Mai 2025)
+vom 1. Oktober 2021 (Stand am 1. Januar 2028)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 37*a* Absatz 5 des ETH-Gesetzes vom 4. Oktober 1991[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -47,15 +47,16 @@ Die Kommission setzt sich zusammen aus:
 - b. der Vizepräsidentin oder dem Vizepräsidenten;
 - c. fünf weiteren Mitgliedern.
 
-<sup>2</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident sowie eines der fünf weiteren Mitglieder dürfen nicht dem ETH-Bereich angehören.
+<sup>2</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident sowie mindestens zwei der fünf weiteren Mitglieder dürfen nicht dem ETH-Bereich angehören.[^2-1]
 
-<sup>3</sup> Der Bundesrat sorgt für eine ausgewogene personelle Zusammensetzung. Artikel 8*c* und 8*c*<sup>bis</sup> der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^2-1] sind sinngemäss anwendbar.
+<sup>3</sup> Der Bundesrat sorgt für eine ausgewogene personelle Zusammensetzung. Artikel 8*c* und 8*c*<sup>bis</sup> der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^2-2] sind sinngemäss anwendbar.
 
 <sup>4</sup> Der ETH-Rat publiziert eine Liste der gewählten Mitglieder auf seiner Internetseite.
 
 <sup>5</sup> Die Kommission hat ihren Sitz in Bern.
 
-[^2-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Jan. 2028 ([AS 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
+[^2-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 #### Art. 3
 
@@ -92,7 +93,7 @@ Die Mitglieder der Kommission dürfen den folgenden Stellen einschliesslich dere
 
 <sup>3</sup> Im Weiteren gelten die Unvereinbarkeitsgründe nach Artikel 8 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^5-1] sinngemäss.
 
-[^5-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^5-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 6
 
@@ -133,7 +134,7 @@ Die Mitglieder der Kommission dürfen den folgenden Stellen einschliesslich dere
 
 <sup>2</sup> Für die Entbindung vom Amtsgeheimnis ist die Kommission vorgesetzte Behörde im Sinne von Artikel 320 Ziffer 2 des Strafgesetzbuchs[^8-1].
 
-[^8-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -173,8 +174,8 @@ Die Mitglieder der Kommission dürfen den folgenden Stellen einschliesslich dere
 
 <sup>7</sup> Zur vorübergehenden Deckung personeller Engpässe können ausnahmsweise juristische Hilfskräfte im Auftragsverhältnis beigezogen werden. Die beigezogenen Juristen oder Juristinnen haben keine beratende Stimme und dürfen keine Entscheide unterzeichnen.
 
-[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^11-2]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^11-2]: [SR 172.220.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5379)
 
 #### Art. 12
 
@@ -205,7 +206,7 @@ Das Sekretariat erledigt die mit der Kommissionstätigkeit verbundenen fachliche
 
 <sup>2</sup> Wer von einem Ausstandsgrund betroffen ist, hat dies der Präsidentin oder dem Präsidenten rechtzeitig mitzuteilen.
 
-[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 14
 
@@ -298,8 +299,8 @@ Sie oder er ist insbesondere zuständig für den Erlass von Zwischenverfügungen
 
 Die Verfahrenskosten und die Parteientschädigungen richten sich nach den Artikeln 63 und 64 VwVG[^22-1] und nach der Verordnung vom 10. September 1969[^22-2] über Kosten und Entschädigungen im Verwaltungsverfahren.
 
-[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-2]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -313,11 +314,11 @@ Die Geschäftsordnung vom 18. September 2003[^23-1] der ETH-Beschwerdekommission
 
 #### Art. 24
 
-**Übergangsbestimmungen**
+**Übergangsbestimmung zur Änderung vom 21. März 2025**[^24-1]
 
-<sup>1</sup> Die Entschädigungen nach Artikel 7 Absatz 4 dritter Satz werden ab der nächsten Legislaturperiode angewendet.
+Die Zusammensetzung der Kommission erfüllt die Vorgabe nach Artikel 2 Absatz 2 der Änderung vom 21. März 2025 ab der nächsten Ersatzwahl und spätestens ab der Gesamterneuerungswahl.
 
-<sup>2</sup> Die Berichterstattung für das Jahr 2021 erfolgt an den ETH-Rat.
+[^24-1]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Jan. 2028 ([AS 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 25
 

@@ -4,11 +4,11 @@ title: Ordinanza del 1° ottobre 2021 sulla Commissione di ricorso dei PF (OCRPF
 short: OCRPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: it
-version: 2025-05-01
+version: 2028-01-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2021-604-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20280101/it/xml/fedlex-data-admin-ch-eli-cc-2021-604-20280101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20280101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20250501/it"
 
 (OCRPF)
 
-del 1° ottobre 2021 (Stato 1° maggio 2025)
+del 1° ottobre 2021 (Stato 1° gennaio 2028)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 37*a* capoverso 5 della legge del 4 ottobre 1991[^ingress-1] 
 
 ordina:
 
-[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## Sezione 1: Oggetto
 
@@ -47,15 +47,16 @@ La Commissione si compone:
 - b. del vicepresidente;
 - c. di altri cinque membri.
 
-<sup>2</sup> Il presidente, il vicepresidente e uno degli altri cinque membri non possono far parte del settore dei PF.
+<sup>2</sup> Il presidente, il vicepresidente e almeno due degli altri cinque membri non possono far parte del settore dei PF.[^2-1]
 
-<sup>3</sup> Il Consiglio federale provvede a una composizione equilibrata della Commissione. Gli articoli 8*c* e 8*c*<sup>bis</sup> dell’ordinanza del 25 novembre 1998[^2-1] sull’organizzazione del Governo e dell’Amministrazione (OLOGA) si applicano per analogia.
+<sup>3</sup> Il Consiglio federale provvede a una composizione equilibrata della Commissione. Gli articoli 8*c* e 8*c*<sup>bis</sup> dell’ordinanza del 25 novembre 1998[^2-2] sull’organizzazione del Governo e dell’Amministrazione (OLOGA) si applicano per analogia.
 
 <sup>4</sup> Il Consiglio dei PF pubblica sul proprio sito internet un elenco dei membri nominati.
 
 <sup>5</sup> La Commissione ha sede a Berna.
 
-[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° gen. 2028 ([RU 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
+[^2-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 #### Art. 3
 
@@ -92,7 +93,7 @@ I membri della Commissione non possono far parte dei seguenti organi, né dei lo
 
 <sup>3</sup> Si applicano inoltre per analogia i motivi di incompatibilità di cui all’articolo 8 della legge del 17 giugno 2005[^5-1] sul Tribunale amministrativo federale.
 
-[^5-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^5-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 #### Art. 6
 
@@ -133,7 +134,7 @@ I membri della Commissione non possono far parte dei seguenti organi, né dei lo
 
 <sup>2</sup> La Commissione è autorizzata all’esonero dal segreto d’ufficio in qualità di autorità superiore ai sensi dell’articolo 320 numero 2 del Codice penale[^8-1].
 
-[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 9
 
@@ -173,8 +174,8 @@ I membri della Commissione non possono far parte dei seguenti organi, né dei lo
 
 <sup>7</sup> Per far fronte a temporanei sovraccarichi di lavoro è possibile, in casi eccezionali, ricorrere a personale giuridico ausiliario sulla base di un mandato. Questi giuristi non possono esprimere un voto consultivo né possono firmare le decisioni.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^11-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^11-2]: [RS 172.220.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5379)
 
 #### Art. 12
 
@@ -205,7 +206,7 @@ La segreteria svolge compiti tecnici e amministrativi inerenti all’attività d
 
 <sup>2</sup> Se sussiste un motivo di ricusazione, la persona in questione deve comunicarlo tempestivamente al presidente.
 
-[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 14
 
@@ -298,8 +299,8 @@ Si occupa in particolare di emettere decisioni incidentali in materia di:
 
 Le spese processuali e le spese ripetibili sono stabilite conformemente agli articoli 63 e 64 PA[^22-1] e all’ordinanza del 10 settembre 1969[^22-2] sulle tasse e spese nella procedura amministrativa.
 
-[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-2]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 ## Sezione 5: Disposizioni finali
 
@@ -313,11 +314,11 @@ Il regolamento del 18 settembre 2003[^23-1] della Commissione di ricorso dei PF 
 
 #### Art. 24
 
-**Disposizioni transitorie**
+**Disposizione transitoria della modifica del 21 marzo 2025**[^24-1]
 
-<sup>1</sup> La disposizione relativa alle indennità di cui all’articolo 7 capoverso 4 terzo periodo è applicabile a partire dalla prossima legislatura.
+La composizione della Commissione soddisfa la prescrizione di cui all’articolo 2 capoverso 2 della modifica del 21 marzo 2025 a partire dalla successiva nomina sostitutiva e al più tardi dal rinnovo integrale.
 
-<sup>2</sup> Il rapporto per l’anno 2021 è presentato al Consiglio dei PF
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° gen. 2028 ([RU 2025 236](https://fedlex.data.admin.ch/eli/oc/2025/236)).
 
 #### Art. 25
 
