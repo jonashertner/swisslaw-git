@@ -3,22 +3,21 @@ canton: BS
 number: "460.200"
 title: Verordnung über die Maturitätskurse für Berufstätige
 language: de
-version: 2011-08-01
-valid_until: 2027-08-15
-version_adopted: 2007-12-11
+version: 2027-08-16
+version_adopted: 2025-12-16
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/460.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3686/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6783/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Maturitätskurse für Berufstätige
 
-Maturitätskurse für Berufstätige: Verordnung | Erwachsenenbildung
+Erwachsenenbildung
 
-Vom 11. Dezember 2007 (Stand 1. August 2011)
+Vom 11. Dezember 2007 (Stand 16. August 2027)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -38,7 +37,7 @@ beschliesst, gestützt auf § 54 Abs. 2 des Schulgesetzes vom 4. April 1929[^ing
 
 **Lehrplan**
 
-<sup>1</sup> Der Unterricht richtet sich nach dem Bildungsplan für die Gymnasien Basel-Stadt.
+<sup>1</sup> Der Unterricht orientiert sich am Lehrplan für die Gymnasien Basel-Stadt.
 
 #### § 3
 
@@ -60,7 +59,7 @@ beschliesst, gestützt auf § 54 Abs. 2 des Schulgesetzes vom 4. April 1929[^ing
 
 **Beginn und Dauer**
 
-<sup>1</sup> Die Kurse beginnen alle zwei Jahre im Januar, erstmals im Januar 2008.
+<sup>1</sup> Die Kurse beginnen alle zwei Jahre im Januar.
 
 <sup>2</sup> Ein Kurs dauert sieben Semester und ist gegliedert in einen Vorkurs (1 Semester) und einen Hauptkurs (6 Semester).
 
@@ -72,13 +71,13 @@ beschliesst, gestützt auf § 54 Abs. 2 des Schulgesetzes vom 4. April 1929[^ing
 
 **Vorkurs**
 
-<sup>1</sup> Der Vorkurs dient der Auffrischung des Schulstoffs der Sekundarstufe I, Niveau P (Progymnasium). Der Unterricht im Fach Englisch setzt auf der Stufe «Pre-Intermediate» ein.
+<sup>1</sup> Der Vorkurs dient der Auffrischung des Schulstoffs des Leistungszugs P der Sekundarschule.
 
 #### § 6
 
 **Hauptkurs**
 
-<sup>1</sup> Der Hauptkurs wird in drei parallelen, nach Fachdisziplinen gegliederten Abteilungen geführt.
+<sup>1</sup> Der Hauptkurs wird in zwei parallelen, nach Fachdisziplinen gegliederten Abteilungen geführt.
 
 <sup>2</sup> Die Fächer der sprachlich-historischen Abteilung mit Latein sind:
 
@@ -104,17 +103,7 @@ beschliesst, gestützt auf § 54 Abs. 2 des Schulgesetzes vom 4. April 1929[^ing
 
 – Mathematik.
 
-<sup>4</sup> Die Fächer der mathematisch-naturwissenschaftlichen Abteilung sind:
-
-– Deutsch;
-
-– Französisch-Englisch;
-
-– Mathematik;
-
-– Biologie;
-
-– Physik-Chemie.
+<sup>4</sup> …
 
 #### § 7
 
@@ -196,9 +185,13 @@ beschliesst, gestützt auf § 54 Abs. 2 des Schulgesetzes vom 4. April 1929[^ing
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Verfügungen der Schulkommisson kann nach den allgemeinen Bestimmungen an den Erziehungsrat und an das Verwaltungsgericht rekurriert werden.
+<sup>1</sup> Gestützt auf diese Verordnung erlassene Verfügungen können nach den Bestimmungen des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt
 
-<sup>2</sup> Gegen Verfügungen der Schulleitung und der Konferenz der Lehrpersonen kann nach den allgemeinen Bestimmungen an die zuständige Departementsvorsteherin oder den zuständigen Departementsvorsteher rekurriert werden.
+(Organisationsgesetz, OG) vom 22. April 1976[^17-1] bei der zuständigen Departementsvorsteherin oder dem zuständigen Departementsvorsteher angefochten werden.
+
+<sup>2</sup> …
+
+[^17-1]: SG [153.100](https://www.gesetzessammlung.bs.ch/data/153.100/de)
 
 #### § 18
 
