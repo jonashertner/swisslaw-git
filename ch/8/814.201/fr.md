@@ -4,11 +4,11 @@ title: Ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)
 short: OEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: fr
-version: 2025-12-01
+version: 2028-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20251201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20280101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr"
 
 (OEaux)
 
-du 28 octobre 1998 (État le 1<sup>er</sup> décembre 2025)
+du 28 octobre 1998 (État le 1<sup>er</sup> janvier 2028)
 
 Le Conseil fédéral suisse,
 
@@ -362,7 +362,7 @@ L’autorité vérifie périodiquement que:
 Le plan d’élimination définit au moins:
 
 - a. le mode d’élimination des boues pour chaque station centrale d’épuration;
-- b. les mesures à prendre pour l’élimination envisagée, y compris la construction et la transformation des installations servant à l’élimination des boues, et le calendrier de ces mesures;
+- b. les mesures à prendre pour l’élimination envisagée, y compris la construction et la transformation des installations servant à l’élimination des boues, et le calendrier de ces mesures
 - c.[^18-1] le mode de récupération du phosphore contenu dans les déchets visés aux art. 15 et 15*a* de l’ordonnance du 4 décembre 2015 sur les déchets[^18-2], pour autant qu’il ne soit pas décrit dans le plan de gestion des déchets visé à l’art. 4 OLED.
 
 <sup>3</sup> Il est accessible au public.
@@ -866,30 +866,6 @@ Exceptions:
 [^41cbis-1]: Introduit par le ch. I de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41cbis-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
-#### Art. 41c<sup>ter</sup>
-
-**Respect ou rétablissement du tracé naturel**[^41cter-1]
-
-Lors d’interventions dans les eaux superficielles, il y a lieu, si possible, de respecter ou de rétablir le tracé naturel du cours d’eau, qui se caractérise par sa position dans le profil en travers de la vallée, sa pente longitudinale, la forme de son lit, la largeur du fond de son lit ainsi que ses structures morphologiques et ses processus dynamiques.
-
-[^41cter-1]: Introduit par l’annexe ch. 3 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
-
-#### Art. 41c<sup>quater</sup>
-
-**Aménagement et entretien écologiques**[^41cquater-1]
-
-<sup>1</sup>
-
-Les eaux et l’espace réservé aux eaux doivent être aménagés et entretenus de manière que les biotopes typiques de la station soient préservés ou puissent se développer. Les biotopes typiques de la station reposent sur:
-
-- a. une végétation qui se développe naturellement et se régénère spontanément;
-- b. des processus dynamiques caractéristiques;
-- c. des structures caractéristiques, telles que des bancs de gravier, des berges naturelles et variables et du bois mort.
-
-<sup>2</sup> Lors de l’aménagement et de l’entretien des eaux et de l’espace réservé aux eaux, il faut contrer le réchauffement excessif de ces dernières. Il convient notamment d’en favoriser l’ombrage naturel.
-
-[^41cquater-1]: Introduit par l’annexe ch. 3 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
-
 #### Art. 41d
 
 **Planification de revitalisations**
@@ -910,11 +886,11 @@ Dans une planification établie pour une période de 20 ans, les cantons fixent 
 - b. présente un rapport avantageux au vu du coût prévisible;
 - c. est accrue grâce à l’action conjointe d’autres mesures de protection de biotopes naturels ou de protection contre les crues.
 
-<sup>3</sup> Ils adoptent la planification visée à l’al. 2 pour les cours d’eau d’ici au 31 décembre 2014 et celle pour les étendues d’eau d’ici au 31 décembre 2022. Ils remettent ces planifications pour avis à l’OFEV un an avant leur adoption.[^41d-1]
+<sup>3</sup> Ils adoptent la planification visée à l’al. 2 pour les cours d’eau d’ici au 31 décembre 2014 et celle pour les étendues d’eau d’ici au 31 décembre 2022. Ils remettent ces planifications pour avis à l’OFEV un an avant leur adoption.[^41cter-1]
 
 <sup>4</sup> Ils mettent à jour les planifications visées à l’al. 2 tous les douze ans pour une période de 20 ans et les soumettent à l’OFEV pour avis un an avant leur adoption.
 
-[^41d-1]: Nouvelle teneur selon le ch. I 4 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^41cter-1]: Nouvelle teneur selon le ch. I 4 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 ### Section 2 Éclusées
 
@@ -1428,37 +1404,11 @@ Les aides financières allouées pour l’information de la population se monten
 
 **Coûts imputables**[^58-1]
 
-<sup>1</sup> Seuls sont imputables les coûts effectifs et directement nécessaires à l’accomplissement approprié de la tâche subventionnée.
+<sup>1</sup> Ne sont imputables que les coûts effectifs et directement nécessaires à l’accomplissement approprié de la tâche subventionnée. Ils comprennent également les coûts d’installations pilotes et, dans le cas des revitalisations d’eaux, les coûts engendrés par l’achat des terrains nécessaires.
 
-<sup>2</sup>
+<sup>2</sup> Ne sont en particulier pas imputables les taxes et les impôts.
 
-Sont imputables pour le versement des indemnités visées aux art. 52 et 52*a* les coûts:
-
-- a. de la mise en place d’installations et d’équipements servant à l’élimination de l’azote;
-- b. des mesures servant à l’élimination des composés traces organiques;
-- c. de la mise en place et de l’exploitation d’installations pilotes pour mettre en œuvre des mesures servant à l’élimination de l’azote ou des composés traces organiques;
-- d. de la mise en place d’égouts au lieu d’installations et d’équipements servant à l’élimination de l’azote ou des composés traces organiques.
-
-<sup>3</sup> Ne sont pas imputables au titre des indemnités visées aux art. 52 et 52*a* en particulier les taxes et les impôts ainsi que les coûts de l’acquisition de terrain.
-
-<sup>4</sup>
-
-Sont imputables pour le versement des indemnités visées à l’art. 54*b* les coûts:
-
-- a. de la réalisation des études de base et de la planification des mesures;
-- b. de l’exécution et de la mise en œuvre;
-- c. de l’acquisition de terrain, de l’établissement de servitudes et de l’expropriation formelle et matérielle;
-- d. du bornage.
-
-<sup>5</sup>
-
-Ne sont pas imputables au titre des indemnités visées à l’art. 54*b* en particulier:
-
-- a. les taxes perçues;
-- b. les coûts des plus-values importantes générées par les mesures, indépendamment de la revitalisation;
-- c. les dépenses administratives.
-
-[^58-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 25 juin 2025 sur l’aménagement des cours d’eau, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ### Section 2 Procédure pour l’octroi d’indemnités globales
 
@@ -1873,7 +1823,7 @@ Annexe 3.1[^t-2]
 
 ## Déversement d’eaux polluées communales dans les eaux
 
-[^t-2]: Mise à jour par le ch. I de l’O du 31 oct. 2001 ([RO 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), le ch. III de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Voir aussi les disp. trans. du 4 nov. 2015 ci-devant.
+[^t-2]: Mise à jour par le ch. I de l’O du 31 oct. 2001 ([RO 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), le ch. III de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021, ch. 2 n° 8 5<sup>e</sup> tiret, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Voir aussi les disp. trans. du 4 nov. 2015 ci-devant.
 
 ### 1 Définition et principes
 
@@ -1897,19 +1847,17 @@ Annexe 3.1[^t-2]
 <tr><td>1</td><td>Substances non dissoutes totales</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 20 mg/l Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 15 mg/l</td></tr>
 <tr><td>2</td><td>Demande chimique en oxygène *(DCO)*</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 60 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 80 % Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 45 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 85 %</td></tr>
 <tr><td>3</td><td>Carbone organique dissous *(COD*)</td><td>Pour les installations de 2000 EH et plus: – concentration dans les eaux déversées: 10 mg/l et – taux d’épuration: 85 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/fr/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Si les valeurs ne sont pas respectées, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
 <tr><td>4</td><td>Transparence *(d’après la mé**thode de Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(somme de N-NH**<sub>4</sub>**<sup>+</sup>* *et N-NH**<sub>3</sub>**)*</td><td>Si les concentrations d’ammonium dans les eaux polluées peuvent avoir des effets néfastes sur la qualité d’un cours d’eau, les valeurs suivantes sont applicables si la température des eaux polluées est supérieure à 10° C: – concentration dans les eaux déversées: 2 mg/l N et – taux d’efficacité du traitement: 90 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/fr/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>Dans ces cas, on procédera à une nitrification durant toute l’année. *Remarque: l’azote obtenu par la méthode de Kjeldahl est la somme de l’azote contenu dans l’ammonium, l’ammoniac et les substances azotées organiques.*</td></tr>
 <tr><td>6</td><td>Nitrite *(N-NO**<sub>2</sub>**<sup>-</sup>**)*</td><td>0,3 mg/l N (valeur indicative)</td></tr>
 <tr><td>7</td><td>Composés organiques halogénés adsorbables *(AOX)*</td><td>0,08 mg/l X Si la valeur n’est pas respectée, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
-<tr><td>8</td><td>Substances organiques qui peuvent polluer les eaux même en faible concentration *(composés traces organiques)*</td><td>Le taux d’épuration par rapport aux eaux polluées brutes, mesuré à partir d’une sélection de substances doit atteindre 80 % pour les eaux usées provenant des installations suivantes: – installations auxquelles sont raccordés 80 000 habitants ou plus; – installations auxquelles sont raccordés 24 000 habitants ou plus dans le bassin versant de lacs; le canton peut accorder des dérogations si le bénéfice d’une épuration est faible pour l’environnement et pour l’approvisionnement en eau potable; – installations auxquelles sont raccordés 8000 habitants ou plus, qui déversent leur effluent dans un cours d’eau contenant plus de 10 % d’eaux usées non épurées des composés traces organiques; le canton désigne, dans le cadre d’une planification dans le bassin versant, les installations qui doivent prendre des mesures; – autres installations auxquelles sont raccordés 8000 habitants ou plus si une épuration est indispensable en raison de conditions hydrogéologiques spéciales; –[^annex31-lvlu1-lvl2-1] … Le Département précise dans une ordonnance les substances avec lesquelles le taux d’épuration sera mesuré et le mode de calcul qui sera appliqué.</td></tr>
+<tr><td>8</td><td>Substances organiques qui peuvent polluer les eaux même en faible concentration *(composés traces organiques)*</td><td>Le taux d’épuration par rapport aux eaux polluées brutes, mesuré à partir d’une sélection de substances doit atteindre 80 % pour les eaux usées provenant des installations suivantes: – installations auxquelles sont raccordés 80 000 habitants ou plus; – installations auxquelles sont raccordés 24 000 habitants ou plus dans le bassin versant de lacs; le canton peut accorder des dérogations si le bénéfice d’une épuration est faible pour l’environnement et pour l’approvisionnement en eau potable; – installations auxquelles sont raccordés 8000 habitants ou plus, qui déversent leur effluent dans un cours d’eau contenant plus de 10 % d’eaux usées non épurées des composés traces organiques; le canton désigne, dans le cadre d’une planification dans le bassin versant, les installations qui doivent prendre des mesures; – autres installations auxquelles sont raccordés 8000 habitants ou plus si une épuration est indispensable en raison de conditions hydrogéologiques spéciales; – installations auxquelles sont raccordés 1000 habitants ou plus, qui déversent leur effluent dans des eaux contenant plus de 20 % d’eaux usées non épurées des composés traces organiques, lorsque ces eaux se trouvent dans un périmètre écologiquement sensible ou qu’elles sont indispensables pour l’approvisionnement en eau potable, et lorsque le canton oblige les installations à épurer les eaux dans le cadre d’une planification dans le bassin versant. Le Département précise dans une ordonnance les substances avec lesquelles le taux d’épuration sera mesuré et le mode de calcul qui sera appliqué.</td></tr>
 <tr><td>9</td><td>Demande biochimique en oxygène *(DBO**<sub>5</sub>**, avec blocage de la nitrification)*</td><td>Pour les installations de moins de 10 000 EH, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 20 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 % Pour les installations de 10 000 EH et plus, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 15 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 %</td></tr>
 </table>
-
-[^annex31-lvlu1-lvl2-1]: Entre en vigueur le 1<sup>er</sup> janv. 2028 ([RO 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)).
 
 ### 3 Exigences supplémentaires pour les eaux polluées qui sont déversées dans des eaux sensibles
 

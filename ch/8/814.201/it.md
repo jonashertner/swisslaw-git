@@ -4,11 +4,11 @@ title: Ordinanza del 28 ottobre 1998 sulla protezione delle acque (OPAc)
 short: OPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: it
-version: 2025-12-01
+version: 2028-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20251201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20280101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20280101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it"
 
 (OPAc)
 
-del 28 ottobre 1998 (Stato 1° dicembre 2025)
+del 28 ottobre 1998 (Stato 1° gennaio 2028)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ visti gli articoli 9, 14 capoverso 7, 16, 19 capoverso 1, 27 capoverso 2, 36*a* 
 ordina:
 
 [^ingress-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
-[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -58,7 +58,7 @@ La presente ordinanza regola:
 
 <sup>2</sup> La presente ordinanza si applica alle sostanze radioattive nella misura in cui queste provocano effetti biologici a causa delle loro proprietà chimiche. Se tali sostanze provocano effetti biologici a causa delle loro radiazioni, si applica la legislazione sulla radioprotezione e sull’energia nucleare.
 
-[^2-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ## Capitolo 2: Eliminazione delle acque di scarico
 
@@ -89,10 +89,10 @@ In linea di principio, l’acqua piovana che scorre da superfici edificate o rin
 - b.[^3-3] da strade, sentieri e piazzali sui quali non vengono scaricate, lavorate e depositate ingenti quantità di sostanze suscettibili di inquinare le acque e, in caso di infiltrazione, se viene sufficientemente depurata nel suolo; nel valutare se le quantità di sostanze siano ingenti, bisogna tenere conto del rischio di incidenti;
 - c.[^3-4] da strade ferrate per le quali è garantito che si rinuncerà a lungo termine all’impiego di prodotti fitosanitari o, in caso di infiltrazione, se i prodotti fitosanitari sono sufficientemente trattenuti e degradati da uno strato di terreno biologicamente attivo.
 
-[^3-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^3-2]: [RS 814.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9475)
-[^3-3]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^3-4]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^3-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ### Sezione 2: Pianificazione dello smaltimento delle acque
 
@@ -190,7 +190,7 @@ L’autorità può rendere meno severe le esigenze se:
 - b. con l’immissione di sostanze non riciclabili nelle acque di scarico industriali si grava sull’ambiente in misura complessivamente minore che non con un’altra forma di smaltimento, e per le acque di scarico della stazione centrale di depurazione si rispettano le esigenze relative all’immissione in un ricettore naturale; oppure
 - c. questa misura è opportuna per l’esercizio dell’impianto di depurazione delle acque.
 
-[^7-1]: Abrogata dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^7-1]: Abrogata dal n. I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 8
 
@@ -331,7 +331,7 @@ L’autorità verifica periodicamente se:
 <sup>3</sup> Restano salve le disposizioni ulteriori dell’ordinanza del 27 febbraio 1991[^16-1] sulla protezione contro gli incidenti rilevanti e dell’ordinanza del 20 novembre 1991[^16-2] sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di emergenza.
 
 [^16-1]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
-[^16-2]: [[RU 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)cifra I n. 2. [RU 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Vedi ora l’O del 19 ago. 2020 sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di grave penuria ([RS 531.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7712)).
+[^16-2]: [[RU 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)n. I 2. [RU 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Vedi ora l’O del 19 ago. 2020 sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di grave penuria ([RS 531.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7712)).
 
 #### Art. 17
 
@@ -347,7 +347,7 @@ L’autorità verifica periodicamente se:
 
 <sup>5</sup> Restano salvi ulteriori obblighi di notifica e d’informazione previsti dall’ordinanza sulla protezione contro gli incidenti rilevanti.
 
-[^17-1]: Abrogato dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^17-1]: Abrogato dal n. I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 ## Capitolo 3: Smaltimento dei fanghi di depurazione
 
@@ -362,7 +362,7 @@ L’autorità verifica periodicamente se:
 Il piano di smaltimento definisce almeno:
 
 - a. le modalità di smaltimento dei fanghi prodotti nelle stazioni centrali di depurazione delle acque di scarico;
-- b. le misure necessarie, comprese la costruzione e la modificazione degli impianti destinati allo smaltimento dei fanghi di depurazione, e le scadenze della loro realizzazione;
+- b. le misure necessarie, comprese la costruzione e la modificazione degli impianti destinati allo smaltimento dei fanghi di depurazione, e le scadenze della loro realizzazione.
 - c.[^18-1] come effettuare il recupero del fosforo da rifiuti secondo gli articoli 15 e 15*a* dell’ordinanza del 4 dicembre 2015[^18-2] sui rifiuti, se non è descritto nel piano di gestione dei rifiuti di cui all’articolo 4 dell’ordinanza sui rifiuti.
 
 <sup>3</sup> Il piano di smaltimento è accessibile al pubblico.
@@ -393,8 +393,8 @@ Il piano di smaltimento definisce almeno:
 
 <sup>3</sup> ...[^20-2]
 
-[^20-1]: Abrogato dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
-[^20-2]: Abrogato dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^20-1]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
+[^20-2]: Abrogato dal n. I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 21
 
@@ -408,8 +408,8 @@ Il piano di smaltimento definisce almeno:
 
 <sup>4</sup> I fanghi di depurazione possono essere smaltiti in modo diverso da quanto previsto dal relativo piano cantonale soltanto con l’accordo dell’autorità cantonale. Se si prevede che i fanghi di depurazione siano eliminati in un altro Cantone, l’autorità cantonale consulta preventivamente l’autorità del Cantone destinatario.
 
-[^21-1]: Abrogato dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^21-2]: Abrogato dall’all. 3 cifra II n. 4 dell’O del 22 giu. 2005 sul traffico di rifiuti, in vigore dal 1° gen. 2006 ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)).
+[^21-1]: Abrogato dal n. I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^21-2]: Abrogato dall’all. 3 n. II 4 dell’O del 22 giu. 2005 sul traffico di rifiuti, in vigore dal 1° gen. 2006 ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)).
 
 ## Capitolo 4: Esigenze per le aziende con allevamento di bestiame da reddito
 
@@ -462,9 +462,9 @@ Sono aziende che svolgono compiti d’interesse pubblico (art. 14 cpv. 7 lett. b
 [^25-1]: Vedi anche la disp. trans. della mod. del 25 mag. 2011 alla fine del presente testo.
 [^25-2]: Nuovo testo giusta l’all. 9 n. 2 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^25-3]: Abrogato dall’all. 9 n. 2 dell’O del 23 ott. 2013 sui pagamenti diretti, con effetto dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^25-4]: Nuovo testo giusta la cifra II dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5881](https://fedlex.data.admin.ch/eli/oc/2010/841)).
-[^25-5]: Nuovo testo giusta la cifra III dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^25-6]: Introdotta dalla cifra III dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^25-4]: Nuovo testo giusta il n. II dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5881](https://fedlex.data.admin.ch/eli/oc/2010/841)).
+[^25-5]: Nuovo testo giusta il n. III dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^25-6]: Introdotta dal n. III dell’O del 25 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^25-7]: Nuovo testo giusta l’all. 9 n. 2 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^25-8]: Nuovo testo giusta l’all. 9 n. 2 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
@@ -513,8 +513,8 @@ Nella suddivisione del territorio in settori di protezione delle acque (art. 19 
 
 <sup>4</sup> Per la designazione dei settori di protezione delle acque e per la delimitazione delle zone e delle aree di protezione delle acque sotterranee si basano sulle conoscenze idrogeologiche disponibili; se queste ultime non sono sufficienti, provvedono all’esecuzione delle necessarie indagini idrogeologiche.
 
-[^29-1]: Nuova espr. giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^29-2]: Nuovo testo giusta la cifra II n. 9 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^29-1]: Nuova espr. giusta il n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^29-2]: Nuovo testo giusta il n. II 9 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 
 #### Art. 30
 
@@ -531,7 +531,7 @@ I Cantoni elaborano carte di protezione delle acque e, se necessario, le aggiorn
 
 <sup>2</sup> Le carte di protezione delle acque sono accessibili al pubblico. I Cantoni inviano all’Ufficio federale dell’ambiente (UFAM) e ai Cantoni limitrofi interessati le carte di protezione delle acque e ogni anno gli aggiornamenti in forma digitale.[^30-1]
 
-[^30-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^30-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 31
 
@@ -576,12 +576,12 @@ Nei settori particolarmente minacciati (art. 29) è necessaria un’autorizzazio
 
 <sup>4</sup> L’autorità accorda l’autorizzazione se con l’imposizione di oneri e condizioni è possibile garantire una sufficiente protezione delle acque; essa stabilisce anche le esigenze relative alla chiusura dell’impianto.
 
-[^32-1]: Abrogato dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
-[^32-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
-[^32-3]: Introdotta dalla cifra I dell’O del 18 ott. 2006 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)). Nuovo testo giusta l’all. 9 n. 2 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^32-4]: Introdotta dalla cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
-[^32-5]: Introdotta dalla cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
-[^32-6]: Introdotta dalla cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
+[^32-1]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
+[^32-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
+[^32-3]: Introdotta dal n. I dell’O del 18 ott. 2006 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)). Nuovo testo giusta l’all. 9 n. 2 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^32-4]: Introdotta dal n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
+[^32-5]: Introdotta dal n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
+[^32-6]: Introdotta dal n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
 
 #### Art. 32a
 
@@ -598,8 +598,8 @@ Un controllo visivo dei danni deve essere eseguito dall’interno ogni dieci ann
 
 <sup>3</sup> I detentori devono provvedere affinché il funzionamento dei sistemi indicatori di perdite degli impianti di deposito per liquidi nocivi alle acque venga controllato ogni due anni per i contenitori e le condotte a parete doppia e una volta l’anno per i contenitori e le condotte a parete semplice.
 
-[^32a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
-[^32a-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^32a-1]: Introdotto dal n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
+[^32a-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 ## Capitolo 6: Mantenimento di adeguati deflussi residuali
 
@@ -623,7 +623,7 @@ Nel determinare il potenziale ecologico delle acque si devono considerare:
 - a. l’importanza ecologica delle acque allo stato attuale;
 - b. la probabile importanza ecologica delle acque dopo aver rimosso, nei limiti di costi proporzionati, gli effetti pregiudizievoli causati dall’uomo.
 
-[^33a-1]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^33a-1]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 34
 
@@ -641,7 +641,7 @@ La domanda contiene:
 
 <sup>3</sup> Nell’ambito dei piani di protezione e utilizzazione delle acque sono considerate idonee le misure di compensazione che servono alla protezione delle acque o dei biotopi da esse dipendenti. Non vengono considerate le misure comunque necessarie in virtù delle prescrizioni federali sulla protezione dell’ambiente.
 
-[^34-1]: Nuova denominazione giusta la cifra I n. 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^34-1]: Nuova denominazione giusta il n. I 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 35
 
@@ -651,7 +651,7 @@ La domanda contiene:
 
 <sup>2</sup> Per i prelievi d’acqua per i quali occorre consultare la Confederazione e che non sottostanno all’EIA, l’autorità provvede affinché l’UFAM disponga del parere del competente servizio cantonale in merito al rapporto sui deflussi residuali o di un progetto definitivo di tale parere. L’UFAM può limitarsi a un controllo sommario dei documenti.[^35-1]
 
-[^35-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale, in vigore dal 1° ago. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^35-1]: Nuovo testo giusta il n. I 1 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale, in vigore dal 1° ago. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
 
 #### Art. 36
 
@@ -733,13 +733,13 @@ Gli articoli 36–40 si applicano per analogia anche ai progetti di prelievo per
 
 [^chap7-1]
 
-[^chap7-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^chap7-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ### Sezione 1: Spazio riservato alle acque e rivitalizzazione delle acque
 
 [^chap7-sec1-1]
 
-[^chap7-sec1-1]: Introdotta dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). Vedi anche le disp. trans. della mod. del 4 mag. 2011 alla fine del presente testo.
+[^chap7-sec1-1]: Introdotta dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). Vedi anche le disp. trans. della mod. del 4 mag. 2011 alla fine del presente testo.
 
 #### Art. 41a
 
@@ -790,8 +790,8 @@ Se non vi si oppongono interessi preponderanti, è possibile rinunciare a fissar
 - c. sono artificiali; oppure
 - d.[^41a-2] sono molto piccole.
 
-[^41a-1]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
-[^41a-2]: Introdotta dalla cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
+[^41a-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
+[^41a-2]: Introdotta dal n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
 #### Art. 41b
 
@@ -849,14 +849,14 @@ Non si applicano:
 - a. i capoversi 1-5 alla parte dello spazio riservato alle acque destinata esclusivamente a garantire l’utilizzazione delle acque;
 - b. i capoversi 3 e 4 allo spazio riservato alle acque di corsi d’acqua messi in galleria.
 
-[^41c-1]: Introdotta dalla cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
-[^41c-2]: Introdotta dalla cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
-[^41c-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^41c-1]: Introdotta dal n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
+[^41c-2]: Introdotta dal n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
+[^41c-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^41c-4]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^41c-5]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^41c-5]: Nuovo testo giusta il n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^41c-6]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^41c-7]: Nuovo testo giusta la cifra IV dell’O del 3 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^41c-8]: Introdotto dalla cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
+[^41c-7]: Nuovo testo giusta il n. IV dell’O del 3 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^41c-8]: Introdotto dal n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
 #### Art. 41c<sup>bis</sup>
 
@@ -866,7 +866,7 @@ Non si applicano:
 
 <sup>2</sup> Le superfici coltive idonee aventi la qualità di superfici per l’avvicendamento delle colture all’interno dello spazio riservato alle acque, necessarie per attuare provvedimenti edilizi di protezione contro le piene o di rivitalizzazione, devono essere compensate conformemente alle disposizioni del piano settoriale per l’avvicendamento delle colture (art. 29 dell’ordinanza del 28 giugno 2000 sulla pianificazione del territorio).
 
-[^41cbis-1]: Introdotto dalla cifra I dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
+[^41cbis-1]: Introdotto dal n. I dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 [^41cbis-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 41c<sup>ter</sup>
@@ -917,13 +917,13 @@ Nell’ambito di una pianificazione per un periodo di 20 anni, i Cantoni definis
 
 <sup>4</sup> I Cantoni rinnovano ogni 12 anni per un periodo di 20 anni la pianificazione di cui al capoverso 2 e un anno prima dell’adozione la sottopongono all’UFAM per parere.
 
-[^41d-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^41d-1]: Nuovo testo giusta il n. I 4 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 ### Sezione 2: Deflussi discontinui
 
 [^chap7-sec2-1]
 
-[^chap7-sec2-1]: Introdotta dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^chap7-sec2-1]: Introdotta dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 41e
 
@@ -961,13 +961,13 @@ I detentori di centrali idroelettriche devono consentire l’accesso all’autor
 <sup>3</sup> Su richiesta dell’autorità, i detentori di centrali idroelettriche esaminano l’efficacia delle misure adottate.
 
 [^41g-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
-[^41g-2]: Nuovo testo del per. giusta la cifra II n. 2 dell’all. 7 all’O del 1° nov. 2017 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
+[^41g-2]: Nuovo testo del per. giusta il n. II 2 dell’all. 7 all’O del 1° nov. 2017 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 ### Sezione 3: Spurgo e svuotamento dei bacini di accumulazione
 
 [^chap7-sec3-1]
 
-[^chap7-sec3-1]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^chap7-sec3-1]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 42
 
@@ -985,13 +985,13 @@ In caso di dilavamento dei sedimenti, l’autorità si assicura che il danno arr
 
 <sup>3</sup> I capoversi 1 e 2 non si applicano agli abbassamenti immediati del livello delle acque dovuti a eventi straordinari (art. 40 cpv. 3 LPAc).
 
-[^42-1]: Abrogata dalla cifra I dell’O del 4 mag. 2011, con effetto dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^42-1]: Abrogata dal n. I dell’O del 4 mag. 2011, con effetto dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ### Sezione 4: Bilancio in materiale detritico
 
 [^chap7-sec4-1]
 
-[^chap7-sec4-1]: Introdotta dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^chap7-sec4-1]: Introdotta dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 42a
 
@@ -999,7 +999,7 @@ In caso di dilavamento dei sedimenti, l’autorità si assicura che il danno arr
 
 Un pregiudizio arrecato dalla modifica del bilancio in materiale detritico alla fauna e alla flora indigene nonché ai loro biotopi è considerato sensibile quando le strutture o la dinamica morfologiche delle acque sono alterate in modo pregiudizievole da impianti quali centrali idroelettriche, prelievi di ghiaia, piazze di deposito o opere di sistemazione dei corsi d'acqua.
 
-[^42a-1]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^42a-1]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 42b
 
@@ -1017,7 +1017,7 @@ I detentori di impianti devono consentire l’accesso all’autorità incaricata
 - d. i risultati delle indagini condotte sul bilancio in materiale detritico;
 - e. le previste modifiche edili e d’esercizio dell’impianto.
 
-[^42b-1]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^42b-1]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 42c
 
@@ -1031,9 +1031,9 @@ I detentori di impianti devono consentire l’accesso all’autorità incaricata
 
 <sup>4</sup> Su richiesta dell’autorità, i detentori di centrali idroelettriche esaminano l’efficacia delle misure adottate.
 
-[^42c-1]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^42c-1]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^42c-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
-[^42c-3]: Nuovo testo del per. giusta la cifra II n. 2 dell’all. 7 all’O del 1° nov. 2017 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
+[^42c-3]: Nuovo testo del per. giusta il n. II 2 dell’all. 7 all’O del 1° nov. 2017 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
 #### Art. 43
 
@@ -1054,7 +1054,7 @@ Per evitare che in caso di estrazione di sabbia, ghiaia e altri materiali sia pr
 
 [^chap7-sec5-1]
 
-[^chap7-sec5-1]: Introdotta dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^chap7-sec5-1]: Introdotta dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 44
 
@@ -1077,8 +1077,8 @@ L’autorità stabilisce in base alla situazione locale:
 - a. le esigenze per l’immissione nei laghi e per l’infiltrazione;
 - b. se necessario, altre esigenze per l’immissione nei corsi d’acqua.
 
-[^44-1]: Abrogata dalla cifra I dell’O del 4 mag. 2011, con effetto dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^44-2]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1685](https://fedlex.data.admin.ch/eli/oc/2018/251)).
+[^44-1]: Abrogata dal n. I dell’O del 4 mag. 2011, con effetto dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^44-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1685](https://fedlex.data.admin.ch/eli/oc/2018/251)).
 
 ## Capitolo 8: Esecuzione
 
@@ -1096,8 +1096,8 @@ L’autorità stabilisce in base alla situazione locale:
 
 <sup>5</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (Dipartimento) può, in caso di necessità, modificare gli elenchi dei parametri e delle esigenze relative alla qualità delle acque, espresse in valori numerici, di cui all’allegato 2 numero 11 capoverso 3, numero 12 capoverso 5 e numero 22 capoverso 2.[^45-2]
 
-[^45-1]: Nuovo testo giusta la cifra II n. 12 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^45-2]: Introdotto dalla cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^45-1]: Nuovo testo giusta il n. II 12 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^45-2]: Introdotto dal n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 46
 
@@ -1111,9 +1111,9 @@ L’autorità stabilisce in base alla situazione locale:
 
 <sup>3</sup> Nel concedere autorizzazioni d’immissione o d’infiltrazione ai sensi degli articoli 6 a 8, l’autorità tiene conto anche delle esigenze della legge del 7 ottobre 1983[^46-4] sulla protezione dell’ambiente riguardo alla protezione della popolazione dalle immissioni di odori, nonché delle esigenze della legge del 13 marzo 1964[^46-5] sul lavoro e della legge del 20 marzo 1981[^46-6] sull’assicurazione contro gli infortuni in merito alla protezione della salute del personale addetto agli impianti di smaltimento delle acque di scarico.
 
-[^46-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^46-2]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^46-3]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^46-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^46-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^46-3]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 [^46-4]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^46-5]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 [^46-6]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
@@ -1143,7 +1143,7 @@ Se constata che le acque non corrispondono alle esigenze fissate nell’allegato
 
 <sup>3</sup> Ogni quattro anni i Cantoni presentano un rapporto all’UFAM sullo stato dei rilevamenti e dei controlli e sulle lacune riscontrate e la loro eliminazione.
 
-[^47a-1]: Introdotto dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)). Vedi anche le disp. trans. di detta mod. qui avanti.
+[^47a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)). Vedi anche le disp. trans. di detta mod. qui avanti.
 
 #### Art. 48
 
@@ -1156,7 +1156,7 @@ Se constata che le acque non corrispondono alle esigenze fissate nell’allegato
 <sup>3</sup> Entro il 1° giugno di ogni anno, i Cantoni comunicano all’UFAM, secondo le modalità prescritte da quest’ultimo, i risultati delle analisi e degli accertamenti sulla presenza di pesticidi nelle acque.[^48-2]
 
 [^48-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^48-2]: Introdotto dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
+[^48-2]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
 
 #### Art. 48a
 
@@ -1187,7 +1187,7 @@ Un valore limite secondo l’articolo 9 capoverso 3 LPAc è considerato superato
 - b. è superato almeno nel 10 per cento delle acque analizzate; e
 - c. i superamenti di cui alle lettere a e b sono misurati durante almeno due di cinque anni consecutivi.
 
-[^48a-1]: Introdotto dalla cifra I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
+[^48a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
 
 #### Art. 49
 
@@ -1197,7 +1197,7 @@ Un valore limite secondo l’articolo 9 capoverso 3 LPAc è considerato superato
 
 <sup>2</sup> I Cantoni informano sullo stato e sulla protezione delle acque nel loro territorio; a tal fine danno indicazioni sulle misure adottate e la relativa efficacia nonché sui luoghi di balneazione che non adempiono le condizioni richieste per la balneazione (all. 2 n. 11 cpv. 1 lett. e).[^49-1]
 
-[^49-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^49-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 49a
 
@@ -1212,7 +1212,7 @@ L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi 
 
 [^50-1]
 
-[^50-1]: Abrogato dalla cifra III n. 2 dell’O del 12 ago. 2015, con effetto dal 1° ott. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)).
+[^50-1]: Abrogato dal n. III 2 dell’O del 12 ago. 2015, con effetto dal 1° ott. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)).
 
 #### Art. 51
 
@@ -1230,18 +1230,18 @@ Il Dipartimento è abilitato ad approvare, con l’accordo del Dipartimento fede
 
 <sup>3</sup> Il Dipartimento nomina i membri delle delegazioni svizzere presso le commissioni internazionali per la protezione delle acque.[^51-6]
 
-[^51-1]: Nuovo testo giusta la cifra II n. 12 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^51-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^51-1]: Nuovo testo giusta il n. II 12 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^51-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^51-3]: FF **1993** III 722
 [^51-4]: [RU **1965** 395, [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93)art. 2. [RU 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)art. 19 n. 1 lett. a]. Vedi ora la Conv. del 12 apr. 1999 per la protezione del Reno ([RS 0.814.284](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3509)).
 [^51-5]: [RU **1979** 96, [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [RU 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)art. 19 n. 1 lett. c]
-[^51-6]: Introdotto dalla cifra II n. 12 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^51-6]: Introdotto dal n. II 12 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ## Capitolo 8*a*: Tassa federale sulle acque di scarico
 
 [^chap8a-1]
 
-[^chap8a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^chap8a-1]: Introdotto dal n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 51a
 
@@ -1268,7 +1268,7 @@ I Cantoni devono devono trasmettere all’UFAM:
 
 <sup>3</sup> Il termine di pagamento è di 60 giorni a partire dall’esigibilità. La tassa diventa esigibile al momento della ricezione della fattura oppure, qualora la fattura sia contestata, con il passaggio in giudicato della decisione relativa all’emolumento di cui al capoverso 1. In caso di pagamento ritardato viene addebitato un interesse di mora del 5 per cento.[^51c-1]
 
-[^51c-1]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
+[^51c-1]: Nuovo testo giusta il n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
 #### Art. 51d
 
@@ -1291,7 +1291,7 @@ Il termine di prescrizione s’interrompe e decorre da capo:
 
 [^chap9-sec1-1]
 
-[^chap9-sec1-1]: Nuovo testo giusta la cifra I n. 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^chap9-sec1-1]: Nuovo testo giusta il n. I 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 52
 
@@ -1303,7 +1303,7 @@ Il termine di prescrizione s’interrompe e decorre da capo:
 
 <sup>3</sup> L’ammontare delle indennità globali è negoziato tra l’UFAM e il Cantone interessato.
 
-[^52-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^52-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 52a
 
@@ -1317,7 +1317,7 @@ Il termine di prescrizione s’interrompe e decorre da capo:
 
 <sup>4</sup> Prima di prendere una decisione in merito alla misura, l’autorità consulta l’UFAM.
 
-[^52a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^52a-1]: Introdotto dal n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 #### Art. 53
 
@@ -1343,7 +1343,7 @@ Sono accordate indennità nel singolo caso per la pianificazione, la costruzione
 
 <sup>2</sup> L’ammontare delle indennità globali è negoziato tra l’UFAM e il Cantone interessato.
 
-[^54a-1]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^54a-1]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 54b
 
@@ -1378,7 +1378,7 @@ Le indennità possono essere concesse nel singolo caso se le misure:
 
 <sup>6</sup> Le indennità di cui all’articolo 62*b* capoverso 1 LPAc non sono concesse per le misure che risultano necessarie in applicazione dell’articolo 4 della legge federale del 21 giugno 1991[^54b-3] sulla sistemazione dei corsi d’acqua.
 
-[^54b-1]: Introdotto dalla cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^54b-1]: Introdotto dal n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^54b-2]: Vedi anche le disp. trans. della mod. del 4 mag. 2011 alla fine del presente testo.
 [^54b-3]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
@@ -1462,7 +1462,7 @@ Non sono computabili per le indennità di cui all’articolo 54*b* in particolar
 - a. gli emolumenti dovuti;
 - b. i costi per la creazione di valori aggiunti rilevanti che derivano dalla misura, indipendentemente dalla rivitalizzazione;
 
-[^58-1]: Nuovo testo giusta l’all. n. 3 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+[^58-1]: Nuovo testo giusta l’all. n. 3 dell’O del 25 giu. 2025sulla sistemazione dei corsi d’acqua , in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 ### c. i costi per le spese amministrative.
 
@@ -1470,7 +1470,7 @@ Non sono computabili per le indennità di cui all’articolo 54*b* in particolar
 
 [^chap9-sec2-1]
 
-[^chap9-sec2-1]: Nuovo testo giusta la cifra I n. 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^chap9-sec2-1]: Nuovo testo giusta il n. I 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 59
 
@@ -1515,8 +1515,8 @@ L’accordo programmatico è stipulato per una durata di:
 
 <sup>4</sup> L’Ufficio federale competente emana direttive relative alla procedura in materia di accordi programmatici, nonché alle informazioni e ai documenti riguardanti l’oggetto dell’accordo programmatico.
 
-[^60-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
-[^60-2]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^60-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^60-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 #### Art. 61
 
@@ -1560,7 +1560,7 @@ L’Ufficio federale competente sospende totalmente o in parte i pagamenti ratea
 
 [^chap9-sec3-1]
 
-[^chap9-sec3-1]: Introdotta dalla cifra I n. 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^chap9-sec3-1]: Introdotta dal n. I 13 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 61c
 
@@ -1630,7 +1630,7 @@ Gli impianti e gli elementi d’impianto costruiti conformemente alle prescrizio
 - b. 20 metri, per i corsi d’acqua con un fondo dell’alveo di larghezza superiore ai 12 metri;
 - c. 20 metri, per le acque stagnanti con una superficie superiore a 0,5 ettari.
 
-[^u2-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 31 mag. 2024 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2025–2028, in vigore dal 1° gen. 2025 ([RU 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
+[^u2-2]: Nuovo testo giusta il n. I 1 dell’O del 31 mag. 2024 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2025–2028, in vigore dal 1° gen. 2025 ([RU 2024 252](https://fedlex.data.admin.ch/eli/oc/2024/252)).
 
 ## Disposizione transitoria relativa alla modifica del 25 maggio 2011
 
@@ -1723,7 +1723,7 @@ Allegato 2[^t-1]
 
 ## Esigenze relative alla qualità delle acque
 
-[^t-1]: Aggiornato dall’all. 2 n. 4 dell’O del 23 giu. 1999 sui prodotti fitosanitari ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dalla cifra II n. 9 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dalla cifra III dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla correzione del 2 feb. 2016 ([RU 2016 473](https://fedlex.data.admin.ch/eli/oc/2016/78)), dalla cifra I dell'O dell’11 apr. 2018 ([RU 2018 1685](https://fedlex.data.admin.ch/eli/oc/2018/251)) e dalla cifra I dell'O del DATEC del 13 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 515](https://fedlex.data.admin.ch/eli/oc/2020/97)).
+[^t-1]: Aggiornato dall’all. 2 n. 4 dell’O del 23 giu. 1999 sui prodotti fitosanitari ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dal n. II 9 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dal n. III dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla correzione del 2 feb. 2016 ([RU 2016 473](https://fedlex.data.admin.ch/eli/oc/2016/78)), dal n. I dell'O dell’11 apr. 2018 ([RU 2018 1685](https://fedlex.data.admin.ch/eli/oc/2018/251)) e dal n. I dell'O del DATEC del 13 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 515](https://fedlex.data.admin.ch/eli/oc/2020/97)).
 
 ### 1 Acque superficiali
 
@@ -1875,7 +1875,7 @@ Allegato 3.1[^t-2]
 
 ## Immissione delle acque di scarico comunali in un ricettore naturale
 
-[^t-2]: Aggiornato dalla cifra I dell’O del 31 ott. 2001 ([RU 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), dalla cifra III dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla correzione del 7 feb. 2017 ([RU 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)) e dalla cifra I dell’O del 17 apr. 2019, in vigore dal 1° gen. 2021 ([RU 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Vedi anche le disp. trans. della mod. del 4 nov. 2015 qui avanti.
+[^t-2]: Aggiornato dal n. I dell’O del 31 ott. 2001 ([RU 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), dal n. III dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla correzione del 7 feb. 2017 ([RU 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° gen. 2021, cifra 2 esigenza n. 8 5° trattino entra in vigore il 1° gen. 2028 ([RU 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Vedi anche le disp. trans. della mod. del 4 nov. 2015 qui avanti.
 
 ### 1 Definizioni e generalità
 
@@ -1900,19 +1900,17 @@ Allegato 3.1[^t-2]
 <tr><td>2</td><td>Richiesta di ossigeno chimica *(COD)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE: – concentrazione in uscita: 60 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 80 % Per acque di scarico da impianti di 10 000 AE e più: – concentrazione in uscita: 45 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 85 %</td></tr>
 <tr><td>3</td><td>Carbonio organico disciolto *(DOC)*</td><td>Per acque di scarico da impianti di 2000 e più AE: – concentrazione in uscita: 10 mg/l ed – efficienza depurativa: 85 %, espressa come segue:</td></tr>
 <tr><td></td><td></td><td>100 • (1 – mg DOC nelle acque di scarico depurate mg carbonio organico totale nelle acque di scarico non trattate</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/it/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
 <tr><td>4</td><td>Trasparenza *(secondo Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e* *NH**<sub>3</sub>* – *N)*</td><td>Se le concentrazioni di ammonio nelle acque di scarico possono avere effetti pregiudizievoli sulla qualità di un corso d’acqua, per una temperatura dell’acqua superiore ai 10 °C valgono i seguenti valori: – concentrazione in uscita: 2 mg/l N ed – efficienza depurativa: 90 %, espressa come segue:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/it/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In questi casi si deve eseguire una nitrificazione durante tutto l’anno. *Nota:* il valore dell’azoto ottenuto con il metodo di Kjeldahl corrisponde alla somma dell’azoto contenuto nei sali di ammonio, nell’ammoniaca e nei composti organici azotati.</td></tr>
 <tr><td>6</td><td>Nitrito *(NO**<sub>2</sub>*<sup>–</sup> - *N)*</td><td>0.3 mg/l N (valore indicativo)</td></tr>
 <tr><td>7</td><td>Composti organici alogenati adsorbibili *(AOX)*</td><td>0.08 mg/l X Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
-<tr><td>8</td><td>Sostanze organiche che già a basse concentrazioni sono suscettibili di inquinare le acque *(sostanze organiche in tracce)*</td><td>L’efficienza depurativa, riferita alle acque di scarico non trattate e misurata in base a determinate sostanze, deve essere dell’80 % per le acque di scarico di: – impianti con più di 80 000 abitanti allacciati; – impianti con più di 24 000 abitanti allacciati nel bacino imbrifero di laghi; il Cantone può autorizzare deroghe se il beneficio di una depurazione è esiguo per l’ambiente e per l’approvvigionamento di acqua potabile; – impianti con più di 8000 abitanti allacciati che immettono acque di scarico inquinate in un corso d’acqua con una quota di oltre il 10 % di acque di scarico che non sono state trattate per eliminare le sostanze organiche in tracce; il Cantone designa gli impianti, che devono adottare misure, nel quadro di una pianificazione nel bacino imbrifero; – altri impianti con più di 8000 abitanti allacciati se la depurazione è necessaria a causa di particolari condizioni idrogeologiche; –[^annex31-lvlu1-lvl2-1] ... Il Dipartimento stabilisce in un’ordinanza le sostanze sulla base delle quali misurare l’efficienza depurativa e le modalità di calcolo.</td></tr>
+<tr><td>8</td><td>Sostanze organiche che già a basse concentrazioni sono suscettibili di inquinare le acque *(sostanze organiche in tracce)*</td><td>L’efficienza depurativa, riferita alle acque di scarico non trattate e misurata in base a determinate sostanze, deve essere dell’80 % per le acque di scarico di: – impianti con più di 80 000 abitanti allacciati; – impianti con più di 24 000 abitanti allacciati nel bacino imbrifero di laghi; il Cantone può autorizzare deroghe se il beneficio di una depurazione è esiguo per l’ambiente e per l’approvvigionamento di acqua potabile; – impianti con più di 8000 abitanti allacciati che immettono acque di scarico inquinate in un corso d’acqua con una quota di oltre il 10 % di acque di scarico che non sono state trattate per eliminare le sostanze organiche in tracce; il Cantone designa gli impianti, che devono adottare misure, nel quadro di una pianificazione nel bacino imbrifero; – altri impianti con più di 8000 abitanti allacciati se la depurazione è necessaria a causa di particolari condizioni idrogeologiche; – impianti con più di 1000 abitanti allacciati che immettono acque di scarico inquinate in acque con una quota di oltre il 20 % di acque di scarico che non sono state trattate per eliminare le sostanze organiche in tracce, se le acque si trovano in una zona sensibile a livello ecologico oppure è importante per l’approvvigionamento di acqua potabile e se il Cantone impone agli impianti la depurazione nel quadro di una pianificazione nel bacino imbrifero. Il Dipartimento stabilisce in un’ordinanza le sostanze sulla base delle quali misurare l’efficienza depurativa e le modalità di calcolo.</td></tr>
 <tr><td>9</td><td>Richiesta di ossigeno biochimica *(**BOD**<sub>5</sub>* *con inibizione della nitrificazione)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE, le cui concentrazioni di BOD<sub>5</sub> nelle acque di scarico hanno effetti pregiudizievoli sulla qualità di un corso d’acqua: – concentrazione in uscita: 20 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 90 % Per acque di scarico da impianti di 10 000 AE e più, le cui concentrazioni di BOD<sub>5</sub> nelle acque di scarico hanno effetti pregiudizievoli sulla qualità di un corso d’acqua: – concentrazione in uscita: 15 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 90 %</td></tr>
 </table>
-
-[^annex31-lvlu1-lvl2-1]: In vigore dal 1° gen. 2028 ([RU 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)).
 
 ### 3 Esigenze supplementari relative all’immissione di acque di scarico in acque sensibili
 
@@ -1965,7 +1963,7 @@ Allegato 3.2[^t-3]
 
 ## Immissione delle acque di scarico industriali in un ricettore naturale o nella canalizzazione pubblica
 
-[^t-3]: Aggiornato dalla cifra I dell’O del 22 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4043](https://fedlex.data.admin.ch/eli/oc/2003/590)).
+[^t-3]: Aggiornato dal n. I dell’O del 22 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4043](https://fedlex.data.admin.ch/eli/oc/2003/590)).
 
 ### 1 Definizioni e principi
 
@@ -2097,7 +2095,7 @@ Allegato 3.3[^t-4]
 
 ## Immissione di altre acque di scarico inquinate in un ricettore naturale o nella canalizzazione pubblica
 
-[^t-4]: Aggiornato dalla cifra I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1685](https://fedlex.data.admin.ch/eli/oc/2018/251)).
+[^t-4]: Aggiornato dal n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1685](https://fedlex.data.admin.ch/eli/oc/2018/251)).
 
 ### 1 Esigenze generali
 
@@ -2194,7 +2192,7 @@ Allegato 4[^t-5]
 
 ## Pianificazione della protezione delle acque
 
-[^t-5]: Aggiornato dall’all. 2 n. 4 dell’O del 23 giu. 1999 sui prodotti fitosanitari ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dalla cifra II n. 9 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della L sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dalla cifra II dell’O del 18 ott. 2006 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)), dalla cifra II cpv. 1 dell’O del 4 mag. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)) e dalla cifra III dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Vedi anche le disp. trans della mod. del 4 nov. 2015 qui avanti.
+[^t-5]: Aggiornato dall’all. 2 n. 4 dell’O del 23 giu. 1999 sui prodotti fitosanitari ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dal n. II 9 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della L sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dal n. II dell’O del 18 ott. 2006 ([RU 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)), dal n. II cpv. 1 dell’O del 4 mag. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)) e dal n. III dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). Vedi anche le disp. trans della mod. del 4 nov. 2015 qui avanti.
 
 ### 1 Designazione dei settori di protezione delle acque particolarmente minacciati e delimitazione delle zone e delle aree di protezione delle acque sotterranee
 
@@ -2381,7 +2379,7 @@ Allegato 4a[^t-6]
 
 ## Pianificazione delle misure di risanamento dei deflussi discontinui e del bilancio in materiale detritico
 
-[^t-6]: Introdotto dalla cifra II cpv. 2 dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
+[^t-6]: Introdotto dal n. II cpv. 2 dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
 ### 1 Definizione
 
@@ -2436,8 +2434,8 @@ Sono abrogati:
 - c. l’ordinanza del 22 ottobre 1981[^annex5-lvlu1-lvl1-3] concernente le carte d’azzonamento per la protezione delle acque;
 - d. il regolamento del 9 agosto 1972[^annex5-lvlu1-lvl1-4] per la Commissione federale della protezione delle acque.
 
-[^annex5-lvlu1-lvl1-1]: [RU **1972** 967; [1980 48](https://fedlex.data.admin.ch/eli/oc/1980/48_48_48); [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)cifra II n. 2; [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 6; [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)cifra I, II]
-[^annex5-lvlu1-lvl1-2]: [[RU 1975 2403](https://fedlex.data.admin.ch/eli/oc/1975/2403_2403_2403), [1989 2048](https://fedlex.data.admin.ch/eli/oc/1989/2048_2048_2048), [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)cifra IV n. 5]
+[^annex5-lvlu1-lvl1-1]: [RU **1972** 967; [1980 48](https://fedlex.data.admin.ch/eli/oc/1980/48_48_48); [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)n. II 2; [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 6; [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. I, II]
+[^annex5-lvlu1-lvl1-2]: [[RU 1975 2403](https://fedlex.data.admin.ch/eli/oc/1975/2403_2403_2403), [1989 2048](https://fedlex.data.admin.ch/eli/oc/1989/2048_2048_2048), [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. IV 5]
 [^annex5-lvlu1-lvl1-3]: [[RU 1981 1738](https://fedlex.data.admin.ch/eli/oc/1981/1738_1738_1738)]
 [^annex5-lvlu1-lvl1-4]: [RU **1972** 1708]
 

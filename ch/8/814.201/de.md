@@ -4,11 +4,11 @@ title: Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
 short: GSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: de
-version: 2025-12-01
+version: 2028-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20251201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20280101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de"
 
 (GSchV)
 
-vom 28. Oktober 1998 (Stand am 1. Dezember 2025)
+vom 28. Oktober 1998 (Stand am 1. Januar 2028)
 
 Der Schweizerische Bundesrat,
 
@@ -1874,7 +1874,7 @@ Anhang 3.1[^t-2]
 
 ## Einleitung von kommunalem Abwasser in Gewässer
 
-[^t-2]: Bereinigt gemäss Ziff. I der V vom 31. Okt. 2001 ([AS 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), Ziff. III der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Jan. 2021 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Siehe auch die UeB Änd. 04.11.2015 hiervor. Die Berichtigung vom 7. Febr. 2017 betrifft nur den italienischen Text ([AS 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)).
+[^t-2]: Bereinigt gemäss Ziff. I der V vom 31. Okt. 2001 ([AS 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), Ziff. III der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Jan. 2021, mit Ausnahme von Ziff. 2 Nr. 8 5. Strich, in Kraft seit 1. Jan. 2028 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Siehe auch die UeB Änd. 04.11.2015 hiervor.
 
 ### 1 Begriff und Grundsätze
 
@@ -1898,11 +1898,11 @@ Anhang 3.1[^t-2]
 <tr><td>1</td><td>Gesamte ungelöste Stoffe</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 20 mg/l Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 15 mg/l</td></tr>
 <tr><td>2</td><td>Chemischer Sauerstoffbedarf *(CSB)*</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 60 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 80 % Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 45 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 85 %</td></tr>
 <tr><td>3</td><td>Gelöster organischer Kohlenstoff *(DOC)*</td><td>Für Abwasser aus Anlagen ab 2000 EW gilt: – Abflusskonzentration: 10 mg/l und – Reinigungseffekt: 85 %, ausgedrückt in</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/de/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>
 <tr><td>4</td><td>Durchsichtigkeit *(nach Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(Summe von* *NH**<sub>4</sub>**<sup>+</sup>* *- N und NH**<sub>3</sub>* *- N)*</td><td>Können die Ammoniumkonzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt für eine Abwassertemperatur von mehr als 10 °C: – Abflusskonzentration: 2 mg/l N und – Wirkungsgrad der Behandlung: 90 %, ausgedrückt in</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20280101/de/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In diesen Fällen ist die Nitrifikation ganzjährig durchzuführen. *Hinweis:* Der Kjeldahl-Stickstoff ist die Summe von Ammonium-Stickstoff, Ammoniak-Stickstoff und organischem Stickstoff.</td></tr>
 <tr><td>6</td><td>Nitrit *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0,3 mg/l N (Richtwert)</td></tr>
 <tr><td>7</td><td>Adsorbierbare organische Halogenverbindungen *(AOX)*</td><td>0,08 mg/l X. Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>
@@ -2310,7 +2310,7 @@ Die Grundwasserschutzareale werden so ausgeschieden, dass die Standorte der Grun
 
 Werden bei der Bodenbewirtschaftung in den Zuströmbereichen Z<sub>u</sub> und Z<sub>o</sub> wegen der Abschwemmung und Auswaschung von Stoffen wie Pflanzenschutzmitteln oder Düngern Gewässer verunreinigt, so legen die Kantone die zum Schutz des Wassers erforderlichen Massnahmen fest. Als solche gelten beispielsweise:
 
-- a. Verwendungseinschränkungen für Pflanzenschutzmittel und für Dünger, welche die Kantone nach den Anhängen 2.5 Ziffer 1.1 Absatz 4 und 2.6 Ziffer 3.3.1 Absatz 3 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^annex4-lvlu1-lvl2-lvl21-lvl212-1] (ChemRRV) festlegen;
+- a. Verwendungseinschränkungen für Pflanzenschutzmittel und für Dünger, welche die Kantone nach den Anhängen 2.5 Ziffer 1.1 Absatz 4 und 2.6 Ziffer 3.3.1 Absatz 3 ChemRRV[^annex4-lvlu1-lvl2-lvl21-lvl212-1] festlegen;
 - b. Einschränkung der acker- und gemüsebaulichen Produktionsflächen;
 - c. Einschränkung bei der Kulturwahl, bei der Fruchtfolge und bei Anbauverfahren;
 - d. Verzicht auf Wiesenumbruch im Herbst;
@@ -2350,13 +2350,17 @@ Werden bei der Bodenbewirtschaftung in den Zuströmbereichen Z<sub>u</sub> und Z
 - b. bauliche Eingriffe, die nachteilige Auswirkungen auf die Hydrodynamik des Grundwassers haben;
 - c. Versickerung von Abwasser, ausgenommen die Versickerung von nicht verschmutztem Abwasser (Art. 3 Abs. 3) über eine biologisch aktive Bodenschicht sowie von verschmutztem kommunalem Abwasser aus Kleinkläranlagen unter Einhaltung der Anforderungen von Artikel 8 Absatz 2, wenn der Aufwand für eine Ableitung des kommunalen Abwassers aus der Schutzzone unverhältnismässig wäre und eine Gefährdung der Trinkwassernutzung ausgeschlossen werden kann;
 - d. nachteilige Verminderungen der schützenden Überdeckung (Boden und Deckschicht);
-- e. Rohrleitungen, die dem Rohrleitungsgesetz vom 4. Oktober 1963 unterstehen; ausgenommen sind Gasleitungen;
+- e. Rohrleitungen, die dem Rohrleitungsgesetz vom 4. Oktober 1963[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1] unterstehen; ausgenommen sind Gasleitungen;
 - f. Kreisläufe, die Wärme dem Untergrund entziehen oder an den Untergrund abgeben;
 - g. erdverlegte Lagerbehälter und Rohrleitungen mit wassergefährdenden Flüssigkeiten;
 - h. Lagerbehälter mit wassergefährdenden Flüssigkeiten mit mehr als 450 l Nutzvolumen je Schutzbauwerk; ausgenommen sind freistehende Lagerbehälter mit Heiz- oder Dieselöl zur Energieversorgung von Gebäuden oder Betrieben für längstens zwei Jahre; das gesamte Nutzvolumen darf höchstens 30 m<sup>3</sup> je Schutzbauwerk betragen;
-- i. Betriebsanlagen mit wassergefährdenden Flüssigkeiten mit mehr als 2000 l Nutzvolumen; ausgenommen sind Anlagen die gemäss Artikel 7 Absatz 2 der Schwachstromverordnung vom 30. März 1994 oder Artikel 7 Absatz 2 der Starkstromverordnung vom 30. März 1994 in der Zone S3 zugelassen sind.
+- i. Betriebsanlagen mit wassergefährdenden Flüssigkeiten mit mehr als 2000 l Nutzvolumen; ausgenommen sind Anlagen die gemäss Artikel 7 Absatz 2 der Schwachstromverordnung vom 30. März 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2] oder Artikel 7 Absatz 2 der Starkstromverordnung vom 30. März 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3] in der Zone S3 zugelassen sind.
 
 <sup>2</sup> Für die Verwendung von Holzschutzmitteln, Pflanzenschutzmitteln und Düngern gelten die Anhänge 2.4 Ziffer 1, 2.5 und 2.6 ChemRRV.
+
+[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1]: [SR 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2]: [SR 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
+[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3]: [SR 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ### 221<sup>ter</sup> Zone S<sub>h</sub>
 
