@@ -4,13 +4,12 @@ number: "210.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EG ZGB
 language: de
-version: 2025-10-01
-valid_until: 2027-12-31
-version_adopted: 2025-04-02
+version: 2028-01-01
+version_adopted: 2026-02-04
 adopted: 1991-07-03
 in_force: 1992-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/210.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2946/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3043/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ EG ZGB[^t-1]
 
 (EG ZGB)
 
-vom 03.07.1991 (Stand 01.10.2025)
+vom 03.07.1991 (Stand 01.01.2028)
 
 [^t-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -190,13 +189,20 @@ vom 03.07.1991 (Stand 01.10.2025)
 
 **Pflegekinderfachstelle**
 
-<sup>1</sup> Das zuständige Departement bezeichnet eine Fachstelle, welche in seinem Auftrag folgende Aufgaben wahrnimmt:
+<sup>1</sup> Das zuständige Departement bezeichnet eine Fachstelle, die in seinem Auftrag folgende Aufgaben wahrnimmt:
 
-- 1\. Abklärung von Gesuchen, Behandlung von Bewilligungsverfahren und Ausübung der Aufsicht im Bereich der ausserfamiliären Kinderbetreuung;
-- 2\. Vermittlung von geeigneten Plätzen zur ausserfamiliären Kinderbetreuung, soweit diese Aufgabe nicht von Dritten wahrgenommen wird;
-- 3\. fachliche Begutachtung und Beratung in allen Fragen der ausserfamiliären Kinderbetreuung;
-- 4\. Begleitung und Krisenintervention bei ausserfamiliärer Kinderbetreuung, soweit diese Aufgaben nicht von Dritten wahrgenommen werden;
-- 5\. Sicherstellung der Aus- und Weiterbildung von Personen, welche im Bereich der ausserfamiliären Kinderbetreuung tätig sind.
+- 1\. Abklärung von Gesuchen, Behandlung von Bewilligungsverfahren und Ausübung der Aufsicht im Bereich der ausserfamiliären Kinderbetreuung
+- 2\. Vermittlung von geeigneten Plätzen bei Fremdunterbringung
+- 3\. Fachliche Begutachtung und Beratung in allen Fragen der ausserfamiliären Kinderbetreuung
+- 4\. Begleitung und Krisenintervention bei Fremdunterbringung
+- 5\. Sicherstellung der Aus- und Weiterbildung von Personen, die im Bereich der ausserfamiliären Kinderbetreuung tätig sind
+
+<sup>2</sup> Der Kanton trägt die Kosten für die Begleitung von Betreuungsverhältnissen im Bereich der Fremdunterbringung, sofern
+
+- 1\. das Pflegekind seinen Unterstützungswohnsitz im Kanton Thurgau hat,
+- 2\. es sich um eine behördlich angeordnete Fremdunterbringung handelt,
+- 3\. die Begleitung bedarfsgerecht und diese nicht bereits behördlich angeordnet ist und
+- 4\. sich die Kosten im Rahmen der Pflegegeldrichtlinien des Kantons Thurgau bewegen.
 
 #### § 11c
 
@@ -969,10 +975,6 @@ vom 03.07.1991 (Stand 01.10.2025)
 
 #### § 86
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt nach Genehmigung durch den Bundesrat auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^86-1].
-
-[^86-1]: In Kraft gesetzt auf den 1. Juni 1992, vom Bund genehmigt am 27. August 1991.
+**…**
 
 ABl. 7/1992
