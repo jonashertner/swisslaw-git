@@ -3,20 +3,19 @@ canton: SO
 number: "121.1"
 title: Kantonsratsgesetz
 language: de
-version: 2025-08-01
-valid_until: 2026-12-31
-version_adopted: 2024-11-06
+version: 2027-01-01
+version_adopted: 2026-06-16
 adopted: 1989-09-24
 in_force: 1990-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.1"
-pdf: "https://bgs.so.ch/api/de/versions/5550/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5652/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsgesetz
 
-Vom 24.09.1989 (Stand 01.08.2025)
+Vom 24.09.1989 (Stand 01.01.2027)
 
 Der Kantonsrat von Solothurn
 
@@ -24,7 +23,7 @@ gestützt auf Artikel 69 der Kantonsverfassung vom 8. Juni 1986 nach Kenntnisnah
 
 beschliesst:
 
-## 1. Wahl; Konstituierung
+## 1. Wahl, Konstituierung und Vertretung infolge Mutterschaft
 
 #### § 1
 
@@ -41,6 +40,33 @@ beschliesst:
 <sup>1</sup> Nach der Gesamterneuerung wird der Kantonsrat von der Staatskanzlei zur konstituierenden Sitzung einberufen.
 
 <sup>2</sup> Das älteste bisherige Mitglied führt bis zur Wahl des Präsidenten den Vorsitz.
+
+#### § 2bis
+
+**Vertretung infolge Mutterschaft a) Grundsätze**
+
+<sup>1</sup> Die Ratsmitglieder können sich bei Verhinderung infolge Mutterschaft während drei bis zwölf Monaten vertreten lassen.
+
+<sup>2</sup> Die Bestimmung der vertretenden Person erfolgt in analoger Anwendung der für das Nachrücken geltenden Rechtsbestimmungen.
+
+<sup>3</sup> Der vertretenden Person kommen während der Dauer der Vertretung dieselben Rechte und Pflichten wie dem vertretenen Ratsmitglied zu. Die Einsitznahme in Kommissionen richtet sich nach dem Geschäftsreglement.
+
+<sup>4</sup> Während der Vertretung ruhen die Rechte und Pflichten des vertretenen Ratsmitglieds. Der Zugang zu den allgemeinen Informationen für Ratsmitglieder bleibt bestehen.
+
+#### § 2ter
+
+**b) Verfahren**
+
+<sup>1</sup> Das Ratsmitglied, das sich vertreten lassen will, hat diesen Willen dem Kantonsratspräsidenten mit schriftlicher Erklärung mindestens 10 Tage vor Publikation der Traktandenliste derjenigen Sitzung, ab welcher der Vertretungsbeginn beabsichtigt ist, mitzuteilen.
+
+<sup>2</sup> Die Vertretung beginnt mit der Leistung des Amtsgelöbnisses durch die vertretende Person vor dem Kantonsratspräsidenten. Der Rat ist umgehend über die Vertretung zu informieren.
+
+<sup>3</sup> Die Vertretung endet,
+
+- a) sobald das vertretene Ratsmitglied schriftlich erklärt, die Mandatstätigkeit wieder aufzunehmen und die Vertretung mindestens drei Monate gedauert hat;
+- b) mit Erreichen der Maximaldauer der Vertretung von 12 Monaten;
+- c) bei Legislaturende;
+- d) sofern die vertretende Person infolge Ausscheidens eines anderen Ratsmitglieds als ordentliches Mitglied in den Kantonsrat nachrückt; in diesem Fall kann eine neue Vertretung eingesetzt werden, sofern die verbleibende Vertretungsdauer mindestens drei Monate beträgt.
 
 #### § 3
 
