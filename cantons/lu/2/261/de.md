@@ -3,20 +3,19 @@ canton: LU
 number: "261"
 title: Kantonsratsbeschluss über die Sitze der Gerichte und Schlichtungsbehörden und die Einteilung des Kantons in Gerichtsbezirke
 language: de
-version: 2025-01-01
-valid_until: 2026-12-31
-version_adopted: 2024-06-17
+version: 2027-01-01
+version_adopted: 2026-06-29
 adopted: 2010-05-10
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/261"
-pdf: "https://srl.lu.ch/api/de/versions/4329/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4851/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Sitze der Gerichte und Schlichtungsbehörden und die Einteilung des Kantons in Gerichtsbezirke
 
-vom 10.05.2010 (Stand 01.01.2025)
+vom 10.05.2010 (Stand 01.01.2027)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -55,7 +54,7 @@ beschliesst:
 
 <sup>1</sup> Das Bezirksgericht Kriens hat seinen Sitz in Kriens.
 
-<sup>2</sup> Der Gerichtsbezirk Kriens umfasst die Gemeinden Adligenswil, Greppen, Horw, Kriens, Malters, Meggen, Meierskappel, Schwarzenberg, Udligenswil, Vitznau und Weggis.
+<sup>2</sup> Der Gerichtsbezirk Kriens umfasst die Gemeinden Adligenswil, Horw, Kriens, Malters, Meggen, Meierskappel, Schwarzenberg, Udligenswil, Vitznau und Weggis.
 
 #### § 4
 
