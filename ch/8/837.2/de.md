@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2020 über Überbrückungsleistungen für älte
 short: ÜLG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2021-373-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20250101/de"
 
 (ÜLG)
 
-vom 19. Juni 2020 (Stand am 1. Januar 2025)
+vom 19. Juni 2020 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 114 Absatz 5 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)
 
 ## 1. Abschnitt: Anwendbarkeit des ATSG
@@ -34,7 +34,7 @@ beschliesst:
 
 Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) sind auf die Überbrückungsleistungen nach diesem Gesetz anwendbar, soweit dieses Gesetz nicht ausdrücklich eine Abweichung vom ATSG vorsieht.
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## 2. Abschnitt: Zweck, Grundsatz und Bestandteile der Überbrückungsleistungen
 
@@ -59,8 +59,8 @@ Personen ab 60 Jahren, die ausgesteuert sind, haben Anspruch auf Überbrückungs
 
 <sup>3</sup> Die Aussteuerung erfolgt in dem Monat, in dem das letzte Taggeld bezogen wird oder in dem die Rahmenfrist für den Leistungsbezug abläuft.
 
-[^3-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^3-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^3-3]: Fassung gemäss Anhang Ziff. 10 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 4
@@ -76,7 +76,7 @@ Die Überbrückungsleistungen bestehen aus:
 
 <sup>2</sup> Die jährliche Überbrückungsleistung ist eine Geldleistung (Art. 15 ATSG[^4-1]), die Vergütung von Krankheits- und Behinderungskosten eine Sachleistung (Art. 14 ATSG).
 
-[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## 3. Abschnitt: Voraussetzungen für Überbrückungsleistungen
 
@@ -106,11 +106,11 @@ Zum Reinvermögen gehören namentlich:
 
 <sup>5</sup> Der Bundesrat kann vorsehen, dass die Bezügerinnen und Bezüger von Überbrückungsleistungen nachweisen müssen, dass sie ihre Bemühungen um Integration in den Arbeitsmarkt fortsetzen.
 
-[^5-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^5-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-3]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^5-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^5-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^5-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^5-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^5-3]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^5-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^5-5]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 6
 
@@ -118,7 +118,7 @@ Zum Reinvermögen gehören namentlich:
 
 Hat eine Person sowohl Anspruch auf Überbrückungsleistungen als auch auf Ergänzungsleistungen nach ELG[^6-1] oder hat eine Person Anspruch auf Überbrückungsleistungen und ihre Ehefrau oder ihr Ehemann Anspruch auf Ergänzungsleistungen nach ELG, so geht der Anspruch auf Ergänzungsleistungen vor.
 
-[^6-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^6-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 ## 4. Abschnitt: Höhe der Überbrückungsleistungen
 
@@ -159,25 +159,25 @@ Als Ausgaben werden anerkannt:
 
   als Betrag für den allgemeinen Lebensbedarf pro Jahr:
 
-  - 1\. bei alleinstehenden Personen: 20 670 Franken,
-  - 2\. bei Ehepaaren: 31 005 Franken,
-  - 3\. bei Kindern, die das 11. Altersjahr vollendet haben, aber noch minderjährig sind, oder die noch in Ausbildung stehen und weniger als 25 Jahre alt sind: 10 815 Franken; dabei gilt für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrags,
-  - 4\. bei Kindern, die das 11. Altersjahr noch nicht vollendet haben: 7590 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrags; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
+  - 1\. bei alleinstehenden Personen: 21 000 Franken,
+  - 2\. bei Ehepaaren: 31 500 Franken,
+  - 3\. bei Kindern, die das 11. Altersjahr vollendet haben, aber noch minderjährig sind, oder die noch in Ausbildung stehen und weniger als 25 Jahre alt sind: 10 980 Franken; dabei gilt für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrags,
+  - 4\. bei Kindern, die das 11. Altersjahr noch nicht vollendet haben: 7710 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrags; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
 
 - b.[^9-2]
 
   der Mietzins einer Wohnung und die damit zusammenhängenden Nebenkosten; wird eine Schlussabrechnung für die Nebenkosten erstellt, so ist weder eine Nach- noch eine Rückzahlung zu berücksichtigen; als jährlicher Höchstbetrag werden anerkannt:
 
-  - 1\. für eine allein lebende Person: 18 900 Franken in der Region 1, 18 300 Franken in der Region 2 und 16 680 Franken in der Region 3,
+  - 1\. für eine allein lebende Person: 19 260 Franken in der Region 1, 18 600 Franken in der Region 2 und 16 980 Franken in der Region 3,
   - 2\.
 
     bei mehreren im gleichen Haushalt lebenden Personen zusätzlich:
 
-    - – für die zweite Person: 3420 Franken in der Region 1, 3420 Franken in der Region 2 und 3480 Franken in der Region 3
-    - – für die dritte Person: 2460 Franken in der Region 1 und 2040 Franken in den Regionen 2 und 3
-    - – für die vierte Person: 2280 Franken in der Region 1, 2160 Franken in der Region 2 und 1800 Franken in der Region 3,
+    - – für die zweite Person: 3480 Franken in der Region 1, 3540 Franken in der Region 2 und 3540 Franken in der Region 3
+    - – für die dritte Person: 2460 Franken in der Region 1, 2040 Franken in der Region 2 und 2100 in der Region 3,
+    - – für die vierte Person: 2340 Franken in der Region 1, 2220 Franken in der Region 2 und 1800 Franken in der Region 3,
 
-  - 3\. bei Notwendigkeit der Miete einer rollstuhlgängigen Wohnung: zusätzlich 6900 Franken;
+  - 3\. bei Notwendigkeit der Miete einer rollstuhlgängigen Wohnung: zusätzlich 7020 Franken;
 
 - c. anstelle des Mietzinses der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Überbrückungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben; Buchstabe b gilt sinngemäss;
 - d. Gewinnungskosten bis zur Höhe des Bruttoerwerbseinkommens;
@@ -204,9 +204,9 @@ Für Personen, die in gemeinschaftlichen Wohnformen leben und bei denen keine ge
 
 <sup>7</sup> Der Bundesrat überprüft mindestens alle zehn Jahre, ob und in welchem Ausmass die Höchstbeträge die effektiven Mietzinse der Bezügerinnen und Bezüger von Überbrückungsleistungen decken und veröffentlicht die Ergebnisse seiner Prüfung. Er nimmt die Überprüfung und Veröffentlichung früher vor, wenn sich der Mietpreisindex um mehr als 10 Prozent seit der letzten Überprüfung verändert hat.
 
-[^9-1]: Beträge angepasst gemäss Art. 1 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^9-2]: Beträge angepasst gemäss Art. 2 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^9-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-1]: Beträge angepasst gemäss Art. 1 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^9-2]: Beträge angepasst gemäss Art. 2 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^9-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10
 
@@ -235,9 +235,9 @@ Nicht angerechnet werden:
 - d. Stipendien und andere Ausbildungsbeihilfen für Kinder in Ausbildung unter 25 Jahre.
 
 [^10-1]: Beträge angepasst gemäss Art. 3 Abs. 2 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-2]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
-[^10-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^10-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-2]: [SR 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
+[^10-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^10-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 11
 
@@ -257,7 +257,7 @@ Der Bundesrat bestimmt:
 
 Bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^12-1] kann der Bundesrat die Höhe der anerkannten Ausgaben und der anrechenbaren Einnahmen in angemessener Weise anpassen.
 
-[^12-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^12-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 13
 
@@ -279,7 +279,7 @@ Bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^12-1] kann
 
 <sup>3</sup> Der Anspruch auf Überbrückungsleistungen erlischt zudem, wenn im frühestmöglichen Zeitpunkt des Vorbezugs der Altersrente absehbar ist, dass bei Erreichen des Referenzalters ein Anspruch auf Ergänzungsleistungen gemäss ELG[^14-1] bestehen wird.[^14-2]
 
-[^14-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^14-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^14-2]: Fassung gemäss Anhang Ziff. 10 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 15
@@ -300,7 +300,7 @@ Rückforderungen können mit folgenden Leistungen verrechnet werden:
 
 <sup>4</sup> Hat eine mit der Durchführung betraute Stelle einem anderen Sozialversicherer oder einer Vorsorgeeinrichtung die Verrechnung einer fälligen Leistung angezeigt, so kann dieser Träger seine Leistung im Umfang der Verrechnung nicht mehr befreiend an die versicherte Person bezahlen.
 
-[^15-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^15-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 16
 
@@ -308,7 +308,7 @@ Rückforderungen können mit folgenden Leistungen verrechnet werden:
 
 Die Artikel 72–75 ATSG[^16-1] sind nicht anwendbar.
 
-[^16-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## 5. Abschnitt: Vergütung von Krankheits- und Behinderungskosten
 
@@ -335,7 +335,7 @@ Pro Jahr dürfen die zu vergütenden Krankheits- und Behinderungskosten die folg
 
 <sup>3</sup> Der Bundesrat bezeichnet die Kosten, die nach Absatz 1 vergütet werden können. Er kann regeln, welche Franchise bei der Kostenbeteiligung berücksichtigt wird.
 
-[^17-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^17-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 18
 
@@ -356,7 +356,7 @@ Krankheits- und Behinderungskosten werden vergütet, wenn:
 
 <sup>2</sup> Die Buchführung, die Revision und die Haftung für Schäden durch die Organe nach Artikel 21 Absatz 2 ELG richten sich nach den jeweiligen Bestimmungen des ELG.
 
-[^19-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^19-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 20
 
@@ -375,8 +375,8 @@ Die folgenden Bestimmungen des AHVG[^20-1] mit ihren allfälligen Abweichungen v
 
 <sup>2</sup> Die Organe nach Artikel 19 Absatz 1 haben durch Abrufverfahren Zugriff auf das zentrale Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 50*b* AHVG).
 
-[^20-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^20-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^20-3]: Siehe heute: Art. 49*f*.
 
 #### Art. 21
@@ -385,8 +385,8 @@ Die folgenden Bestimmungen des AHVG[^20-1] mit ihren allfälligen Abweichungen v
 
 Die Organe nach Artikel 21 Absatz 2 ELG[^21-1] melden die Bezügerinnen und Bezüger und die Höhe der Überbrückungsleistungen der Zentralen Ausgleichstelle nach Artikel 71 AHVG[^21-2] zuhanden des EL-Informationssystems nach Artikel 26*b* ELG.
 
-[^21-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^21-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^21-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 22
 
@@ -397,7 +397,7 @@ Zugriff mittels Abrufverfahren auf die Daten nach Artikel 21 im EL-Informationss
 - a. die Stellen nach Artikel 21 Absatz 2 ELG[^22-1];
 - b. das Bundesamt für Sozialversicherungen.
 
-[^22-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^22-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 23
 
@@ -405,8 +405,8 @@ Zugriff mittels Abrufverfahren auf die Daten nach Artikel 21 im EL-Informationss
 
 Die Organe nach Artikel 21 Absatz 2 ELG[^23-1] können in ihrer Verfügung einer allfälligen Beschwerde die aufschiebende Wirkung entziehen, auch wenn die Verfügung auf eine Geldleistung gerichtet ist; im Übrigen gilt Artikel 55 Absätze 2–4 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^23-2].
 
-[^23-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^23-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^23-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^23-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24
 
@@ -448,9 +448,9 @@ Falls nicht ein Tatbestand gemäss Absatz 1 vorliegt, wird mit Busse bis zu 5000
 
 <sup>3</sup> Artikel 90 AHVG[^26-3] findet Anwendung.
 
-[^26-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^26-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^26-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^26-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^26-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 9. Abschnitt: Verhältnis zum europäischen Recht
 
@@ -478,12 +478,12 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
-[^27-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^27-2]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ABl. L 166 vom 30.4. 2004, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323).
-[^27-3]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (mit Anhängen); ABl. L 284 vom 30.10.2009, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356).
+[^27-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^27-2]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ABl. L 166 vom 30.4. 2004, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^27-3]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (mit Anhängen); ABl. L 284 vom 30.10.2009, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
 [^27-4]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
 [^27-5]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
-[^27-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^27-6]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## 10. Abschnitt: Evaluation
 

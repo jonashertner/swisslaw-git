@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2020 sulle prestazioni transitorie per i dis
 short: LPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20250101/it"
 
 (LPTD)
 
-del 19 giugno 2020 (Stato 1° gennaio 2025)
+del 19 giugno 2020 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 114 capoverso 5 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)
 
 ## Sezione 1: Applicabilità della LPGA
@@ -34,7 +34,7 @@ decreta:
 
 Le disposizioni della legge federale del 6 ottobre 2000[^1-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA) si applicano alle prestazioni transitorie per i disoccupati anziani, sempre che la presente legge non preveda espressamente una deroga.
 
-[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Sezione 2: Scopo, principio e componenti delle prestazioni transitorie
 
@@ -59,8 +59,8 @@ Chi ha compiuto i 60 anni di età e ha esaurito il diritto all’indennità di d
 
 <sup>3</sup> Il diritto all’indennità di disoccupazione si esaurisce nel mese in cui è riscossa l’ultima indennità giornaliera o in cui scade il termine quadro per la riscossione della prestazione.
 
-[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^3-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^3-3]: Nuovo testo giusta l’all. n. 10 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 4
@@ -76,7 +76,7 @@ Le prestazioni transitorie comprendono:
 
 <sup>2</sup> La prestazione transitoria annua è una prestazione pecuniaria (art. 15 LPGA[^4-1]), il rimborso delle spese di malattia e d’invalidità è una prestazione in natura (art. 14 LPGA).
 
-[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Sezione 3: Condizioni per le prestazioni transitorie
 
@@ -106,11 +106,11 @@ Rientrano nella sostanza netta segnatamente:
 
 <sup>5</sup> Il Consiglio federale può prevedere che i beneficiari di prestazioni transitorie debbano provare di proseguire i loro sforzi per reintegrarsi nel mercato del lavoro.
 
-[^5-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^5-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^5-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^5-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^5-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^5-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^5-3]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^5-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^5-5]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 6
 
@@ -118,7 +118,7 @@ Rientrano nella sostanza netta segnatamente:
 
 Se si ha diritto sia alle prestazioni transitorie sia alle prestazioni complementari secondo la LPC[^6-1] o se si ha diritto alle prestazioni transitorie e il proprio coniuge ha diritto alle prestazioni complementari secondo la LPC, prevale il diritto alle prestazioni complementari.
 
-[^6-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^6-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 ## Sezione 4: Importo delle prestazioni transitorie
 
@@ -159,25 +159,25 @@ Sono riconosciute le spese seguenti:
 
   un importo destinato alla copertura del fabbisogno generale vitale, per anno:
 
-  - 1\. 20 670 franchi per le persone sole;
-  - 2\. 31 005 franchi per le coppie sposate,
-  - 3\. 10 815 franchi per i figli che hanno compiuto gli 11 anni di età ma sono ancora minorenni e quelli di età inferiore a 25 anni ancora in formazione; per i primi due figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
-  - 4\. 7590 franchi per i figli che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante, per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
+  - 1\. 21 000 franchi per le persone sole;
+  - 2\. 31 500 franchi per le coppie sposate,
+  - 3\. 10 980 franchi per i figli che hanno compiuto gli 11 anni di età ma sono ancora minorenni e quelli di età inferiore a 25 anni ancora in formazione; per i primi due figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
+  - 4\. 7710 franchi per i figli che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante, per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
 
 - b.[^9-2]
 
   la pigione di un appartamento e le relative spese accessorie; in caso di conguaglio per le spese accessorie, non si tiene conto né del saldo attivo né di quello passivo; l’importo massimo annuo riconosciuto è il seguente:
 
-  - 1\. 18 900 franchi nella regione 1, 18 300 franchi nella regione 2 e 16 680 franchi nella regione 3 per le persone che vivono sole,
+  - 1\. 19 260 franchi nella regione 1, 18 600 franchi nella regione 2 e 16 980 franchi nella regione 3 per le persone che vivono sole,
   - 2\.
 
     se più persone vivono nella stessa economia domestica, un supplemento di:
 
-    - – 3420 franchi nella regione 1, 3420 franchi nella regione 2 e 3480 franchi nella regione 3 per la seconda persona
-    - – 2460 franchi nella regione 1 e 2040 franchi nelle regioni 2 e 3 per la terza persona
-    - – 2280 franchi nella regione 1, 2160 franchi nella regione 2 e 1800 franchi nella regione 3 per la quarta persona,
+    - – 3480 franchi nella regione 1, 3540 franchi nella regione 2 e 3540 franchi nella regione 3 per la seconda persona
+    - – 2460 franchi nella regione 1, 2040 franchi nella regione 2 e 2100 franchi nella regione 3 per la terza persona
+    - – 2340 franchi nella regione 1, 2220 franchi nella regione 2 e 1800 franchi nella regione 3 per la quarta persona,
 
-  - 3\. 6900 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
+  - 3\. 7020 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
 
 - c. in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietarie, usufruttuarie o sul quale hanno un diritto d’abitazione; la lettera b si applica per analogia;
 - d. le spese per il conseguimento del reddito, fino a concorrenza del reddito lordo dell’attività lucrativa;
@@ -204,9 +204,9 @@ Per le persone che condividono l’alloggio e per le quali non è effettuato un 
 
 <sup>7</sup> Il Consiglio federale verifica almeno ogni dieci anni se e in che misura gli importi massimi coprono le pigioni effettive dei beneficiari di prestazioni transitorie e pubblica i risultati del suo esame. Anticipa l’esame e la pubblicazione se l’indice delle pigioni ha subito una variazione di oltre il 10 per cento dall’ultimo esame.
 
-[^9-1]: Importi adeguati dall’art. 1 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^9-2]: Importi adeguati dall’art. 2 dell’O del 28 ago. 2024s ull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^9-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-1]: Importi adeguati dall’art. 1 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^9-2]: Importi adeguati dall’art. 2 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
+[^9-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10
 
@@ -235,9 +235,9 @@ Non sono computati:
 - d. le borse di studio e altri aiuti all’istruzione per i figli di età inferiore a 25 anni ancora in formazione.
 
 [^10-1]: Importi adeguati dall’art. 3 cpv. 2 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^10-2]: [<sup>RS</sup> <sup>211.223.13</sup>](https://fedlex.data.admin.ch/eli/cc/2017/145)
-[^10-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^10-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-2]: [<sup>RS</sup> <sup>211.223.13</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
+[^10-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^10-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 11
 
@@ -257,7 +257,7 @@ Il Consiglio federale determina:
 
 Nel ricalcolare le rendite conformemente all’articolo 33<sup>ter</sup> LAVS[^12-1], il Consiglio federale può adeguare in modo appropriato gli importi delle spese riconosciute e dei redditi computabili.
 
-[^12-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^12-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 13
 
@@ -279,7 +279,7 @@ Nel ricalcolare le rendite conformemente all’articolo 33<sup>ter</sup> LAVS[^1
 
 <sup>3</sup> Il diritto alle prestazioni transitorie si estingue inoltre se al momento in cui si ha diritto alla riscossione anticipata di una rendita di vecchiaia è prevedibile che al raggiungimento dell’età di riferimento si avrà diritto alle prestazioni complementari secondo la LPC[^14-1].[^14-2]
 
-[^14-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^14-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^14-2]: Nuovo testo giusta l’all. n. 10 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 15
@@ -300,7 +300,7 @@ Gli importi da restituire possono essere compensati con le seguenti prestazioni:
 
 <sup>4</sup> Se un organo incaricato dell’esecuzione ha annunciato la compensazione di una prestazione esigibile a un altro assicuratore sociale o a un istituto di previdenza, questi non possono più versare, con effetto liberatorio, le prestazioni all’assicurato nella misura della compensazione.
 
-[^15-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^15-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 16
 
@@ -308,7 +308,7 @@ Gli importi da restituire possono essere compensati con le seguenti prestazioni:
 
 Gli articoli 72–75 LPGA[^16-1] non sono applicabili.
 
-[^16-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Sezione 5: Rimborso delle spese di malattia e d’invalidità
 
@@ -335,7 +335,7 @@ Le spese di malattia e d’invalidità da rimborsare non possono superare, all�
 
 <sup>3</sup> Il Consiglio federale stabilisce le spese che possono essere rimborsate secondo il capoverso 1. Può determinare l’importo della franchigia da considerare nell’ambito della partecipazione ai costi.
 
-[^17-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^17-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 18
 
@@ -356,7 +356,7 @@ Le spese di malattia e d’invalidità sono rimborsate se:
 
 <sup>2</sup> La contabilità, la revisione e la responsabilità per danni da parte degli organi di cui all’articolo 21 capoverso 2 LPC sono rette dalle pertinenti disposizioni della LPC.
 
-[^19-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^19-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 20
 
@@ -375,8 +375,8 @@ Si applicano per analogia le seguenti disposizioni della LAVS[^20-1], incluse le
 
 <sup>2</sup> Gli organi di cui all’articolo 19 capoverso 1 possono accedere mediante procedura di richiamo al registro centrale delle prestazioni correnti dell’Ufficio centrale di compensazione (art. 50*b* LAVS).
 
-[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^20-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^20-3]: Ora art. 49*f*.
 
 #### Art. 21
@@ -385,8 +385,8 @@ Si applicano per analogia le seguenti disposizioni della LAVS[^20-1], incluse le
 
 Gli organi di cui all’articolo 21 capoverso 2 LPC[^21-1] comunicano i beneficiari e gli importi delle prestazioni transitorie all’Ufficio centrale di compensazione di cui all’articolo 71 LAVS[^21-2] per il sistema d’informazione sulle PC di cui all’articolo 26*b* LPC.
 
-[^21-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^21-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^21-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 22
 
@@ -397,7 +397,7 @@ Possono accedere mediante procedura di richiamo ai dati di cui all’articolo 21
 - a. gli organi di cui all’articolo 21 capoverso 2 LPC[^22-1];
 - b. l’Ufficio federale delle assicurazioni sociali.
 
-[^22-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^22-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 23
 
@@ -405,8 +405,8 @@ Possono accedere mediante procedura di richiamo ai dati di cui all’articolo 21
 
 Gli organi di cui all’articolo 21 capoverso 2 LPC[^23-1] possono, nella loro decisione, revocare l’effetto sospensivo a un eventuale ricorso anche se la decisione riguarda prestazioni in denaro; per il resto è applicabile l’articolo 55 capoversi 2–4 della legge federale del 20 dicembre 1968[^23-2] sulla procedura amministrativa.
 
-[^23-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^23-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^23-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^23-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24
 
@@ -448,9 +448,9 @@ Gli organi di cui all’articolo 21 capoverso 2 LPC[^23-1] possono, nella loro d
 
 <sup>3</sup> L’articolo 90 LAVS[^26-3] è applicabile.
 
-[^26-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^26-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^26-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^26-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^26-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Sezione 9: Rapporto con il diritto europeo
 
@@ -478,12 +478,12 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 
 <sup>4</sup> Nella presente legge le espressioni «Stati membri dell’Unione europea», «Stati membri della Comunità europea», «Stati dell’Unione europea» e «Stati della Comunità europea» designano gli Stati cui si applica l’Accordo sulla libera circolazione delle persone.
 
-[^27-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^27-2]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; una versione consolidata non vincolante di questo regolamento è pubblicata nella RS ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^27-3]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale (con allegati), GU L 284 del 30.10.2009, pag. 1; una versione consolidata non vincolante di questo regolamento è pubblicata nella RS ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^27-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^27-2]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; una versione consolidata non vincolante di questo regolamento è pubblicata nella RS ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^27-3]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale (con allegati), GU L 284 del 30.10.2009, pag. 1; una versione consolidata non vincolante di questo regolamento è pubblicata nella RS ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^27-4]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
 [^27-5]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
-[^27-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^27-6]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Sezione 10: Valutazione
 
@@ -505,11 +505,11 @@ La modifica di altri atti normativi è disciplinata nell’allegato.
 
 <sup>1</sup> Chi ha esaurito il diritto all’indennità di disoccupazione prima dell’entrata in vigore della presente legge non ha diritto alle prestazioni transitorie.
 
-<sup>1bis</sup> ...[^30-1]
+<sup>1bis</sup> …[^30-1]
 
 <sup>2</sup> L’articolo 10 capoverso 1 lettera c ultima frase si applica anche ai contributi di solidarietà versati prima dell’entrata in vigore della presente legge.
 
-[^30-1]: Introdotto dal n. II 2 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° lug. al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^30-1]: Introdotto dalla cifra II n. 2 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° lug. al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 31
 
@@ -531,6 +531,6 @@ Allegato
 
 Le leggi federali qui appresso sono modificate come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373).
