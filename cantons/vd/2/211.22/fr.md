@@ -4,7 +4,7 @@ number: "211.22"
 title: "LOI du 20.06.2006 sur l'accueil de jour des enfants (LAJE)"
 short: LAJE
 language: fr
-version: 2021-06-01
+version: 2029-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.22?id=bbf67d8e-8723-4407-bbbb-da190c3eb3b0"
 ---
 
@@ -490,7 +490,9 @@ décrète
 
 <sup>3</sup> Le montant maximum facturé aux parents ne peut dépasser le coût moyen des prestations concernées au sein du réseau d'accueil de jour. Le coût moyen est calculé selon les modalités fixées par la Fondation.
 
-[^28-1]: Modif. 8 du 31.01.2017: Introduction Al. 1bis; entrée en vigueur au 01.01.2018 · Modif. 4 du 09.11.2010: Introduction Al. 4; entrée en vigueur au 01.01.2029
+<sup>4</sup> La loi sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises est applicable en ce qui concerne le calcul du revenu déterminant et la composition de l'unité économique de référence.
+
+[^28-1]: Modif. 4 du 09.11.2010: Introduction Al. 4; entrée en vigueur au 01.01.2029 · Modif. 8 du 31.01.2017: Introduction Al. 1bis; entrée en vigueur au 01.01.2018
 
 #### Art. 30
 
