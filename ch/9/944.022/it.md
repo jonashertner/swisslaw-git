@@ -4,20 +4,22 @@ title: "Ordinanza del 7 dicembre 2012 ssulla dichiarazione delle pellicce e dei 
 short: ODPell
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/114"
 language: it
-version: 2022-01-01
+version: 2027-07-01
 adopted: 2012-12-07
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-114-20220101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20270701/it/xml/fedlex-data-admin-ch-eli-cc-2013-114-20270701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20270701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla dichiarazione delle pellicce e dei prodotti di pellicceria
 
-(Ordinanza sulla dichiarazione delle pellicce)
+(Ordinanza sulla dichiarazione delle pellicce, ODPell)[^t-1]
 
-del 7 dicembre 2012 (Stato 1° gennaio 2022)
+del 7 dicembre 2012 (Stato 1° luglio 2027)
+
+[^t-1]: Nuovo testo giusta l’all. n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2027 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 Il Consiglio federale svizzero,
 
@@ -59,7 +61,7 @@ Nella presente ordinanza si intende per:
 
 Chi fornisce pellicce o prodotti di pellicceria ai consumatori deve apporvi la dichiarazione «vera pelliccia».
 
-[^2a-1]: Introdotto dal n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 3
 
@@ -75,12 +77,12 @@ Chi fornisce pellicce o prodotti di pellicceria ai consumatori deve indicare il 
 
 <sup>2</sup> L’origine del pelame è il Paese in cui l’animale è stato cacciato o in cui è stato allevato e tenuto fino all’età di macellazione.
 
-<sup>3</sup> Se non è possibile dimostrare il Paese di origine del pelame, occorre indicare la più grande zona geografica limitrofa di provenienza dell’animale.[^4-1]
+<sup>3</sup> ...[^4-1]
 
-<sup>4</sup> Se non è possibile dimostrare la zona geografica di origine del pelame, occorre apporre la dichiarazione «origine sconosciuta».[^4-2]
+<sup>4</sup> ...[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^4-2]: Introdotto dal n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^4-1]: Abrogato dall’all. n. 1 dell’O del 28 mag. 2025, con effetto dal 1° lug. 2027 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^4-2]: Introdotto dalla cifra I dell’O del 19 feb. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)). Abrogato dall’all. n. 1 dell’O del 28 mag. 2025, con effetto dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 5
 
@@ -92,19 +94,24 @@ Chi fornisce pellicce o prodotti di pellicceria ai consumatori deve indicare il 
 
 Il modo di ottenimento va indicato come segue:
 
-- a. se gli animali sono stati cacciati: «da caccia con trappole non autorizzata in Svizzera» o «da caccia senza trappole»;
-- b. se gli animali sono stati allevati: «da allevamento in gabbie con fondo a griglia non autorizzato in Svizzera», «da allevamento in gabbie senza fondo a griglia», «da allevamento in gabbie con pareti fisse senza fondo a griglia» o «da allevamento in parchi».[^5-1]
+- a. se gli animali sono stati cacciati: «da caccia con trappole che non infliggono sofferenze agli animali» o «da caccia senza trappole»;
+- b. se gli animali sono stati allevati: «da allevamento in gabbie senza fondo a griglia», «da allevamento in gabbie con pareti fisse senza fondo a griglia» o «da allevamento in parchi».[^5-1]
 
-<sup>3</sup> Se non è possibile dimostrare un’indicazione ai sensi del capoverso 2, il modo di ottenimento va indicato nel modo seguente: «modo di ottenimento sconosciuto – può essere stato ottenuto mediante una forma di allevamento o di caccia non autorizzata in Svizzera».[^5-2]
+<sup>3</sup> .*..*[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^5-1]: Nuovo testo giusta l’all. n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2027 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^5-2]: Abrogato dall’all. n. 1 dell’O del 28 mag. 2025, con effetto dal 1° lug. 2027 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 6
 
-**Dichiarazione in caso di prodotti composti da più pelami**
+**Dichiarazione in caso di prodotti composti da più pelami**[^6-1]
 
-In caso di prodotti composti da più di tre pelami di specie animale, Paesi d’origine e modi di ottenimento diversi, devono essere apposte le dichiarazioni di cui agli articoli 3–5 per i tre pelami presenti in maggiore quantità.
+In caso di prodotti composti da più pelami di specie animale, Paesi d’origine e modi di ottenimento diversi, si applica quanto segue:
+
+- a. per i tre pelami presenti in maggiore quantità nel prodotto devono essere apposte sul prodotto le dichiarazioni di cui agli articoli 3–5;
+- b. per gli altri pelami, le dichiarazioni di cui agli articoli 3–5 devono essere fornite su richiesta.
+
+[^6-1]: Nuovo testo giusta l’all. n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2027 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 7
 
@@ -114,7 +121,7 @@ In caso di prodotti composti da più di tre pelami di specie animale, Paesi d’
 
 <sup>2</sup> Le dichiarazioni di cui agli articoli 2*a*–6 devono figurare in almeno una lingua ufficiale della Confederazione.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 ## Sezione 3: Controllo della dichiarazione
 
@@ -126,7 +133,7 @@ In caso di prodotti composti da più di tre pelami di specie animale, Paesi d’
 
 <sup>2</sup> Chi fornisce pellicce o prodotti di pellicceria ai consumatori deve allestire sistemi e procedure che permettono di fornire a titolo gratuito le necessarie informazioni alle autorità che le richiedono.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 9
 
@@ -138,8 +145,8 @@ In caso di prodotti composti da più di tre pelami di specie animale, Paesi d’
 
 <sup>3</sup> Può chiedere all’Ufficio federale della dogana e della sicurezza dei confini[^9-2] di comunicare per un periodo stabilito dati concernenti la dichiarazione doganale relativa all’importazione di pellicce o prodotti di pellicceria ben definiti.
 
-[^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 novembre 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gennaio 2014. Di detta mod. è tenuto conto in tutto il presente testo.
-[^9-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ottobre 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gennaio 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 novembre 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ottobre 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
@@ -158,7 +165,7 @@ I controlli dell’USAV avvengono:
 
 <sup>4</sup> Se la dichiarazione non è rettificata entro il termine stabilito dall’USAV, esso dispone la rettifica della dichiarazione.[^10-1]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 11
 
@@ -182,7 +189,7 @@ I controlli dell’USAV avvengono:
 
 Chiunque viola le disposizioni relative alla dichiarazione di cui agli articoli 2*a*–7 è punito secondo l’articolo 11 della legge del 5 ottobre 1990 sull’informazione dei consumatori.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -206,7 +213,15 @@ Le pellicce e i prodotti di pellicceria non conformi alle disposizioni della pre
 
 Le pellicce e i prodotti di pellicceria che non corrispondono alle disposizioni della modifica del 19 febbraio 2020 possono ancora essere dichiarati entro il 31 agosto 2020 secondo il diritto anteriore e dopo tale data possono ancora essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^14a-1]: Introdotto dal n. I dell’O del 19 febbraio 2020, in vigore dal 1° aprile 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+
+#### Art. 14b
+
+**Disposizione transitoria della modifica del 28 maggio 2025**[^14b-1]
+
+Le pellicce e i prodotti di pellicceria importati fino al 30 giugno 2027 possono ancora essere dichiarati fino al 30 giugno 2029 secondo il diritto anteriore.
+
+[^14b-1]: Introdotto dall’all. n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2027 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 15
 

@@ -4,20 +4,22 @@ title: "Ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des 
 short: ODFou
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/114"
 language: fr
-version: 2022-01-01
+version: 2027-07-01
 adopted: 2012-12-07
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-114-20220101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-114-20270701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la déclaration des fourrures et des produits de la pelleterie
 
-(Ordonnance sur la déclaration des fourrures)
+(Ordonnance sur la déclaration des fourrures, ODFou)[^t-1]
 
-du 7 décembre 2012 (État le 1<sup>er</sup> janvier 2022)
+du 7 décembre 2012 (État le 1<sup>er</sup> juillet 2027)
+
+[^t-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 Le Conseil fédéral suisse,
 
@@ -75,12 +77,12 @@ Toute personne qui cède des fourrures ou des produits de la pelleterie à des c
 
 <sup>2</sup> Le pays de provenance de la peau est le pays dans lequel l’animal a été chassé ou élevé jusqu’à ce qu’il atteigne l’âge d’abattage .
 
-<sup>3</sup> S’il est prouvé que le pays de provenance de la peau ne peut être établi, il faut indiquer la région géographique d’étendue immédiatement supérieure d’où l’animal provient.[^4-1]
+<sup>3</sup> …[^4-1]
 
-<sup>4</sup> S’il est prouvé que la provenance de la peau n’a pas pu être attribuée à une région géographique, il faut apposer la déclaration «provenance inconnue».[^4-2]
+<sup>4</sup> …[^4-2]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^4-2]: Introduit par le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^4-1]: Abrogé par l’annexe ch. 1 de l’O du 28 mai 2025, avec effet au 1<sup>er</sup> juil. 2027 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^4-2]: Introduit par le ch. I de l’O du 19 février 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)). Abrogé par l’annexe ch. 1 de l’O du 28 mai 2025, avec effet au 1<sup>er</sup> juil. 2027 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 5
 
@@ -92,19 +94,24 @@ Toute personne qui cède des fourrures ou des produits de la pelleterie à des c
 
 L’origine de la peau doit être déclarée comme suit:
 
-- a. s’il s’agit d’un animal capturé dans la nature: «chasse avec pièges non autorisée en Suisse», «chasse sans pièges»;
-- b. s’il s’agit d’un animal d’élevage: «élevage en cage sur sol grillagé non autorisé en Suisse», «élevage en cage sur sol non grillagé», «élevage en cage aux parois fixes et sur sol non grillagé» ou «élevage en enclos».[^5-1]
+- a. s’il s’agit d’un animal capturé dans la nature: «chasse avec pièges sans recours à des méthodes cruelles» ou «chasse sans pièges»;
+- b. s’il s’agit d’un animal d’élevage: «élevage en cage sur sol non grillagé», «élevage en cage aux parois fixes et sur sol non grillagé» ou «élevage en enclos».[^5-1]
 
-<sup>3</sup> S’il est prouvé que l’origine de la peau ne peut être indiquée conformément à l’al. 2, il faut apposer la déclaration suivante: «origine inconnue – peut être issu d’un mode d’élevage ou d’un type de chasse non autorisé en Suisse».[^5-2]
+<sup>3</sup> ...[^5-2]
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^5-2]: Abrogé par l’annexe ch. 1 de l’O du 28 mai 2025, avec effet au 1<sup>er</sup> juil. 2027 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 6
 
-**Déclaration des produits composés de plusieurs peaux**
+**Déclaration des produits composés de plusieurs peaux**[^6-1]
 
-Si le produit se compose de plus de trois peaux d’espèce animale, de provenance ou d’origine différentes, il faut apposer les déclarations exigées aux art. 3 à 5 pour les trois principales peaux qui composent le produit.
+Si le produit se compose de plusieurs peaux d’espèce animale, de provenance ou d’origine différentes, il faut:
+
+- a. apposer sur le produit les déclarations exigées aux art. 3 à 5 pour les trois principales peaux qui le composent;
+- b. fournir sur demande les indications exigées aux art. 3 à 5 pour les autres peaux.
+
+[^6-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 7
 
@@ -207,6 +214,14 @@ Les fourrures et les produits de la pelleterie qui ne respectent pas les disposi
 Les fourrures et les produits de la pelleterie qui ne sont pas conformes à la modification du 19 février 2020 peuvent encore être déclarés selon l’ancien droit jusqu’au 31 août 2020 et remis aux consommateurs jusqu’à épuisement des stocks.
 
 [^14a-1]: Introduit par le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+
+#### Art. 14b
+
+**Disposition transitoire relative à la modification du 28 mai 2025**[^14b-1]
+
+Les fourrures et les produits de la pelleterie importés d’ici le 30 juin 2027 au plus tard peuvent encore être déclarés selon l’ancien droit jusqu’au 30 juin 2029.
+
+[^14b-1]: Introduit par l’annexe ch. 1 de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 15
 
