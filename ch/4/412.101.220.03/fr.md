@@ -3,18 +3,18 @@ sr: "412.101.220.03"
 title: Ordonnance du SEFRI du 18 mai 2021 sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/314"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 
-du 18 mai 2021 (État le 1<sup>er</sup> janvier 2026)
+du 18 mai 2021 (État le 1<sup>er</sup> janvier 2027)
 
 <table>
 <tr><td>71900</td><td>Gestionnaire du commerce de détail CFC Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio AFC</td></tr>
@@ -572,11 +572,13 @@ L’ordonnance du SEFRI du 8 décembre 2004 sur la formation professionnelle ini
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
 
-Annexe
+Annexe[^t-1]
 
 (art. 2, al. 1, et 20, al. 1, let. a, ch. 3)
 
 ## Branches de formation et d’examens
+
+[^t-1]: Mise à jour par le ch. I de l’O du SEFRI du 1<sup>er</sup> oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 529](https://fedlex.data.admin.ch/eli/oc/2026/529)).
 
 <table>
 <tr><td>Numéro</td><td>Dénomination allemande</td><td>Dénomination française</td><td>Dénomination italienne</td></tr>
@@ -602,4 +604,5 @@ Annexe
 <tr><td>71920</td><td>Sportartikel</td><td>Articles de sport</td><td>Articoli sportivi</td></tr>
 <tr><td>71921</td><td>Textil</td><td>Textile</td><td>Tessili</td></tr>
 <tr><td>71922</td><td>Zoofachhandel</td><td>Magasins spécialisés en biens zoologiques</td><td>Commercio specializzato di animali</td></tr>
+<tr><td>71923</td><td>Living & Style</td><td>Living & Style</td><td>Living & Style</td></tr>
 </table>

@@ -3,18 +3,18 @@ sr: "412.101.220.03"
 title: Ordinanza della SEFRI del 18 maggio 2021 sulla formazione professionale di base Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/314"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-314-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-314-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata del commercio al dettaglio / Impiegato del commercio al dettaglio con attestato federale di capacità (AFC)
 
-del 18 maggio 2021 (Stato 1° gennaio 2026)
+del 18 maggio 2021 (Stato 1° gennaio 2027)
 
 <table>
 <tr><td>71900</td><td>Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio AFC Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ Gestionnaire du commerce de détail CFC</td></tr>
@@ -213,7 +213,7 @@ La formazione professionale pratica in azienda comprende in media 3,5 giornate a
 
 [^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 [^8-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
-[^8-3]: Il programma quadro del 27 aprile 2006 per l’insegnamento della cultura generale è disponibile sul sito SEFRI: www.sefri.admin.ch &gt; Formazione &gt; Formazione professionale di base &gt; Insegnamento della cultura generale
+[^8-3]: Il programma quadro del 27 apr. 2006 per l’insegnamento della cultura generale è disponibile sul sito SEFRI: www.sefri.admin.ch &gt; Formazione &gt; Formazione professionale di base &gt; Insegnamento della cultura generale
 [^8-4]: Allegato 1 al piano di formazione (art. 10 cpv. 3)
 [^8-5]: [[RU 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
@@ -258,7 +258,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^10-1]: Il piano del 18 maggio 2021 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z.
+[^10-1]: Il piano del 18 mag. 2021 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z.
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -573,11 +573,13 @@ L’ordinanza della SEFRI dell’8 dicembre 2004[^27-1] sulla formazione profess
 
 La presente ordinanza entra in vigore il 1° gennaio 2022.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2 cpv. 1, 20 cpv. 1 lett. a n. 3)
 
 ## Rami di formazione e d’esame
+
+[^t-1]: Aggiornato dalla cifra I dell’O della SEFRI del 1° ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 529](https://fedlex.data.admin.ch/eli/oc/2026/529)).
 
 <table>
 <tr><td>Numero</td><td>Denominazione tedesca</td><td>Denominazione francese</td><td>Denominazione italiana</td></tr>
@@ -603,4 +605,5 @@ Allegato
 <tr><td>71920</td><td>Sportartikel</td><td>Articles de sport</td><td>Articoli sportivi</td></tr>
 <tr><td>71921</td><td>Textil</td><td>Textile</td><td>Tessili</td></tr>
 <tr><td>71922</td><td>Zoofachhandel</td><td>Magasins spécialisés en biens zoologiques</td><td>Commercio specializzato di animali</td></tr>
+<tr><td>71923</td><td>Living & Style</td><td>Living & Style</td><td>Living & Style</td></tr>
 </table>
