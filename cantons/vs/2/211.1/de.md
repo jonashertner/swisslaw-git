@@ -4,13 +4,12 @@ number: "211.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
-version: 2023-01-01
-corrected: 2022-01-26
-version_adopted: 2020-12-17
+version: 2027-01-01
+version_adopted: 2026-05-07
 adopted: 1998-03-24
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.1"
-pdf: "https://lex.vs.ch/api/de/versions/2965/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2965/pdf_file"
 
 (EGZGB)
 
-vom 24.03.1998 (Stand 01.01.2023)
+vom 24.03.1998 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -237,7 +236,7 @@ verordnet:
 
 <sup>3</sup> Er übt gegenüber dem Personal die Vorgesetztenfunktion in personalrechtlichen Belangen aus.
 
-<sup>4</sup> Falls der Präsident verhindert ist oder in den Ausstand tritt, wird er durch ein Mitglied vertreten.
+<sup>4</sup> Falls der Präsident verhindert ist oder in den Ausstand tritt, wird er durch einen anderen Präsidenten vertreten.
 
 #### Art. 15
 
@@ -349,7 +348,7 @@ verordnet:
 - b) folgende Ausbildung aufweisen:
   - 1\. einen Abschluss einer Hochschule oder einer höheren Fachschule, namentlich in den Bereichen Psychologie, Pädagogik, Sozialarbeit, Buchhaltung oder treuhänderische Vermögensverwaltung, oder
   - 2\. einen als gleichwertig anerkannten Abschluss mitsamt der nötigen Berufserfahrung;
-- c) der Anstellungsbehörde einen aktuellen Betreibungsregisterauszug und einen aktuellen ordentlichen und einen Sonderprivatauszug aus dem Strafregister vorlegen. Dieser Vorgang wird alle 2 Jahre oder wenn es die Anstellungssbehörde für notwendig erachtet erneuert.
+- c) der Anstellungsbehörde einen aktuellen Betreibungsregisterauszug und einen aktuellen Strafregisterauszug sowie einen aktuellen Sonderprivatauszug aus dem Strafregister vorlegen. Mit Ausnahme der Einholung des Sonderprivatauszuges aus dem Strafregister wird dieser Vorgang alle 2 Jahre oder wenn es die Anstellungsbehörde für notwendig erachtet erneuert.
 
 <sup>2</sup> Der Staatsrat kann zuhanden der Gemeinden Empfehlungen zum Profil, zu den Anforderungen und zur Anzahl Betreuungsmandate der Beistände und Vormunde der Berufsbeistandschaften erlassen.
 
@@ -364,7 +363,7 @@ verordnet:
 - a) einen Abschluss einer Hochschule oder einer höheren Fachschule, namentlich in den Bereichen Psychologie, Pädagogik, Sozialarbeit, Buchhaltung oder treuhänderische Vermögensverwaltung, oder
 - b) einen als gleichwertig anerkannten Abschluss mit der nötigen Berufserfahrung.
 
-<sup>3</sup> Anlässlich der Ernennung verlangt sie die Vorlage eines Betreibungsregisterauszuges und eines ordentlichen oder eines Sonderprivatauszuges aus dem Strafregister. Dieser Vorgang wird alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
+<sup>3</sup> Vor der Ernennung verlangt sie die Vorlage eines aktuellen Betreibungsregister- und Strafregisterauszuges sowie eines aktuellen Sonderprivatauszuges aus dem Strafregister. Mit Ausnahme der Einholung des Sonderprivatauszuges aus dem Strafregister wird dieser Vorgang alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
 
 <sup>4</sup> Die Schutzbehörde erkundigt sich jährlich danach, ob eine Weiterbildung durchlaufen wurde.
 
@@ -374,9 +373,9 @@ verordnet:
 
 **Private Beistände und Vormunde**
 
-<sup>1</sup> Private Beistände und Vormunde, die nicht aufgrund von besonderen Kompetenzen ernannt wurden und ein Mandat zugunsten von Angehörigen übernommen haben, müssen binnen 6 Monaten nach ihrer Ernennung eine Ausbildung in Kindes- und Erwachsenenschutz absolvieren. Die Schutzbehörde stellt sicher, dass diese Ausbildung, deren Inhalt und Modalitäten auf dem Verordnungsweg definiert werden, absolviert wird.
+<sup>1</sup> Private Beistände und Vormunde, die nicht aufgrund von besonderen Kompetenzen ernannt wurden und ein Mandat zugunsten von Angehörigen übernommen haben, müssen binnen 12 Monaten nach ihrer Ernennung eine Ausbildung in Kindes- und Erwachsenenschutz absolvieren. Die Schutzbehörde stellt sicher, dass diese Ausbildung, deren Inhalt und Modalitäten auf dem Verordnungsweg definiert werden, absolviert wird.
 
-<sup>2</sup> Anlässlich der Ernennung des privaten Beistandes oder Vormundes verlangt die Schutzbehörde insbesondere die Vorlage eines Betreibungsregisterauszuges und eines ordentlichen und eines Sonderprivatauszuges aus dem Strafregister. Dieser Vorgang wird alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
+<sup>2</sup> Vor der Ernennung des privaten Beistandes oder Vormundes verlangt die Schutzbehörde insbesondere die Vorlage eines aktuellen Betreibungsregister- und Strafregisterauszuges sowie eines aktuellen Sonderprivatauszuges aus dem Strafregister. Mit Ausnahme der Einholung des Sonderprivatauszuges aus dem Strafregister wird dieser Vorgang alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
 
 <sup>3</sup> Die Aufsichtsbehörde organisiert jährlich Weiterbildungen. Die Schutzbehörden ermutigen private Vormunde und Beistände, an diesen teilzunehmen.
 
@@ -560,8 +559,10 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 
 <sup>4</sup> Wenn die mit der Entschädigung und dem Spesenersatz verbundenen Kosten nicht dem Vermögen der betroffenen Person belastet werden können:
 
-- a) erhält der Beistand zusätzlich zum Spesenersatz 70 Prozent der regulären Entschädigung;
+- a) …
 - b) übernimmt die Wohnsitzgemeinde der betroffenen Person die Kosten für die Mandatsführung. Diese ist verpflichtet, den von der Gemeinde geleisteten Vorschuss zurückzuzahlen, sobald sie zu neuem Vermögen kommt.
+
+<sup>4<sup>bis</sup></sup> In Abweichung von Absatz 4 Buchstabe b werden die Kosten des Mandats von der für das Sozialwesen zuständigen kantonalen Dienststelle übernommen, wenn das Mandat eine Person mit einem Ausweis N (Asylsuchende), einem Ausweis F (vorläufig aufgenommene Ausländer) oder einem Ausweis S (Schutzbedürftige) betrifft, die dem Asylbereich untersteht und Sozialhilfeleistungen dieser Dienststelle bezieht.
 
 <sup>5</sup> Die Entschädigung des Berufsbeistandes fällt an den Arbeitgeber, sofern er die Tätigkeit vollamtlich ausführt (Art. 404 Abs. 1 ZGB).
 
@@ -1330,7 +1331,16 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 
 **Ärztliche Unterbringung**
 
-<sup>1</sup> Wenn eine Person an einer psychischen Störung leidet und Gefahr im Verzug ist, sind die an einer Notfallorganisation beteiligten Ärzte ermächtigt, eine fürsorgerische Unterbringung anzuordnen. Diese kann auf unbestimmte Zeit erfolgen, sie darf jedoch sechs Wochen nicht überschreiten (Art. 429 Abs. 1 ZGB).
+<sup>1</sup> Wenn eine Person an einer psychischen Störung leidet und Gefahr im Verzug ist, sind die folgenden im Wallis zugelassenen Ärzte ermächtigt, eine fürsorgerische Unterbringung (FU) anzuordnen, die auf unbestimmte Zeit erfolgen kann, 6 Wochen jedoch nicht überschreiten darf (Art. 429 Abs. 1 ZGB):
+
+- a) Hausärzte im Sinne der Richtlinie des für das Gesundheitswesen zuständigen Departements;
+- b) Psychiater in Privatpraxen;
+- c) Ärzte, die einem Notfalldienst angegliedert sind;
+- d) andere Ärzte, die gemäss der Richtlinie des für das Gesundheitswesen zuständigen Departements im Bereich FU ausgebildet wurden.
+
+<sup>1<sup>bis</sup></sup> Das für das Gesundheitswesen zuständige Departement sorgt mittels Richtlinie für die Ausbildung von Ärzten, die befugt sind, über eine FU zu entscheiden.
+
+<sup>1<sup>ter</sup></sup> In Ausnahmesituationen können die im Gesetz aufgeführten Ärzte die Überweisung der Patienten durch die Gesundheitsdienste an ein medizinisches Zentrum anordnen, bei Bedarf in Zusammenarbeit mit der Polizei, um die Situation und die Angemessenheit einer FU zu beurteilen.
 
 <sup>2</sup> Unter Vorbehalt einer neuen anders lautenden Entscheidung der Schutzbehörde verfügt die Einrichtung in diesen Fällen über die Entlassung (Art. 429 Abs. 3 ZGB).
 
@@ -1403,9 +1413,9 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 
 #### Art. 116c
 
-**Amtshilfe**
+**Zusammenarbeit der Behörden und Dritter**
 
-<sup>1</sup> Die kantonalen und kommunalen Verwaltungsbehörden und die Gerichte sind verpflichtet, der Schutzbehörde die erforderlichen Dokumente kostenlos zur Verfügung zu stellen und die notwendigen Informationen zu verschaffen, soweit nicht schutzwürdige Interessen entgegenstehen.
+<sup>1</sup> Die Gerichte, die Strafverfolgungsbehörden, die kantonalen und kommunalen Verwaltungsbehörden, die öffentlichen und privaten Anstalten, die Personen, die im medizinischen Bereich gemäss den in den Artikeln 314e Absatz 3 und 448 Absatz 2 ZGB genannten Bedingungen oder im sozialen Bereich tätig sind, die Schulbehörden sowie die Mitarbeiter privater und halbprivater Einrichtungen, die sich um Kinder kümmern, sind verpflichtet, der Schutzbehörde auf Anfrage die erforderlichen Dokumente und Informationen kostenlos zur Verfügung zu stellen soweit nicht schutzwürdige Interessen entgegenstehen.
 
 ### 1.3.2.2.6a Verfahren vor der Kindes- und Erwachsenenschutzbehörde
 

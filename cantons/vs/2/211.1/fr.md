@@ -4,13 +4,12 @@ number: "211.1"
 title: "Loi d'application du code civil suisse"
 short: LACC
 language: fr
-version: 2023-01-01
-corrected: 2022-01-26
-version_adopted: 2020-12-17
+version: 2027-01-01
+version_adopted: 2026-05-07
 adopted: 1998-03-24
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2965/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3657/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2965/pdf_file"
 
 (LACC)
 
-du 24.03.1998 (état 01.01.2023)
+du 24.03.1998 (état 01.01.2027)
 
 Le Grand Conseil du canton du Valais
 
@@ -237,7 +236,7 @@ ordonne:
 
 <sup>3</sup> Il assume la fonction de supérieur hiérarchique du personnel de l'autorité dans les questions relevant du droit du personnel.
 
-<sup>4</sup> En cas d'empêchement ou de récusation du président, celui-ci est remplacé par un membre.
+<sup>4</sup> En cas d'empêchement ou de récusation du président, celui-ci est remplacé par un autre président.
 
 #### Art. 15
 
@@ -349,7 +348,7 @@ ordonne:
 - b) être titulaires:
   - 1\. d'un titre d’une haute école ou d’une école supérieure notamment dans les domaines de la psychologie, de la pédagogie, du travail social, de la comptabilité ou de la gestion financière des biens, ou
   - 2\. d'un titre jugé équivalent avec expérience professionnelle utile à la fonction;
-- c) produire à l'autorité d'engagement un extrait récent des poursuites et un extrait récent ordinaire et spécial du casier judiciaire. Cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité d'engagement l'estime nécessaire.
+- c) produire à l'autorité d'engagement un extrait récent des poursuites et du casier judiciaire, ainsi qu’un extrait récent spécial du casier judiciaire. A l'exception de la production de l'extrait spécial du casier judiciaire, cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité d'engagement l'estime nécessaire.
 
 <sup>2</sup> Le Conseil d'Etat peut édicter des recommandations à l'égard des communes concernant le profil, les exigences et le nombre de mandats des curateurs et tuteurs du service officiel de la curatelle.
 
@@ -364,7 +363,7 @@ ordonne:
 - a) d'un titre d’une haute école ou d’une école supérieure notamment dans les domaines de la psychologie, de la pédagogie, du travail social, de la comptabilité ou de la gestion financière des biens, ou
 - b) d'un titre jugé équivalent, avec expérience professionnelle utile à la fonction.
 
-<sup>3</sup> Elle s'assure notamment, au moment de la nomination, que ceux-ci ne fassent ni l'objet d'inscription au casier judiciaire ordinaire et spécial, ni l'objet d'inscription au registre des poursuites et faillites. Cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité de protection l'estime nécessaire.
+<sup>3</sup> Elle s'assure notamment, avant la nomination, que ceux-ci aient produit un extrait récent des poursuites et du casier judiciaire, ainsi qu'un extrait récent spécial du casier judiciaire. A l'exception de la production de l'extrait spécial du casier judiciaire, cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité de protection l'estime nécessaire.
 
 <sup>4</sup> L'autorité de protection doit s'enquérir annuellement du suivi d'une formation continue.
 
@@ -374,9 +373,9 @@ ordonne:
 
 **Curateurs et tuteurs privés**
 
-<sup>1</sup> Les tuteurs et les curateurs privés, hormis ceux nommés pour leurs compétences particulières et ceux assumant un mandat en faveur de proches, devront suivre une formation en matière de protection de l'enfant et de l'adulte, dans les 6 mois suivant leur nomination. L'autorité de protection veillera au suivi de cette formation, dont le contenu et les modalités seront définis par voie d'ordonnance.
+<sup>1</sup> Les tuteurs et les curateurs privés, hormis ceux nommés pour leurs compétences particulières et ceux assumant un mandat en faveur de proches, devront suivre une formation en matière de protection de l'enfant et de l'adulte, dans les 12 mois suivant leur nomination. L'autorité de protection veillera au suivi de cette formation, dont le contenu et les modalités seront définis par voie d'ordonnance.
 
-<sup>2</sup> L'autorité de protection s'assure notamment, au moment de la nomination, que les curateurs et tuteurs privés ne fassent ni l'objet d'inscription au casier judiciaire ordinaire et spécial, ni l'objet d'inscription au registre des poursuites et faillites. Cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité de protection l'estime nécessaire.
+<sup>2</sup> L’autorité de protection s’assure notamment, avant la nomination, que les tuteurs et curateurs privés aient produit un extrait récent des poursuites et du casier judiciaire, ainsi qu'un extrait récent spécial du casier judiciaire. A l'exception de la production de l'extrait spécial du casier judiciaire, cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité de protection l'estime nécessaire.
 
 <sup>3</sup> L'autorité de surveillance met sur pied des formations continues annuellement et les autorités de protections encouragent les tuteurs et les curateurs privés à y participer.
 
@@ -558,8 +557,10 @@ ordonne:
 
 <sup>4</sup> Lorsque les sommes afférentes à la rémunération et au remboursement des frais ne peuvent être prélevées sur les biens de la personne concernée:
 
-- a) le curateur perçoit, en sus du remboursement de ses frais, une indemnité correspondant au 70 pour cent de la rémunération ordinaire;
+- a) …
 - b) les coûts du mandat sont à la charge de la commune de domicile de la personne concernée. Cette dernière est tenue de rembourser l'avance effectuée par la commune dès son retour à meilleure fortune.
+
+<sup>4<sup>bis</sup></sup> En dérogation à l’alinéa 4 lettre b, lorsque le mandat concerne une personne relevant du domaine de l’asile, à savoir les personnes disposant d'un permis N (requérants d'asile), d'un permis F (étranger admis provisoirement) ou d'un permis S (personnes à protéger) et percevant des prestations d’aide sociale du service cantonal en charge de l’action sociale, les coûts du mandat sont couverts par ce service.
 
 <sup>5</sup> Les prétentions du curateur échoient à son employeur lorsqu'il exerce l'activité à titre professionnel (art. 404 al. 1 CC).
 
@@ -1328,7 +1329,16 @@ ordonne:
 
 **Médecin - Etablissement**
 
-<sup>1</sup> En cas de trouble psychique ou de péril en la demeure, les médecins de premier recours qui font partie d'un cercle de garde sont habilités à effectuer un placement à des fins d'assistance pour une durée indéterminée qui ne peut toutefois dépasser six semaines (art. 429 al. 1 CC).
+<sup>1</sup> En cas de troubles psychiques ou de péril en la demeure, sont habilités à ordonner un placement à des fins d'assistance (PAFA) pour une durée indéterminée qui ne peut toutefois dépasser 6 semaines (art. 429 al. 1 CC) les médecins suivants autorisés à pratiquer en Valais:
+
+- a) médecins de premier recours au sens de la directive du département en charge de la santé publique;
+- b) médecins psychiatres en pratique privée;
+- c) médecins rattachés à un service d'urgence;
+- d) autres médecins ayant été formés dans le domaine du PAFA conformément à la directive du département en charge de la santé publique.
+
+<sup>1<sup>bis</sup></sup> Le département en charge de la santé publique veille, par voie de directive, à la formation des médecins habilités à décider d’un PAFA.
+
+<sup>1<sup>ter</sup></sup> En cas de situation exceptionnelle, les médecins désignés par la loi peuvent ordonner le transfert des patients par les services sanitaires vers un centre médicalisé, en collaboration au besoin avec la police, afin d'évaluer la situation et l'indication au PAFA.
 
 <sup>2</sup> Sous réserve de dispositions nouvelles contraires prises par l'autorité de protection, la décision de libérer la personne placée appartient à l'institution (art. 429 al. 3 CC).
 
@@ -1401,9 +1411,9 @@ ordonne:
 
 #### Art. 116c
 
-**Entraide administrative**
+**Concours des autorités et des tiers**
 
-<sup>1</sup> Les autorités administratives cantonales et communales et les tribunaux sont tenus de fournir gratuitement à l'autorité de protection les documents nécessaires et de communiquer les informations requises, à moins que des intérêts dignes de protection ne s'y opposent.
+<sup>1</sup> Les tribunaux, les autorités de poursuite pénale, les services administratifs cantonaux et communaux, les établissements publics et privés, les personnes actives dans le domaine médical aux conditions des articles 314e alinéa 3 CC et 448 alinéa 2 CC ou social, les autorités scolaires ainsi que les collaborateurs des institutions privées et semi-privées s'occupant d'enfants sont tenus de fournir gratuitement à l'autorité de protection, sur demande, les documents et informations nécessaires, à moins que des intérêts dignes de protection ne s'y opposent.
 
 ### 1.3.2.2.6a Procédure devant les autorités de protection de l'enfant et de l'adulte
 
