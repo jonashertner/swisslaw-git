@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2026-12-01
+version: 2027-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20261201-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20270101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Dezember 2026)
+vom 18. Mai 2005 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -1475,7 +1475,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20270101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -4713,17 +4713,21 @@ Anhang 2.10[^t-30]
 
 ## Kältemittel
 
-[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-30]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)), Ziff. I der V vom 31. Mai 2024 ([AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)) und Ziff. I Abs. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Begriffe
 
-<sup>1</sup> Als Kältemittel gelten Stoffe oder Zubereitungen, die in Geräten oder Anlagen Wärme von einer tieferen auf eine höhere Temperatur transportieren.
+<sup>1</sup> Als Kältemittel gelten Stoffe und Zubereitungen, die in Geräten oder Anlagen Wärme von einer tieferen auf eine höhere Temperatur transportieren.
 
-<sup>2</sup> Als ozonschichtabbauende Kältemittel gelten Kältemittel, die ozonschichtabbauende Stoffe (Anhang 1.4) enthalten.
+<sup>2</sup> Als ozonschichtabbauende Kältemittel gelten Kältemittel, die ozonschichtabbauende Stoffe nach Anhang 1.4 Ziffer 1 Absatz 1 enthalten.
 
-<sup>3</sup> Als in der Luft stabile Kältemittel gelten Kältemittel, die in der Luft stabile Stoffe (Anhang 1.5) enthalten.
+<sup>3</sup> Als in der Luft stabile Kältemittel gelten Kältemittel, die in der Luft stabile Stoffe nach Anhang 1.5 Ziffer 1 Absatz 1 enthalten.
+
+<sup>3bis</sup> Als teilhalogenierte ungesättigte Fluorkohlenwasserstoff-Kältemittel (HFO-Kältemittel) gelten Kältemittel, die teilhalogenierte ungesättigte Fluorkohlenwasserstoffe und weder ozonschichtabbauende noch in der Luft stabile Stoffe enthalten.
 
 <sup>4</sup> Eine Anlage besteht aus sämtlichen Kältekreisläufen, die ein und derselben Verwendung dienen; sie kann eine oder mehrere Kältemaschinen umfassen. Der Begriff «Kältemaschine» bezeichnet ein kompaktes System zur Kälteerzeugung mit einem oder mehreren Kältekreisläufen.
+
+<sup>4bis</sup> Eine Anlage gilt als «in sich geschlossen», wenn sie oder ihre Kältekreisläufe vollständig und werksgefertigt sind, sich in einem geeigneten Rahmen oder Gehäuse befinden und vor Ort nicht mit Kältemittel enthaltenden Teilen verbunden werden.
 
 <sup>5</sup> Der nicht nur geringfügige Umbau des Kälte erzeugenden Teils bestehender Anlagen ist dem Inverkehrbringen von Anlagen gleichgestellt. Erhebliche Umbauten des Kälte erzeugenden Teils bestehender Anlagen sind dann nicht dem Inverkehrbringen gleichgestellt, wenn durch den Umbau eine erhebliche Steigerung der Energieeffizienz erreicht wird oder, bedingt durch Materialeinsparungen, erhebliche Treibhausgasemissionen vermieden werden.
 
@@ -4736,6 +4740,8 @@ Anhang 2.10[^t-30]
 <sup>9</sup> Tiefkühlung ist die Kühlung von Lebensmitteln oder verderblichen Waren mit einer Nutzungstemperatur tiefer als –25 °C.
 
 <sup>10</sup> Die Kälteleistung einer Anlage ist ihre Nutzkälteleistung bei Spitzenverbrauch und einer Anlagenauslegung gemäss dem Stand der Technik.
+
+<sup>11</sup> Als Heizleistung einer Anlage gilt ihre Nutzheizleistung bei Spitzenverbrauch bei einer Anlagenauslegung gemäss dem Stand der Technik.
 
 ### 2 Herstellung, Inverkehrbringen, Ein- und Ausfuhr
 
@@ -4754,187 +4760,207 @@ Anhang 2.10[^t-30]
 - d. mobile Klimaanlagen, die in Motorfahrzeugen, Schienenfahrzeugen oder Schiffen verwendet werden;
 - e. mobile Kälteanlagen für den Transport von Lebensmitteln oder verderblichen Waren.
 
-<sup>3</sup> Verboten ist das Inverkehrbringen folgender stationärer Anlagen, die mit einem in der Luft stabilen Kältemittel betrieben werden:
+<sup>3</sup> Verboten ist das Inverkehrbringen folgender stationärer Anlagen, die mit in der Luft stabilen Kältemitteln betrieben werden:
 
 - a.
 
   Klimakälteanlagen für die Gebäudekühlung:
 
-  - 1\. mit einer Kälteleistung von mehr als 400 kW,
-  - 2\. wenn das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist, oder
-  - 3\. mit einer Aussen- und einer Inneneinheit (Monosplit-Klimakälteanlagen) und einer Füllmenge von weniger als 3 kg pro Kältekreislauf, wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist;
+  - 1\. mit einer Kälteleistung von mehr als 200 kW,
+  - 2\. mit einer Kälteleistung von nicht mehr als 12 kW und deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist,
+  - 3\. deren Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist,
+  - 4\. die in sich geschlossen sind und deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist, oder
+  - 5\. mit Direktverdampfung, deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist;
 
 - b.
 
   Kälteanlagen in Gewerbe und Industrie für die Kühlung von Lebensmitteln oder verderblichen Waren mittels:
 
-  - 1\. Minus- oder Tiefkühlung mit einer Kälteleistung von mehr als 30 kW, oder
-  - 2\. Pluskühlung mit einer Kälteleistung von mehr als 40 kW, oder
-  - 3\. Minus- oder Tiefkühlung mit einer Kälteleistung von mehr als 8 kW, wenn die Minus- oder Tiefkühlung mit einer Pluskühlung kombinierbar ist, oder
-  - 4\. Plus-, Minus- oder Tiefkühlung, wenn:
-  - i. das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 1500 aufweist oder
-  - ii. die Anlage in sich geschlossen ist und das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist;
+  - 1\.
+
+    Pluskühlung:
+
+    - – mit einer Kälteleistung von mehr als 12 kW oder
+    - – deren Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist,
+
+  - 2\.
+
+    Minuskühlung:
+
+    - – mit einer Kälteleistung von mehr als 8 kW oder
+    - – deren Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist,
+
+  - 3\.
+
+    Tiefkühlung:
+
+    - – mit einer Kälteleistung von mehr als 8 kW oder
+    - – deren Kältemittel ein Treibhauspotenzial von 1500 oder mehr aufweist,
+
+  - 4\. Plus-, Minus- oder Tiefkühlung, wenn die Anlage in sich geschlossen oder mit einem Kälteträgerkreislauf ausgestattet ist und ihr Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist;
 
 - c.
 
   Industriekälteanlagen für die Prozesskühlung und alle anderen Kühlanwendungen:
 
-  - 1\. mit einer Kälteleistung von mehr als 400 kW, oder
-  - 2\. wenn bei einer Kälteleistung von höchstens 100 kW das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist, oder
-  - 3\. wenn bei einer Kälteleistung von mehr als 100 kW das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 1500 aufweist;
+  - 1\. mit einer Kälteleistung von mehr als 200 kW,
+  - 2\. mit einer Kälteleistung von nicht mehr als 12 kW und deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist,
+  - 3\. deren Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist,
+  - 4\. die in sich geschlossen sind und deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist, oder
+  - 5\. mit Direktverdampfung, deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist;
 
 - d.
 
-  Wärmepumpen für die Nah- und Fernverteilung von Wärme:
+  Wärmepumpen:
 
-  - 1\. mit einer Kälteleistung von mehr als 600 kW,
-  - 2\. wenn das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 2100 aufweist, oder
-  - 3\. mit einer Aussen- und einer Inneneinheit (Monosplit-Wärmepumpe) und einer Füllmenge von weniger als 3 kg pro Kältekreislauf, wenn das in der Anlage verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist;
+  - 1\. mit einer Heizleistung von mehr als 250 kW,
+  - 2\. mit einer Heizleistung von nicht mehr als 12 kW und deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist,
+  - 3\. deren Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist, oder
+  - 4\. die in sich geschlossen sind und deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist;
 
 - e.
 
-  Kunsteisbahnen:
+  Kälteanlagen zur Herstellung von Kunsteis und zu dessen Nutzung für:
 
-  - 1\. permanente Kunsteisbahnen,
-  - 2\. temporäre Anlagen, wenn das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von mehr als 4000 aufweist.
+  - 1\. permanente Kunsteisbahnen, oder
+  - 2\. temporäre Kunsteisbahnen, deren Kältemittel ein Treibhauspotenzial von 750 oder mehr aufweist.
 
-<sup>4</sup> Verboten ist das Inverkehrbringen von Anlagen zur Kälteerzeugung, die mit einem in der Luft stabilen Kältemittel betrieben werden und nicht mit einem Kälteträgerkreislauf ausgestattet sind, wenn sie:
+<sup>4</sup> Verboten ist das Inverkehrbringen von Anlagen zur Kälteerzeugung mit Direktverdampfung, die mit in der Luft stabilen Kältemitteln betrieben werden, wenn sie:
 
-- a. mindestens drei Verdampfereinheiten verwenden und eine Kälteleistung von mehr als 80 kW aufweisen;
+- a. mindestens drei Verdampfereinheiten oder mindestens drei Kältekreisläufe verwenden und eine Kälteleistung von mehr als 80 kW aufweisen;
 - b. mehr als 40 Verdampfereinheiten verwenden; oder
-- c. in sich geschlossen sind und das verwendete in der Luft stabile Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist.
+- c. in sich geschlossen sind und deren Kältemittel ein Treibhauspotenzial von 150 oder mehr aufweist.
 
-<sup>5</sup> Verboten ist das Inverkehrbringen von Anlagen mit luftgekühltem Verflüssiger, die ein in der Luft stabiles Kältemittel mit einem Treibhauspotenzial von mehr als 4000 enthalten, unter Vorbehalt der maximal zulässigen Treibhauspotenziale gemäss Ziffer 2.1 Absatz 3.
-
-<sup>6</sup> Verboten ist das Inverkehrbringen von Anlagen mit luftgekühltem Verflüssiger und einer Kälteleistung von mehr als 100 kW, wenn sie:
+<sup>5</sup> Verboten ist das Inverkehrbringen von Anlagen mit luftgekühltem Verflüssiger und einer Kälteleistung von mehr als 50 kW, wenn sie:
 
 - a.
 
   pro kW Kälteleistung enthalten:
 
-  - 1\. mehr als 0,18 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von mehr als 1900,
-  - 2\. mehr als 0,4 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von 1900 oder weniger;
+  - 1\. mehr als 0,18 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von 750 oder mehr, oder
+  - 2\. mehr als 0,4 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von weniger als 750;
 
 - b.
 
   über eine Einrichtung zur Abwärmenutzung oder zur freien Kühlung verfügen und pro kW Kälteleistung enthalten:
 
-  - 1\. mehr als 0,22 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von mehr als 1900,
-  - 2\. mehr als 0,48 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von 1900 oder weniger;
+  - 1\. mehr als 0,22 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von 750 oder mehr, oder
+  - 2\. mehr als 0,48 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von weniger als 750;
 
-- c. gleichzeitig zum Heizen und Kühlen genutzt werden, über mindestens zwei Luftwärmeaustauscher verfügen, und pro kW Kälteleistung mehr als 0,37 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von mehr als 1900 enthalten.
+- c. gleichzeitig zum Heizen und Kühlen genutzt werden, über mindestens zwei Luftwärmeaustauscher verfügen, und pro kW Kälteleistung mehr als 0,37 kg eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von 750 oder mehr enthalten.
 
-<sup>7</sup> Verboten ist das Inverkehrbringen von Anlagen für die Plus-, Minus- oder kombinierbare Plus-Minuskühlung (Heissgasverbund) mit einer Kälteleistung von mehr als 10 kW, wenn sie pro kW Kälteleistung mehr als 2 kg eines in der Luft stabilen Kältemittels enthalten und nicht mit einer Technologie zur Reduktion des Kältemittelinhaltes um mindestens 15 % ausgestattet sind.
+<sup>6</sup> Verboten ist das Inverkehrbringen von Anlagen für die Plus-, Minus- oder kombinierbare Plus-Minuskühlung (Heissgasverbund) mit einer Kälteleistung von mehr als 10 kW, wenn sie pro kW Kälteleistung mehr als 2 kg eines in der Luft stabilen Kältemittels enthalten und nicht mit einer Technologie zur Reduktion des Kältemittelinhaltes um mindestens 15 Prozent ausgestattet sind.
+
+<sup>7</sup> Verboten ist die Ausfuhr stationärer Anlagen, die mit in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 1000 oder mehr betrieben werden und deren Inverkehrbringen in der Schweiz nicht mehr zulässig ist.
+
+<sup>8</sup> Verboten ist das Inverkehrbringen folgender Geräte, die mit HFO-Kältemitteln betrieben werden:
+
+- a. Kühl- und Gefriergeräte für den Haushalt;
+- b.[^annex210-lvlu1-lvl2-lvl21-1] …
+
+[^annex210-lvlu1-lvl2-lvl21-1]: Tritt am 1. Jan. 2032 in Kraft ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 2.2 Ausnahmen
 
-<sup>1</sup> Die Verbote nach Ziffer 2.1 Absätze 1 Buchstabe b sowie 2 Buchstaben a–c gelten nicht für Geräte, die zu einem privaten Haushalt gehören, zu privaten Zwecken in Verkehr gebracht oder zu privaten Zwecken ein- oder ausgeführt werden.
-
-<sup>2</sup> Die Verbote nach Ziffer 2.1 Absatz 2 gelten nicht für Geräte und Anlagen, wenn:
-
-- a. nach dem Stand der Technik ein Ersatz fehlt;
-- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
-- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
-
-<sup>3</sup> Für die in Ziffer 2.1 Absatz 3 genannten Kühlungen, Kühlanwendungen und Wärmeverteilungen, die jeweils eine Verdampfungstemperatur unter –50 °C aufweisen, dürfen Kaskadenanlagen in Verkehr gebracht werden, wenn:
-
-- a. nach dem Stand der Technik ein Ersatz fehlt;
-- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
-- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
-
-<sup>4</sup> Das Verbot nach Ziffer 2.1 Absatz 3 Buchstabe b Nummer 4 gilt nicht für Anlagen für die Tiefkühlung, wenn:
-
-- a. die Tiefkühlung nicht mit einer Pluskühlung kombinierbar ist;
-- b. nach dem Stand der Technik ein Ersatz fehlt;
-- c. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
-- d. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
-
-<sup>4bis</sup> Die Verbote nach Ziffer 2.1 Absatz 3 Buchstabe c Nummern 2 und 3 gelten nicht für Anlagen und Kühlanwendungen, die jeweils eine Verdampfungstemperatur von –90 °C oder weniger aufweisen, wenn:
-
-- a. nach dem Stand der Technik ein Ersatz fehlt;
-- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
-- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
-
-<sup>4ter</sup> Das Verbot nach Ziffer 2.1 Absatz 4 Buchstabe c gilt nicht, wenn:
-
-- a.
-
-  nach dem Stand der Technik ohne die Anwendung eines in der Luft stabilen Kältemittels mit einem Treibhauspotenzial von 150 oder mehr die folgenden Normen[^annex210-lvlu1-lvl2-lvl22-1] nicht eingehalten werden können:
-
-  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021,
-  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 und SN EN IEC 60335-2-89:2022/AC:2023,
-  - 3\. IEC 60335-2-40:2022 ED 7.0;
-
-- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
-- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
-
-<sup>5</sup> Bestehende rechtmässig in Verkehr gebrachte Anlagen, deren Inverkehrbringen bewilligungspflichtig ist, dürfen für die Anwendungsbereiche nach Ziffer 2.1 Absatz 3 ohne neue Bewilligung des Inverkehrbringens an einen Dritten abgegeben werden, wenn sie nicht umgebaut werden und ihr Standort nicht verändert wird.
-
-<sup>5bis</sup> Bestehende, rechtmässig in Verkehr gebrachte Anlagen dürfen um zusätzliche Anlagenteile erweitert werden, wenn diese die rechtlichen Anforderungen nach Ziffer 2.1 hinsichtlich Art und Füllmenge des Kältemittels sowie hinsichtlich Sekundärkreisläufen erfüllen, welche für das Inverkehrbringen einer gleichartigen Gesamtanlage gelten.
-
-<sup>6</sup> Das Verbot nach Ziffer 2.1 Absatz 1 Buchstabe b gilt nicht, wenn:
+<sup>1</sup> Das Verbot nach Ziffer 2.1 Absatz 1 Buchstabe b gilt nicht, wenn:
 
 - a. nach dem Stand der Technik ein Ersatz fehlt;
 - b. das Kältemittel ein Ozonabbaupotenzial von höchstens 0,0005 aufweist; und
 - c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
 
-<sup>7</sup> …
+<sup>2</sup> Die Verbote nach Ziffer 2.1 Absätze 1 Buchstabe b sowie 2 Buchstaben a–c gelten nicht für Geräte, die zu privaten Zwecken in Verkehr gebracht, oder zu privaten Zwecken ein- oder ausgeführt werden.
 
-<sup>8</sup> Das BAFU kann auf begründetes Gesuch für eine bestimmte Anlage eine Ausnahme vom Verbot nach Ziffer 2.1 Absatz 3 gewähren, wenn:
+<sup>3</sup> Die Verbote nach Ziffer 2.1 Absatz 2 gelten nicht für Geräte und Anlagen, wenn:
+
+- a. nach dem Stand der Technik ein Ersatz fehlt;
+- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
+- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
+
+<sup>4</sup> Die Verbote nach Ziffer 2.1 Absätze 3 und 4 Buchstabe c gelten nicht, wenn:
 
 - a.
 
-  nach dem Stand der Technik ohne die Anwendung eines in der Luft stabilen Kältemittels die folgenden Normen nicht eingehalten werden können:
+  nach dem Stand der Technik die folgenden Normen[^annex210-lvlu1-lvl2-lvl22-1] nicht eingehalten werden können, ohne dass ein in der Luft stabiles Kältemittel angewendet wird:
 
   - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021,
   - 2\. SN EN IEC 60335-2-89:2022/A11:2022 und SN EN IEC 60335-2-89:2022/AC:2023,
-  - 3\. IEC 60335-2-40:2022 ED 7.0;
+  - 3\. IEC 60335-2-40:2022-05 ED 7.0;
 
 - b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
-- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
+- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
 
-<sup>9</sup> Das BAFU kann im Einvernehmen mit dem SECO die Absätze 4<sup>ter</sup> Buchstabe a und 8 Buchstabe a bei Änderungen der dort bezeichneten Normen entsprechend anpassen.
+<sup>5</sup> Für die in Ziffer 2.1 Absatz 3 genannten Kühlungen, Kühlanwendungen und Wärmeverteilungen, die jeweils eine Verdampfungstemperatur von unter –50 °C aufweisen, dürfen Kaskadenanlagen in Verkehr gebracht werden, wenn:
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzeralle 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch)
+- a. nach dem Stand der Technik ein Ersatz fehlt;
+- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist und dabei Treibhauspotenziale von nicht mehr als 750 in der Hochdruckstufe und 150 in der Niederdruckstufe aufweisen; und
+- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
 
-### 2.3 Betreiber- und Informationspflichten betreffend Ausnahmebewilligungen
+<sup>6</sup> Die Verbote nach Ziffer 2.1 Absatz 3 Buchstabe b Nummern 2 zweiter Strich und 3 zweiter Strich gelten nicht, wenn:
 
-<sup>1</sup> Eine Anlage, die nur in Verkehr gebracht werden darf, wenn dafür eine Ausnahmebewilligung gemäss Ziffer 2.2 Absatz 8[^annex210-lvlu1-lvl2-lvl23-1] erteilt worden ist, darf nur betrieben werden, wenn sich der Betreiber dieser Anlage zuvor vergewissert hat, dass diese Bewilligung vorliegt.
+- a. die Minus- oder Tiefkühlung nicht mit einer Pluskühlung kombinierbar ist;
+- b. nach dem Stand der Technik ein Ersatz fehlt;
+- c. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
+- d. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
 
-<sup>2</sup> Wer eine solche Anlage in Verkehr bringt, hat dem Betreiber dieser Anlage unentgeltlich eine Kopie der Ausnahmebewilligung zur Verfügung zu stellen.
+<sup>7</sup> Die Verbote nach Ziffer 2.1 Absatz 3 Buchstabe c Nummern 2 bis 5 gelten nicht für Anlagen und Kühlanwendungen, die jeweils eine Verdampfungstemperatur von –90 °C oder weniger aufweisen, wenn:
 
-[^annex210-lvlu1-lvl2-lvl23-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juni 2019 angepasst.
+- a. nach dem Stand der Technik ein Ersatz fehlt;
+- b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
+- c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
+
+<sup>8</sup> Bestehende, rechtmässig in Verkehr gebrachte Anlagen dürfen um zusätzliche Anlagenteile erweitert werden, wenn diese die rechtlichen Anforderungen hinsichtlich Art und Füllmenge des Kältemittels sowie hinsichtlich Sekundärkreisläufen erfüllen, welche für das Inverkehrbringen einer gleichartigen Gesamtanlage gelten.
+
+<sup>9</sup> Die Verbote nach Ziffer 2.1 Absätze 8 und 9 gelten nicht, wenn:
+
+- a.
+
+  nach dem Stand der Technik die folgenden Normen nicht eingehalten werden können, ohne dass ein HFO-Kältemittel angewendet wird:
+
+  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021,
+  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 und SN EN IEC 60335-2-89:2022/AC:2023,
+  - 3\. IEC 60335-2-40:2022-05 ED 7.0; und
+
+- b. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen des Kältemittels getroffen worden sind.
+
+<sup>10</sup> Das BAFU kann im Einvernehmen mit dem SECO die Absätze 4 Buchstabe a und 9 Buchstabe a bei Änderungen der dort bezeichneten Normen entsprechend anpassen.
+
+[^annex210-lvlu1-lvl2-lvl22-1]: Diese Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+
+### 2.3 …
 
 ### 2.4 Besondere Kennzeichnung für die Fachleute
 
 <sup>1</sup> Herstellerinnen von Geräten und Anlagen müssen die Arten und Mengen der verwendeten Kältemittel unmissverständlich auf dem Gerät oder der Anlage angeben.
 
-<sup>2</sup> Für Geräte und Anlagen, die Kältemittel enthalten oder enthalten werden, die in Anhang I der Verordnung (EU) Nr. 517/2014[^annex210-lvlu1-lvl2-lvl24-1] aufgeführt sind, muss die Kennzeichnung folgende Angaben enthalten:
+<sup>2</sup> Die Herstellerin darf Geräte und Anlagen, die Kältemittel enthalten oder enthalten werden, die in einem der Anhänge I–III der Verordnung (EU) 2024/573[^annex210-lvlu1-lvl2-lvl24-1] aufgeführt sind, nur in Verkehr bringen, wenn deren Kennzeichnung folgende Angaben enthält:
 
 - a. Aufschrift: «Enthält fluorierte Treibhausgase»;
-- b. die abgekürzten chemischen Bezeichnungen der Kältemittel, die in den Geräten und Anlagen enthalten sind oder sein werden, wobei die für den Anwendungsbereich anerkannte Industrienomenklatur verwendet wird;
+- b. die abgekürzten chemischen Bezeichnungen der Kältemittel, die in den Geräten und Anlagen enthalten sind oder enthalten sein werden, wobei die für den Anwendungsbereich anerkannte Industrienomenklatur verwendet wird;
 - c. Menge der Kältemittel, in kg und in Tonnen CO<sub>2</sub>-Äquivalenten, sowie das Treibhauspotenzial der Kältemittel;
-- d. Zusatz: «hermetisch geschlossen», sofern dies zutrifft.
+- d. bei hermetisch geschlossenen Geräten und Anlagen mit Kältemitteln der Zusatz: «hermetisch geschlossen».
 
-<sup>3</sup> Herstellerinnen müssen Geräte und Anlagen mit dem Hinweis «Mittels fluorierter Treibhausgase ausgetriebener Schaum» kennzeichnen, wenn diese:
+<sup>3</sup> Herstellerinnen müssen Geräte und Anlagen mit dem Hinweis «Mit fluorierten Treibhausgasen getriebener Schaum» kennzeichnen, wenn diese vor ihrem Inverkehrbringen mit Schaum isoliert worden sind, der mittels Stoffen, die in einem der Anhänge I–III der Verordnung (EU) 2024/573 aufgeführt sind, ausgetrieben wurde.
 
-- a. Kältemittel enthalten, die in Anhang I der Verordnung (EU) Nr. 517/2014 aufgeführt sind; und
-- b. vor ihrem Inverkehrbringen mit Schaum isoliert wurden, der mittels in der Luft stabiler Stoffe, die in Anhang I der Verordnung (EU) Nr. 517/2014 aufgeführt sind, ausgetrieben wurde.
-
-[^annex210-lvlu1-lvl2-lvl24-1]: Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 195.
+[^annex210-lvlu1-lvl2-lvl24-1]: Siehe Fussnote zu Anhang 1.4 Ziffer 3.1 Absatz 2.
 
 ### 2.5 Vorschriften für die Abgabe von Kältemitteln
 
 Kältemittel sowie Anlagen, die bereits Kältemittel enthalten und deren Inbetriebnahme einen Eingriff in den Kältekreislauf erfordert, dürfen nur an Personen abgegeben werden, welche die Anforderungen von Artikel 7 Absatz 1 Buchstabe b für den Umgang mit Kältemitteln erfüllen.
 
+### 2.6 Pflichten für die Ausfuhr von Anlagen, die mit Kältemitteln betrieben werden
+
+Wer stationäre Anlagen, die mit Kältemitteln betrieben werden, ausführt, muss sicherstellen, dass die Ausfuhr nicht gegen Einfuhrbeschränkungen verstösst, die der Einfuhrstaat im Rahmen des Montrealer Protokolls gemeldet hat[^annex210-lvlu1-lvl2-lvl26-1].
+
+[^annex210-lvlu1-lvl2-lvl26-1]: Die gemeldeten Einfuhrbeschränkungen können im Internet unter: www.bafu.admin.ch &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Kältemittel abgerufen werden.
+
 ### 3 Verwendung
 
 ### 3.1 Sorgfaltspflicht
 
-Wer mit Kältemitteln oder mit Geräten oder Anlagen, die Kältemittel enthalten, umgeht oder solche verwendet, muss dafür sorgen, dass die Kältemittel die Umwelt nicht gefährden können, insbesondere:
+Wer mit Kältemitteln, Geräten oder Anlagen, die Kältemittel enthalten, umgeht, muss dafür sorgen, dass die Kältemittel die Umwelt nicht gefährden, insbesondere indem:
 
-- a. indem Emissionen dieser Kältemittel vermieden werden; und
-- b. indem die vorschriftsgemässe Entsorgung von Abfällen solcher Stoffe sichergestellt wird.
+- a. Emissionen dieser Kältemittel soweit möglich vermieden werden; und
+- b. die vorschriftsgemässe Entsorgung von Abfällen dieser Kältemittel sichergestellt wird.
 
 ### 3.2 Nachfüllen von ozonschichtabbauenden Kältemitteln
 
@@ -4955,33 +4981,46 @@ Das Nachfüllen von ozonschichtabbauenden Kältemitteln in Geräte oder Anlagen 
 
 ### 3.3 Nachfüllen von in der Luft stabilen Kältemitteln
 
-### 3.3.1 Verbot
+### 3.3.1 Verbote
 
-Das Nachfüllen von in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen ist verboten.
+<sup>1</sup> Das Nachfüllen von in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen ist verboten.
+
+<sup>2</sup> Verboten ist das Nachfüllen von in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 750 oder mehr in folgende stationäre Anlagen:
+
+- a. Kälteanlagen in Gewerbe und Industrie für die Kühlung von Lebensmitteln oder verderblichen Waren;
+- b. Industriekälteanlagen für die Prozesskühlung und alle anderen Kühlanwendungen;
+- c. Kälteanlagen zur Herstellung von Kunsteis und zu dessen Nutzung.
 
 ### 3.3.2 Ausnahmen
 
-[^annex210-lvlu1-lvl3-lvl33-lvl332-1]
+<sup>1</sup> Die Verbote nach Ziffer 3.3.1 gelten nicht für das Nachfüllen von nicht regenerierten in der Luft stabilen Kältemitteln in folgende Anlagen, wenn regenerierte Kältemittel für solche Anlagen auf dem Markt nicht verfügbar sind:
 
-[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: Gilt bis zum 31. Dez. 2029 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+- a. Anlagen mit einer Nutzungstemperatur tiefer als –50 °C;
+- b. Anlagen, die aufgrund einer Ausnahmebewilligung gemäss Ziffer 2.2 Absatz 8 in der Fassung vom 15. Dezember 2020[^annex210-lvlu1-lvl3-lvl33-lvl332-1] in Verkehr gebracht worden sind.
 
-Das Verbot nach Ziffer. 3.3.1 gilt nicht für das Nachfüllen:
+<sup>2</sup> Das Verbot nach Ziffer 3.3.1 Absatz 2 gilt nicht für das Nachfüllen von:
 
-- a. von regenerierten in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr;
-- b. von nicht regenerierten in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen mit einer Nutzungstemperatur tiefer als –50°C, wenn regenerierte Kältemittel für solche Anlagen auf dem Markt nicht verfügbar sind;
-- c. von nicht regenerierten in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen, die aufgrund einer Ausnahmebewilligung gemäss Ziffer 2.2 Absatz 8 in Verkehr gebracht worden sind, wenn regenerierte Kältemittel auf dem Markt nicht verfügbar sind.
+- a. regenerierten in der Luft stabilen Kältemitteln;
+- b.
+
+  nicht regenerierten in der Luft stabilen Kältemitteln in Anlagen, die:
+
+  - 1\. mit einem Kälteträgerkreislauf ausgestattet sind, oder
+  - 2\. der Sicherheit in einem Kernkraftwerk dienen.
+
+[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: [AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)
 
 ### 3.4 Dichtigkeitskontrolle und Erkennung von Leckagen
 
 <sup>1</sup> Die Inhaberinnen der folgenden Geräte und Anlagen müssen diese regelmässig, mindestens aber bei jedem Eingriff und bei jeder Wartung, auf ihre Dichtigkeit überprüfen lassen:
 
-- a. Geräte und Anlagen mit mehr als 3 kg ozonschichtabbauenden oder in der Luft stabilen Kältemitteln;
+- a. Geräte und Anlagen mit mehr als 3 kg ozonschichtabbauenden oder in der Luft stabilen Kältemitteln oder mit mehr als 3 kg HFO-Kältemitteln;
 - b. Geräte und Anlagen, die in der Luft stabile Kältemittel enthalten und deren Füllmenge mehr als 5 Tonnen CO<sub>2</sub>-Äquivalenten entspricht;
 - c. Kälte- und Klimaanlagen, die in Motorfahrzeugen verwendet werden und ozonschichtabbauende oder in der Luft stabile Kältemittel enthalten.
 
 <sup>2</sup> Bei Feststellung einer Leckage muss die Inhaberin umgehend die Instandstellung des Geräts oder der Anlage veranlassen.
 
-<sup>3</sup> Die Inhaberinnen von Anlagen, die in der Luft stabile Kältemittel enthalten und deren Füllmenge 500 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr entspricht, müssen dafür sorgen, dass:
+<sup>3</sup> Die Inhaberinnen von Anlagen, die in der Luft stabile Kältemittel enthalten und deren Füllmenge 500 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr entspricht oder die mehr als 250 kg HFO-Kältemittel enthalten, müssen dafür sorgen, dass:
 
 - a. die Anlagen mit einem Leckage-Erkennungssystem mit Warnfunktion versehen sind;
 - b. das Leckage-Erkennungssystem mindestens einmal pro Jahr kontrolliert wird.
@@ -4998,7 +5037,7 @@ Das Verbot nach Ziffer. 3.3.1 gilt nicht für das Nachfüllen:
 - b. eine kurze Beschreibung der durchgeführten Arbeiten;
 - c. das Ergebnis der Dichtigkeitskontrolle nach Ziffer 3.4;
 - d. Menge und Art des entnommenen Kältemittels;
-- e. Menge und Art des in die Anlage eingefüllten Kältemittels;
+- e. Menge und Art des in die Anlage eingefüllten Kältemittels sowie die Angabe, ob es sich dabei um neues oder regeneriertes Kältemitteln handelt;
 - f. die Firma sowie den eigenen Namen und die Unterschrift.
 
 ### 4 Entsorgung
@@ -5044,25 +5083,37 @@ Nicht nach Ziffer 5.1 zu melden sind Anlagen, die der Landesverteidigung dienen.
 
 Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen:
 
-- a. zum Stand der Technik nach Ziffer 2.2 Absätze 2–4<sup>ter</sup>, 6 und 8;
+- a. zum Stand der Technik nach Ziffer 2.2 Absätze 1, 3–7 und 9;
 - b. zur Dichtigkeitskontrolle nach Ziffer 3.4;
 - c. zum Wartungsheft nach Ziffer 3.5.
 
 ### 7 Übergangsbestimmungen
 
-<sup>1</sup> Die Verbote des Inverkehrbringens und der Einfuhr zu privaten Zwecken nach Ziffer 2.1 Absatz 2 gelten nicht für Kühl- und Gefriergeräte für den Haushalt, Geräte zum Entfeuchten und Klimageräte, die vor dem 1. Januar 2005 hergestellt worden sind.
+<sup>1</sup> Wurde eine Bewilligung für das Erstellen einer stationären Anlage mit mehr als 3 kg in der Luft stabilen Kältemitteln vor dem 1. Dezember 2013 gemäss Ziffer 3.3 in der Fassung vom 18. Mai 2005 erteilt, so darf die betreffende Anlage nur noch bis zum 31. Dezember 2016 erstellt werden.
 
-<sup>2</sup> Wurde eine Bewilligung für das Erstellen einer stationären Anlagen mit mehr als 3 kg in der Luft stabilen Kältemitteln vor dem 1. Dezember 2013 gemäss Ziffer 3.3 in der Fassung vom 18. Mai 2005[^annex210-lvlu1-lvl7-1] erteilt, so darf die betreffende Anlage nur noch bis zum 31. Dezember 2016 erstellt werden.
+<sup>2</sup> Bis zum 30. Juni 2027 gelten die Verbote nach Ziffer 2.1 Absatz 3 für die Abgabe an Dritte gemäss seiner Fassung vom 31. Mai 2024[^annex210-lvlu1-lvl7-1], vorbehaltlich der weiteren Übergangsfristen nach den Absätzen 3, 4 und 6.
 
-<sup>3</sup> Für Geräte und Anlagen, die in der Luft stabile Kältemittel enthalten oder enthalten werden, die in Anhang A des Protokolls von Kyoto vom 11. Dezember 1997[^annex210-lvlu1-lvl7-2] zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen (Kyoto-Protokoll) aufgeführt sind, ist bis zum 31. Mai 2020 auch eine Kennzeichnung nach Ziffer 2.3<sup>bis</sup> zur ChemRRV in der Fassung vom 10. Dezember 2010[^annex210-lvlu1-lvl7-3] zulässig.
+<sup>3</sup> Bis zum 31. Dezember 2028 gelten die folgenden Verbote nicht:
 
-<sup>4</sup> Anlagen und Geräte, für die Ziffer 2.2 Absätze 2–4 und 6 nicht anzuwenden sind, weil wegen einer Änderung des Standes der Technik ein Ersatz besteht, dürfen noch während 6 Monate hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
+- a. die Verbote nach Ziffer 2.1 Absatz 3 Buchstabe a Nummern 2 und 5 für Split-Anlagen mit Direktverdampfung und Direktverflüssigung, deren Kältemittel ein Treibhauspotenzial von nicht mehr als 750 aufweist;
+- b. das Verbot nach Ziffer 2.1 Absatz 3 Buchstabe d Nummer 2 für Split-Anlagen mit Direktverdampfung und Direktverflüssigung, deren Kältemittel ein Treibhauspotenzial von nicht mehr als 750 aufweist;
+- c. das Verbot nach Ziffer 2.1 Absatz 3 Buchstabe d Nummer 3 für Split-Anlagen mit einer Heizleistung von mehr als 12 kW, deren Kältemittel ein Treibhauspotenzial von nicht mehr als 2100 aufweist.
 
-<sup>5</sup> Anlagen, die in der Luft stabile Kältemittel enthalten, deren Füllmenge 500 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr entspricht und die vor dem 1. Januar 2025 in Betrieb genommen worden sind, dürfen noch bis zum 31. Dezember 2026 ohne Leckage-Erkennungssystem betrieben werden.
+<sup>4</sup> Bis zum 31. Dezember 2029 gelten die folgenden Verbote nicht:
 
-[^annex210-lvlu1-lvl7-1]: [AS 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
-[^annex210-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-[^annex210-lvlu1-lvl7-3]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+- a. die Verbote nach Ziffer 2.1 Absatz 3 Buchstabe a Nummern 4 und 5 für in sich geschlossene Anlagen mit Direktverdampfung und Direktverflüssigung und mit einer Kälteleistung von mehr als 50 kW, deren Kältemittel ein Treibhauspotenzial von nicht mehr als 750 aufweist;
+- b. die Verbote nach Ziffer 2.1 Absatz 3 Buchstabe d Nummern 3 und 4 für in sich geschlossene Anlagen mit einer Heizleistung von mehr als 50 kW, deren Kältemittel ein Treibhauspotenzial von nicht mehr als 2100 aufweist;
+- c. das Verbot nach Ziffer 3.3.1 Absatz 1 für das Nachfüllen von regenerierten in der Luft stabilen Kältemitteln.
+
+<sup>5</sup> Das Verbot nach Ziffer 3.3.1 Absatz 2 gilt bis zum 31. Dezember 2031 nicht für das Nachfüllen von nicht regenerierten in der Luft stabilen Kältemitteln.
+
+<sup>6</sup> Das Verbot nach Ziffer 2.1 Absatz 3 Buchstabe a Nummer 5 gilt bis zum 31. Dezember 2032 nicht für VRF-Anlagen mit Direktverdampfung und Direktverflüssigung und mit einer Kälteleistung von mehr als 12 kW, deren Kältemittel ein Treibhauspotenzial von nicht mehr als 750 aufweist.
+
+<sup>7</sup> Liegt für Anlagen und Geräte, die gestützt auf Ziffer 2.2 Absätze 1, 3–7 und 9 verwendet werden durften, aufgrund einer Änderung des Standes der Technik ein Ersatz vor, so dürfen diese Anlagen und Geräte noch während 6 Monate hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
+
+<sup>8</sup> Anlagen, die mehr als 250 kg HFO-Kältemittel enthalten und die vor dem 1. Januar 2027 in Betrieb genommen worden sind, dürfen noch bis zum 31. Dezember 2028 ohne Leckage-Erkennungssystem betrieben werden.
+
+[^annex210-lvlu1-lvl7-1]: [AS 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)
 
 Anhang 2.11[^t-31]
 
@@ -5792,7 +5843,7 @@ Fahrzeuge sind Personenkraftwagen und leichte Nutzfahrzeuge nach der Richtlinie 
 
 ### 5.2 Verbote
 
-<sup>1</sup> Verboten ist das Inverkehrbringen von neuen Fahrzeugwerkstoffen und -bauteilen, die mehr als 0,1 Massenprozent Blei, Quecksilber oder Chrom(VI) oder mehr als 0,01 Massenprozent Cadmium je homogenem Werkstoff enthalten.
+<sup>1</sup> Verboten ist das Inverkehrbringen von neuen Fahrzeugwerkstoffen und -bauteilen, die mehr als 0.1 Massenprozent Blei, Quecksilber oder Chrom(VI) oder mehr als 0,01 Massenprozent Cadmium je homogenem Werkstoff enthalten.
 
 <sup>2</sup> Verboten ist auch das Inverkehrbringen von neuen Fahrzeugen, die Werkstoffe oder Bauteile nach Absatz 1 enthalten.
 

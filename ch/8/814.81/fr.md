@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2026-12-01
+version: 2027-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20261201-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20270101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> décembre 2026)
+du 18 mai 2005 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -1470,7 +1470,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20270101/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -4708,17 +4708,21 @@ Annexe 2.10[^t-30]
 
 ## Fluides frigorigènes
 
-[^t-30]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’erratum du 9 juil. 2019 ([RO 2019 2113](https://fedlex.data.admin.ch/eli/oc/2019/392)), l’annexe ch. 2 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I de l’O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-30]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’erratum du 9 juil. 2019 ([RO 2019 2113](https://fedlex.data.admin.ch/eli/oc/2019/392)), l’annexe ch. 2 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I de l’O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)), le ch. I de l’O du 31 mai 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)) et le ch. I al. 3 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Définitions
 
 <sup>1</sup> Les substances et les préparations qui, dans un appareil ou dans une installation, transportent de la chaleur d’une température basse à une température plus élevée sont considérées comme des fluides frigorigènes.
 
-<sup>2</sup> Les fluides frigorigènes qui contiennent des substances appauvrissant la couche d’ozone (annexe 1.4) sont considérés comme des fluides frigorigènes appauvrissant la couche d’ozone.
+<sup>2</sup> Les fluides frigorigènes qui contiennent des substances appauvrissant la couche d’ozone au sens de l’annexe 1.4, ch. 1, al. 1, sont considérés comme des fluides frigorigènes appauvrissant la couche d’ozone.
 
-<sup>3</sup> Les fluides frigorigènes qui contiennent des substances stables dans l’air (annexe 1.5) sont considérés comme des fluides frigorigènes stables dans l’air.
+<sup>3</sup> Les fluides frigorigènes qui contiennent des substances stables dans l’air au sens de l’annexe 1.5, ch. 1, al. 1, sont considérés comme des fluides frigorigènes stables dans l’air.
+
+<sup>3bis</sup> Les fluides frigorigènes qui contiennent des hydrofluorocarbures insaturés partiellement halogénés et qui ne contiennent ni de substances appauvrissant la couche d’ozone ni de substances stables dans l’air sont considérés comme des fluides frigorigènes à hydrofluorocarbures insaturés partiellement halogénés (fluides frigorigènes HFO).
 
 <sup>4</sup> Une installation se compose de tous les circuits frigorifiques servant à la même application; elle peut comporter une ou plusieurs machines frigorifiques. On désigne par «machine frigorifique» un système de réfrigération compact contenant un ou plusieurs circuits frigorifiques.
+
+<sup>4bis</sup> Une installation est considérée comme autonome si elle ou ses circuits de refroidissement sont complets, sont fabriqués en usine et se trouvent dans un cadre ou un caisson adapté et qu’aucune pièce contenant des fluides frigorigènes n’est raccordée sur place.
 
 <sup>5</sup> La transformation non négligeable de la partie productrice de froid dans des installations existantes est assimilée à la mise sur le marché d’installations. Les modifications importantes de la partie productrice de froid dans des installations existantes ne sont pas assimilées à la mise sur le marché si la transformation permet d’obtenir un accroissement important de l’efficacité énergétique ou que, grâce à des économies de matériau, d’importantes émissions de gaz à effet de serre peuvent être évitées.
 
@@ -4731,6 +4735,8 @@ Annexe 2.10[^t-30]
 <sup>9</sup> La surgélation est une réfrigération de denrées alimentaires ou de biens périssables avec une température d’utilisation inférieure à –25 °C.
 
 <sup>10</sup> La puissance frigorifique d’une installation correspond à sa puissance utile de pointe lorsque le paramétrage est conforme à l’état de la technique.
+
+<sup>11</sup> La puissance calorifique d’une installation désigne sa puissance utile de pointe lorsque le paramétrage est conforme à l’état de la technique.
 
 ### 2 Fabrication, mise sur le marché, importation et exportation
 
@@ -4749,187 +4755,207 @@ Annexe 2.10[^t-30]
 - d. installations de climatisation mobiles employées dans les véhicules à moteur, les véhicules ferroviaires ou les bateaux;
 - e. installations de réfrigération mobiles pour le transport de denrées alimentaires ou de biens périssables.
 
-<sup>3</sup> Il est interdit de mettre sur le marché les installations stationnaires suivantes fonctionnant avec un fluide frigorigène stable dans l’air:
+<sup>3</sup> Il est interdit de mettre sur le marché les installations stationnaires suivantes fonctionnant avec des fluides frigorigènes stables dans l’air:
 
 - a.
 
   installations de climatisation servant au refroidissement de bâtiments:
 
-  - 1\. d’une puissance frigorifique supérieure à 400 kW,
-  - 2\. si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 2100, ou
-  - 3\. équipées d’un élément intérieur et d’un élément extérieur (installations de climatisation bi-bloc) et dotées d’une capacité de moins de 3 kg par circuit frigorifique, si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 750;
+  - 1\. d’une puissance frigorifique supérieure à 200 kW,
+  - 2\. d’une puissance frigorifique de 12 kW au plus et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150,
+  - 3\. dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 750,
+  - 4\. qui sont autonomes et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150, ou
+  - 5\. qui fonctionnent à évaporation directe et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150;
 
 - b.
 
-  installations pour la réfrigération de denrées alimentaires ou de biens périssables dans le commerce et l’industrie, utilisant:
+  installations servant à la réfrigération de denrées alimentaires ou de biens périssables dans le commerce et l’industrie, utilisant:
 
-  - 1\. le froid négatif ou la surgélation avec une puissance frigorifique supérieure à 30 kW, ou
-  - 2\. le froid positif avec une puissance frigorifique supérieure à 40 kW, ou
-  - 3\. le froid négatif ou la surgélation avec une puissance frigorifique supérieure à 8 kW si le froid négatif ou la surgélation peuvent être combinés avec du froid positif, ou
-  - 4\. le froid positif, le froid négatif ou la surgélation, si:
-  - i. le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 1500, ou que
-  - ii. l’installation est autonome et que le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 150;
+  - 1\.
+
+    le froid positif:
+
+    - – d’une puissance frigorifique supérieure à 12 kW, ou
+    - – dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 750,
+
+  - 2\.
+
+    le froid négatif:
+
+    - – d’une puissance frigorifique supérieure à 8 kW, ou
+    - – dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 750,
+
+  - 3\.
+
+    la surgélation:
+
+    - – d’une puissance frigorifique supérieure à 8 kW, ou
+    - – dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 1500,
+
+  - 4\. le froid positif, le froid négatif ou la surgélation, si l’installation est autonome ou si elle est équipée d’un circuit frigoporteur et que le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150;
 
 - c.
 
-  installations de réfrigération industrielles pour le refroidissement des procédés et pour toutes les autres applications:
+  installations de réfrigération industrielles servant au refroidissement des procédés et à toutes les autres applications de refroidissement:
 
-  - 1\. d’une puissance frigorifique supérieure à 400 kW, ou
-  - 2\. si, pour une puissance frigorifique ne dépassant pas 100 kW, le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 2100, ou que
-  - 3\. pour une puissance frigorifique supérieure à 100 kW, le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 1500;
+  - 1\. d’une puissance frigorifique supérieure à 200 kW,
+  - 2\. d’une puissance frigorifique de 12 kW au plus et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150,
+  - 3\. dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 750,
+  - 4\. qui sont autonomes et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150, ou
+  - 5\. qui fonctionnent à évaporation directe et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150;
 
 - d.
 
-  pompes à chaleur servant à la distribution de chaleur de proximité ou à distance:
+  pompes à chaleur:
 
-  - 1\. d’une puissance frigorifique supérieure à 600 kW,
-  - 2\. si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre supérieur à 2100, ou
-  - 3\. équipées d’un élément intérieur et d’un élément extérieur (pompes à chaleur bi-bloc) et dotées d’une capacité de moins de 3 kg par circuit frigorifique, si le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 750;
+  - 1\. d’une puissance calorifique supérieure à 250 kW,
+  - 2\. d’une puissance calorifique de 12 kW au plus et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150,
+  - 3\. dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 750, ou
+  - 4\. qui sont autonomes et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 150;
 
 - e.
 
-  patinoires artificielles:
+  installations de réfrigération servant à la production de glace artificielle et à l’utilisation de celle-ci pour:
 
-  - 1\. patinoires artificielles permanentes,
-  - 2\. installations temporaires, si le fluide frigorigène stable dans l’air employé présente un potentiel d’effet de serre supérieur à 4000.
+  - 1\. les patinoires artificielles permanentes, ou
+  - 2\. les patinoires artificielles temporaires, dont le fluide frigorigène présente un potentiel d’effet de serre égal ou supérieur à 750.
 
-<sup>4</sup> Il est interdit de mettre sur le marché des installations de réfrigération qui fonctionnent avec des fluides frigorigènes stables dans l’air et ne sont pas équipées d’un circuit frigoporteur, si elles:
+<sup>4</sup> Il est interdit de mettre sur le marché des installations de réfrigération à évaporation directe fonctionnant avec des fluides frigorigènes stables dans l’air:
 
-- a. utilisent au moins trois unités d’évaporation et présentent une puissance frigorifique supérieure à 80 kW;
-- b. utilisent plus de 40 unités d’évaporation, ou
-- c. sont autonomes et que le fluide frigorigène stable dans l’air utilisé présente un potentiel d’effet de serre égal ou supérieur à 150.
+- a. si elles utilisent au moins trois unités d’évaporation ou au moins trois circuits frigorifiques et présentent une puissance frigorifique supérieure à 80 kW;
+- b. si elles utilisent plus de 40 unités d’évaporation, ou
+- c. si elles sont autonomes et que le fluide frigorigène utilisé présente un potentiel d’effet de serre égal ou supérieur à 150.
 
-<sup>5</sup> Il est interdit de mettre sur le marché des installations comportant des condenseurs refroidis à l’air qui contiennent un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre supérieur à 4000, sous réserve des potentiels d’effet de serre maximaux admis selon le ch. 2.1, al. 3.
+<sup>5</sup> Il est interdit de mettre sur le marché des installations qui comportent des condenseurs refroidis à l’air et dont la puissance frigorifique est supérieure à 50 kW:
 
-<sup>6</sup> Il est interdit de mettre sur le marché des installations qui comportent des condenseurs refroidis à l’air et dont la puissance frigorifique est supérieure à 100 kW, si:
+- a.
 
-- a
+  si elles contiennent, par kW de puissance frigorifique:
 
-  elles contiennent, par kW de puissance frigorifique:
-
-  - 1\. plus de 0,18 kg d’un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre supérieur à 1900,
-  - 2\. plus de 0,4 kg d’un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre égal ou inférieur à 1900;
+  - 1\. plus de 0,18 kg d’un fluide frigorigène stable dans l’air présentant un potentiel d’effet de serre égal ou supérieur à 750, ou
+  - 2\. plus de 0,4 kg d’un fluide frigorigène stable dans l’air présentant un potentiel d’effet de serre inférieur à 750;
 
 - b.
 
-  elles sont munies d’un récupérateur de chaleur ou d’un dispositif à refroidissement libre et contiennent, par kW de puissance frigorifique:
+  si elles sont équipées d’un récupérateur de chaleur ou d’un dispositif à refroidissement libre et contiennent, par kW de puissance frigorifique:
 
-  - 1\. plus de 0,22 kg d’un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre supérieur à 1900,
-  - 2\. plus de 0,48 kg d’un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre égal ou inférieur à 1900;
+  - 1\. plus de 0,22 kg d’un fluide frigorigène stable dans l’air présentant un potentiel d’effet de serre égal ou supérieur à 750, ou
+  - 2\. plus de 0,48 kg d’un fluide frigorigène stable dans l’air présentant un potentiel d’effet de serre inférieur à 750, ou
 
-- c. elles sont utilisées simultanément pour le chauffage et le refroidissement, sont équipées d’au moins deux échangeurs de chaleur à air et contiennent plus de 0,37 kg d’un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre supérieur à 1900 par kW de puissance frigorifique.
+- c. si elles sont utilisées simultanément pour le chauffage et le refroidissement, sont équipées d’au moins deux échangeurs de chaleur à air et contiennent plus de 0,37 kg d’un fluide frigorigène stable dans l’air présentant un potentiel d’effet de serre égal ou supérieur à 750 par kW de puissance frigorifique.
 
-<sup>7</sup> Il est interdit de mettre sur le marché des installations de froid positif ou de froid négatif ou des multiplex positifs et négatifs avec refoulement commun dont la puissance frigorifique est supérieure à 10 kW si elles contiennent plus de 2 kg d’un fluide frigorigène stable dans l’air par kW de puissance frigorifique et ne sont pas équipées d’une technologie permettant de réduire le contenu de fluide frigorigène d’au moins 15 %.
+<sup>6</sup> Il est interdit de mettre sur le marché des installations de froid positif ou de froid négatif ou des multiplex positifs et négatifs avec refoulement commun dont la puissance frigorifique est supérieure à 10 kW si elles contiennent plus de 2 kg d’un fluide frigorigène stable dans l’air par kW de puissance frigorifique et ne sont pas équipées d’une technologie permettant de réduire le contenu de fluide frigorigène d’au moins 15 %.
+
+<sup>7</sup> Il est interdit d’exporter des installations stationnaires fonctionnant avec des fluides frigorigènes stables dans l’air présentant un potentiel d’effet de serre égal ou supérieur à 1000 et ne pouvant plus être mises sur le marché en Suisse.
+
+<sup>8</sup> Il est interdit de mettre sur le marché les appareils suivants fonctionnant aux fluides frigorigènes HFO:
+
+- a. appareils domestiques de réfrigération et de congélation;
+- b.[^annex210-lvlu1-lvl2-lvl21-1] …
+
+[^annex210-lvlu1-lvl2-lvl21-1]: Entre en vigueur le 1<sup>er</sup> janv. 2032 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 2.2 Exceptions
 
-<sup>1</sup> Les interdictions au sens du ch. 2.1, al. 1, let. b, et 2, let. a à c, ne s’appliquent pas aux appareils faisant partie d’un ménage, qui sont mis sur le marché à titre privé ou qui sont importés ou exportés à titre privé.
+<sup>1</sup> L’interdiction au sens du ch. 2.1, al. 1, let. b, ne s’applique pas:
 
-<sup>2</sup> Les interdictions au sens du ch. 2.1, al. 2, ne s’appliquent pas aux appareils et installations si:
+- a. si, selon l’état de la technique, on ne connaît pas encore de substitut;
+- b. si le fluide frigorigène présente un potentiel d’appauvrissement de la couche d’ozone de 0,0005 au plus, et
+- c. si les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-- a. selon l’état de la technique, on ne connaît pas encore de substitut;
-- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
-- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+<sup>2</sup> Les interdictions au sens du ch. 2.1, al. 1, let. b, et 2, let. a à c, ne s’appliquent pas aux appareils qui sont mis sur le marché à titre privé ou qui sont importés ou exportés à titre privé.
 
-<sup>3</sup> Les installations en cascade peuvent être mises sur le marché pour les réfrigérations, refroidissements, applications de refroidissement et distributions de chaleur mentionnés au ch. 2.1, al. 3, qui présentent à chaque fois une température d’évaporation inférieure à ‑50 °C, si:
+<sup>3</sup> Les interdictions au sens du ch. 2.1, al. 2, ne s’appliquent pas aux appareils et installations:
 
-- a. selon l’état de la technique, on ne connaît pas encore de substitut;
-- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
-- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+- a. si, selon l’état de la technique, on ne connaît pas encore de substitut;
+- b. si, selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et
+- c. si les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>4</sup> L’interdiction au sens du ch. 2.1, al. 3, let. b, ch. 4, ne s’applique pas aux installations de surgélation, si:
-
-- a. la surgélation ne peut être combinée avec du froid positif;
-- b. selon l’état de la technique, on ne connaît pas encore de substitut;
-- c. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
-- d. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
-
-<sup>4bis</sup> Les interdictions au sens du ch. 2.1, al. 3, let. c, ch. 2 et 3, ne s’appliquent pas aux installations et aux applications de refroidissement qui présentent à chaque fois une température d’évaporation égale ou inférieure à ‑90 °C, si:
-
-- a. selon l’état de la technique, on ne connaît pas encore de substitut;
-- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
-- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
-
-<sup>4ter</sup> L’interdiction au sens du ch. 2.1, al. 4, let. c, ne s’applique pas si:
+<sup>4</sup> Les interdictions au sens du ch. 2.1, al. 3 et 4, let. c, ne s’appliquent pas:
 
 - a.
 
-  l’état de la technique ne permet pas, sans l’utilisation d’un fluide frigorigène stable dans l’air ayant un potentiel d’effet de serre égal ou supérieur à 150, de respecter les normes suivantes[^annex210-lvlu1-lvl2-lvl22-1]:
+  si l’état de la technique ne permet pas de respecter les normes suivantes[^annex210-lvlu1-lvl2-lvl22-1] sans l’emploi d’un fluide frigorigène stable dans l’air:
 
   - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 et SN EN 378-3:2017+A1:2021,
   - 2\. SN EN IEC 60335-2-89:2022/A11:2022 et SN EN IEC 60335-2-89:2022/AC:2023,
-  - 3\. IEC 60335-2-40:2022 ED 7.0;
+  - 3\. IEC 60335-2-40:2022-05 ED 7.0;
 
-- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
-- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+- b. si, selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et
+- c. si les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>5</sup> Pour les domaines d’application mentionnés au ch. 2.1, al. 3, les installations existantes mises sur le marché conformément au droit et dont la mise sur le marché est soumise à autorisation peuvent être remises à un tiers sans nouvelle autorisation de mise sur le marché si elles ne sont pas transformées et ne changent pas d’emplacement.
+<sup>5</sup> Les installations en cascade peuvent être mises sur le marché pour les réfrigérations, refroidissements, applications de refroidissement et distributions de chaleur mentionnés au ch. 2.1, al. 3, qui présentent à chaque fois une température d’évaporation inférieure à –50 °C:
 
-<sup>5bis</sup> Les installations existantes mises sur le marché conformément au droit peuvent être équipées d’éléments supplémentaires si ceux-ci remplissent les exigences légales fixées au ch. 2.1 concernant le type et la capacité du fluide frigorigène ainsi que les circuits secondaires qui s’appliquent à la mise sur le marché d’une installation globale de même nature.
+- a. si, selon l’état de la technique, on ne connaît pas encore de substitut;
+- b. si, selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi et présente un potentiel d’effet de serre égal ou inférieur à 750 (étage haute pression) et égal ou inférieur à 150 (étage basse pression);
+- c. si les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>6</sup> L’interdiction au sens du ch. 2.1, al. 1, let. b, ne s’applique pas si:
+<sup>6</sup> Les interdictions au sens du ch. 2.1, al. 3, let. b, ch. 2, 2<sup>e</sup> tiret, et 3, 2<sup>e</sup> tiret, ne s’appliquent pas:
 
-- a. selon l’état de la technique, on ne connaît pas encore de substitut;
-- b. le fluide frigorigène présente un potentiel d’appauvrissement de la couche d’ozone de 0,0005 au plus, et que
-- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+- a. si le froid négatif ou la surgélation ne peuvent être combinés avec du froid positif;
+- b. si, selon l’état de la technique, on ne connaît pas encore de substitut;
+- c. si, selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et
+- d. si les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>7</sup> …
+<sup>7</sup> Les interdictions au sens du ch. 2.1, al. 3, let. c, ch. 2 à 5, ne s’appliquent pas aux installations et aux applications de refroidissement qui présentent à chaque fois une température d’évaporation égale ou inférieure à –90 °C:
 
-<sup>8</sup> Sur demande motivée, l’OFEV peut octroyer une dérogation à l’interdiction au sens du ch. 2.1, al. 3, pour une installation déterminée, si:
+- a. si, selon l’état de la technique, on ne connaît pas encore de substitut;
+- b. si, selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et
+- c. si les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+
+<sup>8</sup> Les installations existantes mises sur le marché conformément au droit peuvent être équipées d’éléments supplémentaires si ceux-ci remplissent les exigences légales concernant le type et la capacité du fluide frigorigène ainsi que les circuits secondaires qui s’appliquent à la mise sur le marché d’une installation globale de même nature.
+
+<sup>9</sup> Les interdictions au sens du ch. 2.1, al. 8 et 9, ne s’appliquent pas:
 
 - a.
 
-  l’état de la technique ne permet pas, sans l’utilisation d’un fluide frigorigène stable dans l’air, de respecter les normes suivantes:
+  si l’état de la technique ne permet pas de respecter les normes suivantes sans l’emploi d’un fluide frigorigène HFO:
 
   - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 et SN EN 378-3:2017+A1:2021,
   - 2\. SN EN IEC 60335-2-89:2022/A11:2022 et SN EN IEC 60335-2-89:2022/AC:2023,
-  - 3\. IEC 60335-2-40:2022 ED 7.0;
+  - 3\. IEC 60335-2-40:2022-05 ED 7.0, et
 
-- b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
-- c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
+- b. si les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>9</sup> En accord avec le SECO, l’OFEV peut adapter les al. 4<sup>ter</sup>, let. a, et 8, let. a, lorsque les normes qui y sont désignées sont modifiées.
+<sup>10</sup> En accord avec le SECO, l’OFEV peut adapter les al. 4, let. a, et 9, let. a, lorsque les normes qui y sont désignées sont modifiées.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
+[^annex210-lvlu1-lvl2-lvl22-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch/fr/).
 
-### 2.3 Obligation de l’exploitant et obligation d’informer en ce qui concerne l’obtention d’une dérogation
-
-<sup>1</sup> Une installation qui ne peut être mise sur le marché que si une dérogation au sens du ch. 2.2, al. 8[^annex210-lvlu1-lvl2-lvl23-1], a été octroyée ne peut être utilisée que si son exploitant s’est assuré au préalable qu’une telle dérogation existe.
-
-<sup>2</sup> Toute personne qui met une telle installation sur le marché doit fournir gratuitement à l’exploitant une copie de la dérogation obtenue.
-
-[^annex210-lvlu1-lvl2-lvl23-1]: Le renvoi a été adapté au 1<sup>er</sup> juin 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+### 2.3 …
 
 ### 2.4 Étiquetage spécial destiné aux professionnels
 
 <sup>1</sup> Les fabricants d’appareils et d’installations doivent signaler sans équivoque, sur l’appareil ou l’installation, les types et les quantités de fluides frigorigènes employés.
 
-<sup>2</sup> Les appareils et les installations qui contiennent ou sont destinés à contenir des fluides frigorigènes figurant à l’annexe I du règlement (UE) n<sup>o</sup> 517/2014[^annex210-lvlu1-lvl2-lvl24-1] doivent porter les indications suivantes:
+<sup>2</sup> Les fabricants d’appareils et installations qui contiennent ou sont destinés à contenir des fluides frigorigènes figurant à l’une des annexes I à III du règlement (UE) 2024/573[^annex210-lvlu1-lvl2-lvl24-1] ne peuvent les mettre sur le marché que si leur étiquetage inclut les indications suivantes:
 
 - a. la mention «contient des gaz à effet de serre fluorés»;
 - b. les noms chimiques abrégés des fluides frigorigènes qui sont ou seront contenus dans les appareils et les installations, selon une norme de la nomenclature reconnue dans l’industrie pour le domaine d’application prévu;
 - c. la quantité de fluide frigorigène, en kilogrammes et en équivalents CO<sub>2</sub>, ainsi que le potentiel d’effet de serre du fluide frigorigène;
-- d. la mention «hermétiquement scellé», le cas échéant.
+- d. la mention «hermétiquement scellé» s’agissant des appareils et installations hermétiquement scellés.
 
-<sup>3</sup> Les fabricants doivent inclure la mention «mousse dont le gonflement a été obtenu à l’aide de gaz à effet de serre fluorés» dans l’étiquetage des appareils et des installations:
+<sup>3</sup> Les fabricants doivent faire figurer la mention «Mousse dont le gonflement a été obtenu à l’aide de gaz à effet de serre fluorés» sur les appareils et les installations qui, avant leur mise sur le marché, ont été isolés avec de la mousse dont le gonflement a été obtenu à l’aide de substances figurant à l’une des annexes I à III du règlement (UE) 2024/573.
 
-- a. s’ils contiennent des fluides frigorigènes qui figurent à l’annexe I du règlement (UE) n<sup>o</sup> 517/2014, et
-- b. s’ils ont été isolés, avant d’être mis sur le marché, avec de la mousse dont le gonflement a été obtenu à l’aide de substances stables dans l’air qui figurent à l’annexe I du règlement (UE) n<sup>o</sup> 517/2014.
-
-[^annex210-lvlu1-lvl2-lvl24-1]: Règlement (UE) n<sup>o</sup> 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n<sup>o</sup> 842/2006, version du JO L 150 du 20.5.2014, p. 195.
+[^annex210-lvlu1-lvl2-lvl24-1]: Voir la note relative à l’annexe 1.4, ch. 3.1, al. 2.
 
 ### 2.5 Prescriptions pour la remise de fluides frigorigènes
 
 La remise de fluides frigorigènes ou d’installations préchargées avec des fluides frigorigènes et dont la mise en service nécessite une intervention sur le circuit frigorifique est autorisée uniquement à des personnes satisfaisant aux exigences fixées à l’art. 7, al. 1, let. b, pour l’utilisation de fluides frigorigènes.
 
+### 2.6 Obligations lors de l’exportation d’installations fonctionnant avec des fluides frigorigènes
+
+Toute personne qui exporte des installations stationnaires fonctionnant avec des fluides frigorigènes doit s’assurer que l’exportation ne contrevient pas à des restrictions à l’importation notifiées par le pays importateur dans le cadre du protocole de Montréal[^annex210-lvlu1-lvl2-lvl26-1].
+
+[^annex210-lvlu1-lvl2-lvl26-1]: Les restrictions à l’importation notifiées peuvent être consultées sous [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Fluides frigorigènes.
+
 ### 3 Emploi
 
 ### 3.1 Devoir de diligence
 
-Toute personne qui utilise des fluides frigorigènes ou des appareils ou des installations qui en contiennent doit veiller à ce que les fluides frigorigènes ne puissent pas présenter de danger pour l’environnement, notamment:
+Toute personne qui utilise des fluides frigorigènes ou des appareils ou des installations qui en contiennent doit veiller à ce que les fluides frigorigènes ne présentent pas de danger pour l’environnement, notamment:
 
-- a. en évitant leurs émissions, et
-- b. en s’assurant que leurs déchets soient éliminés dans les règles.
+- a. en évitant leurs émissions dans la mesure du possible, et
+- b. en s’assurant que leurs déchets seront éliminés dans les règles.
 
 ### 3.2 Remplissage avec des fluides frigorigènes appauvrissant la couche d’ozone
 
@@ -4950,33 +4976,46 @@ Il est interdit de remplir des appareils ou des installations de fluides frigori
 
 ### 3.3 Remplissage d’installations avec des fluides frigorigènes stables dans l’air
 
-### 3.3.1 Interdiction
+### 3.3.1 Interdictions
 
-Il est interdit de remplir des installations avec des fluides frigorigènes stables dans l’air dont le potentiel d’effet de serre est égal ou supérieur à 2500.
+<sup>1</sup> Il est interdit de remplir des installations avec des fluides frigorigènes stables dans l’air présentant un potentiel d’effet de serre égal ou supérieur à 2500.
+
+<sup>2</sup> Il est interdit de remplir les installations stationnaires suivantes avec des fluides frigorigènes stables dans l’air présentant un potentiel d’effet de serre égal ou supérieur à 750:
+
+- a. installations servant à la réfrigération de denrées alimentaires ou de biens périssables dans le commerce et l’industrie;
+- b. installations de réfrigération industrielles servant au refroidissement des procédés et à toutes les autres applications de refroidissement;
+- c. installations de réfrigération servant à la production de glace artificielle et à l’utilisation de celle-ci.
 
 ### 3.3.2 Exceptions
 
-[^annex210-lvlu1-lvl3-lvl33-lvl332-1]
+<sup>1</sup> Les interdictions au sens du ch. 3.3.1 ne s’appliquent pas au remplissage des installations suivantes avec des fluides frigorigènes stables dans l’air non régénérés si des fluides frigorigènes régénérés ne sont pas disponibles sur le marché pour ces installations:
 
-[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: En vigueur jusqu’au 31 déc. 2029 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+- a. installations avec une température d’utilisation inférieure à –50 °C;
+- b. installations qui ont été mises sur le marché en vertu d’une dérogation au sens du ch. 2.2, al. 8, dans la version du 15 décembre 2020 de l’ORRChim[^annex210-lvlu1-lvl3-lvl33-lvl332-1].
 
-L’interdiction visée au ch. 3.3.1 ne s’applique pas au remplissage:
+<sup>2</sup> L’interdiction au sens du ch. 3.3.1, al. 2, ne s’applique pas au remplissage:
 
-- a. avec des fluides frigorigènes stables dans l’air régénérés dont le potentiel d’effet de serre est de 2500 ou plus;
-- b. avec des fluides frigorigènes stables dans l’air non-régénérés dont le potentiel d’effet de serre est de 2500 ou plus dans des installations avec une température d’utilisation inférieure à –50°C, si des fluides frigorigènes régénérés ne sont pas disponibles sur le marché pour ces installations;
-- c. avec des fluides frigorigènes stables dans l’air non-régénérés dont le potentiel d’effet de serre est de 2500 ou plus dans des installations qui ont été mises sur le marché en vertu d’une dérogation au sens du ch. 2.2, al. 8, si des fluides frigorigènes régénérés pour ces installations ne sont pas disponibles sur le marché.
+- a. avec des fluides frigorigènes stables dans l’air régénérés;
+- b.
+
+  avec des fluides frigorigènes stables dans l’air non régénérés dans un des cas suivants:
+
+  - 1\. l’installation est équipée d’un circuit frigoporteur, ou
+  - 2\. l’installation sert à la sécurité d’une centrale nucléaire.
+
+[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: [RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)
 
 ### 3.4 Contrôle d’étanchéité et détection des fuites
 
 <sup>1</sup> Les détenteurs des appareils et des installations suivants doivent les soumettre régulièrement à un contrôle d’étanchéité, au moins lors de chaque intervention et de chaque entretien:
 
-- a. appareils et installations contenant plus de 3 kg de fluides frigorigènes appauvrissant la couche d’ozone ou de fluides frigorigènes stables dans l’air;
+- a. appareils et installations contenant plus de 3 kg de fluides frigorigènes appauvrissant la couche d’ozone ou de fluides frigorigènes stables dans l’air ou contenant plus de 3 kg de fluides frigorigènes HFO;
 - b. appareils et installations qui contiennent des fluides frigorigènes stables dans l’air et dont la capacité correspond à plus de 5 tonnes d’équivalents CO<sub>2</sub>;
 - c. systèmes de réfrigération et de climatisation employés dans les véhicules à moteur et contenant des fluides frigorigènes appauvrissant la couche d’ozone ou des fluides frigorigènes stables dans l’air.
 
 <sup>2</sup> Si une fuite est constatée, le détenteur doit immédiatement faire remettre l’appareil ou l’installation en état.
 
-<sup>3</sup> Les détenteurs d’installations qui contiennent des fluides frigorigènes stables dans l’air et dont la capacité est égale ou supérieure à 500 tonnes d’équivalents CO<sub>2</sub> doivent veiller à ce que:
+<sup>3</sup> Les détenteurs d’installations qui contiennent des fluides frigorigènes stables dans l’air et dont la capacité est égale ou supérieure à 500 tonnes d’équivalents CO<sub>2</sub> ou qui contiennent plus de 250 kg de fluides frigorigènes HFO doivent veiller à ce que:
 
 - a. les installations soient équipées d’un système de détection des fuites avec fonction d’alerte;
 - b. ce système de détection des fuites soit contrôlé au moins une fois par an.
@@ -4993,7 +5032,7 @@ L’interdiction visée au ch. 3.3.1 ne s’applique pas au remplissage:
 - b. une courte description des travaux effectués;
 - c. le résultat du contrôle d’étanchéité au sens du ch. 3.4;
 - d. la quantité et le type de fluide frigorigène retiré;
-- e. la quantité et le type du fluide frigorigène dont l’installation a été remplie;
+- e. la quantité et le type de fluide frigorigène avec lequel l’installation a été remplie et l’indication précisant s’il s’agit d’un fluide neuf ou régénéré;
 - f. le nom de l’entreprise ainsi que son propre nom et sa signature.
 
 ### 4 Élimination
@@ -5037,27 +5076,39 @@ Les installations qui servent à la défense nationale ne sont pas concernées p
 
 ### 6 Recommandations
 
-Après avoir consulté la branche concernée, l’OFEV édicte des recommandations concernant:
+Après avoir consulté le secteur d’activité concerné et les autorités cantonales compétentes pour l’exécution de la présente ordonnance, l’OFEV édicte des recommandations concernant:
 
-- a. l’état de la technique au sens du ch. 2.2, al. 2 à 4<sup>ter</sup>, 6 et 8;
+- a. l’état de la technique visé au ch. 2.2, al. 1, 3 à 7 et 9;
 - b. le contrôle d’étanchéité au sens du ch. 3.4;
 - c. le livret d’entretien au sens du ch. 3.5.
 
 ### 7 Dispositions transitoires
 
-<sup>1</sup> Les interdictions au sens du ch. 2.1, al. 2, concernant la mise sur le marché et l’importation à titre privé ne s’appliquent pas aux appareils ménagers de réfrigération et de congélation, aux déshumidificateurs et aux climatiseurs fabriqués avant le 1<sup>er</sup> janvier 2005.
+<sup>1</sup> Si une autorisation a été octroyée pour la mise en place d’une installation stationnaire contenant plus de 3 kg de fluides frigorigènes stables dans l’air avant le 1<sup>er</sup> décembre 2013 conformément au ch. 3.3 dans la version du 18 mai 2005 de l’ORRChim, l’installation concernée ne peut être mise en place que jusqu’au 31 décembre 2016.
 
-<sup>2</sup> Si une autorisation a été octroyée pour la mise en place d’une installation stationnaire contenant plus de 3 kg de fluides frigorigènes stables dans l’air avant le 1<sup>er</sup> décembre 2013 conformément au ch. 3.3 de la version du 18 mai 2005[^annex210-lvlu1-lvl7-1], l’installation concernée ne peut être mise en place que jusqu’au 31 décembre 2016.
+<sup>2</sup> Les interdictions au sens du ch. 2.1, al. 3, dans la version du 31 mai 2024 de l’ORRChim[^annex210-lvlu1-lvl7-1] s’appliquent jusqu’au 30 juin 2027 pour la remise à des tiers, sous réserve des autres dispositions transitoires visées aux al. 3, 4 et 6.
 
-<sup>3</sup> L’étiquetage au sens du ch. 2.3<sup>bis</sup> dans la version du 10 décembre 2010 de l’ORRChim[^annex210-lvlu1-lvl7-2] reste autorisé jusqu’au 31 mai 2020 pour les appareils et installations qui contiennent ou sont destinés à contenir des fluides frigorigènes stables dans l’air figurant à l’annexe A du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques (protocole de Kyoto)[^annex210-lvlu1-lvl7-3].
+<sup>3</sup> Les interdictions suivantes ne s’appliquent pas jusqu’au 31 décembre 2028:
 
-<sup>4</sup> Les appareils et installations auxquels le ch. 2.2, al. 2 à 4 et 6, ne s’applique pas, car il existe un substitut en raison d’une modification de l’état de la technique, peuvent encore être fabriqués, importés à des fins professionnelles ou commerciales pendant six mois et remis à des tiers durant six mois supplémentaires.
+- a. les interdictions au sens du ch. 2.1, al. 3, let. a, ch. 2 et 5, ne s’appliquent pas aux installations bi-blocs à évaporation et à condensation directes dont le fluide frigorigène présente un potentiel d’effet de serre égal ou inférieur à 750;
+- b. l’interdiction au sens du ch. 2.1, al. 3, let. d, ch. 2, ne s’applique pas aux installations bi-blocs à évaporation et à condensation directes dont le fluide frigorigène présente un potentiel d’effet de serre égal ou inférieur à 750;
+- c. l’interdiction au sens du ch. 2.1, al. 3, let. d, ch. 3, ne s’applique pas aux installations bi-blocs présentant une puissance calorifique supérieure à 12 kW et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou inférieur à 2100.
 
-<sup>5</sup> Les installations qui contiennent des fluides frigorigènes stables dans l’air, dont la capacité est égale ou supérieure à 500 tonnes d’équivalents CO<sub>2</sub> et qui ont été mises en service avant le 1<sup>er</sup> janvier 2025 peuvent être exploitées jusqu’au 31 décembre 2026 sans système de détection des fuites.
+<sup>4</sup> Les interdictions suivantes ne s’appliquent pas jusqu’au 31 décembre 2029:
 
-[^annex210-lvlu1-lvl7-1]: [RO 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
-[^annex210-lvlu1-lvl7-2]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
-[^annex210-lvlu1-lvl7-3]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
+- a. les interdictions au sens du ch. 2.1, al. 3, let. a, ch. 4 et 5, ne s’appliquent pas aux installations autonomes à évaporation et à condensation directes présentant une puissance frigorifique supérieure à 50 kW et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou inférieur à 750;
+- b. les interdictions au sens du ch. 2.1, al. 3, let. d, ch. 3 et 4, ne s’appliquent pas aux installations autonomes présentant une puissance calorifique supérieure à 50 kW et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou inférieur à 2100;
+- c. l’interdiction au sens du ch. 3.3.1, al. 1, ne s’applique pas en cas de remplissage avec des fluides frigorigènes stables dans l’air régénérés.
+
+<sup>5</sup> Jusqu’au 31 décembre 2031, l’interdiction au sens du ch. 3.3.1, al. 2, ne s’applique pas au remplissage avec des fluides frigorigènes stables dans l’air non régénérés.
+
+<sup>6</sup> Jusqu’au 31 décembre 2032, l’interdiction au sens du ch. 2.1, al. 3, let. a, ch. 5, ne s’applique pas aux installations VRF à évaporation et à condensation directes affichant une puissance frigorifique supérieure à 12 kW et dont le fluide frigorigène présente un potentiel d’effet de serre égal ou inférieur à 750.
+
+<sup>7</sup> Si on connaît, pour les appareils et installations pouvant être utilisés en vertu du ch. 2.2, al. 1, 3 à 7 et 9, un substitut en raison d’une modification de l’état de la technique, ces appareils et installations peuvent encore être fabriqués et importés à titre professionnel ou commercial pendant six mois et remis à des tiers durant six mois supplémentaires.
+
+<sup>8</sup> Les installations qui contiennent plus de 250 kg de fluides frigorigènes HFO et qui ont été mises en service avant le 1<sup>er</sup> janvier 2027 peuvent être exploitées jusqu’au 31 décembre 2028 sans système de détection des fuites.
+
+[^annex210-lvlu1-lvl7-1]: [RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)
 
 Annexe 2.11[^t-31]
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2026-12-01
+version: 2027-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20261201-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20270101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20261201/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° dicembre 2026)
+del 18 maggio 2005 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -450,7 +450,7 @@ L’obbligo di pagare gli emolumenti e il calcolo degli stessi per atti amminist
 
 <sup>3</sup> Le domande di autorizzazioni eccezionali ancora in sospeso al momento dell’entrata in vigore della presente ordinanza sono giudicate in base alla presente ordinanza.
 
-[^23-1]: [[RU 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2653](https://fedlex.data.admin.ch/eli/oc/1991/2653_2653_2653); [1992 364](https://fedlex.data.admin.ch/eli/oc/1992/364_364_364), [1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 n. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)all. 5 n. 3;[1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)all. 2 n. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)cifra II n. 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)art. 22 cpv. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)cifra II n. 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n I 7. [RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra I n.1]
+[^23-1]: [[RU 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2653](https://fedlex.data.admin.ch/eli/oc/1991/2653_2653_2653); [1992 364](https://fedlex.data.admin.ch/eli/oc/1992/364_364_364), [1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 n. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)all. 5 n. 3;[1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)all. 2 n. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)cifra II n. 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)art. 22 cpv. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)cifra II n. 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)cifra I n. 7. [RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra I n.1]
 
 #### Art. 23a
 
@@ -1116,7 +1116,7 @@ Allegato 1.5[^t-6]
 
 ## Sostanze stabili nell’aria
 
-[^t-6]: Nuovo testo giusta la cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dall’all. dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e cifra I cpv. 3 del 29 ott. 205, in vigore dal 1° gen 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-6]: Nuovo testo giusta la cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dall’all. dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definizioni
 
@@ -1474,7 +1474,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20261201/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20270101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -4714,17 +4714,21 @@ Allegato 2.10[^t-30]
 
 ## Prodotti refrigeranti
 
-[^t-30]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dalla cifra I dell’O del UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° gen. 2025 ([RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-30]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dalla cifra I dell’O del UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)), dalle cifre I delle O del 31 mag. 2024 ([RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)) e dalla cifra I cpv. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definizioni
 
-<sup>1</sup> Sono considerati prodotti refrigeranti le sostanze e i preparati che, negli apparecchi e negli impianti, trasportano il calore da una temperatura bassa a una temperatura più elevata.
+<sup>1</sup> Sono considerati prodotti refrigeranti le sostanze e i preparati che, negli apparecchi o negli impianti, trasportano il calore da una temperatura bassa a una temperatura più elevata.
 
-<sup>2</sup> Sono considerati prodotti refrigeranti che impoveriscono lo strato di ozono i prodotti refrigeranti che contengono sostanze che impoveriscono lo strato di ozono (allegato 1.4).
+<sup>2</sup> Sono considerati prodotti refrigeranti che impoveriscono lo strato di ozono i prodotti refrigeranti che contengono sostanze che impoveriscono lo strato di ozono secondo l’allegato 1.4 numero 1 capoverso 1.
 
-<sup>3</sup> Sono considerati prodotti refrigeranti stabili nell’aria i prodotti refrigeranti che contengono sostanze stabili nell’aria (allegato 1.5).
+<sup>3</sup> Sono considerati prodotti refrigeranti stabili nell’aria i prodotti refrigeranti che contengono sostanze stabili nell’aria secondo l’allegato 1.5 numero 1 capoverso 1.
+
+<sup>3bis</sup> Sono considerati prodotti refrigeranti con fluorocarburi insaturi parzialmente alogenati (prodotti refrigeranti HFO) i prodotti refrigeranti che contengono fluorocarburi insaturi parzialmente alogenati e non contengono sostanze che impoveriscono lo strato di ozono né sostanze stabili nell’aria.
 
 <sup>4</sup> Un impianto è costituito da tutti i circuiti del prodotto refrigerante destinati allo stesso impiego di refrigerazione; esso può essere composto da una o più macchine frigorifere. Il termine «macchina frigorifera» designa un sistema compatto di generazione di freddo con uno o più circuiti del prodotto refrigerante.
+
+<sup>4bis</sup> Un impianto è considerato «a circuito chiuso» se l’impianto o i suoi circuiti di refrigerazione sono completi e realizzati in fabbrica, si trovano in una struttura o alloggiamento adeguati e nessuna parte contenente prodotti refrigeranti è collegata in loco.
 
 <sup>5</sup> La ristrutturazione non soltanto marginale della parte refrigerante degli impianti esistenti è equiparata all’immissione sul mercato di impianti. Le ristrutturazioni rilevanti della parte refrigerante degli impianti esistenti non sono equiparate all’immissione sul mercato se con la ristrutturazione si ottiene un consistente aumento dell’efficienza energetica o, a seguito di risparmi di materiali, si evitano consistenti emissioni di gas serra.
 
@@ -4737,6 +4741,8 @@ Allegato 2.10[^t-30]
 <sup>9</sup> La surgelazione è il raffreddamento di derrate alimentari o merci deperibili con una temperatura utile inferiore a –25 °C.
 
 <sup>10</sup> La capacità di raffreddamento di un impianto è la sua effettiva capacità di raffreddamento ai picchi di consumo e per un impianto progettato secondo lo stato della tecnica.
+
+<sup>11</sup> La potenza di riscaldamento di un impianto è la sua effettiva potenza di riscaldamento ai picchi di consumo per un impianto progettato secondo lo stato della tecnica.
 
 ### 2 Fabbricazione, immissione sul mercato, importazione ed esportazione
 
@@ -4761,180 +4767,200 @@ Allegato 2.10[^t-30]
 
   impianti di climatizzazione per il raffreddamento degli edifici:
 
-  - 1\. con una potenza di raffreddamento superiore a 400 kW,
-  - 2\. se il prodotto refrigerante stabile nell’aria utilizzato nell’impianto presenta un potenziale di effetto serra superiore a 2100, o
-  - 3\. con un’unità esterna e una interna (impianti di climatizzazione monosplit) e una capacità inferiore a 3 kg per circuito del prodotto refrigerante, se il prodotto refrigerante stabile nell’aria utilizzato nell’impianto presenta un potenziale di effetto serra pari o superiore a 750;
+  - 1\. con una potenza di raffreddamento superiore a 200 kW,
+  - 2\. con una potenza di raffreddamento non superiore a 12 kW e i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 150,
+  - 3\. i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 750,
+  - 4\. che sono a circuito chiuso e i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 150, oppure
+  - 5\. con evaporazione diretta, il cui prodotto refrigerante presenta un potenziale di effetto serra pari o superiore a 150;
 
 - b.
 
   impianti per la refrigerazione industriale e commerciale di derrate alimentari o merci deperibili mediante:
 
-  - 1\. freddo negativo o surgelazione con una potenza di raffreddamento superiore a 30 kW, o
-  - 2\. freddo positivo con una potenza di raffreddamento superiore a 40 kW, o
-  - 3\. freddo negativo o surgelazione con una potenza di raffreddamento superiore a 8 kW, se il freddo negativo o la surgelazione possono essere combinati con un freddo positivo, o
-  - 4\. freddo positivo, freddo negativo o surgelazione, se:
-  - i. il prodotto refrigerante stabile nell’aria utilizzato nell’impianto presenta un potenziale di effetto serra superiore a 1500, o
-  - ii. l’impianto è a circuito chiuso e il prodotto refrigerante stabile nell’aria utilizzato nell’impianto presenta un potenziale di effetto serra pari o superiore a 150;
+  - 1\.
+
+    freddo positivo:
+
+    - – con una potenza di raffreddamento superiore a 12 kW, oppure
+    - – i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 750,
+
+  - 2\.
+
+    freddo negativo:
+
+    - – con una potenza di raffreddamento superiore a 8 kW, oppure
+    - – i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 750,
+
+  - 3\.
+
+    surgelazione:
+
+    - – con una potenza di raffreddamento superiore a 8 kW, oppure
+    - – il cui prodotto refrigerante presenta un potenziale di effetto serra pari o superiore a 1500,
+
+  - 4\. freddo positivo, freddo negativo o surgelazione se l’impianto è a circuito chiuso o è dotato di un circuito del vettore del freddo e il suo prodotto refrigerante presenta un potenziale di effetto serra pari o superiore a 150;
 
 - c.
 
   impianti per la refrigerazione di processi nell’industria e tutte le altre applicazioni di refrigerazione:
 
-  - 1\. con una potenza di raffreddamento superiore a 400 kW, o
-  - 2\. se con una potenza di raffreddamento di al massimo 100kW il prodotto refrigerante stabile nell’aria utilizzato presenta un potenziale di effetto serra superiore a 2100, o
-  - 3\. se con una potenza di raffreddamento superiore a 100 kW il prodotto refrigerante stabile nell’aria utilizzato presenta un potenziale di effetto serra superiore a 1500;
+  - 1\. con una potenza di raffreddamento superiore a 200 kW,
+  - 2\. con una potenza di raffreddamento non superiore a 12 kW e i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 150,
+  - 3\. i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 750,
+  - 4\. che sono a circuito chiuso e i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 150, o
+  - 5\. con evaporazione diretta, il cui prodotto refrigerante presenta un potenziale di effetto serra pari o superiore a 150;
 
 - d.
 
-  pompe di calore per l’approvvigionamento di calore di prossimità e a distanza:
+  pompe di calore:
 
-  - 1\. con una potenza di raffreddamento superiore a 600 kW,
-  - 2\. se il prodotto refrigerante stabile nell’aria utilizzato nell’impianto presenta un potenziale di effetto serra superiore a 2100, o
-  - 3\. con un’unità esterna e una interna (pompa di calore monosplit) e una capacità inferiore a 3 kg per circuito del prodotto refrigerante, se il prodotto refrigerante stabile nell’aria utilizzato nell’impianto presenta un potenziale di effetto serra pari o superiore a 750;
+  - 1\. con una potenza di riscaldamento superiore a 250 kW,
+  - 2\. con una potenza di riscaldamento non superiore a 12 kW e i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 150,
+  - 3\. i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 750, o
+  - 4\. che sono a circuito chiuso e i cui prodotti refrigeranti presentano un potenziale di effetto serra pari o superiore a 150;
 
 - e.
 
-  piste di pattinaggio:
+  impianti di refrigerazione per la produzione di ghiaccio artificiale e il suo utilizzo per:
 
-  - 1\. piste di pattinaggio permanenti,
-  - 2\. impianti in esercizio temporaneamente, se il prodotto refrigerante stabile nell’aria utilizzato presenta un potenziale di effetto serra superiore a 4000.
+  - 1\. piste di pattinaggio permanenti, o
+  - 2\. piste di pattinaggio temporanee, il cui prodotto refrigerante presenta un potenziale di effetto serra pari o superiore a 750.
 
-<sup>4</sup> È vietata l’immissione sul mercato di impianti per la produzione di freddo che funzionano con prodotti refrigeranti stabili nell’aria e sono privi di un circuito del vettore del freddo, se:
+<sup>4</sup> È vietata l’immissione sul mercato di impianti per la produzione del freddo con evaporazione diretta, che funzionano con prodotti refrigeranti stabili nell’aria, se:
 
-- a. utilizzano almeno tre unità di evaporazione e presentano una potenza di raffreddamento superiore a 80 kW;
+- a. utilizzano almeno tre unità di evaporazione o almeno tre circuiti di refrigerazione e presentano una potenza di raffreddamento superiore a 80 kW;
 - b. utilizzano più di 40 unità di evaporazione; o
-- c. sono a circuito chiuso e il prodotto refrigerante stabile nell’aria utilizzato nell’impianto presenta un potenziale di effetto serra pari o superiore a 150.
+- c. sono a circuito chiuso e il loro prodotto refrigerante presenta un potenziale di effetto serra pari o superiore a 150.
 
-<sup>5</sup> È vietata l’immissione sul mercato di impianti con condensatori raffreddati ad aria contenenti un refrigerante stabile nell’aria con un potenziale di effetto serra superiore a 4000, nei limiti del potenziale di effetto serra massimo consentito conformemente al numero 2.1 capoverso 3.
-
-<sup>6</sup> È vietata l’immissione sul mercato di impianti dotati di un condensatore raffreddato ad aria e con una potenza di raffreddamento superiore a 100 kW se:
-
-- a
-
-  per kW di potenza di raffreddamento contengono:
-
-  - 1\. più di 0,18 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra superiore a 1900,
-  - 2\. più di 0,4 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra pari o inferiore a 1900;
-
-- b.
-
-  dispongono di un dispositivo per il recupero del calore di scarto o per il free cooling e per kW di potenza di raffreddamento contengono:
-
-  - 1\. più di 0,22 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra superiore a 1900,
-  - 2\. più di 0,48 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra pari o inferiore a 1900;
-
-- c. sono utilizzati contemporaneamente per il riscaldamento e il raffreddamento, sono dotati di almeno due scambiatori di calore ad aria e contengono per kW di potenza di raffreddamento più di 0,37 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra superiore a 1900.
-
-<sup>7</sup> È vietata l’immissione sul mercato di impianti di raffreddamento per il freddo positivo, il freddo negativo o combinabili freddo positivo-freddo negativo (combinazione a gas caldo) con una potenza di raffreddamento superiore a 10 kW se contengono più di 2 kg di un prodotto refrigerante stabile nell’aria per kW di potenza di raffreddamento e non sono dotati di una tecnologia per ridurre il contenuto di prodotto refrigerante di almeno il 15 per cento.
-
-### 2.2 Deroghe
-
-<sup>1</sup> I divieti di cui al numero 2.1 capoversi 1 lettera b come pure 2 lettere a–c non si applicano agli apparecchi che appartengono a un’economia domestica privata, che vengono immessi sul mercato a scopo privato o che sono importati o esportati a scopo privato.
-
-<sup>2</sup> I divieti di cui al numero 2.1 capoverso 2 non si applicano agli apparecchi e agli impianti se:
-
-- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
-- b. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
-- c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
-
-<sup>3</sup> Gli impianti in cascata possono essere immessi sul mercato per le refrigerazioni, le applicazioni di refrigerazione e le distribuzioni di calore di cui al numero 2.1 capoverso 3 che presentano una temperatura di evaporazione inferiore a –50°C, se:
-
-- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
-- b. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
-- c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
-
-<sup>4</sup> Il divieto di cui al numero 2.1 capoverso 3 lettera b numero 4 non si applica agli impianti per la surgelazione se:
-
-- a. la surgelazione non può essere combinata con un freddo positivo;
-- b. secondo lo stato della tecnica non è disponibile un sostituto;
-- c. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
-- d. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
-
-<sup>4bis</sup> I divieti di cui al numero 2.1 capoverso 3 lettera c numeri 2 e 3 non si applicano agli impianti e alle applicazioni di refrigerazione che presentano una temperatura di evaporazione pari o inferiore a –90 °C, se:
-
-- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
-- b. secondo lo stato della tecnica è stato selezionato il prodotto refrigerante stabile nell’aria con il minor impatto sul clima; e
-- c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
-
-<sup>4ter</sup> Il divieto di cui al numero 2.1 capoverso 4 lettera c non si applica, se:
+<sup>5</sup> È vietata l’immissione sul mercato di impianti dotati di un condensatore raffreddato ad aria e con una potenza di raffreddamento superiore a 50 kW se:
 
 - a.
 
-  secondo lo stato della tecnica senza l’impiego di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra pari o superiore a 150 non possono essere rispettate le norme seguenti[^annex210-lvlu1-lvl2-lvl22-1]:
+  per kW di potenza di raffreddamento contengono:
 
-  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 e SN EN 378-3:2017+A1:2021,
-  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 e SN EN IEC 60335-2-89:2022/AC:2023,
-  - 3\. IEC 60335-2-40:2022 ED 7.0;
+  - 1\. più di 0,18 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra pari o superiore a 750, o
+  - 2\. più di 0,4 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra inferiore a 750;
 
-- b. secondo lo stato della tecnica è stato selezionato il prodotto refrigerante stabile nell’aria con il minor impatto sul clima; e
-- c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
+- b.
 
-<sup>5</sup> Gli impianti esistenti immessi legalmente sul mercato, la cui immissione sul mercato è soggetta ad autorizzazione, possono essere forniti a terzi per gli impieghi di cui al numero 2.1 capoverso 3 senza una nuova autorizzazione di immissione sul mercato se non vengono ristrutturati e non viene cambiata la loro ubicazione.
+  dispongono di un dispositivo per il recupero del calore di scarto o per il raffreddamento libero e per kW di potenza di raffreddamento contengono:
 
-<sup>5bis</sup> Gli impianti esistenti immessi legalmente sul mercato possono essere ampliati con componenti aggiuntivi, se questi soddisfano i requisiti legali di cui al numero 2.1 relativi al tipo e alla capacità del prodotto refrigerante come pure ai circuiti secondari che si applicano all’immissione sul mercato di un impianto intero simile.
+  - 1\. più di 0,22 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra pari o superiore a 750, o
+  - 2\. più di 0,48 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra inferiore a 750;
 
-<sup>6</sup> Il divieto di cui al numero 2.1 capoverso 1 lettera b non si applica se:
+- c. sono utilizzati contemporaneamente per il riscaldamento e il raffreddamento, sono dotati di almeno due scambiatori di calore ad aria e contengono per kW di potenza di raffreddamento più di 0,37 kg di un prodotto refrigerante stabile nell’aria con un potenziale di effetto serra pari o superiore a 750.
+
+<sup>6</sup> È vietata l’immissione sul mercato di impianti di raffreddamento per il freddo positivo, il freddo negativo o combinabili freddo positivo-freddo negativo (combinazione a gas caldo) con una potenza di raffreddamento superiore a 10 kW, se contengono più di 2 kg di un prodotto refrigerante stabile nell’aria per kW di potenza di raffreddamento e non sono dotati di una tecnologia per ridurre il contenuto di prodotto refrigerante di almeno il 15 per cento.
+
+<sup>7</sup> È vietata l’esportazione di impianti stazionari che funzionano con prodotti refrigeranti stabili nell’aria con un potenziale di gas serra pari o superiore a 1000 e la cui immissione sul mercato in Svizzera non è più consentita.
+
+<sup>8</sup> È vietata l’immissione sul mercato dei seguenti apparecchi che funzionano con prodotti refrigeranti HFO:
+
+- a. apparecchi frigoriferi e congelatori per uso domestico;
+- b.[^annex210-lvlu1-lvl2-lvl21-1] ...
+
+[^annex210-lvlu1-lvl2-lvl21-1]: In vigore dal 1° gen. 2032 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+
+### 2.2 Deroghe
+
+<sup>1</sup> Il divieto di cui al numero 2.1 capoverso 1 lettera b non si applica se:
 
 - a. secondo lo stato della tecnica non esiste un prodotto alternativo;
 - b. il prodotto refrigerante presenta un potenziale di riduzione dell’ozono di al massimo 0,0005; e
 - c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
-<sup>7</sup> ...
+<sup>2</sup> I divieti di cui al numero 2.1 capoversi 1 lettera b e 2 lettere a–c non si applicano agli apparecchi che vengono immessi sul mercato a scopo privato o che sono importati ed esportati a scopo privato.
 
-<sup>8</sup> Su domanda motivata, l’UFAM può concedere a un determinato impianto una deroga dal divieto di cui al numero 2.1 capoverso 3 se:
+<sup>3</sup> I divieti di cui al numero 2.1 capoverso 2 non si applicano agli apparecchi e agli impianti se:
 
-- a.
+- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
+- b. secondo lo stato della tecnica è stato scelto il prodotto refrigerante stabile nell’aria con il minor impatto sul clima; e
+- c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
-  secondo lo stato della tecnica senza l’impiego di un prodotto refrigerante stabile nell’aria non possono essere rispettate le norme seguenti:
+<sup>4</sup> I divieti di cui al numero 2.1 capoversi 3 e 4 lettera c non si applicano, se:
+
+- a
+
+  secondo lo stato della tecnica, non è possibile rispettare le seguenti norme[^annex210-lvlu1-lvl2-lvl22-1] senza che sia impiegato un prodotto refrigerante stabile nell’aria:
 
   - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 e SN EN 378-3:2017+A1:2021,
   - 2\. SN EN IEC 60335-2-89:2022/A11:2022 e SN EN IEC 60335-2-89:2022/AC:2023,
-  - 3\. IEC 60335-2-40:2022 ED 7.0;
+  - 3\. IEC 60335-2-40:2022-05 ED 7.0;
 
-- b. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
+- b. secondo lo stato della tecnica è stato scelto il prodotto refrigerante stabile nell’aria con il minor impatto sul clima; e
 - c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
-<sup>9</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza i capoversi 4<sup>ter</sup> lettera a e 8 lettera a in caso di modifica delle norme ivi indicate.
+<sup>5</sup> Gli impianti a cascata possono essere immessi sul mercato per le refrigerazioni, le applicazioni di refrigerazione e le distribuzioni di calore di cui al numero 2.1 capoverso 3 che presentano una temperatura di evaporazione inferiore a –50 °C se:
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Le norme possono essere consultate gratuitamente o acquistate presso l’Associazione svizzera di normalizzazione (SNV), Sulzeralle 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch).
+- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
+- b. secondo lo stato della tecnica è stato scelto il prodotto refrigerante stabile nell’aria con il minor impatto sul clima e che presenta un potenziale di effetto serra di al massimo 750 nella fase di alta pressione e di 150 nella fase di bassa pressione; e
+- c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
-### 2.3 Obblighi del gestore e obblighi di informazione relativi alle deroghe
+<sup>6</sup> I divieti di cui al numero 2.1 capoverso 3 lettera b numeri 2 secondo trattino e 3 secondo trattino non si applicano, se:
 
-<sup>1</sup> Un impianto che può essere immesso sul mercato solo se è stata concessa una deroga secondo il numero 2.2 capoverso 8[^annex210-lvlu1-lvl2-lvl23-1], può essere messo in esercizio unicamente se il gestore di questo impianto si è previamente accertato dell’esistenza di tale deroga.
+- a. il freddo negativo o la surgelazione non può essere combinato con un freddo positivo;
+- b. secondo lo stato della tecnica non esiste un prodotto alternativo;
+- c. secondo lo stato della tecnica è stato scelto il prodotto refrigerante stabile nell’aria con il minor impatto sul clima; e
+- d. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
-<sup>2</sup> Chi immette sul mercato un tale impianto deve mettere a disposizione del gestore gratuitamente una copia della deroga.
+<sup>7</sup> I divieti di cui al numero 2.1 capoverso 3 lettera c numeri 2–5 non si applicano agli impianti e alle applicazioni di refrigerazione che presentano una temperatura di evaporazione pari o inferiore a –90 °C, se:
 
-[^annex210-lvlu1-lvl2-lvl23-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° giu. 2019.
+- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
+- b. secondo lo stato della tecnica è stato scelto il prodotto refrigerante stabile nell’aria con il minor impatto sul clima; e
+- c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
+
+<sup>8</sup> Gli impianti esistenti immessi legalmente sul mercato possono essere ampliati con componenti aggiuntivi, se questi soddisfano i requisiti di legge relativi al tipo e alla capacità del prodotto refrigerante come pure ai circuiti secondari che si applicano all’immissione sul mercato di un impianto intero simile.
+
+<sup>9</sup> I divieti di cui al numero 2.1 capoversi 8 e 9 non si applicano, se:
+
+- a.
+
+  secondo lo stato della tecnica, non è possibile rispettare le seguenti norme senza che sia impiegato un prodotto refrigerante HFO:
+
+  - 1\. SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 e SN EN 378-3:2017+A1:2021,
+  - 2\. SN EN IEC 60335-2-89:2022/A11:2022 e SN EN IEC 60335-2-89:2022/AC:2023,
+  - 3\. IEC 60335-2-40:2022-05 ED 7.0; e
+
+- b. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
+
+<sup>10</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza i capoversi 4 lettera a e 9 lettera a in caso di modifica delle norme ivi indicate.
+
+[^annex210-lvlu1-lvl2-lvl22-1]: Queste norme possono essere consultate gratuitamente e ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/fr/).
+
+### 2.3 ...
 
 ### 2.4 Etichettatura speciale destinata ai professionisti
 
 <sup>1</sup> I fabbricanti di apparecchi e impianti devono indicare inequivocabilmente sull’apparecchio o l’impianto il tipo e la quantità dei refrigeranti impiegati.
 
-<sup>2</sup> Gli apparecchi e impianti che contengono o conterranno refrigeranti elencati nell’allegato I del regolamento (UE) n. 517/2014[^annex210-lvlu1-lvl2-lvl24-1] devono essere etichettati con i seguenti dati:
+<sup>2</sup> Il fabbricante può immettere sul mercato apparecchi e impianti che contengono o conterranno prodotti refrigeranti elencati in uno degli allegati I–III del regolamento (UE) 2024/573[^annex210-lvlu1-lvl2-lvl24-1] soltanto se la loro etichetta contiene i seguenti dati:
 
 - a. la dicitura: «Contiene gas fluorurati a effetto serra»;
-- b. le designazioni chimiche abbreviate dei refrigeranti che sono o saranno contenuti negli apparecchi e negli impianti, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
+- b. le designazioni chimiche abbreviate dei prodotti refrigeranti che sono o saranno contenuti negli apparecchi e negli impianti, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
 - c. le quantità di refrigeranti in kg e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra dei prodotti refrigeranti;
-- d. l’aggiunta: «chiuso ermeticamente», se pertinente.
+- d. nel caso di apparecchi e impianti a circuito chiuso con prodotti refrigeranti, l’aggiunta: «Chiuso ermeticamente».
 
-<sup>3</sup> I fabbricanti devono etichettare con l’avvertenza «Materiale espanso mediante gas fluorurati a effetto serra» gli apparecchi e gli impianti che:
+<sup>3</sup> I fabbricanti devono etichettare con l’avvertenza «Materiale espanso mediante gas fluorurati a effetto serra» gli apparecchi e gli impianti che prima dell’immissione sul mercato sono stati isolati con materiale espanso mediante sostanze che sono elencate negli allegati I–III del regolamento (UE) 2024/573.
 
-- a. contengono refrigeranti che sono elencati nell’allegato I del regolamento (UE) n.517/2014; e
-- b. prima dell’immissione in commercio sono stati isolati con materiale espanso mediante sostanze stabili nell’aria che sono elencate nell’allegato I del regolamento (UE) n. 517/2014.
-
-[^annex210-lvlu1-lvl2-lvl24-1]: Regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006, versione secondo GU L 150 del 20.5.2014, pag. 195.
+[^annex210-lvlu1-lvl2-lvl24-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv. 2.
 
 ### 2.5 Prescrizioni concernenti la fornitura di prodotti refrigeranti
 
 I prodotti refrigeranti e gli impianti che contengono già prodotti refrigeranti e la cui messa in esercizio richiede un intervento nel circuito del prodotto refrigerante possono essere consegnati solo a persone che adempiono i requisiti dell’articolo 7 capoverso 1 lettera b per l’utilizzazione di prodotti refrigeranti.
 
+### 2.6 Obblighi per l’esportazione di impianti che funzionano con prodotti refrigeranti
+
+Chi esporta impianti stazionari che funzionano con prodotti refrigeranti deve garantire che l’esportazione non violi le restrizioni all’importazione che lo Stato importatore ha comunicato nell’ambito del Protocollo di Montreal[^annex210-lvlu1-lvl2-lvl26-1].
+
+[^annex210-lvlu1-lvl2-lvl26-1]: Le restrizioni all’importazione comunicate possono essere consultate in Internet all’indirizzo [www.bafu.admin.ch](https://www.bafu.admin.ch/bafu/it/home.html) &gt; Temi &gt; Prodotti chimici &gt; Informazioni per gli specialisti &gt; Disposizioni e procedure &gt; Prodotti refrigeranti.
+
 ### 3 Impiego
 
 ### 3.1 Obbligo di diligenza
 
-Chi manipola o utilizza prodotti refrigeranti o apparecchi o impianti che contengono prodotti refrigeranti è tenuto a provvedere affinché tali prodotti non costituiscano un pericolo per l’ambiente, e in particolare:
+Chi manipola prodotti refrigeranti, apparecchi o impianti che contengono prodotti refrigeranti è tenuto a provvedere affinché tali prodotti non costituiscano un pericolo per l’ambiente, e in particolare:
 
-- a. a evitare che producano emissioni; e
+- a. a evitare per quanto possibile che questi prodotti refrigeranti producano emissioni; e
 - b. ad assicurarsi che i loro rifiuti siano smaltiti conformemente alle prescrizioni.
 
 ### 3.2 Ricarica con prodotti refrigeranti che impoveriscono lo strato di ozono
@@ -4956,33 +4982,47 @@ Chi manipola o utilizza prodotti refrigeranti o apparecchi o impianti che conten
 
 ### 3.3 Ricarica con prodotti refrigeranti stabili nell’aria
 
-### 3.3.1 Divieto
+### 3.3.1 Divieti
 
-È vietata la ricarica con prodotti refrigeranti stabili nell’aria che presentano un potenziale di effetto serra pari o superiore a 2500 in impianti.
+<sup>1</sup> È vietata la ricarica di impianti con prodotti refrigeranti stabili nell’aria che presentano un potenziale di effetto serra pari o superiore a 2500.
+
+<sup>2</sup> È vietata la ricarica dei seguenti impianti stazionari con prodotti refrigeranti stabili nell’aria che presentano un potenziale di effetto serra pari o superiore a 750:
+
+- a. impianti per la refrigerazione industriale e commerciale di derrate alimentari o merci deperibili;
+- b. impianti per la refrigerazione di processi nell’industria e tutte le altre applicazioni di refrigerazione;
+- c. impianti di refrigerazione per la produzione di ghiaccio artificiale e il suo utilizzo.
 
 ### 3.3.2 Deroghe
 
-[^annex210-lvlu1-lvl3-lvl33-lvl332-1]
+<sup>1</sup> I divieti secondo il numero 3.3.1 non si applicano alla ricarica con prodotti refrigeranti non rigenerati stabili nell’aria dei seguenti impianti, se i prodotti refrigeranti rigenerati per questi impianti non sono reperibili sul mercato:
 
-[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: Valido fino al 31 dic. 2029 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+- a. impianti con una temperatura di utilizzo inferiore a –50 °C;
+- b. impianti che sono stati immessi sul mercato sulla base di una deroga secondo il numero 2.2 capoverso 8 nella versione del 15 dicembre 2020[^annex210-lvlu1-lvl3-lvl33-lvl332-1].
 
-Il divieto di cui al numero 3.3.1 non si applica alla ricarica:
+<sup>2</sup> Il divieto di cui al numero 3.3.1 capoverso 2 non si applica alla ricarica di:
 
-- a. con prodotti refrigeranti rigenerati stabili nell’aria con un potenziale di effetto serra pari o superiore a 2500;
-- b. con prodotti refrigeranti non rigenerati stabili nell’aria con un potenziale di effetto serra pari o superiore a 2500 in impianti con temperatura di utilizzo inferiore a –50 °C, se sul mercato non sono disponibili prodotti refrigeranti rigenerati per questi impianti;
-- c. con prodotti refrigeranti non rigenerati stabili nell’aria con un potenziale di effetto serra pari o superiore a 2500 in impianti che sono stati immessi sul mercato sulla base di una deroga secondo il numero 2.2 capoverso 8, se sul mercato non sono disponibili prodotti refrigeranti rigenerati per questi impianti.
+- a. prodotti refrigeranti rigenerati stabili nell’aria;
+- b.
+
+  prodotti refrigeranti non rigenerati stabili nell’aria in impianti che:
+
+  - 1\. sono dotati di un circuito del vettore del freddo, oppure
+
+- 2\. servono alla sicurezza di una centrale nucleare.
+
+[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: [RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)
 
 ### 3.4 Controllo della tenuta stagna e rilevazione delle perdite
 
 <sup>1</sup> I detentori dei seguenti apparecchi e impianti devono farne controllare periodicamente, almeno a ogni intervento e a ogni manutenzione, la tenuta stagna:
 
-- a. apparecchi e impianti che contengono più di 3 kg di prodotti refrigeranti che impoveriscono lo strato di ozono o sono stabili nell’aria;
+- a. apparecchi e impianti che contengono più di 3 kg di prodotti refrigeranti che impoveriscono lo strato di ozono o sono stabili nell’aria oppure che contengono più di 3 kg di prodotti refrigeranti HFO;
 - b. apparecchi e impianti che contengono prodotti refrigeranti stabili nell’aria e la cui capacità corrisponde a più di 5 tonnellate di CO<sub>2</sub> equivalenti;
 - c. impianti di refrigerazione e di climatizzazione impiegati nei veicoli a motore e che contengono prodotti refrigeranti che impoveriscono lo strato di ozono o sono stabili nell’aria.
 
 <sup>2</sup> Qualora rilevi una perdita, il detentore deve immediatamente far riparare l’apparecchio o l’impianto.
 
-<sup>3</sup> Il detentore di un impianto che contiene prodotti refrigeranti stabili nell’aria e la cui capacità è pari o superiore a 500 tonnellate di CO<sub>2</sub> equivalenti è tenuto a provvedere affinché:
+<sup>3</sup> I detentori di impianti che contengono prodotti refrigeranti stabili nell’aria e la cui capacità è pari o superiore a 500 tonnellate di CO<sub>2</sub> equivalenti oppure che contengono più di 250 kg di prodotti refrigeranti HFO sono tenuti a provvedere affinché:
 
 - a. l’impianto sia dotato di un sistema di rilevazione delle perdite con funzione di avviso;
 - b. il sistema di rilevazione delle perdite venga controllato almeno una volta all’anno.
@@ -4999,7 +5039,7 @@ Il divieto di cui al numero 3.3.1 non si applica alla ricarica:
 - b. una breve descrizione dei lavori eseguiti;
 - c. il risultato del controllo della tenuta stagna secondo il numero 3.4;
 - d. la quantità e il tipo del prodotto refrigerante prelevato;
-- e. la quantità e il tipo del prodotto refrigerante introdotto nell’impianto;
+- e. la quantità e il tipo di prodotto refrigerante caricato nell’impianto e l’indicazione se si tratta di un prodotto refrigerante nuovo o rigenerato;
 - f. la ditta, il proprio nome e la propria firma.
 
 ### 4 Smaltimento
@@ -5043,27 +5083,39 @@ Non devono essere notificati secondo il numero 5.1 gli impianti che servono alla
 
 ### 6 Raccomandazioni
 
-Dopo aver consultato i settori interessati, l’UFAM emana raccomandazioni:
+Dopo aver consultato il settore interessato e le autorità cantonali responsabili dell’esecuzione della presente ordinanza, l’UFAM emana raccomandazioni:
 
-- a. sullo stato della tecnica di cui al numero 2.2 capoversi 2–4<sup>ter</sup>, 6 e 8;
+- a. sullo stato della tecnica secondo il numero 2.2 capoversi 1, 3–7 e 9;
 - b. sul controllo della tenuta stagna di cui al numero 3.4;
 - c. sul registro di manutenzione di cui al numero 3.5.
 
 ### 7 Disposizioni transitorie
 
-<sup>1</sup> Il divieto di immissione sul mercato e di importazione a scopi privati di cui al numero 2.1 capoverso 2 non si applica ad apparecchi frigoriferi e congelatori per uso domestico, deumidificatori e climatizzatori fabbricati prima del 1° gennaio 2005.
+<sup>1</sup> Se per l’allestimento di un impianto stazionario contenente oltre 3 kg di prodotto refrigerante stabile nell’aria è stata concessa un’autorizzazione prima del 1° dicembre 2013 secondo il numero 3.3 della versione del 18 maggio 2005, l’impianto può essere allestito solo entro il 31 dicembre 2016.
 
-<sup>2</sup> Se per l’allestimento di un impianto stazionario contenente oltre 3 kg di prodotto refrigerante stabile nell’aria è stata concessa un’autorizzazione prima del 1° dicembre 2013 secondo il numero 3.3 della versione del 18 maggio 2005[^annex210-lvlu1-lvl7-1], l’impianto può essere allestito solo entro il 31 dicembre 2016.
+<sup>2</sup> Fino al 30 giugno 2027, si applicano i divieti di cui al numero 2.1 capoverso 3 per la fornitura a terzi secondo la versione del 31 maggio 2024[^annex210-lvlu1-lvl7-1], fatti salvi gli ulteriori termini transitori di cui ai capoversi 3, 4 e 6.
 
-<sup>3</sup> Per gli apparecchi e gli impianti che contengono o conterranno prodotti refrigeranti stabili nell’aria elencati nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex210-lvlu1-lvl7-2] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto), fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo l’articolo 2.3<sup>bis</sup> ORRPChim nella versione del 10 dicembre 2010[^annex210-lvlu1-lvl7-3].
+<sup>3</sup> I seguenti divieti non si applicano fino al 31 dicembre 2028:
 
-<sup>4</sup> Gli impianti e gli apparecchi per i quali non sono applicabili il numero 2.2 capoversi 2–4 e 6 perché vi è un sostituto a seguito di un cambiamento dello stato della tecnica possono ancora essere fabbricati, importati per scopi professionali o commerciali per sei mesi e ceduti a terzi per ulteriori sei mesi.
+- a. i divieti di cui al numero 2.1 capoverso 3 lettera a numeri 2 e 5 per gli impianti a split con evaporazione diretta e liquefazione diretta, il cui prodotto refrigerante presenta un potenziale di effetto serra di al massimo 750;
+- b. il divieto di cui al numero 2.1 capoverso 3 lettera d numero 2 per gli impianti a split con evaporazione diretta e liquefazione diretta, il cui prodotto refrigerante presenta un potenziale di effetto serra di al massimo 750;
+- c. il divieto di cui al numero 2.1 capoverso 3 lettera d numero 3 per gli impianti a split con una potenza di riscaldamento superiore a 12 kW, il cui prodotto refrigerante presenta un potenziale di effetto serra di al massimo 2100.
 
-<sup>5</sup> Gli impianti che contengono prodotti refrigeranti stabili nell’aria la cui capacità è pari o superiore a 500 tonnellate di CO<sub>2</sub> equivalenti e che sono stati messi in esercizio prima del 1° gennaio 2025 possono continuare a funzionare senza un sistema di rilevazione delle perdite fino al 31 dicembre 2026.
+<sup>4</sup> I seguenti divieti non si applicano fino al 31 dicembre 2029:
 
-[^annex210-lvlu1-lvl7-1]: [RU 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
-[^annex210-lvlu1-lvl7-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-[^annex210-lvlu1-lvl7-3]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+- a. i divieti di cui al numero 2.1 capoverso 3 lettera a numeri 4 e 5 per gli impianti a circuito chiuso con evaporazione diretta e liquefazione diretta nonché una potenza di raffreddamento superiore a 50 kW, il cui prodotto refrigerante presenta un potenziale di effetto serra di al massimo 750;
+- b. i divieti di cui al numero 2.1 capoverso 3 lettera d numeri 3 e 4 per gli impianti a circuito chiuso con una potenza di riscaldamento superiore a 50 kW, il cui prodotto refrigerante presenta un potenziale di effetto serra di al massimo 2100;
+- c. il divieto di cui al numero 3.3.1 capoverso 1 per la ricarica con prodotti refrigeranti rigenerati stabili nell’aria.
+
+<sup>5</sup> Il divieto di cui al numero 3.3.1 capoverso 2 non si applica fino al 31 dicembre 2031 alla ricarica con prodotti refrigeranti non rigenerati stabili nell’aria.
+
+<sup>6</sup> Il divieto di cui al numero 2.1 capoverso 3 lettera a numero 5 non si applica fino al 31 dicembre 2032 agli impianti VRF (*Variant Refrigerant Flow*) con evaporazione diretta e liquefazione diretta nonché una potenza di raffreddamento superiore a 12 kW, il cui prodotto refrigerante presenta un potenziale di effetto serra di al massimo 750.
+
+<sup>7</sup> Gli impianti e gli apparecchi che potevano essere utilizzati sulla base del numero 2.2 capoversi 1, 3–7 e 9 e per cui è disponibile un’alternativa a seguito di un cambiamento dello stato della tecnica possono essere fabbricati e importati a scopi professionali o commerciali ancora per sei mesi come pure essere ceduti a terzi per altri sei mesi.
+
+<sup>8</sup> Gli impianti che contengono più di 250 kg di prodotti refrigeranti HFO e che sono stati messi in esercizio prima del 1° gennaio 2027 possono restare in esercizio senza un sistema di rilevazione delle perdite fino al 31 dicembre 2028.
+
+[^annex210-lvlu1-lvl7-1]: [RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)
 
 Allegato 2.11[^t-31]
 
