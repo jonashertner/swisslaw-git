@@ -3,18 +3,18 @@ sr: "935.22"
 title: "Legge federale del 30 settembre 2011 che promuove l'innovazione, la collaborazione e lo sviluppo delle conoscenze nel turismo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/75"
 language: it
-version: 2023-07-17
+version: 2027-01-01
 adopted: 2011-09-30
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/75/20230717/it/xml/fedlex-data-admin-ch-eli-cc-2012-75-20230717-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/75/20230717/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/75/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2012-75-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/75/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale che promuove l’innovazione, la collaborazione e lo sviluppo delle conoscenze nel turismo
 
-del 30 settembre 2011 (Stato 17 luglio 2023)
+del 30 settembre 2011 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -22,7 +22,7 @@ visto l’articolo 103 della Costituzione federale[^ingress-1]; visto il messagg
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 2117](https://fedlex.data.admin.ch/eli/fga/2011/327)
 
 #### Art. 1
@@ -85,27 +85,9 @@ I progetti devono essere avviati entro sei mesi dall’assegnazione dell’aiuto
 
 #### Art. 5a
 
-**Aumento temporaneo degli aiuti finanziari**[^5a-1]
+[^5a-1]
 
-<sup>1</sup> Su richiesta dei promotori, la Confederazione può sostenere i progetti che generano costi negli anni 2023–2026 accordando un aiuto finanziario pari al massimo al 70 per cento dei costi computabili.
-
-<sup>2</sup>
-
-Il capoverso 1 si applica:
-
-- a. ai nuovi progetti per i quali le richieste di aiuto finanziario sono presentate dopo l’inizio della decorrenza del termine di referendum relativo alla modifica del 17 marzo 2023 della presente legge ed entro il 31 dicembre 2026;
-- b.
-
-  ai progetti in corso per i quali un aiuto finanziario è stato assegnato prima dell’entrata in vigore del presente articolo, purché il beneficiario dimostri che:
-
-  - 1\. l’aumento dell’aliquota di sussidio genera un beneficio aggiuntivo, oppure
-  - 2\. senza l’aumento dell’aliquota di sussidio il progetto non può essere portato a termine come previsto a causa delle conseguenze della pandemia di COVID-19.
-
-<sup>3</sup> Per i progetti la cui attuazione inizia prima del 1° gennaio 2023 o si protrae oltre il 31 dicembre 2026, l’aliquota di sussidio è determinata in base all’anno di erogazione delle prestazioni.
-
-<sup>4</sup> Se per un progetto possono essere richiesti anche altri sussidi federali, l’aiuto federale complessivo per il periodo 2023–2026 ammonta al massimo al 70 per cento dei costi globali.
-
-[^5a-1]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 17 lug. 2023 al 31 dic. 2026 ([RU 2023 366](https://fedlex.data.admin.ch/eli/oc/2023/366); [FF 2022 1742](https://fedlex.data.admin.ch/eli/fga/2022/1742)).
+[^5a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023, in vigore dal 17 lug. 2023 al 31 dic. 2026 ([RU 2023 366](https://fedlex.data.admin.ch/eli/oc/2023/366); [FF 2022 1742](https://fedlex.data.admin.ch/eli/fga/2022/1742)).
 
 #### Art. 6
 

@@ -3,18 +3,18 @@ sr: "935.22"
 title: "Bundesgesetz vom 30. September 2011 über die Förderung von Innovation, Zusammenarbeit und Wissensaufbau im Tourismus"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/75"
 language: de
-version: 2023-07-17
+version: 2027-01-01
 adopted: 2011-09-30
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/75/20230717/de/xml/fedlex-data-admin-ch-eli-cc-2012-75-20230717-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/75/20230717/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/75/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2012-75-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/75/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Förderung von Innovation, Zusammenarbeit und Wissensaufbau im Tourismus
 
-vom 30. September 2011 (Stand am 17. Juli 2023)
+vom 30. September 2011 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 103 der Bundesverfassung[^ingress-1], nach Einsicht in die
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 2337](https://fedlex.data.admin.ch/eli/fga/2011/327)
 
 #### Art. 1
@@ -85,25 +85,7 @@ Die Vorhaben müssen innerhalb von sechs Monaten nach der Zusicherung der Finanz
 
 #### Art. 5a
 
-**Befristete Erhöhung der Finanzhilfen**[^5a-1]
-
-<sup>1</sup> Vorhaben, für die Projektkosten in den Jahren 2023–2026 anfallen, kann der Bund auf Antrag der Träger der Vorhaben mit einer Finanzhilfe bis zu 70 Prozent der anrechenbaren Kosten unterstützen.
-
-<sup>2</sup>
-
-Absatz 1 findet Anwendung:
-
-- a. auf neue Vorhaben, für die Gesuche um Finanzhilfe nach dem Beginn der Referendumsfrist der Änderung vom 17. März 2023 dieses Gesetzes und vor dem 31. Dezember 2026 eingereicht werden;
-- b.
-
-  auf laufende Vorhaben, für die bereits vor Inkrafttreten dieses Artikels eine Finanzhilfe zugesichert wurde, sofern der Beitragsempfänger nachweist, dass:
-
-  - 1\. aufgrund der Erhöhung des Subventionssatzes ein Zusatznutzen generiert wird, oder
-  - 2\. das Vorhaben aufgrund der Folgen der Covid‑19-Pandemie ohne die Erhöhung des Subventionssatzes nicht wie geplant abgeschlossen werden kann.
-
-<sup>3</sup> Für Vorhaben, deren Umsetzung vor dem 1. Januar 2023 beginnt oder über den 31. Dezember 2026 hinausdauert, bestimmt sich der Subventionssatz nach dem Jahr, in welchem die Leistungen erbracht werden.
-
-<sup>4</sup> Können für ein Vorhaben auch andere Bundessubventionen beansprucht werden, so dürfen die gesamten Bundesmittel im Zeitraum 2023–2026 höchstens 70 Prozent der Gesamtkosten betragen.
+[^5a-1]
 
 [^5a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft vom 17. Juli 2023 bis 31. Dez. 2026 ([AS 2023 366](https://fedlex.data.admin.ch/eli/oc/2023/366); [BBl 2022 1742](https://fedlex.data.admin.ch/eli/fga/2022/1742)).
 
