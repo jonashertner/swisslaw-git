@@ -4,7 +4,7 @@ number: "850.03.1"
 title: RÈGLEMENT du 30.05.2012 d’application de la loi du 9 novembre 2010 sur l’harmonisation et la coordination de l’octroi des prestations sociales et d’aide à la formation et au logement cantonales vaudoises (RLHPS)
 short: RLHPS
 language: fr
-version: 2025-07-01
+version: 2027-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03.1?id=04227fb8-f6a7-4c4c-836e-eb287c7e95ab"
 ---
 
@@ -117,6 +117,8 @@ arrête
 <sup>2</sup> Pour établir la situation financière réelle, le calcul du revenu déterminant prend en compte les mêmes rubriques servant à calculer le revenu et la fortune nets que celles contenues dans la décision de taxation fiscale.
 
 <sup>3</sup> Les rubriques servant à calculer le revenu et la fortune nets issues d'une décision de taxation définitive ou d'une actualisation qui n'ont pas évolué, peuvent être reprises par l'autorité, pour autant qu'elles ne soient pas antérieures de plus de 3 ans à l'année pour laquelle la prestation est calculée.
+
+<sup>4</sup> Lorsque les charges sont manifestement supérieures aux revenus du requérant, l'autorité peut tenir compte des dépenses réelles annoncées afin d'établir le revenu déterminant, et majorer les dépenses annoncées par le requérant du forfait pour l'entretien et l'intégration sociale du revenu d'insertion (RI).
 
 [^5-2]: Modif. 9 du 04.07.2018: Modification Al. 1; entrée en vigueur au 01.08.2018 · Modif. 14 du 07.10.2026: Introduction Al. 4; entrée en vigueur au 01.01.2027
 [^6-1]: Loi du 09.11.2010 sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises ([BLV 850.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03?id=db1ccfb7-873f-4a81-8cd5-fbabe8fe816c))
@@ -378,7 +380,7 @@ Annexes [^26-1]
 
 1
 
-[Annexe accès RLHPS](https://prestations.vd.ch/pub/blv-publication/api/actes/04227fb8-f6a7-4c4c-836e-eb287c7e95ab/annexes/1?dmev=01.07.2025)
+[Annexe accès RLHPS](https://prestations.vd.ch/pub/blv-publication/api/actes/04227fb8-f6a7-4c4c-836e-eb287c7e95ab/annexes/1?dmev=01.01.2027)
 
 [^25-4]: Modif. 2 du 26.06.2013: Modification Al. 1; entrée en vigueur au 01.07.2013 · Modif. 3 du 02.07.2014: Modification Al. 1; entrée en vigueur au 02.07.2014 · Modif. 4 du 28.01.2015: Modification Al. 1; entrée en vigueur au 01.02.2015 · Modif. 5 du 25.03.2015: Modification Al. 1; entrée en vigueur au 01.04.2015 · Modif. 6 du 17.02.2016: Modification Al. 1; entrée en vigueur au 01.03.2016 · Modif. 8 du 13.12.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 10 du 05.06.2019: Modification tArt; entrée en vigueur au 01.07.2019; Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 13 du 25.06.2025: Modification Al. 1; entrée en vigueur au 01.07.2025
 [^26-1]: Modif. 11 du 07.10.2020: Modification Annexes, Ann. 1; entrée en vigueur au 07.10.2020 · Modif. 12 du 06.12.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2023
