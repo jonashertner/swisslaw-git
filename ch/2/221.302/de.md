@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Zulassung und Beaufsichtigu
 short: RAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: de
-version: 2026-10-01
+version: 2027-01-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20261001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20270101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/de"
 
 (Revisionsaufsichtsgesetz, RAG)
 
-vom 16. Dezember 2005 (Stand am 1. Oktober 2026)
+vom 16. Dezember 2005 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -606,7 +606,7 @@ Der Verwaltungsrat hat folgende Aufgaben:
 - b. Er erlässt die strategischen Ziele der Aufsichtsbehörde, unterbreitet sie dem Bundesrat zur Genehmigung und erstattet ihm jährlich Bericht über deren Erreichung.
 - c. Er erlässt die der Aufsichtsbehörde delegierten Verordnungen.
 - d. Er trifft die organisatorischen Vorkehren zur Wahrung der Interessen der Aufsichtsbehörde sowie zur Verhinderung von Interessenkonflikten.
-- e. Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (PUBLICA) ab und unterbreitet ihn dem Bundesrat zur Genehmigung.
+- e.[^30a-2] Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (Publica) ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung.
 - f. Er regelt die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs für das Vorsorgewerk.
 - g. Er entscheidet über die Begründung, die Änderung und die Auflösung des Arbeitsverhältnisses mit der Direktorin oder dem Direktor; die Begründung und die Auflösung des Arbeitsverhältnisses mit der Direktorin oder dem Direktor bedürfen der Genehmigung durch den Bundesrat.
 - h. Er entscheidet auf Antrag der Direktorin oder des Direktors über die Begründung, die Änderung und die Auflösung des Arbeitsverhältnisses der weiteren Mitglieder der Geschäftsleitung.
@@ -615,8 +615,11 @@ Der Verwaltungsrat hat folgende Aufgaben:
 - k. Er bestimmt die Verwendung der Reserven.
 - l. Er verabschiedet das Budget.
 - m. Er erstellt und verabschiedet für jedes Geschäftsjahr einen Geschäftsbericht; er unterbreitet den revidierten Geschäftsbericht dem Bundesrat zur Genehmigung; gleichzeitig stellt er dem Bundesrat Antrag auf Entlastung und veröffentlicht den Geschäftsbericht nach der Genehmigung.
+- n.[^30a-3] Er erlässt die Bestimmungen über die Finanzierung der beruflichen Vorsorge und unterbreitet sie dann dem Bundesrat zur Genehmigung.
 
 [^30a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^30a-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^30a-3]: Eingefügt durch Anhang Ziff. 4 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 31
 
@@ -667,7 +670,7 @@ Sie hat insbesondere folgende Aufgaben:
 
 **Pensionskasse**[^33a-1]
 
-<sup>1</sup> Die Geschäftsleitung und das übrige Personal sind bei PUBLICA nach den Bestimmungen der Artikel 32*a*–32*m* BPG[^33a-2] versichert.
+<sup>1</sup> Die Geschäftsleitung und das übrige Personal sind bei Publica nach den Bestimmungen der Artikel 32*a*–32*m* BPG[^33a-2] versichert.
 
 <sup>2</sup> Die Aufsichtsbehörde ist Arbeitgeberin nach Artikel 32*b* Absatz 2 BPG.
 
@@ -774,7 +777,7 @@ Sie untersteht der administrativen Aufsicht des Bundesrats. Dieser übt seine Au
 
 - a. die Wahl und die Abberufung der Mitglieder des Verwaltungsrates und von dessen Präsidentin oder Präsidenten;
 - b. die Genehmigung der Begründung und der Auflösung des Arbeitsverhältnisses mit der Direktorin oder mit dem Direktor;
-- c. die Genehmigung des Anschlussvertrags mit PUBLICA;
+- c.[^38-2] die Genehmigung des Anschlussvertrages mit Publica und der Bestimmungen über die Finanzierung der beruflichen Vorsorge;
 - d. die Genehmigung des Geschäftsberichts;
 - e. die Genehmigung der strategischen Ziele;
 - f. die jährliche Überprüfung der Erreichung der strategischen Ziele;
@@ -783,6 +786,7 @@ Sie untersteht der administrativen Aufsicht des Bundesrats. Dieser übt seine Au
 <sup>3</sup> Die Aufsichtsbehörde erörtert mit dem Bundesrat regelmässig ihre strategischen Ziele und die Erfüllung ihrer Aufgaben.
 
 [^38-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^38-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 8. Abschnitt: Strafbestimmungen
 

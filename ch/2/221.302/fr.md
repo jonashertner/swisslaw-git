@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur l'agrément et la surveillance d
 short: LSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: fr
-version: 2026-10-01
+version: 2027-01-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20261001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20270101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/fr"
 
 (Loi sur la surveillance de la révision, LSR)[^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> octobre 2026)
+du 16 décembre 2005 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -575,12 +575,11 @@ L’autorité de surveillance ne peut communiquer aux autorités étrangères de
 
 **Organes**
 
-c. l’organe de révision.
-
 Les organes de l’autorité de surveillance sont:
 
 - a. le conseil d’administration;
 - b.[^29-1] la direction;
+- c. l’organe de révision.
 
 [^29-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
@@ -613,7 +612,7 @@ Le conseil d’administration a les attributions suivantes:
 - b. il fixe les objectifs stratégiques de l’autorité de surveillance, les soumet à l’approbation du Conseil fédéral et lui présente un rapport annuel quant à leur réalisation;
 - c. il édicte les ordonnances déléguées à l’autorité de surveillance;
 - d. il prend les dispositions organisationnelles nécessaires pour préserver les intérêts de l’autorité de surveillance et éviter les conflits d’intérêt;
-- e. il conclut le contrat d’affiliation à la caisse de prévoyance de la Confédération (PUBLICA) et le soumet à l’approbation du Conseil fédéral;
+- e.[^30a-2] il conclut le contrat d’affiliation à la Caisse fédérale de pensions (Publica) et le soumet à l’approbation du Conseil fédéral;
 - f. il règle la composition, l’élection et l’organisation de l’organe paritaire de la caisse de prévoyance;
 - g. il décide de la conclusion, de la modification et de la résiliation du contrat de travail du directeur; la conclusion et la résiliation du contrat requièrent l’approbation du Conseil fédéral;
 - h. il décide, sur proposition du directeur, de la conclusion, de la modification et de la résiliation du contrat de travail des autres membres de la direction;
@@ -621,9 +620,12 @@ Le conseil d’administration a les attributions suivantes:
 - j. il veille à la mise en place d’un système de contrôle interne et d’un système de gestion des risques adaptés;
 - k. il décide de l’affectation des réserves;
 - l. il approuve le budget;
-- m. il établit et adopte chaque année un rapport de gestion et en soumet la version définitive à l’approbation du Conseil fédéral; il lui propose simultanément de donner décharge au conseil d’administration et publie le rapport de gestion après son approbation par le Conseil fédéral.
+- m. il établit et adopte chaque année un rapport de gestion et en soumet la version définitive à l’approbation du Conseil fédéral; il lui propose simultanément de donner décharge au conseil d’administration et publie le rapport de gestion après son approbation par le Conseil fédéral;
+- n.[^30a-3] il édicte les dispositions concernant le financement de la prévoyance professionnelle et les soumet à l’approbation du Conseil fédéral.
 
 [^30a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^30a-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^30a-3]: Introduite par l’annexe ch. 4 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 31
 
@@ -674,7 +676,7 @@ La direction a notamment les attributions suivantes:
 
 **Caisse de pension**[^33a-1]
 
-<sup>1</sup> Les membres de la direction et le personnel sont assurés auprès de PUBLICA conformément aux art. 32*a* à 32*m* LPers[^33a-2].
+<sup>1</sup> Les membres de la direction et le personnel sont assurés auprès de Publica conformément aux art. 32*a* à 32*m* LPers[^33a-2].
 
 <sup>2</sup> L’autorité de surveillance est employeur au sens de l’art. 32*b*, al. 2, LPers.
 
@@ -781,7 +783,7 @@ Elle est soumise à la surveillance administrative du Conseil fédéral. Cette s
 
 - a. nommer et révoquer les membres et le président du conseil d’administration;
 - b. approuver la conclusion et la résiliation du contrat de travail du directeur;
-- c. approuver le contrat d’adhésion à PUBLICA;
+- c.[^38-2] approuver le contrat d’affiliation à Publica et les dispositions concernant le financement de la prévoyance professionnelle;
 - d. approuver le rapport de gestion;
 - e. approuver les objectifs stratégiques;
 - f. examiner chaque année si les objectifs stratégiques sont atteints;
@@ -790,6 +792,7 @@ Elle est soumise à la surveillance administrative du Conseil fédéral. Cette s
 <sup>3</sup> L’autorité de surveillance examine régulièrement avec le Conseil fédéral ses objectifs stratégiques et la réalisation de ses tâches.
 
 [^38-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^38-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 8 Dispositions pénales
 

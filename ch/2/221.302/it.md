@@ -4,11 +4,11 @@ title: "Legge federale del 16 dicembre 2005 sull'abilitazione e la sorveglianza 
 short: LSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: it
-version: 2026-10-01
+version: 2027-01-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2007-533-20261001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-533-20270101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/it"
 
 (Legge sui revisori, LSR)
 
-del 16 dicembre 2005 (Stato 1° ottobre 2026)
+del 16 dicembre 2005 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -607,7 +607,7 @@ Il consiglio d’amministrazione ha i compiti seguenti:
 - b. fissa gli obiettivi strategici dell’autorità di sorveglianza, li sottopone per approvazione al Consiglio federale, al quale riferisce annualmente sul loro adempimento;
 - c. emana le ordinanze delegate all’autorità di sorveglianza;
 - d. prende i provvedimenti organizzativi necessari per tutelare gli interessi dell’autorità di sorveglianza e per evitare conflitti d’interesse;
-- e. stipula il contratto di affiliazione alla Cassa pensioni della Confederazione (PUBLICA) e lo sottopone per approvazione al Consiglio federale;
+- e.[^30a-2] stipula il contratto di affiliazione alla Cassa pensioni della Confederazione (Publica) e lo sottopone per approvazione al Consiglio federale;
 - f. stabilisce la composizione, la procedura di nomina e l’organizzazione dell’organo paritetico per l’istituto di previdenza;
 - g. decide in merito alla costituzione, alla modifica e allo scioglimento del rapporto di lavoro del direttore; la costituzione e lo scioglimento del rapporto di lavoro del direttore sono subordinati all’approvazione del Consiglio federale;
 - h. decide, su proposta del direttore, in merito alla costituzione, alla modifica e allo scioglimento del rapporto di lavoro degli altri membri della direzione;
@@ -615,9 +615,12 @@ Il consiglio d’amministrazione ha i compiti seguenti:
 - j. provvede ad approntare un sistema di controllo interno e di gestione dei rischi confacente all’autorità di sorveglianza;
 - k. decide in merito all’utilizzazione delle riserve;
 - l. adotta il preventivo;
-- m. elabora e adotta per ogni esercizio un rapporto di gestione; sottopone per approvazione al Consiglio federale il rapporto di gestione riveduto; presenta al contempo al Consiglio federale una proposta di discarico e pubblica il rapporto di gestione una volta approvato.
+- m. elabora e adotta per ogni esercizio un rapporto di gestione; sottopone per approvazione al Consiglio federale il rapporto di gestione riveduto; presenta al contempo al Consiglio federale una proposta di discarico e pubblica il rapporto di gestione una volta approvato;
+- n.[^30a-3] emana le disposizioni sul finanziamento della previdenza professionale e le sottopone per approvazione al Consiglio federale.
 
 [^30a-1]: Introdotto dalla cifra I della LF del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^30a-2]: Nuovo testo giusta l’all. n. 4 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^30a-3]: Introdotto dall’all. n. 4 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 31
 
@@ -775,7 +778,7 @@ L’autorità di sorveglianza sottostà alla vigilanza amministrativa del Consig
 
 - a. la nomina e la revoca dei membri e del presidente del consiglio d’amministrazione;
 - b. l’approvazione della costituzione e dello scioglimento del rapporto di lavoro del direttore;
-- c. l’approvazione del contratto di affiliazione a PUBLICA;
+- c.[^38-2] l’approvazione del contratto di affiliazione a Publica e delle disposizioni sul finanziamento della previdenza professionale;
 - d. l’approvazione del rapporto di gestione;
 - e. l’approvazione degli obiettivi strategici;
 - f. la verifica annuale del raggiungimento degli obiettivi strategici;
@@ -784,6 +787,7 @@ L’autorità di sorveglianza sottostà alla vigilanza amministrativa del Consig
 <sup>3</sup> L’autorità di sorveglianza esamina regolarmente con il Consiglio federale i suoi obiettivi strategici e l’adempimento dei suoi compiti.
 
 [^38-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^38-2]: Nuovo testo giusta l’all. n. 4 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Sezione 8: Disposizioni penali
 
