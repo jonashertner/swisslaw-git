@@ -4,11 +4,11 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2027-01-01
+version: 2027-07-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20270101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20270701/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20270701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270101/de"
 
 (IVV)[^t-1]
 
-vom 17. Januar 1961 (Stand am 1. Januar 2027)
+vom 17. Januar 1961 (Stand am 1. Juli 2027)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -917,22 +917,24 @@ Bei der Ermittlung des massgebenden Einkommens im Sinne von Artikel 23 Absatz 3 
 - b. Unfall;
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG[^21-4];
-- e.[^21-5] Mutterschaft oder Vaterschaft;
-- f.[^21-6] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
-- g.[^21-7] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
-- h.[^21-8] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+- e.[^21-5] Mutterschaftsurlaub im Sinne von Artikel 329*f* des Obligationenrechts (OR)[^21-6] oder Urlaub des andern Elternteils im Sinne von Artikel 329*g* oder 329*g*<sup>bis</sup> OR;
+- f.[^21-7] Betreuung eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG[^21-8] oder an mindestens vier aufeinanderfolgenden Tagen hospitalisiert (Art. 16*n* EOG) ist;
+- g.[^21-9] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+- h.[^21-10] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
 
-<sup>3</sup> Hat die versicherte Person vor mehr als zwei Jahren zum letzten Mal eine Erwerbstätigkeit ohne gesundheitliche Einschränkung ausgeübt, so ist auf das Erwerbseinkommen abzustellen, das sie durch die gleiche Tätigkeit unmittelbar vor der Eingliederung erzielt hätte, wenn sie nicht invalid geworden wäre.[^21-9]
+<sup>3</sup> Hat die versicherte Person vor mehr als zwei Jahren zum letzten Mal eine Erwerbstätigkeit ohne gesundheitliche Einschränkung ausgeübt, so ist auf das Erwerbseinkommen abzustellen, das sie durch die gleiche Tätigkeit unmittelbar vor der Eingliederung erzielt hätte, wenn sie nicht invalid geworden wäre.[^21-11]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21-2]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^21-3]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^21-4]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
-[^21-5]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-6]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-7]: Eingefügt durch Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-8]: Eingefügt durch Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-9]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21-5]: Fassung gemäss Anhang Ziff. 1 der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^21-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^21-7]: Fassung gemäss Anhang Ziff. 1 der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^21-8]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^21-9]: Eingefügt durch Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-10]: Eingefügt durch Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-11]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 21<sup>bis</sup>
 
@@ -1785,11 +1787,12 @@ Der Assistenzbeitrag pro Jahr beträgt:
 
 **Verhinderung an der Erbringung der Arbeitsleistung**
 
-<sup>1</sup> Ist die Assistenzperson aus Gründen, die in ihrer Person liegen, ohne ihr Verschulden am Erbringen der Arbeitsleistung verhindert, so wird der Assistenzbeitrag für die Dauer des Lohnanspruchs nach Artikel 324*a* des Obligationenrechts[^39h-1] weiter entrichtet, jedoch während höchstens drei Monaten; die als Ausgleich für die wirtschaftlichen Folgen dieser Arbeitsverhinderung ausgerichteten Versicherungsleistungen werden abgezogen.
+<sup>1</sup> Ist die Assistenzperson aus Gründen, die in ihrer Person liegen, ohne ihr Verschulden am Erbringen der Arbeitsleistung verhindert, so wird der Assistenzbeitrag für die Dauer des Lohnanspruchs nach Artikel 324*a* OR[^39h-1] weiter entrichtet, jedoch während höchstens drei Monaten; die als Ausgleich für die wirtschaftlichen Folgen dieser Arbeitsverhinderung ausgerichteten Versicherungsleistungen werden abgezogen.[^39h-2]
 
 <sup>2</sup> Ist die Assistenzperson aus Gründen, die in der versicherten Person liegen, am Erbringen der Arbeitsleistung verhindert, so wird der Assistenzbeitrag während höchstens drei Monaten weiter entrichtet; der jährliche Assistenzbeitrag darf nicht überschritten werden.
 
 [^39h-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^39h-2]: Fassung gemäss Anhang Ziff. 1 der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 39i
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 17 gennaio 1961 sull'assicurazione per l'invalidità (OAI)
 short: OAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: it
-version: 2027-01-01
+version: 2027-07-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20270101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20270701/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20270701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270101/it"
 
 (OAI)[^t-1]
 
-del 17 gennaio 1961 (Stato 1° gennaio 2027)
+del 17 gennaio 1961 (Stato 1° luglio 2027)
 
 [^t-1]: Nuovo tit. giusta la cifra II n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
 
@@ -696,7 +696,7 @@ L’importo dell’indennità secondo l’articolo 18*a*<sup>bis</sup> capoverso
 
 ### C. …
 
-#### Art. 8 a 12
+#### Art. 8–12
 
 [^812-1]
 
@@ -920,21 +920,23 @@ Nel calcolo del reddito determinante ai sensi dell’articolo 23 capoverso 3 LAI
 - b. di un incidente;
 - c. della disoccupazione;
 - d. del servizio ai sensi dell’articolo 1*a* della LIPG[^21-3];
-- e.[^21-4] di maternità o paternità;
-- f.[^21-5] dell’assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
-- g.[^21-6] dell’accoglimento di un adottando di età inferiore a quattro anni;
-- h.[^21-7] di altri motivi non imputabili a colpa propria.
+- e.[^21-4] di un congedo di maternità ai sensi dell’articolo 329*f* del Codice delle obbligazioni (CO)[^21-5] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
+- f.[^21-6] dell’assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio ai sensi dell’articolo 16*o* LIPG[^21-7] o ricoverato in ospedale per una durata di almeno quattro giorni consecutivi (art. 16*n* LIPG);
+- g.[^21-8] dell’accoglimento di un adottando di età inferiore a quattro anni;
+- h.[^21-9] di altri motivi non imputabili a colpa propria.
 
-<sup>3</sup> Se l’ultima attività lucrativa esercitata dall’assicurato senza riduzioni per motivi di salute risale a più di due anni, il reddito determinante è quello che egli avrebbe conseguito per questa attività immediatamente prima dell’integrazione, se non fosse divenuto invalido.[^21-8]
+<sup>3</sup> Se l’ultima attività lucrativa esercitata dall’assicurato senza riduzioni per motivi di salute risale a più di due anni, il reddito determinante è quello che egli avrebbe conseguito per questa attività immediatamente prima dell’integrazione, se non fosse divenuto invalido.[^21-10]
 
 [^21-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21-2]: Abrogato dalla cifra I dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^21-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
-[^21-4]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-5]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-6]: Introdotta dall’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-7]: Introdotta dall’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-8]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21-4]: Nuovo testo giusta l’all. n. 1 dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^21-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^21-6]: Nuovo testo giusta l’all. n. 1 dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^21-7]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^21-8]: Introdotta dall’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-9]: Introdotta dall’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 21<sup>bis</sup>
 
@@ -1787,11 +1789,12 @@ L’importo annuo del contributo per l’assistenza ammonta a:
 
 **Impedimento al lavoro**
 
-<sup>1</sup> Se l’assistente è impedito senza sua colpa di lavorare, per motivi inerenti alla sua persona, il contributo per l’assistenza continua a essere versato per la durata del diritto al salario secondo l’articolo 324*a* del Codice delle obbligazioni[^39h-1], ma al massimo per tre mesi; le prestazioni assicurative versate per compensare le conseguenze economiche di tale impedimento al lavoro sono dedotte.
+<sup>1</sup> Se l’assistente è impedito senza sua colpa di lavorare, per motivi inerenti alla sua persona, il contributo per l’assistenza continua a essere versato per la durata del diritto al salario secondo l’articolo 324*a* CO[^39h-1], ma al massimo per tre mesi; le prestazioni assicurative versate per compensare le conseguenze economiche di tale impedimento al lavoro sono dedotte.[^39h-2]
 
 <sup>2</sup> Se l’assistente è impedito di lavorare per motivi inerenti alla persona dell’assicurato, il contributo per l’assistenza continua a essere versato per al massimo tre mesi; l’importo annuo del contributo per l’assistenza non può essere superato.
 
 [^39h-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^39h-2]: Nuovo testo giusta l’all. n. 1 dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 39i
 
@@ -1903,8 +1906,8 @@ L’ufficio AI esegue, oltre ai compiti menzionati esplicitamente nella legge e 
 - b.[^41-2] ricevere le comunicazioni di cui all’articolo 77 relative al diritto alle prestazioni;
 - c.[^41-3] trasmettere immediatamente alla cassa di compensazione competente le comunicazioni riguardanti il diritto alle indennità giornaliere, alle rendite e agli assegni per grandi invalidi per gli assicurati maggiorenni in corso;
 - d.[^41-4] notificare le comunicazioni, i preavvisi e le decisioni, come pure la relativa corrispondenza;
-- e. ed f.[^41-5] …
-- f<sup>bis</sup>. e f<sup>ter</sup>.[^41-6] …
+- e.–f.[^41-5] …
+- f<sup>bis</sup>.–f<sup>ter</sup>.[^41-6] …
 - g.[^41-7] fornire informazioni conformemente all’articolo 27 LPGA;
 - h. conservare gli incarti AI;
 - i.[^41-8] prendere posizione in caso di ricorso e interporre i ricorsi al Tribunale federale;
@@ -2159,7 +2162,7 @@ Nel quadro dei controlli sul rispetto dei criteri prescritti per garantire l’e
 
 [^57-1]: Nuovo testo giusta la cifra I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-#### Art. 58 a 64
+#### Art. 58–64
 
 [^5864-1]
 
@@ -2391,7 +2394,7 @@ Se le condizioni per l’assegnazione di una prestazione sono manifestamente ade
 La decisione è notificata segnatamente:[^76-2]
 
 - a.[^76-3] alle persone, agli istituti e agli assicuratori ai quali è stato notificato il preavviso;
-- b. e c. …[^76-4]
+- [tab] b.–c.[^76-4] …
 - d.[^76-5] all’Ufficio centrale di compensazione, se non si tratta di decisioni riguardanti rendite o assegni per grandi invalidi per gli assicurati maggiorenni;
 - e.[^76-6] …
 - f. agli agenti esecutori;

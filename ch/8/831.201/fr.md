@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2027-01-01
+version: 2027-07-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20270101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20270701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20270101/fr"
 
 (RAI)[^t-1]
 
-du 17 janvier 1961 (État le 1<sup>er</sup> janvier 2027)
+du 17 janvier 1961 (État le 1<sup>er</sup> juillet 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -916,22 +916,24 @@ Lors de l’établissement du revenu déterminant au sens de l’art. 23, al. 3,
 - b. d’un accident;
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG[^21-4];
-- e.[^21-5] de maternité ou de paternité;
-- f.[^21-6] de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
-- g.[^21-7] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
-- h.[^21-8] d’autres motifs n’impliquant pas une faute de sa part.
+- e.[^21-5] d’un congé de maternité au sens de l’art. 329*f* du code des obligations (CO)[^21-6] ou d’un congé de l’autre parent au sens de l’art. 329*g* ou 329*g*<sup>bis</sup> CO;
+- f.[^21-7] de la prise en charge d’un enfant qui, en raison d’une maladie ou d’un accident, est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG[^21-8] ou est hospitalisé pour une durée d’au moins quatre jours consécutifs (art. 16*n* LAPG);
+- g.[^21-9] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
+- h.[^21-10] d’autres motifs n’impliquant pas une faute de sa part.
 
-<sup>3</sup> Lorsque la dernière activité lucrative exercée par l’assuré sans restriction due à des raisons de sa santé remonte à plus de deux ans, il y a lieu de se fonder sur le revenu que l’assuré aurait tiré de la même activité, immédiatement avant la réadaptation, s’il n’était pas devenu invalide.[^21-9]
+<sup>3</sup> Lorsque la dernière activité lucrative exercée par l’assuré sans restriction due à des raisons de sa santé remonte à plus de deux ans, il y a lieu de se fonder sur le revenu que l’assuré aurait tiré de la même activité, immédiatement avant la réadaptation, s’il n’était pas devenu invalide.[^21-11]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21-2]: Abrogé par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^21-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^21-4]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
-[^21-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-6]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-7]: Introduite par l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-8]: Introduite par l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^21-9]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^21-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^21-7]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^21-8]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^21-9]: Introduite par l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-10]: Introduite par l’annexe ch. 1 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-11]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 21<sup>bis</sup>
 
@@ -1784,11 +1786,12 @@ Le montant annuel de la contribution d’assistance équivaut:
 
 **Empêchement de travailler**
 
-<sup>1</sup> Si l’assistant est empêché de travailler sans faute de sa part pour des causes inhérentes à sa personne, la contribution d’assistance est encore versée pour une durée équivalente à la durée pendant laquelle le travailleur a droit à son salaire selon l’art. 324*a* du code des obligations[^39h-1], mais au maximum pendant trois mois, sous déduction des prestations d’assurance versées à titre de compensation pour les conséquences économiques dues à cet empêchement.
+<sup>1</sup> Si l’assistant est empêché de travailler sans faute de sa part pour des causes inhérentes à sa personne, la contribution d’assistance est encore versée pour une durée équivalente à la durée pendant laquelle le travailleur a droit à son salaire selon l’art. 324*a* CO[^39h-1], mais au maximum pendant trois mois, sous déduction des prestations d’assurance versées à titre de compensation pour les conséquences économiques dues à cet empêchement.[^39h-2]
 
 <sup>2</sup> Si l’assistant est empêché de travailler pour des causes qui tiennent à l’assuré, la contribution d’assistance est encore versée pendant trois mois au plus pour autant que le montant de la contribution d’assistance annuelle ne soit pas dépassé.
 
 [^39h-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^39h-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 39i
 
