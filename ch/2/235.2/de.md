@@ -3,18 +3,18 @@ sr: "235.2"
 title: Bundesgesetz vom 18. Dezember 2020 über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/650"
 language: de
-version: 2022-01-01
+version: 2027-01-01
 adopted: 2020-12-18
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-650-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2021-650-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten
 
-vom 18. Dezember 2020 (Stand am 1. Januar 2022)
+vom 18. Dezember 2020 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 40 Absatz 2, 54 Absatz 1, 87 und 173 Absatz 2 der Bund
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
@@ -45,7 +45,7 @@ beschliesst:
 
 <sup>2</sup> Dabei bearbeitet es auch die zur Erfüllung der Aufgaben nach Absatz 1 erforderlichen Daten von Schweizerinnen und Schweizern im Ausland und deren Angehörigen sowie Daten von Personen und deren Angehörigen, für welche die Schweiz Schutzfunktionen übernimmt.
 
-[^2-1]: [SR 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^2-1]: [SR 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 
 #### Art. 3
 
@@ -61,7 +61,7 @@ Das EDA kann im Rahmen des konsularischen Schutzes und weiterer konsularischer D
 
 <sup>2</sup> Für den elektronischen Datenaustausch zwischen amtlichen Personenregistern wird die AHV-Nummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-1] über die Alters- und Hinterlassenenversicherung (AHVG) verwendet.[^3-2]
 
-[^3-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 4
@@ -81,7 +81,7 @@ Das EDA kann Daten ausnahmsweise Dritten bekanntgeben:
 
 Das EDA bearbeitet von Eigentümerinnen und Eigentümern, Reederinnen und Reedern sowie Seeleuten von schweizerischen Seeschiffen diejenigen Daten, die zur Erfüllung seiner Aufgaben nach dem Seeschifffahrtsgesetz vom 23. September 1953[^5-1] erforderlich sind.
 
-[^5-1]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^5-1]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 6
 
@@ -94,8 +94,8 @@ Das EDA kann folgende besonders schützenswerte Daten bearbeiten:
 - c. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen im Rahmen von Bussen, die aufgrund des Seeschifffahrtsgesetzes vom 23. September 1953[^6-2] verhängt werden;
 - d. Daten über Massnahmen der sozialen Hilfe an Seeleute von schweizerischen Seeschiffen oder Seeleute, die auf einem schweizerischen Seeschiff tätig waren.
 
-[^6-1]: [SR 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^6-2]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^6-1]: [SR 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
+[^6-2]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 7
 
@@ -111,19 +111,20 @@ Das EDA kann folgende besonders schützenswerte Daten bearbeiten:
 
 **Zweck und Personen**
 
-Zusätzlich zu den Daten von Bundesangestellten gemäss Bundespersonalgesetz vom 24. März 2000[^8-1] bearbeitet das EDA von seinen im Ausland eingesetzten oder einzusetzenden Mitarbeitenden und deren Angehörigen diejenigen Daten, die zur Erfüllung seiner Aufgaben als Arbeitgeber erforderlich sind, insbesondere für:
+Zusätzlich zu den Daten nach Artikel 1 Absatz 2 des Bundespersonalgesetzes vom 24. März 2000[^8-1] (BPG) bearbeitet das EDA von seinen im Ausland eingesetzten oder einzusetzenden Mitarbeitenden und ihren Angehörigen, von ehemaligen im Ausland eingesetzten oder einzusetzenden Mitarbeitenden und ihren Angehörigen sowie von Bewerberinnen und Bewerbern auf Stellen im Ausland diejenigen Daten, die zur Erfüllung seiner Aufgaben als Arbeitgeber erforderlich sind, insbesondere für:[^8-2]
 
 - a. die Beurteilung eines möglichen Auslandeinsatzes einer angestellten Person in Begleitung ihrer Angehörigen;
 - b. die Gewährleistung der Sicherheit der betroffenen Personen;
 - c. die Wahrnehmung der Interessen des Bundes.
 
-[^8-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^8-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^8-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9
 
 **Daten**
 
-<sup>1</sup> Das EDA kann von den im Ausland eingesetzten oder einzusetzenden Mitarbeitenden des EDA und ihren Angehörigen Daten über die Gesundheit bearbeiten.
+<sup>1</sup> Das EDA kann von den im Ausland eingesetzten oder einzusetzenden Mitarbeitenden und ihren Angehörigen, ehemaligen im Ausland eingesetzten oder einzusetzenden Mitarbeitenden und ihren Angehörigen, sowie Bewerberinnen und Bewerbern auf Stellen im Ausland Daten über die Gesundheit bearbeiten.[^9-1]
 
 <sup>2</sup>
 
@@ -131,6 +132,8 @@ Falls dies aufgrund der besonderen Umstände des Einsatzorts erforderlich ist, k
 
 - a. religiöse Ansichten und Tätigkeiten;
 - b. die Intimsphäre.
+
+[^9-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 10
 
@@ -144,33 +147,111 @@ Die Daten nach Artikel 9 Absatz 1 dürfen dem Krankenversicherer des EDA zwecks 
 
 **Zweck und Personen**
 
-Das EDA bearbeitet von Lokalangestellten der schweizerischen Vertretungen im Ausland und ihren Angehörigen diejenigen Daten, die zur Erfüllung seiner Aufgaben als Arbeitgeber erforderlich sind, insbesondere für:
+Das EDA bearbeitet von Lokalangestellten der schweizerischen Vertretungen im Ausland und ihren Angehörigen sowie von ehemaligen Lokalangestellten und ihren Angehörigen diejenigen Daten, die zur Erfüllung seiner Aufgaben als Arbeitgeber erforderlich sind, insbesondere für:[^11-1]
 
-- a. die Ermittlung des Personalbedarfs;
-- b. die Sicherung des Personalbestands durch Gewinnung von Mitarbeiterinnen und Mitarbeitern;
-- c. die Abrechnung des Lohnes und weiterer Vergütungen, das Anlegen von Personalakten und die Meldungen an die Sozialversicherungen;
-- d. die Förderung und Bindung von Mitarbeiterinnen und Mitarbeitern;
+- a.[^11-2] die Ermittlung des erforderlichen Personalbedarfs und die Sicherung des erforderlichen Personalbestands durch Rekrutierung;
+- b.[^11-3] die Ausübung seines Weisungsrechts nach Artikel 321*d* des Obligationenrechts (OR)[^11-4] und seiner Fürsorgepflicht nach Artikel 328 OR;
+- c.[^11-5] die Personalverwaltung, insbesondere für die Lohn- und Gehaltsabrechnung und die Abrechnung weiterer Vergütungen, das Anlegen und Abschliessen von Personalakten sowie die Meldungen an die Sozialversicherungen;
+- d.[^11-6] die Förderung sowie den langfristigen Erhalt von Mitarbeiterinnen und Mitarbeitern;
 - e. die Erhaltung und Verbesserung der Qualifikation der Mitarbeiterinnen und Mitarbeiter;
 - f. die Planung, Steuerung und Kontrolle durch Datenanalysen, Vergleiche, Berichterstattung und Massnahmenplanung;
-- g. die Gewährleistung der Sicherheit der betroffenen Personen;
-- h. die Wahrnehmung der Interessen des Bundes.
+- g.[^11-7] die Wiedereingliederung nach krankheits- und unfallbedingten Abwesenheiten;
+- h.[^11-8] die Umsetzung von Massnahmen zum Schutz der Gesundheit sowie zur Arbeitssicherheit, insbesondere die Umsetzung von Massnahmen bei besonderen oder ausserordentlichen Lagen nach den Artikeln 6 beziehungsweise 7 des Epidemiengesetzes vom 28. September 2012[^11-9];
+- i.[^11-10] die Gewährleistung der Sicherheit der betroffenen Personen;
+- j.[^11-11] die Wahrnehmung der Interessen des Bundes.
+
+[^11-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^11-5]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-6]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-7]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-8]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-9]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^11-10]: Eingefügt durch Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-11]: Eingefügt durch Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
-**Daten**
+**Daten**[^12-1]
 
-<sup>1</sup> Das EDA kann Daten der Lokalangestellten und ihrer Angehörigen bearbeiten.
+<sup>1</sup>
+
+Das EDA darf, soweit es zur Erfüllung seiner Aufgaben nach Artikel 11 erforderlich ist, folgende besonders schützenswerte Daten bearbeiten:
+
+- a.
+
+  bei den Aufgaben nach Artikel 11 Buchstabe a:
+
+  - 1\. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten und Tätigkeiten, welche im Rahmen des Rekrutierungsverfahrens dem EDA zur Verfügung gestellt werden,
+  - 2\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 3\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung,
+  - 4\. Straf- und Betreibungsregisterauszüge;
+
+- b.
+
+  bei der Aufgabe nach Artikel 11 Buchstabe b:
+
+  - 1\. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten,
+  - 2\. Daten über die Gesundheit, die Intimsphäre oder die Zugehörigkeit zu einer Rasse oder Ethnie,
+  - 3\. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen,
+  - 4\. Daten über Massnahmen der sozialen Hilfe;
+
+- c.
+
+  bei der Aufgabe nach Artikel 11 Buchstabe c:
+
+  - 1\. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten und Tätigkeiten, welche dem EDA im Rahmen des Rekrutierungsverfahrens zur Verfügung gestellt werden,
+  - 2\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 3\. Daten, die im Rahmen der Mitwirkung beim Vollzug des Sozialversicherungsrechts erforderlich sind,
+  - 4\. Verfahrensakten und Entscheide von Behörden in Verbindung mit der Arbeit;
+
+- d.
+
+  bei den Aufgaben nach Artikel 11 Buchstaben d–f:
+
+  - 1\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 2\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
+
+- e.
+
+  bei der Aufgabe nach Artikel 11 Buchstabe g:
+
+  - 1\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 2\. Daten, die im Rahmen der Mitwirkung beim Vollzug des Sozialversicherungsrechts erforderlich sind,
+  - 3\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
+
+- f. bei der Aufgabe nach Artikel 11 Buchstabe h: Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit;
+- g.
+
+  bei der Aufgabe nach Artikel 11 Buchstaben i und j:
+
+  - 1\. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten,
+  - 2\. Daten über die Gesundheit, die Intimsphäre oder die Zugehörigkeit zu einer Rasse oder Ethnie,
+  - 3\. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen,
+  - 4\. Daten über Massnahmen der sozialen Hilfe.
 
 <sup>2</sup>
 
-Es kann folgende besonders schützenswerte Daten bearbeiten:
+Es darf, soweit es zur Erfüllung seiner Aufgaben nach Artikel 11 Absatz 1 erforderlich ist, folgende Daten im Profiling, einschliesslich im Profiling mit hohem Risiko, bearbeiten:
 
-- a. Daten über die Gesundheit mit Bezug zur Arbeitsfähigkeit der Lokalangestellten;
-- b. Daten über die Gesundheit im Zusammenhang mit Kostenrückerstattungen der Krankenversicherung;
-- c. Daten über die Leistungen und das Potenzial der Lokalangestellten sowie über deren persönliche und berufliche Entwicklung;
-- d. erforderliche Daten im Rahmen der Mitwirkung bei der Umsetzung des Sozialversicherungsrechts;
-- e. Verfahrensakten und Entscheide von Behörden, die sich auf die Arbeit beziehen;
-- f. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen.
+- a.
+
+  bei den Aufgaben nach Artikel 11 Absatz 1 Buchstabe a zur Bewertung der Eignung für eine bestimmte Stelle oder ein Projekt:
+
+  - 1\. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten und Tätigkeiten, welche dem EDA im Rahmen des Rekrutierungsverfahrens zur Verfügung gestellt werden,
+  - 2\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 3\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
+
+- b.
+
+  bei den Aufgaben nach Absatz 1 Buchstaben d und e zur Bewertung von gezieltem Förderungsbedarf und Entwicklungspotenzial:
+
+  - 1\. Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit,
+  - 2\. Daten zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung.
+
+[^12-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 13
 
@@ -180,9 +261,11 @@ Die Daten dürfen in den Informationssystemen bearbeitet werden, die das Eidgen�
 
 #### Art. 14
 
-**Bekanntgabe von Daten**
+**Bekanntgabe von Daten**[^14-1]
 
-Daten nach Artikel 12 Absätze 1 und 2 Buchstabe b können der Versicherungsberaterin oder dem Versicherungsberater des EDA bekanntgegeben werden, sofern sie im Einzelfall für Abklärungen der Kostenübernahme unerlässlich sind.
+Daten über die gesundheitliche Situation in Bezug auf die Arbeitsfähigkeit können der Versicherungsberaterin oder dem Versicherungsberater des EDA bekanntgegeben werden, sofern die Daten über die gesundheitliche Situation im Einzelfall für Abklärungen der Kostenübernahme unerlässlich sind.
+
+[^14-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ### 5. Abschnitt: Honorar-Konsularvertreterinnen und -vertreter und ihre Angehörigen
 
@@ -271,7 +354,7 @@ Das EDA darf die notwendigen Daten von Expertinnen und Experten, einschliesslich
 
 Das EDA bearbeitet von begünstigten Personen im Sinne von Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^21-1] (GSG) diejenigen Daten, die zur Erfüllung seiner Aufgaben nach dem GSG erforderlich sind.
 
-[^21-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^21-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 22
 
@@ -286,7 +369,7 @@ Das EDA kann folgende besonders schützenswerte Daten bearbeiten:
 
 <sup>2</sup> Für den elektronischen Datenaustausch zwischen amtlichen Personenregistern wird die AHV-Nummer nach Artikel 50*c* AHVG[^22-1] verwendet.[^22-2]
 
-[^22-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^22-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
@@ -297,7 +380,7 @@ Das EDA kann folgende besonders schützenswerte Daten bearbeiten:
 
 <sup>2</sup> Es kann den institutionellen Begünstigten Daten von ihren Angestellten und deren Begleitpersonen bekanntgeben.
 
-[^23-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^23-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ### 8. Abschnitt: Teilnehmerinnen und Teilnehmer an von der Schweiz organisierten internationalen Konferenzen
 
@@ -330,13 +413,49 @@ Die betroffenen Personen können online auf ihre eigenen Daten zugreifen, sie ei
 
 Das EDA bearbeitet von Personen, die im Bereich der im Ausland erbrachten privaten Sicherheitsdienstleistungen tätig sind, diejenigen Daten, die zur Erfüllung seiner Aufgaben nach dem Bundesgesetz vom 27. September 2013[^27-1] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen erforderlich sind.
 
-[^27-1]: [SR 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+[^27-1]: [SR 935.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11102)
 
 #### Art. 28
 
 **Daten**
 
 Das EDA kann Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen von Personen bearbeiten, die im Bereich der im Ausland erbrachten privaten Sicherheitsdienstleistungen tätig sind.
+
+### 10. Abschnitt: Personen, die im Zusammenhang mit Meldungen zu Verbrechen, Vergehen und Unregelmässigkeiten stehen
+
+[^chap2-sec9-sec10-1]
+
+[^chap2-sec9-sec10-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 28a
+
+**Zweck und Personen**
+
+Das EDA bearbeitet von Personen, die mit Meldungen nach Artikel 22*a* BPG[^28a-1] im Zusammenhang stehen, diejenigen Daten, die für die Abklärung des Sachverhalts und die Umsetzung der erforderlichen Massnahmen notwendig sind.
+
+[^28a-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+
+#### Art. 28b
+
+**Daten**
+
+<sup>1</sup> Das EDA darf zur Abklärung des Sachverhalts und zum Umsetzen der erforderlichen Massnahmen Personendaten, die mit Meldungen nach Artikel 22*a* BPG[^28b-1] im Zusammenhang stehen, aus öffentlich zugänglichen Quellen erheben.
+
+<sup>2</sup>
+
+Es kann folgende besonders schützenswerte Daten bearbeiten:
+
+- a. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten;
+- b. Daten über die Gesundheit, die Intimsphäre oder die Zugehörigkeit zu einer Rasse oder Ethnie;
+- c. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen.
+
+[^28b-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+
+#### Art. 28c
+
+**Bekanntgabe von Daten**
+
+Das EDA darf zur Abklärung des Sachverhalts die besonders schützenswerten Daten nach Artikel 28*b* und besonders schützenswerte Daten juristischer Personen den zuständigen Behörden des Bundes und der Kantone bekanntgeben und mit diesen Informationen austauschen. Personendaten, welche die meldende Person betreffen, dürfen nur bekanntgegeben werden, wenn die meldende Person zustimmt.
 
 ## 3. Kapitel: Schlussbestimmungen
 

@@ -3,18 +3,18 @@ sr: "235.2"
 title: Legge federale del’18 dicembre 2020 sul trattamento dei dati personali da parte del Dipartimento federale degli affari esteri
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/650"
 language: it
-version: 2022-01-01
+version: 2027-01-01
 adopted: 2020-12-18
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-650-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/650/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-650-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/650/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sul trattamento dei dati personali da parte del Dipartimento federale degli affari esteri
 
-del 18 dicembre 2020 (Stato 1° gennaio 2022)
+del 18 dicembre 2020 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -22,7 +22,7 @@ visti gli articoli 40 capoverso 2, 54 capoverso 1, 87 e 173 capoverso 2 della Co
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2020 1179](https://fedlex.data.admin.ch/eli/fga/2020/333)
 
 ## Capitolo 1: Oggetto e campo d’applicazione
@@ -45,7 +45,7 @@ decreta:
 
 <sup>2</sup> Tratta anche i dati concernenti i cittadini svizzeri che soggiornano all’estero e i loro congiunti, nonché i dati concernenti le persone e i loro congiunti per i quali la Svizzera assume funzioni di protezione, necessari per adempiere i compiti di cui al capoverso 1.
 
-[^2-1]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^2-1]: [RS 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 
 #### Art. 3
 
@@ -61,7 +61,7 @@ Il DFAE può trattare i seguenti dati degni di particolare protezione nell’amb
 
 <sup>2</sup> Il numero AVS di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^3-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^3-2]
 
-[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-2]: Nuovo testo giusta l’all. n. 6 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 4
@@ -81,7 +81,7 @@ A titolo eccezionale, il DFAE può comunicare dati a terzi:
 
 Il DFAE tratta i dati concernenti i proprietari, armatori e marittimi di navi sotto bandiera svizzera necessari per adempiere i compiti che gli spettano in virtù della legge federale del 23 settembre 1953[^5-1] sulla navigazione marittima sotto bandiera svizzera.
 
-[^5-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^5-1]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 6
 
@@ -94,8 +94,8 @@ Il DFAE può trattare i seguenti dati degni di particolare protezione:
 - c. dati concernenti procedimenti o sanzioni amministrativi e penali nell’ambito delle multe pronunciate in virtù della legge federale del 23 settembre 1953[^6-2] sulla navigazione marittima sotto bandiera svizzera;
 - d. dati concernenti misure di aiuto sociale a favore dei marittimi che navigano sotto bandiera svizzera o che erano in attività su una nave sotto bandiera svizzera.
 
-[^6-1]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^6-2]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^6-1]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
+[^6-2]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 #### Art. 7
 
@@ -111,19 +111,20 @@ Il DFAE può trattare i seguenti dati degni di particolare protezione:
 
 **Scopo e persone**
 
-Oltre ai dati concernenti gli impiegati della Confederazione di cui alla legge del 24 marzo 2000[^8-1] sul personale federale, il DFAE tratta i dati concernenti i propri impiegati in servizio all’estero o che si prevede di inviare in servizio all’estero, nonché i dati concernenti i loro congiunti, necessari per adempiere i suoi compiti quale datore di lavoro, segnatamente per:
+Oltre ai dati di cui all’articolo 1 capoverso 2 della legge del 24 marzo 2000[^8-1] sul personale federale (LPers), il DFAE tratta i dati necessari per adempiere i suoi compiti quale datore di lavoro concernenti i suoi impiegati che sono o che si prevede di inviare in servizio all’estero e i loro congiunti, concernenti gli ex impiegati che sono stati o si prevedeva di inviare in servizio all’estero e i loro congiunti, nonché concernenti i candidati a posti all’estero, segnatamente per:[^8-2]
 
 - a. valutare la possibilità di inviare in servizio all’estero un impiegato accompagnato dai suoi congiunti;
 - b. garantire la sicurezza delle persone interessate;
 - c. tutelare gli interessi della Confederazione.
 
-[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^8-2]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9
 
 **Dati**
 
-<sup>1</sup> Il DFAE può trattare i dati concernenti la salute dei suoi impiegati in servizio all’estero o che si prevede di inviare in servizio all’estero e dei loro congiunti.
+<sup>1</sup> Il DFAE può trattare i dati concernenti la salute dei suoi impiegati che sono o si prevede di inviare in servizio all’estero e dei loro congiunti, degli ex impiegati che sono stati o si prevedeva di inviare in servizio all’estero e dei loro congiunti, nonché di candidati a posti all’estero.[^9-1]
 
 <sup>2</sup>
 
@@ -131,6 +132,8 @@ Se circostanze particolari del luogo d’impiego lo rendono indispensabile, il D
 
 - a. le opinioni e attività religiose;
 - b. la sfera intima.
+
+[^9-1]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 10
 
@@ -144,33 +147,111 @@ I dati di cui all’articolo 9 capoverso 1 possono essere comunicati all’assic
 
 **Scopo e persone**
 
-Il DFAE tratta i dati concernenti gli impiegati locali e i loro congiunti necessari per adempiere i suoi compiti quale datore di lavoro, segnatamente per:
+Il DFAE tratta i dati necessari per adempiere i suoi compiti quale datore di lavoro e concernenti gli impiegati locali delle rappresentanze svizzere all’estero e i loro congiunti, nonché i dati concernenti gli ex impiegati locali e i loro congiunti, segnatamente per:[^11-1]
 
-- a. determinare il fabbisogno di personale;
-- b. reclutare il personale al fine di garantire gli effettivi necessari;
-- c. gestire i salari e le altre remunerazioni, costituire i dossier del personale e gestire le comunicazioni alle assicurazioni sociali;
-- d. promuovere le misure di sviluppo e fidelizzazione degli impiegati;
+- a.[^11-2] determinare il fabbisogno di personale e garantire l’organico necessario mediante il reclutamento;
+- b.[^11-3] esercitare il suo diritto di impartire istruzioni di cui all’articolo 321*d* del Codice delle obbligazioni (CO)[^11-4] e il suo obbligo di assistenza di cui all’articolo 328 CO;
+- c.[^11-5] gestire il personale, in particolare conteggiare i salari e gli stipendi e altre remunerazioni, costituire e chiudere i fascicoli del personale e gestire le comunicazioni alle assicurazioni sociali;
+- d.[^11-6] promuovere e fidelizzare a lungo termine gli impiegati;
 - e. mantenere e migliorare il livello di qualifica degli impiegati;
 - f. provvedere alla pianificazione, alla gestione strategica e al controllo mediante analisi di dati, confronti, rapporti e piani di misure;
-- g. garantire la sicurezza delle persone interessate;
-- h. tutelare gli interessi della Confederazione.
+- g.[^11-7] provvedere alla reintegrazione dopo assenze dovute a malattia e infortunio;
+- h.[^11-8] attuare misure a tutela della salute e della sicurezza sul lavoro, in particolare i provvedimenti in caso di situazioni particolari o straordinarie ai sensi rispettivamente degli articoli 6 e 7 della legge del 28 settembre 2012[^11-9] sulle epidemie;
+- i.[^11-10] garantire la sicurezza delle persone interessate;
+- j.[^11-11] tutelare gli interessi della Confederazione.
+
+[^11-1]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-2]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-3]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^11-5]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-6]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-7]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-8]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-9]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^11-10]: Introdotta dall’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^11-11]: Introdotta dall’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 12
 
-**Dati**
+**Dati**[^12-1]
 
-<sup>1</sup> Il DFAE può trattare dati concernenti gli impiegati locali e i loro congiunti.
+<sup>1</sup>
+
+Il DFAE può trattare, in quanto necessari per adempiere i compiti di cui all’articolo 11, i seguenti dati degni di particolare protezione:
+
+- a.
+
+  per i compiti di cui all’articolo 11 lettera a:
+
+  - 1\. dati concernenti le opinioni o attività religiose, filosofiche, politiche o sindacali, messi a disposizione del DFAE nell’ambito della procedura di reclutamento,
+  - 2\. dati concernenti lo stato di salute in relazione alla capacità lavorativa,
+  - 3\. dati concernenti le prestazioni, il potenziale e lo sviluppo personale e professionale,
+  - 4\. estratti del casellario giudiziale e del registro delle esecuzioni;
+
+- b.
+
+  per i compiti di cui all’articolo 11 lettera b:
+
+  - 1\. dati concernenti le opinioni o attività religiose, filosofiche, politiche o sindacali,
+  - 2\. dati concernenti la salute, la sfera intima o l’appartenenza a una razza o a un’etnia,
+  - 3\. dati concernenti perseguimenti e sanzioni amministrativi e penali,
+  - 4\. dati concernenti misure d’assistenza sociale;
+
+- c.
+
+  per i compiti di cui all’articolo 11 lettera c:
+
+  - 1\. dati concernenti le opinioni o attività religiose, filosofiche, politiche o sindacali, messi a disposizione del DFAE nell’ambito della procedura di reclutamento,
+  - 2\. dati concernenti lo stato di salute in relazione alla capacità lavorativa,
+  - 3\. dati necessari nell’ambito della collaborazione all’applicazione del diritto delle assicurazioni sociali,
+  - 4\. atti procedurali e decisioni di autorità concernenti il lavoro;
+
+- d.
+
+  per i compiti di cui all’articolo 11 lettere d–f:
+
+  - 1\. dati concernenti lo stato di salute in relazione alla capacità lavorativa,
+  - 2\. dati concernenti le prestazioni, il potenziale e lo sviluppo personale e professionale;
+
+- e.
+
+  per il compito di cui all’articolo 11 lettera g:
+
+  - 1\. dati concernenti lo stato di salute in relazione alla capacità lavorativa,
+  - 2\. dati necessari nell’ambito della collaborazione all’applicazione del diritto delle assicurazioni sociali,
+  - 3\. dati concernenti le prestazioni, il potenziale e lo sviluppo personale e professionale;
+
+- f. per il compito di cui all’articolo 11 lettera h: dati concernenti lo stato di salute in relazione alla capacità lavorativa;
+- g.
+
+  per i compiti di cui all’articolo 11 lettere i e j:
+
+  - 1\. dati concernenti le opinioni o attività religiose, filosofiche, politiche o sindacali,
+  - 2\. dati concernenti la salute, la sfera intima o l’appartenenza a una razza o a un’etnia,
+  - 3\. dati concernenti perseguimenti e sanzioni amministrativi e penali,
+  - 4\. dati concernenti le misure d’assistenza sociale.
 
 <sup>2</sup>
 
-Può trattare i seguenti dati degni di particolare protezione:
+Può trattare, in quanto necessari per adempiere i compiti di cui all’articolo 11 capoverso 1, i seguenti dati effettuando la profilazione, inclusa la profilazione a rischio elevato:
 
-- a. dati concernenti la salute in relazione alla capacità lavorativa degli impiegati locali;
-- b. dati concernenti la salute connessi con i rimborsi dell’assicurazione malattie;
-- c. dati concernenti le prestazioni, il potenziale e lo sviluppo personale e professionale degli impiegati locali;
-- d. dati richiesti nell’ambito della collaborazione all’attuazione del diritto delle assicurazioni sociali;
-- e. atti procedurali e decisioni delle autorità riguardanti il lavoro;
-- f. dati concernenti procedimenti o sanzioni amministrativi e penali.
+- a.
+
+  per i compiti di cui all’articolo 11 capoverso 1 lettera a, al fine di valutare l’idoneità per un determinato posto o un progetto:
+
+  - 1\. dati concernenti le opinioni o attività religiose, filosofiche, politiche o sindacali, messi a disposizione del DFAE nell’ambito della procedura di reclutamento,
+  - 2\. dati concernenti lo stato di salute in relazione alla capacità lavorativa,
+  - 3\. dati concernenti le prestazioni, il potenziale e lo sviluppo personale e professionale;
+
+- b.
+
+  per i compiti di cui al capoverso 1 lettere d ed e, al fine di valutare il fabbisogno mirato di promovimento e il potenziale di sviluppo:
+
+  - 1\. dati concernenti lo stato di salute in relazione alla capacità lavorativa,
+  - 2\. dati concernenti le prestazioni, il potenziale e lo sviluppo personale e professionale.
+
+[^12-1]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 13
 
@@ -180,9 +261,11 @@ I dati possono essere trattati nei sistemi d’informazione che l’Ufficio fede
 
 #### Art. 14
 
-**Comunicazione dei dati**
+**Comunicazione dei dati**[^14-1]
 
-I dati di cui all’articolo 12 capoversi 1 e 2 lettera b possono essere comunicati al consulente assicurativo del DFAE se sono indispensabili, nel caso specifico, per chiarire l’assunzione dei costi.
+I dati concernenti lo stato di salute in relazione alla capacità lavorativa possono essere comunicati al consulente assicurativo del DFAE se sono indispensabili, nel caso specifico, per chiarire l’assunzione dei costi.
+
+[^14-1]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ### Sezione 5: Rappresentanti consolari onorari e loro congiunti
 
@@ -271,7 +354,7 @@ Il DFAE può comunicare i dati necessari concernenti gli esperti, compresi dati 
 
 Il DFAE tratta i dati concernenti le persone beneficiarie di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^21-1] sullo Stato ospite (LSO) necessari per adempiere i compiti che gli spettano in virtù della LSO.
 
-[^21-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^21-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 22
 
@@ -286,7 +369,7 @@ Il DFAE può trattare i seguenti dati degni di particolare protezione:
 
 <sup>2</sup> Il numero AVS di cui all’articolo 50*c* LAVS[^22-1] serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^22-2]
 
-[^22-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^22-2]: Nuovo testo giusta l’all. n. 6 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 23
@@ -297,7 +380,7 @@ Il DFAE può trattare i seguenti dati degni di particolare protezione:
 
 <sup>2</sup> Il DFAE può comunicare ai beneficiari istituzionali dati concernenti le persone che impiegano e le persone che le accompagnano.
 
-[^23-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^23-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ### Sezione 8: Partecipanti a conferenze internazionali organizzate dalla Svizzera
 
@@ -330,13 +413,49 @@ Le persone interessate possono accedere in linea ai propri dati, nonché consult
 
 Il DFAE tratta i dati concernenti le persone operanti nel settore delle prestazioni di sicurezza private fornite all’estero necessari per adempiere i compiti che gli spettano in virtù della legge federale del 27 settembre 2013[^27-1] sulle prestazioni di sicurezza private fornite all’estero.
 
-[^27-1]: [RS 935.41](https://fedlex.data.admin.ch/eli/cc/2015/450)
+[^27-1]: [RS 935.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11102)
 
 #### Art. 28
 
 **Dati**
 
 Il DFAE può trattare i dati concernenti procedimenti o sanzioni amministrativi e penali di cui sono oggetto le persone operanti nel settore delle prestazioni di sicurezza private fornite all’estero.
+
+### Sezione 10: Persone connesse a segnalazioni di crimini, delitti e irregolarità
+
+[^chap2-sec10-1]
+
+[^chap2-sec10-1]: Introdotta dall’all. n. 5 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+
+#### Art. 28a
+
+**Scopo e persone**
+
+Il DFAE tratta i dati personali connessi a segnalazioni di cui all’articolo 22*a* LPers[^28a-1] e di cui necessita per accertare i fatti e attuare le misure necessarie.
+
+[^28a-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+
+#### Art. 28b
+
+**Dati**
+
+<sup>1</sup> Per accertare i fatti e attuare le misure necessarie, il DFAE può rilevare dati personali connessi a segnalazioni di cui all’articolo 22*a* LPers[^28b-1] provenienti da fonti accessibili al pubblico.
+
+<sup>2</sup>
+
+Può trattare i seguenti dati degni di particolare protezione:
+
+- a. dati concernenti le opinioni o attività religiose, filosofiche, politiche o sindacali;
+- b. dati concernenti la salute, la sfera intima o l’appartenenza a una razza o a un’etnia;
+- c. dati concernenti perseguimenti e sanzioni amministrativi e penali.
+
+[^28b-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+
+#### Art. 28c
+
+**Comunicazione dei dati**
+
+Per accertare i fatti il DFAE può comunicare alle autorità competenti della Confederazione e dei Cantoni i dati degni di particolare protezione di cui all’articolo 28*b* e i dati degni di particolare protezione di persone giuridiche e scambiare informazioni con tali autorità. I dati personali concernenti la persona che ha effettuato la segnalazione possono essere comunicati soltanto se tale persona vi ha acconsentito.
 
 ## Capitolo 3: Disposizioni finali
 
@@ -387,7 +506,7 @@ II
 
 Le leggi federali qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)n. II cpv. 1 lett. a;[2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619)all. n. 3;[2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 16;[2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653)all. n. III 2; [2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)n. II]
+[^annexu1-lvlu1-1]: [[RU 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra II cpv. 1 lett. a;[2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619)all. n. 3;[2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II n. 16;[2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653)all. cifra III n. 2; [2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)cifra II]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650).
