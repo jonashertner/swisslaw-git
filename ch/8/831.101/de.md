@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversi
 short: AHVV
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20260101/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20270101/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20270101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20260101/de"
 
 (AHVV)[^t-1]
 
-vom 31. Oktober 1947 (Stand am 1. Januar 2026)
+vom 31. Oktober 1947 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -27,8 +27,8 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:[^ingress-4]
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 27. Mai 1981, in Kraft seit 1. Juli 1981 ([AS 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)).
 
@@ -47,7 +47,7 @@ verordnet:[^ingress-4]
 Das Internationale Komitee vom Roten Kreuz ist eine internationale Organisation, die im Sinne von Artikel 1*a* Absatz 1 Buchstabe c Ziffer 2 AHVG als Arbeitgeber gilt, aber nur soweit dies in Artikel 12*a* des Abkommens vom 19. März 1993[^1-2] zwischen dem Schweizerischen Bundesrat und dem Internationalen Komitee vom Roten Kreuz zur Festlegung der rechtlichen Stellung des Komitees in der Schweiz vorgesehen ist.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5437](https://fedlex.data.admin.ch/eli/oc/2020/947)).
-[^1-2]: [SR 0.192.122.50](https://fedlex.data.admin.ch/eli/cc/1993/1504_1504_1504)
+[^1-2]: [SR 0.192.122.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/692)
 
 #### Art. 1a
 
@@ -81,7 +81,7 @@ Als Ausländer, die Privilegien und Immunitäten im Sinne von Artikel 1*a* Absat
 [^1b-1]: Ursprünglich Art. 1. Fassung gemäss Ziff. I der V vom 16. Sept. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
 [^1b-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^1b-3]: Fassung gemäss Anhang Ziff. 14 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^1b-4]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^1b-4]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^1b-5]: Fassung gemäss Anhang Ziff. 14 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^1b-6]: Fassung gemäss Anhang Ziff. 14 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^1b-7]: Fassung gemäss Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Juli 2000 ([AS 2000 1765](https://fedlex.data.admin.ch/eli/oc/2000/268)).
@@ -260,10 +260,10 @@ Nicht zum Erwerbseinkommen gehören:
 - [tab] i.–k.[^6-12] ….[^6-13]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^6-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^6-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^6-3]: Fassung gemäss Ziff. I der V vom 10. Sept. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3683](https://fedlex.data.admin.ch/eli/oc/2003/523)).
-[^6-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^6-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^6-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^6-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^6-6]: Aufgehoben durch Ziff. I der V vom 15. Okt. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
 [^6-7]: Aufgehoben durch Ziff. I der V vom 31. Aug. 1992, mit Wirkung seit 1. Jan. 1993 ([AS 1992 1830](https://fedlex.data.admin.ch/eli/oc/1992/1830_1830_1830)).
 [^6-8]: Aufgehoben durch Ziff. I der V vom 29. Juni 1983, mit Wirkung seit 1. Jan. 1984 ([AS 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
@@ -293,7 +293,7 @@ Von der Beitragserhebung ist das Erwerbseinkommen ausgenommen, das Personen mit 
 [^6ter-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 1351](https://fedlex.data.admin.ch/eli/oc/2002/201)).
 [^6ter-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 1351](https://fedlex.data.admin.ch/eli/oc/2002/201)).
 [^6ter-4]: Fassung gemäss Ziff. I der V vom 26. Sept. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2162](https://fedlex.data.admin.ch/eli/oc/1994/2162_2162_2162)).
-[^6ter-5]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^6ter-5]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 6<sup>quater</sup>
 
@@ -347,7 +347,7 @@ Zu dem für die Berechnung der Beiträge massgebenden Lohn gehören insbesondere
 [^7-6]: Fassung gemäss Ziff. I der V vom 16. Sept. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
 [^7-7]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 [^7-8]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
-[^7-9]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^7-9]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^7-10]: Eingefügt durch Ziff. I der V vom 5. April 1978 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 [^7-11]: Eingefügt durch Ziff. I der V vom 27. Mai 1981 ([AS 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)). Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 [^7-12]: Ausdruck gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
@@ -364,8 +364,8 @@ Nicht zum massgebenden Lohn gehören:
 - d. Leistungen des Arbeitgebers an Arzt‑, Arznei‑, Spital- oder Kurkosten, sofern diese nicht durch die obligatorische Krankenpflegeversicherung (Art. 25–31 des BG vom 18. März 1994[^8-3] über die Krankenversicherung – KVG) gedeckt sind und alle Arbeitnehmer gleich behandelt werden.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
-[^8-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^8-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^8-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^8-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8<sup>bis</sup>
 
@@ -390,7 +390,7 @@ Als betriebliche Gründe gelten Betriebsschliessungen, -zusammenlegungen und ‑
 
 [^8ter-1]: Eingefügt durch Ziff. 1 der V vom 18. Sept. 2000 ([AS 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)). Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 [^8ter-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
-[^8ter-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^8ter-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 8<sup>quater</sup>
 
@@ -429,19 +429,9 @@ Als betriebliche Gründe gelten Betriebsschliessungen, -zusammenlegungen und ‑
 
 **Verpflegung und Unterkunft**[^11-1]
 
-<sup>1</sup> Verpflegung und Unterkunft der Arbeitnehmer im Betrieb und im Hausdienst werden mit 33 Franken im Tag bewertet. Vorbehalten bleibt Artikel 14.
+Für die Bewertung der Verpflegung und der Unterkunft der Arbeitnehmer im Betrieb und im Hausdienst gelten die Vorschriften über die direkte Bundessteuer.
 
-<sup>2</sup> Gewährt der Arbeitgeber nicht volle Verpflegung und Unterkunft, so ist der Ansatz wie folgt aufzuteilen:
-
-<table>
-<tr><td></td><td>Franken</td></tr>
-<tr><td>Frühstück</td><td>3.50</td></tr>
-<tr><td>Mittagessen</td><td>10.—</td></tr>
-<tr><td>Abendessen</td><td>8.—</td></tr>
-<tr><td>Unterkunft</td><td>11.50</td></tr>
-</table>
-
-[^11-1]: Fassung gemäss Ziff. I der V vom 22. Sept. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4141](https://fedlex.data.admin.ch/eli/oc/2006/610)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 
 #### Art. 12
 
@@ -508,7 +498,7 @@ Sofern das Bar- und Naturaleinkommen mitarbeitender Familienmitglieder in der La
 Als Einkommen aus selbständiger Erwerbstätigkeit im Sinne von Artikel 9 Absatz 1 AHVG gelten alle in selbständiger Stellung erzielten Einkünfte aus einem Handels‑, Industrie‑, Gewerbe‑, Land- und Forstwirtschaftsbetrieb, aus einem freien Beruf, sowie aus jeder anderen selbständigen Erwerbstätigkeit, einschliesslich der Kapital- und Überführungsgewinne nach Artikel 18 Absatz 2 DBG[^17-2] und der Gewinne aus der Veräusserung von land- und forstwirtschaftlichen Grundstücken nach Artikel 18 Absatz 4 DBG, mit Ausnahme der Einkünfte aus zu Geschäftsvermögen erklärten Beteiligungen nach Artikel 18 Absatz 2 DBG.
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)). Siehe dazu die SchlB. am Ende dieses Textes.
-[^17-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^17-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 18
 
@@ -549,33 +539,33 @@ Vom Einkommen aus einer nebenberuflich ausgeübten selbstständigen Erwerbstäti
 
 **Sinkende Beitragsskala für Selbstständigerwerbende**[^21-1]
 
-<sup>1</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit mindestens 10 100 Franken, aber weniger als 60 500 Franken im Jahr, so werden die Beiträge wie folgt berechnet:
+<sup>1</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit mindestens 10 300 Franken, aber weniger als 61 500 Franken im Jahr, so werden die Beiträge wie folgt berechnet:
 
 <table>
 <tr><th colspan="2">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozent des Erwerbseinkommens</th></tr>
 <tr><th>von mindestens</th><th colspan="2">aber weniger als</th><th></th></tr>
-<tr><td>10 100</td><td colspan="2">17 600</td><td>4,35</td></tr>
-<tr><td>17 600</td><td colspan="2">23 000</td><td>4,45</td></tr>
-<tr><td>23 000</td><td colspan="2">25 500</td><td>4,55</td></tr>
-<tr><td>25 500</td><td colspan="2">28 000</td><td>4,65</td></tr>
-<tr><td>28 000</td><td colspan="2">30 500</td><td>4,75</td></tr>
-<tr><td>30 500</td><td colspan="2">33 000</td><td>4,85</td></tr>
-<tr><td>33 000</td><td colspan="2">35 500</td><td>5,05</td></tr>
-<tr><td>35 500</td><td colspan="2">38 000</td><td>5,25</td></tr>
-<tr><td>38 000</td><td colspan="2">40 500</td><td>5,45</td></tr>
-<tr><td>40 500</td><td colspan="2">43 000</td><td>5,65</td></tr>
-<tr><td>43 000</td><td colspan="2">45 500</td><td>5,85</td></tr>
-<tr><td>45 500</td><td colspan="2">48 000</td><td>6,05</td></tr>
-<tr><td>48 000</td><td colspan="2">50 500</td><td>6,35</td></tr>
-<tr><td>50 500</td><td colspan="2">53 000</td><td>6,65</td></tr>
-<tr><td>53 000</td><td colspan="2">55 500</td><td>6,95</td></tr>
-<tr><td>55 500</td><td colspan="2">58 000</td><td>7,25</td></tr>
-<tr><td>58 000</td><td colspan="2">60 500</td><td>7,55</td></tr>
+<tr><td>10 300</td><td colspan="2">17 700</td><td>4,35</td></tr>
+<tr><td>17 700</td><td colspan="2">24 000</td><td>4,45</td></tr>
+<tr><td>24 000</td><td colspan="2">26 500</td><td>4,55</td></tr>
+<tr><td>26 500</td><td colspan="2">29 000</td><td>4,65</td></tr>
+<tr><td>29 000</td><td colspan="2">31 500</td><td>4,75</td></tr>
+<tr><td>31 500</td><td colspan="2">34 000</td><td>4,85</td></tr>
+<tr><td>34 000</td><td colspan="2">36 500</td><td>5,05</td></tr>
+<tr><td>36 500</td><td colspan="2">39 000</td><td>5,25</td></tr>
+<tr><td>39 000</td><td colspan="2">41 500</td><td>5,45</td></tr>
+<tr><td>41 500</td><td colspan="2">44 000</td><td>5,65</td></tr>
+<tr><td>44 000</td><td colspan="2">46 500</td><td>5,85</td></tr>
+<tr><td>46 500</td><td colspan="2">49 000</td><td>6,05</td></tr>
+<tr><td>49 000</td><td colspan="2">51 500</td><td>6,35</td></tr>
+<tr><td>51 500</td><td colspan="2">54 000</td><td>6,65</td></tr>
+<tr><td>54 000</td><td colspan="2">56 500</td><td>6,95</td></tr>
+<tr><td>56 500</td><td colspan="2">59 000</td><td>7,25</td></tr>
+<tr><td>59 000</td><td colspan="2">61 500</td><td>7,55</td></tr>
 </table>
 
-<sup>2</sup> Beträgt das nach Artikel 6<sup>quater</sup> anrechenbare Einkommen weniger als 10 100 Franken, so hat die versicherte Person einen Beitrag von 4,35 Prozent zu entrichten, höchstens aber den Mindestbeitrag.
+<sup>2</sup> Beträgt das nach Artikel 6<sup>quater</sup> anrechenbare Einkommen weniger als 10 300 Franken, so hat die versicherte Person einen Beitrag von 4,35 Prozent zu entrichten, höchstens aber den Mindestbeitrag.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 
 ### 2. Festsetzung und Ermittlung der Beiträge
 
@@ -682,15 +672,15 @@ Vom Einkommen aus einer nebenberuflich ausgeübten selbstständigen Erwerbstäti
 
 **Bemessung der Beiträge**[^28-1]
 
-<sup>1</sup> Die Beiträge der Nichterwerbstätigen, für die nicht der jährliche Mindestbeitrag von 435 Franken (Art. 10 Abs. 2 AHVG) vorgesehen ist, bemessen sich aufgrund ihres Vermögens und ihres Renteneinkommens. Nicht zum Renteneinkommen gehören die Renten nach den Artikeln 36 und 39 IVG[^28-2]. Die Beiträge werden wie folgt berechnet:
+<sup>1</sup> Die Beiträge der Nichterwerbstätigen, für die nicht der jährliche Mindestbeitrag von 444 Franken (Art. 10 Abs. 2 AHVG) vorgesehen ist, bemessen sich aufgrund ihres Vermögens und ihres Renteneinkommens. Nicht zum Renteneinkommen gehören die Renten nach den Artikeln 36 und 39 IVG[^28-2]. Die Beiträge werden wie folgt berechnet:
 
 <table>
 <tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen</th><th>Jahresbeitrag</th><th>Zuschlag für jede weitere Stufe von 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen</th></tr>
 <tr><th colspan="2">Franken</th><th>Franken</th><th>Franken</th></tr>
-<tr><td>bis</td><td>350 000</td><td>435</td><td>–</td></tr>
-<tr><td>ab</td><td>350 000</td><td>522</td><td>87</td></tr>
-<tr><td>ab</td><td>1 750 000</td><td>2958</td><td>130.50</td></tr>
-<tr><td>ab</td><td>8 950 000</td><td>21 750</td><td>–.[^28-3]</td></tr>
+<tr><td>bis</td><td>360 000</td><td>444</td><td>–</td></tr>
+<tr><td>ab</td><td>360 000</td><td>539.40</td><td>87</td></tr>
+<tr><td>ab</td><td>1 760 000</td><td>2975.40</td><td>130.50</td></tr>
+<tr><td>ab</td><td>9 160 000</td><td>22 200</td><td>–.[^28-3]</td></tr>
 </table>
 
 <sup>2</sup> Verfügt eine nichterwerbstätige Person gleichzeitig über Vermögen und Renteneinkommen, so wird der mit 20 multiplizierte jährliche Rentenbetrag zum Vermögen hinzugerechnet.[^28-4]
@@ -706,15 +696,15 @@ Vom Einkommen aus einer nebenberuflich ausgeübten selbstständigen Erwerbstäti
 <sup>6</sup> Nichterwerbstätige, die Leistungen nach dem Bundesgesetz vom 6. Oktober 2006[^28-9] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung oder nach dem Bundesgesetz vom 19. Juni 2020[^28-10] über Überbrückungsleistungen für ältere Arbeitslose beziehen, bezahlen den Mindestbeitrag.[^28-11]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 17. Juni 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
-[^28-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^28-3]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
+[^28-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^28-3]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^28-4]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 [^28-5]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 [^28-6]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Fassung gemäss Ziff. I der V vom 20. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)).
 [^28-7]: Eingefügt durch Ziff. I der V vom 20. Sept. 2002 ([AS 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Aufgehoben durch Ziff. I der V vom 19. Okt. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
 [^28-8]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^28-9]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^28-10]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^28-9]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^28-10]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 [^28-11]: Eingefügt durch Ziff. I der V vom 24. Sept. 2010 ([AS 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Fassung gemäss Anhang Ziff. 1 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 
 #### Art. 28<sup>bis</sup>
@@ -747,7 +737,7 @@ Vom Einkommen aus einer nebenberuflich ausgeübten selbstständigen Erwerbstäti
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^29-2]: Fassung gemäss Ziff. I der V vom 26. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)).
-[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^29-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^29-4]: Fassung gemäss Ziff. I der V vom 26. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)).
 [^29-5]: Eingefügt durch Ziff. I der V vom 26. Sept. 2008 ([AS 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)). Fassung gemäss Ziff. I der V vom 24. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
@@ -843,7 +833,7 @@ Von der Beitragspflicht als Arbeitgeber sind ausgenommen:
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^33-2]: Fassung gemäss Anhang Ziff. 14 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^33-3]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^33-3]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^33-4]: Fassung gemäss Anhang Ziff. 14 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 ### E. Beitragsbezug
@@ -876,7 +866,7 @@ Es haben der Ausgleichskasse die Beiträge zu zahlen:
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^34-2]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^34-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^34-3]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^34-4]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^34-5]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
@@ -911,7 +901,7 @@ Es haben der Ausgleichskasse die Beiträge zu zahlen:
 <sup>2</sup> Wird ein Teil der Forderungen als uneinbringlich abgeschrieben, so ist der eingebrachte Betrag nach Deckung allfälliger Betreibungskosten vorab auf die geschuldeten Arbeitnehmerbeiträge und sodann nach prozentual gleichen Teilen auf die übrigen gemäss Artikel 219 des Bundesgesetzes vom 11. April 1889[^34c-2] über Schuldbetreibung und Konkurs (SchKG) in der zweiten Klasse eingereihten Beitragsforderungen anzurechnen.[^34c-3]
 
 [^34c-1]: Eingefügt durch Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
-[^34c-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^34c-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^34c-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2824](https://fedlex.data.admin.ch/eli/oc/2000/478)).
 
 ### II. Lohnbeiträge
@@ -962,7 +952,7 @@ In jedem Fall entrichtet werden müssen die Beiträge:
 <sup>4</sup> Im vereinfachten Verfahren nach den Artikeln 2 und 3 BGSA[^35-2] entrichten die Arbeitgeber keine Akontobeiträge.[^35-3]
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
-[^35-2]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^35-2]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^35-3]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 36
@@ -1071,7 +1061,7 @@ Verzugszinsen haben zu entrichten:
 
 [^41bis-1]: Eingefügt durch Ziff. I der V vom 5. April 1978 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)). Siehe dazu die SchlB. am Ende dieses Textes.
 [^41bis-2]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^41bis-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^41bis-3]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^41bis-4]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^41bis-5]: Eingefügt durch Ziff. I der V vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
 [^41bis-6]: Eingefügt durch Ziff. I 1 der V vom 20. März 2020 über Massnahmen im Zusammenhang mit dem Coronavirus (COVID-19) zur Kurzarbeitsentschädigung und zur Abrechnung der Sozialversicherungsbeiträge, in Kraft vom 21. März bis zum 20. Sept. 2020 ([AS 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
@@ -1116,7 +1106,7 @@ Verzugszinsen haben zu entrichten:
 Stirbt ein Beitragspflichtiger, so haften seine Erben solidarisch für die von ihm zu seinen Lebzeiten geschuldeten Beiträge. Vorbehalten bleiben die Artikel 566, 589 und 593 des Zivilgesetzbuches[^43-2].
 
 [^43-1]: Aufgehoben durch Ziff. I der V vom 1. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
-[^43-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^43-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## Dritter Abschnitt: Die Renten und die Hilflosenentschädigung
 
@@ -1679,17 +1669,16 @@ Die Erhöhung des durchschnittlichen Erwerbseinkommens nach Artikel 33 Absatz 3 
 
 ### C. Ausserordentliche Renten
 
-[^chap3-lvlC-1]
+[^chap3-lvlC-1][^chap3-lvlC-2]
 
-[^chap3-lvlC-1]: Ursprünglich vor Art. 56
+[^chap3-lvlC-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^chap3-lvlC-2]: Ursprünglich vor Art. 56
 
 #### Art. 55
 
-**Kürzung der ausserordentlichen Kinder- und Waisenrenten**[^55-1]
+**Kürzung der ausserordentlichen Kinder- und Waisenrenten**
 
 Für die Kürzung der ausserordentlichen Kinder- und Waisenrenten (Art. 43 Abs. 3 AHVG) gilt Artikel 54<sup>bis</sup> Absätze 2 und 3. Die Monatsbeträge der gekürzten Renten werden nach Artikel 53 Absatz 2 auf- oder abgerundet.
-
-[^55-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
 ### D. Der flexible Rentenbezug
 
@@ -1805,12 +1794,13 @@ Für die Kürzung der ausserordentlichen Kinder- und Waisenrenten (Art. 43 Abs. 
 
 <sup>2</sup> Die vorbezogene Altersrente, die zwischen dem Beginn des Anspruchs auf die Invalidenrente und dem Verzicht auf den Vorbezug ausbezahlt wurde, wird zurückgefordert. Der zurückgeforderte Betrag kann mit der rückwirkend ausbezahlten Invalidenrente verrechnet werden.
 
-<sup>3</sup> Beginnt der Vorbezug eines Teils oder der ganzen Altersrente nach der Anmeldung bei der Invalidenversicherung und vor der Zusprache einer Invalidenrente, so kann die versicherte Person den Vorbezug ihrer Altersrente widerrufen. Der Widerruf wird mit Beginn des Rentenvorbezugs wirksam.
+<sup>3</sup> Wird der Antrag auf Vorbezug eines Teils oder der ganzen Altersrente nach der Anmeldung bei der Invalidenversicherung und vor der Zusprache einer Invalidenrente gestellt, so kann die versicherte Person den Vorbezug ihrer Altersrente widerrufen. Der Widerruf wird mit Beginn des Rentenvorbezugs wirksam.[^56ter-3]
 
 <sup>4</sup> Der Widerruf hat eine Rückforderung der vorbezogenen Altersrente zur Folge. Der zurückgeforderte Betrag kann mit der rückwirkend ausbezahlten Invalidenrente verrechnet werden.
 
 [^56ter-1]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^56ter-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^56ter-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^56ter-3]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 
 #### Art. 56<sup>quater</sup>
 
@@ -1930,7 +1920,7 @@ Die Vorausberechnung erfolgt durch diejenige Ausgleichskasse, die bei Einreichun
 <sup>3</sup> Als Heim im Sinne von Artikel 43<sup>bis</sup> Absatz 1<sup>bis</sup> AHVG gilt jede Einrichtung, die von einem Kanton als Heim anerkannt wird oder über eine kantonale Betriebsbewilligung als Heim verfügt.[^66bis-5]
 
 [^66bis-1]: Fassung gemäss Ziff. I der V vom 5. April 1978, in Kraft seit 1. Jan. 1979 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^66bis-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^66bis-2]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^66bis-3]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3523](https://fedlex.data.admin.ch/eli/oc/2009/433)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 1).
 [^66bis-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^66bis-5]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3523](https://fedlex.data.admin.ch/eli/oc/2009/433)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 1).
@@ -1944,7 +1934,7 @@ Die Vorausberechnung erfolgt durch diejenige Ausgleichskasse, die bei Einreichun
 <sup>2</sup> Die Artikel 14<sup>bis</sup> und 14<sup>ter</sup> IVV[^66ter-2] gelten sinngemäss.[^66ter-3]
 
 [^66ter-1]: Eingefügt durch Ziff. I der V vom 5. April 1978, in Kraft seit 1. Jan. 1979 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^66ter-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^66ter-2]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^66ter-3]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6483](https://fedlex.data.admin.ch/eli/oc/2008/882)).
 
 ### G. Das Verhältnis zur Hilflosenentschädigung der Unfallversicherung
@@ -1990,7 +1980,7 @@ Die Vorausberechnung erfolgt durch diejenige Ausgleichskasse, die bei Einreichun
 [^67-1]: Fassung gemäss Art. 143 der V vom 20. Dez. 1982 über die Unfallversicherung, in Kraft seit 1. Jan. 1984 ([AS 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
 [^67-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^67-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^67-4]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^67-4]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^67-5]: Ursprünglich Abs. 1<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 29. Juni 1983, in Kraft seit 1. Jan. 1984 ([AS 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
 [^67-6]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^67-7]: Fassung gemäss Ziff. I des BRB vom 19. Nov. 1965, in Kraft seit 1. Jan. 1966 ([AS 1965 1021](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
@@ -2050,7 +2040,7 @@ Die Rentenverfügung ist den Parteien zuzustellen, insbesondere:[^68-3]
 Die Artikel 69–72<sup>bis</sup> IVV[^69ter-2] sind sinngemäss anwendbar.
 
 [^69ter-1]: Eingefügt durch Ziff. I des BRB vom 10. Jan. 1969 ([AS 1969 125](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^69ter-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^69ter-2]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 #### Art. 69<sup>quater</sup>
 
@@ -2061,7 +2051,7 @@ Die Artikel 69–72<sup>bis</sup> IVV[^69ter-2] sind sinngemäss anwendbar.
 <sup>2</sup> Die Artikel 74<sup>ter</sup> Absatz 1 Buchstabe f und 74<sup>quater</sup> IVV[^69quater-2] sind sinngemäss anwendbar.
 
 [^69quater-1]: Eingefügt durch Ziff. I des BRB vom 10. Jan. 1969 ([AS 1969 125](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Fassung gemäss Ziff. II der V vom 15. Juni 1992, in Kraft seit 1. Juli 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^69quater-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^69quater-2]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 #### Art. 69<sup>quinquies</sup>
 
@@ -2254,8 +2244,8 @@ Für die Hilflosenentschädigungen sind die Artikel 77 und 79<sup>bis</sup> sinn
 
 <sup>3</sup> Als regionale zwischenberufliche Verbände gelten Verbände, die sowohl gemäss ihren Statuten als auch tatsächlich Arbeitgeber und Selbständigerwerbende aus mehreren Berufen umfassen und sich mindestens über einen ganzen Kanton oder das gesamte Sprachgebiet eines Kantons erstrecken.
 
-[^83-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^83-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^83-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 84
 
@@ -2302,7 +2292,7 @@ Einem Verband, dessen Errichtungsbeschluss durch Klage beim Richter angefochten 
 Soweit in dieser Verordnung nichts Abweichendes bestimmt wird, finden die Vorschriften der Verordnung vom 4. Januar 1938[^92-2] über Sicherstellungen zugunsten der Eidgenossenschaft Anwendung.
 
 [^92-1]: Fassung gemäss Ziff. I des BRB vom 10. Mai 1957, in Kraft seit 1. Jan. 1957 ([AS 1957 406](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
-[^92-2]: [BS **6** 30. [AS 1957 509](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527)Art. 22 Abs. 2]. Siehe heute die Finanzhaushaltverordnung vom 5. April 2006 ([SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+[^92-2]: [BS **6** 30. [AS 1957 509](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527)Art. 22 Abs. 2]. Siehe heute die Finanzhaushaltverordnung vom 5. April 2006 ([SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)).
 
 #### Art. 93
 
@@ -2312,7 +2302,7 @@ Soweit in dieser Verordnung nichts Abweichendes bestimmt wird, finden die Vorsch
 
 <sup>2</sup> …[^93-2]
 
-[^93-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^93-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^93-2]: Aufgehoben durch Ziff. I des BRD vom 10. Mai 1957, mit Wirkung seit 1. Jan. 1957 ([AS 1957 406](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
 
 #### Art. 94
@@ -2339,8 +2329,8 @@ Soweit in dieser Verordnung nichts Abweichendes bestimmt wird, finden die Vorsch
 <sup>3</sup> Die Bestimmungen des OR[^95-3] über die Bürgschaft, insbesondere jene über Bürgschaften gegenüber der Eidgenossenschaft, sind anwendbar.
 
 [^95-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^95-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^95-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^95-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^95-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 96
 
@@ -2452,8 +2442,8 @@ Das Kassenreglement ist dem BSV einzureichen; dieses ist für die Genehmigung zu
 
 <sup>4</sup> …[^105-5]
 
-[^105-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^105-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^105-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^105-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^105-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^105-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^105-5]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
@@ -2646,7 +2636,7 @@ Der Eidgenössischen Ausgleichskasse werden die Bundesverwaltung, die eidgenöss
 
 <sup>3</sup> Vorbehalten bleibt in allen Fällen die Zuständigkeit der Ausgleichskassen des Bundes.
 
-[^120-1]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^120-1]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 [^120-2]: Bezeichnung gemäss Ziff. I der V vom 27. Mai 1981, in Kraft seit 1. Juli 1981 ([AS 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)).
 [^120-3]: Fassung gemäss Ziff. I der V vom 5. April 1978, in Kraft seit 1. Jan. 1979 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
@@ -2702,14 +2692,15 @@ Zuständig für die Entgegennahme und Prüfung der Anmeldung sowie für die Ausz
 
 Ein Wechsel der für die Rentenauszahlung zuständigen Ausgleichskasse findet nur statt:
 
-- a. wenn der die Rente auszahlende Arbeitgeber einer anderen Ausgleichskasse angeschlossen wird;
+- a.[^125-2] …
 - b. wenn der Bezüger seinen Wohnsitz von der Schweiz ins Ausland oder vom Ausland in die Schweiz verlegt;
-- c. wenn der Bezüger einer durch eine kantonale Ausgleichskasse ausbezahlten ausserordentlichen Rente[^125-2] seinen Wohnsitz in einen anderen Kanton verlegt;
-- d.[^125-3] wenn ein Rentenberechtigter regelmässig Ergänzungsleistungen bezieht und das BSV den Wechsel für die betreffenden Ausgleichskassen bewilligt.
+- c.[^125-3] …
+- d.[^125-4] wenn ein Rentenberechtigter regelmässig Ergänzungsleistungen bezieht und das BSV den Wechsel für die betreffenden Ausgleichskassen bewilligt.
 
 [^125-1]: Fassung gemäss Ziff. I des BRB vom 10. Mai 1957, in Kraft seit 1. Jan. 1957 ([AS 1957 406](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
-[^125-2]: Ausdruck gemäss Ziff. II des BRB vom 5. Febr. 1960, in Kraft seit 1. Jan. 1960 ([AS 1960 235](https://fedlex.data.admin.ch/eli/oc/1960/235_247_242)).
-[^125-3]: Eingefügt durch Ziff. I der V vom 17. Juni 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
+[^125-2]: Aufgehoben durch Ziff. I der V vom 2. Okt. 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
+[^125-3]: Aufgehoben durch Ziff. I der V vom 2. Okt. 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
+[^125-4]: Eingefügt durch Ziff. I der V vom 17. Juni 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
 #### Art. 125<sup>bis</sup>
 
@@ -2834,7 +2825,7 @@ Kantone und Gründerverbände dürfen den Ausgleichskassen Aufgaben übertragen,
 <sup>2</sup> Sind für diese Auskünfte besondere Nachforschungen oder andere Arbeiten nötig, die Kosten verursachen, so kann in sinngemässer Anwendung von Artikel 16 der Verordnung vom 10. September 1969[^132ter-2] über Kosten und Entschädigungen im Verwaltungsverfahren eine Gebühr erhoben werden.
 
 [^132ter-1]: Eingefügt durch Ziff. I der V vom 7. Juli 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
-[^132ter-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^132ter-2]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 132<sup>quater</sup>
 
@@ -2961,7 +2952,7 @@ Die ZAS kann folgende Daten verlangen:
 
 [^133bis-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2007, in Kraft seit 1. Dez. 2007, Abs. 2 in Kraft seit 1. Juli 2008 ([AS 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 [^133bis-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst.
-[^133bis-3]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^133bis-3]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^133bis-4]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 [^133bis-5]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
@@ -3174,7 +3165,7 @@ Die Eintragung umfasst:
 
 <sup>5</sup> Die ZAS darf alle Daten im Informationssystem erfassen. Die Ausgleichskassen und die IV-Stellen dürfen nur die Daten in ihrem jeweiligen Zuständigkeitsbereich erfassen.
 
-[^141bis-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^141bis-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 141<sup>ter</sup>
 
@@ -3246,7 +3237,7 @@ Das Informationssystem im Bereich der Versicherungsunterstellung enthält Daten,
 
 <sup>2</sup> Meldungen nach Absatz 1 ersetzen die Meldungen von Verletzungen der Datensicherheit an den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten nach dem Datenschutzgesetz vom 25. September 2020[^141septies-1] oder an die kantonalen Datenschutzbehörden nach den kantonalen Datenschutzgesetzen nicht.
 
-[^141septies-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^141septies-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ### J. Zahlungs- und Abrechnungsverkehr
 
@@ -3280,7 +3271,7 @@ Das Informationssystem im Bereich der Versicherungsunterstellung enthält Daten,
 [^143-2]: Fassung gemäss Ziff. I 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 [^143-3]: Fassung gemäss Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 [^143-4]: Eingefügt durch Ziff. I 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
-[^143-5]: [SR 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
+[^143-5]: [SR 642.115.325.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8183)
 [^143-6]: Eingefügt durch Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)). Siehe auch die SchlB dieser Änd. am Ende des Textes.
 
 #### Art. 144
@@ -3450,9 +3441,9 @@ Der Ausgleichsfonds der Alters- und Hinterlassenenversicherung vergütet den Aus
 <sup>2</sup> Das BSV wird mit dem Vollzug und der Kontrolle beauftragt.
 
 [^158bis-1]: Eingefügt durch Ziff. I der V vom 30. Sept. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
-[^158bis-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^158bis-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^158bis-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^158bis-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^158bis-4]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### L. Kassenrevisionen und Arbeitgeberkontrollen
 
@@ -3560,7 +3551,7 @@ Bei den Ausgleichskassen sind jährlich drei Revisionen nach Artikel 68*a* AHVG 
 Die Anforderungen nach Artikel 68 Absatz 4 AHVG sind in den Artikeln 11*n*–11*q* der Revisionsaufsichtsverordnung vom 22. August 2007[^164-2] geregelt.
 
 [^164-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^164-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^164-2]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 #### Art. 165–168
 
@@ -3632,15 +3623,15 @@ Die Anforderungen nach Artikel 68 Absatz 4 AHVG sind in den Artikeln 11*n*–11*
 
 <sup>1</sup>
 
-Der ZAS obliegen ausser den in Artikel 71 AHVG sowie in den Artikeln 133<sup>bis</sup>, 134<sup>ter</sup>–134<sup>quinquies</sup>, 149, 154 und 171 dieser Verordnung genannten Aufgaben:[^174-1]
+Der ZAS obliegen ausser den in den Artikeln 71, 93 und 93<sup>bis</sup> AHVG sowie in den Artikeln 133<sup>bis</sup>, 134<sup>ter</sup>–134<sup>quinquies</sup>, 149, 154 und 171 dieser Verordnung genannten Aufgaben:[^174-1]
 
 - a. [^174-2] …
 - b.[^174-3] …
 - c.[^174-4] der Zusammenruf der individuellen Konten eines Versicherten bei Eintritt des Versicherungsfalles;
 - d.[^174-5] die Auswertung der Meldungen gemäss Artikel 140 Absatz 2 sowie des Registers der laufenden Geldleistungen im Auftrag und nach den Bedürfnissen des BSV;
-- e.[^174-6] die Mitteilung der im Versichertenregister verzeichneten Todesdaten an die Ausgleichskassen, sofern die Meldungen Leistungsbezüger betreffen, die im Register der laufenden Geldleistungen vermerkt sind;
+- e.[^174-6] …
 - f.[^174-7] die Führung eines zentralen Registers über alle Bezüger von Ergänzungsleistungen, die keine Rente der AHV oder IV beziehen;
-- g.[^174-8] der Datenabgleich nach Artikel 93 AHVG;
+- g.[^174-8] …
 - h.[^174-9] die Führung des Pseudonymisierungsdienstes nach Artikel 31 Absatz 1 Buchstabe c des Krebsregistrierungsgesetzes vom 18. März 2016[^174-10];
 - i.[^174-11] betreffend die Register, die sie betreibt, die Sicherstellung des Datenschutzes und der Datensicherheit gemäss der Bundesgesetzgebung über den Datenschutz[^174-12], der Cyberrisikenverordnung vom 27. Mai 2020[^174-13] und den Weisungen des Bundesrates vom 16. Januar 2019[^174-14] über die IKT-Sicherheit in der Bundesverwaltung;
 - j.[^174-15] die Aufbewahrung der Daten, welche den Leistungsanspruch begründen können, während zehn Jahren ab Erlöschen des letzten Leistungsanspruchs; danach werden die Daten vernichtet, sofern sie mit Bestimmtheit nicht mehr für später entstehende Leistungen benötigt werden; das BSV regelt die Einzelheiten.
@@ -3651,19 +3642,19 @@ Der ZAS obliegen ausser den in Artikel 71 AHVG sowie in den Artikeln 133<sup>bis
 
 <sup>3</sup> Die ZAS hat dem BSV jährlich einen einlässlichen Bericht über die Durchführung der ihr gemäss Absatz 1 obliegenden Aufgaben zu erstatten.
 
-[^174-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^174-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^174-2]: Aufgehoben durch Ziff. I der V vom 17. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^174-3]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
 [^174-4]: Fassung gemäss Ziff. I des BRB vom 10. Jan. 1969, in Kraft seit 1. Jan. 1969 ([AS 1969 125](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^174-5]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^174-6]: Eingefügt durch Ziff. I der V vom 18. Okt. 1974 ([AS 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-6]: Eingefügt durch Ziff. I der V vom 18. Okt. 1974 ([AS 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Aufgehoben durch Ziff. I der V vom 2. Okt. 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^174-7]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^174-8]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-8]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013 ([AS 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)). Aufgehoben durch Ziff. I der V vom 2. Okt. 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^174-9]: Eingefügt durch Anhang 2 Ziff. 2 der Krebsregistrierungsverordnung vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
-[^174-10]: [SR 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^174-10]: [SR 818.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9832)
 [^174-11]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^174-12]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^174-13]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^174-12]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993); [235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^174-13]: [SR 120.73](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4757)
 [^174-14]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
 [^174-15]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^174-16]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
@@ -3867,7 +3858,7 @@ Die Leiter der Ausgleichskassen sind verpflichtet, strafbare Handlungen im Sinne
 <sup>3</sup> Die Gebühr kann wegen Bedürftigkeit der gebührenpflichtigen Person oder aus anderen wichtigen Gründen ermässigt oder erlassen werden.
 
 [^209ter-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
-[^209ter-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^209ter-2]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 209<sup>quater</sup>
 
@@ -3924,7 +3915,7 @@ Die Unfallversicherer und die Militärversicherung nach Artikel 50*b* Absatz 1 B
 <sup>3</sup> Die aus dem Ausgleichsfonds der Alters- und Hinterlassenenversicherung zu gewährenden Mittel müssen dem Departement bei einer Erhöhung der pauschalen Zuschüsse nach Absatz 2 zur Genehmigung vorgelegt werden.[^211ter-3]
 
 [^211ter-1]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^211ter-2]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^211ter-2]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^211ter-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
 #### Art. 211<sup>quater</sup>
@@ -3936,7 +3927,7 @@ Die Unfallversicherer und die Militärversicherung nach Artikel 50*b* Absatz 1 B
 <sup>2</sup> Das BSV wird mit dem Vollzug und der Kontrolle beauftragt.
 
 [^211quater-1]: Eingefügt durch Ziff. I der V vom 30. Sept. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
-[^211quater-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^211quater-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^211quater-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 211<sup>quinquies</sup>
@@ -4045,9 +4036,9 @@ Finanzhilfen nach Artikel 3 Absatz 1 des Subventionsgesetzes vom 5. Oktober 1990
 
 [^222-1]: Fassung gemäss Ziff. I 16 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 [^222-2]: Fassung gemäss Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^222-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^222-3]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 [^222-4]: Fassung gemäss Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^222-5]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^222-5]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^222-6]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 223
@@ -4250,11 +4241,11 @@ d. Rentenauszahlungen der Arbeitgeber
 - d. Erwerbsersatzordnung nach dem Erwerbsersatzgesetz vom 25. September 1952[^u9-5];
 - e. Familienzulagen in der Landwirtschaft nach dem FLG[^u9-6].
 
-[^u9-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^u9-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^u9-4]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Siehe heute: das BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
-[^u9-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^u9-6]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^u9-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^u9-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^u9-4]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Siehe heute: das BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
+[^u9-5]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^u9-6]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ## Schlussbestimmungen zur Änderung vom 7. November 2007
 
@@ -4287,4 +4278,4 @@ Die Artikel 222–225 finden nur Anwendung auf die nach Inkrafttreten der Änder
 
 Für die Bescheinigungspflichten nach Artikel 143 Absatz 3 gilt Artikel 18 (Übergangsbestimmung) der Mitarbeiterbeteiligungsverordnung vom 27. Juni 2012[^u12-2] sinngemäss.
 
-[^u12-2]: [SR 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
+[^u12-2]: [SR 642.115.325.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8183)

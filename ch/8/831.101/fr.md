@@ -4,11 +4,11 @@ title: "Règlement du 31 octobre 1947 sur l'assurance-vieillesse et survivants (
 short: RAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20270101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20260101/fr"
 
 (RAVS)[^t-1]
 
-du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2026)
+du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -27,9 +27,9 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^ingress-2]: Introduit par le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^ingress-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^ingress-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 27 mai 1981, en vigueur depuis le 1<sup>er</sup> juil. 1981 ([RO 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)).
 
 ## Chapitre I Personnes assurées
@@ -51,7 +51,7 @@ arrête:
 Le Comité international de la Croix-Rouge est une organisation internationale considérée comme employeur au sens de l’art. 1*a*, al. 1, let. c, ch. 2, LAVS mais seulement dans la mesure prévue par l’art. 12*a* de l’Accord du 19 mars 1993 entre le Conseil fédéral suisse et le Comité international de la Croix-Rouge en vue de déterminer le statut juridique du Comité en Suisse[^1-2].
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5437](https://fedlex.data.admin.ch/eli/oc/2020/947)).
-[^1-2]: [RS 0.192.122.50](https://fedlex.data.admin.ch/eli/cc/1993/1504_1504_1504)
+[^1-2]: [RS 0.192.122.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/692)
 
 #### Art. 1a
 
@@ -84,7 +84,7 @@ Sont considérés comme ressortissants étrangers bénéficiant de privilèges e
 [^1b-1]: Anciennement art. 1. Nouvelle teneur selon le ch. I de l’O du 16 sept. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
 [^1b-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^1b-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 7 décembre 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^1b-4]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^1b-4]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^1b-5]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 7 décembre 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^1b-6]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 7 décembre 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^1b-7]: Nouvelle selon le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> juil. 2000 ([RO 2000 1765](https://fedlex.data.admin.ch/eli/oc/2000/268)).
@@ -268,10 +268,10 @@ Ne sont pas comprises dans le revenu provenant d’une activité lucrative:[^6-1
 
 [^6-1]: Nouvelle teneur selon le ch. II de l’O du 27 oct. 1987, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
-[^6-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^6-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^6-4]: Nouvelle teneur selon le ch. I de l’O du 10 sept. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3683](https://fedlex.data.admin.ch/eli/oc/2003/523)).
-[^6-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^6-6]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^6-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^6-6]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^6-7]: Abrogée par le ch. I de l’O du 15 oct. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
 [^6-8]: Abrogée par le ch. I de l’O du 31 août 1992, avec effet au 1<sup>er</sup> janv. 1993 ([RO 1992 1830](https://fedlex.data.admin.ch/eli/oc/1992/1830_1830_1830)).
 [^6-9]: Abrogée par le ch. I de l’O du 29 juin 1983, avec effet au 1<sup>er</sup> janv. 1984 ([RO 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
@@ -302,7 +302,7 @@ Sont exceptés du calcul des cotisations les revenus d’activité lucrative qu�
 [^6ter-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1351](https://fedlex.data.admin.ch/eli/oc/2002/201)).
 [^6ter-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1351](https://fedlex.data.admin.ch/eli/oc/2002/201)).
 [^6ter-4]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2162](https://fedlex.data.admin.ch/eli/oc/1994/2162_2162_2162)).
-[^6ter-5]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^6ter-5]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 6<sup>quater</sup>
 
@@ -357,7 +357,7 @@ Le salaire déterminant pour le calcul des cotisations comprend notamment:[^7-1]
 [^7-7]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2579](https://fedlex.data.admin.ch/eli/oc/1998/2579_2579_2579)).
 [^7-8]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
 [^7-9]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
-[^7-10]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^7-10]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^7-11]: Introduite par le ch. I de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 [^7-12]: Introduite par le ch. I de l’O du 27 mai 1981 ([RO 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)).
 
@@ -373,8 +373,8 @@ Ne sont pas compris dans le salaire déterminant:
 - d. les prestations patronales destinées à couvrir les frais médicaux, les frais pharmaceutiques, les frais d’hôpital ou de cure, s’ils ne sont pas déjà pris en charge par l’assurance obligatoire des soins (art. 25 à 31 de la LF du 18 mars 1994 sur l’assurance-maladie, LAMal[^8-3]) et si tous les salariés sont traités de la même manière.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
-[^8-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^8-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^8-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^8-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8<sup>bis</sup>
 
@@ -399,7 +399,7 @@ Sont considérés comme des impératifs d’exploitation, la fermeture, la fusio
 
 [^8ter-1]: Introduit par le ch. I de l’O du 18 sept. 2000 ([RO 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5125](https://fedlex.data.admin.ch/eli/oc/2007/721)). Voir aussi les disp. fin. mod. 17 oct. 2007 à la fin du texte.
 [^8ter-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
-[^8ter-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^8ter-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 8<sup>quater</sup>
 
@@ -438,19 +438,9 @@ Sont considérés comme des impératifs d’exploitation, la fermeture, la fusio
 
 **Nourriture et logement**[^11-1]
 
-<sup>1</sup> La nourriture et le logement des personnes employées dans l’entreprise et du personnel de maison sont évalués à 33 francs par jour. L’art. 14 est réservé.
+La valeur de la nourriture et du logement des personnes employées dans l’entreprise et du personnel de maison est déterminée d’après les dispositions relatives à l’impôt fédéral direct.
 
-<sup>2</sup> Si l’employeur ne fournit qu’en partie la nourriture et le logement, ce montant se répartit de la manière suivante:
-
-<table>
-<tr><td></td><td>Fr.</td></tr>
-<tr><td>Petit déjeuner</td><td>3.50</td></tr>
-<tr><td>Repas de midi</td><td>10.—</td></tr>
-<tr><td>Repas du soir</td><td>8.—</td></tr>
-<tr><td>Logement</td><td>11.50</td></tr>
-</table>
-
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4141](https://fedlex.data.admin.ch/eli/oc/2006/610)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 
 #### Art. 12
 
@@ -517,7 +507,7 @@ Les cotisations des membres de la famille qui travaillent avec l’exploitant ag
 Est réputé revenu provenant d’une activité lucrative indépendante au sens de l’art. 9, al. 1, LAVS, tout revenu acquis dans une situation indépendante provenant de l’exploitation d’une entreprise commerciale, industrielle, artisanale, agricole ou sylvicole, de l’exercice d’une profession libérale ou de toute autre activité, y compris les bénéfices en capital et les bénéfices réalisés lors du transfert d’éléments de fortune au sens de l’art. 18, al. 2, LIFD[^17-2], et les bénéfices provenant de l’aliénation d’immeubles agricoles ou sylvicoles conformément à l’art. 18, al. 4, LIFD, à l’exception des revenus provenant de participations déclarées comme fortune commerciale selon l’art. 18, al. 2, LIFD.
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^17-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^17-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 18
 
@@ -558,33 +548,33 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Barème dégressif des cotisations des personnes exerçant une activité indépendante**[^21-1]
 
-<sup>1</sup> Si le revenu provenant d’une activité indépendante est d’au moins 10 100 francs par an, mais inférieur à 60 500 francs, les cotisations sont calculées comme suit:
+<sup>1</sup> Si le revenu provenant d’une activité indépendante est d’au moins 10 300 francs par an, mais inférieur à 61 500 francs, les cotisations sont calculées comme suit:
 
 <table>
 <tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour-cent du revenu</th></tr>
 <tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
-<tr><td>10 100</td><td colspan="2">17 600</td><td>4,35</td></tr>
-<tr><td>17 600</td><td colspan="2">23 000</td><td>4,45</td></tr>
-<tr><td>23 000</td><td colspan="2">25 500</td><td>4,55</td></tr>
-<tr><td>25 500</td><td colspan="2">28 000</td><td>4,65</td></tr>
-<tr><td>28 000</td><td colspan="2">30 500</td><td>4,75</td></tr>
-<tr><td>30 500</td><td colspan="2">33 000</td><td>4,85</td></tr>
-<tr><td>33 000</td><td colspan="2">35 500</td><td>5,05</td></tr>
-<tr><td>35 500</td><td colspan="2">38 000</td><td>5,25</td></tr>
-<tr><td>38 000</td><td colspan="2">40 500</td><td>5,45</td></tr>
-<tr><td>40 500</td><td colspan="2">43 000</td><td>5,65</td></tr>
-<tr><td>43 000</td><td colspan="2">45 500</td><td>5,85</td></tr>
-<tr><td>45 500</td><td colspan="2">48 000</td><td>6,05</td></tr>
-<tr><td>48 000</td><td colspan="2">50 500</td><td>6,35</td></tr>
-<tr><td>50 500</td><td colspan="2">53 000</td><td>6,65</td></tr>
-<tr><td>53 000</td><td colspan="2">55 500</td><td>6,95</td></tr>
-<tr><td>55 500</td><td colspan="2">58 000</td><td>7,25</td></tr>
-<tr><td>58 000</td><td colspan="2">60 500</td><td>7,55</td></tr>
+<tr><td>10 300</td><td colspan="2">17 700</td><td>4,35</td></tr>
+<tr><td>17 700</td><td colspan="2">24 000</td><td>4,45</td></tr>
+<tr><td>24 000</td><td colspan="2">26 500</td><td>4,55</td></tr>
+<tr><td>26 500</td><td colspan="2">29 000</td><td>4,65</td></tr>
+<tr><td>29 000</td><td colspan="2">31 500</td><td>4,75</td></tr>
+<tr><td>31 500</td><td colspan="2">34 000</td><td>4,85</td></tr>
+<tr><td>34 000</td><td colspan="2">36 500</td><td>5,05</td></tr>
+<tr><td>36 500</td><td colspan="2">39 000</td><td>5,25</td></tr>
+<tr><td>39 000</td><td colspan="2">41 500</td><td>5,45</td></tr>
+<tr><td>41 500</td><td colspan="2">44 000</td><td>5,65</td></tr>
+<tr><td>44 000</td><td colspan="2">46 500</td><td>5,85</td></tr>
+<tr><td>46 500</td><td colspan="2">49 000</td><td>6,05</td></tr>
+<tr><td>49 000</td><td colspan="2">51 500</td><td>6,35</td></tr>
+<tr><td>51 500</td><td colspan="2">54 000</td><td>6,65</td></tr>
+<tr><td>54 000</td><td colspan="2">56 500</td><td>6,95</td></tr>
+<tr><td>56 500</td><td colspan="2">59 000</td><td>7,25</td></tr>
+<tr><td>59 000</td><td colspan="2">61 500</td><td>7,55</td></tr>
 </table>
 
-<sup>2</sup> Si le revenu à prendre en compte en vertu de l’art. 6<sup>quater</sup> est inférieur à 10 100 francs, l’assuré doit acquitter une cotisation de 4,35 %, mais au plus la cotisation minimale.
+<sup>2</sup> Si le revenu à prendre en compte en vertu de l’art. 6<sup>quater</sup> est inférieur à 10 300 francs, l’assuré doit acquitter une cotisation de 4,35 %, mais au plus la cotisation minimale.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 
 ### 2. Fixation et détermination des cotisations
 
@@ -691,15 +681,15 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Détermination des cotisations**[^28-1]
 
-<sup>1</sup> Les cotisations des personnes sans activité lucrative, pour lesquelles la cotisation minimale de 435 francs par année (art. 10, al. 2, LAVS) n’est pas prévue, sont déterminées sur la base de leur fortune et du revenu qu’elles tirent des rentes. Les rentes versées en application des art. 36 et 39 LAI[^28-2] ne font pas partie du revenu sous forme de rente. Les cotisations se calculent comme suit:
+<sup>1</sup> Les cotisations des personnes sans activité lucrative, pour lesquelles la cotisation minimale de 444 francs par année (art. 10, al. 2, LAVS) n’est pas prévue, sont déterminées sur la base de leur fortune et du revenu qu’elles tirent des rentes. Les rentes versées en application des art. 36 et 39 LAI[^28-2] ne font pas partie du revenu sous forme de rente. Les cotisations se calculent comme suit:
 
 <table>
 <tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20</th><th>Cotisation annuelle</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20</th></tr>
 <tr><th colspan="2">fr.</th><th>fr.</th><th>fr.</th></tr>
-<tr><td>moins de</td><td>350 000</td><td>435</td><td>–</td></tr>
-<tr><td>dès</td><td>350 000</td><td>522</td><td>87</td></tr>
-<tr><td>dès</td><td>1 750 000</td><td>2958</td><td>130.50</td></tr>
-<tr><td>dès</td><td>8 950 000</td><td>21 750</td><td>– .[^28-3]</td></tr>
+<tr><td>moins de</td><td>360 000</td><td>444</td><td>–</td></tr>
+<tr><td>dès</td><td>360 000</td><td>539.40</td><td>87</td></tr>
+<tr><td>dès</td><td>1 760 000</td><td>2975.40</td><td>130.50</td></tr>
+<tr><td>dès</td><td>9 160 000</td><td>22 200</td><td>–.[^28-3]</td></tr>
 </table>
 
 <sup>2</sup> Si une personne n’exerçant aucune activité lucrative dispose à la fois d’une fortune et d’un revenu sous forme de rente, le montant de la rente annuelle multiplié par 20 est ajouté à la fortune.
@@ -715,14 +705,14 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 <sup>6</sup> Les personnes sans activité lucrative qui perçoivent des prestations en vertu de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI[^28-8] ou en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^28-9] paient la cotisation minimum.[^28-10]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
-[^28-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^28-3]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
+[^28-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^28-3]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^28-4]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 [^28-5]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nouvelle teneur selon le ch. I de l’O du 20 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)).
 [^28-6]: Introduit par le ch. I de l’O du 20 sept. 2002 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Abrogé par le ch. I de l’O du 19 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
 [^28-7]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^28-8]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^28-9]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^28-8]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^28-9]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 [^28-10]: Introduit par le ch. I de l’O du 24 sept. 2010 ([RO 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 
 #### Art. 28<sup>bis</sup>
@@ -755,7 +745,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)).
-[^29-3]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^29-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^29-4]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)).
 [^29-5]: Introduit par le ch. I de l’O du 26 sept. 2008 ([RO 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)). Nouvelle teneur selon le ch. I de l’O du 24 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
@@ -852,7 +842,7 @@ Ne sont pas tenus de payer des cotisations en tant qu’employeurs:
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^33-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 7 décembre 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^33-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^33-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^33-4]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 7 décembre 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 ### E. Perception des cotisations
@@ -885,7 +875,7 @@ Les cotisations seront payées à la caisse:
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^34-2]: Introduite par l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^34-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^34-3]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^34-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^34-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
@@ -920,7 +910,7 @@ Les cotisations seront payées à la caisse:
 <sup>2</sup> Si une partie seulement des créances doit être déclarée irrécouvrable, le montant recouvré couvrira, après les frais de poursuite éventuels, d’abord les cotisations des salariés, puis, proportionnellement, les autres créances de cotisations rangées dans la deuxième classe selon l’art. 219 de la loi fédérale du 11 avril 1889 sur la poursuite pour dette et la faillite (LP)[^34c-2].[^34c-3]
 
 [^34c-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
-[^34c-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^34c-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^34c-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2824](https://fedlex.data.admin.ch/eli/oc/2000/478)).
 
 ### II. Cotisations paritaires
@@ -971,7 +961,7 @@ Doivent être versées dans tous les cas:
 <sup>4</sup> Dans la procédure simplifiée prévue aux art. 2 et 3 LTN[^35-2], les employeurs ne versent pas d’acomptes de cotisations.[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
-[^35-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^35-2]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^35-3]: Introduit par l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 36
@@ -1080,7 +1070,7 @@ Doivent payer des intérêts moratoires:
 
 [^41bis-1]: Introduit par le ch. I de l’O du 5 avr. 1978 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 [^41bis-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^41bis-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^41bis-3]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^41bis-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^41bis-5]: Introduite par le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
 [^41bis-6]: Introduit par le ch. I 1 de l’O du 20 mars 2020 sur les mesures en lien avec le coronavirus (COVID-19) concernant l’indemnité en cas de réduction de l’horaire de travail et le décompte des cotisations aux assurances sociales, en vigueur du 21 mars au 20 sept. 2020 ([RO 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
@@ -1125,7 +1115,7 @@ Doivent payer des intérêts moratoires:
 En cas de décès d’une personne tenue au paiement des cotisations, ses héritiers répondent solidairement des cotisations dues par elle de son vivant. Les art. 566, 589 et 593 du code civil suisse[^43-2] sont réservés.
 
 [^43-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mars 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
-[^43-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^43-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ## Chapitre III Les rentes et l’allocation pour impotent
 
@@ -1688,17 +1678,16 @@ Lorsque la personne décédée a accompli l’âge indiqué ci-dessous, l’augm
 
 ### C. Rentes extraordinaires
 
-[^chap3-lvlC-1]
+[^chap3-lvlC-1][^chap3-lvlC-2]
 
-[^chap3-lvlC-1]: Anciennement avant art. 56.
+[^chap3-lvlC-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^chap3-lvlC-2]: Anciennement avant art. 56.
 
 #### Art. 55
 
-**Réduction des rentes extraordinaires pour enfants et des rentes extraordinaires d’orphelins**[^55-1]
+**Réduction des rentes extraordinaires pour enfants et des rentes extraordinaires d’orphelins**
 
 La réduction des rentes extraordinaires pour enfants et des rentes extraordinaires d’orphelins (art. 43, al. 3, LAVS) s’effectue conformément à l’art. 54<sup>bis</sup>, al. 2 et 3. Les montants mensuels des rentes réduites seront arrondis au franc supérieur ou inférieur conformément à l’art. 53, al. 2.
-
-[^55-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
 ### D. La flexibilisation de la retraite
 
@@ -1814,12 +1803,13 @@ La réduction des rentes extraordinaires pour enfants et des rentes extraordinai
 
 <sup>2</sup> L’assuré doit restituer la rente de vieillesse anticipée perçue entre la naissance du droit à la rente d’invalidité et la renonciation à l’anticipation. Le montant à restituer peut être déduit de la rente d’invalidité versée rétroactivement.
 
-<sup>3</sup> L’assuré peut révoquer l’anticipation de sa rente de vieillesse si la perception anticipée d’une partie ou de la totalité de celle-ci débute entre le moment où l’assuré s’annonce auprès de l’assurance-invalidité et celui où la rente d’invalidité lui est octroyée. La révocation prend effet dès le début de l’anticipation.
+<sup>3</sup> L’assuré peut révoquer l’anticipation de sa rente de vieillesse si la demande de perception anticipée d’une partie ou de la totalité de celle-ci est déposée entre le moment où il s’annonce auprès de l’assurance-invalidité et celui où la rente d’invalidité lui est octroyée. La révocation prend effet dès le début de l’anticipation.[^56ter-3]
 
 <sup>4</sup> En cas de révocation, l’assuré doit restituer la rente de vieillesse perçue de manière anticipée. Le montant à restituer peut être déduit de la rente d’invalidité versée rétroactivement.
 
 [^56ter-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^56ter-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^56ter-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^56ter-3]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 
 #### Art. 56<sup>quater</sup>
 
@@ -1939,7 +1929,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 <sup>3</sup> Est considérée comme home au sens de l’art. 43<sup>bis</sup>, al. 1<sup>bis</sup>, LAVS toute institution qui est reconnue comme tel par un canton ou qui dispose d’une autorisation cantonale d’exploiter en tant que tel.[^66bis-5]
 
 [^66bis-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^66bis-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^66bis-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^66bis-3]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3523](https://fedlex.data.admin.ch/eli/oc/2009/433)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 1).
 [^66bis-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^66bis-5]: Introduit par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3523](https://fedlex.data.admin.ch/eli/oc/2009/433)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 1).
@@ -1953,7 +1943,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 <sup>2</sup> Les art. 14<sup>bis</sup> et 14<sup>ter</sup> RAI[^66ter-2] sont applicables par analogie.[^66ter-3]
 
 [^66ter-1]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
-[^66ter-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^66ter-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^66ter-3]: Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6483](https://fedlex.data.admin.ch/eli/oc/2008/882)).
 
 ### G. Le rapport avec l’allocation pour impotent de l’assurance‑accidents
@@ -1995,7 +1985,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 [^67-1]: Nouvelle teneur selon l’art. 143 de l’O du 20 déc. 1982 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
 [^67-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^67-3]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^67-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^67-4]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^67-5]: Anciennement al. 1<sup>bis</sup>. Introduit par le ch. I de l’O du 29 juin 1983, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 903](https://fedlex.data.admin.ch/eli/oc/1983/903_903_903)).
 [^67-6]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^67-7]: Nouvelle teneur selon le ch. I de l’ACF du 19 nov. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
@@ -2055,7 +2045,7 @@ La décision de rente doit être notifiée aux parties, en particulier:[^68-3]
 Les art. 69 à 72<sup>bis</sup> RAI[^69ter-2] sont applicables par analogie.
 
 [^69ter-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^69ter-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^69ter-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 #### Art. 69<sup>quater</sup>
 
@@ -2066,7 +2056,7 @@ Les art. 69 à 72<sup>bis</sup> RAI[^69ter-2] sont applicables par analogie.
 <sup>2</sup> Les art. 74<sup>ter</sup>, al. 1, let. f, et 74<sup>quater</sup>, RAI[^69quater-2] sont applicables par analogie.
 
 [^69quater-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nouvelle teneur selon le ch. II de l’O du 15 juin 1992, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)).
-[^69quater-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^69quater-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 #### Art. 69<sup>quinquies</sup>
 
@@ -2259,8 +2249,8 @@ Les art. 77 et 79<sup>bis</sup> sont applicables par analogie aux allocations po
 
 <sup>3</sup> Sont considérées comme associations interprofessionnelles régionales les associations qui, tant selon leurs statuts qu’en fait, englobent des employeurs et des personnes de condition indépendante de plusieurs professions et qui s’étendent au moins à l’ensemble du territoire d’un canton ou à l’ensemble d’une région linguistique d’un canton.
 
-[^83-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^83-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^83-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 84
 
@@ -2308,7 +2298,7 @@ Une association dont la décision de créer une caisse de compensation est attaq
 À moins que le présent règlement n’en dispose autrement, les prescriptions de l’ordonnance du 4 janvier 1938 sur la constitution de sûretés en faveur de la Confédération[^92-2] sont applicables.
 
 [^92-1]: Nouvelle teneur selon le ch. I de l’ACF du 10 mai 1957, en vigueur depuis le 1<sup>er</sup> janv. 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
-[^92-2]: [RS **6** 31. [RO 1957 509](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527)art. 22 al. 2]. Voir actuellement l’O du 5 avr. 2006 sur les finances de la Confédération ([RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)).
+[^92-2]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)31. [RO 1957 509](https://fedlex.data.admin.ch/eli/oc/1957/509_509_527)art. 22 al. 2]. Voir actuellement l’O du 5 avr. 2006 sur les finances de la Confédération ([RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)).
 
 #### Art. 93
 
@@ -2318,7 +2308,7 @@ Une association dont la décision de créer une caisse de compensation est attaq
 
 <sup>2</sup> …[^93-2]
 
-[^93-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^93-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^93-2]: Abrogé par le ch. I de l’ACF du 10 mai 1957, avec effet au 1<sup>er</sup> janv. 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
 
 #### Art. 94
@@ -2345,8 +2335,8 @@ Une association dont la décision de créer une caisse de compensation est attaq
 <sup>3</sup> Les dispositions du CO[^95-3] relatives au cautionnement, et particulièrement aux cautionnements envers la Confédération, sont applicables.
 
 [^95-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
-[^95-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^95-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^95-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^95-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 96
 
@@ -2458,8 +2448,8 @@ Le règlement de la caisse doit être remis[^100-2] à l’OFAS qui est compéte
 
 <sup>4</sup> …[^105-5]
 
-[^105-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^105-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^105-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^105-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^105-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^105-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^105-5]: Abrogé par le ch. I de l’O du 22 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
@@ -2652,7 +2642,7 @@ Sont affiliés à la Caisse de compensation fédérale l’administration fédé
 
 <sup>3</sup> La compétence de la caisse de compensation de la Confédération est réservée dans tous les cas.
 
-[^120-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839). Nouvelle dénomination selon le ch. I de l’O du 27 mai 1981, en vigueur depuis le 1<sup>er</sup> juil.1981 ([RO 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)).
+[^120-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273). Nouvelle dénomination selon le ch. I de l’O du 27 mai 1981, en vigueur depuis le 1<sup>er</sup> juil.1981 ([RO 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)).
 [^120-2]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
 #### Art. 121
@@ -2707,14 +2697,15 @@ La caisse de compensation du canton de domicile du requérant est compétente po
 
 Un changement de la caisse de compensation compétente pour servir les rentes n’a lieu que:
 
-- a. si l’employeur qui sert la rente est affilié à une autre caisse;
+- a.[^125-2] …
 - b. si le bénéficiaire transfère son domicile de Suisse à l’étranger ou de l’étranger en Suisse;
-- c. si le bénéficiaire d’une rente extraordinaire[^125-2], versée par une caisse de compensation cantonale, transfère son domicile dans un autre canton;
-- d.[^125-3] si un ayant droit bénéficie du versement régulier de prestations complémentaires et si l’OFAS a autorisé les caisses de compensation concernées à procéder au changement.
+- c.[^125-3] …
+- d.[^125-4] si un ayant droit bénéficie du versement régulier de prestations complémentaires et si l’OFAS a autorisé les caisses de compensation concernées à procéder au changement.
 
 [^125-1]: Nouvelle teneur selon le ch. I de l’ACF du 10 mai 1957, en vigueur depuis le 1<sup>er</sup> janv. 1957 ([RO 1957 407](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)). Voir le ch. II, al. 2 des disp. fin. mod. 13 sept. 1995 à la fin du texte.
-[^125-2]: Nouvelle dénomination selon le ch. II de l’ACF du 5 fév. 1960, en vigueur depuis le 1<sup>er</sup> janv. 1960 ([RO 1960 247](https://fedlex.data.admin.ch/eli/oc/1960/235_247_242)).
-[^125-3]: Introduite par le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
+[^125-2]: Abrogée par le ch. I de l’O du 2 oct. 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
+[^125-3]: Abrogée par le ch. I de l’O du 2 oct. 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
+[^125-4]: Introduite par le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
 #### Art. 125<sup>bis</sup>
 
@@ -2843,7 +2834,7 @@ Les cantons et les associations fondatrices peuvent déléguer aux caisses de co
 <sup>2</sup> Si de tels renseignements nécessitent des recherches spéciales ou d’autres travaux qui entraînent des frais, un émolument peut être perçu en appliquant par analogie l’art. 16 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^132ter-2].
 
 [^132ter-1]: Introduit par le ch. I de l’O du 7 juil. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
-[^132ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^132ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 132<sup>quater</sup>
 
@@ -2970,7 +2961,7 @@ La CdC peut demander les indications suivantes:
 
 [^133bis-1]: Introduit par le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 [^133bis-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^133bis-3]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^133bis-3]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^133bis-4]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 [^133bis-5]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 [^133bis-6]: Introduite par le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
@@ -3185,7 +3176,7 @@ L’inscription contient:[^140-2]
 
 <sup>5</sup> La CdC est autorisée à saisir toutes les données dans le système d’information. Les caisses de compensation et les offices AI ne sont autorisés à saisir que les données relevant de leur domaine de compétence.
 
-[^141bis-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^141bis-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 141<sup>ter</sup>
 
@@ -3257,7 +3248,7 @@ Le système d’information dans le domaine de l’assujettissement à l’assur
 
 <sup>2</sup> Les signalements visés à l’al. 1 ne remplacent pas les signalements de violations de la sécurité des données au Préposé fédéral à la protection des données et à la transparence prévues par la loi du 25 septembre 2020 sur la protection des données[^141septies-1] ou aux autorités cantonales de protection des données conformément aux lois cantonales sur la protection des données.
 
-[^141septies-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^141septies-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ### J. Le règlement des paiements et des comptes
 
@@ -3291,7 +3282,7 @@ Le système d’information dans le domaine de l’assujettissement à l’assur
 [^143-2]: Nouvelle teneur selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 [^143-3]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 [^143-4]: Introduit par le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
-[^143-5]: [RS 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
+[^143-5]: [RS 642.115.325.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8183)
 [^143-6]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
 #### Art. 144
@@ -3461,9 +3452,9 @@ Le fonds de compensation de l’assurance-vieillesse et survivants verse aux cai
 <sup>2</sup> L’OFAS est chargé de l’exécution et du contrôle.[^158bis-5]
 
 [^158bis-1]: Introduit par le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
-[^158bis-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^158bis-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^158bis-3]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750); [2024 707](https://fedlex.data.admin.ch/eli/oc/2024/707)).
-[^158bis-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^158bis-4]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^158bis-5]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5077](https://fedlex.data.admin.ch/eli/oc/2018/789)).
 
 ### L. La révision des caisses et le contrôle des employeurs
@@ -3572,7 +3563,7 @@ Trois révisions au sens de l’art. 68*a* LAVS sont effectuées annuellement da
 Les exigences prévues à l’art. 68, al. 4, LAVS sont fixées aux art. 11*n* à 11*q* de l’ordonnance du 22 août 2007 sur la surveillance de la révision[^164-2].
 
 [^164-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^164-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^164-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 #### Art. 165 à 168
 
@@ -3644,15 +3635,15 @@ Les exigences prévues à l’art. 68, al. 4, LAVS sont fixées aux art. 11*n* �
 
 <sup>1</sup>
 
-La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133<sup>bis</sup>, 134<sup>ter</sup> à 134<sup>quinquies</sup>, 149, 154 et 171 du présent règlement:[^174-1]
+La CdC doit, en sus des tâches mentionnées aux art. 71, 93 et 93<sup>bis</sup> LAVS et aux art. 133<sup>bis</sup>, 134<sup>ter</sup> à 134<sup>quinquies</sup>, 149, 154 et 171 du présent règlement:[^174-1]
 
 - a.[^174-2] …
 - b.[^174-3] …
 - c.[^174-4] rassembler les comptes individuels d’un assuré lorsque survient l’événement assuré;
 - d.[^174-5] extraire des annonces faites conformément à l’art. 140, al. 2, ainsi que du registre des prestations courantes en espèces les renseignements que lui demande l’OFAS;
-- e.[^174-6] communiquer aux caisses de compensation les dates de décès inscrites dans le registre des assurés, si elles concernent des bénéficiaires de prestations dont les noms figurent au registre des prestations courantes en espèces;
+- e.[^174-6] …
 - f.[^174-7] gérer un registre central de tous les bénéficiaires de prestations complémentaires qui ne touchent pas de rente de l’AVS ou de l’AI;
-- g.[^174-8] effectuer la comparaison des données conformément à l’art. 93 LAVS;
+- g.[^174-8] …
 - h.[^174-9] gérer le service de pseudonymisation visé à l’art. 31, al. 1, let. c, de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^174-10];
 - i.[^174-11] concernant les registres qu’elle exploite, garantir la protection des données et la sécurité des données conformément à la législation fédérale sur la protection des données[^174-12], à l’ordonnance du 27 mai 2020 sur les cyberrisques[^174-13] et aux directives du Conseil fédéral du 16 janvier 2019 concernant la sécurité informatique dans l’administration fédérale[^174-14];
 - j.[^174-15] conserver les données susceptibles de donner le droit aux prestations d’assurance dix ans à compter de l’extinction du dernier droit à une prestation; au terme de cette période, les données seront détruites s’il est certain qu’elles ne seront plus nécessaires pour des prestations octroyées ultérieurement; l’OFAS fixe les modalités.
@@ -3663,19 +3654,19 @@ La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133
 
 <sup>3</sup> La CdC établit chaque année, à l’intention de l’OFAS, un rapport détaillé sur l’exécution des tâches qui lui incombent en vertu de l’al. 1.
 
-[^174-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^174-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^174-2]: Abrogée par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^174-3]: Abrogée par le ch. I de l’O du 22 nov. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
 [^174-4]: Nouvelle teneur selon le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^174-5]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^174-6]: Introduite par le ch. I de l’O du 18 oct. 1974 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^174-6]: Introduite par le ch. I de l’O du 18 oct. 1974 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Abrogée par le ch. I de l’O du 2 oct. 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^174-7]: Introduite par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^174-8]: Introduite par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-8]: Introduite par le ch. I de l’O du 20 nov. 2013 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)). Abrogée par le ch. I de l’O du 2 oct. 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 541](https://fedlex.data.admin.ch/eli/oc/2026/541)).
 [^174-9]: Introduite par l’annexe 2 ch. 2 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
-[^174-10]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^174-10]: [RS 818.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9832)
 [^174-11]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^174-12]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^174-13]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^174-12]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993); [235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^174-13]: [RS 120.73](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4757)
 [^174-14]: [FF 2019 1283](https://fedlex.data.admin.ch/eli/fga/2019/278)
 [^174-15]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 [^174-16]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
@@ -3879,7 +3870,7 @@ L’OFAS statue par une décision sur les litiges concernant la communication de
 <sup>3</sup> L’émolument peut être réduit ou remis si la personne assujettie est dans la gêne ou pour d’autres justes motifs.
 
 [^209ter-1]: Introduit par le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
-[^209ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^209ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 209<sup>quater</sup>
 
@@ -3936,7 +3927,7 @@ Les assureurs-accidents et l’assurance militaire visés à l’art. 50*b*, al.
 <sup>3</sup> Le montant à prélever dans le Fonds de compensation de l’assurance-vieillesse et survivants est soumis à l’approbation du DFI en cas d’augmentation du montant du subside forfaitaire visé à l’al. 2.[^211ter-3]
 
 [^211ter-1]: Introduit par l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^211ter-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^211ter-2]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^211ter-3]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
 #### Art. 211<sup>quater</sup>
@@ -3948,7 +3939,7 @@ Les assureurs-accidents et l’assurance militaire visés à l’art. 50*b*, al.
 <sup>2</sup> L’OFAS est chargé de l’exécution et du contrôle.
 
 [^211quater-1]: Introduit par le ch. I de l’O du 30 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
-[^211quater-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^211quater-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^211quater-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 211<sup>quinquies</sup>
@@ -4056,9 +4047,9 @@ Ont droit aux aides financières au sens de l’art. 3, al. 1, de la loi du 5 oc
 <sup>3</sup> L’assurance participe aux aides financières de l’assurance-invalidité allouées aux organisations de l’aide privée aux invalides au sens des art. 108 à 110 RAI[^222-4], pour autant que ces organisations fournissent dans une large mesure des prestations dans l’intérêt de personnes qui n’ont été atteintes dans leur santé qu’après l’âge de référence fixé à l’art. 21, al. 1, LAVS. Le montant de la participation de l’assurance est établi en fonction des prestations effectivement fournies à ce groupe de personnes.[^222-5]
 
 [^222-1]: Nouvelle teneur selon le ch. I 16 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Voir aussi la disp. fin. mod. 7 nov. 2007 à la fin du texte.
-[^222-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^222-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 [^222-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^222-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^222-4]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 [^222-5]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 223
@@ -4261,11 +4252,11 @@ d. Versement de la rente par l’employeur
 - d. le régime des allocations pour perte de gain au sens de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^u9-5];
 - e. le régime des allocations familiales dans l’agriculture au sens de la LFA[^u9-6].
 
-[^u9-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^u9-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^u9-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^u9-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^u9-4]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 5 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV. [RO 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]
-[^u9-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^u9-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^u9-5]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^u9-6]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ## Disposition finale de la modification du 7 novembre 2007
 
@@ -4298,4 +4289,4 @@ Les art. 222 à 225 ne s’appliquent qu’aux cours de formation et de formatio
 
 Pour les obligations des employeurs en matière d’attestations de participation selon l’art. 143, al. 3, l’art. 18 (disposition transitoire) de l’ordonnance du 27 juin 2012 sur les participations de collaborateur[^u12-2] est applicable par analogie.
 
-[^u12-2]: [RS 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
+[^u12-2]: [RS 642.115.325.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8183)
