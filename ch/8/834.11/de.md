@@ -4,11 +4,11 @@ title: Erwerbsersatzverordnung vom 24. November 2004 (EOV)
 short: EOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: de
-version: 2026-06-01
+version: 2027-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20260601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20260601/de"
 
 (EOV)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Juni 2026)
+vom 24. November 2004 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
@@ -412,7 +412,9 @@ Die ZAS trifft die für die Datensicherheit erforderlichen organisatorischen und
 
 <sup>1</sup> Die Daten werden nach Ende des Dienstes der zu einer Entschädigung berechtigt, während fünf Jahren im Informationssystem aufbewahrt.
 
-<sup>2</sup> Die eingereichten Belege werden gelöscht, sobald die dienstleistende Person die Anmeldung freigegeben hat.
+<sup>2</sup> Die eingereichten Belege werden gelöscht, sobald die zuständige Ausgleichskasse die Anmeldung bearbeitet hat.[^19e-1]
+
+[^19e-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 548](https://fedlex.data.admin.ch/eli/oc/2026/548)).
 
 #### Art. 19f
 
@@ -1035,28 +1037,28 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 <table>
 <tr><th colspan="2">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozent des Erwerbseinkommens</th></tr>
 <tr><th>von mindestens</th><th colspan="2">aber weniger als</th><th></th></tr>
-<tr><td>10 100</td><td colspan="2">17 600</td><td>0,269</td></tr>
-<tr><td>17 600</td><td colspan="2">23 000</td><td>0,275</td></tr>
-<tr><td>23 000</td><td colspan="2">25 500</td><td>0,281</td></tr>
-<tr><td>25 500</td><td colspan="2">28 000</td><td>0,287</td></tr>
-<tr><td>28 000</td><td colspan="2">30 500</td><td>0,293</td></tr>
-<tr><td>30 500</td><td colspan="2">33 000</td><td>0,299</td></tr>
-<tr><td>33 000</td><td colspan="2">35 500</td><td>0,312</td></tr>
-<tr><td>35 500</td><td colspan="2">38 000</td><td>0,324</td></tr>
-<tr><td>38 000</td><td colspan="2">40 500</td><td>0,336</td></tr>
-<tr><td>40 500</td><td colspan="2">43 000</td><td>0,349</td></tr>
-<tr><td>43 000</td><td colspan="2">45 500</td><td>0,361</td></tr>
-<tr><td>45 500</td><td colspan="2">48 000</td><td>0,373</td></tr>
-<tr><td>48 000</td><td colspan="2">50 500</td><td>0,392</td></tr>
-<tr><td>50 500</td><td colspan="2">53 000</td><td>0,410</td></tr>
-<tr><td>53 000</td><td colspan="2">55 500</td><td>0,429</td></tr>
-<tr><td>55 500</td><td colspan="2">58 000</td><td>0,448</td></tr>
-<tr><td>58 000</td><td colspan="2">60 500</td><td>0,466</td></tr>
+<tr><td>10 300</td><td colspan="2">17 700</td><td>0,269</td></tr>
+<tr><td>17 700</td><td colspan="2">24 000</td><td>0,275</td></tr>
+<tr><td>24 000</td><td colspan="2">26 500</td><td>0,281</td></tr>
+<tr><td>26 500</td><td colspan="2">29 000</td><td>0,287</td></tr>
+<tr><td>29 000</td><td colspan="2">31 500</td><td>0,293</td></tr>
+<tr><td>31 500</td><td colspan="2">34 000</td><td>0,299</td></tr>
+<tr><td>34 000</td><td colspan="2">36 500</td><td>0,312</td></tr>
+<tr><td>36 500</td><td colspan="2">39 000</td><td>0,324</td></tr>
+<tr><td>39 000</td><td colspan="2">41 500</td><td>0,336</td></tr>
+<tr><td>41 500</td><td colspan="2">44 000</td><td>0,349</td></tr>
+<tr><td>44 000</td><td colspan="2">46 500</td><td>0,361</td></tr>
+<tr><td>46 500</td><td colspan="2">49 000</td><td>0,373</td></tr>
+<tr><td>49 000</td><td colspan="2">51 500</td><td>0,392</td></tr>
+<tr><td>51 500</td><td colspan="2">54 000</td><td>0,410</td></tr>
+<tr><td>54 000</td><td colspan="2">56 500</td><td>0,429</td></tr>
+<tr><td>56 500</td><td colspan="2">59 000</td><td>0,448</td></tr>
+<tr><td>59 000</td><td colspan="2">61 500</td><td>0,466</td></tr>
 </table>
 
-<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 25–1250 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
+<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 26–1300 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^36-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 548](https://fedlex.data.admin.ch/eli/oc/2026/548)).
 [^36-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 37

@@ -4,11 +4,11 @@ title: Ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OA
 short: OAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: fr
-version: 2026-06-01
+version: 2027-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20260601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20260601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20260601/fr"
 
 (OAPG)[^t-1]
 
-du 24 novembre 2004 (État le 1<sup>er</sup> juin 2026)
+du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
@@ -411,7 +411,9 @@ La CdC prend les mesures organisationnelles et techniques nécessaires pour séc
 
 <sup>1</sup> Les données sont conservées dans le système d’information pendant cinq ans à compter de la fin du service donnant droit aux allocations.
 
-<sup>2</sup> Les pièces jointes à la demande sont supprimées une fois que la personne qui effectue un service a validé la demande d’allocation.
+<sup>2</sup> Les pièces jointes à la demande sont supprimées après que la caisse de compensation compétente a traité la demande.[^19e-1]
+
+[^19e-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 548](https://fedlex.data.admin.ch/eli/oc/2026/548)).
 
 #### Art. 19f
 
@@ -1034,28 +1036,28 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 <table>
 <tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour cent du revenu</th></tr>
 <tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
-<tr><td>10 100</td><td colspan="2">17 600</td><td>0,269</td></tr>
-<tr><td>17 600</td><td colspan="2">23 000</td><td>0,275</td></tr>
-<tr><td>23 000</td><td colspan="2">25 500</td><td>0,281</td></tr>
-<tr><td>25 500</td><td colspan="2">28 000</td><td>0,287</td></tr>
-<tr><td>28 000</td><td colspan="2">30 500</td><td>0,293</td></tr>
-<tr><td>30 500</td><td colspan="2">33 000</td><td>0,299</td></tr>
-<tr><td>33 000</td><td colspan="2">35 500</td><td>0,312</td></tr>
-<tr><td>35 500</td><td colspan="2">38 000</td><td>0,324</td></tr>
-<tr><td>38 000</td><td colspan="2">40 500</td><td>0,336</td></tr>
-<tr><td>40 500</td><td colspan="2">43 000</td><td>0,349</td></tr>
-<tr><td>43 000</td><td colspan="2">45 500</td><td>0,361</td></tr>
-<tr><td>45 500</td><td colspan="2">48 000</td><td>0,373</td></tr>
-<tr><td>48 000</td><td colspan="2">50 500</td><td>0,392</td></tr>
-<tr><td>50 500</td><td colspan="2">53 000</td><td>0,410</td></tr>
-<tr><td>53 000</td><td colspan="2">55 500</td><td>0,429</td></tr>
-<tr><td>55 500</td><td colspan="2">58 000</td><td>0,448</td></tr>
-<tr><td>58 000</td><td colspan="2">60 500</td><td>0,466</td></tr>
+<tr><td>10 300</td><td colspan="2">17 700</td><td>0,269</td></tr>
+<tr><td>17 700</td><td colspan="2">24 000</td><td>0,275</td></tr>
+<tr><td>24 000</td><td colspan="2">26 500</td><td>0,281</td></tr>
+<tr><td>26 500</td><td colspan="2">29 000</td><td>0,287</td></tr>
+<tr><td>29 000</td><td colspan="2">31 500</td><td>0,293</td></tr>
+<tr><td>31 500</td><td colspan="2">34 000</td><td>0,299</td></tr>
+<tr><td>34 000</td><td colspan="2">36 500</td><td>0,312</td></tr>
+<tr><td>36 500</td><td colspan="2">39 000</td><td>0,324</td></tr>
+<tr><td>39 000</td><td colspan="2">41 500</td><td>0,336</td></tr>
+<tr><td>41 500</td><td colspan="2">44 000</td><td>0,349</td></tr>
+<tr><td>44 000</td><td colspan="2">46 500</td><td>0,361</td></tr>
+<tr><td>46 500</td><td colspan="2">49 000</td><td>0,373</td></tr>
+<tr><td>49 000</td><td colspan="2">51 500</td><td>0,392</td></tr>
+<tr><td>51 500</td><td colspan="2">54 000</td><td>0,410</td></tr>
+<tr><td>54 000</td><td colspan="2">56 500</td><td>0,429</td></tr>
+<tr><td>56 500</td><td colspan="2">59 000</td><td>0,448</td></tr>
+<tr><td>59 000</td><td colspan="2">61 500</td><td>0,466</td></tr>
 </table>
 
-<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 25 à 1250 francs par an. Les art. 28 à 30 RAVS s’appliquent par analogie.
+<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 26 à 1300 francs par an. Les art. 28 à 30 RAVS s’appliquent par analogie.
 
-[^36-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 548](https://fedlex.data.admin.ch/eli/oc/2026/548)).
 [^36-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 37
