@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaft
 short: LwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20260101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20260101/de"
 
 (Landwirtschaftsgesetz, LwG)
 
-vom 29. April 1998 (Stand am 1. Januar 2026)
+vom 29. April 1998 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ nach Einsicht in die Botschaft des Bundesrates vom 26. Juni 1996[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^ingress-3]: [BBl 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)
 
@@ -394,7 +394,7 @@ Eingetragene Ursprungsbezeichnungen und geografische Angaben sind insbesondere g
 [^16-3]: Aufgehoben durch Ziff. I des BG vom 16. Juni 2023, mit Wirkung seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^16-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^16-5]: Eingefügt durch Anhang Ziff. 7 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^16-6]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^16-6]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 [^16-7]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^16-8]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
@@ -449,7 +449,7 @@ Als verboten im Sinne von Absatz 1 gelten Produktionsmethoden, die nicht zuläss
 
 <sup>2</sup> Die Zollansätze für Zucker zuzüglich der Garantiefondsbeiträge (Art. 16 Landesversorgungsgesetz vom 17. Juni 2016[^19-1]) betragen mindestens 7 Franken je 100 kg brutto. Die Bestimmung gilt bis 2026.[^19-2]
 
-[^19-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^19-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
 [^19-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. März 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 
 #### Art. 19a
@@ -505,7 +505,7 @@ Als verboten im Sinne von Absatz 1 gelten Produktionsmethoden, die nicht zuläss
 
 <sup>5</sup> Für zusätzliche Zollkontingente nach Artikel 4 Absatz 3 Buchstabe c des Zolltarifgesetzes vom 9. Oktober 1986 gelten die Vorschriften dieses Gesetzes sinngemäss.
 
-[^21-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^21-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
 #### Art. 22
 
@@ -564,8 +564,8 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 - a. Artikel 1 des Bundesgesetzes vom 25. Juni 1982[^24-2] über aussenwirtschaftliche Massnahmen; sowie
 - b. Artikel 7 des Zolltarifgesetzes vom 9. Oktober 1986.
 
-[^24-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
-[^24-2]: [SR 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
+[^24-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^24-2]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 25
 
@@ -929,7 +929,7 @@ Der Bund kann Einzelkulturbeiträge ausrichten, um:
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^54-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. März 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
-[^54-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^54-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 55
 
@@ -1106,7 +1106,8 @@ Direktzahlungen werden ausgerichtet, wenn:
 - e. ein Mindestarbeitsaufkommen in Standardarbeitskräften auf dem bewirtschafteten Betrieb erreicht wird;
 - f. ein Mindestanteil der Arbeiten durch betriebseigene Arbeitskräfte verrichtet wird;
 - g. der Bewirtschafter oder die Bewirtschafterin eine bestimmte Altersgrenze nicht überschreitet;
-- h. der Bewirtschafter oder die Bewirtschafterin über eine landwirtschaftliche Ausbildung verfügt.
+- h. der Bewirtschafter oder die Bewirtschafterin über eine landwirtschaftliche Ausbildung verfügt;
+- i.[^70a-1] die Ehefrau, der Ehemann, die eingetragene Partnerin oder der eingetragene Partner des Bewirtschafters oder der Bewirtschafterin, sofern sie oder er regelmässig und in beträchtlichem Masse auf dem Betrieb mitarbeitet, über einen persönlichen Sozialversicherungsschutz verfügt.
 
 <sup>2</sup>
 
@@ -1115,7 +1116,7 @@ Der ökologische Leistungsnachweis umfasst:
 - a. eine artgerechte Haltung der Nutztiere;
 - b. eine ausgeglichene Düngerbilanz;
 - c. einen angemessenen Anteil an Biodiversitätsförderflächen;
-- d. die vorschriftsgemässe Bewirtschaftung von Objekten in Inventaren von nationaler Bedeutung nach dem Bundesgesetz vom 1. Juli 1966[^70a-1] über den Natur- und Heimatschutz;
+- d. die vorschriftsgemässe Bewirtschaftung von Objekten in Inventaren von nationaler Bedeutung nach dem Bundesgesetz vom 1. Juli 1966[^70a-2] über den Natur- und Heimatschutz;
 - e. eine geregelte Fruchtfolge;
 - f. einen geeigneten Bodenschutz;
 - g. eine gezielte Auswahl und Anwendung der Pflanzenschutzmittel.
@@ -1129,13 +1130,16 @@ Der Bundesrat:
 - c. kann die Summe der Direktzahlungen pro Standardarbeitskraft begrenzen;
 - d. kann Ausnahmen von Buchstabe c und von Absatz 1 Buchstabe h festlegen;
 - e. kann für die Biodiversitäts- und für die Landschaftsqualitätsbeiträge Ausnahmen von Absatz 1 Buchstabe a festlegen;
-- f. bestimmt Grenzwerte in Bezug auf die Fläche je Betrieb, ab denen die Beiträge abgestuft oder reduziert werden.
+- f. bestimmt Grenzwerte in Bezug auf die Fläche je Betrieb, ab denen die Beiträge abgestuft oder reduziert werden;
+- g.[^70a-3] konkretisiert den Sozialversicherungsschutz nach Absatz 1 Buchstabe i.
 
 <sup>4</sup> Der Bundesrat kann für die Ausrichtung der Direktzahlungen weitere Voraussetzungen und Auflagen festlegen.
 
 <sup>5</sup> Er legt die Flächen fest, für die Beiträge ausgerichtet werden.
 
-[^70a-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^70a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2027 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^70a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^70a-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2027 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 70b
 
@@ -1181,7 +1185,7 @@ Zur Erhaltung einer sicheren Versorgung der Bevölkerung mit Nahrungsmitteln wer
 
 <sup>3</sup> Versorgungssicherheitsbeiträge können auch für Flächen im ausländischen Gebiet der Grenzzone nach Artikel 43 Absatz 2 des Zollgesetzes vom 18. März 2005[^72-1] ausgerichtet werden.
 
-[^72-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^72-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 73
 
@@ -1252,7 +1256,7 @@ Der Bundesrat legt fest:
 - b. die Modalitäten im Falle von Betriebsübergaben und grösseren strukturellen Veränderungen;
 - c. Grenzwerte in Bezug auf das steuerbare Einkommen und Vermögen der Bewirtschafter und Bewirtschafterinnen, ab denen die Beiträge gekürzt werden oder keine Beiträge ausgerichtet werden, wobei er für verheiratete Bewirtschafter und Bewirtschafterinnen höhere Grenzwerte festlegt.
 
-[^77-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^77-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 ## Titel 3*a*: Nachhaltige Nutzung natürlicher Ressourcen
 
@@ -1281,8 +1285,8 @@ Beiträge werden der verantwortlichen Trägerschaft gewährt, wenn:
 
 <sup>2</sup> Gewährt der Bund für die gleiche Leistung auf derselben Fläche gleichzeitig Beiträge oder Abgeltungen nach diesem Gesetz, nach dem Bundesgesetz vom 1. Juli 1966[^77b-1] über den Natur- und Heimatschutz oder Abgeltungen nach dem Gewässerschutzgesetz vom 24. Januar 1991[^77b-2], so werden diese Beiträge oder Abgeltungen von den anrechenbaren Kosten abgezogen.
 
-[^77b-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^77b-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^77b-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^77b-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 ## 4. Titel: Betriebliches Risikomanagement
 
@@ -1555,7 +1559,7 @@ Der Bundesrat kann ein niedrigeres Arbeitsaufkommen festlegen, als nach Absatz 1
 [^89-5]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^89-6]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^89-7]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^89-8]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^89-8]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^89-9]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^89-10]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
@@ -1716,7 +1720,7 @@ Die kantonale Regierung kann Landumlegungen anordnen, wo Interessen der Landwirt
 
 <sup>4</sup> Der Kanton ordnet das weitere Verfahren.
 
-[^101-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^101-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### 3. Abschnitt: Sicherung der Strukturverbesserungen
 
@@ -2264,13 +2268,13 @@ Um die Einschleppung und die Ausbreitung von besonders gefährlichen Schadorgani
 
 <sup>1</sup> Sofern eine Koordination auf nationaler Ebene erforderlich ist, kann der Bundesrat geeignete Massnahmen anordnen zur Bekämpfung von Schadorganismen, die aufgrund ihrer biologischen Eigenschaften oder ihrer Verbreitung nicht als besonders gefährliche Schadorganismen nach Artikel 152 Absatz 1 gelten.
 
-<sup>2</sup> Die Massnahmen können insbesondere umfassen:
+<sup>2</sup>
 
-a. die Überwachung der phytosanitären Lage;
+Die Massnahmen können insbesondere umfassen:
 
-b. die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen, die von Schadorgansimen nach Absatz 1 befallen sind oder befallen sein könnten;
-
-c. das Verwenden von Organismen zur Bekämpfung von Schadorganismen nach Absatz 1.
+- a. die Überwachung der phytosanitären Lage;
+- b. die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen, die von Schadorgansimen nach Absatz 1 befallen sind oder befallen sein könnten;
+- c. das Verwenden von Organismen zur Bekämpfung von Schadorganismen nach Absatz 1.
 
 <sup>3</sup> Der Bundesrat bestimmt die Anforderungen an das Verwenden von Organismen zur Bekämpfung von Schadorganismen nach Absatz 1 und regelt das Verfahren.
 
@@ -2394,7 +2398,7 @@ Er kann einer Zulassungspflicht unterstellen:
 Pflanzenschutzmittel, die im räumlichen Geltungsbereich des Abkommens vom 21. Juni 1999[^160a-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen rechtmässig in Verkehr gebracht worden sind, dürfen in der Schweiz in Verkehr gebracht werden. Bei Gefährdung öffentlicher Interessen kann der Bundesrat Einfuhr und Inverkehrbringen beschränken oder untersagen.
 
 [^160a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^160a-2]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^160a-2]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
 #### Art. 160b
 
@@ -2409,7 +2413,7 @@ Pflanzenschutzmittel, die im räumlichen Geltungsbereich des Abkommens vom 21. J
 <sup>4</sup> Der Bundesrat legt das Verfahren fest.
 
 [^160b-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^160b-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^160b-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 161
 
@@ -2584,7 +2588,7 @@ Im Rahmen ihrer gesetzlichen Aufgaben können die folgenden Stellen und Personen
 
 <sup>3</sup> Der Zugang und die Nutzung der Daten richtet sich nach den Bestimmungen des Geoinformationsgesetzes vom 5. Oktober 2007[^165e-1].
 
-[^165e-1]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^165e-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 
 #### Art. 165f
 
@@ -2650,7 +2654,7 @@ Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165*c*–165
 <sup>2</sup> Der Bundesrat kann der Identitas AG (Art. 7*a* TSG) Aufgaben übertragen, die den Vollzug agrarpolitischer Massnahmen betreffen. Er regelt die Aufgabenübertragung, die Kostentragung und die Bearbeitung der Daten.
 
 [^165gbis-1]: Eingefügt durch Ziff. II des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021, Abs. 2 in Kraft seit 1. Jan. 2022 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^165gbis-2]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^165gbis-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 ### 4. Kapitel: Geistiges Eigentum
 
@@ -2662,7 +2666,7 @@ Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165*c*–165
 
 <sup>3</sup> Wer Immaterialgüter im Sinne der Absätze 1 und 2 geschaffen hat, ist an einem allfälligen Gewinn, der durch gewerbliche Nutzung entsteht, angemessen zu beteiligen.
 
-[^165h-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^165h-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^165h-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^165h-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
@@ -2685,7 +2689,7 @@ Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165*c*–165
 <sup>4</sup> Die kantonalen Behörden eröffnen ihre Verfügungen sofort und unentgeltlich dem zuständigen Bundesamt. Der Bundesrat kann Ausnahmen vorsehen.
 
 [^166-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^166-2]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^166-2]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 [^166-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^166-4]: Eingefügt durch Anhang Ziff. II 4 des Chemikaliengesetzes vom 15. Dez. 2000 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)). Fassung gemäss Anhang Ziff. 125 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^166-5]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
@@ -2774,8 +2778,8 @@ Zur Wiederherstellung des rechtmässigen Zustandes können zusätzlich folgende 
 <sup>3</sup> In den von den Wettbewerbsbehörden nach Absatz 1 durchgeführten Verfahren sind die Artikel 8 und 31 des Kartellgesetzes vom 6. Oktober 1995 nicht anwendbar.
 
 [^171a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^171a-2]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
-[^171a-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^171a-2]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^171a-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
 ### 3. Kapitel: Strafbestimmungen
 
@@ -2859,7 +2863,7 @@ Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht i
 
 Wird die strafbare Handlung von einer juristischen Person oder einer Personengemeinschaft begangen, so gelten die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^174-1] über das Verwaltungsstrafrecht.
 
-[^174-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^174-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 175
 
@@ -2880,7 +2884,7 @@ Wird die strafbare Handlung von einer juristischen Person oder einer Personengem
 
 Die Artikel 37–39 des Subventionsgesetzes vom 5. Oktober 1990[^176-1] über Vergehen, Erschleichung eines Vorteils und Strafverfolgung sind nicht anwendbar.
 
-[^176-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^176-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ## 9. Titel: Schlussbestimmungen
 
@@ -2969,7 +2973,7 @@ Das BLW, seine landwirtschaftliche Forschungsanstalt (Art. 114) sowie das Gestü
 
 <sup>3</sup> Der Bundesrat und die Kantone können die mitwirkenden Firmen und Organisationen ermächtigen, für ihre Tätigkeit angemessene Gebühren zu erheben. Deren Tarife bedürfen der Genehmigung durch das WBF.
 
-[^180-1]: [SR 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^180-1]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
 [^180-2]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 181
@@ -3021,8 +3025,8 @@ Der Bundesrat setzt eine Zentralstelle zur Ermittlung von Zuwiderhandlungen ein 
 - c. Deklaration der Herkunft und der Produktionsmethode.
 
 [^182-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^182-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
-[^182-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^182-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^182-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^182-4]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 183
@@ -3066,7 +3070,7 @@ Zur Beschaffung der für den Vollzug des Gesetzes und die Wirkungskontrolle uner
 
 <sup>4</sup> Das verantwortliche Bundesorgan kann die erhobenen Daten zu statistischen Zwecken bearbeiten.
 
-<sup>5 und <sup>6</sup></sup> …[^185-5]
+<sup>5</sup> und <sup>6</sup> …[^185-5]
 
 [^185-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^185-2]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
@@ -3118,13 +3122,13 @@ Der Bundesrat bestellt eine ständige beratende Kommission von höchstens 15 Mit
 
 <sup>5</sup> Artikel 138 tritt erst mit dem Inkrafttreten des neuen Berufsbildungsgesetzes vom 13. Dezember 2002[^187b-3] in Kraft.
 
-<sup>6 und <sup>7</sup></sup> …[^187b-4]
+<sup>6</sup> und <sup>7</sup> …[^187b-4]
 
 <sup>8</sup> …[^187b-5]
 
 [^187b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775), [7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^187b-2]: Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187b-3]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^187b-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^187b-4]: Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^187b-5]: Eingefügt durch Ziff. I 15 des BG vom 19. Dez. 2003 über das Entlastungsprogramm 2003 ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)). Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814), 6107; [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 

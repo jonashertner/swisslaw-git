@@ -4,11 +4,11 @@ title: "Loi fédérale du 29 avril 1998 sur l'agriculture (Loi sur l'agriculture
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20260101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20260101/fr"
 
 (Loi sur l’agriculture, LAgr)
 
-du 29 avril 1998 (État le 1<sup>er</sup> janvier 2026)
+du 29 avril 1998 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 45, 46, al. 1, 102 à 104*a*, 120, 123 et 147 de la Constitution[^in
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^ingress-3]: [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)
 
@@ -392,7 +392,7 @@ Les appellations d’origine et les indications géographiques enregistrées son
 [^16-2]: Abrogé par le ch. I de la LF du 16 juin 2023, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^16-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775), [6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^16-4]: Introduit par l’annexe ch. 7 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^16-5]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^16-5]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 [^16-6]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^16-7]: Introduit par le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775), [6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
@@ -447,7 +447,7 @@ Sont interdits au sens de l’al. 1 les modes de production qui ne sont pas conf
 
 <sup>2</sup> Les droits de douane pour le sucre auxquels s’ajoutent les contributions au fonds de garantie (art. 16 de la loi du 17 juin 2016 sur l’approvisionnement du pays[^19-1]) s’élèvent au minimum à 7 francs par 100 kg bruts. La disposition a effet jusqu’en 2026.[^19-2]
 
-[^19-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^19-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
 [^19-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 
 #### Art. 19a
@@ -502,7 +502,7 @@ Sont interdits au sens de l’al. 1 les modes de production qui ne sont pas conf
 
 <sup>5</sup> Les dispositions de la présente loi s’appliquent par analogie aux contingents tarifaires supplémentaires visés à l’art. 4, al. 3, let. c, de la loi fédérale du 9 octobre 1986 sur le tarif des douanes.
 
-[^21-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^21-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
 #### Art. 22
 
@@ -561,8 +561,8 @@ L’al. 2 ne s’applique pas à l’invocation des clauses de sauvegarde prévu
 - a. art. 1 de la loi fédérale du 25 juin 1982 sur les mesures économiques extérieures[^24-2];
 - b. art. 7 de la loi fédérale du 9 octobre 1986 sur le tarif des douanes.
 
-[^24-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
-[^24-2]: [RS 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
+[^24-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^24-2]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 25
 
@@ -927,7 +927,7 @@ La Confédération peut allouer des contributions à des cultures particulières
 
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^54-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
-[^54-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^54-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 55
 
@@ -1104,7 +1104,8 @@ Les paiements directs sont octroyés aux conditions suivantes:
 - e. une charge de travail minimale exprimée en unités de main-d’œuvre standard est atteinte dans l’entreprise exploitée;
 - f. une part minimale des travaux est accomplie par la main-d’œuvre de l’exploitation;
 - g. l’exploitant n’a pas dépassé une certaine limite d’âge;
-- h. l’exploitant dispose d’une formation agricole.
+- h. l’exploitant dispose d’une formation agricole;
+- i.[^70a-1] le conjoint ou le partenaire enregistré de l’exploitant travaillant régulièrement et dans une mesure importante dans l’entreprise dispose d’une couverture sociale personnelle.
 
 <sup>2</sup>
 
@@ -1113,7 +1114,7 @@ Sont requises les prestations écologiques suivantes:
 - a. une détention des animaux de rente conforme aux besoins de l’espèce;
 - b. un bilan de fumure équilibré;
 - c. une part équitable de surfaces de promotion de la biodiversité;
-- d. une exploitation conforme aux prescriptions des objets inscrits dans les inventaires fédéraux d’importance nationale au sens de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^70a-1];
+- d. une exploitation conforme aux prescriptions des objets inscrits dans les inventaires fédéraux d’importance nationale au sens de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^70a-2];
 - e. un assolement régulier;
 - f. une protection appropriée du sol;
 - g. une sélection et une utilisation ciblées des produits phytosanitaires.
@@ -1127,13 +1128,16 @@ Le Conseil fédéral:
 - c. peut limiter la somme des paiements directs par unité de main-d’œuvre standard;
 - d. peut fixer des exceptions à la let. c et à l’al. 1, let. h;
 - e. peut fixer des exceptions à l’al. 1, let. a, en ce qui concerne les contributions à la biodiversité et à la qualité du paysage;
-- f. fixe la surface par exploitation au-delà de laquelle les contributions sont échelonnées ou réduites.
+- f. fixe la surface par exploitation au-delà de laquelle les contributions sont échelonnées ou réduites;
+- g.[^70a-3] concrétise la couverture sociale prévue à l’al. 1, let. i.
 
 <sup>4</sup> Le Conseil fédéral peut fixer des conditions et des charges supplémentaires pour l’octroi des paiements directs.
 
 <sup>5</sup> Il détermine les surfaces donnant droit à des contributions.
 
-[^70a-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^70a-1]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^70a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^70a-3]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 70b
 
@@ -1179,7 +1183,7 @@ Des contributions à la sécurité de l’approvisionnement sont octroyées dans
 
 <sup>3</sup> Des contributions à la sécurité de l’approvisionnement peuvent aussi être octroyées pour les surfaces situées dans le territoire étranger de la zone frontière définie à l’art. 43, al. 2, de la loi du 18 mars 2005 sur les douanes[^72-1].
 
-[^72-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^72-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 73
 
@@ -1250,7 +1254,7 @@ Le Conseil fédéral fixe:
 - b. les modalités en cas de remise de l’exploitation et d’importantes modifications structurelles;
 - c. les niveaux de revenu et de fortune imposables des exploitants au-delà desquels les contributions sont réduites ou refusées; il fixe des valeurs limites plus élevées pour les exploitants mariés.
 
-[^77-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^77-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 ## Titre 3*a* Utilisation durable des ressources naturelles
 
@@ -1279,8 +1283,8 @@ Les contributions sont octroyées à l’entité responsable du projet aux condi
 
 <sup>2</sup> Lorsque, pour une même prestation fournie sur la même surface, des contributions ou des indemnités sont également versées en vertu de la présente loi, de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^77b-1] ou de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^77b-2], ces contributions ou ces indemnités sont déduites des coûts pris en compte.
 
-[^77b-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^77b-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^77b-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^77b-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 ## Titre 4 Gestion des risques dans les exploitations
 
@@ -1554,7 +1558,7 @@ Le Conseil fédéral peut fixer une charge de travail moins élevée que celle e
 [^89-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^89-6]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^89-7]: Introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^89-8]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^89-8]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^89-9]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^89-10]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
@@ -1715,7 +1719,7 @@ Le gouvernement cantonal peut ordonner des remaniements parcellaires lorsque des
 
 <sup>4</sup> Le canton règle la procédure subséquente.
 
-[^101-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^101-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### Section 3 Préservation des structures améliorées
 
@@ -2390,7 +2394,7 @@ Il peut soumettre à une homologation obligatoire:
 Les produits phytosanitaires qui ont été mis en circulation en toute légalité dans le champ d’application territorial de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles[^160a-2] peuvent être mis en circulation en Suisse. Le Conseil fédéral peut restreindre ou interdire l’importation et la mise en circulation de produits phytosanitaires en cas de mise en danger des intérêts publics suisses.
 
 [^160a-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775))
-[^160a-2]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^160a-2]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
 #### Art. 160b
 
@@ -2405,7 +2409,7 @@ Les produits phytosanitaires qui ont été mis en circulation en toute légalit�
 <sup>4</sup> Le Conseil fédéral fixe les modalités de la procédure.
 
 [^160b-1]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^160b-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^160b-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 
 #### Art. 161
 
@@ -2580,7 +2584,7 @@ Dans le cadre de leurs tâches légales, les services et les personnes suivants 
 
 <sup>3</sup> L’accès aux données et leur utilisation se fondent sur les dispositions de la loi du 5 octobre 2007 sur la géoinformation[^165e-1].
 
-[^165e-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^165e-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 
 #### Art. 165f
 
@@ -2646,7 +2650,7 @@ Le Conseil fédéral règle en particulier, pour les systèmes d’information v
 <sup>2</sup> Le Conseil fédéral peut déléguer des tâches liées à l’exécution de mesures de politique agricole à Identitas SA (art. 7*a* LFE). Il règle la délégation des tâches, la prise en charge des coûts et le traitement des données.
 
 [^165gbis-1]: Introduit par le ch. II de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, al. 2 en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^165gbis-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^165gbis-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 ### Chapitre 4 Propriété intellectuelle
 
@@ -2658,7 +2662,7 @@ Le Conseil fédéral règle en particulier, pour les systèmes d’information v
 
 <sup>3</sup> Les personnes qui ont créé des biens immatériels au sens des al. 1 et 2 ont droit à une participation appropriée au bénéfice éventuel d’une exploitation commerciale.
 
-[^165h-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^165h-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^165h-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^165h-3]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
@@ -2681,7 +2685,7 @@ Le Conseil fédéral règle en particulier, pour les systèmes d’information v
 <sup>4</sup> Les autorités cantonales notifient leur décision sans retard et sans frais à l’office compétent. Le Conseil fédéral peut prévoir des dérogations.
 
 [^166-1]: Phrase introduite par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^166-2]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^166-2]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 [^166-3]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 [^166-4]: Introduit par l’annexe ch. II 4 de la loi du 15 déc. 2000 sur les produits chimiques ([RO 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [FF 2000 623](https://fedlex.data.admin.ch/eli/fga/2000/195)). Nouvelle teneur selon l’annexe ch. 125 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^166-5]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
@@ -2771,8 +2775,8 @@ En vue du rétablissement d’une situation conforme au droit, les mesures suppl
 <sup>3</sup> Les art. 8 et 31 de la loi du 6 octobre 1995 sur les cartels ne s’appliquent pas aux procédures intentées dans les cas visés à l’al. 1 par les autorités en matière de concurrence.
 
 [^171a-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775))
-[^171a-2]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
-[^171a-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^171a-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^171a-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
 ### Chapitre 3 Dispositions pénales
 
@@ -2857,7 +2861,7 @@ Si l’acte n’est pas punissable plus sévèrement en vertu d’une autre disp
 
 Lorsque l’infraction est commise par une personne morale ou par une communauté, les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^174-1] sont applicables.
 
-[^174-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^174-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 175
 
@@ -2878,7 +2882,7 @@ Lorsque l’infraction est commise par une personne morale ou par une communaut�
 
 Les art. 37 à 39 de la loi du 5 octobre 1990 sur les subventions[^176-1] concernant les délits, l’obtention frauduleuse d’un avantage et la poursuite pénale ne sont pas applicables.
 
-[^176-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^176-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ## Titre 9 Dispositions finales
 
@@ -2967,7 +2971,7 @@ L’OFAG, la station de recherches agronomiques (art. 114) et le haras (art. 121
 
 <sup>3</sup> Le Conseil fédéral et les cantons peuvent autoriser ces entreprises et ces organisations à percevoir des émoluments appropriés afin de couvrir les frais de leur activité. Le tarif de ces émoluments doit être approuvé par le DEFR.
 
-[^180-1]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^180-1]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
 [^180-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 #### Art. 181
@@ -3019,8 +3023,8 @@ Le Conseil fédéral institue un service central chargé de détecter les fraude
 - c. la déclaration de la provenance et du mode de production.
 
 [^182-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775), [6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^182-2]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
-[^182-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^182-2]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^182-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^182-4]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
 #### Art. 183
@@ -3064,7 +3068,7 @@ Afin de disposer des éléments indispensables à l’exécution de la loi et au
 
 <sup>4</sup> L’organe fédéral compétent peut traiter les données relevées à des fins statistiques.
 
-<sup>5 et <sup>6</sup></sup> …[^185-5]
+<sup>5</sup> et <sup>6</sup> …[^185-5]
 
 [^185-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^185-2]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
@@ -3086,11 +3090,11 @@ Le Conseil fédéral désigne une commission consultative permanente composée d
 
 <sup>1</sup> À l’exception des dispositions relatives à la procédure, les dispositions abrogées restent applicables aux faits survenus pendant qu’elles étaient en vigueur.
 
-<sup>2 à <sup>9</sup></sup> …[^187-2]
+<sup>2</sup> à <sup>9</sup> …[^187-2]
 
 <sup>10</sup> L’obligation de prouver que les prestations écologiques requises sont fournies, prévue à l’art. 70, al. 2, sera applicable au plus tard cinq ans à compter de l’entrée en vigueur de la présente loi.
 
-<sup>11 à <sup>13</sup></sup> …[^187-3]
+<sup>11</sup> à <sup>13</sup> …[^187-3]
 
 <sup>14</sup> Le Conseil fédéral édicte les dispositions concernant le retrait de l’avance consentie à l’organisme commun au sens de l’art. 1, al. 2, de la loi fédérale du 27 juin 1969[^187-4] sur la commercialisation du fromage. Les départements et offices désignés à cet effet par le Conseil fédéral sont habilités à donner à l’organisme commun des directives sur la réalisation des actifs et sur les obligations à remplir; les prestations de la Confédération présupposent le respect de ces directives. Le choix des liquidateurs à nommer par l’organisme commun est soumis à approbation du département désigné à cette fin par le Conseil fédéral. La Confédération couvre le coût de la liquidation de l’organisme commun. Le Conseil fédéral veille à ce que les responsables de l’organisme commun ne retirent aucun profit de la liquidation; il décide également dans quelle mesure le capital-actions est remboursé.
 
@@ -3112,17 +3116,17 @@ Le Conseil fédéral désigne une commission consultative permanente composée d
 
 **Dispositions transitoires relatives à la modification du 20 juin 2003**[^187b-1]
 
-<sup>1 à <sup>4</sup></sup> …[^187b-2]
+<sup>1</sup> à <sup>4</sup> …[^187b-2]
 
 <sup>5</sup> L’art. 138 entre en vigueur en même temps que la nouvelle loi du 13 décembre 2002 sur la formation professionnelle[^187b-3].
 
-<sup>6 et <sup>7</sup></sup> …[^187b-4]
+<sup>6</sup> et <sup>7</sup> …[^187b-4]
 
 <sup>8</sup> …[^187b-5]
 
 [^187b-1]: Introduit par le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775), [6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^187b-2]: Abrogés par le ch. I de la LF du 22 mars 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^187b-3]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^187b-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^187b-4]: Abrogés par le ch. I de la LF du 22 mars 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^187b-5]: Introduit par le ch. I 15 de la LF du 19 déc. 2003 sur le programme d’allégement budgétaire 2003 ([RO 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 5091](https://fedlex.data.admin.ch/eli/fga/2003/887)). Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
@@ -3210,8 +3214,8 @@ Sont abrogés:
 - n. la loi fédérale du 27 juin 1969 sur la commercialisation du fromage (Réglementation du marché du fromage)[^annexu1-lvlu1-lvlu1-14];
 - o. la loi fédérale du 21 décembre 1960 sur les marchandises à prix protégés et la caisse de compensation des prix des œufs et des produits à base d’œufs[^annexu1-lvlu1-lvlu1-15].
 
-[^annexu1-lvlu1-lvlu1-1]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)1094]
-[^annexu1-lvlu1-lvlu1-2]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)1042]
+[^annexu1-lvlu1-lvlu1-1]: [RS **4** 1094]
+[^annexu1-lvlu1-lvlu1-2]: [RS **4** 1042]
 [^annexu1-lvlu1-lvlu1-3]: [[RO 1953 1095](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), 1962 1185 art. 14, [1967 766](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)disp. fin. trans. tit. X, art. 6 ch. 7, **1974** 763, **1975** 1088, **1977** 2249 ch. I 921 942 931, **1979** 2060, **1982** 1676 annexe ch. 6, **1988** 640, **1989** 504 art. 33 let. c, **1991** 362 ch. II 51 857 appendice ch. 25 2611, **1992** 1860 art. 75 ch.5 1986 art. 36 al. 1, **1993** 1410 art. 92 ch. 4 1571 2080 annexe ch. 11, **1994** 28, **1995** 1469 art. 59 ch. 3 1837 3517 ch. I 2, **1996** 2588 annexe ch. 2, **1997** 1187 1190, **1998** 1822 art. 15]
 [^annexu1-lvlu1-lvlu1-4]: Sous réserve de l’art. 187 al. 7 de la présente loi (voir les versions allemandes et italiennes).
 [^annexu1-lvlu1-lvlu1-5]: [[RO 1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679), [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)ch. II 1, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)app. ch. 26, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)ch. II 1]
