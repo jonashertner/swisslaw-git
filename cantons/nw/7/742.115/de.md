@@ -4,13 +4,12 @@ number: "742.115"
 title: Regierungsratsbeschluss betreffend die Liste der Heime für die Pflege von Langzeitpatientinnen und -patienten
 short: Pflegeheimliste
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-09-16
+version: 2027-01-01
+version_adopted: 2026-09-15
 adopted: 2021-03-30
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.115"
-pdf: "https://gesetze.nw.ch/api/de/versions/1485/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1485/pdf_file"
 
 (Pflegeheimliste)
 
-vom 30.03.2021 (Stand 01.01.2026)
+vom 30.03.2021 (Stand 01.01.2027)
 
 Der Regierungsrat von Nidwalden,
 
@@ -67,14 +66,14 @@ beschliesst:
 <sup>3</sup> Spezialangebote:
 
 <table>
-<tr><th>Einrichtung</th><th>Ort</th><th>Spezialangebot Demenz[^Ziff2-2]</th><th>Spezialangebot Schwerstpflegebedürftigkeit [^Ziff2-3]</th></tr>
-<tr><td>Alterswohnheim Hungacher</td><td>Beckenried</td><td></td><td></td></tr>
-<tr><td>Alterswohnheim Buochs</td><td>Buochs</td><td></td><td></td></tr>
-<tr><td>Altersheim Oeltrotte</td><td>Ennetbürgen</td><td></td><td></td></tr>
-<tr><td>Alters- und Pflegeheim Heimet</td><td>Ennetbürgen</td><td></td><td></td></tr>
-<tr><td>Seniorenzentrum Zwyden</td><td>Hergiswil</td><td></td><td></td></tr>
-<tr><td>Wohnhaus Mettenweg</td><td>Stans</td><td></td><td></td></tr>
-<tr><td>Wohnheim Nägeligasse</td><td>Stans</td><td>X</td><td>X</td></tr>
+<tr><th>Einrichtung</th><th>Ort</th><th>Spezialangebot Demenz[^Ziff2-2]</th><th>Spezialangebot Schwerstpflegebedürftigkeit [^Ziff2-3]</th><th>Spezialisierte Palliativpflege</th></tr>
+<tr><td>Alterswohnheim Hungacher</td><td>Beckenried</td><td></td><td></td><td></td></tr>
+<tr><td>Alterswohnheim Buochs</td><td>Buochs</td><td></td><td></td><td></td></tr>
+<tr><td>Altersheim Oeltrotte</td><td>Ennetbürgen</td><td></td><td></td><td></td></tr>
+<tr><td>Alters- und Pflegeheim Heimet</td><td>Ennetbürgen</td><td></td><td></td><td></td></tr>
+<tr><td>Seniorenzentrum Zwyden</td><td>Hergiswil</td><td></td><td></td><td></td></tr>
+<tr><td>Wohnhaus Mettenweg</td><td>Stans</td><td></td><td></td><td></td></tr>
+<tr><td>Wohnheim Nägeligasse</td><td>Stans</td><td>X</td><td>X</td><td></td></tr>
 </table>
 
 [^Ziff2-1]: Die maximale Bettenanzahl darf bei begründeten Fällen wie Doppelbelegungen durch Ehepaare oder Geschwister kurzzeitig überschritten werden.
