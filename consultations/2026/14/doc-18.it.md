@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione delle ordinanze della legislazione in materia di derrate alimentari
 document: Progetto posto in consultazione 21 O sui nuovi tipi di derrate alimentari
 language: it

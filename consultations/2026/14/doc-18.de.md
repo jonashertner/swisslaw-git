@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision von Verordnungen des Lebensmittelrechts
 document: Vernehmlassungsvorlage 21 V über neuartige Lebensmittel
 language: de

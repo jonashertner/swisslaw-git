@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision des ordonnances relatives au droit sur les denrées alimentaires
 document: Projet mis en consultation 21 O sur les nouvelles sortes de denrées alimentaires
 language: fr
