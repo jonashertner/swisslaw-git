@@ -4,13 +4,12 @@ number: "502"
 title: Verordnung zum Gesetz über die Gymnasialbildung
 short: GymBV
 language: de
-version: 2026-08-01
-valid_until: 2027-07-31
-version_adopted: 2026-03-31
+version: 2027-08-01
+version_adopted: 2026-04-21
 adopted: 2001-06-19
 in_force: 2001-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/502"
-pdf: "https://srl.lu.ch/api/de/versions/4818/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4819/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4818/pdf_file"
 
 (GymBV)
 
-vom 19.06.2001 (Stand 01.08.2026)
+vom 19.06.2001 (Stand 01.08.2027)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -70,17 +69,17 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt die Rahmenvorgaben für die Wochenstundentafel und die Lehrpläne fest.
 
-<sup>2</sup> Er erlässt für jede Schule eine Wochenstundentafel und einen Lehrplan.
+<sup>2</sup> Er erlässt für das Langzeit- und Kurzzeitgymnasium sowie für die Maturitätsschule für Erwachsene je einen kantonalen Lehrplan und für jede Schule eine Wochenstundentafel.
 
-<sup>3</sup> Die Wochenstundentafel enthält die Jahresstundendotation der Grundlagenfächer, der Zusatzfächer, der Schwerpunktfächer, der Ergänzungsfächer, der allfälligen Integrationsfächer, der Maturaarbeit und der Poolstunden.
+<sup>3</sup> Die Wochenstundentafel enthält die Jahresstundendotation der Grundlagenfächer, der Zusatzfächer, der Schwerpunktfächer, der Ergänzungsfächer, der allfälligen Integrationsfächer, der Maturitätsarbeit und der Poolstunden.
 
 #### § 4
 
 **Grundlagen- und Zusatzfächer**
 
-<sup>1</sup> Grundlagenfächer sind Deutsch, Französisch oder Italienisch, Englisch oder Latein oder Griechisch, Mathematik, Biologie, Physik, Chemie, Geschichte, Geografie, Philosophie, Bildnerisches Gestalten und/oder Musik.
+<sup>1</sup> Grundlagenfächer sind Deutsch, Französisch oder Italienisch, Englisch, Mathematik, Biologie, Physik, Chemie, Informatik, Geschichte, Geografie, Philosophie, Wirtschaft und Recht, Bildende Kunst und/oder Musik.
 
-<sup>2</sup> Zusatzfächer sind Wirtschaft und Recht, Informatik und ICT, Informatik, Sport, Religionskunde und Ethik, Naturwissenschaften und Technik, Technisches Gestalten, Hauswirtschaft, die Klassenstunde sowie weitere schulinterne Fächer, die im Rahmen der Wochenstundentafel genehmigt worden sind.
+<sup>2</sup> Zusatzfächer sind Sport, Religionskunde und Ethik, Naturwissenschaften und Technik, Technisches Gestalten, Hauswirtschaft, die Klassenstunde sowie weitere schulinterne Fächer, die im Rahmen der Wochenstundentafel genehmigt worden sind.
 
 #### § 5
 
@@ -100,6 +99,16 @@ beschliesst:
 
 <sup>2</sup> Poolstunden sind Zeitgefässe innerhalb der Wochenstundentafel, die nicht einem bestimmten Fach zugeschrieben sind.
 
+#### § 6a
+
+**Begleitete Selbstlernzeit**
+
+<sup>1</sup> Im Lernformat der begleiteten Selbstlernzeit arbeiten die Lernenden an den Lerninhalten selbstständig und nicht im Unterricht im Klassenverband.
+
+<sup>2</sup> Die zuständigen Fachlehrpersonen leiten die Lernenden an, erteilen die Arbeitsaufträge, begleiten die Lernenden in ihrem Lernprozess und überprüfen den Lernfortschritt.
+
+<sup>3</sup> Die Schulleitung legt die Fächer und die Lektionen fest. In den letzten vier Jahren des Langzeitgymnasiums und im Kurzzeitgymnasium werden mindestens drei Lektionen pro Woche als begleitete Selbstlernzeit geführt.
+
 #### § 7
 
 **Freifächer**
@@ -118,7 +127,7 @@ beschliesst:
 
 **Instrumentalunterricht**
 
-<sup>1</sup> Für Lernende mit Musik als Maturafach (Grundlagenfach, Schwerpunktfach oder Ergänzungsfach) ist der Unterricht in einem Instrument oder in Sologesang obligatorisch. Zudem sind diese Lernenden verpflichtet, in einem ihrem Ausbildungsstand entsprechenden Ensemble, Chor oder Orchester der Gymnasien mitzuwirken. Die Schulleitung kann das Mitwirken in einem Ensemble einer Musikschule als Erfüllung des Ensemble-Obligatoriums anerkennen.
+<sup>1</sup> Für Studierende mit Musik als Maturitätsfach (Grundlagenfach oder Schwerpunktfach) ist der Unterricht in einem Instrument oder in Sologesang obligatorisch. Zudem sind diese Studierenden verpflichtet, in einem ihrem Ausbildungsstand entsprechenden Ensemble, Chor oder Orchester der Gymnasien mitzuwirken. Die Schulleitung kann das Mitwirken in einem Ensemble einer Musikschule als Erfüllung des Ensemble-Obligatoriums anerkennen.
 
 <sup>2</sup> Die Schulleitung kann Lernende auf begründetes Gesuch hin vom Instrumental- oder vom Gesangsunterricht dispensieren.
 
@@ -774,6 +783,20 @@ beschliesst:
 #### § 58a
 
 **…**
+
+#### § 58b
+
+**Übergangsbestimmung zur Änderung vom 21. April 2026**
+
+<sup>1</sup> Für die folgenden Lernenden gilt unter Vorbehalt von Absatz 2 weiterhin die Verordnung in der Fassung vom 1. August 2026:
+
+- a. Lernende, die vor dem 1. August 2026 in die erste Klasse eines Langzeitgymnasiums eingetreten sind,
+- b. Lernende, die vor dem 1. August 2027 in das erste Schuljahr einer Talentklasse eines Kurzzeitgymnasiums eingetreten sind,
+- c. Lernende, die bis zum 1. August 2028 in die erste Klasse eines Kurzzeitgymnasiums oder in die Maturitätsschule für Erwachsene eintreten.
+
+<sup>2</sup> Treten Lernende in ein späteres Schuljahr eines Gymnasiums oder der Maturitätsschule für Erwachsene ein, müssen sie ein Schuljahr wiederholen oder wechseln sie aus anderen Gründen die Klasse, gelten für sie die Bestimmungen der neuen Klasse. Die Schulleitung entscheidet über mögliche Anrechnungen sowie notwendige Ersatzleistungen. Vorbehalten bleiben die Regelungen des Reglements über die Maturitätsprüfungen im Kanton Luzern vom 15. April 2008[^58b-1].
+
+[^58b-1]: SRL Nr. [506](https://srl.lu.ch/data/506/de)
 
 #### § 59
 
