@@ -4,13 +4,12 @@ number: "811.11"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-07-01
-valid_until: 2026-12-31
-version_adopted: 2024-05-15
+version: 2027-01-01
+version_adopted: 2026-05-05
 adopted: 2018-12-19
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.11"
-pdf: "https://bgs.so.ch/api/de/versions/5648/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5648/pdf_file"
 
 (GesG)
 
-Vom 19.12.2018 (Stand 01.07.2024)
+Vom 19.12.2018 (Stand 01.01.2027)
 
 Der Kantonsrat von Solothurn
 
@@ -453,7 +452,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die in diesem Abschnitt vorgesehenen Rechte und Pflichten der Patienten und Patientinnen gelten gegenüber sämtlichen Personen, die eine Tätigkeit im Bereich des Gesundheitswesens ausüben, und gegenüber sämtlichen bewilligungspflichtigen Einrichtungen des Gesundheitswesens.
+<sup>1</sup> Die in diesem Abschnitt vorgesehenen Rechte und Pflichten der Patienten und Patientinnen gelten gegenüber sämtlichen Personen, die eine Tätigkeit im Bereich des Gesundheitswesens ausüben, und gegenüber sämtlichen bewilligungspflichtigen Einrichtungen des Gesundheitswesens, soweit nachfolgend nicht anders geregelt.
 
 #### § 27
 
@@ -463,7 +462,7 @@ beschliesst:
 
 <sup>2</sup> Die Patienten und Patientinnen haben Anspruch auf Achtung und Wahrung ihrer persönlichen Freiheit, ihrer Privatsphäre und ihrer Persönlichkeitsrechte. Sie verfügen über ein Recht auf Information und Selbstbestimmung. Vorbehalten bleiben die Zwangsmassnahmen, welche dieses Gesetz oder andere Erlasse ausdrücklich vorsehen.
 
-<sup>3</sup> Unheilbar kranke und sterbende Menschen haben ein Anrecht auf eine angepasste, ganzheitliche Betreuung sowie auf eine grösstmögliche Linderung ihrer Leiden und Schmerzen gemäss den Grundsätzen der palliativen Medizin, Pflege, Begleitung und Seelsorge.
+<sup>3</sup> …
 
 #### § 28
 
@@ -622,6 +621,29 @@ beschliesst:
 <sup>2</sup> Die betroffene Person oder eine ihr nahestehende Person kann gegen eine solche Massnahme jederzeit die Kindes- und Erwachsenenschutzbehörde am Sitz der Einrichtung anrufen.
 
 <sup>3</sup> Erachtet die Kindes- und Erwachsenenschutzbehörde die Massnahme als unangemessen, so hebt sie diese unverzüglich auf oder passt sie an.
+
+### 5.4. Palliative Care und Beihilfe zum Suizid
+
+#### § 41bis
+
+**Palliative Care**
+
+<sup>1</sup> Unheilbar kranke und sterbende Menschen haben ein Anrecht auf eine angepasste, ganzheitliche Betreuung sowie auf eine grösstmögliche Linderung ihrer Leiden und Schmerzen gemäss den Grundsätzen der palliativen Medizin, Pflege, Begleitung und Seelsorge.
+
+#### § 41ter
+
+**Beihilfe zum Suizid**
+
+<sup>1</sup> Patienten und Patientinnen von Spitälern sowie Bewohnern und Bewohnerinnen von Pflegeheimen und weiteren stationären Einrichtungen, die soziale Aufgaben erbringen und soziale Institutionen betreiben, sind vor der Aufnahme in die betreffende Einrichtung die betriebsinternen Leitlinien betreffend die Beihilfe zum Suizid zur Verfügung zu stellen.
+
+<sup>2</sup> Bewohner und Bewohnerinnen von Pflegeheimen mit öffentlichem Auftrag haben das Recht, in den Räumlichkeiten der betreffenden Einrichtungen nach den geltenden gesetzlichen Bestimmungen Beihilfe zum Suizid durch externe Organisationen in Anspruch zu nehmen.
+
+<sup>3</sup> Personen, die in einer Einrichtung gemäss Absatz 1 Beihilfe zum Suizid in Anspruch nehmen möchten, müssen:
+
+- a) die betreffende Einrichtung über ihren Entscheid und den geplanten Ablauf informieren;
+- b) auf das Personal der Einrichtung sowie die anderen Patienten und Patientinnen sowie Bewohner und Bewohnerinnen Rücksicht nehmen.
+
+<sup>4</sup> Das Personal der Einrichtungen ist nicht verpflichtet, an der Beihilfe zum Suizid mitzuwirken.
 
 ## 6. Versorgungssicherheit
 
