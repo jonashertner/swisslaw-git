@@ -4,11 +4,11 @@ title: Erwerbsersatzverordnung vom 24. November 2004 (EOV)
 short: EOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: de
-version: 2027-01-01
+version: 2027-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270701/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/de"
 
 (EOV)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Januar 2027)
+vom 24. November 2004 (Stand am 1. Juli 2027)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
@@ -30,7 +30,11 @@ verordnet:
 [^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^ingress-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
-## 1. Kapitel: Entschädigung für Dienstleistende
+## 1. Kapitel: Die Dienstentschädigung
+
+[^chap1-1]
+
+[^chap1-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### 1. Abschnitt: Anspruch auf Entschädigung
 
@@ -87,9 +91,9 @@ Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des let
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
 - e.[^4-2] Mutterschaftsurlaub im Sinne von Artikel 329*f* des Obligationenrechts (OR)[^4-3] oder Urlaub des andern Elternteils im Sinne von Artikel 329*g* oder 329*g*<sup>bis</sup> OR;
-- f.[^4-4] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- f.[^4-4] Betreuung eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG oder an mindestens vier aufeinanderfolgenden Tagen hospitalisiert (Art. 16*n* EOG) ist;
 - g.[^4-5] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
-- h.[^4-6] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+- h.[^4-6] anderen Gründen, sofern diese nicht auf ihr Verschulden zurückzuführen sind.
 
 <sup>2</sup> Für Personen, die glaubhaft machen, dass sie während des Dienstes eine unselbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten oder einen wesentlich höheren Lohn als vor dem Einrücken erzielt hätten, wird die Entschädigung auf Grund des Lohns berechnet, der ihnen entgangen ist.[^4-7]
 
@@ -100,9 +104,9 @@ Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des let
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^4-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^4-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-6]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^4-7]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-8]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-9]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
@@ -157,20 +161,21 @@ Die Entschädigung für Selbstständigerwerbende wird aufgrund des auf den Tag u
 - a. Krankheit;
 - b. Unfall;
 - c. Dienst im Sinne von Artikel 1*a* EOG;
-- d.[^7-1] Mutterschaftsurlaub im Sinne von Artikel 329*f* OR[^7-2] oder Urlaub des andern Elternteils im Sinne von Artikel 329*g*<sup>bis</sup> OR;
-- e. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG.[^7-3]
+- d.[^7-1] Mutterschaftsurlaub im Sinne von Artikel 329*f* OR[^7-2], Urlaub des andern Elternteils im Sinne von Artikel 329*g*<sup>bis</sup> OR oder ein gestützt auf Artikel 329*g* Absatz 1<sup>bis</sup> OR verlängerter Urlaub des andern Elternteils;
+- e.[^7-3] Betreuung eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG oder an mindestens vier aufeinanderfolgenden Tagen hospitalisiert (Art. 16*n* EOG) ist.[^7-4]
 
-<sup>1bis</sup> Wird für das Jahr der Dienstleistung später ein anderer AHV-Beitrag verfügt, so kann die Neuberechnung der Entschädigung verlangt werden.[^7-4]
+<sup>1bis</sup> Wird für das Jahr der Dienstleistung später ein anderer AHV-Beitrag verfügt, so kann die Neuberechnung der Entschädigung verlangt werden.[^7-5]
 
 <sup>2</sup> Für Personen, die glaubhaft machen, dass sie während der Zeit des Dienstes eine selbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten, wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie verdient hätten.
 
-<sup>3</sup> War eine selbstständig erwerbende Person nach dem Bundesgesetz vom 20. Dezember 1946[^7-5] über die Alters- und Hinterlassenenversicherung (AHVG) nicht beitragspflichtig, so wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie während des Jahres erzielt hat, das dem Einrücken vorangegangen ist.
+<sup>3</sup> War eine selbstständig erwerbende Person nach dem Bundesgesetz vom 20. Dezember 1946[^7-6] über die Alters- und Hinterlassenenversicherung (AHVG) nicht beitragspflichtig, so wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie während des Jahres erzielt hat, das dem Einrücken vorangegangen ist.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^7-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^7-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-4]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^7-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^7-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-6]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -182,19 +187,23 @@ Die Entschädigung wird auf Grund der Summe der Einkommen aus unselbstständiger
 
 #### Art. 9
 
-**Entschädigung für Personen, die bis zum Einrücken ein Taggeld bezogen haben**
+**Entschädigung für Personen, die bis zum Einrücken ein Taggeld bezogen haben**[^9-1]
 
 ### (Art. 11 EOG)
 
-Für Personen, die bis zum Einrücken ein Taggeld der Invalidenversicherung oder der obligatorischen Unfallversicherung bezogen haben, entspricht die Gesamtentschädigung mindestens dem bisherigen Taggeld.
+Für Personen, die bis zum Einrücken ein Taggeld der Invalidenversicherung oder der obligatorischen Unfallversicherung bezogen haben, entspricht die Dienstentschädigung mindestens dem bisherigen Taggeld. Das gilt nicht für Dienste nach Artikel 9 EOG.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 10
 
-**Entschädigung während der Grundausbildung im Zivilschutz**
+**Entschädigung während der Grundausbildung im Zivilschutz**[^10-1]
 
 ### (Art. 9 Abs. 4 dritter Satz EOG)
 
-Für Personen, die mindestens 40 Tage Dienst im Sinne von Artikel 1*a* Absätze 1 und 2<sup>bis</sup> EOG geleistet haben, beträgt die tägliche Grundentschädigung während der Grundausbildung im Zivilschutz 80 Prozent des vordienstlichen Durchschnittseinkommens.
+Für Personen, die mindestens 40 Tage Dienst im Sinne von Artikel 1*a* Absätze 1 und 2<sup>bis</sup> EOG geleistet haben, beträgt die tägliche Dienstentschädigung während der Grundausbildung im Zivilschutz 80 Prozent des vordienstlichen Durchschnittseinkommens.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 11
 
@@ -211,41 +220,67 @@ Der Dauer der Rekrutenschule entsprechen:
 
 #### Art. 12
 
-**Zusätzliche Kosten für die Kinderbetreuung**
+**Zusätzliche Kosten für die institutionelle Kinderbetreuung**[^12-1]
 
 ### (Art. 7 Abs. 1 EOG)
 
-Als Kosten für die Kinderbetreuung werden insbesondere vergütet:
+<sup>1</sup>
 
-- a. Auslagen für Mahlzeiten der Kinder ausser Hause;
-- b. Reise- und Unterbringungskosten für Kinder, die von Dritten betreut werden;
-- c. Löhne für Familien- oder Haushalthilfen;
-- d. Entgelte für Kinderkrippen, Tages- oder Schulhorte;
-- e. Reisekosten von Dritten, welche die Kinder im Haushalt der Dienst leistenden Person betreuen.
+Die institutionelle Kinderbetreuung umfasst:
+
+- a. Kinderkrippen;
+- b. Tages- oder Schulhorte;
+- c. schulergänzende Betreuungseinheiten für Schülerinnen und Schüler;
+- d. Tagesschulen;
+- e. Einrichtungen für Kinder gemischten Alters;
+- f. Tagesfamilien, sofern diese an Netzwerke oder Vereine angeschlossen sind.
+
+<sup>2</sup> Das Entgelt für die institutionelle Kinderbetreuung und die Auslagen für die Mahlzeiten, welche die Kinder im Rahmen einer institutionellen Betreuung einnehmen, werden vergütet.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 13
 
 **Höhe der Zulage**
 
-### (Art. 7 Abs. 2 EOG)
+### (Art. 7 Abs. 3 EOG)
 
-<sup>1</sup> Vergütet werden die tatsächlichen Kosten, höchstens aber 27 Prozent des Höchstbetrages der Gesamtentschädigung multipliziert mit der Anzahl der Diensttage.
+[^13-1]
+
+<sup>1</sup> Vergütet werden die tatsächlichen Kosten, höchstens aber 34 Prozent des Höchstbetrages nach Artikel 16 Absätze 1 und 2 EOG multipliziert mit der Anzahl der Diensttage.[^13-2]
 
 <sup>2</sup> Auslagen unter 20 Franken werden nicht vergütet.
 
-### 4. Abschnitt: Betriebszulage für mitarbeitende Familienmitglieder in einem Landwirtschaftsbetrieb
+[^13-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-(Art. 8 Abs. 2 EOG)
+### 4. Abschnitt: Betriebszulage
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 14
 
+**Betriebszulage für Dienstleistende**
+
+### (Art. 8 Abs. 1 EOG)
+
+Führt die anspruchsberechtigte Person einen Betrieb gemeinsam mit einer Person, die gestützt auf Artikel 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> oder 16*w*<sup>ter</sup> EOG ebenfalls Anspruch auf die Betriebszulage hat, so wird für diesen Betrieb nur eine Zulage pro Tag ausgerichtet.
+
+#### Art. 14a
+
+**Betriebszulage für Dienstleistende, die als mitarbeitende Familienmitglieder in einem Landwirtschaftsbetrieb tätig sind**
+
+### (Art. 8 Abs. 2 EOG)
+
 Anspruch auf die Betriebszulage haben Personen, die als mitarbeitende Familienmitglieder hauptberuflich in einem Landwirtschaftsbetrieb tätig sind und die:
 
-- a. als landwirtschaftliche Arbeitnehmer oder Arbeitnehmerinnen im Sinne von Artikel 1*a* Absatz 2 Buchstaben a und b des Bundesgesetzes vom 20. Juni 1952[^14-1] über die Familienzulagen in der Landwirtschaft (FLG) gelten oder Ehegattin oder Ehegatte des Betriebsleiters oder der Betriebsleiterin sind;
+- a. als landwirtschaftliche Arbeitnehmer oder Arbeitnehmerinnen im Sinne von Artikel 1*a* Absatz 2 Buchstaben a und b des Bundesgesetzes vom 20. Juni 1952[^14a-1] über die Familienzulagen in der Landwirtschaft (FLG) gelten oder Ehegattin oder Ehegatte des Betriebsleiters oder der Betriebsleiterin sind;
 - b. ununterbrochen mindestens zwölf Tage Dienst leisten; und
 - c. für die während mindestens zehn Tage eine Ersatzkraft im Betrieb tätig ist, deren Barlohn im Tagesdurchschnitt mindestens die Höhe der Betriebszulage erreicht.
 
-[^14-1]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^14a-1]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### 5. Abschnitt: Geltendmachung des Anspruchs
 
@@ -370,7 +405,7 @@ Das Informationssystem nach Artikel 21*a* EOG enthält folgende Daten:
 - a. die folgenden Daten der dienstleistenden Person: die AHV-Nummer, den Familiennamen, die Vornamen, das Geburtsdatum, das Geschlecht, die Wohnadresse, die E-Mail-Adresse und die Telefonnummer;
 - b. die Daten zum Dienst, insbesondere die Kontrollnummer, das Einrückungsdatum gemäss Marschbefehl oder Einberufung, die Dienstperiode, den Code der Dienstleistung, Mutationen und die Anzahl besoldete Diensttage;
 - c. die folgenden Daten zu den Kindern der dienstleistenden Person: die AHV-Nummer, den Familiennamen, die Vornamen, das Geburtsdatum, das Kindesverhältnis, den Ausbildungsnachweis und gegebenenfalls das Formular zu Pflegekindern und zu Kindern der Ehegattin oder des Ehegatten;
-- d. die Angaben zu den zusätzlichen Kosten für die Kinderbetreuung;
+- d.[^19b-1] die Angaben zu den zusätzlichen Kosten für die institutionelle Kinderbetreuung;
 - e. die Angaben zur vordienstlichen Tätigkeit;
 - f. die Angaben zur Auszahlung der Entschädigung;
 - g. die Dokumente zur Bescheinigung der in den Buchstaben a–f angegebenen Daten, sofern diese nicht aus einem der in Artikel 21*a* Absatz 2 EOG genannten Informationssysteme oder Register stammen;
@@ -383,6 +418,8 @@ Die Daten nach Absatz 1 werden der zuständigen Ausgleichskasse zur Bearbeitung 
 - a. sobald die dienstleistende Person die Anmeldung im Informationssystem freigegeben hat;
 - b. sobald eine Anmeldung auf dem offiziellen Papierformular eingereicht wurde; oder
 - c. auf Antrag einer nach Artikel 17 Absatz 1 EOG befugten Person.
+
+[^19b-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 19c
 
@@ -432,9 +469,11 @@ Die ZAS ist verantwortlich für den Datenschutz des Informationssystems nach Art
 
 ### (Art. 18 EOG)
 
-<sup>1</sup> Die Ausgleichskasse kann die Festsetzung der Grundentschädigung und der Kinderzulage an den Arbeitgeber delegieren, sofern die entschädigungsberechtigte Person nicht mehrere Arbeitgeber hat oder gleichzeitig eine unselbstständige und eine selbstständige Erwerbstätigkeit ausübt. Die Ausgleichskasse überprüft die Berechnung des Arbeitgebers.
+<sup>1</sup> Die Ausgleichskasse kann die Festsetzung der Dienstentschädigung an den Arbeitgeber delegieren, sofern die entschädigungsberechtigte Person nicht mehrere Arbeitgeber hat oder gleichzeitig eine unselbstständige und eine selbstständige Erwerbstätigkeit ausübt.[^20-1] Die Ausgleichskasse überprüft die Berechnung des Arbeitgebers.
 
 <sup>2</sup> Auf Gesuch der entschädigungsberechtigten Person hat die Ausgleichskasse oder der Arbeitgeber, falls dieser die Entschädigung festgesetzt hat, Auskunft über die Berechnung der Entschädigung zu erteilen.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 21
 
@@ -481,53 +520,58 @@ Die ZAS ist verantwortlich für den Datenschutz des Informationssystems nach Art
 
 <sup>1</sup> Der Anspruch auf Entschädigung entsteht, wenn das Kind lebensfähig geboren wird.
 
-<sup>2</sup> Der Anspruch der Mutter entsteht überdies, wenn die Schwangerschaft mindestens 23 Wochen gedauert hat.
+<sup>2</sup> Der Anspruch entsteht überdies, wenn die Schwangerschaft mindestens 23 Wochen gedauert hat.[^23-2]
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 24
 
-**Dauer der Ausrichtung der Mutterschaftsentschädigung bei längerem Spitalaufenthalt des Neugeborenen**[^24-1]
+**Längerer Spitalaufenthalt des Neugeborenen oder der Mutter**[^24-1]
 
-### (Art. 16*c* Abs. 3 EOG)
+### (Art. 16*c* Abs. 3 und 5 sowie 16*k* Abs. 5–7 EOG)
 
-Der Nachweis, dass das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verbleiben muss, ist durch ein Arztzeugnis zu erbringen.
+<sup>1</sup> Der Nachweis, dass das Neugeborene oder die Mutter innerhalb von zwei Wochen nach der Geburt des Kindes ununterbrochen während mindestens zwei Wochen im Spital verbleiben muss (Art. 16*c* Abs. 3 EOG), ist durch ein Arztzeugnis zu erbringen.
 
-[^24-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+<sup>2</sup> Sind das Neugeborene und die Mutter zur gleichen Zeit oder nacheinander hospitalisiert, so wird gesondert betrachtet, ob der jeweilige Spitalaufenthalt mindestens zwei Wochen dauert. Die Dauer der Ausrichtung der Mutterschaftsentschädigung wird nur um die Anzahl Tage verlängert, die der Dauer des längeren Spitalaufenthalts entspricht.
+
+<sup>3</sup> Der andere Elternteil hat den Nachweis, dass die Mutter zwischen dem Tag der Niederkunft und dem 97. Tag danach während mindestens zwei Wochen ununterbrochen im Spital verweilt (Art. 16*k* Abs. 5 EOG), durch ein Arztzeugnis zu erbringen.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 25
 
-**Ende des Anspruchs der Mutter**[^25-1]
+**Ende des Anspruchs**[^25-1]
 
-### (Art. 16*d* Abs. 3 erster Teilsatz EOG)
+### (Art. 16*d* Abs. 3 erster Satz, 16*k* Abs. 7 Bst. e und 16*k*<sup>bis</sup> Abs. 3 Bst. e EOG)
 
-[^25-2]
+<sup>1</sup> Der Anspruch der Mutter auf die Entschädigung endet am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
 
-Der Anspruch der Mutter auf Entschädigung endet am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
+<sup>2</sup> Der Anspruch des andern Elternteils auf die Entschädigung nach Artikel 16*k* Absatz 5 oder 16*k*<sup>bis</sup> Absatz 1 EOG endet am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
 
-[^25-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^25-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^25-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### 2. Abschnitt: Mindestversicherungsdauer
 
 #### Art. 26
 
-**Anrechnung ausländischer Versicherungszeiten**
+**Anrechnung ausländischer Versicherungszeiten**[^26-1]
 
 ### (Art. 16*b* Abs. 1 Bst. a und 16*i* Abs. 1 Bst. b EOG)
 
-[^26-1]
+Zur Bestimmung der Mindestversicherungsdauer nach Artikel 16*b* Absatz 1 Buchstabe a oder 16*i* Absatz 1 Buchstabe b EOG werden auch Versicherungszeiten berücksichtigt, die von der anspruchsberechtigten Mutter oder dem anspruchsberechtigten andern Elternteil in Anwendung der nachstehenden Rechtsvorschriften erworben wurden:
 
-Zur Bestimmung der Mindestversicherungsdauer nach Artikel 16*b* Absatz 1 Buchstabe a oder 16*i* Absatz 1 Buchstabe b EOG werden auch Zeiten berücksichtigt, während derer die anspruchsberechtigte Mutter oder der anspruchsberechtigte andere Elternteil obligatorisch in einem Staat versichert war:[^26-2]
+- a. Abkommen vom 21. Juni 1999[^26-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, sein Anhang II und die Verordnungen (EG) Nr. 883/2004[^26-3] und Nr. 987/2009[^26-4];
+- b. Übereinkommen zur Errichtung der Europäischen Freihandelsassoziation vom 4. Januar 1960[^26-5] (Anlage 2 zu Anhang K) und die Verordnungen (EG) Nr. 883/2004 und Nr. 987/2009[^26-6];
+- c. Abkommen vom 9. September 2021[^26-7] zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland.
 
-- a. für den das Abkommen vom 21. Juni 1999[^26-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, sein Anhang II und die Verordnungen Nr. 1408/71 und Nr. 574/72[^26-4] in ihrer angepassten Fassung[^26-5] gelten;
-- b. der der Europäischen Freihandelszone angehört.
-
-[^26-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^26-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^26-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^26-4]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71, ABl Nr. L 74 vom 27. März 1972, S. 1 (ebenfalls kodifiziert durch die Verordnung [EG] Nr. 118/97 des Rates vom 2. Dez. 1996, ABl Nr. L 28 vom 30. Jan. 1997, S. 1); zuletzt geändert durch Verordnung (EG) Nr. 307/1999 des Rates vom 8. Febr. 1999, ABl Nr. L 38 vom 12. Febr. 1999, S. 1.
-[^26-5]: Eine provisorische, konsolidierte Fassung des Textes der Verordnungen (EWG) Nr. 1408/71 und Nr. 574/72 mit den zuletzt durch die Verordnung (EG) des Rates Nr. 307/1999 erfolgten Änderungen kann beim Bundesamt für Sozialversicherungen, 3003 Bern bezogen werden. Massgeblich ist hingegen allein die im Amtsblatt der EG publizierte Fassung.
+[^26-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^26-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^26-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit in der für die Schweiz gemäss Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) verbindlichen Fassung; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^26-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit in der für die Schweiz gemäss Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) verbindlichen Fassung; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
+[^26-5]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^26-6]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit und Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit in der für die Schweiz gemäss Anhang K Anlage 2 des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ([SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)) jeweils verbindlichen Fassung.
+[^26-7]: [SR 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 
 #### Art. 27
 
@@ -550,22 +594,23 @@ Bei vorzeitiger Geburt wird die in Artikel 16*b* Absatz 1 Buchstabe a oder Artik
 
 #### Art. 28
 
-**Anrechnung ausländischer Erwerbszeiten**
+**Anrechnung ausländischer Erwerbszeiten**[^28-1]
 
 ### (Art. 16*b* Abs. 1 Bst. b und 16*i* Abs. 1 Bst. c EOG)
 
-[^28-1]
+Zur Bestimmung der Mindesterwerbsdauer nach Artikel 16*b* Absatz 1 Buchstabe b oder 16*i* Absatz 1 Buchstabe c EOG werden auch Erwerbszeiten berücksichtigt, die von der anspruchsberechtigten Mutter oder dem anspruchsberechtigten andern Elternteil in Anwendung der nachstehenden Rechtsvorschriften erworben wurden:
 
-Zur Bestimmung der Mindesterwerbsdauer nach Artikel 16*b* Absatz 1 Buchstabe b oder 16*i* Absatz 1 Buchstabe c EOG werden auch Zeiten berücksichtigt, während derer die anspruchsberechtigte Mutter oder der anspruchsberechtigte Vater in einem Staat erwerbstätig war:[^28-2]
+- a. Abkommen vom 21. Juni 1999[^28-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, sein Anhang II und die Verordnungen (EG) Nr. 883/2004[^28-3] und Nr. 987/2009[^28-4];
+- b. Übereinkommen zur Errichtung der Europäischen Freihandelsassoziation vom 4. Januar 1960[^28-5] (Anlage 2 zu Anhang K) und die Verordnungen (EG) Nr. 883/2004 und Nr. 987/2009[^28-6];
+- c. Abkommen vom 9. September 2021[^28-7] zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland.
 
-- a. für den das Abkommen vom 21. Juni 1999[^28-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, sein Anhang II und die Verordnung Nr. 1408/71 und Nr. 574/72[^28-4] in ihrer angepassten Fassung[^28-5] gelten;
-- b. der der Europäischen Freihandelszone angehört.
-
-[^28-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^28-2]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^28-4]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71, ABl Nr. L 74 vom 27. März 1972, S. 1 (ebenfalls kodifiziert durch die Verordnung [EG] Nr. 118/97 des Rates vom 2. Dez. 1996, ABl Nr. L 28 vom 30. Jan. 1997, S. 1); zuletzt geändert durch Verordnung (EG) Nr. 307/1999 des Rates vom 8. Febr. 1999, ABl Nr. L 38 vom 12. Febr. 1999, S. 1.
-[^28-5]: Eine provisorische, konsolidierte Fassung des Textes der Verordnungen (EWG) Nr. 1408/71 und Nr. 574/72 mit den zuletzt durch die Verordnung (EG) des Rates Nr. 307/1999 erfolgten Änderungen kann beim Bundesamt für Sozialversicherungen, 3003 Bern, bezogen werden. Massgeblich ist hingegen allein die im Amtsblatt der EG publizierte Fassung.
+[^28-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^28-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^28-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit in der für die Schweiz gemäss Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) verbindlichen Fassung; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^28-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit in der für die Schweiz gemäss Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) verbindlichen Fassung; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
+[^28-5]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^28-6]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit und Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit in der für die Schweiz gemäss Anhang K Anlage 2 des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ([SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)) jeweils verbindlichen Fassung.
+[^28-7]: [SR 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 
 #### Art. 28a
 
@@ -590,35 +635,39 @@ Zur Bestimmung der Mindesterwerbsdauer nach Artikel 16*b* Absatz 1 Buchstabe b o
 Eine Mutter, die im Zeitpunkt der Geburt arbeitslos ist oder infolge Arbeitslosigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16*b* Absatz 1 Buchstabe b EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn sie:
 
 - a. bis zur Geburt ein Taggeld der Arbeitslosenversicherung bezog; oder
-- b. am Tag der Geburt die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^29-2] erforderliche Beitragsdauer erfüllt.
+- b.[^29-2] am Tag der Geburt die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^29-3] (AVIG) erforderliche Beitragsdauer erfüllt.
 
 <sup>1bis</sup>
 
 Eine Mutter nach Absatz 1 Buchstabe a hat Anspruch auf die länger dauernde Ausrichtung der Mutterschaftsentschädigung (Art. 16*c* Abs. 3 EOG), wenn sie:
 
 - a. die Taggelder der Arbeitslosenversicherung vor der Geburt nicht ausgeschöpft hat und die Rahmenfrist für den Leistungsbezug am Tag nach Ende des Mutterschaftsurlaubs noch offen ist; und
-- b. ein Arztzeugnis nach Artikel 24 vorlegt.[^29-3]
+- b.[^29-4] ein Arztzeugnis nach Artikel 24 Absatz 1 vorlegt.[^29-5]
 
 <sup>2</sup>
 
-Der andere Elternteil, der im Zeitpunkt der Geburt arbeitslos ist oder infolge Arbeitslosigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16*i* Absatz 1 Buchstabe c EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn er:[^29-4]
+Der andere Elternteil, der im Zeitpunkt der Geburt arbeitslos ist oder infolge Arbeitslosigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16*i* Absatz 1 Buchstabe c EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn er:[^29-6]
 
 - a. bis zur Geburt ein Taggeld der Arbeitslosenversicherung bezog; oder
-- b. am Tag der Geburt Dienst im Sinne von Artikel 1*a* EOG leistet und an diesem Tag die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz erforderliche Beitragsdauer erfüllt.[^29-5]
+- b.[^29-7] am Tag der Geburt Dienst im Sinne von Artikel 1*a* EOG leistet und an diesem Tag die für den Bezug eines Taggeldes nach dem AVIG erforderliche Beitragsdauer erfüllt.[^29-8]
 
 <sup>3</sup>
 
 Der andere Elternteil nach Absatz 2 Buchstabe a hat Anspruch auf zusätzliche Taggelder im Falle des Todes der Mutter (Art. 16*k**<sup>bis</sup>* Abs. 2 EOG), wenn er:
 
 - a. die Taggelder der Arbeitslosenversicherung vor der Geburt nicht ausgeschöpft hat und die Rahmenfrist für den Leistungsbezug am Tag nach Ende des Urlaubs des andern Elternteils im Falle des Todes der Mutter noch offen ist; und
-- b. ein ärztliches Zeugnis nach Artikel 24 vorlegt.[^29-6]
+- b.[^29-9] ein Arztzeugnis nach Artikel 24 Absatz 1 vorlegt.[^29-10]
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
-[^29-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^29-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^29-6]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-3]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^29-4]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-6]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-7]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-8]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-9]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-10]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 30
 
@@ -630,12 +679,13 @@ Der andere Elternteil nach Absatz 2 Buchstabe a hat Anspruch auf zusätzliche Ta
 
 Die Mutter oder der andere Elternteil, die oder der im Zeitpunkt der Geburt arbeitsunfähig ist oder infolge Arbeitsunfähigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16*b* Absatz 1 Buchstabe b oder 16*i* Absatz 1 Buchstabe c EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn sie oder er:[^30-3]
 
-- a. bis zur Geburt eine Entschädigung einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall oder Taggelder der Invalidenversicherung bezogen hat; oder
+- a.[^30-4] bis zur Geburt Taggelder einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall oder Taggelder der Invalidenversicherung bezogen hat; oder
 - b. im Zeitpunkt der Geburt noch in einem gültigen Arbeitsverhältnis steht, der Anspruch auf Lohnfortzahlung jedoch vor diesem Zeitpunkt schon erschöpft war.
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^30-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^30-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^30-4]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### 4. Abschnitt: Berechnung der Entschädigung
 
@@ -656,9 +706,9 @@ Die Entschädigung wird aufgrund des letzten vor der Geburt erzielten und auf de
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
 - e.[^31-3] Mutterschaftsurlaub im Sinne von Artikel 329*f* OR[^31-4] oder Urlaub des andern Elternteils im Sinne von Artikel 329*g* oder 329*g*<sup>bis</sup> OR;
-- f.[^31-5] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- f.[^31-5] Betreuung eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG oder an mindestens vier aufeinanderfolgenden Tagen hospitalisiert (Art. 16*n* EOG) ist;
 - g.[^31-6] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
-- h.[^31-7] anderer Gründe, die nicht auf ihr oder sein Verschulden zurückzuführen sind.
+- h.[^31-7] anderen Gründen, sofern diese nicht auf ihr oder sein Verschulden zurückzuführen sind.
 
 <sup>2</sup> Die Entschädigungen für die Mutter und den andern Elternteil werden gesondert berechnet.[^31-8]
 
@@ -668,9 +718,9 @@ Die Entschädigung wird aufgrund des letzten vor der Geburt erzielten und auf de
 [^31-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^31-5]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-5]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^31-6]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-7]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-7]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^31-8]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-9]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
@@ -693,6 +743,34 @@ Für die selbstständig erwerbende Mutter und den selbstständig erwerbenden and
 Die Entschädigung der Mutter und des andern Elternteils, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird aufgrund der Summe der Einkommen aus unselbstständiger und selbstständiger Erwerbstätigkeit berechnet, die nach den Artikeln 7 Absätze 1 und 1<sup>bis</sup> sowie 31 ermittelt werden.
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+
+### 4*a*. Abschnitt: Zulage für Betreuungskosten und Betriebszulage
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 33a
+
+**Zulage für Betreuungskosten**
+
+### (Art. 16*f*<sup>bis</sup> und 16*l*<sup>bis</sup> EOG)
+
+<sup>1</sup> Für die Bestimmung der zusätzlichen Kosten für die institutionelle Kinderbetreuung ist Artikel 12 anwendbar.
+
+<sup>2</sup> Für die Bestimmung der Höhe der Zulage für Betreuungskosten ist Artikel 13 sinngemäss anwendbar.
+
+<sup>3</sup> Die anspruchsberechtigte Person muss mit einem Arztzeugnis nachweisen, dass ihre oder die Gesundheit des Kindes beeinträchtigt war und deshalb zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind.
+
+#### Art. 33b
+
+**Betriebszulage**
+
+### (Art. 16*f*<sup>ter</sup> und 16*l*<sup>ter</sup> EOG)
+
+<sup>1</sup> Führt die anspruchsberechtigte Person einen Betrieb gemeinsam mit einer Person, die gestützt auf Artikel 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> oder 16*w*<sup>ter</sup> EOG ebenfalls Anspruch auf die Betriebszulage hat, so wird für diesen Betrieb nur eine Zulage pro Tag ausgerichtet.
+
+<sup>2</sup> Der Anspruch auf die Betriebszulage für Personen, die als mitarbeitende Familienmitglieder hauptberuflich in einem Landwirtschaftsbetrieb tätig sind, richtet sich nach Artikel 14*a*.
 
 ### 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung
 
@@ -726,10 +804,10 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Au
 
 <sup>3</sup> Der Arbeitgeber, bei dem der andere Elternteil während seines Urlaubs angestellt ist, oder die Arbeitslosenkasse des andern Elternteils bescheinigt den Bezug der Urlaubstage.
 
-<sup>4</sup> Die zuständige Stelle stellt der Mutter, die als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, eine Bescheinigung aus, dass für die Sitzungen keine Vertretung vorgesehen ist. Die Mutter reicht diese Bescheinigung der Ausgleichkasse ein.[^34a-2]
+<sup>4</sup> Die zuständige Stelle stellt der Mutter oder dem andern Elternteil, die oder der als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, eine Bescheinigung aus, dass für die Sitzungen keine Vertretung vorgesehen ist. Die Mutter oder der andere Elternteil reicht diese Bescheinigung der Ausgleichkasse ein.[^34a-2]
 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^34a-2]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^34a-2]: Eingefügt durch Ziff. I der V vom 10. April 2024 ([AS 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)). Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35
 
@@ -753,17 +831,18 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Au
 [^35-4]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
-## 2*a*. Kapitel: Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
+## 2*a*. Kapitel: Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten oder hospitalisierten Kindes
 
-[^chap2a-1]
+[^chap2a-1][^chap2a-2]
 
 [^chap2a-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^chap2a-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-### 1. Abschnitt: Anspruch von Pflegeeltern, Stiefeltern sowie von der arbeitslosen oder arbeitsunfähigen Mutter oder dem arbeitslosen oder arbeitsunfähigen andern Elternteil
+### 1. Abschnitt: Anspruch
 
 [^chap2a-sec1-1]
 
-[^chap2a-sec1-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^chap2a-sec1-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35a
 
@@ -771,9 +850,11 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Au
 
 ### (Art. 16*n* EOG)
 
-<sup>1</sup> Die Anspruchsberechtigung von Pflegeeltern, die das Kind zu dauernder Pflege und Erziehung aufgenommen haben, richtet sich nach Artikel 16*n* Absätze 1 und 2 EOG.
+<sup>1</sup> Die Anspruchsberechtigung von Pflegeeltern, die das Kind zu dauernder Pflege und Erziehung aufgenommen haben, richtet sich nach Artikel 16*n* Absätze 1–2<sup>bis</sup> EOG.[^35a-1]
 
 <sup>2</sup> Der Anspruch der Pflegeeltern erlischt, wenn das Kind zu einem Elternteil zurückkehrt.
+
+[^35a-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35b
 
@@ -781,20 +862,26 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Au
 
 ### (Art. 16*n* EOG)
 
-Eine Stiefmutter oder ein Stiefvater ist nach Artikel 16*n* Absätze 1 und 2 EOG anspruchsberechtigt, wenn:
+Eine Stiefmutter oder ein Stiefvater ist nach Artikel 16*n* Absätze 1–2<sup>bis</sup> EOG anspruchsberechtigt, wenn:[^35b-1]
 
 - a. sie oder er mit dem Elternteil, unter dessen elterlicher Sorge und Obhut sich das Kind befindet, einen gemeinsamen Haushalt führt und ihm bei der Pflege und Erziehung des Kindes in angemessener Weise beisteht; und
 - b. ein Elternteil vollständig auf seinen Anspruch verzichtet, sofern das Kindesverhältnis zu beiden Elternteilen besteht.
+
+[^35b-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35c
 
 **Arbeitslose Mutter oder arbeitsloser anderer Elternteil**[^35c-1]
 
-### (Art. 16*n* EOG)
+### (Art. 16*n* Abs. 3 Bst. b EOG)
 
-Die Anspruchsberechtigung der arbeitslosen Mutter oder des arbeitslosen andern Elternteils richtet sich nach Artikel 16*n* Absätze 1 und 2 EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und sie oder er bis zum Beginn des Anspruchs ein Taggeld der Arbeitslosenversicherung bezogen hat.
+Die Anspruchsberechtigung der arbeitslosen Mutter oder des arbeitslosen andern Elternteils richtet sich nach Artikel 16*n* Absätze 1–2<sup>bis</sup> EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und:
 
-[^35c-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+- a. sie oder er bis zum Beginn des Anspruchs ein Taggeld der Arbeitslosenversicherung bezogen hat; oder
+- b. sie oder er bei Beginn des Anspruchs Dienst im Sinne von Artikel 1*a* EOG leistet und an diesem Tag die für den Bezug eines Taggeldes nach dem AVIG[^35c-2] erforderliche Beitragsdauer erfüllt.
+
+[^35c-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35c-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 35d
 
@@ -804,51 +891,92 @@ Die Anspruchsberechtigung der arbeitslosen Mutter oder des arbeitslosen andern E
 
 [^35d-1]
 
-Die Anspruchsberechtigung der arbeitsunfähigen Mutter oder des arbeitsunfähigen andern Elternteils richtet sich nach Artikel 16*n* Absätze 1 und 2 EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und:[^35d-2]
+Die Anspruchsberechtigung der arbeitsunfähigen Mutter oder des arbeitsunfähigen andern Elternteils richtet sich nach Artikel 16*n* Absätze 1–2<sup>bis</sup> EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und:[^35d-2]
 
-- a. sie oder er bis zum Beginn des Anspruchs Taggelder der Invalidenversicherung oder von einer Sozial- oder Privatversicherung eine Entschädigung für Erwerbsausfall bei Krankheit oder Unfall bezogen hat; oder
+- a.[^35d-3] sie oder er bis zum Beginn des Anspruchs Taggelder einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall oder Taggelder der Invalidenversicherung bezogen hat; oder
 - b. bei Beginn des Anspruchs noch ein gültiges Arbeitsverhältnis besteht, der Anspruch auf Lohnfortzahlung jedoch vor diesem Zeitpunkt schon erschöpft war.
 
 [^35d-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35d-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-
-### 2. Abschnitt: Berechnung der Entschädigung
+[^35d-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35d-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35e
 
-**Aufteilung unter den Eltern**
+**Anzahl der Taggelder**[^35e-1]
 
-### (Art. 16*q* Abs. 4 EOG)
+### (Art. 16*q* Abs. 2<sup>bis</sup> und 4 EOG)
 
-Wird der Betreuungsurlaub unter den Eltern aufgeteilt, so werden die Entschädigungen für jeden Elternteil gesondert berechnet.
+<sup>1</sup> Ist das Kind an mindestens vier Tagen hospitalisiert (Art. 16*n* EOG), ohne gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG zu sein, so besteht für dieses Kind pro Tag nur für einen Elternteil Anspruch auf ein Taggeld.
 
-#### Art. 35f
+<sup>2</sup> Die Eltern können für dasselbe Kind nicht gleichzeitig eine Entschädigung für die Betreuung eines an mindestens vier Tagen hospitalisierten Kindes (Art. 16*n* EOG) und eine Entschädigung für die Betreuung eines im Sinne von Artikel 16*o* EOG gesundheitlich schwer beeinträchtigten Kindes beziehen.
 
-**Entschädigung für Arbeitnehmerinnen und Arbeitnehmer**
+[^35e-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-### (Art. 16*r* EOG)
+#### Art. 35e<sup>bis</sup>
+
+**Karenzfrist der Entschädigung für die Betreuung eines an mindestens vier Tagen hospitalisierten Kindes**[^35ebis-1]
+
+### (Art. 16*q* EOG)
+
+Die Karenzfrist von drei Tagen beginnt mit jeder Hospitalisierung (Art. 16*n* EOG) neu zu laufen.
+
+[^35ebis-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35e<sup>ter</sup>
+
+**Koordination zwischen der Entschädigung für die Betreuung eines an mindestens vier Tagen hospitalisierten Kindes und der Entschädigung für die Betreuung eines gesundheitlich schwer beeinträchtigten Kindes**[^35eter-1]
+
+### (Art. 16*n*, 16*o* sowie 16*p* Abs. 1, 4 und 5 EOG)
 
 <sup>1</sup>
 
-Die Entschädigung wird aufgrund des letzten vor dem Bezug der jeweiligen Urlaubstage erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen die anspruchsberechtigte Person kein oder nur ein vermindertes Einkommen erzielt hat wegen:
+Im Zeitpunkt, in dem der Anspruch auf die Entschädigung für die Betreuung eines im Sinne von Artikel 16*o* EOG gesundheitlich schwer beeinträchtigten Kindes entsteht:
+
+- a. endet für dasselbe Kind der Anspruch auf die Entschädigung für die Betreuung eines an mindestens vier Tagen hospitalisierten Kindes (Art. 16*n* EOG); und
+- b. beginnt die Rahmenfrist nach Artikel 16*p* Absatz 1 EOG zu laufen.
+
+<sup>2</sup> Der Anspruch auf die Entschädigung für die Betreuung eines im Sinne von Artikel 16*o* EOG gesundheitlich schwer beeinträchtigten Kindes endet nicht, wenn dasselbe Kind an mindestens vier Tagen hospitalisiert (Art. 16*n* EOG) ist.
+
+<sup>3</sup> Die Dauer des Spitalaufenthalts und der anschliessenden Genesung sind durch ein Arztzeugnis nachzuweisen.
+
+[^35eter-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+### 2. Abschnitt: Berechnung der Entschädigung
+
+[^chap2a-sec2-1][^chap2a-sec2-2]
+
+[^chap2a-sec2-1]: Ursprünglich: vor Art. 35*e*.
+[^chap2a-sec2-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35f
+
+**Entschädigung für Arbeitnehmerinnen und Arbeitnehmer**[^35f-1]
+
+### (Art. 16*r* EOG)
+
+<sup>1</sup> Die Entschädigung für Eltern eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG ist, wird aufgrund des letzten vor dem Bezug der jeweiligen Urlaubstage erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet.
+
+<sup>2</sup> Die Entschädigung für Eltern eines an mindestens vier Tagen hospitalisierten Kindes (Art. 16*n* EOG) wird aufgrund des letzten vor Beginn des Spitalaufenthalts des Kindes erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet.
+
+<sup>3</sup>
+
+Für die Umrechnung werden Tage nicht berücksichtigt, an denen die anspruchsberechtigte Person kein oder nur ein vermindertes Einkommen erzielt hat wegen:
 
 - a. Krankheit;
 - b. Unfall;
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
-- e.[^35f-1] Mutterschaftsurlaub im Sinne von Artikel 329*f* OR[^35f-2] oder Urlaub des andern Elternteils im Sinne von Artikel 329*g* oder 329*g*<sup>bis</sup> OR;
-- f. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
-- g.[^35f-3] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
-- h.[^35f-4] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+- e. Mutterschaftsurlaub im Sinne von Artikel 329*f* OR[^35f-2] oder Urlaub des andern Elternteils im Sinne von Artikel 329*g* oder 329*g*<sup>bis</sup> OR;
+- f. Betreuung eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG oder an mindestens vier aufeinanderfolgenden Tagen hospitalisiert (Art. 16*n* EOG) ist;
+- g. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+- h. anderen Gründen, sofern diese nicht auf ihr Verschulden zurückzuführen sind.
 
-<sup>2</sup> Das Taggeld wird neu berechnet, wenn sich das massgebende Einkommen während des Bezugs der Urlaubstage verändert.
+<sup>4</sup> Das Taggeld wird neu berechnet, wenn sich das massgebende Einkommen während des Bezugs der Urlaubstage verändert.
 
-<sup>3</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
+<sup>5</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
 
-[^35f-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35f-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^35f-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^35f-3]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35f-4]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35g
 
@@ -869,6 +997,34 @@ Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absätze 1 und 
 Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35*f* ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absätze 1 und 1<sup>bis</sup> ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.
 
 [^35h-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
+### 2*a*. Abschnitt: Zulage für Betreuungskosten und Betriebszulage
+
+[^chap2a-sec2a-1]
+
+[^chap2a-sec2a-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35h<sup>bis</sup>
+
+**Zulage für Betreuungskosten**
+
+### (Art. 16*r*<sup>bis</sup> EOG)
+
+<sup>1</sup> Für die Bestimmung der zusätzlichen Kosten für die institutionelle Kinderbetreuung ist Artikel 12 anwendbar.
+
+<sup>2</sup> Für die Bestimmung der Höhe der Zulage für Betreuungskosten ist Artikel 13 sinngemäss anwendbar.
+
+<sup>3</sup> Die anspruchsberechtigte Person muss mit einem Arztzeugnis nachweisen, dass ihre oder die Gesundheit des Kindes beeinträchtigt war und deshalb zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind.
+
+#### Art. 35h<sup>ter</sup>
+
+**Betriebszulage**
+
+### (Art. 16*r*<sup>ter</sup> Abs. 2 zweiter Satz EOG)
+
+<sup>1</sup> Führt die anspruchsberechtigte Person einen Betrieb gemeinsam mit einer Person, die gestützt auf Artikel 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> oder 16*w*<sup>ter</sup> EOG ebenfalls Anspruch auf die Betriebszulage hat, so wird für diesen Betrieb nur eine Zulage pro Tag ausgerichtet.
+
+<sup>2</sup> Der Anspruch auf die Betriebszulage für Personen, die als mitarbeitende Familienmitglieder hauptberuflich in einem Landwirtschaftsbetrieb tätig sind, richtet sich nach Artikel 14*a*.
 
 ### 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung
 
@@ -940,6 +1096,33 @@ Für die Bestimmung der Mindesterwerbsdauer nach Artikel 16*t* Absatz 1 Buchstab
 - a. Dienst im Sinne von Artikel 1*a* EOG leistete; oder
 - b. Taggelder der Arbeitslosenversicherung, der Invalidenversicherung oder einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall bezog.
 
+#### Art. 35m<sup>bis</sup>
+
+**Arbeitslose Personen**[^35mbis-1]
+
+### (Art. 16*t* Abs. 1<sup>bis</sup> EOG)
+
+Personen, die im Zeitpunkt der Aufnahme des Kindes arbeitslos sind oder infolge Arbeitslosigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16*t* Absatz 1 Buchstabe b EOG nicht erfüllen, haben Anspruch auf die Entschädigung, wenn sie:
+
+- a. bis zum Tag der Aufnahme des Kindes ein Taggeld der Arbeitslosenversicherung bezogen haben; oder
+- b. am Tag der Aufnahme des Kindes Dienst im Sinne von Artikel 1*a* EOG leisten und an diesem Tag die für den Bezug eines Taggeldes nach dem AVIG[^35mbis-2] erforderliche Beitragsdauer erfüllen.
+
+[^35mbis-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35mbis-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
+#### Art. 35m<sup>ter</sup>
+
+**Arbeitsunfähige Personen**[^35mter-1]
+
+### (Art. 16*t* Abs. 1<sup>bis</sup> EOG)
+
+Personen, die im Zeitpunkt der Aufnahme des Kindes arbeitsunfähig sind oder infolge Arbeitsunfähigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16*t* Absatz 1 Buchstabe b EOG nicht erfüllen, haben Anspruch auf die Entschädigung, wenn sie:
+
+- a. bis zum Zeitpunkt der Aufnahme des Kindes Taggelder einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall oder Taggelder der Invalidenversicherung bezogen haben; oder
+- b. im Zeitpunkt der Aufnahme des Kindes noch in einem gültigen Arbeitsverhältnis stehen, der Anspruch auf Lohnfortzahlung jedoch vor diesem Zeitpunkt schon erschöpft war.
+
+[^35mter-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
 ### 2. Abschnitt: Berechnung der Entschädigung
 
 #### Art. 35n
@@ -957,14 +1140,16 @@ Die Entschädigung wird aufgrund des letzten vor dem Tag der Aufnahme des Kindes
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
 - e.[^35n-1] Mutterschaftsurlaub im Sinne von Artikel 329*f* OR[^35n-2] oder Urlaub des andern Elternteils im Sinne von Artikel 329*g* oder 329*g*<sup>bis</sup> OR;
-- f. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- f.[^35n-3] Betreuung eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt im Sinne von Artikel 16*o* EOG oder an mindestens vier aufeinanderfolgenden Tagen hospitalisiert (Art. 16*n* EOG) ist;
 - g. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
-- h. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+- h.[^35n-4] anderen Gründen, sofern diese nicht auf ihr Verschulden zurückzuführen sind.
 
 <sup>2</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
 
 [^35n-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35n-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^35n-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35n-4]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35o
 
@@ -981,6 +1166,34 @@ Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absätze 1 und 
 ### (Art. 16*w* EOG)
 
 Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35*n* ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absätze 1 und 1<sup>bis</sup> ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.
+
+### 2*a*. Abschnitt: Zulage für Betreuungskosten und Betriebszulage
+
+[^chap2b-sec2a-1]
+
+[^chap2b-sec2a-1]: Eingefügt durch Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35p<sup>bis</sup>
+
+**Zulage für Betreuungskosten**
+
+### (Art. 16*w*<sup>bis</sup> EOG)
+
+<sup>1</sup> Für die Bestimmung der zusätzlichen Kosten für die institutionelle Kinderbetreuung ist Artikel 12 anwendbar.
+
+<sup>2</sup> Für die Bestimmung der Höhe der Zulage für Betreuungskosten ist Artikel 13 sinngemäss anwendbar.
+
+<sup>3</sup> Die anspruchsberechtigte Person muss mit einem Arztzeugnis nachweisen, dass ihre oder die Gesundheit des Kindes beeinträchtigt war und deshalb zusätzliche Kosten für die institutionelle Kinderbetreuung angefallen sind.
+
+#### Art. 35p<sup>ter</sup>
+
+**Betriebszulage**
+
+### (Art. 16*w*<sup>ter</sup> EOG)
+
+<sup>1</sup> Führt die anspruchsberechtigte Person einen Betrieb gemeinsam mit einer Person, die gestützt auf Artikel 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> oder 16*w*<sup>ter</sup> EOG ebenfalls Anspruch auf die Betriebszulage hat, so wird für diesen Betrieb nur eine Zulage pro Tag ausgerichtet.
+
+<sup>2</sup> Der Anspruch auf die Betriebszulage für Personen, die als mitarbeitende Familienmitglieder hauptberuflich in einem Landwirtschaftsbetrieb tätig sind, richtet sich nach Artikel 14*a*.
 
 ### 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung
 
@@ -1058,7 +1271,7 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 
 <sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 26–1300 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 548](https://fedlex.data.admin.ch/eli/oc/2026/548)).
+[^36-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 54](https://fedlex.data.admin.ch/eli/oc/2026/54)).
 [^36-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 37

@@ -4,11 +4,11 @@ title: Ordinanza del 24 novembre 2004 sulle indennità di perdita di guadagno (O
 short: OIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: it
-version: 2027-01-01
+version: 2027-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270701/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/it"
 
 (OIPG)
 
-del 24 novembre 2004 (Stato 1° gennaio 2027)
+del 24 novembre 2004 (Stato 1° luglio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,11 @@ ordina:
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^ingress-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
-## Capitolo 1: Indennità per persone che prestano servizio
+## Capitolo 1: Indennità di servizio
+
+[^chap1-1]
+
+[^chap1-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### Sezione 1: Diritto all’indennità
 
@@ -85,9 +89,9 @@ L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo sa
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
 - e.[^4-2] un congedo di maternità ai sensi dell’articolo 329*f* del Codice delle obbligazioni (CO)[^4-3] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
-- f.[^4-4] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- f.[^4-4] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG dovuti a malattia o infortunio o ricoverato in ospedale per una durata di almeno quattro giorni consecutivi (art. 16*n* LIPG);
 - g.[^4-5] accoglimento di un bambino di età inferiore a quattro anni in vista dell’adozione (adottando);
-- h.[^4-6] altri motivi non imputabili a colpa propria.
+- h.[^4-6] altri motivi, se non sono imputabili a colpa propria.
 
 <sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività lucrativa dipendente per un periodo più lungo o che avrebbe percepito un salario significativamente superiore a quello percepito prima dell’entrata in servizio, l’indennità è calcolata sulla base del salario che essa avrebbe potuto percepire.[^4-7]
 
@@ -98,9 +102,9 @@ L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo sa
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^4-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^4-4]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^4-5]: Introdotta dalla cifra I dell’O del 12 mag. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-6]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: Introdotta dalla cifra I dell’O del 24 ago. 2022 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^4-7]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-8]: Introdotto dalla cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-9]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
@@ -155,20 +159,21 @@ L’indennità per lavoratori indipendenti è calcolata sulla base del reddito d
 - a. malattia;
 - b. infortunio;
 - c. servizio ai sensi dell’articolo 1*a* LIPG;
-- d.[^7-1] un congedo di maternità ai sensi dell’articolo 329*f* CO[^7-2] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g*<sup>bis</sup> CO;
-- e. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG.[^7-3]
+- d.[^7-1] un congedo di maternità ai sensi dell’articolo 329*f* CO[^7-2], un congedo per l’altro genitore ai sensi dell’articolo 329*g*<sup>bis</sup> CO o un congedo per l’altro genitore prolungato in virtù dell’articolo 329*g* capoverso 1<sup>bis</sup> CO;
+- e.[^7-3] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG dovuti a malattia o infortunio o ricoverato in ospedale per una durata di almeno quattro giorni consecutivi (art. 16*n* LIPG).[^7-4]
 
-<sup>1bis</sup> Se in seguito viene stabilito un altro contributo AVS per l’anno del servizio, può essere richiesto un nuovo calcolo dell’indennità.[^7-4]
+<sup>1bis</sup> Se in seguito viene stabilito un altro contributo AVS per l’anno del servizio, può essere richiesto un nuovo calcolo dell’indennità.[^7-5]
 
 <sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività indipendente per un periodo più lungo, l’indennità è calcolata sulla base del reddito che avrebbe potuto conseguire.
 
-<sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
+<sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-6] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
 
-[^7-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^7-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^7-3]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-4]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-5]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -180,19 +185,23 @@ L’indennità è calcolata sommando i redditi da attività dipendente e quelli 
 
 #### Art. 9
 
-**Indennità per persone che fino all’entrata in servizio hanno percepito un’indennità giornaliera**
+**Indennità per persone che fino all’entrata in servizio hanno percepito un’indennità giornaliera**[^9-1]
 
 ### (art. 11 LIPG)
 
-Per le persone che fino all’entrata in servizio hanno percepito un’indennità giornaliera dell’assicurazione invalidità o dell’assicurazione obbligatoria contro gli infortuni, l’indennità corrisponde complessivamente almeno all’ammontare dell’indennità giornaliera percepita in precedenza.
+Per le persone che fino all’entrata in servizio hanno percepito un’indennità giornaliera dell’assicurazione per l’invalidità o dell’assicurazione obbligatoria contro gli infortuni, l’indennità di servizio corrisponde almeno all’ammontare dell’indennità giornaliera percepita in precedenza. Questo non vale per i servizi secondo l’articolo 9 LIPG.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 10
 
-**Indennità durante l’istruzione di base per la protezione civile**
+**Indennità durante l’istruzione di base per la protezione civile**[^10-1]
 
-### (art. 9 cpv. 4 terzo periodo LIPG)
+### (art. 9 cpv. 4, terzo periodo LIPG)
 
-Nel caso di persone che hanno prestato almeno 40 giorni di servizio ai sensi dell’articolo 1*a* capoversi 1 e 2<sup>bis</sup> LIPG, l’indennità giornaliera di base ammonta all’80 per cento del reddito medio percepito prima dell’entrata in servizio.
+Nel caso di persone che hanno prestato almeno 40 giorni di servizio ai sensi dell’articolo 1*a* capoversi 1 e 2<sup>bis</sup> LIPG, l’indennità giornaliera di servizio durante l’istruzione di base per la protezione civile ammonta all’80 per cento del reddito medio percepito prima dell’entrata in servizio.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 11
 
@@ -209,41 +218,67 @@ Sono considerati equivalenti alla durata di una scuola reclute:
 
 #### Art. 12
 
-**Spese supplementari per la custodia dei figli**
+**[Spese supplementari per la custodia istituzionale di bambini](https://www.fedlex.admin.ch/eli/cc/2005/187/it)**[^12-1]
 
-### (art. 7 cpv. 1 LIPG)
+### (art. 7 cpv. 1 e 2 LIPG)
 
-Sono rimborsate come spese per la custodia dei figli in particolar modo:
+<sup>1</sup>
 
-- a. spese per pasti dei figli consumati fuori casa;
-- b. spese di viaggio e di alloggio per figli che vengono accuditi da terzi;
-- c. retribuzioni per aiuti famigliari o domestici;
-- d. retribuzioni per asili nido, scuole diurne e doposcuola;
-- e. spese di viaggio di terzi che si recano al domicilio della persona che presta servizio per accudirne i figli.
+Per custodia istituzionale di bambini si intende la custodia in:
+
+- a. asili nido;
+- b. scuole diurne e doposcuola;
+- c. strutture di custodia parascolastica per gli allievi;
+- d. scuole a orario continuato;
+- e. strutture per bambini d’età mista;
+- f. famiglie diurne, purché siano membri di reti o associazioni.
+
+<sup>2</sup> La retribuzione per la custodia istituzionale di bambini e le spese per i pasti consumati dai bambini nell’ambito della custodia istituzionale di bambini sono rimborsate.
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 13
 
 **Ammontare degli assegni**
 
-### (art. 7 cpv. 2 LIPG)
+### (art. 7 cpv. 3 LIPG)
 
-<sup>1</sup> Sono rimborsati i costi effettivi, per una somma che non deve tuttavia superare il 27 per cento dell’indennità totale massima, moltiplicata per il numero dei giorni di servizio.
+[^13-1]
+
+<sup>1</sup> Sono rimborsati i costi effettivi, per una somma che non deve tuttavia superare il 34 per cento dell’importo massimo di cui all’articolo 16 capoversi 1 e 2 LIPG, moltiplicato per il numero dei giorni di servizio.[^13-2]
 
 <sup>2</sup> Spese inferiori a 20 franchi non sono rimborsate.
 
-### Sezione 4: Assegni per l’azienda a favore di persone che lavorano per l’azienda agricola di famiglia
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-(art. 8 cpv. 2 LIPG)
+### Sezione 4: Assegni per l’azienda
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 14
 
-Ha diritto all’assegno per l’azienda chi svolge la sua attività lucrativa principale nell’azienda agricola di famiglia e che:
+**Assegno per l’azienda per le persone che prestano servizio**
 
-- a. può essere qualificato come lavoratore salariato del settore agricolo ai sensi dell’articolo 1*a* capoverso 2 lettere a e b della legge federale del 20 giugno 1952[^14-1] sugli assegni familiari nell’agricoltura (LAF) oppure è sposato al capo dell’azienda;
+### (art. 8 cpv. 1 LIPG)
+
+Se l’avente diritto dirige un’azienda insieme a una persona che ha parimenti diritto all’assegno per l’azienda in virtù dell’articolo 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> o 16*w*<sup>ter</sup> LIPG, per l’azienda in questione è versato un solo assegno al giorno.
+
+#### Art. 14a
+
+**Assegno per l’azienda per le persone che prestano servizio e svolgono la loro attività nell’azienda agricola di famiglia**
+
+### (art. 8 cpv. 2 LIPG)
+
+Ha diritto all’assegno per l’azienda chi svolge la sua attività lucrativa principale nell’azienda agricola di famiglia e:
+
+- a. può essere qualificato come lavoratore salariato del settore agricolo ai sensi dell’articolo 1*a* capoverso 2 lettere a e b della legge federale del 20 giugno 1952[^14a-1] sugli assegni familiari nell’agricoltura (LAF) oppure è sposato al capo dell’azienda;
 - b. presta servizio per almeno 12 giorni consecutivi; e
 - c. per sostituire il quale è assunta, per lavorare nell’azienda, una persona retribuita per almeno dieci giorni con un salario che raggiunge, sulla base di una media giornaliera, almeno l’importo dell’assegno per l’azienda.
 
-[^14-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^14a-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### Sezione 5: Esercizio del diritto
 
@@ -367,7 +402,7 @@ Il sistema d’informazione di cui all’articolo 21*a* LIPG contiene i seguenti
 - a. i seguenti dati relativi alla persona che presta servizio: numero AVS, cognome, nomi, data di nascita, sesso, indirizzo di domicilio, indirizzo di posta elettronica e numero di telefono;
 - b. i dati relativi al periodo di servizio, segnatamente il numero di controllo, la data di entrata in servizio secondo l’ordine di marcia o la convocazione, il periodo di servizio, il codice del servizio, le mutazioni, il numero di giorni di soldo;
 - c. i seguenti dati relativi ai figli della persona che presta servizio: il numero AVS, il cognome, i nomi, la data di nascita, il rapporto di filiazione, l’attestato di formazione e, se del caso, il formulario per i figli elettivi e i figli del coniuge;
-- d. le spese supplementari per la custodia dei figli;
+- d.[^19b-1] le spese supplementari per la custodia istituzionale di bambini;
 - e. le informazioni sull’attività esercitata prima del periodo di servizio;
 - f. le coordinate per il pagamento dell’indennità;
 - g. i documenti attestanti i dati di cui alle lettere a–f, se non provengono da uno dei sistemi d’informazione o uno dei registri di cui all’articolo 21*a* capoverso 2 LIPG;
@@ -380,6 +415,8 @@ I dati di cui al capoverso 1 sono trasmessi alla cassa di compensazione competen
 - a. quando la persona che presta servizio l’ha convalidata nel sistema d’informazione;
 - b. quando una domanda d’indennità è depositata mediante il formulario ufficiale cartaceo; o
 - c. su richiesta di una persona autorizzata ad agire secondo l’articolo 17 capoverso 1 LIPG.
+
+[^19b-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 19c
 
@@ -429,9 +466,11 @@ L’UCC è responsabile della protezione dei dati del sistema d’informazione d
 
 ### (art. 18 LIPG)
 
-<sup>1</sup> La cassa di compensazione può incaricare il datore di lavoro di fissare l’indennità di base e gli assegni per i figli, purché la persona avente diritto all’indennità non sia legata a più datori di lavoro o svolga contemporaneamente un’attività dipendente ed un’attività indipendente. La cassa di compensazione verifica il calcolo del datore di lavoro.
+<sup>1</sup> La cassa di compensazione può incaricare il datore di lavoro di fissare l’indennità di servizio, purché l’avente diritto all’indennità non sia legato a più datori di lavoro o svolga contemporaneamente un’attività dipendente ed un’attività indipendente.[^20-1] La cassa di compensazione verifica il calcolo del datore di lavoro.
 
 <sup>2</sup> Su domanda della persona avente diritto all’indennità la cassa di compensazione, o il datore di lavoro nel caso l’indennità sia stata fissata da lui, è tenuta a fornire spiegazioni sul calcolo dell’indennità.
+
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 21
 
@@ -478,53 +517,58 @@ L’UCC è responsabile della protezione dei dati del sistema d’informazione d
 
 <sup>1</sup> Il diritto all’indennità sussiste se il neonato è in grado di vivere.
 
-<sup>2</sup> La madre ha inoltre diritto all’indennità se la gravidanza è durata almeno 23 settimane.
+<sup>2</sup> Sussiste inoltre se la gravidanza è durata almeno 23 settimane.[^23-2]
 
 [^23-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 24
 
-**Durata del versamento dell’indennità di maternità in caso di degenza ospedaliera prolungata del neonato**[^24-1]
+**Degenza ospedaliera prolungata del neonato o della madre**[^24-1]
 
-### (art. 16*c* cpv. 3 LIPG)
+### (art. 16*c* cpv. 3 e 5, nonché art. 16*k* cpv. 5–7 LIPG)
 
-La prova che il neonato deve restare in ospedale per almeno due settimane consecutive immediatamente dopo la nascita deve essere fornita mediante un attestato medico.
+<sup>1</sup> La prova che il neonato o la madre deve restare in ospedale per almeno due settimane consecutive nelle due settimane dopo la nascita (art. 16*c* cpv. 3 LIPG) deve essere fornita mediante un attestato medico.
 
-[^24-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+<sup>2</sup> Se il neonato e la madre sono ricoverati in ospedale simultaneamente o successivamente, si valuta separatamente se le rispettive degenze ospedaliere abbiano una durata di almeno due settimane. La durata del versamento dell’indennità di maternità è prolungata soltanto del numero di giorni corrispondente alla durata della degenza ospedaliera più lunga.
+
+<sup>3</sup> L’altro genitore deve fornire, mediante un attestato medico, la prova che la madre soggiorna in ospedale per almeno due settimane consecutive tra il giorno del parto e i 97 giorni successivi (art. 16*k* cpv. 5 LIPG).
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 25
 
-**Estinzione del diritto all’indennità di maternità**[^25-1]
+**Estinzione del diritto**[^25-1]
 
-### (art. 16*d* cpv. 3 prima parte del periodo LIPG)
+### (art. 16*d* cpv. 3, primo periodo, 16*k* cpv. 7 lett. e e 16*k*<sup>bis</sup> cpv. 3 lett. e LIPG)
 
-[^25-2]
+<sup>1</sup> Il diritto all’indennità di maternità si estingue il giorno in cui la madre riprende l’attività lucrativa, indipendentemente dal grado di occupazione.
 
-Il diritto all’indennità di maternità si estingue il giorno in cui la madre riprende l’attività lucrativa, indipendentemente dal grado di occupazione.
+<sup>2</sup> Il diritto all’indennità dell’altro genitore di cui all’articolo 16*k* capoverso 5 o 16*k*<sup>bis</sup> capoverso 1 LIPG si estingue il giorno in cui l’altro genitore riprende l’attività lucrativa, indipendentemente dal grado di occupazione.
 
-[^25-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^25-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### Sezione 2: Durata minima del periodo d’assicurazione
 
 #### Art. 26
 
-**Computo dei periodi d’assicurazione all’estero**
+**Computo dei periodi d’assicurazione all’estero**[^26-1]
 
 ### (art. 16*b* cpv. 1 lett. a e 16*i* cpv. 1 lett. b LIPG)
 
-[^26-1]
+Per determinare la durata minima del periodo d’assicurazione secondo l’articolo 16*b* capoverso 1 lettera a o 16*i* capoverso 1 lettera b LIPG si tiene conto anche dei periodi d’assicurazione della madre o dell’altro genitore avente diritto, in virtù dei seguenti atti normativi:
 
-Per determinare la durata minima del periodo d’assicurazione secondo l’articolo 16*b* capoverso 1 lettera a o 16*i* capoverso 1 lettera b LIPG si tiene conto anche dei periodi di assoggettamento all’assicurazione obbligatoria della madre o dell’altro genitore avente diritto in uno Stato:[^26-2]
+- a. l’Accordo del 21 giugno 1999[^26-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con il suo allegato II, e i regolamenti (CE) n. 883/2004[^26-3] e n. 987/2009[^26-4];
+- b. la Convenzione del 4 gennaio 1960[^26-5] istitutiva dell’Associazione europea di libero scambio (AELS) (allegato K appendice 2) e i regolamenti (CE) n. 883/2004 e n. 987/2009[^26-6];
+- c. la Convenzione del 9 settembre 2021[^26-7] sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera.
 
-- a. che applica l’accordo del 21 giugno 1999[^26-3] tra la Confederazione svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con il suo allegato II, e i regolamenti n. 1408/71 e n. 574/72[^26-4] nella loro versione modificata[^26-5];
-- b. facente parte dell’Associazione europea di libero scambio.
-
-[^26-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^26-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^26-4]: R (CEE) n. 574/72 del Consiglio, del 21 mar. 1972, che stabilisce le modalità di applicazione del R (CEE) n. 1408/71, GU L 74 del 27 mar. 1972, pag. 1 (parimenti codificato dal R (CE) n. 118/97 del Consiglio, del 2 dic. 1996, GU L 28 del 30 gen. 1997, pag. 1); modificato da ultimo dal R (CE) n. 307/1999 del Consiglio, dell’8 feb. 1999 (GU L 38 del 12 feb. 1999, pag. 1).
-[^26-5]: Una versione consolidata provvisoria del testo dei R (CEE) n. 1408/71 e n. 574/72, ivi comprese le mod. introdotte mediante il R (CE) del Consiglio n. 307/1999, può essere richiesta all’Ufficio federale delle assicurazioni sociali, 3003 Berna. Fa fede solo la versione pubblicata sulla Gazzetta Ufficiale della Comunità europea.
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^26-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^26-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, nella versione vincolante per la Svizzera dell’allegato II dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^26-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale, nella versione vincolante per la Svizzera dell’allegato II dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
+[^26-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^26-6]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale e regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale, nelle versioni vincolanti per la Svizzera dell’allegato K appendice 2 della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) ([RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
+[^26-7]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 
 #### Art. 27
 
@@ -547,22 +591,23 @@ In caso di parto prematuro il periodo d’assicurazione stabilito all’articolo
 
 #### Art. 28
 
-**Computo dei periodi di attività lucrativa all’estero**
+**Computo dei periodi di attività lucrativa all’estero**[^28-1]
 
 ### (art. 16*b* cpv. 1 lett. b e 16*i* cpv. 1 lett. c LIPG)
 
-[^28-1]
+Per determinare la durata minima del periodo di attività lucrativa secondo l’articolo 16*b* capoverso 1 lettera b o 16*i* capoverso 1 lettera c LIPG si tiene conto anche dei periodi di esercizio di un’attività lucrativa che la madre o l’altro genitore avente diritto ha compiuto in virtù dei seguenti atti normativi:
 
-Per determinare la durata minima del periodo di attività lucrativa secondo l’articolo 16*b* capoverso 1 lettera b o 16*i* capoverso 1 lettera c LIPG si tiene conto anche dei periodi di esercizio di un’attività lucrativa della madre o del padre avente diritto in uno Stato:[^28-2]
+- a. l’Accordo del 21 giugno 1999[^28-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con il suo allegato II, e i regolamenti (CE) n. 883/2004[^28-3] e n. 987/2009[^28-4];
+- b. la Convenzione del 4 gennaio 1960[^28-5] istitutiva dell’Associazione europea di libero scambio (AELS) (allegato K appendice 2) e i regolamenti (CE) n. 883/2004 e n. 987/2009[^28-6];
+- c. la Convenzione del 9 settembre 2021[^28-7] sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera.
 
-- a. che applica l’accordo del 21 giugno 1999[^28-3] tra la Confederazione svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con il suo allegato II, e i regolamenti n. 1408/71 e n. 574/72[^28-4] nella loro versione modificata[^28-5];
-- b. facente parte dell’Associazione europea di libero scambio.
-
-[^28-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-2]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^28-4]: R (CEE) n. 574/72 del Consiglio, del 21 mar. 1972, che stabilisce le modalità di applicazione del R (CEE) n. 1408/71, GU L 74 del 27 mar. 1972, pag. 1 (parimenti codificato dal R (CE) n. 118/97 del Consiglio, del 2 dic. 1996, GU L 28 del 30 gen. 1997, pag. 1); modificato da ultimo dal R (CE) n. 307/1999 del Consiglio, dell’8 feb. 1999 (GU L 38 del 12 feb. 1999, pag. 1).
-[^28-5]: Una versione consolidata provvisoria del testo dei R (CEE) n. 1408/71 e n. 574/72, ivi comprese le mod. introdotte mediante il regolamento (CE) del Consiglio n. 307/1999, può essere richiesta all’Ufficio federale delle assicurazioni sociali, 3003 Berna. Fa fede solo la versione pubblicata sulla Gazzetta Ufficiale della Comunità europea.
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^28-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^28-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, nella versione vincolante per la Svizzera dell’allegato II dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^28-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale, nella versione vincolante per la Svizzera dell’allegato II dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
+[^28-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^28-6]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale e regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale, nelle versioni vincolanti per la Svizzera dell’allegato K appendice 2 della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) ([RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
+[^28-7]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 
 #### Art. 28a
 
@@ -587,35 +632,39 @@ Per determinare la durata minima del periodo di attività lucrativa secondo l’
 La madre che, al momento del parto, è disoccupata, oppure che, a causa di un periodo di disoccupazione, non adempie le condizioni di cui all’articolo 16*b* capoverso 1 lettera b LIPG, ha diritto all’indennità se:
 
 - a. fino al parto ha beneficiato di un’indennità giornaliera dell’assicurazione contro la disoccupazione; oppure
-- b. il giorno del parto adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge federale del 25 giugno 1982[^29-2] sull’assicurazione contro la disoccupazione.
+- b.[^29-2] il giorno del parto adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge del 25 giugno 1982[^29-3] sull’assicurazione contro la disoccupazione (LADI).
 
 <sup>1bis</sup>
 
 Una madre secondo il capoverso 1 lettera a ha diritto al versamento dell’indennità di maternità di durata prolungata (art. 16*c* cpv. 3 LIPG), se:
 
 - a. non ha esaurito le indennità giornaliere dell’assicurazione contro la disoccupazione prima del parto e il termine quadro per la riscossione delle prestazioni è ancora aperto il giorno dopo la fine del congedo di maternità; e
-- b. è disponibile un attestato medico secondo l’articolo 24.[^29-3]
+- b.[^29-4] è disponibile un attestato medico secondo l’articolo 24 capoverso 1.[^29-5]
 
 <sup>2</sup>
 
-L’altro genitore che, al momento della nascita del figlio, è disoccupato, oppure che, a causa di un periodo di disoccupazione, non adempie la condizione della durata minima del periodo di attività lucrativa di cui all’articolo 16*i* capoverso 1 lettera c LIPG, ha diritto all’indennità se:[^29-4]
+L’altro genitore che, al momento della nascita del figlio, è disoccupato, oppure che, a causa di un periodo di disoccupazione, non adempie la condizione della durata minima del periodo di attività lucrativa di cui all’articolo 16*i* capoverso 1 lettera c LIPG, ha diritto all’indennità se:[^29-6]
 
 - a. fino alla nascita del figlio ha beneficiato di un’indennità giornaliera dell’assicurazione contro la disoccupazione; o
-- b. il giorno della nascita del figlio presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge federale sull’assicurazione contro la disoccupazione.[^29-5]
+- b.[^29-7] il giorno della nascita del figlio presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della LADI.[^29-8]
 
 <sup>3</sup>
 
 L’altro genitore secondo il capoverso 2 lettera a ha diritto a indennità giornaliere supplementari in caso di decesso della madre (art. 16*k*<sup>bis</sup> cpv. 2 LIPG), se:
 
 - a. non ha esaurito le indennità giornaliere dell’assicurazione contro la disoccupazione prima della nascita del figlio e il termine quadro per la riscossione delle prestazioni è ancora aperto il giorno dopo la fine del congedo per l’altro genitore in caso di decesso della madre; e
-- b. è disponibile un attestato medico secondo l’articolo 24.[^29-6]
+- b.[^29-9] è disponibile un attestato medico secondo l’articolo 24 capoverso 1.[^29-10]
 
 [^29-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
-[^29-3]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^29-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-5]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^29-6]: Introdotto dalla cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^29-4]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-5]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-6]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-7]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-8]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-9]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-10]: Introdotto dalla cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 30
 
@@ -627,12 +676,13 @@ L’altro genitore secondo il capoverso 2 lettera a ha diritto a indennità gior
 
 La madre o l’altro genitore che, al momento della nascita del figlio, sono incapaci al lavoro, oppure che, a causa di un periodo di incapacità al lavoro, non adempiono la condizione della durata minima del periodo di attività lucrativa di cui all’articolo 16*b* capoverso 1 lettera b o 16*i* capoverso 1 lettera c LIPG, hanno diritto all’indennità se:[^30-3]
 
-- a. fino alla nascita del figlio hanno beneficiato di un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’assicurazione sociale o da un’assicurazione privata oppure di indennità giornaliere dell’assicurazione per l’invalidità; o
+- a.[^30-4] fino alla nascita del figlio hanno beneficiato di indennità giornaliere per perdita di guadagno dovuta a malattia o infortunio versate da un’assicurazione sociale o da un’assicurazione privata oppure di indennità giornaliere dell’assicurazione per l’invalidità; o
 - b. al momento della nascita del figlio, pur avendo già perso il diritto a percepire il salario, hanno un rapporto di lavoro ancora valido.
 
 [^30-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^30-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^30-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^30-4]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### Sezione 4: Calcolo dell’indennità
 
@@ -653,9 +703,9 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
 - e.[^31-3] un congedo di maternità ai sensi dell’articolo 329*f* CO[^31-4] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
-- f.[^31-5] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- f.[^31-5] assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio ai sensi dell’articolo 16*o* LIPG o ricoverato in ospedale per una durata di almeno quattro giorni consecutivi (art. 16*n* LIPG);
 - g.[^31-6] accoglimento di un adottando di età inferiore a quattro anni;
-- h.[^31-7] altri motivi non imputabili a colpa propria.
+- h.[^31-7] altri motivi, se non sono imputabili a colpa propria.
 
 <sup>2</sup> L’indennità di maternità e quella per l’altro genitore sono calcolate separatamente.[^31-8]
 
@@ -665,9 +715,9 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 [^31-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^31-5]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-5]: Introdotta dalla cifra I dell’O del 24 ago. 2022 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^31-6]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-7]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-7]: Introdotta dalla cifra I dell’O del 24 ago. 2022 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^31-8]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-9]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
@@ -690,6 +740,34 @@ Alla madre o all’altro genitore che esercita un’attività lucrativa indipend
 Se la madre o l’altro genitore esercita contemporaneamente un’attività lucrativa dipendente e una indipendente, l’indennità è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 31.
 
 [^33-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+
+### Sezione 4*a*: Assegno per spese di custodia e assegno per l’azienda
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Introdotta dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 33a
+
+**Assegno per spese di custodia**
+
+### (art. 16*f*<sup>bis</sup> e 16*l*<sup>bis</sup> LIPG)
+
+<sup>1</sup> Per la determinazione delle spese supplementari per la custodia istituzionale di bambini si applica l’articolo 12.
+
+<sup>2</sup> Per la determinazione dell’importo dell’assegno per spese di custodia si applica per analogia l’articolo 13.
+
+<sup>3</sup> L’avente diritto deve provare mediante un attestato medico che la sua salute o quella del figlio era compromessa e che per questa ragione ha dovuto sostenere spese supplementari per la custodia istituzionale di bambini.
+
+#### Art. 33b
+
+**Assegno per l’azienda**
+
+### (art. 16*f*<sup>ter</sup> e 16*l*<sup>ter</sup> LIPG)
+
+<sup>1</sup> Se l’avente diritto dirige un’azienda insieme a una persona che ha parimenti diritto all’assegno per l’azienda in virtù dell’articolo 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> o 16*w*<sup>ter</sup> LIPG, per l’azienda in questione è versato un solo assegno al giorno.
+
+<sup>2</sup> Il diritto all’assegno per l’azienda di chi svolge la sua attività lucrativa principale nell’azienda agricola di famiglia è retto dall’articolo 14*a*.
 
 ### Sezione 5: Esercizio del diritto, fissazione e pagamento dell’indennità
 
@@ -723,10 +801,10 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 <sup>3</sup> Il datore di lavoro presso il quale l’altro genitore è impiegato durante il suo congedo o la cassa di disoccupazione dell’altro genitore attesta la fruizione dei giorni di congedo.
 
-<sup>4</sup> L’organo competente rilascia alla madre che partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, un attestato secondo cui per le sedute in questione non è prevista una supplenza. La madre inoltra questo attestato alla cassa di compensazione.[^34a-2]
+<sup>4</sup> L’organo competente rilascia alla madre o all’altro genitore che partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, un attestato secondo cui per le sedute in questione non è prevista una supplenza. La madre o l’altro genitore inoltra questo attestato alla cassa di compensazione.[^34a-2]
 
 [^34a-1]: Introdotto dalla cifra I dell’O del 21 ott. 2020 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^34a-2]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^34a-2]: Introdotto dalla cifra I dell’O del 10 apr. 2024 ([RU 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)). Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35
 
@@ -750,17 +828,18 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 [^35-4]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
-## Capitolo 2*a*: Indennità di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio
+## Capitolo 2*a*: Indennità per l’assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio o ricoverato in ospedale
 
-[^chap2a-1]
+[^chap2a-1][^chap2a-2]
 
 [^chap2a-1]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^chap2a-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-### Sezione 1: Diritto di genitori affilianti, matrigne e patrigni nonché della madre e dell’altro genitore disoccupati o incapaci al lavoro
+### Sezione 1: Diritto
 
 [^chap2a-sec1-1]
 
-[^chap2a-sec1-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^chap2a-sec1-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35a
 
@@ -768,9 +847,11 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 ### (art. 16*n* LIPG)
 
-<sup>1</sup> Il diritto dei genitori affilianti che si sono assunti durevolmente le spese di mantenimento e di educazione del figlio è retto dall’articolo 16*n* capoversi 1 e 2 LIPG.
+<sup>1</sup> Il diritto dei genitori affilianti che si sono assunti durevolmente le spese di mantenimento e di educazione del figlio è retto dall’articolo 16*n* capoversi 1–2<sup>bis</sup> LIPG.[^35a-1]
 
 <sup>2</sup> Il diritto dei genitori affilianti si estingue se il figlio ritorna presso uno dei suoi genitori.
+
+[^35a-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35b
 
@@ -778,20 +859,26 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 ### (art. 16*n* LIPG)
 
-Una matrigna o un patrigno ha diritto secondo l’articolo 16*n* capoversi 1 e 2 LIPG, se:
+Una matrigna o un patrigno ha diritto secondo l’articolo 16*n* capoversi 1–2<sup>bis</sup> LIPG, se:[^35b-1]
 
 - a. vive nella medesima economia domestica con il genitore che detiene l’autorità parentale e la custodia del figlio e lo assiste adeguatamente nel mantenimento e nell’educazione del figlio; e
 - b. un genitore rinuncia completamente al suo diritto, a condizione che sussista un rapporto di filiazione con entrambi i genitori.
 
+[^35b-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
 #### Art. 35c
 
-**Disoccupazione della madre o dell’altro genitore**[^35c-1]
+**[Disoccupazione della madre o dell’altro genitore](https://www.fedlex.admin.ch/eli/cc/2005/187/it)**[^35c-1]
 
-### (art. 16*n* LIPG)
+### (art. 16*n* cpv. 3 lett. b LIPG)
 
-Il diritto della madre disoccupata o dell’altro genitore disoccupato è retto dall’articolo 16*n* capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o dell’altro genitore e fino all’inizio del diritto la madre o l’altro genitore ha percepito un’indennità giornaliera dell’assicurazione contro la disoccupazione.
+Il diritto della madre disoccupata o dell’altro genitore disoccupato è retto dall’articolo 16*n* capoversi 1–2<sup>bis</sup> LIPG, se l’assistenza al figlio necessita della presenza della madre o dell’altro genitore e:
 
-[^35c-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+- a. fino all’inizio del diritto la madre o l’altro genitore ha beneficiato di un’indennità giornaliera dell’assicurazione contro la disoccupazione; o
+- b. il giorno dell’inizio del diritto presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della LADI[^35c-2].
+
+[^35c-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35c-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 35d
 
@@ -801,52 +888,92 @@ Il diritto della madre disoccupata o dell’altro genitore disoccupato è retto 
 
 [^35d-1]
 
-Il diritto della madre o dell’altro genitore incapace al lavoro è retto dall’articolo 16n capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o dell’altro genitore e:[^35d-2]
+Il diritto della madre o dell’altro genitore incapace al lavoro è retto dall’articolo 16*n* capoversi 1–2<sup>bis</sup> LIPG, se l’assistenza al figlio necessita della presenza della madre o dell’altro genitore e:[^35d-2]
 
-- a.[^35d-3] fino all’inizio del diritto, la madre o l’altro genitore incapace al lavoro ha percepito indennità giornaliere dell’assicurazione per l’invalidità o un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’altra assicurazione sociale o da un’assicurazione privata; o
+- a.[^35d-3] fino all’inizio del diritto la madre o l’altro genitore incapace al lavoro ha beneficiato di indennità giornaliere per perdita di guadagno dovuta a malattia o infortunio versate da un’assicurazione sociale o da un’assicurazione privata oppure di indennità giornaliere dell’assicurazione per l’invalidità; o
 - b. all’inizio del diritto, pur avendo già perso il diritto a percepire il salario, ha un rapporto di lavoro ancora valido.
 
 [^35d-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35d-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35d-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-
-### Sezione 2: Calcolo dell’indennità
+[^35d-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35d-3]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35e
 
-**Ripartizione tra i genitori**
+**Numero di indennità giornaliere**[^35e-1]
 
-### (art. 16*q* cpv. 4 LIPG)
+### (art. 16*q* cpv. 2<sup>bis</sup> e 4 LIPG)
 
-Se il congedo di assistenza è ripartito tra i genitori, le indennità sono calcolate separatamente per ciascun genitore.
+<sup>1</sup> Se il figlio è ricoverato in ospedale per una durata di almeno quattro giorni (art. 16*n* LIPG), ma non ha gravi problemi di salute ai sensi dell’articolo 16*o* LIPG, soltanto uno dei genitori ha diritto a un’indennità giornaliera per ciascun giorno.
 
-#### Art. 35f
+<sup>2</sup> I genitori non possono percepire contemporaneamente, per il medesimo figlio, un’indennità di assistenza a un figlio ricoverato in ospedale per una durata di almeno quattro giorni (art. 16*n* LIPG) e un’indennità di assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG.
 
-**Indennità per lavoratori salariati**
+[^35e-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-### (art. 16*r* LIPG)
+#### Art. 35e<sup>bis</sup>
+
+**Periodo di attesa per l’indennità di assistenza a un figlio ricoverato in ospedale per una durata di almeno quattro giorni**[^35ebis-1]
+
+### (art. 16*q* LIPG)
+
+Ad ogni ricovero in ospedale (art. 16*n* LIPG) comincia a decorrere un nuovo periodo di attesa di tre giorni.
+
+[^35ebis-1]: Introdotto dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35e<sup>ter</sup>
+
+**Coordinamento tra l’indennità di assistenza a un figlio ricoverato in ospedale per una durata di almeno quattro giorni e l’indennità di assistenza a un figlio con gravi problemi di salute**[^35eter-1]
+
+### (art. 16*n*, 16*o* e 16*p* cpv. 1, 4 e 5 LIPG)
 
 <sup>1</sup>
 
-L’indennità è calcolata sulla base dell’ultimo salario determinante percepito prima della fruizione dei giorni di congedo corrispondenti, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei giorni in cui l’avente diritto non ha percepito o ha percepito solo parzialmente un salario a causa di:
+Al momento in cui nasce il diritto all’indennità di assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG:
+
+- a. si estingue, per il medesimo figlio, il diritto all’indennità di assistenza a un figlio ricoverato in ospedale per una durata di almeno quattro giorni (art. 16*n* LIPG); e
+- b. inizia a decorrere il termine quadro di cui all’articolo 16*p* capoverso 1 LIPG.
+
+<sup>2</sup> Il diritto all’indennità di assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG non si estingue se il medesimo figlio è ricoverato in ospedale per una durata di almeno quattro giorni (art. 16*n* LIPG).
+
+<sup>3</sup> La prova della durata della degenza ospedaliera e della successiva convalescenza deve essere fornita mediante un attestato medico.
+
+[^35eter-1]: Introdotto dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+### Sezione 2: Calcolo dell’indennità
+
+[^chap2a-sec2-1][^chap2a-sec2-2]
+
+[^chap2a-sec2-1]: Originario avanti art. 35*e*.
+[^chap2a-sec2-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35f
+
+**Indennità per lavoratori salariati**[^35f-1]
+
+### (art. 16*r* LIPG)
+
+<sup>1</sup> L’indennità per i genitori di un figlio con gravi problemi di salute dovuti a malattia o infortunio ai sensi dell’articolo 16*o* LIPG è calcolata sulla base dell’ultimo salario determinante percepito prima della fruizione dei giorni di congedo corrispondenti, convertito in salario giornaliero medio.
+
+<sup>2</sup> L’indennità per i genitori di un figlio ricoverato in ospedale per una durata di almeno quattro giorni (art. 16*n* LIPG) è calcolata sulla base dell’ultimo salario determinante percepito prima dell’inizio della degenza ospedaliera del figlio, convertito in salario giornaliero medio.
+
+<sup>3</sup>
+
+Per la conversione non si tiene conto dei giorni in cui l’avente diritto non ha percepito o ha percepito solo parzialmente un salario a causa di:
 
 - a. malattia;
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e.[^35f-1] un congedo di maternità ai sensi dell’articolo 329*f* CO[^35f-2] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
-- f. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
-- g.[^35f-3] accoglimento di un adottando di età inferiore a quattro anni;
-- h.[^35f-4] altri motivi non imputabili a colpa propria.
+- e. un congedo di maternità ai sensi dell’articolo 329*f* CO[^35f-2] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
+- f. assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio ai sensi dell’articolo 16*o* LIPG o ricoverato in ospedale per una durata di almeno quattro giorni consecutivi (art. 16*n* LIPG);
+- g. accoglimento di un adottando di età inferiore ai quattro anni;
+- h. altri motivi, se non sono imputabili a colpa propria.
 
-<sup>2</sup> L’indennità giornaliera è ricalcolata se il salario determinante cambia durante la fruizione dei giorni di congedo.
+<sup>4</sup> L’indennità giornaliera è ricalcolata se il salario determinante cambia durante la fruizione dei giorni di congedo.
 
-<sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.
+<sup>5</sup> Gli articoli 5 e 6 si applicano per analogia.
 
-[^35f-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35f-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^35f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^35f-3]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35f-4]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35g
 
@@ -867,6 +994,34 @@ Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7
 L’indennità per gli aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 35*f*.
 
 [^35h-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
+### Sezione 2*a*: Assegno per spese di custodia e assegno per l’azienda
+
+[^chap2a-sec2a-1]
+
+[^chap2a-sec2a-1]: Introdotta dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35h<sup>bis</sup>
+
+**Assegno per spese di custodia**
+
+### (art. 16*r*<sup>bis</sup> LIPG)
+
+<sup>1</sup> Per la determinazione delle spese supplementari per la custodia istituzionale di bambini si applica l’articolo 12.
+
+<sup>2</sup> Per la determinazione dell’importo dell’assegno per spese di custodia si applica per analogia l’articolo 13.
+
+<sup>3</sup> L’avente diritto deve provare mediante un attestato medico che la sua salute o quella del figlio era compromessa e che per questa ragione ha dovuto sostenere spese supplementari per la custodia istituzionale di bambini.
+
+#### Art. 35h<sup>ter</sup>
+
+**Assegno per l’azienda**
+
+### (art. 16*r*<sup>ter</sup> cpv. 2, secondo periodo LIPG)
+
+<sup>1</sup> Se l’avente diritto dirige un’azienda insieme a una persona che ha parimenti diritto all’assegno per l’azienda in virtù dell’articolo 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> o 16*w*<sup>ter</sup> LIPG, per l’azienda in questione è versato un solo assegno al giorno.
+
+<sup>2</sup> Il diritto all’assegno per l’azienda di chi svolge la sua attività lucrativa principale nell’azienda agricola di famiglia è retto dall’articolo 14*a*.
 
 ### Sezione 3: Esercizio del diritto, fissazione e pagamento dell’indennità
 
@@ -938,6 +1093,34 @@ Per determinare la durata minima del periodo di attività lucrativa secondo l’
 - a. ha prestato servizio ai sensi dell’articolo 1*a* LIPG; o
 - b. ha beneficiato di indennità giornaliere dovute a malattia o infortunio versate dall’assicurazione contro la disoccupazione, dall’assicurazione invalidità oppure da un’assicurazione sociale o da un’assicurazione privata.
 
+#### Art. 35m<sup>bis</sup>
+
+**Persone disoccupate**[^35mbis-1]
+
+### (art. 16*t* cpv. 1<sup>bis</sup> LIPG)
+
+La persona che, al momento dell’accoglimento dell’adottando, è disoccupata, oppure che, a causa di un periodo di disoccupazione, non adempie la condizione della durata minima del periodo di attività lucrativa di cui all’articolo 16*t* capoverso 1 lettera b LIPG, ha diritto all’indennità se:
+
+- a. fino al giorno dell’accoglimento dell’adottando ha beneficiato di un’indennità giornaliera dell’assicurazione contro la disoccupazione; o
+- b. il giorno dell’accoglimento dell’adottando presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della LADI[^35mbis-2].
+
+[^35mbis-1]: Introdotto dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35mbis-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
+#### Art. 35m<sup>ter</sup>
+
+**Persone incapaci al lavoro**[^35mter-1]
+
+### (art. 16*t* cpv. 1<sup>bis</sup> LIPG)
+
+<sup>La persona che, al momento dell’accoglimento dell’adottando, è incapace al lavoro, oppure che, a causa di un periodo di incapacità al lavoro, non adempie la condizione della durata minima del periodo di attività lucrativa di cui all’articolo 16</sup> *<sup>t</sup>* <sup>capoverso 1 lettera b LIPG, ha diritto all’indennità se:</sup>
+
+<sup>a.</sup> <sup>fino al momento dell’accoglimento dell’adottando ha beneficiato di indennità giornaliere per perdita di guadagno dovuta a malattia o infortunio versate da un’assicurazione sociale o da un’assicurazione privata oppure di indennità giornaliere dell’assicurazione per l’invalidità; o</sup>
+
+<sup>b.</sup> <sup>al momento dell’accoglimento dell’adottando, pur avendo già perso il diritto a percepire il salario, ha un rapporto di lavoro ancora valido.</sup>
+
+[^35mter-1]: Introdotto dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
 ### Sezione 2: Calcolo dell’indennità
 
 #### Art. 35n
@@ -955,14 +1138,16 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
 - e.[^35n-1] un congedo di maternità ai sensi dell’articolo 329*f* CO[^35n-2] o di un congedo per l’altro genitore ai sensi dell’articolo 329*g* o 329*g*<sup>bis</sup> CO;
-- f. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- f.[^35n-3] assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio ai sensi dell’articolo 16*o* LIPG o ricoverato in ospedale per una durata di almeno quattro giorni consecutivi (art. 16*n* LIPG);
 - g. accoglimento di un adottando di età inferiore a quattro anni;
-- h. altri motivi non imputabili a colpa propria.
+- h.[^35n-4] altri motivi, se non sono imputabili a colpa propria.
 
 <sup>2</sup> Gli articoli 5 e 6 si applicano per analogia.
 
 [^35n-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35n-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^35n-3]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35n-4]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35o
 
@@ -979,6 +1164,34 @@ Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7
 ### (art. 16*w* LIPG)
 
 L’indennità per gli aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente accertati in base all’articolo 35*n* e quelli da attività lucrativa indipendente accertati in base all’articolo 7 capoversi 1 e 1<sup>bis</sup>.
+
+### Sezione 2*a*: Assegno per spese di custodia e assegno per l’azienda
+
+[^chap2b-sec2a-1]
+
+[^chap2b-sec2a-1]: Introdotta dalla cifra I dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35p<sup>bis</sup>
+
+**Assegno per spese di custodia**
+
+### (art. 16*w*<sup>bis</sup> LIPG)
+
+<sup>1</sup> Per la determinazione delle spese supplementari per la custodia istituzionale di bambini si applica l’articolo 12.
+
+<sup>2</sup> Per la determinazione dell’importo dell’assegno per spese di custodia si applica per analogia l’articolo 13.
+
+<sup>3</sup> L’avente diritto deve provare mediante un attestato medico che la sua salute o quella del figlio era compromessa e che per questa ragione ha dovuto sostenere spese supplementari per la custodia istituzionale di bambini.
+
+#### Art. 35p<sup>ter</sup>
+
+**Assegno per l’azienda**
+
+### (art. 16*w*<sup>ter</sup> LIPG)
+
+<sup>1</sup> Se l’avente diritto dirige un’azienda insieme a una persona che ha parimenti diritto all’assegno per l’azienda in virtù dell’articolo 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> o 16*w*<sup>ter</sup> LIPG, per l’azienda in questione è versato un solo assegno al giorno.
+
+<sup>2</sup> Il diritto all’assegno per l’azienda di chi svolge la sua attività lucrativa principale nell’azienda agricola di famiglia è retto dall’articolo 14*a*.
 
 ### Sezione 3: Esercizio del diritto, fissazione e pagamento dell’indennità
 

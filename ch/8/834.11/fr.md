@@ -4,11 +4,11 @@ title: Ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OA
 short: OAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: fr
-version: 2027-01-01
+version: 2027-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20270701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20270101/fr"
 
 (OAPG)[^t-1]
 
-du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2027)
+du 24 novembre 2004 (État le 1<sup>er</sup> juillet 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
@@ -30,7 +30,11 @@ arrête:
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^ingress-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
-## Chapitre 1 Allocation en cas de service
+## Chapitre 1 Allocation de service
+
+[^chap1-1]
+
+[^chap1-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### Section 1 Droit à l’allocation
 
@@ -60,7 +64,7 @@ Les personnes qui ne remplissent pas l’une des conditions énoncées à l’ar
 
 #### Art. 3
 
-**Personnes qui participent aux cours de formation des cadres «Jeunesseet sport»**
+**Personnes qui participent aux cours de formation des cadres «Jeunesse et sport»**
 
 ### (art. 1*a*, al. 4, LAPG)
 
@@ -87,9 +91,9 @@ L’allocation des salariés est calculée sur la base du dernier salaire déter
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
 - e.[^4-2] d’un congé de maternité au sens de l’art. 329*f* du code des obligations (CO)[^4-3] ou d’un congé de l’autre parent au sens de l’art. 329*g* ou 329*g*<sup>bis</sup> CO;
-- f.[^4-4] de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art.16*o* LAPG;
+- f.[^4-4] de la prise en charge d’un enfant qui, en raison d’une maladie ou d’un accident, est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG ou est hospitalisé pour une durée d’au moins quatre jours consécutifs (art. 16*n* LAPG);
 - g.[^4-5] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
-- h.[^4-6] d’autres motifs n’impliquant aucune faute de sa part.
+- h.[^4-6] d’autres motifs, à condition que ces derniers ne soient imputables à aucune faute de sa part.
 
 <sup>2</sup> Pour les personnes qui rendent vraisemblable que, durant le service, elles auraient entrepris une activité salariée de longue durée ou gagné sensiblement plus qu’avant d’entrer en service, l’allocation est calculée d’après le revenu qu’elles ont perdu.[^4-7]
 
@@ -100,9 +104,9 @@ L’allocation des salariés est calculée sur la base du dernier salaire déter
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^4-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^4-5]: Introduite par le ch. I de l’O du 12 mai 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^4-6]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: Introduite par le ch. I de l’O du 24 août 2022 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^4-7]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-8]: Introduit par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-9]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
@@ -157,20 +161,21 @@ L’allocation des personnes exerçant une activité indépendante est calculée
 - a. d’une maladie;
 - b. d’un accident;
 - c. d’une période de service au sens de l’art. 1*a* LAPG;
-- d.[^7-1] d’un congé de maternité au sens de l’art. 329*f* CO[^7-2] ou d’un congé de l’autre parent au sens de l’art. 329*g*<sup>bis</sup> CO;
-- e. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG. [^7-3]
+- d.[^7-1] d’un congé de maternité au sens de l’art. 329*f* CO[^7-2], d’un congé de l’autre parent au sens de l’art. 329*g*<sup>bis</sup> CO ou d’une prolongation du congé de l’autre parent au sens de l’art. 329*g*, al. 1<sup>bis</sup>, CO;
+- e.[^7-3] de la prise en charge d’un enfant qui, en raison d’une maladie ou d’un accident, est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG ou est hospitalisé pour une durée d’au moins quatre jours consécutifs (art. 16*n* LAPG).[^7-4]
 
-<sup>1bis</sup> L’allocation est ajustée sur demande si, par la suite, une nouvelle décision de cotisation est prise pour l’année pendant laquelle le service a été accompli.[^7-4]
+<sup>1bis</sup> L’allocation est ajustée sur demande si, par la suite, une nouvelle décision de cotisation est prise pour l’année pendant laquelle le service a été accompli.[^7-5]
 
 <sup>2</sup> Pour les personnes qui rendent vraisemblable qu’elles auraient entrepris une activité indépendante de longue durée pendant la période du service, l’allocation est calculée d’après le revenu qu’elles auraient pu obtenir.
 
-<sup>3</sup> Si une personne exerçant une activité indépendante n’est pas astreinte à payer des cotisations en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-5],son allocation est calculée d’après le revenu acquis au cours de l’année précédant celle de l’entrée en service.
+<sup>3</sup> Si une personne exerçant une activité indépendante n’est pas astreinte à payer des cotisations en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-6],son allocation est calculée d’après le revenu acquis au cours de l’année précédant celle de l’entrée en service.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^7-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-4]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-5]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -182,19 +187,23 @@ Pour les personnes exerçant à la fois une activité salariée et indépendante
 
 #### Art. 9
 
-**Allocation des personnes ayant perçu des indemnités journalières avant le service**
+**Allocation des personnes ayant perçu des indemnités journalières avant le service**[^9-1]
 
 ### (art. 11 LAPG)
 
-Pour les personnes qui ont bénéficié d’une indemnité journalière de l’assurance-invalidité ou de l’assurance-accidents obligatoire jusqu’à leur entrée en service, le montant total de l’allocation correspond au moins à celui de l’indemnité journalière préalablement versée.
+Pour les personnes qui ont bénéficié d’une indemnité journalière de l’assurance-invalidité ou de l’assurance-accidents obligatoire jusqu’à leur entrée en service, le montant de l’allocation de service correspond au moins à celui de l’indemnité journalière préalablement versée. Cette disposition ne s’applique pas aux périodes de service visées à l’art. 9 LAPG.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 10
 
-**Allocation pendant la formation de base dans la protection civile**
+**Allocation pendant la formation de base dans la protection civile**[^10-1]
 
 ### (art. 9, al. 4, 3<sup>e</sup> phrase, LAPG)
 
-Pour les personnes qui ont accompli au moins 40 jours de service au sens de l’art. 1*a*, al. 1 et 2<sup>bis</sup>, LAPG, l’allocation journalière de base durant la formation de base dans la protection civile correspond à 80 % du revenu moyen acquis avant le service.
+Pour les personnes qui ont accompli au moins 40 jours de service au sens de l’art. 1*a*, al. 1 et 2<sup>bis</sup>, LAPG, l’allocation journalière de service durant la formation de base dans la protection civile correspond à 80 % du revenu moyen acquis avant le service.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 11
 
@@ -211,41 +220,67 @@ Sont considérés comme durée équivalant à une école de recrue:
 
 #### Art. 12
 
-**Coûts supplémentaires pour la garde des enfants**
+**Coûts supplémentaires pour la prise en charge institutionnelle des enfants**[^12-1]
 
-### (art. 7, al. 1, LAPG)
+### (art. 7, al. 1 et 2, LAPG)
 
-Sont notamment indemnisés à titre de coûts supplémentaires pour la garde des enfants:
+<sup>1</sup>
 
-- a. les frais correspondant aux repas que les enfants prennent hors du domicile;
-- b. les frais d’hébergement et de déplacement pour les enfants accueillis par des tiers;
-- c. la rétribution d’aides familiales ou ménagères;
-- d. les frais pour des crèches et des garderies;
-- e. les frais de déplacement de tiers qui, pour garder les enfants, se rendent au domicile de la personne faisant du service.
+La prise en charge institutionnelle des enfants comprend:
+
+- a. les crèches;
+- b. les garderies ou les garderies scolaires;
+- c. les structures d’accueil parascolaire pour les élèves;
+- d. les écoles à horaire continu;
+- e. les structures pour enfants d’âge mixte;
+- f. les familles de jour, pour autant que celles-ci soient affiliées à un réseau ou à une association.
+
+<sup>2</sup> Les frais liés à la prise en charge institutionnelle des enfants et les frais des repas que les enfants prennent dans le cadre de la prise en charge institutionnelle sont indemnisés.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 13
 
 **Montant de l’allocation**
 
-### (art. 7, al. 2, LAPG)
+### (art. 7, al. 3, LAPG)
 
-<sup>1</sup> Seuls les frais effectifs sont remboursés, mais au maximum jusqu’à concurrence d’une somme égale à 27 % du montant maximal de l’allocation totale, multipliée par le nombre de jours de service effectués.
+[^13-1]
+
+<sup>1</sup> Seuls les frais effectifs sont remboursés, mais au maximum jusqu’à concurrence d’une somme égale à 34 % du montant maximal fixé à l’art. 16, al. 1 et 2, LAPG, multipliée par le nombre de jours de service effectués.[^13-2]
 
 <sup>2</sup> Les dépenses inférieures à 20 francs ne sont pas remboursées.
 
-### Section 4 Allocation d’exploitation versée aux membres de la famille travaillant dans l’exploitation agricole
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-(art. 8, al. 2, LAPG)
+### Section 4 Allocation d’exploitation
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 14
 
+**Allocation d’exploitation en cas de service**
+
+### (art. 8, al. 1, LAPG)
+
+Lorsque l’ayant droit gère conjointement une exploitation avec une personne qui a également droit à l’allocation d’exploitation en vertu des art. 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> ou 16*w*<sup>ter</sup> LAPG, une seule allocation par jour est versée pour cette exploitation.
+
+#### Art. 14a
+
+**Allocation d’exploitation en cas de service versée aux membres de la famille travaillant dans l’exploitation agricole**
+
+### (art. 8, al. 2, LAPG)
+
 Les personnes qui exercent leur activité principale dans une exploitation agricole comme membres de la famille de l’exploitant ont droit à l’allocation d’exploitation si:
 
-- a. elles ont qualité de travailleurs agricoles au sens de l’art. 1*a*, al. 2 let. a et b, de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture (LFA)[^14-1] ou de conjoint de l’exploitant;
-- b. elles accomplissent une période de service ininterrompue de douze jours au minimum; et
+- a. elles ont qualité de travailleurs agricoles au sens de l’art. 1*a*, al. 2, let. a et b, de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture (LFA)[^14a-1] ou de conjoint de l’exploitant;
+- b. elles accomplissent une période de service ininterrompue de douze jours au minimum, et
 - c. elles sont remplacées pendant dix jours au moins par un auxiliaire auquel est versé un salaire journalier moyen en espèces égal ou supérieur au montant de l’allocation d’exploitation.
 
-[^14-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^14a-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### Section 5 Exercice du droit à l’allocation
 
@@ -369,7 +404,7 @@ Le système d’information prévu à l’art. 21*a* LAPG contient les données 
 - a. les données relatives à la personne effectuant un service suivantes: le numéro AVS, le nom de famille, les prénoms, la date de naissance, le sexe, l’adresse de domicile, l’adresse de courrier électronique et le numéro de téléphone;
 - b. les données relatives à la période de service, notamment le numéro de contrôle, la date d’entrée en service selon l’ordre de marche ou la convocation, la période de service, le code du service, les mutations et le nombre de jours soldés;
 - c. les données relatives aux enfants de la personne effectuant un service suivantes: le numéro AVS, le nom de famille, les prénoms, la date de naissance, le lien de filiation, l’attestation de formation et, le cas échéant, le formulaire sur les enfants recueillis et les enfants du conjoint;
-- d. les informations relatives aux coûts supplémentaires pour la garde des enfants;
+- d.[^19b-1] les informations relatives aux coûts supplémentaires pour la prise en charge institutionnelle des enfants;
 - e. les informations relatives à l’activité exercée avant la période de service;
 - f. les coordonnées pour le versement de l’allocation;
 - g. les documents permettant d’attester les données mentionnées aux let. a à f si elles ne proviennent pas d’un des systèmes d’information ou registres mentionnés à l’art. 21*a*, al. 2, LAPG;
@@ -382,6 +417,8 @@ Les données visées à l’al. 1 sont transmises à la caisse de compensation c
 - a. lorsque la personne effectuant un service a validé la demande dans le système d’information;
 - b. lorsqu’une demande d’allocation est déposée au moyen du formulaire papier officiel, ou
 - c. sur requête d’une personne ayant qualité pour agir selon l’art. 17, al. 1, LAPG.
+
+[^19b-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 19c
 
@@ -431,9 +468,11 @@ La CdC est responsable de la protection des données du système d’information
 
 ### (art. 18 LAPG)
 
-<sup>1</sup> La caisse de compensation peut déléguer à l’employeur la fixation de l’allocation de base et des allocations pour enfants, mais uniquement si l’ayant droit n’a pas plusieurs employeurs et qu’il n’exerce pas simultanément une activité salariée et une activité indépendante. La caisse de compensation vérifie le calcul de l’employeur.
+<sup>1</sup> La caisse de compensation peut déléguer à l’employeur la fixation de l’allocation de service, mais uniquement si l’ayant droit n’a pas plusieurs employeurs et qu’il n’exerce pas simultanément une activité salariée et une activité indépendante.[^20-1] La caisse de compensation vérifie le calcul de l’employeur.
 
 <sup>2</sup> À la demande de l’ayant droit, la caisse de compensation ou l’employeur, si celui-ci a fixé l’allocation, doivent lui indiquer comment l’allocation a été calculée.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 21
 
@@ -480,53 +519,58 @@ La CdC est responsable de la protection des données du système d’information
 
 <sup>1</sup> Le droit à l’allocation naît lorsque la mère accouche d’un enfant viable.
 
-<sup>2</sup> Le droit de la mère à l’allocation naît également lorsque la grossesse a duré au moins 23 semaines.
+<sup>2</sup> Il naît également lorsque la grossesse a duré au moins 23 semaines.[^23-2]
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 24
 
-**Durée du versement de l’allocation de maternité en cas d’hospitalisation prolongée du nouveau-né**[^24-1]
+**Hospitalisation prolongée du nouveau-né ou de la mère**[^24-1]
 
-### (art. 16*c*, al. 3 LAPG)
+### (art. 16*c*, al. 3 et 5, et 16*k*, al. 5 à 7, LAPG)
 
-La preuve que le nouveau-né doit rester en milieu hospitalier de manière ininterrompue durant deux semaines au moins suivant immédiatement la naissance doit être fournie au moyen d’un certificat médical.
+<sup>1</sup> La preuve que le nouveau-né ou la mère doit, dans les deux semaines qui suivent la naissance, rester à l’hôpital de manière ininterrompue durant deux semaines au moins (art. 16*c*, al. 3, LAPG) doit être fournie au moyen d’un certificat médical.
 
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+<sup>2</sup> Si le nouveau-né et la mère sont hospitalisés en même temps ou l’un après l’autre, il convient d’examiner séparément si l’hospitalisation dure au moins deux semaines dans chaque cas. La durée du versement de l’allocation de maternité n’est prolongée que du nombre de jours correspondant à la durée de l’hospitalisation la plus longue.
+
+<sup>3</sup> L’autre parent doit prouver au moyen d’un certificat médical que la mère est hospitalisée de façon ininterrompue durant deux semaines au moins entre le jour de l’accouchement et les 97 jours qui suivent (art. 16*k*, al. 5, LAPG).
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 25
 
-**Extinction du droit de la mère**[^25-1]
+**Extinction du droit**[^25-1]
 
-### (art. 16*d*, al. 3, première partie de la phrase, LAPG)
+### (art. 16*d*, al. 3, 1<sup>re</sup> phrase, 16*k*, al. 7, let. e, et 16*k*<sup>bis</sup>, al. 3, let. e, LAPG)
 
-[^25-2]
+<sup>1</sup> Le droit de la mère à l’allocation s’éteint le jour où celle-ci reprend une activité lucrative, quel que soit son taux d’occupation.
 
-Le droit de la mère à l’allocation s’éteint le jour où celle-ci reprend une activité lucrative, quel que soit son taux d’occupation.
+<sup>2</sup> Le droit de l’autre parent à l’allocation prévu à l’art. 16*k*, al. 5, ou 16*k*<sup>bis</sup>, al. 1, LAPG s’éteint le jour de la reprise de l’activité lucrative, quel que soit son taux d’occupation.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### Section 2 Durée minimale de l’affiliation
 
 #### Art. 26
 
-**Prise en compte des périodes de cotisation à l’étranger**
+**Prise en compte des périodes d’assurance accomplies à l’étranger**[^26-1]
 
 ### (art. 16*b*, al. 1, let. a, et 16*i*, al. 1, let. b, LAPG)
 
-[^26-1]
+Pour déterminer la durée minimale d’assurance fixée à l’art. 16*b*, al. 1, let. a, ou 16*i*, al. 1, let. b, LAPG, sont aussi prises en compte les périodes d’assurance de la mère ayant droit ou de l’autre parent ayant droit, en application des dispositions légales suivantes:
 
-Pour la détermination de la période minimale fixée à l’art. 16*b*, al. 1, let. a, ou 16*i*, al. 1, let. b, LAPG, sont aussi prises en compte les périodes pendant lesquelles la mère ou l’autre parent bénéficiait d’une assurance obligatoire et qu’elle ou il passe:[^26-2]
+- a. Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^26-2], son annexe II et les règlements (CE) n<sup>os</sup> 883/2004[^26-3] et 987/2009[^26-4];
+- b. Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange[^26-5] (appendice 2 de l’annexe K) et les règlements (CE) n<sup>os</sup> 883/2004 et 987/2009[^26-6];
+- c. Convention du 9 septembre 2021 sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord[^26-7].
 
-- a. dans un des États parties à l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^26-3], son annexe II et les règlements n<sup>os</sup> 1408/71 et 574/72[^26-4] dans leur version modifiée[^26-5];
-- b. dans les pays membres de l’Association européenne de libre échange*.*
-
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^26-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^26-4]: R (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 relatif à l’application du R (CEE) 1408/71 (JO L 74 du 27 mars 1972, également codifié par le R (CE) n<sup>o</sup> 118/97 du Conseil, du 2 déc. 1996 (JO L 28 du 30 janv. 1997); modifié en dernier lieu par le R (CE) n<sup>o</sup> 307/1999 du Conseil, du 8 fév. 1999 (JO L 38 du 12 fév. 1999).
-[^26-5]: Une version consolidée provisoire des R (CEE) n<sup>os</sup> 1408/71 et 574/72, y compris les mod. introduites par le R (CE) n<sup>o</sup> 307/1999 du Conseil, peut être obtenue à l’Office fédéral des assurances sociales, 3003 Berne. Seule fait foi la version publiée dans le Journal Officel des CE.
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^26-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^26-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, dans la version faisant foi pour la Suisse conformément à l’annexe II de l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); une version consolidée non contraignante de ce règlement est publiée au [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^26-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale, dans la version applicable à la Suisse conformément à l’annexe II de l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); une version consolidée non contraignante de ce règlement est publiée au [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
+[^26-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^26-6]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale et règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale, dans leur version respectivement applicable à la Suisse, conformément à l’annexe K, appendice 2, de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange (AELE) ([RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
+[^26-7]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 
 #### Art. 27
 
@@ -549,22 +593,23 @@ En cas de naissance avant terme, la période d’assurance fixée à l’art. 16
 
 #### Art. 28
 
-**Prise en compte de l’activité lucrative exercée à l’étranger**
+**Prise en compte des périodes d’activité lucrative exercées à l’étranger**[^28-1]
 
-### (art. 16*b*, al. 1, let. b, et 16*i,* al*.* 1, let. c, LAPG)
+### (art. 16*b*, al. 1, let. b, et 16*i*, al. 1, let. c, LAPG)
 
-[^28-1]
+Pour déterminer la durée minimale de l’activité lucrative fixée à l’art. 16*b*, al. 1, let. b, ou 16*i*, al. 1, let. c, LAPG, sont aussi prises en compte les périodes d’activité lucrative que la mère ayant droit ou l’autre parent ayant droit ont accomplies, en application des dispositions légales suivantes:
 
-Pour la détermination de la durée minimale fixée à l’art. 16*b*, al. 1, let. b, ou 16*i*, al. 1, let. c, LAPG, sont aussi prises en compte les périodes d’activité lucrative accomplies:[^28-2]
+- a. Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^28-2], son annexe II et les règlements (CE) n<sup>os</sup> 883/2004[^28-3] et 987/2009[^28-4];
+- b. Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange[^28-5] (appendice 2 de l’annexe K) et règlements (CE) n<sup>os</sup> 883/2004 et 987/2009[^28-6];
+- c. Convention du 9 septembre 2021 sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord[^28-7].
 
-- a. dans un des États parties à l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^28-3], son annexe II et les règlements n<sup>os</sup> 1408/71 et 574/72[^28-4] dans leur version modifiée[^28-5];
-- b. dans les pays membres de l’Association européenne de libre échange*.*
-
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^28-4]: R (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 relatif à l’application du R (CEE) 1408/71 (JO L 74 du 27 mars 1972 également codifié parle R (CE) n<sup>o</sup> 118/97 du Conseil, du 2 déc. 1996 (JO L 28 du 30 janv. 1997; modifié en dernier lieu par le R (CE) n<sup>o</sup> 307/1999 du Conseil, du 8 fév. 1999 (JO L 38 du 12 fév. 1999).
-[^28-5]: Une version consolidée provisoire des R (CEE) n<sup>os</sup> 1408/71 et 574/72, y compris les mod. introduites par le R (CE) n<sup>o</sup> 307/1999 du Conseil, peut être obtenue à l’Office fédéral des assurances sociales, 3003 Berne. Seule fait foi la version publiée dans le Journal officiel des CE.
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^28-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^28-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, dans la version faisant foi pour la Suisse conformément à l’annexe II de l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); une version consolidée non contraignante de ce règlement est publiée au [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^28-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale, dans la version applicable à la Suisse conformément à l’annexe II de l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)); une version consolidée non contraignante de ce règlement est publiée au [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
+[^28-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^28-6]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale et règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale, dans leur version respectivement applicable à la Suisse, conformément à l’annexe K, appendice 2, de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange (AELE) ([RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
+[^28-7]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3748)
 
 #### Art. 28a
 
@@ -589,35 +634,39 @@ Pour la détermination de la durée minimale fixée à l’art. 16*b*, al.1, let
 La mère qui est au chômage au moment de l’accouchement ou qui, en raison d’une période de chômage, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16*b*, al. 1, let. b, LAPG a droit à l’allocation:
 
 - a. si elle a perçu des indemnités de l’assurance-chômage jusqu’à l’accouchement, ou
-- b. si elle remplissait la condition de la période de cotisation nécessaire prévue par la loi fédérale du 25 juin 1982 sur l’assurance-chômage[^29-2] pour percevoir des indemnités au moment de l’accouchement.
+- b.[^29-2] si elle remplissait la condition de la période de cotisation nécessaire prévue par la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^29-3] pour percevoir des indemnités au moment de l’accouchement.
 
 <sup>1bis</sup>
 
 La mère selon l’al. 1, let. a, a droit à une prolongation du versement de l’allocation de maternité (art. 16*c*, al. 3 LAPG):
 
 - a. si elle n’a pas perçu la totalité des indemnités journalières de l’assurance-chômage avant l’accouchement et que le délai-cadre d’indemnisation court encore le jour suivant la fin du congé de maternité, et
-- b. si elle présente un certificat médical selon l’art. 24.[^29-3]
+- b.[^29-4] si elle présente un certificat médical selon l’art. 24, al. 1.[^29-5]
 
 <sup>2</sup>
 
-L’autre parent qui est au chômage au moment de la naissance de l’enfant ou qui, en raison d’une période de chômage, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16*i*, al. 1, let. c, LAPG a droit à l’allocation:[^29-4]
+L’autre parent qui est au chômage au moment de la naissance de l’enfant ou qui, en raison d’une période de chômage, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16*i*, al. 1, let. c, LAPG a droit à l’allocation:[^29-6]
 
 - a. s’il a perçu des indemnités de l’assurance-chômage jusqu’à la naissance de l’enfant, ou
-- b. si, le jour de la naissance de l’enfant, il effectuait un service au sens de l’art. 1*a* LAPG et remplissait la condition de la période de cotisation nécessaire prévue par la loi sur l’assurance-chômage pour percevoir des indemnités.[^29-5]
+- b.[^29-7] si, le jour de la naissance de l’enfant, il effectuait un service au sens de l’art. 1a LAPG et qu’il remplissait la condition de la période de cotisation nécessaire prévue par la LACI pour percevoir des indemnités.[^29-8]
 
 <sup>3</sup>
 
 L’autre parent au sens de l’al. 2, let. a, a droit à des indemnités journalières supplémentaires en cas de décès de la mère (art. 16*k**<sup>bis</sup>*, al. 2, LAPG):
 
 - a. s’il n’a pas perçu la totalité des indemnités journalières de l’assurance-chômage avant la naissance de l’enfant et que le délai-cadre d’indemnisation court encore le jour suivant la fin du congé de l’autre parent en cas de décès de la mère, et
-- b. s’il présente un certificat médical conformément à l’art. 24.[^29-6]
+- b.[^29-9] s’il présente un certificat médical selon l’art. 24, al. 1.[^29-10]
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
-[^29-3]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^29-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-5]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^29-6]: Introduit par le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^29-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-5]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-6]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^29-7]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-8]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-9]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^29-10]: Introduit par le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 30
 
@@ -629,12 +678,13 @@ L’autre parent au sens de l’al. 2, let. a, a droit à des indemnités journa
 
 La mère ou l’autre parent qui est en incapacité de travail au moment de la naissance de l’enfant ou qui, en raison d’une période d’incapacité de travail, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16*b*, al. 1, let. b, ou 16*i*, al. 1, let. c, LAPG a droit à l’allocation si elle ou il:[^30-3]
 
-- a. a perçu jusqu’à la naissance de l’enfant des indemnités pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou des indemnités journalières de l’assurance-invalidité, ou
+- a.[^30-4] a perçu jusqu’à la naissance de l’enfant des indemnités journalières pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou des indemnités journalières de l’assurance-invalidité, ou
 - b. bénéficiait d’un rapport de travail encore valable au moment de la naissance de l’enfant et avait précédemment épuisé son droit au salaire.
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^30-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^30-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^30-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 ### Section 4 Calcul de l’allocation
 
@@ -655,9 +705,9 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
 - e.[^31-3] d’un congé de maternité au sens de l’art. 329*f* CO[^31-4] ou d’un congé de l’autre parent au sens de l’art. 329*g* ou 329*g*<sup>bis</sup> CO;
-- f.[^31-5] de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
+- f.[^31-5] de la prise en charge d’un enfant qui, en raison d’une maladie ou d’un accident, est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG ou est hospitalisé pour une durée d’au moins quatre jours consécutifs (art. 16*n* LAPG);
 - g.[^31-6] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
-- h.[^31-7] d’autres motifs n’impliquant aucune faute de sa part.
+- h.[^31-7] d’autres motifs, à condition que ces derniers ne soient imputables à aucune faute de sa part.
 
 <sup>2</sup> Les allocations respectives de la mère et de l’autre parent sont calculées séparément.[^31-8]
 
@@ -667,9 +717,9 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^31-5]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-5]: Introduite par le ch. I de l’O du 24 août 2022 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^31-6]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^31-7]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-7]: Introduite par le ch. I de l’O du 24 août 2022 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)). Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^31-8]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-9]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
@@ -692,6 +742,34 @@ L’art. 7, al. 1 et 1<sup>bis</sup>, s’applique au calcul de l’allocation r
 L’allocation revenant à la mère ou à l’autre parent qui exerce simultanément une activité salariée et une activité indépendante est calculée sur les gains journaliers moyens des deux activités, déterminés selon les art. 7, al. 1 et 1<sup>bis</sup>, et 31.
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+
+### Section 4*a* Allocation pour frais de garde et allocation d’exploitation
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 33a
+
+**Allocation pour frais de garde**
+
+### (art. 16*f*<sup>bis</sup> et 16*l*<sup>bis</sup> LAPG)
+
+<sup>1</sup> L’art. 12 s’applique pour déterminer les coûts supplémentaires liés à la garde institutionnelle des enfants.
+
+<sup>2</sup> L’art. 13 s’applique par analogie pour déterminer le montant de l’allocation pour frais de garde.
+
+<sup>3</sup> L’ayant droit doit prouver, au moyen d’un certificat médical, que sa santé ou celle de son enfant était atteinte et que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants en ont résulté.
+
+#### Art. 33b
+
+**Allocation d’exploitation**
+
+### (art. 16*f*<sup>ter</sup> et 16*l*<sup>ter</sup> LAPG)
+
+<sup>1</sup> Lorsque l’ayant droit gère conjointement une exploitation avec une personne qui a également droit à l’allocation d’exploitation en vertu des art. 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> ou 16*w*<sup>ter</sup> LAPG, une seule allocation par jour est versée pour cette exploitation.
+
+<sup>2</sup> L’art. 14*a* s’applique au droit à l’allocation d’exploitation des personnes qui exercent leur activité principale dans une exploitation agricole comme membres de la famille de l’exploitant.
 
 ### Section 5 Exercice du droit, fixation et paiement de l’allocation
 
@@ -725,10 +803,10 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 
 <sup>3</sup> L’employeur auprès duquel l’autre parent est engagé durant son congé ou la caisse de chômage de l’autre parent atteste que les jours de congé ont été pris.
 
-<sup>4</sup> L’organe compétent délivre à la mère qui participe, en tant que députée, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal, une attestation confirmant qu’aucune suppléance n’est prévue pour ces séances. La mère remet cette attestation à la caisse de compensation.[^34a-2]
+<sup>4</sup> L’organe compétent délivre à la mère ou à l’autre parent qui participe, en tant que députée ou député, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal, une attestation confirmant qu’aucune suppléance n’est prévue pour ces séances. La mère ou l’autre parent remet cette attestation à la caisse de compensation.[^34a-2]
 
 [^34a-1]: Introduit par le ch. I de l’O du 21 oct. 2020 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^34a-2]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)).
+[^34a-2]: Introduit par le ch. I de l’O du 10 avr. 2024 ([RO 2024 153](https://fedlex.data.admin.ch/eli/oc/2024/153)). Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35
 
@@ -752,17 +830,18 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 [^35-4]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
-## Chapitre 2*a* Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
+## Chapitre 2*a* Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident ou hospitalisé
 
-[^chap2a-1]
+[^chap2a-1][^chap2a-2]
 
 [^chap2a-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^chap2a-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-### Section 1 Droit des parents nourriciers, des beaux-parents et de la mère ou de l’autre parent au chômage ou en incapacité de travail
+### Section 1 Droit
 
 [^chap2a-sec1-1]
 
-[^chap2a-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^chap2a-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35a
 
@@ -770,9 +849,11 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 
 ### (art. 16*n* LAPG)
 
-<sup>1</sup> Les parents nourriciers qui ont recueilli l’enfant de manière durable à des fins d’entretien et d’éducation ont droit à l’allocation selon l’art. 16*n*, al. 1 et 2, LAPG.
+<sup>1</sup> Les parents nourriciers qui ont recueilli l’enfant de manière durable à des fins d’entretien et d’éducation ont droit à l’allocation selon l’art. 16*n*, al. 1 à 2<sup>bis</sup>, LAPG.[^35a-1]
 
 <sup>2</sup> Le droit des parents nourriciers s’éteint si l’enfant retourne chez l’un de ses parents.
+
+[^35a-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35b
 
@@ -780,20 +861,26 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 
 ### (art. 16*n* LAPG)
 
-La belle-mère ou le beau-père a droit à l’allocation selon l’art. 16*n*, al. 1 et 2, LAPG:
+La belle-mère ou le beau-père a droit à l’allocation selon l’art. 16*n*, al. 1 à 2<sup>bis</sup>, LAPG:[^35b-1]
 
 - a. si elle ou il fait ménage commun avec l’autre parent, qui a l’autorité parentale et la garde de l’enfant, et contribue de façon appropriée à l’entretien et à l’éducation de l’enfant, et
 - b. si un des parents renonce complètement à son droit, pour autant qu’un lien de filiation existe envers les deux parents.
+
+[^35b-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35c
 
 **Mère ou autre parent au chômage**[^35c-1]
 
-### (art. 16*n* LAPG)
+### (art. 16*n*, al. 3, let. b, LAPG)
 
-Le droit à l’allocation de la mère ou de l’autre parent au chômage est régi par l’art. 16*n*, al. 1 et 2, LAPG lorsque la prise en charge de l’enfant requiert sa présence et qu’elle ou il a perçu une indemnité journalière de l’assurance-chômage jusqu’au début de son droit à l’allocation.
+Le droit à l’allocation de la mère ou de l’autre parent au chômage est régi par l’art. 16*n*, al. 1 à 2<sup>bis</sup>, LAPG lorsque la prise en charge de l’enfant requiert sa présence et:
 
-[^35c-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+- a. qu’elle ou il a perçu une indemnité journalière de l’assurance-chômage jusqu’au début de son droit à l’allocation, ou
+- b. qu’au début du droit, elle ou il effectuait un service au sens de l’art. 1*a* LAPG et remplissait la condition de la période de cotisation nécessaire prévue par la LACI[^35c-2] pour percevoir des indemnités.
+
+[^35c-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35c-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 35d
 
@@ -803,51 +890,92 @@ Le droit à l’allocation de la mère ou de l’autre parent au chômage est r�
 
 [^35d-1]
 
-Le droit à l’allocation de la mère ou de l’autre parent en incapacité de travail est régi par l’art. 16*n*, al. 1 et 2, LAPG lorsque la prise en charge de l’enfant requiert sa présence et:[^35d-2]
+Le droit à l’allocation de la mère ou de l’autre parent en incapacité de travail est régi par l’art. 16*n*, al. 1 à 2<sup>bis</sup>, LAPG lorsque la prise en charge de l’enfant requiert sa présence et:[^35d-2]
 
-- a. qu’elle ou il a perçu, jusqu’au début du droit à l’allocation, des indemnités journalières de l’assurance-invalidité ou une allocation pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou
+- a.[^35d-3] qu’elle ou il a perçu, jusqu’au début du droit à l’allocation, des indemnités journalières pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou des indemnités journalières de l’assurance-invalidité, ou
 - b. qu’au début du droit à l’allocation, elle ou il était partie à un rapport de travail encore valable et avait précédemment épuisé son droit au salaire.
 
 [^35d-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35d-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-
-### Section 2 Calcul de l’allocation
+[^35d-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35d-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35e
 
-**Répartition entre les parents**
+**Nombre d’indemnités journalières**[^35e-1]
 
-### (art. 16*q*, al. 4, LAPG)
+### (art. 16*q*, al. 2<sup>bis</sup> et 4, LAPG)
 
-Si le congé de prise en charge est réparti entre les parents, les allocations sont calculées séparément pour chaque parent.
+<sup>1</sup> Si l’enfant est hospitalisé au moins quatre jours (art. 16*n* LAPG) sans être gravement atteint dans sa santé au sens de l’art. 16*o* LAPG, un seul parent a droit à une indemnité journalière par jour pour cet enfant.
 
-#### Art. 35f
+<sup>2</sup> Les parents ne peuvent pas percevoir en même temps, pour le même enfant, une allocation de prise en charge d’un enfant hospitalisé au moins quatre jours (art. 16*n* LAPG) et une allocation de prise en charge d’un enfant gravement atteint dans sa santé au sens de l’art. 16*o* LAPG.
 
-**Allocation des salariés**
+[^35e-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
-### (art. 16*r* LAPG)
+#### Art. 35e<sup>bis</sup>
+
+**Délai de carence de l’allocation de prise en charge d’un enfant hospitalisé au moins quatre jours**[^35ebis-1]
+
+### (art. 16*q* LAPG)
+
+Le délai de carence de trois jours recommence à courir à chaque hospitalisation (art. 16*n* LAPG).
+
+[^35ebis-1]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35e<sup>ter</sup>
+
+**Coordination entre l’allocation de prise en charge d’un enfant hospitalisé au moins quatre jours et l’allocation de prise en charge d’un enfant gravement atteint dans sa santé**[^35eter-1]
+
+### (art. 16*n*, 16*o* et 16*p*, al. 1, 4 et 5, LAPG)
 
 <sup>1</sup>
 
-L’allocation est calculée sur la base du dernier salaire déterminant acquis avant la perception des jours de congé correspondants et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels l’ayant droit n’a pas perçu de salaire ou dont le salaire a été diminué en raison:
+Au moment de la naissance du droit à l’allocation de prise en charge d’un enfant gravement atteint dans sa santé au sens de l’art. 16*o* LAPG:
+
+- a. le droit à l’allocation de prise en charge d’un enfant hospitalisé au moins quatre jours (art. 16*n* LAPG) prend fin pour le même enfant, et
+- b. le délai-cadre prévu à l’art. 16*p*, al. 1, LAPG, commence à courir.
+
+<sup>2</sup> Le droit à l’allocation de prise en charge d’un enfant gravement atteint dans sa santé au sens de l’art. 16*o* LAPG ne s’éteint pas lorsque le même enfant est hospitalisé au moins quatre jours (art. 16*n* LAPG).
+
+<sup>3</sup> La durée du séjour à l’hôpital et de la convalescence qui suit doit être attestée au moyen d’un certificat médical.
+
+[^35eter-1]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+### Section 2 Calcul de l’allocation
+
+[^chap2a-sec2-1][^chap2a-sec2-2]
+
+[^chap2a-sec2-1]: Anciennement avant art. 35*e*.
+[^chap2a-sec2-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35f
+
+**Allocation des salariés**[^35f-1]
+
+### (art. 16*r* LAPG)
+
+<sup>1</sup> L’allocation octroyée aux parents d’un enfant qui, en raison d’une maladie ou d’un accident, est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG est calculée sur la base du dernier salaire déterminant acquis avant la perception des jours de congé correspondants et converti en gain journalier moyen.
+
+<sup>2</sup> L’allocation octroyée aux parents d’un enfant hospitalisé au moins quatre jours (art. 16*n* LAPG) est calculée sur la base du dernier salaire déterminant acquis avant l’hospitalisation de l’enfant et converti en gain journalier moyen.
+
+<sup>3</sup>
+
+Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels l’ayant droit n’a pas perçu de salaire ou dont le salaire a été diminué en raison:
 
 - a. d’une maladie;
 - b. d’un accident;
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
-- e.[^35f-1] d’un congé de maternité au sens de l’art. 329*f* CO[^35f-2] ou d’un congé de l’autre parent au sens de l’art. 329*g* ou 329*g*<sup>bis</sup> CO;
-- f. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
-- g.[^35f-3] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
-- h.[^35f-4] d’autres motifs n’impliquant aucune faute de sa part.
+- e. d’un congé de maternité au sens de l’art. 329*f* CO[^35f-2] ou d’un congé de l’autre parent au sens de l’art. 329*g* ou 329*g*<sup>bis</sup> CO;
+- f. de la prise en charge d’un enfant qui, en raison d’une maladie ou d’un accident, est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG ou est hospitalisé pour une durée d’au moins quatre jours consécutifs (art. 16*n* LAPG);
+- g. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
+- h. d’autres motifs, à condition que ces derniers ne soient imputables à aucune faute de sa part.
 
-<sup>2</sup> L’indemnité journalière est recalcuée s’il y a un changement du salaire déterminant durant les jours de congé.
+<sup>4</sup> L’indemnité journalière est recalculée s’il y a un changement du salaire déterminant durant les jours de congé.
 
-<sup>3</sup> Les art. 5 et 6 s’appliquent par analogie.
+<sup>5</sup> Les art. 5 et 6 s’appliquent par analogie.
 
-[^35f-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^35f-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 [^35f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^35f-3]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35f-4]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35g
 
@@ -868,6 +996,34 @@ L’art. 7, al. 1 et 1<sup>bis</sup>, s’appliquent par analogie au calcul de l
 L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35*f*, et de l’activité indépendante, déterminés selon l’art. 7, al. 1 et 1<sup>bis</sup>.
 
 [^35h-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
+### Section 2*a* Allocation pour frais de garde et allocation d’exploitation
+
+[^chap2a-sec2a-1]
+
+[^chap2a-sec2a-1]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35h<sup>bis</sup>
+
+**Allocation pour frais de garde**
+
+### (art. 16*r*<sup>bis</sup> LAPG)
+
+<sup>1</sup> L’art. 12 s’applique pour déterminer les coûts supplémentaires liés à la garde institutionnelle des enfants.
+
+<sup>2</sup> L’art. 13 s’applique par analogie pour déterminer le montant de l’allocation pour frais de garde.
+
+<sup>3</sup> L’ayant droit doit prouver, au moyen d’un certificat médical, que sa santé ou celle de son enfant était atteinte et que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants en ont résulté.
+
+#### Art. 35h<sup>ter</sup>
+
+**Allocation d’exploitation**
+
+### (art. 16*r*<sup>ter</sup>, al. 2, 2<sup>e</sup> phrase, LAPG)
+
+<sup>1</sup> Lorsque l’ayant droit gère conjointement une exploitation avec une personne qui a également droit à l’allocation d’exploitation en vertu des art. 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> ou 16*w*<sup>ter</sup> LAPG, une seule allocation par jour est versée pour cette exploitation.
+
+<sup>2</sup> L’art. 14*a* s’applique au droit à l’allocation d’exploitation des personnes qui exercent leur activité principale dans une exploitation agricole comme membres de la famille de l’exploitant.
 
 ### Section 3 Exercice du droit, fixation et paiement de l’allocation
 
@@ -939,6 +1095,33 @@ Pour la détermination de la durée minimale fixée à l’art. 16*t*, al.1, let
 - a. effectuait un service au sens de l’art. 1*a* LAPG, ou
 - b. a perçu des indemnités journalières de l’assurance-chômage, de l’assurance-invalidité ou d’une assurance sociale ou privée pour la perte de gain en cas de maladie ou d’accident.
 
+#### Art. 35m<sup>bis</sup>
+
+**Personnes au chômage**[^35mbis-1]
+
+### (art. 16*t*, al. 1<sup>bis</sup>, LAPG)
+
+Les personnes qui sont au chômage au moment de l’accueil de l’enfant ou qui, en raison d’une période de chômage, ne remplissent pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16*t*, al. 1, let. b, LAPG ont droit à l’allocation:
+
+- a. si elles ont perçu des indemnités de l’assurance-chômage jusqu’au jour de l’accueil de l’enfant, ou
+- b. si, le jour de l’accueil de l’enfant, elles effectuaient un service au sens de l’art. 1*a* LAPG et qu’elles remplissaient la condition de la période de cotisation nécessaire prévue par la LACI[^35mbis-2] pour percevoir des indemnités.
+
+[^35mbis-1]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35mbis-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+
+#### Art. 35m<sup>ter</sup>
+
+**Personnes en incapacité de travail**[^35mter-1]
+
+### (art. 16*t*, al. 1<sup>bis</sup>, LAPG)
+
+Les personnes qui sont en incapacité de travail au moment de l’accueil de l’enfant ou qui, en raison d’une période d’incapacité de travail, ne remplissent pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16*t*, al. 1, let. b, LAPG ont droit à l’allocation:
+
+- a. si elles ont perçu jusqu’à l’accueil de l’enfant des indemnités journalières pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou des indemnités journalières de l’assurance-invalidité, ou
+- b. si elles bénéficiaient d’un rapport de travail encore valable au moment de l’accueil de l’enfant et avaient précédemment épuisé leur droit au salaire.
+
+[^35mter-1]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
 ### Section 2 Calcul de l’allocation
 
 #### Art. 35n
@@ -956,14 +1139,16 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
 - e.[^35n-1] d’un congé de maternité au sens de l’art. 329*f* CO[^35n-2] ou d’un congé de l’autre parent au sens de l’art. 329*g* ou 329*g*<sup>bis</sup> CO;
-- f. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
+- f.[^35n-3] de la prise en charge d’un enfant qui, en raison d’une maladie ou d’un accident, est gravement atteint dans sa santé au sens de l’art. 16*o* LAPG ou est hospitalisé pour une durée d’au moins quatre jours consécutifs (art. 16*n* LAPG);
 - g. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
-- h. d’autres motifs n’impliquant aucune faute de sa part.
+- h.[^35n-4] d’autres motifs, à condition que ces derniers ne soient imputables à aucune faute de sa part.
 
 <sup>2</sup> Les art. 5 et 6 s’appliquent par analogie.
 
 [^35n-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35n-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^35n-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+[^35n-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 35o
 
@@ -980,6 +1165,34 @@ L’art. 7, al. 1 et 1<sup>bis</sup>, s’appliquent par analogie au calcul de l
 ### (art. 16*w* LAPG)
 
 L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35*n*, et de l’activité indépendante, déterminés selon l’art. 7, al. 1 et 1<sup>bis</sup>.
+
+### Section 2*a* Allocation pour frais de garde et allocation d’exploitation
+
+[^chap2b-sec2a-1]
+
+[^chap2b-sec2a-1]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
+
+#### Art. 35p<sup>bis</sup>
+
+**Allocation pour frais de garde**
+
+### (art. 16*w*<sup>bis</sup> LAPG)
+
+<sup>1</sup> L’art. 12 s’applique pour déterminer les coûts supplémentaires liés à la garde institutionnelle des enfants.
+
+<sup>2</sup> L’art. 13 s’applique par analogie pour déterminer le montant de l’allocation pour frais de garde.
+
+<sup>3</sup> L’ayant droit doit prouver, au moyen d’un certificat médical, que sa santé ou celle de son enfant était atteinte et que des coûts supplémentaires pour la prise en charge institutionnelle d’enfants en ont résulté.
+
+#### Art. 35p<sup>ter</sup>
+
+**Allocation d’exploitation**
+
+### (art. 16*w*<sup>ter</sup> LAPG)
+
+<sup>1</sup> Lorsque l’ayant droit gère conjointement une exploitation avec une personne qui a également droit à l’allocation d’exploitation en vertu des art. 8, 16*f*<sup>ter</sup>, 16*l*<sup>ter</sup>, 16*r*<sup>ter</sup> ou 16*w*<sup>ter</sup> LAPG, une seule allocation par jour est versée pour cette exploitation.
+
+<sup>2</sup> L’art. 14*a* s’applique au droit à l’allocation d’exploitation des personnes qui exercent leur activité principale dans une exploitation agricole comme membres de la famille de l’exploitant.
 
 ### Section 3 Exercice du droit, fixation et paiement de l’allocation
 
