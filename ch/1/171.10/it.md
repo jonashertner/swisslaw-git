@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2026-03-02
+version: 2027-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 2 marzo 2026)
+del 13 dicembre 2002 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2292,9 +2292,10 @@ Il Consiglio federale sottopone all’Assemblea federale:
 
 <sup>3</sup> Nel messaggio sul programma di legislatura sono specificati gli indicatori che consentono di verificare il conseguimento degli obiettivi. Il messaggio contiene altresì un’analisi della situazione in base a tali indicatori. Fornisce inoltre un compendio di tutti i disegni di atti legislativi che il Consiglio federale prevede di sottoporre all’Assemblea federale nel corso della legislatura (programma legislativo).
 
-<sup>4</sup> Nel messaggio è illustrato anche il piano finanziario di legislatura. Questo stabilisce il fabbisogno finanziario per la legislatura e mostra in che modo si prevede di coprirlo. Gli obiettivi e i provvedimenti del programma di legislatura e il piano finanziario di legislatura sono coordinati quanto a materia e durata.
+<sup>4</sup> Il messaggio fornisce inoltre un compendio delle prospettive finanziarie. Vi sono coordinati il programma di legislatura e il piano finanziario.[^146-2]
 
 [^146-1]: Nuovo testo giusta la cifra I della LF del 22 giu. 2007 (Programma di legislatura), in vigore dal 1° dic. 2007 ([RU 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1715](https://fedlex.data.admin.ch/eli/fga/2006/164)[1735](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^146-2]: Nuovo testo giusta la cifra I n. 3 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 147
 

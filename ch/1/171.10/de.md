@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2026-03-02
+version: 2027-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 2. März 2026)
+vom 13. Dezember 2002 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2282,9 +2282,10 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 
 <sup>3</sup> In der Botschaft über die Legislaturplanung werden den Zielen Indikatoren zugeordnet, mit denen die Zielerreichung überprüft werden kann. Die Botschaft enthält auch eine Lageanalyse, die sich auf Indikatoren abstützt. Zudem gibt sie einen Überblick über alle Erlassentwürfe, die der Bundesrat während der Legislaturperiode der Bundesversammlung vorzulegen plant (Gesetzgebungsprogramm).
 
-<sup>4</sup> In der Botschaft wird der Legislaturfinanzplan dargelegt. Dieser setzt den Finanzbedarf für die Legislaturperiode fest und zeigt auf, wie dieser gedeckt werden soll. Die Ziele und Massnahmen der Legislaturplanung und der Legislaturfinanzplan werden sachlich und zeitlich miteinander verknüpft.
+<sup>4</sup> Die Botschaft gibt ausserdem einen Überblick über die finanziellen Perspektiven. In diesem Überblick werden die Legislatur- und die Finanzplanungaufeinander abgestimmt.[^146-2]
 
 [^146-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^146-2]: Fassung gemäss Ziff. I 3 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 147
 

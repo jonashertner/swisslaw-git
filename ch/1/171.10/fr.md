@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2026-03-02
+version: 2027-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 2 mars 2026)
+du 13 décembre 2002 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2283,9 +2283,10 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 
 <sup>3</sup> Dans le message sur le programme de la législature, les objectifs sont accompagnés d’indicateurs permettant d’évaluer le degré de réalisation des objectifs. Le message contient également une analyse de la situation reposant sur les indicateurs. De plus, le message présente un aperçu de tous les projets d’acte que le Conseil fédéral prévoit de soumettre à l’Assemblée fédérale durant la législature (programme législatif).
 
-<sup>4</sup> Le message présente le plan financier de la législature. Celui-ci fixe les besoins financiers pour la législature et indique leur financement. Les objectifs et les mesures du programme de la législature et du plan financier de la législature sont coordonnés par objets et par échéances.
+<sup>4</sup> Le message donne en outre un aperçu des perspectives financières. Le programme de la législature et le plan financier sont coordonnés dans ce dernier.[^146-2]
 
 [^146-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164), [1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^146-2]: Nouvelle teneur selon le ch. I 3 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 147
 
