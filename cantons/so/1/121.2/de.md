@@ -3,20 +3,19 @@ canton: SO
 number: "121.2"
 title: Geschäftsreglement des Kantonsrates von Solothurn
 language: de
-version: 2025-08-01
-valid_until: 2026-12-31
-version_adopted: 2024-11-06
+version: 2027-01-01
+version_adopted: 2025-11-12
 adopted: 1991-09-10
 in_force: 1992-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.2"
-pdf: "https://bgs.so.ch/api/de/versions/5551/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5651/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des Kantonsrates von Solothurn
 
-Vom 10.09.1991 (Stand 01.08.2025)
+Vom 10.09.1991 (Stand 01.01.2027)
 
 Der Kantonsrat von Solothurn
 
@@ -270,6 +269,8 @@ beschliesst:
 **Stellvertretung**
 
 <sup>1</sup> Kann ein Kommissionsmitglied aus zwingenden Gründen während längerer Zeit an den Kommissionssitzungen nicht teilnehmen, bestimmt die Ratsleitung auf Vorschlag der betreffenden Fraktion einen Stellvertreter. Der Rat ist darüber zu informieren.
+
+<sup>2</sup> Absatz 1 gilt auch in Fällen der Vertretung gemäss § 2<sup>bis</sup> des Kantonsratsgesetzes vom 24. September 1989.
 
 #### § 21
 
