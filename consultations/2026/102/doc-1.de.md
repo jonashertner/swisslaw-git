@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "26.425 s pa. Iv. SPK-S. Verfassungsanpassung betreffend die Bilateralen III, Entwurf 2: Schubert-Praxis"
 document: Vernehmlassungsvorlage-2
 language: de

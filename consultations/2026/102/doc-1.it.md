@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "26.425 s Iv. pa. CIP-S. Adeguamento costituzionale concernente i Bilaterali III, progetto 2: prassi Schubert"
 document: Progetto posto in consultazione-2
 language: it

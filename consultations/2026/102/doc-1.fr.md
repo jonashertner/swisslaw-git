@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "26.425 é Iv. pa. CIP-E. Modification de la Constitution concernant les Bilatérales III, projet 2 : Pratique Schubert"
 document: Projet mis en consultation-2
 language: fr
