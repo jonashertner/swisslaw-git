@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 marzo 2002 sulla protezione del design (Ordinanza sul 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: it
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/it"
 
 (Ordinanza sul design, ODes)
 
-dell’8 marzo 2002 (Stato 1° luglio 2025)
+dell’8 marzo 2002 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 20 capoverso 2, 23 capoverso 2, 24 capoversi 2 e 4, 27 capove
 
 ordina:
 
-[^ingress-1]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [RS 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 ## Capitolo 1: Disposizioni generali
@@ -42,7 +42,7 @@ ordina:
 [^1-1]: Nuova espr. giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-2]: Nuova espr. giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^1-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -58,9 +58,10 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>1bis</sup> La lingua ufficiale scelta dal depositante al momento del deposito costituisce la lingua della procedura.[^3-1]
 
-<sup>2</sup> Dei documenti probatori che non sono redatti in una lingua ufficiale l’IPI può esigere una traduzione e un’attestazione dell’esattezza di quest’ultima. Se, nonostante ingiunzione, la traduzione o l’attestazione non è fornita, l’IPI non tiene conto del documento.
+<sup>2</sup> Se i documenti di prova non sono redatti in una lingua ufficiale, l’IPI può esigere una traduzione e un’attestazione dell’esattezza di quest’ultima. Se, nonostante l’ingiunzione, la traduzione o l’attestazione non è presentata, il documento non è preso in considerazione.[^3-2]
 
 [^3-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 4
 
@@ -106,11 +107,9 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 **Comunicazione elettronica**[^7-1]
 
-<sup>1</sup> L’IPI può autorizzare la comunicazione elettronica.
+L’IPI determina le modalità tecniche della comunicazione elettronica e le pubblica in modo adeguato.
 
-<sup>2</sup> Determina le modalità tecniche e le pubblica in modo adeguato.
-
-[^7-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 ## Capitolo 2: Deposito e registrazione
 
@@ -135,20 +134,20 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 Nella domanda di registrazione figurano:
 
 - a. la richiesta di registrazione del design;
-- b. il cognome e il nome o la ragione sociale cosí come l’indirizzo del depositante;
+- b. il cognome e il nome o la ditta[^9-1] cosí come l’indirizzo del depositante;
 - c. il numero dei design contenuti nel deposito;
 - d. un numero d’ordine per ogni design depositato;
 - e. almeno una raffigurazione per ogni design depositato;
 - f. l’indicazione dei prodotti ai quali è destinato il design;
-- g.[^9-1] il cognome, il nome e il domicilio delle persone che hanno creato il design.
+- g.[^9-2] il cognome, il nome e il domicilio delle persone che hanno creato il design.
 
 <sup>2</sup>
 
 Eventualmente la domanda di registrazione va completata con:
 
-- a.[^9-2] il recapito in Svizzera del depositante;
-- a<sup>bis</sup>.[^9-3] in caso di pluralità di depositanti: le coordinate del destinatario delle comunicazioni di cui all’articolo 4 capoverso 1 ed eventualmente il suo recapito;
-- a<sup>ter</sup>.[^9-4] il nome e l’indirizzo del rappresentante ed eventualmente il suo recapito in Svizzera;
+- a.[^9-3] il recapito in Svizzera del depositante;
+- a<sup>bis</sup>.[^9-4] in caso di pluralità di depositanti: le coordinate del destinatario delle comunicazioni di cui all’articolo 4 capoverso 1 ed eventualmente il suo recapito;
+- a<sup>ter</sup>.[^9-5] il nome e l’indirizzo del rappresentante ed eventualmente il suo recapito in Svizzera;
 - b. la dichiarazione di priorità giusta l’articolo 23 della LDes;
 - c. la richiesta del differimento della pubblicazione giusta l’articolo 26 capoverso 1 della LDes;
 - d. una descrizione di 100 parole al massimo del design giusta l’articolo 19 capoverso 4 della LDes: il testo deve poter essere letto meccanicamente.
@@ -157,10 +156,11 @@ Eventualmente la domanda di registrazione va completata con:
 
 <sup>4</sup> Le raffigurazioni sono liberate per la pubblicazione dopo il quinto giorno lavorativo a contare dal ricevimento della domanda di registrazione, sempre che nel frattempo non sia pervenuta all’IPI una domanda di differimento della pubblicazione.
 
-[^9-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^9-2]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
-[^9-3]: Introdotta dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^9-4]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^9-1]: Nuova espressione giusta la cifra I cpv. 1 dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
+[^9-4]: Introdotta dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^9-5]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 10
 
@@ -186,7 +186,7 @@ La dichiarazione per rivendicare la priorità conformemente alla Convenzione d�
 
 <sup>3</sup> L’attestato di priorità consiste in un’attestazione sul primo deposito rilasciata dalla competente autorità e contiene l’indicazione del numero di deposito e di registrazione del design. Può essere presentato in lingua inglese.
 
-[^11-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^11-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027),[0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028),[0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029),[0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 12
 
@@ -201,9 +201,10 @@ Il diritto di priorità si estingue se:
 
 **Attestato di priorità per primi depositi svizzeri**[^13-1]
 
-Su domanda, l’IPI rilascia l’attestato di priorità relativo a un primo deposito svizzero.
+Su richiesta[^13-2], l’IPI rilascia l’attestato di priorità relativo a un primo deposito svizzero.
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^13-2]: Nuova espressione giusta la cifra I cpv. 2 dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 14
 
@@ -230,6 +231,15 @@ Per gli invii postali, è considerata data della presentazione il giorno in cui 
 <sup>2</sup> Se il depositante non ovvia in tempo alla mancanza, l’IPI respinge completamente o parzialmente la domanda di registrazione. L’IPI può eccezionalmente impartire termini supplementari.[^16-1]
 
 [^16-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+
+#### Art. 16a
+
+**Ordinanza sulle tasse**[^16a-1]
+
+Alle tasse dovute secondo la LDes o la presente ordinanza si applica l’ordinanza dell’IPI del 14 giugno 2016[^16a-2] sulle tasse (OTa-IPI).
+
+[^16a-1]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^16a-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 17
 
@@ -320,16 +330,15 @@ Se è stata presentata una domanda di rinnovo, ma la protezione non è rinnovata
 
 #### Art. 22
 
-**Contenuto**
+**Contenuto**[^22-1]
 
-<sup>1</sup> L’IPI tiene un fascicolo nel quale figurano lo svolgimento della procedura di registrazione e tutte le iscrizioni nel registro.
+<sup>1</sup> L’IPI tiene, per ogni domanda di registrazione e per ogni design, un fascicolo che informa sullo svolgimento della procedura di registrazione e sulle modifiche concernenti l’esistenza del design e il diritto al design.
 
-<sup>2</sup> I documenti di prova che rendono pubblici segreti di fabbricazione o d’affari oppure contengono altre indicazioni sulle quali il depositante ha un legittimo interesse alla tutela del segreto sono conservati separatamente su domanda. Tale fatto è menzionato nel fascicolo.[^22-1]
+<sup>2</sup> Lo scambio di scritti dell’IPI e delle parti nel quadro della procedura di ricorso non è parte del fascicolo.
 
-<sup>3</sup> ...[^22-2]
+<sup>3</sup> I documenti di prova che divulgano segreti di fabbricazione o d’affari oppure contengono altre indicazioni sulle quali il depositante ha un legittimo interesse alla tutela del segreto sono conservati separatamente su richiesta. Tale conservazione separata è menzionata nel fascicolo.
 
-[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
-[^22-2]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 23
 
@@ -345,13 +354,17 @@ Prima dell’iscrizione del design nel registro e durante il periodo del differi
 
 <sup>2</sup> Le persone menzionate nel capoverso 1 possono consultare anche gli atti delle domande di registrazione che sono state ritirate o respinte oppure sulle quali l’IPI non è entrato nel merito.
 
-<sup>3</sup> Dopo l’iscrizione del design nel registro, sempre che la pubblicazione non sia stata differita, chiunque può consultare il fascicolo.
+<sup>3</sup> Dopo l’iscrizione del design, fatte salve le registrazioni la cui pubblicazione è differita, il fascicolo può essere consultato da chiunque.[^23-1]
 
 <sup>4</sup> Circa la consultazione dei documenti di prova conservati separatamente giusta l’articolo 22 capoverso 2 decide l’IPI dopo aver sentito il titolare del diritto.
 
-<sup>5</sup> Su domanda, la consultazione è autorizzata mediante la consegna di copie.[^23-1]
+<sup>4bis</sup> Se l’interesse pubblico lo esige, il Dipartimento federale di giustizia e polizia può autorizzare l’IPI a permettere agli uffici dell’Amministrazione federale di consultare il fascicolo.[^23-2]
 
-[^23-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+<sup>5</sup> …[^23-3]
+
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^23-2]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^23-3]: Abrogato dalla cifra I dell’O del 20 mag. 2026, con effetto dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 24
 
@@ -363,7 +376,7 @@ Prima dell’iscrizione del design nel registro e durante il periodo del differi
 
 <sup>3</sup> ...[^24-1]
 
-<sup>4</sup> Su domanda, l’IPI restituisce al titolare del diritto, una volta scaduto il termine di conservazione, gli esemplari del design presentati. La domanda va presentata prima della scadenza del termine di conservazione.[^24-2]
+<sup>4</sup> Su richiesta, l’IPI restituisce al titolare del diritto, una volta scaduto il termine di conservazione, gli esemplari del design presentati. La domanda va presentata prima della scadenza del termine di conservazione.[^24-2]
 
 [^24-1]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 [^24-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
@@ -376,13 +389,13 @@ Prima dell’iscrizione del design nel registro e durante il periodo del differi
 
 <sup>1</sup>
 
-L’iscrizione del design nel registro contiene:
+I design sono iscritti nel registro con le seguenti indicazioni:[^25-1]
 
 - a. il numero di deposito;
 - b. la data di deposito;
-- c. il cognome e il nome o la ragione sociale così come l’indirizzo del titolare del diritto;
+- c. il cognome e il nome o la ditta così come l’indirizzo del titolare del diritto;
 - d. il cognome e l’indirizzo di un eventuale rappresentante;
-- e.[^25-1] il cognome e il domicilio delle persone che hanno creato il design;
+- e.[^25-2] il cognome e il domicilio delle persone che hanno creato il design;
 - f. le indicazioni dei prodotti ai quali è destinato il design;
 - g. un numero d’ordine per ogni design depositato;
 - h. le riproduzioni del design;
@@ -399,23 +412,25 @@ La registrazione è eventualmente completata da:
 
 <sup>3</sup>
 
-Nel registro sono inoltre iscritti:
+Nel registro sono iscritti con la rispettiva data di pubblicazione:[^25-3]
 
 - a. il rinnovo del periodo di protezione, con l’indicazione della data a partire dalla quale il rinnovo ha effetto;
 - b. la cancellazione completa o parziale dell’iscrizione nel registro, con l’indicazione del motivo;
 - c. il trasferimento totale o parziale del diritto di design;
-- d.[^25-2] la concessione di una licenza o sublicenza, con l’indicazione del cognome e nome o della ragione sociale così come dell’indirizzo della persona cui è concessa la licenza (titolare della licenza) e, se è il caso, con l’indicazione che si tratta di una licenza esclusiva o di una licenza parziale.
+- d.[^25-4] il rilascio di una licenza o sublicenza, con l’indicazione del cognome e nome o della ditta così come dell’indirizzo della persona cui è concessa la licenza (titolare della licenza) e, se è il caso, con l’indicazione che si tratta di una licenza esclusiva o di una licenza parziale;
 - e. l’usufrutto e il diritto di pegno che gravano sul design;
 - f. le restrizioni della facoltà di disporre decise dal giudice e da autorità preposte alle procedure esecutive;
 - g. le modifiche concernenti le indicazioni registrate.
 
 <sup>4</sup> L IPI vi può iscrivere altre indicazioni d’interesse pubblico.
 
-<sup>5</sup> ...[^25-3]
+<sup>5</sup> ...[^25-5]
 
-[^25-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 [^25-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^25-3]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^25-5]: Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
 #### Art. 26
 
@@ -443,7 +458,7 @@ Nel registro sono inoltre iscritti:
 Essa comprende:
 
 - a. una dichiarazione esplicita del precedente titolare del diritto o un altro documento sufficiente dal quale risulti che il diritto di design è trasferito interamente o parzialmente all’acquirente;
-- b.[^27-1] il cognome e il nome o la ragione sociale così come l’indirizzo dell’acquirente ed eventualmente il suo recapito in Svizzera.
+- b.[^27-1] il cognome e il nome o la ditta così come l’indirizzo dell’acquirente ed eventualmente il suo recapito in Svizzera.
 
 [^27-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
 
@@ -458,7 +473,7 @@ Essa comprende:
 Essa comprende:
 
 - a. una dichiarazione esplicita del titolare del diritto o un altro documento sufficiente dal quale risulti che il titolare del diritto concede al titolare della licenza l’uso del design;
-- b. il cognome e il nome o la ragione sociale cosí come l’indirizzo del titolare della licenza;
+- b. il cognome e il nome o la ditta cosí come l’indirizzo del titolare della licenza;
 - c. eventualmente la richiesta che la licenza sia registrata come licenza esclusiva;
 - d. in caso di licenza parziale, l’indicazione dei diritti oggetto della licenza.
 
@@ -484,13 +499,13 @@ L’IPI, in base a una relativa dichiarazione del titolare del diritto o a un al
 
 **Cancellazione di diritti di terzi**
 
-Su domanda, l’IPI cancella il diritto registrato in favore di terzi qualora il titolare di tale diritto presenti un’esplicita dichiarazione di rinuncia o un altro documento sufficiente.
+Su richiesta, l’IPI cancella il diritto registrato in favore di terzi qualora il titolare di tale diritto presenti un’esplicita dichiarazione di rinuncia o un altro documento sufficiente.
 
 #### Art. 31
 
 **Rettifiche**
 
-<sup>1</sup> Su domanda del titolare del design, le registrazioni erronee sono rettificate senza indugio.[^31-1]
+<sup>1</sup> Su richiesta del titolare del design, le registrazioni erronee sono rettificate senza indugio.[^31-1]
 
 <sup>2</sup> Se l’errore è imputabile a una svista dell’IPI, la rettifica avviene d’ufficio.
 
@@ -542,7 +557,7 @@ L’IPI pubblica, fatto salvo il differimento della pubblicazione:
 
 <sup>1</sup> L’IPI designa l’organo di pubblicazione.
 
-<sup>2</sup> Su domanda e previo rimborso delle spese, l’IPI esegue copie su carta dei dati pubblicati esclusivamente in forma elettronica.
+<sup>2</sup> Su richiesta e previo rimborso delle spese, l’IPI esegue copie su carta dei dati pubblicati esclusivamente in forma elettronica.
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
@@ -645,10 +660,11 @@ Le autorità competenti per l’esecuzione dell’intervento sono autorizzate a 
 
 <sup>1</sup> Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^40-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, le tasse sono rette dall’ordinanza dell’IPI del 14 giugno 2016[^40-2] sulle tasse.
+<sup>2</sup> Se l’IPI è competente per l’esecuzione della procedura, le tasse sono rette dalla OTa‑IPI[^40-2].[^40-3]
 
-[^40-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^40-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
+[^40-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^40-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
+[^40-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 ## Capitolo 6: Disposizioni finali
 

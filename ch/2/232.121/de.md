@@ -4,11 +4,11 @@ title: "Verordnung vom 8. März 2002 über den Schutz von Design (Designverordnu
 short: DesV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: de
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2002-183-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/de"
 
 (Designverordnung, DesV)
 
-vom 8. März 2002 (Stand am 1. Juli 2025)
+vom 8. März 2002 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 20 Absatz 2, 23 Absatz 2, 24 Absätze 2 und 4, 27 Abs�
 
 verordnet:
 
-[^ingress-1]: [SR 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
-[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [SR 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
+[^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -105,11 +105,9 @@ Berechnet sich eine Frist nach Monaten oder Jahren, so endet sie im letzten Mona
 
 **Elektronische Kommunikation**[^7-1]
 
-<sup>1</sup> Das IGE kann die elektronische Kommunikation zulassen.
+Das IGE legt die technischen Einzelheiten der elektronischen Kommunikation fest und veröffentlicht sie in geeigneter Weise.
 
-<sup>2</sup> Es legt die technischen Einzelheiten fest und veröffentlicht sie in geeigneter Weise.
-
-[^7-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 ## 2. Kapitel: Hinterlegung und Eintragung
 
@@ -185,7 +183,7 @@ Die Erklärung für die Priorität nach der Pariser Verbandsübereinkunft vom 20
 
 <sup>3</sup> Der Prioritätsbeleg besteht aus einer Bescheinigung der zuständigen Behörde über die Ersthinterlegung, mit der Angabe der Hinterlegungs- oder Eintragungsnummer des Designs. Er kann in englischer Sprache eingereicht werden.
 
-[^11-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^11-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
 
 #### Art. 12
 
@@ -229,6 +227,15 @@ Als Einreichungsdatum gilt bei Postsendungen der Zeitpunkt, an welchem eine Send
 <sup>2</sup> Behebt die Hinterlegerin den Mangel nicht fristgerecht, so weist das IGE das Eintragungsgesuch ganz oder teilweise ab. Das IGE kann ausnahmsweise weitere Fristen ansetzen.[^16-1]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+
+#### Art. 16a
+
+**Gebührenverordnung**[^16a-1]
+
+Für die Gebühren, die nach dem DesG oder nach dieser Verordnung zu bezahlen sind, gilt die Verordnung des IGE vom 14. Juni 2016[^16a-2] über Gebühren (GebV-IGE).
+
+[^16a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^16a-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
 
 #### Art. 17
 
@@ -318,16 +325,15 @@ Wurde ein Verlängerungsantrag gestellt und führt dieser nicht zur Verlängerun
 
 #### Art. 22
 
-**Inhalt**
+**Inhalt**[^22-1]
 
-<sup>1</sup> Das IGE führt ein Aktenheft, in dem der Verlauf des Eintragungsverfahrens und alle Registereintragungen festgehalten werden.
+<sup>1</sup> Das IGE führt für jedes Eintragungsgesuch und jedes Design ein Aktenheft, das über den Verlauf des Eintragungsverfahrens und über die Änderungen im Bestand und im Recht Auskunft gibt.
 
-<sup>2</sup> Beweisurkunden, die Fabrikations- oder Geschäftsgeheimnisse offenbaren oder andere Angaben enthalten, an deren Geheimhaltung die Hinterlegerin ein schützenswertes Interesse hat, werden auf Antrag ausgesondert. Die Aussonderung wird im Aktenheft vermerkt.[^22-1]
+<sup>2</sup> Der Schriftenwechsel des IGE und der Parteien im Rechtsmittelverfahren ist nicht Teil des Aktenhefts.
 
-<sup>3</sup> …[^22-2]
+<sup>3</sup> Beweisurkunden, die Fabrikations- oder Geschäftsgeheimnisse offenbaren oder andere Angaben enthalten, an deren Geheimhaltung die Hinterlegerin ein schützenswertes Interesse hat, werden auf Antrag ausgesondert. Die Aussonderung wird im Aktenheft vermerkt.
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
-[^22-2]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 23
 
@@ -343,13 +349,17 @@ Vor der Eintragung des Designs in das Register und während der Dauer des Aufsch
 
 <sup>2</sup> Die in Absatz 1 genannten Personen dürfen auch in die Akten von Eintragungsgesuchen Einsicht nehmen, die zurückgezogen oder abgewiesen wurden oder auf die das IGE nicht eingetreten ist.
 
-<sup>3</sup> Nach der Eintragung des Designs in das Register kann unter Vorbehalt der aufgeschobenen Veröffentlichung jede Person Einsicht in das Aktenheft nehmen.
+<sup>3</sup> Nach der Eintragung des Designs steht das Aktenheft, unter Vorbehalt der aufgeschobenen Veröffentlichung, jeder Person zur Einsicht offen.[^23-1]
 
 <sup>4</sup> Über die Einsicht in ausgesonderte Beweisurkunden nach Artikel 22 Absatz 2 entscheidet das IGE nach Anhörung der Rechtsinhaberin.
 
-<sup>5</sup> Auf Antrag wird die Einsichtnahme durch Abgabe von Kopien gewährt.[^23-1]
+<sup>4bis</sup> Wenn es das öffentliche Interesse verlangt, kann das Eidgenössische Justiz- und Polizeidepartement das IGE ermächtigen, den Dienststellen der Bundesverwaltung die Einsichtnahme in das Aktenheft zu gestatten.[^23-2]
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+<sup>5</sup> …[^23-3]
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^23-2]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^23-3]: Aufgehoben durch Ziff. I der V vom 20. Mai 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 24
 
@@ -374,18 +384,18 @@ Vor der Eintragung des Designs in das Register und während der Dauer des Aufsch
 
 <sup>1</sup>
 
-Die Eintragung des Designs im Register enthält:
+Das Design wird mit folgenden Angaben im Register eingetragen:
 
-- a. die Hinterlegungsnummer;
-- b. das Datum der Hinterlegung;
-- c. den Namen und Vornamen oder die Firma sowie die Adresse der Rechtsinhaberin;
-- d. den Namen und die Adresse einer allfälligen Vertretung;
-- e.[^25-1] den Namen und den Wohnsitz der Personen, die das Design entworfen haben;
-- f. die Angabe der Erzeugnisse, bei denen das Design verwendet werden soll;
-- g. eine Ordnungsnummer für jedes hinterlegte Design;
-- h. die Reproduktionen des Designs;
-- i. das Datum der Eintragung;
-- j. das Datum der Veröffentlichung.
+- a. der Hinterlegungsnummer;
+- b. dem Datum der Hinterlegung;
+- c. dem Namen und Vornamen beziehungsweise der Firma sowie der Adresse der Rechtsinhaberin;
+- d. dem Namen und der Adresse einer allfälligen Vertretung;
+- e. dem Namen und dem Wohnsitz der Personen, die das Design entworfen haben;
+- f. der Angabe der Erzeugnisse, bei denen das Design verwendet werden soll;
+- g. einer Ordnungsnummer für jedes hinterlegte Design;
+- h. den Reproduktionen des Designs;
+- i. dem Datum der Eintragung;
+- j. dem Datum der Veröffentlichung.[^25-1]
 
 <sup>2</sup>
 
@@ -397,23 +407,24 @@ Die Eintragung wird gegebenenfalls ergänzt mit:
 
 <sup>3</sup>
 
-Im Register werden ferner eingetragen:
+Jeweils mit dem Datum der Veröffentlichung werden im Register eingetragen:[^25-2]
 
 - a. die Verlängerung der Schutzdauer, mit der Angabe des Datums, an dem die Verlängerung wirksam wird;
 - b. die vollständige oder teilweise Löschung der Registereintragung, mit der Angabe des Grundes der Löschung;
 - c. die vollständige oder teilweise Übertragung des Designrechts;
-- d.[^25-2] die Erteilung einer Lizenz oder Unterlizenz, unter Angabe des Namens und Vornamens oder der Firma sowie der Adresse der Person, welcher die Lizenz erteilt wird (Lizenznehmerin), gegebenenfalls mit der Angabe, dass es sich um eine ausschliessliche Lizenz beziehungsweise eine Teillizenz handelt;
+- d.[^25-3] die Erteilung einer Lizenz oder Unterlizenz, unter Angabe des Namens und Vornamens oder der Firma sowie der Adresse der Person, welcher die Lizenz erteilt wird (Lizenznehmerin), gegebenenfalls mit der Angabe, dass es sich um eine ausschliessliche Lizenz beziehungsweise eine Teillizenz handelt;
 - e. die Nutzniessung am Design und die Verpfändung des Designs;
 - f. Verfügungsbeschränkungen von Gerichten und Zwangsvollstreckungsbehörden;
 - g. Änderungen, die eingetragene Angaben betreffen.
 
 <sup>4</sup> Das IGE kann weitere Angaben von öffentlichem Interesse eintragen.
 
-<sup>5</sup> …[^25-3]
+<sup>5</sup> …[^25-4]
 
-[^25-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^25-2]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^25-3]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^25-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^25-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^25-4]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
 #### Art. 26
 
@@ -643,10 +654,11 @@ Die für den Vollzug der Hilfeleistung zuständigen Behörden sind berechtigt, d
 
 <sup>1</sup> Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^40-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
-<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so richten sich die Gebühren nach der Verordnung des IGE vom 14. Juni 2016[^40-2] über Gebühren.
+<sup>2</sup> Ist das IGE für den Vollzug des Verfahrens zuständig, so richten sich die Gebühren nach der GebV-IGE[^40-2].[^40-3]
 
-[^40-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^40-2]: [SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
+[^40-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^40-2]: [SR 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
+[^40-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 ## 6. Kapitel: Schlussbestimmungen
 

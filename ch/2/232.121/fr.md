@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mars 2002 sur la protection des designs (Ordonnance sur 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: fr
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20250701/fr"
 
 (Ordonnance sur les designs, ODes)
 
-du 8 mars 2002 (État le 1<sup>er</sup> juillet 2025)
+du 8 mars 2002 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 20, al. 2, 23, al. 2, 24, al. 2 et 4, et 27, al. 2 et 3, de la loi d
 
 arrête:
 
-[^ingress-1]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
-[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [RS 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
+[^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 ## Chapitre 1 Dispositions générales
@@ -109,11 +109,9 @@ Lorsqu’un délai est exprimé en mois ou en années, il expire le jour du dern
 
 **Communication électronique**[^7-1]
 
-<sup>1</sup> L’IPI peut autoriser la communication électronique.
+L’IPI détermine les modalités techniques de la communication électronique et les publie de façon appropriée.
 
-<sup>2</sup> Il détermine les modalités techniques et les publie de façon appropriée.
-
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 ## Chapitre 2 Dépôt et enregistrement
 
@@ -189,7 +187,7 @@ La déclaration de priorité au sens de la Convention d’Union de Paris du 20 m
 
 <sup>3</sup> Le document de priorité délivré par l’autorité compétente atteste le premier dépôt et indique le numéro de dépôt ou le numéro d’enregistrement du design. Il peut être remis en anglais.
 
-[^11-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^11-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
 
 #### Art. 12
 
@@ -234,6 +232,15 @@ Pour les envois postaux, est réputé date de la remise le jour auquel l’envoi
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
+#### Art. 16a
+
+**Ordonnance sur les taxes**[^16a-1]
+
+L’ordonnance de l’IPI du 14 juin 2016 sur les taxes (OTa-IPI)[^16a-2] s’applique aux taxes payables prévues par la LDes ou par la présente ordonnance.
+
+[^16a-1]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^16a-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
+
 #### Art. 17
 
 **Taxe d’enregistrement**
@@ -276,10 +283,11 @@ Elle comprend les taxes suivantes:
 
 <sup>3</sup> Dans le cas d’un dépôt multiple (art. 20 LDes), la protection peut, après l’expiration de l’ajournement, être maintenue sur requête pour certains designs.
 
-<sup>4</sup> Si la taxe de publication n’est pas payée au plus tard le dernier jour de l’ajournement ou si les représentations requises ne sont pas remises au moins deux mois avant l’expiration de l’ajournement, l’Institut radie l’enregistrement.
+<sup>4</sup> Si la taxe de publication n’est pas payée au plus tard le dernier jour de l’ajournement ou si les représentations requises ne sont pas remises au moins deux mois avant l’expiration de l’ajournement, l’IPI radie l’enregistrement.[^19-3]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 ### Section 2 Prolongation de la protection
 
@@ -322,16 +330,15 @@ Lorsqu’une requête de prolongation est présentée, mais que la protection n�
 
 #### Art. 22
 
-**Contenu**
+**Contenu**[^22-1]
 
-<sup>1</sup> L’IPI tient un dossier, duquel ressortent les étapes de la procédure d’enregistrement et toutes les inscriptions dans le registre.
+<sup>1</sup> L’IPI tient pour chaque demande d’enregistrement et chaque design un dossier qui rend compte du déroulement de la procédure d’enregistrement et des modifications concernant l’existence du design et le droit au design.
 
-<sup>2</sup> Les titres probants contenant des secrets de fabrication ou d’affaires ainsi que d’autres informations, à la non-divulgation desquels le déposant a un intérêt légitime, sont classés à part sur requête. Ce classement à part est mentionné dans le dossier.[^22-1]
+<sup>2</sup> L’échange d’écritures de l’IPI et des parties pendant la procédure de recours n’est pas versé au dossier.
 
-<sup>3</sup> …[^22-2]
+<sup>3</sup> Les documents justificatifs qui divulguent des secrets de fabrication ou d’affaires ainsi que d’autres informations dont la confidentialité présente un intérêt légitime pour le déposant sont classés à part sur requête. Ce classement à part est consigné au dossier.
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
-[^22-2]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 23
 
@@ -347,13 +354,17 @@ Avant l’enregistrement du design dans le registre et aussi longtemps que la pu
 
 <sup>2</sup> Les personnes mentionnées à l’al. 1 peuvent aussi consulter les pièces des demandes d’enregistrement qui ont été retirées ou que l’IPI a rejetées ou jugées irrecevables.
 
-<sup>3</sup> Après l’enregistrement du design dans le registre, toute personne peut consulter le dossier, à moins que l’ajournement de la publication n’ait été requis.
+<sup>3</sup> Après l’enregistrement du design, toute personne peut consulter le dossier, à moins que l’ajournement de la publication n’ait été requis.[^23-1]
 
 <sup>4</sup> La consultation des documents justificatifs classés à part (art. 21, al. 2) relève de la compétence de l’IPI, qui se prononce après avoir consulté le titulaire.
 
-<sup>5</sup> Sur demande, les pièces à consulter sont délivrées sous forme de copies.[^23-1]
+<sup>4bis</sup> Lorsque l’intérêt public l’exige, le Département fédéral de justice et police peut autoriser l’IPI à laisser les services de l’administration fédérale consulter le dossier.[^23-2]
 
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+<sup>5</sup> …[^23-3]
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^23-2]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^23-3]: Abrogé par le ch. I de l’O du 20 mai 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 24
 
@@ -378,13 +389,13 @@ Avant l’enregistrement du design dans le registre et aussi longtemps que la pu
 
 <sup>1</sup>
 
-L’inscription du design dans le registre doit mentionner:
+Les designs sont inscrits au registre avec les indications suivantes:[^25-1]
 
 - a. le numéro du dépôt;
 - b. la date du dépôt;
 - c. le nom et le prénom ou la raison sociale du titulaire ainsi que son adresse;
-- d. le nom et l’adresse du mandataire, s’il a été constitué;
-- e.[^25-1] le nom et le domicile des personnes qui ont créé le design;
+- d.[^25-2] le cas échéant, le nom et l’adresse du mandataire;
+- e.[^25-3] le nom et le domicile des personnes qui ont créé le design;
 - f. les produits pour lesquels le design sera utilisé;
 - g. un numéro attribué à chaque design déposé;
 - h. les reproductions du design;
@@ -401,23 +412,26 @@ Le cas échéant, l’inscription est complétée par:
 
 <sup>3</sup>
 
-Sont en outre inscrits dans le registre:
+Sont en outre inscrits au registre, avec la date de publication:[^25-4]
 
 - a. la prolongation de la protection et l’indication de la date à laquelle celle-ci prend effet;
 - b. la radiation complète ou partielle de l’enregistrement et l’indication du motif de la radiation;
 - c. le transfert de tout ou partie du droit sur le design;
-- d.[^25-2] l’octroi d’une licence ou d’une sous-licence et l’indication du nom et du prénom ou de la raison sociale du preneur de licence ainsi que de son adresse; il est aussi précisé s’il s’agit d’une licence exclusive ou d’une licence partielle;
+- d.[^25-5] l’octroi d’une licence ou d’une sous-licence et l’indication du nom et du prénom ou de la raison sociale du preneur de licence ainsi que de son adresse; il est aussi précisé s’il s’agit d’une licence exclusive ou d’une licence partielle;
 - e. l’usufruit du design ou sa mise en gage;
 - f. les limitations du droit de disposer ordonnées par un tribunal ou par une autorité chargée de l’exécution forcée;
 - g. les modifications des inscriptions figurant dans le registre.
 
 <sup>4</sup> L’IPI peut inscrire d’autres indications d’intérêt public.
 
-<sup>5</sup> …[^25-3]
+<sup>5</sup> …[^25-6]
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
-[^25-3]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^25-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^25-4]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
+[^25-5]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
+[^25-6]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
 #### Art. 26
 
@@ -445,9 +459,9 @@ Sont en outre inscrits dans le registre:
 Celle-ci doit contenir:
 
 - a. une déclaration expresse de l’ancien titulaire ou toute autre pièce jugée suffisante de laquelle ressort le transfert de tout ou partie du droit sur le design à l’acquéreur;
-- b.[^27-1] le nom et le prénom ou la raison de commerce, l’adresse de l’acquéreur et, le cas échéant, son domicile de notification en Suisse.
+- b.[^27-1] le nom et le prénom ou la raison sociale de l’acquéreur, son adresse et, le cas échéant, son domicile de notification en Suisse.
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 #### Art. 28
 
@@ -647,10 +661,11 @@ Les autorités chargées de l’exécution des interventions sont autorisées à
 
 <sup>1</sup> Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^40-1].
 
-<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, les taxes perçues sont celles qui sont fixées dans l’ordonnance de l’IPI du 14 juin 2016 sur les taxes[^40-2].
+<sup>2</sup> Lorsque l’exécution de la procédure relève de la compétence de l’IPI, les taxes perçues sont celles qui sont fixées dans l’OTa-IPI[^40-2].[^40-3]
 
-[^40-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^40-2]: [RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)
+[^40-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^40-2]: [RS 232.148](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5978)
+[^40-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 290](https://fedlex.data.admin.ch/eli/oc/2026/290)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -660,7 +675,7 @@ Les autorités chargées de l’exécution des interventions sont autorisées à
 
 L’ordonnance du 27 juillet 1900 sur les dessins et modèles industriels[^41-1] est abrogée.
 
-[^41-1]: [RS **2** 874; [RO 1956 863](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874);[1962 467](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481); [1968 627](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619); [1970 256](https://fedlex.data.admin.ch/eli/oc/1970/_256_); [1972 2501](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277); [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994); [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_); [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789), [5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
+[^41-1]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)874; [RO 1956 863](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874);[1962 467](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481); [1968 627](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619); [1970 256](https://fedlex.data.admin.ch/eli/oc/1970/_256_); [1972 2501](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277); [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994); [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_); [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789), [5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
 
 #### Art. 42
 
