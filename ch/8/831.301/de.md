@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Januar 1971 über die Ergänzungsleistungen zur Alter
 short: ELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20250101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20250101/de"
 
 (ELV)[^t-1]
 
-vom 15. Januar 1971 (Stand am 1. Januar 2025)
+vom 15. Januar 1971 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmungen wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -27,8 +27,8 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
 ## Erster Abschnitt: Ergänzungsleistungen
@@ -85,8 +85,8 @@ Als wichtige Gründe gelten:
 <sup>5</sup> Wird ein Auslandaufenthalt fortgesetzt, obwohl der wichtige Grund dafür weggefallen ist, so gelten die weiteren Aufenthaltstage im Ausland als Auslandaufenthalt ohne wichtigen Grund.
 
 [^1a-1]: Eingefügt durch Ziff. I der V vom 21. Okt. 1981 ([AS 1981 1696](https://fedlex.data.admin.ch/eli/oc/1981/1696_1696_1696)). Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^1a-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^1a-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1a-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^1a-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 1b
 
@@ -126,7 +126,7 @@ Als getrennt lebend gelten im Sinne der Absätze 1 und 2 Ehegatten, wenn:[^3-6]
 - d. glaubhaft gemacht wird, dass eine tatsächliche Trennung längere Zeit dauern wird.
 
 [^3-1]: Ursprünglich: Art. 1
-[^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-3]: Fassung gemäss Ziff. II 3 der V vom 28. Sept. 2007, in Kraft seit 1. Jan 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Die Berichtigung vom 3. April 2024 betrifft nur den italienischen Text ([AS 2024 130](https://fedlex.data.admin.ch/eli/oc/2024/130)).
 [^3-4]: Fassung gemäss Ziff. II 3 der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^3-5]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
@@ -247,8 +247,8 @@ Hält sich einer der Ehegatten oder ein anderes Familienglied längere Zeit im A
 Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Überbrückungsleistungen nach dem Bundesgesetz vom 19. Juni 2020[^10a-2] über Überbrückungsleistungen für ältere Arbeitslose bezieht, auf den Zeitpunkt des Erreichens des Referenzalters nach Artikel 21 Absatz 1 AHVG[^10a-3] hin ein Anspruch auf Ergänzungsleistungen absehbar ist.
 
 [^10a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)). Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^10a-2]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^10a-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10a-2]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^10a-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### II*a*. Anrechenbare Einnahmen, anerkannte Ausgaben und Vermögen
 
@@ -264,7 +264,7 @@ Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Übe
 
 <sup>2</sup> …[^11-3]
 
-[^11-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^11-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^11-2]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^11-3]: Aufgehoben durch Ziff. I der V vom 21. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2119](https://fedlex.data.admin.ch/eli/oc/1991/2119_2119_2119)).
 
@@ -272,9 +272,11 @@ Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Übe
 
 **Erwerbseinkommen**[^11a-1]
 
-Das jährliche Erwerbseinkommen wird ermittelt, indem vom Bruttoerwerbseinkommen die ausgewiesenen Gewinnungskosten sowie die einkommensabhängigen obligatorischen Sozialversicherungsbeiträge abgezogen werden.
+<sup>1</sup> Das jährliche Erwerbseinkommen wird ermittelt, indem vom Bruttoerwerbseinkommen die ausgewiesenen Gewinnungskosten sowie die einkommensabhängigen obligatorischen Sozialversicherungsbeiträge abgezogen werden.
 
-[^11a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 1986, in Kraft seit 1. Jan. 1987 ([AS 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)).
+<sup>2</sup> Sieht die Gesetzgebung über die direkte kantonale Steuer für die Berufskosten Pauschalabzüge vor, so können die Kantone für die Berechnung der jährlichen Ergänzungsleistung einheitlich auf diese Pauschalabzüge abstellen, sofern die Bezügerin oder der Bezüger keine höheren Kosten ausweist.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 1986 ([AS 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)). Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 12
 
@@ -327,8 +329,8 @@ Absatz 2 ist nicht anwendbar, wenn:
 [^14a-2]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^14a-3]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3877](https://fedlex.data.admin.ch/eli/oc/2003/562)).
 [^14a-4]: Fassung gemäss Ziff. I 2 der V vom 7. Okt. 2020 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^14a-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^14a-6]: [SR 831.26](https://fedlex.data.admin.ch/eli/cc/2007/802)
+[^14a-5]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^14a-6]: [SR 831.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10070)
 [^14a-7]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 14b
@@ -361,7 +363,7 @@ Nichtinvaliden Witwen ohne minderjährige Kinder ist als Erwerbseinkommen mindes
 Bei einem Vorbezug der Altersrente nach Artikel 40 Absatz 1 AHVG[^15a-2] wird für die Berechnung der jährlichen Ergänzungsleistung die ganze aufgrund des Vorbezugs gekürzte Rente als Einnahme angerechnet.
 
 [^15a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995 ([AS 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^15a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 15b
 
@@ -395,7 +397,7 @@ Als Einnahme werden angerechnet:
 Wird gestützt auf Artikel 65*d* Absatz 3 Buchstabe b des Bundesgesetzes vom 25. Juni 1982[^15d-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge ein Beitrag zur Behebung einer Unterdeckung von Rentnerinnen und Rentnern erhoben, so wird für die Berechnung der jährlichen Ergänzungsleistung die um den Beitrag gekürzte Rente als Einnahme angerechnet.
 
 [^15d-1]: Eingefügt durch Anhang Ziff. 1 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^15d-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^15d-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 15e
 
@@ -443,7 +445,7 @@ Wird gestützt auf Artikel 65*d* Absatz 3 Buchstabe b des Bundesgesetzes vom 25.
 <sup>2</sup> Die Pauschale beträgt pro Jahr die Hälfte derjenigen nach Artikel 16*a*.
 
 [^16b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16c
 
@@ -451,9 +453,18 @@ Wird gestützt auf Artikel 65*d* Absatz 3 Buchstabe b des Bundesgesetzes vom 25.
 
 <sup>1</sup> Werden Wohnungen oder Einfamilienhäuser auch von Personen bewohnt, welche nicht in die EL-Berechnung eingeschlossen sind, dann ist der Mietzins auf die einzelnen Personen aufzuteilen. Die Mietzinsanteile der Personen, welche nicht in die EL-Berechnung eingeschlossen sind, werden bei der Berechnung der jährlichen Ergänzungsleistung ausser Betracht gelassen.
 
-<sup>2</sup> Die Aufteilung hat grundsätzlich zu gleichen Teilen zu erfolgen.
+<sup>2</sup> Die Aufteilung hat zu gleichen Teilen zu erfolgen.[^16c-2]
+
+<sup>3</sup>
+
+Von der Aufteilung zu gleichen Teilen kann ausnahmsweise abgewichen werden, wenn:
+
+- a. zwischen der Bezügerin oder dem Bezüger oder einer Person, die in die EL‑Berechnung eingeschlossen ist, und den weiteren in der Wohnung oder im Einfamilienhaus lebenden Personen ein gültiger, den ortsüblichen Verhältnissen entsprechender Miet- oder Untermietvertrag besteht; oder
+- b. die in der Wohnung oder im Einfamilienhaus lebenden Personen unterschiedlich grosse Teile davon für sich in Anspruch nehmen.[^16c-3]
 
 [^16c-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^16c-2]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
+[^16c-3]: Eingefügt durch Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 16c<sup>bis</sup>
 
@@ -475,7 +486,23 @@ Als tatsächliche Prämie nach Artikel 10 Absatz 3 Buchstabe d ELG gilt die Prä
 - d. Unfalldeckung der Bezügerin oder des Bezügers.
 
 [^16d-1]: Eingefügt durch Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^16d-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^16d-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+
+#### Art. 16d<sup>bis</sup>
+
+**Familienrechtliche Unterhaltsbeiträge**[^16dbis-1]
+
+<sup>1</sup> Bei Personen mit Kindern, die keinen Anspruch auf eine Kinderrente der AHV oder IV begründen, wird bei der Berechnung der jährlichen Ergänzungsleistung ein familienrechtlicher Unterhaltsbeitrag nach Artikel 10 Absatz 3 Buchstabe e ELG als Ausgabe anerkannt.
+
+<sup>2</sup> Der Unterhaltsbeitrag wird bis zur Vollendung des 18. Altersjahres des Kindes berücksichtigt. Für Kinder, die noch in Ausbildung sind, wird er bis zu deren Abschluss berücksichtigt, längstens aber bis zum vollendeten 25. Altersjahr.
+
+<sup>3</sup> Lebt das Kind mit den Eltern zusammen, so entspricht der Unterhaltsbeitrag dem Betrag, um den sich die jährliche Ergänzungsleistung erhöhen würde, wenn nach Artikel 7 Absatz 1 Buchstabe a eine gemeinsame Berechnung der Ergänzungsleistung erfolgen würde.
+
+<sup>4</sup> Lebt das Kind nur mit einem anspruchsberechtigten Elternteil zusammen, so entspricht der Unterhaltbeitrag dem Betrag, um den sich die jährliche Ergänzungsleistung erhöhen würde, wenn nach Artikel 7 Absatz 1 Buchstabe b die Ergänzungsleistung zusammen mit diesem Elternteil festgelegt würde.
+
+<sup>5</sup> Lebt das Kind nicht bei den Eltern oder lebt es bei einem Elternteil, der nicht anspruchsberechtigt ist, so entspricht der Unterhaltsbeitrag dem Betrag der jährlichen Ergänzungsleistung, der sich nach Artikel 7 Absatz 1 Buchstabe c aus einer gesonderten Berechnung der Ergänzungsleistung für das Kind ergäbe.
+
+[^16dbis-1]: Eingefügt durch Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 16e
 
@@ -521,7 +548,7 @@ Vom Wert einer Liegenschaft, die von der Bezügerin oder dem Bezüger oder einer
 
 <sup>1</sup> Das anrechenbare Vermögen ist nach den Grundsätzen der Gesetzgebung über die direkte kantonale Steuer für die Bewertung des Vermögens im Wohnsitzkanton zu bewerten.
 
-<sup>2</sup> und <sup>3</sup> …[^17a-2]
+<sup>2 und <sup>3</sup></sup> …[^17a-2]
 
 <sup>4</sup> Dienen Grundstücke dem Bezüger oder einer Person, die in der EL-Berechnung eingeschlossen ist, nicht zu eigenen Wohnzwecken, so sind diese zum Verkehrswert einzusetzen.
 
@@ -581,7 +608,7 @@ Für die Ermittlung der Höhe des Verzichts werden nicht berücksichtigt:
 - d. Genugtuungssummen einschliesslich des Solidaritätsbeitrages nach Artikel 4 Absatz 1 des Bundesgesetzes vom 30. September 2016[^17d-2] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981.
 
 [^17d-1]: Eingefügt durch Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^17d-2]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^17d-2]: [SR 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
 
 #### Art. 17e
 
@@ -659,7 +686,7 @@ Krankheits- und Behinderungskosten von Kindern, die nach Artikel 8 Absatz 2 auss
 <sup>2</sup> Das Anmeldeformular hat Aufschluss zu geben über die Personalien und die Einkommens- und Vermögensverhältnisse aller in die Berechnung der jährlichen Ergänzungsleistung eingeschlossenen Personen.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^20-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^20-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^20-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 21
@@ -763,8 +790,8 @@ Die jährliche Ergänzungsleistung ist zu erhöhen, herabzusetzen oder aufzuhebe
 - a.[^25-4] bei jeder Veränderung der der Berechnung der jährlichen Ergänzungsleistung zugrunde liegenden Personengemeinschaft;
 - b. bei jeder Änderung der Rente der Alters-, Hinterlassenen- oder Invalidenversicherung;
 - b<sup>bis</sup>.[^25-5] bei einem Heim- oder Spitalaufenthalt, für den die Tagestaxe nach Artikel 10 Absatz 2 Buchstabe a ELG nicht für alle Tage eines Monats in Rechnung gestellt wird;
-- c.[^25-6] bei Eintritt einer voraussichtlich längere Zeit dauernden Verminderung oder Erhöhung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens; massgebend sind die neuen, auf ein Jahr umgerechneten dauernden Ausgaben und Einnahmen und das bei Eintritt der Veränderung vorhandene Vermögen; macht die Änderung weniger als 120 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden;
-- d.[^25-7] bei der periodischen Überprüfung, wenn eine Änderung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens festgestellt wird; macht die Änderung weniger als 120 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden.
+- c.[^25-6] bei Eintritt einer voraussichtlich längere Zeit dauernden Verminderung oder Erhöhung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens; massgebend sind die neuen, auf ein Jahr umgerechneten dauernden Ausgaben und Einnahmen und das bei Eintritt der Veränderung vorhandene Vermögen; macht die Änderung weniger als 300 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden; macht die Änderung weniger als 600 Franken im Jahr aus, so kann bei einer Verminderung des Ausgabenüberschusses die Anpassung auch nur für die Zukunft erfolgen;
+- d.[^25-7] bei der periodischen Überprüfung, wenn eine Änderung der vom ELG anerkannten Ausgaben und anrechenbaren Einnahmen sowie des Vermögens festgestellt wird; macht die Änderung weniger als 300 Franken im Jahr aus, so kann auf eine Anpassung verzichtet werden; macht die Änderung weniger als 600 Franken im Jahr aus, so kann bei einer Verminderung des Ausgabenüberschusses die Anpassung auch nur für die Zukunft erfolgen.
 
 <sup>2</sup>
 
@@ -785,8 +812,8 @@ Die jährliche Ergänzungsleistung ist auf folgenden Zeitpunkt neu zu verfügen:
 [^25-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-5]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
-[^25-6]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-7]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-6]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
+[^25-7]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 [^25-8]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-9]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^25-10]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
@@ -804,7 +831,7 @@ Die jährliche Ergänzungsleistung ist auf folgenden Zeitpunkt neu zu verfügen:
 <sup>2</sup> Hat die IV-Stelle eine versicherte Person im Zusammenhang mit der Gewährung einer Hilflosenentschädigung als Heimbewohnerin im Sinne von Artikel 42<sup>ter</sup> Absatz 2 IVG[^25a-2] eingestuft, so gilt diese Person auch für den Anspruch auf Ergänzungsleistungen als Heimbewohnerin.[^25a-3]
 
 [^25a-1]: Eingefügt durch Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^25a-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^25a-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^25a-3]: Fassung gemäss Ziff. I 2 der V vom 7. Okt. 2020 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 
 #### Art. 26
@@ -888,7 +915,7 @@ Artikel 209<sup>bis</sup> AHVV[^27b-3] ist sinngemäss anwendbar.
 
 [^27b-1]: Ursprünglich: Art. 27*a*. Eingefügt durch Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^27b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2908](https://fedlex.data.admin.ch/eli/oc/2000/508)).
-[^27b-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^27b-3]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 27c
 
@@ -897,7 +924,7 @@ Artikel 209<sup>bis</sup> AHVV[^27b-3] ist sinngemäss anwendbar.
 Artikel 209<sup>ter</sup> AHVV[^27c-2] ist sinngemäss anwendbar.
 
 [^27c-1]: Ursprünglich: Art. 27*b*. Eingefügt durch Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2908](https://fedlex.data.admin.ch/eli/oc/2000/508)).
-[^27c-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^27c-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 27d
 
@@ -906,7 +933,7 @@ Artikel 209<sup>ter</sup> AHVV[^27c-2] ist sinngemäss anwendbar.
 Die Übergangsleistung nach Artikel 32 IVG[^27d-2] ist einer Rente der IV gleichgestellt.
 
 [^27d-1]: Ursprünglich: Art. 27*c*. Eingefügt durch Anhang Ziff. 1 der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^27d-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^27d-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 ### B. Die Organisation und das Verfahren
 
@@ -1011,7 +1038,7 @@ Kantone, welche die Festsetzung und Auszahlung der Ergänzungsleistungen den Gem
 <sup>3</sup> Artikel 169 Absätze 2 und 3 AHVV[^35-2] ist sinngemäss anwendbar.[^35-3]
 
 [^35-1]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^35-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^35-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^35-3]: Eingefügt durch Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 36
@@ -1131,7 +1158,7 @@ Das Bundesamt setzt die Beiträge aufgrund der Abrechnung des Kantons und des na
 Zu Unrecht ausbezahlte Beiträge an die jährlichen Ergänzungsleistungen sind nach Artikel 28 des Subventionsgesetzes vom 5. Oktober 1990[^42-2] (SuG) zurückzuerstatten.
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^42-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^42-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### II. An die Verwaltungskosten
 
@@ -1185,7 +1212,7 @@ Der Bund richtet Fallpauschalen aus, welche wie folgt abgestuft sind:
 Zu Unrecht an die Verwaltungskosten ausbezahlte Beiträge sind nach Artikel 28 Absatz 1 SuG[^42d-2] zurückzuerstatten.
 
 [^42d-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^42d-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^42d-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### III. Kürzung des Bundesbeitrags an die Verwaltungskosten
 
@@ -1225,13 +1252,13 @@ Der Bundesbeitrag an die Verwaltungskosten kann in den Fällen nach Artikel 24 A
 
 <sup>2</sup> Die gemeinnützigen Institutionen haben die Beiträge gesondert zu verwalten. Sie erstellen über die Verwendung der Bundesbeiträge jährlich einen Voranschlag. Über die Beiträge und die daraus gewährten Leistungen ist gesondert Buch zu führen. Allfällige Zinsen sind zu den gleichen Zwecken zu verwenden wie die Beiträge.[^43-2]
 
-<sup>3</sup> Zur Deckung der ausgewiesenen Durchführungskosten dürfen bis zu 10 Prozent der Beiträge verwendet werden, sofern diese Kosten nicht im Rahmen eines Leistungsvertrag mit der AHV oder der IV bereits abgegolten sind. Ab 2 Millionen Franken beträgt der Höchstansatz 5 Prozent. Als Durchführungskosten gelten Löhne und Sozialaufwendungen, Raum-, Sekretariats- und Transportkosten. Das Bundesamt kann die anrechenbaren Kosten festlegen und einen höheren Kostenanteil bewilligen, wenn der entsprechende Nachweis erbracht wird.[^43-3]
+<sup>3</sup> Zur Deckung der ausgewiesenen Durchführungskosten dürfen bis zu 15 Prozent der Beiträge verwendet werden, sofern diese Kosten nicht im Rahmen eines Leistungsvertrags mit der AHV oder der IV bereits abgegolten sind. Als Durchführungskosten gelten Löhne und Sozialaufwendungen, Raum-, Sekretariats- und Transportkosten. Das Bundesamt kann die anrechenbaren Kosten festlegen und einen höheren Kostenanteil bewilligen, wenn der entsprechende Nachweis erbracht wird.[^43-3]
 
 <sup>4</sup> Artikel 42 ist sinngemäss anwendbar.
 
 [^43-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4617](https://fedlex.data.admin.ch/eli/oc/2020/822)).
 [^43-2]: Fassung gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
-[^43-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5637](https://fedlex.data.admin.ch/eli/oc/2005/770)).
+[^43-3]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 44
 
@@ -1270,7 +1297,7 @@ Leistungen im Sinne von Artikel 18 ELG gewährt:[^45-1]
 
 [^45-1]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^45-2]: Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^45-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^45-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^45-4]: Fassung gemäss Anhang Ziff. 5 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
@@ -1359,7 +1386,7 @@ Jahresbericht und Jahresrechnung sind jeweils dem Bundesamt einzureichen. Dieses
 
 **Zwischen kantonalen Stellen und gemeinnützigen Institutionen**
 
-<sup>1</sup> und <sup>2</sup> …[^53-1]
+<sup>1 und <sup>2</sup></sup> …[^53-1]
 
 <sup>3</sup> Die Kantone können mit den gemeinnützigen Institutionen Vereinbarungen über die Koordination der Tätigkeit der für die Gewährung von Ergänzungsleistungen zuständigen kantonalen Stellen und der Organe der gemeinnützigen Institutionen treffen.
 
@@ -1404,7 +1431,7 @@ Bei Wohnsitzwechsel der Bezügerin oder des Bezügers ist die Ergänzungsleistun
 [^54a-3]: Aufgehoben durch Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^54a-4]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^54a-5]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^54a-6]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^54a-6]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^54a-7]: Eingefügt durch Ziff. II 1 der V vom 22. Juni 2011 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Fassung gemäss Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6341](https://fedlex.data.admin.ch/eli/oc/2012/750)).
 [^54a-8]: Eingefügt durch Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)). Siehe auch die SchlB am Schluss dieses Textes.
 [^54a-9]: Eingefügt durch Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6341](https://fedlex.data.admin.ch/eli/oc/2012/750)).
@@ -1535,4 +1562,4 @@ Die Versicherer sind erst ab dem 1. November 2020 zur Datenmeldung nach Artikel 
 Leistungen im Sinne von Artikel 18 ELG gewährt die Stiftung Pro Senectute den Frauen, die das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^u6-2] des AHVG[^u6-3] festgelegte Referenzalter erreicht haben.
 
 [^u6-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^u6-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u6-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)

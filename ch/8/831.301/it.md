@@ -4,20 +4,20 @@ title: "Ordinanza del 15 gennaio 1971 sulle prestazioni complementari all'assicu
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20250101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità
 
-(OPC-AVS/AI)[^t-1] [^t-2]
+(OPC-AVS/AI)[^t-1]<sup>,</sup> [^t-2]
 
-del 15 gennaio 1971 (Stato 1° gennaio 2025)
+del 15 gennaio 1971 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo del tit. abbreviato giusta la cifra I dell’O del 13 set. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4385](https://fedlex.data.admin.ch/eli/oc/1995/4385_4385_4385)).
 [^t-2]: Nuovo tit. giusta la cifra V dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i titoli marginali sono stati accentrati.
@@ -28,8 +28,8 @@ visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
 ## Capo primo: Prestazioni complementari
@@ -86,8 +86,8 @@ Sono considerati validi motivi:
 <sup>5</sup> Se il soggiorno all’estero viene proseguito sebbene il valido motivo su cui basava sia venuto meno, gli ulteriori giorni di soggiorno all’estero sono considerati soggiorno all’estero senza un valido motivo.
 
 [^1a-1]: Introdotto dalla cifra I dell’O del 21 ott. 1981 ([RU 1981 1696](https://fedlex.data.admin.ch/eli/oc/1981/1696_1696_1696)). Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^1a-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^1a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1a-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^1a-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 1b
 
@@ -127,7 +127,7 @@ I coniugi sono considerati come viventi separati secondo i capoversi 1 e 2:[^3-6
 - d. se è reso credibile che la separazione di fatto durerà relativamente a lungo.
 
 [^3-1]: Originario art. 1.
-[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-3]: Nuovo testo giusta la cifra II n. 3 dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Correzione del 3 apr. 2024 ([RU 2024 130](https://fedlex.data.admin.ch/eli/oc/2024/130)).
 [^3-4]: Nuovo testo giusta la cifra II n. 3 dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^3-5]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
@@ -249,8 +249,8 @@ Per il calcolo della prestazione complementare, non si tiene conto del coniuge o
 Gli organi esecutivi verificano d’ufficio se nel caso di una persona che riceve prestazioni transitorie in virtù della legge federale del 19 giugno 2020[^10a-2] sulle prestazioni transitorie per i disoccupati anziani sia prevedibile un diritto a prestazioni complementari al momento del raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^10a-3].
 
 [^10a-1]: Introdotto dall’all. n. 3 dell’O dell’11 giu. 2021 sulle prestazioni transitorie per i disoccupati anziani ([RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)). Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^10a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^10a-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### **IIa.** **Redditi computabili, spese riconosciute e sostanza**
 
@@ -264,9 +264,9 @@ Gli organi esecutivi verificano d’ufficio se nel caso di una persona che ricev
 
 <sup>1</sup> Il reddito in natura è valutato secondo le prescrizioni valide per l’assicurazione per la vecchiaia e i superstiti. Per i figli che non sottostanno all’obbligo di pagare i contributi previsti dalla LAVS, il valore del vitto e dell’alloggio è pari alla metà delle aliquote previste nell’articolo 11 OAVS[^11-1].[^11-2]
 
-<sup>2</sup> ...[^11-3]
+<sup>2</sup> …[^11-3]
 
-[^11-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^11-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^11-2]: Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^11-3]: Abrogato dalla cifra I dell’O del 21 ago. 1991, con effetto dal 1° gen. 1992 ([RU 1991 2119](https://fedlex.data.admin.ch/eli/oc/1991/2119_2119_2119)).
 
@@ -274,9 +274,11 @@ Gli organi esecutivi verificano d’ufficio se nel caso di una persona che ricev
 
 **Reddito di un’attività lucrativa**[^11a-1]
 
-Il reddito annuo di un’attività lucrativa è calcolato deducendo dal reddito lordo le spese per il conseguimento del reddito, debitamente comprovate, e i contributi dovuti alle assicurazioni sociali obbligatorie prelevati sul reddito.
+<sup>1</sup> Il reddito annuo di un’attività lucrativa è calcolato deducendo dal reddito lordo le spese per il conseguimento del reddito, debitamente comprovate, e i contributi dovuti alle assicurazioni sociali obbligatorie prelevati sul reddito.
 
-[^11a-1]: Introdotto dalla cifra I dell’O del 16 giu. 1986, in vigore dal 1° gen. 1987 ([RU 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)).
+<sup>2</sup> Se la legislazione sull’imposta cantonale diretta prevede deduzioni forfettarie per le spese professionali, per il calcolo della prestazione complementare annua i Cantoni possono basarsi uniformemente su queste deduzioni, salvo se il beneficiario dimostra di aver sostenuto spese più elevate.
+
+[^11a-1]: Introdotto dalla cifra I dell’O del 16 giu. 1986 ([RU 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)). Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 12
 
@@ -329,8 +331,8 @@ Il capoverso 2 non è applicabile:
 [^14a-2]: Nuovo testo giusta la cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^14a-3]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3877](https://fedlex.data.admin.ch/eli/oc/2003/562)).
 [^14a-4]: Nuovo testo giusta la cifra I n. 2 dell’O del 7 ott. 2020 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^14a-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^14a-6]: [RS 831.26](https://fedlex.data.admin.ch/eli/cc/2007/802)
+[^14a-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^14a-6]: [RS 831.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10070)
 [^14a-7]: Nuovo testo giusta la cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 14b
@@ -363,7 +365,7 @@ Per le vedove non invalide senza figli minorenni il reddito dell’attività luc
 In caso di riscossione anticipata della rendita di vecchiaia secondo l’articolo 40 capoverso 1 LAVS[^15a-2], per il calcolo della prestazione complementare annua è computato come reddito l’importo della rendita intera, ridotta a causa dell’anticipazione.
 
 [^15a-1]: Introdotto dalla cifra I dell’O del 29 nov. 1995 [RU 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^15a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15a-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 15b
 
@@ -398,7 +400,7 @@ Come reddito computabile sono computate:
 Se in virtù dell’articolo 65*d* capoverso 3 lettera b della legge federale del 25 giugno 1982[^15d-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, è riscosso dai beneficiari di rendite un contributo destinato a riassorbire l’importo scoperto, per il calcolo della prestazione complementare annuale si tiene conto come reddito della rendita diminuita del contributo.
 
 [^15d-1]: Introdotto dall’all. n. 1 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^15d-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^15d-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 15e
 
@@ -446,7 +448,7 @@ Se in virtù dell’articolo 65*d* capoverso 3 lettera b della legge federale de
 <sup>2</sup> L’ammontare annuo del forfait è uguale alla metà dell’ammontare di cui all’articolo 16*a*.
 
 [^16b-1]: Introdotto dalla cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16c
 
@@ -454,9 +456,18 @@ Se in virtù dell’articolo 65*d* capoverso 3 lettera b della legge federale de
 
 <sup>1</sup> Quando appartamenti o case unifamiliari sono occupati anche da persone escluse dal calcolo PC, la pigione computabile deve essere ripartita fra le singole persone. Le parti di pigione delle persone escluse dal calcolo PC non sono prese in considerazione nel calcolo della prestazione complementare annua.
 
-<sup>2</sup> Di massima, l’ammontare della pigione è ripartito in parti uguali.
+<sup>2</sup> L’ammontare della pigione è ripartito in parti uguali.[^16c-2]
+
+<sup>3</sup>
+
+Si può eccezionalmente derogare alla ripartizione in parti uguali, se:
+
+- a. tra il beneficiario o una persona inclusa nel calcolo PC e le altre persone che vivono nell’appartamento o nella casa unifamiliare sussiste un contratto di affitto o subaffitto valido e conforme alle condizioni locali; o
+- b. le persone che vivono nell’appartamento o nella casa unifamiliare occupano per uso proprio parti dell’abitazione di dimensioni diverse.[^16c-3]
 
 [^16c-1]: Introdotto dalla cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^16c-2]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
+[^16c-3]: Introdotto dalla cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 16c<sup>bis</sup>
 
@@ -478,7 +489,23 @@ Il premio effettivo di cui all’articolo 10 capoverso 3 lettera d LPC è il pre
 - d. la copertura infortuni del beneficiario.
 
 [^16d-1]: Introdotto dalla cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^16d-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^16d-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+
+#### Art. 16d<sup>bis</sup>
+
+**Pensioni alimentari secondo il diritto di famiglia**[^16dbis-1]
+
+<sup>1</sup> Per il calcolo della prestazione complementare annua, alle persone con figli che non danno diritto a una rendita per figli dell’AVS o dell’AI è riconosciuta quale spesa una pensione alimentare secondo il diritto di famiglia ai sensi dell’articolo 10 capoverso 3 lettera e LPC.
+
+<sup>2</sup> La pensione alimentare è riconosciuta fino al momento in cui il figlio compie i 18 anni di età. Se il figlio svolge ancora una formazione, la pensione alimentare è riconosciuta fino alla conclusione della medesima, ma al più tardi fino al momento in cui il figlio compie i 25 anni di età.
+
+<sup>3</sup> Se il figlio vive con i genitori, la pensione alimentare corrisponde all’importo di cui aumenterebbe la prestazione complementare annua qualora si procedesse al calcolo di una prestazione complementare globale secondo l’articolo 7 capoverso 1 lettera a.
+
+<sup>4</sup> Se il figlio vive con un solo genitore avente diritto, la pensione alimentare corrisponde all’importo di cui aumenterebbe la prestazione complementare annua qualora la prestazione complementare fosse fissata congiuntamente a quella del genitore conformemente all’articolo 7 capoverso 1 lettera b.
+
+<sup>5</sup> Se il figlio non vive con i genitori oppure vive con un genitore non avente diritto, la pensione alimentare corrisponde all’importo della prestazione complementare annua che risulterebbe per il figlio se si procedesse a un calcolo separato della prestazione complementare conformemente all’articolo 7 capoverso 1 lettera c.
+
+[^16dbis-1]: Introdotto dalla cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 16e
 
@@ -524,7 +551,7 @@ Dal valore di un immobile di cui il beneficiario delle prestazioni complementari
 
 <sup>1</sup> La valutazione della sostanza computabile deve essere effettuata secondo le regole stabilite dalla legislazione sull’imposta cantonale diretta del Cantone di domicilio.
 
-<sup>2</sup> e <sup>3</sup> …[^17a-2]
+<sup>2 e <sup>3</sup></sup> …[^17a-2]
 
 <sup>4</sup> La sostanza immobiliare che non serve di abitazione al richiedente o a una persona compresa nel calcolo delle PC deve essere computata al valore corrente.
 
@@ -584,7 +611,7 @@ Per la determinazione dell’importo della rinuncia non sono considerati:
 - d. versamenti a titolo di riparazione morale, compreso il contributo di solidarietà secondo l’articolo 4 capoverso 1 della legge federale del 30 settembre 2016[^17d-2] sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981.
 
 [^17d-1]: Introdotto dalla cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^17d-2]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^17d-2]: [RS 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
 
 #### Art. 17e
 
@@ -652,7 +679,7 @@ Le spese di malattia e d’invalidità per i figli di cui non si tiene conto con
 
 [^chap1-lvlA-lvlIV-1]
 
-[^chap1-lvlA-lvlIV-1]: Originario n. III.
+[^chap1-lvlA-lvlIV-1]: Originario cifra. III.
 
 #### Art. 20
 
@@ -663,7 +690,7 @@ Le spese di malattia e d’invalidità per i figli di cui non si tiene conto con
 <sup>2</sup> Il formulario di domanda deve dare indicazioni sulle generalità e sulle condizioni di reddito e di sostanza di tutte le persone incluse nel calcolo della prestazione complementare annua.
 
 [^20-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^20-3]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 21
@@ -727,7 +754,7 @@ Se il beneficiario cede al fornitore di prestazioni l’importo della prestazion
 [^22-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^22-2]: Nuovo testo giusta la cifra I dell’O del 27 set. 1993, in vigore dal 1° gen. 1994 ([RU 1993 2928](https://fedlex.data.admin.ch/eli/oc/1993/2928_2928_2928)).
 [^22-3]: Introdotto dalla cifra I dell’O del 12 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
-[^22-4]: Introdotto dalla cifra II 1 dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^22-4]: Introdotto dalla cifra II n. 1 dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 22a
 
@@ -767,8 +794,8 @@ La prestazione complementare annua deve essere aumentata, ridotta o soppressa:[^
 - a.[^25-4] ad ogni cambiamento nella comunione di persone che è alla base del calcolo della prestazione complementare annua;
 - b. ad ogni modificazione della rendita dell’assicurazione per la vecchiaia e per i superstiti o dell’assicurazione per l’invalidità;
 - b<sup>bis</sup>.[^25-5] quando, in caso di soggiorno in un istituto o in un ospedale, la tassa giornaliera secondo l’articolo 10 capoverso 2 lettera a LPC non è fatturata per tutti i giorni di un mese;
-- c.[^25-6] ad ogni diminuzione o aumento delle spese riconosciute dalla LPC, dei redditi determinanti e della sostanza, se durerà prevedibilmente per un periodo di tempo abbastanza lungo; determinanti sono i nuovi redditi e spese duraturi, calcolati su un anno, e la sostanza presente alla sopravvenienza del cambiamento; se il cambiamento è inferiore a 120 franchi l’anno, si può rinunciare all’adattamento;
-- d.[^25-7] quando, durante un controllo periodico, viene constatato un cambiamento delle spese riconosciute dalla LPC, dei redditi determinanti e della sostanza; se il cambiamento è inferiore a 120 franchi l’anno, si può rinunciare all’adattamento.
+- c.[^25-6] ad ogni diminuzione o aumento delle spese riconosciute dalla LPC, dei redditi computabili e della sostanza, se durerà prevedibilmente per un periodo di tempo abbastanza lungo; determinanti sono i nuovi redditi e spese duraturi, calcolati su un anno, e la sostanza presente alla sopravvenienza del cambiamento; se il cambiamento è inferiore a 300 franchi l’anno, si può rinunciare all’adattamento; in caso di diminuzione dell’eccedenza delle spese, se il cambiamento è inferiore a 600 franchi l’anno l’adattamento può anche essere effettuato soltanto per il futuro;
+- d [^25-7] quando, durante un controllo periodico, viene constatato un cambiamento delle spese riconosciute dalla LPC, dei redditi computabili e della sostanza; se il cambiamento è inferiore a 300 franchi l’anno, si può rinunciare all’adattamento; in caso di diminuzione dell’eccedenza delle spese, se il cambiamento è inferiore a 600 franchi l’anno l’adattamento può anche essere effettuato soltanto per il futuro.
 
 <sup>2</sup>
 
@@ -789,8 +816,8 @@ La prestazione complementare annua deve essere oggetto di una nuova decisione da
 [^25-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-5]: Introdotta dalla cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
-[^25-6]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-7]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-6]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
+[^25-7]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 [^25-8]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-9]: Introdotta dalla cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^25-10]: Nuovo testo giusta la cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
@@ -808,7 +835,7 @@ La prestazione complementare annua deve essere oggetto di una nuova decisione da
 <sup>2</sup> Un assicurato che l’ufficio AI, nel contesto della concessione di un assegno per grandi invalidi, ha ritenuto persona soggiornante in un istituto ai sensi dell’articolo 42<sup>ter</sup> capoverso 2 LAI[^25a-2] è considerato tale anche in relazione al diritto a prestazioni complementari.[^25a-3]
 
 [^25a-1]: Introdotto dalla cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^25a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^25a-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^25a-3]: Nuovo testo giusta la cifra I n. 2 dell’O del 7 ott. 2020 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 
 #### Art. 26
@@ -854,9 +881,9 @@ Essa deve indicare in particolare:
 
 [^26b-1]
 
-<sup>1</sup> ...[^26b-2]
+<sup>1</sup> …[^26b-2]
 
-<sup>2</sup> ...[^26b-3]
+<sup>2</sup> …[^26b-3]
 
 [^26b-1]: Introdotto dalla cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^26b-2]: Abrogato dalla cifra I dell’O del 12 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
@@ -892,7 +919,7 @@ L’articolo 209<sup>bis</sup> OAVS[^27b-3] è applicabile per analogia.
 
 [^27b-1]: Originario art. 27*a*. Introdotto dalla cifra I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^27b-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2908](https://fedlex.data.admin.ch/eli/oc/2000/508)).
-[^27b-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^27b-3]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 27c
 
@@ -901,7 +928,7 @@ L’articolo 209<sup>bis</sup> OAVS[^27b-3] è applicabile per analogia.
 L’articolo 209<sup>ter</sup> OAVS[^27c-2] è applicabile per analogia.
 
 [^27c-1]: Originario art. 27*b*. Introdotto dalla cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2908](https://fedlex.data.admin.ch/eli/oc/2000/508)).
-[^27c-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^27c-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 27d
 
@@ -910,7 +937,7 @@ L’articolo 209<sup>ter</sup> OAVS[^27c-2] è applicabile per analogia.
 La prestazione transitoria di cui all’articolo 32 LAI[^27d-2] è parificata a una rendita dell’AI.
 
 [^27d-1]: Originario art. 27*c*. Introdotto dall’all. n. 1 dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^27d-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^27d-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 ### B. Organizzazione e procedura
 
@@ -973,7 +1000,7 @@ Gli organi incaricati di fissare e pagare le prestazioni complementari devono ri
 
 **Spese amministrative**
 
-<sup>1</sup> ...[^32-1]
+<sup>1</sup> …[^32-1]
 
 <sup>2</sup> Se un Cantone ha incaricato la sua cassa di compensazione di fissare e pagare le prestazioni complementari, esso deve rifonderle le spese amministrative occorrenti. Le norme per il rimborso di queste spese vanno sottoposte, per approvazione, all’Ufficio federale.[^32-2]
 
@@ -1015,7 +1042,7 @@ I Cantoni che lasciano ai Comuni il compito di fissare e pagare le prestazioni c
 <sup>3</sup> L’articolo 169 capoversi 2 e 3 OAVS[^35-2] è applicabile per analogia.[^35-3]
 
 [^35-1]: Nuovo testo giusta la cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^35-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^35-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^35-3]: Introdotto dalla cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 36
@@ -1135,7 +1162,7 @@ L’Ufficio federale fissa i sussidi in base al conteggio del Cantone e alla quo
 I sussidi per le prestazioni complementari annue indebitamente pagati devono essere restituiti conformemente all’articolo 28 della legge del 5 ottobre 1990[^42-2] sui sussidi (LSu).
 
 [^42-1]: Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^42-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^42-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### II. Per le spese amministrative
 
@@ -1189,7 +1216,7 @@ La Confederazione versa i seguenti importi forfettari per singolo caso:
 I sussidi per le spese amministrative indebitamente pagati devono essere restituiti conformemente all’articolo 28 capoverso 1 LSu[^42d-2].
 
 [^42d-1]: Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^42d-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^42d-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### III. Riduzione dei sussidi federali per le spese amministrative
 
@@ -1229,13 +1256,13 @@ Nei casi di cui all’articolo 24 capoverso 2 LPC i sussidi federali per le spes
 
 <sup>2</sup> Le istituzioni di utilità pubblica devono amministrare i sussidi separatamente. Esse devono preparare un bilancio preventivo annuo sull’uso dei sussidi federali. Sui sussidi e le prestazioni concesse con essi, deve essere tenuta una contabilità separata. Eventuali interessi devono essere usati per gli stessi scopi dei sussidi.[^43-2]
 
-<sup>3</sup> Non più del 10 per cento dei sussidi può servire a compensare le spese di applicazione comprovate, nella misura in cui questi costi non siano già compensati nell’ambito di un contratto di prestazioni con l’AVS o l’AI. Per quelle che superano i due milioni di franchi la percentuale massima è del 5 per cento. Sono considerate spese d’applicazione i salari e gli oneri sociali, le spese per i locali, il segretariato e i trasporti. L’Ufficio federale può stabilire le spese da prendere in considerazione e autorizzare una partecipazione più elevata alle spese, quando le prove corrispondenti sono prodotte.[^43-3]
+<sup>3</sup> Non più del 15 per cento dei sussidi può servire a compensare le spese di applicazione comprovate, nella misura in cui questi costi non siano già compensati nell’ambito di un contratto di prestazioni con l’AVS o l’AI. Sono considerate spese d’applicazione i salari e gli oneri sociali, le spese per i locali, il segretariato e i trasporti. L’Ufficio federale può stabilire le spese da prendere in considerazione e autorizzare una partecipazione più elevata alle spese, quando le prove corrispondenti sono prodotte.[^43-3]
 
 <sup>4</sup> L’articolo 42 è applicabile per analogia.
 
 [^43-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4617](https://fedlex.data.admin.ch/eli/oc/2020/822)).
 [^43-2]: Nuovo testo giusta la cifra V dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
-[^43-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5637](https://fedlex.data.admin.ch/eli/oc/2005/770)).
+[^43-3]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 44
 
@@ -1274,7 +1301,7 @@ Accordano prestazioni ai sensi dell’articolo 18 LPC:[^45-1]
 
 [^45-1]: Nuovo testo giusta la cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^45-2]: Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^45-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^45-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^45-4]: Nuovo testo giusta l’all. n. 5 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
@@ -1356,7 +1383,7 @@ Rapporti e conti annuali vanno presentati all’Ufficio federale. Questo può em
 
 <sup>1</sup> I Cantoni prendono i provvedimenti necessari per evitare che uno o più di essi eseguano doppi versamenti di prestazioni complementari annue. Il sussidio federale è concesso soltanto per una sola prestazione complementare durante il medesimo periodo. L’Ufficio federale può esigere inoltre dai Cantoni che essi prendano dei provvedimenti per riscontrare ed evitare i doppi versamenti.[^52-1]
 
-<sup>2</sup> ...[^52-2]
+<sup>2</sup> …[^52-2]
 
 [^52-1]: Nuovo testo giusta la cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^52-2]: Abrogato dalla cifra I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
@@ -1365,7 +1392,7 @@ Rapporti e conti annuali vanno presentati all’Ufficio federale. Questo può em
 
 **Tra gli organi cantonali e le istituzioni di utilità pubblica**
 
-<sup>1</sup> <sup>1</sup> e <sup>2</sup> ...[^53-1]
+<sup>1<sup>1</sup></sup> e <sup>2</sup> …[^53-1]
 
 <sup>3</sup> I Cantoni possono stipulare accordi con le istituzioni di utilità pubblica per coordinare l’attività di queste con quella degli organi cantonali che assegnano le prestazioni complementari.
 
@@ -1375,7 +1402,7 @@ Rapporti e conti annuali vanno presentati all’Ufficio federale. Questo può em
 
 **Tra le casse di compensazione e gli altri organi**
 
-<sup>1</sup> ...[^54-1]
+<sup>1</sup> …[^54-1]
 
 <sup>2</sup> L’Ufficio federale può esigere che le casse di compensazione informino correntemente gli organi d’esecuzione sulle modificazioni del diritto alla rendita di persone ad esse note come beneficiarie di prestazioni complementari.
 
@@ -1387,7 +1414,7 @@ Rapporti e conti annuali vanno presentati all’Ufficio federale. Questo può em
 
 <sup>1</sup> I Cantoni non sono autorizzati ad inserire nel conteggio delle prestazioni complementari gli importi annui per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d LPC.[^54a-2]
 
-<sup>2</sup> ...[^54a-3]
+<sup>2</sup> …[^54a-3]
 
 <sup>3</sup> Il Dipartimento fissa gli importi forfettari annui per l’assicurazione obbligatoria delle cure medico-sanitarie secondo l’articolo 10 capoverso 3 lettera d LPC al più tardi alla fine di ottobre dell’anno corrente per l’anno successivo.[^54a-4]
 
@@ -1409,7 +1436,7 @@ In caso di cambiamento di domicilio del beneficiario, la prestazione complementa
 [^54a-3]: Abrogato dalla cifra I n. 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^54a-4]: Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^54a-5]: Nuovo testo giusta la cifra I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^54a-6]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^54a-6]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^54a-7]: Introdotto dalla cifra II n. 1 dell’O del 22 giu. 2011 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nuovo testo giusta la cifra I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6341](https://fedlex.data.admin.ch/eli/oc/2012/750)).
 [^54a-8]: Introdotto dalla cifra I dell’O del 29 gen. 2020, in vigore dal 1° lug. 2020 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^54a-9]: Introdotto dalla cifra I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6341](https://fedlex.data.admin.ch/eli/oc/2012/750)).
@@ -1463,7 +1490,7 @@ La vigilanza di cui all’articolo 28 LPC è esercitata dall’Ufficio federale.
 
 <sup>2</sup> Il Dipartimento è incaricato della esecuzione.
 
-[^59-1]: [[RU 1965 1041](https://fedlex.data.admin.ch/eli/oc/1965/1045_1057_1041), [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)cifra II lett. B n. 6, **1969** 135 n. V lett. a]
+[^59-1]: [[RU 1965 1041](https://fedlex.data.admin.ch/eli/oc/1965/1045_1057_1041), [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)cifra II lett. B n. 6, **1969** 135 cifra V lett. a]
 
 ## Disposizioni finali della modifica del 12 giugno 1989
 
@@ -1475,9 +1502,9 @@ a. Applicazione del nuovo articolo 17a (rinuncia alla sostanza)
 
 <sup>1</sup> Le parti della sostanza alle quali si ha rinunciato prima dell’entrata in vigore dell’articolo 17*a*, sono sottoposte alla riduzione annua solo dal 1° gennaio 1990.
 
-<sup>2</sup> ...[^u1-2]
+<sup>2</sup> …[^u1-2]
 
-b. ...[^u1-3]
+b. …[^u1-3]
 
 [^u1-2]: Abrogato dalla cifra IV n. 46 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u1-3]: Abrogata dalla cifra IV n. 46 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
@@ -1504,7 +1531,7 @@ a. Modifica dell’articolo 1a OPC-AVS/AI
 
 <sup>2</sup> Per le coppie ai sensi del capoverso 1, la limitazione prevista dall’articolo 3*a* capoverso 3 LPC non è applicabile al coniuge che vive in un ospizio o in un ospedale. In compenso, la prestazione complementare annua di detto coniuge è sottoposta ai limiti previsti nell’articolo 3*a* capoverso 2 LPC.
 
-b. ...[^u3-2]
+b. …[^u3-2]
 
 [^u3-2]: Abrogata dalla cifra IV n. 46 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
@@ -1540,4 +1567,4 @@ Gli assicuratori sono tenuti a notificare i dati secondo l’articolo 54*a* capo
 La Fondazione Pro Senectute accorda prestazioni ai sensi dell’articolo 18 LPC alle donne che hanno raggiunto l’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021[^u6-2] della LAVS[^u6-3].
 
 [^u6-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^u6-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u6-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)

@@ -4,11 +4,11 @@ title: "Ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20250101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20250101/fr"
 
 (OPC-AVS/AI)[^t-1] [^t-2]
 
-du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2025)
+du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 [^t-2]: Nouvelle abréviation selon le ch. I de l’O du 24 nov. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 2085](https://fedlex.data.admin.ch/eli/oc/1982/2085_2085_2085)).
@@ -28,8 +28,8 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
 ## Chapitre I Les prestations complémentaires
@@ -86,8 +86,8 @@ Sont considérés comme des motifs importants:
 <sup>5</sup> Si le séjour à l’étranger se poursuit alors que le motif important qui le justifiait a disparu, les jours supplémentaires à l’étranger sont considérés comme étant sans motif important.
 
 [^1a-1]: Introduit par le ch. I de l’O du 21 oct. 1981 ([RO 1981 1696](https://fedlex.data.admin.ch/eli/oc/1981/1696_1696_1696)). Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^1a-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^1a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1a-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^1a-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 1b
 
@@ -127,7 +127,7 @@ Les époux sont considérés comme vivant séparés au sens des al. 1 et 2:[^3-6
 - d. s’il est rendu vraisemblable que la séparation de fait durera relativement longtemps.
 
 [^3-1]: Anciennement art. 1.
-[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-3]: Nouvelle teneur selon le ch. II 3 de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Erratum du 3 avr. 2024, ne concerne que le texte italien ([RO 2024 130](https://fedlex.data.admin.ch/eli/oc/2024/130)).
 [^3-4]: Nouvelle teneur selon le ch. II 3 de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^3-5]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
@@ -248,8 +248,8 @@ Il n’est pas tenu compte, pour calculer la prestation complémentaire, du conj
 Les organes d’exécution examinent d’office s’il est prévisible qu’un bénéficiaire de prestations transitoires en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^10a-2] aura droit à des prestations complémentaires à l’âge de référence fixé à l’art. 21, al. 1, LAVS[^10a-3].
 
 [^10a-1]: Introduit par l’annexe ch. 3 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)). Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^10a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^10a-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### IIa. Revenus déterminants, dépenses reconnues et fortune
 
@@ -265,7 +265,7 @@ Les organes d’exécution examinent d’office s’il est prévisible qu’un b
 
 <sup>2</sup> …[^11-3]
 
-[^11-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^11-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^11-3]: Abrogé par le ch. I de l’O du 21 août 1991, avec effet au 1<sup>er</sup> janv. 1992 ([RO 1991 2119](https://fedlex.data.admin.ch/eli/oc/1991/2119_2119_2119)).
 
@@ -273,9 +273,11 @@ Les organes d’exécution examinent d’office s’il est prévisible qu’un b
 
 **Revenu provenant de l’exercice d’une activité lucrative**[^11a-1]
 
-Le revenu annuel provenant de l’exercice d’une activité lucrative est calculé en déduisant du revenu brut les frais d’obtention du revenu dûment établis ainsi que les cotisations dues aux assurances sociales obligatoires et prélevées sur le revenu.
+<sup>1</sup> Le revenu annuel provenant de l’exercice d’une activité lucrative est déterminé en déduisant du revenu brut les frais d’obtention du revenu dûment établis ainsi que les cotisations dues aux assurances sociales obligatoires et prélevées sur le revenu.
 
-[^11a-1]: Introduit par le ch. I de l’O du 16 juin 1986, en vigueur depuis le 1<sup>er</sup> janv. 1987 ([RO 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)).
+<sup>2</sup> Si la législation sur l’impôt cantonal direct prévoit des déductions forfaitaires pour les frais professionnels, les cantons peuvent se fonder de manière uniforme sur ces déductions forfaitaires pour le calcul de la prestation complémentaire annuelle, à condition que le bénéficiaire ne justifie pas de frais plus élevés.
+
+[^11a-1]: Introduit par le ch. I de l’O du 16 juin 1986 ([RO 1986 1204](https://fedlex.data.admin.ch/eli/oc/1986/1204_1204_1204)). Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 12
 
@@ -328,8 +330,8 @@ L’al. 2 n’est pas applicable si:
 [^14a-2]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^14a-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3877](https://fedlex.data.admin.ch/eli/oc/2003/562)).
 [^14a-4]: Nouvelle teneur selon le ch. I 2 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
-[^14a-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^14a-6]: [RS 831.26](https://fedlex.data.admin.ch/eli/cc/2007/802)
+[^14a-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^14a-6]: [RS 831.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10070)
 [^14a-7]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 14b
@@ -362,7 +364,7 @@ Pour les veuves non invalides qui n’ont pas d’enfants mineurs, le revenu de 
 En cas de perception anticipée de la rente en vertu de l’art. 40, al. 1, LAVS[^15a-2], le montant de la rente entière réduite en raison de l’anticipation est pris en compte en tant que revenu dans le calcul de la prestation complémentaire annuelle.
 
 [^15a-1]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 695](https://fedlex.data.admin.ch/eli/oc/1996/695_695_695)). Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^15a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15a-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 15b
 
@@ -396,7 +398,7 @@ Sont pris en compte dans les revenus déterminants:
 Lorsqu’en vertu de l’art. 65*d*, al. 3, let. b, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^15d-2], une contribution destinée à résorber un découvert est prélevée auprès des bénéficiaires de rente, la rente diminuée du montant de la contribution est prise en compte en tant que revenu pour le calcul de la prestation complémentaire annuelle.
 
 [^15d-1]: Introduit par l’annexe ch. 1 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
-[^15d-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^15d-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 15e
 
@@ -444,7 +446,7 @@ Lorsqu’en vertu de l’art. 65*d*, al. 3, let. b, de la loi fédérale du 25 j
 <sup>2</sup> Le montant du forfait est égal à la moitié du montant fixé à l’art. 16*a*.
 
 [^16b-1]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16c
 
@@ -452,9 +454,18 @@ Lorsqu’en vertu de l’art. 65*d*, al. 3, let. b, de la loi fédérale du 25 j
 
 <sup>1</sup> Lorsque des appartements ou des maisons familiales sont aussi occupés par des personnes non comprises dans le calcul des PC, le loyer doit être réparti entre toutes les personnes. Les parts de loyer des personnes non comprises dans le calcul des PC ne sont pas prises en compte lors du calcul de la prestation complémentaire annuelle.
 
-<sup>2</sup> En principe, le montant du loyer est réparti à parts égales entre toutes les personnes.
+<sup>2</sup> Le montant du loyer est réparti à parts égales entre toutes les personnes.[^16c-2]
+
+<sup>3</sup>
+
+Il est possible de déroger exceptionnellement à la répartition à parts égales:
+
+- a. s’il existe entre le bénéficiaire ou une personne comprise dans le calcul des PC et les autres personnes vivant dans l’appartement ou la maison familiale un contrat de location ou de sous-location valable et conforme aux conditions locales, ou
+- b. si les personnes vivant dans l’appartement ou la maison familiale occupent chacune une part différente de sa superficie.[^16c-3]
 
 [^16c-1]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^16c-2]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
+[^16c-3]: Introduit par le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 16c<sup>bis</sup>
 
@@ -476,7 +487,23 @@ Est considérée comme prime effective visée à l’art. 10, al. 3, let. d, LPC
 - d. la couverture des accidents.
 
 [^16d-1]: Introduit par le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^16d-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^16d-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+
+#### Art. 16d<sup>bis</sup>
+
+**Pensions alimentaires versées en vertu du droit de la famille**[^16dbis-1]
+
+<sup>1</sup> Pour les personnes ayant des enfants qui ne donnent pas droit à une rente pour enfant de l’AVS ou de l’AI, les pensions alimentaires versées en vertu du droit de la famille, visées à l’art. 10, al. 3, let. e, LPC, sont reconnues comme des dépenses dans le calcul de la prestation complémentaire annuelle.
+
+<sup>2</sup> La pension alimentaire est prise en compte jusqu’à ce que l’enfant atteigne l’âge de 18 ans. Pour les enfants qui suivent une formation, elle est prise en compte jusqu’à la fin de celle-ci, mais au plus tard jusqu’à l’âge de 25 ans.
+
+<sup>3</sup> Si l’enfant vit avec les parents, la pension alimentaire correspond au montant dont serait majorée la prestation complémentaire annuelle si celle-ci faisait l’objet d’un calcul global conformément à l’art. 7, al. 1, let. a.
+
+<sup>4</sup> Si l’enfant vit avec un seul parent ayant droit, la pension alimentaire correspond au montant dont la prestation complémentaire annuelle serait majorée si, conformément à l’art. 7, al. 1, let. b, la prestation complémentaire était calculée globalement en tenant compte de ce parent.
+
+<sup>5</sup> Si l’enfant ne vit pas chez ses parents, ou s’il vit chez un parent qui n’est pas ayant droit, la pension alimentaire correspond au montant de la prestation complémentaire annuelle qui résulterait, conformément à l’art. 7, al. 1, let. c, d’un calcul séparé de la prestation complémentaire pour l’enfant.
+
+[^16dbis-1]: Introduit par le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 16e
 
@@ -522,7 +549,7 @@ De la valeur d’un immeuble qui sert d’habitation au bénéficiaire de presta
 
 <sup>1</sup> La fortune prise en compte doit être évaluée selon les règles de la législation sur l’impôt cantonal direct du canton du domicile.
 
-<sup>2</sup> et <sup>3</sup>…[^17a-2]
+<sup>2 et <sup>3</sup></sup> …[^17a-2]
 
 <sup>4</sup> Lorsque des immeubles ne servent pas d’habitation au requérant ou à une personne comprise dans le calcul de la prestation complémentaire, ils seront pris en compte à la valeur vénale.
 
@@ -582,7 +609,7 @@ Ne sont pas pris en compte dans la détermination du montant du dessaisissement:
 - d. les versements à titre de réparation du tort moral, y compris la contribution de solidarité prévue à l’art. 4, al. 1, de la loi fédérale du 30 septembre 2016 sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981[^17d-2].
 
 [^17d-1]: Introduit par le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^17d-2]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^17d-2]: [RS 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
 
 #### Art. 17e
 
@@ -661,7 +688,7 @@ Les frais de maladie et d’invalidité des enfants dont il n’est pas tenu com
 <sup>2</sup> La formule de demande doit donner des indications sur l’état civil de l’ayant droit et sur les conditions de revenu et de fortune de toutes les personnes comprises dans le calcul de la prestation complémentaire annuelle.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^20-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 21
@@ -765,8 +792,8 @@ La prestation complémentaire annuelle doit être augmentée, réduite ou suppri
 - a.[^25-4] lors de chaque changement survenant au sein d’une communauté de personnes comprises dans le calcul de la prestation complémentaire annuelle;
 - b. lors de chaque modification de la rente de l’assurance-vieillesse et survivants ou de l’assurance-invalidité;
 - b<sup>bis</sup>.[^25-5] en cas de séjour dans un home ou dans un hôpital, lorsquela taxe journalière visée à l’art. 10, al. 2, let. a, LPC n’est pas facturée pour tous les jours d’un mois;
-- c.[^25-6] lorsque les dépenses reconnues, les revenus déterminants et la fortune subissent une diminution ou une augmentation pour une durée qui sera vraisemblablement longue; sont déterminants les dépenses nouvelles et les revenus nouveaux et durables, convertis sur une année, ainsi que la fortune existant à la date à laquelle le changement intervient; on peut renoncer à adapter la prestation complémentaire annuelle, lorsque la modification est inférieure à 120 francs par an;
-- d.[^25-7] lors d’un contrôle périodique, si l’on constate un changement des dépenses reconnues, des revenus déterminants et de la fortune; on pourra renoncer à rectifier la prestation complémentaire annuelle, lorsque la modification est inférieure à 120 francs par an.
+- c.[^25-6] lorsque les dépenses reconnues, les revenus déterminants et la fortune subissent une diminution ou une augmentation pour une durée qui sera vraisemblablement longue; sont déterminants les dépenses nouvelles et les revenus nouveaux et durables, convertis sur une année, ainsi que la fortune existant à la date à laquelle le changement intervient; on peut renoncer à adapter la prestation complémentaire annuelle lorsque la modification est inférieure à 300 francs par an; en cas de diminution de l’excédent des dépenses, lorsque la modification est inférieure à 600 francs par an, l’adaptation de la prestation complémentaire annuelle peut également ne s’appliquer que pour l’avenir;
+- d.[^25-7] lors d’un contrôle périodique, si l’on constate un changement des dépenses reconnues, des revenus déterminants et de la fortune; on pourra renoncer à rectifier la prestation complémentaire annuelle lorsque la modification est inférieure à 300 francs par an; en cas de diminution de l’excédent des dépenses, lorsque la modification est inférieure à 600 francs par an, l’adaptation de la prestation complémentaire annuelle peut également ne s’appliquer que pour l’avenir.
 
 <sup>2</sup>
 
@@ -787,8 +814,8 @@ La nouvelle décision doit porter effet dès la date suivante:
 [^25-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-4]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-5]: Introduite par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
-[^25-6]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^25-7]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^25-6]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
+[^25-7]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 [^25-8]: Introduite par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 467](https://fedlex.data.admin.ch/eli/oc/2024/467)).
 [^25-9]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^25-10]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
@@ -805,7 +832,7 @@ La nouvelle décision doit porter effet dès la date suivante:
 <sup>2</sup> Si, dans le cadre de l’octroi d’une allocation pour impotent, l’office AI considère un assuré comme une personne séjournant dans un home au sens de l’art. 42<sup>ter</sup>, al. 2, LAI[^25a-2], cet assuré sera également considéré comme telle dans le cadre du droit aux prestations complémentaires.[^25a-3]
 
 [^25a-1]: Introduit par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^25a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^25a-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^25a-3]: Nouvelle teneur selon le ch. I 2 de l’O du 7 oct. 2020 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 
 #### Art. 26
@@ -889,7 +916,7 @@ L’art. 209<sup>bis</sup> RAVS[^27b-3] est applicable par analogie.
 
 [^27b-1]: Anciennement art. 27*a*. Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^27b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2908](https://fedlex.data.admin.ch/eli/oc/2000/508)).
-[^27b-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^27b-3]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 27c
 
@@ -898,7 +925,7 @@ L’art. 209<sup>bis</sup> RAVS[^27b-3] est applicable par analogie.
 L’art. 209<sup>ter</sup> RAVS[^27c-2] est applicable par analogie.
 
 [^27c-1]: Anciennement art. 27*b*. Introduit par le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2908](https://fedlex.data.admin.ch/eli/oc/2000/508)).
-[^27c-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^27c-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 27d
 
@@ -907,7 +934,7 @@ L’art. 209<sup>ter</sup> RAVS[^27c-2] est applicable par analogie.
 La prestation transitoire visée à l’art. 32 LAI[^27d-2] est assimilable à une rente AI.
 
 [^27d-1]: Anciennement art. 27*c*. Introduit par l’annexe ch. 1 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^27d-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^27d-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 ### B. Organisation et procédure
 
@@ -1016,7 +1043,7 @@ Les cantons qui laissent aux communes le soin de fixer et de verser les prestati
 <sup>3</sup> L’art. 169, al. 2 et 3, RAVS[^35-2] est applicable par analogie.[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^35-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^35-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^35-3]: Introduit par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 36
@@ -1136,7 +1163,7 @@ L’office fédéral fixe les montants sur la base du compte du canton et de la 
 Les subventions versées à tort au titre des prestations complémentaires annuelles doivent être restituées conformément à l’art. 28 de la loi du 5 octobre 1990 sur les subventions (LSu)[^42-2].
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^42-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^42-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### II. Aux frais administratifs
 
@@ -1190,7 +1217,7 @@ La Confédération verse des forfaits par cas, échelonnés comme suit:
 Les subventions versées à tort au titre des frais administratifs doivent être restituées conformément à l’art. 28, al. 1, LSu[^42d-2].
 
 [^42d-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^42d-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^42d-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### III. Réduction de la participation de la Confédération aux frais administratifs
 
@@ -1230,13 +1257,13 @@ Dans les cas prévus à l’art. 24, al. 2, LPC, la participation de la Conféd�
 
 <sup>2</sup> Les institutions d’utilité publique géreront séparément les subventions reçues. Elles établiront annuellement un budget pour l’utilisation des subventions fédérales et tiendront une comptabilité séparée des subventions et des prestations financées par celles-ci. D’éventuels intérêts seront affectés aux mêmes buts que les subventions.[^43-2]
 
-<sup>3</sup> Les subventions peuvent être utilisées jusqu’à concurrence de 10 % pour couvrir les frais d’application dont l’existence est prouvée, à condition que ces frais ne soient pas déjà couverts par un contrat de prestations passé avec l’AVS ou l’AI. Pour celles qui dépassent le montant de 2 millions de francs, le taux maximum est de 5 %. Sont réputés frais d’application les salaires et les charges sociales, les frais de locaux, de secrétariat et de transport. L’office fédéral peut déterminer les frais à prendre en considération et autoriser une participation aux frais plus élevée lorsque les preuves correspondantes sont apportées.[^43-3]
+<sup>3</sup> Les subventions peuvent être utilisées jusqu’à concurrence de 15 % pour couvrir les frais d’application dont l’existence est prouvée, à condition que ces frais ne soient pas déjà couverts par un contrat de prestations passé avec l’AVS ou l’AI. Sont réputés frais d’application les salaires et les charges sociales, les frais de locaux, de secrétariat et de transport. L’office fédéral peut déterminer les frais à prendre en considération et autoriser une participation aux frais plus élevée lorsque les preuves correspondantes sont apportées.[^43-3]
 
 <sup>4</sup> L’art. 42 est applicable par analogie.
 
 [^43-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4617](https://fedlex.data.admin.ch/eli/oc/2020/822)).
 [^43-2]: Nouvelle teneur selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
-[^43-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5637](https://fedlex.data.admin.ch/eli/oc/2005/770)).
+[^43-3]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 545](https://fedlex.data.admin.ch/eli/oc/2026/545)).
 
 #### Art. 44
 
@@ -1275,7 +1302,7 @@ Les prestations visées à l’art. 18 LPC sont accordées:[^45-1]
 
 [^45-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^45-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^45-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^45-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^45-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 46
@@ -1364,7 +1391,7 @@ Rapports et comptes annuels doivent être présentés à l’office fédéral. C
 
 **Entre les services des cantons et les institutions d’utilité publique**
 
-<sup>1</sup> et <sup>2</sup> …[^53-1]
+<sup>1 et <sup>2</sup></sup> …[^53-1]
 
 <sup>3</sup> Les cantons peuvent passer des accords avec les institutions d’utilité publique en vue de coordonner l’activité de ces dernières à celle de leurs propres services chargés de l’octroi des prestations complémentaires.
 
@@ -1408,7 +1435,7 @@ En cas de changement de domicile du bénéficiaire de prestations complémentair
 [^54a-3]: Abrogé par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^54a-4]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^54a-5]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
-[^54a-6]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^54a-6]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^54a-7]: Introduit par le ch. II 1 de l’O du 22 juin 2011 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)). Nouvelle teneur selon le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6341](https://fedlex.data.admin.ch/eli/oc/2012/750)).
 [^54a-8]: Introduit par le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)). Voir aussi les disp. trans. à la fin du présent texte.
 [^54a-9]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6341](https://fedlex.data.admin.ch/eli/oc/2012/750)). Voir aussi la disp. fin. de cette mod. à la fin du présent texte.
@@ -1540,4 +1567,4 @@ Les assureurs ne sont obligés de communiquer les données visées à l’art. 5
 Les prestations visées à l’art. 18 LPC sont accordées par la fondation Pro Senectute aux femmes qui ont atteint l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^u6-2] de la LAVS[^u6-3].
 
 [^u6-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^u6-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u6-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
