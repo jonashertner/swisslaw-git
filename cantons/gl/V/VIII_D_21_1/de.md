@@ -4,13 +4,12 @@ number: VIII D/21/1
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: EG KVG
 language: de
-version: 2027-01-01
-valid_until: 2027-12-31
+version: 2028-01-01
 version_adopted: 2026-05-03
 adopted: 2015-05-03
 in_force: 2016-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2683/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2686/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2683/pdf_file"
 
 (EG KVG)
 
-Vom 03.05.2015 (Stand 01.01.2027)
+Vom 03.05.2015 (Stand 01.01.2028)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -108,6 +107,24 @@ Vom 03.05.2015 (Stand 01.01.2027)
 
 ### 5.1. Grundsätze
 
+#### Art. 8a
+
+**Sozialziel**
+
+<sup>1</sup> Die Prämie darf höchstens 15 Prozent des verfügbaren Einkommens der Versicherten mit Wohnort im Kanton Glarus ausmachen.
+
+<sup>2</sup> Als massgebende Prämie gilt die mittlere Prämie im Kanton Glarus für die jeweilige Alterskategorie.
+
+<sup>3</sup> Als verfügbares Einkommen gilt das anrechenbare Einkommen gemäss Artikel 15.
+
+#### Art. 8b
+
+**Massgabe des Budgetkredits**
+
+<sup>1</sup> Der Kanton gewährt den Versicherten in bescheidenen wirtschaftlichen Verhältnissen nach Massgabe des vom Landrat bewilligten Budgetkredits und unter Berücksichtigung des Sozialziels Prämienverbilligungen.
+
+<sup>2</sup> Der Landrat berücksichtigt bei der Festlegung des Budgetkredits die bundesrechtliche Vorgabe, wonach die Prämienverbilligung pro Kalenderjahr gesamthaft einem bestimmten Mindestanteil der Bruttokosten der obligatorischen Krankenpflegeversicherung der Versicherten, die ihren Wohnort im Kanton haben, entsprechen muss (Art. 65 Abs. 1quater KVG).
+
 #### Art. 9
 
 **Anspruchsberechtigung**
@@ -179,7 +196,7 @@ Vom 03.05.2015 (Stand 01.01.2027)
 
 <sup>2</sup> Die Richtprämien orientieren sich in der Regel an den vom Bund jährlich festgelegten Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen. Der Regierungsrat regelt die Einzelheiten. Er kann Ausnahmen festlegen.
 
-<sup>3</sup> Der Selbstbehalt entspricht einem vom Landrat nach Einkommenskategorien festgelegten prozentualen Anteil des anrechenbaren Einkommens.
+<sup>3</sup> Der Selbstbehalt wird vom Regierungsrat aufgrund des vom Landrat bewilligten Budgetkredits als prozentualer Anteil am anrechenbaren Einkommen festgelegt.
 
 #### Art. 15
 
@@ -207,9 +224,15 @@ Vom 03.05.2015 (Stand 01.01.2027)
 
 **Geltendmachung des Anspruchs**
 
-<sup>1</sup> Der Anspruch auf Prämienverbilligung wird auf Antrag ermittelt und ausgerichtet.
+<sup>1</sup> Personen, welche Anspruch auf Prämienverbilligung haben, stellt die zuständige kantonale Verwaltungsbehörde eine Verfügung zu, in welcher die Höhe des Prämienverbilligungsbeitrages festgestellt wird.
 
-<sup>2</sup> Der Regierungsrat regelt das Verfahren.
+<sup>1a</sup> Anspruchsberechtigte, welche freiwillig auf die Prämienverbilligung ganz oder teilweise verzichten wollen, können dies der zuständigen kantonalen Verwaltungsbehörde innert der Beschwerdefrist ohne Begründung schriftlich mitteilen.
+
+<sup>1b</sup> Versicherte, die keine Verfügung erhalten haben und Anspruch auf Prämienverbilligung erheben, können den Erlass einer solchen bei der zuständigen kantonalen Verwaltungsbehörde verlangen. Entsprechende Anträge sind schriftlich einzureichen und zu begründen.
+
+<sup>1c</sup> Die rechtskräftig zugesprochenen Prämienverbilligungsbeiträge werden den Versicherern gemäss Artikel 65 KVG ausbezahlt und den Berechtigten von den Versicherern gutgeschrieben.
+
+<sup>2</sup> Der Regierungsrat regelt das weitere Verfahren.
 
 #### Art. 18
 
@@ -269,7 +292,7 @@ Vom 03.05.2015 (Stand 01.01.2027)
 
 **Kostenanteil Kanton, Leistungserbringer**
 
-<sup>1</sup> Der kantonale Anteil an die Leistungen der Akut- und Übergangspflege (Art. 25a Abs. 2 KVG) beträgt 55 Prozent.
+<sup>1</sup> …
 
 <sup>1a</sup> Der Kanton übernimmt über die bundesrechtliche Höchstdauer hinaus die Kosten für Leistungen der Akut- und Übergangspflege für maximal sechs Wochen.
 
