@@ -4,11 +4,11 @@ title: "Verordnung vom 1. Juni 2012 über die Eigenmittel und Risikoverteilung d
 short: ERV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: de
-version: 2025-01-24
+version: 2027-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250124-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/de"
 
 (Eigenmittelverordnung, ERV)[^t-1]
 
-vom 1. Juni 2012 (Stand am 24. Januar 2025)
+vom 1. Juni 2012 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 10 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -235,10 +235,13 @@ Die folgenden Positionen müssen dem Handelsbuch zugeordnet werden, ausser wenn 
 
 <sup>3</sup> Führt die vorsichtige Bewertung zu Bewertungsanpassungen über diejenigen nach den anwendbaren Rechnungslegungsvorschriften hinaus, so führen diese zusätzlichen Bewertungsanpassungen zu einer Reduktion des anrechenbaren harten Kernkapitals.
 
-<sup>4</sup> Die FINMA erlässt technische Ausführungsbestimmungen zur vorsichtigen Bewertung. Sie richtet sich dabei nach dem CAP[^5b-2].
+<sup>4</sup> Die FINMA erlässt technische Ausführungsbestimmungen zur vorsichtigen Bewertung. Sie richtet sich dabei nach dem CAP[^5b-2] und der Delegierten Verordnung (EU) 2016/101[^5b-3]. Für Banken der Kategorien 4 und 5 nach Anhang 3 BankV[^5b-4] kann sie Erleichterungen vorsehen.[^5b-5]
 
 [^5b-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^5b-2]: Der CAP ist in Anhang 1 Ziff. 2 aufgeführt.
+[^5b-3]: Delegierte Verordnung (EU) 2016/101 der Kommission vom 26. Oktober 2015 zur Ergänzung der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards für die vorsichtige Bewertung nach Artikel 105 Absatz 14, ABl. L 21 vom 28.1.2016, S. 54; zuletzt geändert durch Delegierte Verordnung (EU) 2020/866, ABl. L 201 vom 25.6.2020, S. 1.
+[^5b-4]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^5b-5]: Fassung gemäss Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 6
 
@@ -1933,6 +1936,8 @@ Inländische Pfandbriefe sind Pfandbriefe nach dem Pfandbriefgesetz vom 25. Juni
 
 **Ausländische gedeckte Schuldverschreibungen**[^71b-1]
 
+<sup>1</sup>
+
 Ausländische gedeckte Schuldverschreibungen können nur dann dieser Positionsklasse zugeordnet und nach Anhang 2 Ziffer 8 gewichtet werden, wenn die folgenden Voraussetzungen erfüllt sind:
 
 - a. Sie werden von einer Bank oder einem Hypothekarinstitut emittiert.
@@ -1952,8 +1957,11 @@ Ausländische gedeckte Schuldverschreibungen können nur dann dieser Positionskl
 - e. Der Nominalwert der zur Deckung verwendeten Vermögenswerte muss mindestens 10 Prozent über dem Nominalwert der vom Institut emittierten ausländischen gedeckten Schuldverschreibungen liegen. Sehen die gesetzlichen Vorschriften nach Buchstabe b diese Überdeckung nicht vor, so muss das Institut die Einhaltung dieser Anforderung regelmässig öffentlich ausweisen.
 - f. Die Bank beschafft sich vom Emittenten der ausländischen gedeckten Schuldverschreibungen mindestens alle sechs Monate die Informationen nach Ziffer 20.37 CRE[^71b-2].
 
+<sup>2</sup> Sind die Voraussetzungen nach Absatz 1 nicht erfüllt, so sind die Schuldverschreibungen wie Forderungen gegenüber ihren Emittenten zu behandeln.[^71b-3]
+
 [^71b-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^71b-2]: Der CRE ist in Anhang 1 Ziff. 4 aufgeführt.
+[^71b-3]: Eingefügt durch Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 72
 
@@ -1977,7 +1985,7 @@ Ausländische gedeckte Schuldverschreibungen können nur dann dieser Positionskl
 
 **Direkt und indirekt grundpfandgesicherte Positionen: Belehnungsgrad**[^72a-1]
 
-<sup>1</sup> Der Belehnungsgrad des Grundpfandes ist das Verhältnis zwischen dem ausstehenden Kredit und allen Kreditzusagen einerseits und dem ursprünglichen Belehnungswert des Grundpfandes andererseits.
+<sup>1</sup> Der Belehnungsgrad des Grundpfandes ist das Verhältnis zwischen dem ausstehenden Kredit und den noch nicht als Kredit ausgezahlten Teilen aller Kreditzusagen einerseits und dem ursprünglichen Belehnungswert des Grundpfandes andererseits.[^72a-2]
 
 <sup>2</sup> Bei Krediten, die durch mehrere Grundpfänder gesichert sind, teilt die Bank zur Ermittlung des Belehnungsgrades pro Grundpfand den Kreditbetrag mittels eines geeigneten Schlüssels auf die Belehnungswerte der verschiedenen Grundpfänder auf.
 
@@ -1986,6 +1994,7 @@ Ausländische gedeckte Schuldverschreibungen können nur dann dieser Positionskl
 <sup>4</sup> Allfällige gleich- oder vorrangige Forderungen sind bei der Berechnung des Belehnungsgrads einzurechnen.
 
 [^72a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72a-2]: Fassung gemäss Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 72b
 
@@ -2849,9 +2858,20 @@ Zu melden sind namentlich:
 - b. alle Positionen, die ohne Anwendung der Risikominderung nach Artikel 119 Absatz 1 mindestens 10 Prozent des anrechenbaren Kernkapitals betragen;
 - c. alle Gesamtpositionen, für die keine Obergrenze gilt und die mindestens 10 Prozent des anrechenbaren Kernkapitals betragen.
 
-<sup>5</sup> Zusätzlich pro Jahr zu melden sind die zwanzig grössten Gesamtpositionen, unabhängig davon, ob diese Klumpenrisiken sind oder nicht, ausgenommen Gesamtpositionen gegenüber Zentralbanken und Zentralregierungen.
+<sup>5</sup> Zusätzlich pro Jahr zu melden sind die zwanzig grössten Gesamtpositionen, unabhängig davon, ob diese Klumpenrisiken sind oder nicht, ausgenommen Gesamtpositionen gegenüber Zentralbanken, Zentralregierungen, supranationalen Organisationen und von der FINMA bezeichneten weiteren Gegenparteien.[^100-3]
 
-<sup>6</sup> Die Positionen nach den Absätzen 4 und 5 sind als Werte sowohl vor als auch nach Anwendung der Risikominderung nach Artikel 119 Absatz 1 zu melden.
+<sup>5bis</sup>
+
+Die Bank hat der FINMA zusätzlich zu den Meldungen nach den Absätzen 4 und 5 grosse Gesamtpositionen gegenüber Gegenparteien, die Banken oder Holdinggesellschaften nach Artikel 4 Absatz 1 Buchstabe b BankV[^100-4] sind, zu melden. Zu melden sind die folgenden Gesamtpositionen, die mindestens 10 Millionen Franken oder mindestens 4 Prozent des nach den Artikeln 31–40 korrigierten anrechenbaren Kernkapitals der meldepflichtigen Bank betragen:
+
+- 1\. gegenüber inländischen Gegenparteien: alle;
+- 2\. gegenüber ausländischen Gegenparteien: die zehn grössten beziehungsweise, wenn die meldepflichtige Bank eine systemrelevante Bank ist, die zwanzig grössten.[^100-5]
+
+<sup>5ter</sup> Für die Meldungen nach Absatz 5<sup>bis</sup> gelten Absatz 1 Buchstaben a und b und die Absätze 1<sup>bis</sup>–3 sinngemäss.[^100-6]
+
+<sup>5quater</sup> Ist bei der Meldung nach Absatz 5<sup>bis</sup> eine Gegenpartei, die eine Bank ist, Teil einer Gruppe verbundener Gegenparteien, die aus Banken und anderen Unternehmen besteht, so sind für die Gesamtposition in Abweichung von Artikel 109 die Positionen bis zur obersten Einheit massgebend, die eine Bank oder eine Holdinggesellschaft nach Artikel 4 Absatz 1 Buchstabe b BankV ist.[^100-7]
+
+<sup>6</sup> Die Positionen nach den Absätzen 4–5<sup>bis</sup> und 5<sup>quater</sup> sind als Werte sowohl vor als auch nach Anwendung der Risikominderung nach Artikel 119 Absatz 1 zu melden.[^100-8]
 
 <sup>7</sup> Betrifft ein Klumpenrisiko ein Mitglied der Organe oder einen im Sinne von Artikel 3 Absatz 2 Buchstabe c<sup>bis</sup> BankG qualifiziert Beteiligten der Bank oder eine ihnen nahestehende Person oder Gesellschaft, so ist das Klumpenrisiko in den Meldungen mit dem Sammelbegriff «Organgeschäft» zu kennzeichnen.
 
@@ -2861,6 +2881,12 @@ Zu melden sind namentlich:
 
 [^100-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^100-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^100-3]: Fassung gemäss Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-4]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^100-5]: Eingefügt durch Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-6]: Eingefügt durch Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-7]: Eingefügt durch Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-8]: Fassung gemäss Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 101
 
@@ -2943,7 +2969,11 @@ Rechtlich selbstständige Unternehmen der öffentlichen Hand gelten zusammen mit
 - a. die öffentlich-rechtliche Körperschaft nach Gesetz für die Verbindlichkeiten des Unternehmens nicht haftet; oder
 - b. es sich beim Unternehmen um eine Bank handelt.
 
+<sup>6</sup> Die FINMA erlässt technische Ausführungsbestimmungen. Sie richtet sich dabei nach dem Basler Mindeststandard zu grossen Risiken (LEX)[^109-2].[^109-3]
+
 [^109-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^109-2]: Der LEX ist in Anhang 1 Ziff. 8 aufgeführt.
+[^109-3]: Eingefügt durch Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 110
 
@@ -3041,10 +3071,11 @@ Zur Bestimmung der Gesamtposition gegenüber einer Gegenpartei sind die zugehör
 
 <sup>2</sup> Für nichtlineare Derivate im Handelsbuch sind im Positionswert zusätzlich die Kreditrisiken der zugrunde liegenden Vermögenswerte (*Underlyings*) unter Annahme eines vollständigen Wertverlusts zu berechnen.
 
-<sup>3</sup> Die Positionswerte für Wertpapierfinanzierungsgeschäfte, die im Banken- oder im Handelsbuch gehalten werden, sind nach dem einfachen oder dem umfassenden Ansatz (Art. 62) zu berechnen; Modellansätze dürfen nicht verwendet werden. Die FINMA erlässt technische Ausführungsbestimmungen. Sie richtet sich dabei nach dem Basler Mindeststandard zu grossen Risiken (LEX)[^115-2].
+<sup>3</sup> Die Positionswerte für Wertpapierfinanzierungsgeschäfte, die im Banken- oder im Handelsbuch gehalten werden, sind nach dem einfachen oder dem umfassenden Ansatz (Art. 62) zu berechnen; Modellansätze dürfen nicht verwendet werden. Die FINMA erlässt technische Ausführungsbestimmungen. Sie richtet sich dabei nach dem LEX[^115-2].[^115-3]
 
 [^115-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^115-2]: Der LEX ist in Anhang 1 Ziff. 8 aufgeführt.
+[^115-3]: Fassung des dritten Satzes gemäss Ziff. I der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 116
 
@@ -3887,49 +3918,49 @@ Anhang 3[^t-5]
 
 ## Positionsklassen nach dem SA-BIZ ohne Verwendung externer Ratings und Risikogewichte
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Bereinigt gemäss Ziff. II der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
-<tr><th></th><th>Positionsklassen</th><th>Risikogewichte</th></tr>
-<tr><td>**1.**</td><td>**Retailpositionen**</td><td></td></tr>
-<tr><td>1.1</td><td>Qualifizierte Retailpositionen</td><td>75 %</td></tr>
-<tr><td>1.2</td><td>Qualifizierte Retailpositionen aus Kreditkartenverpflichtungen, bei denen in den letzten 12 Monaten zu jedem vereinbarten Rückzahlungstermin der ausstehende Betrag vollständig getilgt wurde, oder aus Kreditlinien, die in den letzten 12 Monaten nicht in Anspruch genommen wurden</td><td>45 %</td></tr>
-<tr><td>1.3</td><td>Übrige Positionen gegenüber natürlichen Personen</td><td>100 %</td></tr>
-<tr><td>**2.**</td><td>**Inländische Pfandbriefe**</td><td>10 %</td></tr>
-<tr><td>**3.**</td><td>**Direkt und indirekt grundpfandgesicherte Positionen**</td><td></td></tr>
-<tr><td>3.1</td><td>Selbstgenutzte Wohnliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad:</td><td></td></tr>
-<tr><td></td><td>bis 50 Prozent</td><td>20 %</td></tr>
-<tr><td></td><td>über 50 Prozent bis 60 Prozent</td><td>25 %</td></tr>
-<tr><td></td><td>über 60 Prozent bis 80 Prozent</td><td>35 %</td></tr>
-<tr><td></td><td>über 80 Prozent bis 90 Prozent</td><td>45 %</td></tr>
-<tr><td></td><td>über 90 Prozent bis 100 Prozent</td><td>55 %</td></tr>
-<tr><td></td><td>über 100 Prozent</td><td>75 %</td></tr>
-<tr><td>3.2</td><td>Übrige Wohnliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad:</td><td></td></tr>
-<tr><td></td><td>bis 50 Prozent</td><td>30 %</td></tr>
-<tr><td></td><td>über 50 Prozent bis 60 Prozent</td><td>35 %</td></tr>
-<tr><td></td><td>über 60 Prozent bis 70 Prozent</td><td>55 %</td></tr>
-<tr><td></td><td>über 70 Prozent bis 80 Prozent</td><td>60 %</td></tr>
-<tr><td></td><td>über 80 Prozent bis 90 Prozent</td><td>75 %</td></tr>
-<tr><td></td><td>über 90 Prozent bis 100 Prozent</td><td>85 %</td></tr>
-<tr><td></td><td>über 100 Prozent</td><td>110 %</td></tr>
-<tr><td>3.3</td><td>Selbstgenutzte Gewerbeliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad: bis 60 Prozent</td><td>60 % oder Risikogewicht der Gegenpartei, falls dieses tiefer ist</td></tr>
-<tr><td></td><td>über 60 Prozent</td><td>Risikogewicht der Gegenpartei</td></tr>
-<tr><td>3.4</td><td>Übrige Gewerbeliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad:</td><td></td></tr>
-<tr><td></td><td>bis 60 Prozent</td><td>70 %</td></tr>
-<tr><td></td><td>über 60 Prozent bis 80 Prozent</td><td>100 %</td></tr>
-<tr><td></td><td>über 80 Prozent</td><td>115 %</td></tr>
-<tr><td>**4.**</td><td>**Nachrangige Positionen**</td><td>150 %</td></tr>
-<tr><td>**5.**</td><td>**Ausgefallene Positionen**</td><td></td></tr>
-<tr><td>5.1</td><td>Die um die Einzelwertberichtigungen korrigierten Positionen nach Ziffer 3.1</td><td>100 %</td></tr>
-<tr><td>5.2</td><td>Die um die Einzelwertberichtigungen korrigierten unbesicherten oder nicht garantierten Positionsanteile, sofern die Einzelwertberichtigungen mindestens 20 % des ausstehenden Betrags ausmachen</td><td>100 %</td></tr>
-<tr><td>5.3</td><td>Die um die Einzelwertberichtigungen korrigierten unbesicherten oder nicht garantierten Positionsanteile, sofern die Einzelwertberichtigungen weniger als 20 % des ausstehenden Betrags ausmachen</td><td>150 %</td></tr>
-<tr><td>**6.**</td><td>**Übrige Positionen**</td><td></td></tr>
-<tr><td>6.1</td><td>Gold, das in eigenen Tresoren verwahrt wird oder, wenn es bei einer anderen Bank sammelverwahrt wird, durch entsprechende Goldverbindlichkeiten der anderen Bank gedeckt ist</td><td>0 %</td></tr>
-<tr><td>6.2</td><td>Aktivsaldo des Ausgleichskontos</td><td>0 %</td></tr>
-<tr><td>6.3</td><td>Flüssige Mittel, die sich im Inkassoverfahren befinden</td><td>20 %</td></tr>
-<tr><td>6.4</td><td>Flüssige Mittel, jedoch ohne Positionen, die unter Ziffer 6.3 fallen</td><td>0 %</td></tr>
-<tr><td>6.5</td><td>Beträge der drei Positionen nach den Artikeln 38 Absatz 2 und 39 Absatz 1, die unter dem Schwellenwert 3 liegen</td><td>250 %</td></tr>
-<tr><td>6.6</td><td>Übrige Positionen</td><td>100 %</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Positionsklassen</th><th colspan="2">Risikogewichte</th></tr>
+<tr><td colspan="2">**1.**</td><td colspan="2">**Retailpositionen**</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1.1</td><td colspan="2">Qualifizierte Retailpositionen</td><td colspan="2">75 %</td></tr>
+<tr><td colspan="2">1.2</td><td colspan="2">Qualifizierte Retailpositionen aus Kreditkartenverpflichtungen, bei denen in den letzten 12 Monaten zu jedem vereinbarten Rückzahlungstermin der ausstehende Betrag vollständig getilgt wurde, oder aus Kreditlinien, die in den letzten 12 Monaten nicht in Anspruch genommen wurden</td><td colspan="2">45 %</td></tr>
+<tr><td colspan="2">1.3</td><td colspan="2">Übrige Positionen gegenüber natürlichen Personen</td><td colspan="2">100 %</td></tr>
+<tr><td colspan="2">**2.**</td><td colspan="2">**Inländische Pfandbriefe**</td><td colspan="2">10 %</td></tr>
+<tr><td colspan="2">**3.**</td><td colspan="2">**Direkt und indirekt grundpfandgesicherte Positionen**</td><td colspan="2"></td></tr>
+<tr><td colspan="2">3.1</td><td colspan="2">Selbstgenutzte Wohnliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">bis 50 Prozent</td><td colspan="2">20 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 50 Prozent bis 60 Prozent</td><td colspan="2">25 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 60 Prozent bis 80 Prozent</td><td colspan="2">35 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 80 Prozent bis 90 Prozent</td><td colspan="2">45 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 90 Prozent bis 100 Prozent</td><td colspan="2">55 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 100 Prozent</td><td colspan="2">75 %</td></tr>
+<tr><td colspan="2">3.2</td><td colspan="2">Übrige Wohnliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">bis 50 Prozent</td><td colspan="2">30 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 50 Prozent bis 60 Prozent</td><td colspan="2">35 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 60 Prozent bis 70 Prozent</td><td colspan="2">55 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 70 Prozent bis 80 Prozent</td><td colspan="2">60 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 80 Prozent bis 90 Prozent</td><td colspan="2">75 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 90 Prozent bis 100 Prozent</td><td colspan="2">85 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 100 Prozent</td><td colspan="2">110 %</td></tr>
+<tr><td colspan="2">3.3</td><td colspan="2">Selbstgenutzte Gewerbeliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad: bis 60 Prozent</td><td colspan="2">60 % oder Risikogewicht der Gegenpartei, falls dieses tiefer ist</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 60 Prozent</td><td colspan="2">Risikogewicht der Gegenpartei</td></tr>
+<tr><td colspan="2">3.4</td><td colspan="2">Übrige Gewerbeliegenschaften in der Schweiz und im Ausland, mit einem Belehnungsgrad:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">bis 60 Prozent</td><td colspan="2">70 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 60 Prozent bis 80 Prozent</td><td colspan="2">100 %</td></tr>
+<tr><td colspan="2"></td><td colspan="2">über 80 Prozent</td><td colspan="2">115 %</td></tr>
+<tr><td colspan="2">**4.**</td><td colspan="2">**Nachrangige Positionen**</td><td colspan="2">150 %</td></tr>
+<tr><td colspan="2">**5.**</td><td colspan="2">**Ausgefallene Positionen**</td><td colspan="2"></td></tr>
+<tr><td colspan="2">5.1</td><td colspan="2">Die um die Einzelwertberichtigungen korrigierten Positionen nach Ziffer 3.1</td><td colspan="2">100 %</td></tr>
+<tr><td colspan="2">5.2</td><td colspan="2">Die um die Einzelwertberichtigungen korrigierten unbesicherten oder nicht garantierten Positionsanteile, sofern die Einzelwertberichtigungen mindestens 20 Prozent des ausstehenden Betrags ausmachen; die grundpfandgesicherten Positionen nach den Ziffern 3.2–3.4 gelten für diesen Zweck als unbesichert</td><td colspan="2">100 %</td></tr>
+<tr><td colspan="2">5.3</td><td colspan="2">Die um die Einzelwertberichtigungen korrigierten unbesicherten oder nicht garantierten Positionsanteile, sofern die Einzelwertberichtigungen weniger als 20 Prozent des ausstehenden Betrags ausmachen; die grundpfandgesicherten Positionen nach den Ziffern 3.2–3.4 gelten für diesen Zweck als unbesichert</td><td colspan="2">150 %</td></tr>
+<tr><td colspan="2">**6.**</td><td colspan="2">**Übrige Positionen**</td><td colspan="2"></td></tr>
+<tr><td colspan="2">6.1</td><td colspan="2">Gold, das in eigenen Tresoren verwahrt wird oder, wenn es bei einer anderen Bank sammelverwahrt wird, durch entsprechende Goldverbindlichkeiten der anderen Bank gedeckt ist</td><td colspan="2">0 %</td></tr>
+<tr><td colspan="2">6.2</td><td colspan="2">Aktivsaldo des Ausgleichskontos</td><td colspan="2">0 %</td></tr>
+<tr><td colspan="2">6.3</td><td colspan="2">Flüssige Mittel, die sich im Inkassoverfahren befinden</td><td colspan="2">20 %</td></tr>
+<tr><td colspan="2">6.4</td><td colspan="2">Flüssige Mittel, jedoch ohne Positionen, die unter Ziffer 6.3 fallen</td><td colspan="2">0 %</td></tr>
+<tr><td colspan="2">6.5</td><td colspan="2">Beträge der drei Positionen nach den Artikeln 38 Absatz 2 und 39 Absatz 1, die unter dem Schwellenwert 3 liegen</td><td colspan="2">250 %</td></tr>
+<tr><td colspan="2">6.6</td><td colspan="2">Übrige Positionen</td><td colspan="2">100 %</td></tr>
 </table>
 
 Anhang 4[^t-6]
@@ -3961,7 +3992,7 @@ Anhang 4a[^t-7]
 
 Die Mindesteigenmittel für Beiträge einer Bank als Clearing-Mitglied einer qualifizierten zentralen Gegenpartei an den Ausfallfonds berechnen sich nach der folgenden Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/de/xml/image/image1.png)
 
 Hierin bezeichnen:
 
@@ -4014,19 +4045,19 @@ Die Überstreichung zeigt an, dass die entsprechende Unterkomponente als Durchsc
 
 - **1.** **Zins- und Dividendenkomponente (ILDC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/de/xml/image/image2.png)
 
 - **2.** **Dienstleistungskomponente (SC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/de/xml/image/image3.png)
 
 - **3.** **Finanzkomponente (FC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/de/xml/image/image4.png)
 
 - **4.** **Interner Verlustmultiplikator (ILM)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/de/xml/image/image5.png)
 
 Hierin bezeichnen:
 
@@ -4084,7 +4115,7 @@ Anhang 9[^t-12]
 
 ## Zuschläge
 
-[^t-12]: Eingefügt durch Ziff. II der V vom 11. Mai 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Bereinigt gemäss Ziff. II der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^t-12]: Eingefügt durch Ziff. II der V vom 11. Mai 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Bereinigt gemäss Ziff. II der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### 1 Zuschläge für den Marktanteil
 
@@ -4104,16 +4135,16 @@ Je weitere 5 Prozentpunkte Marktanteil erhöht sich die Anforderung für die Lev
 
 ### 2 Zuschläge für das Gesamtengagement
 
-### 2.1 Bei einem Gesamtengagement von bis zu 1341 Milliarden Franken
+### 2.1 Bei einem Gesamtengagement von bis zu 1591 Milliarden Franken
 
 <table>
-<tr><td>Bucket</td><td>Gesamtengagement</td><td>Zuschlag LR</td><td>Zuschlag RWA-Quote</td></tr>
-<tr><td>G1</td><td>&lt; 697 Mrd. CHF</td><td>0 %</td><td>0 %</td></tr>
-<tr><td>G2</td><td>&lt; 912 Mrd. CHF</td><td>0,125 %</td><td>0,36 %</td></tr>
-<tr><td>G3</td><td>&lt; 1127 Mrd. CHF</td><td>0,25 %</td><td>0,72 %</td></tr>
-<tr><td>G4</td><td>&lt; 1341 Mrd. CHF</td><td>0,375 %</td><td>1,08 %</td></tr>
+<tr><th>Bucket</th><th>Gesamtengagement</th><th>Zuschlag LR</th><th>Zuschlag RWA-Quote</th></tr>
+<tr><td>G1</td><td>&lt; 826 Mrd. CHF</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>G2</td><td>&lt; 1081 Mrd. CHF</td><td>0,125 %</td><td>0,36 %</td></tr>
+<tr><td>G3</td><td>&lt; 1336 Mrd. CHF</td><td>0,25 %</td><td>0,72 %</td></tr>
+<tr><td>G4</td><td>≤ 1591 Mrd. CHF</td><td>0,375 %</td><td>1,08 %</td></tr>
 </table>
 
-### 2.2 Bei einem Gesamtengagement von über 1341 Milliarden Franken
+### 2.2 Bei einem Gesamtengagement von über 1591 Milliarden Franken
 
-Je weitere 215 Milliarden Franken Gesamtengagement erhöht sich die Anforderung für die Leverage Ratio um 0,125 Prozentpunkte und diejenige für die RWA-Quote um 0,36 Prozentpunkte.
+Je weitere 255 Milliarden Franken Gesamtengagement erhöht sich die Anforderung für die Leverage Ratio um 0,125 Prozentpunkte und diejenige für die RWA-Quote um 0,36 Prozentpunkte.

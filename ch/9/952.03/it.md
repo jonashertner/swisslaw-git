@@ -4,11 +4,11 @@ title: "Ordinanza del 1° giugno 2012 sui fondi propri e sulla ripartizione dei 
 short: OFoP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: it
-version: 2025-01-24
+version: 2027-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250124-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/it"
 
 (Ordinanza sui fondi propri, OFoP)[^t-1]
 
-del 1° giugno 2012 (Stato 24 gennaio 2025)
+del 1° giugno 2012 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta l’all. 1 cifra II n. 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -235,10 +235,13 @@ Le posizioni seguenti devono essere assegnate al portafoglio di negoziazione, sa
 
 <sup>3</sup> Se la valutazione prudente conduce ad adeguamenti della valutazione che vanno oltre quelli effettuati secondo le norme applicabili per la presentazione dei conti, tali adeguamenti supplementari comportano una riduzione dei fondi propri di base di qualità primaria computabili.
 
-<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla valutazione prudente. A tale scopo si fonda sullo standard CAP[^5b-2].
+<sup>4</sup> La FINMA emana disposizioni di esecuzione tecniche relative alla valutazione prudente. A tale scopo si fonda sullo standard CAP[^5b-2] e sul regolamento delegato (UE) 2016/101[^5b-3]. Essa può prevedere agevolazioni per le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^5b-4].[^5b-5]
 
 [^5b-1]: Introdotto la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^5b-2]: Lo standard CAP è riportato nell’all. 1 n. 2.
+[^5b-3]: Regolamento delegato (UE) 2016/101 della Commissione, del 26 ottobre 2015, che integra il regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio per quanto riguarda le norme tecniche di regolamentazione per la valutazione prudente a norma dell’articolo 105, paragrafo 14, GU L 21 del 28.1.2016, pag. 54; modificato da ultimo dal regolamento delegato (UE) 2020/866, GU L 201 del 25.6.2020, pag. 1.
+[^5b-4]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^5b-5]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 6
 
@@ -1941,6 +1944,8 @@ Le obbligazioni fondiarie svizzere sono obbligazioni fondiarie conformemente all
 
 **Titoli di credito esteri coperti**[^71b-1]
 
+<sup>1</sup>
+
 I titoli di credito esteri coperti possono essere assegnati a questa classe di posizione e ponderati secondo l’allegato 2 numero 8 solo se soddisfano le condizioni seguenti:
 
 - a. sono emessi da una banca o da un istituto ipotecario;
@@ -1960,8 +1965,11 @@ I titoli di credito esteri coperti possono essere assegnati a questa classe di p
 - e. il valore nominale dei valori patrimoniali utilizzati per la copertura deve superare di almeno il 10 per cento il valore nominale dei titoli di credito esteri coperti emessi dall’istituto. Se le norme di legge di cui alla lettera b non prevedono tale sovracopertura, l’istituto deve dimostrare pubblicamente e regolarmente il rispetto di tale esigenza;
 - f. la banca si procura almeno ogni sei mesi dall’emittente dei titoli di credito esteri coperti le informazioni di cui al numero 20.37 CRE[^71b-2].
 
+<sup>2</sup> Se le condizioni di cui al capoverso 1 non sono soddisfatte, i titoli di credito devono essere trattati come crediti nei confronti dei loro emittenti.[^71b-3]
+
 [^71b-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^71b-2]: Lo standard CRE è riportato nell’all. 1 n. 4.
+[^71b-3]: Introdotto dalla cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 72
 
@@ -1985,7 +1993,7 @@ I titoli di credito esteri coperti possono essere assegnati a questa classe di p
 
 **Posizioni garantite direttamente o indirettamente da pegno immobiliare: tasso di anticipo**[^72a-1]
 
-<sup>1</sup> Il tasso di anticipo del pegno immobiliare è il rapporto tra il credito in essere e tutti gli impegni di credito, da un lato, e il valore di anticipo iniziale del pegno immobiliare, dall’altro.
+<sup>1</sup> Il tasso di anticipo del pegno immobiliare è il rapporto tra il credito in essere e le parti non ancora versate come credito di tutti gli impegni di credito, da un lato, e il valore di anticipo iniziale del pegno immobiliare, dall’altro.[^72a-2]
 
 <sup>2</sup> Per i crediti garantiti da diversi pegni immobiliari, la banca determina il tasso di anticipo per ogni pegno immobiliare suddividendo l’importo del credito tra i valori di anticipo dei diversi pegni immobiliari secondo una chiave di ripartizione adeguata.
 
@@ -1994,6 +2002,7 @@ I titoli di credito esteri coperti possono essere assegnati a questa classe di p
 <sup>4</sup> Eventuali crediti di pari rango o di rango anteriore vanno inclusi nel calcolo del tasso di anticipo.
 
 [^72a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72a-2]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 72b
 
@@ -2857,9 +2866,20 @@ Devono essere comunicati segnatamente:
 - b. tutte le posizioni che, senza l’applicazione della riduzione dei rischi secondo l’articolo 119 capoverso 1, ammontano almeno al 10 per cento dei fondi propri di base computabili;
 - c. tutte le posizioni complessive alle quali non si applica alcun limite massimo e che ammontano almeno al 10 per cento dei fondi propri di base computabili.
 
-<sup>5</sup> Devono inoltre essere comunicate ogni anno le 20 posizioni complessive di importo maggiore, indipendentemente dal fatto che si tratti o meno di grandi rischi, a eccezione delle posizioni complessive nei confronti di banche centrali e governi centrali.
+<sup>5</sup> Devono inoltre essere comunicate ogni anno le 20 posizioni complessive di importo maggiore, indipendentemente dal fatto che si tratti o meno di grandi rischi, a eccezione delle posizioni complessive nei confronti di banche centrali, governi centrali, organizzazioni sovranazionali e ulteriori controparti designate dalla FINMA.[^100-3]
 
-<sup>6</sup> Le posizioni di cui ai capoversi 4 e 5 devono essere comunicate sotto forma di valori sia prima che dopo l’applicazione della riduzione dei rischi secondo l’articolo 119 capoverso 1.
+<sup>5bis</sup>
+
+Oltre alle comunicazioni di cui ai capoversi 4 e 5, la banca deve comunicare alla FINMA le grandi posizioni complessive nei confronti di controparti che sono banche o società holding secondo l’articolo 4 capoverso 1 lettera b OBCR[^100-4]. Devono essere comunicate le seguenti posizioni complessive che ammontano ad almeno 10 milioni di franchi o almeno al 4 per cento dei fondi propri di base computabili della banca soggetta all’obbligo di comunicazione corretti conformemente agli articoli 31–40:
+
+- 1\. nei confronti di controparti svizzere: tutte;
+- 2\. nei confronti di controparti estere: le dieci posizioni di importo maggiore o, se la banca soggetta all’obbligo di comunicazione è una banca di rilevanza sistemica, le 20 posizioni di importo maggiore.[^100-5]
+
+<sup>5ter</sup> Alle comunicazioni di cui al capoverso 5<sup>bis</sup> si applicano per analogia i capoversi 1 lettere a e b e 1<sup>bis</sup>–3.[^100-6]
+
+<sup>5quater</sup> Nel caso della comunicazione di cui al capoverso 5<sup>bis</sup>, se una controparte, che è una banca, fa parte di un gruppo di controparti associate composto di banche e di altre imprese, in deroga all’articolo 109, per la posizione complessiva sono determinanti le posizioni fino all’unità superiore che è una banca o una società holding secondo l’articolo 4 capoverso 1 lettera b OBCR.[^100-7]
+
+<sup>6</sup> Le posizioni di cui ai capoversi 4–5<sup>bis</sup> e 5<sup>quater</sup> devono essere comunicate sotto forma di valori sia prima che dopo l’applicazione della riduzione dei rischi secondo l’articolo 119 capoverso 1.[^100-8]
 
 <sup>7</sup> Se un grande rischio concerne un membro degli organi della banca, un partecipante qualificato della banca ai sensi dell’articolo 3 capoverso 2 lettera cbis LBCR o una persona o società loro vicina, nelle comunicazioni il grande rischio è designato con la voce generica «operazioni con gli organi».
 
@@ -2869,6 +2889,12 @@ Devono essere comunicati segnatamente:
 
 [^100-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^100-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^100-3]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-4]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^100-5]: Introdotto dalla cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-6]: Introdotto dalla cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-7]: Introdotto dalla cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-8]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 101
 
@@ -2951,7 +2977,11 @@ Le imprese dell’ente pubblico giuridicamente indipendenti non sono considerate
 - a. l’ente di diritto pubblico non risponde per legge degli impegni dell’impresa; o
 - b. l’impresa è una banca.
 
+<sup>6</sup> La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea per i grandi rischi (LEX)[^109-2].[^109-3]
+
 [^109-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^109-2]: Lo standard LEX è riportato nell’all. 1 n. 8.
+[^109-3]: Introdotto dalla cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 110
 
@@ -3049,10 +3079,11 @@ Per la determinazione della posizione complessiva nei confronti di una contropar
 
 <sup>2</sup> Per i derivati non lineari detenuti nel portafoglio di negoziazione, nel valore delle posizioni devono inoltre essere calcolati i rischi di credito dei valori patrimoniali sottostanti («underlyings») ipotizzando una perdita di valore totale.
 
-<sup>3</sup> I valori delle posizioni per le operazioni di finanziamento di titoli detenute nel portafoglio della banca o nel portafoglio di negoziazione devono essere calcolati secondo l’approccio semplice o completo (art. 62); gli approcci modello non possono essere applicati. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard minimo di Basilea per i grandi rischi (LEX)[^115-2].
+<sup>3</sup> I valori delle posizioni per le operazioni di finanziamento di titoli detenute nel portafoglio della banca o nel portafoglio di negoziazione devono essere calcolati secondo l’approccio semplice o completo (art. 62); gli approcci modello non possono essere applicati. La FINMA emana disposizioni di esecuzione tecniche. A tale scopo si fonda sullo standard LEX[^115-2].[^115-3]
 
 [^115-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^115-2]: Lo standard LEX è riportato nell’all. 1 n. 8.
+[^115-3]: Nuovo testo del terzo per. giusta la cifra I dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 116
 
@@ -3510,11 +3541,7 @@ Il limite massimo di cui al capoverso 2 deve essere rispettato entro 12 mesi dal
 
 ### Capitolo 1: Disposizioni transitorie
 
-### Sezione 1: Disposizioni transitorie del 1° giugno 2012
-
-[^tit6-chap1-sec1-1]
-
-[^tit6-chap1-sec1-1]: Introdotto dalla cifra I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+### Sezione 1: ...
 
 #### Art. 137 e 138
 
@@ -3893,7 +3920,7 @@ Allegato 3[^t-5]
 
 ## Classi di posizione secondo l’AS-BRI senza utilizzo di rating esterni e fattori di ponderazione del rischio
 
-[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 nov. 2023 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Aggiornato dalla cifra II dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
 <tr><th></th><th>Classi di posizione</th><th>Fattori di ponderazione del rischio</th></tr>
@@ -3927,8 +3954,8 @@ Allegato 3[^t-5]
 <tr><td>**4.**</td><td>**Posizioni postergate**</td><td>150 %</td></tr>
 <tr><td>5.</td><td>Posizioni in stato di default</td><td></td></tr>
 <tr><td>5.1</td><td>Posizioni di cui al numero 3.1, corrette in funzione delle singole rettifiche di valore</td><td>100 %</td></tr>
-<tr><td>5.2</td><td>Parti di posizioni non collateralizzate o non garantite, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino almeno al 20 % dell’importo scoperto</td><td>100 %</td></tr>
-<tr><td>5.3</td><td>Parti di posizioni non collateralizzate o non garantite, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino a meno del 20 % dell’importo scoperto</td><td>150 %</td></tr>
+<tr><td>5.2</td><td>Parti di posizioni non collateralizzate o non garantite, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino almeno al 20 % dell’importo scoperto; le posizioni garantite da pegno immobiliare di cui ai numeri 3.2–3.4 sono considerate per questo scopo non collateralizzate</td><td>100 %</td></tr>
+<tr><td>5.3</td><td>Parti di posizioni non collateralizzate o non garantite, corrette in funzione delle singole rettifiche di valore, sempreché le singole rettifiche ammontino a meno del 20 % dell’importo scoperto; le posizioni garantite da pegno immobiliare di cui ai numeri 3.2–3.4 sono considerate per questo scopo non collateralizzate</td><td>150 %</td></tr>
 <tr><td>6.</td><td>Altre posizioni</td><td></td></tr>
 <tr><td>6.1</td><td>Oro custodito in casseforti proprie o, se custodito collettivamente presso un’altra banca, coperto da corrispondenti impegni in oro di tale banca</td><td>0 %</td></tr>
 <tr><td>6.2</td><td>Saldo attivo del conto di compensazione</td><td>0 %</td></tr>
@@ -3967,7 +3994,7 @@ Allegato 4a[^t-7]
 
 I fondi propri minimi per i contributi di una banca quale membro compensatore di una controparte centrale qualificata al fondo di garanzia si calcolano secondo la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/it/xml/image/image1.png)
 
 Legenda:
 
@@ -4020,19 +4047,19 @@ La sopralineatura indica che la relativa sottocomponente deve essere calcolata c
 
 - **1.** **Componente di interessi e dividendi (ILDC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/it/xml/image/image2.png)
 
 - **2.** **Componente dei servizi (SC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/it/xml/image/image3.png)
 
 - **3.** **Componente finanziaria (FC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/it/xml/image/image4.png)
 
 - **4.** **Moltiplicatore delle perdite interne (ILM)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/it/xml/image/image5.png)
 
 Legenda:
 
@@ -4090,7 +4117,7 @@ Allegato 9[^t-12]
 
 ## Supplementi
 
-[^t-12]: Introdotto dalla cifra II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Aggiornato dalla cifra II dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^t-12]: Introdotto dalla cifra II dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Aggiornato dalla cifra II dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### 1 Supplementi per la quota di mercato
 
@@ -4110,16 +4137,16 @@ Per ogni maggiorazione di 5 punti percentuali per la quota di mercato, l’esige
 
 ### 2 Supplementi per l’esposizione totale
 
-### 2.1 In caso di esposizione totale pari o inferiore a 1341 miliardi di franchi
+### 2.1 In caso di esposizione totale pari o inferiore a 1591 miliardi di franchi
 
 <table>
-<tr><td>Bucket</td><td>Esposizione totale</td><td>Supplemento LR</td><td>Supplemento quota di RWA</td></tr>
-<tr><td>G1</td><td>&lt; 697 mia. CHF</td><td>0 %</td><td>0 %</td></tr>
-<tr><td>G2</td><td>&lt; 912 mia. CHF</td><td>0,125 %</td><td>0,36 %</td></tr>
-<tr><td>G3</td><td>&lt; 1127 mia. CHF</td><td>0,25 %</td><td>0,72 %</td></tr>
-<tr><td>G4</td><td>&lt; 1341 mia. CHF</td><td>0,375 %</td><td>1,08 %</td></tr>
+<tr><th>Bucket</th><th>Esposizione totale</th><th>Supplemento LR</th><th>Supplemento quota di RWA</th></tr>
+<tr><td>G1</td><td>&lt; 826 mia. CHF</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>G2</td><td>&lt; 1081 mia. CHF</td><td>0,125 %</td><td>0,36 %</td></tr>
+<tr><td>G3</td><td>&lt; 1336 mia. CHF</td><td>0,25 %</td><td>0,72 %</td></tr>
+<tr><td>G4</td><td>≤ 1591 mia. CHF</td><td>0,375 %</td><td>1,08 %</td></tr>
 </table>
 
-### 2.2 In caso di esposizione totale superiore a 1341 miliardi di franchi
+### 2.2 In caso di esposizione totale superiore a 1591 miliardi di franchi
 
-Per ogni maggiorazione di 215 miliardi di franchi per l’esposizione totale, l’esigenza per il «leverage ratio» aumenta di 0,125 punti percentuali e quella per la quota di RWA di 0,36 punti percentuali.
+Per ogni maggiorazione di 255 miliardi di franchi per l’esposizione totale, l’esigenza per il «leverage ratio» aumenta di 0,125 punti percentuali e quella per la quota di RWA di 0,36 punti percentuali.

@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juin 2012 les fonds propres et la répartit
 short: OFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: fr
-version: 2025-01-24
+version: 2027-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20250124-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20250124/fr"
 
 (Ordonnance sur les fonds propres, OFR)[^t-1]
 
-du 1<sup>er</sup> juin 2012 (État le 24 janvier 2025)
+du 1<sup>er</sup> juin 2012 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -234,10 +234,13 @@ Les positions suivantes sont attribuées au portefeuille de la banque:
 
 <sup>3</sup> Si l’évaluation prudente entraîne des ajustements de valeur dépassant ceux qui ont été réalisés conformément aux prescriptions comptables applicables, les ajustements supplémentaires réduisent les fonds propres de base durs pris en compte.
 
-<sup>4</sup> La FINMA édicte les dispositions d’exécution techniques relatives à l’évaluation prudente. Elle se fonde à cette fin sur les CAP[^5b-2].
+<sup>4</sup> La FINMA édicte des dispositions d’exécution techniques relatives à l’évaluation prudente. Elle se fonde à cette fin sur les CAP[^5b-2] et sur le règlement délégué (UE) 2016/101[^5b-3]. Elle peut prévoir des allégements pour les banques des catégories 4 et 5 au sens de l’annexe 3 de l’OB[^5b-4].[^5b-5]
 
 [^5b-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^5b-2]: L’annexe 1, ch. 2, dresse la liste des CAP.
+[^5b-3]: Règlement délégué (UE) 2016/101 de la Commission du 26 octobre 2015 complétant le règlement (UE) n<sup>o</sup> 575/2013 du Parlement européen et du Conseil par des normes techniques de réglementation concernant l’évaluation prudente en vertu de l’art. 105, par. 14, JO L 21 du 28.1.2016, p. 54; modifié en dernier lieu par le règlement délégué (UE) 2020/866, JO L 201 du 25.6.2020*,* p. 1.
+[^5b-4]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^5b-5]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 6
 
@@ -753,7 +756,7 @@ Sont à déduire intégralement des fonds propres de base durs:
 
 - a. la perte reportée et la perte de l’exercice en cours;
 - b. le besoin non couvert de correctifs de valeur et de provisions de l’exercice en cours;
-- c. la survaleur *(goodwill)*, y compris celle qui a été prise en compte dans l’évaluation des participations importantes dans des entreprises du secteur financier hors du périmètre de consolidation, et les valeurs immatérielles, à l’exception des droits de gestion hypothécaire (*mortgage servicing rights*, MSR);
+- c. la survaleur (*goodwill*), y compris celle qui a été prise en compte dans l’évaluation des participations importantes dans des entreprises du secteur financier hors du périmètre de consolidation, et les valeurs immatérielles, à l’exception des droits de gestion hypothécaire (*mortgage servicing rights*, MSR);
 - d. les créances fiscales latentes (*deferred tax assets*, DTA) dont la réalisation dépend de la rentabilité future, sous réserve de leur compensation par des engagements fiscaux latents au sens de l’al. 2; sont exclues de la déduction les créances fiscales latentes résultant d’écarts temporels soumis aux déductions en fonction de seuils visées aux art. 39 et 40;
 - e. les produits de cessions de créances en relation avec des opérations de titrisation;
 - f. les créances sur des institutions de prévoyance professionnelle appliquant des régimes à prestations définies qui sont inscrites au bilan; la déduction de ces créances doit être conforme aux CAP[^32-2];
@@ -1062,7 +1065,7 @@ Les banques calculent en sus les positions pondérées en fonction des risques �
 Par approches standard, on entend:
 
 - a. l’approche SA-CCR (art. 57);
-- b. l’approche standard pour les opérations de titrisation (*standardised approach for securitisations*, SEC-SA) (art. 59*b*, al. 2, let. a), l’approche fondée sur les notations externes pour les opérations de titrisation (*external ratings-based* *approach for securitisations,* SEC-ERBA) (art. 59*b*, al. 2, let. c) et la pondération selon l’art. 59*b*, al. 3;
+- b. l’approche standard pour les opérations de titrisation (*standardised approach for securitisations*, SEC-SA) (art. 59*b*, al. 2, let. a), l’approche fondée sur les notations externes pour les opérations de titrisation (*external ratings-based approach for securitisations,* SEC-ERBA) (art. 59*b*, al. 2, let. c) et la pondération selon l’art. 59*b*, al. 3;
 - c. l’approche simple pour les opérations de financement de titres et les autres transactions adossées à des sûretés (art. 62, al. 1, let. a) et l’approche globale pour les opérations de financement de titres et les autres transactions adossées à des sûretés avec décotes réglementaires appropriées (art. 62, al. 3, let. a);
 - d. l’approche AS-BRI (art. 63 à 73);
 - e. les approches utilisées pour les risques d’ajustements de valeur de dérivés et d’opérations de financement de titres (art. 77*g* à 77*j*);
@@ -1933,6 +1936,8 @@ Les lettres de gage suisses sont des lettres de gage au sens de la loi du 25 jui
 
 **Titres de créance étrangers garantis**[^71b-1]
 
+<sup>1</sup>
+
 Les titres de créance étrangers garantis ne peuvent être attribués à cette classe de positions et pondérés conformément à l’annexe 2, ch. 8, que si les conditions suivantes sont remplies:
 
 - a. ils sont émis par une banque ou par un établissement de crédit hypothécaire;
@@ -1952,8 +1957,11 @@ Les titres de créance étrangers garantis ne peuvent être attribués à cette 
 - e. la valeur nominale des valeurs patrimoniales utilisées à des fins de couverture doit dépasser d’au moins 10 % celle des titres de créance étrangers garantis émis par l’établissement. Si les dispositions légales visées à la let. b ne prévoient pas cet excédent de couverture, l’établissement rend régulièrement compte au public du respect de cette obligation;
 - f. la banque se procure les informations visées au ch. 20.37 CRE[^71b-2] auprès de l’émetteur des titres de créance étrangers garantis, au moins tous les six mois.
 
+<sup>2</sup> Si les conditions définies à l’al. 1 ne sont pas remplies, ils sont traités comme des créances sur leurs émetteurs.[^71b-3]
+
 [^71b-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^71b-2]: L’annexe 1, ch. 4, dresse la liste des CRE.
+[^71b-3]: Introduit par le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 72
 
@@ -1977,7 +1985,7 @@ Les titres de créance étrangers garantis ne peuvent être attribués à cette 
 
 **Positions garanties de manière directe ou indirecte par des gages immobiliers: quotité de financement**[^72a-1]
 
-<sup>1</sup> La quotité de financement du gage immobilier correspond au rapport entre le crédit en cours et tous les engagements de crédit, d’une part, et la valeur de nantissement initiale du gage immobilier, d’autre part.
+<sup>1</sup> La quotité de financement du gage immobilier correspond au rapport entre le crédit en cours et les parts non encore versées à titre de crédit de tous les engagements de crédit, d’une part, et la valeur de nantissement initiale du gage immobilier, d’autre part.[^72a-2]
 
 <sup>2</sup> Pour les crédits garantis par plusieurs gages immobiliers, la banque détermine la quotité de financement par gage en répartissant le montant du crédit entre les valeurs de nantissement des différents gages au moyen d’une clé de répartition appropriée.
 
@@ -1986,6 +1994,7 @@ Les titres de créance étrangers garantis ne peuvent être attribués à cette 
 <sup>4</sup> Les éventuelles créances de rang prioritaire ou équivalent sont prises en compte dans le calcul de la quotité de financement.
 
 [^72a-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^72a-2]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 72b
 
@@ -2849,9 +2858,20 @@ Doivent notamment être annoncés:
 - b. toutes les positions qui, sans application des instruments d’atténuation du risque selon l’art. 119, al. 1, représentent au moins 10 % des fonds propres de base pris en compte;
 - c. toutes les positions globales qui sont exclues de la limite maximale et représentent au moins 10 % des fonds propres de base pris en compte.
 
-<sup>5</sup> Doivent en outre être annoncées chaque année les 20 plus grandes positions globales, qu’il s’agisse ou non de gros risques, excepté les positions globales envers les banques centrales et les gouvernements centraux.
+<sup>5</sup> La banque doit en outre annoncer chaque année les vingt plus grandes positions globales, qu’il s’agisse ou non de gros risques, excepté les positions globales sur les banques centrales, les gouvernements centraux, les organisations supranationales et les autres contreparties désignées par la FINMA.[^100-3]
 
-<sup>6</sup> La valeur des positions énumérées aux al. 4 et 5 doit être indiquée avant et après application des instruments d’atténuation du risque selon l’art. 119, al. 1.
+<sup>5bis</sup>
+
+Outre les annonces visées aux al. 4 et 5, elle doit annoncer à la FINMA les grandes positions globales qu’elle détient sur des contreparties qui sont des banques ou des sociétés holding au sens de l’art. 4, al. 1, let. b, OB[^100-4]. Elle doit annoncer les positions globales suivantes qui représentent au moins 10 millions de francs ou au moins 4 % de ses fonds propres de base pris en compte après correction conformément aux art. 31 à 40:
+
+- 1\. positions sur des contreparties suisses: toutes;
+- 2\. positions sur des contreparties étrangères: les dix plus grandes ou, lorsque la banque qui doit faire l’annonce est d’importance systémique, les vingt plus grandes.[^100-5]
+
+<sup>5ter</sup> Les al. 1, let. a et b, et 1<sup>bis</sup> à 3 s’appliquent par analogie aux annonces visées à l’al. 5<sup>bis</sup>.[^100-6]
+
+<sup>5quater</sup> Dans le cas d’une annonce visée à l’al. 5<sup>bis</sup>, si la contrepartie est une banque et que celle-ci fait partie d’un groupe de contreparties liées composé de banques et d’autres entreprises, les positions jusqu’à l’entité suprême sont déterminantes pour la position globale, en dérogation à l’art. 109; cette entité doit être une banque ou une société holding au sens de l’art. 4, al. 1, let. b, OB.[^100-7]
+
+<sup>6</sup> La valeur des positions énumérées aux al. 4 à 5<sup>bis</sup> et 5<sup>quater</sup> doit être indiquée avant et après application des instruments d’atténuation du risque visés à l’art. 119, al. 1.[^100-8]
 
 <sup>7</sup> Lorsqu’un gros risque concerne un membre des organes ou un participant qualifié au sens de l’art. 3, al. 2, let. c<sup>bis</sup>, LB, ou une personne ou une société qui leur est proche, il doit être signalé dans les annonces sous la rubrique générale «affaires avec les organes».
 
@@ -2861,6 +2881,12 @@ Doivent notamment être annoncés:
 
 [^100-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^100-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^100-3]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-4]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^100-5]: Introduit par le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-6]: Introduit par le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-7]: Introduit par le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^100-8]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 101
 
@@ -2943,7 +2969,11 @@ Des entreprises juridiquement indépendantes en mains publiques ne sont pas cons
 - a. si la corporation de droit public n’est pas tenue légalement de répondre des engagements de l’entreprise, ou
 - b. si l’entreprise est une banque.
 
+<sup>6</sup> La FINMA édicte les dispositions d’exécution techniques. Elle se fonde à cette fin sur les normes minimales de Bâle relatives aux gros risques (*large exposures*, LEX)[^109-2].[^109-3]
+
 [^109-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
+[^109-2]: L’annexe 1, ch. 8, dresse la liste des LEX.
+[^109-3]: Introduit par le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 110
 
@@ -3041,10 +3071,11 @@ Pour déterminer la position globale envers une contrepartie, il faut additionne
 
 <sup>2</sup> Pour les dérivés non linéaires détenus dans le portefeuille de négociation, le calcul des valeurs des positions tient également compte des risques de crédit des valeurs patrimoniales sous-jacentes (*underlyings*) sur la base d’une dépréciation totale.
 
-<sup>3</sup> Les valeurs des positions des opérations de financement de titres qui sont détenues dans le portefeuille de la banque ou le portefeuille de négociation sont calculées selon l’approche simple ou l’approche globale (art. 62); les approches des modèles ne doivent pas être utilisées. La FINMA édicte les dispositions d’exécution techniques. Elle se fonde à cette fin sur les normes minimales de Bâle relatives aux gros risques (*large exposures*, LEX)[^115-2].
+<sup>3</sup> Les valeurs des positions des opérations de financement de titres qui sont détenues dans le portefeuille de la banque ou le portefeuille de négociation sont calculées selon l’approche simple ou l’approche globale (art. 62); les approches des modèles ne doivent pas être utilisées. La FINMA édicte les dispositions d’exécution techniques. Elle se fonde à cette fin sur les LEX[^115-2].[^115-3]
 
 [^115-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^115-2]: L’annexe 1, ch. 8, dresse la liste des LEX.
+[^115-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 116
 
@@ -3883,7 +3914,7 @@ Annexe 3[^t-5]
 
 ## Classes de position de l’approche AS-BRI sans utilisation des notations externes et des pondérations en fonction des risques
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 nov. 2023 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Mise à jour par le ch. II de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
 <tr><th></th><th>Classes de position</th><th>Pondération en fonction des risques</th></tr>
@@ -3917,8 +3948,8 @@ Annexe 3[^t-5]
 <tr><td>4.</td><td>Positions subordonnées</td><td>150 %</td></tr>
 <tr><td>5.</td><td>Positions en défaut</td><td></td></tr>
 <tr><td>5.1</td><td>Positions selon le ch. 3.1 ajustées des correctifs de valeur</td><td>100 %</td></tr>
-<tr><td>5.2</td><td>Parts des positions non couvertes ou non adossées à des sûretés, ajustées des correctifs de valeur, dans la mesure où ceux-ci représentent au moins 20 % de l’encours</td><td>100 %</td></tr>
-<tr><td>5.3</td><td>Parts des positions non couvertes ou non adossées à des sûretés, ajustées des correctifs de valeur, dans la mesure où ceux-ci représentent moins de 20 % de l’encours</td><td>150 %</td></tr>
+<tr><td>5.2</td><td>Parts des positions non couvertes ou non adossées à des sûretés, ajustées des correctifs de valeur, dans la mesure où ceux-ci représentent au moins 20 % de l’encours; en l’espèce, les positions garanties par des gages immobiliers visées aux ch. 3.2 à 3.4 sont considérées comme non adossées à des sûretés.</td><td>100 %</td></tr>
+<tr><td>5.3</td><td>Parts des positions non couvertes ou non adossées à des sûretés, ajustées des correctifs de valeur, dans la mesure où ceux-ci représentent moins de 20 % de l’encours; en l’espèce, les positions garanties par des gages immobiliers visées aux ch. 3.2 à 3.4 sont considérées comme non adossées à des sûretés.</td><td>150 %</td></tr>
 <tr><td>6.</td><td>Autres positions</td><td></td></tr>
 <tr><td>6.1</td><td>Or détenu dans des coffres-forts propres ou, s’il est détenu en dépôt collectif auprès d’une autre banque, couvert par des engagements en or de la banque en question</td><td>0 %</td></tr>
 <tr><td>6.2</td><td>Solde actif du compte de compensation</td><td>0 %</td></tr>
@@ -3957,7 +3988,7 @@ Annexe 4a[^t-7]
 
 Les fonds propres minimaux pour les contributions au fonds de défaillance d’une banque en tant que membre compensateur d’une contrepartie centrale qualifiée sont calculés à l’aide de la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/fr/xml/image/image1.png)
 
 Dans cette formule, on entend par:
 
@@ -4010,19 +4041,19 @@ Le trait figurant au-dessus de la sous-composante signifie que celle-ci doit êt
 
 - **1.** **Composante intérêts et dividendes (ILDC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/fr/xml/image/image2.png)
 
 - **2.** **Composante services (SC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/fr/xml/image/image3.png)
 
 - **3.** **Composante financière (FC)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/fr/xml/image/image4.png)
 
 - **4.** **Multiplicateur des pertes internes (ILM)**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20250124/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20270101/fr/xml/image/image5.png)
 
 On entend par:
 
@@ -4080,7 +4111,7 @@ Annexe 9[^t-12]
 
 ## Suppléments
 
-[^t-12]: Introduite par le ch. II de l’O du 11 mai 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Mise à jour par le ch. II de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^t-12]: Introduite par le ch. II de l’O du 11 mai 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Mise à jour par le ch. II de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 ### 1 Suppléments liés à la part de marché
 
@@ -4100,16 +4131,16 @@ Pour chaque tranche supplémentaire de cinq points de part de marché, l’exige
 
 ### 2 Suppléments liés à l’engagement total
 
-### 2.1 Pour un engagement total égal ou inférieur à 1341 milliards de francs
+### 2.1 Pour un engagement total égal ou inférieur à 1591 milliards de francs
 
 <table>
-<tr><td>Tranche</td><td>Engagement total</td><td>Supplément *leverage ratio*</td><td>Supplément part RWA</td></tr>
-<tr><td>E1</td><td>&lt; 697 milliards de francs</td><td>0 %</td><td>0 %</td></tr>
-<tr><td>E2</td><td>&lt; 912 milliards de francs</td><td>0,125 %</td><td>0,36 %</td></tr>
-<tr><td>E3</td><td>&lt; 1127 milliards de francs</td><td>0,25 %</td><td>0,72 %</td></tr>
-<tr><td>E4</td><td>&lt; 1341 milliards de francs</td><td>0,375 %</td><td>1,08 %</td></tr>
+<tr><th>Tranche</th><th>Engagement total</th><th>Supplément *leverage ratio*</th><th>Supplément part RWA</th></tr>
+<tr><td>E1</td><td>&lt; 826 milliards de francs</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>E2</td><td>&lt; 1081 milliards de francs</td><td>0,125 %</td><td>0,36 %</td></tr>
+<tr><td>E3</td><td>&lt; 1336 milliards de francs</td><td>0,25 %</td><td>0,72 %</td></tr>
+<tr><td>E4</td><td>≤ 1591 milliards de francs</td><td>0,375 %</td><td>1,08 %</td></tr>
 </table>
 
-### 2.2 Pour un engagement total supérieur à 1341 milliards de francs
+### 2.2 Pour un engagement total supérieur à 1591 milliards de francs
 
-Pour chaque tranche supplémentaire de 215 milliards de francs d’engagement total, l’exigence augmente de 0,125 point pour le *leverage ratio* et de 0,36 point pour la part RWA.
+Pour chaque tranche supplémentaire de 255 milliards de francs d’engagement total, l’exigence augmente de 0,125 point pour le *leverage ratio* et de 0,36 point pour la part RWA.
