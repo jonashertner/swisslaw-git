@@ -4,11 +4,11 @@ title: Eisenbahngesetz vom 20. Dezember 1957 (EBG)
 short: EBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20260101/de"
 
 (EBG)[^t-1]
 
-vom 20. Dezember 1957 (Stand am 1. Januar 2026)
+vom 20. Dezember 1957 (Stand am 1. Januar 2027)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -546,11 +546,13 @@ Der Verwaltungsrat erlässt Ausführungsbestimmungen über:
 
 **Pensionskasse**
 
-<sup>1</sup> Die Geschäftsleitung und das übrige Personal sind bei der Pensionskasse des Bundes (PUBLICA) nach den Artikeln 32*a*–32*m* BPG[^9n-1] versichert.
+<sup>1</sup> Die Geschäftsleitung und das übrige Personal sind bei der Pensionskasse des Bundes (Publica[^9n-1]) nach den Artikeln 32*a*–32*m* BPG[^9n-2] versichert.
 
-<sup>2</sup> Die Trassenvergabestelle ist dem Vorsorgewerk Bund angeschlossen.
+<sup>2</sup> Die Trassenvergabestelle ist dem Vorsorgewerk Bund angeschlossen. Es gilt Artikel 32*d* Absatz 3 BPG.[^9n-3]
 
-[^9n-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9n-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2027 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^9n-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9n-3]: Zweiter Satz eingefügt durch Anhang Ziff. 10 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9o
 
@@ -3121,7 +3123,7 @@ Der Bundesrat legt fest, bis wann der Nachweis, dass ein Teilsystem nach Artikel
 <sup>5</sup> Die Trassenvergabestelle gilt als zuständige Arbeitgeberin für die Rentenbezügerinnen und Rentenbezüger:
 
 - a. die der Stelle, die bisher für die Trassenvergabe zuständig war, zugeordnet sind; und
-- b. deren Alters-, Hinterlassenen- oder Invalidenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten der Änderung vom 28. September 2018 bei PUBLICA zu laufen begonnen haben.
+- b. deren Alters-, Hinterlassenen- oder Invalidenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten der Änderung vom 28. September 2018 bei Publica zu laufen begonnen haben.
 
 [^u6-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^u6-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)

@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 1957 sulle ferrovie (Lferr)
 short: Lferr
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20260101/it"
 
 (Lferr)[^t-1]
 
-del 20 dicembre 1957 (Stato 1° gennaio 2026)
+del 20 dicembre 1957 (Stato 1° gennaio 2027)
 
 [^t-1]: Introdotta dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 809](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -158,8 +158,8 @@ Per il rilascio della concessione il presupposto è inoltre che:
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) è competente per:
 
-- le modifiche della concessione, salvo le estensioni;
-- il rinnovo della concessione.[^6-3]
+- a. le modifiche della concessione, salvo le estensioni;
+- b. il rinnovo della concessione.[^6-3]
 
 [^6-1]: Nuovo testo giusta la cifra II n. 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^6-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
@@ -545,11 +545,13 @@ Il consiglio d’amministrazione emana disposizioni d’esecuzione concernenti:
 
 **Cassa pensioni**
 
-<sup>1</sup> La direzione e il rimanente personale sono assicurati presso la Cassa pensioni della Confederazione (PUBLICA) conformemente agli articoli 32*a*–32*m* LPers[^9n-1].
+<sup>1</sup> La direzione e il rimanente personale sono assicurati presso la Cassa pensioni della Confederazione (Publica[^9n-1]) conformemente agli articoli 32*a*–32*m* LPers[^9n-2].
 
-<sup>2</sup> Il Servizio di assegnazione delle tracce è affiliato alla Cassa di previdenza della Confederazione.
+<sup>2</sup> Il Servizio di assegnazione delle tracce è affiliato alla Cassa di previdenza della Confederazione. Si applica l’articolo 32*d* capoverso 3 LPers.[^9n-3]
 
-[^9n-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9n-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2027. Di detta mod. è tenuto conto in tutto il presente testo.
+[^9n-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9n-3]: Per. introdotto dall’all. n. 10 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9o
 
@@ -1972,7 +1974,7 @@ Sorveglia:
 
 <sup>6</sup> La legge del 6 ottobre 1995[^40ater-3] sui cartelli non è applicabile all’accesso alla rete.
 
-[^40ater-1]: Introdotto dall’all. cifra II n. 3 della L del 25 set. 2015 sul trasporto di merc ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)). Nuovo testo giusta la cifra I n. 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020, il cpv. 1 lett. f in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^40ater-1]: Introdotto dall’all. cifra II n. 3 della L del 25 set. 2015 sul trasporto di merci ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)). Nuovo testo giusta la cifra I n. 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020, il cpv. 1 lett. f in vigore dal 1° gen. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^40ater-2]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 21 mar. 2025 sul trasporto di merci per ferrovia, per idrovia e con impianti a fune, in vigore dal 1° gen. 2026 ([RU 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 [^40ater-3]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 
@@ -3127,7 +3129,7 @@ Il Consiglio federale stabilisce fino a quando la prova che un sottosistema seco
 <sup>5</sup> Il Servizio di assegnazione delle tracce è considerato il datore di lavoro competente per i beneficiari di rendite:
 
 - a. che dipendono dal servizio precedentemente competente per l’assegnazione delle tracce; e
-- b. la cui rendita di vecchiaia, per superstiti o d’invalidità della previdenza professionale versata da PUBLICA ha iniziato a decorrere prima dell’entrata in vigore della modifica del 28 settembre 2018.
+- b. la cui rendita di vecchiaia, per superstiti o d’invalidità della previdenza professionale versata da Publica ha iniziato a decorrere prima dell’entrata in vigore della modifica del 28 settembre 2018.
 
 [^u6-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^u6-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)

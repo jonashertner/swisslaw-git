@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)
 short: LCdF
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20260101/fr"
 
 (LCdF[^t-1])
 
-du 20 décembre 1957 (État le 1<sup>er</sup> janvier 2026)
+du 20 décembre 1957 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 853](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -545,11 +545,13 @@ Le conseil d’administration édicte des dispositions d’exécution concernant
 
 **Caisse de pensions**
 
-<sup>1</sup> Les membres de la direction et le personnel sont assurés auprès de la Caisse fédérale de pensions (PUBLICA) conformément aux art. 32*a* à 32*m* LPers[^9n-1].
+<sup>1</sup> Les membres de la direction et le personnel sont assurés auprès de la Caisse fédérale de pensions (Publica[^9n-1]) conformément aux art. 32*a* à 32*m* LPers[^9n-2].
 
-<sup>2</sup> Le service d’attribution des sillons est affilié à la Caisse de prévoyance de la Confédération.
+<sup>2</sup> Le service d’attribution des sillons est affilié à la Caisse de prévoyance de la Confédération. L’art. 32*d*, al. 3, LPers s’applique.[^9n-3]
 
-[^9n-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9n-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2027 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9n-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^9n-3]: Phrase introduite par l’annexe ch. 10 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9o
 
@@ -3142,7 +3144,7 @@ Le Conseil fédéral fixe la date jusqu’à laquelle une entreprise peut prouve
 <sup>5</sup> Le service d’attribution des sillons est l’employeur compétent pour les bénéficiaires de rentes qui satisfont aux conditions suivantes:
 
 - a. ils sont employés par le service précédemment chargé de l’attribution des sillons;
-- b. le versement par PUBLICA de leurs rentes de vieillesse, de survivants ou d’invalidité provenant de la prévoyance professionnelle a commencé avant l’entrée en vigueur de la modification du 28 septembre 2018.
+- b. le versement par Publica de leurs rentes de vieillesse, de survivants ou d’invalidité provenant de la prévoyance professionnelle a commencé avant l’entrée en vigueur de la modification du 28 septembre 2018.
 
 [^u6-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^u6-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
