@@ -1,0 +1,518 @@
+---
+sr: "412.101.221.09"
+title: Verordnung des SBFI vom 18. September 2026 über die berufliche Grundbildung Tierpflegefachfrau EFZ / Tierpflegefachmann EFZ
+eli: "https://fedlex.data.admin.ch/eli/cc/2026/506"
+language: de
+version: 2027-01-01
+adopted: 2026-09-18
+in_force: 2027-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/506/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2026-506-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/506/20270101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des SBFI über die berufliche Grundbildung Tierpflegefachfrau EFZ / Tierpflegefachmann EFZ
+
+vom 18. September 2026 (Stand am 1. Januar 2027)
+
+<table>
+<tr><td>18124</td><td>Tierpflegefachfrau EFZ / Tierpflegefachmann EFZ Soigneuse animalière CFC / soigneur animalier CFC Guardiana di animali AFC / Guardiano di animali AFC</td></tr>
+<tr><td>18125 18126 18127 18128</td><td colspan="2">Halten von Heimtieren Halten von Wild-, Zoo- und Aquariumtieren Halten von Forschungstieren Pflegen von Gesellschaftstieren</td></tr>
+</table>
+
+Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
+
+gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4*a* Absatz 1 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
+
+verordnet:
+
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
+
+## 1. Abschnitt: Gegenstand, Fachrichtungen und Dauer
+
+#### Art. 1
+
+**Berufsbild und Fachrichtungen**
+
+<sup>1</sup>
+
+Tierpflegefachfrauen und Tierpflegefachmänner mit eidgenössischem Fähigkeitszeugnis (EFZ) beherrschen namentlich die folgenden Tätigkeiten und zeichnen sich durch folgende Kenntnisse, Fähigkeiten und Haltungen aus:
+
+- a. Sie halten, betreuen und pflegen die Tiere ihres Betriebs.
+- b. Sie stellen das Wohlergehen der Tiere ins Zentrum ihrer Tätigkeit und verfügen dafür über ein breites Fachwissen rund um die Tierarten, deren vielfältige Ansprüche und deren Lebensräume.
+- c. Sie beobachten das Verhalten und die Gesundheit der Tiere, analysieren die Situation und ergreifen Massnahmen zum Wohl der Tiere.
+- d. Sie unterhalten Tierlebensräume und Arbeitsplätze sowie deren Infrastruktur und berücksichtigen dabei ökologische und wirtschaftliche Aspekte.
+- e. Sie vermitteln zwischen Tieren mit ihren Ansprüchen und Menschen.
+- f. Sie kommunizieren mit verschiedenen Personengruppen und sind in der Lage, schwierige Gesprächssituationen zu bewältigen.
+- g. Sie sind Teil eines Teams, arbeiten aber hauptsächlich selbstständig.
+- h. Sie halten jederzeit die gesetzlichen Vorschriften zur Tierhaltung ein.
+- i. Sie sind sich der Gefahren im Umgang mit Tieren bewusst und ergreifen entsprechende Schutzmassnahmen für Mensch und Umwelt.
+- j. Sie reagieren angemessen bei tiermedizinischen Notfällen oder anderen aussergewöhnlichen Ereignissen.
+- k. Sie zeichnen sich durch Weitsicht, Beobachtungsfähigkeit, handwerkliches Geschick sowie emotionale und physische Belastbarkeit aus.
+
+<sup>2</sup>
+
+Innerhalb des Berufs der Tierpflegefachfrau und des Tierpflegefachmanns gibt es die folgenden Fachrichtungen:
+
+- a. Halten von Heimtieren;
+- b. Halten von Wild-, Zoo- und Aquariumtieren;
+- c. Halten von Forschungstieren;
+- d. Pflegen von Gesellschaftstieren.
+
+<sup>3</sup> Die Fachrichtung wird vor Beginn der beruflichen Grundbildung im Lehrvertrag festgehalten.
+
+#### Art. 2
+
+**Dauer und Beginn**
+
+<sup>1</sup> Die berufliche Grundbildung dauert drei Jahre.
+
+<sup>2</sup> Der Beginn der beruflichen Grundbildung richtet sich nach dem Schuljahr der zuständigen Berufsfachschule.
+
+## 2. Abschnitt: Ziele und Anforderungen
+
+#### Art. 3
+
+**Grundsätze**
+
+<sup>1</sup> Die Ziele und die Anforderungen der beruflichen Grundbildung werden in Form von Handlungskompetenzen, gruppiert nach Handlungskompetenzbereichen, festgelegt.
+
+<sup>2</sup> Beim Aufbau der Handlungskompetenzen arbeiten alle Lernorte zusammen. Sie koordinieren die Inhalte der Ausbildung und der Qualifikationsverfahren.
+
+#### Art. 4
+
+**Handlungskompetenzen**
+
+<sup>1</sup>
+
+Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachstehenden Handlungskompetenzen:
+
+- a.
+
+  Betreuen der Tiere:
+
+  - 1\. Tierpflegearbeiten organisieren und dokumentieren,
+  - 2\. Tiere in arttypischen Lebensräumen unterbringen,
+  - 3\. Tiere ernähren,
+  - 4\. Tiere züchten,
+  - 5\. Tiere in Gruppen integrieren,
+  - 6\. importierte Tiere aufnehmen und die erforderlichen Formalitäten abwickeln,
+  - 7\. Tiere für den Tierverkehr vorbereiten;
+
+- b.
+
+  Erhalten und Fördern der Tiergesundheit:
+
+  - 1\. Tiere pflegen und beobachten, deren Verhalten interpretieren und aufgrund der Erkenntnisse Massnahmen zum Tierwohl ergreifen,
+  - 2\. Gesundheit der Tiere kontrollieren und aufgrund der Ergebnisse Massnahmen zum Tierwohl ergreifen,
+  - 3\. von der Tierärztin oder vom Tierarzt angeordnete Behandlungen durchführen und die Entwicklung des Gesundheitszustandes dokumentieren,
+  - 4\. Tierfutter, Medikamente, Verbrauchsmaterial und Zusatzprodukte bewirtschaften und bereitstellen,
+  - 5\. bei tiermedizinischen Notfällen erste Hilfe leisten sowie Vorgesetzte und Tierärztin oder Tierarzt alarmieren und informieren,
+  - 6\. bei aussergewöhnlichen Ereignissen und Notfällen Massnahmen gemäss betrieblicher Notfallorganisation einleiten und erste Hilfe leisten;
+
+- c.
+
+  Unterhalten von Tierlebensräumen und Betriebsmitteln:
+
+  - 1\. Tierlebensräume unterhalten, reinigen und desinfizieren,
+  - 2\. Quarantäneanlagen für Tiere einrichten und in Betrieb nehmen,
+  - 3\. betriebliche Räume und Arbeitsplätze für die Tierpflege einrichten und unterhalten,
+  - 4\. technische Einrichtungen für die Tierhaltung überwachen und unterhalten,
+  - 5\. Maschinen und Geräte für die Tierhaltung warten und reparieren,
+  - 6\. Chemikalien und Hilfsmittel zum Unterhalt von Gebäuden, technischen Einrichtungen und Arbeitsmitteln lagern und entsorgen;
+
+- d.
+
+  Halten von Heimtieren:
+
+  - 1\. Heimtiere entgegennehmen und mit den Kundinnen und Kunden die Betreuung vereinbaren,
+  - 2\. Heimtiere gemäss Vereinbarung mit den Kundinnen und Kunden betreuen,
+  - 3\. Findel- und Verzichttiere aufnehmen und behandeln,
+  - 4\. Tiere für die Weitergabe sozialisieren und trainieren,
+  - 5\. zu vermittelnde Tiere und zukünftige Tierhalterinnen und Tierhalter zusammenführen und bis zur Übergabe der Tiere begleiten;
+
+- e.
+
+  Halten von Wild-, Zoo- und Aquariumtieren:
+
+  - 1\. Tierlebensräume arttypisch einrichten,
+  - 2\. die Entwicklung und den Bestand von Wild-, Zoo- und Aquariumtieren kontrollieren und dokumentieren,
+  - 3\. Futtertiere töten und zubereiten,
+  - 4\. Besucherinnen und Besucher von Tierhaltungsstätten zur Haltung von Wild-, Zoo- und Aquariumtieren informieren;
+
+- f.
+
+  Halten von Forschungstieren:
+
+  - 1\. die verschiedenen Hygienestatus der Tierhaltung identifizieren und die Hygienestrategie umsetzen,
+  - 2\. Material und Verbrauchsmaterialien dekontaminieren und sterilisieren,
+  - 3\. Forschungstiere nach Zuchtplan züchten und überwachen,
+  - 4\. Forschungstiere für Versuche vorbereiten und der versuchsdurchführenden Person assistieren,
+  - 5\. Forschungstiere töten;
+
+- g.
+
+  Pflegen von Gesellschaftstieren:
+
+  - 1\. Kundinnen und Kunden betreuen und Dienstleistungen mit ihnen vereinbaren,
+  - 2\. Gesellschaftstiere entgegennehmen, deren Zustand beurteilen und mit dem Kundenauftrag abgleichen,
+  - 3\. Gesellschaftstiere gemäss vereinbartem Kundenauftrag behandeln,
+  - 4\. Kundinnen und Kunden zu Körperpflegearbeiten an Gesellschaftstieren beraten, die Arbeiten vorzeigen und erklären,
+  - 5\. Züchterinnen und Züchter von Gesellschaftstieren im Interesse des Tierwohls zu Zuchtnormen beraten.
+
+<sup>2</sup> Die Handlungskompetenzbereiche nach Absatz 1 Buchstaben a–c sind für alle Lernenden verbindlich.
+
+<sup>3</sup>
+
+Die Handlungskompetenzbereiche nach Absatz 1 Buchstaben d–g sind wie folgt verbindlich:
+
+- a. für die Fachrichtung «Halten von Heimtieren»: Handlungskompetenzbereich nach Absatz 1 Buchstabe d;
+- b. für die Fachrichtung «Halten von Wild-, Zoo- und Aquariumtieren»: Handlungskompetenzbereich nach Absatz 1 Buchstabe e;
+- c. für die Fachrichtung «Halten von Forschungstieren»: Handlungskompetenzbereich nach Absatz 1 Buchstabe f;
+- d. für die Fachrichtung «Pflegen von Gesellschaftstieren»: Handlungskompetenzbereich nach Absatz 1 Buchstabe g.
+
+## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und nachhaltige Entwicklung
+
+#### Art. 5
+
+<sup>1</sup> Die Anbieter der Bildung geben den Lernenden zu Beginn und während der Bildung Vorschriften und Empfehlungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz, insbesondere zur Gefahren- und Sicherheitskommunikation in diesen drei Bereichen, ab und erklären sie ihnen.
+
+<sup>2</sup> Diese Vorschriften und Empfehlungen werden an allen Lernorten vermittelt und in den Qualifikationsverfahren berücksichtigt.
+
+<sup>3</sup> Die berufsspezifischen Aspekte für eine nachhaltige Entwicklung werden an allen Lernorten vermittelt.
+
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1 ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die in Anhang 2 zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+
+<sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+
+## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
+
+#### Art. 6
+
+**Bildung in beruflicher Praxis**
+
+Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der beruflichen Grundbildung im Durchschnitt vier Tage pro Woche.
+
+#### Art. 7
+
+**Berufsfachschule**
+
+<sup>1</sup> Der obligatorische Unterricht an der Berufsfachschule umfasst 1080 Lektionen. Diese teilen sich gemäss nachfolgender Tabelle auf:
+
+<table>
+<tr><th>Unterricht</th><th>1. Lehrjahr</th><th>2. Lehrjahr</th><th>3. Lehrjahr</th><th>Total</th></tr>
+<tr><td>a. Berufskenntnisse</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Betreuen der Tiere</td><td>80</td><td>80</td><td>60</td><td>220</td></tr>
+<tr><td>– Erhalten und Fördern der Tiergesundheit; Unterhalten von Tierlebensräumen und Betriebsmitteln</td><td>120</td><td>120</td><td>20</td><td>260</td></tr>
+<tr><td>– fachrichtungsspezifische Berufskenntnisse</td><td>0</td><td>0</td><td>120</td><td>120</td></tr>
+<tr><td>Total Berufskenntnisse</td><td>**200**</td><td>**200**</td><td>**200**</td><td>**600**</td></tr>
+<tr><td>b. Allgemeinbildung</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
+<tr><td>c. Sport</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
+<tr><td>Total Lektionen</td><td>**360**</td><td>**360**</td><td>**360**</td><td>**1080**</td></tr>
+</table>
+
+<sup>2</sup> Bei der Anzahl Lektionen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
+
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+
+<sup>4</sup> Unterrichtssprache ist die Landessprache des Schulorts in ihrer Standardform. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
+
+<sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
+
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+
+#### Art. 8
+
+**Überbetriebliche Kurse**
+
+<sup>1</sup> Die überbetrieblichen Kurse umfassen je nach Fachrichtung 17–19 Tage zu 8 Stunden.
+
+<sup>2</sup> Die Tage und die Inhalte sind wie folgt auf 4 Kurse aufgeteilt:
+
+<table>
+<tr><th></th><th colspan="2"></th><th></th><th colspan="4">Fachrichtung</th></tr>
+<tr><th></th><th colspan="2"></th><th></th><th>Halten von Heimtieren</th><th>Halten von Wild-, Zoo- und Aquariumtieren</th><th>Halten von Forschungstieren</th><th>Pflegen von Gesellschaftstieren</th></tr>
+<tr><th>Lehrjahr</th><th colspan="2">Kurse</th><th>Handlungskompetenzbereiche</th><th>Anzahl Tage</th><th>Anzahl Tage</th><th>Anzahl Tage</th><th>Anzahl Tage</th></tr>
+<tr><td>1</td><td colspan="2">1</td><td>Betreuen der Tiere Erhalten und Fördern der Tiergesundheit Unterhalten von Tierlebensräumen und Betriebsmitteln</td><td>6</td><td>6</td><td>6</td><td>6</td></tr>
+<tr><td>2</td><td colspan="2">2</td><td>Betreuen der Tiere Erhalten und Fördern der Tiergesundheit</td><td>7</td><td>7</td><td>7</td><td>7</td></tr>
+<tr><td>3</td><td colspan="2">3</td><td>Erhalten und Fördern der Tiergesundheit Unterhalten von Tierlebensräumen und Betriebsmitteln</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>3</td><td colspan="2">4a</td><td>Halten von Heimtieren</td><td>3</td><td></td><td></td><td></td></tr>
+<tr><td>3</td><td colspan="2">4b</td><td>Halten von Wild-, Zoo- und Aquariumtieren</td><td></td><td>4</td><td></td><td></td></tr>
+<tr><td>3</td><td colspan="2">4c</td><td>Halten von Forschungstieren</td><td></td><td></td><td>5</td><td></td></tr>
+<tr><td>3</td><td colspan="2">4d</td><td>Pflegen von Gesellschaftstieren</td><td></td><td></td><td></td><td>4</td></tr>
+<tr><td colspan="2">Total Tage</td><td colspan="2"></td><td>17</td><td>18</td><td>19</td><td>18</td></tr>
+</table>
+
+<sup>3</sup> Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden.
+
+## 5. Abschnitt: Bildungsplan
+
+#### Art. 9
+
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan[^9-1] der zuständigen Organisation der Arbeitswelt vor.
+
+<sup>2</sup>
+
+Der Bildungsplan hat folgenden Inhalt:
+
+- a.
+
+  Er enthält das Qualifikationsprofil; dieses besteht aus:
+
+  - 1\. dem Berufsbild,
+  - 2\. der Übersicht über die Handlungskompetenzbereiche und die Handlungskompetenzen,
+  - 3\. dem Anforderungsniveau des Berufs.
+
+- b. Er führt die Inhalte der Grundbildung sowie die Bestimmungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz aus.
+- c. Er bestimmt, an welchen Lernorten welche Handlungskompetenzen vermittelt und gelernt werden.
+
+<sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung von deren Qualität mit Angabe der Bezugsquelle.
+
+[^9-1]: Der Bildungsplan vom 18. September 2026 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe A–Z.
+
+## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+#### Art. 10
+
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**
+
+Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+
+- a. Tierpflegefachfrau oder Tierpflegefachmann EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- b. Tierpflegerin oder Tierpfleger EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Tierpflegefachfrau und des Tierpflegefachmanns und mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- d. einschlägiger Hochschulabschluss mit mindestens zwei Jahren beruflicher Praxis im Lehrgebiet.
+
+#### Art. 11
+
+**Höchstzahl der Lernenden**
+
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 80 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
+
+<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 80 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
+
+<sup>3</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis oder über eine gleichwertige Qualifikation verfügt.
+
+<sup>4</sup> In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt.
+
+<sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
+
+<sup>6</sup> Der Betrieb organisiert die Arbeitszeit der Berufsbildnerinnen oder Berufsbildner und Fachkräfte so, dass die Lernenden während der beruflichen Praxis von einer Berufsbildnerin oder einem Berufsbildner oder von einer Fachkraft beaufsichtigt sind.
+
+## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentation
+
+#### Art. 12
+
+**Lerndokumentation**
+
+<sup>1</sup> Die lernende Person führt während der Bildung in beruflicher Praxis eine Lerndokumentation, in der sie laufend alle wesentlichen Arbeiten im Zusammenhang mit den zu erwerbenden Handlungskompetenzen festhält.
+
+<sup>2</sup> Mindestens einmal pro Semester kontrolliert und unterzeichnet die Berufsbildnerin oder der Berufsbildner die Lerndokumentation und bespricht sie mit der lernenden Person.
+
+#### Art. 13
+
+**Bildungsbericht**
+
+<sup>1</sup> Die Berufsbildnerin oder der Berufsbildner hält am Ende jedes Semesters den Bildungsstand der lernenden Person in einem Bildungsbericht fest. Sie oder er stützt sich dabei auf die Leistungen in der beruflichen Praxis und auf Rückmeldungen über die Leistungen in der Berufsfachschule und in den überbetrieblichen Kursen. Sie oder er bespricht den Bildungsbericht mit der lernenden Person.
+
+<sup>2</sup> Die Berufsbildnerin oder der Berufsbildner und die lernende Person vereinbaren wenn nötig Massnahmen zum Erreichen der Bildungsziele und setzen dafür Fristen. Sie halten die getroffenen Entscheide und vereinbarten Massnahmen schriftlich fest.
+
+<sup>3</sup> Die Berufsbildnerin oder der Berufsbildner überprüft die Wirkung der vereinbarten Massnahmen nach der gesetzten Frist und hält den Befund im nächsten Bildungsbericht fest.
+
+<sup>4</sup> Werden trotz der vereinbarten Massnahmen die Ziele nicht erreicht oder ist der Ausbildungserfolg gefährdet, so teilt die Berufsbildnerin oder der Berufsbildner dies den Vertragsparteien und der kantonalen Behörde schriftlich mit.
+
+#### Art. 14
+
+**Leistungsdokumentation in der Berufsfachschule**
+
+Die Berufsfachschule dokumentiert die Leistungen der lernenden Person in den unterrichteten Handlungskompetenzbereichen und in der Allgemeinbildung und stellt ihr am Ende jedes Semesters ein Zeugnis aus.
+
+## 8. Abschnitt: Qualifikationsverfahren
+
+#### Art. 15
+
+**Zulassung**
+
+<sup>1</sup>
+
+Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung absolviert hat:
+
+- a. nach den Bestimmungen dieser Verordnung;
+- b. in einer vom Kanton dafür anerkannten Bildungsinstitution; oder
+- c.
+
+  ausserhalb eines geregelten Bildungsgangs, sofern die betreffende Person die folgenden Voraussetzungen erfüllt:
+
+  - 1\. Sie hat die nach Artikel 32 BBV erforderliche Erfahrung erworben.
+  - 2\. Sie hat von dieser beruflichen Erfahrung mindestens drei Jahre Erfahrung im Bereich der Tierpflegefachfrau und des Tierpflegefachmanns erworben.
+  - 3\. Sie macht glaubhaft, den Anforderungen des Qualifikationsverfahrens gewachsen zu sein.
+
+<sup>2</sup> Für die Zulassung zum Qualifikationsverfahren in der Fachrichtung «Halten von Forschungstieren» muss die Kandidatin oder der Kandidat zusätzlich den Ausbildungsnachweis für eine nach Artikel 192 Absatz 1 Buchstabe b der Tierschutzverordnung vom 23. April 2008[^15-1] vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen anerkannte fachspezifische berufsunabhängige Ausbildung für Versuchsdurchführende erworben haben.
+
+[^15-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+
+#### Art. 16
+
+**Gegenstand**
+
+In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen nach Artikel 4 erworben wurden.
+
+#### Art. 17
+
+**Umfang und Durchführung des Qualifikationsverfahrens mit Abschlussprüfung**
+
+<sup>1</sup>
+
+Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen in den nachstehenden Qualifikationsbereichen wie folgt geprüft:
+
+- a.
+
+  praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 6 Stunden; dafür gilt Folgendes:
+
+  - 1\. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft.
+  - 2\. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen.
+  - 3\. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
+  - 4\. Der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche sowie das Fachgespräch im Umfang von 40 Minuten mit den nachstehenden Gewichtungen:
+
+<table>
+<tr><th>Position</th><th>Handlungskompetenzbereiche</th><th>Gewichtung</th></tr>
+<tr><td>1</td><td>Betreuen der Tiere Erhalten und Fördern der Tiergesundheit Unterhalten von Tierlebensräumen und Betriebsmitteln</td><td>40 %</td></tr>
+<tr><td>2</td><td>fachrichtungsspezifischer Handlungskompetenzbereich</td><td>40 %</td></tr>
+<tr><td>3</td><td>Fachgespräch</td><td>20 %</td></tr>
+</table>
+
+- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^17-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+
+<sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+
+#### Art. 18
+
+**Bestehen, Notenberechnung, Notengewichtung**
+
+<sup>1</sup>
+
+Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
+
+- a. der Qualifikationsbereich «praktische Arbeit» mindestens mit der Note 4 bewertet wird; und
+- b. die Gesamtnote mindestens 4 beträgt.
+
+<sup>2</sup>
+
+Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der gewichteten Noten der einzelnen Qualifikationsbereiche der Abschlussprüfung und der gewichteten Erfahrungsnote; dabei gilt folgende Gewichtung:
+
+- a. praktische Arbeit: 50 %;
+- b. Allgemeinbildung: 20 %;
+- c. Erfahrungsnote: 30 %.
+
+<sup>3</sup> Die Erfahrungsnote ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der sechs Semesterzeugnisnoten für den Unterricht in den Berufskenntnissen.
+
+<sup>4</sup>
+
+Erfolgte die Zulassung zum Qualifikationsverfahren mit Abschlussprüfung gestützt auf Artikel 15 Buchstabe c in Verbindung mit Artikel 32 BBV, so entfällt die Erfahrungsnote; in diesem Fall werden für die Berechnung der Gesamtnote die einzelnen Noten wie folgt gewichtet:
+
+- a. praktische Arbeit: 80 %;
+- b. Allgemeinbildung: 20%.
+
+#### Art. 19
+
+**Wiederholung**
+
+<sup>1</sup> Die Wiederholung des Qualifikationsverfahrens richtet sich nach Artikel 33 BBV.
+
+<sup>2</sup> Muss ein Qualifikationsbereich wiederholt werden, so ist er in seiner Gesamtheit zu wiederholen.
+
+<sup>3</sup> Wird die Abschlussprüfung ohne erneuten Besuch des Unterrichts in den Berufskenntnissen wiederholt, so wird die bisherige Erfahrungsnote beibehalten. Wird der Unterricht in den Berufskenntnissen während mindestens zwei Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+
+## 9. Abschnitt: Ausweise und Titel
+
+#### Art. 20
+
+<sup>1</sup> Wer ein Qualifikationsverfahren erfolgreich durchlaufen hat, erhält das eidgenössische Fähigkeitszeugnis (EFZ).
+
+<sup>2</sup> Das Fähigkeitszeugnis berechtigt, den gesetzlich geschützten Titel «Tierpflegefachfrau EFZ» oder «Tierpflegefachmann EFZ» zu führen.
+
+<sup>3</sup>
+
+Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so werden im Notenausweis aufgeführt:
+
+- a. die Gesamtnote;
+- b. die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie, unter dem Vorbehalt von Artikel 18 Absatz 4, die Erfahrungsnote;
+- c. die Fachrichtung.
+
+## 10. Abschnitt: Qualitätsentwicklung und Organisation
+
+#### Art. 21
+
+**Schweizerische Kommission für Berufsentwicklung und Qualität für Tierpflegefachfrau EFZ und Tierpflegefachmann EFZ**
+
+<sup>1</sup>
+
+Die Schweizerische Kommission für Berufsentwicklung und Qualität fürTierpflegefachfrau EFZ und Tierpflegefachmann EFZ setzt sich zusammen aus:
+
+- a. fünf bis neun Vertreterinnen und Vertretern des Schweizerischen Verbandes für Bildung in Tierpflege (SVBT);
+- b. ein oder zwei Vertreterinnen und Vertretern der Berufsfachschulen;
+- c. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
+
+<sup>2</sup>
+
+Für die Zusammensetzung gilt überdies:
+
+- a. Eine paritätische Vertretung beider Geschlechter ist anzustreben.
+- b. Die Sprachregionen müssen angemessen vertreten sein.
+- c. Alle Fachrichtungen müssen vertreten sein.
+
+<sup>3</sup> Die Kommission konstituiert sich selbst.
+
+<sup>4</sup>
+
+Sie hat insbesondere folgende Aufgaben:
+
+- a. Sie überprüft diese Verordnung und den Bildungsplan mindestens alle fünf Jahre auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen; dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
+- b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen.
+- c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans.
+- d. Sie nimmt Stellung zu den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung von deren Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
+
+#### Art. 22
+
+**Trägerschaft und Organisation der überbetrieblichen Kurse**
+
+<sup>1</sup> Träger für die überbetrieblichen Kurse ist der SVBT.
+
+<sup>2</sup> Die Kantone können die Durchführung der überbetrieblichen Kurse unter Mitwirkung der zuständigen Organisationen der Arbeitswelt einer anderen Trägerschaft übertragen, namentlich wenn die Qualität oder die Durchführung der überbetrieblichen Kurse nicht mehr gewährleistet ist.
+
+<sup>3</sup> Sie regeln mit der Trägerschaft die Organisation und die Durchführung der überbetrieblichen Kurse.
+
+<sup>4</sup> Die zuständigen Behörden der Kantone haben jederzeit Zutritt zu den Kursen.
+
+## 11. Abschnitt: Schlussbestimmungen
+
+#### Art. 23
+
+**Aufhebung eines anderen Erlasses**
+
+Die Verordnung des SBFI vom 8. Juli 2009[^23-1] über die berufliche Grundbildung Tierpflegerin/Tierpfleger mit eidgenössischem Fähigkeitszeugnis (EFZ) wird aufgehoben.
+
+[^23-1]: [[AS 2009 4717](https://fedlex.data.admin.ch/eli/oc/2009/550); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 78 und II 78; [2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156); [2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)]
+
+#### Art. 24
+
+**Übergangsbestimmungen und erstmalige Anwendung einzelner Bestimmungen**
+
+<sup>1</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 15–20) kommen ab dem 1. Januar 2030 zur Anwendung.
+
+<sup>2</sup> Lernende, die ihre Ausbildung als Tierpflegerin oder Tierpfleger EFZ vor dem Inkrafttreten dieser Verordnung begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
+
+<sup>3</sup> Lernende, die nach dem Inkrafttreten dieser Verordnung eine verkürzte Ausbildung beginnen, die vor der erstmaligen Anwendung der Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Abs. 1) endet, absolvieren sie nach bisherigem Recht und schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
+
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Tierpflegerin oder Tierpfleger EFZ gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2031 wiederholen, werden nach bisherigem Recht beurteilt.
+
+#### Art. 25
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2027 in Kraft.
