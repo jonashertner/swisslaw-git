@@ -4,11 +4,11 @@ title: "Ordinanza del 26 maggio 1961 concernente l'assicurazione facoltativa per
 short: OAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20250101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/it"
 
 (OAF)[^t-1]
 
-del 26 maggio 1961 (Stato 1° gennaio 2025)
+del 26 maggio 1961 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo del tit. giusta la cifra I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -27,9 +27,9 @@ visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^ingress-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^ingress-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^ingress-4]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3716](https://fedlex.data.admin.ch/eli/oc/2002/571)).
 
 ## A. Disposizioni generali
@@ -90,7 +90,7 @@ Gli assicurati sono tenuti a fornire alla rappresentanza svizzera, alla Cassa di
 
 <sup>1</sup> Possono partecipare all’assicurazione facoltativa le persone che adempiono le condizioni di cui all’articolo 2 capoverso 1 LAVS, comprese le persone che sono assoggettate all’assicurazione obbligatoria per una parte del loro reddito.
 
-<sup>2</sup> ...[^7-2]
+<sup>2</sup> …[^7-2]
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2000, in vigore dal 1° apr. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^7-2]: Introdotto dalla cifra I dell’O del 7 apr. 2004 ([RU 2004 2027](https://fedlex.data.admin.ch/eli/oc/2004/230)). Abrogato dalla cifra II n. 1 dell’O del 2 nov. 2005, con effetto dal 1° apr. 2006 ([RU 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
@@ -193,19 +193,19 @@ Sono reputati aver pagato contributi propri, a condizione che il coniuge abbia v
 
 **Aliquota di contribuzione per l’AVS/AI**[^13b-1]
 
-<sup>1</sup> I contributi degli assicurati che esercitano un’attività lucrativa ammontano al 10,1 per cento del reddito determinante. Gli assicurati devono versare almeno il contributo minimo di 1010 franchi annui.
+<sup>1</sup> I contributi degli assicurati che esercitano un’attività lucrativa ammontano al 10,1 per cento del reddito determinante. Gli assicurati devono versare almeno il contributo minimo di 1030 franchi annui.
 
-<sup>2</sup> Gli assicurati che non esercitano un’attività lucrativa pagano un contributo, compreso tra 1010 e 25 250 franchi annui, sulla base della loro sostanza e del reddito conseguito in forma di rendita. Il contributo è calcolato come segue:
+<sup>2</sup> Gli assicurati che non esercitano un’attività lucrativa pagano un contributo, compreso tra 1030 e 25 750 franchi annui, sulla base della loro sostanza e del reddito conseguito in forma di rendita. Il contributo è calcolato come segue:
 
 <table>
-<tr><th colspan="2">Sostanza o reddito annuo conseguito in forma di rendita moltiplicato per 20 Franchi</th><th></th><th>Contributo annuo (AVS + AI) Franchi</th><th>Supplemento per ogni 50 000 franchi ulteriori di sostanza o di reddito conseguito in forma di rendita moltiplicato per 20 Franchi</th></tr>
-<tr><td>fino a</td><td colspan="2">600 000</td><td>1010</td><td>–</td></tr>
-<tr><td>a partire da</td><td colspan="2">600 000</td><td>1111</td><td>101</td></tr>
-<tr><td>a partire da</td><td colspan="2">1 750 000</td><td>3434</td><td>151.50</td></tr>
-<tr><td>a partire da</td><td colspan="2">8 950 000</td><td>25 250</td><td>–</td></tr>
+<tr><th colspan="2">Sostanza o reddito annuo conseguito in forma di rendita moltiplicato per 20 Franchi</th><th>Contributo annuo (AVS + AI) Franchi</th><th>Supplemento per ogni 50 000 franchi ulteriori di sostanza o di reddito conseguito in forma di rendita moltiplicato per 20 Franchi</th></tr>
+<tr><td>fino a</td><td>610 000</td><td>1030</td><td>–</td></tr>
+<tr><td>a partire da</td><td>610 000</td><td>1131.20</td><td>101</td></tr>
+<tr><td>a partire da</td><td>1 760 000</td><td>3454.20</td><td>151.50</td></tr>
+<tr><td>a partire da</td><td>9 160 000</td><td>25 750</td><td>–</td></tr>
 </table>
 
-[^13b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2000 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 464](https://fedlex.data.admin.ch/eli/oc/2024/464)).
+[^13b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2000 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 543](https://fedlex.data.admin.ch/eli/oc/2026/543)).
 
 #### Art. 14
 
@@ -218,7 +218,7 @@ Sono reputati aver pagato contributi propri, a condizione che il coniuge abbia v
 <sup>3</sup> Per la conversione del reddito e della sostanza in franchi svizzeri si applica il corso annuo medio dell’anno contributivo definito al capoverso 1. Il corso è stabilito dalla Cassa di compensazione.
 
 [^14-1]: Nuovo testo giusta la cifra I dell’O del 16 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
-[^14-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^14-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 14a
 
@@ -230,7 +230,7 @@ Durante l’anno contributivo gli assicurati possono versare periodicamente acco
 
 #### Art. 14b
 
-**Fissazione dei contributi(S (Stato 1° gennaio 2025), compensazione e t a ermine di pagamento**[^14b-1]
+**Fissazione dei contributi(S (Stato 1° gennaio 2027), compensazione e t a ermine di pagamento**[^14b-1]
 
 <sup>1</sup> Gli assicurati devono fornire alla Cassa di compensazione i dati necessari alla fissazione dei contributi entro il 31 marzo dell’anno successivo all’anno contributivo.[^14b-2]
 
@@ -272,7 +272,7 @@ Durante l’anno contributivo gli assicurati possono versare periodicamente acco
 
 <sup>3</sup> Se il loro trasferimento in Svizzera non è possibile, il termine per il loro pagamento è considerato prorogato fino al momento in cui potranno essere trasferiti. È riservata la compensazione dei contributi, soggetti a moratoria ma non prescritti, con rendite scadute al verificarsi dell’evento assicurato.[^16-3]
 
-<sup>4</sup> ...[^16-4]
+<sup>4</sup> …[^16-4]
 
 [^16-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1878](https://fedlex.data.admin.ch/eli/oc/1975/1878_1878_1878)).
 [^16-2]: Nuovo testo giusta la cifra I dell’O del 16 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)). Vedi tuttavia le disp. fin di detta mod. alla fine del presente testo.
@@ -308,7 +308,7 @@ Durante l’anno contributivo gli assicurati possono versare periodicamente acco
 <sup>2</sup> Il contributo alle spese di amministrazione è prelevato contemporaneamente ai contributi.
 
 [^18a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
-[^18a-2]: [[RU 1972 2290](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [RU 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)art. 2]. Vedi ora: l’O del DFI del 19 ott. 2011 ([RS 831.143.41](https://fedlex.data.admin.ch/eli/cc/2011/675)).
+[^18a-2]: [[RU 1972 2290](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [RU 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)art. 2]. Vedi ora: l’O del DFI del 19 ott. 2011 ([RS 831.143.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10033)).
 
 ## E. Rendite e indennità giornaliere
 
@@ -346,7 +346,7 @@ Le rendite e le indennità giornaliere spettanti agli aventi diritto all’ester
 [^21-1]: Nuovo testo giusta la cifra I dell’O del 17 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 922](https://fedlex.data.admin.ch/eli/oc/1985/922_922_922)).
 [^21-2]: Nuovo testo giusta la cifra I dell’O del 16 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)). Vedi tuttavia le disp. fin di detta mod. alla fine del presente testo.
 
-## F. ...
+## F. …
 
 #### Art. 22
 
@@ -354,9 +354,9 @@ Le rendite e le indennità giornaliere spettanti agli aventi diritto all’ester
 
 [^22-1]: Abrogato dalla cifra I dell’O del 18 ott. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
-## G. ...
+## G. …
 
-#### Art. 23 e 24
+#### Art. 23–24
 
 [^2324-1]
 
@@ -371,8 +371,8 @@ Le rendite e le indennità giornaliere spettanti agli aventi diritto all’ester
 Per quanto la presente ordinanza non vi deroghi, sono applicabili le disposizioni dell’ordinanza del 31 ottobre 1947[^25-2] sull’assicurazione per la vecchiaia e per i superstiti e dell’ordinanza del 17 gennaio 1961[^25-3] sull’assicurazione per l’invalidità (OAI).
 
 [^25-1]: Nuovo testo giusta il n. 1 dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1878](https://fedlex.data.admin.ch/eli/oc/1975/1878_1878_1878)).
-[^25-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^25-3]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^25-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^25-3]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 #### Art. 26
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Mai 1961 über die freiwillige Alters-, Hinterlassene
 short: VFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20250101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/de"
 
 (VFV)[^t-1]
 
-vom 26. Mai 1961 (Stand am 1. Januar 2025)
+vom 26. Mai 1961 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -27,9 +27,9 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^ingress-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^ingress-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002. in Kraft seit 1. Jan. 2003 ([AS 2002 3716](https://fedlex.data.admin.ch/eli/oc/2002/571)).
 
 ## A. Allgemeine Bestimmungen
@@ -193,19 +193,19 @@ Die eigenen Beiträge gelten als bezahlt, sofern der Ehegatte Beiträge von mind
 
 **Beitragssatz für die AHV/IV**[^13b-1]
 
-<sup>1</sup> Die Beiträge der erwerbstätigen Versicherten belaufen sich auf 10,1 Prozent des massgebenden Einkommens. Die Versicherten müssen mindestens den Mindestbetrag von 1010 Franken im Jahr entrichten.
+<sup>1</sup> Die Beiträge der erwerbstätigen Versicherten belaufen sich auf 10,1 Prozent des massgebenden Einkommens. Die Versicherten müssen mindestens den Mindestbetrag von 1030 Franken im Jahr entrichten.
 
-<sup>2</sup> Nichterwerbstätige Versicherte bezahlen auf der Grundlage ihres Vermögens und ihres Renteneinkommens einen Beitrag zwischen 1010 und 25 250 Franken im Jahr. Der Beitrag berechnet sich wie folgt:
+<sup>2</sup> Nichterwerbstätige Versicherte bezahlen auf der Grundlage ihres Vermögens und ihres Renteneinkommens einen Beitrag zwischen 1030 und 25 750 Franken im Jahr. Der Beitrag berechnet sich wie folgt:
 
 <table>
-<tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th><th></th><th>Jahresbeitrag (AHV + IV) Franken</th><th>Zuschlag für jede weitere Stufe von 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th></tr>
-<tr><td>bis</td><td colspan="2">600 000</td><td>1 010</td><td>–</td></tr>
-<tr><td>ab</td><td colspan="2">600 000</td><td>1 111</td><td>101</td></tr>
-<tr><td>ab</td><td colspan="2">1 750 000</td><td>3 434</td><td>151.50</td></tr>
-<tr><td>ab</td><td colspan="2">8 950 000</td><td>25 250</td><td>–</td></tr>
+<tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th><th>Jahresbeitrag (AHV + IV) Franken</th><th>Zuschlag für jede weitere Stufe von 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th></tr>
+<tr><td>bis</td><td>610 000</td><td>1030</td><td>–</td></tr>
+<tr><td>ab</td><td>610 000</td><td>1131.20</td><td>101</td></tr>
+<tr><td>ab</td><td>1 760 000</td><td>3454.20</td><td>151.50</td></tr>
+<tr><td>ab</td><td>9 160 000</td><td>25 750</td><td>–</td></tr>
 </table>
 
-[^13b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 464](https://fedlex.data.admin.ch/eli/oc/2024/464)).
+[^13b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 543](https://fedlex.data.admin.ch/eli/oc/2026/543)).
 
 #### Art. 14
 
@@ -218,7 +218,7 @@ Die eigenen Beiträge gelten als bezahlt, sofern der Ehegatte Beiträge von mind
 <sup>3</sup> Für die Umrechnung des Einkommens und des Vermögens in Schweizer Franken gilt der Jahresmittelkurs des in Absatz 1 umschriebenen Beitragsjahres. Der Kurs wird von der Ausgleichskasse festgesetzt.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 16. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
-[^14-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^14-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 14a
 
@@ -308,7 +308,7 @@ Während des Beitragsjahres können die Versicherten periodisch Akontozahlungen 
 <sup>2</sup> Der Verwaltungskostenbeitrag ist gleichzeitig mit den Beiträgen zu erheben.
 
 [^18a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
-[^18a-2]: [[AS 1972 2460](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [AS 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)Art. 2]. Siehe heute: die V des EDI vom 19. Okt. 2011 ([SR 831.143.41](https://fedlex.data.admin.ch/eli/cc/2011/675)).
+[^18a-2]: [[AS 1972 2460](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [AS 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)Art. 2]. Siehe heute: die V des EDI vom 19. Okt. 2011 ([SR 831.143.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10033)).
 
 ## E. Renten und Taggelder
 
@@ -371,8 +371,8 @@ Renten und Taggelder an Berechtigte im Ausland werden direkt durch die Ausgleich
 Soweit diese Verordnung keine abweichenden Bestimmungen enthält, finden die einschlägigen Bestimmungen der Verordnung vom 31. Oktober 1947[^25-2] über die Alters- und Hinterlassenenversicherung (AHVV) und der Verordnung vom 17. Januar 1961[^25-3] über die Invalidenversicherung (IVV) Anwendung.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1975 1878](https://fedlex.data.admin.ch/eli/oc/1975/1878_1878_1878)).
-[^25-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^25-3]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^25-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^25-3]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 #### Art. 26
 

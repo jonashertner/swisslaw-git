@@ -4,11 +4,11 @@ title: "Ordonnance du 26 mai 1961 concernant l'assurance-vieillesse, survivants 
 short: OAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20250101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20250101/fr"
 
 (OAF)[^t-1]
 
-du 26 mai 1961 (État le 1<sup>er</sup> janvier 2025)
+du 26 mai 1961 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -27,9 +27,9 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^ingress-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^ingress-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3716](https://fedlex.data.admin.ch/eli/oc/2002/571)).
 
 ## A. Dispositions générales
@@ -201,19 +201,19 @@ Sont réputés avoir payé eux-mêmes des cotisations, pour autant que leur conj
 
 **Taux de cotisation AVS/AI**[^13b-1]
 
-<sup>1</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 10,1 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimum de 1010 francs par an.
+<sup>1</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 10,1 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimum de 1030 francs par an.
 
-<sup>2</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation comprise entre 1010 francs et 25 250 francs par an, déterminée sur la base de leur fortune et du revenu acquis sous forme de rente. La cotisation se calcule comme suit:
+<sup>2</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation comprise entre 1030 francs et 25 750 francs par an, déterminée sur la base de leur fortune et du revenu acquis sous forme de rente. La cotisation se calcule comme suit:
 
 <table>
-<tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</th><th></th><th>Cotisation annuelle (AVS + AI) fr.</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</th></tr>
-<tr><td>moins de</td><td colspan="2">600 000</td><td>1 010</td><td>–</td></tr>
-<tr><td>dès</td><td colspan="2">600 000</td><td>1 111</td><td>101</td></tr>
-<tr><td>dès</td><td colspan="2">1 750 000</td><td>3 434</td><td>151.50</td></tr>
-<tr><td>dès</td><td colspan="2">8 950 000</td><td>25 250</td><td>–</td></tr>
+<tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</th><th>Cotisation annuelle (AVS + AI) fr.</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</th></tr>
+<tr><td>moins de</td><td>610 000</td><td>1030</td><td>–</td></tr>
+<tr><td>dès</td><td>610 000</td><td>1131.20</td><td>101</td></tr>
+<tr><td>dès</td><td>1 760 000</td><td>3454.20</td><td>151.50</td></tr>
+<tr><td>dès</td><td>9 160 000</td><td>25 750</td><td>–</td></tr>
 </table>
 
-[^13b-1]: Introduit par le ch. I de l’O du 18 oct. 2000 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 464](https://fedlex.data.admin.ch/eli/oc/2024/464)).
+[^13b-1]: Introduit par le ch. I de l’O du 18 oct. 2000 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 543](https://fedlex.data.admin.ch/eli/oc/2026/543)).
 
 #### Art. 14
 
@@ -226,7 +226,7 @@ Sont réputés avoir payé eux-mêmes des cotisations, pour autant que leur conj
 <sup>3</sup> Le montant du revenu ou de la fortune est converti en francs suisses au cours annuel moyen de l’année de cotisation définie à l’al. 1. Le cours est fixé par la caisse de compensation.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 16 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
-[^14-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^14-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 14a
 
@@ -317,7 +317,7 @@ Les assurés peuvent payer périodiquement des acomptes pendant l’année de co
 <sup>2</sup> La contribution est perçue en même temps que les cotisations.
 
 [^18a-1]: Introduit par le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
-[^18a-2]: [[RO 1972 2513](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [RO 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)art. 2]. Voir actuellement l’O du DFI du 19 oct. 2011 ([RS 831.143.41](https://fedlex.data.admin.ch/eli/cc/2011/675)).
+[^18a-2]: [[RO 1972 2513](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [RO 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)art. 2]. Voir actuellement l’O du DFI du 19 oct. 2011 ([RS 831.143.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10033)).
 
 ## E. Rentes et indemnités journalières
 
@@ -329,11 +329,11 @@ Les assurés peuvent payer périodiquement des acomptes pendant l’année de co
 
 **Calcul et fixation**
 
-<sup>1</sup> Les rentes indemnités journalières et fixées en francs suisses par la caisse de compensation.[^19-1]
+<sup>1</sup> Les rentes et les indemnités journalières sont calculées et fixées en francs suisses par la caisse de compensation.[^19-1]
 
 <sup>2</sup> Les cotisations qui, au moment de la réalisation du risque assuré, sont considérées comme cotisations dont le paiement est réputé sursis selon l’art. 16, al. 3, et ne sont pas prescrites, seront portées en déduction des rentes dues. Les années de cotisation correspondantes sont prises en compte lors du calcul de la rente. Les années de cotisation à partir du 1<sup>er</sup> janvier 1983, pour lesquelles les cotisations sont restées impayées et tombent sous le coup de la prescription, ne sont pas prises en considération.[^19-2]
 
-[^19-1]: Nouvelle teneur selon le ch. IV de l’ACF du 15 janv. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 543](https://fedlex.data.admin.ch/eli/oc/2026/543)).
 [^19-2]: Introduit par le ch. I de l’ACF du 3 avr. 1964 ([RO 1964 332](https://fedlex.data.admin.ch/eli/oc/1964/340_332_329)). Nouvelle teneur selon le ch. I de l’O du 7 juil. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282)).
 
 #### Art. 20
@@ -380,8 +380,8 @@ Les rentes et les indemnités journalières revenant à des ayants droit qui hab
 Les dispositions du règlement du 31 octobre 1947[^25-2] sur l’assurance-vieillesse et survivants (RAVS) et du règlement du 17 janvier 1961[^25-3] sur l’assurance-invalidité (RAI) sont applicables, à moins que la présente ordonnance n’y déroge.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1878](https://fedlex.data.admin.ch/eli/oc/1975/1878_1878_1878)).
-[^25-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^25-3]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^25-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^25-3]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 #### Art. 26
 
@@ -482,34 +482,26 @@ Les assurés sont tenus de donner à la représentation suisse, au service AVS/A
 
 [^annexu1-5-1]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-#### Art. 13
-
-***,* *al**. 1***
+***Art. 13, al. 1***
 
 <sup>1</sup> Les assurés sont exclus de l’assurance facultative s’ils n’ont pas acquitté entièrement les cotisations dues pour une année civile jusqu’au 31 décembre de l’année civile suivante. Il en va de même s’ils ne remettent pas à la représentation suisse, au service AVS/AI ou à la caisse de compensation jusqu’au 31 décembre de l’année suivante les justificatifs qui leur ont été demandés.[^annexu1-13-1]
 
 [^annexu1-13-1]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-#### Art. 16
-
-***, al.* *2***
+***Art. 16, al. 2***
 
 <sup>2</sup> Elles sont versées en francs suisses en Suisse. Avec l’accord de la caisse de compensation, elles peuvent être versées à la représentation suisse à l’étranger ou au service AVS/AI dans la monnaie du pays de séjour ou, exceptionnellement, dans une autre monnaie.[^annexu1-16-1]
 
 [^annexu1-16-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
 
-#### Art. 20
-
-***, al**. 1***
+***Art. 20, al. 1***
 
 <sup>1</sup> Les rentes et les indemnités journalières revenant à des ayants droit qui habitent à l’étranger sont versées directement, par la caisse de compensation ou par la représentation suisse ou par le service AVS/AI, dans la monnaie du pays de résidence.[^annexu1-20-1] Sur demande, elles seront versées en francs suisses par la caisse de compensation en main d’un représentant désigné en Suisse. Si cela paraît suffisamment sûr, la caisse de compensation peut autoriser le versement sur un compte postal ou un compte en banque, en Suisse ou dans le pays de résidence de l’ayant droit.[^annexu1-20-2]
 
 [^annexu1-20-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
 [^annexu1-20-2]: [RO 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686), [1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282)
 
-#### Art. 21
-
-***, al.* *2***
+***Art. 21, al. 2***
 
 <sup>2</sup> Les certificats doivent en règle générale être attestés par les autorités compétentes du pays de résidence. Sur demande de l’ayant droit ou de la caisse de compensation, ils seront attestés par la représentation suisse ou par le service AVS/AI.[^annexu1-21-1]
 
