@@ -4,11 +4,11 @@ title: "Ordonnance du 21 novembre 2007 sur les prestations de la Confédération
 short: OPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: fr
-version: 2025-11-01
+version: 2027-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-862-20251101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-862-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/fr"
 
 (OPPM)
 
-du 21 novembre 2007 (État le 1<sup>er</sup> novembre 2025)
+du 21 novembre 2007 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -279,14 +279,15 @@ La Confédération ne verse pas de subventions de moins de 100 000 francs (art. 
 
 **Fixation des forfaits et des suppléments; adaptation à l’évolution des prix et au renchérissement**
 
-<sup>1</sup> Le Département fédéral de justice et police (DFJP) fixe les forfaits et les suppléments prévus dans les sections 2 et 3 en accord avec le Département fédéral des finances (DFF). Conformément à l’art. 10 de la loi fédérale du 18 mars 2005 sur la procédure de consultation[^15-1], les milieux intéressés doivent être consultés au préalable.
+<sup>1</sup> Le Département fédéral de justice et police (DFJP) fixe les forfaits et les suppléments prévus dans les sections 2 et 3.[^15-1]
 
-<sup>2</sup> Il revoit périodiquement les forfaits et suppléments qu’il a fixés et les ajuste en accord avec le DFF. Dans l’intervalle, l’OFJ les adapte chaque année à l’évolution des prix en se fondant sur l’indice suisse des prix de la construction.
+<sup>2</sup> Il revoit périodiquement les forfaits et suppléments qu’il a fixés et les ajuste.[^15-2] Dans l’intervalle, l’OFJ les adapte chaque année à l’évolution des prix en se fondant sur l’indice suisse des prix de la construction.
 
-<sup>3</sup> Dans certains cas, l’OFJ adapte les frais reconnus au renchérissement selon les directives qu’il a édictées (art. 13, al. 4), à la faveur du dernier paiement effectué au terme de la construction, de l’agrandissement ou de la transformation.[^15-2]
+<sup>3</sup> Dans certains cas, l’OFJ adapte les frais reconnus au renchérissement selon les directives qu’il a édictées (art. 13, al. 4), à la faveur du dernier paiement effectué au terme de la construction, de l’agrandissement ou de la transformation.[^15-3]
 
-[^15-1]: [RS 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
-[^15-2]: Nouvelle teneur selon le ch. II de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^15-3]: Nouvelle teneur selon le ch. II de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### Section 2 Etablissements d’éducation
 
@@ -302,35 +303,46 @@ La Confédération ne verse pas de subventions de moins de 100 000 francs (art. 
 
 **Forfait par place**
 
-<sup>1</sup> Le DFJP fixe un forfait par place en établissement d’éducation.
+<sup>1</sup>
+
+Le DFJP fixe des forfaits par place pour les établissements modèles suivants:
+
+- a. petits établissements ouverts comprenant un seul groupe de vie;
+- b. établissements ouverts comprenant au moins deux groupes de vie;
+- c. établissements fermés.[^17-1]
 
 <sup>2</sup> Pour les secteurs déterminants de l’établissement, les forfaits sont fixés en francs pour la surface maximale y donnant droit. Le calcul est réalisé sur la base des frais de construction, déterminés en fonction de normes de référence relevées dans différents établissements témoins.
 
-<sup>3</sup> Si tous les éléments d’un projet de construction sont réalisés conformément au modèle, le forfait par place est alloué dans son intégralité. Si certains éléments font défaut, le forfait par place est réduit en proportion. Cela vaut également pour les suppléments, à l’exception des suppléments accordés pour le logement du personnel et pour la salle de gymnastique.
+<sup>3</sup> Si tous les éléments d’un projet de construction sont réalisés conformément au modèle applicable, le forfait par place est alloué dans son intégralité. Cela vaut également pour les suppléments.[^17-2]
 
 <sup>4</sup> Le forfait par place alloué pour les nouvelles constructions est versé uniquement si les superficies ne sont pas inférieures aux planchers fixés par le DFJP.
 
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+
 #### Art. 18
 
-**Suppléments et réductions**
+**Suppléments et réductions**[^18-1]
 
 <sup>1</sup>
 
 Le DFJP fixe des suppléments pour les frais suivants:
 
-- a. construction d’un bâtiment destiné à l’hébergement du personnel indispensable au fonctionnement de l’établissement; le supplément est fixé en fonction du niveau général des prix de la construction;
-- b. construction d’une salle de gymnastique; le supplément correspond au coût de la construction d’une salle simple de 260 m<sup>2</sup>;
-- c. construction d’une école;
-- d. construction d’ateliers qui sont indispensables selon le plan pédagogique de l’établissement et qui dépassent les superficies prévues dans les établissements modèles; un autre supplément est octroyé pour les ateliers qui servent à la production et dont les équipements occupent une surface plus grande;
-- e. construction de l’infrastructure minimale nécessaire aux établissements d’éducation de quinze places ou moins; le supplément est calculé en pour-cent;
-- f. travaux d’aménagement extérieur et équipement mobile de nouvelles constructions; les suppléments sont calculés en pour-cent des forfaits par place;
-- <sup>g.</sup> frais supplémentaires qui sont consacrés au renforcement du caractère fermé d’un établissement et qui excèdent le cadre habituel des mesures de sécurité (supplément pour la sécurité); le supplément est fixé par place.[^18-1]
+- a. la surface nécessaire au secteur administratif dans les établissements comptant au moins quatre groupes de vie (grands établissements) qui dépasse la surface prévue dans l’établissement modèle;
+- b. la construction d’un local polyvalent qui est indispensable au fonctionnement de l’établissement selon le mode de gestion et dont la surface dépasse celle qui est prévue dans l’établissement modèle;
+- c. la construction d’un logement destiné aux visiteurs qui est indispensable au fonctionnement de l’établissement selon le plan pédagogique; le supplément est calculé en fonction des prix généraux de la construction de logements;
+- d. les travaux d’aménagement extérieur et l’équipement mobile de nouvelles constructions; les suppléments sont calculés en pour-cent du forfait par place;
+- e. l’infrastructure minimale nécessaire aux établissements comptant 12 places au plus (petits établissements); le supplément est calculé en pour-cent;
+- f. les frais supplémentaires qui sont consacrés au renforcement du caractère fermé d’un établissement et qui excèdent le cadre habituel des mesures de sécurité (supplément pour la sécurité); le supplément est fixé par place;
+- g. la construction de l’infrastructure nécessaire au service de sécurité interne dans un établissement fermé;
+- h. la construction d’un secteur d’admission dans un établissement fermé;
+- i. la construction d’une chambre disciplinaire dans un établissement fermé.
 
 <sup>2</sup> En cas de transformation d’un bâtiment, les forfaits par place et le supplément de sécurité alloué le cas échéant sont réduits par un facteur de correction. Celui-ci tient compte du degré d’intervention et de la part de renouvellement. Les subventions pour les aménagements extérieurs et l’équipement mobile correspondent aux frais effectifs reconnus.
 
-<sup>3</sup> Dans le cas des établissements d’éducation dont une partie seulement de l’activité correspond aux tâches selon l’art. 2, LPPM, le forfait est réduit (art. 4, al. 3, LPPM) proportionnellement à la part des journées de séjour non reconnues (art. 1, al. 2, let. i).
+<sup>3</sup> Dans le cas des établissements d’éducation dont une partie seulement de l’activité correspond aux tâches selon l’art. 2 LPPM, le forfait est réduit (art. 4, al. 3, LPPM) proportionnellement à la part des places non reconnues (art. 1, al. 2, let. d).
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
 
 ### Section 3 Etablissements pour adultes
 
@@ -529,9 +541,9 @@ Le bénéficiaire de subventions doit rembourser une partie des subventions de c
 
 #### Art. 31
 
-**Octroi de subventions de construction par tranches**
+[^31-1]
 
-Si les crédits annuels ne permettent pas l’octroi de certaines subventions de construction, l’OFJ peut en répartir l’octroi sur plusieurs années.
+[^31-1]: Abrogé par le ch. I de l’O du 26 août 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
 
 #### Art. 32
 

@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2007 über die Leistungen des Bundes für den
 short: LSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: de
-version: 2025-11-01
+version: 2027-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2007-862-20251101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-862-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/de"
 
 (LSMV)
 
-vom 21. November 2007 (Stand am 1. November 2025)
+vom 21. November 2007 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -278,14 +278,15 @@ Bundesbeiträge von weniger als 100 000 Franken werden nicht ausgerichtet (Art. 
 
 **Festlegung der Pauschalen und Zuschläge; Anpassung an Kostenentwicklung und Teuerung**
 
-<sup>1</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) legt die Pauschalen und Zuschläge nach dem 2. und 3. Abschnitt im Einvernehmen mit dem Eidgenössischen Finanzdepartement (EFD) fest. Vorgängig führt es eine Anhörung bei den interessierten Kreisen nach Artikel 10 des Vernehmlassungsgesetzes vom 18. März 2005[^15-1] durch.
+<sup>1</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) legt die Pauschalen und Zuschläge nach dem 2. und 3. Abschnitt fest.[^15-1]
 
-<sup>2</sup> Es überprüft die von ihm festgelegten Pauschalen und Zuschläge periodisch und passt sie im Einvernehmen mit dem EFD an. In der Zwischenzeit passt das BJ sie jährlich der Kostenentwicklung nach dem Schweizerischen Baupreisindex an.
+<sup>2</sup> Es überprüft die von ihm festgelegten Pauschalen und Zuschläge periodisch und passt sie an.[^15-2] In der Zwischenzeit passt das BJ sie jährlich der Kostenentwicklung nach dem Schweizerischen Baupreisindex an.
 
-<sup>3</sup> Im Einzelfall passt das BJ bei der Schlusszahlung nach Ende des Neu-, Aus- oder Umbaus die anerkannten Kosten nach seinen Richtlinien (Art. 13 Abs. 4) der Teuerung an.[^15-2]
+<sup>3</sup> Im Einzelfall passt das BJ bei der Schlusszahlung nach Ende des Neu-, Aus- oder Umbaus die anerkannten Kosten nach seinen Richtlinien (Art. 13 Abs. 4) der Teuerung an.[^15-3]
 
-[^15-1]: [SR 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
-[^15-2]: Fassung gemäss Ziff. II der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^15-3]: Fassung gemäss Ziff. II der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### 2. Abschnitt: Erziehungseinrichtungen
 
@@ -301,35 +302,46 @@ Bundesbeiträge von weniger als 100 000 Franken werden nicht ausgerichtet (Art. 
 
 **Platzkostenpauschale**
 
-<sup>1</sup> Das EJPD legt eine Platzkostenpauschale «Erziehungseinrichtung» fest.
+<sup>1</sup>
+
+Das EJPD legt Platzkostenpauschalen für die folgenden drei Modelleinrichtungen fest:
+
+- a. offen geführte Kleineinrichtungen mit einer Wohngruppe;
+- b. offen geführte Einrichtungen mit zwei oder mehr Wohngruppen;
+- c. geschlossen geführte Einrichtungen.[^17-1]
 
 <sup>2</sup> Die Pauschalbeiträge werden für die massgebenden Einrichtungsbereiche in einem Frankenbetrag pro maximal anrechenbare Fläche festgelegt. Dabei wird auf die Neubaukosten, errechnet auf der Basis der Werte verschiedener Referenzeinrichtungen, abgestellt.
 
-<sup>3</sup> Werden alle Bereiche in einem Bauvorhaben entsprechend der Modelleinrichtung realisiert, so wird die volle Platzkostenpauschale ausgerichtet. Fehlen gewisse Bereiche, so wird die Platzkostenpauschale anteilsmässig gekürzt. Dies gilt auch für die Zuschläge, ausgenommen die Zuschläge für die Personalunterkunft und für die Turnhalle.
+<sup>3</sup> Werden alle Bereiche in einem Bauvorhaben entsprechend der jeweiligen Modelleinrichtung realisiert, so wird die volle Platzkostenpauschale ausgerichtet. Dies gilt auch für die Zuschläge.[^17-2]
 
 <sup>4</sup> Die Platzkostenpauschale für Neubauten wird nur ausgerichtet, wenn die vom EJPD festgelegten Flächen nicht unterschritten werden.
 
+[^17-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+
 #### Art. 18
 
-**Zuschläge und Kürzungen**
+**Zuschläge und Kürzungen**[^18-1]
 
 <sup>1</sup>
 
 Das EJPD legt Zuschläge fest für:
 
-- a. den Bau einer betrieblich unerlässlichen Personalunterkunft; der Zuschlag orientiert sich am Preisniveau des allgemeinen Wohnungsbaus;
-- b. den Bau einer Turnhalle; der Zuschlag entspricht den Kosten für den Bau einer einfachen Halle von 260 m<sup>2</sup> Fläche;
-- c. den Bau einer Schulanlage;
-- d. Werkstätten, die gemäss Konzept betrieblich unerlässlich sind und über die bereits in der Modelleinrichtung enthaltenen Flächenwerte hinausgehen; für Werkstätten, die der Produktion dienen und die aufgrund ihres Ausbaus eine entsprechend grössere Fläche beanspruchen, wird ein weiterer Zuschlag gewährt;
-- e. die notwendige minimale Infrastruktur von Erziehungseinrichtungen mit 15 oder weniger Plätzen; der Zuschlag wird prozentual ausgestaltet;
-- f. Umgebungsarbeiten und die bewegliche Ausstattung von Neubauten; die Zuschläge sind als Prozentanteile der Platzkostenpauschale zu bemessen;
-- <sup>g.</sup> die Mehrkosten, die für die Geschlossenheit einer Einrichtung aufgewendet werden müssen und die den üblichen Rahmen der Sicherheitsvorkehrungen einer Einrichtung übersteigen (Sicherheitszuschlag); der Sicherheitszuschlag wird pro Platz festgelegt.[^18-1]
+- a. die zusätzlich notwendigen Flächen im Verwaltungsbereich von Einrichtungen mit vier oder mehr Wohngruppen (Grosseinrichtungen), die über die bereits in der Modelleinrichtung enthaltenen Flächenwerte hinausgehen;
+- b. den Bau eines Mehrzweckraums, der gemäss Konzept betrieblich unerlässlich ist und dessen Fläche über die bereits in der Modelleinrichtung enthaltenen Flächenwerte hinausgeht;
+- c. den Bau einer Unterkunft für Besuche, die gemäss pädagogischem Konzept betrieblich unerlässlich ist; der Zuschlag orientiert sich am Preisniveau des allgemeinen Wohnungsbaus;
+- d. Umgebungsarbeiten und die bewegliche Ausstattung von Neubauten; die Zuschläge sind als Prozentanteile der Platzkostenpauschale zu bemessen;
+- e. die notwendige minimale Infrastruktur von Einrichtungen mit 12 oder weniger Plätzen (Kleineinrichtungen); der Zuschlag wird prozentual ausgestaltet;
+- f. die Mehrkosten, die für die Geschlossenheit einer Einrichtung aufgewendet werden müssen und die den üblichen Rahmen der Sicherheitsvorkehrungen einer Einrichtung übersteigen (Sicherheitszuschlag); der Sicherheitszuschlag wird pro Platz festgelegt;
+- g. die bauliche Infrastruktur eines internen Sicherheitsdienstes in einer geschlossen geführten Einrichtung;
+- h. den Bau eines Aufnahmebereichs in einer geschlossen geführten Einrichtung;
+- i. den Bau eines Disziplinarzimmers in einer geschlossen geführten Einrichtung.
 
 <sup>2</sup> Bei Umbauten werden die Platzkostenpauschalen einschliesslich eines allfälligen Sicherheitszuschlags um einen Korrekturfaktor gekürzt. Der Faktor berücksichtigt den Eingriffsgrad und den Anteil Veränderung. Die Beiträge für Umgebungsarbeiten und die bewegliche Ausstattung richten sich nach den effektiv anfallenden anerkannten Kosten.
 
-<sup>3</sup> Bei Erziehungseinrichtungen, die nur teilweise Aufgaben nach Artikel 2 LSMG erfüllen, wird die Pauschale proportional zum Anteil nicht anerkannter Aufenthaltstage (Art. 1 Abs. 2 Bst. i) gekürzt (Art. 4 Abs. 3 LSMG).
+<sup>3</sup> Bei Erziehungseinrichtungen, die nur teilweise Aufgaben nach Artikel 2 LSMG erfüllen, wird die Pauschale proportional zum Anteil nicht anerkannter Plätze (Art. 1 Abs. 2 Bst. d) gekürzt (Art. 4 Abs. 3 LSMG).
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
 
 ### 3. Abschnitt: Anstalten für Erwachsene
 
@@ -528,9 +540,9 @@ Der Beitragsempfänger muss Baubeiträge anteilmässig zurückerstatten (Art. 12
 
 #### Art. 31
 
-**Teilzusicherung von Baubeiträgen**
+[^31-1]
 
-Reichen die jährlichen Kredite für die Zusicherung von Baubeiträgen nicht aus, so kann das BJ die Zusicherung von Baubeiträgen auf mehrere Jahre verteilen.
+[^31-1]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
 
 #### Art. 32
 

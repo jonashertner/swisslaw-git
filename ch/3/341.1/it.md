@@ -4,11 +4,11 @@ title: "Ordinanza del 21 novembre 2007 sulle prestazioni della Confederazione ne
 short: OPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: it
-version: 2025-11-01
+version: 2027-01-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2007-862-20251101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-862-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/it"
 
 (OPPM)
 
-del 21 novembre 2007 (Stato 1° novembre 2025)
+del 21 novembre 2007 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -131,7 +131,7 @@ L’UFG subordina il riconoscimento a condizioni e lo vincola a oneri che assicu
 
 <sup>4</sup> Può revocare il riconoscimento qualora il beneficiario dei sussidi li abbia ottenuti affermando cose false o occultando fatti.
 
-<sup>5</sup> ...[^7-3]
+<sup>5</sup> …[^7-3]
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 [^7-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
@@ -220,7 +220,7 @@ L’UFG e l’autorità cantonale competente concludono un accordo di prestazion
 
 <sup>2</sup> L’accordo di prestazione ha una durata di quattro anni. È rinnovato se l’UFG, esaminando le condizioni per il riconoscimento, constata che continuano ad essere adempite.
 
-<sup>3</sup> ...[^10-5]
+<sup>3</sup> …[^10-5]
 
 [^10-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 [^10-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
@@ -278,14 +278,15 @@ Non sono concessi sussidi federali inferiori a 100 000 franchi (art. 4 cpv. 4 LP
 
 **Determinazione dei sussidi forfetari e dei supplementi; adeguamento all’evoluzione dei costi e al rincaro**
 
-<sup>1</sup> D’intesa con il Dipartimento federale delle finanze (DFF), il Dipartimento di giustizia e polizia (DFGP) determina i sussidi forfetari e i supplementi ai sensi delle sezioni 2 e 3. Le cerchie interessate devono essere previamente sentite nell’ambito di un’indagine conoscitiva secondo l’articolo 10 della legge del 18 marzo 2005[^15-1] sulla consultazione.
+<sup>1</sup> Il Dipartimento federale di giustizia e polizia (DFGP) determina i sussidi forfetari e i supplementi ai sensi delle sezioni 2 e 3.[^15-1]
 
-<sup>2</sup> Il DFGP esamina periodicamente i sussidi forfetari e i supplementi fissati e, d’intesa con il DFF, li adegua. Nel frattempo l’UFG li adatta annualmente in funzione dell’evoluzione dell’indice svizzero dei prezzi delle costruzioni.
+<sup>2</sup> Il DFGP esamina periodicamente i sussidi forfetari e i supplementi fissati e li adegua.[^15-2] Nel frattempo l’UFG li adatta annualmente in funzione dell’evoluzione dell’indice svizzero dei prezzi delle costruzioni.
 
-<sup>3</sup> Nel singolo caso, l’UFG al momento del deposito del conteggio finale, al termine dei lavori di costruzione, d’ampliamento o di trasformazione, adatta i costi riconosciuti al rincaro secondo le proprie direttive (art. 13 cpv. 4).[^15-2]
+<sup>3</sup> Nel singolo caso, l’UFG al momento del deposito del conteggio finale, al termine dei lavori di costruzione, d’ampliamento o di trasformazione, adatta i costi riconosciuti al rincaro secondo le proprie direttive (art. 13 cpv. 4).[^15-3]
 
-[^15-1]: [RS 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
-[^15-2]: Nuovo testo giusta la cifra II dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^15-3]: Nuovo testo giusta la cifra II dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### Sezione 2: Istituti d’educazione
 
@@ -301,35 +302,46 @@ Non sono concessi sussidi federali inferiori a 100 000 franchi (art. 4 cpv. 4 LP
 
 **Sussidi forfetari per singolo posto**
 
-<sup>1</sup> Il DFGP fissa un sussidio forfetario per singolo posto «istituto d’educazione».
+<sup>1</sup>
+
+Il DFGP fissa sussidi forfetari per singolo posto per i tre seguenti istituti tipo:
+
+- a. piccoli istituti aperti con un gruppo abitativo;
+- b. istituti aperti con due o più gruppi abitativi;
+- c. istituti chiusi.[^17-1]
 
 <sup>2</sup> Per i settori determinanti dell’istituto i sussidi forfetari sono stabiliti in franchi, per superficie computabile massima. Servono da criterio i costi di una nuova costruzione calcolati sulla base dei valori di diversi istituti di riferimento.
 
-<sup>3</sup> Un progetto di costruzione beneficia del sussidio forfetario completo per singolo posto se realizza tutti i settori dell’istituto tipo considerato. In mancanza di alcuni settori il sussidio forfetario è proporzionalmente ridotto. Ciò vale anche per i supplementi, esclusi quelli per gli alloggi del personale e per la palestra.
+<sup>3</sup> Un progetto di costruzione beneficia del sussidio forfetario completo per singolo posto se realizza tutti i settori del relativo istituto tipo. Ciò vale anche per i supplementi.[^17-2]
 
 <sup>4</sup> In caso di costruzione di un nuovo istituto i sussidi forfetari per singolo posto sono versati soltanto se i limiti di superficie definiti dal DFGP sono raggiunti.
 
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
+
 #### Art. 18
 
-**Supplementi e riduzioni**
+**Supplementi e riduzioni**[^18-1]
 
 <sup>1</sup>
 
 Il DFGP fissa supplementi per:
 
-- a. la costruzione degli alloggi del personale indispensabili all’esercizio dell’istituto; il supplemento tiene conto del livello generale dei prezzi nella costruzione di abitazioni;
-- b. la costruzione di una palestra; il supplemento corrisponde ai costi per la costruzione di una palestra semplice con una superficie di 260 m<sup>2</sup>;
-- c. la costruzione di un impianto scolastico;
-- d. i laboratori indispensabili all’esercizio dell’istituto secondo l’impostazione e che superano i valori delle superfici già contenute nell’istituto tipo; per i laboratori utilizzati per la produzione e che a causa del loro ampliamento necessitano di una superficie maggiore è versato un ulteriore supplemento;
-- e. l’infrastruttura minima necessaria di istituti d’educazione con non più di 15 posti; il supplemento è stabilito percentualmente;
-- f. lavori di sistemazione esterna e le attrezzature mobili delle nuove costruzioni; i supplementi sono calcolati come quote percentuali dei sussidi forfetari per singolo posto;
-- g. i costi supplementari dovuti al carattere chiuso di un istituto ed eccedenti gli abituali limiti di sicurezza previsti per un istituto (supplemento relativo alla sicurezza); il supplemento relativo alla sicurezza è fissato per singolo posto.[^18-1]
+- a. le superfici aggiuntive necessarie al settore amministrativo di istituti con quattro o più gruppi abitativi (grandi istituti) che superano i valori delle superfici già contenute nell’istituto tipo;
+- b. la costruzione di una sala polivalente indispensabile all’esercizio dell’istituto secondo l’impostazione, la cui superficie supera i valori delle superfici già contenute nell’istituto tipo;
+- c. la costruzione di un alloggio per i visitatori indispensabile all’esercizio dell’istituto secondo l’impostazione pedagogica; il supplemento tiene conto del livello generale dei prezzi nella costruzione di abitazioni;
+- d. i lavori di sistemazione esterna e le attrezzature mobili delle nuove costruzioni; i supplementi sono calcolati come quote percentuali dei sussidi forfetari per singolo posto;
+- e. l’infrastruttura minima necessaria di istituti con non più di 12 posti (piccoli istituti); il supplemento è stabilito percentualmente;
+- f. i costi supplementari dovuti al carattere chiuso di un istituto ed eccedenti gli abituali limiti di sicurezza previsti per un istituto (supplemento relativo alla sicurezza); il supplemento relativo alla sicurezza è fissato per singolo posto;
+- g. l’infrastruttura edilizia necessaria a un servizio di sicurezza interno in un istituto chiuso;
+- h. la costruzione di un settore d’entrata in un istituto chiuso;
+- i. la costruzione di una camera di rigore in un istituto chiuso.
 
-<sup>2</sup> In caso di trasformazione i sussidi forfetari per singolo posto incluso un eventuale supplemento per la sicurezza sono ridotti secondo un coefficiente di correzione. Il coefficiente di correzione prende in considerazione il grado d’intervento e la quota oggetto di rinnovamento. I sussidi per le sistemazioni esterne e le attrezzature mobili sono calcolati in base ai costi effettivi riconosciuti.
+<sup>2</sup> In caso di trasformazione i sussidi forfetari per singolo posto incluso un eventuale supplemento relativo alla sicurezza sono ridotti secondo un coefficiente di correzione. Il coefficiente di correzione prende in considerazione il grado d’intervento e la quota oggetto di rinnovamento. I sussidi per le sistemazioni esterne e le attrezzature mobili sono calcolati in base ai costi effettivi riconosciuti.
 
-<sup>3</sup> In caso di istituti d’educazione, che adempiono soltanto in parte i compiti previsti dall’articolo 2 LPPM, il sussidio forfetario è ridotto proporzionalmente al numero di giorni di permanenza non riconosciuti (art. 1 cpv. 2 lett. i e art. 4 cpv. 3 LPPM).
+<sup>3</sup> In caso di istituti d’educazione, che adempiono soltanto in parte i compiti previsti dall’articolo 2 LPPM, il sussidio forfetario è ridotto proporzionalmente (art. 4 cpv. 3 LPPM) al numero di posti non riconosciuti (art. 1 cpv. 2 lett. d).
 
-[^18-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
 
 ### Sezione 3: Stabilimenti per adulti
 
@@ -460,7 +472,7 @@ La Confederazione può concedere sussidi per progetti sperimentali (art. 8 LPPM)
 
 <sup>1</sup> L’UFG prende le decisioni per il riconoscimento del diritto ai sussidi nonché per l’assegnazione e il versamento dei sussidi.
 
-<sup>2</sup> ...[^25-1]
+<sup>2</sup> …[^25-1]
 
 <sup>3</sup> L’UFG firma gli accordi di prestazione con l’autorità cantonale competente.
 
@@ -528,9 +540,11 @@ I sussidi devono essere proporzionalmente restituiti (art. 12 cpv. 2 LPPM), se:
 
 #### Art. 31
 
-**Assegnazione parziale di sussidi di costruzione**
+**Assegnazione parziale di sussidi di costruzione**[^31-1]
 
 Se i crediti annui relativi sono insufficienti, l’UFG può ripartire su parecchi anni l’assegnazione di sussidi di costruzione.
+
+[^31-1]: Abrogato dalla cifra I dell’O del 26 ago. 2026, con effetto dal 1° gen. 2027 ([RU 2026 469](https://fedlex.data.admin.ch/eli/oc/2026/469)).
 
 #### Art. 32
 
