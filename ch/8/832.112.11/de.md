@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoaus
 short: VORA-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: de
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20260401-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20260401/de"
 
 (VORA-EDI)
 
-vom 14. Oktober 2019 (Stand am 1. April 2026)
+vom 14. Oktober 2019 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -81,6 +81,11 @@ Für jeden Kanton wird, ausgehend von den jeweils in den ersten 14 Monaten abger
 <sup>2</sup> Die durchschnittlichen Nettoleistungen werden über alle Versicherer und alle Risikogruppen hinweg berechnet.
 
 <sup>3</sup> Der Teuerungsfaktor resultiert aus der Division der Gesamtteuerung durch die Strukturteuerung.
+
+<sup>4</sup> Ändert ein Kanton im Ausgleichsjahr im Vergleich zum Vorjahr den kantonalen Anteil nach Artikel 49*a* des Bundesgesetzes vom 18. März 1994[^5-1] über die Krankenversicherung um mehr als 10 Prozentpunkte, so wird in diesem Kanton in Abweichung von den Absätzen 1−3 pro Risikogruppe ein Teuerungsfaktor ermittelt. Der jeweilige Teuerungsfaktor resultiert aus der Division der durchschnittlichen Nettoleistungen im Ausgleichsjahr durch die durchschnittlichen Nettoleistungen im Vorjahr.[^5-2]
+
+[^5-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^5-2]: Eingefügt durch Ziff. I der V des EDI vom 2. März 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 119](https://fedlex.data.admin.ch/eli/oc/2026/119)).
 
 #### Art. 6
 

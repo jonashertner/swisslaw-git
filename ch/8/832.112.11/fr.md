@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 14 octobre 2019 sur la mise en œuvre de la compens
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: fr
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20260401-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20260401/fr"
 
 (OCoR-DFI)
 
-du 14 octobre 2019 (État le 1<sup>er</sup> avril 2026)
+du 14 octobre 2019 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -81,6 +81,11 @@ Un facteur de renchérissement des coûts est déterminé pour chaque canton; ce
 <sup>2</sup> La moyenne des prestations nettes est calculée par tous les assureurs et pour tous les groupes de risques.
 
 <sup>3</sup> Le facteur de renchérissement des coûts est obtenu en divisant le renchérissement global par le renchérissement structurel.
+
+<sup>4</sup> Si, durant l’année de compensation, un canton modifie la part cantonale visée à l’art. 49*a* de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^5-1] de plus de 10 points de pourcentage par rapport à l’année précédente, un facteur de renchérissement des coûts est déterminé par groupe de risques dans ce canton, en dérogation aux al. 1 à 3. Ce facteur est obtenu en divisant la moyenne des prestations nettes durant l’année de compensation par la moyenne des prestations nettes durant l’année précédente.[^5-2]
+
+[^5-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^5-2]: Introduit par le ch. I de l’O du DFI du 2 mars 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 119](https://fedlex.data.admin.ch/eli/oc/2026/119)).
 
 #### Art. 6
 

@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 14 ottobre 2019 sull'attuazione della compensazion
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: it
-version: 2026-04-01
+version: 2027-01-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20260401-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20260401/it"
 
 (OCoR-DFI)
 
-del 14 ottobre 2019 (Stato 1° aprile 2026)
+del 14 ottobre 2019 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -81,6 +81,11 @@ Sulla base dei dati delle prestazioni fatturate durante i 14 mesi seguenti l'ini
 <sup>2</sup> La media delle prestazioni nette è calcolata per tutti gli assicuratori e per tutti i gruppi di rischio.
 
 <sup>3</sup> Il fattore di rincaro si ottiene dividendo il rincaro complessivo per il rincaro strutturale.
+
+<sup>4</sup> Se, nell’anno di compensazione, un Cantone modifica di oltre dieci punti percentuali rispetto all’anno precedente la quotaparte cantonale di cui all’articolo 49*a* della legge federale del 18 marzo 1994[^5-1] sull’assicurazione malattie, in questo Cantone è ottenuto un fattore di rincaro per gruppo di rischio, in deroga ai capoversi 1–3. Tale fattore è ottenuto dividendo le prestazioni nette medie dell’anno di compensazione per le prestazioni nette medie dell’anno precedente.[^5-2]
+
+[^5-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^5-2]: Introdotto dalla cifra I dell’O del DFI del 2 mar. 2026, in vigore dal 1° gen. 2027 ([RU 2026 119](https://fedlex.data.admin.ch/eli/oc/2026/119)).
 
 #### Art. 6
 
