@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20250101-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° gennaio 2025)
+del 27 novembre 2009 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -2143,16 +2143,16 @@ La trasmissione e la conservazione dei giustificativi in forma non cartacea sono
 
 La procedura elettronica è prescritta per:
 
-- a. …
+- a. l’imposizione di gruppo (art. 13 LIVA);
 - b. il rendiconto annuale (art. 35*a* e 86*a* LIVA);
-- c. …
-- d. …
+- c. il metodo delle aliquote saldo (art. 37 cpv. 1–4 LIVA);
+- d. il metodo delle aliquote forfetarie (art. 37 cpv. 5 LIVA);
 - e. l’annuncio di inizio dell’assoggettamento (art. 66 cpv. 1 LIVA);
-- f. …
+- f. l’annuncio di fine dell’assoggettamento (art. 66 cpv. 2 LIVA);
 - g. la presentazione del rendiconto (art. 71 LIVA);
 - h. le correzioni successive del rendiconto (art. 72 LIVA).
 
-[^123-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025, le lett. a, c d ed f del cpv. 2, in vigore dal 1° gen. 2027 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^123-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025, le lett. a, c, d e f del cpv. 2, in vigore dal 1° gen. 2027 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 124 e 125
 
@@ -2400,7 +2400,7 @@ I dati che l’AFC può trattare ai sensi dell’articolo 76*a* capoverso 3 LIVA
 [^135-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^135-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^135-3]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
-[^135-4]: Nuovo testo giusta l’all. 2 n. II 73 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^135-4]: Nuovo testo giusta l’all. 2 cifra II n. 73 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
 

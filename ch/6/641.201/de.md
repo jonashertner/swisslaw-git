@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20250101-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. Januar 2025)
+vom 27. November 2009 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -2129,16 +2129,16 @@ Für die Übermittlung und Aufbewahrung papierloser Belege gelten die Artikel 95
 
 Das elektronische Verfahren wird vorgeschrieben für:
 
-- a. …
+- a. die Gruppenbesteuerung (Art. 13 MWSTG);
 - b. die jährliche Abrechnung (Art. 35*a* und 86*a* MWSTG);
-- c. …
-- d. …
+- c. die Saldosteuersatzmethode (Art. 37 Abs. 1–4 MWSTG);
+- d. die Pauschalsteuersatzmethode (Art. 37 Abs. 5 MWSTG);
 - e. die Anmeldung als steuerpflichtige Person (Art. 66 Abs. 1 MWSTG);
-- f. …
+- f. die Abmeldung als steuerpflichtige Person (Art. 66 Abs. 2 MWSTG);
 - g. die Einreichung der Abrechnung (Art. 71 MWSTG);
 - h. die nachträglichen Korrekturen der Abrechnung (Art. 72 MWSTG).
 
-[^123-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025, Abs. 2 Bst. a, c, d und f treten am 1. Jan. 2027 in Kraft ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^123-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025, Abs. 2 Bst. a, c, d und f in Kraft seit 1. Jan. 2027 in Kraft ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 124 und 125
 

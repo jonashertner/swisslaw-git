@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20250101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (État le 1<sup>er</sup> janvier 2025)
+du 27 novembre 2009 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -2142,12 +2142,12 @@ Les art. 957 à 958*f* du code des obligations[^122-3] et l’ordonnance du 24 a
 
 Une telle procédure est prescrite pour:
 
-- a. …
+- a. l’imposition de groupe (art. 13 LTVA);
 - b. le décompte annuel (art. 35*a* et 86*a* LTVA);
-- c. …
-- d. …
+- c. la méthode des taux de la dette fiscale nette (art. 37, al. 1 à 4, LTVA);
+- d. la méthode des taux forfaitaires (art. 37, al. 5, LTVA);
 - e. la déclaration d’assujettissement (art. 66, al. 1, LTVA);
-- f. …
+- f. le retrait de la déclaration d’assujettissement (art. 66, al. 2, LTVA);
 - g. la remise du décompte (art. 71 LTVA);
 - h. les corrections ultérieures du décompte (art. 72 LTVA).
 
