@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 26. November 2024 über das militärische Personal
 short: V Mil Pers
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/751"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2024-11-26
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/751/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-751-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/751/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2024-751-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20250101/de"
 
 (V Mil Pers)
 
-vom 26. November 2024 (Stand am 1. Januar 2025)
+vom 26. November 2024 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 89 und 115 der Bundespersonalverordnung vom 3. Juli 20
 
 verordnet:
 
-[^ingress-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -61,7 +61,18 @@ Die Bestimmungen über die Berufsoffizierinnen und -offiziere in diesem Erlass g
 
 <sup>4</sup> Bestehen in diesem Erlass für Angehörige des militärischen Flugdienstes keine besonderen Bestimmungen, so sind die Bestimmungen über die Berufsoffizierinnen und -offiziere anwendbar.
 
-[^2-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^2-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+
+#### Art. 2a
+
+**Begriffe**[^2a-1]
+
+In dieser Verordnung bedeuten:
+
+- a. *Grundausbildungsphase:* Zeitraum, in dem die noch fehlenden Kompetenzen für die Zulassung zur Grundausbildung erworben werden;
+- b. *Grundausbildung*: Ausbildung nach Artikel 12.
+
+[^2a-1]: Eingefügt durch Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 3
 
@@ -81,37 +92,43 @@ Die Berufsmilitärs unterteilen sich in:
 Die Berufsoffizierinnen und -offiziere unterteilen sich in:
 
 - a. höhere Stabsoffizierinnen und -offiziere;
-- b. Berufsoffizierskandidatinnen und -kandidaten, das heisst Personen nach bestandener Eignungsabklärung für Berufsoffizierinnen und -offiziere bis zur bestandenen Zulassungsprüfung zur Grundausbildung;
-- c. Berufsoffiziersanwärterinnen und -anwärter, das heisst Personen nach bestandener Zulassungsprüfung zur Grundausbildung bis zur abgeschlossenen Grundausbildung;
+- b.[^3-1] Berufsoffizierskandidatinnen und -kandidaten, das heisst Personen nach bestandener Potenzialabklärung für Berufsoffizierinnen und -offiziere bis zum Abschluss der Grundausbildungsphase;
+- c.[^3-2] Berufsoffiziersanwärterinnen und -anwärter, das heisst Personen nach abgeschlossener Grundausbildungsphase bis zum Abschluss der Grundausbildung;
 - d. Berufsoffizierinnen und -offiziere, das heisst Personen mit abgeschlossener Grundausbildung.
 
 <sup>3</sup>
 
 Die Berufsunteroffizierinnen und -offiziere unterteilen sich in:
 
-- a. Berufsunteroffizierskandidatinnen und -kandidaten, das heisst Personen nach bestandener Eignungsabklärung für Berufsunteroffizierinnen und -offiziere bis zur bestandenen Zulassungsprüfung zur Grundausbildung;
-- b. Berufsunteroffiziersanwärterinnen und -anwärter, das heisst Personen nach bestandener Zulassungsprüfung zur Grundausbildung bis zur abgeschlossenen Grundausbildung;
+- a.[^3-3] Berufsunteroffizierskandidatinnen und -kandidaten, das heisst Personen nach bestandener Potenzialabklärung für Berufsunteroffizierinnen und -offiziere bis zum Abschluss der Grundausbildungsphase;
+- b.[^3-4] Berufsunteroffiziersanwärterinnen und -anwärter, das heisst Personen nach abgeschlossener Grundausbildungsphase bis zum Abschluss der Grundausbildung;
 - c. Berufsunteroffizierinnen und -offiziere, das heisst Personen mit abgeschlossener Grundausbildung.
 
 <sup>4</sup>
 
 Die Angehörigen des militärischen Flugdienstes unterteilen sich in:
 
-- a. Berufsmilitärpilotenkandidatinnen und -kandidaten, das heisst Personen nach erfolgreicher Selektion bis zur abgeschlossenen Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung;
-- b. Berufsmilitärpilotenanwärterinnen und -anwärter, das heisst Personen nach bestandener Eignungsabklärung bis zur abgeschlossenen Grundausbildung;
+- a.[^3-5] Berufspilotenkandidatinnen und -kandidaten, das heisst Personen nach bestandener allgemeiner Berufseignungsabklärung für Militärpilotinnen und Militärpiloten bis zur bestandenen fliegerischen Eignungsabklärung;
+- b.[^3-6] Berufspilotenanwärterinnen und -anwärter, das heisst Personen, nach bestandener fliegerischer Eignungsabklärung bis zum Abschluss der Grundausbildung;
 - c. Berufsmilitärpilotinnen und -piloten, das heisst Personen mit abgeschlossener Grundausbildung;
 - d. Berufsbordoperateurinnen und -operateure;
 - e. Berufsdrohnenpilotinnen und -piloten.
 
 <sup>5</sup>
 
-Als Fachberufsmilitärs gelten Berufsmilitärs, die für den Einsatz in den Berufsformationen der Armee nach Artikel 5 der Verordnung vom 29. März 2017[^3-1] über die Strukturen der Armee vorgesehen sind. Fachberufsmilitärs unterteilen sich in:
+Als Fachberufsmilitärs gelten Berufsmilitärs, die für den Einsatz in den Berufsformationen der Armee nach Artikel 5 der Verordnung vom 29. März 2017[^3-7] über die Strukturen der Armee vorgesehen sind. Fachberufsmilitärs unterteilen sich in:
 
 - a. Fachberufsoffizierinnen und -offiziere;
 - b. Fachberufsunteroffizierinnen und -offiziere;
 - c. Fachberufssoldatinnen und -soldaten.
 
-[^3-1]: [SR 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
+[^3-1]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-3]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-4]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-5]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-6]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-7]: [SR 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
 
 ## 2. Kapitel: Anstellungsvoraussetzungen
 
@@ -127,28 +144,31 @@ Als Fachberufsmilitärs gelten Berufsmilitärs, die für den Einsatz in den Beru
 
 Als Berufsoffizierinnen und -offiziere können Personen angestellt werden, die:
 
-- a. einen staatlich anerkannten Abschluss einer universitären Hochschule oder einen staatlich anerkannten Abschluss einer Fachhochschule vorweisen können, die Zulassungsbedingungen der Eidgenössischen Technischen Hochschule Zürich (ETH Zürich) zum Bachelor-Studiengang Staatswissenschaften (Berufsoffizier) erfüllen oder ein eidgenössisches Fähigkeitszeugnis einer beruflichen Grundbildung nach dem Berufsbildungsgesetz vom 13. Dezember 2002[^4-1] (BBG) oder einen mindestens gleichwertigen staatlich anerkannten Abschluss einer Schule vorweisen können;
+- a.[^4-1] über einen staatlich anerkannten Abschluss einer universitären Hochschule, einer Fachhochschule oder einer pädagogischen Hochschule oder über eine eidgenössisch anerkannte gymnasiale Maturität, eine Berufsmaturität oder eine Fachmaturität verfügen;
 - b. Kenntnisse in einer zweiten Landessprache aufweisen;
-- c. Angehörige der Armee sind und nach abgeschlossenem Praktischem Dienst minimal den Grad des Leutnants bekleiden;
+- c.[^4-2] Angehörige der Armee sind, nach abgeschlossenem praktischem Dienst mindestens den Grad des Leutnants tragen und einen Fortbildungsdienst der Truppe geleistet haben;
 - d. gute Qualifikationen aus den bisherigen Militärdienstleistungen besitzen;
 - e. einen Strafregisterauszug ohne Eintrag vorweisen können;
 - f. einen Betreibungsregisterauszug ohne Eintrag vorweisen können;
-- g. nach einer vertrauensärztlichen Untersuchung gemäss den Vorgaben der Oberfeldärztin oder des Oberfeldarztes als tauglich erklärt worden sind; und
+- g.[^4-3] im Rahmen der vertrauensärztlichen Untersuchung als medizinisch geeignet erklärt wurden; und
 - h. den Führerausweis der Kategorie B besitzen.
 
 <sup>2</sup>
 
-Sie müssen zudem zusätzlich mindestens eine der folgenden Voraussetzungen erfüllen:
+Sie müssen zusätzlich mindestens eine der folgenden Voraussetzungen erfüllen:
 
-- a. die Eignungsabklärung für Berufsoffizierinnen und -offiziere zur befristeten Anstellung als Berufsoffizierskandidatin oder -kandidat bestanden haben;
-- b. die Zulassungsprüfung zur Grundausbildung zur unbefristeten Anstellung als Berufsoffiziersanwärterin oder -anwärter bestanden haben;
-- c. die Grundausbildung für Berufsoffizierinnen und -offiziere erfolgreich abgeschlossen haben.
+- a. Sie haben die Potenzialabklärung für Berufsoffizierinnen und -offiziere zur Anstellung als Berufsoffizierskandidatin oder -kandidat bestanden.
+- b. Sie haben die Grundausbildungsphase zur Anstellung als Berufsoffiziersanwärterin oder -anwärter abgeschlossen.
+- c. Sie haben die Grundausbildung für Berufsoffizierinnen und -offiziere abgeschlossen.[^4-4]
 
 <sup>3</sup> Die Chefin oder der Chef der Armee kann in begründeten Ausnahmefällen und bei ausgewiesenem Bedarf des Arbeitgebers andere gleichwertige berufliche Qualifikationen als diejenigen nach Absatz 1 Buchstabe a sowie andere militärische Voraussetzungen anerkennen.
 
 <sup>4</sup> Die Chefin oder der Chef der Armee kann in begründeten Ausnahmefällen, wie bei einem Gradwechsel in der Miliz vom höheren Unteroffizier zum Offizier, und bei ausgewiesenem Bedarf Berufsunteroffizierinnen und -offiziere als Berufsoffiziersanwärterinnen oder ‑anwärter zulassen.
 
-[^4-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^4-1]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-3]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-4]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### 2. Abschnitt: Berufsunteroffizierinnen und -offiziere
 
@@ -162,24 +182,27 @@ Als Berufsunteroffizierinnen und -offiziere können Personen angestellt werden, 
 
 - a. ein eidgenössisches Fähigkeitszeugnis einer beruflichen Grundbildung nach dem BBG[^5-1] oder einen mindestens gleichwertigen staatlich anerkannten Abschluss einer Schule vorweisen können;
 - b. Kenntnisse in einer zweiten Landessprache aufweisen;
-- c. Angehörige der Armee sind und nach abgeschlossenem Praktischem Dienst mindestens einen Unteroffiziersgrad bekleiden;
+- c.[^5-2] Angehörige der Armee sind, nach abgeschlossenem praktischem Dienst mindestens den Grad des Unteroffiziers tragen und mindestens einen Fortbildungsdienst der Truppe geleistet haben;
 - d. gute Qualifikationen aus den bisherigen Militärdienstleistungen besitzen;
 - e. einen Strafregisterauszug ohne Eintrag vorweisen können;
 - f. einen Betreibungsregisterauszug ohne Eintrag vorweisen können;
-- g. nach einer vertrauensärztlichen Untersuchung gemäss den Vorgaben der Oberfeldärztin oder des Oberfeldarztes als tauglich erklärt worden sind; und
+- g.[^5-3] im Rahmen der vertrauensärztlichen Untersuchung als medizinisch geeignet erklärt wurden; und
 - h. den Führerausweis der Kategorie B besitzen.
 
 <sup>2</sup>
 
-Sie müssen zudem zusätzlich mindestens eine der folgenden Voraussetzungen erfüllen:
+Sie müssen zusätzlich mindestens eine der folgenden Voraussetzungen erfüllen:
 
-- a. die Eignungsabklärung für Berufsunteroffizierinnen und -offiziere zur befristeten Anstellung als Berufsunteroffizierskandidatin oder -kandidat bestanden haben;
-- b. die Zulassungsprüfung zur Grundausbildung zur unbefristeten Anstellung als Berufsunteroffiziersanwärterin oder -anwärter bestanden haben;
-- c. die Grundausbildung für Berufsunteroffizierinnen und -offiziere erfolgreich abgeschlossen haben.
+- a. Sie haben die Potenzialabklärung für Berufsunteroffizierinnen und -offiziere zur Anstellung als Berufsunteroffizierskandidatin oder -kandidat bestanden.
+- b. Sie haben die Grundausbildungsphase zur Anstellung als Berufsunteroffiziersanwärterin oder -anwärter abgeschlossen.
+- c. Sie haben die Grundausbildung für Berufsunteroffizierinnen und -offiziere abgeschlossen.[^5-4]
 
 <sup>3</sup> Die Chefin oder der Chef der Armee kann in begründeten Ausnahmefällen und bei ausgewiesenem Bedarf des Arbeitgebers andere gleichwertige berufliche Qualifikationen als die nach Absatz 1 Buchstabe a sowie andere militärische Voraussetzungen anerkennen.
 
-[^5-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^5-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^5-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^5-3]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^5-4]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### 3. Abschnitt: Angehörige des militärischen Flugdienstes
 
@@ -187,7 +210,7 @@ Sie müssen zudem zusätzlich mindestens eine der folgenden Voraussetzungen erf�
 
 Die Anstellungsvoraussetzungen der Angehörigen des militärischen Flugdienstes richten sich nach der Militärflugdienstverordnung vom 18. März 2022[^6-1].
 
-[^6-1]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^6-1]: [SR 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 ### 4. Abschnitt: Fachberufsmilitärs
 
@@ -204,10 +227,11 @@ Als Fachberufsoffizierinnen und -offiziere können Personen angestellt werden, d
 - e. gute Qualifikationen aus den bisherigen Militärdienstleistungen besitzen;
 - f. einen Strafregisterauszug ohne Eintrag vorweisen können;
 - g. einen Betreibungsregisterauszug ohne Eintrag vorweisen können;
-- h. nach einer vertrauensärztlichen Untersuchung gemäss den Vorgaben der Oberfeldärztin oder des Oberfeldarztes als tauglich erklärt worden sind; und
+- h.[^7-2] im Rahmen der vertrauensärztlichen Untersuchung als medizinisch geeignet erklärt wurden; und
 - i. den Führerausweis der Kategorie B besitzen.
 
-[^7-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^7-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^7-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 8
 
@@ -221,10 +245,11 @@ Als Fachberufsunteroffizierinnen und -offiziere können Personen angestellt werd
 - d. Angehörige der Armee sind und nach abgeschlossenem Praktischem Dienst einen Unteroffiziersgrad bekleiden;
 - e. einen Strafregisterauszug ohne Eintrag vorweisen können;
 - f. einen Betreibungsregisterauszug ohne Eintrag vorweisen können;
-- g. nach einer vertrauensärztlichen Untersuchung gemäss den Vorgaben der Oberfeldärztin oder des Oberfeldarztes als tauglich erklärt worden sind; und
+- g.[^8-2] im Rahmen der vertrauensärztlichen Untersuchung als medizinisch geeignet erklärt wurden; und
 - h. den Führerausweis der Kategorie B besitzen.
 
-[^8-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^8-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^8-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 9
 
@@ -238,10 +263,11 @@ Als Fachberufssoldatinnen und -soldaten können Personen angestellt werden, die:
 - d. gute Qualifikationen aus den bisherigen Militärdienstleistungen besitzen;
 - e. einen Strafregisterauszug ohne Eintrag vorweisen können;
 - f. einen Betreibungsregisterauszug ohne Eintrag vorweisen können;
-- g. nach einer vertrauensärztlichen Untersuchung gemäss den Vorgaben der Oberfeldärztin oder des Oberfeldarztes als tauglich erklärt worden sind; und
+- g.[^9-2] im Rahmen der vertrauensärztlichen Untersuchung als medizinisch geeignet erklärt wurden; und
 - h. den Führerausweis der Kategorie B besitzen.
 
-[^9-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^9-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^9-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### 5. Abschnitt: Zeitmilitärs
 
@@ -254,15 +280,22 @@ Als Zeitmilitär können Personen angestellt werden, die:
 - c. gute Qualifikationen aus den bisherigen Militärdienstleistungen besitzen;
 - d. einen Strafregisterauszug ohne Eintrag vorweisen können;
 - e. einen Betreibungsregisterauszug ohne Eintrag vorweisen können; und
-- f. nach einer vertrauensärztlichen Untersuchung gemäss den Vorgaben der Oberfeldärztin oder des Oberfeldarztes als tauglich erklärt worden sind.
+- f.[^10-2] im Rahmen der vertrauensärztlichen Untersuchung als medizinisch geeignet erklärt wurden.
 
-[^10-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^10-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^10-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
-### 6. Abschnitt: Fehlende Anstellungsvoraussetzungen
+### 6. Abschnitt: Nichterfüllung von Anstellungsvoraussetzungen
+
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 11
 
-Weist eine Person Straf- oder Betreibungsregistereinträge von untergeordneter Bedeutung aus, kann die Chefin oder der Chef der Armee auf begründeten Antrag hin der Anstellungsbehörde eine Ausnahme bewilligen.
+<sup>1</sup> Das militärische Personal ist verpflichtet, Eröffnungen von Strafverfahren, Einleitungen von Betreibungen sowie jede Änderung im Straf- und Betreibungsregister zu melden, sobald es davon Kenntnis erhält.
+
+<sup>2</sup> Handelt es sich beim Eintrag um einen Eintrag von untergeordneter Bedeutung, so kann die Chefin oder der Chef der Armee auf begründeten Antrag der anstellenden Stelle hin vom Erfordernis, dass bei der Anstellung kein Eintrag vorhanden ist, abweichen.
 
 ## 3. Kapitel: Grundausbildung und Personalentwicklung
 
@@ -282,9 +315,9 @@ Weist eine Person Straf- oder Betreibungsregistereinträge von untergeordneter B
 
 <sup>4</sup> Die Grundausbildungen für Fachberufsmilitärs sind bedarfsorientiert und funktionsbezogen. Sie finden während der Anstellungsdauer statt.
 
-[^12-1]: [SR 414.131.1](https://fedlex.data.admin.ch/eli/cc/2017/532)
-[^12-2]: [SR 512.413](https://fedlex.data.admin.ch/eli/cc/2015/831)
-[^12-3]: [SR 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)
+[^12-1]: [SR 414.131.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6725)
+[^12-2]: [SR 512.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7445)
+[^12-3]: [SR 512.271.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7422)
 
 #### Art. 13
 
@@ -335,7 +368,7 @@ Der Arbeitgeber kann die Ausbildungskosten für die Grundausbildung zurückforde
 
 <sup>3</sup> Innerhalb einer Einsatzgruppe können die Funktionen nach Früh- und Spätverwendungen unterschieden werden, um eine erfahrungs- und altersgerechte Personalplanung sicherzustellen.
 
-[^17-1]: [SR 172.220.111.343.1](https://fedlex.data.admin.ch/eli/cc/2005/424)
+[^17-1]: [SR 172.220.111.343.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5363)
 
 ## 4. Kapitel: Versetzungen und Wohnsitz
 
@@ -395,7 +428,7 @@ Sie erhalten Arbeitgeberleistungen nach der Verordnung vom 20. Februar 2013[^21-
 
 <sup>3</sup> Eine ausserordentliche zeitliche Belastung wird durch entsprechende Freizeit ausgeglichen. Die Vorgesetzten schaffen in ihren Bereichen die entsprechenden Voraussetzungen. Sie vereinbaren mit den Angestellten den Zeitpunkt des Ausgleichs. Kommt keine Einigung zustande, bestimmen die Vorgesetzten unter Berücksichtigung des dienstlichen Bedarfs sowie der Interessen der Angestellten den Zeitpunkt des Ausgleichs.
 
-[^21-1]: [SR 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^21-1]: [SR 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
 
 #### Art. 22
 
@@ -538,7 +571,7 @@ Wer eine Vergütung für die bezogene Unterkunft am Arbeitsort erhält, hat pro 
 
 <sup>6</sup> Die übrigen Vergütungen für Auslagen richten sich nach der BPV.
 
-[^33-1]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^33-1]: [SR 510.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7287)
 
 ## 8. Kapitel: Persönliches Dienstfahrzeug
 
@@ -572,13 +605,13 @@ Folgenden Personen wird ein persönliches Dienstfahrzeug zugeteilt:
 
 #### Art. 36
 
-**Beschaffung und Fahrzeugzuteilung**
+**Bestellung, Verwaltung und Zuteilung[^36-1]**
 
-<sup>1</sup> Für die Beschaffung, die Verwaltung und die Zuteilung der persönlichen Dienstfahrzeuge ist die Fachstelle Personenwagen (FSPW) zuständig.
+<sup>1</sup> Für die Bestellung, die Verwaltung und die Zuteilung der persönlichen Dienstfahrzeuge ist die Fachstelle Personenwagen (FSPW) zuständig. Die FSPW führt eine Liste der zulässigen Neuwagen.[^36-2]
 
 <sup>2</sup> Als persönliches Dienstfahrzeug sind grundsätzlich elektrisch betriebene Fahrzeuge zu beschaffen, sofern keine Gründe dagegensprechen, die sich aus der Auftragserfüllung ergeben.
 
-<sup>3</sup> Für die Zuteilung wird ein Neuwagen beschafft. Dieser kann entsprechend der festgelegten Zuteilungsstufe und den vorgegebenen Mindestanforderungen durch die zukünftige Halterin oder den zukünftigen Halter des Fahrzeuges ausgewählt werden. In begründeten Ausnahmefällen kann für eine befristete Zeitdauer ein standardisiertes persönliches Dienstfahrzeug zugeteilt werden.
+<sup>3</sup> Die FSPW bestellt Neuwagen entsprechend der Zuteilungsstufe. Sie kann in begründeten Ausnahmefällen für eine befristete Dauer ein standardisiertes persönliches Dienstfahrzeug zuteilen.[^36-3]
 
 <sup>4</sup>
 
@@ -589,6 +622,10 @@ Folgenden Personen wird in jedem Fall ein standardisiertes persönliches Dienstf
 - c. Berufsmilitärpilotenanwärterinnen und -anwärtern.
 
 <sup>5</sup> Ein persönliches Dienstfahrzeug bleibt im Eigentum des Bundes. Die Besitzerin oder der Besitzer ist Halterin oder Halter des Fahrzeuges im Sinne der Strassenverkehrsgesetzgebung.
+
+[^36-1]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^36-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^36-3]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 37
 
@@ -602,21 +639,23 @@ Folgenden Personen wird in jedem Fall ein standardisiertes persönliches Dienstf
 
 **Verwendung des persönlichen Dienstfahrzeugs**
 
-<sup>1</sup> Die Halterin oder der Halter muss das persönliche Dienstfahrzeug warten.
+<sup>1</sup> Die Halterin oder der Halter ist für die zeit- und fachgerechte Durchführung aller Wartungs- und Instandsetzungsarbeiten am persönlichen Dienstfahrzeug verantwortlich. Sie oder er muss dabei die Herstellervorschriften beachten.[^38-1]
 
 <sup>2</sup> Sie oder er muss das persönliche Dienstfahrzeug ökonomisch und ökologisch sinnvoll verwenden.
 
-<sup>3</sup> Sie oder er kann das persönliche Dienstfahrzeug gegen eine Pauschalentschädigung privat verwenden. Die Entschädigung ist monatlich zu entrichten. Ihre Höhe wird von der Chefin oder dem Chef der Armee im Einvernehmen mit dem Generalsekretariat VBS festgelegt.
+<sup>3</sup> Sie oder er kann das persönliche Dienstfahrzeug gegen einen Pauschalbetrag privat verwenden. Der Pauschalbetrag ist monatlich zu entrichten. Die Höhe wird von der Chefin oder dem Chef der Armee im Einvernehmen mit dem Generalsekretariat VBS festgelegt.[^38-2]
 
 <sup>4</sup> Eine kommerzielle Nutzung des persönlichen Dienstfahrzeuges ist nicht gestattet.
 
-<sup>5</sup> Der Einsatz von Repräsentationsfahrzeugen richtet sich nach den Artikeln 14–16 der Verordnung vom 23. Februar 2005[^38-1] über die Fahrzeuge des Bundes und ihre Führer und Führerinnen.
+<sup>5</sup> Der Einsatz von Repräsentationsfahrzeugen richtet sich nach den Artikeln 14–16 der Verordnung vom 23. Februar 2005[^38-3] über die Fahrzeuge des Bundes und ihre Führer und Führerinnen.
 
 <sup>6</sup> Die Halterinnen und Halter dürfen keine Veränderungen an ihren Fahrzeugen vornehmen.
 
 <sup>7</sup> Bei unsachgemässer Verwendung oder Abänderung des Fahrzeuges oder sonstiger Verletzung der Vorschriften kann die FSPW im Einvernehmen mit dem Arbeitgeber die Fahrzeugzuteilung ändern oder den Gebrauch auf Dienstfahrten beschränken.
 
-[^38-1]: [SR 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
+[^38-1]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^38-2]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^38-3]: [SR 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
 
 #### Art. 39
 
@@ -644,15 +683,19 @@ Als Dienstfahrten gelten Fahrten, die bedingt sind durch:
 
 <sup>2</sup> Die übrigen Halterinnen oder Halter dürfen bei Dienstfahrten eine Fahrerin oder einen Fahrer einsetzen, sofern die Fahrt in direktem Zusammenhang mit einer dienstlichen Verrichtung der Truppe steht oder wenn die Aufgabenerfüllung oder die Sicherheit den Einsatz dringend erfordert. Eingesetzt werden dürfen nur Angehörige der Armee, die in der dienstleistenden Truppe als Fahrerin oder Fahrer eingeteilt sind.
 
-<sup>3</sup> Für Fahrten zwischen dem Wohnsitz und dem Arbeits- oder dem Einsatzort dürfen keine Fahrerinnen oder Fahrer eingesetzt werden.
+<sup>3</sup> Für Fahrten vom Wohnsitz zum Arbeits- oder Einsatzort dürfen nur in begründeten Ausnahmefällen Fahrerinnen oder Fahrer eingesetzt werden.[^40-1]
+
+[^40-1]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 41
 
 **Fahrberechtigung bei Privatfahrten**
 
-<sup>1</sup> Zu Privatfahrten berechtigt sind neben der Halterin oder dem Halter auch alle an seinem Wohnsitz angemeldeten Angehörigen, einschliesslich der Lebenspartnerin oder des Lebenspartners.
+<sup>1</sup> Zu Privatfahrten mit dem persönlichen Dienstfahrzeug berechtigt sind, sofern sie im selben Haushalt wie die Halterin oder der Halter leben, auch der Ehegatte oder Lebenspartner oder die Ehegattin oder Lebenspartnerin sowie die im selben Haushalt lebenden Kinder.[^41-1]
 
 <sup>2</sup> Privatfahrten für mehrtägige Reisen im In- und Ausland sowie Lernfahrten sind nur in Begleitung der Halterin oder des Halters gestattet.
+
+[^41-1]: Fassung gemäss Ziff. I der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 42
 
@@ -691,14 +734,14 @@ Bei Tätigkeiten im Ausland, die mehr als 60 Tage dauern, muss das persönliche 
 
 <sup>3</sup> Im Milizdienst richtet sich die Haftung der Halterin oder des Halters gegenüber dem Bund nach dem MG[^44-2].
 
-[^44-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^44-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^44-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^44-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 45
 
-**Generalabonnement der SBB**
+[^45-1]
 
-Halterinnen und Halter eines persönlichen Dienstfahrzeuges nach Artikel 34 haben keinen Anspruch auf ein vergünstigtes Generalabonnement «Erwachsene» der SBB.
+[^45-1]: Aufgehoben durch Ziff. I der V des VBS vom 27. Aug. 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ## 9. Kapitel: Ausführungsbestimmung
 
@@ -734,11 +777,13 @@ Die Verordnung des VBS vom 9. Dezember 2003[^48-1] über das militärische Perso
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 25 Abs. 4, 26 Abs. 2, 27 Abs. 2, 28, 29, 31 Abs. 1, 32 Abs. 2 und 3 sowie 33 Abs. 1, 2 und 4)
 
 ## Ansatz der Vergütungen
+
+[^t-1]: Bereinigt gemäss Ziff. II der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 <table>
 <tr><th></th><th></th><th>Fr.</th></tr>
@@ -750,8 +795,8 @@ Anhang 1
 <tr><td>3.1</td><td>– bei Nachtarbeit nach Artikel 28</td><td>17.—</td></tr>
 <tr><td>3.2</td><td>– bei Früh- und Abendarbeit am Arbeitsort nach den Artikeln 29, 32 Absatz 3 und 33 Absatz 4:</td><td></td></tr>
 <tr><td></td><td>– wenn die Möglichkeit der Verpflegung bei der Truppe besteht:</td><td></td></tr>
-<tr><td></td><td>– Frühstück</td><td>7.—</td></tr>
-<tr><td></td><td>– Nachtessen</td><td>10.—</td></tr>
+<tr><td></td><td>– Frühstück</td><td>10.—</td></tr>
+<tr><td></td><td>– Nachtessen</td><td>20.—</td></tr>
 <tr><td></td><td>– wenn keine Möglichkeit der Verpflegung bei der Truppe besteht:</td><td></td></tr>
 <tr><td></td><td>– Frühstück</td><td>15.—</td></tr>
 <tr><td></td><td>– Nachtessen</td><td>30.—</td></tr>

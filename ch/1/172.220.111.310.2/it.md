@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 26 novembre 2024 concernente il personale militare
 short: OPers mil
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/751"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2024-11-26
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/751/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-751-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/751/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2024-751-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20250101/it"
 
 (OPers mil)
 
-del 26 novembre 2024 (Stato 1° gennaio 2025)
+del 26 novembre 2024 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -27,7 +27,7 @@ visti gli articoli 89 e 115 dell’ordinanza del 3 luglio 2001[^ingress-1] sul p
 
 ordina:
 
-[^ingress-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -61,7 +61,18 @@ Nel presente atto normativo le disposizioni concernenti gli ufficiali di profess
 
 <sup>4</sup> Se nel presente atto normativo non esistono disposizioni particolari per i membri del servizio di volo militare, sono applicabili le disposizioni concernenti gli ufficiali di professione.
 
-[^2-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^2-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+
+#### Art. 2a
+
+**Definizioni**[^2a-1]
+
+Nella presente ordinanza s’intende per:
+
+- a. *fase di formazione di base:* il periodo durante il quale vengono acquisite le competenze ancora mancanti per l’ammissione alla formazione di base;
+- b. *formazione di base**:* la formazione secondo l’articolo 12.
+
+[^2a-1]: Introdotto dalla cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 3
 
@@ -81,37 +92,43 @@ I militari di professione comprendono:
 Gli ufficiali di professione comprendono:
 
 - a. gli alti ufficiali superiori;
-- b. i candidati ufficiali di professione, ossia le persone dal superamento dell’esame d’idoneità per ufficiali di professione fino al superamento dell’esame di ammissione alla formazione di base;
-- c. gli aspiranti ufficiali di professione, ossia le persone dal superamento dell’esame d’ammissione alla formazione di base fino alla conclusione della formazione di base;
+- b.[^3-1] i candidati ufficiali di professione, ossia le persone dal superamento dell’esame nel quadro di una valutazione del potenziale per ufficiali di professione fino alla conclusione della fase di formazione di base;
+- c.[^3-2] gli aspiranti ufficiali di professione, ossia le persone dalla conclusione della fase di formazione di base fino alla conclusione della formazione di base;
 - d. gli ufficiali di professione, ossia le persone che hanno concluso la formazione di base.
 
 <sup>3</sup>
 
 I sottufficiali di professione comprendono:
 
-- a. i candidati sottufficiali di professione, ossia le persone dal superamento dell’esame d’idoneità per sottufficiali di professione fino al superamento dell’esame di ammissione alla formazione di base;
-- b. gli aspiranti sottufficiali di professione, ossia le persone dal superamento dell’esame d’ammissione alla formazione di base fino alla conclusione della formazione di base;
+- a.[^3-3] i candidati sottufficiali di professione, ossia le persone dal superamento dell’esame nel quadro di una valutazione del potenziale per sottufficiali di professione fino alla conclusione della fase di formazione di base;
+- b.[^3-4] gli aspiranti sottufficiali di professione, ossia le persone dalla conclusione della fase di formazione di base fino alla conclusione della formazione di base;
 - c. i sottufficiali di professione, ossia le persone che hanno concluso la formazione di base.
 
 <sup>4</sup>
 
 I membri del servizio di volo militare comprendono:
 
-- a. i candidati piloti militari di professione, ossia le persone dal superamento della selezione fino alla conclusione dell’esame dell’idoneità fisica nonché dell’attitudine intellettuale e psichica;
-- b. gli aspiranti piloti militari di professione, ossia le persone dal superamento dell’esame d’idoneità fino alla conclusione della formazione di base;
+- a.[^3-5] i candidati piloti militari di professione, ossia le persone dal superamento dell’esame d’idoneità professionale per piloti militari fino al superamento dell’esame d’idoneità aeronautica;
+- b.[^3-6] gli aspiranti piloti militari di professione, ossia le persone dal superamento dell’esame d’idoneità aeronautica fino alla conclusione della formazione di base;
 - c. i piloti militari di professione, ossia le persone che hanno concluso la formazione di base;
 - d. gli operatori di bordo di professione;
 - e. i piloti di droni di professione.
 
 <sup>5</sup>
 
-Sono considerati militari di professione specialisti i militari di professione per cui è previsto l’impiego nelle formazioni di professionisti dell’esercito secondo l’articolo 5 dell’ordinanza del 29 marzo 2017[^3-1] sulle strutture dell’esercito. I militari di professione specialisti comprendono:
+Sono considerati militari di professione specialisti i militari di professione per cui è previsto l’impiego nelle formazioni di professionisti dell’esercito secondo l’articolo 5 dell’ordinanza del 29 marzo 2017[^3-7] sulle strutture dell’esercito. I militari di professione specialisti comprendono:
 
 - a. gli ufficiali di professione specialisti;
 - b. i sottufficiali di professione specialisti;
 - c. i soldati di professione specialisti.
 
-[^3-1]: [RS 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-6]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-7]: [RS 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
 
 ## Capitolo 2: Condizioni per l’assunzione
 
@@ -127,28 +144,31 @@ Sono considerati militari di professione specialisti i militari di professione p
 
 Possono essere assunte come ufficiali di professione le persone che:
 
-- a. possono presentare un diploma universitario o di una scuola universitaria professionale riconosciuto dallo Stato, adempiono le condizioni del politecnico federale (PF) di Zurigo per l’ammissione al ciclo di studi di bachelor in scienze politiche (ufficiali di professione) o possono presentare un attestato federale di capacità relativo a una formazione professionale di base secondo la legge del 13 dicembre 2002[^4-1] sulla formazione professionale (LFPr) o un diploma almeno equivalente riconosciuto dallo Stato e rilasciato da una scuola;
+- a.[^4-1] dispongono di un diploma di una scuola universitaria, di una scuola universitaria professionale o di un’alta scuola pedagogica riconosciuto dallo Stato oppure di una maturità liceale, una maturità professionale o una maturità specializzata riconosciuta a livello federale;
 - b. possiedono conoscenze di una seconda lingua nazionale;
-- c. sono militari e rivestono per lo meno il grado di tenente dopo aver concluso il servizio pratico;
+- c.[^4-2] sono militari, rivestono per lo meno il grado di tenente dopo aver concluso il servizio pratico e hanno prestato un servizio di perfezionamento della truppa;
 - d. hanno ottenuto buone qualificazioni nei servizi militari precedenti;
 - e. possono presentare un estratto del casellario giudiziale senza iscrizioni;
 - f. possono presentare un estratto del registro delle esecuzioni senza iscrizioni;
-- g. sono stati dichiarati idonei secondo le direttive del medico in capo dell’esercito dopo una visita di controllo da parte di un medico di fiducia; e
+- g.[^4-3] sono state dichiarate idonee sotto il profilo medico in base a una visita di controllo da parte di un medico di fiducia; e
 - h. sono titolari di una licenza di condurre della categoria B.
 
 <sup>2</sup>
 
 Devono inoltre soddisfare almeno una delle condizioni seguenti:
 
-- a. avere superato l’esame d’idoneità per ufficiali di professione per un’assunzione a tempo determinato in qualità di candidato ufficiale di professione;
-- b. avere superato l’esame d’ammissione alla formazione di base per un’assunzione a tempo indeterminato in qualità di aspirante ufficiale di professione;
-- c. avere concluso con successo la formazione di base per ufficiali di professione.
+- a. hanno superato gli esami nel quadro della valutazione del potenziale per ufficiali di professione per un’assunzione in qualità di candidato ufficiale di professione;
+- b. hanno concluso la fase di formazione di base per un’assunzione in qualità di aspirante ufficiale di professione;
+- c. hanno concluso la formazione di base per ufficiali di professione.[^4-4]
 
 <sup>3</sup> In casi eccezionali debitamente motivati e in presenza di un bisogno comprovato del datore di lavoro, il capo dell’esercito può riconoscere qualificazioni professionali equivalenti diverse da quelle di cui al capoverso 1 lettera a nonché altre condizioni militari.
 
 <sup>4</sup> In casi eccezionali debitamente motivati, quali un passaggio di grado nell’esercito di milizia da sottufficiale superiore a ufficiale, e in presenza di un bisogno comprovato, il capo dell’esercito può ammettere sottufficiali di professione in qualità di aspiranti ufficiali di professione.
 
-[^4-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Sezione 2: Sottufficiali di professione
 
@@ -162,24 +182,27 @@ Possono essere assunte come sottufficiali di professione le persone che:
 
 - a. possono presentare un attestato federale di capacità relativo a una formazione professionale di base secondo la LFPr[^5-1] o un diploma almeno equivalente riconosciuto dallo Stato e rilasciato da una scuola;
 - b. possiedono conoscenze di una seconda lingua nazionale;
-- c. sono militari e rivestono per lo meno un grado di sottufficiale dopo avere concluso il servizio pratico;
+- c.[^5-2] sono militari, rivestono per lo meno un grado di sottufficiale dopo avere concluso il servizio pratico e hanno prestato almeno un servizio di perfezionamento della truppa;
 - d. hanno ottenuto buone qualificazioni nei servizi militari precedenti;
 - e. possono presentare un estratto del casellario giudiziale senza iscrizioni;
 - f. possono presentare un estratto del registro delle esecuzioni senza iscrizioni;
-- g. sono stati dichiarati idonei secondo le direttive del medico in capo dell’esercito dopo una visita di controllo da parte di un medico di fiducia; e
+- g.[^5-3] sono state dichiarate idonee sotto il profilo medico in base a una visita di controllo da parte di un medico di fiducia; e
 - h. sono titolari di una licenza di condurre della categoria B.
 
 <sup>2</sup>
 
 Devono inoltre soddisfare almeno una delle condizioni seguenti:
 
-- a. avere superato l’esame d’idoneità per sottufficiali di professione per un’assunzione a tempo determinato in qualità di candidato sottufficiale di professione;
-- b. avere superato l’esame d’ammissione alla formazione di base per un’assunzione a tempo indeterminato in qualità di aspirante sottufficiale di professione;
-- c. avere concluso con successo la formazione di base per sottufficiali di professione.
+- a. hanno superato gli esami nel quadro della valutazione del potenziale per sottufficiali di professione per un’assunzione in qualità di candidato sottufficiale di professione;
+- b. hanno concluso la fase di formazione di base per un’assunzione in qualità di aspirante sottufficiale di professione;
+- c. hanno concluso la formazione di base per sottufficiali di professione.[^5-4]
 
 <sup>3</sup> In casi eccezionali debitamente motivati e in presenza di un bisogno comprovato del datore di lavoro, il capo dell’esercito può riconoscere qualificazioni professionali equivalenti diverse da quelle di cui al capoverso 1 lettera a nonché altre condizioni militari.
 
-[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Sezione 3: Membri del servizio di volo militare
 
@@ -187,7 +210,7 @@ Devono inoltre soddisfare almeno una delle condizioni seguenti:
 
 Le condizioni per l’assunzione dei membri del servizio di volo militare sono rette dall’ordinanza del 18 marzo 2022[^6-1] sul servizio di volo militare.
 
-[^6-1]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^6-1]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 ### Sezione 4: Militari di professione specialisti
 
@@ -204,10 +227,11 @@ Possono essere assunte come ufficiali di professione specialisti le persone che:
 - e. hanno ottenuto buone qualificazioni nei servizi militari precedenti;
 - f. possono presentare un estratto del casellario giudiziale senza iscrizioni;
 - g. possono presentare un estratto del registro delle esecuzioni senza iscrizioni;
-- h. sono stati dichiarati idonei secondo le direttive del medico in capo dell’esercito dopo una visita di controllo da parte di un medico di fiducia; e
+- h.[^7-2] sono state dichiarate idonee sotto il profilo medico in base a una visita di controllo da parte di un medico di fiducia; e
 - i. sono titolari di una licenza di condurre della categoria B.
 
-[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^7-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 8
 
@@ -221,10 +245,11 @@ Possono essere assunte come sottufficiali di professione specialisti le persone 
 - d. sono militari e rivestono un grado di sottufficiale dopo aver concluso il servizio pratico;
 - e. possono presentare un estratto del casellario giudiziale senza iscrizioni;
 - f. possono presentare un estratto del registro delle esecuzioni senza iscrizioni;
-- g. sono stati dichiarati idonei secondo le direttive del medico in capo dell’esercito dopo una visita di controllo da parte di un medico di fiducia; e
+- g.[^8-2] sono state dichiarate idonee sotto il profilo medico in base a una visita di controllo da parte di un medico di fiducia; e
 - h. sono titolari di una licenza di condurre della categoria B.
 
-[^8-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^8-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^8-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 9
 
@@ -238,10 +263,11 @@ Possono essere assunte come soldati di professione specialisti le persone che:
 - d. hanno ottenuto buone qualificazioni nei servizi militari precedenti;
 - e. possono presentare un estratto del casellario giudiziale senza iscrizioni;
 - f. possono presentare un estratto del registro delle esecuzioni senza iscrizioni;
-- g. sono stati dichiarati idonei secondo le direttive del medico in capo dell’esercito dopo una visita di controllo da parte di un medico di fiducia; e
+- g.[^9-2] sono state dichiarate idonee sotto il profilo medico in base a una visita di controllo da parte di un medico di fiducia; e
 - h. sono titolari di una licenza di condurre della categoria B.
 
-[^9-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^9-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^9-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Sezione 5: Militari a contratto temporaneo
 
@@ -254,15 +280,22 @@ Possono essere assunte come militari a contratto temporaneo le persone che:
 - c. hanno ottenuto buone qualificazioni nei servizi militari precedenti;
 - d. possono presentare un estratto del casellario giudiziale senza iscrizioni;
 - e. possono presentare un estratto del registro delle esecuzioni senza iscrizioni; e
-- f. sono stati dichiarati idonei secondo le direttive del medico in capo dell’esercito dopo una visita di controllo da parte di un medico di fiducia.
+- f.[^10-2] sono state dichiarate idonee sotto il profilo medico in base a una visita di controllo da parte di un medico di fiducia.
 
-[^10-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^10-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^10-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Sezione 6: Mancato adempimento delle condizioni per l’assunzione
 
 #### Art. 11
 
-Se a carico di una persona figurano iscrizioni d’importanza secondaria nel casellario giudiziale o nel registro delle esecuzioni, su richiesta motivata dell’autorità di assunzione il capo dell’esercito può autorizzare una deroga.
+[^11-1]
+
+<sup>1</sup> Il personale militare è tenuto a comunicare ogni avvio di procedimenti penali e promozione di esecuzioni nonché qualsiasi modifica nel casellario giudiziale e nel registro delle esecuzioni non appena ne viene a conoscenza.
+
+<sup>2</sup> Se nel casellario giudiziale o nel registro delle esecuzioni figura un’iscrizione d’importanza secondaria, su richiesta motivata del servizio che assume, il capo dell’esercito può derogare dal requisito secondo cui non debbano figurare iscrizioni di questo tipo al momento dell’assunzione.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ## Capitolo 3: Formazione di base e sviluppo del personale
 
@@ -282,9 +315,9 @@ Se a carico di una persona figurano iscrizioni d’importanza secondaria nel cas
 
 <sup>4</sup> Le formazioni di base per militari di professione specialisti sono orientate ai bisogni e alle funzioni. Esse si svolgono durante la durata dell’impiego.
 
-[^12-1]: [RS 414.131.1](https://fedlex.data.admin.ch/eli/cc/2017/532)
-[^12-2]: [RS 512.413](https://fedlex.data.admin.ch/eli/cc/2015/831)
-[^12-3]: [RS 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)
+[^12-1]: [RS 414.131.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6725)
+[^12-2]: [RS 512.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7445)
+[^12-3]: [RS 512.271.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7422)
 
 #### Art. 13
 
@@ -335,7 +368,7 @@ Il datore di lavoro può chiedere il rimborso dei costi relativi alla formazione
 
 <sup>3</sup> All’interno di un gruppo d’impiego le funzioni possono essere distinte in impieghi di inizio carriera e impieghi di fine carriera al fine di garantire una pianificazione del personale conforme all’età e all’esperienza.
 
-[^17-1]: [RS 172.220.111.343.1](https://fedlex.data.admin.ch/eli/cc/2005/424)
+[^17-1]: [RS 172.220.111.343.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5363)
 
 ## Capitolo 4: Trasferimenti e domicilio
 
@@ -395,7 +428,7 @@ Percepiscono prestazioni del datore di lavoro secondo quanto previsto dall’ord
 
 <sup>3</sup> Un onere temporale eccezionalmente elevato è compensato con tempo libero della stessa durata. I superiori creano nei loro settori di attività le condizioni propizie. Concordano con gli impiegati il momento della compensazione. In caso di mancata intesa, i superiori decidono il momento della compensazione tenendo conto delle esigenze del servizio nonché degli interessi degli impiegati.
 
-[^21-1]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^21-1]: [RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
 
 #### Art. 22
 
@@ -538,7 +571,7 @@ Chi riceve un’indennità per l’alloggio occupato presso il luogo di lavoro h
 
 <sup>6</sup> Le rimanenti indennità per spese si fondano sull’OPers.
 
-[^33-1]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^33-1]: [RS 510.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7287)
 
 ## Capitolo 8: Veicoli di servizio personali
 
@@ -572,13 +605,13 @@ Un veicolo di servizio personale è attribuito alle persone seguenti:
 
 #### Art. 36
 
-**Acquisto e attribuzione dei veicoli**
+**Ordinazione, amministrazione e attribuzione[^36-1]**
 
-<sup>1</sup> La competenza per l’acquisto, l’amministrazione e l’attribuzione dei veicoli di servizio personali spetta al Servizio preposto alle autovetture (SPA).
+<sup>1</sup> La competenza per l’ordinazione, l’amministrazione e l’attribuzione dei veicoli di servizio personali spetta al Servizio preposto alle autovetture (SPA). Il SPA tiene un elenco delle autovetture nuove autorizzate.[^36-2]
 
 <sup>2</sup> Di principio come veicoli di servizio personali devono essere acquistati veicoli elettrici, sempre che non vi siano motivi che pregiudichino l’adempimento del mandato.
 
-<sup>3</sup> Per l’attribuzione viene acquistata un’autovettura nuova. In funzione del livello di attribuzione stabilito e dei requisiti minimi prescritti, i futuri detentori possono scegliere l’autovettura. In casi eccezionali debitamente motivati per un periodo di tempo limitato può essere attribuito un veicolo di servizio personale standardizzato.
+<sup>3</sup> Il SPA ordina autovetture nuove in funzione del livello di attribuzione. In casi eccezionali debitamente motivati per un periodo limitato può attribuire un veicolo di servizio personale standardizzato.[^36-3]
 
 <sup>4</sup>
 
@@ -589,6 +622,10 @@ Alle persone seguenti viene attribuito in ogni caso un veicolo di servizio perso
 - c. aspiranti piloti militari di professione.
 
 <sup>5</sup> Un veicolo di servizio personale rimane di proprietà della Confederazione. Il possessore è il detentore del veicolo ai sensi della legislazione sulla circolazione stradale.
+
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 37
 
@@ -602,21 +639,23 @@ Alle persone seguenti viene attribuito in ogni caso un veicolo di servizio perso
 
 **Utilizzo del veicolo di servizio personale**
 
-<sup>1</sup> Il detentore deve provvedere alla manutenzione del veicolo di servizio personale.
+<sup>1</sup> Il detentore è responsabile dell’esecuzione tempestiva e adeguata di tutti i servizi e lavori di manutenzione al veicolo di servizio personale. Deve tenere conto delle prescrizioni del costruttore.[^38-1]
 
 <sup>2</sup> Deve impiegare il veicolo di servizio personale in maniera economica ed ecologica.
 
-<sup>3</sup> Può utilizzarlo per scopi privati contro un indennizzo forfetario. L’indennizzo deve essere versato mensilmente. L’ammontare è stabilito dal capo dell’esercito d’intesa con la Segreteria generale del DDPS.
+<sup>3</sup> Può utilizzare il veicolo di servizio personale per scopi privati dietro pagamento di un importo forfetario. L’importo forfetario deve essere versato mensilmente. L’ammontare è stabilito dal capo dell’esercito d’intesa con la Segreteria generale del DDPS.[^38-2]
 
 <sup>4</sup> Non è consentito un utilizzo del veicolo di servizio personale a fini commerciali.
 
-<sup>5</sup> L’impiego di veicoli di rappresentanza è retto dagli articoli 14–16 dell’ordinanza del 23 febbraio 2005[^38-1] concernente i veicoli della Confederazione e i loro conducenti.
+<sup>5</sup> L’impiego di veicoli di rappresentanza è retto dagli articoli 14–16 dell’ordinanza del 23 febbraio 2005[^38-3] concernente i veicoli della Confederazione e i loro conducenti.
 
 <sup>6</sup> Ai detentori non è consentito apportare alcuna modifica ai loro veicoli.
 
 <sup>7</sup> In caso di impiego inappropriato o di modifica del veicolo oppure di altre violazioni delle prescrizioni, il SPA, d’intesa con il datore di lavoro, può modificare l’attribuzione del veicolo oppure limitare l’uso alle corse di servizio.
 
-[^38-1]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
+[^38-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^38-3]: [RS 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
 
 #### Art. 39
 
@@ -644,15 +683,19 @@ Sono considerate corse di servizio tutte le corse imposte:
 
 <sup>2</sup> Gli altri detentori sono autorizzati a impiegare un conducente per corse di servizio se la corsa è direttamente correlata con un’attività di servizio della truppa oppure se l’adempimento dei compiti o la sicurezza lo richiedono assolutamente. Possono essere impiegati unicamente i militari incorporati come conducenti nella truppa che presta servizio.
 
-<sup>3</sup> Per i tragitti tra il domicilio e il luogo di lavoro o d’impiego non possono essere impiegati conducenti.
+<sup>3</sup> Per i tragitti dal domicilio al luogo di lavoro o d’impiego possono essere impiegati conducenti solo in casi eccezionali debitamente motivati.[^40-1]
+
+[^40-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 41
 
 **Autorizzazione a condurre in caso di corse private**
 
-<sup>1</sup> Oltre al detentore, sono autorizzati a effettuare corse private tutti i membri della famiglia, compreso il partner, notificati come appartenenti alla medesima economia domestica.
+<sup>1</sup> Sono autorizzati a effettuare corse private con il veicolo di servizio personale il coniuge o il partner e i figli che vivono nella stessa economia domestica del detentore.[^41-1]
 
 <sup>2</sup> Le corse private per viaggi di più giorni in Svizzera e all’estero nonché le corse di scuola guida sono autorizzate soltanto con l’accompagnamento del detentore.
+
+[^41-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 42
 
@@ -691,14 +734,16 @@ Per attività all’estero che durano più di 60 giorni deve essere utilizzato i
 
 <sup>3</sup> In servizio di milizia la responsabilità del detentore nei confronti della Confederazione si fonda sulla LM[^44-2].
 
-[^44-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^44-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^44-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^44-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 45
 
-**Abbonamento generale delle FFS**
+**Abbonamento generale delle FFS**[^45-1]
 
 I detentori di un veicolo di servizio personale secondo l’articolo 34 non hanno diritto a un abbonamento generale «adulti» a prezzo ridotto delle FFS.
+
+[^45-1]: Abrogato dalla cifra I dell’O del DDPS del 27 ago. 2026, con effetto dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ## Capitolo 9: Disposizione d’esecuzione
 
@@ -734,11 +779,13 @@ L’ordinanza del DDPS del 9 dicembre 2003[^48-1] concernente il personale milit
 
 La presente ordinanza entra in vigore il 1° gennaio 2025.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 25 cpv. 4, 26 cpv. 2, 27 cpv. 2, 28, 29, 31 cpv. 1, 32 cpv. 2 e 3 nonché 33 cpv. 1, 2 e 4)
 
 ## Aliquote delle indennità
+
+[^t-1]: Aggiornato dalla cifra II dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 <table>
 <tr><th></th><th></th><th>Fr.</th></tr>
@@ -750,8 +797,8 @@ Allegato 1
 <tr><td>3.1</td><td>– in caso di lavoro notturno secondo l’articolo 28</td><td>17.—</td></tr>
 <tr><td>3.2</td><td>– in caso di lavoro la mattina presto e di lavoro serale presso il luogo di lavoro secondo gli articoli 29, 32 capoverso 3 e 33 capoverso 4:</td><td></td></tr>
 <tr><td></td><td>– se vi è una possibilità di sussistenza presso la truppa:</td><td></td></tr>
-<tr><td></td><td>– colazione</td><td>7.—</td></tr>
-<tr><td></td><td>– cena</td><td>10.—</td></tr>
+<tr><td></td><td>– colazione</td><td>10.—</td></tr>
+<tr><td></td><td>– cena</td><td>20.—</td></tr>
 <tr><td></td><td>– se non vi è alcuna possibilità di sussistenza presso la truppa:</td><td></td></tr>
 <tr><td></td><td>– colazione</td><td>15.—</td></tr>
 <tr><td></td><td>– cena</td><td>30.—</td></tr>

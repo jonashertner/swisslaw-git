@@ -4,11 +4,11 @@ title: Ordonnance du DDPS du 26 novembre 2024 sur le personnel militaire (OPersM
 short: OPersMil
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/751"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2024-11-26
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/751/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-751-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/751/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-751-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/751/20250101/fr"
 
 (OPersMil)
 
-du 26 novembre 2024 (État le 1<sup>er</sup> janvier 2025)
+du 26 novembre 2024 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -27,7 +27,7 @@ vu les art. 89 et 115 de l’ordonnance du 3 juillet 2001 sur le personnel de la
 
 arrête:
 
-[^ingress-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Chapitre 1 Dispositions générales
 
@@ -61,7 +61,18 @@ Les dispositions du présent acte relatives aux officiers de carrière ne s’ap
 
 <sup>4</sup> Lorsqu’il n’existe pas de dispositions particulières dans le présent acte pour les membres du service de vol militaire, ce sont celles concernant les officiers de carrière qui s’appliquent.
 
-[^2-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^2-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+
+#### Art. 2a
+
+**Définitions**[^2a-1]
+
+On entend par:
+
+- a. *phase d’instruction de base:* la période au cours de laquelle les compétences encore manquantes pour l’admission à l’instruction de base sont acquises;
+- b. *instruction de base:* la formation au sens de l’art. 12.
+
+[^2a-1]: Introduit par le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 3
 
@@ -81,37 +92,43 @@ Les militaires de carrière peuvent être:
 Les officiers de carrière peuvent être:
 
 - a. des officiers généraux;
-- b. des candidats officiers de carrière, à savoir des personnes qui ont réussi l’examen d’aptitude pour officiers de carrière jusqu’au moment où elles ont réussi l’examen d’admission à l’instruction de base;
-- c. des aspirants officiers de carrière, à savoir des personnes qui ont réussi l’examen d’admission à l’instruction de base jusqu’au moment où elles ont achevé l’instruction de base;
+- b.[^3-1] des candidats officiers de carrière, à savoir des personnes qui ont réussi les examens d’évaluation du potentiel d’officier de carrière jusqu’à la fin de la phase d’instruction de base;
+- c.[^3-2] des aspirants officiers de carrière, à savoir des personnes qui ont accompli la phase d’instruction de base jusqu’à la fin de l’instruction de base;
 - d. des officiers de carrière, à savoir des personnes ayant achevé l’instruction de base.
 
 <sup>3</sup>
 
 Les sous-officiers de carrière peuvent être:
 
-- a. des candidats sous-officiers de carrière, à savoir des personnes qui ont réussi l’examen d’aptitude pour sous-officiers de carrière jusqu’au moment où elles ont réussi l’examen d’admission à l’instruction de base;
-- b. des aspirants sous-officiers de carrière, à savoir des personnes qui ont réussi l’examen d’admission à l’instruction de base jusqu’au moment où elles ont achevé l’instruction de base;
+- a.[^3-3] des candidats sous-officiers de carrière, à savoir des personnes qui ont réussi les examens d’évaluation du potentiel de sous-officier de carrière jusqu’à la fin de la phase d’instruction de base;
+- b.[^3-4] des aspirants sous-officiers de carrière, à savoir des personnes qui ont réussi la phase d’instruction de base jusqu’au moment où elles ont achevé l’instruction de base;
 - c. des sous-officiers de carrière, à savoir des personnes ayant achevé l’instruction de base.
 
 <sup>4</sup>
 
 Les membres du service de vol militaire peuvent être:
 
-- a. des candidats pilotes militaires de carrière, à savoir des personnes qui ont passé la sélection jusqu’au moment où leurs aptitudes physiques, intellectuelles et psychiques ont été examinées;
-- b. des aspirants pilotes militaires de carrière, à savoir des personnes qui ont réussi l’examen d’aptitude jusqu’au moment où elles ont achevé l’instruction de base;
+- a.[^3-5] des candidats pilotes militaires de carrière, à savoir des personnes qui ont réussi l’examen d’aptitude professionnelle jusqu’à la réussite de l’évaluation aéronautique;
+- b.[^3-6] des aspirants pilotes militaires de carrière, à savoir des personnes qui ont réussi l’évaluation aéronautique jusqu’à la fin de l’instruction de base;
 - c. des pilotes militaires de carrière, à savoir des personnes ayant achevé l’instruction de base;
 - d. des opérateurs de bord de carrière;
 - e. des pilotes de drones de carrière.
 
 <sup>5</sup>
 
-Sont considérés comme des militaires de carrière spécialistes les militaires de carrière amenés à être engagés dans les formations professionnelles de l’armée mentionnées à l’art. 5 de l’ordonnance du 29 mars 2017 sur les structures de l’armée[^3-1]. Ils peuvent être:
+Sont considérés comme des militaires de carrière spécialistes les militaires de carrière amenés à être engagés dans les formations professionnelles de l’armée mentionnées à l’art. 5 de l’ordonnance du 29 mars 2017 sur les structures de l’armée[^3-7]. Ils peuvent être:
 
 - a. des officiers de carrière spécialistes;
 - b. des sous-officiers de carrière spécialistes;
 - c. des soldats de carrière spécialistes.
 
-[^3-1]: [RS 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-6]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^3-7]: [RS 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
 
 ## Chapitre 2 Exigences liées à la fonction
 
@@ -127,28 +144,31 @@ Sont considérés comme des militaires de carrière spécialistes les militaires
 
 Peuvent être engagées comme officiers de carrière les personnes:
 
-- a. qui peuvent présenter un diplôme reconnu par la Confédération délivré par une haute école universitaire ou par une haute école spécialisée, qui remplissent les conditions d’admission de l’École polytechnique fédérale de Zurich (EPFZ) à la filière d’études de bachelor en sciences politiques (officier de carrière) ou qui peuvent présenter un certificat fédéral de capacité d’une formation professionnelle initiale au sens de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^4-1] ou un diplôme de niveau au moins équivalent reconnu par la Confédération délivré par une école;
+- a.[^4-1] titulaires d’un diplôme reconnu par l’État délivré par une haute école universitaire, une haute école spécialisée ou une haute école pédagogique ou qui disposent d’une maturité gymnasiale, professionnelle ou spécialisée reconnue au niveau fédéral;
 - b. qui ont des connaissances d’une deuxième langue nationale;
-- c. qui sont des militaires et qui revêtent au minimum le grade de lieutenant après avoir achevé leur service pratique;
+- c.[^4-2] qui sont des militaires revêtant au minimum le grade de lieutenant au terme de leur service pratique et qui ont effectué un service de perfectionnement de la troupe;
 - d. qui ont obtenu de bonnes qualifications lors des services militaires précédents;
 - e. qui peuvent présenter un extrait du casier judiciaire vierge;
 - f. qui peuvent présenter un extrait du registre des poursuites vierge;
-- g. qui ont été déclarées aptes après un examen effectué par un médecin-conseil conformément aux consignes du médecin en chef de l’armée, et
+- g.[^4-3] qui ont été déclarées aptes après un examen effectué par un médecin-conseil, et
 - h. qui sont titulaires du permis de conduire de la catégorie B.
 
 <sup>2</sup>
 
 Ces personnes doivent en outre satisfaire au moins à l’une des exigences suivantes:
 
-- a. avoir réussi l’examen d’aptitude pour officiers de carrière permettant un engagement de durée déterminée en qualité de candidat officier de carrière;
-- b. avoir réussi l’examen d’admission à l’instruction de base permettant un engagement de durée indéterminée en qualité d’aspirant officier de carrière;
-- c. avoir achevé l’instruction de base pour officiers de carrière.
+- a. avoir réussi les examens d’évaluation du potentiel d’officier de carrière permettant un engagement en qualité de candidat officier de carrière;
+- b. avoir achevé la phase d’instruction de base permettant un engagement en qualité d’aspirant officier de carrière;
+- c. avoir achevé l’instruction de base pour officiers de carrière.[^4-4]
 
 <sup>3</sup> Dans des cas exceptionnels dûment motivés et en cas de besoin avéré de l’employeur, le chef de l’Armée peut reconnaître des qualifications professionnelles équivalentes autres que celles visées à l’al. 1, let. a, et d’autres conditions fixées par l’armée.
 
 <sup>4</sup> Dans des cas exceptionnels dûment motivés tels que le passage du grade de sous-officier supérieur au grade d’officier dans l’armée de milice, et en cas de besoin avéré, le chef de l’Armée peut admettre des sous-officiers de carrière en tant qu’aspirants officiers de carrière.
 
-[^4-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Section 2 Sous‑officiers de carrière
 
@@ -162,24 +182,27 @@ Peuvent être engagées comme sous-officiers de carrière les personnes:
 
 - a. qui peuvent présenter un certificat fédéral de capacité d’une formation professionnelle initiale au sens de la LFPr[^5-1] ou un diplôme de niveau au moins équivalent reconnu par la Confédération délivré par une école;
 - b. qui ont des connaissances d’une deuxième langue nationale;
-- c. qui sont des militaires et qui revêtent au minimum un grade de sous-officier après avoir achevé leur service pratique;
+- c.[^5-2] qui sont des militaires revêtant au minimum un grade de sous-officier au terme de leur service pratique et qui ont effectué un service de perfectionnement de la troupe;
 - d. qui ont obtenu de bonnes qualifications lors des services militaires précédents;
 - e. qui peuvent présenter un extrait du casier judiciaire vierge;
 - f. qui peuvent présenter un extrait du registre des poursuites vierge;
-- g. qui ont été déclarées aptes après un examen effectué par un médecin-conseil conformément aux consignes du médecin en chef de l’armée, et
+- g.[^5-3] qui ont été déclarées aptes après un examen effectué par un médecin-conseil, et
 - h. qui sont titulaires du permis de conduire de la catégorie B.
 
 <sup>2</sup>
 
 Ces personnes doivent en outre satisfaire au moins à l’une des exigences suivantes:
 
-- a. avoir réussi l’examen d’aptitude pour sous-officiers de carrière permettant un engagement de durée déterminée en qualité de candidat sous‑officier de carrière;
-- b. avoir réussi l’examen d’admission à l’instruction de base permettant un engagement de durée indéterminée en qualité d’aspirant sous-officier de carrière;
-- c. avoir achevé l’instruction de base pour sous-officiers de carrière.
+- a. avoir réussi les examens d’évaluation du potentiel de sous-officier de carrière permettant un engagement en qualité de candidat sous-officier de carrière;
+- b. avoir réussi la phase d’instruction de base permettant un engagement en qualité d’aspirant sous-officier de carrière;
+- c. avoir achevé l’instruction de base pour sous-officiers de carrière.[^5-4]
 
 <sup>3</sup> Dans des cas exceptionnels dûment motivés et de besoin avéré de l’employeur, le chef de l’Armée peut reconnaître des qualifications professionnelles équivalentes autres que celles visées à l’al. 1, let. a, et d’autres conditions fixées par l’armée.
 
-[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Section 3 Membres du service de vol militaire
 
@@ -187,7 +210,7 @@ Ces personnes doivent en outre satisfaire au moins à l’une des exigences suiv
 
 Les exigences liées à la fonction de membre du service de vol militaire sont régies par l’ordonnance du 18 mars 2022 sur le service de vol militaire[^6-1].
 
-[^6-1]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^6-1]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 ### Section 4 Militaires de carrière spécialistes
 
@@ -204,10 +227,11 @@ Peuvent être engagées comme officiers de carrière spécialistes les personnes
 - e. qui ont obtenu de bonnes qualifications lors des services militaires précédents;
 - f. qui peuvent présenter un extrait du casier judiciaire vierge;
 - g. qui peuvent présenter un extrait du registre des poursuites vierge;
-- h. qui ont été déclarées aptes après un examen effectué par un médecin-conseil conformément aux consignes du médecin en chef de l’armée, et
+- h.[^7-2] qui ont été déclarées aptes après un examen effectué par un médecin-conseil, et
 - i. qui sont titulaires du permis de conduire de la catégorie B.
 
-[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^7-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 8
 
@@ -221,10 +245,11 @@ Peuvent être engagées comme sous-officiers de carrière spécialistes les pers
 - d. qui sont des militaires et qui revêtent un grade de sous-officier après avoir achevé leur service pratique;
 - e. qui peuvent présenter un extrait du casier judiciaire vierge;
 - f. qui peuvent présenter un extrait du registre des poursuites vierge;
-- g. qui ont été déclarées aptes après un examen effectué par un médecin-conseil conformément aux consignes du médecin en chef de l’armée, et
+- g.[^8-2] qui ont été déclarées aptes après un examen effectué par un médecin-conseil, et
 - h. qui sont titulaires du permis de conduire de la catégorie B.
 
-[^8-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^8-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 9
 
@@ -238,10 +263,11 @@ Peuvent être engagées comme soldats de carrière spécialistes les personnes:
 - d. qui ont obtenu de bonnes qualifications lors des services militaires précédents;
 - e. qui peuvent présenter un extrait du casier judiciaire vierge;
 - f. qui peuvent présenter un extrait du registre des poursuites vierge;
-- g. qui ont été déclarées aptes après un examen effectué par un médecin-conseil conformément aux consignes du médecin en chef de l’armée, et
+- g.[^9-2] qui ont été déclarées aptes après un examen effectué par un médecin-conseil, et
 - h. qui sont titulaires du permis de conduire de la catégorie B.
 
-[^9-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^9-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Section 5 Militaires contractuels
 
@@ -254,15 +280,22 @@ Peuvent être engagées comme militaires contractuels les personnes:
 - c. qui ont obtenu de bonnes qualifications lors des services militaires précédents;
 - d. qui peuvent présenter un extrait du casier judiciaire vierge;
 - e. qui peuvent présenter un extrait du registre des poursuites vierge, et
-- f. qui ont été déclarées aptes après un examen effectué par un médecin-conseil conformément aux consignes du médecin en chef de l’armée.
+- f.[^10-2] qui ont été déclarées aptes après un examen effectué par un médecin-conseil.
 
-[^10-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^10-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Section 6 Non-satisfaction des exigences liées à la fonction
 
 #### Art. 11
 
-Lorsqu’une personne fait l’objet d’inscriptions de moindre importance au casier judiciaire ou au registre des poursuites, le chef de l’Armée peut accorder une dérogation sur demande motivée de l’autorité de nomination.
+[^11-1]
+
+<sup>1</sup> Le personnel militaire est tenu d’annoncer, dès qu’il en a connaissance, toute ouverture d’une poursuite pénale ou d’une poursuite pour dette, ainsi que toute modification du casier judiciaire ou du registre des poursuites concernant son personnel.
+
+<sup>2</sup> Dans le cas où une inscription de moindre importance figure au casier judiciaire ou au registre des poursuites avant l’engagement, le chef de l’Armée peut, sur demande motivée du service recruteur, déroger à l’exigence de n’avoir aucune inscription au casier judiciaire et au registre des poursuites.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ## Chapitre 3 Instruction de base et développement du personnel
 
@@ -282,9 +315,9 @@ Lorsqu’une personne fait l’objet d’inscriptions de moindre importance au c
 
 <sup>4</sup> Les instructions de base des militaires de carrière spécialistes tiennent compte des besoins et des fonctions. Elles ont lieu durant la période d’engagement.
 
-[^12-1]: [RS 414.131.1](https://fedlex.data.admin.ch/eli/cc/2017/532)
-[^12-2]: [RS 512.413](https://fedlex.data.admin.ch/eli/cc/2015/831)
-[^12-3]: [RS 512.271.1](https://fedlex.data.admin.ch/eli/cc/2022/214)
+[^12-1]: [RS 414.131.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6725)
+[^12-2]: [RS 512.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7445)
+[^12-3]: [RS 512.271.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7422)
 
 #### Art. 13
 
@@ -335,7 +368,7 @@ L’employeur peut demander le remboursement des coûts inhérents à l’instru
 
 <sup>3</sup> Au sein d’un groupe d’engagement, il est possible de faire une distinction entre les fonctions, suivant qu’elles conviennent à une affectation initiale ou ultérieure, afin d’assurer une planification du personnel en fonction de l’âge et de l’expérience.
 
-[^17-1]: [RS 172.220.111.343.1](https://fedlex.data.admin.ch/eli/cc/2005/424)
+[^17-1]: [RS 172.220.111.343.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5363)
 
 ## Chapitre 4 Transferts et domicile
 
@@ -395,7 +428,7 @@ Ils bénéficient des prestations de l’employeur visées dans l’ordonnance d
 
 <sup>3</sup> Une surcharge temporaire exceptionnelle de travail est compensée par du temps libre. Les supérieurs hiérarchiques créent dans leur domaine d’activité les conditions nécessaires. Ils conviennent du moment de la compensation avec les employés. Si aucun accord n’est trouvé, les supérieurs hiérarchiques décident du moment de la compensation en tenant compte des besoins du service et en respectant l’intérêt des employés.
 
-[^21-1]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^21-1]: [RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
 
 #### Art. 22
 
@@ -538,7 +571,7 @@ Quiconque reçoit une indemnité de logement sur le lieu de travail a de plus dr
 
 <sup>6</sup> Les autres indemnités pour la couverture des frais sont régies par l’OPers.
 
-[^33-1]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^33-1]: [RS 510.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7287)
 
 ## Chapitre 8 Véhicule de service personnel
 
@@ -572,13 +605,13 @@ Un véhicule de service personnel est fourni aux personnes suivantes:
 
 #### Art. 36
 
-**Acquisition et attribution des véhicules**
+**Commande, administration et attribution des véhicules[^36-1]**
 
-<sup>1</sup> Le service préposé aux automobiles (SPA) est responsable de l’acquisition, de la gestion et de l’attribution des véhicules de service personnels.
+<sup>1</sup> Le service préposé aux automobiles (SPA) est responsable de la commande, de l’administration et de l’attribution des véhicules de service personnels. Il tient un catalogue des voitures neuves autorisées.[^36-2]
 
 <sup>2</sup> Un véhicule électrique est acquis comme véhicule de service personnel si rien ne s’y oppose dans l’exécution du mandat.
 
-<sup>3</sup> Une voiture neuve est acquise en vue de l’attribution. Le futur détenteur peut la choisir en fonction du degré d’attribution fixé et des exigences minimales prescrites. Dans des cas exceptionnels dûment motivés, un véhicule de service personnel standardisé peut être attribué pour une période limitée.
+<sup>3</sup> Il commande les voitures neuves conformément au degré d’attribution. Dans des cas exceptionnels dûment motivés, il peut attribuer un véhicule de service personnel standardisé pour une période limitée.[^36-3]
 
 <sup>4</sup>
 
@@ -589,6 +622,10 @@ Les personnes suivantes se voient attribuer un véhicule de service personnel st
 - c. les aspirants pilotes militaires de carrière.
 
 <sup>5</sup> Le véhicule de service personnel reste la propriété de la Confédération. Le possesseur en est le détenteur au sens de la législation sur la circulation routière.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 37
 
@@ -602,21 +639,23 @@ Les personnes suivantes se voient attribuer un véhicule de service personnel st
 
 **Utilisation du véhicule de service personnel**
 
-<sup>1</sup> Le détenteur doit assurer l’entretien du véhicule de service personnel.
+<sup>1</sup> Le détenteur est chargé de veiller à ce que les services et les travaux d’entretien du véhicule de service personnel soient effectués en temps voulu et conformément aux prescriptions techniques. Il respecte à cet effet les prescriptions du fabricant.[^38-1]
 
 <sup>2</sup> Il doit se servir du véhicule d’une manière économique et écologique.
 
-<sup>3</sup> Il peut utiliser le véhicule de service personnel à des fins privées contre une indemnité forfaitaire. L’indemnité est versée mensuellement. Son montant est fixé par le chef de l’Armée en accord avec le Secrétariat général du DDPS.
+<sup>3</sup> Il peut utiliser le véhicule de service personnel à des fins privées moyennant un montant forfaitaire. Ce montant est versé mensuellement. Il est fixé par le chef de l’Armée en accord avec le Secrétariat général du DDPS.[^38-2]
 
 <sup>4</sup> Il est interdit d’utiliser le véhicule de service personnel à des fins commerciales.
 
-<sup>5</sup> L’utilisation de véhicules officiels est régie par les art. 14 à 16 de l’ordonnance du 23 février 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs[^38-1].
+<sup>5</sup> L’utilisation de véhicules officiels est régie par les art. 14 à 16 de l’ordonnance du 23 février 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs[^38-3].
 
 <sup>6</sup> Le détenteur n’a pas le droit d’apporter des modifications à son véhicule.
 
 <sup>7</sup> En cas d’utilisation incorrecte ou de transformation du véhicule ou en cas d’autre violation des prescriptions, le SPA, en accord avec l’employeur, peut modifier l’attribution du véhicule ou limiter son utilisation aux déplacements de service.
 
-[^38-1]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^38-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^38-3]: [RS 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
 
 #### Art. 39
 
@@ -644,15 +683,19 @@ Sont considérés comme des déplacements de service les trajets:
 
 <sup>2</sup> Les autres détenteurs peuvent engager des conducteurs pour les déplacements de service pour autant que le trajet soit directement lié à une activité de service de la troupe ou que l’accomplissement de la tâche ou la sécurité de l’engagement l’exigent absolument. Seuls des militaires incorporés comme conducteurs dans la troupe en service peuvent être engagés.
 
-<sup>3</sup> Aucun conducteur ne peut être engagé pour les trajets entre le lieu de domicile et le lieu de travail ou d’engagement.
+<sup>3</sup> Pour les trajets entre lieu de domicile et lieu de travail ou d’engagement, un conducteur ne peut être engagé que dans des cas exceptionnels dûment motivés.[^40-1]
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 41
 
 **Autorisation de conduire pour les déplacements privés**
 
-<sup>1</sup> En plus du détenteur, tous les membres de sa famille inscrits à son domicile, partenaire compris, sont autorisés à effectuer des déplacements privés.
+<sup>1</sup> Pour autant qu’ils fassent ménage commun avec lui, le conjoint ou partenaire et les enfants du détenteur sont autorisés à utiliser le véhicule de service personnel à des fins privées.[^41-1]
 
 <sup>2</sup> Les déplacements privés de plusieurs jours en Suisse ou à l’étranger et les courses d’apprentissage ne sont autorisés qu’en compagnie du détenteur.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 42
 
@@ -691,14 +734,14 @@ Lors d’activités à l’étranger d’une durée supérieure à 60 jours, le 
 
 <sup>3</sup> Pendant le service de milice, la responsabilité du détenteur envers la Confédération est régie par les dispositions de la LAAM[^44-2].
 
-[^44-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^44-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^44-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^44-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 45
 
-**Abonnement général des CFF**
+[^45-1]
 
-Les détenteurs d’un véhicule de service personnel visés à l’art. 34 n’ont pas droit à un abonnement général «Adulte» des CFF à un prix réduit.
+[^45-1]: Abrogé par le ch. I de l’O du DDPS du 27 août 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ## Chapitre 9 Dispositions d’exécution
 
@@ -734,11 +777,13 @@ L’ordonnance du DDPS du 9 décembre 2003 sur le personnel militaire[^48-1] est
 
 La présente ordonnance entre vigueur le 1<sup>er</sup> janvier 2025.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 25, al. 4, 26, al. 2, 27, al. 2, 28, 29, 31, al. 1, 32, al. 2 et 3, et 33, al. 1, 2 et 4)
 
 ## Montant des indemnités
+
+[^t-1]: Mise à jour par le ch. II de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 <table>
 <tr><th></th><th></th><th>Fr.</th></tr>
@@ -750,8 +795,8 @@ Annexe 1
 <tr><td>3.1</td><td>– selon l’art. 28, pour le travail de nuit, s’élèvent à</td><td>17.—</td></tr>
 <tr><td>3.2</td><td>– selon les art. 29, 32, al. 3, et 33, al. 4, pour le travail tôt le matin ou tard le soir sur le lieu de travail, s’élèvent:</td><td></td></tr>
 <tr><td></td><td>– si les repas peuvent être pris à la troupe:</td><td></td></tr>
-<tr><td></td><td>– pour le petit-déjeuner, à</td><td>7.—</td></tr>
-<tr><td></td><td>– pour le souper, à</td><td>10.—</td></tr>
+<tr><td></td><td>– pour le déjeuner, à</td><td>10.—</td></tr>
+<tr><td></td><td>– pour le souper, à</td><td>20.—</td></tr>
 <tr><td></td><td>– si les repas ne peuvent pas être pris à la troupe:</td><td></td></tr>
 <tr><td></td><td>– pour le petit-déjeuner, à</td><td>15.—</td></tr>
 <tr><td></td><td>– pour le souper, à</td><td>30.—</td></tr>
