@@ -4,13 +4,12 @@ number: "411.211"
 title: Verordnung über die Anstellung und Löhne der Lehrpersonen
 short: VALL
 language: de
-version: 2026-08-01
-valid_until: 2027-02-28
-version_adopted: 2026-02-18
+version: 2027-03-01
+version_adopted: 2026-09-23
 adopted: 2004-10-13
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3959/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4034/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3959/pdf_file"
 
 (VALL)
 
-Vom 13.10.2004 (Stand 01.08.2026)
+Vom 13.10.2004 (Stand 01.03.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -486,7 +485,7 @@ beschliesst:
 
 **Feiertage**
 
-<sup>1</sup> Feiertage sind den Sonntagen gleichgestellt. Als Feiertage gelten der Bundesfeiertag, Weihnachten, der Stephanstag, Neujahr, der Berchtoldstag, Karfreitag, Ostermontag, der Nachmittag des 1. Mai, der Auffahrtstag und Pfingstmontag.
+<sup>1</sup> Feiertage sind den Sonntagen gleichgestellt. Als Feiertage gelten der Bundesfeiertag, Weihnachten, der Stephanstag, Neujahr, der Berchtoldstag, Karfreitag, Ostermontag, der Auffahrtstag und Pfingstmontag.
 
 <sup>2</sup> Die Anstellungsbehörde kann Lehrpersonen an den übrigen lokalen Feiertagen, an denen der reguläre Schulunterricht ausfällt, zur Teilnahme an speziellen Schulveranstaltungen verpflichten.
 
