@@ -3,20 +3,19 @@ canton: LU
 number: "224"
 title: Kantonsratsbeschluss über die Grundbuchkreise
 language: de
-version: 2025-01-01
-valid_until: 2026-12-31
-version_adopted: 2024-06-17
+version: 2027-01-01
+version_adopted: 2026-06-29
 adopted: 2014-11-03
 in_force: 2015-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/224"
-pdf: "https://srl.lu.ch/api/de/versions/4328/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Grundbuchkreise
 
-vom 03.11.2014 (Stand 01.01.2025)
+vom 03.11.2014 (Stand 01.01.2027)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -41,7 +40,7 @@ beschliesst:
 
 **Grundbuchkreis Luzern Ost**
 
-<sup>1</sup> Der Grundbuchkreis Luzern Ost umfasst die Gemeinden Aesch, Adligenswil, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Horw, Inwil, Kriens, Luzern, Malters, Meggen, Meierskappel, Rain, Römerswil, Rothenburg, Root, Schongau, Schwarzenberg, Udligenswil, Vitznau und Weggis.
+<sup>1</sup> Der Grundbuchkreis Luzern Ost umfasst die Gemeinden Aesch, Adligenswil, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Hitzkirch, Hochdorf, Hohenrain, Horw, Inwil, Kriens, Luzern, Malters, Meggen, Meierskappel, Rain, Römerswil, Rothenburg, Root, Schongau, Schwarzenberg, Udligenswil, Vitznau und Weggis.
 
 <sup>2</sup> Die Grundbuchverwaltung des Grundbuchkreises hat ihren Sitz im Raum Luzern.
 
