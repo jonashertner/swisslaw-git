@@ -4,13 +4,12 @@ number: "940.11"
 title: Wirtschafts- und Arbeitsgesetz
 short: WAG
 language: de
-version: 2025-09-01
-valid_until: 2026-12-31
+version: 2027-01-01
 version_adopted: 2025-03-11
 adopted: 2015-03-08
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/940.11"
-pdf: "https://bgs.so.ch/api/de/versions/5560/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5656/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5560/pdf_file"
 
 (WAG)
 
-Vom 08.03.2015 (Stand 01.09.2025)
+Vom 08.03.2015 (Stand 01.01.2027)
 
 Der Kantonsrat von Solothurn
 
@@ -628,6 +627,16 @@ beschliesst:
 <sup>3</sup> Der Regierungsrat regelt die Einzelheiten in einer Verordnung.
 
 [^38-1]: Artikel 41 Absatz 1 des Bundesgesetzes über Geldspiele (BGS) vom 29. September 2017 (SR 935.51).
+
+#### § 38bis
+
+**Bewilligungsausschluss**
+
+<sup>1</sup> Die Erteilung einer Bewilligung ist ausgeschlossen, wenn
+
+- a) der Zweck der ersuchenden Organisation kommerzieller Natur ist oder allein in der Durchführung von Lotterien besteht;
+- b) die gesuchstellende Person mit der Organisation oder der Durchführung der Lotterie Personen beauftragt, die diese Tätigkeit berufs- oder gewerbsmässig ausüben; oder
+- c) der verantwortliche Vertreter oder die verantwortliche Vertreterin der Veranstalterin oder des Veranstalters die rechtskonforme Durchführung der Lotterie nicht gewährleisten kann.
 
 ### 2.6. Vergabe von Konsumkrediten
 
