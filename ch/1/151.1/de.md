@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. März 1995 über die Gleichstellung von Frau und Ma
 short: GlG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498"
 language: de
-version: 2020-07-01
+version: 2032-07-01
 adopted: 1995-03-24
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498/20200701/de/xml/fedlex-data-admin-ch-eli-cc-1996-1498_1498_1498-20200701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498/20320701/de/xml/fedlex-data-admin-ch-eli-cc-1996-1498_1498_1498-20320701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20320701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20200701/de"
 
 (Gleichstellungsgesetz, GlG)
 
-vom 24. März 1995 (Stand am 1. Juli 2020)
+vom 24. März 1995 (Stand am 1. Juli 2032)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -161,96 +161,13 @@ Wird eine Arbeitnehmerin oder ein Arbeitnehmer durch die Kündigung diskriminier
 [^13-5]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^13-6]: Satz eingefügt durch Anhang Ziff. 1 des Bundesgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## 4*a**.* Abschnitt: Lohngleichheitsanalyse und Überprüfung
+## 4*a**.* Abschnitt: …
 
-[^sec4a-1]
+#### Art. 13a–13i
 
-[^sec4a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018, in Kraft vom 1. Juli 2020 bis zum 30. Juni 2032 ([AS 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [BBl 2017 5507](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
+[^13a13i-1]
 
-#### Art. 13a
-
-**Pflicht zur Durchführung einer Lohngleichheitsanalyse**
-
-<sup>1</sup> Arbeitgeberinnen und Arbeitgeber, die am Anfang eines Jahres 100 oder mehr Arbeitnehmerinnen und Arbeitnehmer beschäftigen, führen für das betreffende Jahr eine betriebsinterne Lohngleichheitsanalyse durch. Lernende werden nicht als Arbeitnehmerinnen und Arbeitnehmer angerechnet.
-
-<sup>2</sup> Die Lohngleichheitsanalyse wird alle vier Jahre wiederholt. Fällt die Zahl der Arbeitnehmerinnen und Arbeitnehmer in diesem Zeitraum unter 100, so wird die Lohngleichheitsanalyse erst wieder durchgeführt, wenn die Zahl von 100 erreicht ist.
-
-<sup>3</sup> Zeigt die Lohngleichheitsanalyse, dass die Lohngleichheit eingehalten ist, so werden die Arbeitgeberinnen und Arbeitgeber von der Analysepflicht befreit.
-
-#### Art. 13b
-
-**Ausnahme von der Pflicht zur Durchführung einer Lohngleichheitsanalyse**
-
-Die Pflicht zur Durchführung einer Lohngleichheitsanalyse entfällt für Arbeitgeberinnen und Arbeitgeber:
-
-- a. die im Rahmen eines Verfahrens zur Vergabe eines öffentlichen Auftrags einer Kontrolle über die Einhaltung der Lohngleichheit unterliegen;
-- b. die im Rahmen eines Antrags auf Gewährung von Subventionen einer solchen Kontrolle unterliegen; oder
-- c. bei denen bereits eine solche Kontrolle durchgeführt worden ist und die nachgewiesen haben, dass sie die Anforderungen erfüllen, sofern der Referenzmonat der Kontrolle nicht länger als vier Jahre zurückliegt.
-
-#### Art. 13c
-
-**Methode der Lohngleichheitsanalyse**
-
-<sup>1</sup> Die Lohngleichheitsanalyse ist nach einer wissenschaftlichen und rechtskonformen Methode durchzuführen.
-
-<sup>2</sup> Der Bund stellt allen Arbeitgeberinnen und Arbeitgebern ein kostenloses Standard‑Analyse-Tool zur Verfügung.
-
-#### Art. 13d
-
-**Überprüfung der Lohngleichheitsanalyse**
-
-<sup>1</sup>
-
-Arbeitgeberinnen und Arbeitgeber, die dem Obligationenrecht[^13d-1] unterstehen, lassen ihre Lohngleichheitsanalyse von einer unabhängigen Stelle überprüfen. Dafür können sie wählen zwischen:
-
-- a. einem Revisionsunternehmen mit einer Zulassung nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^13d-2]; oder
-- b. einer Organisation nach Artikel 7 oder einer Arbeitnehmervertretung gemäss dem Mitwirkungsgesetz vom 17. Dezember 1993[^13d-3].
-
-<sup>2</sup> Der Bundesrat legt die Kriterien für die Ausbildung der leitenden Revisorinnen und Revisoren fest.
-
-<sup>3</sup> Der Bundesrat regelt die Durchführung der Überprüfung der Lohngleichheitsanalyse im Bund.
-
-<sup>4</sup> Die Kantone regeln die Durchführung der Überprüfung der Lohngleichheitsanalysen in ihrem Zuständigkeitsbereich.
-
-[^13d-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^13d-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
-[^13d-3]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
-
-#### Art. 13e
-
-**Überprüfung durch ein zugelassenes Revisionsunternehmen**
-
-<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber übergibt dem Revisionsunternehmen alle Unterlagen und erteilt ihm die Auskünfte, die es für die Erfüllung der Überprüfung benötigt.
-
-<sup>2</sup> Das Revisionsunternehmen überprüft, ob die Lohngleichheitsanalyse formell korrekt durchgeführt wurde.
-
-<sup>3</sup> Es verfasst innerhalb eines Jahres nach Durchführung der Lohngleichheitsanalyse zuhanden der Leitung des überprüften Unternehmens einen Bericht über die Durchführung der Analyse.
-
-#### Art. 13f
-
-**Überprüfung durch eine Organisation oder eine Arbeitnehmervertretung**
-
-Die Arbeitgeberin oder der Arbeitgeber schliesst mit der Organisation nach Artikel 7 oder der Arbeitnehmervertretung eine Vereinbarung über das Vorgehen bei der Überprüfung und der Berichterstattung zuhanden der Leitung des Unternehmens ab.
-
-#### Art. 13g
-
-**Information für die Arbeitnehmerinnen und Arbeitnehmer**
-
-Die Arbeitgeberinnen und Arbeitgeber informieren die Arbeitnehmerinnen und Arbeitnehmer bis spätestens ein Jahr nach Abschluss der Überprüfung schriftlich über das Ergebnis der Lohngleichheitsanalyse.
-
-#### Art. 13h
-
-**Information für die Aktionärinnen und Aktionäre**
-
-Gesellschaften, deren Aktien an einer Börse kotiert sind, veröffentlichen das Ergebnis der Lohngleichheitsanalyse im Anhang der Jahresrechnung (Art. 959*c* Abs. 1 Ziff. 4 des Obligationenrechts[^13h-1]).
-
-[^13h-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-
-#### Art. 13i
-
-**Veröffentlichung der Ergebnisse im öffentlich-rechtlichen Sektor**
-
-Die Arbeitgeberinnen und Arbeitgeber im öffentlich-rechtlichen Sektor veröffentlichen die einzelnen Ergebnisse der Lohngleichheitsanalyse und der Überprüfung.
+[^13a13i-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018, in Kraft vom 1. Juli 2020 bis zum 30. Juni 2032 ([AS 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [BBl 2017 5507](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
 
 ## 5. Abschnitt: Finanzhilfen
 
@@ -305,25 +222,11 @@ Zu diesem Zweck nimmt es namentlich folgende Aufgaben wahr:
 
 Ansprüche nach Artikel 5 Absatz 1 Buchstabe d werden nach neuem Recht beurteilt, wenn die zivilrechtliche Klage nach dem Inkrafttreten des Gesetzes erhoben worden ist oder die erstinstanzlich zuständige Behörde bis zu diesem Zeitpunkt noch keine Verfügung getroffen hat.
 
-#### Art. 17a
+#### Art. 17a und 17b
 
-**Übergangsbestimmung zur Änderung vom 14. Dezember 2018**[^17a-1]
+[^17a17b-1]
 
-<sup>1</sup> Der Bundesrat legt fest, bis wann die Arbeitgeberinnen und Arbeitgeber nach Artikel 13*a* die erste Lohngleichheitsanalyse durchgeführt haben müssen.
-
-<sup>2</sup> Er kann den Zeitpunkt nach Unternehmensgrösse unterschiedlich festlegen.
-
-[^17a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 in Kraft vom 1. Juli 2020 bis zum 30. Juni 2032 ([AS 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [BBl 2017 5507](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
-
-#### Art. 17b
-
-**Evaluation der Wirksamkeit**[^17b-1]
-
-<sup>1</sup> Der Bundesrat sorgt für die Evaluation der Wirksamkeit der Artikel 13*a*–13*i*.
-
-<sup>2</sup> Er erstattet nach Durchführung der zweiten Lohngleichheitsanalyse, spätestens aber neun Jahre nach Inkrafttreten der Artikel nach Absatz 1, dem Parlament Bericht.
-
-[^17b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018, in Kraft vom 1. Juli 2020 bis zum 30. Juni 2032 ([AS 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [BBl 2017 5507](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
+[^17a17b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018, in Kraft vom 1. Juli 2020 bis zum 30. Juni 2032 ([AS 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [BBl 2017 5507](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
 
 #### Art. 18
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 24 mars 1995 sur l'égalité entre femmes et hommes (L
 short: LEg
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498"
 language: fr
-version: 2020-07-01
+version: 2032-07-01
 adopted: 1995-03-24
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1498_1498_1498-20200701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498/20320701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1498_1498_1498-20320701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20320701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20200701/fr"
 
 (Loi sur l’égalité, LEg)[^t-1]
 
-du 24 mars 1995 (État le 1<sup>er</sup> juillet 2020)
+du 24 mars 1995 (État le 1<sup>er</sup> juillet 2032)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -171,96 +171,13 @@ Lors de discrimination dans la résiliation du contrat de travail, l’art. 336*
 [^13-5]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^13-6]: Phrase introduite par l’annexe ch. 1 de la L du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Section 4*a* Analyse de l’égalité des salaires et vérification
+## Section 4*a* *…*
 
-[^sec4a-1]
+#### Art. 13a à 13i
 
-[^sec4a-1]: Introduite par le ch. I de la LF du 14 déc. 2018, en vigueur du 1<sup>er</sup> juil. 2020 au 30 juin 2032 ([RO 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 5169](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
+[^13a13i-1]
 
-#### Art. 13a
-
-**Obligation d’effectuer une analyse**
-
-<sup>1</sup> Les employeurs qui occupent un effectif d’au moins 100 travailleurs au début d’une année effectuent à l’interne une analyse de l’égalité des salaires pour cette même année. Les apprentis ne sont pas comptabilisés dans cet effectif.
-
-<sup>2</sup> L’analyse de l’égalité des salaires est répétée tous les quatre ans. Si le nombre des travailleurs passe sous le seuil des 100 pendant ce laps de temps, elle n’est répétée que lorsque le chiffre de 100 est de nouveau atteint.
-
-<sup>3</sup> Si l’analyse de l’égalité des salaires démontre que l’égalité salariale est respectée, l’employeur est libéré de l’obligation de réitérer l’analyse.
-
-#### Art. 13b
-
-**Dispense de l’obligation d’effectuer une analyse**
-
-Est dispensé d’effectuer une analyse de l’égalité des salaires l’employeur:
-
-- a. qui fait l’objet d’un contrôle du respect de l’égalité des salaires dans le cadre d’une procédure d’attribution d’un marché public;
-- b. qui fait l’objet d’un tel contrôle dans le cadre d’une demande d’octroi de subventions, ou
-- c. qui a déjà fait l’objet d’un tel contrôle et qui a démontré qu’il satisfaisait aux exigences, pour autant que le mois de référence dudit contrôle ne remonte pas à plus de quatre ans.
-
-#### Art. 13c
-
-**Méthode d’analyse**
-
-<sup>1</sup> L’analyse de l’égalité des salaires est effectuée selon une méthode scientifique et conforme au droit.
-
-<sup>2</sup> La Confédération met gratuitement à la disposition des employeurs un outil d’analyse standard.
-
-#### Art. 13d
-
-**Vérification de l’analyse**
-
-<sup>1</sup>
-
-Les employeurs soumis au code des obligations[^13d-1] font vérifier leur analyse de l’égalité des salaires par un organe indépendant. Ils peuvent faire appel, au choix:
-
-- a. à une entreprise de révision agréée au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^13d-2];
-- b. à une organisation au sens de l’art. 7 ou à une représentation des travailleurs au sens de la loi du 17 décembre 1993 sur la participation[^13d-3].
-
-<sup>2</sup> Le Conseil fédéral fixe les critères qui régissent la formation des personnes qui dirigent la révision.
-
-<sup>3</sup> Le Conseil fédéral règle les modalités de la vérification de l’analyse de l’égalité des salaires du personnel de la Confédération.
-
-<sup>4</sup> Les cantons règlent les modalités de la vérification des analyses de l’égalité des salaires dans leur domaine de compétence.
-
-[^13d-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^13d-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
-[^13d-3]: [RS 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
-
-#### Art. 13e
-
-**Vérification par une entreprise de révision agréée**
-
-<sup>1</sup> L’employeur communique à l’entreprise de révision toutes les pièces et informations dont elle a besoin pour procéder à la vérification.
-
-<sup>2</sup> L’entreprise de révision vérifie que l’analyse a été effectuée correctement sur le plan formel.
-
-<sup>3</sup> Elle rédige un rapport portant sur l’exécution de l’analyse de l’égalité des salaires à l’intention de la direction de l’entreprise vérifiée dans un délai d’un an après que l’analyse a été effectuée.
-
-#### Art. 13f
-
-**Vérification par une organisation ou par une représentation des travailleurs**
-
-L’employeur conclut avec l’organisation au sens de l’art. 7 ou la représentation des travailleurs une convention sur la marche à suivre pour la vérification et la remise du rapport à la direction de l’entreprise.
-
-#### Art. 13g
-
-**Information des travailleurs**
-
-Les employeurs informent les travailleurs par écrit du résultat de l’analyse de l’égalité des salaires au plus tard un an après qu’elle a été vérifiée.
-
-#### Art. 13h
-
-**Information des actionnaires**
-
-Les sociétés dont les actions sont cotées en bourse publient le résultat de l’analyse de l’égalité des salaires dans l’annexe de leur rapport annuel (art. 959*c*, al. 1, ch. 4, du code des obligations[^13h-1]).
-
-[^13h-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-
-#### Art. 13i
-
-**Publication des résultats dans le secteur public**
-
-Les employeurs du secteur public publient les résultats détaillés de l’analyse de l’égalité des salaires et de la vérification.
+[^13a13i-1]: Introduits par le ch. I de la LF du 14 déc. 2018, en vigueur du 1<sup>er</sup> juil. 2020 au 30 juin 2032 ([RO 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 5169](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
 
 ## Section 5 Aides financières
 
@@ -317,25 +234,11 @@ A cet effet, il assume notamment les tâches suivantes:
 
 L’exercice d’une prétention en paiement du salaire dû, en vertu de l’art. 5, al. 1, let. d, est régie par le nouveau droit, lorsque l’action de droit civil a été introduite après l’entrée en vigueur de la présente loi, ou lorsqu’au moment de l’entrée en vigueur, l’autorité compétente de première instance n’a pas encore rendu sa décision.
 
-#### Art. 17a
+#### Art. 17a et 17b
 
-**Disposition transitoire relative à la modification du 14 décembre 2018**[^17a-1]
+[^17a17b-1]
 
-<sup>1</sup> Le Conseil fédéral fixe la date à laquelle les employeurs visés à l’art. 13*a* doivent avoir effectué la première analyse de l’égalité des salaires.
-
-<sup>2</sup> Il peut fixer des dates différentes en fonction de la taille des entreprises.
-
-[^17a-1]: Introduit par le ch. I de la LF du 14 déc. 2018, en vigueur du 1<sup>er</sup> juil. 2020 au 30 juin 2032 ([RO 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 5169](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
-
-#### Art. 17b
-
-**Évaluation de l’efficacité**[^17b-1]
-
-<sup>1</sup> Le Conseil fédéral veille à ce que l’efficacité des mesures fondées sur les art. 13*a* à 13*i* fasse l’objet d’une évaluation.
-
-<sup>2</sup> Il présente un rapport au Parlement après que la deuxième analyse de l’égalité des salaires a été effectuée, mais au plus tard neuf ans après l’entrée en vigueur des dispositions visées à l’al. 1.
-
-[^17b-1]: Introduit par le ch. I de la LF du 14 déc. 2018, en vigueur du 1<sup>er</sup> juil. 2020 au 30 juin 2032 ([RO 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 5169](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
+[^17a17b-1]: Introduits par le ch. I de la LF du 14 déc. 2018, en vigueur du 1<sup>er</sup> juil. 2020 au 30 juin 2032 ([RO 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 5169](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
 
 #### Art. 18
 

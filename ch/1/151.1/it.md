@@ -4,11 +4,11 @@ title: Legge federale del 24 marzo 1995 sulla parità dei sessi (LPar)
 short: LPar
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498"
 language: it
-version: 2020-07-01
+version: 2032-07-01
 adopted: 1995-03-24
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498/20200701/it/xml/fedlex-data-admin-ch-eli-cc-1996-1498_1498_1498-20200701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498/20320701/it/xml/fedlex-data-admin-ch-eli-cc-1996-1498_1498_1498-20320701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20320701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/20200701/it"
 
 (LPar)
 
-del 24 marzo 1995 (Stato 1° luglio 2020)
+del 24 marzo 1995 (Stato 1° luglio 2032)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -170,96 +170,13 @@ In caso di discriminazione all’atto della disdetta del rapporto di lavoro, si 
 [^13-5]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^13-6]: Per. introdotto dall’all. n. 1 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Sezione 4*a*: Analisi della parità salariale e verifica
+## Sezione 4*a*: ...
 
-[^sec4a-1]
+#### Art. 13a a 13i
 
-[^sec4a-1]: Introdotta dalla cifra I della LF del 14 dic. 2018, in vigore dal 1° lug. 2020 al 30 giu. 2032 ([RU 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 4745](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
+[^13a13i-1]
 
-#### Art. 13a
-
-**Obbligo di eseguire un’analisi della parità salariale**
-
-<sup>1</sup> I datori di lavoro che all’inizio dell’anno impiegano 100 o più lavoratori eseguono un’analisi della parità salariale all’interno dell’azienda per l’anno in questione. I tirocinanti non sono computati nel conteggio dei lavoratori.
-
-<sup>2</sup> L’analisi della parità salariale è ripetuta ogni quattro anni. Se in tale periodo il numero dei lavoratori scende al di sotto di 100, l’analisi è ripetuta soltanto una volta raggiunto nuovamente il numero di 100 lavoratori.
-
-<sup>3</sup> Se l’analisi mostra che la parità salariale è rispettata, il datore di lavoro è liberato dall’obbligo di ripetere l’analisi.
-
-#### Art. 13b
-
-**Eccezione all’obbligo di eseguire un’analisi della parità salariale**
-
-Non è tenuto a eseguire un’analisi della parità salariale il datore di lavoro che:
-
-- a. nell’ambito di una procedura per l’aggiudicazione di una commessa pubblica è soggetto a un controllo del rispetto della parità salariale;
-- b. nell’ambito di una richiesta di concessione di sussidi è soggetto a un tale controllo; o
-- c. è già stato sottoposto a un tale controllo e ha dimostrato di adempiere i requisiti, sempre che il mese cui si riferisce il controllo non risalga a più di quattro anni prima.
-
-#### Art. 13c
-
-**Metodo di analisi della parità salariale**
-
-<sup>1</sup> L’analisi della parità salariale è eseguita secondo un metodo scientifico e conforme al diritto.
-
-<sup>2</sup> La Confederazione mette a disposizione dei datori di lavoro uno strumento di analisi standardizzato gratuito.
-
-#### Art. 13d
-
-**Verifica dell’analisi della parità salariale**
-
-<sup>1</sup>
-
-I datori di lavoro soggetti al Codice delle obbligazioni[^13d-1] fanno verificare la loro analisi della parità salariale da un organo indipendente. A tal fine possono rivolgersi, a loro scelta, a:
-
-- a. un’impresa di revisione abilitata secondo la legge del 16 dicembre 2005[^13d-2] sui revisori;
-- b. un’organizzazione secondo l’articolo 7 o a una rappresentanza dei lavoratori secondo la legge del 17 dicembre 1993[^13d-3] sulla partecipazione.
-
-<sup>2</sup> Il Consiglio federale stabilisce i criteri per la formazione delle persone che dirigono le revisioni.
-
-<sup>3</sup> Il Consiglio federale disciplina l’esecuzione della verifica dell’analisi della parità salariale nella Confederazione.
-
-<sup>4</sup> I Cantoni disciplinano l’esecuzione della verifica dell’analisi della parità salariale nei loro rispettivi ambiti di competenza.
-
-[^13d-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^13d-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
-[^13d-3]: [RS 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
-
-#### Art. 13e
-
-**Verifica da parte di un’impresa di revisione abilitata**
-
-<sup>1</sup> Il datore di lavoro fornisce all’impresa di revisione tutte le informazioni e i documenti necessari all’esecuzione della verifica.
-
-<sup>2</sup> L’impresa di revisione verifica la corretta esecuzione formale dell’analisi della parità salariale.
-
-<sup>3</sup> Entro un anno dopo l’esecuzione dell’analisi della parità salariale stila un rapporto concernente tale esecuzione all’attenzione della direzione dell’azienda oggetto della verifica.
-
-#### Art. 13f
-
-**Verifica da parte di un’organizzazione o di una rappresentanza dei lavoratori**
-
-Il datore di lavoro conclude con l’organizzazione secondo l’articolo 7 o con la rappresentanza dei lavoratori una convenzione sulle modalità della verifica e della consegna di rapporti all’attenzione della direzione dell’azienda.
-
-#### Art. 13g
-
-**Informazione dei lavoratori**
-
-I datori di lavoro informano i lavoratori per scritto sul risultato dell’analisi della parità salariale entro un anno dalla conclusione della verifica.
-
-#### Art. 13h
-
-**Informazione degli azionisti**
-
-Le società quotate in borsa pubblicano il risultato dell’analisi della parità salariale nell’allegato del conto annuale (art. 959*c* cpv. 1 n. 4 del Codice delle obbligazioni[^13h-1]).
-
-[^13h-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-
-#### Art. 13i
-
-**Pubblicazione dei risultati nel settore pubblico**
-
-I datori di lavoro del settore pubblico pubblicano i risultati delle singole analisi della parità salariale e delle relative verifiche.
+[^13a13i-1]: Introdotti dalla cifra I della LF del 14 dic. 2018, in vigore dal 1° lug. 2020 al 30 giu. 2032 ([RU 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 4745](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
 
 ## Sezione 5: Aiuti finanziari
 
@@ -316,25 +233,11 @@ Per tale scopo assume segnatamente i compiti seguenti:
 
 Le pretese giusta l’articolo 5 capoverso 1 lettera d sono giudicate secondo il nuovo diritto, se l’azione civile è stata intentata dopo l’entrata in vigore della presente legge oppure se al momento dell’entrata in vigore l’autorità competente di prima istanza non aveva ancora preso una decisione.
 
-#### Art. 17a
+#### Art. 17a e 17b
 
-**Disposizione transitoria della modifica del 14 dicembre 2018**[^17a-1]
+[^17a17b-1]
 
-<sup>1</sup> Il Consiglio federale stabilisce il termine entro il quale i datori di lavoro di cui all’articolo 13*a* devono aver eseguito la prima analisi della parità salariale.
-
-<sup>2</sup> Può stabilire termini differenti in base alle dimensioni delle aziende.
-
-[^17a-1]: Introdotto dalla cifra I della LF del 14 dic. 2018, in vigore dal 1° lug. 2020 al 30 giu. 2032 ([RU 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 4745](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
-
-#### Art. 17b
-
-**Valutazione dell’efficacia**[^17b-1]
-
-<sup>1</sup> Il Consiglio federale provvede alla valutazione dell’efficacia degli articoli 13*a*–13*i*.
-
-<sup>2</sup> Dopo l’esecuzione della seconda analisi della parità salariale, ma al più tardi nove anni dall’entrata in vigore delle disposizioni di cui al capoverso 1, il Consiglio federale presenta al Parlamento un rapporto.
-
-[^17b-1]: Introdotto dalla cifra I della LF del 14 dic. 2018, in vigore dal 1° lug. 2020 al 30 giu. 2032 ([RU 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 4745](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
+[^17a17b-1]: Introdotti dalla cifra I della LF del 14 dic. 2018, in vigore dal 1° lug. 2020 al 30 giu. 2032 ([RU 2019 2815](https://fedlex.data.admin.ch/eli/oc/2019/515); [FF 2017 4745](https://fedlex.data.admin.ch/eli/fga/2017/1455)).
 
 #### Art. 18
 
