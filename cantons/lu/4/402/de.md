@@ -3,20 +3,19 @@ canton: LU
 number: "402"
 title: Kulturförderungsgesetz
 language: de
-version: 2023-01-01
-valid_until: 2026-12-31
-version_adopted: 2021-10-25
+version: 2027-01-01
+version_adopted: 2026-05-11
 adopted: 1994-09-13
 in_force: 1995-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/402"
-pdf: "https://srl.lu.ch/api/de/versions/3998/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4847/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kulturförderungsgesetz
 
-vom 13.09.1994 (Stand 01.01.2023)
+vom 13.09.1994 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -55,7 +54,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton fördert das kulturelle Leben insbesondere durch
 
-- a. Beiträge an Kulturschaffende und -vermittler auf Gesuch hin,
+- a. Beiträge an Kulturschaffende und -vermittelnde auf Gesuch hin,
 - b. Werkbeiträge, die im Rahmen von Wettbewerben vergeben werden,
 - c. Auszeichnung besonderer Leistungen,
 - d. Vergabe von Aufträgen,
@@ -71,13 +70,17 @@ beschliesst:
 
 #### § 4
 
-**Zusammenarbeit**
+**Organisation**
 
 <sup>1</sup> Zur Koordination der Kulturförderung arbeitet der Kanton mit Gemeinden, Gemeindeverbänden, andern Kantonen, dem Bund, Kirchen und Privaten zusammen.
 
 <sup>2</sup> Er regt zur Zusammenarbeit unter Kulturträgern an und fördert den Kulturkontakt und den Kulturaustausch.
 
-<sup>3</sup> Die Förderung lokal und regional bedeutender Kultur ist Sache der Gemeinden. Sie arbeiten zu diesem Zwecke zusammen.
+<sup>2<sup>bis</sup></sup> Die Förderung grosser Kulturbetriebe erfolgt durch den Zweckverband gemäss § 7a.
+
+<sup>2<sup>ter</sup></sup> Die Förderung mittelgrosser Kulturbetriebe, insbesondere durch wiederkehrende Strukturbeiträge, ist eine gemeinsame Aufgabe des Kantons und der Gemeinden.
+
+<sup>3</sup> Die Förderung lokal und regional bedeutender Kultur ist Sache der Gemeinden. Sie arbeiten zu diesem Zweck zusammen. Der Kanton entrichtet den Gemeinden Beiträge an die Förderung der regional bedeutenden Kultur.
 
 <sup>4</sup> …
 
@@ -95,9 +98,7 @@ beschliesst:
 
 <sup>2</sup> Er wählt zur fachlichen Beratung der zuständigen Behörden eine kantonale Kulturförderungskommission auf eine ordentliche Amtsdauer von vier Jahren und beruft bei Bedarf weitere Fachkommissionen und Jurys. Er kann der Kulturförderungskommission und allfälligen weiteren Fachkommissionen für besondere Bereiche oder Gegenstände seine Entscheidsbefugnis übertragen.
 
-<sup>3</sup> Das Bildungs- und Kulturdepartement[^6-1] vollzieht das Gesetz und die Verordnungen des Regierungsrates.
-
-[^6-1]: Gemäss Änderung des Organisationsgesetzes vom 17. Februar 2003, in Kraft seit dem 1. Juli 2003 (G 2003 89), wurde die Bezeichnung «Justiz-, Gemeinde- und Kulturdepartement» durch «Bildungs- und Kulturdepartement» ersetzt.
+<sup>3</sup> Die vom Regierungsrat in der Verordnung bezeichnete Dienststelle ist zuständig für alle Vollzugsaufgaben, die durch Gesetz oder Verordnung nicht anderen Organen übertragen sind.
 
 #### § 7
 
@@ -134,6 +135,28 @@ beschliesst:
 
 [^7a-1]: SRL Nr. [150](https://srl.lu.ch/data/150/de)
 [^7a-2]: SRL Nr. [600](https://srl.lu.ch/data/600/de) (G 2010 252)
+
+#### § 7b
+
+**Strukturförderung mittelgrosser Kulturbetriebe**
+
+<sup>1</sup> Der Kanton und die jeweilige Standortgemeinde fördern mittelgrosse Kulturbetriebe je mit wiederkehrenden Strukturbeiträgen. Sie schliessen dazu mit den geförderten Kulturbetrieben eine gemeinsame Leistungsvereinbarung ab.
+
+<sup>2</sup> Das Bildungs- und Kulturdepartement bestimmt unter aktiver Mitwirkung der jeweiligen Standortgemeinde die Kulturbetriebe, denen Strukturbeiträge ausgerichtet werden.
+
+<sup>3</sup> Der Regierungsrat legt die kantonalen Strukturbeiträge an die einzelnen Kulturbetriebe im Rahmen der verfügbaren Mittel fest. Die Gewährung erfolgt unter der Voraussetzung, dass die Standortgemeinde einen Strukturbeitrag in mindestens gleicher Höhe leistet.
+
+<sup>4</sup> Die Standortgemeinden tragen die Hälfte der dem Kanton aus dem Vollzug dieser Bestimmung anfallenden administrativen Kosten.
+
+#### § 7c
+
+**Förderung regional bedeutender Kultur**
+
+<sup>1</sup> Die Gemeinden fördern regional bedeutende Kultur insbesondere durch die Ausrichtung von Beiträgen an Kulturschaffende und -vermittelnde auf Gesuch hin. Sie schliessen sich zu diesem Zweck zu regionalen Gemeindeverbänden zusammen.
+
+<sup>2</sup> Der Regierungsrat bestimmt einen Mindestbeitrag, den die Gemeinden pro Kopf ihrer ständigen Wohnbevölkerung an diese Gemeindeverbände zur Förderung regional bedeutender Kultur leisten.
+
+<sup>3</sup> Der Kanton leistet Beiträge an die Gemeindeverbände zur Förderung regional bedeutender Kultur gemäss § 4 Absatz 3. Der Kantonsbeitrag an die einzelnen Gemeindeverbände bemisst sich nach einem vom Regierungsrat festgelegten kantonalen Pro-Kopf-Beitrag multipliziert mit der ständigen Wohnbevölkerung der Gemeinden, die einem Gemeindeverband angeschlossen sind.
 
 #### § 8
 
