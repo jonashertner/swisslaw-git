@@ -4,13 +4,12 @@ number: II C/1/1
 title: Verordnung über die Entlöhnung der Behördenmitglieder sowie des Staats- und Lehrpersonals
 short: "Lohnverordnung, LohnV"
 language: de
-version: 2026-08-01
-valid_until: 2026-12-31
-version_adopted: 2026-02-25
+version: 2027-01-01
+version_adopted: 2026-06-24
 adopted: 2017-06-28
 in_force: 2018-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2649/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2667/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2649/pdf_file"
 
 (Lohnverordnung, LohnV)
 
-Vom 28.06.2017 (Stand 01.08.2026)
+Vom 28.06.2017 (Stand 01.01.2027)
 
 Der Landrat,
 
@@ -85,13 +84,13 @@ erlässt:
 
 **Lohnbänder der Angestellten**
 
-<sup>1</sup> Die Lohnskala umfasst 16 Lohnbänder.
+<sup>1</sup> Die Lohnskala umfasst 12 Lohnbänder.
 
 <sup>2</sup> Jedes Lohnband umfasst eine Bandbreite von 100 bis 145 Prozent.
 
-<sup>3</sup> Die Differenz vom Minimum eines Lohnbands zum Minimum des nächsthöheren Lohnbands beträgt zwischen den Lohnbändern 1 und 12 je 7,3 Prozent und zwischen den Lohnbändern 12 und 16 je 6,6 Prozent.
+<sup>3</sup> Die Differenz vom Minimum eines Lohnbands zum Minimum des nächsthöheren Lohnbands beträgt zwischen den Lohnbändern je 10 Prozent.
 
-<sup>4</sup> Der minimale Jahreslohn des Lohnbands 1 beträgt mindestens 50 989 Franken.
+<sup>4</sup> Der minimale Jahreslohn des Lohnbands 1 beträgt mindestens 51 284 Franken.
 
 <sup>5</sup> Der Landrat passt das betragsmässige Minimum jedes Lohnbands mindestens alle vier Jahre und unter Mitberücksichtigung der Finanzlage des Kantons an die Arbeitsmarktentwicklung der Löhne an.
 
@@ -103,11 +102,11 @@ erlässt:
 
 <sup>1</sup> Die Lohnskala für die Lehrpersonen umfasst drei Lohnbänder.
 
-<sup>2</sup> Im ersten Lohnband beträgt der Jahreslohn mindestens 79 560 Franken und maximal 121 680 Franken.
+<sup>2</sup> Im ersten Lohnband beträgt der Jahreslohn mindestens 81 151 Franken und maximal 124 114 Franken.
 
-<sup>3</sup> Im zweiten Lohnband beträgt der Jahreslohn mindestens 92 456 Franken und maximal 147 680 Franken.
+<sup>3</sup> Im zweiten Lohnband beträgt der Jahreslohn mindestens 94 305 Franken und maximal 150 634 Franken.
 
-<sup>4</sup> Im dritten Lohnband beträgt der Jahreslohn mindestens 101 920 Franken und maximal 159 120 Franken.
+<sup>4</sup> Im dritten Lohnband beträgt der Jahreslohn mindestens 103 958 Franken und maximal 162 302 Franken.
 
 <sup>5</sup> Der Landrat passt das betragsmässige Minimum und Maximum jedes Lohnbands mindestens alle vier Jahre und unter Mitberücksichtigung der Finanzlage des Kantons an die Arbeitsmarktentwicklung der Löhne an.
 
@@ -254,7 +253,7 @@ erlässt:
 
 <sup>1</sup> Langjährige Angestellte haben ab dem vollendeten zehnten Dienstjahr alle fünf Jahre einen Anspruch auf eine Treueprämie.
 
-<sup>2</sup> Diese beträgt 1,5 Prozent des Maximums des Lohnbands 16.
+<sup>2</sup> Diese beträgt 1,5 Prozent des Maximums des Lohnbands 12.
 
 <sup>3</sup> Der Regierungsrat regelt:
 
@@ -281,7 +280,7 @@ erlässt:
 
 **Jahreslohn**
 
-<sup>1</sup> Der Jahreslohn beträgt 216 000 Franken.
+<sup>1</sup> Der Jahreslohn beträgt 220 320 Franken.
 
 <sup>2</sup> Landammann und Landesstatthalter beziehen zusätzlich zum Jahreslohn eine Zulage, die sich in Prozenten desselben berechnet.
 
@@ -316,7 +315,7 @@ erlässt:
 
 **Präsidium**
 
-<sup>1</sup> Der Jahreslohn für die vollamtlichen Präsidien beträgt 210 120 Franken.
+<sup>1</sup> Der Jahreslohn für die vollamtlichen Präsidien beträgt 214 322 Franken.
 
 <sup>2</sup> Das Pensum des Obergerichtspräsidiums umfasst mindestens 50 Prozent.
 
@@ -453,22 +452,18 @@ erlässt:
 
 <table>
 <tr><th>Lohnband</th><th>LB Minimum</th><th>LB Maximum</th></tr>
-<tr><td>Lohnband 1</td><td>50 989</td><td>73 934</td></tr>
-<tr><td>Lohnband 2</td><td>54 735</td><td>79 366</td></tr>
-<tr><td>Lohnband 3</td><td>58 755</td><td>85 194</td></tr>
-<tr><td>Lohnband 4</td><td>63 072</td><td>91 454</td></tr>
-<tr><td>Lohnband 5</td><td>67 704</td><td>98 171</td></tr>
-<tr><td>Lohnband 6</td><td>72 676</td><td>105 381</td></tr>
-<tr><td>Lohnband 7</td><td>78 016</td><td>113 123</td></tr>
-<tr><td>Lohnband 8</td><td>83 746</td><td>121 432</td></tr>
-<tr><td>Lohnband 9</td><td>89 897</td><td>130 350</td></tr>
-<tr><td>Lohnband 10</td><td>96 501</td><td>139 926</td></tr>
-<tr><td>Lohnband 11</td><td>103 589</td><td>150 204</td></tr>
-<tr><td>Lohnband 12</td><td>111 198</td><td>161 237</td></tr>
-<tr><td>Lohnband 13</td><td>118 508</td><td>171 837</td></tr>
-<tr><td>Lohnband 14</td><td>126 298</td><td>183 132</td></tr>
-<tr><td>Lohnband 15</td><td>134 600</td><td>195 170</td></tr>
-<tr><td>Lohnband 16</td><td>143 448</td><td>208 000</td></tr>
+<tr><td>Lohnband 1</td><td>51 284</td><td>74 362</td></tr>
+<tr><td>Lohnband 2</td><td>56 412</td><td>81 798</td></tr>
+<tr><td>Lohnband 3</td><td>62 054</td><td>89 978</td></tr>
+<tr><td>Lohnband 4</td><td>68 259</td><td>98 976</td></tr>
+<tr><td>Lohnband 5</td><td>75 085</td><td>108 873</td></tr>
+<tr><td>Lohnband 6</td><td>82 593</td><td>119 760</td></tr>
+<tr><td>Lohnband 7</td><td>90 853</td><td>131 736</td></tr>
+<tr><td>Lohnband 8</td><td>99 938</td><td>144 910</td></tr>
+<tr><td>Lohnband 9</td><td>109 932</td><td>159 401</td></tr>
+<tr><td>Lohnband 10</td><td>120 925</td><td>175 341</td></tr>
+<tr><td>Lohnband 11</td><td>133 017</td><td>192 875</td></tr>
+<tr><td>Lohnband 12</td><td>146 319</td><td>212 163</td></tr>
 </table>
 
 ## A2. Anhang 2: Einreihungsplan
@@ -481,17 +476,15 @@ erlässt:
 
 <table>
 <tr><th>Lohnband</th><th>Funktion</th></tr>
-<tr><td>16</td><td>Hauptabteilungsleiterin, Hauptabteilungsleiter 4</td></tr>
-<tr><td>15</td><td>Hauptabteilungsleiterin, Hauptabteilungsleiter 3</td></tr>
-<tr><td>14</td><td>Hauptabteilungsleiterin, Hauptabteilungsleiter 2; Abteilungsleiterin, Abteilungsleiter 5</td></tr>
-<tr><td>13</td><td>Hauptabteilungsleiterin, Hauptabteilungsleiter 1; Abteilungsleiterin, Abteilungsleiter 4</td></tr>
-<tr><td>12</td><td>Abteilungsleiterin, Abteilungsleiter 3</td></tr>
-<tr><td>11</td><td>Abteilungsleiterin, Abteilungsleiter 2; Fachstellenleiterin, Fachstellenleiter 6</td></tr>
-<tr><td>10</td><td>Abteilungsleiterin, Abteilungsleiter 1; Fachstellenleiterin, Fachstellenleiter 5</td></tr>
-<tr><td>9</td><td>Fachstellenleiterin, Fachstellenleiter 4; Gruppenleiterin, Gruppenleiter 4</td></tr>
-<tr><td>8</td><td>Fachstellenleiterin, Fachstellenleiter 3; Gruppenleiterin, Gruppenleiter 3</td></tr>
-<tr><td>7</td><td>Fachstellenleiterin, Fachstellenleiter 2; Gruppenleiterin, Gruppenleiter 2</td></tr>
-<tr><td>6</td><td>Fachstellenleiterin, Fachstellenleiter 1; Gruppenleiterin, Gruppenleiter 1</td></tr>
+<tr><td>12</td><td>Hauptabteilungsleiterin, Hauptabteilungsleiter 2</td></tr>
+<tr><td>11</td><td>Hauptabteilungsleiterin, Hauptabteilungsleiter 1</td></tr>
+<tr><td>10</td><td>Abteilungsleiterin, Abteilungsleiter 4</td></tr>
+<tr><td>9</td><td>Abteilungsleiterin, Abteilungsleiter 3</td></tr>
+<tr><td>8</td><td>Abteilungsleiterin, Abteilungsleiter 2</td></tr>
+<tr><td>7</td><td>Abteilungsleiterin, Abteilungsleiter 1; Fachstellenleiterin, Fachstellenleiter 4</td></tr>
+<tr><td>6</td><td>Fachstellenleiterin, Fachstellenleiter 3; Gruppenleiterin, Gruppenleiter 3</td></tr>
+<tr><td>5</td><td>Fachstellenleiterin, Fachstellenleiter 2; Gruppenleiterin, Gruppenleiter 2</td></tr>
+<tr><td>4</td><td>Fachstellenleiterin, Fachstellenleiter 1; Gruppenleiterin, Gruppenleiter 1</td></tr>
 </table>
 
 #### Art. A2-2
@@ -502,16 +495,14 @@ erlässt:
 
 <table>
 <tr><th>Lohnband</th><th>Funktion</th></tr>
-<tr><td>11</td><td>Ingenieurin, Ingenieur 3; Juristin, Jurist / Ökonomin, Ökonom 3; Kaufm. Fachspezialistin, Fachspezialist 5; Techn. Fachspezialistin, Fachspezialist 5</td></tr>
-<tr><td>10</td><td>Psychologin, Psychologe; Ingenieurin, Ingenieur 2; Juristin, Jurist / Ökonomin, Ökonom 2; Kaufm. Fachspezialistin, Fachspezialist 4; Techn. Fachspezialistin, Fachspezialist 4</td></tr>
-<tr><td>9</td><td>Ingenieurin, Ingenieur 1; Juristin, Jurist / Ökonomin, Ökonom 1; Kaufm. Fachspezialistin, Fachspezialist 3; Techn. Fachspezialistin, Fachspezialist 3</td></tr>
-<tr><td>8</td><td>Kaufm. Fachspezialistin, Fachspezialist 2; Techn. Fachspezialistin, Fachspezialist 2</td></tr>
-<tr><td>7</td><td>Kaufm. Fachspezialistin, Fachspezialist 1; Techn. Fachspezialistin, Fachspezialist 1</td></tr>
-<tr><td>6</td><td>Kaufm. Sachbearbeiterin, Sachbearbeiter 3; Techn. Sachbearbeiterin, Sachbearbeiter 3</td></tr>
-<tr><td>5</td><td>Kaufm. Sachbearbeiterin, Sachbearbeiter 2; Techn. Sachbearbeiterin, Sachbearbeiter 2</td></tr>
-<tr><td>4</td><td>Kaufm. Sachbearbeiterin, Sachbearbeiter 1; Techn. Sachbearbeiterin, Sachbearbeiter 1</td></tr>
-<tr><td>3</td><td>Kaufm. Angestellte, Angestellter; Techn. Angestellte, Angestellter</td></tr>
-<tr><td>2</td><td>Betriebsangestellte, Betriebsangestellter</td></tr>
+<tr><td>8</td><td>Ingenieurin, Ingenieur 2; Juristin, Jurist / Ökonomin, Ökonom 2; Kaufm. Fachspezialistin, Fachspezialist 4; Techn. Fachspezialistin, Fachspezialist 4</td></tr>
+<tr><td>7</td><td>Ingenieurin, Ingenieur 1; Psychologin, Psychologe; Juristin, Jurist / Ökonomin, Ökonom 1; Kaufm. Fachspezialistin, Fachspezialist 3; Techn. Fachspezialistin, Fachspezialist 3</td></tr>
+<tr><td>6</td><td>Kaufm. Fachspezialistin, Fachspezialist 2; Techn. Fachspezialistin, Fachspezialist 2</td></tr>
+<tr><td>5</td><td>Kaufm. Fachspezialistin, Fachspezialist 1; Techn. Fachspezialistin, Fachspezialist 1</td></tr>
+<tr><td>4</td><td>Kaufm. Sachbearbeiterin, Sachbearbeiter 2; Techn. Sachbearbeiterin, Sachbearbeiter 2</td></tr>
+<tr><td>3</td><td>Kaufm. Sachbearbeiterin, Sachbearbeiter 1; Techn. Sachbearbeiterin, Sachbearbeiter 1</td></tr>
+<tr><td>2</td><td>Kaufm. Angestellte, Angestellter; Techn. Angestellte, Angestellter</td></tr>
+<tr><td>1</td><td>Betriebsangestellte, Betriebsangestellter</td></tr>
 </table>
 
 #### Art. A2-3
@@ -522,13 +513,12 @@ erlässt:
 
 <table>
 <tr><th>Lohnband</th><th>Funktion</th></tr>
-<tr><td>16</td><td>Kommandantin, Kommandant; Erste Staatsanwältin, Erster Staatsanwalt</td></tr>
-<tr><td>14</td><td>Leitende Staatsanwältin, Leitender Staatsanwalt</td></tr>
-<tr><td>12</td><td>Abteilungsleiterin, Abteilungsleiter Polizei; Staats- und Jugendanwältin, Staats- und Jugendanwalt</td></tr>
-<tr><td>11</td><td>Fachstellenleiterin, Fachstellenleiter Polizei; Gruppenleiterin, Gruppenleiter Polizei</td></tr>
-<tr><td>9</td><td>Sachbearbeiterin, Sachbearbeiter 3 Polizei</td></tr>
-<tr><td>8</td><td>Sachbearbeiterin, Sachbearbeiter 2 Polizei</td></tr>
-<tr><td>7</td><td>Sachbearbeiterin, Sachbearbeiter 1 Polizei</td></tr>
+<tr><td>12</td><td>Kommandantin, Kommandant; Erste Staatsanwältin, Erster Staatsanwalt</td></tr>
+<tr><td>11</td><td>Leitende Staatsanwältin, Leitender Staatsanwalt</td></tr>
+<tr><td>10</td><td>Abteilungsleiterin, Abteilungsleiter Polizei; Staats- und Jugendanwältin, Staats- und Jugendanwalt</td></tr>
+<tr><td>9</td><td>Fachstellenleiterin, Fachstellenleiter Polizei; Gruppenleiterin, Gruppenleiter Polizei; Stabsmitarbeiterin, Stabsmitarbeiter Polizei</td></tr>
+<tr><td>7</td><td>Sachbearbeiterin, Sachbearbeiter 3 Polizei; Sachbearbeiterin, Sachbearbeiter 2 Polizei</td></tr>
+<tr><td>6</td><td>Sachbearbeiterin, Sachbearbeiter 1 Polizei</td></tr>
 </table>
 
 SBE 2018 14
