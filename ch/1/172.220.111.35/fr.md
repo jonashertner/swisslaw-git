@@ -4,11 +4,11 @@ title: Ordonnance du 20 février 2013 sur la retraite des membres des catégorie
 short: ORCPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/154"
 language: fr
-version: 2022-07-01
+version: 2027-01-01
 adopted: 2013-02-20
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-154-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-154-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/fr"
 
 (ORCPP)
 
-du 20 février 2013 (État le 1<sup>er</sup> juillet 2022)
+du 20 février 2013 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 37 de la loi du 24 mars 2000 sur le personnel de la Confédération 
 
 arrête:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Section 1 Dispositions générales
 
@@ -69,11 +69,11 @@ La présente ordonnance s’applique:
 - d. aux pilotes d’essai d’armasuisse dont les engagements dans le service de vol représentent une part essentielle des tâches.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019, sous réserve de la let. a ch. 3, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^2-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
+[^2-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
 [^2-3]: Nouvelle teneur selon l’app. 2 ch. 1 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^2-4]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^2-4]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 [^2-5]: Nouvelle teneur selon l’app. 2 ch. 1 de l’O du 18 mars 2022 sur le service de vol militaire, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^2-6]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^2-6]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 ## Section 2 Financement de la retraite
 
@@ -118,17 +118,18 @@ Les cotisations supplémentaires de l’employeur sont calculées en pour-cent d
 Les cotisations supplémentaires de l’employeur sont versées sur le gain assuré au sens de l’art. 20 du règlement de prévoyance du 15 juin 2007 pour les personnes employées et les bénéficiaires de rentes de la Caisse de prévoyance de la Confédération[^3-3]. Le gain assuré est calculé sur la base:
 
 - a. du salaire fixé selon les art. 36, 39 et 40 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^3-4];
-- b. de l’indemnité de résidence selon les art. 43 ou 114, al. 2, let. d, OPers;
+- b.[^3-5] …
 - c. de la compensation du renchérissement selon les art. 44, al. 2, let. a, b, e et f, ou 114, al. 2, let. e, OPers;
 - d. des primes de fonction selon les art. 46 ou 114, al. 2, let. f, OPers;
 - e. des allocations spéciales selon les art. 48 ou 115, let. e, OPers;
-- f. de l’allocation liée au marché de l’emploi selon l’art 50.[^3-5]
+- f. de l’allocation liée au marché de l’emploi selon l’art 50.[^3-6]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^3-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
-[^3-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^3-5]: Introduit par l’annexe 2 ch. 2 de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^3-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^3-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^3-5]: Abrogée par l’annexe ch. II 2 de l’O du 27 mai 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^3-6]: Introduit par l’annexe 2 ch. 2 de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 
 #### Art. 4
 
@@ -168,7 +169,7 @@ L’employeur ne verse plus de cotisations supplémentaires:
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
-[^4-3]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
+[^4-3]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
 [^4-4]: Introduit par le ch. I de l’O du 7 juin 2013 ([RO 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)). Abrogé par l’annexe 2 ch. 2 de l’O du 20 juin 2014, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
@@ -187,7 +188,7 @@ L’employeur ne verse plus de cotisations supplémentaires:
 <sup>2</sup> Il finance la rente transitoire conformément à l’art. 88*f* OPers pour les employés du DFAE soumis à la discipline des transferts, à condition que la personne concernée ait été affectée pendant au moins cinq ans au total dans des lieux où les conditions de vie sont difficiles.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 6a
 
@@ -240,7 +241,7 @@ Les art. 33 à 34*a,* 88*g* à 88*j* et 116*c* OPers[^8-1] continuent de s’app
 <sup>3</sup> Les employés visés aux al. 1 et 2 qui prennent leur retraite selon l’ancien droit en ne bénéficient pas des cotisations supplémentaires de l’employeur.
 
 [^8-1]: [RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319), [2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785), [2010 2649](https://fedlex.data.admin.ch/eli/oc/2010/353)[5793](https://fedlex.data.admin.ch/eli/oc/2010/821)
-[^8-2]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^8-2]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 #### Art. 8a
 
@@ -254,7 +255,7 @@ Les art. 33 à 34*a,* 88*g* à 88*j* et 116*c* OPers[^8-1] continuent de s’app
 
 [^8a-1]: Introduit par le ch. I de l’O du 23 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4519](https://fedlex.data.admin.ch/eli/oc/2016/736)).
 [^8a-2]: [RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785), [2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)
-[^8a-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^8a-3]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 9
 
@@ -278,7 +279,7 @@ Le montant de la bonification correspond au produit de la multiplication du gain
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 [^9-3]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^9-4]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^9-4]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 [^9-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 [^9-6]: Introduit par le ch. I de l’O du 7 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 
@@ -299,7 +300,7 @@ Le montant de la bonification correspond au produit de la multiplication du gain
 <sup>6</sup> Le nombre d’années de service calculé sur la base des al. 4 et 5 est arrondi à l’année entière supérieure.
 
 [^9a-1]: Introduit par le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^9a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^9a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 10
 

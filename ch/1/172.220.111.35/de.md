@@ -4,11 +4,11 @@ title: Verordnung vom 20. Februar 2013 über die Pensionierung von Angehörigen 
 short: VPABP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/154"
 language: de
-version: 2022-07-01
+version: 2027-01-01
 adopted: 2013-02-20
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2013-154-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2013-154-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/de"
 
 (VPABP)
 
-vom 20. Februar 2013 (Stand am 1. Juli 2022)
+vom 20. Februar 2013 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 37 des Bundespersonalgesetzes vom 24. März 2000[^ingress-
 
 verordnet:
 
-[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -69,11 +69,11 @@ Diese Verordnung gilt für:
 - d. das Testpilotenpersonal der armasuisse, dessen Einsätze im Flugdienst einen wesentlichen Teil der Aufgaben ausmachen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019, Bst. a Ziff. 3 in Kraft seit 1. Jan. 2020 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^2-2]: [SR 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
+[^2-2]: [SR 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
 [^2-3]: Fassung gemäss Anhang 2 Ziff. 1 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^2-4]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^2-4]: [SR 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 [^2-5]: Fassung gemäss Anhang 2 Ziff. 1 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^2-6]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^2-6]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 ## 2. Abschnitt: Finanzierung des Altersrücktritts
 
@@ -118,17 +118,18 @@ Die zusätzlichen Beiträge des Arbeitgebers werden in Prozenten des versicherte
 Die zusätzlichen Arbeitgeberbeiträge werden auf dem versicherten Verdienst nach Artikel 20 des Vorsorgereglements vom 15. Juni 2007[^3-3] für die Angestellten und Rentenbeziehenden des Bundes bezahlt. Der versicherte Verdienst berechnet sich auf der Grundlage:
 
 - a. des nach den Artikeln 36, 39 und 40 der Bundespersonalverordnung vom 3. Juli 2001[^3-4] (BPV) festgesetzten Lohnes;
-- b. des Ortszuschlags nach Artikel 43 oder 114 Absatz 2 Buchstabe d BPV;
+- b.[^3-5] …
 - c. des Teuerungsausgleichs nach Artikel 44 Absatz 2 Buchstaben a, b, e und f oder 114 Absatz 2 Buchstabe e BPV;
 - d. der Funktionszulagen nach Artikel 46 oder 114 Absatz 2 Buchstabe f BPV;
 - e. der Sonderzulagen nach Artikel 48 oder 115 Buchstabe e BPV;
-- f. der Arbeitsmarktzulage nach Artikel 50.[^3-5]
+- f. der Arbeitsmarktzulage nach Artikel 50.[^3-6]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^3-3]: [SR 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
-[^3-4]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^3-5]: Eingefügt durch Anhang 2 Ziff. 2 der V vom 20. Juni 2014, in Kraft seit 1. Juli 2013 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^3-3]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^3-4]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^3-5]: Aufgehoben durch Anhang Ziff. II 2 der V vom 27. Mai 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^3-6]: Eingefügt durch Anhang 2 Ziff. 2 der V vom 20. Juni 2014, in Kraft seit 1. Juli 2013 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 
 #### Art. 4
 
@@ -168,7 +169,7 @@ Die zusätzlichen Beiträge des Arbeitgebers entfallen für:
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
-[^4-3]: [SR 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
+[^4-3]: [SR 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
 [^4-4]: Eingefügt durch Ziff. I der V vom 7. Juni 2013 ([AS 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)). Aufgehoben durch Anhang 2 Ziff. 2 der V vom 20. Juni 2014, mit Wirkung seit 1. Juli 2013 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 [^4-5]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
@@ -187,7 +188,7 @@ Die zusätzlichen Beiträge des Arbeitgebers entfallen für:
 <sup>2</sup> Für versetzungspflichtige Angestellte des EDA finanziert der Arbeitgeber die Überbrückungsrente nach Artikel 88*f* BPV, sofern die angestellte Person insgesamt mindestens fünf Jahre an Orten mit schwierigen Lebensbedingungen eingesetzt war.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 6a
 
@@ -240,7 +241,7 @@ Die Artikel 33–34*a,* 88*g*–88*j* und 116*c* BPV[^8-1] gelten weiterhin für
 <sup>3</sup> Die Angestellten nach den Absätzen 1 und 2, die nach dem bisherigen Recht pensioniert werden, erhalten keine zusätzlichen Beiträge des Arbeitgebers.
 
 [^8-1]: [AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319); [2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785); [2010 2649](https://fedlex.data.admin.ch/eli/oc/2010/353), [5793](https://fedlex.data.admin.ch/eli/oc/2010/821)
-[^8-2]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^8-2]: [SR 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 #### Art. 8a
 
@@ -254,7 +255,7 @@ Die Artikel 33–34*a,* 88*g*–88*j* und 116*c* BPV[^8-1] gelten weiterhin für
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4519](https://fedlex.data.admin.ch/eli/oc/2016/736)).
 [^8a-2]: [AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785); [2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)
-[^8a-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^8a-3]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 9
 
@@ -278,7 +279,7 @@ Die Gutschrift berechnet sich als Produkt aus dem durchschnittlichen versicherte
 [^9-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 [^9-3]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 20. Juni 2014, in Kraft seit 1. Juli 2013 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^9-4]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^9-4]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 [^9-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 [^9-6]: Eingefügt durch Ziff. I der V vom 7. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 
@@ -299,7 +300,7 @@ Die Gutschrift berechnet sich als Produkt aus dem durchschnittlichen versicherte
 <sup>6</sup> Die nach den Absätzen 4 und 5 ermittelten Dienstjahre werden auf das nächste volle Jahr aufgerundet.
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^9a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^9a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 10
 

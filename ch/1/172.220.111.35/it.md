@@ -4,11 +4,11 @@ title: Ordinanza del 20 febbraio 2013 concernente il pensionamento in particolar
 short: OPPCPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/154"
 language: it
-version: 2022-07-01
+version: 2027-01-01
 adopted: 2013-02-20
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2013-154-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/154/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2013-154-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/154/20220701/it"
 
 (OPPCPers)
 
-del 20 febbraio 2013 (Stato 1° luglio 2022)
+del 20 febbraio 2013 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 37 della legge del 24 marzo 2000[^ingress-1] sul personale fe
 
 ordina:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Sezione 1: Disposizioni generali
 
@@ -39,7 +39,7 @@ ordina:
 
 <sup>2</sup> Essa disciplina il finanziamento del pensionamento delle persone appartenenti a particolari categorie di personale.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
 #### Art. 2
 
@@ -68,18 +68,18 @@ La presente ordinanza si applica:
 - c. agli impiegati del DFAE soggetti all’obbligo del trasferimento ai sensi dell’articolo 3 lettera a dell’ordinanza del DFAE del 20 settembre 2002[^2-6] concernente l’ordinanza sul personale federale in servizio in luoghi d’impiego con condizioni di vita molto difficili;
 - d. ai piloti collaudatori di armasuisse, le cui missioni nel servizio di volo costituiscono una parte essenziale dei compiti.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019, lett. a n. 3 in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^2-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019, lett. a n. 3 in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^2-2]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
 [^2-3]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^2-4]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^2-4]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 [^2-5]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^2-6]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^2-6]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 ## Sezione 2: Finanziamento del pensionamento
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
 #### Art. 3
 
@@ -118,17 +118,18 @@ I contributi supplementari sono calcolati in percento del guadagno assicurato. E
 I contributi supplementari sono versati in funzione del guadagno assicurato secondo l’articolo 20 del regolamento di previdenza del 15 giugno 2007[^3-3] per gli impiegati e i beneficiari di rendite della Cassa di previdenza della Confederazione. Il guadagno assicurato è calcolato in base a:
 
 - a. lo stipendio stabilito secondo gli articoli 36, 39 e 40 dell’ordinanza del 3 luglio 2001[^3-4] sul personale federale (OPers);
-- b. l’indennità di residenza secondo l’articolo 43 o 114 capoverso 2 lettera d OPers;
+- b.[^3-5] …
 - c. la compensazione del rincaro secondo l’articolo 44 capoverso 2 lettere a, b, e, f o 114 capoverso 2 lettera e OPers;
 - d. le indennità di funzione secondo l’articolo 46 o 114 capoverso 2 lettera f OPers;
 - e. le indennità speciali secondo l’articolo 48 o 115 lettera e OPers;
-- f. l’indennità in funzione del mercato del lavoro secondo l’articolo 50 OPers.[^3-5]
+- f. l’indennità in funzione del mercato del lavoro secondo l’articolo 50 OPers.[^3-6]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^3-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
-[^3-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^3-5]: Introdotto dall’all. 2 n. 2 dell’O del 20 giu. 2014, in vigore dal 1° lug. 2013 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^3-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+[^3-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^3-5]: Abrogata dall’all. cifra II n. 2 dell’O del 27 mag. 2026, con effetto dal 1° gen. 2027 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^3-6]: Introdotto dall’all. 2 n. 2 dell’O del 20 giu. 2014, in vigore dal 1° lug. 2013 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 
 #### Art. 4
 
@@ -166,17 +167,17 @@ I contributi supplementari del datore di lavoro sono soppressi:
 
 <sup>2</sup> Se le condizioni di cui al capoverso 1 sono adempite, i contributi supplementari del datore di lavoro vengono ancora versati sino alla fine del mese.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
-[^4-3]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/eli/cc/2024/751)
-[^4-4]: Introdotto dal n. I dell’O del 7 giu. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)). Abrogato dall’all. 2 n. 2 dell’O del 20 giu. 2014, con effetto dal 1° lug. 2013 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^4-5]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
+[^4-3]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
+[^4-4]: Introdotto dalla cifra I dell’O del 7 giu. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)). Abrogato dall’all. 2 n. 2 dell’O del 20 giu. 2014, con effetto dal 1° lug. 2013 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
 #### Art. 5
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O del 10 apr. 2019, con effetto dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^5-1]: Abrogato dalla cifra I dell’O del 10 apr. 2019, con effetto dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
 #### Art. 6
 
@@ -186,8 +187,8 @@ I contributi supplementari del datore di lavoro sono soppressi:
 
 <sup>2</sup> Il datore di lavoro finanzia la rendita transitoria ai sensi dell’articolo 88*f* OPers degli impiegati del DFAE soggetti all’obbligo del trasferimento, sempre che essi siano stati complessivamente almeno cinque anni in servizio in luoghi d’impiego con condizioni di vita difficili.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 6a
 
@@ -206,7 +207,7 @@ I seguenti militari di professione hanno diritto a 7 giorni di compensazione all
 
 <sup>4</sup> I militari di professione assegnati alla classe di stipendio 30 o a una classe superiore non hanno diritto a giorni di compensazione.
 
-[^6a-1]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019, cpv. 1 lett. b in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019, cpv. 1 lett. b in vigore dal 1° gen. 2020 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
 ## Sezione 3: Disposizioni finali
 
@@ -240,7 +241,7 @@ Gli articoli 33–34*a*, 88*g*–88*j* e 116*c* OPers[^8-1] si applicano ulterio
 <sup>3</sup> Gli impiegati ai sensi dei capoversi 1 e 2 che sono pensionati secondo il diritto anteriore non ricevono alcun contributo supplementare del datore di lavoro.
 
 [^8-1]: [RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319), [2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785), [2010 2649](https://fedlex.data.admin.ch/eli/oc/2010/353)[5793](https://fedlex.data.admin.ch/eli/oc/2010/821)
-[^8-2]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^8-2]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 #### Art. 8a
 
@@ -252,9 +253,9 @@ Gli articoli 33–34*a*, 88*g*–88*j* e 116*c* OPers[^8-1] si applicano ulterio
 
 <sup>3</sup> Le restituzioni sono effettuate dal dipartimento competente; gli importi sono a carico del credito di personale del relativo dipartimento.
 
-[^8a-1]: Introdotto dal n. I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4519](https://fedlex.data.admin.ch/eli/oc/2016/736)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4519](https://fedlex.data.admin.ch/eli/oc/2016/736)).
 [^8a-2]: [RU 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785), [2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)
-[^8a-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^8a-3]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 9
 
@@ -275,12 +276,12 @@ L’accredito è calcolato come prodotto del guadagno medio assicurato durante g
 
 <sup>5</sup> Per il calcolo dell’accredito destinato agli alti ufficiali superiori sono considerati anni di servizio successivi alla conclusione della formazione di base gli anni di servizio prestati in qualità di ufficiali di professione o di piloti militari di professione, durante i quali erano assegnati al massimo alla classe di stipendio 29.[^9-6]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 [^9-3]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 20 giu. 2014, in vigore dal 1° lug. 2013 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^9-4]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
-[^9-5]: Nuovo testo giusta il n. I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
-[^9-6]: Introdotto dal n. I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
+[^9-4]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
+[^9-6]: Introdotto dalla cifra I dell’O del 7 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1613](https://fedlex.data.admin.ch/eli/oc/2013/377)).
 
 #### Art. 9a
 
@@ -298,8 +299,8 @@ L’accredito è calcolato come prodotto del guadagno medio assicurato durante g
 
 <sup>6</sup> Gli anni di servizio calcolati in base ai capoversi 4 e 5 sono arrotondati al successivo anno intero.
 
-[^9a-1]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
-[^9a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^9a-1]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^9a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 10
 
@@ -333,7 +334,7 @@ Allegato[^t-1]
 
 ## Importo dell’accredito unico sull’avere di vecchiaia finanziato dal datore di lavoro in funzione degli anni di servizio prestati
 
-[^t-1]: Introdotto dal n. II dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
+[^t-1]: Introdotto dalla cifra II dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1235](https://fedlex.data.admin.ch/eli/oc/2019/236)).
 
 <table>
 <tr><td>Anni di servizio</td><td>Valore in %</td><td>Accredito in franchi</td><td></td><td></td></tr>
