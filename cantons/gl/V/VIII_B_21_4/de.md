@@ -4,13 +4,12 @@ number: VIII B/21/4
 title: Verordnung zum Einführungsgesetz zum Gewässerschutzgesetz
 short: "Gewässerschutzverordnung, GSchV"
 language: de
-version: 2020-11-01
-valid_until: 2026-12-31
-version_adopted: 2020-10-21
+version: 2027-01-01
+version_adopted: 2023-04-26
 adopted: 1995-12-20
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-B.21.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/2187/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2187/pdf_file"
 
 (Gewässerschutzverordnung, GSchV)
 
-Vom 20.12.1995 (Stand 01.11.2020)
+Vom 20.12.1995 (Stand 01.01.2027)
 
 Der Landrat,
 
@@ -129,7 +128,7 @@ verordnet:
 
 <sup>1</sup> Die Benutzungsgebühr setzt sich aus einer Grundgebühr und einer Mengengebühr zusammen.
 
-<sup>2</sup> Die Grundgebühr kann nach der gewichteten Grundstücksfläche oder nach anderen Kriterien, falls diese verursachergerecht gestaltet sind, bemessen werden.
+<sup>2</sup> Die Grundgebühr ist verursachergerecht zu bemessen. Dabei sind die Vorgaben des Preisüberwachers und der Fachverbände zu berücksichtigen.
 
 <sup>3</sup> Die Mengengebühr kann bemessen werden nach:
 
