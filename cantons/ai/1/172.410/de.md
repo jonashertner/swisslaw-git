@@ -1,22 +1,21 @@
 ---
 canton: AI
 number: "172.410"
-title: Verordnung über die Kantonale Versicherungskasse
+title: Verordnung über die Kantonale Versicherungskasse Appenzell Innerrhoden
 language: de
-version: 2014-01-01
-corrected: 2019-04-24
-version_adopted: 2013-06-24
+version: 2027-01-01
+version_adopted: 2026-06-22
 adopted: 2013-06-24
 in_force: 2014-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.410"
-pdf: "https://ai.clex.ch/api/de/versions/1617/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Kantonale Versicherungskasse
+# Verordnung über die Kantonale Versicherungskasse Appenzell Innerrhoden
 
-vom 24.06.2013 (Stand 01.01.2014)
+vom 24.06.2013 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
@@ -28,7 +27,7 @@ beschliesst:
 
 **Rechtsform und Zweck**
 
-<sup>1</sup> Die Kantonale Versicherungskasse Appenzell I.Rh. ist eine selbständige Anstalt des kantonalen öffentlichen Rechts. Sie hat Sitz in Appenzell.
+<sup>1</sup> Die Kantonale Versicherungskasse Appenzell Innerrhoden (nachfolgend Versicherungskasse) ist eine selbständige Anstalt des kantonalen öffentlichen Rechts. Sie hat Sitz in Appenzell.
 
 <sup>2</sup> Die Versicherungskasse versichert ihre Mitglieder im Rahmen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge.
 
@@ -60,7 +59,7 @@ beschliesst:
 
 <sup>2</sup> Sie erlässt die zur Durchführung der Vorsorge erforderlichen Reglemente, insbesondere das Vorsorge-, Anlage-, Rückstellungs-, Teilliquidations- und Organisationsreglement.
 
-<sup>3</sup> Sie bezeichnet oder wählt die Geschäftsleitung und bildet die erforderlichen Kom-missionen.
+<sup>3</sup> Sie bezeichnet oder wählt die Geschäftsleitung und bildet die erforderlichen Kommissionen.
 
 <sup>4</sup> Sie kann die Verwaltung ganz oder teilweise an Dritte übertragen.
 
@@ -72,82 +71,96 @@ beschliesst:
 
 <sup>2</sup> Die Geschäftsleitung orientiert die Verwaltungskommission periodisch über den Geschäftsverlauf sowie umgehend über alle besonderen Vorkommnisse.
 
-<sup>3</sup> Der Geschäftsleiter wohnt den Sitzungen der Verwaltungskommission mit beraten-der Stimme bei.
+<sup>3</sup> Der Geschäftsleiter wohnt den Sitzungen der Verwaltungskommission mit beratender Stimme bei.
 
 #### Art. 6
 
 **Versichertenkreis**
 
-<sup>1</sup> Die Mitgliedschaft bei der Versicherungskasse ist obligatorisch für Mitarbeiter
+<sup>1</sup> Die Mitgliedschaft bei der Versicherungskasse ist obligatorisch für Arbeitnehmer:
 
-- a) der kantonalen Verwaltung, einschliesslich der unselbständigen Anstalten;
-- b) der kantonalen Ausgleichskasse, der Familienausgleichskasse und der Arbeitslosenkasse;
+- a) des Kantons, einschliesslich der Gerichte und unselbständigen Anstalten;
+- b) der kantonalen Ausgleichskasse, der Familienausgleichskasse, der Arbeitslosenkasse und der Kantonalen Versicherungskasse;
 - c) der Appenzeller Kantonalbank;
-- d) der von Gesetzes wegen angeschlossenen Körperschaften, Anstalten und Betriebe.
+- d) weiterer von Gesetzes wegen angeschlossener Körperschaften, Anstalten und Betriebe.
 
-<sup>2</sup> Die Versicherungskasse kann aufgrund vertraglicher Abmachungen Mitarbeiter und Behördenmitglieder versichern von
+<sup>2</sup> Die Versicherungskasse kann aufgrund vertraglicher Abmachungen Arbeitnehmer versichern von:
 
 - a) öffentlich-rechtlichen Körperschaften und Anstalten des Kantons;
 - b) Institutionen mit Sitz im Kanton, die einen Auftrag erfüllen, welcher ansonsten von der öffentlichen Hand übernommen würde;
 - c) Anstalten und Betrieben, die einen Bezug zum Kanton haben.
 
+<sup>3</sup> Sie kann die Innerrhoder Mitglieder des Bundesparlaments versichern.
+
+<sup>4</sup> Als Arbeitnehmer im Sinne dieser Bestimmung gilt, wer versicherungspflichtig gemäss dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom 25. Juni 1982 (BVG) ist und einen Jahreslohn in der Höhe von mindestens sechs maximalen Monatsrenten der AHV bezieht.
+
 #### Art. 7
 
 **Versicherter Jahreslohn**
 
-<sup>1</sup> Der versicherte Jahreslohn entspricht jenem Teil des massgeblichen Jahreslohns, der den Koordinationsbetrag übersteigt. Der versicherte Jahreslohn ist auf den siebenfachen Betrag der maximalen AHV-Altersrente begrenzt.
+<sup>1</sup> Der versicherte Jahreslohn entspricht jenem Teil des massgeblichen Jahreslohns, der den Koordinationsbetrag übersteigt.
 
 <sup>2</sup> Die Verwaltungskommission regelt, welche Lohnbestandteile massgebend sind.
 
-<sup>3</sup> Der Koordinationsbetrag entspricht pro Arbeitsverhältnis einem Drittel des massgeblichen Jahreslohns, höchstens aber 87.5% der maximalen AHV-Altersrente. Bei Mitgliedern der Standeskommission entfällt der Koordinationsbetrag.
+<sup>3</sup> Der Koordinationsbetrag entspricht pro Arbeitsverhältnis 30% des massgeblichen Jahreslohns, höchstens aber 87.5% der zwölffachen maximalen Monatsrente der AHV. Bei Mitgliedern der Standeskommission entfällt der Koordinationsbetrag.
 
-<sup>4</sup> Die Versicherungspflicht gilt für Jahreslöhne ab einer Höhe von 50% der maximalen AHV-Altersrente.
+<sup>4</sup> Die Versicherungspflicht gilt für Jahreslöhne ab einer Höhe von sechs maximalen Monatsrenten der AHV.
 
 #### Art. 8
 
 **Versicherung von Lohn anderer Arbeitgeber**
 
-<sup>1</sup> Die Versicherungskasse führt keine freiwilligen Versicherungen von Teilzeitarbeit-nehmern für denjenigen Lohnteil, den diese bei anderen Arbeitgebern beziehen.
+<sup>1</sup> Die Versicherungskasse führt keine freiwilligen Versicherungen von Teilzeitarbeitnehmern für denjenigen Lohnteil, den diese bei anderen Arbeitgebern beziehen.
 
-<sup>2</sup> Von dieser Regelung ausgenommen sind Mitglieder der Standeskommission.
+<sup>2</sup> …
 
-<sup>3</sup> Weitere Ausnahmen können von der Verwaltungskommission nach objektiven Kriterien festgelegt werden, wobei in diesen weiteren Fällen stets das Einverständnis des davon betroffenen Arbeitgebers erforderlich ist.
+<sup>3</sup> Ausnahmen können von der Verwaltungskommission nach objektiven Kriterien festgelegt werden, wobei in diesen Fällen stets das Einverständnis des davon betroffenen Arbeitgebers erforderlich ist.
 
-#### Art. 9
+#### Art. 8a
 
 **Finanzierung**
 
+<sup>1</sup> Zur Finanzierung werden Spar- und Zusatzbeiträge erhoben. Die Beiträge werden durch die Arbeitnehmer und Arbeitgeber geleistet.
+
+<sup>2</sup> Der Anteil des Arbeitgebers darf, gemessen an den gesamten Spar- und Zusatzbeiträgen von Arbeitnehmer und Arbeitgeber, 60% nicht überschreiten.
+
+#### Art. 9
+
+**Sparbeiträge**
+
 <sup>1</sup> Mit den Sparbeiträgen werden die Altersleistungen finanziert.
 
-<sup>2</sup> Die Standeskommission legt auf Antrag der Verwaltungskommission die Sparbeiträge in Prozenten des versicherten Jahreslohns innerhalb der folgenden Bandbreiten fest:
+<sup>2</sup> …
 
-<table>
-<tr><th>Alter (Jahre)</th><th>Sparbeitrag Arbeitgeber</th><th>Sparbeitrag Arbeitnehmer</th></tr>
-<tr><td>20-22</td><td>0% - 5%</td><td>0% - 5%</td></tr>
-<tr><td>23-29</td><td>4% - 6%</td><td>4% - 6%</td></tr>
-<tr><td>30-34</td><td>5.5% - 7.5%</td><td>4.5% - 6.5%</td></tr>
-<tr><td>35-39</td><td>7.5% - 9.5%</td><td>5.5% - 7.5%</td></tr>
-<tr><td>40-44</td><td>9.5% - 11.5%</td><td>6.5% - 8.5%</td></tr>
-<tr><td>45-49</td><td>10.5% - 12.5%</td><td>7.5% - 9.5%</td></tr>
-<tr><td>50-54</td><td>12.5% - 14.5%</td><td>7.5% - 9.5%</td></tr>
-<tr><td>55-59</td><td>13.0% - 15.0%</td><td>8.5% - 10.5%</td></tr>
-<tr><td>60-65</td><td>14.0% - 16.0%</td><td>9.0% - 11.0%</td></tr>
-<tr><td>66-70</td><td>0% - 5%</td><td>0% - 5%</td></tr>
-</table>
+<sup>2a</sup> Die Sparbeiträge werden festgelegt:
 
-<sup>3</sup> Die Versicherungskasse kann für Arbeitgeber und für Arbeitnehmer abweichende Sparbeiträge zulassen. Bei vertraglich angeschlossenen Betrieben regelt der Anschlussvertrag die Einzelheiten. Abweichende Sparbeiträge bedürfen der Genehmigung der Standeskommission, wenn sie selber betroffen ist, der Genehmigung des Grossen Rats.
+- a) für die Arbeitnehmer durch die Verwaltungskommission;
+- b) für die Arbeitgeber auf Antrag der Verwaltungskommission durch die Standeskommission, und zwar in Prozenten des versicherten Jahreslohns innerhalb der Bandbreiten gemäss Anhang 1.
+
+<sup>3</sup> Die Versicherungskasse kann den Arbeitnehmern wählbare Sparbeiträge anbieten.
 
 <sup>4</sup> Die Sparbeiträge des Arbeitnehmers und des Arbeitgebers werden vollumfänglich dem individuellen Sparkonto gutgeschrieben.
 
-<sup>5</sup> Die Zusatzbeiträge werden verwendet zur Finanzierung:
+<sup>5</sup> …
 
-- a) des Sterbe-, Invaliditäts- und Langleberisikos,
-- b) der Beiträge an den Sicherheitsfonds,
-- c) der Verwaltungs- und der übrigen Kosten.
+<sup>6</sup> …
 
-<sup>6</sup> Die Höhe der Zusatzbeiträge richtet sich nach versicherungstechnischen Grundsätzen und nach Erfahrungswerten. Sie werden von der Standeskommission auf Antrag der Verwaltungskommission festgelegt. Die Zusatzbeiträge werden vom Arbeitnehmer und Arbeitgeber paritätisch finanziert. Sie betragen total höchstens 5% des versicherten Jahreslohns.
+<sup>7</sup> …
 
-<sup>7</sup> Die Arbeitgeber von Mitarbeitern gemäss Art. 6 Abs. 1 leisten höchstens 60% der gesamten Spar- und Zusatzbeiträge.
+#### Art. 9a
+
+**Zusatzbeiträge**
+
+<sup>1</sup> Die Zusatzbeiträge werden verwendet zur Finanzierung:
+
+- a) des Sterbe-, Invaliditäts- und Langleberisikos;
+- b) eines allfälligen Umwandlungsverlusts;
+- c) der Beiträge an den Sicherheitsfonds;
+- d) der Verwaltungs- und der übrigen Kosten.
+
+<sup>2</sup> Die Höhe der Zusatzbeiträge richtet sich nach versicherungstechnischen Grundsätzen und nach Erfahrungswerten. Sie wird von der Standeskommission auf Antrag der Verwaltungskommission festgelegt.
+
+<sup>3</sup> Die Zusatzbeträge werden vom Arbeitnehmer und Arbeitgeber paritätisch finanziert. Sie betragen zusammen höchstens 4% des versicherten Jahreslohns.
 
 #### Art. 10
 
@@ -171,9 +184,7 @@ beschliesst:
 
 #### Art. 12
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> Die bisherigen Mitglieder der Verwaltungskommission bleiben im Amt. Die Amtsperiode läuft für alle Mitglieder am 31. Dezember 2014 ab.
+**…**
 
 #### Art. 13
 
@@ -185,9 +196,9 @@ beschliesst:
 
 <sup>3</sup> Art. 6 Abs. 2 der Behördenverordnung vom 15. Juni 1998 wird aufgehoben.
 
-<sup>4</sup> Art. 13 der Verordnung über das Spital und Pflegeheim Appenzell (Spitalverordnung) vom 23. Juni 2003 lautet neu:
+<sup>4</sup> Art. 13 der Verordnung über das Spital und Pflegeheim Appenzell (Spitalverordnung) vom 23. Juni 2003 lautet neu: Marginalie "Personalvorsorge"
 
-...
+- 1 Das vom Spital besoldete Personal ist bei der Kantonalen Versicherungskasse Appenzell I.Rh. angeschlossen.
 
 #### Art. 14
 
