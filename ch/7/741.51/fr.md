@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20260101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20270101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20260101/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,[^t-1] OAC)
 
-du 27 octobre 1976 (État le 1<sup>er</sup> janvier 2026)
+du 27 octobre 1976 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -763,7 +763,9 @@ Le résultat de l’examen sera notifié au candidat. En cas d’échec, les mot
 
 <sup>1bis</sup> Le candidat peut passer l’examen théorique de base un mois au plus tôt avant d’avoir atteint l’âge minimal requis.[^13-2]
 
-<sup>2</sup> Les cantons élaborent les questions d’examen de concert avec l’OFROU. Ils peuvent déléguer cette tâche à des tiers.[^13-3]
+<sup>1ter</sup> Toute personne s’inscrivant à l’examen théorique de base pour l’obtention d’un permis de conduire de la catégorie A ou B ou de la sous-catégorie A1 ou B1 sans être déjà titulaire de l’une de ces catégories doit prouver qu’elle a suivi le cours de théorie de la circulation (art. 18).[^13-3]
+
+<sup>2</sup> Les cantons élaborent les questions d’examen de concert avec l’OFROU. Ils peuvent déléguer cette tâche à des tiers.[^13-4]
 
 <sup>3</sup>
 
@@ -775,12 +777,13 @@ Ne sont pas tenus de passer l’examen théorique de base:
 
 <sup>4</sup> Les candidats au permis de conduire des catégories spéciales F, G et M passent un examen théorique de base adapté aux particularités de la catégorie du véhicule.
 
-<sup>5</sup> Toute personne déposant une nouvelle demande de permis d’élève conducteur après l’annulation de son permis de conduire à l’essai doit repasser l’examen théorique de base.[^13-4]
+<sup>5</sup> Toute personne déposant une nouvelle demande de permis d’élève conducteur après l’annulation de son permis de conduire à l’essai doit repasser l’examen théorique de base.[^13-5]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4519](https://fedlex.data.admin.ch/eli/oc/2005/584)).
 [^13-2]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^13-3]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^13-4]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^13-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^13-4]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^13-5]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 14
 
@@ -904,7 +907,7 @@ Les autorisations et conditions suivantes doivent être mentionnées dans le per
 
 <sup>1</sup> Toute personne qui désire obtenir le permis de conduire des catégories A ou B ou des sous-catégories A1 ou B1 doit pouvoir prouver qu’elle a suivi un cours de théorie de la circulation.[^18-1]
 
-<sup>2</sup> La participation au cours présuppose que le candidat est en possession du permis d’élève conducteur.
+<sup>2</sup> Le candidat peut suivre le cours de théorie de la circulation au plus tôt six mois avant d’avoir atteint l’âge minimal requis.[^18-2]
 
 <sup>3</sup> Sont dispensées du cours les personnes qui sont déjà titulaires d’un permis de conduire de l’une des catégories ou sous-catégories mentionnées à l’al. 1.
 
@@ -912,7 +915,20 @@ Les autorisations et conditions suivantes doivent être mentionnées dans le per
 
 <sup>5</sup> Le moniteur de conduite est tenu de remettre à l’élève conducteur une attestation confirmant que ce dernier a participé au cours de théorie de la circulation.
 
+<sup>6</sup>
+
+Les cantons fixent des exigences concernant les moyens didactiques ou déterminent les moyens didactiques à utiliser. Ils contrôlent, dans le cadre de leur devoir de surveillance au sens de l’art. 24 de l’ordonnance du 28 septembre 2007 sur les moniteurs de conduite[^18-3]:
+
+- a. la qualité du cours de théorie de la circulation;
+- b. si les moyens didactiques sont conformes aux exigences ou si les moyens didactiques prescrits sont utilisés.[^18-4]
+
+<sup>7</sup> Ils peuvent déléguer l’activité de contrôle prévue à l’al. 6 à des tiers.[^18-5]
+
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^18-3]: [RS 741.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8671)
+[^18-4]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^18-5]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 #### Art. 19
 
@@ -3421,6 +3437,14 @@ Les personnes qui, sur la base de l’art. 151*d,* al. 9 et 10, sont autorisées
 
 [^151p-1]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023, sous réserve de l’al. 2, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
+#### Art. 151q
+
+**Disposition transitoire relative à la modification du 19 décembre 2025**[^151q-1]
+
+Toute personne qui désire obtenir un permis d’élève conducteur ou un permis de conduire de la catégorie A ou B ou de la sous-catégorie A1 ou B1 et qui a réussi l’examen théorique de base, mais n’a pas suivi le cours de théorie de la circulation, doit prouver, au moment de s’inscrire à l’examen pratique, qu’elle a suivi ledit cours si elle n’en est pas exemptée.
+
+[^151q-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+
 #### Art. 152
 
 **Modification du droit en vigueur**
@@ -4207,7 +4231,7 @@ Annexe 11[^t-14]
 
 ## Preuve de l’acquisition des connaissances théoriques
 
-[^t-14]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 de l’O du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) et l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^t-14]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 de l’O du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) et le ch. II de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 ### I Connaissances
 
@@ -4229,26 +4253,27 @@ La preuve de l’acquisition des connaissances énoncées au ch. I est fournie e
 
 1.2 Le conducteur:
 
-- 1\.2.1 l’importance de l’attention et des règles de comportement à observer à l’égard des autres usagers de la route;
-- 1\.2.2 la perception et l’appréciation des situations du trafic et les décisions à prendre, notamment le temps de réaction, les modifications du comportement du conducteur sous l’influence de l’alcool, de stupéfiants et de produits pharmaceutiques, ainsi que les effets des états d’excitation et de fatigue;
-- 1\.2.3
+- 1\.2.1 le sens de la circulation et les facultés à percevoir les dangers;
+- 1\.2.2 l’importance de l’attention et des règles de comportement à observer à l’égard des autres usagers de la route;
+- 1\.2.3 la perception et l’appréciation des situations du trafic et les décisions à prendre, notamment le temps de réaction, les modifications du comportement du conducteur sous l’influence de l’alcool, de stupéfiants et de produits pharmaceutiques, ainsi que les effets des états d’excitation et de fatigue;
+- 1\.2.4
 
   les règles régissant l’usage écologique du véhicule (conduire en ménageant l’environnement et de manière économe, en évitant le bruit), notamment:
 
-  - – utiliser le rapport le plus élevé possible;
-  - – engager à temps un rapport supérieur;
-  - – arrêter le moteur à toutes les occasions possibles (notamment aux passages à niveau fermés et au feu rouge);
-  - – connaître le principe du roulement en poussée (en coupant les gaz).
+  - – utiliser le rapport le plus élevé possible,
+  - – engager à temps un rapport supérieur,
+  - – arrêter le moteur à toutes les occasions possibles (notamment aux passages à niveau fermés et au feu rouge),
+  - – connaître le principe du roulement en poussée (en coupant les gaz);
 
-- 1\.2.4
+- 1\.2.5
 
-  les connaissances sur les systèmes d’aide à la conduite et d’automatisation visant à accroître la sécurité routière et la fluidité du trafic, notamment:
+  les connaissances sur les systèmes d’aide à la conduite et les systèmes d’automatisation visant à accroître la sécurité routière et la fluidité du trafic, notamment:
 
-  - – la différence entre un système d’aide à la conduite et un système d’automatisation;
-  - – les différents modes de fonctionnement (surtout le mode «aide permanente»);
-  - – les principales fonctions des systèmes d’aide à la conduite et d’automatisation ainsi que leurs limites et leurs risques;
-  - – l’utilisation des systèmes d’aide à la conduite et d’automatisation;
-  - – l’importance de toujours faire preuve d’attention et de promptitude à intervenir ou à reprendre le contrôle du véhicule.
+  - − la différence entre un système d’aide à la conduite et un système d’automatisation,
+  - − les différents modes de fonctionnement (surtout le mode «aide permanente»),
+  - − les principales fonctions des systèmes d’aide à la conduite et des systèmes d’automatisation ainsi que leurs limites et leurs risques,
+  - − l’utilisation des systèmes d’aide à la conduite et des systèmes d’automatisation,
+  - − l’importance de toujours faire preuve d’attention et de promptitude à intervenir ou à reprendre le contrôle du véhicule.
 
 1.3 La route:
 
@@ -4295,7 +4320,7 @@ Annexe 12[^t-15]
 
 ## Examen pratique
 
-[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), le ch. II al. 1 de l’O du 10 mai 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), le ch. II al. 2 de l’O du 22 déc. 2023 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)) et l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)) et le ch. II de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), le ch. II al. 1 de l’O du 10 mai 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), le ch. II al. 2 de l’O du 22 déc. 2023 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)) et l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)) et le ch. II des O du 15 oct. 2025 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)) et du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 ### I Conditions d’admission
 
@@ -4305,17 +4330,15 @@ Sont admis à l’examen pratique:
 
   les candidats à un permis de conduire de la catégorie A qui:
 
-  - 1\. sont en possession d’un permis d’élève conducteur valable de la catégorie A,
-  - 2\. ont suivi un cours de théorie de la circulation (art. 18), et
-  - 3\. ont suivi l’instruction pratique de base pour élèves motocyclistes (art. 19);
+  - 1\. sont en possession d’un permis d’élève conducteur valable de la catégorie A, et
+  - 2\. ont suivi l’instruction pratique de base pour élèves motocyclistes (art. 19);
 
 - b.
 
   les candidats à un permis de conduire de la catégorie B qui:
 
-  - 1\. sont en possession d’un permis d’élève conducteur valable de la catégorie B,
-  - 2\. sont en possession du permis d’élève conducteur depuis au moins un an s’ils l’ont obtenu avant l’âge de 20 ans révolus (art. 22), et
-  - 3\. ont suivi un cours de théorie de la circulation (art. 18);
+  - 1\. sont en possession d’un permis d’élève conducteur valable de la catégorie B, et
+  - 2\. sont en possession du permis d’élève conducteur depuis au moins un an s’ils l’ont obtenu avant l’âge de 20 ans (art. 22);
 
 - c. les candidats à un permis de conduire de la catégorie C qui
   - 1\. sont en possession d’un permis de conduire valable de la catégorie B,
@@ -4341,17 +4364,10 @@ Sont admis à l’examen pratique:
 
   les candidats à un permis de conduire de la sous-catégorie A1 qui:
 
-  - 1\. sont en possession d’un permis d’élève conducteur valable de la sous-catégorie A1,
-  - 2\. ont suivi un cours de théorie de la circulation (art. 18), et
-  - 3\. ont suivi l’instruction pratique de base pour élèves motocyclistes (art. 19);
+  - 1\. sont en possession d’un permis d’élève conducteur valable de la sous-catégorie A1, et
+  - 2\. ont suivi l’instruction pratique de base pour élèves motocyclistes (art. 19);
 
-- g.
-
-  les candidats à un permis de conduire de la sous-catégorie B1 qui:
-
-  - 1\. sont en possession d’un permis d’élève conducteur valable de la sous-catégorie B1, et
-  - 2\. ont suivi un cours de théorie de la circulation (art. 18);
-
+- g. les candidats à un permis de conduire de la sous-catégorie B1 qui sont en possession d’un permis d’élève conducteur valable de la sous-catégorie B1;
 - h.
 
   les candidats à un permis de conduire de la sous-catégorie C1 qui:
@@ -4530,7 +4546,7 @@ L’examen doit tenir compte des particularités de cette catégorie spéciale, 
 
 Il est exigé de conduire de manière fluide, avec habileté et une bonne perception de la circulation. À cet effet, le candidat doit largement dépasser les exigences minimales requises pour les catégories spécifiques.
 
-### IV. Durée de l’examen et itinéraire à parcourir
+### IV Durée de l’examen et itinéraire à parcourir
 
 La durée de l’examen et l’itinéraire à parcourir doivent être suffisants pour permettre d’évaluer les aptitudes et les comportements prescrits dans la présente annexe. La durée de l’examen, y compris le temps passé à accueillir le candidat et à prendre congé de celui-ci, ne doit en aucun cas être inférieure à:
 

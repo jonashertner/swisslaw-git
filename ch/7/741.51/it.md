@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20260101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20270101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20260101/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 1° gennaio 2026)
+del 27 ottobre 1976 (Stato 1° gennaio 2027)
 
 [^t-1]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -766,7 +766,9 @@ Il risultato dell’esame deve essere comunicato al candidato. Il non superament
 
 <sup>1bis</sup> Il candidato può sostenere l’esame teorico di base al più presto un mese prima dell’età minima richiesta.[^13-2]
 
-<sup>2</sup> I Cantoni elaborano le domande d’esame d’intesa con l’USTRA. Possono delegare questo compito a terzi.[^13-3]
+<sup>1ter</sup> Per annunciarsi all’esame teorico di base, il candidato alla licenza di condurre della categoria A o B oppure della sottocategoria A1 o B1 non ancora in possesso della licenza di una di queste categorie deve dimostrare di aver frequentato il corso di teoria della circolazione (art. 18).[^13-3]
+
+<sup>2</sup> I Cantoni elaborano le domande d’esame d’intesa con l’USTRA. Possono delegare questo compito a terzi.[^13-4]
 
 <sup>3</sup>
 
@@ -778,12 +780,13 @@ Sono dispensate dall’esame teorico di base le persone che si candidano:
 
 <sup>4</sup> Chi vuole ottenere la licenza di condurre delle categorie speciali F, G o M deve sostenere un esame teorico di base adattato alla pertinente categoria del veicolo.
 
-<sup>5</sup> Chi, dopo l’annullamento della licenza di condurre in prova, intende richiedere una nuova licenza per allievo conducente deve ripetere l’esame teorico di base.[^13-4]
+<sup>5</sup> Chi, dopo l’annullamento della licenza di condurre in prova, intende richiedere una nuova licenza per allievo conducente deve ripetere l’esame teorico di base.[^13-5]
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4519](https://fedlex.data.admin.ch/eli/oc/2005/584)).
 [^13-2]: Introdotto dalla cifra I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^13-3]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^13-4]: Nuovo testo giusta la cifra I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^13-3]: Introdotto dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° gen. 2027 ([RU 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^13-4]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^13-5]: Nuovo testo giusta la cifra I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 14
 
@@ -908,7 +911,7 @@ Nella licenza per allievo conducente devono essere iscritte le seguenti autorizz
 
 <sup>1</sup> Chi vuole ottenere la licenza di condurre delle categorie A o B oppure delle sottocategorie A1 o B1 deve poter provare di aver frequentato un corso di teoria della circolazione.[^18-1]
 
-<sup>2</sup> La frequenza del corso presuppone il possesso di una licenza per allievo conducente.
+<sup>2</sup> Il corso di teoria della circolazione può essere seguito al più presto sei mesi prima del raggiungimento dell’età minima.[^18-2]
 
 <sup>3</sup> Sono dispensate dal corso le persone già titolari di una licenza di condurre di una delle categorie o sottocategorie di cui nel capoverso 1.
 
@@ -916,7 +919,20 @@ Nella licenza per allievo conducente devono essere iscritte le seguenti autorizz
 
 <sup>5</sup> Il maestro conducente rilascia all’allievo conducente un attestato che conferma la frequenza del corso di teoria della circolazione.
 
+<sup>6</sup>
+
+I Cantoni fissano i requisiti degli strumenti didattici o definiscono gli strumenti didattici da utilizzare. Nel quadro dell’obbligo di sorveglianza di cui all’articolo 24 dell’ordinanza del 28 settembre 2007[^18-3] sui maestri conducenti controllano:
+
+- a. la qualità del corso di teoria della circolazione;
+- b. la conformità degli strumenti didattici ai requisiti o l’utilizzo degli strumenti prescritti.[^18-4]
+
+<sup>7</sup> Possono delegare a terzi l’attività di controllo di cui al capoverso 6.[^18-5]
+
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2025, in vigore dal 1° gen. 2027 ([RU 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^18-3]: [RS 741.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8671)
+[^18-4]: Introdotto dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° gen. 2027 ([RU 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^18-5]: Introdotto dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° gen. 2027 ([RU 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 #### Art. 19
 
@@ -3113,7 +3129,7 @@ L’USTRA disciplina le esigenze relative a forma cartacea o elettronica, conten
 - b.[^150-3] licenze di condurre;
 - c. licenze di circolazione, incluse licenze di circolazione per ciclomotori;
 - d.[^150-4] abilitazioni a maestro conducente;
-- e. [^150-5] permessi per formare apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC»;
+- e.[^150-5] permessi per formare apprendisti che seguono la formazione professionale di base di «autista di veicoli pesanti AFC»;
 - f. permessi speciali.[^150-6]
 
 <sup>3</sup> Le iscrizioni nelle licenze e nei permessi possono essere fatte solo da autorità o da persone autorizzate per iscritto. Le iscrizioni successive che hanno per effetto di giustificare, modificare o sopprimere diritti o obblighi, non fondate su una decisione firmata e notificata separatamente al titolare, devono essere munite del bollo dell’autorità competente e della firma.
@@ -3424,6 +3440,14 @@ Chi, in virtù dell’articolo 151*d* capoversi 9 e 10, è autorizzato a condurr
 <sup>2</sup> Le persone di cui all’articolo 11*b* capoverso 3 lettera a che hanno presentato domanda per una licenza per allievo conducente, una licenza di condurre o un permesso per il trasporto professionale di persone prima del 1° marzo 2024 e possiedono già una licenza delle categorie C o D, delle sottocategorie C1 o D1 o il permesso per il trasporto professionale di persone, non sono convocate dall’autorità cantonale a un esame medico di idoneità alla guida.
 
 [^151p-1]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 lug. 2023, il cpv. 2 dal 1° mar. 2024 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+
+#### Art. 151q
+
+**Disposizione transitoria della modifica del 19 dicembre 2025**[^151q-1]
+
+Chi intende ottenere una licenza per allievo conducente o una licenza di condurre della categoria A o B oppure della sottocategoria A1 o B1 e ha superato l’esame teorico di base senza aver seguito il corso di teoria della circolazione, al momento dell’iscrizione all’esame pratico di conducente deve dimostrare di aver seguito tale corso, a meno di esserne dispensato.
+
+[^151q-1]: Introdotto dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° gen. 2027 ([RU 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 #### Art. 152
 
@@ -4198,7 +4222,7 @@ Allegato 11[^t-14]
 
 ## Verifica delle conoscenze teoriche
 
-[^t-14]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dalla cifra I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)) e dall’all. n. 3 dell’O del 13 dic. 2024 sulla guida automatizzata, in vigore dal 1° lug. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^t-14]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dalla cifra I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dall’all. n. 3 dell’O del 13 dic. 2024 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)) e dalla cifra II dell’O del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 ### I. Conoscenze
 
@@ -4220,25 +4244,26 @@ La prova delle conoscenze di cui al numero 1 è fornita mediante esame dei segue
 
 1.2 Il conducente:
 
-- 1\.2.1 importanza dell’atteggiamento vigile e del comportamento corretto nei confronti degli altri utenti;
-- 1\.2.2 percezione, valutazione e decisione riguardo alle situazioni del traffico, in particolare tempi di reazione e cambiamenti nel comportamento del conducente indotti da alcool, droghe e medicinali, stati d’animo e affaticamento;
-- 1\.2.3
-
-  regole per un utilizzo dei veicoli rispettoso dell’ambiente (guida parsimoniosa ed ecologica, riduzione del rumore), in particolare:
-
-  - – utilizzare la marcia più alta possibile
-  - – passare tempestivamente alla marcia superiore
-  - – spegnere il motore non appena possibile (soprattutto davanti a passaggi a livello chiusi e semafori)
-  - – conoscenza del principio di sfruttamento della spinta.
-
+- 1\.2.1 sviluppo del senso della guida e teoria dei pericoli;
+- 1\.2.2 importanza dell’atteggiamento vigile e del comportamento corretto nei confronti degli altri utenti;
+- 1\.2.3 percezione, valutazione e decisione riguardo alle situazioni del traffico, in particolare tempi di reazione, cambiamenti nel comportamento del conducente indotti da alcool, droghe e medicamenti, stati d’animo e affaticamento;
 - 1\.2.4
+
+  regole per un utilizzo ecologico dei veicoli (guida rispettosa dell’ambiente e parsimoniosa, riduzione del rumore), in particolare:
+
+  - – utilizzare la marcia più alta possibile,
+  - – passare tempestivamente alla marcia superiore,
+  - – spegnere il motore non appena possibile (soprattutto davanti a passaggi a livello e semafori),
+  - – conoscenza del principio di sfruttamento della spinta;
+
+- 1\.2.5
 
   conoscenza dei sistemi di assistenza alla guida e di automazione per aumentare la sicurezza stradale e la fluidità del traffico, in particolare:
 
-  - − differenza tra sistemi di assistenza alla guida e sistemi di automazione;
-  - − diverse funzioni (soprattutto di «assistenza continua»);
-  - − principali funzioni dei sistemi di assistenza alla guida e di automazione nonché relativi limiti e rischi;
-  - − uso dei sistemi di assistenza alla guida e di automazione;
+  - − differenza tra sistemi di assistenza alla guida e sistemi di automazione,
+  - − diverse funzioni (soprattutto di «assistenza continua»),
+  - − principali funzioni dei sistemi di assistenza alla guida e di automazione nonché relativi limiti e rischi,
+  - − uso dei sistemi di assistenza alla guida e di automazione,
   - − importanza di mantenere un’attenzione costante e della prontezza di intervento o di ripresa del controllo.
 
 1.3 La strada:
@@ -4286,56 +4311,71 @@ Allegato 12[^t-15]
 
 ## Esame pratico di conducente
 
-[^t-15]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dalla cifra II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dalla cifra II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), dalla cifra I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dalla cifra I dell’O del 10 mag. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), dalla cifra II cpv. 2 dell’O del 22 dic. 2023 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)), dall’all. n. 3 dell’O del 13 dic. 2024 sulla guida automatizzata, in vigore dal 1° lug. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)), dalla cifra II dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^t-15]: Introdotto dalla cifra II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dalla cifra II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dalla cifra II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dalla cifra II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), dalla cifra II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), dalla cifra I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)), dalla cifra I dell’O del 10 mag. 2023 ([RU 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), dalla cifra II cpv. 2 dell’O del 22 dic. 2023 ([RU 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)), dall’all. n. 3 dell’O del 13 dic. 2024 sulla guida automatizzata, in vigore dal 1° lug. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)), dalle cifre II dell’O del 15 ott. 2025 ([RU 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)) e del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 ### I. Requisiti d’ammissione
 
 Sono ammessi all’esame pratico di conducente:
 
-- a. i richiedenti una licenza di condurre della categoria A che
-  - 1\. sono in possesso di una licenza per allievo conducente valida della categoria A
-  - 2\. hanno frequentato un corso di teoria della circolazione (art. 18), e
-  - 3\. hanno frequentato la formazione pratica di base per allievi conducenti di motoveicoli (art. 19),
+- a.
 
-- b. i richiedenti una licenza di condurre della categoria B che
-  - 1\. sono in possesso di una licenza per allievo conducente valida della categoria B,
-  - 2\. sono in possesso della licenza per allievo conducente da almeno un anno, se l’hanno ottenuta prima di aver compiuto 20 anni (art. 22), e
-  - 3\. hanno frequentato un corso di teoria della circolazione (art. 18);
+  i richiedenti una licenza di condurre della categoria A che:
 
-- c. i richiedenti una licenza di condurre della categoria C che
-  - 1\. sono in possesso di una licenza di condurre valida della categoria B
+  - 1\. sono in possesso di una licenza per allievo conducente valida della categoria A, e
+  - 2\. hanno frequentato la formazione pratica di base degli allievi motociclisti (art. 19);
+
+- b.
+
+  i richiedenti una licenza di condurre della categoria B che:
+
+  - 1\. sono in possesso di una licenza per allievo conducente valida della categoria B, e
+  - 2\. sono in possesso della licenza per allievo conducente da almeno un anno, se l’hanno ottenuta prima di aver compiuto 20 anni (art. 22);
+
+- c.
+
+  i richiedenti una licenza di condurre della categoria C che:
+
+  - 1\. sono in possesso di una licenza di condurre valida della categoria B,
   - 2\. sono in possesso di una licenza per allievo conducente valida della categoria C, e
-  - 3\. hanno superato l’esame teorico complementare (art. 21),
+  - 3\. hanno superato l’esame teorico complementare (art. 21);
 
-- d. i richiedenti una licenza di condurre della categoria D che
+- d.
+
+  i richiedenti una licenza di condurre della categoria D che:
+
   - 1\. sono in possesso di una licenza di condurre valida della categoria C, o
   - 2\. sono in possesso di una licenza di condurre valida della categoria B e di una licenza per allievo conducente valida della categoria D, e
-  - 3\. hanno superato l’esame teorico complementare (art. 21),
+  - 3\. hanno superato l’esame teorico complementare (art. 21);
 
-- e. i richiedenti una licenza di condurre delle categorie BE, CE o DE nonché delle sottocategorie C1E o D1E che
+- e.
+
+  i richiedenti una licenza di condurre delle categorie BE, CE o DE nonché delle sottocategorie C1E o D1E che:
+
   - 1\. sono in possesso di una licenza di condurre valida per il veicolo trattore, e
-  - 2\. sono in possesso di una licenza per allievo conducente valida per la pertinente combinazione di rimorchi,
+  - 2\. sono in possesso di una licenza per allievo conducente valida per la pertinente combinazione di rimorchi;
 
-- f. i richiedenti una licenza di condurre della sottocategoria A1 che
-  - 1\. sono in possesso di una licenza per allievo conducente valida della sottocategoria A1
-  - 2\. hanno frequentato un corso di teoria della circolazione (art. 18), e
-  - 3\. hanno frequentato la formazione pratica di base degli allievi motociclisti (art. 19),
+- f.
 
-- g. i richiedenti una licenza di condurre della sottocategoria B1 che
-  - 1\. sono in possesso di una licenza per allievo conducente valida della sottocategoria B1, e
-  - 2\. hanno frequentato un corso di teoria della circolazione (art. 18),
+  i richiedenti una licenza di condurre della sottocategoria A1 che:
 
-- h. i richiedenti una licenza di condurre della sottocategoria C1 che
-  - 1\. sono in possesso di una licenza di condurre valida della categoria B
+  - 1\. sono in possesso di una licenza per allievo conducente valida della sottocategoria A1, e
+  - 2\. hanno frequentato la formazione pratica di base degli allievi motociclisti (art. 19);
+
+- g. i richiedenti una licenza di condurre della sottocategoria B1 che sono in possesso di una licenza per allievo conducente valida della sottocategoria B1;
+- h.
+
+  i richiedenti una licenza di condurre della sottocategoria C1 che:
+
+  - 1\. sono in possesso di una licenza di condurre valida della categoria B,
   - 2\. sono in possesso di una licenza per allievo conducente valida della sottocategoria C1, e
-  - 3\. hanno superato l’esame teorico complementare (art. 21),
+  - 3\. hanno superato l’esame teorico complementare (art. 21);
 
 - i.
 
   i richiedenti una licenza di condurre della sottocategoria D1 che:
 
   - 1\. sono in possesso di una licenza di condurre valida della categoria B e di una licenza per allievo conducente valida della sottocategoria D1, e
-  - 2\. hanno superato l’esame teorico complementare (art. 21).
+  - 2\. hanno superato l’esame teorico complementare (art. 21);
 
 - j. i richiedenti una licenza di condurre della categoria speciale F che sono in possesso di una licenza per allievo conducente valida della categoria speciale F.
 

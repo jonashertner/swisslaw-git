@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20260101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20270101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20260101/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 1. Januar 2026)
+vom 27. Oktober 1976 (Stand am 1. Januar 2027)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -765,7 +765,9 @@ Das Prüfungsergebnis muss dem Kandidaten eröffnet werden. Das Nichtbestehen de
 
 <sup>1bis</sup> Die Prüfung der Basistheorie kann frühestens einen Monat vor Erreichen des Mindestalters abgelegt werden.[^13-2]
 
-<sup>2</sup> Die Kantone erarbeiten die Prüfungsfragen im Einvernehmen mit dem ASTRA. Sie können diese Aufgabe Dritten übertragen.[^13-3]
+<sup>1ter</sup> Wer sich zur Prüfung der Basistheorie für den Erwerb eines Führerausweises der Kategorie A oder B oder der Unterkategorie A1 oder B1 anmeldet und noch keinen Führerausweis einer dieser Kategorien besitzt, muss nachweisen, dass er oder sie den Kurs über Verkehrskunde (Art. 18) besucht hat.[^13-3]
+
+<sup>2</sup> Die Kantone erarbeiten die Prüfungsfragen im Einvernehmen mit dem ASTRA. Sie können diese Aufgabe Dritten übertragen.[^13-4]
 
 <sup>3</sup>
 
@@ -777,12 +779,13 @@ Keine Prüfung der Basistheorie müssen Personen ablegen, die:
 
 <sup>4</sup> Wer den Führerausweis der Spezialkategorien F, G oder M erwerben will, legt eine Prüfung der Basistheorie ab, welche der entsprechenden Fahrzeugkategorie angepasst ist.
 
-<sup>5</sup> Wer nach der Annullierung des Führerausweises auf Probe ein neues Gesuch um einen Lernfahrausweis stellen will, muss die Prüfung der Basistheorie wiederholen.[^13-4]
+<sup>5</sup> Wer nach der Annullierung des Führerausweises auf Probe ein neues Gesuch um einen Lernfahrausweis stellen will, muss die Prüfung der Basistheorie wiederholen.[^13-5]
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4519](https://fedlex.data.admin.ch/eli/oc/2005/584))
 [^13-2]: Eingefügt durch Ziff. I der V vom 26. Sept. 2003, in Kraft seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^13-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^13-4]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^13-3]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^13-4]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^13-5]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 14
 
@@ -905,7 +908,7 @@ Folgende Berechtigungen und Auflagen sind im Lernfahrausweis einzutragen:
 
 <sup>1</sup> Wer den Führerausweis der Kategorie A oder B oder der Unterkategorie A1 oder B1 erwerben will, muss sich über die Teilnahme an einem Kurs über Verkehrskunde ausweisen können.[^18-1]
 
-<sup>2</sup> Die Kursteilnahme setzt den Besitz eines Lernfahrausweises voraus.
+<sup>2</sup> Der Kurs über Verkehrskunde darf frühestens sechs Monate vor Erreichen des Mindestalters besucht werden.[^18-2]
 
 <sup>3</sup> Vom Kursbesuch befreit sind Personen, die bereits einen Führerausweis einer der Kategorien oder Unterkategorien nach Absatz 1 besitzen.
 
@@ -913,7 +916,20 @@ Folgende Berechtigungen und Auflagen sind im Lernfahrausweis einzutragen:
 
 <sup>5</sup> Der Fahrlehrer hat dem Fahrschüler eine Bestätigung abzugeben, dass dieser am Kurs über Verkehrskunde teilgenommen hat.
 
+<sup>6</sup>
+
+Die Kantone legen Anforderungen an die Lehrmittel fest oder bestimmen, welche Lehrmittel verwendet werden müssen. Sie kontrollieren im Rahmen ihrer Aufsichtspflicht nach Artikel 24 der Fahrlehrerverordnung vom 28. September 2007[^18-3]:
+
+- a. die Qualität des Kurses über Verkehrskunde;
+- b. ob die Lehrmittel den Anforderungen entsprechen, beziehungsweise ob die vorgeschriebenen Lehrmittel verwendet werden.[^18-4]
+
+<sup>7</sup> Sie können die Kontrolltätigkeit nach Absatz 6 an Dritte delegieren.[^18-5]
+
 [^18-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^18-3]: [SR 741.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8671)
+[^18-4]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+[^18-5]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 #### Art. 19
 
@@ -3429,6 +3445,14 @@ Wer gestützt auf Artikel 151*d* Absätze 9 und 10 Fahrzeuge mit einem Gesamtgew
 
 [^151p-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juli 2023, Abs. 2 in Kraft seit 1. März 2024 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
+#### Art. 151q
+
+**Übergangsbestimmung zur Änderung vom 19. Dezember 2025**[^151q-1]
+
+Wer einen Lernfahr- oder einen Führerausweis der Kategorie A oder B oder der Unterkategorie A1 oder B1 erwerben will und die Prüfung der Basistheorie bestanden, den Kurs über Verkehrskunde aber nicht besucht hat, muss bei der Anmeldung zur praktischen Führerprüfung den Besuch des Kurses über Verkehrskunde nachweisen, sofern er oder sie nicht davon befreit ist.
+
+[^151q-1]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
+
 #### Art. 152
 
 **Änderung bisherigen Rechts**
@@ -4219,7 +4243,7 @@ Anhang 11[^t-14]
 
 ## Nachweis der theoretischen Kenntnisse
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) und Anhang Ziff. 3 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) und Ziff. II der V vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 ### I. Kenntnisse
 
@@ -4241,25 +4265,26 @@ Der Nachweis der Kenntnisse in Ziffer I wird durch Prüfung der folgenden Aspekt
 
 1.2 der Fahrzeugführer:
 
-- 1\.2.1 Bedeutung der Aufmerksamkeit und der Verhaltensweisen gegenüber den anderen Verkehrsteilnehmern;
-- 1\.2.2 Wahrnehmung, Beurteilung und Entscheidung in Bezug auf Verkehrssituationen, insbesondere die Reaktionszeit, die Änderungen im Verhalten des Fahrzeugführers unter der Einwirkung von Alkohol, Betäubungs- und Arzneimitteln, sowie die Auswirkungen von Erregungs- und Ermüdungszuständen;
-- 1\.2.3
+- 1\.2.1 Verkehrssinnbildung und Gefahrenlehre;
+- 1\.2.2 Bedeutung der Aufmerksamkeit und der Verhaltensweisen gegenüber den anderen Verkehrsteilnehmern;
+- 1\.2.3 Wahrnehmung, Beurteilung und Entscheidung in Bezug auf Verkehrssituationen, insbesondere die Reaktionszeit, die Änderungen im Verhalten des Fahrzeugführers unter der Einwirkung von Alkohol, Betäubungs- und Arzneimitteln, sowie die Auswirkungen von Erregungs- und Ermüdungszuständen;
+- 1\.2.4
 
   Regeln für die umweltfreundliche Benützung des Fahrzeugs (umweltschonendes und verbrauchsarmes Fahren, Lärmvermeidung), insbesondere:
 
-  - – Verwenden des höchstmöglichen Ganges;
-  - – frühzeitiges Hochschalten;
-  - – Motor wo immer möglich abschalten (v.a. vor Bahnschranken und Ampeln);
-  - – Kenntnis der Schubabschaltung.
+  - – Verwenden des höchstmöglichen Ganges,
+  - – frühzeitiges Hochschalten,
+  - – Motor wo immer möglich abschalten (v.a. vor Bahnschranken und Ampeln),
+  - – Kenntnis der Schubabschaltung;
 
-- 1\.2.4
+- 1\.2.5
 
   Kenntnisse zu Fahrerassistenz- und Automatisierungssystemen zur Erhöhung der Verkehrssicherheit und des Verkehrsflusses, insbesondere:
 
-  - − Differenzierung zwischen Fahrerassistenz- und Automatisierungssystem;
-  - − unterschiedliche Wirkweisen (v.a. Wirkweise «kontinuierlich unterstützend»);
-  - − wichtigste Funktionen von Fahrerassistenz- und Automatisierungssystemen sowie deren Grenzen und Risiken;
-  - − Einsatz der Fahrerassistenz- und Automatisierungssysteme;
+  - − Differenzierung zwischen Fahrerassistenz- und Automatisierungssystem,
+  - − unterschiedliche Wirkweisen (v.a. Wirkweise «kontinuierlich unterstützend»),
+  - − wichtigste Funktionen von Fahrerassistenz- und Automatisierungssystemen sowie deren Grenzen und Risiken,
+  - − Einsatz der Fahrerassistenz- und Automatisierungssysteme,
   - − Bedeutung der Aufrechterhaltung permanenter Aufmerksamkeit und Einsatz- beziehungsweise Übernahmebereitschaft.
 
 1.3 die Strasse:
@@ -4307,24 +4332,25 @@ Anhang 12[^t-15]
 
 ## Praktische Führerprüfung
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), Ziff. II Abs. 1 der V vom 10. Mai 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), Ziff. II Abs. 2 der V vom 22. Dez. 2023 ([AS 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)), Anhang Ziff. 3 der V vom 13. Dez. 2024 über das automatisierte Fahren ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)) und Ziff. II der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), Ziff. II Abs. 1 der V vom 10. Mai 2023 ([AS 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), Ziff. II Abs. 2 der V vom 22. Dez. 2023 ([AS 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)), Anhang Ziff. 3 der V vom 13. Dez. 2024 über das automatisierte Fahren ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)), Ziff. II der V vom 15. Okt. 2025 ([AS 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)) und vom 19. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 26](https://fedlex.data.admin.ch/eli/oc/2026/26)).
 
 ### I. Zulassungsbedingungen
 
 Zur praktischen Führerprüfung werden zugelassen:
 
-- a. Gesuchsteller um einen Führerausweis der Kategorie A, die
-  - 1\. einen gültigen Lernfahrausweis der Kategorie A besitzen;
-  - 2\. einen Kurs über Verkehrskunde (Art. 18); und
-  - 3\. die praktische Grundschulung für Motorrad-Fahrschüler (Art. 19) absolviert haben;
+- a.
+
+  Gesuchsteller um einen Führerausweis der Kategorie A, die:
+
+  - 1\. einen gültigen Lernfahrausweis der Kategorie A besitzen, und
+  - 2\. die praktische Grundschulung für Motorrad-Fahrschüler (Art. 19) absolviert haben;
 
 - b.
 
   Gesuchsteller um einen Führerausweis der Kategorie B, die:
 
-  - 1\. einen gültigen Lernfahrausweis der Kategorie B besitzen,
-  - 2\. den Lernfahrausweis seit mindestens einem Jahr besitzen, wenn sie ihn vor dem zurückgelegten 20. Altersjahr erworben haben (Art. 22), und
-  - 3\. einen Kurs über Verkehrskunde (Art. 18) absolviert haben;
+  - 1\. einen gültigen Lernfahrausweis der Kategorie B besitzen, und
+  - 2\. den Lernfahrausweis seit mindestens einem Jahr besitzen, wenn sie ihn vor dem zurückgelegten 20. Altersjahr erworben haben (Art. 22);
 
 - c. Gesuchsteller um einen Führerausweis der Kategorie C, die
   - 1\. einen gültigen Führerausweis der Kategorie B; und
@@ -4340,15 +4366,14 @@ Zur praktischen Führerprüfung werden zugelassen:
   - 1\. einen gültigen Führerausweis für das Zugfahrzeug; und
   - 2\. einen gültigen Lernfahrausweis für die jeweilige Anhängerkombination besitzen;
 
-- f. Gesuchsteller um einen Führerausweis der Unterkategorie A1, die
-  - 1\. einen gültigen Lernfahrausweis der Unterkategorie A1 besitzen,
-  - 2\. einen Kurs über Verkehrskunde (Art. 18); und
-  - 3\. die praktische Grundschulung für Motorrad-Fahrschüler (Art. 19) absolviert haben;
+- f.
 
-- g. Gesuchsteller um einen Führerausweis der Unterkategorie B1, die
-  - 1\. einen gültigen Lernfahrausweis der Unterkategorie B1 besitzen; und
-  - 2\. einen Kurs über Verkehrskunde (Art. 18) absolviert haben;
+  Gesuchsteller um einen Führerausweis der Unterkategorie A1, die:
 
+  - 1\. einen gültigen Lernfahrausweis der Unterkategorie A1 besitzen, und
+  - 2\. die praktische Grundschulung für Motorrad-Fahrschüler (Art. 19) absolviert haben;
+
+- g. Gesuchsteller um einen Führerausweis der Unterkategorie B1, die einen gültigen Lernfahrausweis der Unterkategorie B1 besitzen;
 - h. Gesuchsteller um einen Führerausweis der Unterkategorie C1, die
   - 1\. einen gültigen Führerausweis der Kategorie B; und
   - 2\. einen gültigen Lernfahrausweis der Unterkategorie C1 besitzen; und
