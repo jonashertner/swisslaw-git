@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2026-06-12
+version: 2027-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260612/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260612-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20270101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 12. Juni 2026)
+vom 26. Juni 1998 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -82,7 +82,7 @@ Die Schweiz kann Schutzbedürftigen für die Dauer einer schweren allgemeinen Ge
 
 **Zusammenarbeit und Koordination mit fedpol**[^5a-1]
 
-<sup>1</sup> Das Staatssekretariat für Migration (SEM) arbeitet im Rahmen seiner gesetzlichen Aufgaben bei der Terrorismusbekämpfung mit fedpol zusammen.
+<sup>1</sup> Das Staatssekretariat für Migration (SEM) arbeitet im Rahmen seiner gesetzlichen Aufgaben bei der Terrorismusbekämpfung mit dem Bundesamt für Polizei (fedpol) zusammen.
 
 <sup>2</sup> Es koordiniert die Massnahmen in seinem Zuständigkeitsbereich mit den vorbeugenden polizeilichen und administrativen Massnahmen von fedpol.
 
@@ -443,7 +443,7 @@ Ergibt die Sicherheitskontrolle am Flughafen nach Artikel 21*a* oder im Zentrum 
 
 <sup>3</sup> Die Dublin-Assoziierungsabkommen sind in Anhang 1 aufgeführt.
 
-[^21-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^21-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^21-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 21a
@@ -1895,26 +1895,27 @@ Die zuständigen Behörden können die Sonderabgabe nur erheben, wenn die betref
 
 <sup>1</sup> Der Bund gilt den Kantonen die Kosten aus dem Vollzug dieses Gesetzes mit Pauschalen ab. Diese enthalten nicht die Beiträge nach den Artikeln 91–93*b*.[^88-2]
 
-<sup>2</sup> Die Pauschalen für asylsuchende und schutzbedürftige Personen ohne Aufenthaltsbewilligung decken namentlich die Kosten für die Sozialhilfe sowie die obligatorische Krankenpflegeversicherung und enthalten zudem einen Beitrag an die Betreuungskosten.
+<sup>2</sup> Die Pauschalen für asylsuchende und schutzbedürftige Personen ohne Aufenthaltsbewilligung decken namentlich die Kosten für die Sozialhilfe sowie die obligatorische Krankenpflegeversicherung und enthalten zudem einen Beitrag an die Betreuungskosten. Sie werden während der gesamten Dauer des Asylverfahrens oder während längstens fünf Jahren nach der Einreichung des Gesuches um vorübergehenden Schutz ausgerichtet.[^88-3]
 
-<sup>3</sup> Die Pauschalen für Flüchtlinge und schutzbedürftige Personen mit Aufenthaltsbewilligung und für Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^88-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^88-4] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG[^88-5] decken namentlich die Kosten für die Sozialhilfe und enthalten zudem einen Beitrag an die Betreuungs- und Verwaltungskosten.[^88-6] Sie werden längstens während fünf Jahren nach Einreichung des Asylgesuchs ausgerichtet.[^88-7]
+<sup>3</sup> Die Pauschalen für Flüchtlinge mit Aufenthaltsbewilligung und für Flüchtlinge mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^88-4] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^88-5] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG[^88-6] decken namentlich die Kosten für die Sozialhilfe und enthalten zudem einen Beitrag an die Betreuungs- und Verwaltungskosten.[^88-7] Sie werden längstens während fünf Jahren nach Einreichung des Asylgesuchs ausgerichtet.[^88-8]
 
-<sup>3bis</sup> Der Bund kann für Personen, die im Rahmen einer Asylgewährung für Flüchtlingsgruppen nach Artikel 56 in der Schweiz aufgenommen werden, die Pauschale nach Absatz 3 länger als fünf Jahre ausrichten, namentlich wenn diese Personen bei ihrer Einreise behindert oder betagt sind.[^88-8]
+<sup>3bis</sup> Der Bund kann für Personen, die im Rahmen einer Asylgewährung für Flüchtlingsgruppen nach Artikel 56 in der Schweiz aufgenommen werden, die Pauschale nach Absatz 3 länger als fünf Jahre ausrichten, namentlich wenn diese Personen bei ihrer Einreise behindert oder betagt sind.[^88-9]
 
-<sup>4</sup> Die Pauschalen für Personen, die nach Artikel 82 nur Anspruch auf Nothilfe haben, sind eine Entschädigung für die Gewährung der Nothilfe.[^88-9]
+<sup>4</sup> Die Pauschalen für Personen, die nach Artikel 82 nur Anspruch auf Nothilfe haben, sind eine Entschädigung für die Gewährung der Nothilfe.[^88-10]
 
-<sup>5</sup> …[^88-10]
+<sup>5</sup> …[^88-11]
 
 [^88-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^88-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^88-4]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^88-5]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^88-6]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^88-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^88-8]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-9]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^88-10]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-3]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^88-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^88-5]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^88-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^88-7]: Fassung gemäss Ziff. I 2 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^88-8]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^88-9]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^88-10]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-11]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 89
 
@@ -2318,7 +2319,7 @@ Das SEM oder das Bundesverwaltungsgericht übermittelt den zuständigen Strafver
 <sup>2</sup> Der Bundesrat legt fest, welche biometrischen Daten erhoben werden, und regelt den Zugriff.
 
 [^98b-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^98b-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^98b-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 
 #### Art. 99
 
@@ -2356,7 +2357,7 @@ Die Daten werden gelöscht:
 [^99-2]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-4]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
-[^99-5]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-5]: Fassung gemäss Anhang 2 Ziff. II 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 1. Jan. 2027 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-6]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^99-7]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^99-8]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
@@ -2601,7 +2602,7 @@ Im Sinne von Absatz 1 gelten die nachstehenden Straftaten als:
 - a. terroristische Straftaten: die Tatbestände nach den Artikeln 258–260<sup>sexies</sup> und 275 StGB[^102aquater-3] sowie nach Artikel 74 des Nachrichtendienstgesetzes vom 25. September 2015[^102aquater-4];
 - b. schwere Straftaten: die in Anhang 1 des Schengen-Informationsaustauschgesetzes vom 12. Juni 2009[^102aquater-5] aufgeführten Straftaten.
 
-[^102aquater-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102aquater-1]: Eingefügt durch Anhang 1 Ziff. 2 und Anhang 2 Ziff. II 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^102aquater-2]: Siehe Fussnote zu Art. 102*a*<sup>bis</sup> Abs. 1.
 [^102aquater-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^102aquater-4]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
@@ -2884,9 +2885,12 @@ Das Bundesverwaltungsgericht bestellt auf Antrag der asylsuchenden Person, die v
 
 #### Art. 104
 
-[^104-1]
+**Kostenvorschuss**[^104-1]
 
-[^104-1]: Aufgehoben durch Anhang Ziff. 4 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+Auf die Erhebung eines Kostenvorschusses nach Artikel 63 Absatz 4 VwVG[^104-2] wird verzichtet, ausser eine Beschwerde ist von vornherein aussichtslos.
+
+[^104-1]: Fassung gemäss Ziff. I 2 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^104-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 105
 
@@ -3140,7 +3144,9 @@ Soweit dies für die Erfüllung ihrer Aufgaben erforderlich ist, haben die für 
 
 **Wiedererwägung**[^111b-1]
 
-<sup>1</sup> Das Wiedererwägungsgesuch ist dem SEM innert 30 Tagen nach Entdeckung des Wiedererwägungsgrundes schriftlich und begründet einzureichen. Es findet keine Vorbereitungsphase statt.[^111b-2]
+<sup>1</sup> Das SEM schreibt Wiedererwägungsgesuche, die innerhalb von sechs Monaten ab Rechtskraft des Asyl- und Wegweisungsentscheides oder der rechtskräftigen Ablehnung eines Wiedererwägungs- oder Mehrfachgesuches eingereicht werden, formlos ab, ausser es liegen neue erhebliche Tatsachen oder Beweismittel vor.[^111b-2]
+
+<sup>1bis</sup> Das Wiedererwägungsgesuch ist dem SEM innert 30 Tagen nach Entdeckung des Wiedererwägungsgrundes schriftlich und begründet einzureichen. Es findet keine Vorbereitungsphase statt.[^111b-3]
 
 <sup>2</sup> Nichteintretensentscheide sind in der Regel innerhalb von fünf Arbeitstagen nach der Einreichung eines Wiedererwägungsgesuches zu treffen. In den übrigen Fällen sind Entscheide in der Regel innerhalb von zehn Arbeitstagen nach der Gesuchstellung zu treffen.
 
@@ -3149,18 +3155,25 @@ Soweit dies für die Erfüllung ihrer Aufgaben erforderlich ist, haben die für 
 <sup>4</sup> Unbegründete oder wiederholt gleich begründete Wiedererwägungsgesuche werden formlos abgeschrieben.
 
 [^111b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^111b-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111b-2]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^111b-3]: Ursprünglich: Abs. 1. Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111c
 
 **Mehrfachgesuche**[^111c-1]
 
-<sup>1</sup> Bei Asylgesuchen, die innert fünf Jahren nach Eintritt der Rechtskraft des Asyl- und Wegweisungsentscheides eingereicht werden, hat die Eingabe schriftlich und begründet zu erfolgen. Es findet keine Vorbereitungsphase statt. Die Nichteintretensgründe nach Artikel 31*a* Absätze 1–3 finden Anwendung.[^111c-2]
+<sup>1</sup> Das SEM schreibt neue Gesuche, die innerhalb von sechs Monaten ab Rechtskraft des Asyl- und Wegweisungsentscheides oder der rechtskräftigen Ablehnung eines Mehrfach- oder Wiedererwägungsgesuches eingereicht werden, formlos ab, ausser es liegen neue begründete Hinweise auf eine Verfolgung vor.[^111c-2]
+
+1<sup>bis</sup> Bei Asylgesuchen, die innert fünf Jahren nach Eintritt der Rechtskraft des Asyl- und Wegweisungsentscheides eingereicht werden, hat die Eingabe schriftlich und begründet zu erfolgen. Es findet keine Vorbereitungsphase statt. Die Nichteintretensgründe nach Artikel 31*a* Absätze 1–3 finden Anwendung.[^111c-3]
 
 <sup>2</sup> Unbegründete oder wiederholt gleich begründete Mehrfachgesuche werden formlos abgeschrieben.
 
+<sup>3</sup> Die Einreichung eines Mehrfachgesuches hemmt den Vollzug nicht. Die für die Behandlung zuständige Behörde kann auf Ersuchen wegen einer konkreten Gefährdung der gesuchstellenden Person im Herkunfts- oder Heimatstaat die aufschiebende Wirkung herstellen.[^111c-4]
+
 [^111c-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^111c-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111c-2]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^111c-3]: Ursprünglich Abs. 1. Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111c-4]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 111d
 

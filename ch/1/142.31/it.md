@@ -4,11 +4,11 @@ title: "Legge del 26 giugno 1998 sull'asilo (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: it
-version: 2026-06-12
+version: 2027-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260612/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260612-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20270101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/it"
 
 (LAsi)
 
-del 26 giugno 1998 (Stato 12 giugno 2026)
+del 26 giugno 1998 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -83,7 +83,7 @@ La Svizzera può accordare provvisoriamente protezione a persone bisognose di pr
 
 **Collaborazione e coordinamento con fedpol**[^5a-1]
 
-<sup>1</sup> Nell’ambito dei suoi compiti legali di lotta al terrorismo, la Segreteria di Stato della migrazione (SEM) collabora con fedpol.
+<sup>1</sup> Nell’ambito dei suoi compiti legali di lotta al terrorismo, la Segreteria di Stato della migrazione (SEM) collabora con l’Ufficio federale di polizia (fedpol).
 
 <sup>2</sup> Coordina le misure di sua competenza con le misure preventive di polizia e le misure amministrative di fedpol.
 
@@ -1893,26 +1893,27 @@ Le autorità competenti possono riscuotere il contributo speciale soltanto se l�
 
 <sup>1</sup> La Confederazione indennizza i Cantoni per le spese derivanti dall’esecuzione della presente legge versando loro somme forfettarie. Queste non comprendono i sussidi di cui agli articoli 91–93*b*.[^88-2]
 
-<sup>2</sup> Riguardo ai richiedenti l’asilo e alle persone bisognose di protezione non titolari di un permesso di dimora, le somme forfettarie coprono segnatamente le spese di aiuto sociale e l’assicurazione obbligatoria delle cure medico-sanitarie e comprendono inoltre un contributo alle spese d’assistenza.
+<sup>2</sup> Riguardo ai richiedenti l’asilo e alle persone bisognose di protezione non titolari di un permesso di dimora, le somme forfettarie coprono segnatamente le spese di aiuto sociale e l’assicurazione obbligatoria delle cure medico-sanitarie e comprendono inoltre un contributo alle spese d’assistenza. Tali somme sono versate per l’intera durata della procedura d’asilo oppure per al massimo cinque anni dal deposito della domanda di concessione della protezione provvisoria.[^88-3]
 
-<sup>3</sup> Riguardo ai rifugiati e alle persone bisognose di protezione titolari di un permesso di dimora e ai rifugiati nei confronti dei quali è stata ordinata, con sentenza passata in giudicato, l’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^88-3] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^88-4] o, con decisione passata in giudicato, dell’articolo 68 LStrI[^88-5], le somme forfettarie coprono segnatamente le spese di aiuto sociale e comprendono inoltre un contributo alle spese d’assistenza e amministrative.[^88-6] Tali somme sono versate per al massimo cinque anni a partire dal deposito della domanda d’asilo.[^88-7]
+<sup>3</sup> Riguardo ai rifugiati titolari di un permesso di dimora e ai rifugiati nei confronti dei quali è stata ordinata, con sentenza passata in giudicato, l’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^88-4] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^88-5] o, con decisione passata in giudicato, dell’articolo 68 LStrI[^88-6], le somme forfettarie coprono segnatamente le spese di aiuto sociale e comprendono inoltre un contributo alle spese d’assistenza e amministrative.[^88-7] Tali somme sono versate per al massimo cinque anni a partire dal deposito della domanda d’asilo.[^88-8]
 
-<sup>3bis</sup> Per le persone accolte in Svizzera nell’ambito della concessione dell’asilo a gruppi di rifugiati secondo l’articolo 56, la Confederazione può versare per più di cinque anni la somma forfettaria di cui al capoverso 3, segnatamente se al loro arrivo in Svizzera tali persone sono disabili o anziane.[^88-8]
+<sup>3bis</sup> Per le persone accolte in Svizzera nell’ambito della concessione dell’asilo a gruppi di rifugiati secondo l’articolo 56, la Confederazione può versare per più di cinque anni la somma forfettaria di cui al capoverso 3, segnatamente se al loro arrivo in Svizzera tali persone sono disabili o anziane.[^88-9]
 
-<sup>4</sup> Riguardo alle persone aventi diritto unicamente al soccorso d’emergenza secondo l’articolo 82, le somme forfettarie consistono in un’indennità per la concessione del soccorso d’emergenza.[^88-9]
+<sup>4</sup> Riguardo alle persone aventi diritto unicamente al soccorso d’emergenza secondo l’articolo 82, le somme forfettarie consistono in un’indennità per la concessione del soccorso d’emergenza.[^88-10]
 
-<sup>5</sup> ...[^88-10]
+<sup>5</sup> ...[^88-11]
 
 [^88-1]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Vedi anche la disp. trans. della mod. del 16 dic. 2016 alla fine del testo.
 [^88-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^88-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^88-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^88-6]: Nuovo testo giusta la cifra I n. 3 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^88-7]: Nuovo testo giusta l’all. n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^88-8]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-9]: Nuovo testo giusta la cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^88-10]: Abrogato dalla cifra I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-3]: Per. introdotto dalla cifra I n. 2 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^88-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^88-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^88-6]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^88-7]: Nuovo testo giusta la cifra I n. 2 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^88-8]: Nuovo testo giusta l’all. n. 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^88-9]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^88-10]: Nuovo testo giusta la cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-11]: Abrogato dalla cifra I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 89
 
@@ -2354,7 +2355,7 @@ I dati sono distrutti:
 [^99-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-4]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
-[^99-5]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-5]: Nuovo testo giusta l’all. 2 cifra II n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 1° gen. 2027 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-6]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^99-7]: Nuovo testo giusta l’all. 1 cifra II n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^99-8]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
@@ -2599,7 +2600,7 @@ Ai sensi del capoverso 1, sono considerati:
 - a. reati di terrorismo: le fattispecie secondo gli articoli 258–260<sup>sexies</sup> e 275 CP[^102aquater-3] nonché secondo l’articolo 74 della legge federale del 25 settembre 2015[^102aquater-4] sulle attività informative;
 - b. reati gravi: i reati elencati nell’allegato 1 della legge del 12 giugno 2009[^102aquater-5] sullo scambio di informazioni con gli Stati Schengen.
 
-[^102aquater-1]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102aquater-1]: Introdotto dall’all. 1 n. 2 e l’all. 2 cifra II n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^102aquater-2]: Cfr. nota a piè di pagina relativa all’art. 102*a*<sup>bis</sup> cpv. 1.
 [^102aquater-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^102aquater-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
@@ -2882,9 +2883,12 @@ Su domanda del richiedente l’asilo dispensato dal pagamento delle spese proced
 
 #### Art. 104
 
-[^104-1]
+**Anticipo delle spese**[^104-1]
 
-[^104-1]: Abrogato dall’all. n. 4 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+A meno che il ricorso sia a priori privo di probabilità di successo, non si esige un anticipo delle spese secondo l’articolo 63 capoverso 4 PA[^104-2].
+
+[^104-1]: Nuovo testo giusta la cifra I n. 2 della LF del 20 mar. 2026 sul programma di sgra vio 2027 delle finanze federali, in vigore dal 1° gen. 2027 (RU **2026** 393; FF **2025** 3067).
+[^104-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 105
 
@@ -3137,7 +3141,9 @@ Laddove necessario per l’esecuzione dei loro compiti, i servizi responsabili p
 
 **Riesame**[^111b-1]
 
-<sup>1</sup> La domanda di riesame debitamente motivata deve essere indirizzata per scritto alla SEM entro 30 giorni dalla scoperta del motivo di riesame. Non si svolge alcuna fase preparatoria.[^111b-2]
+<sup>1</sup> A meno che sussistano nuovi e rilevanti fatti o mezzi di prova, la SEM stralcia senza formalità le domande di riesame presentate nei sei mesi successivi al passaggio in giudicato della decisione in materia d’asilo e di allontanamento o a quello della reiezione di una domanda multipla o di una domanda di riesame.[^111b-2]
+
+<sup>1bis</sup> La domanda di riesame debitamente motivata deve essere indirizzata per scritto alla SEM entro 30 giorni dalla scoperta del motivo di riesame. Non si svolge alcuna fase preparatoria.[^111b-3]
 
 <sup>2</sup> Di norma, la decisione di non entrata nel merito è presa entro cinque giorni lavorativi dal deposito della domanda di riesame. Negli altri casi la decisione è presa di norma entro dieci giorni lavorativi dal deposito della domanda.
 
@@ -3146,18 +3152,25 @@ Laddove necessario per l’esecuzione dei loro compiti, i servizi responsabili p
 <sup>4</sup> Le domande di riesame infondate o presentate ripetutamente con gli stessi motivi sono stralciate senza formalità.
 
 [^111b-1]: Introdotto dalla cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^111b-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111b-2]: Introdotto dalla cifra I n. 2 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^111b-3]: Originario cpv. 1. Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111c
 
 **Domande multiple**[^111c-1]
 
-<sup>1</sup> Le domande d’asilo presentate entro cinque anni dal passaggio in giudicato della decisione in materia d’asilo e di allontanamento devono essere motivate e presentate per scritto. Non si svolge alcuna fase preparatoria. Si applicano i motivi di non entrata nel merito di cui all’articolo 31*a* capoversi 1–3.[^111c-2]
+<sup>1</sup> A meno che sussistano nuovi e fondati indizi di persecuzione, la SEM stralcia senza formalità le nuove domande presentate nei sei mesi successivi al passaggio in giudicato della decisione in materia d’asilo e di allontanamento o a quello della reiezione di una domanda multipla o di una domanda di riesame.[^111c-2]
+
+<sup>1bis</sup> Le domande d’asilo presentate entro cinque anni dal passaggio in giudicato della decisione in materia d’asilo e di allontanamento devono essere motivate e presentate per scritto. Non si svolge alcuna fase preparatoria. Si applicano i motivi di non entrata nel merito di cui all’articolo 31*a* capoversi 1–3.[^111c-3]
 
 <sup>2</sup> Le domande multiple infondate o presentate ripetutamente con gli stessi motivi sono stralciate senza formalità.
 
+<sup>3</sup> La presentazione di una domanda multipla non sospende l’esecuzione. L’autorità competente per il disbrigo può, su richiesta, concedere l’effetto sospensivo se il richiedente è esposto a un pericolo concreto nello Stato d’origine o di provenienza.[^111c-4]
+
 [^111c-1]: Introdotto dalla cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^111c-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111c-2]: Introdotto dalla cifra I n. 2 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^111c-3]: Originario cpv. 1. Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111c-4]: Introdotto dalla cifra I n. 2 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 111d
 

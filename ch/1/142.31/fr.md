@@ -4,11 +4,11 @@ title: "Loi du 26 juin 1998 sur l'asile (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: fr
-version: 2026-06-12
+version: 2027-01-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260612-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20270101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/fr"
 
 (LAsi)
 
-du 26 juin 1998 (État le 12 juin 2026)
+du 26 juin 1998 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -83,7 +83,7 @@ La Suisse peut accorder la protection provisoire à des personnes à protéger a
 
 **Collaboration et coordination avec fedpol**[^5a-1]
 
-<sup>1</sup> Le Secrétariat d’État aux migrations (SEM) collabore avec fedpol dans le cadre de ses tâches légales dans la lutte contre le terrorisme.
+<sup>1</sup> Le Secrétariat d’État aux migrations (SEM) collabore avec l’Office fédéral de la police (fedpol) dans le cadre de ses tâches légales dans la lutte contre le terrorisme.
 
 <sup>2</sup> Il coordonne les mesures relevant de ses compétences avec les mesures de police préventive et les mesures administratives de fedpol.
 
@@ -1899,26 +1899,27 @@ Elles ne peuvent prélever la taxe spéciale que si les personnes concernées:
 
 <sup>1</sup> La Confédération verse des indemnités forfaitaires aux cantons pour les frais résultant de l’application de la présente loi. Ces indemnités n’englobent pas les contributions fédérales visées aux art. 91 à 93*b*.[^88-2]
 
-<sup>2</sup> Les indemnités forfaitaires pour les requérants et les personnes à protéger qui ne sont pas titulaires d’une autorisation de séjour couvrent notamment les coûts de l’aide sociale et de l’assurance-maladie obligatoire et comprennent une contribution aux frais d’encadrement.
+<sup>2</sup> Les indemnités forfaitaires pour les requérants et les personnes à protéger qui ne sont pas titulaires d’une autorisation de séjour couvrent notamment les coûts de l’aide sociale et de l’assurance-maladie obligatoire et comprennent une contribution aux frais d’encadrement. Elles sont versées pendant toute la durée de la procédure d’asile ou au plus pendant cinq ans à compter du dépôt de la demande de protection provisoire.[^88-3]
 
-<sup>3</sup> Les indemnités forfaitaires pour les réfugiés, les personnes à protéger titulaires d’une autorisation de séjour et les réfugiés sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^88-3], 49*a* ou 49*a*<sup>bis</sup> CPM[^88-4] entrée en force ou d’une expulsion au sens de l’art. 68 LEI[^88-5] entrée en force couvrent notamment les coûts de l’aide sociale et comprennent une contribution aux frais d’encadrement et aux frais administratifs.[^88-6] Elles sont versées pendant cinq ans au plus à compter du dépôt de la demande d’asile.[^88-7]
+<sup>3</sup> Les indemnités forfaitaires pour les réfugiés titulaires d’une autorisation de séjour et les réfugiés sous le coup d’une expulsion obligatoire au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^88-4] ou des art. 49*a* ou 49*a*<sup>bis</sup> CPM[^88-5] entrée en force ou d’une expulsion au sens de l’art. 68 LEI[^88-6] entrée en force couvrent notamment les coûts de l’aide sociale et comprennent une contribution aux frais d’encadrement et aux frais administratifs.[^88-7] Elles sont versées pendant cinq ans au plus à compter du dépôt de la demande d’asile.[^88-8]
 
-<sup>3bis</sup> Pour les personnes admises en Suisse dans le cadre de l’asile octroyé à des groupes de réfugiés en vertu de l’art. 56, la Confédération peut verser les indemnités forfaitaires visées à l’al. 3 pendant plus de cinq ans, notamment si ces personnes sont handicapées ou âgées à leur arrivée en Suisse.[^88-8]
+<sup>3bis</sup> Pour les personnes admises en Suisse dans le cadre de l’asile octroyé à des groupes de réfugiés en vertu de l’art. 56, la Confédération peut verser les indemnités forfaitaires visées à l’al. 3 pendant plus de cinq ans, notamment si ces personnes sont handicapées ou âgées à leur arrivée en Suisse.[^88-9]
 
-<sup>4</sup> Les indemnités forfaitaires pour les personnes qui n’ont droit qu’à l’aide d’urgence visée à l’art. 82 constituent une indemnisation des coûts de l’aide d’urgence.[^88-9]
+<sup>4</sup> Les indemnités forfaitaires pour les personnes qui n’ont droit qu’à l’aide d’urgence visée à l’art. 82 constituent une indemnisation des coûts de l’aide d’urgence.[^88-10]
 
-<sup>5</sup> …[^88-10]
+<sup>5</sup> …[^88-11]
 
 [^88-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^88-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^88-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^88-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^88-6]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^88-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^88-8]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-9]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^88-10]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-3]: Phrase introduite par le ch. I 2 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^88-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^88-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^88-6]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^88-7]: Nouvelle teneur selon le ch. I 2 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^88-8]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^88-9]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^88-10]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-11]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 89
 
@@ -2360,7 +2361,7 @@ Les données sont détruites:
 [^99-2]: Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-3]: Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-4]: Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
-[^99-5]: Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-5]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^99-6]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^99-7]: Nouvelle teneur selon l’annexe 1 ch. II 5 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^99-8]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
@@ -2605,7 +2606,7 @@ Au sens de l’al. 1, les infractions suivantes sont réputées:
 - a. infractions terroristes: les infractions visées aux art. 258 à 260<sup>sexies</sup> et 275 CP[^102aquater-3], ainsi qu’à l’art. 74 de la loi du 25 septembre 2015 sur le renseignement[^102aquater-4];
 - b. infractions pénales graves: les infractions énumérées à l’annexe 1 de la loi du 12 juin 2009 sur l’échange d’informations Schengen[^102aquater-5].
 
-[^102aquater-1]: Introduit par l’annexe 1 ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102aquater-1]: Introduit par l’annexe 1 ch. 2 et annexe 2 ch. II 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^102aquater-2]: Cf. note de bas de page relative à l’art. 102*a*<sup>bis</sup>, al. 1.
 [^102aquater-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^102aquater-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
@@ -2637,7 +2638,7 @@ Au sens de l’al. 1, les infractions suivantes sont réputées:
 
 #### Art. 102c
 
-**[Communication de données personnelles à un État non-Dublin](https://www.fedlex.admin.ch/eli/cc/1999/358/fr)[^102c-1]**
+**Communication de données personnelles à un État non-Dublin[^102c-1]**
 
 <sup>1</sup> Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci n’assure pas un niveau de protection des données adéquat au sens de l’art. 16, al. 1, LPD[^102c-2].[^102c-3]
 
@@ -2889,9 +2890,12 @@ Sur demande du requérant qui a été dispensé de payer les frais de procédure
 
 #### Art. 104
 
-[^104-1]
+**Avance de frais**[^104-1]
 
-[^104-1]: Abrogé par l’annexe ch. 4 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+Il est renoncé à la perception d’une avance de frais au sens l’art. 63, al. 4, PA[^104-2], sauf si un recours est d’emblée voué à l’échec.
+
+[^104-1]: Nouvelle teneur selon le ch. I 2 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^104-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 105
 
@@ -3145,7 +3149,9 @@ Pour autant que cela soit nécessaire à l’exécution de leurs tâches, les se
 
 **Réexamen**[^111b-1]
 
-<sup>1</sup> La demande de réexamen dûment motivée est déposée par écrit auprès du SEM dans les 30 jours qui suivent la découverte du motif de réexamen. Il n’y a pas de phase préparatoire.[^111b-2]
+<sup>1</sup> Le SEM classe sans décision formelle les demandes de réexamen déposées dans les six mois suivant l’entrée en force de la décision d’asile et de renvoi ou du rejet exécutoire d’une demande de réexamen ou d’une demande multiple, à moins qu’il n’existe de nouveaux faits ou éléments de preuve sérieux.[^111b-2]
+
+<sup>1bis</sup> La demande de réexamen dûment motivée est déposée par écrit auprès du SEM dans les 30 jours qui suivent la découverte du motif de réexamen. Il n’y a pas de phase préparatoire.[^111b-3]
 
 <sup>2</sup> Les décisions de non-entrée en matière sont rendues en règle générale dans les cinq jours ouvrables qui suivent le dépôt de la demande de réexamen. Dans les autres cas, les décisions sont rendues en règle générale dans les dix jours ouvrables qui suivent le dépôt de la demande.
 
@@ -3154,18 +3160,25 @@ Pour autant que cela soit nécessaire à l’exécution de leurs tâches, les se
 <sup>4</sup> Les demandes de réexamen infondées ou présentant de manière répétée les mêmes motivations sont classées sans décision formelle.
 
 [^111b-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^111b-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111b-2]: Introduit par le ch. I 2 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^111b-3]: Anciennement al. 1. Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111c
 
 **Demandes multiples**[^111c-1]
 
-<sup>1</sup> La demande d’asile formée dans les cinq ans suivant l’entrée en force d’une décision d’asile et de renvoi est déposée par écrit et dûment motivée. Il n’y a pas de phase préparatoire. Les motifs de non-entrée en matière visés à l’art. 31*a*, al. 1 à 3, sont applicables.[^111c-2]
+<sup>1</sup> Le SEM classe sans décision formelle les nouvelles demandes déposées dans les six mois suivant l’entrée en force de la décision d’asile et de renvoi ou de rejet exécutoire d’une demande de réexamen ou d’une demande multiple, à moins qu’il n’existe de nouveaux indices fondés de persécution.[^111c-2]
+
+<sup>1bis</sup> La demande d’asile formée dans les cinq ans suivant l’entrée en force d’une décision d’asile et de renvoi est déposée par écrit et dûment motivée. Il n’y a pas de phase préparatoire. Les motifs de non-entrée en matière visés à l’art. 31*a*, al. 1 à 3, sont applicables.[^111c-3]
 
 <sup>2</sup> Les demandes multiples infondées ou présentant de manière répétée les mêmes motivations sont classées sans décision formelle.
 
+<sup>3</sup> Le dépôt de demandes multiples ne suspend pas l’exécution. L’autorité compétente pour le traitement de la demande peut, sur demande, octroyer l’effet suspensif en cas de mise en danger du requérant dans son État d’origine ou de provenance.[^111c-4]
+
 [^111c-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^111c-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111c-2]: Introduit par le ch. I 2 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^111c-3]: Anciennement al. 1. Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^111c-4]: Introduit par le ch. I 2 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 111d
 
