@@ -4,11 +4,11 @@ title: "Loi du 17 juin 2011 sur l'Institut fédéral de métrologie (LIFM)"
 short: LIFM
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/902"
 language: fr
-version: 2013-01-01
+version: 2027-01-01
 adopted: 2011-06-17
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/902/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-902-20130101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/902/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-902-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20130101/fr"
 
 (LIFM)
 
-du 17 juin 2011 (Etat le 1<sup>er</sup> janvier 2013)
+du 17 juin 2011 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 125 de la Constitution[^ingress-1], vu le message du Conseil fédér
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)
 
 ## Section 1 Dispositions générales
@@ -51,7 +51,7 @@ La Confédération poursuit, à travers l’Institut, les objectifs suivants:
 - a. garantir que les mesurages nécessaires à la protection des personnes et de l’environnement sont effectués de manière correcte et en conformité avec les dispositions légales;
 - b. mettre à la disposition du secteur économique suisse, de la recherche suisse et de l’administration suisse l’infrastructure et les compétences requises en matière de métrologie.
 
-<sup>2</sup> A cette fin, l’Institut exerce les tâches visées à l’art. 3 et peut fournir les prestations commerciales relevant de l’art. 25.
+<sup>2</sup> À cette fin, l’Institut exerce les tâches visées à l’art. 3 et peut fournir les prestations commerciales relevant de l’art. 25.
 
 ## Section 2 Tâches et collaboration
 
@@ -81,7 +81,7 @@ Il a les tâches suivantes:
 
 <sup>5</sup> Il peut attribuer d’autres tâches à l’Institut, contre indemnité, dans le cadre des objectifs visés à l’art. 2.
 
-[^3-1]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734); [FF 2011 4513](https://fedlex.data.admin.ch/eli/fga/2011/777)
+[^3-1]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170); [FF 2011 4513](https://fedlex.data.admin.ch/eli/fga/2011/777)
 
 #### Art. 4
 
@@ -125,7 +125,7 @@ Les organes de l’Institut sont:
 
 Le Conseil fédéral fixe les indemnités des membres du Conseil de l’Institut. L’art. 6*a* de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^7-1] est applicable.
 
-[^7-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^7-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 8
 
@@ -135,15 +135,20 @@ Le Conseil de l’Institut est l’organe de direction suprême de l’Institut.
 
 - a. veiller à la mise en œuvre des objectifs stratégiques du Conseil fédéral et lui soumettre un rapport annuel sur leur réalisation;
 - b. édicter le règlement d’organisation;
-- c. édicter une ordonnance sur le personnel, soumise à l’approbation du Conseil fédéral, qui règle la rémunération, les prestations accessoires et les autres conditions contractuelles;
-- d. conclure le contrat d’affiliation à la Caisse fédérale de pensions (PUBLICA), sous réserve de l’approbation du Conseil fédéral;
+- c.[^8-1] édicter une ordonnance sur le personnel qui règle la rémunération, les prestations accessoires et les autres conditions contractuelles, et la soumettre à l’approbation du Conseil fédéral;
+- d.[^8-2] conclure le contrat d’affiliation à la Caisse fédérale de pensions (Publica) et le soumettre à l’approbation du Conseil fédéral;
 - e. déterminer la composition, la procédure d’élection et l’organisation de l’organe paritaire de l’institution de prévoyance;
 - f. adresser au Conseil fédéral les demandes d’indemnisation présentées à la Confédération;
 - g. établir, pour chaque exercice un rapport de gestion qui se compose des comptes annuels (compte de résultat, bilan, annexe) et du rapport annuel, et le soumettre à l’approbation du Conseil fédéral avant publication avec une proposition relative à l’utilisation d’un éventuel bénéfice;
 - h. adopter le programme de recherche et de développement, la planification à moyen terme et le budget;
 - i. décider, sur proposition du directeur, de la conclusion, de la modification et de la résiliation des rapports de travail des autres membres de la direction;
 - j. surveiller la direction et instituer un système de contrôle interne et de gestion des risques;
-- k. déterminer l’affectation des réserves, sous réserve de l’art. 20.
+- k. déterminer l’affectation des réserves, sous réserve de l’art. 20;
+- l.[^8-3] édicter les dispositions concernant le financement de la prévoyance professionnelle et les soumettre à l’approbation du Conseil fédéral.
+
+[^8-1]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-2]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-3]: Introduite par l’annexe ch. 13 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9
 
@@ -182,7 +187,7 @@ La direction est l’organe exécutif. Elle a notamment les tâches suivantes:
 
 <sup>3</sup> L’organe de révision présente un rapport sur le résultat de sa vérification au Conseil de l’Institut et au Conseil fédéral. Le Conseil fédéral peut faire vérifier des faits particuliers par l’organe de révision.
 
-[^11-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -192,17 +197,17 @@ La direction est l’organe exécutif. Elle a notamment les tâches suivantes:
 
 <sup>2</sup> L’Institut est réputé employeur au sens de l’art. 3, al. 2, LPers.
 
-[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13
 
 **Caisse de pension**
 
-<sup>1</sup> La direction et le reste du personnel sont affiliés à PUBLICA conformément aux dispositions des art. 32*a* à 32*m* LPers[^13-1].
+<sup>1</sup> La direction et le reste du personnel sont affiliés à Publica conformément aux dispositions des art. 32*a* à 32*m* LPers[^13-1].
 
 <sup>2</sup> L’Institut est réputé employeur au sens de l’art. 32*b*, al. 2, LPers.
 
-[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Section 4 Financement et gestion financière
 
@@ -218,7 +223,7 @@ L’Institut finance ses activités par les moyens suivants:
 
 #### Art. 15
 
-**Emoluments**
+**Émoluments**
 
 L’Institut perçoit des émoluments pour ses décisions et ses prestations de services.
 
@@ -311,7 +316,7 @@ Le Conseil fédéral exerce sa fonction de surveillance et de contrôle notammen
 - a. en nommant ou en révoquant le président et les autres membres du Conseil de l’Institut;
 - b. en décidant de la conclusion, de la modification et de la résiliation des rapports de travail du directeur;
 - c. en nommant ou en révoquant l’organe de révision;
-- d. en approuvant l’ordonnance sur le personnel et le contrat d’affiliation à PUBLICA;
+- d.[^24-1] en approuvant l’ordonnance sur le personnel, le contrat d’affiliation à Publica et les dispositions concernant le financement de la prévoyance professionnelle;
 - e. en approuvant le rapport de gestion et en décidant de l’utilisation d’un éventuel bénéfice;
 - f. en donnant décharge au Conseil de l’Institut;
 - g. en vérifiant chaque année que les objectifs stratégiques ont été atteints.
@@ -319,6 +324,8 @@ Le Conseil fédéral exerce sa fonction de surveillance et de contrôle notammen
 <sup>3</sup> Le Conseil fédéral a un droit de regard sur les dossiers de l’Institut et peut exiger des informations sur son activité.
 
 <sup>4</sup> Les compétences légales du Contrôle fédéral des finances et la haute surveillance du Parlement sont réservées.
+
+[^24-1]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Section 6 Prestations commerciales
 
@@ -357,7 +364,7 @@ L’Institut peut en particulier:
 
 **Transfert des droits et des obligations à l’Institut**
 
-<sup>1</sup> Le Conseil fédéral décide du moment auquel l’Institut acquiert la personnalité juridique. A compter de cette date, l’Institut remplace l’Office fédéral de métrologie, reprend les rapports de droit en vigueur et les révise si nécessaire.
+<sup>1</sup> Le Conseil fédéral décide du moment auquel l’Institut acquiert la personnalité juridique. À compter de cette date, l’Institut remplace l’Office fédéral de métrologie, reprend les rapports de droit en vigueur et les révise si nécessaire.
 
 <sup>2</sup> Le Conseil fédéral spécifie les droits, les obligations et les valeurs qui sont transférés à l’Institut et approuve l’inventaire y relatif. Il fixe la date à laquelle le transfert prend effet et approuve le bilan d’ouverture.
 
@@ -369,7 +376,7 @@ L’Institut peut en particulier:
 
 <sup>6</sup> La loi du 3 octobre 2003 sur la fusion[^27-1] n’est pas applicable à la création de l’Institut.
 
-[^27-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^27-1]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 28
 
@@ -388,7 +395,7 @@ L’Institut peut en particulier:
 L’Institut est l’employeur compétent pour les bénéficiaires de rentes qui satisfont aux conditions suivantes:
 
 - a. ils relèvent administrativement de l’Office fédéral de métrologie;
-- b. le versement par PUBLICA de leurs rentes de vieillesse, d’invalidité ou de survivants provenant de la prévoyance professionnelle a commencé avant l’entrée en vigueur de la présente loi.
+- b. le versement par Publica de leurs rentes de vieillesse, d’invalidité ou de survivants provenant de la prévoyance professionnelle a commencé avant l’entrée en vigueur de la présente loi.
 
 <sup>2</sup> L’Institut est également réputé être l’employeur compétent lorsqu’une rente d’invalidité débute après l’entrée en vigueur de la présente loi mais que l’incapacité de travail à la source de l’invalidité est survenue à une date antérieure.
 

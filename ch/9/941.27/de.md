@@ -4,11 +4,11 @@ title: Bundesgesetz vom 17. Juni 2011 über das Eidgenössische Institut für Me
 short: EIMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/902"
 language: de
-version: 2013-01-01
+version: 2027-01-01
 adopted: 2011-06-17
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/902/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2011-902-20130101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/902/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2011-902-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20130101/de"
 
 (EIMG)
 
-vom 17. Juni 2011 (Stand am 1. Januar 2013)
+vom 17. Juni 2011 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 125 der Bundesverfassung[^ingress-1], nach Einsicht in die
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2010 8013](https://fedlex.data.admin.ch/eli/fga/2010/1470)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -81,7 +81,7 @@ Es hat folgende Aufgaben:
 
 <sup>5</sup> Er kann dem Institut im Rahmen der Ziele nach Artikel 2 gegen Abgeltung weitere Aufgaben übertragen.
 
-[^3-1]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734); [BBl 2011 4865](https://fedlex.data.admin.ch/eli/fga/2011/777)
+[^3-1]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170); [BBl 2011 4865](https://fedlex.data.admin.ch/eli/fga/2011/777)
 
 #### Art. 4
 
@@ -125,7 +125,7 @@ Die Organe des Instituts sind:
 
 Der Bundesrat legt die Entschädigung der Mitglieder des Institutsrats fest. Artikel 6*a* des Bundespersonalgesetzes vom 24. März 2000[^7-1] (BPG) ist anwendbar.
 
-[^7-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^7-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 8
 
@@ -135,8 +135,8 @@ Der Institutsrat ist das oberste Leitungsorgan des Instituts. Er hat folgende Au
 
 - a. Er sorgt für die Umsetzung der strategischen Ziele des Bundesrates und erstattet diesem jährlich Bericht über deren Erreichung.
 - b. Er erlässt das Organisationsreglement.
-- c. Er erlässt unter Vorbehalt der Genehmigung durch den Bundesrat eine Personalverordnung, die Entlöhnung, Nebenleistungen und weitere Vertragsbedingungen regelt.
-- d. Er schliesst unter Vorbehalt der Genehmigung durch den Bundesrat den Anschlussvertrag mit der Pensionskasse des Bundes (PUBLICA) ab.
+- c.[^8-1] Er erlässt eine Personalverordnung, die Entlöhnung, Nebenleistungen und weitere Vertragsbedingungen regelt, und unterbreitet sie dann dem Bundesrat zur Genehmigung.
+- d.[^8-2] Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (Publica) ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung.
 - e. Er regelt die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs für das Vorsorgewerk.
 - f. Er beantragt dem Bundesrat die vom Bund zu erbringenden Abgeltungen.
 - g. Er erstellt für jedes Geschäftsjahr einen Geschäftsbericht, der sich aus der Jahresrechnung (Erfolgsrechnung, Bilanz, Anhang) und dem Jahresbericht zusammensetzt, unterbreitet ihn vor der Veröffentlichung dem Bundesrat zur Genehmigung und stellt gleichzeitig Antrag über die Verwendung eines allfälligen Gewinns.
@@ -144,6 +144,11 @@ Der Institutsrat ist das oberste Leitungsorgan des Instituts. Er hat folgende Au
 - i. Er entscheidet auf Antrag der Direktorin oder des Direktors über die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses der weiteren Mitglieder der Geschäftsleitung.
 - j. Er überwacht die Geschäftsleitung und sorgt für ein internes Kontrollsystem und Risikomanagement.
 - k. Er bestimmt unter Vorbehalt von Artikel 20 die Verwendung der Reserven.
+- l.[^8-3] Er erlässt die Bestimmungen über die Finanzierung der beruflichen Vorsorge und unterbreitet sie dann dem Bundesrat zur Genehmigung.
+
+[^8-1]: Fassung gemäss Anhang Ziff. 13 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-2]: Fassung gemäss Anhang Ziff. 13 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-3]: Eingefügt durch Anhang Ziff. 13 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9
 
@@ -182,7 +187,7 @@ Die Geschäftsleitung ist das operative Organ. Sie hat insbesondere folgende Auf
 
 <sup>3</sup> Die Revisionsstelle erstattet dem Institutsrat und dem Bundesrat über das Ergebnis ihrer Prüfung Bericht. Der Bundesrat kann bestimmte Sachverhalte durch die Revisionsstelle abklären lassen.
 
-[^11-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -192,17 +197,17 @@ Die Geschäftsleitung ist das operative Organ. Sie hat insbesondere folgende Auf
 
 <sup>2</sup> Das Institut ist Arbeitgeber nach Artikel 3 Absatz 2 BPG.
 
-[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13
 
 **Pensionskasse**
 
-<sup>1</sup> Die Geschäftsleitung und das übrige Personal sind bei PUBLICA nach den Artikeln 32*a*–32*m* BPG[^13-1] versichert.
+<sup>1</sup> Die Geschäftsleitung und das übrige Personal sind bei Publica nach den Artikeln 32*a*–32*m* BPG[^13-1] versichert.
 
 <sup>2</sup> Das Institut ist Arbeitgeber nach Artikel 32*b* Absatz 2 BPG.
 
-[^13-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## 4. Abschnitt: Finanzen
 
@@ -311,7 +316,7 @@ Der Bundesrat übt seine Aufsichts- und Kontrollfunktion insbesondere aus durch:
 - a. die Wahl und die Abberufung der Präsidentin oder des Präsidenten sowie der weiteren Mitglieder des Institutsrats;
 - b. die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses der Direktorin oder des Direktors;
 - c. die Wahl und die Abberufung der Revisionsstelle;
-- d. die Genehmigung der Personalverordnung und des Anschlussvertrags mit PUBLICA;
+- d.[^24-1] die Genehmigung der Personalverordnung, des Anschlussvertrages mit Publica und der Bestimmungen über die Finanzierung der beruflichen Vorsorge;
 - e. die Genehmigung des Geschäftsberichts sowie den Beschluss über die Verwendung eines allfälligen Gewinns;
 - f. die Entlastung des Institutsrates;
 - g. die jährliche Überprüfung der Erreichung der strategischen Ziele.
@@ -319,6 +324,8 @@ Der Bundesrat übt seine Aufsichts- und Kontrollfunktion insbesondere aus durch:
 <sup>3</sup> Der Bundesrat kann Einsicht in die Geschäftsunterlagen des Instituts nehmen und sich über dessen Geschäftstätigkeit informieren lassen.
 
 <sup>4</sup> Die gesetzlichen Befugnisse der Eidgenössischen Finanzkontrolle sowie die Oberaufsicht des Parlaments bleiben vorbehalten.
+
+[^24-1]: Fassung gemäss Anhang Ziff. 13 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## 6. Abschnitt: Gewerbliche Leistungen
 
@@ -371,7 +378,7 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 <sup>6</sup> Auf die Gründung des Instituts sind die Bestimmungen des Fusionsgesetzes vom 3. Oktober 2003[^27-1] nicht anwendbar.
 
-[^27-1]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^27-1]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 28
 
@@ -390,7 +397,7 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 Das Institut gilt als zuständiger Arbeitgeber für die Rentenbezügerinnen und Rentenbezüger:
 
 - a. die dem Bundesamt für Metrologie zugeordnet sind; und
-- b. deren Alters-, Invaliden- oder Hinterlassenenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten dieses Gesetzes bei PUBLICA zu laufen begonnen haben.
+- b. deren Alters-, Invaliden- oder Hinterlassenenrenten aus der beruflichen Vorsorge vor dem Inkrafttreten dieses Gesetzes bei Publica zu laufen begonnen haben.
 
 <sup>2</sup> Das Institut gilt ebenfalls als zuständiger Arbeitgeber, wenn eine Invalidenrente nach Inkrafttreten dieses Gesetzes zu laufen beginnt, die Arbeitsunfähigkeit, deren Ursache zur Invalidität geführt hat, aber vor dem Inkrafttreten dieses Gesetzes eingetreten war.
 

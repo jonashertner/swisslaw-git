@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2011 sull'Istituto federale di metrologia (
 short: LIFM
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/902"
 language: it
-version: 2013-01-01
+version: 2027-01-01
 adopted: 2011-06-17
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/902/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2011-902-20130101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/902/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2011-902-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/902/20130101/it"
 
 (LIFM)
 
-del 17 giugno 2011 (Stato 1° gennaio 2013)
+del 17 giugno 2011 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 125 della Costituzione federale[^ingress-1]; visto il messagg
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2010 7073](https://fedlex.data.admin.ch/eli/fga/2010/1470)
 
 ## Sezione 1: Disposizioni generali
@@ -81,7 +81,7 @@ L’Istituto ha i seguenti compiti:
 
 <sup>5</sup> Il Consiglio federale può assegnare, dietro compenso, altri compiti all’Istituto nell’ambito degli obiettivi di cui all’articolo 2.
 
-[^3-1]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734); [FF 2011 4357](https://fedlex.data.admin.ch/eli/fga/2011/777)
+[^3-1]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
 
 #### Art. 4
 
@@ -125,7 +125,7 @@ Gli organi dell’Istituto sono:
 
 Il Consiglio federale stabilisce l’ammontare dell’indennità corrisposta ai membri del Consiglio d’istituto. L’articolo 6*a* della legge del 24 marzo 2000[^7-1] sul personale federale (LPers) è applicabile.
 
-[^7-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^7-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 8
 
@@ -135,15 +135,20 @@ Il Consiglio d’istituto è il massimo organo direttivo dell’Istituto. Ha i s
 
 - a. provvede all’attuazione degli obiettivi strategici del Consiglio federale, al quale riferisce annualmente sul loro adempimento;
 - b. emana il regolamento di organizzazione;
-- c. emana, fatta salva l’approvazione del Consiglio federale, un regolamento del personale che disciplina la remunerazione, le prestazioni accessorie e le altre condizioni contrattuali;
-- d. stipula il contratto di affiliazione alla Cassa pensioni della Confederazione (PUBLICA), fatta salva l’approvazione del Consiglio federale;
+- c.[^8-1] emana un regolamento del personale che disciplina la remunerazione, le prestazioni accessorie e le altre condizioni contrattuali e lo sottopone per approvazione al Consiglio federale;
+- d.[^8-2] stipula il contratto di affiliazione alla Cassa pensioni della Confederazione (Publica) e lo sottopone per approvazione al Consiglio federale;
 - e. stabilisce la composizione, la procedura di nomina e l’organizzazione dell’organo paritetico per l’istituto di previdenza;
 - f. richiede al Consiglio federale le indennità a carico della Confederazione;
 - g. redige per ogni anno d’esercizio un rapporto di gestione composto dal conto annuale (conto economico, bilancio, allegato) e dal rapporto annuale, lo presenta per approvazione al Consiglio federale prima della pubblicazione e allo stesso tempo presenta una proposta sull’impiego di eventuali utili;
 - h. approva il programma di ricerca e sviluppo, la pianificazione a medio termine e il bilancio preventivo;
 - i. decide, su proposta del direttore, in merito all’inizio, alla modifica e alla fine del rapporto di lavoro degli altri membri della direzione;
 - j. sorveglia la direzione e provvede a un sistema di controllo interno e di gestione del rischio;
-- k. decide l’utilizzazione delle riserve, fatto salvo l’articolo 20.
+- k. decide l’utilizzazione delle riserve, fatto salvo l’articolo 20;
+- l.[^8-3] emana le disposizioni sul finanziamento della previdenza professionale e le sottopone per approvazione al Consiglio federale.
+
+[^8-1]: Nuovo testo giusta l’all. n. 13 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-2]: Nuovo testo giusta l’all. n. 13 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-3]: Introdotta dall’all. n. 13 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 9
 
@@ -182,7 +187,7 @@ La direzione è l’organo operativo. Ha in particolare i seguenti compiti:
 
 <sup>3</sup> L’ufficio di revisione riferisce al Consiglio d’istituto e al Consiglio federale sul risultato della sua verifica. Il Consiglio federale può incaricare l’Ufficio di revisione di accertare determinati fatti.
 
-[^11-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^11-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 12
 
@@ -192,17 +197,17 @@ La direzione è l’organo operativo. Ha in particolare i seguenti compiti:
 
 <sup>2</sup> L’Istituto è un datore di lavoro ai sensi dell’articolo 3 capoverso 2 LPers.
 
-[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13
 
 **Cassa pensioni**
 
-<sup>1</sup> La direzione e il rimanente personale sono assicurati presso PUBLICA secondo gli articoli 32*a*–32*m* LPers[^13-1].
+<sup>1</sup> La direzione e il rimanente personale sono assicurati presso Publica secondo gli articoli 32*a*–32*m* LPers[^13-1].
 
 <sup>2</sup> L’Istituto è un datore di lavoro ai sensi dell’articolo 32*b* capoverso 2 LPers.
 
-[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Sezione 4: Finanze
 
@@ -311,7 +316,7 @@ Il Consiglio federale esercita la sua funzione di vigilanza e di controllo in pa
 - a. nominando e revocando il presidente e gli altri membri del Consiglio d’istituto;
 - b. decidendo in merito all’inizio, alla modifica e alla fine del rapporto di lavoro del direttore;
 - c. nominando e revocando l’ufficio di revisione;
-- d. approvando l’ordinanza sul personale e il contratto di affiliazione a PUBLICA;
+- d.[^24-1] approvando l’ordinanza sul personale, il contratto di affiliazione a Publica e le disposizioni sul finanziamento della previdenza professionale;
 - e. approvando il rapporto di gestione e decidendo in merito all’impiego di eventuali utili;
 - f. dando il discarico al Consiglio d’istituto;
 - g. verificando annualmente il raggiungimento degli obiettivi strategici.
@@ -319,6 +324,8 @@ Il Consiglio federale esercita la sua funzione di vigilanza e di controllo in pa
 <sup>3</sup> Il Consiglio federale ha il diritto di visionare i documenti commerciali e di informarsi sull’attività dell’Istituto.
 
 <sup>4</sup> Sono fatte salve le attribuzioni legali del Controllo federale delle finanze e l’alta vigilanza del Parlamento.
+
+[^24-1]: Nuovo testo giusta l’all. n. 13 della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 ## Sezione 6: Prestazioni commerciali
 
@@ -353,7 +360,7 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^26-1]
 
-[^26-1]: Le modifiche possono essere consultate alla [RU 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902).
+[^26-1]: Le mod. possono essere consultate alla [RU 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902).
 
 #### Art. 27
 
@@ -371,7 +378,7 @@ Le leggi federali qui appresso sono modificate come segue:
 
 <sup>6</sup> Le disposizioni della legge del 3 ottobre 2003[^27-1] sulle fusioni non sono applicabili alla costituzione dell’Istituto.
 
-[^27-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^27-1]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 28
 
@@ -390,7 +397,7 @@ Le leggi federali qui appresso sono modificate come segue:
 L’Istituto è il datore di lavoro competente per i beneficiari di rendite:
 
 - a. che dipendono dall’Ufficio federale di metrologia; e
-- b. la cui rendita di vecchiaia, d’invalidità o per superstiti della previdenza professionale versata da PUBLICA abbia iniziato a decorrere prima dell’entrata in vigore della presente legge.
+- b. la cui rendita di vecchiaia, d’invalidità o per superstiti della previdenza professionale versata da Publica abbia iniziato a decorrere prima dell’entrata in vigore della presente legge.
 
 <sup>2</sup> L’Istituto è il datore di lavoro competente anche se la rendita d’invalidità inizia a decorrere dopo l’entrata in vigore della presente legge, ma l’incapacità al lavoro all’origine della stessa è sopravvenuta prima dell’entrata in vigore della legge.
 
