@@ -4,13 +4,12 @@ number: "814.11"
 title: Verordnung über die Durchführung der Grundstückschätzung
 short: VGS
 language: de
-version: 2017-01-01
-valid_until: 2026-12-31
-version_adopted: 2017-01-17
+version: 2027-01-01
+version_adopted: 2025-09-23
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/814.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2204/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3816/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2204/pdf_file"
 
 (VGS)
 
-vom 05.12.2000 (Stand 01.01.2017)
+vom 05.12.2000 (Stand 01.01.2027)
 
 Die Regierung des Kantons St.Gallen
 
@@ -116,7 +115,7 @@ als Verordnung:[^ingress-4]
 
 [^6-1]: Art. [6](https://www.gesetzessammlung.sg.ch/data/814.1/de/art6.) Abs. 2 GGS, sGS [814.1](https://www.gesetzessammlung.sg.ch/data/814.1/de).
 
-## III. Verfahren
+## III. Durchführung
 
 #### Art. 7
 
@@ -126,7 +125,7 @@ als Verordnung:[^ingress-4]
 
 #### Art. 8
 
-**Schätzungswerte**
+**Schätzungswerte und -regeln a) im Allgemeinen**
 
 <sup>1</sup> Bei der Grundstückschätzung werden ermittelt:
 
@@ -135,17 +134,108 @@ als Verordnung:[^ingress-4]
 - c) …
 - d) die Belastungsgrenze nach dem Bundesgesetz über das bäuerliche Bodenrecht vom 4. Oktober 1991[^8-1].
 
+<sup>2</sup> Die Ermittlung des Verkehrswerts von Grundstücken richtet sich nach [Art. 9<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/814.11/de/art9bis) ff. dieser Verordnung.
+
+<sup>3</sup> Die Ermittlung des landwirtschaftlichen Ertragswerts von Grundstücken richtet sich nach dem Anhang zur eidgenössischen Verordnung über das bäuerliche Bodenrecht vom 4. Oktober 1993[^8-2].
+
+<sup>4</sup> Die Ermittlung der Gebäudeversicherungswerte richtet sich nach [Art. 14](https://www.gesetzessammlung.sg.ch/data/873.1/de/art14) ff. des Gesetzes über die Gebäudeversicherung vom 26. Dezember 1960[^8-3].
+
+<sup>5</sup> Der Fachdienst für Grundstückschätzung kann weiterführende Richtlinien und Weisungen erlassen. Ergänzend können die allgemein anerkannten, von den massgeblichen Berufsorganisationen empfohlenen Schätzungsregeln[^8-4] beigezogen werden.
+
 [^8-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de).
+[^8-2]: SR [211.412.110](https://db.clex.ch/link/Bund/211.412.110/de).
+[^8-3]: sGS [873.1](https://www.gesetzessammlung.sg.ch/data/873.1/de).
+[^8-4]: Vgl. Schweizerische Vereinigung kantonaler Grundstückbewertungsexperten (Hrsg.), Das Schweizerische Schätzerhandbuch.
 
 #### Art. 9
 
-**Schätzungsmethode**
+**…**
 
-<sup>1</sup> Die Schätzungswerte werden nach den allgemein anerkannten, von den massgeblichen Berufsorganisationen empfohlenen Schätzungsregeln[^9-1] ermittelt.
+#### Art. 9bis
 
-<sup>2</sup> Der Fachdienst für Grundstückschätzung erlässt ergänzende Richtlinien und Weisungen.
+**b) Verkehrswert des Grundstücks**
 
-[^9-1]: Vgl. Schweizerische Vereinigung kantonaler Grundstückbewertungsexperten und Schweizerische Schätzungsexperten-Kammer/Schweizerischer Verband der Immobilientreuhänder (Hrsg): Schätzerhandbuch, Bewertung von Immobilien, insbesondere Abschnitte C und D.
+<sup>1</sup> Der Verkehrswert nach [Art. 57](https://www.gesetzessammlung.sg.ch/data/811.1/de/art57) Abs. 1 des Steuergesetzes vom 9. April 1998[^9bis-1] wird ermittelt:
+
+- a) bei überbauten Grundstücken:
+  - 1\. aufgrund von Vergleichswerten;
+  - 2\. aufgrund des Sach- oder des Ertragswerts nach Massgabe der Bedeutung dieser Werte;
+  - 3\. aufgrund der Punktierung des Sachwerts;
+- b) bei unüberbauten Grundstücken:
+  - 1\. aufgrund von Vergleichswerten;
+  - 2\. aufgrund der Differenz zwischen dem Ertragswert einer realisierbaren und zonenkonformen Bebauung und den zu dessen Realisierung notwendigen, mutmasslichen Investitionen (Residualwertmethode).
+
+<sup>2</sup> Der Landwert von überbauten Grundstücken wird ermittelt:
+
+- a) aufgrund von Vergleichswerten;
+- b) aufgrund der Lageklassenmethode.
+
+[^9bis-1]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
+
+#### Art. 9ter
+
+**c) Sachwert**
+
+<sup>1</sup> Der Sachwert ergibt sich aus dem Landwert, dem Zeitwert sämtlicher Bauten und Anlagen, den Baunebenkosten und den Kosten für Umgebungsarbeiten.
+
+#### Art. 9quater
+
+**d) Ertragswert**
+
+<sup>1</sup> Der Ertragswert entspricht dem kapitalisierten Mietwert nach [Art. 34](https://www.gesetzessammlung.sg.ch/data/811.1/de/art34) Abs. 2 des Steuergesetzes vom 9. April 1998[^9quater-1].
+
+<sup>2</sup> Der Kapitalisierungssatz setzt sich zusammen aus dem Basiszinssatz für die Kapitalkosten und einem Zuschlag in Prozenten für die Bewirtschaftungskosten und die Rückstellungen.
+
+<sup>3</sup> Der Basiszinssatz wird je Kalenderjahr festgelegt. Er entspricht dem hypothekarischen Referenzzinssatz des Bundesamtes für Wohnungswesen am Ende des Vorjahres zuzüglich 1,0 Prozent bei Wohnbauten und 1,5 Prozent bei Gewerbebauten.
+
+<sup>4</sup> Der Zuschlag für die Bewirtschaftungskosten und die Rückstellungen wird objektbezogen festgelegt. Er beträgt:
+
+- a) bei Wohneigentum: 1,5–2,5 Prozent;
+- b) bei Mehrfamilienhäusern: 2,0–3,5 Prozent;
+- c) bei Gewerbe- und Industriebauten: 2,5–6,0 Prozent.
+
+[^9quater-1]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
+
+#### Art. 9quinquies
+
+**e) Gewichtung**
+
+<sup>1</sup> Bei der Verkehrswertermittlung aus Sach- und Ertragswert (Mischwert) wird den tatsächlichen Verhältnissen durch Gewichtung der beiden Komponenten Rechnung getragen.
+
+<sup>2</sup> Der Gewichtungskoeffizient bestimmt das Verhältnis des Ertragswerts gegenüber dem Sachwert nach Massgabe der wirtschaftlichen Bedeutung. Er beträgt:
+
+- a) bei Wohneigentum: 0,1–1,0;
+- b) bei Mehrfamilienhäusern: 1,0–4,0;
+- c) bei Gewerbe- und Industriebauten: 2,0–5,0.
+
+<sup>3</sup> Zur Berechnung des Verkehrswerts wird:
+
+- a) zunächst die Summe aus dem Sachwert und dem mit dem Gewichtungskoeffi-zienten multiplizierten Ertragswert gebildet;
+- b) sodann die Summe nach Bst. a dieser Bestimmung durch den um 1 erhöhten Gewichtungskoeffizienten geteilt.
+
+#### Art. 9sexies
+
+**f) Neubeurteilung nach Veräusserung**
+
+<sup>1</sup> Eine Neubeurteilung nach [Art. 6](https://www.gesetzessammlung.sg.ch/data/814.1/de/art6) Abs. 1 Bst. a des Gesetzes über die Durchführung der Grundstückschätzung vom 9. November 2000[^9sexies-1] erfolgt, wenn ein Grundstück veräussert wurde, der massgebende Erlös um wenigstens 25 Prozent vom geltenden amtlichen Verkehrswert abweicht und die Abweichung wenigstens Fr. 100'000.– beträgt.
+
+[^9sexies-1]: sGS [814.1](https://www.gesetzessammlung.sg.ch/data/814.1/de).
+
+#### Art. 9septies
+
+**g) Neubeurteilung nach baulichen Wertvermehrungen**
+
+<sup>1</sup> Eine wesentliche Veränderung der wertbestimmenden Eigenschaften eines Objekts nach [Art. 6](https://www.gesetzessammlung.sg.ch/data/814.1/de/art6) Abs. 1 Bst. c des Gesetzes über die Durchführung der Grundstückschätzung vom 9. November 2000[^9septies-1] liegt vor, wenn die baulichen Wertvermehrungen wenigstens Fr. 80'000.– betragen.
+
+<sup>2</sup> Bei Baukosten von wenigstens Fr. 120'000.– erfolgt eine Besichtigung des Objekts.
+
+[^9septies-1]: sGS [814.1](https://www.gesetzessammlung.sg.ch/data/814.1/de).
+
+#### Art. 9octies
+
+**h) Inhalt der Schätzungsverfügung**
+
+<sup>1</sup> Mit den Steuerwerten nach [Art. 8](https://www.gesetzessammlung.sg.ch/data/814.11/de/art8) Abs. 1 Bst. a dieser Verordnung werden die detaillierten Berechnungsgrundlagen zugänglich gemacht.
 
 #### Art. 10
 
