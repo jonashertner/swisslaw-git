@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2026-07-01
+version: 2027-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (État le 1<sup>er</sup> juillet 2026)
+du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -551,9 +551,9 @@ Le juge peut, pour autant que la décision paraisse équitable au vu des circons
 
 [^30a-1]
 
-En cas de décès d’un des époux, le conjoint qui a changé de nom lors de la conclusion du mariage peut déclarer en tout temps à l’officier de l’état civil vouloir reprendre son nom de célibataire.
+En cas de décès d’un des époux, le conjoint qui a changé de nom lors de la conclusion du mariage peut déclarer en tout temps à l’officier de l’état civil vouloir reprendre un nom porté avant le mariage.
 
-[^30a-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30a-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité) ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### IV. Relativement au sexe
 
@@ -2078,9 +2078,9 @@ Un époux peut demander le divorce avant l’expiration du délai de deux ans, l
 
 [^119-1]
 
-L’époux qui a changé de nom lors de la conclusion du mariage conserve ce nom après le divorce; il peut toutefois déclarer en tout temps à l’officier de l’état civil vouloir reprendre son nom de célibataire.
+L’époux qui a changé de nom lors de la conclusion du mariage conserve ce nom après le divorce; il peut toutefois déclarer en tout temps à l’officier de l’état civil vouloir reprendre un nom porté avant le mariage.
 
-[^119-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^119-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### B. Régime matrimonial et succession
 
@@ -2404,17 +2404,47 @@ Abrogés
 
 ### B. Nom
 
+### I. Nom des époux et constitution du nom de famille
+
 #### Art. 160
 
 [^160-1]
 
 <sup>1</sup> Chacun des époux conserve son nom.
 
-<sup>2</sup> Les fiancés peuvent toutefois déclarer à l’officier de l’état civil vouloir porter un nom de famille commun; ils peuvent choisir entre le nom de célibataire de l’un ou de l’autre.
+<sup>2</sup>
 
-<sup>3</sup> Les fiancés qui conservent leur nom choisissent lequel de leurs deux noms de célibataire leurs enfants porteront. L’officier de l’état civil peut les libérer de cette obligation dans des cas dûment motivés.
+Chacun des fiancés peut toutefois déclarer à l’officier de l’état civil vouloir porter l’un des noms suivants:
 
-[^160-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+- a. le nom de l’autre fiancé;
+- b. l’un des deux noms de son propre double nom ou du double nom de l’autre fiancé;
+- c. un double nom formé des noms des deux fiancés.
+
+<sup>3</sup> Les fiancés peuvent également déclarer à l’officier d’état civil vouloir porter l’un des noms porté jusque-là comme nom de famille commun. Dans ce cas, chaque fiancé peut déclarer vouloir porter un double nom, constitué du nom de famille commun suivi du nom porté jusque-là du ou de la fiancée dont le nom ne devient pas le nom de famille commun.
+
+<sup>4</sup> Si un fiancé porte déjà un double nom, seul l’un des deux noms qui composent ce dernier peut être utilisé pour le nouveau double nom ou nom de famille.
+
+<sup>5</sup> Les deux noms du double nom peuvent être reliés par un trait d’union.
+
+[^160-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+
+### II. Nom des enfants communs
+
+#### Art. 160a
+
+[^160a-1]
+
+<sup>1</sup> Les fiancés décident ensemble quel nom leurs enfants porteront.
+
+<sup>2</sup> Le nom des enfants peut être le nom de l’un des fiancés.
+
+<sup>3</sup> Si l’un des deux fiancés porte un double nom, seul l’un des deux noms qui composent ce dernier peut être donné aux enfants.
+
+<sup>4</sup> L’officier de l’état civil peut, dans des cas dûment motivés, libérer les fiancés de l’obligation de décider quel nom leurs enfants porteront.
+
+<sup>5</sup> Si les parents portent un nom de famille commun, les enfants acquièrent ce nom.
+
+[^160a-1]: Introduit par le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### C. Droit de cité
 
@@ -4072,13 +4102,15 @@ L’action doit être intentée dans les six mois à compter du jour où le moti
 
 [^270-1]
 
-<sup>1</sup> L’enfant de conjoints qui portent des noms différents acquiert celui de leurs deux noms de célibataire qu’ils ont choisi de donner à leurs enfants communs lors de la conclusion du mariage.
+<sup>1</sup> Lorsque les parents sont mariés ensemble, l’enfant acquiert celui de leurs noms qu’ils avaient choisi pour leurs enfants communs lors de la conclusion du mariage.[^270-2]
 
-<sup>2</sup> Les parents peuvent toutefois demander conjointement, dans l’année suivant la naissance du premier enfant, que l’enfant prenne le nom de célibataire de l’autre conjoint.
+<sup>2</sup> Les parents peuvent demander conjointement, dans l’année suivant la naissance du premier enfant commun, que celui-ci prenne le nom de l’autre parent. Si ce parent porte un double nom, seul l’un de ses deux noms peut être donné à l’enfant.[^270-3]
 
 <sup>3</sup> L’enfant de conjoints qui portent un nom de famille commun acquiert ce nom.
 
 [^270-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^270-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+[^270-3]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### II. Enfant dont la mère n’est pas mariée avec le père
 
@@ -4086,15 +4118,17 @@ L’action doit être intentée dans les six mois à compter du jour où le moti
 
 [^270a-1]
 
-<sup>1</sup> Lorsque l’autorité parentale est exercée de manière exclusive par l’un des parents, l’enfant acquiert le nom de célibataire de celui-ci. Lorsque l’autorité parentale est exercée de manière conjointe, les parents choisissent lequel de leurs deux noms de célibataire leurs enfants porteront.
+<sup>1</sup> Lorsque les parents ne sont pas mariés et que l’autorité parentale est exercée de manière exclusive par l’un d’eux, l’enfant acquiert son nom. Le parent détenteur de l’autorité parentale peut demander que l’enfant acquière le nom de l’autre parent. Lorsqu’ils exercent l’autorité parentale de manière conjointe, ils déterminent ensemble le nom des enfants. Le nom des enfants peut être le nom de l’un des parents.
 
-<sup>2</sup> Lorsque l’autorité parentale conjointe a été instituée après la naissance du premier enfant, les parents peuvent, dans le délai d’une année à partir de son institution, déclarer à l’officier de l’état civil que l’enfant porte le nom de célibataire de l’autre parent. Cette déclaration vaut pour tous les enfants communs, indépendamment de l’attribution de l’autorité parentale.
+<sup>2</sup> Lorsque l’autorité parentale conjointe a été instituée après la naissance du premier enfant, les parents peuvent, dans l’année suivant son institution, déclarer à l’officier de l’état civil que l’enfant porte le nom de l’autre parent. Cette déclaration vaut pour tous les enfants communs, indépendamment de l’attribution de l’autorité parentale.
 
-<sup>3</sup> Si aucun des parents n’exerce l’autorité parentale, l’enfant acquiert le nom de célibataire de la mère.
+<sup>3</sup> Si aucun des parents n’exerce l’autorité parentale, l’enfant acquiert le nom de la mère.
 
-<sup>4</sup> Les changements d’attribution de l’autorité parentale n’ont pas d’effet sur le nom. Les dispositions relatives au changement de nom sont réservées.
+<sup>4</sup> Si le parent qui donne son nom porte un double nom, seul l’un de ses deux noms peut être donné à l’enfant.
 
-[^270a-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité; [RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Autorité parentale), en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8315](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+<sup>5</sup> Les changements d’attribution de l’autorité parentale n’ont pas d’effet sur le nom de l’enfant. Les dispositions relatives au changement de nom sont réservées.
+
+[^270a-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité; [RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### III. Consentement de l’enfant
 
@@ -13110,13 +13144,32 @@ Les effets généraux du mariage sont régis par le nouveau droit dès l’entr�
 
 ### 2. Nom
 
+### a. Reprise d’un nom précédent
+
 #### Art. 8a
 
 [^u1-8a-1]
 
-Le conjoint qui, lors de la conclusion du mariage, a changé de nom avant l’entrée en vigueur de la modification du 30 septembre 2011 du présent code peut déclarer en tout temps à l’officier de l’état civil vouloir reprendre son nom de célibataire.
+L’époux qui, lors de la conclusion du mariage, a changé de nom avant l’entrée en vigueur de la modification du 30 septembre 2011[^u1-8a-2] du présent code peut déclarer en tout temps à l’officier de l’état civil vouloir reprendre un nom porté avant le mariage.
 
-[^u1-8a-1]: Introduit par le ch. I 2 de la LF du 5 oct. 1984 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1<sup>;</sup> [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^u1-8a-1]: Introduit par le ch. I 2 de la LF du 5 oct. 1984 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+[^u1-8a-2]: [RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)
+
+### b. Choix d’un double nom
+
+#### Art. 8a<sup>bis</sup>
+
+[^u1-8abis-1]
+
+<sup>1</sup> Tout époux qui s’est marié avant l’entrée en vigueur de la modification du 20 mars 2026 du présent code peut déclarer en tout temps à l’officier de l’état civil vouloir porter un double nom conformément à l’art. 160, al. 2 à 5. Le changement de nom du conjoint n’a pas d’effet sur le nom des enfants.
+
+<sup>2</sup> Tout époux qui a choisi un double nom avant l’entrée en vigueur de la modification du 30 septembre 2011[^u1-8abis-2] du présent code peut déclarer en tout temps à l’officier de l’état civil vouloir changer l’ordre des noms de son double nom. Les deux noms du double nom peuvent être reliés par un trait d’union.
+
+<sup>3</sup> Il en va de même pour les personnes qui ont converti leur partenariat enregistré en mariage conformément à l’art. 35 de la loi du 18 juin 2004 sur le partenariat[^u1-8abis-3].
+
+[^u1-8abis-1]: Introduit par le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+[^u1-8abis-2]: [RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)
+[^u1-8abis-3]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### 3. Droit de cité
 
@@ -13463,19 +13516,11 @@ Les contributions d’entretien destinées à l’enfant qui ont été fixées d
 
 [^u1-13cbis-1]: Introduit par le ch. I de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### IV<sup>quater</sup>. Nom de l’enfant
-
 #### Art. 13d
 
 [^u1-13d-1]
 
-<sup>1</sup> Si, après l’entrée en vigueur de la modification du 30 septembre 2011 du présent code, les parents ne portent plus de nom commun à la suite d’une déclaration faite conformément à l’art. 8*a* du présent titre, ils peuvent demander, dans un délai d’une année à compter de l’entrée en vigueur du nouveau droit, que l’enfant acquière le nom de célibataire du parent qui a remis cette déclaration.
-
-<sup>2</sup> Lorsque l’autorité parentale sur un enfant dont la mère n’est pas mariée avec le père a été attribuée conjointement aux deux parents ou au père seul avant l’entrée en vigueur de la modification du présent code du 30 septembre 2011, la déclaration prévue à l’art. 270*a*, al. 2 et 3, peut être faite dans l’année qui suit l’entrée en vigueur du nouveau droit.
-
-<sup>3</sup> L’accord de l’enfant selon l’art. 270*b* est réservé.
-
-[^u1-13d-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^u1-13d-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Nom et droit de cité) ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Abrogé par le ch. I de la LF du 20 mars 2026 (Double nom après le mariage), avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### V. Protection de l’adulte
 

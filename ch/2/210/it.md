@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2026-07-01
+version: 2027-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20270101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° luglio 2026)
+del 10 dicembre 1907 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -509,7 +509,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>2</sup> …[^28l-2]
 
-<sup>3 e <sup>4</sup></sup> ...[^28l-3]
+<sup>3 e <sup>4</sup></sup> …[^28l-3]
 
 [^28l-1]: Introdotto dalla cifra I della LF del 16 dic. 1983, in vigore dal 1° lug. 1985 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 [^28l-2]: Abrogato dall’all. n. 2 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
@@ -537,7 +537,7 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 <sup>1</sup> Il governo del Cantone di domicilio può, per motivi degni di rispetto, autorizzare una persona a cambiare nome.[^30-1]
 
-<sup>2</sup> ...[^30-2]
+<sup>2</sup> …[^30-2]
 
 <sup>3</sup> Chi da tale cambiamento fosse pregiudicato nei suoi diritti può contestarlo davanti al giudice, entro un anno da quando ne ebbe conoscenza.
 
@@ -550,9 +550,9 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 
 [^30a-1]
 
-In caso di morte di un coniuge, il coniuge superstite, se ha cambiato cognome in occasione del matrimonio, può dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
+In caso di morte di un coniuge, il coniuge superstite, se ha cambiato cognome in occasione del matrimonio, può dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere un cognome portato prima del matrimonio.
 
-[^30a-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^30a-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza) ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### IV. In relazione al sesso
 
@@ -905,7 +905,7 @@ Determina a quali condizioni è possibile procedere per via elettronica:
 
 <sup>3</sup> Le prescrizioni cantonali, tranne quelle relative alla retribuzione delle persone operanti nell’ambito dello stato civile, devono essere approvate dalla Confederazione.
 
-#### Art. 50 e 51
+#### Art. 50–51
 
 *Abrogati*
 
@@ -1020,7 +1020,7 @@ L’iscrizione è obbligatoria se l’associazione:
 
 <sup>2ter</sup> Può esonerare le associazioni di cui al capoverso 2 numero 3 dall’obbligo di iscrizione segnatamente se, in base all’importo, alla provenienza, alla destinazione o all’impiego previsto dei fondi raccolti o distribuiti, esse presentano un rischio esiguo di essere sfruttate per scopi di riciclaggio di denaro o di finanziamento del terrorismo.[^61-4]
 
-<sup>3</sup> ...[^61-5]
+<sup>3</sup> …[^61-5]
 
 [^61-1]: Introdotto dall’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^61-2]: Nuovo testo giusta l’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
@@ -1581,7 +1581,7 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 - 10\.[^89a-19] lo scioglimento dei contratti (art. 53e–53f),
 - 11\.[^89a-20] il fondo di garanzia (art. 56 cpv. 1 lett. c e i nonché cpv. 2–5, 56*a*, 57 e 59),
 - 12\.[^89a-21] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*),
-- 13\.[^89a-22] ...
+- 13\.[^89a-22] …
 - 14\.[^89a-23] la sicurezza finanziaria (art. 65 cpv. 1, 3 e 4, 66 cpv. 4, 67 e 72*a*–72*g*),
 - 15\. la trasparenza (art. 65*a*),
 - 16\.[^89a-24] gli accantonamenti e le riserve di fluttuazione di valore (art. 65*b*),
@@ -1694,7 +1694,7 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 <sup>1</sup> Il fidanzamento è costituito dalla promessa nuziale.
 
-<sup>2</sup> ...[^90-1]
+<sup>2</sup> …[^90-1]
 
 <sup>3</sup> Il fidanzamento non dà azione per la celebrazione del matrimonio.
 
@@ -1730,7 +1730,7 @@ Le azioni derivanti dal fidanzamento si prescrivono in un anno dalla rottura del
 
 <sup>1</sup> Per contrarre matrimonio, gli sposi devono aver compiuto il diciottesimo anno d’età ed essere capaci di discernimento.
 
-<sup>2</sup> ...[^94-1]
+<sup>2</sup> …[^94-1]
 
 [^94-1]: Abrogato dalla cifra I n. 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), con effetto dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -1886,7 +1886,7 @@ Il matrimonio è dichiarato nullo se:[^105-1]
 - 3\.[^105-3] la celebrazione era vietata per parentela;
 - 4\.[^105-4] uno degli sposi non intendeva creare l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
 - 5\.[^105-5] uno degli sposi ha contratto matrimonio senza che ciò corrispondesse alla sua libera volontà;[^105-6]
-- 6\.[^105-7] ...
+- 6\.[^105-7] …
 
 [^105-1]: Nuovo testo giusta l’all. n. 1 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 [^105-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
@@ -1946,7 +1946,7 @@ Un coniuge può domandare la nullità del matrimonio se:
 - 1\. al momento della celebrazione del matrimonio era, per causa transitoria, incapace di discernimento;
 - 2\. aveva dichiarato per errore di acconsentire alla celebrazione, sia che non intendesse sposarsi, sia che credesse di sposare un’altra persona;
 - 3\. aveva contratto matrimonio perché intenzionalmente indotto in errore su qualità personali essenziali dell’altro;
-- 4\.[^107-1] ...
+- 4\.[^107-1] …
 
 [^107-1]: Abrogato dalla cifra I n. 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, con effetto dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
@@ -2076,9 +2076,9 @@ Un coniuge può domandare il divorzio prima della scadenza del termine di due an
 
 [^119-1]
 
-Il coniuge che ha cambiato cognome in occasione del matrimonio conserva il nuovo cognome anche dopo il divorzio; può tuttavia dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
+Il coniuge che ha cambiato cognome in occasione del matrimonio conserva il nuovo cognome anche dopo il divorzio; può tuttavia dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere un cognome portato prima del matrimonio.
 
-[^119-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^119-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### B. Regime matrimoniale e diritto successorio
 
@@ -2374,13 +2374,13 @@ Il giudice disciplina i diritti e i doveri dei genitori secondo le disposizioni 
 [^134-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 [^134-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
-#### Art. 135 a 149
+#### Art. 135–149
 
 [^135149-1]
 
 [^135149-1]: Abrogati dall’all. 1 cifra II n. 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-#### Art. 150 a 158
+#### Art. 150–158
 
 *Abrogati*
 
@@ -2400,19 +2400,47 @@ Il giudice disciplina i diritti e i doveri dei genitori secondo le disposizioni 
 
 ### B. Cognome
 
+### I. Cognome dei coniugi e formazione di un cognome coniugale
+
 #### Art. 160
 
 [^160-1]
 
 <sup>1</sup> Ciascun coniuge conserva il proprio cognome.
 
-<sup>2</sup> Gli sposi possono tuttavia dichiarare all’ufficiale dello stato civile di voler assumere un cognome coniugale; possono scegliere il cognome da nubile o celibe di uno di loro.[^160-2]
+<sup>2</sup>
 
-<sup>3</sup> Se mantengono ciascuno il proprio cognome, gli sposi determinano il cognome dei figli, scegliendo il cognome da nubile o celibe di uno di loro. In casi motivati, l’ufficiale dello stato civile può liberarli da quest’obbligo.[^160-3]
+Ciascuno dei fidanzati può tuttavia dichiarare all’ufficiale dello stato civile di voler portare uno dei cognomi seguenti:
 
-[^160-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
-[^160-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^160-3]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+- a. il cognome dell’altro fidanzato;
+- b. uno dei due cognomi del proprio doppio cognome o del doppio cognome dell’altro fidanzato; o
+- c. un doppio cognome formato dai cognomi dei due fidanzati.
+
+<sup>3</sup> I fidanzati possono anche dichiarare all’ufficiale dello stato civile di voler portare uno dei loro cognomi attuali quale cognome coniugale. In tal caso ciascuno dei fidanzati può dichiarare di voler portare un doppio cognome, aggiungendo al cognome coniugale il cognome attuale dell’altro fidanzato il cui cognome non diventa cognome coniugale.
+
+<sup>4</sup> Se uno dei fidanzati porta già un doppio cognome, soltanto uno di questi due cognomi può essere utilizzato per formare il nuovo doppio cognome o il cognome coniugale.
+
+<sup>5</sup> I due cognomi del doppio cognome possono essere uniti da un trattino.
+
+[^160-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+
+### II. Cognome dei figli comuni
+
+#### Art. 160a
+
+[^160a-1]
+
+<sup>1</sup> I fidanzati determinano insieme il cognome che porteranno i loro figli.
+
+<sup>2</sup> Il cognome dei figli può essere il cognome di uno dei fidanzati.
+
+<sup>3</sup> Se uno dei fidanzati porta un doppio cognome, i figli possono portare soltanto uno dei due cognomi che lo compongono.
+
+<sup>4</sup> In casi motivati l’ufficiale dello stato civile può liberare i fidanzati dall’obbligo di determinare il cognome dei figli.
+
+<sup>5</sup> Se i genitori portano un cognome coniugale, i figli assumono tale cognome.
+
+[^160a-1]: Introdotto dalla cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### C. Cittadinanza
 
@@ -2422,7 +2450,7 @@ Il giudice disciplina i diritti e i doveri dei genitori secondo le disposizioni 
 
 Ciascun coniuge conserva la propria cittadinanza cantonale e attinenza comunale.
 
-[^161-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^161-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### D. Abitazione coniugale
 
@@ -2758,7 +2786,7 @@ In caso di separazione dei beni, la liquidazione fra i coniugi è retta dalle no
 
 <sup>2</sup> Se tali beni sono passati in proprietà di uno dei coniugi, questi è tenuto al pagamento dei debiti, ma può limitare questa responsabilità in quanto provi che i beni ricevuti non bastano per il pagamento integrale.
 
-### e. …
+### E. …
 
 #### Art. 194
 
@@ -3775,7 +3803,7 @@ Si può prescindere dal consenso di un genitore se questi è sconosciuto, assent
 
 <sup>2</sup> Negli altri casi, la decisione è presa al momento dell’adozione.
 
-<sup>3</sup> ...[^265d-3]
+<sup>3</sup> …[^265d-3]
 
 [^265d-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 [^265d-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
@@ -3881,7 +3909,7 @@ La cittadinanza dell’adottato minorenne è retta dalle disposizioni sugli effe
 
 <sup>2</sup> Occorre specialmente indagare sulla personalità e la salute degli aspiranti all’adozione e dell’adottando, la compatibilità dei soggetti, l’idoneità ad educare il figlio, la situazione economica, i motivi e le condizioni familiari degli aspiranti all’adozione, come pure sul decorso dei rapporti d’assistenza.[^268a-2]
 
-<sup>3</sup> ...[^268a-3]
+<sup>3</sup> …[^268a-3]
 
 [^268a-1]: Introdotto dalla cifra I n. 1 della LF del 30 giu. 1972, in vigore dal 1° apr. 1973 ([RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [FF 1971 II 85](https://fedlex.data.admin.ch/eli/fga/1971/2___85)).
 [^268a-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
@@ -4069,13 +4097,15 @@ L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto 
 
 [^270-1]
 
-<sup>1</sup> Se i genitori sono uniti in matrimonio e portano cognomi diversi, il figlio ne assume il cognome da celibe o nubile da essi scelto per i figli comuni in occasione del matrimonio.
+<sup>1</sup> Se i genitori sono uniti in matrimonio, il figlio ne assume il cognome da essi scelto per i figli comuni in occasione del matrimonio.[^270-2]
 
-<sup>2</sup> Entro un anno dalla nascita del primo figlio, i genitori possono chiedere congiuntamente che il figlio porti il cognome da celibe o nubile dell’altro genitore.
+<sup>2</sup> Entro un anno dalla nascita del primo figlio, i genitori possono chiedere congiuntamente che il figlio porti il cognome dell’altro genitore. Se quest’ultimo porta un doppio cognome, il figlio può assumere soltanto uno dei due cognomi che lo compongono.[^270-3]
 
 <sup>3</sup> Se i genitori portano un cognome coniugale, il figlio assume tale cognome.
 
 [^270-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^270-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+[^270-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### II. Figlio di genitori non coniugati
 
@@ -4083,15 +4113,17 @@ L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto 
 
 [^270a-1]
 
-<sup>1</sup> Se l’autorità parentale spetta a un solo genitore, il figlio ne assume il cognome da nubile o da celibe. Se l’autorità parentale è esercitata congiuntamente, i genitori stabiliscono se il figlio porterà il cognome da nubile della madre o il cognome da celibe del padre.
+<sup>1</sup> Se i genitori non sono coniugati e l’autorità parentale spetta a uno solo di essi, il figlio assume il cognome di tale genitore. Il genitore che detiene l’autorità parentale può chiedere che il figlio porti il cognome dell’altro genitore. Se l’autorità parentale è esercitata congiuntamente, i genitori determinano insieme il cognome dei figli. Il cognome dei figli può essere il cognome di uno dei genitori.
 
-<sup>2</sup> Se l’autorità parentale congiunta è istituita dopo la nascita del primo figlio, entro un anno dalla sua istituzione i genitori possono dichiarare all’ufficiale dello stato civile che il figlio porterà il cognome da nubile o da celibe dell’altro genitore. La dichiarazione vale per tutti i figli comuni, a prescindere dall’attribuzione dell’autorità parentale.
+<sup>2</sup> Se l’autorità parentale congiunta è istituita dopo la nascita del primo figlio, entro un anno dalla sua istituzione i genitori possono dichiarare all’ufficiale dello stato civile che il figlio porterà il cognome dell’altro genitore. La dichiarazione vale per tutti i figli comuni, a prescindere dall’attribuzione dell’autorità parentale.
 
-<sup>3</sup> Se l’autorità parentale non spetta ad alcuno dei genitori, il figlio assume il cognome da nubile della madre.
+<sup>3</sup> Se l’autorità parentale non spetta ad alcuno dei genitori, il figlio assume il cognome della madre.
 
-<sup>4</sup> Le modifiche dell’attribuzione dell’autorità parentale non hanno ripercussioni sul cognome. Sono fatte salve le disposizioni sul cambiamento del nome.
+<sup>4</sup> Se il genitore di cui il figlio assume il cognome porta un doppio cognome, il figlio può portare soltanto uno dei due cognomi che lo compongono.
 
-[^270a-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza) ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+<sup>5</sup> Le modifiche dell’attribuzione dell’autorità parentale non hanno ripercussioni sul cognome del figlio. Sono fatte salve le disposizioni sul cambiamento del nome.
+
+[^270a-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza) ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### III. Consenso del figlio
 
@@ -4277,14 +4309,14 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>1</sup> Il figlio può proporre azione contro il padre o la madre o contro ambedue per chiedere il mantenimento futuro e quello per l’anno precedente l’azione.
 
-<sup>2 e <sup>3</sup></sup> ...[^279-2]
+<sup>2 e <sup>3</sup></sup> …[^279-2]
 
 [^279-1]: Nuovo testo la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^279-2]: Abrogati dall’all. n. 2 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 
 ### II e III …
 
-#### Art. 280 a 284
+#### Art. 280–284
 
 [^280284-1]
 
@@ -4711,7 +4743,7 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 <sup>3</sup> Il genitore che detiene l’autorità parentale esclusiva informa tempestivamente l’altro genitore se intende modificare il luogo di dimora del figlio.
 
-<sup>4</sup> Il genitore che intende cambiare il proprio domicilio ha lo stesso obbligo di informazione.
+Il genitore che intende cambiare il proprio domicilio ha lo stesso obbligo di informazione.
 
 <sup>5</sup> Se necessario, i genitori si accordano, conformemente al bene del figlio, in merito a una modifica dell’autorità parentale, della custodia, delle relazioni personali e del contributo di mantenimento. Se non raggiungono un accordo, decide il giudice o l’autorità di protezione dei minori.
 
@@ -5548,7 +5580,7 @@ L’indivisione si scioglie:
 
 <sup>3</sup> Del resto la compartecipazione è soggetta alle regole generali della indivisione.
 
-#### Art. 349 a 358
+#### Art. 349–358
 
 [^349358-1]
 
@@ -5980,7 +6012,7 @@ Se l’istituzione di una curatela appare manifestamente sproporzionata rispetto
 
 <sup>3</sup> L’autorità di protezione degli adulti può privare l’interessato dell’accesso a dati beni senza limitarne l’esercizio dei diritti civili.
 
-<sup>4</sup> ...[^395-1]
+<sup>4</sup> …[^395-1]
 
 [^395-1]: Abrogato dalla cifra I della LF 16 dic. 2026 (Comunicazione di misure di protezione degli adulti), con effetto dal 1° gen. 2024 ([RU 2023 84](https://fedlex.data.admin.ch/eli/oc/2023/84); [FF 2016 4585](https://fedlex.data.admin.ch/eli/fga/2016/1115), [4599](https://fedlex.data.admin.ch/eli/fga/2016/1117)).
 
@@ -6855,13 +6887,13 @@ Il coniuge superstite o il partner registrato superstite riceve:[^462-2]
 [^462-1]: Nuovo testo giusta la cifra I n. 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^462-2]: Nuovo testo giusta l’all. n. 8 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-#### Art. 463 e 464
+#### Art. 463 –464
 
 [^463464-1]
 
 [^463464-1]: Abrogati dalla cifra I n. 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
-### c. ...
+### C. …
 
 #### Art. 465
 
@@ -8143,7 +8175,7 @@ La rinuncia al legato fatta dal legatario profitta al debitore di esso, eccettoc
 
 <sup>1</sup> Durante la procedura d’inventario è sospesa ogni esecuzione per i debiti del defunto.
 
-<sup>2</sup> ...[^586-1]
+<sup>2</sup> …[^586-1]
 
 <sup>3</sup> Le cause in corso sono sospese e non se ne possono proporre di nuove, riservati i casi d’urgenza.
 
@@ -10252,7 +10284,7 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 <sup>2</sup> Ciò può avvenire anche se il posto della servitù è determinato nel registro fondiario.
 
-<sup>3</sup> ...[^742-1]
+<sup>3</sup> …[^742-1]
 
 [^742-1]: Abrogato dalla cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), con effetto dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -11646,7 +11678,7 @@ Se il creditore non si annuncia entro tale termine e se dalle indagini risulta c
 
 <sup>3</sup> Il debitore può, nello stesso modo, chiedere l’annullamento di un titolo pagato che è stato smarrito.
 
-#### Art. 866 a 874
+#### Art. 866–874
 
 Abrogati
 
@@ -11661,7 +11693,7 @@ Le obbligazioni di un prestito, nominative od al portatore, possono essere garan
 - 1\. mediante costituzione di un’ipoteca o di una cartella ipotecaria per l’intiero prestito, con designazione di un rappresentante dei creditori e del debitore;
 - 2\. mediante costituzione di un pegno immobiliare per l’intiero prestito a favore dell’istituto o della persona incaricata dell’emissione e la costituzione, a favore dei creditori delle obbligazioni, di un diritto di pegno sul titolo ipotecario complessivo.
 
-#### Art. 876 a 883
+#### Art. 876–883
 
 [^876883-1]
 
@@ -11977,7 +12009,7 @@ La compera a patto di ricupera, professionalmente esercitata, è parificata al p
 
 ### Capo quarto: …
 
-#### Art. 916 a 918
+#### Art. 916–918
 
 [^916918-1]
 
@@ -13112,13 +13144,32 @@ Gli effetti del matrimonio in generale sono retti dalla legge nuova dopo l’ent
 
 ### 2. Cognome
 
+### a. Ripresa di un cognome precedente
+
 #### Art. 8a
 
 [^u1-8a-1]
 
-Il coniuge che ha cambiato cognome in occasione del matrimonio prima dell’entrata in vigore della modifica del presente Codice del 30 settembre 2011 può in ogni tempo dichiarare all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
+Il coniuge che ha cambiato cognome in occasione del matrimonio prima dell’entrata in vigore della modifica del presente Codice del 30 settembre 2011[^u1-8a-2] può in ogni tempo dichiarare all’ufficiale dello stato civile di voler riprendere un cognome portato prima del matrimonio.
 
-[^u1-8a-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Nuovo testo giusta la cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^u1-8a-1]: Introdotto dalla cifra I n. 2 della LF del 5 ott. 1984 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Nuovo testo giusta la cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+[^u1-8a-2]: [RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)
+
+### b. Adozione di un doppio cognome
+
+#### Art. 8a<sup>bis</sup>
+
+[^u1-8abis-1]
+
+<sup>1</sup> Il coniuge unitosi in matrimonio prima dell’entrata in vigore della modifica del presente Codice del 20 marzo 2026 può in ogni tempo dichiarare all’ufficiale dello stato civile di voler portare un doppio cognome secondo l’articolo 160 capoversi 2−5. La modifica del cognome del coniuge non ha effetti sul cognome dei figli.
+
+<sup>2</sup> Il coniuge che prima dell’entrata in vigore della modifica del presente Codice del 30 settembre 2011[^u1-8abis-2] ha scelto di portare un doppio cognome può in ogni tempo dichiarare all’ufficiale dello stato civile di voler invertire l’ordine dei cognomi del proprio doppio cognome. I due cognomi del doppio cognome possono essere uniti da un trattino.
+
+<sup>3</sup> Lo stesso vale per le coppie che hanno convertito la loro unione domestica registrata in matrimonio conformemente all’articolo 35 della legge del 18 giugno 2004[^u1-8abis-3] sull’unione domestica registrata.
+
+[^u1-8abis-1]: Introdotto dalla cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), in vigore dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
+[^u1-8abis-2]: [RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309)
+[^u1-8abis-3]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 ### 3. Cittadinanza
 
@@ -13460,19 +13511,11 @@ I contributi di mantenimento del figlio fissati prima dell’entrata in vigore d
 
 [^u1-13cbis-1]: Introdotto dalla cifra I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### IV<sup>quater</sup>. Cognome del figlio
-
 #### Art. 13d
 
 [^u1-13d-1]
 
-<sup>1</sup> Se dopo l’entrata in vigore della modifica del presente Codice del 30 settembre 2011 non portano più un cognome coniugale in virtù di una dichiarazione secondo l’articolo 8*a* del presente titolo, i genitori possono, entro un anno dall’entrata in vigore della legge nuova, dichiarare che il figlio assume il cognome da celibe o nubile del genitore che ha fatto la dichiarazione suddetta.
-
-<sup>2</sup> Se l’autorità parentale su un figlio di genitori non uniti in matrimonio è stata attribuita in comune ai genitori o soltanto al padre prima dell’entrata in vigore della modifica del presente Codice del 30 settembre 2011, la dichiarazione di cui all’articolo 270*a* capoversi 2 e 3 può essere fatta entro un anno dall’entrata in vigore della legge nuova.
-
-<sup>3</sup> È fatto salvo il consenso del figlio secondo l’articolo 270*b*.
-
-[^u1-13d-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+[^u1-13d-1]: Introdotto dalla cifra I della LF del 30 set. 2011 (Cognome e cittadinanza ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)). Abrogato dalla cifra I della LF del 20 mar. 2026 (Doppio cognome dopo il matrimonio), con effetto dal 1° gen. 2027 ([RU 2026 561](https://fedlex.data.admin.ch/eli/oc/2026/561); [FF 2024 260](https://fedlex.data.admin.ch/eli/fga/2024/260), [359](https://fedlex.data.admin.ch/eli/fga/2024/359)).
 
 ### V. Protezione degli adulti
 
@@ -13698,7 +13741,7 @@ La disdetta dei crediti garantiti da pegno immobiliare e la trasmissione dei tit
 
 ### 8. …
 
-#### Art. 31 e 32
+#### Art. 31–32
 
 [^u1-3132-1]
 
