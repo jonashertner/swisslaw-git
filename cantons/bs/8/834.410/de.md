@@ -4,13 +4,12 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-12-16
+version: 2027-01-01
+version_adopted: 2026-09-15
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6727/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6935/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,18 +20,18 @@ Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. Januar 2026)
+Vom 25. November 2008 (Stand 1. Januar 2027)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf das Gesetz über die Krankenversicherung im Kanton Basel-Stadt (GKV) vom 15. November 1989[^ingress-1], auf § 8 des Spitalgesetzes vom 26. März 1981[^ingress-2], auf das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008[^ingress-3] sowie das Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-4],
+gestützt auf das Gesetz über die Krankenversicherung im Kanton Basel-Stadt (GKV) vom 15. November 1989[^ingress-1], auf das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008[^ingress-2], das Gesundheitsgesetz (GesG) vom 21. September 2011[^ingress-3] sowie das Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-4],
 
 beschliesst:
 
-[^ingress-1]: SG [834.400](https://www.gesetzessammlung.bs.ch/data/834.400/de).
-[^ingress-2]: Dieses Gesetz ist aufgehoben.
-[^ingress-3]: SG [890.700](https://www.gesetzessammlung.bs.ch/data/890.700/de).
-[^ingress-4]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^ingress-1]: SG [834.400](https://www.gesetzessammlung.bs.ch/data/834.400/de)
+[^ingress-2]: SG [890.700](https://www.gesetzessammlung.bs.ch/data/890.700/de)
+[^ingress-3]: SG [300.100](https://www.gesetzessammlung.bs.ch/data/300.100/de)
+[^ingress-4]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 ## I. Vollzug des Bundesgesetzes über die Krankenpflegeversicherung (KVG)
 
@@ -132,6 +131,20 @@ beschliesst:
 **Statistiken**
 
 <sup>1</sup> Das Gesundheitsdepartement koordiniert, in Abstimmung mit dem statistischen Amt, die Erstellung der Statistiken und die Erfassung der Daten durch die nach Bundesrecht zur Mitwirkung verpflichteten Personen und Organisationen. Es kann diese Aufgaben Dritten übertragen.
+
+#### § 6a
+
+**Datenlieferung ambulante Pflege**
+
+<sup>1</sup> Organisationen und selbständig tätige Pflegefachpersonen der spitalexternen Gesundheits- und Krankenpflege sind zur Festlegung der Pflegekosten und zur Ermittlung eines bedarfsgerechten Angebotes verpflichtet, dem Gesundheitsdepartement Kosten- und Leistungsdaten einzureichen.
+
+<sup>2</sup> Die Pflicht zur Datenlieferung besteht ab dem ersten vollen Kalenderjahr nach Aufnahme der Tätigkeit.
+
+<sup>3</sup> Die Kosten- und Leistungsdaten sind kostenlos jährlich und auf Aufforderung hin zur Verfügung zu stellen.
+
+<sup>4</sup> Über Ausnahmen von der Pflicht zur Datenlieferung entscheidet das Gesundheitsdepartement auf begründetes Gesuch hin.
+
+<sup>5</sup> Das Gesundheitsdepartement regelt die Einzelheiten in einem Reglement. Dieses regelt insbesondere die vorgegebene Form und den Inhalt der Daten, die Ausnahmefälle gemäss Abs. 4, die Massnahmen bei Nichteinreichung sowie die Termine für die Einreichung der Daten.
 
 #### § 7
 
