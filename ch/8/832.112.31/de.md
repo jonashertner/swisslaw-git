@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2026-08-01
+version: 2027-01-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20270101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260801/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. August 2026)
+vom 29. September 1995 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -209,11 +209,33 @@ Die Versicherung übernimmt die Kosten folgender Leistungen der Apothekerinnen u
 - a. Beratung beim Ausführen einer ärztlichen Verordnung, die mindestens ein Arzneimittel der Spezialitätenliste enthält;
 - b. Ausführung einer ärztlichen Verordnung ausserhalb der ortsüblichen Geschäftszeiten, wenn ein Notfall vorliegt;
 - c.[^4a-1] Ersatz eines ärztlich verordneten Arzneimittels durch ein preisgünstigeres Arzneimittel mit gleicher Wirkstoffzusammensetzung;
-- d. ärztlich angeordnete Betreuung bei der Einnahme eines Arzneimittels.
+- d. ärztlich angeordnete Betreuung bei der Einnahme eines Arzneimittels;
+- e.[^4a-2]
+
+  Durchführung prophylaktischer Impfungen nach Artikel 12*a* bei Personen ab dem vollendeten 16. Altersjahr, sofern die Apothekerin oder der Apotheker:
+
+  - 1\. über ein nach dem 1. Januar 2022 erworbenes eidgenössisches oder ein gleichwertiges ausländisches Diplom, das die Voraussetzungen nach Artikel 9 Buchstabe f des Medizinalberufegesetzes vom 23. Juni 2006[^4a-3] erfüllt, oder über einen gültigen Fähigkeitsausweis FPH Impfen und Blutentnahme basierend auf dem Fähigkeitsprogramm vom 1. Januar 2024[^4a-4] verfügt, und
+  - 2\. nach dem anwendbaren kantonalen Recht befugt ist, die betreffende Impfung vorzunehmen.
+
+<sup>1bis</sup>
+
+Die Kosten für die Durchführung prophylaktischer Impfungen nach Absatz 1 Buchstabe e werden in folgenden Fällen nur übernommen, wenn die Leistung auf ärztliche Anordnung hin erbracht wird:
+
+- a. bei Personen mit Immunschwäche;
+- b. bei Personen mit unbekanntem Impfstatus;
+- c. bei Schwangeren;
+- d. bei der Erstimpfung mit einem Lebendimpfstoff;
+- e. bei einer postexpositionellen Impfung, mit Ausnahme der Tetanus-Prophylaxe bei Verletzungen, bei Personen mit vollständiger Grundimmunisierung;
+- f. bei einer Nachholimpfung der Grundimmunisierung gegen Diphtherie, Tetanus oder Poliomyelitis bei ungeimpften oder unvollständig geimpften Personen;
+- g. bei der Impfung gegen Mpox.[^4a-5]
 
 <sup>2</sup> Die Versicherung kann die Kosten von weitergehenden kostendämpfenden Leistungen zugunsten einer Gruppe von Versicherten im Rahmen eines Tarifvertrages übernehmen.
 
 [^4a-1]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^4a-2]: Eingefügt durch Ziff. I der V des EDI vom 9. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
+[^4a-3]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
+[^4a-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^4a-5]: Eingefügt durch Ziff. I der V des EDI vom 9. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
 
 ### 5. Abschnitt: Ärztliche komplementärmedizinische Leistungen
 
@@ -232,13 +254,13 @@ Die Versicherung übernimmt die Kosten von Leistungen der folgenden Fachrichtung
 - e. Phytotherapie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Phytotherapie (SMGP) des SIWF vom 1. Juli 2011, revidiert am 5. November 2015[^4b-8] entspricht.
 
 [^4b-1]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^4b-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^4b-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^4b-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^4b-4]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^4b-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^4b-6]: Fassung gemäss Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^4b-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^4b-8]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^4b-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^4b-8]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 
 ### 2. Kapitel: Auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin erbrachte Leistungen
 
@@ -295,8 +317,8 @@ Die Versicherung übernimmt die Kosten der folgenden Leistungen, die auf ärztli
 [^5-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 [^5-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
 [^5-4]: Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)). Fassung gemäss Ziff. I der V des EDI vom 2. Dez. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
-[^5-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^5-6]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^5-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^5-6]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^5-7]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^5-8]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^5-9]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
@@ -328,8 +350,8 @@ Die Versicherung übernimmt die Kosten der Leistungen, die auf ärztliche Anordn
 [^6-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^6-2]: Fassung gemäss Ziff. I der V des EDI vom 13. Dez. 1996, in Kraft seit 1. Jan. 1997 ([AS 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
 [^6-3]: Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)). Fassung gemäss Ziff. I der V des EDI vom 2. Dez. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
-[^6-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^6-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^6-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^6-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^6-6]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^6-7]: Eingefügt durch Ziff. I des EDI vom 9. Dez. 2002 ([AS 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^6-8]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
@@ -347,7 +369,7 @@ Die Versicherung übernimmt die Kosten der Leistungen, die auf ärztliche Anordn
 
 <sup>1</sup>
 
-Als Leistungen nach Artikel 33 Buchstabe b KVV gelten Untersuchungen, Behandlungen und Pflegemassnahmen, die aufgrund der Bedarfsabklärung nach Absatz 2 Buchstabe a und nach Artikel 8 erbracht werden:[^7-1]
+Als Leistungen nach Artikel 33 Buchstabe b KVV gelten Untersuchungen, Behandlungen und Pflegemassnahmen, die aufgrund der Bedarfsabklärung nach Absatz 2 Buchstaben a und a<sup>bis</sup> sowie Artikel 8*a* erbracht werden:[^7-1]
 
 - a. von Pflegefachfrauen und Pflegefachmännern (Art. 49 KVV);
 - b. von Organisationen der Krankenpflege und Hilfe zu Hause (Art. 51 KVV);
@@ -365,6 +387,13 @@ Leistungen im Sinne von Absatz 1 sind:
   - 2\. Beratung des Patienten oder der Patientin sowie gegebenenfalls der nichtberuflich an der Krankenpflege Mitwirkenden bei der Durchführung der Krankenpflege, insbesondere im Umgang mit Krankheitssymptomen, bei der Einnahme von Medikamenten oder beim Gebrauch medizinischer Geräte, und Vornahme der notwendigen Kontrollen,
   - 3\.[^7-8] Koordination der Massnahmen sowie Vorkehrungen im Hinblick auf Komplikationen in komplexen und instabilen Pflegesituationen durch spezialisierte Pflegefachpersonen;
 
+- a<sup>bis</sup>.[^7-9]
+
+  Massnahmen der Abklärung, Beratung und Koordination im Bereich der spezialisierten Palliativpflege; als solche gelten Massnahmen nach Buchstabe a bei folgenden Personen:
+
+  - 1\. erwachsene Patienten und Patientinnen, die sich in der letzten Lebensphase befinden, eine weit fortgeschrittene, unheilbare und fortschreitende Erkrankung haben und eine komplexe Symptomatik aufweisen,
+  - 2\. Kinder, die sich wegen Krankheit oder Unfall in einem lebenslimitierenden oder lebensbedrohlichen Zustand befinden;
+
 - b.
 
   Massnahmen der Untersuchung und der Behandlung:
@@ -375,36 +404,46 @@ Leistungen im Sinne von Absatz 1 sind:
   - 4\. Massnahmen zur Atemtherapie (wie O<sup>2</sup>-Verabreichung, Inhalation, einfache Atemübungen, Absaugen),
   - 5\. Einführen von Sonden oder Kathetern und die damit verbundenen pflegerischen Massnahmen,
   - 6\. Massnahmen bei Hämo- oder Peritonealdialyse,
-  - 7\.[^7-9] Vorbereitung und Verabreichung von Medikamenten sowie Dokumentation der damit verbundenen Tätigkeiten,
+  - 7\.[^7-10] Vorbereitung und Verabreichung von Medikamenten sowie Dokumentation der damit verbundenen Tätigkeiten,
   - 8\. enterale oder parenterale Verabreichung von Nährlösungen,
   - 9\. Massnahmen zur Überwachung von Infusionen, Transfusionen und Geräten, die der Behandlung oder der Kontrolle und Erhaltung von vitalen Funktionen dienen,
   - 10\. Spülen, Reinigen und Versorgen von Wunden (inkl. Dekubitus- und Ulcus-cruris-Pflege) und von Körperhöhlen (inkl. Stoma- und Tracheostomiepflege) sowie Fusspflege bei Diabetikern,
   - 11\. pflegerische Massnahmen bei Störungen der Blasen- oder Darmentleerung, inkl. Rehabilitationsgymnastik bei Inkontinenz,
   - 12\. Hilfe bei Medizinal-Teil- oder ‑Vollbädern; Anwendung von Wickeln, Packungen und Fangopackungen,
-  - 13\.[^7-10] pflegerische Massnahmen zur Umsetzung der ärztlichen Therapie im Alltag, wie Einüben von Bewältigungsstrategien und Anleitung im Umgang mit Aggression, Angst, Wahnvorstellungen,
-  - 14\.[^7-11] Unterstützung für psychisch kranke Personen in Krisensituationen, insbesondere zur Vermeidung von akuter Selbst- oder Fremdgefährdung;
+  - 13\.[^7-11] pflegerische Massnahmen zur Umsetzung der ärztlichen Therapie im Alltag, wie Einüben von Bewältigungsstrategien und Anleitung im Umgang mit Aggression, Angst, Wahnvorstellungen,
+  - 14\.[^7-12] Unterstützung für psychisch kranke Personen in Krisensituationen, insbesondere zur Vermeidung von akuter Selbst- oder Fremdgefährdung;
 
+- b<sup>bis</sup>.[^7-13] Massnahmen der Untersuchung und der Behandlung im Bereich der spezialisierten Palliativpflege; als solche gelten Massnahmen nach Buchstabe b bei Personen nach Buchstabe a<sup>bis</sup> Ziffern 1 und 2;
 - c.
 
   Massnahmen der Grundpflege:
 
   - 1\. Allgemeine Grundpflege bei Patienten oder Patientinnen, welche die Tätigkeiten nicht selber ausführen können, wie Beine einbinden, Kompressionsstrümpfe anlegen; Betten, Lagern; Bewegungsübungen, Mobilisieren; Dekubitusprophylaxe, Massnahmen zur Verhütung oder Behebung von behandlungsbedingten Schädigungen der Haut; Hilfe bei der Mund- und Körperpflege, beim An- und Auskleiden, beim Essen und Trinken,
-  - 2\.[^7-12] Massnahmen zur Überwachung und Unterstützung psychisch kranker Personen in der grundlegenden Alltagsbewältigung, wie: Erarbeitung und Einübung einer angepassten Tagesstruktur, zielgerichtetes Training zur Gestaltung und Förderung sozialer Kontakte, Unterstützung beim Einsatz von Orientierungshilfen und Sicherheitsmassnahmen.
+  - 2\.[^7-14] Massnahmen zur Überwachung und Unterstützung psychisch kranker Personen in der grundlegenden Alltagsbewältigung, wie: Erarbeitung und Einübung einer angepassten Tagesstruktur, zielgerichtetes Training zur Gestaltung und Förderung sozialer Kontakte, Unterstützung beim Einsatz von Orientierungshilfen und Sicherheitsmassnahmen.
 
-<sup>2<sup>bis</sup></sup>
+<sup>2bis</sup>
 
 Die folgenden Leistungsvoraussetzungen müssen erfüllt sein:
 
 - a. Die Leistungen nach Absatz 2 Buchstabe a Ziffer 3 müssen durch eine Pflegefachfrau oder einen Pflegefachmann (Art. 49 KVV) vorgenommen werden, die oder der eine zweijährige praktische Tätigkeit in interdisziplinärer Zusammenarbeit und im Patientenmanagement in Netzwerken nachweisen kann.
-- b. Die Abklärung, ob Massnahmen nach Absatz 2 Buchstaben b Ziffern 13 und 14 und c Ziffer 2 durchgeführt werden sollen, muss von einer Pflegefachfrau oder einem Pflegefachmann (Art. 49 KVV) vorgenommen werden, die oder der eine zweijährige praktische Tätigkeit in der Fachrichtung Psychiatrie nachweisen kann.[^7-13]
+- b. Die Abklärung, ob Massnahmen nach Absatz 2 Buchstaben b Ziffern 13 und 14 und c Ziffer 2 durchgeführt werden sollen, muss von einer Pflegefachfrau oder einem Pflegefachmann (Art. 49 KVV) vorgenommen werden, die oder der eine zweijährige praktische Tätigkeit in der Fachrichtung Psychiatrie nachweisen kann;
+- c.[^7-15]
 
-<sup>2ter</sup> Die Leistungen können ambulant oder in einem Pflegeheim erbracht werden. Sie können auch ausschliesslich während des Tages oder der Nacht erbracht werden.[^7-14]
+  Die Leistungen der spezialisierten Palliativpflege nach Absatz 2 Buchstaben a<sup>bis</sup> und b<sup>bis</sup> müssen vorgenommen werden:
 
-<sup>3</sup> Als Leistungen der Akut- und Übergangspflege nach Artikel 25*a* Absatz 2 KVG gelten die Leistungen nach Absatz 2, die aufgrund der Bedarfsabklärung nach Absatz 2 Buchstabe a und Artikel 8 nach einem Spitalaufenthalt auf spitalärztliche Anordnung hin erbracht werden von Personen und Institutionen nach Absatz 1 Buchstaben a–c.[^7-15]
+  - 1\. durch Leistungserbringer nach Absatz 1 Buchstabe a mit einer angemessenen Weiterbildung in «Palliative Care»;
+  - 2\. bei Leistungserbringern nach Absatz 1 Buchstabe b: durch Pflegefachfrauen und Pflegefachmänner mit einer angemessenen Weiterbildung in «Palliative Care»;
+  - 3\. bei Leistungserbringern nach Absatz 1 Buchstabe c: durch Pflegepersonal, das über eine angemessene Weiterbildung in «Palliative Care» verfügt; das Pflegepersonal muss entweder im Pflegeheim insgesamt oder in der organisatorisch abgegrenzten Abteilung, in der der Patient oder die Patientin gepflegt wird, mindestens 0,9 Vollzeitstellen pro Bett umfassen; mindestens die Hälfte dieser Vollzeitstellen muss mit Pflegefachfrauen und Pflegefachmännern besetzt sein.[^7-16]
 
-<sup>4</sup> Die Leistungen nach Absatz 2 Buchstaben a und c können ohne ärztliche Anordnung oder ärztlichen Auftrag aufgrund der Bedarfsabklärung nach Absatz 2 Buchstabe a und Artikel 8 erbracht werden. Die Leistungen nach Absatz 2 Buchstabe b dürfen nur auf ärztliche Anordnung hin oder im ärztlichen Auftrag aufgrund der Bedarfsabklärung nach Absatz 2 Buchstabe a und Artikel 8 erbracht werden.[^7-16]
+<sup>2ter</sup> Die Leistungen können ambulant oder in einem Pflegeheim erbracht werden. Sie können auch ausschliesslich während des Tages oder der Nacht erbracht werden.[^7-17]
 
-[^7-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+<sup>2quater</sup> Erbringt ein Leistungserbringer nach Absatz 1 Buchstabe c keine Leistungen der spezialisierten Palliativpflege nach Absatz 2 Buchstaben a<sup>bis</sup> und b<sup>bis</sup>, so können Leistungserbringer nach Absatz 1 Buchstaben a und b diese Leistungen während höchstens zehn Stunden pro Patient oder Patientin über einen Zeitraum von vier Monaten im Pflegeheim erbringen.[^7-18]
+
+<sup>3</sup> Als Leistungen der Akut- und Übergangspflege nach Artikel 25*a* Absatz 2 KVG gelten die Leistungen nach Absatz 2 Buchstaben a, b und c, die aufgrund der Bedarfsabklärung nach Absatz 2 Buchstabe a und Artikel 8*a* nach einem Spitalaufenthalt auf spitalärztliche Anordnung hin erbracht werden von Personen und Institutionen nach Absatz 1 Buchstaben a–c.[^7-19]
+
+<sup>4</sup> Die Leistungen nach Absatz 2 Buchstaben a und c können ohne ärztliche Anordnung oder ärztlichen Auftrag nach Artikel 8 aufgrund der Bedarfsabklärung nach Absatz 2 Buchstabe a und Artikel 8*a* erbracht werden. Die Leistungen nach Absatz 2 Buchstaben a<sup>bis</sup>, b und b<sup>bis</sup> dürfen nur auf ärztliche Anordnung hin oder im ärztlichen Auftrag nach Artikel 8 aufgrund der Bedarfsabklärung nach Absatz 2 Buchstaben a und a<sup>bis</sup> sowie Artikel 8*a* erbracht werden.[^7-20]
+
+[^7-1]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
 [^7-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 [^7-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^7-4]: Fassung gemäss Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
@@ -412,14 +451,18 @@ Die folgenden Leistungsvoraussetzungen müssen erfüllt sein:
 [^7-6]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-7]: Fassung gemäss Ziff. I der V des EDI vom 2. Juli 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 [^7-8]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-9]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-10]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-9]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7-10]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-11]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
-[^7-12]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
-[^7-13]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2006 ([AS 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-14]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
-[^7-15]: Eingefügt durch Ziff. I der V des EDI vom 3. Juli 1997 ([AS 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Fassung gemäss Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
-[^7-16]: Eingefügt durch Ziff. I der V des EDI vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^7-12]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-13]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7-14]: Fassung gemäss Ziff. I der V des EDI vom 20. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-15]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7-16]: Eingefügt durch Ziff. I der V des EDI vom 20. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-17]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
+[^7-18]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7-19]: Eingefügt durch Ziff. I der V des EDI vom 3. Juli 1997 ([AS 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7-20]: Eingefügt durch Ziff. I der V des EDI vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)). Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
 
 #### Art. 7a
 
@@ -427,11 +470,13 @@ Die folgenden Leistungsvoraussetzungen müssen erfüllt sein:
 
 <sup>1</sup>
 
-Die Versicherung übernimmt für Leistungserbringer nach Artikel 7 Absatz 1 Buchstaben a und b folgende Beiträge an die Kosten der Leistungen nach Artikel 7 Absatz 2 pro Stunde:
+Die Versicherung übernimmt für Leistungserbringer nach Artikel 7 Absatz 1 Buchstaben a und b pro Stunde folgende Beiträge an die Kosten der Leistungen:[^7a-2]
 
 - a. für Leistungen nach Artikel 7 Absatz 2 Buchstabe a: 76.90 Franken;
+- a<sup>bis</sup>.[^7a-3] für Leistungen nach Artikel 7 Absatz 2 Buchstabe a<sup>bis</sup>: 112.90 Franken;
 - b. für Leistungen nach Artikel 7 Absatz 2 Buchstabe b: 63.00 Franken;
-- c. für Leistungen nach Artikel 7 Absatz 2 Buchstabe c: 52.60 Franken.[^7a-2]
+- b<sup>bis</sup>.[^7a-4] für Leistungen nach Artikel 7 Absatz 2 Buchstabe b<sup>bis</sup>: 99.00 Franken;
+- c. für Leistungen nach Artikel 7 Absatz 2 Buchstabe c: 52.60 Franken.[^7a-5]
 
 <sup>2</sup> Die Vergütung der Beiträge nach Absatz 1 erfolgt in Zeiteinheiten von 5 Minuten. Zu vergüten sind mindestens 10 Minuten.
 
@@ -450,13 +495,19 @@ Die Versicherung übernimmt für Leistungserbringer nach Artikel 7 Absatz 1 Buch
 - i. bei einem Pflegebedarf von 161 bis 180 Minuten: 86.40 Franken;
 - j. bei einem Pflegebedarf von 181 bis 200 Minuten: 96.00 Franken;
 - k. bei einem Pflegebedarf von 201 bis 220 Minuten: 105.60 Franken;
-- l. bei einem Pflegebedarf von mehr als 220 Minuten: 115.20 Franken.[^7a-3]
+- l. bei einem Pflegebedarf von mehr als 220 Minuten: 115.20 Franken.[^7a-6]
+
+<sup>3bis</sup> Der Beitrag nach Absatz 3 erhöht sich um 37.00 Franken pro Tag, wenn der Leistungserbringer nach Artikel 7 Absatz 1 Buchstabe c Leistungen der spezialisierten Palliativpflege nach Artikel 7 Absatz 2 Buchstaben a<sup>bis</sup> und b<sup>bis</sup> erbringt.[^7a-7]
 
 <sup>4</sup> Die Versicherung übernimmt für Tages- oder Nachtstrukturen nach Artikel 7 Absatz 2<sup>ter</sup> die Beiträge nach Absatz 3 an die Kostender Leistungen nach Artikel 7 Absatz 2 pro Tag oder Nacht.
 
 [^7a-1]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
-[^7a-2]: Fassung gemäss Ziff. I der V des EDI vom 2. Juli 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
-[^7a-3]: Fassung gemäss Ziff. I der V des EDI vom 2. Juli 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7a-2]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7a-3]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7a-4]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7a-5]: Fassung gemäss Ziff. I der V des EDI vom 2. Juli 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7a-6]: Fassung gemäss Ziff. I der V des EDI vom 2. Juli 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7a-7]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
 
 #### Art. 7b
 
@@ -478,13 +529,15 @@ Die Versicherung übernimmt für Leistungserbringer nach Artikel 7 Absatz 1 Buch
 Für die Berechnung der maximalen Beteiligung der versicherten Person an den Pflegekosten nach Artikel 25*a* Absatz 5 KVG[^7c-2] sind folgende Beträge massgebend:
 
 - a. bei Beiträgen nach Artikel 7*a* Absatz 1 Buchstaben a, b und c: 76.90 Franken;
-- b. …
+- b. bei Beiträgen nach Artikel 7*a* Absatz 1 Buchstaben a<sup>bis</sup> und b<sup>bis</sup>: 112.90 Franken;
 - c. bei Beiträgen nach Artikel 7*a* Absatz 3: 115.20 Franken;
-- d. …
+- d. bei Beiträgen nach Artikel 7*a* Absatz 3<sup>bis</sup>: 152.20 Franken.
 
-<sup>2 und <sup>3</sup></sup> …
+<sup>2</sup> Für Leistungen nach Artikel 7 Absatz 2<sup>quater</sup> wird keine Beteiligung der versicherten Person erhoben.
 
-[^7c-1]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, Abs. 1 Bst. a und c in Kraft seit 1. Aug. 2026 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)). Die anderen Bestimmungen treten zu einem späteren Zeitpunkt in Kraft.
+<sup>3</sup> Die Beteiligung nach Absatz 1 wird pro Tag erhoben, an dem die jeweiligen Pflegeleistungen bezogen werden.
+
+[^7c-1]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, Abs. 1 Bst. a und c in Kraft seit 1. Aug. 2026, Abs. 1 Bst. b und d sowie Abs. 2 und 3 in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
 [^7c-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
@@ -493,21 +546,28 @@ Für die Berechnung der maximalen Beteiligung der versicherten Person an den Pfl
 
 <sup>1</sup> Im ärztlichen Auftrag oder in der ärztlichen Anordnung bestimmt der Arzt oder die Ärztin, ob der Patient oder die Patientin Leistungen nach Artikel 7 Absatz 2 Buchstabe b oder Leistungen der Akut- und Übergangspflege nach Artikel 25*a* Absatz 2 KVG[^8-2] benötigt. Darin können bestimmte Leistungen im Sinne von Artikel 7 Absatz 2 als notwendig erklärt werden.[^8-3]
 
+<sup>1bis</sup> Der Arzt oder die Ärztin bestimmt mit einem geeigneten Instrument, ob der Patient oder die Patientin Leistungen der spezialisierten Palliativpflege nach Artikel 7 Absatz 2 Buchstaben a<sup>bis</sup> und b<sup>bis</sup> benötigt und hält dies im ärztlichen Auftrag oder in der ärztlichen Anordnung fest. Das Instrument wird schweizweit verwendet und weist aus, ob der Patient oder die Patientin die Kriterien nach Artikel 7 Absatz 2 Buchstabe a<sup>bis</sup> Ziffer 1 oder 2 erfüllt.[^8-4]
+
 <sup>2</sup>
 
 Der Arzt oder die Ärztin darf den Auftrag oder die Anordnung für folgende Höchstdauer erteilen:
 
-- a.[^8-4] bei Leistungen nach Artikel 7 Absatz 2 Buchstabe b: maximal neun Monate;
-- b. bei Leistungen der Akut- und Übergangspflege nach Artikel 25*a* Absatz 2 KVG: maximal zwei Wochen.
+- a.[^8-5] bei Leistungen nach Artikel 7 Absatz 2 Buchstabe b: maximal neun Monate;
+- b. bei Leistungen der Akut- und Übergangspflege nach Artikel 25*a* Absatz 2 KVG: maximal zwei Wochen;
+- c.[^8-6] bei Leistungen der spezialisierten Palliativpflege nach Artikel 7 Absatz 2 Buchstaben a<sup>bis</sup> und b<sup>bis</sup>: maximal vier Monate.
 
-<sup>3</sup> Bei Personen, die eine Hilflosenentschädigung der Alters- und Hinterlassenenversicherung, der Invalidenversicherung oder der Unfallversicherung wegen mittlerer oder schwerer Hilflosigkeit erhalten, gilt der ärztliche Auftrag oder die ärztliche Anordnung bezogen auf Leistungen infolge des die Hilflosigkeit verursachenden Gesundheitszustandes unbefristet. Wird die Hilflosenentschädigung einer Revision unterzogen, so ist deren Resultat von der versicherten Person dem Versicherer bekannt zu geben. Im Anschluss an eine derartige Revision ist der ärztliche Auftrag oder die ärztliche Anordnung zu erneuern.
+<sup>3</sup> Bei Personen, die eine Hilflosenentschädigung der Alters- und Hinterlassenenversicherung, der Invalidenversicherung oder der Unfallversicherung wegen mittlerer oder schwerer Hilflosigkeit erhalten, gilt der ärztliche Auftrag oder die ärztliche Anordnung bezogen auf Leistungen nach Artikel 7 Absatz 2 Buchstabe b infolge des die Hilflosigkeit verursachenden Gesundheitszustandes unbefristet. Wird die Hilflosenentschädigung einer Revision unterzogen, so ist deren Resultat von der versicherten Person dem Versicherer bekannt zu geben. Im Anschluss an eine derartige Revision ist der ärztliche Auftrag oder die ärztliche Anordnung zu erneuern.[^8-7]
 
-<sup>4</sup> Aufträge und Anordnungen nach Absatz 2 Buchstabe a können verlängert werden.
+<sup>4</sup> Aufträge und Anordnungen nach Absatz 2 Buchstaben a und c können verlängert werden.[^8-8]
 
 [^8-1]: Fassung gemäss Ziff. I der V des EDI vom 2. Juli 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 [^8-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^8-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
-[^8-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^8-4]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^8-5]: Fassung gemäss Ziff. I der V des EDI vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^8-6]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^8-7]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^8-8]: Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
 
 #### Art. 8a
 
@@ -687,11 +747,40 @@ Die nach Artikel 50 KVV zugelassenen Logopäden und Logopädinnen und die nach A
 
 #### Art. 11a
 
-<sup>1</sup> Die Versicherung übernimmt die Kosten der diagnostischen Leistungen, die auf ärztliche Anordnung hin von nach Artikel 50*b* KVV zugelassenen Neuropsychologen und Neuropsychologinnen oder von nach Artikel 52*d* KVV zugelassenen Organisationen der Neuropsychologie erbracht werden.[^11a-1]
+[^11a-1]
 
-<sup>2</sup> Sie übernimmt je ärztliche Anordnung die Kosten von höchstens sechs Sitzungen. Pro Jahr und Patient oder Patientin sind höchstens zwei ärztliche Anordnungen möglich.
+Die Versicherung übernimmt die Kosten von neuropsychologischen Leistungen der Diagnostik und der Therapie, die auf ärztliche Anordnung hin von nach Artikel 50*b* KVV zugelassenen Neuropsychologen und Neuropsychologinnen oder von nach Artikel 52*d* KVV zugelassenen Organisationen der Neuropsychologie erbracht werden.
 
-[^11a-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^11a-1]: Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
+
+#### Art. 11a<sup>bis</sup>
+
+**Neuropsychologische Diagnostik**[^11abis-1]
+
+Für diagnostische Leistungen übernimmt die Versicherung je ärztliche Anordnung die Kosten von höchstens sechs Sitzungen. Pro Jahr und Patient oder Patientin sind höchstens zwei ärztliche Anordnungen möglich.
+
+[^11abis-1]: Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
+
+#### Art. 11a<sup>ter</sup>
+
+**Neuropsychologische Therapie**[^11ater-1]
+
+<sup>1</sup>
+
+Für therapeutische Leistungen übernimmt die Versicherung die Kosten, wenn:
+
+- a. die Leistung zur Behandlung von hirnorganisch bedingten Hirnleistungsstörungen dient;
+- b. die Therapie von einem Arzt oder einer Ärztin angeordnet wird, der oder die über einen eidgenössischen oder einen anerkannten ausländischen Weiterbildungstitel in Neurologie, in Physikalischer Medizin und Rehabilitation, in Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie, in Psychiatrie und Psychotherapie, in Kinder- und Jugendpsychiatrie und -psychotherapie oder in Allgemeiner Innerer Medizin mit Schwerpunkt Geriatrie verfügt.
+
+<sup>2</sup> Von der Kostenübernahme ausgeschlossen ist die Behandlung von Hirnleistungsstörungen in Folge von Demenzerkrankungen oder psychiatrischen Erkrankungen.
+
+<sup>3</sup> Die Versicherung übernimmt je ärztliche Anordnung die Kosten von höchstens 30 Therapiesitzungen. Absatz 5 bleibt vorbehalten.
+
+<sup>4</sup> Der Neuropsychologe oder die Neuropsychologin erstattet vor Ablauf der angeordneten Anzahl Sitzungen dem anordnenden Arzt oder der anordnenden Ärztin Bericht.
+
+<sup>5</sup> Soll die Therapie nach 30 Sitzungen zulasten der Versicherung fortgesetzt werden, so ist das Verfahren nach Artikel 3*b* sinngemäss anwendbar. Der Bericht mit dem Vorschlag zur Fortsetzung erfolgt durch den anordnenden Arzt oder die anordnende Ärztin.
+
+[^11ater-1]: Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
 
 ### 6. Abschnitt: Psychologische Psychotherapie
 
@@ -821,12 +910,13 @@ Die Versicherung übernimmt für die Impfungen folgende Kosten für die Impfbera
 
 <sup>4</sup> Auf die Impfungen und die Impfberatungen wird keine Franchise erhoben, sofern die Leistungen im Rahmen eines nationalen Präventionsprogramms durchgeführt werden.
 
-<sup>5</sup> Die Kosten der Impfungen werden nur übernommen, wenn der verwendete Impfstoff für die betreffende Altersgruppe und Indikation in der Spezialitätenliste aufgeführt ist und die dort festgelegten Limitationen eingehalten sind; ausgenommen sind die Impfungen nach Absatz 1 Buchstaben m und r.
+<sup>5</sup> Die Kosten der Impfungen werden nur übernommen, wenn der verwendete Impfstoff für die betreffende Altersgruppe und Indikation in der Spezialitätenliste aufgeführt ist und die dort festgelegten Limitationen eingehalten sind; ausgenommen ist die Impfung nach Absatz 1 Buchstabe r.[^12a-5]
 
 [^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 2. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
 [^12a-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12a-3]: Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
 [^12a-4]: Berichtigung vom 11. Mai 2026 ([AS 2026 209](https://fedlex.data.admin.ch/eli/oc/2026/209)).
+[^12a-5]: Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
 
 #### Art. 12b
 
@@ -851,9 +941,9 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 [^12b-2]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
 [^12b-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12b-4]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
-[^12b-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-5]: Das Dokument ist einsehbar unter: [[www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)](http://www.bag.admin.ch/ref).
 [^12b-6]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12b-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12b-7]: Das Dokument ist einsehbar unter: [[www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)](http://www.bag.admin.ch/ref).
 [^12b-8]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^12b-9]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
 [^12b-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
@@ -861,7 +951,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 [^12b-12]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12b-13]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12b-14]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
-[^12b-15]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-15]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12b-16]: Eingefügt durch Ziff. I der V des EDI vom 29. Nov. 2023 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Fassung gemäss Ziff. I der V des EDI vom 17. Juni 2024, in Kraft seit 1. Juli 2024 ([AS 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12b-17]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 
@@ -878,7 +968,7 @@ Die Versicherung übernimmt die Kosten für folgende Untersuchungen des allgemei
 
 [^12c-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12c-2]: Fassung gemäss Ziff. I der V des EDI vom 25. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)).
-[^12c-3]: Die Checklisten sind einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12c-3]: Die Checklisten sind einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 
 #### Art. 12d
 
@@ -901,14 +991,14 @@ Die Versicherung übernimmt die Kosten für folgende Untersuchungen des allgemei
 
 [^12d-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12d-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Jan. 2019, in Kraft seit 1. März 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)).
-[^12d-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12d-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12d-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^12d-5]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)).
 [^12d-6]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^12d-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^12d-8]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^12d-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^12d-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12d-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12d-8]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12d-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12d-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^12d-11]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^12d-12]: Eingefügt durch Ziff. I der V des EDI vom 20. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
 [^12d-13]: Eingefügt durch Ziff. I der V des EDI vom 17. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)).
@@ -961,11 +1051,11 @@ Die Versicherung übernimmt bei Mutterschaft die folgenden Kontrolluntersuchunge
 
 [^13-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^13-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
-[^13-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
-[^13-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^13-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^13-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^13-5]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 [^13-6]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
-[^13-7]: Das Dokument ist einsehbar unter [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^13-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^13-8]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 [^13-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 [^13-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
@@ -1758,9 +1848,7 @@ Auf Verlangen des BAG muss die Zulassungsinhaberin dem BAG folgende Unterlagen e
 
 #### Art. 35
 
-**Ausserordentliche Massnahme zur Eindämmung der Kostenentwicklung**[^35-1]
-
-Preiserhöhungen nach Artikel 67 Absatz 5 KVV sind ausgeschlossen. Das BAG kann ausnahmsweise Preiserhöhungen gewähren, wenn die Versorgung der Schweizer Bevölkerung sichergestellt werden muss und therapeutische Alternativen fehlen.
+[^35-1]
 
 [^35-1]: Fassung gemäss Ziff. I der V des EDI vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2024, verlängert bis zum 31. Dez. 2025 und bis zum 31. Dez. 2026 ([AS 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571), [807](https://fedlex.data.admin.ch/eli/oc/2023/807)Ziff. IV Abs. 5; [AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)Ziff. III Abs. 2; [2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)Ziff. III Abs. 3).
 
@@ -2392,7 +2480,7 @@ Anhang 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), vom 29. Nov. 2023([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), vom 17. Juni 2024 ([AS 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), vom 29. Nov. 2024 ([AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)), vom 2. Dez. 2025 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)) und vom 9. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
+[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), vom 29. Nov. 2023 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), vom 17. Juni 2024 ([AS 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), vom 29. Nov. 2024 ([AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)), vom 2. Dez. 2025 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)) und vom 9. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
 [^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/336](https://fedlex.data.admin.ch/eli/oc/2026/336) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 1a[^t-3]
@@ -2403,8 +2491,8 @@ Anhang 1a[^t-3]
 
 [^annex1a-lvlu1-1]
 
-[^t-3]: Eingefügt durch Ziff. III Abs. 4 der V des EDI vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), vom 29. Nov. 2023 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), vom 17. Juni 2024 ([AS 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), vom 29. Nov. 2024 ([AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)), vom 2. Dez. 2025, in Kraft seit 1. Jan 2026 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
-[^annex1a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/853) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Eingefügt durch Ziff. III Abs. 4 der V des EDI vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), vom 29. Nov. 2023 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), vom 17. Juni 2024 ([AS 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), vom 29. Nov. 2024 ([AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)), vom 2. Dez. 2025 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)) und Ziff. I Bst. b der V des EDI vom 9. Juni 2026, in Kraft seit 1. Jan 2027 ([AS 2026 337](https://fedlex.data.admin.ch/eli/oc/2026/337)).
+[^annex1a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2026/337](https://fedlex.data.admin.ch/eli/oc/2026/337) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2[^t-4]
 
@@ -2414,8 +2502,8 @@ Anhang 2[^t-4]
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. I der V des EDI vom 7. Juni 2018 ([AS 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 2 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 6. Dez. 2019 ([AS 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), Ziff. II Abs. 2 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. I der V des EDI vom 8. Juni 2021 ([AS 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), Ziff. II Abs. 3 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), Ziff. II Abs. 2 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), vom 1. Sept. 2022 ([AS 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), vom 29. Nov. 2023 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), vom 29. Nov. 2024 ([AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)), vom 2. Dez. 2025 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851), [852](https://fedlex.data.admin.ch/eli/oc/2025/852)), Ziff. I der V des EDI vom 2. Dez. 2025 ([AS 2025 853](https://fedlex.data.admin.ch/eli/oc/2025/853)) und Ziff. II der V des EDI vom 9. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/336](https://fedlex.data.admin.ch/eli/oc/2026/336) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. I der V des EDI vom 7. Juni 2018 ([AS 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 2 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 6. Dez. 2019 ([AS 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), Ziff. II Abs. 2 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. I der V des EDI vom 8. Juni 2021 ([AS 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), Ziff. II Abs. 3 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), Ziff. II Abs. 2 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), vom 1. Sept. 2022 ([AS 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), vom 29. Nov. 2023 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), vom 29. Nov. 2024 ([AS 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), vom 4. Juni 2025 ([AS 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)), vom 2. Dez. 2025 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)), Ziff. I der V des EDI vom 2. Dez. 2025 ([AS 2025 853](https://fedlex.data.admin.ch/eli/oc/2025/853)), Ziff. II der V des EDI vom 9. Juni 2026 ([AS 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)) und vom 2. Dez. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 852](https://fedlex.data.admin.ch/eli/oc/2025/852)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/852](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-5]
 
