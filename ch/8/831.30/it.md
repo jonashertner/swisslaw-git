@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 2006 sulle prestazioni complementari all'as
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: it
-version: 2028-01-01
+version: 2029-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20280101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20280101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20290101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20290101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20290101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/it"
 
 (LPC)
 
-del 6 ottobre 2006 (Stato 1° gennaio 2028)
+del 6 ottobre 2006 (Stato 1° gennaio 2029)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -204,16 +204,17 @@ Il Consiglio federale disciplina:
 - c. il conteggio dei proventi di un’attività lucrativa che si può ragionevolmente pretendere da persone parzialmente invalide o da vedove senza figli minorenni;
 - c<sup>bis</sup>.[^9-4] il computo dei debiti ipotecari per il calcolo della sostanza netta;
 - d. i redditi e le spese determinanti nel tempo;
-- e. l’importo forfettario per le spese accessorie di un immobile occupato dal proprietario o dall’usufruttuario;
+- e.[^9-5] l’importo forfettario per le spese accessorie di un immobile abitato dal proprietario, dall’usufruttuario o dall’usuario;
 - f. l’importo forfettario per le spese di riscaldamento di un appartamento locato per quanto queste ultime siano assunte direttamente dal locatario;
-- g. il coordinamento con la riduzione dei premi ai sensi della legge federale del 18 marzo 1994[^9-5] sull’assicurazione malattie (LAMal);
+- g. il coordinamento con la riduzione dei premi ai sensi della legge federale del 18 marzo 1994[^9-6] sull’assicurazione malattie (LAMal);
 - h. la nozione di istituto ai sensi della presente legge.
 
 [^9-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-2]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-4]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^9-5]: Nuovo testo giusta la cifra I n. 3 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-6]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 9a
 
@@ -268,7 +269,7 @@ Per le persone che non vivono durevolmente o per oltre tre mesi in un istituto o
   - 3\.[^10-6] un supplemento di 7020 franchi se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella; se più persone hanno diritto al supplemento, lo stesso ammonta complessivamente al massimo al doppio di tale importo,
   - 4\.[^10-7] un supplemento di 6000 franchi per gli aventi diritto a un contributo per l’assistenza secondo l’articolo 42<sup>quater</sup> LAI[^10-8] che necessitano di un’assistenza notturna e mettono a disposizione dell’assistente una camera;
 
-- c.[^10-9] in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo delle prestazioni complementari sono proprietarie, usufruttuarie o usuarie; la lettera b si applica per analogia.
+- c.[^10-9] l’importo forfettario per le spese accessorie stabilito dal Consiglio federale di cui all’articolo 9 capoverso 5 lettera e, nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione complementare sono proprietarie, usufruttuarie o usuarie.
 
 <sup>1bis</sup> Se più persone vivono nella stessa economia domestica l’importo massimo riconosciuto per la pigione è fissato individualmente per ogni avente diritto o per ogni persona compresa nel calcolo comune delle prestazioni complementari secondo l’articolo 9 capoverso 2, dividendo la somma degli importi riconosciuti per il numero di persone che vivono nell’economia domestica. I supplementi di cui al capoverso 1 lettera b numero 2 sono concessi soltanto per la seconda, la terza e la quarta persona.[^10-10]
 
@@ -301,11 +302,11 @@ Per le persone che vivono durevolmente o per oltre tre mesi in un istituto o in 
 Per tutte le persone sono inoltre riconosciute le spese seguenti:
 
 - a. spese per il conseguimento del reddito, fino a concorrenza del reddito lordo dell’attività lucrativa;
-- b. spese di manutenzione di fabbricati e interessi ipotecari, fino a concorrenza del ricavo lordo dell’immobile;
+- b.[^10-19] spese di manutenzione di fabbricati e interessi ipotecari, fino a concorrenza del ricavo lordo dell’immobile; nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione complementare sono proprietarie, usufruttuarie o usuarie, il ricavo lordo corrisponde alle spese di pigione per due persone che vivono nella stessa economia domestica secondo il capoverso 1 lettera b;
 - c. premi versati alle assicurazioni sociali della Confederazione, eccettuata l’assicurazione malattie;
-- d.[^10-19] importo per l’assicurazione obbligatoria delle cure medico-sanitarie; esso corrisponde a un importo forfettario annuo di entità pari al premio medio cantonale o regionale per l’assicurazione obbligatoria delle cure medico-sanitarie (compresa la copertura infortuni), al massimo però il premio effettivo;
+- d.[^10-20] importo per l’assicurazione obbligatoria delle cure medico-sanitarie; esso corrisponde a un importo forfettario annuo di entità pari al premio medio cantonale o regionale per l’assicurazione obbligatoria delle cure medico-sanitarie (compresa la copertura infortuni), al massimo però il premio effettivo;
 - e. pensioni alimentari versate in virtù del diritto di famiglia;
-- f.[^10-20] spese nette per la custodia complementare alla famiglia di figli che non hanno ancora compiuto gli 11 anni di età, sempre che la custodia sia necessaria e comprovata.
+- f.[^10-21] spese nette per la custodia complementare alla famiglia di figli che non hanno ancora compiuto gli 11 anni di età, sempre che la custodia sia necessaria e comprovata.
 
 [^10-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-2]: Importi adeguati dall’art. 1 dell’O del 2 ott. 2026 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2027, in vigore dal 1° gen. 2027 ([RU 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
@@ -315,7 +316,7 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 [^10-6]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-7]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-8]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^10-9]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-9]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra I n. 3 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^10-10]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-11]: Introdotto dalla cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta la cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^10-12]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
@@ -325,8 +326,9 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 [^10-16]: Originario <sup>1septies</sup>. Introdotto dalla cifra III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-17]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-18]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° gen. 2027 ([RU 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
-[^10-19]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-20]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-19]: Nuovo testo giusta la cifra I n. 3 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^10-20]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-21]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -337,7 +339,7 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 Sono computati come reddito:
 
 - a.[^11-1] due terzi dei proventi in denaro o in natura dell’esercizio di un’attività lucrativa, per quanto superino annualmente 1300 franchi per le persone sole e 1950 franchi per le coppie sposate e le persone con orfani che hanno diritto a una rendita o con figli che danno diritto a una rendita per figli dell’AVS o dell’AI; per i coniugi che non hanno diritto alle prestazioni complementari, il reddito dell’attività lucrativa è computato in ragione dell’80 per cento; per gli invalidi che hanno diritto a un’indennità giornaliera dell’AI, è computato interamente;
-- b.[^11-2] i proventi della sostanza mobile e immobile, incluso il valore annuo di un usufrutto o di un diritto di abitazione oppure il valore locativo annuo di un immobile di cui il beneficiario delle prestazioni complementari o un’altra persona compresa nel calcolo di queste prestazioni sono proprietari e che serve quale abitazione ad almeno una di queste persone;
+- b.[^11-2] i proventi della sostanza mobile e immobile; i proventi di un immobile sono computati soltanto se il beneficiario o un’altra persona compresa nel calcolo della prestazione complementare non abita l’immobile;
 - c.[^11-3] un quindicesimo della sostanza netta, oppure un decimo per i beneficiari di rendite di vecchiaia, per quanto superi 30 000 franchi per le persone sole, 50 000 franchi per le coppie sposate e 15 000 franchi per gli orfani che hanno diritto a una rendita e i figli che danno diritto a una rendita per figli dell’AVS o dell’AI; se il beneficiario delle prestazioni complementari o un’altra persona compresa nel calcolo di queste prestazioni sono proprietari di un immobile che serve quale abitazione ad almeno una di queste persone, soltanto il valore dell’immobile eccedente 112 500 franchi è preso in considerazione quale sostanza;
 - d. le rendite, le pensioni e le altre prestazioni periodiche, comprese le rendite dell’AVS e dell’AI;
 - d<sup>bis</sup>.[^11-4] la totalità della rendita, anche se solo una percentuale di essa è differita in virtù dell’articolo 39 capoverso 1 LAVS[^11-5] oppure anticipata in virtù dell’articolo 40 capoverso 1 LAVS;
@@ -370,12 +372,13 @@ Non sono computati:
 - f.[^11-13] i contributi per l’assistenza versati dall’AVS o dall’AI;
 - g.[^11-14] i contributi dell’assicurazione obbligatoria delle cure medico-sanitarie alle cure dispensate in un istituto, se nella tassa giornaliera non sono presi in considerazione i costi delle cure ai sensi della LAMal[^11-15];
 - h.[^11-16] il supplemento di rendita secondo l’articolo 34<sup>bis</sup> LAVS;
-- i.[^11-17] la 13<sup>a</sup> mensilità della rendita di vecchiaia secondo l’articolo 34<sup>ter</sup> LAVS.
+- h<sup>bis</sup>.[^11-17] la 13<sup>a</sup> mensilità della rendita di vecchiaia secondo l’articolo 34<sup>ter</sup> LAVS;
+- i.[^11-18] il valore locativo dell’immobile, nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione complementare sono proprietarie, usufruttuarie o usuarie.
 
 <sup>4</sup> Il Consiglio federale determina i casi in cui gli assegni per grandi invalidi delle assicurazioni sociali sono computati come redditi.
 
 [^11-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Importi adeguati dall’art. 1 dell’O del 28 ago. 2024 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^11-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-2]: Nuovo testo giusta la cifra I n. 3 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^11-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Introdotta dall’all. n. 3 cpv. 1 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^11-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
@@ -390,7 +393,8 @@ Non sono computati:
 [^11-14]: Introdotta dalla cifra I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-15]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-16]: Introdotta dall’all. n. 3 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-17]: Introdotta dalla cifra II n. 2 della LF del 21 mar. 2025 (Attuazione della 13<sup>a</sup> mensilità della rendita di vecchiaia), in vigore dal 1° gen. 2026 ([RU 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [FF 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
+[^11-17]: Originaria lett. i. Introdotta dalla cifra II n. 2 della LF del 21 mar. 2025 (Attuazione della 13<sup>a</sup> mensilità della rendita di vecchiaia), in vigore dal 1° gen. 2026 ([RU 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [FF 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
+[^11-18]: Introdotta dalla cifra I n. 3 della LF del 20 dic. 2024 concernente il passaggio a un nuovo sistema di imposizione della proprietà abitativa, in vigore dal 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 11a
 

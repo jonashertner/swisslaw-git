@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-
 short: ELG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: de
-version: 2028-01-01
+version: 2029-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20280101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20280101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20290101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20290101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20290101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/de"
 
 (ELG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2028)
+vom 6. Oktober 2006 (Stand am 1. Januar 2029)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -203,16 +203,17 @@ Der Bundesrat bestimmt:
 - c. die Anrechnung von Einkünften aus einer zumutbaren Erwerbstätigkeit bei teilinvaliden Personen und bei Witwen ohne minderjährige Kinder;
 - c<sup>bis</sup>.[^9-4] die Berücksichtigung der Hypothekarschulden für die Ermittlung des Reinvermögens;
 - d. die zeitlich massgebenden Einnahmen und Ausgaben;
-- e. die Pauschale für die Nebenkosten bei einer Liegenschaft, die von der Person bewohnt wird, die an der Liegenschaft Eigentum oder Nutzniessung hat;
+- e.[^9-5] die Pauschale für die Nebenkosten bei einer Liegenschaft, die von der Person bewohnt wird, die an der Liegenschaft Eigentum, Nutzniessung oder ein Wohnrecht hat;
 - f. die Pauschale für Heizkosten einer gemieteten Wohnung, sofern diese von der Mieterin oder vom Mieter direkt getragen werden müssen;
-- g. die Koordination mit der Prämienverbilligung nach dem Bundesgesetz vom 18. März 1994[^9-5] über die Krankenversicherung (KVG);
+- g. die Koordination mit der Prämienverbilligung nach dem Bundesgesetz vom 18. März 1994[^9-6] über die Krankenversicherung (KVG);
 - h. die Definition des Heimes.
 
 [^9-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-2]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^9-5]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-6]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 9a
 
@@ -267,7 +268,7 @@ Bei Personen, die nicht dauernd oder nicht länger als drei Monate in einem Heim
   - 3\.[^10-6] bei der notwendigen Miete einer rollstuhlgängigen Wohnung: zusätzlich 7020 Franken, bei mehreren Personen, die Anspruch auf den Zusatzbetrag haben, höchstens das Doppelte,
   - 4\.[^10-7] für Personen mit einem Anspruch auf einen Assistenzbeitrag nach Artikel 42<sup>quater</sup> des Bundesgesetzes vom 19. Juni 1959[^10-8] über die Invalidenversicherung, die eine Nachtassistenz benötigen und die der Assistenzperson ein Zimmer zur Verfügung stellen: zusätzlich 6000 Franken;
 
-- c.[^10-9] anstelle des Mietzinses der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben; Buchstabe b gilt sinngemäss.
+- c.[^10-9] die vom Bundesrat nach Artikel 9 Absatz 5 Buchstabe e bestimmte Pauschale für die Nebenkosten bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben.
 
 <sup>1bis</sup> Bei mehreren im gleichen Haushalt lebenden Personen wird der Höchstbetrag der anerkannten Mietkosten für jede anspruchsberechtigte oder in die gemeinsame Berechnung der Ergänzungsleistungen eingeschlossene Person nach Artikel 9 Absatz 2 einzeln festgesetzt und die Summe der anerkannten Beträge durch die Anzahl aller im Haushalt lebenden Personen geteilt. Die Zusatzbeträge nach Absatz 1 Buchstabe b Ziffer 2 werden nur für die zweite bis vierte Person gewährt.[^10-10] [^10-11]
 
@@ -300,11 +301,11 @@ Bei Personen, die dauernd oder länger als drei Monate in einem Heim oder Spital
 Bei allen Personen werden zudem als Ausgaben anerkannt:
 
 - a. Gewinnungskosten bis zur Höhe des Bruttoerwerbseinkommens;
-- b. Gebäudeunterhaltskosten und Hypothekarzinse bis zur Höhe des Bruttoertrages der Liegenschaft;
+- b.[^10-20] Gebäudeunterhaltskosten und Hypothekarzinsen bis zur Höhe des Bruttoertrags der Liegenschaft; bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben, entspricht der Bruttoertrag den Mietzinsausgaben für zwei im gleichen Haushalt lebende Personen nach Absatz 1 Buchstabe b;
 - c. Beiträge an die Sozialversicherungen des Bundes unter Ausschluss der Prämien für die Krankenversicherung;
-- d.[^10-20] der Betrag für die obligatorische Krankenpflegeversicherung; er entspricht einem jährlichen Pauschalbetrag in der Höhe der kantonalen beziehungsweise regionalen Durchschnittsprämie für die obligatorische Krankenpflegeversicherung (inkl. Unfalldeckung), höchstens jedoch der tatsächlichen Prämie;
+- d.[^10-21] der Betrag für die obligatorische Krankenpflegeversicherung; er entspricht einem jährlichen Pauschalbetrag in der Höhe der kantonalen beziehungsweise regionalen Durchschnittsprämie für die obligatorische Krankenpflegeversicherung (inkl. Unfalldeckung), höchstens jedoch der tatsächlichen Prämie;
 - e. geleistete familienrechtliche Unterhaltsbeiträge;
-- f.[^10-21] Netto-Betreuungskosten für die notwendige und ausgewiesene familienergänzende Betreuung von Kindern, die das 11. Altersjahr noch nicht vollendet haben.
+- f.[^10-22] Netto-Betreuungskosten für die notwendige und ausgewiesene familienergänzende Betreuung von Kindern, die das 11. Altersjahr noch nicht vollendet haben.
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-2]: Beträge angepasst gemäss Art. 1 der V vom 2. Okt. 2026 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2027, in Kraft seit 1. Jan. 2027 ([AS 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
@@ -314,7 +315,7 @@ Bei allen Personen werden zudem als Ausgaben anerkannt:
 [^10-6]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-7]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-8]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^10-9]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-9]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^10-10]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-11]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-12]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
@@ -325,8 +326,9 @@ Bei allen Personen werden zudem als Ausgaben anerkannt:
 [^10-17]: Ursprünglich Abs. 1<sup>septies</sup>. Eingefügt durch Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-18]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-19]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [BBl 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
-[^10-20]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-21]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-20]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^10-21]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-22]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -337,7 +339,7 @@ Bei allen Personen werden zudem als Ausgaben anerkannt:
 Als Einnahmen werden angerechnet:
 
 - a.[^11-1] zwei Drittel der Erwerbseinkünfte in Geld oder Naturalien, soweit sie bei alleinstehenden Personen jährlich 1300 Franken und bei Ehepaaren und Personen mit rentenberechtigten Waisen oder mit Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, 1950 Franken übersteigen; bei Ehegatten ohne Anspruch auf Ergänzungsleistungen wird das Erwerbseinkommen zu 80 Prozent angerechnet; bei invaliden Personen mit einem Anspruch auf ein Taggeld der IV wird es voll angerechnet;
-- b.[^11-2] Einkünfte aus beweglichem und unbeweglichem Vermögen einschliesslich des Jahreswerts einer Nutzniessung oder eines Wohnrechts oder des Jahresmietwerts einer Liegenschaft, an der die Bezügerin oder der Bezüger oder eine andere Person, die in die Berechnung der Ergänzungsleistungen eingeschlossen ist, Eigentum hat und von mindestens einer dieser Personen bewohnt wird;
+- b.[^11-2] Einkünfte aus beweglichem und unbeweglichem Vermögen; Einkünfte aus Liegenschaften werden nur angerechnet, wenn die Bezügerin oder der Bezüger oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, die Liegenschaft nicht selbst bewohnt;
 - c.[^11-3] ein Fünfzehntel, bei Altersrentnerinnen und Altersrentnern ein Zehntel des Reinvermögens, soweit es bei alleinstehenden Personen 30 000 Franken, bei Ehepaaren 50 000 Franken und bei rentenberechtigten Waisen sowie bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen, 15 000 Franken übersteigt; hat die Bezügerin oder der Bezüger oder eine Person, die in die Berechnung der Ergänzungsleistungen eingeschlossen ist, Eigentum an einer Liegenschaft, die mindestens von einer dieser Personen bewohnt wird, so ist nur der 112 500 Franken übersteigende Wert der Liegenschaft beim Vermögen zu berücksichtigen;
 - d. Renten, Pensionen und andere wiederkehrende Leistungen, einschliesslich der Renten der AHV und der IV;
 - d<sup>bis</sup>.[^11-4] die ganze Rente, auch wenn nur ein Teil davon nach Artikel 39 Absatz 1 AHVG[^11-5] aufgeschoben oder nach Artikel 40 Absatz 1 AHVG vorbezogen wird;
@@ -370,12 +372,13 @@ Nicht angerechnet werden:
 - f.[^11-12] Assistenzbeiträge der AHV oder der IV;
 - g.[^11-13] Beiträge der obligatorischen Krankenpflegeversicherung an die Pflegeleistungen in einem Heim, wenn in der Tagestaxe keine Pflegekosten nach dem KVG[^11-14] berücksichtigt werden;
 - h.[^11-15] der Rentenzuschlag nach Artikel 34<sup>bis</sup> AHVG;
-- i.[^11-16] die 13. Altersrente nach Artikel 34<sup>ter</sup> AHVG.
+- h<sup>bis</sup>.[^11-16] die 13. Altersrente nach Artikel 34ter AHVG;
+- i.[^11-17] der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben.
 
 <sup>4</sup> Der Bundesrat bestimmt die Fälle, in denen die Hilflosenentschädigungen der Sozialversicherungen als Einnahmen angerechnet werden.
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Beträge angepasst gemäss Art. 3 Abs. 1 der V vom 28. Aug. 2024 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^11-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-2]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^11-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^11-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
@@ -389,7 +392,8 @@ Nicht angerechnet werden:
 [^11-13]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-14]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-15]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-16]: Eingefügt durch Ziff. II 2 des BG vom 21. März 2025 (Umsetzung der 13. Altersrente), in Kraft seit 1. Jan. 2026 ([AS 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [BBl 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
+[^11-16]: Ursprünglich Bst. i. Eingefügt durch Ziff. II 2 des BG vom 21. März 2025 (Umsetzung der 13. Altersrente), in Kraft seit 1. Jan. 2026 ([AS 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [BBl 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
+[^11-17]: Eingefügt durch Ziff. I 3 des BG vom 20. Dez. 2024 über den Systemwechsel bei der Wohneigentumsbesteuerung, in Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 11a
 

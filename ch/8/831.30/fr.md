@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 2006 sur les prestations complémentaires à
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: fr
-version: 2028-01-01
+version: 2029-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20280101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20290101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20290101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20290101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20280101/fr"
 
 (Loi sur les prestations complémentaires, LPC)[^t-1]
 
-du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2028)
+du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2029)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Ch. I 3 de la LF concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT; [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)).
@@ -206,16 +206,17 @@ Le Conseil fédéral édicte des dispositions sur:
 - c. la prise en compte du revenu de l’activité lucrative pouvant raisonnablement être exigée de personnes partiellement invalides et de veuves sans enfants mineurs;
 - c<sup>bis</sup>.[^9-4] la prise en compte des dettes hypothécaires pour le calcul de la fortune nette;
 - d. la période à prendre en considération pour déterminer les revenus et les dépenses;
-- e. le forfait pour frais accessoires d’une personne résidant dans un immeuble à titre de propriétaire ou d’usufruitier;
+- e.[^9-5] le forfait pour frais accessoires d’une personne résidant dans un immeuble à titre de propriétaire, d’usufruitier ou de titulaire d’un droit d’habitation;
 - f. le forfait pour frais de chauffage d’un appartement loué, si le locataire doit les supporter lui-même;
-- g. la coordination avec la réduction des primes prévues par la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^9-5];
+- g. la coordination avec la réduction des primes prévues par la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^9-6];
 - h. la définition de la notion de home.
 
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-2]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-4]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^9-5]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^9-6]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 9a
 
@@ -251,7 +252,7 @@ Pour les personnes qui ne vivent pas en permanence ni pour une période de plus 
 
   - 1\. 21 000 francs pour les personnes seules,
   - 2\. 31 500 francs pour les couples,
-  - 3\.[^10-3] 10 980francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
+  - 3\.[^10-3] 10 980 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
   - 4\.[^10-4] 7710 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
 
 - b.[^10-5]
@@ -270,7 +271,7 @@ Pour les personnes qui ne vivent pas en permanence ni pour une période de plus 
   - 3\.[^10-6] 7020 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire, au maximum le double si plusieurs personnes ont droit au supplément,
   - 4\.[^10-7] pour les personnes ayant droit à une contribution d’assistance prévue à l’art. 42<sup>quater</sup> de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^10-8], qui ont besoin d’une assistance de nuit et mettent une chambre à disposition à cet effet: 6000 francs supplémentaires;
 
-- c.[^10-9] la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie.
+- c.[^10-9] le forfait pour frais accessoires défini par le Conseil fédéral en application de l’art. 9, al. 5, let. e, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation.
 
 <sup>1bis</sup> Si plusieurs personnes vivent dans le même ménage, le montant maximal reconnu au titre du loyer est calculé individuellement pour chaque ayant droit ou pour chaque personne comprise dans le calcul commun des prestations complémentaires en vertu de l’art. 9, al. 2, puis la somme des montants pris en compte est divisée par le nombre de personnes vivant dans le ménage. Les suppléments visés à l’al. 1, let. b, ch. 2, ne sont accordés que pour les deuxième, troisième et quatrième personnes.[^10-10] [^10-11]
 
@@ -303,11 +304,11 @@ Pour les personnes qui vivent en permanence ou pour une période de plus de troi
 Sont en outre reconnus comme dépenses, pour toutes les personnes:
 
 - a. les frais d’obtention du revenu, jusqu’à concurrence du revenu brut de l’activité lucrative;
-- b. les frais d’entretien des bâtiments et les intérêts hypothécaires, jusqu’à concurrence du rendement brut de l’immeuble;
+- b.[^10-20] les frais d’entretien des bâtiments et les intérêts hypothécaires, jusqu’à concurrence du rendement brut de l’immeuble; pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation, le rendement brut correspond aux dépenses reconnues de loyer pour deux personnes vivant dans le même ménage selon l’al. 1, let. b;
 - c. les cotisations aux assurances sociales de la Confédération, à l’exclusion des primes d’assurance-maladie;
-- d.[^10-20] le montant pour l’assurance obligatoire des soins; il consiste en un montant forfaitaire annuel qui correspond au montant de la prime moyenne cantonale ou régionale pour l’assurance obligatoire des soins (couverture accidents comprise), mais qui n’excède pas celui de la prime effective;
+- d.[^10-21] le montant pour l’assurance obligatoire des soins; il consiste en un montant forfaitaire annuel qui correspond au montant de la prime moyenne cantonale ou régionale pour l’assurance obligatoire des soins (couverture accidents comprise), mais qui n’excède pas celui de la prime effective;
 - e. les pensions alimentaires versées en vertu du droit de la famille;
-- f.[^10-21] les frais nets de prise en charge extrafamiliale d’enfants qui n’ont pas encore atteint l’âge de 11 ans révolus, pour autant que cette prise en charge soit nécessaire et dûment établie.
+- f.[^10-22] les frais nets de prise en charge extrafamiliale d’enfants qui n’ont pas encore atteint l’âge de 11 ans révolus, pour autant que cette prise en charge soit nécessaire et dûment établie.
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-2]: Montants adaptés selon l’art. 1 de l’O du 2 oct. 2026 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 546](https://fedlex.data.admin.ch/eli/oc/2026/546)).
@@ -317,7 +318,7 @@ Sont en outre reconnus comme dépenses, pour toutes les personnes:
 [^10-6]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-7]: Introduit par le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-8]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^10-9]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-9]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^10-10]: Nouvelle teneur de la phrase selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
 [^10-11]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-12]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
@@ -328,8 +329,9 @@ Sont en outre reconnus comme dépenses, pour toutes les personnes:
 [^10-17]: Anciennement al. 1<sup>septies</sup>. Introduit par le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-18]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-19]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 434](https://fedlex.data.admin.ch/eli/oc/2026/434); [FF 2024 2448](https://fedlex.data.admin.ch/eli/fga/2024/2448)).
-[^10-20]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-21]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-20]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+[^10-21]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-22]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 11
 
@@ -340,7 +342,7 @@ Sont en outre reconnus comme dépenses, pour toutes les personnes:
 Les revenus déterminants comprennent:
 
 - a.[^11-1] deux tiers des ressources en espèces ou en nature provenant de l’exercice d’une activité lucrative, pour autant qu’elles excèdent annuellement 1300 francs pour les personnes seules et 1950 francs pour les couples et les personnes qui ont des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI; pour les conjoints qui n’ont pas droit aux prestations complémentaires, le revenu de l’activité lucrative est pris en compte à hauteur de 80 %; pour les personnes invalides ayant droit à une indemnité journalière de l’AI, le revenu de l’activité lucrative est intégralement pris en compte;
-- b.[^11-2] le produit de la fortune mobilière et immobilière, y compris la valeur annuelle d’un usufruit ou d’un droit d’habitation ou la valeur locative annuelle d’un immeuble dont le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire, et qui sert d’habitation à l’une de ces personnes au moins;
+- b.[^11-2] le produit de la fortune mobilière et immobilière; le produit d’un immeuble n’est pris en compte que si le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations n’habite pas dans l’immeuble;
 - c.[^11-3] un quinzième de la fortune nette, un dixième pour les bénéficiaires de rentes de vieillesse, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les orphelins et les enfants donnant droit à des rentes pour enfant de l’AVS ou de l’AI; si le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune;
 - d. les rentes, pensions et autres prestations périodiques, y compris les rentes de l’AVS et de l’AI;
 - d<sup>bis</sup>.[^11-4] la rente entière, même si seul un pourcentage de la rente est ajourné en vertu de l’art. 39, al. 1, LAVS[^11-5] ou perçu de manière anticipée en vertu de l’art. 40, al. 1, LAVS;
@@ -373,12 +375,13 @@ Ne sont pas pris en compte:
 - f.[^11-12] la contribution d’assistance versée par l’AVS ou par l’AI;
 - g.[^11-13] les contributions de l’assurance obligatoire des soins aux coûts des soins dispensés dans un home, lorsque la taxe journalière ne comprend pas les coûts des soins au sens de la LAMal[^11-14];
 - h.[^11-15] le supplément de rente selon l’art. 34<sup>bis</sup> LAVS;
-- i.[^11-16] la 13<sup>e</sup> rente de vieillesse visée à l’art. 34<sup>ter</sup> LAVS.
+- h<sup>bis</sup>.[^11-16] la 13<sup>e</sup> rente de vieillesse visée à l’art. 34<sup>ter</sup> LAVS;
+- i.[^11-17] la valeur locative de l’immeuble pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation.
 
 <sup>4</sup> Le Conseil fédéral détermine les cas dans lesquels les allocations pour impotents des assurances sociales doivent être prises en compte dans les revenus déterminants.
 
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Montants adaptés selon l’art. 3 al. 1 de l’O du 28 août 2024 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés à partir de 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 468](https://fedlex.data.admin.ch/eli/oc/2024/468)).
-[^11-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-2]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Introduite par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^11-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
@@ -392,7 +395,8 @@ Ne sont pas pris en compte:
 [^11-13]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-14]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-15]: Introduite par l’annexe ch. 3 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-16]: Introduite par le ch. II 2 de la LF du 21 mars 2025 (Mise en œuvre de la 13<sup>e</sup> rente de vieillesse), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [FF 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
+[^11-16]: Anciennement let. i. Introduite par le ch. II 2 de la LF du 21 mars 2025 (Mise en œuvre de la 13<sup>e</sup> rente de vieillesse), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [FF 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
+[^11-17]: Introduite par le ch. I 3 de la LF du 20 déc. 2024 relative au changement de système d’imposition de la propriété du logement, en vigueur depuis le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
 
 #### Art. 11a
 
