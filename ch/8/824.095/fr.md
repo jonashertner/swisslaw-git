@@ -3,18 +3,18 @@ sr: "824.095"
 title: Ordonnance du 16 octobre 2024 sur le traitement des données dans le système d’information automatisé du service civil
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/595"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2024-10-16
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-595-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-595-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données dans le système d’information automatisé du service civil
 
-du 16 octobre 2024 (État le 1<sup>er</sup> janvier 2025)
+du 16 octobre 2024 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -22,8 +22,8 @@ vu l’art. 80, al. 4, de la loi fédérale du 6 octobre 1995 sur le service civ
 
 arrête:
 
-[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Section 1 Dispositions générales
 
@@ -74,16 +74,20 @@ Les services et organismes suivants peuvent être connectés en ligne à Zivicon
 - e. le système de billetterie des Chemins de fer fédéraux suisses, pour l’achat de billets électroniques par le CIVI ainsi que par les personnes demandant à être admises au service civil et celles accomplissant leur service civil;
 - f.
 
-  le logiciel SAP standard «S4/Hana» ainsi que le système de gestion des données de base de l’Administration fédérale des finances:
+  le logiciel SAP standard «S4/Hana» ainsi que le système de gestion des données de référence visé à l’art. 20 de l’ordonnance du 2 avril 2025 sur la numérisation[^4-1]:[^4-2]
 
-  - 1\. pour la facturation des émoluments selon l’art. 111*b* de l’ordonnance du 11 septembre 1996 sur le service civil (OSCi)[^4-1] ainsi que des amendes selon l’art. 68 LSC,
+  - 1\. pour la facturation des émoluments selon l’art. 111*b* de l’ordonnance du 11 septembre 1996 sur le service civil (OSCi)[^4-3] ainsi que des amendes selon l’art. 68 LSC,
   - 2\. pour la facturation des contributions conformément à l’art. 46 LSC,
-  - 3\. pour l’octroi des aides financières prévues à l’art. 47 LSC;
+  - 3\. pour l’octroi des aides financières prévues à l’art. 47 LSC,
+  - 4\.[^4-4] pour la fourniture des prestations en faveur de la personne en service visées à l’art. 29, al. 1, LSC en lien avec les cours de formation visés à l’art. 36 LSC;
 
-- g.[^4-2] le système d’information de la Centrale de compensation, par lequel les personnes qui effectuent un service peuvent faire valoir leur droit à l’indemnisation: pour l’exécution du régime des allocations pour perte de gain.
+- g.[^4-5] le système d’information de la Centrale de compensation, par lequel les personnes qui effectuent un service peuvent faire valoir leur droit à l’indemnisation: pour l’exécution du régime des allocations pour perte de gain.
 
-[^4-1]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
-[^4-2]: Introduite par l’annexe ch. 4 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^4-1]: [RS 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 392](https://fedlex.data.admin.ch/eli/oc/2026/392)).
+[^4-3]: [RS 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
+[^4-4]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 392](https://fedlex.data.admin.ch/eli/oc/2026/392)).
+[^4-5]: Introduite par l’annexe ch. 4 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## Section 2 Principes régissant le traitement des données
 
@@ -151,7 +155,7 @@ Le CIVI communique des données personnelles provenant de Ziviconnect aux organe
 - l. aux institutions mandatées pour mener des tests d’aptitude en prévision d’affectations à l’étranger, en vue de l’accomplissement de leurs tâches;
 - m. aux prestataires de services mandatés par le CIVI pour évaluer les journées d’introduction, les cours de formation et les affectations, en vue de mener des enquêtes auprès des personnes demandant à être admises au service civil, des personnes astreintes au service civil, des établissements d’affectation et des enseignants.
 
-[^6-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 7
 
@@ -303,7 +307,7 @@ Annexe
 - 1\.3.13 Libération avant terme du service civil
 - 1\.3.14 Traitement des demandes d’indemnisation
 
-[^annexu1-lvlu1-lvl1-lvl13-1]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^annexu1-lvlu1-lvl1-lvl13-1]: [RS 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
 
 ### 1.4 Aptitude au service militaire, état de santé, formation, aptitudes et goûts (art. 80, al. 1<sup>bis</sup>, let. b à d, LSC)
 
@@ -321,7 +325,7 @@ Annexe
 - 1\.5.5 Données du casier judiciaire aux fins de vérification de la bonne réputation au sens de l’art. 19, al. 4, LSC, dans la mesure où le cahier des charges le prévoit
 - 1\.5.6 Procédure pénale en rapport avec des crimes ou des délits poursuivis d’office et devant être dénoncés en vertu de l’art. 22*a*, al. 1, de la loi du 24 mars 2000 sur le personnel de la Confédération[^annexu1-lvlu1-lvl1-lvl15-1]
 
-[^annexu1-lvlu1-lvl1-lvl15-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annexu1-lvlu1-lvl1-lvl15-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 2 Données des institutions requérantes et des établissements d’affectation reconnus
 

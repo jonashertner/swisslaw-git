@@ -3,18 +3,18 @@ sr: "824.095"
 title: Verordnung vom 16. Oktober 2024 über die Datenbearbeitung im automatisierten Informationssystem des Zivildiensts
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/595"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2024-10-16
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-595-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2024-595-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Datenbearbeitung im automatisierten Informationssystem des Zivildiensts
 
-vom 16. Oktober 2024 (Stand am 1. Januar 2025)
+vom 16. Oktober 2024 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -22,8 +22,8 @@ gestützt auf Artikel 80 Absatz 4 des Zivildienstgesetzes vom 6. Oktober 1995[^i
 
 verordnet:
 
-[^ingress-1]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^ingress-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^ingress-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -74,16 +74,20 @@ An das Ziviconnect können zu den nachstehenden Zwecken die folgenden Dienste un
 - e. das Ticketsystem der Schweizerischen Bundesbahnen: zum Bezug elektronischer Billette durch das ZIVI sowie durch gesuchstellende und zivildienstleistende Personen;
 - f.
 
-  die SAP-Standardsoftware «S4/HANA» sowie das Stammdatenverwaltungssystem der Eidgenössischen Finanzverwaltung zur:
+  die SAP-Standardsoftware «S4/HANA» sowie das Informationssystem zur Stammdatenverwaltung nach Artikel 20 der Digitalisierungsverordnung vom 2. April 2025[^4-1] zur:[^4-2]
 
-  - 1\. Fakturierung der Gebühren nach Artikel 111*b* der Zivildienstverordnung vom 11. September 1996[^4-1] (ZDV) sowie der Bussen nach Artikel 68 ZDG,
+  - 1\. Fakturierung der Gebühren nach Artikel 111*b* der Zivildienstverordnung vom 11. September 1996[^4-3] (ZDV) sowie der Bussen nach Artikel 68 ZDG,
   - 2\. Fakturierung der Abgaben nach Artikel 46 ZDG,
-  - 3\. Gewährung der Finanzhilfen nach Artikel 47 ZDG;
+  - 3\. Gewährung der Finanzhilfen nach Artikel 47 ZDG,
+  - 4\.[^4-4] Erbringung der Leistungen zugunsten der zivildienstleistenden Person nach Artikel 29 Absatz 1 ZDG im Zusammenhang mit Ausbildungskursen nach Artikel 36 ZDG;
 
-- g.[^4-2] das Informationssystem der Zentralen Ausgleichsstelle, über das Dienstleistende ihren Entschädigungsanspruch geltend machen können: zur Durchführung der Erwerbsersatzordnung.
+- g.[^4-5] das Informationssystem der Zentralen Ausgleichsstelle, über das Dienstleistende ihren Entschädigungsanspruch geltend machen können: zur Durchführung der Erwerbsersatzordnung.
 
-[^4-1]: [SR 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
-[^4-2]: Eingefügt durch Anhang Ziff. 4 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^4-1]: [SR 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
+[^4-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 392](https://fedlex.data.admin.ch/eli/oc/2026/392)).
+[^4-3]: [SR 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
+[^4-4]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 392](https://fedlex.data.admin.ch/eli/oc/2026/392)).
+[^4-5]: Eingefügt durch Anhang Ziff. 4 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## 2. Abschnitt: Grundsätze der Datenbearbeitung
 
@@ -151,7 +155,7 @@ Das ZIVI gibt den folgenden Stellen und Personen zu den nachstehenden Zwecken Pe
 - l. den Institutionen, die im Hinblick auf Auslandeinsätze Assessments durchführen: zur Erfüllung ihrer Aufgaben;
 - m. den Dienstleistungserbringern, die im Auftrag des ZIVI Einführungstage, Ausbildungskurse und Einsätze evaluieren: zur Befragung der gesuchstellenden und zivildienstpflichtigen Personen, der Einsatzbetriebe sowie der Kursleiterinnen und -leiter.
 
-[^6-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 7
 
@@ -303,7 +307,7 @@ Anhang
 - 1\.3.13 Vorzeitige Entlassung aus der Zivildienstpflicht
 - 1\.3.14 Behandlung von Schadenersatzbegehren
 
-[^annexu1-lvlu1-lvl1-lvl13-1]: [SR 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^annexu1-lvlu1-lvl1-lvl13-1]: [SR 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
 
 ### 1.4 Militärdiensttauglichkeit, Gesundheitszustand, Ausbildung sowie Eignungen und Neigungen (Art. 80 Abs. 1<sup>bis</sup> Bst. b–d ZDG)
 
@@ -321,7 +325,7 @@ Anhang
 - 1\.5.5 Strafregisterdaten für die Prüfung des Leumunds nach Art. 19 Abs. 4 ZDG, wenn das Pflichtenheft dies vorsieht
 - 1\.5.6 Strafverfahren im Zusammenhang mit Verbrechen oder Vergehen, die von Amtes wegen zu verfolgen und gestützt auf Art. 22*a* Abs. 1 des Bundespersonalgesetzes vom 24. März 2000[^annexu1-lvlu1-lvl1-lvl15-1] anzuzeigen sind
 
-[^annexu1-lvlu1-lvl1-lvl15-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annexu1-lvlu1-lvl1-lvl15-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 2. Daten der gesuchstellenden Institutionen und der anerkannten Einsatzbetriebe
 

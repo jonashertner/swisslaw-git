@@ -3,18 +3,18 @@ sr: "824.095"
 title: Ordinanza del 16 ottobre 2024 sul trattamento dei dati nel sistema automatizzato d’informazione del servizio civile
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/595"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2024-10-16
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-595-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/595/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2024-595-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/595/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati nel sistema automatizzato d’informazione del servizio civile
 
-del 16 ottobre 2024 (Stato 1° gennaio 2025)
+del 16 ottobre 2024 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -22,8 +22,8 @@ visto l’articolo 80 capoverso 4 della legge del 6 ottobre 1995[^ingress-1] sul
 
 ordina:
 
-[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Sezione 1: Disposizioni generali
 
@@ -74,16 +74,20 @@ I seguenti servizi e organi possono essere collegati in linea a Ziviconnect per 
 - e. il sistema di biglietteria delle Ferrovie federali svizzere, per l’acquisto di biglietti elettronici da parte del CIVI, delle persone richiedenti l’ammissione al servizio civile e delle persone che prestano servizio civile;
 - f.
 
-  il software standard SAP «S4/HANA» e il sistema di gestione dei dati di base dell’Amministrazione federale delle finanze:
+  il software standard SAP «S4/HANA» e il sistema di informazione per la gestione dei dati di base secondo l’articolo 20 dell’ordinanza del 2 aprile 2025[^4-1] sulla digitalizzazione:[^4-2]
 
-  - 1\. per la fatturazione delle tasse di cui all’articolo 111*b* dell’ordinanza dell’11 settembre 1996[^4-1] sul servizio civile (OSCi) e delle multe di cui all’articolo 68 LSC,
+  - 1\. per la fatturazione delle tasse di cui all’articolo 111*b* dell’ordinanza dell’11 settembre 1996[^4-3] sul servizio civile (OSCi) e delle multe di cui all’articolo 68 LSC,
   - 2\. per la fatturazione dei tributi di cui all’articolo 46 LSC,
-  - 3\. per la concessione di aiuti finanziari di cui all’articolo 47 LSC;
+  - 3\. per la concessione di aiuti finanziari di cui all’articolo 47 LSC,
+  - 4\.[^4-4] per la fornitura delle prestazioni a favore di chi presta servizio civile di cui all’articolo 29 capoverso 1 LSC in relazione ai corsi di formazione secondo l’articolo 36 LSC;
 
-- g.[^4-2] il sistema d’informazione dell’Ufficio centrale di compensazione tramite il quale le persone che prestano servizio possono esercitare il loro diritto alle indennità, per l’esecuzione dell’ordinamento delle indennità per perdita di guadagno.
+- g.[^4-5] il sistema d’informazione dell’Ufficio centrale di compensazione tramite il quale le persone che prestano servizio possono esercitare il loro diritto alle indennità, per l’esecuzione dell’ordinamento delle indennità per perdita di guadagno.
 
-[^4-1]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
-[^4-2]: Introdotta dall’all. n. 4 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^4-1]: [RS 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 19 gun. 2026, in vigore dal 1° gen. 2027 ([RU 2026 392](https://fedlex.data.admin.ch/eli/oc/2026/392)).
+[^4-3]: [RS 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
+[^4-4]: Introdotto dalla cifra I dell’O del 19 gu. 2026, in vigore dal 1° gen. 2027 ([RU 2026 392](https://fedlex.data.admin.ch/eli/oc/2026/392)).
+[^4-5]: Introdotta dall’all. n. 4 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 ## Sezione 2: Principi del trattamento dei dati
 
@@ -151,7 +155,7 @@ Il CIVI comunica dati personali di Ziviconnect ai seguenti organi e alle seguent
 - l. alle istituzioni incaricate di effettuare test attitudinali in vista di impieghi all’estero, per l’adempimento dei loro compiti;
 - m. ai fornitori di prestazioni che su mandato del CIVI valutano le giornate d’introduzione, i corsi di formazione e gli impieghi, per condurre sondaggi presso le persone richiedenti l’ammissione al servizio civile o che devono prestare servizio civile, gli istituti d’impiego e i responsabili dei corsi.
 
-[^6-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 7
 
@@ -216,7 +220,7 @@ Sono conservati per cinque anni i dati riguardanti:
 
 L’ordinanza del 20 agosto 2014[^12-1] sul sistema d’informazione del servizio civile è abrogata.
 
-[^12-1]: [[RU 2014 2781](https://fedlex.data.admin.ch/eli/oc/2014/482); [2016 1927](https://fedlex.data.admin.ch/eli/oc/2016/332); [2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)cifre I, II; **2021** 132 all. n. 31, 800 all. cifra II 34; **2022** 568 all. 2 cifra II n. 115; **2023** 735 all. 2 cifra II n. 39]
+[^12-1]: [[RU 2014 2781](https://fedlex.data.admin.ch/eli/oc/2014/482); [2016 1927](https://fedlex.data.admin.ch/eli/oc/2016/332); [2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)cifre I, II; **2021** 132 all. n. 31, 800 all. cifra II n. 34; **2022** 568 all. 2 cifra II n. 115; **2023** 735 all. 2 cifra II n. 39]
 
 #### Art. 13
 
@@ -303,7 +307,7 @@ Allegato
 - 1\.3.13 Licenziamento anticipato dal servizio civile
 - 1\.3.14 Elaborazione delle domande di risarcimento dei danni
 
-[^annexu1-lvlu1-lvl1-lvl13-1]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^annexu1-lvlu1-lvl1-lvl13-1]: [RS 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
 
 ### 1.4 Idoneità al servizio militare, stato di salute, formazione, attitudini e preferenze (art. 80 cpv. 1<sup>bis</sup> b–d LSC)
 
@@ -321,7 +325,7 @@ Allegato
 - 1\.5.5 Dati del casellario giudiziale per la verifica della reputazione di cui all’articolo 19 capoverso 4 LSC, se previsto dal mansionario
 - 1\.5.6 Procedimenti penali in relazione a crimini o delitti che devono essere perseguiti d’ufficio e denunciati in virtù dell’articolo 22*a* capoverso 1 della legge del 24 marzo 2000[^annexu1-lvlu1-lvl1-lvl15-1] sul personale federale
 
-[^annexu1-lvlu1-lvl1-lvl15-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annexu1-lvlu1-lvl1-lvl15-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 2 Dati relativi alle istituzioni richiedenti e agli istituti d’impiego riconosciuti
 
