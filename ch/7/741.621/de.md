@@ -4,11 +4,11 @@ title: Verordnung vom 29. November 2002 über die Beförderung gefährlicher Gü
 short: SDR
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/685"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2002-11-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/685/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2002-685-20250101-de-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/685/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2002-685-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20250101/de"
 
 (SDR)
 
-vom 29. November 2002 (Stand am 1. Januar 2025)
+vom 29. November 2002 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 30 Absatz 5[^ingress-1], 103 und 106 des Strassenverke
 
 verordnet:
 
-[^ingress-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
-[^ingress-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juli 2016 angepasst.
+[^ingress-2]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6535](https://fedlex.data.admin.ch/eli/oc/2012/782)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -53,7 +53,7 @@ Diese Verordnung gilt für:
 
 Für die Unternehmungen, die gefährliche Güter befördern, verpacken, einfüllen, versenden, laden oder entladen, gelten für die Ernennung, die Aufgaben, die Ausbildung und die Prüfung der Gefahrgutbeauftragten zusätzlich die Bestimmungen der Gefahrgutbeauftragtenverordnung (GGBV) vom 15. Juni 2001[^2-1].
 
-[^2-1]: [SR 741.622](https://fedlex.data.admin.ch/eli/cc/2001/268)
+[^2-1]: [SR 741.622](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8692)
 
 #### Art. 3
 
@@ -67,11 +67,11 @@ In dieser Verordnung und in ihren Anhängen werden folgende Abkürzungen verwend
 - d. VTS für die Verordnung vom 19. Juni 1995[^3-4] über die technischen Anforderungen an Strassenfahrzeuge;
 - e. ADR für Übereinkommen vom 30. September 1957[^3-5] über die internationale Beförderung gefährlicher Güter auf der Strasse sowie seine Anlagen.
 
-[^3-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^3-2]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
-[^3-3]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^3-4]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3-5]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^3-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^3-2]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^3-3]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^3-4]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^3-5]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 #### Art. 4
 
@@ -81,7 +81,7 @@ In dieser Verordnung und in ihren Anhängen werden folgende Abkürzungen verwend
 
 <sup>2</sup> Das Bundesamt für Strassen (ASTRA) führt eine Liste der weiteren internationalen Abkommen, denen die Schweiz im Rahmen des ADR beigetreten ist.[^4-2]
 
-[^4-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^4-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 [^4-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)).
 
 #### Art. 5
@@ -94,7 +94,7 @@ In dieser Verordnung und in ihren Anhängen werden folgende Abkürzungen verwend
 
 <sup>3</sup> Es kann mit zuständigen Behörden anderer ADR-Vertragsparteien zeitweilige Abweichungen nach Abschnitt 1.5.1 ADR vereinbaren.[^5-3]
 
-[^5-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^5-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 [^5-2]: Ausdruck gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^5-3]: Eingefügt durch Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6535](https://fedlex.data.admin.ch/eli/oc/2012/782)).
 
@@ -176,7 +176,7 @@ Ausnahmebewilligungen für Strassenstrecken nach Absatz 2 können erteilt werden
 
 <sup>3</sup> Kennzeichnungspflichtige Fahrzeuge, die gefährliche Güter befördern, dürfen in den mit dem Signal «Tunnel» (4.07; Art. 45 Abs. 3 SSV) bezeichneten Tunneln nur auf dem rechten Fahrstreifen verkehren.
 
-[^13-1]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^13-1]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^13-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)).
 [^13-3]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)).
 
@@ -186,7 +186,7 @@ Ausnahmebewilligungen für Strassenstrecken nach Absatz 2 können erteilt werden
 
 Für Transporte nicht freigestellter gefährlicher Güter ist die in Artikel 12 Absatz 1 VVV[^14-1] vorgeschriebene erhöhte Versicherungsdeckung für alle Motorfahrzeuge und Anhängerzüge erforderlich.
 
-[^14-1]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^14-1]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 15
 
@@ -209,7 +209,7 @@ Die unter den Geltungsbereich dieser Verordnung fallenden Personen haben der Vol
 Das Meldewesen und die Zusammenarbeit mit der EU richten sich nach der Strassenverkehrskontrollverordnung vom 28. März 2007[^17-2] (SKV).
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2189](https://fedlex.data.admin.ch/eli/oc/2007/304)).
-[^17-2]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^17-2]: [SR 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 
 #### Art. 18
 
@@ -218,7 +218,7 @@ Das Meldewesen und die Zusammenarbeit mit der EU richten sich nach der Strassenv
 Die Berichterstattung erfolgt nach SKV[^18-2].
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2189](https://fedlex.data.admin.ch/eli/oc/2007/304)).
-[^18-2]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^18-2]: [SR 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 
 ## 3. Abschnitt: Strafbestimmungen
 
@@ -292,12 +292,12 @@ Ist ein strafbares Verhalten nach dieser Verordnung gleichzeitig eine strafbare 
 
 <sup>4</sup> Bei den jährlich vorgeschriebenen Kontrollen für Fahrzeuge, die gefährliche Güter befördern (vgl. Art. 33 VTS[^25-6]), werden Tanks, die auf dem Fahrzeug dauerhaft befestigt sind, sowie ihre Ausrüstung einer Sichtkontrolle unterzogen.
 
-[^25-1]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^25-1]: [SR 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 [^25-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2189](https://fedlex.data.admin.ch/eli/oc/2007/304)).
 [^25-3]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6537](https://fedlex.data.admin.ch/eli/oc/2012/783)).
-[^25-4]: [SR 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+[^25-4]: [SR 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
 [^25-5]: Eingefügt durch Ziff. I der V vom 28. März 2007 ([AS 2007 2189](https://fedlex.data.admin.ch/eli/oc/2007/304)). Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6537](https://fedlex.data.admin.ch/eli/oc/2012/783)).
-[^25-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^25-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 26
 
@@ -355,30 +355,27 @@ Anhang 1[^t-1]
 
 ## Nur für nationale Transporte geltende Vorschriften
 
-[^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Sept. 2018 ([AS 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Bereinigt gemäss Ziff. I der V des UVEK vom 15. Sept. 2020 ([AS 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)), vom 20. Sept. 2022 ([AS 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)) und vom 19. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)).
+[^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Sept. 2018 ([AS 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Bereinigt gemäss Ziff. I der V des UVEK vom 15. Sept. 2020 ([AS 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)), vom 20. Sept. 2022 ([AS 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)), vom 19. Aug. 2024 ([AS 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)) und Ziff. I Abs. 1 der V des UVEK vom 21. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 525](https://fedlex.data.admin.ch/eli/oc/2026/525)).
 
 <table>
 <tr><th>Regelungsbereich[^annex1-lvlu1-1]</th><th>ADR-Nummer[^annex1-lvlu1-2]</th><th>Vorschrift</th></tr>
 <tr><td colspan="3">Teil 1: Allgemeine Vorschriften</td></tr>
 <tr><td>Kap. 1.1: Geltungsbereich und Anwendbarkeit 1.1.3 Freistellungen 1.1.3.1 Freistellungen in Zusammenhang mit der Art der Beförderungsdurchführung</td><td></td><td></td></tr>
-<tr><td>1.1.3.1 Bst. a</td><td>1.1.3.1 a)</td><td>Die Freistellung nach Unterabschnitt 1.1.3.1 a) ADR gilt nur bis zu den in der Folge aufgeführten höchstzulässigen Gesamtmengen je Beförderungseinheit: – Beförderungskategorie 0: 0 – Beförderungskategorie 1: 1 – Beförderungskategorie 2: 100 – Beförderungskategorie 3 und 4: 300 – Von der Beförderungskategorie abweichende Höchstmengen: Klasse 4.3: 0 Stoffe, die der Verpackungsgruppe I zugeordnet sind Klasse 1: 1 Stoffe der Unterklassen 1.1C–1.5D und Gegenstände der Unterklassen 1.1B und 1.2B Klasse 4.2: Stoffe, die der Verpackungsgruppe II zugeordnet sind Klasse 4.3: Stoffe, die der Verpackungsgruppe II und III zugeordnet sind und nicht unter die höchstzulässige Menge 0 fallen Klasse 1: 5 Gegenstände der Unterklassen 1.1C–1.1J, 1.2C–1.2J, 1.3C–1.3J, 1.4B–1.4S, 1.6N Klasse 4.1: UN 3225–3230, 3531 und 3532 Klasse 5.1: Stoffe, die der Verpackungsgruppe II zugeordnet sind Klasse 5.2: UN 3105–3110 «Höchstzulässige Gesamtmenge je Beförderungseinheit» bedeutet: – für Gegenstände: die Gesamtmasse in kg der Gegenstände ohne ihre Verpackung (für Gegenstände der Klasse 1 die Nettomasse des explosiven Stoffes in kg; für gefährliche Güter in Geräten und Ausrüstungen, die in der Anlage A ADR näher bezeichnet sind, die Gesamtmenge der darin enthaltenen gefährlichen Güter in kg bzw. in Liter); – für feste Stoffe, verflüssigte Gase, tiefgekühlte verflüssigte Gase und gelöste Gase: die Nettomasse in kg; – für flüssige Stoffe: die Gesamtmenge der enthaltenen gefährlichen Güter in Liter; – für verdichtete Gase, adsorbierte Gase und Chemikalien unter Druck: der mit Wasser ausgeliterte Fassungsraum des Gefässes in Liter. Wenn gefährliche Güter, die verschiedenen höchstzulässigen Gesamtmengen zugeordnet sind, in derselben Beförderungseinheit befördert werden, darf die Summe: – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 1, multipliziert mit 300, – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 5, multipliziert mit 60, – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 100, multipliziert mit 3, und – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 300 einen berechneten Wert von 300 nicht überschreiten.</td></tr>
+<tr><td>1.1.3.1 Bst. a</td><td>1.1.3.1 a)</td><td>Die Freistellung nach Unterabschnitt 1.1.3.1 a) ADR gilt nur bis zu den in der Folge aufgeführten höchstzulässigen Gesamtmengen je Beförderungseinheit: Beförderungskategorie nach ADR Höchstzulässige Gesamtmenge Beförderungskategorie 0 0 Beförderungskategorie 1 1 Beförderungskategorie 2 100 Beförderungskategorien 3 und 4 300 Von der Beförderungskategorie abweichende Höchstmengen: Klasse Stoffe/Gegenstände Höchstzulässige Gesamtmenge 4.3 Stoffe der Verpackungsgruppe I 0 1 Stoffe der Unterklassen 1.1C–1.5D sowie Gegenstände der Unterklassen 1.1B und 1.2B 1 4.2 Stoffe der Verpackungsgruppe II 1 4.3 Stoffe der Verpackungsgruppe II und III, sofern nicht der höchstzulässigen Menge 0 zugeordnet 1 1 Gegenstände der Unterklassen 1.1C–1.1J, 1.2C–1.2J, 1.3C–1.3J, 1.4B–1.4S, 1.6N 5 4.1 UN 3225–3230, 3531 und 3532 5 5.1 Stoffe der Verpackungsgruppe II 5 5.2 UN 3105–3110 5 «Höchstzulässige Gesamtmenge je Beförderungseinheit» bedeutet: – für Gegenstände die Gesamtmasse in kg der Gegenstände ohne ihre Verpackungen (für Gegenstände der Klasse 1 die Nettomasse des explosiven Stoffes in kg; für gefährliche Güter in Geräten und Ausrüstungen, die in der Anlage A ADR näher bezeichnet sind, die Gesamtmenge der darin enthaltenen gefährlichen Güter in kg bzw. in Litern); – für feste Stoffe, verflüssigte Gase, tiefgekühlte verflüssigte Gase und gelöste Gase die Nettomasse in kg; – für flüssige Stoffe die Gesamtmenge der enthaltenen gefährlichen Güter in Litern; – für verdichtete Gase, adsorbierte Gase und Chemikalien unter Druck der mit Wasser ausgeliterte Fassungsraum des Gefässes in Litern. Wenn gefährliche Güter, denen verschiedene höchstzulässige Gesamtmengen zugeordnet werden, in derselben Beförderungseinheit befördert werden, darf die Summe der folgenden Werte 300 nicht überschreiten: – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 1, multipliziert mit 300; – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 5, multipliziert mit 60; – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 100, multipliziert mit 3; – der Menge der Stoffe und Gegenstände der höchstzulässigen Gesamtmenge 300.</td></tr>
 <tr><td>1.1.3.1 Bst. c</td><td>1.1.3.1 c)</td><td>Die in Unterabschnitt 1.1.3.1 c) ADR aufgeführten Verpackungen, einschliesslich Grosspackmittel (IBC) und Grossverpackungen, mit mehr als 450 Liter Fassungsraum müssen den Bestimmungen bezüglich Verpackung, Prüfung, Zulassung und Kennzeichnung nach den Teilen 4 und 6 ADR entsprechen.</td></tr>
 <tr><td>1.1.3.6 Freistellungen in Zusammenhang mit Mengen, die je Beförderungseinheit befördert werden</td><td></td><td></td></tr>
 <tr><td>1.1.3.6.2</td><td>1.1.3.6.2</td><td>Bei Beförderungen, für die die Freistellungen nach Unterabschnitt 1.1.3.6 ADR gelten, finden nachstehende Bestimmungen keine Anwendung: – die erhöhte Haftpflichtversicherung, – die Bestimmungen dieses Anhangs über das Halten und Parkieren (Ziff. 8.4.3); die Verkehrsbeschränkungen (Art. 13) sind einzuhalten.</td></tr>
-<tr><td>1.1.3.6.6 Freistellungen für leere, ungereinigte Tanks bei der Wartung von Lageranlagen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Unternehmen, die Lageranlagen mit wassergefährdenden Flüssigkeiten warten, dürfen leere, ungereinigte Tanks, die sie während den Arbeiten an stationären Tanks zum Umschlag verwenden, wie folgt in Abweichung von den Bestimmungen dieser Verordnung transportieren: a. Tank und Fahrzeug Die Tanks unterstehen nicht den Vorschriften über die Verwendung nach den Kapiteln 4.3 und 4.4 ADR und über den Bau, die Ausrüstung, die Zulassung des Baumusters, die Prüfung und die Kennzeichnung nach den Kapiteln 6.8 und 6.9 ADR. Das Fahrzeug untersteht nicht den Vorschriften über Bau und Zulassung nach Teil 9 ADR. b. Grosszettel Die Tanks sind an beiden Längsseiten und an jedem Ende mit Grosszetteln nach Kapitel 5.3 ADR zu kennzeichnen. Ist diese Kennzeichnung ausserhalb des Trägerfahrzeuges nicht sichtbar, so ist sie ausserdem an den beiden Längsseiten und hinten am Fahrzeug anzubringen. Handelt es sich beim Trägerfahrzeug des Tanks um einen Anhänger, so ist dieser zusätzlich vorne mit einem Grosszettel zu kennzeichnen. c. Orangefarbene Tafeln Vorne und hinten am Trägerfahrzeug muss sich eine orangefarbene Tafel ohne Kennzeichnungsnummer nach Absatz 5.3.2.1.1 ADR befinden. Auf die Kennzeichnung des Zugfahrzeugs beziehungsweise Anhängers kann verzichtet werden, wenn auf ihm kein Tank mitgeführt wird. d. Mitführen weiterer gefährlicher Güter Es dürfen in zugelassenen, gekennzeichneten und bezettelten Versandstücken zusätzlich gefährliche Güter bis zur höchstzulässigen Gesamtmenge der Tabelle 1.1.3.6.3 ADR mitgeführt werden. e. Ausbildung Der Fahrzeugführer ist von der Ausbildung nach Abschnitt 8.2.1 ADR befreit. Alle übrigen Vorschriften dieser Verordnung bleiben anwendbar.</td></tr>
-<tr><td>1.1.3.11 Freistellungen für Haushaltsabfälle 1.1.3.11.1 Haushaltsabfälle mit identifizierbaren gefährlichen Gütern</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Abweichend von den Vorschriften des ADR über Verpackung, Zusammenpackung, Bezettelung, Kennzeichnung und Klassifizierung dürfen Haushaltsabfälle, die identifizierbare gefährliche Güter enthalten, unter den folgenden Voraussetzungen von den Sammelstellen bis zu den Entsorgungsunternehmen befördert werden: a. Ein behördlich anerkannter Sachverständiger muss die Abfälle nach ihren gefährlichen Eigenschaften sowie im Hinblick auf Massnahmen bei Zwischenfällen und Unfällen beurteilen und klassifizieren. Ist die genaue Klassifizierung eines Stoffes unsicher, so ordnet der Sachverständige auf der Grundlage der Kenntnis des Absenders über den Stoff eine vorläufige Klasse, eine offizielle Benennung für die Beförderung und eine UN-Nummer zu. Er wendet dabei die Klassifizierungskriterien von Kapitel 2.2 ADR sowie die Grundsätze der Absätze 2.1.3.5.2–2.1.3.5.5 ADR an. Die Klassifizierung muss die überwiegende Gefahr berücksichtigen; die Verwendung von geeigneten n.a.g.-Eintragungen ist zulässig. b. Der Sachverständige muss die Abfälle in geeignete Sammelbehälter verpacken. Die Kennzeichnung und Bezettelung der einzelnen Verpackungen ist nicht erforderlich, wenn die Sammelbehälter gekennzeichnet und bezettelt sind. c. Der Sachverständige muss den Fahrzeugführer entsprechend instruieren. d. Das Beförderungspapier muss die Angabe «Beförderung gemäss Anhang 1 Ziffer 1.1.3.11.1 SDR» enthalten. Die Angabe der technischen Benennung nach Unterabschnitt 3.1.2.8 ADR ist nicht erforderlich, und die Angaben nach Absatz 5.4.1.1.1 e) ADR können sich auf die Bruttomasse und die Anzahl der Sammelbehälter beschränken.</td></tr>
-<tr><td>1.1.3.11.2 Haushaltsabfälle mit nicht identifizierbaren gefährlichen Gütern</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Abweichend von den Vorschriften des ADR über Verpackung, Zusammenpackung, Bezettelung, Kennzeichnung und Klassifizierung dürfen gefährliche Güter enthaltende Haushaltsabfälle, die durch den Sachverständigen nicht nach Ziffer 1.1.3.11.1 Buchstabe a klassifiziert werden können, unter den folgenden Voraussetzungen von den Sammelstellen bis zu den Entsorgungsunternehmen befördert werden: a. Die Abfälle dürfen in Mengen bis höchstens 50 kg oder l pro Beförderungseinheit in Versandstücken, die den Prüfanforderungen der Verpackungsgruppe II entsprechen, befördert werden. b. Werden die Versandstücke als Innenverpackung in eine weitere, den Prüfanforderungen der Verpackungsgruppe II entsprechende Aussenverpackung verpackt, so kann die Menge pro Beförderungseinheit auf 300 kg oder l erhöht werden. c. Die Versandstücke sind mit den Gefahrzetteln nach den Mustern 3, 6.1, 8 und 9 sowie mit der dauerhaften und gut sichtbaren Aufschrift «Gefahrgut, nicht identifiziert» zu versehen. d. Mitzuführen ist ein Begleitdokument mit mindestens folgenden Angaben: – Vermerk: «Beförderung gemäss Anhang 1 Ziffer 1.1.3.11.2 SDR»; – Name und Anschrift des Absenders oder der Absender; – Name und Anschrift des Empfängers oder der Empfänger; – Anzahl und Gewicht der Versandstücke.</td></tr>
-<tr><td>1.1.3.12 Freistellungen bei der Rücklieferung von Feuerwerkskörpern</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Für Freistellungen nach Unterabschnitt 1.1.3.6 ADR und Ziffer 1.1.3.6 dieses Anhangs ist auch bei der Rücklieferung von Feuerwerkskörpern die im Beförderungspapier aufgeführte Menge massgebend. Das Beförderungspapier muss die Angabe «Rücklieferung von Feuerwerkskörpern gemäss Anhang 1 Ziffer 1.1.3.12 SDR» enthalten. Für die Rücklieferung von Feuerwerkskörpern der UN-Nummern 0335, 0336 und 0337 von den Detailhandelsgeschäften bis zu deren Lieferanten gilt eine der beiden folgenden Regelungen: a. Als Netto-Explosivstoffmasse darf abweichend von Absatz 5.4.1.2.1 a) ADR der im Beförderungspapier der Anlieferung eingetragene Wert oder die Bruttomasse der Versandstücke eingetragen werden. b. Die Feuerwerkskörper dürfen abweichend von den Vorschriften des ADR als «UN 0335» befördert werden; als Netto-Explosivstoffmasse darf abweichend von Absatz 5.4.1.2.1 a) ADR der im Beförderungspapier der Anlieferung eingetragene Wert für alle Stoffe und Gegenstände oder die Bruttomasse der Versandstücke eingetragen werden.</td></tr>
+<tr><td>1.1.3.6.6 Freistellungen für leere, ungereinigte Tanks bei der Wartung von Lageranlagen</td><td></td><td>Unternehmen, die Lageranlagen mit wassergefährdenden Flüssigkeiten warten, dürfen leere, ungereinigte Tanks, die sie während den Arbeiten an stationären Tanks zum Umschlag verwenden, wie folgt in Abweichung von den Bestimmungen dieser Verordnung transportieren: a. Tank und Fahrzeug Die Tanks unterstehen nicht den Vorschriften über die Verwendung nach den Kapiteln 4.3 und 4.4 ADR und über den Bau, die Ausrüstung, die Zulassung des Baumusters, die Prüfung und die Kennzeichnung nach den Kapiteln 6.8 und 6.9 ADR. Das Fahrzeug untersteht nicht den Vorschriften über Bau und Zulassung nach Teil 9 ADR. b. Grosszettel Die Tanks sind an beiden Längsseiten und an jedem Ende mit Grosszetteln nach Kapitel 5.3 ADR zu kennzeichnen. Ist diese Kennzeichnung ausserhalb des Trägerfahrzeuges nicht sichtbar, so ist sie ausserdem an den beiden Längsseiten und hinten am Fahrzeug anzubringen. Handelt es sich beim Trägerfahrzeug des Tanks um einen Anhänger, so ist dieser zusätzlich vorne mit einem Grosszettel zu kennzeichnen. c. Orangefarbene Tafeln Vorne und hinten am Trägerfahrzeug muss sich eine orangefarbene Tafel ohne Kennzeichnungsnummer nach Absatz 5.3.2.1.1 ADR befinden. Auf die Kennzeichnung des Zugfahrzeugs beziehungsweise Anhängers kann verzichtet werden, wenn auf ihm kein Tank mitgeführt wird. d. Mitführen weiterer gefährlicher Güter Zusätzlich zu den Tanks dürfen weitere gefährliche Güter nach den anwendbaren Freistellungen mitgeführt werden. e. Ausbildung Der Fahrzeugführer ist von der Ausbildung nach Abschnitt 8.2.1 ADR befreit. Alle übrigen Vorschriften dieser Verordnung bleiben anwendbar.</td></tr>
+<tr><td>1.1.3.11 Freistellungen für Haushaltsabfälle</td><td></td><td></td></tr>
+<tr><td>1.1.3.11.1 Haushaltsabfälle mit identifizierbaren gefährlichen Gütern</td><td></td><td>Abweichend von den Vorschriften des ADR über Verpackung, Zusammenpackung, Bezettelung, Kennzeichnung und Klassifizierung dürfen Haushaltsabfälle, die identifizierbare gefährliche Güter enthalten, unter den folgenden Voraussetzungen von den Sammelstellen bis zu den Entsorgungsunternehmen befördert werden: a. Ein behördlich anerkannter Sachverständiger muss die Abfälle nach ihren gefährlichen Eigenschaften sowie im Hinblick auf Massnahmen bei Zwischenfällen und Unfällen beurteilen und klassifizieren. Ist die genaue Klassifizierung eines Stoffes unsicher, so ordnet der Sachverständige auf der Grundlage der Kenntnis des Absenders über den Stoff eine vorläufige Klasse, eine offizielle Benennung für die Beförderung und eine UN-Nummer zu. Er wendet dabei die Klassifizierungskriterien von Kapitel 2.2 ADR sowie die Grundsätze der Absätze 2.1.3.5.2–2.1.3.5.5 ADR an. Die Klassifizierung muss die überwiegende Gefahr berücksichtigen; die Verwendung von geeigneten n.a.g.-Eintragungen ist zulässig. b. Der Sachverständige muss die Abfälle in geeignete Sammelbehälter verpacken. Die Kennzeichnung und Bezettelung der einzelnen Verpackungen ist nicht erforderlich, wenn die Sammelbehälter gekennzeichnet und bezettelt sind. c. Der Sachverständige muss den Fahrzeugführer entsprechend instruieren. d. Das Beförderungspapier muss die Angabe «Beförderung gemäss Anhang 1 Ziffer 1.1.3.11.1 SDR» enthalten. Die Angabe der technischen Benennung nach Unterabschnitt 3.1.2.8 ADR ist nicht erforderlich, und die Angaben nach Absatz 5.4.1.1.1 e) ADR können sich auf die Bruttomasse und die Anzahl der Sammelbehälter beschränken.</td></tr>
+<tr><td>1.1.3.11.2 Haushaltsabfälle mit nicht identifizierbaren gefährlichen Gütern</td><td></td><td>Abweichend von den Vorschriften des ADR über Verpackung, Zusammenpackung, Bezettelung, Kennzeichnung und Klassifizierung dürfen gefährliche Güter enthaltende Haushaltsabfälle, die durch den Sachverständigen nicht nach Ziffer 1.1.3.11.1 Buchstabe a klassifiziert werden können, von den Sammelstellen bis zu den Entsorgungsunternehmen befördert werden, sofern: a. die Abfälle in Mengen bis höchstens 50 kg oder l pro Beförderungseinheit in Versandstücken, die den Prüfanforderungen der Verpackungsgruppe II entsprechen, befördert werden; falls die Versandstücke als Innenverpackung in weitere, den Prüfanforderungen der Verpackungsgruppe II entsprechende Aussenverpackung verpackt werden, beträgt die Höchstmenge pro Beförderungseinheit 300 kg oder l; b. die Versandstücke mit den Gefahrzetteln nach den Mustern 3, 6.1, 8 und 9 sowie mit der dauerhaften und gut sichtbaren Aufschrift «Gefahrgut, nicht identifiziert» versehen sind; c. ein Begleitdokument mit mindestens folgenden Angaben mitgeführt wird: – Vermerk: «Beförderung gemäss Anhang 1 Ziffer 1.1.3.11.2 SDR»; – Name und Anschrift des Absenders oder der Absender; – Name und Anschrift des Empfängers oder der Empfänger; – Anzahl und Masse der Versandstücke.</td></tr>
+<tr><td>1.1.3.12 Freistellungen bei der Rücklieferung von Feuerwerkskörpern</td><td></td><td>Für Freistellungen nach Unterabschnitt 1.1.3.6 ADR und Ziffer 1.1.3.6 dieses Anhangs ist auch bei der Rücklieferung von Feuerwerkskörpern die im Beförderungspapier aufgeführte Menge massgebend. Das Beförderungspapier muss die Angabe «Rücklieferung von Feuerwerkskörpern gemäss Anhang 1 Ziffer 1.1.3.12 SDR» enthalten. Für die Rücklieferung von Feuerwerkskörpern der UN-Nummern 0335, 0336 und 0337 von den Detailhandelsgeschäften bis zu deren Lieferanten gilt eine der beiden folgenden Regelungen: a. Als Netto-Explosivstoffmasse darf abweichend von Absatz 5.4.1.2.1 a) ADR der im Beförderungspapier der Anlieferung eingetragene Wert oder die Bruttomasse der Versandstücke eingetragen werden. b. Die Feuerwerkskörper dürfen abweichend von den Vorschriften des ADR als «UN 0335» befördert werden; als Netto-Explosivstoffmasse darf abweichend von Absatz 5.4.1.2.1 a) ADR der im Beförderungspapier der Anlieferung eingetragene Wert für alle Stoffe und Gegenstände oder die Bruttomasse der Versandstücke eingetragen werden.</td></tr>
 <tr><td>Kap. 1.3: Unterweisung von Personen, die an der Beförderung gefährlicher Güter beteiligt sind 1.3.3 Dokumentation</td><td></td><td></td></tr>
 <tr><td></td><td>1.3.3</td><td>Die Aufzeichnungen der nach Kapitel 1.3 ADR erhaltenen Unterweisung müssen mindestens fünf Jahre aufbewahrt werden.</td></tr>
-<tr><td>Kap. 1.5: Abweichungen 1.5.3 Abweichungen für militärische Sendungen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Für militärische Sendungen gelten die Bestimmungen über den militärischen Strassenverkehr.</td></tr>
+<tr><td>Kap. 1.5: Abweichungen</td><td></td><td></td></tr>
+<tr><td>1.5.3 Abweichungen für militärische Sendungen</td><td></td><td>Für militärische Sendungen gelten die Bestimmungen über den militärischen Strassenverkehr.</td></tr>
 <tr><td>Kap. 1.6: Übergangsvorschriften 1.6.1 Verschiedenes</td><td></td><td></td></tr>
-<tr><td>1.6.1.1</td><td>1.6.1.1</td><td>Stoffe und Gegenstände dürfen bis zum 30. Juni 2025 nach den bis zum 31. Dezember 2024 geltenden Vorschriften befördert werden.</td></tr>
+<tr><td>1.6.1.1</td><td>1.6.1.1</td><td>Stoffe und Gegenstände dürfen bis zum 30. Juni 2027 nach den bis zum 31. Dezember 2026 geltenden Vorschriften befördert werden.</td></tr>
 <tr><td>1.6.1.44</td><td>1.6.1.44</td><td>*Aufgehoben*</td></tr>
 <tr><td>1.6.3 Festverbundene Tanks (Tankfahrzeuge), Aufsetztanks und Batterie-Fahrzeuge</td><td></td><td></td></tr>
 <tr><td>1.6.3.30*a*</td><td></td><td>Saug-Druck-Tanks für Abfälle zur Beförderung von gefährlichen Abfällen im Sinne von Abschnitt 1.2.1 ADR, die vor dem 1. Januar 1999 gemäss der bis zum 31. Dezember 1998 geltenden EMPA-Richtlinie[^annex1-lvlu1-3] gebaut wurden, jedoch nicht den ab 1. Januar 1999 geltenden Vorschriften von Kapitel 6.10 ADR entsprechen, dürfen nach diesem Datum weiterverwendet werden. Sie unterliegen den technischen Vorschriften der EMPA-Richtlinie mit Ausnahme der darin enthaltenen Prüffristen. Sie unterliegen den in Abschnitt 6.10.4 ADR enthaltenen Prüffristen.</td></tr>
@@ -400,15 +397,13 @@ Anhang 1[^t-1]
 <tr><td>Kap. 3.3: Für bestimmte Stoffe oder Gegenstände geltende Sondervorschriften</td><td></td><td></td></tr>
 <tr><td>SV 363</td><td>SV 363</td><td>Die Freistellung gilt nur für Maschinen und Geräte, die dem Bundesgesetz vom 12. Juni 2009[^annex1-lvlu1-5] über die Produktesicherheit unterstehen.</td></tr>
 <tr><td colspan="3">Teil 4: Verwendung von Verpackungen, Grosspackmitteln (IBC), Grossverpackungen und Tanks</td></tr>
-<tr><td>Kap. 4.1: Verwendung von Verpackungen, einschliesslich Grosspackmittel (IBC) und Grossverpackungen 4.1.1 Allgemeine Vorschriften für das Verpacken gefährlicher Güter in Verpackungen, einschliesslich Grosspackmittel (IBC) und Grossverpackungen 4.1.1.22 Beförderung von angebrochenen Versandpackungen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Für die in Unterabschnitt 7.5.2.2 Anmerkung a ADR bezeichneten Beförderungen sind die nach der SprstV zu Sprengzwecken zugelassenen Sprengmittel, die sich in angebrochenen Versandpackungen befinden, in geschlossenen Behältern nach Anhang 11.2 SprstV mitzuführen. Die Behälter müssen nach Kapitel 6.1 ADR bauartgeprüft und für die Beförderung dieser Sprengmittel zugelassen sein. Die Bestimmungen von Absatz 2.2.1.1.6 Bemerkung 3 ADR sind einzuhalten.</td></tr>
+<tr><td>Kap. 4.1: Verwendung von Verpackungen, einschliesslich Grosspackmittel (IBC) und Grossverpackungen 4.1.1 Allgemeine Vorschriften für das Verpacken gefährlicher Güter in Verpackungen, einschliesslich Grosspackmittel (IBC) und Grossverpackungen</td><td></td><td></td></tr>
+<tr><td>4.1.1.22 Beförderung von angebrochenen Versandpackungen</td><td></td><td>Für die in Unterabschnitt 7.5.2.2 Anmerkung a ADR bezeichneten Beförderungen sind die nach der SprstV zu Sprengzwecken zugelassenen Sprengmittel, die sich in angebrochenen Versandpackungen befinden, in geschlossenen Behältern nach Anhang 11.2 SprstV mitzuführen. Die Behälter müssen nach Kapitel 6.1 ADR bauartgeprüft und für die Beförderung dieser Sprengmittel zugelassen sein. Die Bestimmungen von Absatz 2.2.1.1.6 Bemerkung 3 ADR sind einzuhalten.</td></tr>
 <tr><td>4.1.4 Verzeichnis der Verpackungsanweisungen 4.1.4.1 Anweisungen für die Verwendung von Verpackungen (ausgenommen Grosspackmittel (IBC) und Grossverpackungen)</td><td></td><td></td></tr>
 <tr><td>P 200 Ziff. 9</td><td>Verpackungsanweisung P 200 (9)</td><td>(9) Zu Tauchzwecken verwendete Gefässe für Gase der Klassifizierungscodes 1A und 1O müssen alle zweieinhalb Jahre einer Sichtprüfung und alle fünf Jahre einer vollständigen wiederkehrenden Prüfung unterzogen werden.</td></tr>
 <tr><td>Kap. 4.8: Verwendung von Baustellentanks</td><td></td><td></td></tr>
-<tr><td>4.8.1 Verwendung</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>In Baustellentanks darf einzig Dieselkraftstoff (UN 1202) befördert werden.</td></tr>
-<tr><td>4.8.2 Nutzvolumen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Das markierte Nutzvolumen von maximal 95 % des Fassungsraums darf nicht überschritten werden, selbst wenn der zulässige Füllungsgrad nach Unterabschnitt 4.3.2.2 ADR nicht erreicht ist.</td></tr>
+<tr><td>4.8.1 Verwendung</td><td></td><td>In Baustellentanks darf einzig Dieselkraftstoff (UN 1202) befördert werden.</td></tr>
+<tr><td>4.8.2 Nutzvolumen</td><td></td><td>Das markierte Nutzvolumen von maximal 95 % des Fassungsraums darf nicht überschritten werden, selbst wenn der zulässige Füllungsgrad nach Unterabschnitt 4.3.2.2 ADR nicht erreicht ist.</td></tr>
 <tr><td colspan="3">Teil 5: Vorschriften für den Versand</td></tr>
 <tr><td>Kap. 5.4: Dokumentation 5.4.0 Allgemeine Vorschriften</td><td></td><td></td></tr>
 <tr><td>5.4.0.2</td><td>5.4.0.2</td><td>Die Dokumente, die während der Beförderung mitgeführt werden müssen, erfüllen die Anforderungen von Unterabschnitt 5.4.0.2 ADR und sind in elektronischer Form zugelassen, wenn folgende Voraussetzungen erfüllt sind: a. Es wird ein tragbares Datenendgerät verwendet. Dieses wird leicht zugänglich und ausreichend gesichert in der Führerkabine mitgeführt. Bei der Beförderung von bis zu drei gefährlichen Gütern in Tanks oder in loser Schüttung, die den Kennzeichnungsvorschriften von Absatz 5.3.2.1.2 oder 5.3.2.1.4 ADR unterliegen, ist auch ein fest installiertes Datenendgerät zugelassen. b. Der Bildschirm des Datenendgeräts weist eine Grösse von mindestens 10 Zoll auf, und die Angaben entsprechen hinsichtlich Zeichengrösse und Lesbarkeit dem Papierformat. Eine Verkleinerung der Bildschirmgrösse bis 3,5 Zoll ist zulässig, wenn die Angaben mit einer optimierten und strukturierten Darstellung deutlich ablesbar sind. Eine klare Zuordnung von Art und Anzahl der Gebinde mit Mengenangaben zu den stoffbezogenen Angaben in der vorgeschriebenen Reihenfolge muss sichergestellt sein. c. Im Datenendgerät werden die Daten in einem verbreiteten Format so gespeichert, dass alle relevanten Angaben für die Dauer der Beförderung sofort ersichtlich sowie uneingeschränkt und vollständig abrufbar sind. Das Gerät ist wirksam gegen jegliche mechanische Belastung geschützt und ständig mit ausreichend Energie versorgt. d. Die Bedienung des Datenendgeräts ist einfach und intuitiv. Die Angaben können von den Kontrollbehörden vor Ort mit standardisierten Mitteln gesichert werden. Der Fahrzeugführer unterstützt die Vollzugsbehörden oder Einsatzkräfte auf Verlangen bei der Bedienung des Geräts. e. In der Führerkabine sind an der Decke oberhalb des Führersitzes oder an der Innenseite der Türe des Führers gut sichtbar in allen Amtssprachen Anweisungen für den Zugriff auf die elektronischen Angaben mit folgendem Inhalt angebracht: – Position des Datenendgeräts in der Führerkabine; – Schrittfolgen zur Ansicht der Dokumente; – Vermerk, wenn die Dokumente für einige Güter elektronisch und für andere in Papierform mitgeführt werden. Werden keine elektronischen Dokumente mitgeführt, so sind die Anweisungen zu entfernen oder es ist ein entsprechender Vermerk anzubringen.</td></tr>
@@ -417,20 +412,14 @@ Anhang 1[^t-1]
 <tr><td colspan="3">Teil 6: Bau- und Prüfvorschriften für Verpackungen, Grosspackmittel (IBC), Grossverpackungen und Tanks</td></tr>
 <tr><td>Kap. 6.14 Vorschriften für den Bau, die Ausrüstung, die Zulassung des Baumusters sowie die Prüfung von Baustellentanks 6.14.1.1 Allgemeines 6.14.1.1.1 Begriffsbestimmungen</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>**Baustellentanks:** Behälter für Treibstoffe, die temporär zur Betankung von Maschinen verwendet werden. Sie werden unabhängig von ihrer Grösse als Tankcontainer oder als festverbundene Tanks nach Kapitel 6.8 ADR betrachtet. Sie bestehen aus einem Innentank und einer geschlossenen Auffangwanne (Aussentank). Ein Tankcontainer oder festverbundener Tank, der vollständig den Vorschriften von Kapitel 6.8 ADR entspricht, gilt nicht als Baustellentank. **Nutzvolumen:** Dauerhaft markierter höchstzulässiger Füllstand.</td></tr>
-<tr><td>6.14.1.1.2 Anwendungsbereich</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Die Vorschriften der Ziffern 6.14.1.2–6.14.1.4 ergänzen oder ändern Kapitel 6.8 ADR für Baustellentanks mit einem Fassungsraum von über 3000 Liter. Im Übrigen müssen alle Vorschriften von Kapitel 6.8 ADR eingehalten werden, mit Ausnahme der Absätze 6.8.2.1.3, 6.8.2.1.4, 6.8.2.1.15–6.8.2.1.22, 6.8.2.1.23 betreffend zerstörungsfreie Prüfungen, 6.8.2.4.3 und 6.8.2.5.2.</td></tr>
-<tr><td>6.14.1.2 Bau 6.14.1.2.1 Mindestwanddicke, Berechnung der Wanddicke</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Innentanks müssen aus mindestens 5 mm dickem Baustahl hergestellt sein. Zulässig sind auch gleichwertige Wanddicken nach der Formel in Absatz 6.8.2.1.18 ADR, jedoch muss die Mindestwanddicke bei austenitischen rostfreien Stählen 4 mm betragen. Die Aussentanks müssen dieselben Anforderungen an die Wanddicke erfüllen wie die Innentanks.</td></tr>
-<tr><td>6.14.1.2.2 Schutzeinrichtungen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Die Baustellentanks sind mit einem Schutzkragen oder einem anderen gleichwertigen Schutz zu versehen, wobei der Schutzkragen aus mindestens 5 mm dickem Baustahl bestehen und die Überhöhung über die höchsten zu schützenden Teile mindestens 25 mm betragen muss.</td></tr>
-<tr><td>6.14.1.2.3 Ausführungen der Schweissarbeiten</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Alle Schweissnähte müssen beidseitig geschweisst sein. Beim Schutzkragen muss die Länge der Schweissnaht mindestens der Gesamtlänge des Schutzkragens entsprechen; eine einseitige oder versetzte Schweissung ist zulässig. Muffen und Fittinge aus Temperguss dürfen nicht verschweisst werden.</td></tr>
-<tr><td>6.14.1.2.4 Zusätzliche Anforderungen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Baustellentanks müssen so gebaut sein, dass sie jederzeit einem Prüfdruck von 0,5 bar standhalten können. Im Übrigen sind die Anforderungen der Gewässerschutzgesetzgebung bezüglich Bau und Ausrüstung von prismatischen Lageranlagen aus Stahl einzuhalten.</td></tr>
-<tr><td>6.14.1.3 Prüfungen und Inspektionen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Der in Ziffer 5.13.3 der Norm EN 12972 (Absätze 6.8.2.6.1 und 6.8.2.6.2 ADR) erwähnte Anhang E ist nicht anwendbar. Die Druckprüfung der Innentanks erfolgt mit einem hydraulischen Prüfdruck von 0,5 bar. Die Aussentanks sind einer Sichtprüfung zu unterziehen.</td></tr>
-<tr><td>6.14.1.4 Kennzeichnung</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Die Kennzeichnung der Baustellentanks richtet sich nach Kapitel 5.3 ADR.</td></tr>
+<tr><td>6.14.1.1.2 Anwendungsbereich</td><td></td><td>Die Vorschriften der Ziffern 6.14.1.2–6.14.1.4 ergänzen oder ändern Kapitel 6.8 ADR für Baustellentanks mit einem Fassungsraum von über 3000 Liter. Im Übrigen müssen alle Vorschriften von Kapitel 6.8 ADR eingehalten werden, mit Ausnahme der Absätze 6.8.2.1.3, 6.8.2.1.4, 6.8.2.1.15–6.8.2.1.22, 6.8.2.1.23 betreffend zerstörungsfreie Prüfungen, 6.8.2.4.3 und 6.8.2.5.2.</td></tr>
+<tr><td>6.14.1.2 Bau</td><td></td><td></td></tr>
+<tr><td>6.14.1.2.1 Mindestwanddicke, Berechnung der Wanddicke</td><td></td><td>Innentanks müssen aus mindestens 5 mm dickem Baustahl hergestellt sein. Zulässig sind auch gleichwertige Wanddicken nach der Formel in Absatz 6.8.2.1.18 ADR, jedoch muss die Mindestwanddicke bei austenitischen rostfreien Stählen 4 mm betragen. Die Aussentanks müssen dieselben Anforderungen an die Wanddicke erfüllen wie die Innentanks.</td></tr>
+<tr><td>6.14.1.2.2 Schutzeinrichtungen</td><td></td><td>Die Baustellentanks sind mit einem Schutzkragen oder einem anderen gleichwertigen Schutz zu versehen, wobei der Schutzkragen aus mindestens 5 mm dickem Baustahl bestehen und die Überhöhung über die höchsten zu schützenden Teile mindestens 25 mm betragen muss.</td></tr>
+<tr><td>6.14.1.2.3 Ausführungen der Schweissarbeiten</td><td></td><td>Alle Schweissnähte müssen beidseitig geschweisst sein. Beim Schutzkragen muss die Länge der Schweissnaht mindestens der Gesamtlänge des Schutzkragens entsprechen; eine einseitige oder versetzte Schweissung ist zulässig. Muffen und Fittinge aus Temperguss dürfen nicht verschweisst werden.</td></tr>
+<tr><td>6.14.1.2.4 Zusätzliche Anforderungen</td><td></td><td>Baustellentanks müssen so gebaut sein, dass sie jederzeit einem Prüfdruck von 0,5 bar standhalten können. Im Übrigen sind die Anforderungen der Gewässerschutzgesetzgebung bezüglich Bau und Ausrüstung von prismatischen Lageranlagen aus Stahl einzuhalten.</td></tr>
+<tr><td>6.14.1.3 Prüfungen und Inspektionen</td><td></td><td>Der in Ziffer 5.13.3 der Norm EN 12972 (Absätze 6.8.2.6.1 und 6.8.2.6.2 ADR) erwähnte Anhang E ist nicht anwendbar. Die Druckprüfung der Innentanks erfolgt mit einem hydraulischen Prüfdruck von 0,5 bar. Die Aussentanks sind einer Sichtprüfung zu unterziehen.</td></tr>
+<tr><td>6.14.1.4 Kennzeichnung</td><td></td><td>Die Kennzeichnung der Baustellentanks richtet sich nach Kapitel 5.3 ADR.</td></tr>
 <tr><td colspan="3">Teil 7: Vorschriften für die Beförderung, die Be- und Entladung und die Handhabung</td></tr>
 <tr><td>Kap. 7.4: Vorschriften für die Beförderung in Tanks</td><td></td><td></td></tr>
 <tr><td>7.4.1</td><td>7.4.1</td><td>Dieselkraftstoff, Gasöl oder Heizöl, leicht, die nach Abschnitt 3.2.1 Tabelle A ADR der Sondervorschrift 640L oder 640M zugeordnet sind, dürfen mit Bewilligung der kantonalen Behörde in Tanks mit Motorkarren (Art. 11 Abs. 2 Bst. g VTS[^annex1-lvlu1-6]) nach Ziffer 9.1.2 dieses Anhangs befördert werden, sofern wegen örtlichen Auflagen oder wegen der Geländebeschaffenheit die Beförderung mit Fahrzeugen der Kategorien N und O nach EU-Recht nicht möglich ist.</td></tr>
@@ -447,29 +436,26 @@ Anhang 1[^t-1]
 <tr><td>8.2.1.7 Aufbaukurs für Fahrzeugführer der Klasse 7</td><td></td><td></td></tr>
 <tr><td>8.2.1.7.1</td><td></td><td>Für Fahrzeugführer, die radioaktive Stoffe mit den UN-Nummern 2912–2919, 2977, 2978 und 3321–3333 befördern, gilt Abschnitt 8.2.1 ADR.</td></tr>
 <tr><td>8.2.1.7.2</td><td></td><td>Anstelle des Basiskurses und des Aufbaukurses Klasse 7 nach ADR können Fahrzeugführer, die ausschliesslich Stoffe der Klasse 7 und diese nur in der Schweiz transportieren, einen Strahlenschutzkurs (Anwendungsbereich I 16, Fahrzeugführer von radioaktivem Material gemäss SDR, Tabelle 1 Anhang 4 der Strahlenschutz-Ausbildungsverordnung vom 26. April 2017[^annex1-lvlu1-7]) besuchen und eine Prüfung absolvieren. Dieser Kurs muss den Aufbaukurs Klasse 7 sowie praktische Einzelübungen mindestens zu Erste Hilfe, Brandbekämpfung und den bei Zwischenfällen und Unfällen zu treffenden Massnahmen umfassen. Bei bestandener Prüfung wird dem Fahrzeugführer eine SDR-Schulungsbescheinigung mit dem Vermerk «Beförderung von radioaktiven Stoffen nach Anhang 1 Ziffer 8.2.1.7.2 SDR, gilt nur für Transporte in der Schweiz» ausgestellt. Die Bescheinigung wird um fünf Jahre verlängert, wenn der Kandidat innerhalb von zwölf Monaten vor Ablauf der Bescheinigung den Strahlenschutzkurs nochmals absolviert und die Prüfung besteht.</td></tr>
-<tr><td>8.2.1.8 Ausbildung von Fahrzeugführern mit Spreng- oder Verwendungsberechtigung</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Einsatzberechtigte Inhaber von Verwendungsausweisen mit Eintrag FWB oder HA oder Sprengausweisen (Art. 51 und 52 SprstV) sind berechtigt, ohne ADR-Schulungsbescheinigung gefährliche Güter der Klasse 1 zu befördern. Diese Berechtigung erstreckt sich jedoch nur auf Sprengmittel und pyrotechnische Gegenstände, die von den ausgestellten Ausweisen erfasst sind.</td></tr>
-<tr><td>Kap. 8.4: Vorschriften für die Überwachung der Fahrzeuge 8.4.3 Halten und Parkieren 8.4.3.1 Halten und Parkieren im Allgemeinen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Das freie Halten und Parkieren eines Fahrzeugs mit Gütern, die dieser Verordnung unterstellt sind, ist auf öffentlichen Strassen untersagt, wenn es nicht der Transport selbst erfordert, namentlich für das Beladen oder Entladen, für die Kontrolle des Fahrzeuges oder der Ladung, für die Verpflegung des Fahrzeugführers oder aufgrund schlechter Witterungsverhältnisse. Nach Möglichkeit soll freies Halten oder längeres Parkieren nicht an Orten erfolgen, zu denen Unbefugte Zutritt haben.</td></tr>
-<tr><td>8.4.3.2 Halten und Parkieren bei Nacht oder bei schlechter Sicht</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Wenn nachts oder bei schlechter Sicht ein Fahrzeug wegen Versagens der Beleuchtung auf der Fahrbahn stillsteht, so müssen die in Abschnitt 8.1.5 ADR vorgeschriebenen Warnzeichen je 10 m vor und hinter dem Fahrzeug aufgestellt werden. Ausserdem ist das Pannensignal nach Artikel 23 Absatz 2 VRV[^annex1-lvlu1-8] in wenigstens 50 m Entfernung aufzustellen.</td></tr>
-<tr><td>8.4.3.3 Halten und Parkieren eines Fahrzeugs, das eine besondere Gefahr darstellt</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Wenn die im haltenden oder parkierenden Fahrzeug geladenen gefährlichen Güter eine besondere Gefahr für die Strassenbenützer bilden, namentlich wenn Güter, die für Fussgänger, Tiere oder Fahrzeuge gefährlich sein können, auf der Strasse verschüttet sind, und die Fahrzeugbesatzung die Gefahr nicht rasch beseitigen kann, sind die nächsten zuständigen Behörden unverzüglich zu benachrichtigen. Weiter hat die Fahrzeugbesatzung die Massnahmen zu treffen, die in den Weisungen nach Abschnitt 5.4.3 ADR festgelegt sind.</td></tr>
+<tr><td>8.2.1.8 Ausbildung von Fahrzeugführern mit Spreng- oder Verwendungsberechtigung</td><td></td><td>Einsatzberechtigte Inhaber von Verwendungsausweisen mit Eintrag FWB oder HA oder Sprengausweisen (Art. 51 und 52 SprstV) sind berechtigt, ohne ADR-Schulungsbescheinigung gefährliche Güter der Klasse 1 zu befördern. Diese Berechtigung erstreckt sich jedoch nur auf Sprengmittel und pyrotechnische Gegenstände, die von den ausgestellten Ausweisen erfasst sind.</td></tr>
+<tr><td>Kap. 8.4: Vorschriften für die Überwachung der Fahrzeuge 8.4.3 Halten und Parkieren</td><td></td><td></td></tr>
+<tr><td>8.4.3.1 Halten und Parkieren im Allgemeinen</td><td></td><td>Das freie Halten und Parkieren eines Fahrzeugs mit Gütern, die dieser Verordnung unterstellt sind, ist auf öffentlichen Strassen untersagt, wenn es nicht der Transport selbst erfordert, namentlich für das Beladen oder Entladen, für die Kontrolle des Fahrzeuges oder der Ladung, für die Verpflegung des Fahrzeugführers oder aufgrund schlechter Witterungsverhältnisse. Nach Möglichkeit soll freies Halten oder längeres Parkieren nicht an Orten erfolgen, zu denen Unbefugte Zutritt haben.</td></tr>
+<tr><td>8.4.3.2 Halten und Parkieren bei Nacht oder bei schlechter Sicht</td><td></td><td>Wenn nachts oder bei schlechter Sicht ein Fahrzeug wegen Versagens der Beleuchtung auf der Fahrbahn stillsteht, so müssen die in Abschnitt 8.1.5 ADR vorgeschriebenen Warnzeichen je 10 m vor und hinter dem Fahrzeug aufgestellt werden. Ausserdem ist das Pannensignal nach Artikel 23 Absatz 2 VRV[^annex1-lvlu1-8] in wenigstens 50 m Entfernung aufzustellen.</td></tr>
+<tr><td>8.4.3.3 Halten und Parkieren eines Fahrzeugs, das eine besondere Gefahr darstellt</td><td></td><td>Wenn die im haltenden oder parkierenden Fahrzeug geladenen gefährlichen Güter eine besondere Gefahr für die Strassenbenützer bilden, namentlich wenn Güter, die für Fussgänger, Tiere oder Fahrzeuge gefährlich sein können, auf der Strasse verschüttet sind, und die Fahrzeugbesatzung die Gefahr nicht rasch beseitigen kann, sind die nächsten zuständigen Behörden unverzüglich zu benachrichtigen. Weiter hat die Fahrzeugbesatzung die Massnahmen zu treffen, die in den Weisungen nach Abschnitt 5.4.3 ADR festgelegt sind.</td></tr>
 <tr><td>Kap. 8.5: Zusätzliche Vorschriften für besondere Klassen oder Güter</td><td></td><td></td></tr>
 <tr><td>S11 und S12</td><td>S11 und S12</td><td>Die Sondervorschriften S11 und S12 sind nicht anwendbar.</td></tr>
 <tr><td colspan="3">Teil 9: Vorschriften für den Bau und die Zulassung der Fahrzeuge</td></tr>
-<tr><td>Kap. 9.1: Anwendungsbereich, Begriffsbestimmungen und Vorschriften für die Zulassung von Fahrzeugen 9.1.2 Zulassung der Fahrzeuge EX/II, EX/III, FL und AT und der MEMU</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Motorkarren für die Beförderung von Gefahrgut in Tanks nach Ziffer 7.4.1 dieses Anhangs müssen den Vorschriften der Kapitel 9.1, 9.2 und 9.7 ADR entsprechen; ausgenommen sind die Abschnitte 9.2.3, 9.2.5 und Unterabschnitt 9.7.5.2 ADR. Die Übereinstimmung mit diesen Vorschriften wird mit der Zulassungsbescheinigung nach Unterabschnitt 9.1.3.5 ADR bescheinigt; dabei ist in Ziffer 7 der Zulassungsbescheinigung die Fahrzeugbezeichnung AT anzugeben, und in Ziffer 11 ist der Vermerk «Bewilligung als AT-Fahrzeug gemäss Anhang 1 Ziffer 7.4.1 SDR» sowie das zulässige Einsatzgebiet einzutragen.</td></tr>
+<tr><td>Kap. 9.1: Anwendungsbereich, Begriffsbestimmungen und Vorschriften für die Zulassung von Fahrzeugen</td><td></td><td></td></tr>
+<tr><td>9.1.2 Zulassung der Fahrzeuge EX/II, EX/III, FL und AT und der MEMU</td><td></td><td>Motorkarren für die Beförderung von Gefahrgut in Tanks nach Ziffer 7.4.1 dieses Anhangs müssen den Vorschriften der Kapitel 9.1, 9.2 und 9.7 ADR entsprechen; ausgenommen sind die Abschnitte 9.2.3, 9.2.6 und Unterabschnitt 9.7.5.2 ADR. Die Übereinstimmung mit diesen Vorschriften wird mit der Zulassungsbescheinigung nach Unterabschnitt 9.1.3.5 ADR bescheinigt; dabei ist in Ziffer 7 der Zulassungsbescheinigung die Fahrzeugbezeichnung AT anzugeben, und in Ziffer 11 ist der Vermerk «Bewilligung als AT-Fahrzeug gemäss Anhang 1 Ziffer 7.4.1 SDR» sowie das zulässige Einsatzgebiet einzutragen.</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Die Gliederung richtet sich nach der Systematik des ADR ([SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)).
+[^annex1-lvlu1-1]: Die Gliederung richtet sich nach der Systematik des ADR ([SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)).
 [^annex1-lvlu1-2]: Wenn in der Spalte «ADR-Nummer» eine Eintragung enthalten ist, bezieht sich die SDR-Vorschrift auf die entsprechende Vorschrift des ADR.
 [^annex1-lvlu1-3]: Technische Richtlinie der Eidgenössischen Materialprüfungs- und Forschungsanstalt (EMPA) für Saug-Druck-Tanks vom 31. Oktober 1989, abrufbar unter: [https://www.astra.admin.ch/astra/de/home/fachleute/fahrzeuge/gefaehrliche-gueter/recht-national.html](https://www.astra.admin.ch/astra/de/home/fachleute/fahrzeuge/gefaehrliche-gueter/recht-national.html).
-[^annex1-lvlu1-4]: [SR 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
-[^annex1-lvlu1-5]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex1-lvlu1-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^annex1-lvlu1-7]: [SR 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
-[^annex1-lvlu1-8]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1-lvlu1-4]: [SR 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
+[^annex1-lvlu1-5]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex1-lvlu1-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^annex1-lvlu1-7]: [SR 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
+[^annex1-lvlu1-8]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 Anhang 2[^t-2]
 
@@ -477,94 +463,37 @@ Anhang 2[^t-2]
 
 ## Strassenstrecken mit zusätzlichen Beförderungsbeschränkungen
 
-[^t-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Sept. 2018 ([AS 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Bereinigt gemäss Ziff. I der V des UVEK vom 15. Sept. 2020 ([AS 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)) und vom 20. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)).
-
-### 1 Strassenstrecken mit Tunnels
-
-Liste der Strecken mit beschränkenden Kategorien nach Abschnitt 1.9.5 ADR[^annex2-lvlu1-lvl1-1]:
+[^t-2]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 525](https://fedlex.data.admin.ch/eli/oc/2026/525)).
 
 <table>
-<tr><td>Kanton</td><td colspan="2">Strassenstrecke (Nationalstrasse = N Kantonsstrasse = KS)</td><td></td><td>Tunnel</td><td>Tunnelkategorie (1.9.5.2 ADR)</td></tr>
-<tr><td>UR/TI</td><td>N2</td><td colspan="2">Göschenen–Airolo</td><td>St. Gotthard</td><td>E</td></tr>
-<tr><td>GR</td><td>N13</td><td colspan="2">Thusis–Tessin</td><td>San Bernardino</td><td>E</td></tr>
-<tr><td>TG</td><td>KS</td><td colspan="2">Frauenfeld</td><td>Kreisel Bahnhof Frauenfeld</td><td>E</td></tr>
-<tr><td>TI</td><td>N13[^annex2-lvlu1-lvl1-2]</td><td colspan="2">Bellinzona–Brissago</td><td>Mappo/Morettina</td><td>E</td></tr>
-<tr><td>TI</td><td>KS</td><td colspan="2">Lugano</td><td>Vedeggio–Cassarate</td><td>E</td></tr>
-<tr><td>VD</td><td>KS</td><td colspan="2">Crissier</td><td>Galerie du Marcolet</td><td>E</td></tr>
-<tr><td>VS/Italien</td><td>KS</td><td colspan="2">Martigny–Aosta</td><td>Grosser St. Bernhard</td><td>E</td></tr>
+<tr><th>Regelungsbereich</th><th>ADR-Nummer</th><th>Vorschrift</th></tr>
+<tr><td>1 Strassenstrecken mit Tunnels 1.1 Liste der Strecken mit beschränkenden Kategorien nach Abschnitt 1.9.5 ADR[^annex2-lvlu1-1]:</td><td></td><td>Kanton Strassenstrecke (Nationalstrasse = N Kantonsstrasse = KS) Tunnel Tunnelkategorie (1.9.5.2 ADR) UR/TI N2 Göschenen–Airolo St. Gotthard E GR N13 Thusis–Tessin San Bernardino E TG KS Frauenfeld Kreisel Bahnhof Frauenfeld E TI N13 Bellinzona–Brissago Mappo/Morettina E TI KS Lugano Vedeggio–Cassarate E VD KS Crissier Galerie du Marcolet E VS/Italien KS Martigny–Aosta Grosser St. Bernhard E</td></tr>
+<tr><td>1.2 Mischladung mit gefährlichen Gütern, bei denen in Kapitel 3.2 Tabelle A ADR (–) angegeben ist</td><td></td><td>Werden Güter gemäss 1.9.5.3.6 ADR zusammen mit anderen gefährlichen Gütern befördert, bei denen in Kapitel 3.2 Tabelle A Spalte (15) des ADR nicht (–) angegeben ist, oder die als begrenzte Menge befördert werden, sind nur diese anderen Güter für die Beurteilung der Tunneldurchfahrt massgebend.</td></tr>
+<tr><td>2 Strassenstrecken in der Nähe geschützter Gewässer 2.1 Liste der Strassenstrecken, auf denen die Beförderung bestimmter gefährlicher Güter verboten ist</td><td></td><td>Auf folgenden Strassenstrecken ist die Beförderung von gefährlichen Gütern nach Ziffer 2.2 dieses Anhangs verboten: AG: Baden/Dättwil, «Täfernstrasse» (Länge rd. 250 m); AG: Frick–Oeschgen, «Oeschgerstrasse» (Länge rd. 600 m); AG: Kantonsstrasse 335, «Brunnenrainstrasse», Teilstrecke «Berghof» (Punkt 663) bis «Liegenschaft Restaurant Waldegg»; AG: Kantonsstrasse 420, Strecke zwischen Mülligen (Länge 400 m) und Birmenstorf (Länge 500 m)[^annex2-lvlu1-2]; AG: Reinach, «Brüggelmoosstrasse» (Länge 400 m); AG: Spreitenbach, Gemeindestrasse «Müslistrasse» (Länge 250 m); BE: Belp, Gürbebrücke–Verzweigung Auhaus/Giessenhof (Länge 1,3 km); BE: Kantonsstrasse 1315, Gimmiz–Aarberg (Länge 3 km) inkl. Verzweigung Richtung Kappelen (Länge rd. 1 km); BE: Neuenegg, Süri–Matzenried (Länge 1,5 km); BE: Seedorf, Gemeindestrasse Räbhalen–Verzweigung Holteren/Ruchwil (Länge 300 m); BL: Muttenz, «Rheinfelderstrasse», Strecke zwischen Einmündung «Auhafen» und Anschluss Hagnau (Länge 2,4 km); BS: Basel und Riehen, «Riehenstrasse»–«Äussere Baselstrasse», Strecke zwischen «Fasanenstrasse/Allmendstrasse» und «Rauracherstrasse» (Länge rd. 1 km); BS: Riehen, «Äussere Baselstrasse», Strecke zwischen «Rauracherstrasse» und «Bäumlihofstrasse» (Länge rd. 200 m)[^annex2-lvlu1-3]; BS: Riehen, «Rauracherstrasse», Strecke zwischen «Äussere Baselstrasse» und «Bäumlihofstrasse» (Länge rd. 200 m)[^annex2-lvlu1-4]; BS: Riehen, «Weilstrasse», Strecke zwischen «Lörracherstrasse» und Zollamt «Weilstrasse» (Länge rd. 800 m); GE: Kantonsstrasse 75, Chemin de la Greube bis zum Kieswerk «Bois de Bay» (Länge 1,3 km)[^annex2-lvlu1-5]<sup>+</sup>[^annex2-lvlu1-6]; GE: Kantonsstrasse 80, Route de Veyrier bis zum Weiler Vessy (Länge 1,1 km)[^annex2-lvlu1-7]<sup>+</sup>[^annex2-lvlu1-8]; GE: Pont de la Fontenette[^annex2-lvlu1-9]; GE: Pont de Vessy[^annex2-lvlu1-10]; GE: Pont du Val d’Arve[^annex2-lvlu1-11]; GE: Route du Bout du Monde (Länge 600 m)[^annex2-lvlu1-12]<sup>+</sup>[^annex2-lvlu1-13]; GE: Route du Bout du Monde, Strecke zwischen Brücke und Weiler Vessy (Länge 800 m)[^annex2-lvlu1-14]; GE: Uferweg links der Rhone vom «Barrage de Verbois» Richtung «Moulin-de-Vert» (Länge 1,5 km)[^annex2-lvlu1-15]; GE: Uferweg rechts der Rhone von der «Route de Verbois» zum Werk von Verbois und zum Kieswerk von Russin (Länge 1 km)[^annex2-lvlu1-16]<sup>+</sup>[^annex2-lvlu1-17]; GE: Weg von der «Route de Peney» zur sog. «Maison Carrée» (Länge 1,2 km)[^annex2-lvlu1-18]<sup>+</sup>[^annex2-lvlu1-19]; GR: «Voia da Brinzauls/Voia Principala», Strecke zwischen Lantsch/Lenz und Crappa Naira (Länge 6,0 km); GR: «Via Nova/Platta», Rhäzüns Holzlagerplatz bis Rothenbrunnen Abzweigung Kantonsstrasse (Länge 2,0 km); GR: «Via da Laax», Abzweigung Oberalpstrasse bis Ortsbeginn Sagogn Abzweigung «Via Teit» (Länge 1,2 km); NE: Kantonsstrasse 414, St-Martin–Sägewerk Debrot (Länge 1 km); NE: Kantonsstrasse 2233, Strasse südlich von Boveresse bis nördlich von Môtiers, Bahnhofplatz (Länge 950 m)[^annex2-lvlu1-20]; SO: Grenchen, Grenchen–Romont, «Romontstrasse» (Länge 400 m); SO: Wangen b. Olten, «Bornstrasse» ab Einmündung Mittelgäustrasse bis Abzweigung Neuhüslermatt (Länge 210 m) SG: Verbindungsstrasse Valens–Vasön (Länge 2,3 km); TI: Chiasso, «Via Soldini», Strecke zwischen «Via Passeggiata» und «Via Interlenghi» (Länge 200 m) und «Via Interlenghi», Strecke zwischen «Via Soldini» sowie «Via Vincenzo Vela» (Länge 400 m); TI: Mendrisio, Strecke «Via Pra Mag», (Länge 450 m); TI: Mendrisio–Coldrerio, «Via Sant’Apollonia» (Länge 1,5 km); VD: Kantonsstrasse 26, Le Brassus–Kreuzung Grand-Fuey (Länge 11 km)[^annex2-lvlu1-21]; VD: Kantonsstrasse 289, Orny–Bavois, par Entreroches (Länge 2,2 km).</td></tr>
+<tr><td>2.2 Güter, deren Beförderung verboten ist</td><td></td><td>Gefährliche Güter der Klassen 1–9, welche die Kriterien von Absatz 2.2.9.1.10 ADR erfüllen.</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^annex2-lvlu1-lvl1-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
-
-### 2 Strassenstrecken in der Nähe geschützter Gewässer
-
-### 2.1 Liste der Strassenstrecken, auf denen die Beförderung bestimmter gefährlicher Güter verboten ist
-
-Auf folgenden Strassenstrecken ist die Beförderung von gefährlichen Gütern nach Ziffer 2.2 dieses Anhangs verboten:
-
-- AG Baden/Dättwil, «Täfernstrasse» (Länge rd. 250 m);
-- AG Frick–Oeschgen, «Oeschgerstrasse» (Länge rd. 600 m);
-- AG Kantonsstrasse 335, «Brunnenrainstrasse», Teilstrecke «Berghof» (Punkt 663) bis «Liegenschaft Restaurant Waldegg»;
-- AG Kantonsstrasse 420, Strecke zwischen Mülligen (Länge 400 m) und Birmenstorf (Länge 500 m)[^annex2-lvlu1-lvl2-lvl21-1];
-- AG Reinach, «Brüggelmoosstrasse» (Länge 400 m);
-- AG Spreitenbach, Gemeindestrasse «Müslistrasse» (Länge 250 m);
-- BE Belp, Gürbebrücke–Verzweigung Auhaus/Giessenhof (Länge 1,3 km);
-- BE Kantonsstrasse 1315, Gimmiz–Aarberg (Länge 3 km) inkl. Verzweigung Richtung Kappelen (Länge rd. 1 km);
-- BE Neuenegg, Süri–Matzenried (Länge 1,5 km);
-- BE Seedorf, Gemeindestrasse Räbhalen–Verzweigung Holteren/Ruchwil (Länge 300 m);
-- BL Muttenz, «Rheinfelderstrasse», Strecke zwischen Einmündung «Auhafen» und Anschluss Hagnau (Länge 2,4 km);
-- BS Basel und Riehen, «Riehenstrasse»–«Äussere Baselstrasse», Strecke zwischen «Fasanenstrasse/Allmendstrasse» und «Rauracherstrasse» (Länge rd. 1 km);
-- BS Riehen, «Äussere Baselstrasse», Strecke zwischen «Rauracherstrasse» und «Bäumlihofstrasse» (Länge rd. 200 m)[^annex2-lvlu1-lvl2-lvl21-2];
-- BS Riehen, «Rauracherstrasse», Strecke zwischen «Äussere Baselstrasse» und «Bäumlihofstrasse» (Länge rd. 200 m) [^annex2-lvlu1-lvl2-lvl21-3];
-- BS Riehen, «Weilstrasse», Strecke zwischen «Lörracherstrasse» und Zollamt «Weilstrasse» (Länge rd. 800 m);
-- GE Kantonsstrasse 75, Chemin de la Greube bis zum Kieswerk «Bois de Bay» (Länge 1,3 km) [^annex2-lvlu1-lvl2-lvl21-4]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-5];
-- GE Kantonsstrasse 80, Route de Veyrier bis zum Weiler Vessy (Länge 1,1 km) [^annex2-lvlu1-lvl2-lvl21-6]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-7];
-- GE Pont de la Fontenette[^annex2-lvlu1-lvl2-lvl21-8];
-- GE Pont de Vessy[^annex2-lvlu1-lvl2-lvl21-9];
-- GE Pont du Val d\`Arve[^annex2-lvlu1-lvl2-lvl21-10];
-- GE Route du Bout du Monde (Länge 600 m) [^annex2-lvlu1-lvl2-lvl21-11]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-12];
-- GE Route du Bout du Monde, Strecke zwischen Brücke und Weiler Vessy (Länge 800 m) [^annex2-lvlu1-lvl2-lvl21-13];
-- GE Uferweg links der Rhone vom «Barrage de Verbois» Richtung «Moulin-de-Vert» (Länge 1,5 km) [^annex2-lvlu1-lvl2-lvl21-14];
-- GE Uferweg rechts der Rhone von der «Route de Verbois» zum Werk von Verbois und zum Kieswerk von Russin (Länge 1 km) [^annex2-lvlu1-lvl2-lvl21-15]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-16];
-- GE Weg von der «Route de Peney» zur sog. «Maison Carrée» (Länge 1,2 km) [^annex2-lvlu1-lvl2-lvl21-17]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-18];
-- GR «Voia da Brinzauls/Voia Principala», Strecke zwischen Lantsch/Lenz und Crappa Naira (Länge 6,0 km);
-- GR «Via Nova/Platta», Rhäzüns Holzlagerplatz bis Rothenbrunnen Abzweigung Kantonsstrasse (Länge 2,0 km);
-- GR «Via da Laax», Abzweigung Oberalpstrasse bis Ortsbeginn Sagogn Abzweigung «Via Teit» (Länge 1,2 km);
-- NE Kantonsstrasse 414, St-Martin–Sägewerk Debrot (Länge 1 km);
-- NE Kantonsstrasse 2233, Strasse südlich von Boveresse bis nördlich von Môtiers, Bahnhofplatz (Länge 950 m) [^annex2-lvlu1-lvl2-lvl21-19];
-- SO Grenchen, Grenchen–Romont, «Romontstrasse» (Länge 400 m);
-- SG Verbindungsstrasse Valens–Vasön (Länge 2,3 km);
-- TI Chiasso, «Via Soldini», Strecke zwischen «Via Passeggiata» und «Via Interlenghi» (Länge 200 m) und «Via Interlenghi», Strecke zwischen «Via Soldini» sowie «Via Vincenzo Vela» (Länge 400 m);
-- TI Mendrisio, Strecke «Via Pra Mag», «Via Laveggio», «Via Prati Maggi» bis Kreuzung «Via alla Rossa» (Länge 1,2 km);
-- TI Mendrisio–Coldrerio, «Via Sant’Apollonia» (Länge 1,5 km);
-- VD Kantonsstrasse 26, Le Brassus–Kreuzung Grand-Fuey (Länge 11 km)[^annex2-lvlu1-lvl2-lvl21-20];
-- VD Kantonsstrasse 289, Orny–Bavois, par Entreroches (Länge 2,2 km).
-
-[^annex2-lvlu1-lvl2-lvl21-1]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-2]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-3]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-4]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-5]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-6]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-7]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-8]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-9]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-10]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-11]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-12]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-13]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-14]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-15]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-16]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-17]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-18]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
-[^annex2-lvlu1-lvl2-lvl21-19]: Zubringerdienst gestattet.
-[^annex2-lvlu1-lvl2-lvl21-20]: Zubringerdienst gestattet.
-
-### 2.2 Güter, deren Beförderung verboten ist
-
-Gefährliche Güter der Klassen 1–9, welche die Kriterien von Absatz 2.2.9.1.10 ADR erfüllen.
+[^annex2-lvlu1-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annex2-lvlu1-2]: Zubringerdienst gestattet.
+[^annex2-lvlu1-3]: Zubringerdienst gestattet.
+[^annex2-lvlu1-4]: Zubringerdienst gestattet.
+[^annex2-lvlu1-5]: Zubringerdienst gestattet.
+[^annex2-lvlu1-6]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-7]: Zubringerdienst gestattet.
+[^annex2-lvlu1-8]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-9]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-10]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-11]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-12]: Zubringerdienst gestattet.
+[^annex2-lvlu1-13]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-14]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-15]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-16]: Zubringerdienst gestattet.
+[^annex2-lvlu1-17]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-18]: Zubringerdienst gestattet.
+[^annex2-lvlu1-19]: Beförderung von Flüssigkeiten, die unter Ziffer 2.2 dieses Anhangs fallen, nur mit Tankfahrzeugen verboten.
+[^annex2-lvlu1-20]: Zubringerdienst gestattet.
+[^annex2-lvlu1-21]: Zubringerdienst gestattet.
 
 Anhang 3[^t-3]
 
@@ -572,15 +501,9 @@ Anhang 3[^t-3]
 
 ## Liste gefährlicher Güter, die nur unter besonderen Auflagen transportiert werden dürfen
 
-[^t-3]: Der Text dieses Anhangs wurde ursprünglich nicht in der AS veröffentlicht ([AS 2002 4224](https://fedlex.data.admin.ch/eli/oc/2002/686), [2008 5087](https://fedlex.data.admin.ch/eli/oc/2008/705)). Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 26. Sept. 2016 ([AS 2016 3455](https://fedlex.data.admin.ch/eli/oc/2016/584)). Bereinigt gemäss Ziff. I der V des UVEK vom 19. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)).
-
-Einschränkendere Bestimmungen der Anhänge 1 und 2 sind zu beachten.
+[^t-3]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 525](https://fedlex.data.admin.ch/eli/oc/2026/525)).
 
 <table>
-<tr><th>UN-Nr.</th><th>Name und Beschreibung</th><th>Klasse</th><th>Klassifizierungscode</th><th>Verpackungsgruppe</th><th>Gefahrzettel</th><th>Auflage</th></tr>
-<tr><th></th><th>3.1.2 ADR</th><th>2.2 ADR</th><th>2.2 ADR</th><th>2.1.1.3 ADR</th><th>5.2.2 ADR</th><th></th></tr>
-<tr><td>1017</td><td>CHLOR</td><td>2</td><td>2TOC</td><td></td><td>2.3+5.1+8</td><td>Max. 1000 kg Nettogewicht je Transportbehälter erlaubt.</td></tr>
-<tr><td>1076</td><td>PHOSGEN</td><td>2</td><td>2TC</td><td></td><td>2.3+8</td><td>Max. 1000 kg Nettogewicht je Transportbehälter erlaubt.</td></tr>
-<tr><td>1079</td><td>SCHWEFELDIOXID</td><td>2</td><td>2TC</td><td></td><td>2.3+8</td><td>Max. 1000 kg Nettogewicht je Transportbehälter erlaubt.</td></tr>
-<tr><td></td><td>Explosive Stoffe und Gegenstände mit Explosivstoff</td><td>1</td><td></td><td></td><td></td><td>Bei Beförderung in MEMU: Zulassungen des ASTRA nach Absatz 7.5.5.2.3 ADR erforderlich.</td></tr>
+<tr><th>Regelungsbereich</th><th>ADR-Nummer</th><th>Vorschrift</th></tr>
+<tr><td>Liste gefährlicher Güter, die nur unter besonderen Auflagen transportiert werden dürfen</td><td></td><td>Einschränkendere Bestimmungen der Anhänge 1 und 2 sind zu beachten. UN-Nr. Name und Beschreibung Klasse Klassifizierungscode Verpackungsgruppe Gefahrzettel Auflage 3.1.2 ADR 2.2 ADR 2.2 ADR 2.1.1.3 ADR 5.2.2 ADR 1017 CHLOR 2 2TOC 2.3+5.1+8 Max. 1000 kg Nettomasse je Transportbehälter erlaubt. 1076 PHOSGEN 2 2TC 2.3+8 Max. 1000 kg Nettomasse je Transportbehälter erlaubt. 1079 SCHWEFEL-DIOXID 2 2TC 2.3+8 Max. 1000 kg Nettomasse je Transportbehälter erlaubt. Explosive Stoffe und Gegenstände mit Explosivstoff 1 Bei Beförderung in MEMU: Zulassungen des ASTRA nach Absatz 7.5.5.2.3 ADR erforderlich.</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: Ordinanza del 29 novembre 2002 concernente il trasporto di merci pericolo
 short: SDR
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/685"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2002-11-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/685/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2002-685-20250101-it-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/685/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2002-685-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/685/20250101/it"
 
 (SDR)
 
-del 29 novembre 2002 (Stato 1° gennaio 2025)
+del 29 novembre 2002 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 30 capoverso 5[^ingress-1], 103 e 106 della legge federale de
 
 ordina:
 
-[^ingress-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
-[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° lug. 2016.
+[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6535](https://fedlex.data.admin.ch/eli/oc/2012/782)).
 
 ## Sezione 1: Disposizioni generali
@@ -53,7 +53,7 @@ La presente ordinanza si applica:
 
 Per quanto riguarda la designazione, i compiti, la formazione e l’esame degli addetti alla sicurezza, le imprese che trasportano, imballano, riempiono, spediscono, caricano o scaricano merci pericolose sottostanno inoltre alle disposizioni contenute nell’ordinanza del 15 giugno 2001[^2-1] sugli addetti alla sicurezza (OSAS).
 
-[^2-1]: [RS 741.622](https://fedlex.data.admin.ch/eli/cc/2001/268)
+[^2-1]: [RS 741.622](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8692)
 
 #### Art. 3
 
@@ -67,11 +67,11 @@ Nella presente ordinanza e nei suoi allegati sono utilizzate le seguenti abbrevi
 - d. OETV per l’ordinanza del 19 giugno 1995[^3-4] concernente le esigenze tecniche per i veicoli stradali;
 - e. ADR per l’Accordo del 30 settembre 1957[^3-5] concernente il trasporto internazionale di merci pericolose su strada e per i suoi allegati;
 
-[^3-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^3-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
-[^3-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^3-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3-5]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^3-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^3-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^3-3]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^3-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^3-5]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 #### Art. 4
 
@@ -81,7 +81,7 @@ Nella presente ordinanza e nei suoi allegati sono utilizzate le seguenti abbrevi
 
 <sup>2</sup> L’Ufficio federale delle strade (USTRA) tiene un elenco degli altri accordi internazionali ai quali la Svizzera ha aderito nel quadro dell’ADR.[^4-2]
 
-[^4-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^4-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2009 ([RU 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)).
 
 #### Art. 5
@@ -94,7 +94,7 @@ Nella presente ordinanza e nei suoi allegati sono utilizzate le seguenti abbrevi
 
 <sup>3</sup> Esso può convenire con le autorità competenti di altre Parti contraenti l’ADR deroghe temporanee secondo la sezione 1.5.1 dell’ADR.[^5-3]
 
-[^5-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^5-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 [^5-2]: Nuova espr. giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2009 ([RU 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^5-3]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6535](https://fedlex.data.admin.ch/eli/oc/2012/782)).
 
@@ -176,7 +176,7 @@ Per i tratti stradali di cui al capoverso 2 possono essere rilasciati permessi s
 
 <sup>3</sup> Nelle gallerie munite del segnale «Galleria» (4.07; art. 45 cpv. 3 OSStr) i veicoli soggetti all’obbligo del contrassegno, che trasportano merci pericolose, devono circolare esclusivamente sulla corsia di destra.
 
-[^13-1]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^13-1]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^13-2]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2009 ([RU 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)).
 [^13-3]: Introdotto dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2009 ([RU 2009 4243](https://fedlex.data.admin.ch/eli/oc/2009/519)).
 
@@ -186,7 +186,7 @@ Per i tratti stradali di cui al capoverso 2 possono essere rilasciati permessi s
 
 Tutti i veicoli a motore e gli autotreni necessitano, per il trasporto di merci pericolose non esenti da autorizzazione, della speciale copertura assicurativa prescritta nell’articolo 12 capoverso 1 OAV[^14-1].
 
-[^14-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^14-1]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 15
 
@@ -209,7 +209,7 @@ Le persone che rientrano nel campo d’applicazione della presente ordinanza dev
 Le comunicazioni e la collaborazione con l’UE sono rette dall’ordinanza del 28 marzo 2007[^17-2] sul controllo della circolazione stradale.
 
 [^17-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2189](https://fedlex.data.admin.ch/eli/oc/2007/304)).
-[^17-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^17-2]: [RS 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 
 #### Art. 18
 
@@ -218,7 +218,7 @@ Le comunicazioni e la collaborazione con l’UE sono rette dall’ordinanza del 
 I rapporti sono retti dall’ordinanza del 28 marzo 2007[^18-2] sul controllo della circolazione stradale.
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2189](https://fedlex.data.admin.ch/eli/oc/2007/304)).
-[^18-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^18-2]: [RS 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 
 ## Sezione 3: Disposizioni penali
 
@@ -292,12 +292,12 @@ Se, per un reato contemplato nella presente ordinanza, una legge federale commin
 
 <sup>4</sup> In occasione dei controlli annuali prescritti per i veicoli adibiti al trasporto di merci pericolose (cfr. art. 33 OETV)[^25-6], le cisterne fisse, come pure i loro equipaggiamenti menzionati nella licenza di circolazione, devono essere controllati visualmente.
 
-[^25-1]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^25-1]: [RS 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 [^25-2]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2189](https://fedlex.data.admin.ch/eli/oc/2007/304)).
 [^25-3]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6537](https://fedlex.data.admin.ch/eli/oc/2012/783)).
-[^25-4]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+[^25-4]: [RS 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
 [^25-5]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6537](https://fedlex.data.admin.ch/eli/oc/2012/783)).
-[^25-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^25-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 26
 
@@ -355,30 +355,25 @@ Appendice 1[^t-1]
 
 ## Disposizioni che si applicano soltanto ai trasporti nazionali
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 set. 2018 ([RU 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Aggiornato dalla cifra I delle O del DATEC del 15 set. 2020 ([RU 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)), del 20 set. 2022 ([RU 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)) e del 19 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 set. 2018 ([RU 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Aggiornata dalle cifre I delle O del DATEC del 15 set. 2020 ([RU 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)), del 20 set. 2022 ([RU 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)), del 19 ago. 2024 ([RU 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)) e dalla cifra I cpv. I dell’O del DATEC del 21 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 525](https://fedlex.data.admin.ch/eli/oc/2026/525)).
 
 <table>
 <tr><th>Campo normativo[^annex1-lvlu1-1]</th><th>Numero ADR[^annex1-lvlu1-2]</th><th>Disposizione</th></tr>
 <tr><td colspan="3">Parte 1: Disposizioni generali</td></tr>
 <tr><td>Cap. 1.1: Campo d’applicazione e applicabilità 1.1.3 Esenzioni 1.1.3.1 Esenzioni relative alla natura dell’operazione di trasporto</td><td></td><td></td></tr>
-<tr><td>1.1.3.1 lett. a</td><td>1.1.3.1 a)</td><td>L’esenzione secondo la sottosezione 1.1.3.1 a) ADR vale soltanto fino alle quantità massime ammesse per unità di trasporto elencate di seguito: – categoria di trasporto 0: 0 – categoria di trasporto 1: 1 – categoria di trasporto 2: 100 – categoria di trasporto 3 e 4: 300 – quantità massime che si discostano da quelle delle corrispondenti categorie di trasporto: classe 4.3: 0 materie appartenenti al gruppo d’imballaggio I classe 1: 1 materie 1.1C–1.5D e oggetti 1.1B e 1.2B classe 4.2: materie appartenenti al gruppo d’imballaggio II classe 4.3: materie appartenenti al gruppo d’imballaggio II e III e non comprese nella categoria «quantità massima ammessa 0» classe 1: 5 oggetti 1.1C–1.1J, 1.2C–1.2J, 1.3C–1.3J, 1.4B–1.4S, 1.6N classe 4.1: N° ONU 3225–3230, 3531 e 3532 classe 5.1: materie appartenenti al gruppo d’imballaggio II classe 5.2: N° ONU 3105–3110 Per «quantità massima ammessa per unità di trasporto» s’intende: – per gli oggetti: la massa totale in kg degli oggetti senza imballaggio (per gli oggetti della classe 1: la massa netta in kg della materia esplosiva; per le merci pericolose contenute nelle apparecchiature e attrezzature di cui all’allegato A ADR: la quantità totale in kg o in l delle merci pericolose contenute); – per le materie solide, i gas liquefatti, i gas liquefatti refrigerati e i gas disciolti sotto: la massa netta in kg; – per le materie liquide: la quantità totale di merci pericolose contenute, in litri; – per i gas compressi, i gas adsorbiti e i prodotti chimici sotto pressione: la capacità in acqua del recipiente, in litri. [tab] Quando merci pericolose appartenenti a diverse categorie di trasporto sono trasportate nella stessa unità di trasporto, la somma: – della quantità di materie e oggetti della categoria «quantità massima ammessa 1» moltiplicata per 300, – della quantità di materie e oggetti della categoria «quantità massima ammessa 5» moltiplicata per 60, – della quantità di materie e oggetti della categoria «quantità massima ammessa 100» moltiplicata per 3, e – della quantità di materie e oggetti della categoria «quantità massima ammessa 300» non deve superare un valore calcolato 300.</td></tr>
+<tr><td>1.1.3.1 lett. a</td><td>1.1.3.1 a)</td><td>L’esenzione secondo la sottosezione 1.1.3.1 a) ADR vale soltanto fino alle quantità massime ammesse per unità di trasporto elencate di seguito: Categoria di trasporto secondo l’ADR Quantità massima ammessa categoria di trasporto 0 0 categoria di trasporto 1 1 categoria di trasporto 2 100 categorie di trasporto 3 e 4 300 Quantità massime che si discostano da quelle delle corrispondenti categorie di trasporto: Classe Materie/Oggetti Quantità massima ammessa 4.3 materie appartenenti al gruppo d’imballaggio I 0 1 materie 1.1C–1.5D e oggetti 1.1B e 1.2B 1 4.2 materie appartenenti al gruppo d’imballaggio II 1 4.3 materie appartenenti al gruppo d’imballaggio II e III purché non assegnate alla categoria «quantità massima ammessa 0» 1 1 oggetti 1.1C–1.1J, 1.2C–1.2J, 1.3C–1.3J, 1.4B–1.4S, 1.6N 5 4.1 N° ONU 3225–3230, 3531 e 3532 5 5.1 materie appartenenti al gruppo d’imballaggio II 5 5.2 N° ONU 3105–3110 5 Per «quantità massima ammessa per unità di trasporto» s’intende: – per gli oggetti, la massa totale in kg degli oggetti senza imballaggio (per gli oggetti della classe 1 la massa netta in kg della materia esplosiva; per le merci pericolose contenute nelle apparecchiature e attrezzature di cui all’allegato A ADR la quantità totale in kg o in litri delle merci pericolose contenute); – per le materie solide, i gas liquefatti, i gas liquefatti refrigerati e i gas disciolti, la massa netta in kg; – per le materie liquide, la quantità totale di merci pericolose contenute, in litri; – per i gas compressi, i gas adsorbiti e i prodotti chimici sotto pressione, la capacità in acqua del recipiente in litri. Quando merci pericolose assegnate a categorie di trasporto diverse sono trasportate nella stessa unità di trasporto, la somma dei seguenti valori non deve superare 300: – quantità di materie e oggetti della categoria «quantità massima ammessa 1» moltiplicata per 300; – quantità di materie e oggetti della categoria «quantità massima ammessa 5» moltiplicata per 60; – quantità di materie e oggetti della categoria «quantità massima ammessa 100» moltiplicata per 3; – quantità di materie e oggetti della categoria «quantità massima ammessa 300».</td></tr>
 <tr><td>1.1.3.1 lett. c</td><td>1.1.3.1 c)</td><td>Gli imballaggi elencati nella sottosezione 1.1.3.1 c) ADR, inclusi i contenitori intermedi per il trasporto alla rinfusa (IBC) e i grandi imballaggi di capacità superiore a 450 litri, devono essere conformi alle disposizioni concernenti l’imballaggio, il controllo, l’approvazione e la marcatura di cui alle parti 4 e 6 ADR.</td></tr>
 <tr><td>1.1.3.6 Esenzioni relative alle quantità trasportate per unità di trasporto</td><td></td><td></td></tr>
 <tr><td>1.1.3.6.2</td><td>1.1.3.6.2</td><td>Nel caso di trasporti per i quali valgono le esenzioni di cui alla sottosezione 1.1.3.6 ADR, non trovano applicazione le seguenti disposizioni: – l’assicurazione responsabilità civile aumentata, – le disposizioni relative alla sosta e al parcheggio della presente appendice (n. 8.4.3); vanno rispettate le limitazioni del traffico (art. 13).</td></tr>
-<tr><td>1.1.3.6.6 Esenzioni per cisterne vuote, non ripulite, per la revisione di impianti di stoccaggio</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Le imprese che effettuano revisioni di impianti di stoccaggio con liquidi pericolosi per l’ambiente acquatico possono trasportare le cisterne vuote, non ripulite, usate come contenitori durante gli interventi alle cisterne stazionarie, in deroga alle prescrizioni della presente ordinanza come segue: a. Cisterne e veicoli Le cisterne non sono soggette né alle prescrizioni sull’uso di cui ai capitoli 4.3 e 4.4 ADR né alle disposizioni concernenti la costruzione, l’equipaggiamento, l’approvazione del prototipo, il controllo e la marcatura di cui ai capitoli 6.8 e 6.9 ADR. I veicoli non sottostanno alle prescrizioni relative alla costruzione e all’approvazione dei veicoli della parte 9 ADR. b. Placcatura I due lati e ogni estremità delle cisterne devono essere muniti di placche secondo il capitolo 5.3 ADR. Se le placche così apposte non sono visibili all’esterno del veicolo portante, occorre apporne altre anche su entrambe le fiancate e sulla parte posteriore del veicolo. Se il veicolo portante è un rimorchio, quest’ultimo deve essere munito di placca anche sulla parte anteriore. c. Pannelli arancioni Sulla parte anteriore e posteriore del veicolo portante deve essere apposto un pannello di segnalazione arancione senza numero d’identificazione del pericolo secondo il punto 5.3.2.1.1 ADR. Si può rinunciare alla marcatura del veicolo portante o del rimorchio qualora non venga trasportata alcuna cisterna. d. Trasporto di merci pericolose aggiuntive È permesso trasportare aggiuntivamente merci pericolose in colli approvati, marcati ed etichettati nei limiti della quantità massima riportata nella tabella 1.1.3.6.3 ADR. e. Formazione Il conducente del veicolo è esentato dalla formazione di cui alla sezione 8.2.1. ADR. Tutte le altre prescrizioni della presente ordinanza rimangono applicabili.</td></tr>
+<tr><td>1.1.3.6.6 Esenzioni per cisterne vuote, non ripulite, per la revisione di impianti di stoccaggio</td><td></td><td>Le imprese che effettuano revisioni di impianti di stoccaggio con liquidi pericolosi per l’ambiente acquatico possono trasportare cisterne vuote, non ripulite, usate come contenitori durante gli interventi alle cisterne stazionarie, in deroga alle prescrizioni della presente ordinanza come segue: a. Cisterne e veicoli Le cisterne non sono soggette né alle prescrizioni sull’uso di cui ai capitoli 4.3 e 4.4 ADR né alle disposizioni concernenti la costruzione, l’equipaggiamento, l’approvazione del prototipo, il controllo e la marcatura di cui ai capitoli 6.8 e 6.9 ADR. I veicoli non sottostanno alle prescrizioni relative alla costruzione e all’approvazione dei veicoli della parte 9 ADR. b. Placcatura I due lati e ogni estremità delle cisterne devono essere muniti di placche secondo il capitolo 5.3 ADR. Se le placche così apposte non sono visibili all’esterno del veicolo portante, occorre apporne altre anche su entrambe le fiancate e sulla parte posteriore del veicolo. Se il veicolo portante è un rimorchio, quest’ultimo deve essere munito di placca anche sulla parte anteriore. c. Pannelli arancioni Sulla parte anteriore e posteriore del veicolo portante deve essere apposto un pannello arancione senza numero d’identificazione del pericolo secondo il punto 5.3.2.1.1 ADR. Si può rinunciare alla marcatura del veicolo trattore o del rimorchio qualora non venga trasportata alcuna cisterna. d. Trasporto di merci pericolose aggiuntive È consentito trasportare merci pericolose aggiuntive oltre alle cisterne in conformità con le esenzioni applicabili. e. Formazione Il conducente del veicolo è esentato dalla formazione di cui alla sezione 8.2.1 ADR. Tutte le altre prescrizioni della presente ordinanza rimangono applicabili.</td></tr>
 <tr><td>1.1.3.11 Esenzioni per rifiuti domestici 1.1.3.11.1 Rifiuti domestici contenenti merci pericolose identificabili</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>In deroga alle disposizioni dell’ADR relative all’imballaggio, all’imballaggio in comune, all’etichettatura, alla marcatura e alla classificazione, i rifiuti domestici contenenti merci pericolose identificabili possono essere trasportati dai centri di raccolta agli impianti di smaltimento alle seguenti condizioni: a. un esperto autorizzato dalle autorità competenti deve esaminare e classificare questi rifiuti secondo le caratteristiche di pericolosità, tenendo conto delle misure in caso di incidente o evento imprevisto. Se non è possibile classificare con certezza una materia, l’esperto attribuisce una classe provvisoria, una designazione ufficiale di trasporto e un numero ONU sulla base delle informazioni in possesso dello speditore. A tale scopo applica i criteri di classificazione di cui al capitolo 2.2 ADR e i principi secondo i punti 2.1.3.5.2–2.1.3.5.5 ADR. La classificazione deve tenere in considerazione il pericolo preponderante; è ammesso il ricorso a una rubrica n.a.s. adatta; b. l’esperto deve imballare i rifiuti in appositi recipienti di raccolta. La marcatura e l’etichettatura dei singoli imballaggi non sono necessarie qualora i recipienti di raccolta siano già etichettati e marcati; c. l’esperto impartisce le istruzioni del caso al conducente; d. il documento di trasporto deve riportare la dicitura «Trasporto secondo 1.1.3.11.1 appendice 1 SDR». Non è necessario indicare la denominazione tecnica secondo la sottosezione 3.1.2.8 ADR, mentre le informazioni di cui al punto 5.4.1.1.1 e) ADR si possono limitare alla quantità lorda e al numero di recipienti di raccolta.</td></tr>
-<tr><td>1.1.3.11.2 Rifiuti domestici contenenti merci pericolose non identificabili</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>In deroga alle disposizioni dell’ADR relative all’imballaggio, all’imballaggio in comune, all’etichettatura, alla marcatura e alla classificazione, i rifiuti domestici contenenti merci pericolose che non possono essere classificate dall’esperto secondo il numero 1.1.3.11.1 lettera a, possono essere trasportati dai centri di raccolta agli impianti di smaltimento, alle seguenti condizioni: a. i rifiuti possono essere trasportati in quantità non superiore a 50 kg o l per unità di trasporto in colli che soddisfano i requisiti di prova del gruppo di imballaggio II; b. se i colli sono imballati come imballaggio interno di un ulteriore imballaggio esterno che soddisfa i requisiti di prova del gruppo di imballaggio II, la quantità per unità di trasporto può essere aumentata fino a 300 kg o l; c. i colli devono recare le etichette di pericolo secondo i modelli 3, 6.1, 8 e 9 nonché la scritta, apposta in modo durevole e in luogo ben visibile, «Merce pericolosa non identificata»; d. si deve portare con sé un documento di accompagnamento contenente almeno le seguenti indicazioni: – la dicitura: «Trasporto secondo 1.1.3.11.2 appendice 1 SDR»; – il nome e l’indirizzo dello o degli speditori; – il nome e l’indirizzo del o dei destinatari; – il numero e il peso dei colli.</td></tr>
-<tr><td>1.1.3.12 Esenzioni per la riconsegna di fuochi pirotecnici</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Per le esenzioni secondo la sottosezione 1.1.3.6 ADR e il numero 1.1.3.6 della presente appendice è determinante la quantità riportata nel documento di trasporto anche per la riconsegna di fuochi pirotecnici. Il documento di trasporto deve contenere l’indicazione «Riconsegna di fuochi pirotecnici secondo 1.1.3.12 appendice 1 SDR». Per la riconsegna dei fuochi pirotecnici dei N° ONU 0335, 0336 e 0337 dai negozi di vendita al dettaglio ai fornitori vale una delle due seguenti disposizioni: a. come massa netta totale dei contenuti di materia esplosiva, in deroga alle disposizioni di cui al punto 5.4.1.2.1 a) ADR, si può riportare il valore del documento di trasporto della consegna o la massa lorda dei colli; b. i fuochi pirotecnici possono essere trasportati in deroga alle prescrizioni dell’ADR secondo la classificazione «N° ONU 0335»; in deroga alle disposizioni di cui al punto 5.4.1.2.1 a) ADR, per tutte le materie e gli oggetti si può riportare come massa netta totale il valore del documento di trasporto della consegna o la massa lorda dei colli.</td></tr>
-<tr><td>Cap. 1.3: Formazione delle persone addette al trasporto di merci pericolose 1.3.3 Documentazione</td><td></td><td></td></tr>
-<tr><td></td><td>1.3.3</td><td>La documentazione dettagliata relativa alla formazione ricevuta ai sensi del capitolo 1.3 ADR deve essere conservata per almeno 5 anni.</td></tr>
-<tr><td>Cap. 1.5: Deroghe 1.5.3 Deroghe per le consegne militari</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Per le consegne militari sono applicabili le disposizioni relative ai trasporti militari su strada.</td></tr>
+<tr><td>1.1.3.11.2 Rifiuti domestici contenenti merci pericolose non identificabili</td><td></td><td>In deroga alle disposizioni dell’ADR relative all’imballaggio, all’imballaggio in comune, all’etichettatura, alla marcatura e alla classificazione, i rifiuti domestici contenenti merci pericolose che non possono essere classificate dall’esperto secondo il numero 1.1.3.11.1 lettera a, possono essere trasportati dai centri di raccolta agli impianti di smaltimento, alle seguenti condizioni: a. i rifiuti possono essere trasportati in quantità non superiore a 50 kg o l per unità di trasporto in colli che soddisfano i requisiti di prova del gruppo di imballaggio II; b. se i colli sono imballati come imballaggio interno di un ulteriore imballaggio esterno che soddisfa i requisiti di prova del gruppo di imballaggio II, la quantità per unità di trasporto può essere aumentata fino a 300 kg o l; c. i colli devono recare le etichette di pericolo secondo i modelli 3, 6.1, 8 e 9 nonché la scritta, apposta in modo durevole e in luogo ben visibile, «Merce pericolosa non identificata»; d. si deve portare con sé un documento di accompagnamento contenente almeno le seguenti indicazioni: – la dicitura: «Trasporto secondo 1.1.3.11.2 appendice 1 SDR»; – il nome e l’indirizzo dello o degli speditori; – il nome e l’indirizzo del o dei destinatari; – il numero e il peso dei colli.</td></tr>
+<tr><td>1.1.3.11.2 Rifiuti domestici contenenti merci pericolose non identificabili</td><td></td><td>In deroga alle disposizioni dell’ADR relative all’imballaggio, all’imballaggio in comune, all’etichettatura, alla marcatura e alla classificazione, i rifiuti domestici contenenti merci pericolose che non possono essere classificate dall’esperto secondo il numero 1.1.3.11.1 lettera a possono essere trasportati dai centri di raccolta agli impianti di smaltimento purché: a. i rifiuti siano trasportati in quantità non superiori a 50 kg o l per unità di trasporto in colli che soddisfano i requisiti di prova del gruppo di imballaggio II; se i colli sono imballati come imballaggio interno di un ulteriore imballaggio esterno che soddisfa i requisiti di prova del gruppo di imballaggio II, la quantità massima per unità di trasporto è 300 kg o l; b. i colli rechino le etichette di pericolo secondo i modelli 3, 6.1, 8 e 9 nonché la scritta, apposta in modo durevole e in luogo ben visibile, «Merce pericolosa non identificata»; c. venga portato con sé un documento di accompagnamento contenente almeno le seguenti indicazioni: – la dicitura: «Trasporto secondo 1.1.3.11.2 appendice 1 SDR»; – il nome e l’indirizzo dello o degli speditori; – il nome e l’indirizzo del o dei destinatari; – il numero e la massa dei colli.</td></tr>
+<tr><td>Cap. 1.3: Formazione delle persone addette al trasporto di merci pericolose 1.3.3 Documentazione</td><td>1.3.3</td><td>La documentazione dettagliata relativa alla formazione ricevuta ai sensi del capitolo 1.3 ADR deve essere conservata per almeno 5 anni.</td></tr>
+<tr><td>Cap. 1.5: Deroghe 1.5.3 Deroghe per le consegne militari</td><td></td><td>Per le consegne militari sono applicabili le disposizioni relative ai trasporti militari su strada.</td></tr>
 <tr><td>Cap. 1.6: Misure transitorie 1.6.1 Varia</td><td></td><td></td></tr>
-<tr><td>1.6.1.1</td><td>1.6.1.1</td><td>Le materie e gli oggetti possono essere trasportati fino al 30 giugno 2025 secondo le disposizioni in vigore fino al 31 dicembre 2024.</td></tr>
+<tr><td>1.6.1.1</td><td>1.6.1.1</td><td>Le materie e gli oggetti possono essere trasportati fino al 30 giugno 2027 secondo le disposizioni in vigore fino al 31 dicembre 2026.</td></tr>
 <tr><td>1.6.1.44</td><td>1.6.1.44</td><td>*Abrogato*</td></tr>
 <tr><td>1.6.3 Cisterne fisse (veicoli-cisterna), cisterne smontabili e veicoli batteria</td><td></td><td></td></tr>
 <tr><td>1.6.3.30*a*</td><td></td><td>Le cisterne per rifiuti operanti sotto vuoto previste per il trasporto di rifiuti pericolosi ai sensi della sezione 1.2.1 ADR, costruite prima del 1° gennaio 1999 secondo le Norme EMPA[^annex1-lvlu1-3] in vigore fino al 31 dicembre 1998, ma che non soddisfano le disposizioni del capitolo 6.10 ADR applicabili dal 1° gennaio 1999, possono continuare a essere utilizzate. Queste attrezzature sottostanno alle prescrizioni tecniche delle Norme EMPA, eccezion fatta per le prescrizioni che riguardano gli intervalli fra i controlli periodici. Esse sono soggette alle frequenze dei controlli prescritte dalla sezione 6.10.4 ADR.</td></tr>
@@ -400,37 +395,29 @@ Appendice 1[^t-1]
 <tr><td>Cap. 3.3: Disposizioni speciali applicabili ad alcune materie o oggetti</td><td></td><td></td></tr>
 <tr><td>DS 363</td><td>DS 363</td><td>L’esenzione si applica solo ai macchinari e dispositivi che sottostanno alla legge federale del 12 giugno 2009[^annex1-lvlu1-5] sulla sicurezza dei prodotti.</td></tr>
 <tr><td colspan="3">Parte 4: Utilizzazione di imballaggi, di contenitori intermedi per il trasporto alla rinfusa (IBC), di grandi imballaggi e di cisterne</td></tr>
-<tr><td>Cap. 4.1: Utilizzazione di imballaggi, compresi i contenitori intermedi per il trasporto alla rinfusa (IBC) e i grandi imballaggi 4.1.1 Disposizioni generali relative all’imballaggio di merci pericolose, in imballaggi, compresi gli IBC e i grandi imballaggi 4.1.1.22 Trasporto di imballaggi cominciati</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Nel caso di trasporti a cui fa riferimento la sottosezione 7.5.2.2, nota a piè di pagina a dell’ADR, le materie esplosive ammesse a fini di brillamento secondo l’OEspl, che si trovano in imballaggi cominciati, devono essere trasportate in recipienti chiusi secondo l’allegato 11.2 OEspl. I recipienti devono essere omologati in base al capitolo 6.1 ADR e autorizzati per il trasporto di questi esplosivi. Le prescrizioni del punto 2.2.1.1.6 nota 3 ADR, devono essere rispettate.</td></tr>
+<tr><td>Cap. 4.1: Utilizzazione di imballaggi, compresi i contenitori intermedi per il trasporto alla rinfusa (IBC) e i grandi imballaggi 4.1.1 Disposizioni generali relative all’imballaggio di merci pericolose, in imballaggi, compresi gli IBC e i grandi imballaggi</td><td></td><td></td></tr>
+<tr><td>4.1.1.22 Trasporto di imballaggi cominciati</td><td></td><td>Nel caso di trasporti a cui fa riferimento la sottosezione 7.5.2.2, nota a piè di pagina a dell’ADR, le materie esplosive ammesse a fini di brillamento secondo l’OEspl, che si trovano in imballaggi cominciati, devono essere trasportate in recipienti chiusi secondo l’allegato 11.2 OEspl. I recipienti devono essere omologati in base al capitolo 6.1 ADR e autorizzati per il trasporto di questi esplosivi. Le prescrizioni del punto 2.2.1.1.6 nota 3 ADR, devono essere rispettate.</td></tr>
 <tr><td>4.1.4 Lista delle istruzioni d’imballaggio 4.1.4.1 Istruzioni concernenti l’uso degli imballaggi (esclusi i contenitori intermedi per il trasporto alla rinfusa (IBC) e i grandi imballaggi)</td><td></td><td></td></tr>
 <tr><td>P 200 numero 9</td><td>Istruzione d’imballaggio P 200 (9)</td><td>(9) I recipienti per i gas dei codici di classificazione 1A e 1O utilizzati dai sommozzatori devono essere sottoposti ogni due anni e mezzo a un’ispezione visiva e ogni cinque anni a un esame periodico completo.</td></tr>
 <tr><td>Cap. 4.8: Uso dei container-cisterna di cantiere</td><td></td><td></td></tr>
-<tr><td>4.8.1 Uso</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Nei container-cisterna di cantiere può essere trasportato soltanto carburante diesel (UN 1202).</td></tr>
-<tr><td>4.8.2 Volume utile</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Il volume utile massimo indicato del 95 % della capacità non può essere superato, anche quando non è raggiunto il grado di riempimento ammesso di cui alla sottosezione 4.3.2.2 ADR.</td></tr>
+<tr><td>4.8.1 Uso</td><td></td><td>Nei container-cisterna di cantiere può essere trasportato soltanto carburante diesel (UN 1202).</td></tr>
+<tr><td>4.8.2 Volume utile</td><td></td><td>Il volume utile massimo indicato del 95 % della capacità non può essere superato, anche quando non è raggiunto il grado di riempimento ammesso di cui alla sottosezione 4.3.2.2 ADR.</td></tr>
 <tr><td colspan="3">Parte 5: Procedure di spedizione</td></tr>
 <tr><td>Cap. 5.4: Documentazione</td><td></td><td></td></tr>
 <tr><td>5.4.0.2</td><td>5.4.0.2</td><td>I documenti che devono trovarsi a bordo del veicolo durante il trasporto soddisfano i requisiti della sottosezione 5.4.0.2 ADR e sono ammessi in forma elettronica se sono soddisfatte le seguenti condizioni: a. è utilizzato un terminale portatile. Questo è trasportato nella cabina di guida in modo facilmente accessibile e sufficientemente sicuro. Per il trasporto in cisterne o alla rinfusa di fino a tre tipi di merci pericolose non soggette alle prescrizioni di marcatura di cui al punto 5.3.2.1.2 o 5.3.2.1.4 ADR è ammesso anche un terminale fisso; b. lo schermo del terminale misura almeno 10 pollici e le informazioni visualizzate sullo schermo corrispondono, quanto a dimensioni dei caratteri e leggibilità, al formato cartaceo. Sono consentite dimensioni minori ma almeno 3,5 pollici, purché, mediante visualizzazione ottimizzata e strutturata, le informazioni siano chiaramente leggibili. Deve essere garantita la chiara correlazione tra indicazione, nell’ordine prescritto, delle sostanze trasportate e numero e tipologia dei contenitori con indicazione delle quantità; c. i dati del terminale sono salvati in un formato diffuso, in modo da consentire l’identificazione immediata e la consultazione illimitata e completa di tutte le informazioni rilevanti per la durata del trasporto. L’apparecchio è efficacemente protetto da qualsiasi sollecitazione meccanica e costantemente alimentato con sufficiente energia; d. l’utilizzo del terminale è semplice e intuitivo. Le informazioni possono essere assicurate dalle autorità di controllo sul posto tramite strumenti standardizzati. Il conducente assiste, su richiesta, le autorità d’esecuzione o le forze di intervento nell’utilizzo dell’apparecchio; e. sul soffitto della cabina sopra il posto di guida oppure all’interno dello sportello lato conducente sono riportate, in modo chiaramente visibile e in tutte le lingue ufficiali, le istruzioni per accedere alle informazioni elettroniche e precisamente: – posizione del terminale all’interno della cabina, – operazioni da svolgere per la visualizzazione dei documenti, – un’apposita indicazione in caso di presenza a bordo di documenti in formato elettronico per alcune merci e cartaceo per altre. In assenza di documenti elettronici, occorre rimuovere le istruzioni o apporre un’indicazione al riguardo.</td></tr>
 <tr><td>5.4.1 Documento di trasporto per le merci pericolose e informazioni relative 5.4.1.4 Forma e lingua</td><td></td><td></td></tr>
 <tr><td>5.4.1.4.1</td><td>5.4.1.4.1</td><td>Nel caso di trasporti effettuati all’interno del Cantone Ticino, la stesura del documento di trasporto si può limitare alla lingua italiana.</td></tr>
 <tr><td colspan="3">Parte 6: Prescrizioni relative alla costruzione e alle prove di imballaggi, di contenitori intermedi per il trasporto alla rinfusa (IBC), di grandi imballaggi e di cisterne</td></tr>
-<tr><td>Cap. 6.14 Prescrizioni relative alla costruzione, agli equipaggiamenti, all’approvazione del prototipo e ai controlli dei container-cisterna di cantiere 6.14.1.1 In generale 6.14.1.1.1 Definizioni</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>**Container-cisterna di cantiere:** Contenitori di carburanti utilizzati per le operazioni di rifornimento delle macchine per un periodo di tempo limitato. Indipendentemente dalle loro dimensioni, vengono considerati come container-cisterna o cisterne fisse secondo il capitolo 6.8 ADR. I container-cisterna di cantiere sono composti da una cisterna interna e da un recipiente di raccolta chiuso (cisterna esterna). Un container-cisterna o una cisterna fissa che soddisfi integralmente le prescrizioni del capitolo 6.8 ADR non è considerato container-cisterna di cantiere. **Volume utile:** Livello di riempimento massimo ammesso indicato in modo permanente.</td></tr>
-<tr><td>6.14.1.1.2 Campo di applicazione</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Le disposizioni dei numeri 6.14.1.2–6.14.1.4 completano o modificano il capitolo 6.8 ADR e si applicano a container–cisterna di cantiere con capacità superiore a 3000 litri. Per il resto, devono essere rispettate tutte le altre disposizioni del capitolo 6.8 ADR, ad eccezione dei punti 6.8.2.1.3, 6.8.2.1.4, 6.8.2.1.15–6.8.2.1.22, 6.8.2.1.23 concernenti i controlli non distruttivi, 6.8.2.4.3 e 6.8.2.5.2.</td></tr>
-<tr><td>6.14.1.2 Costruzione 6.14.1.2.1 Spessore minimo del serbatoio, calcolo dello spessore</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Le cisterne interne devono essere di acciaio spesso almeno 5 mm. Sono ammessi anche spessori di parete equivalenti secondo la formula di cui al punto 6.8.2.1.18 ADR; le cisterne in acciai inossidabili austenitici devono tuttavia avere uno spessore minimo di 4 mm. Le cisterne esterne devono soddisfare i medesimi requisiti di spessore di parete delle cisterne interne.</td></tr>
-<tr><td>6.14.1.2.2 Dispositivi di protezione</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>I container-cisterna devono essere dotati di un collare o protezione simile costituito di acciaio spesso almeno 5 mm e che superi di almeno 25 mm gli elementi più alti da proteggere.</td></tr>
-<tr><td>6.14.1.2.3 Realizzazione delle saldature</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Tutti i cordoni di saldatura devono essere saldati su entrambi i lati. La lunghezza del cordone di saldatura del collare deve essere almeno pari alla lunghezza totale di quest’ultimo; è ammessa la saldatura su un solo lato o in posizione sfalsata. Non è consentito saldare manicotti e raccordi in ghisa malleabile.</td></tr>
-<tr><td>6.14.1.2.4 Ulteriori requisiti</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>I container-cisterna di cantiere devono essere costruiti in modo tale da poter sempre resistere a una pressione di prova di 0,5 bar. Devono inoltre essere rispettati i requisiti posti dalla legislazione sulla protezione delle acque in relazione alla costruzione e dotazione degli impianti prismatici di stoccaggio in acciaio.</td></tr>
-<tr><td>6.14.1.3 Controlli e ispezioni</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>L’allegato E di cui al punto 5.13.3 della norma EN 12972 (punti 6.8.2.6.1 e 6.8.2.6.2 ADR) non è applicabile. La prova di pressione delle cisterne interne si effettua con una pressione idraulica di prova pari a 0,5 bar. Le cisterne esterne devono essere sottoposte a ispezione visiva.</td></tr>
-<tr><td>6.14.1.4 Marcatura</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>La marcatura dei container-cisterna di cantiere si basa sul capitolo 5.3 dell’ADR.</td></tr>
+<tr><td>Cap. 6.14 Prescrizioni relative alla costruzione, agli equipaggiamenti, all’approvazione del prototipo e ai controlli dei container-cisterna di cantiere 6.14.1.1 In generale</td><td></td><td></td></tr>
+<tr><td>6.14.1.1.1 Definizioni</td><td></td><td>**Container-cisterna di cantiere:** Contenitori di carburanti utilizzati per le operazioni di rifornimento delle macchine per un periodo di tempo limitato. Indipendentemente dalle loro dimensioni, vengono considerati come container-cisterna o cisterne fisse secondo il capitolo 6.8 ADR. I container-cisterna di cantiere sono composti da una cisterna interna e da un recipiente di raccolta chiuso (cisterna esterna). Un container-cisterna o una cisterna fissa che soddisfi integralmente le prescrizioni del capitolo 6.8 ADR non è considerato container-cisterna di cantiere. **Volume utile:** Livello di riempimento massimo ammesso indicato in modo permanente.</td></tr>
+<tr><td>6.14.1.1.2 Campo di applicazione</td><td></td><td>Le disposizioni dei numeri 6.14.1.2–6.14.1.4 completano o modificano il capitolo 6.8 ADR e si applicano a container–cisterna di cantiere con capacità superiore a 3000 litri. Per il resto, devono essere rispettate tutte le altre disposizioni del capitolo 6.8 ADR, ad eccezione dei punti 6.8.2.1.3, 6.8.2.1.4, 6.8.2.1.15–6.8.2.1.22, 6.8.2.1.23 concernenti i controlli non distruttivi, 6.8.2.4.3 e 6.8.2.5.2.</td></tr>
+<tr><td>6.14.1.2 Costruzione</td><td></td><td></td></tr>
+<tr><td>6.14.1.2.1 Spessore minimo del serbatoio, calcolo dello spessore</td><td></td><td>Le cisterne interne devono essere di acciaio spesso almeno 5 mm. Sono ammessi anche spessori di parete equivalenti secondo la formula di cui al punto 6.8.2.1.18 ADR; le cisterne in acciai inossidabili austenitici devono tuttavia avere uno spessore minimo di 4 mm. Le cisterne esterne devono soddisfare i medesimi requisiti di spessore di parete delle cisterne interne.</td></tr>
+<tr><td>6.14.1.2.2 Dispositivi di protezione</td><td></td><td>I container-cisterna devono essere dotati di un collare o protezione simile costituito di acciaio spesso almeno 5 mm e che superi di almeno 25 mm gli elementi più alti da proteggere.</td></tr>
+<tr><td>6.14.1.2.3 Realizzazione delle saldature</td><td></td><td>Tutti i cordoni di saldatura devono essere saldati su entrambi i lati. La lunghezza del cordone di saldatura del collare deve essere almeno pari alla lunghezza totale di quest’ultimo; è ammessa la saldatura su un solo lato o in posizione sfalsata. Non è consentito saldare manicotti e raccordi in ghisa malleabile.</td></tr>
+<tr><td>6.14.1.2.4 Ulteriori requisiti</td><td></td><td>I container-cisterna di cantiere devono essere costruiti in modo tale da poter sempre resistere a una pressione di prova di 0,5 bar. Devono inoltre essere rispettati i requisiti posti dalla legislazione sulla protezione delle acque in relazione alla costruzione e dotazione degli impianti prismatici di stoccaggio in acciaio.</td></tr>
+<tr><td>6.14.1.3 Controlli e ispezioni</td><td></td><td>L’allegato E di cui al punto 5.13.3 della norma EN 12972 (punti 6.8.2.6.1 e 6.8.2.6.2 ADR) non è applicabile. La prova di pressione delle cisterne interne si effettua con una pressione idraulica di prova pari a 0,5 bar. Le cisterne esterne devono essere sottoposte a ispezione visiva.</td></tr>
+<tr><td>6.14.1.4 Marcatura</td><td></td><td>La marcatura dei container-cisterna di cantiere si basa sul capitolo 5.3 dell’ADR.</td></tr>
 <tr><td colspan="3">Parte 7: Disposizioni concernenti le condizioni di trasporto, il carico, lo scarico e la movimentazione</td></tr>
 <tr><td>Cap. 7.4: Disposizioni relative al trasporto in cisterne</td><td></td><td></td></tr>
 <tr><td>7.4.1</td><td>7.4.1</td><td>Qualora per vincoli locali o caratteristiche morfologiche del territorio il trasporto di carburante diesel, gasolio o gasolio da riscaldamento, soggetti alle disposizioni speciali 640L o 640M in base alla sezione 3.2.1 tabella A ADR, non sia consentito con veicoli delle categorie N e O previste dalle norme UE, è ammesso dietro apposita autorizzazione dell’autorità cantonale se effettuato in cisterne su carri con motore (art. 11 cpv. 2 lett. g OETV[^annex1-lvlu1-6]) conformi a quanto previsto dal numero 9.1.2 della presente appendice.</td></tr>
@@ -442,34 +429,31 @@ Appendice 1[^t-1]
 <tr><td>Cap. 8.1: Prescrizioni generali relative alle unità di trasporto e al materiale di bordo 8.1.2 Documenti di bordo</td><td></td><td></td></tr>
 <tr><td>8.1.2.1 lett. a</td><td>8.1.2.1 a)</td><td>Possono essere trasportati senza documento di trasporto: – gli imballaggi vuoti, non ripuliti, della categoria 4 ad eccezione del N° ONU 3509; – le bombole, piene o vuote, per apparecchi di protezione respiratoria dei servizi di soccorso e per immersione (cl. 2 N° ONU 1002, codice di classificazione 1A e N° ONU 3156, codice di classificazione 1O).</td></tr>
 <tr><td>8.1.2.1 lett. d</td><td>8.1.2.1 d)</td><td>I documenti di cui alla sottosezione 1.10.1.4 ADR, che ogni membro dell’equipaggio deve recare con sé, devono essere certificati ufficiali.</td></tr>
-<tr><td>Cap. 8.2: Prescrizioni relative alla formazione dell’equipaggio del veicolo 8.2.1 Campo di applicazione e prescrizioni generali relative alla formazione dei conducenti</td><td></td><td></td></tr>
-<tr><td></td><td>8.2.1</td><td>Senza certificato di formazione ADR è consentito condurre veicoli soggetti all’obbligo del contrassegno soltanto in caso di: a. trasferimento di veicoli in panne; b. corse di prova legate a riparazioni o guasti; c. spostamenti, a bordo di veicoli cisterna o veicoli muniti di batterie fisse per l’alimentazione esterna all’unità di trasporto merci, effettuati per recarsi al controllo obbligatorio del veicolo o della cisterna; d. spostamenti, a bordo di veicoli cisterna o veicoli muniti di batterie fisse per l’alimentazione esterna all’unità di trasporto merci, effettuati da esperti della circolazione in relazione a operazioni di controllo del mezzo..</td></tr>
+<tr><td>Cap. 8.2: Prescrizioni relative alla formazione dell’equipaggio del veicolo</td><td></td><td></td></tr>
+<tr><td>8.2.1 Campo di applicazione e prescrizioni generali relative alla formazione dei conducenti</td><td>8.2.1</td><td>Senza certificato di formazione ADR è consentito condurre veicoli soggetti all’obbligo del contrassegno soltanto in caso di: a. trasferimento di veicoli in panne; b. corse di prova legate a riparazioni o guasti; c. spostamenti, a bordo di veicoli cisterna o veicoli muniti di batterie fisse per l’alimentazione esterna all’unità di trasporto merci, effettuati per recarsi al controllo obbligatorio del veicolo o della cisterna; d. spostamenti, a bordo di veicoli cisterna o veicoli muniti di batterie fisse per l’alimentazione esterna all’unità di trasporto merci, effettuati da esperti della circolazione in relazione a operazioni di controllo del mezzo..</td></tr>
 <tr><td>8.2.1.7 Formazione speciale per i conducenti della classe 7</td><td></td><td></td></tr>
 <tr><td>8.2.1.7.1</td><td></td><td>Ai conducenti di veicoli che trasportano le materie radioattive N° ONU 2912–2919, 2977, 2978 e 3321–3333 si applica la sezione 8.2.1 dell’ADR.</td></tr>
 <tr><td>8.2.1.7.2</td><td></td><td>In sostituzione del corso di base e del corso di specializzazione per la classe 7 secondo l’ADR, i conducenti che trasportano esclusivamente materie della classe 7, e questo unicamente all’interno della Svizzera, possono frequentare un corso di radioprotezione (ambito d’applicazione I 16, conducenti di veicoli che trasportano materie radioattive secondo la SDR, tabella 1 allegato 4 dell’ordinanza del DFI del 26 aprile 2017[^annex1-lvlu1-7] sulla formazione in radioprotezione) e dare l’esame. Il corso deve includere la specializzazione per la classe 7 ed esercitazioni pratiche individuali comprendenti, come minimo, nozioni di pronto soccorso, lotta agli incendi e comportamento in caso di incidente o evento imprevisto. Al superamento dell’esame è rilasciato al conducente un certificato di formazione SDR con la dicitura «Trasporto di materie radioattive secondo 8.2.1.7.2 appendice 1 SDR, valido unicamente per il trasporto in Svizzera». Il certificato è rinnovato per un periodo di cinque anni se, nei dodici mesi precedenti la sua scadenza, il candidato ripete la formazione e supera l’esame.</td></tr>
-<tr><td>8.2.1.8 Formazione dei conducenti titolari di abilitazione al brillamento o all’utilizzazione</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>I titolari di permessi di brillamento o d’uso che riportano le sigle FWB o HA (art. 51 e 52 OEspl) sono autorizzati a trasportare senza certificato di formazione ADR merci pericolose della classe 1. Quest’autorizzazione è tuttavia limitata agli esplosivi e agli oggetti pirotecnici indicati nei permessi rilasciati.</td></tr>
-<tr><td>Cap. 8.4 Prescrizioni relative alla sorveglianza dei veicoli 8.4.3 Sosta e parcheggio 8.4.3.1 Sosta e parcheggio in generale</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>La sosta volontaria e il parcheggio su strada pubblica di un veicolo che trasporta merci soggette alla presente ordinanza sono vietati, salvo per esigenze legate al trasporto stesso, quali il carico, lo scarico, il controllo del veicolo e del carico, l’approvvigionamento del conducente o la presenza di cattive condizioni atmosferiche. Nel limite del possibile, le soste volontarie e i parcheggi prolungati devono essere effettuati in luoghi non accessibili a terzi non autorizzati.</td></tr>
-<tr><td>8.4.3.2 Sosta e parcheggio di notte o in caso di scarsa visibilità</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Quando, di notte o in caso di scarsa visibilità, un veicolo rimane fermo sulla carreggiata per il mancato funzionamento delle luci, devono essere collocati i segnali d’avvertimento di cui alla sezione 8.1.5 ADR davanti e dietro il veicolo a una distanza di 10 m. Inoltre, secondo l’articolo 23 capoverso 2 ONC[^annex1-lvlu1-8], il segnale di veicolo fermo deve essere posto ad almeno 50 m di distanza.</td></tr>
-<tr><td>8.4.3.3 Sosta e parcheggio di un veicolo che costituisce un particolare pericolo</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Se la natura delle merci pericolose trasportate dal veicolo in sosta o in parcheggio comporta un particolare pericolo per gli altri utenti della strada, in particolare in caso di spargimento sulla carreggiata di materie pericolose per i pedoni, gli animali o i veicoli, e se l’equipaggio del veicolo non può rimediare rapidamente a questo pericolo, vanno avvertite immediatamente le autorità competenti più vicine. Inoltre, l’equipaggio del veicolo prenderà le misure prescritte nelle istruzioni alla sezione 5.4.3 ADR.</td></tr>
+<tr><td>8.2.1.8 Formazione dei conducenti titolari di abilitazione al brillamento o all’utilizzazione</td><td></td><td>I titolari di permessi di brillamento o d’uso che riportano le sigle FWB o HA (art. 51 e 52 OEspl) sono autorizzati a trasportare senza certificato di formazione ADR merci pericolose della classe 1. Quest’autorizzazione è tuttavia limitata agli esplosivi e agli oggetti pirotecnici indicati nei permessi rilasciati.</td></tr>
+<tr><td>Cap. 8.4 Prescrizioni relative alla sorveglianza dei veicoli 8.4.3 Sosta e parcheggio</td><td></td><td></td></tr>
+<tr><td>8.4.3.1 Sosta e parcheggio in generale</td><td></td><td>La sosta volontaria e il parcheggio su strada pubblica di un veicolo che trasporta merci soggette alla presente ordinanza sono vietati, salvo per esigenze legate al trasporto stesso, quali il carico, lo scarico, il controllo del veicolo e del carico, l’approvvigionamento del conducente o la presenza di cattive condizioni atmosferiche. Nel limite del possibile, le soste volontarie e i parcheggi prolungati devono essere effettuati in luoghi non accessibili a terzi non autorizzati.</td></tr>
+<tr><td>8.4.3.2 Sosta e parcheggio di notte o in caso di scarsa visibilità</td><td></td><td>Quando, di notte o in caso di scarsa visibilità, un veicolo rimane fermo sulla carreggiata per il mancato funzionamento delle luci, devono essere collocati i segnali d’avvertimento di cui alla sezione 8.1.5 ADR davanti e dietro il veicolo a una distanza di 10 m. Inoltre, secondo l’articolo 23 capoverso 2 ONC[^annex1-lvlu1-8], il segnale di veicolo fermo deve essere posto ad almeno 50 m di distanza.</td></tr>
+<tr><td>8.4.3.3 Sosta e parcheggio di un veicolo che costituisce un particolare pericolo</td><td></td><td>Se la natura delle merci pericolose trasportate dal veicolo in sosta o in parcheggio comporta un particolare pericolo per gli altri utenti della strada, in particolare in caso di spargimento sulla carreggiata di materie pericolose per i pedoni, gli animali o i veicoli, e se l’equipaggio del veicolo non può rimediare rapidamente a questo pericolo, vanno avvertite immediatamente le autorità competenti più vicine. Inoltre, l’equipaggio del veicolo prenderà le misure prescritte nelle istruzioni alla sezione 5.4.3 ADR.</td></tr>
 <tr><td>Cap. 8.5: Prescrizioni supplementari relative a classi o a materie particolari</td><td></td><td></td></tr>
 <tr><td>S11 e S12</td><td>S11 e S12</td><td>Le disposizioni speciali S11 e S12 non sono applicabili.</td></tr>
 <tr><td colspan="3">Parte 9: Prescrizioni relative alla costruzione e all’approvazione dei veicoli</td></tr>
-<tr><td>Cap. 9.1: Campo di applicazione, definizioni e disposizioni per l’approvazione dei veicoli 9.1.2 Approvazione dei veicoli EX/II, EX/III, FL e AT e delle MEMU</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>I carri a motore adibiti al trasporto di merci pericolose in cisterne di cui al numero 7.4.1 della presente appendice devono soddisfare le prescrizioni dei capitoli 9.1, 9.2 e 9.7 ADR, ad eccezione delle sezioni 9.2.3 e 9.2.5 e della sottosezione 9.7.5.2 ADR. La conformità a tali disposizioni è attestata dal certificato di approvazione di cui alla sottosezione 9.1.3.5 ADR, nel quale dovranno figurare al numero 7 la designazione del veicolo AT e al numero 11 la dicitura «Autorizzazione come veicolo AT secondo il numero 7.4.1 appendice 1 SDR» nonché la zona d’impiego ammessa.</td></tr>
+<tr><td>Cap. 9.1: Campo di applicazione, definizioni e disposizioni per l’approvazione dei veicoli</td><td></td><td></td></tr>
+<tr><td>9.1.2 Approvazione dei veicoli EX/II, EX/III, FL e AT e delle MEMU</td><td></td><td>I carri a motore adibiti al trasporto di merci pericolose in cisterne di cui al numero 7.4.1 della presente appendice devono soddisfare le prescrizioni dei capitoli 9.1, 9.2 e 9.7 ADR, ad eccezione delle sezioni 9.2.3 e 9.2.6 e della sottosezione 9.7.5.2 ADR. La conformità a tali disposizioni è attestata dal certificato di approvazione di cui alla sottosezione 9.1.3.5 ADR, nel quale dovranno figurare al numero 7 la designazione del veicolo AT e al numero 11 la dicitura «Autorizzazione come veicolo AT secondo il numero 7.4.1 appendice 1 SDR» nonché la zona d’impiego ammessa.</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: La struttura riflette quella dell’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)).
+[^annex1-lvlu1-1]: La struttura riflette quella dell’ADR ([RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)).
 [^annex1-lvlu1-2]: Se nella colonna «Numero ADR» sono riportati riferimenti, la disposizione SDR si richiama alla relativa disposizione ADR.
 [^annex1-lvlu1-3]: Norma tecnica del Laboratorio federale di prova dei materiali e di ricerca (EMPA) del 31 ott. 1989 per cisterne operanti sotto vuoto, scaricabile all’indirizzo [www.astra.admin.ch/astra/it/home/servizi/veicoli/merci-pericolose/diritto-nazionale.html](https://www.astra.admin.ch/astra/it/home/servizi/veicoli/merci-pericolose/diritto-nazionale.html).
-[^annex1-lvlu1-4]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
-[^annex1-lvlu1-5]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex1-lvlu1-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^annex1-lvlu1-7]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
-[^annex1-lvlu1-8]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1-lvlu1-4]: [RS 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
+[^annex1-lvlu1-5]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex1-lvlu1-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^annex1-lvlu1-7]: [RS 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
+[^annex1-lvlu1-8]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 Appendice 2[^t-2]
 
@@ -477,94 +461,37 @@ Appendice 2[^t-2]
 
 ## Tratti stradali con limitazioni supplementari
 
-[^t-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 set. 2018 ([RU 2018 3819](https://fedlex.data.admin.ch/eli/oc/2018/607)). Aggiornato dalla cifra I delle O del DATEC del 15 set. 2020 ([RU 2020 4119](https://fedlex.data.admin.ch/eli/oc/2020/751)) e del 20 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 531](https://fedlex.data.admin.ch/eli/oc/2022/531)).
-
-### 1 Tratti stradali con gallerie
-
-Elenco dei tratti stradali sottoposti a limitazioni ai sensi della sezione 1.9.5 ADR[^annex2-lvlu1-lvl1-1]:
+[^t-2]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DATEC del 21 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 525](https://fedlex.data.admin.ch/eli/oc/2026/525)).
 
 <table>
-<tr><td>Cantone</td><td colspan="2">Tratti stradali Strada nazionale = N Strada cantonale = SC</td><td></td><td>Galleria</td><td>Categoria di galleria (1.9.5.2 ADR)</td></tr>
-<tr><td>UR/TI</td><td>N2</td><td colspan="2">Göschenen–Airolo</td><td>San Gottardo</td><td>E</td></tr>
-<tr><td>GR</td><td>N13</td><td colspan="2">Thusis–Ticino</td><td>San Bernardino</td><td>E</td></tr>
-<tr><td>TG</td><td>SC</td><td colspan="2">Frauenfeld</td><td>Rotatoria stazione di Frauenfeld</td><td>E</td></tr>
-<tr><td>TI</td><td>N13[^annex2-lvlu1-lvl1-2]</td><td colspan="2">Bellinzona–Brissago</td><td>Mappo/Morettina</td><td>E</td></tr>
-<tr><td>TI</td><td>SC</td><td colspan="2">Lugano</td><td>Vedeggio–Cassarate</td><td>E</td></tr>
-<tr><td>VD</td><td>SC</td><td colspan="2">Crissier</td><td>Galerie du Marcolet</td><td>E</td></tr>
-<tr><td>VS/Italia</td><td>SC</td><td colspan="2">Martigny–Aosta</td><td>Gran San Bernardo</td><td>E</td></tr>
+<tr><th>Campo normativo</th><th>Numero ADR</th><th>Disposizione</th></tr>
+<tr><td>1 Tratti stradali con gallerie 1.1 Elenco dei tratti stradali sottoposti a limitazioni ai sensi della sezione 1.9.5 ADR[^annex2-lvlu1-1]:</td><td></td><td>Cantone Tratti stradali (Strada nazionale = N Strada cantonale = SC) Galleria Categoria di galleria (1.9.5.2 ADR) UR/TI N2 Göschenen–Airolo San Gottardo E GR N13 Thusis–Ticino San Bernardino E TG SC Frauenfeld Rotatoria stazione di Frauenfeld E TI N13 Bellinzona–Brissago Mappo/Morettina E TI SC Lugano Vedeggio–Cassarate E VD SC Crissier Galerie du Marcolet E VS/Italia SC Martigny–Aosta Gran San Bernardo E</td></tr>
+<tr><td>1.2 Carico misto con merci pericolose per le quali è riportato il simbolo (–) nella tabella A del capitolo 3.2 ADR</td><td></td><td>Se vengono trasportate merci secondo il punto 1.9.5.3.6 ADR insieme ad altre merci pericolose per le quali non figura (–) nella colonna (15) della tabella A al capitolo 3.2 ADR o che sono trasportate in quantità limitata, solo queste ultime sono determinanti per valutare se è consentito il transito in galleria.</td></tr>
+<tr><td>2 Tratti stradali in prossimità di acque protette 2.1 Elenco dei tratti stradali sui quali il trasporto di merci pericolose è vietato</td><td></td><td>Sui seguenti tratti stradali è vietato il trasporto di merci pericolose ai sensi del numero 2.2 della presente appendice: AG: Baden/Dättwil, «Täfernstrasse» (lunghezza ca. 250 m); AG: Frick–Oeschgen, «Oeschgerstrasse» (lunghezza ca. 600 m); AG: Strada cantonale 335, «Brunnenrainstrasse», tratto parziale «Berghof» (punto 663) fino a «Liegenschaft Restaurant Waldegg»; AG: Strada cantonale 420, tratto compreso fra Mülligen (lunghezza 400 m) e Birmenstorf (lunghezza 500 m)[^annex2-lvlu1-2]; AG: Reinach, «Brüggelmoosstrasse» (lunghezza 400 m); AG: Spreitenbach, strada comunale «Müslistrasse» (lunghezza 250 m); BE: Belp, Gürbebrücke–diramazione Auhaus/Giessenhof (lunghezza 1,3 km); BE: Strada cantonale 1315, Gimmiz–Aarberg (lunghezza 3 km) compresa la diramazione in direzione di Kappelen (lunghezza ca. 1 km); BE: Neuenegg, Süri–Matzenried (lunghezza 1,5 km); BE: Seedorf, strada comunale Räbhalen–diramazione Holteren/Ruchwil (lunghezza 300 m); BL: Muttenz, «Rheinfelderstrasse», tratto compreso fra «Auhafen» e lo svincolo di Hagnau (lunghezza 2,4 km); BS: Basel e Riehen, «Riehenstrasse»–«Äussere Baselstrasse», tratto fra «Fasanenstrasse/Allmendstrasse» e «Rauracherstrasse» (lunghezza ca. 1 km); BS: Riehen, «Äussere Baselstrasse», tratto compreso fra «Rauracherstrasse» e «Bäumlihofstrasse» (lunghezza ca. 200 m)[^annex2-lvlu1-3]; BS: Riehen, «Rauracherstrasse», tratto compreso fra «Äussere Baselstrasse» e «Bäumlihofstrasse» (lunghezza ca. 200 m)[^annex2-lvlu1-4]; BS: Riehen, «Weilstrasse», tratto compreso fra «Lörracherstrasse» e ufficio doganale «Weilstrasse» (lunghezza ca. 800 m); GE: Strada cantonale 75, Chemin de la Greube fino alle cave di ghiaia «Bois de Bay» (lunghezza 1,3 km)[^annex2-lvlu1-5]<sup>+</sup>[^annex2-lvlu1-6]; GE: Strada cantonale 80, Route de Veyrier fino alla frazione di Vessy (lunghezza 1,1 km)[^annex2-lvlu1-7]<sup>+</sup>[^annex2-lvlu1-8]; GE: Pont de la Fontenette[^annex2-lvlu1-9]; GE: Pont de Vessy[^annex2-lvlu1-10]; GE: Pont du Val d’Arve[^annex2-lvlu1-11]; GE: Route du Bout du Monde (lunghezza 600 m)[^annex2-lvlu1-12]<sup>+</sup>[^annex2-lvlu1-13]; GE: Route du Bout du Monde, tratto compreso fra il ponte e la frazione di Vessy (lunghezza 800 m)[^annex2-lvlu1-14]; GE: Tratto che costeggia la riva sinistra del Rodano, da «Barrage de Verbois» in direzione «Moulin‑de‑Vert» (lunghezza 1,5 km)[^annex2-lvlu1-15]; GE: Strada che costeggia la riva destra del Rodano, da «Route de Verbois» alla fabbrica di Verbois e alle cave di ghiaia di Russin (lunghezza 1 km)[^annex2-lvlu1-16]<sup>+</sup>[^annex2-lvlu1-17]; GE: Tratto dalla «Route de Peney» alla cosiddetta «Maison Carrée» (lunghezza 1,2 km)[^annex2-lvlu1-18]<sup>+</sup>[^annex2-lvlu1-19]; GR: «Voia da Brinzauls/Voia Principala», tratto compreso fra Lantsch/Lenz e Crappa Naira (lunghezza 6 km); GR: «Via Nova/Platta», da Rhäzüns Holzlagerplatz a Rothenbrunnen, diramazione strada cantonale (lunghezza 2 km); GR: «Via da Laax», dalla diramazione «Oberalpstrasse» fino all’inizio della località di Sagogn, diramazione «Via Teit» (lunghezza 1,2 km); NE: Strada cantonale 414, St-Martin – segheria Debrot (lunghezza 1 km); NE: Strada cantonale 2233, da sud di Boveresse fino a nord di Môtiers, Place de la gare (lunghezza 950 m)[^annex2-lvlu1-20]; SO: Grenchen, Grenchen–Romont, «Romontstrasse» (lunghezza 400 m); SO: Wangen b. Olten, «Bornstrasse» dallo sbocco in Mittelgäustrasse fino alla diramazione di Neuhüslermatt (lunghezza 210 m); SG: Strada di collegamento tra Valens e Vasön (lunghezza 2,3 km); TI: Chiasso, «Via Soldini», tratto compreso fra «Via Passeggiata» e «Via Interlenghi» (lunghezza 200 m) e «Via Interlenghi», tratto compreso fra «Via Soldini» e «Via Vincenzo Vela» (lunghezza 400 m); TI: Mendrisio, tratto «Via Pra Mag» (lunghezza 450 m); TI: Mendrisio–Coldrerio, «Via Sant’Apollonia» (lunghezza 1,5 km); VD: Strada cantonale 26, Le Brassus–incrocio di Grand-Fuey (lunghezza 11 km)[^annex2-lvlu1-21]; VD: Strada cantonale 289, Orny–Bavois, da Entreroches (lunghezza 2,2 km).</td></tr>
+<tr><td>2.2 Elenco delle merci il cui trasporto è vietato</td><td></td><td>Merci pericolose delle classi da 1 a 9 che soddisfano i criteri del punto 2.2.9.1.10 ADR.</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^annex2-lvlu1-lvl1-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019.
-
-### 2 Tratti stradali in prossimità di acque protette
-
-### 2.1 Elenco dei tratti stradali sui quali il trasporto di merci pericolose è vietato
-
-Sui seguenti tratti stradali è vietato il trasporto di merci pericolose ai sensi del numero 2.2 della presente appendice:
-
-- AG Baden/Dättwil, «Täfernstrasse» (lunghezza ca. 250 m);
-- AG Frick–Oeschgen, «Oeschgerstrasse» (lunghezza ca. 600 m);
-- AG Strada cantonale 335, «Brunnenrainstrasse», tratto parziale «Berghof» (punto 663) fino a «Liegenschaft Restaurant Waldegg»;
-- AG Strada cantonale 420, tratto compreso fra Mülligen (lunghezza 400 m) e Birmenstorf (lunghezza 500 m)[^annex2-lvlu1-lvl2-lvl21-1];
-- AG Reinach, «Brüggelmoosstrasse» (lunghezza 400 m);
-- AG Spreitenbach, strada comunale «Müslistrasse» (lunghezza 250 m);
-- BE Belp, Gürbebrücke–biforcazione Auhaus/Giessenhof (lunghezza 1,3 km);
-- BE Strada cantonale 1315, Gimmiz–Aarberg (lunghezza 3 km) compreso l’incrocio in direzione di Kappelen (lunghezza ca. 1 km);
-- BE Neuenegg, Süri–Matzenried (lunghezza 1,5 km);
-- BE Seedorf, strada comunale Räbhalen–biforcazione Holteren/Ruchwil (lunghezza 300 m);
-- BL Muttenz, «Rheinfelderstrasse», tratto compreso fra «Auhafen» e Anschluss Hagnau (lunghezza 2,4 km);
-- BS Basel e Riehen, «Riehenstrasse»–«Äussere Baselstrasse», tratto fra «Fasanenstrasse/Allmendstrasse» e «Rauracherstrasse» (lunghezza ca. 1 km);
-- BS Riehen, «Äussere Baselstrasse», tratto compreso fra «Rauracherstrasse» e «Bäumlihofstrasse» (lunghezza ca. 200 m)[^annex2-lvlu1-lvl2-lvl21-2];
-- BS Riehen, «Rauracherstrasse», tratto compreso fra «Äussere Baselstrasse» e «Bäumlihofstrasse» (lunghezza ca. 200 m)[^annex2-lvlu1-lvl2-lvl21-3];
-- BS Riehen, «Weilstrasse», tratto compreso fra «Lörracherstrasse» e Zollamt «Weilstrasse» (lunghezza ca. 800 m);
-- GE Strada cantonale 75, Chemin de la Greube fino alle ghiaiere di «Bois de Bay» (lunghezza 1,3 km)[^annex2-lvlu1-lvl2-lvl21-4]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-5];
-- GE Strada cantonale 80, Route de Veyrier–frazione di Vessy (lunghezza 1,1 km) [^annex2-lvlu1-lvl2-lvl21-6]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-7];
-- GE Pont de la Fontenette[^annex2-lvlu1-lvl2-lvl21-8];
-- GE Pont de Vessy[^annex2-lvlu1-lvl2-lvl21-9];
-- GE Pont du Val d’Arve[^annex2-lvlu1-lvl2-lvl21-10];
-- GE Route du Bout du Monde (lunghezza 600 m)[^annex2-lvlu1-lvl2-lvl21-11]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-12];
-- GE Route du Bout du Monde, tratto compreso fra il ponte e la frazione di Vessy (lunghezza 800 m)[^annex2-lvlu1-lvl2-lvl21-13];
-- GE Tratto che costeggia la riva sinistra del Rodano, dal «Barrage de Verbois» in direzione del «Moulin-de-Vert» (lunghezza 1,5 km)[^annex2-lvlu1-lvl2-lvl21-14];
-- GE Strada che costeggia la riva destra del Rodano, dalla «Route de Verbois» alla fabbrica di Verbois e alle ghiaiere di Russin (lunghezza 1 km)[^annex2-lvlu1-lvl2-lvl21-15]<sup>+</sup>[^annex2-lvlu1-lvl2-lvl21-16];
-- GE Tratto dalla «Route de Peney» alla cosiddetta «Maison Carrée» (lunghezza 1,2 km)[^annex2-lvlu1-lvl2-lvl21-17]<sup>,</sup> [^annex2-lvlu1-lvl2-lvl21-18];
-- GR «Voia da Brinzauls/Voia Principala», tratto compreso fra Lantsch/Lenz e Crappa Naira (lunghezza 6 km);
-- GR «Via Nova/Platta», da Rhäzüns Holzlagerplatz a Rothenbrunnen, diramazione strada cantonale (lunghezza 2 km);
-- GR «Via da Laax», dalla diramazione «Oberalpstrasse» fino all’inizio della località di Sagogn, diramazione «Via Teit» (lunghezza 1,2 km)
-- NE Strada cantonale 414, St-Martin–segheria Debrot (lunghezza 1 km);
-- NE Strada cantonale 2233, dal sud di Boveresse fino al nord di Môtiers, Place de la gare (lunghezza 950 m)[^annex2-lvlu1-lvl2-lvl21-19];
-- SO Grenchen, Grenchen–Romont, «Romontstrasse» (lunghezza 400 m);
-- SG Strada di congiunzione tra Valens e Vasön (lunghezza 2,3 km);
-- TI Chiasso, «Via Soldini», tratto compreso fra «Via Passeggiata» e «Via Interlenghi» (lunghezza 200 m) e «Via Interlenghi», tratto compreso fra «Via Soldini» e «Via Vincenzo Vela» (lunghezza 400 m);
-- TI Mendrisio, tratto «Via Pra Mag», «Via Laveggio», «Via Prati Maggi» fino all’incrocio con «Via alla Rossa» (lunghezza 1,2 km);
-- TI Mendrisio–Coldrerio, «Via Sant’Apollonia» (lunghezza 1,5 km);
-- VD Strada cantonale 26, Le Brassus–incrocio di Grand-Fuey (lunghezza 11 km)[^annex2-lvlu1-lvl2-lvl21-20];
-- VD Strada cantonale 289, Orny–Bavois, da Entreroches (lunghezza 2,2 km).
-
-[^annex2-lvlu1-lvl2-lvl21-1]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-2]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-3]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-4]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-5]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-6]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-7]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-8]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-9]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-10]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-11]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-12]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-13]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-14]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-15]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-16]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-17]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-18]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
-[^annex2-lvlu1-lvl2-lvl21-19]: Servizio a domicilio autorizzato.
-[^annex2-lvlu1-lvl2-lvl21-20]: Servizio a domicilio autorizzato.
-
-### 2.2 Elenco delle merci il cui trasporto è vietato
-
-Merci pericolose delle classi da 1 a 9 che soddisfano i criteri del punto 2.2.9.1.10 ADR.
+[^annex2-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annex2-lvlu1-2]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-3]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-4]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-5]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-6]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-7]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-8]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-9]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-10]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-11]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-12]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-13]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-14]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-15]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-16]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-17]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-18]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-19]: Il trasporto di liquidi di cui al n. 2.2 della presente appendice è vietato solo se effettuato con veicoli cisterna.
+[^annex2-lvlu1-20]: Servizio a domicilio autorizzato.
+[^annex2-lvlu1-21]: Servizio a domicilio autorizzato.
 
 Appendice 3[^t-3]
 
@@ -572,15 +499,9 @@ Appendice 3[^t-3]
 
 ## Lista delle merci pericolose sottoposte a disposizioni particolari relative al trasporto
 
-[^t-3]: Il testo della presente appendice non è stato pubblicato nella RU ([RU 2002 4224](https://fedlex.data.admin.ch/eli/oc/2002/686); [2008 5087](https://fedlex.data.admin.ch/eli/oc/2008/705)). Nuovo testo giusta la cifra I cpv. 2 dell’O del DATEC del 26 set. 2016 ([RU 2016 3455](https://fedlex.data.admin.ch/eli/oc/2016/584)). Aggiornato dalla cifra I dell’O del DATEC del 19 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 480](https://fedlex.data.admin.ch/eli/oc/2024/480)).
-
-Devono essere rispettate le prescrizioni più restrittive delle appendici 1 e 2.
+[^t-3]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DATEC del 21 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 525](https://fedlex.data.admin.ch/eli/oc/2026/525)).
 
 <table>
-<tr><th>N° ONU</th><th>Nome e descrizione</th><th>Classe</th><th>Codice di classificazione</th><th>Gruppo di imballaggio</th><th>Etichette</th><th>Disposizione</th></tr>
-<tr><th></th><th>3.1.2 ADR</th><th>2.2 ADR</th><th>2.2 ADR</th><th>2.1.1.3 ADR</th><th>5.2.2 ADR</th><th></th></tr>
-<tr><td>1017</td><td>CLORO</td><td>2</td><td>2TOC</td><td></td><td>2.3+5.1+8</td><td>Peso netto massimo ammesso per ogni cassa mobile: 1000 kg</td></tr>
-<tr><td>1076</td><td>FOSGENE</td><td>2</td><td>2TC</td><td></td><td>2.3+8</td><td>Peso netto massimo ammesso per ogni cassa mobile: 1000 kg</td></tr>
-<tr><td>1079</td><td>DIOSSIDO DI ZOLFO</td><td>2</td><td>2TC</td><td></td><td>2.3+8</td><td>Peso netto massimo ammesso per ogni cassa mobile: 1000 kg</td></tr>
-<tr><td></td><td>Materie e oggetti esplosivi</td><td>1</td><td></td><td></td><td></td><td>In caso di trasporto con MEMU: è necessaria l’autorizzazione dell’USTRA secondo 7.5.5.2.3 ADR</td></tr>
+<tr><th>Campo normativo</th><th>Numero ADR</th><th>Disposizione</th></tr>
+<tr><td>Lista delle merci pericolose sottoposte a disposizioni particolari relative al trasporto</td><td></td><td>Si devono rispettare le prescrizioni più restrittive delle appendici 1 e 2. N. ONU Nome e descrizione Classe Codice di classificazione Gruppo di imballaggio Etichetta Disposizione 3.1.2 ADR 2.2 ADR 2.2 ADR 2.1.1.3 ADR 5.2.2 ADR 1017 CLORO 2 2TOC 2.3+5.1+8 Massa netta massima ammessa per ogni cassa mobile: 1000 kg 1076 FOSGENE 2 2TC 2.3+8 Massa netta massima ammessa per ogni cassa mobile: 1000 kg 1079 DIOSSIDO DI ZOLFO 2 2TC 2.3+8 Massa netta massima ammessa per ogni cassa mobile: 1000 kg Materie e oggetti esplosivi 1 In caso di trasporto con MEMU: è necessaria l’autorizzazione dell’USTRA secondo 7.5.5.2.3 ADR</td></tr>
 </table>
