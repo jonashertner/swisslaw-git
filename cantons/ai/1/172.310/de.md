@@ -4,13 +4,12 @@ number: "172.310"
 title: Personalverordnung
 short: PeV
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-10-20
+version: 2027-01-01
+version_adopted: 2026-06-22
 adopted: 1998-11-30
 in_force: 1999-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.310"
-pdf: "https://ai.clex.ch/api/de/versions/2411/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2411/pdf_file"
 
 (PeV)
 
-vom 30.11.1998 (Stand 01.01.2026)
+vom 30.11.1998 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -402,7 +401,7 @@ beschliesst:
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Die berufliche Vorsorge richtet sich nach den Bestimmungen über die Kantonale Versicherungskasse.
+<sup>1</sup> Die berufliche Vorsorge richtet sich nach den Bestimmungen über die Kantonale Versicherungskasse Appenzell Innerrhoden.
 
 ## VII. Die Beendigung
 
@@ -431,7 +430,7 @@ beschliesst:
 
 <sup>3</sup> Die Standeskommission kann Mitarbeitenden auf Antrag eine Verlängerung des Anstellungsverhältnisses über das 65. Altersjahr hinaus bewilligen.
 
-<sup>4</sup> Die Rentenleistungen bei einer Pensionierung werden durch die Kantonale Versicherungskasse geregelt.
+<sup>4</sup> Die Rentenleistungen bei einer Pensionierung werden durch die Kantonale Versicherungskasse Appenzell Innerrhoden geregelt.
 
 #### Art. 37a
 
