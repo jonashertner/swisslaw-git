@@ -3,11 +3,11 @@ sr: "414.110"
 title: Loi fédérale du 4 octobre 1991 sur les écoles polytechniques fédérales (Loi sur les EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: fr
-version: 2025-05-01
+version: 2027-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20250501-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20270101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20250501/fr"
 
 (Loi sur les EPF)[^t-1]
 
-du 4 octobre 1991 (État le 1<sup>er</sup> mai 2025)
+du 4 octobre 1991 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -338,7 +338,7 @@ La direction de l’école fixe les conditions et la procédure d’admission po
 
 **Rapports de travail des membres du Conseil des EPF, des présidents des écoles et des directeurs des établissements de recherche**[^16b-1]
 
-<sup>1</sup> Le Conseil fédéral règle les conditions d’engagement et la prévoyance professionnelle des membres à plein temps du Conseil des EPF, des présidents des écoles et des directeurs des établissements de recherche dans le cadre de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^16b-2] et de la loi du 20 décembre 2006 relative à PUBLICA[^16b-3].
+<sup>1</sup> Le Conseil fédéral règle les conditions d’engagement et la prévoyance professionnelle des membres à plein temps du Conseil des EPF, des présidents des écoles et des directeurs des établissements de recherche dans le cadre de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^16b-2] et de la loi du 20 décembre 2006 relative à Publica[^16b-3].
 
 <sup>2</sup> Les autres membres du Conseil des EPF sont liés à la Confédération par un mandat de droit public. Le Conseil fédéral fixe l’indemnisation et les autres dispositions contractuelles.
 
@@ -372,7 +372,7 @@ Il peut prévoir, dans l’ordonnance sur le personnel, une dérogation à l’a
 
 <sup>8</sup> Sur proposition des EPF et en accord avec le Conseil des EPF, les professeures peuvent rester engagées jusqu’à l’âge limite fixé pour les hommes à l’art. 21, al. 1, let. a, LAVS, ou jusqu’à la fin du semestre au cours duquel elles atteignent cet âge limite.
 
-<sup>9</sup> Le personnel et les professeurs sont assurés auprès de la Caisse fédérale de pensions (PUBLICA) conformément aux art. 32*a* à 32*m* LPers. À l’égard du personnel du domaine des EPF, le Conseil des EPF est réputé employeur au sens de l’art. 32*b*, al. 2, LPers. Il représente le domaine des EPF en qualité de partie contractante.
+<sup>9</sup> Le personnel et les professeurs sont assurés auprès de la Caisse fédérale de pensions (Publica[^17-7]) conformément aux art. 32*a* à 32*m* LPers. À l’égard du personnel du domaine des EPF, le Conseil des EPF est réputé employeur au sens de l’art. 32*b*, al. 2, LPers. Il représente le domaine des EPF en qualité de partie contractante.
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^17-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
@@ -380,6 +380,7 @@ Il peut prévoir, dans l’ordonnance sur le personnel, une dérogation à l’a
 [^17-4]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
 [^17-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^17-6]: Nouvelle teneur de la phrase selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 198](https://fedlex.data.admin.ch/eli/oc/2025/198); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^17-7]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2027 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 17a
 
@@ -596,24 +597,26 @@ Le Conseil des EPF:
 - c. édicte des dispositions sur le controlling et procède au controlling stratégique;
 - d. approuve les plans de développement du domaine des EPF et contrôle leur exécution;
 - e.[^25-2] procède aux engagements et aux nominations qui relèvent de sa compétence;
-- f.[^25-3] ...
+- f.[^25-3] conclut le contrat d’affiliation à Publica et le soumet à l’approbation du Conseil fédéral;
 - g.[^25-4] est responsable de la coordination et de la planification au sens de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles[^25-5];
 - h. se donne un règlement;
-- i. remplit les autres tâches qui lui incombent en vertu de la présente loi.[^25-6]
+- i. remplit les autres tâches qui lui incombent en vertu de la présente loi;
+- j.[^25-6] édicte les dispositions concernant le financement de la prévoyance professionnelle et les soumet à l’approbation du Conseil fédéral.[^25-7]
 
 <sup>2</sup> Il soumet au DEFR les propositions concernant les affaires relevant du domaine des EPF. Si le DEFR a l’intention de s’écarter de la proposition du Conseil des EPF ou s’il fait lui-même une proposition, il consulte le Conseil.
 
 <sup>3</sup> Il informe les personnes relevant des écoles polytechniques et des établissements de recherche sur toutes les affaires qui les concernent.
 
-<sup>4</sup> Il exerce la surveillance sur le domaine des EPF. Il peut notamment émettre des recommandations à l’intention des EPF et des établissements de recherche après les avoir entendus et, dans des cas dûment motivés leur confier des mandats. Il peut, après avoir entendu l’institution concernée, prendre les mesures qui s’imposent s’il constate une violation du droit.[^25-7]
+<sup>4</sup> Il exerce la surveillance sur le domaine des EPF. Il peut notamment émettre des recommandations à l’intention des EPF et des établissements de recherche après les avoir entendus et, dans des cas dûment motivés leur confier des mandats. Il peut, après avoir entendu l’institution concernée, prendre les mesures qui s’imposent s’il constate une violation du droit.[^25-8]
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^25-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^25-3]: Abrogée par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 [^25-4]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^25-5]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
-[^25-6]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^25-7]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-6]: Introduite par l’annexe ch. 6 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^25-7]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-8]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 25a
 

@@ -3,11 +3,11 @@ sr: "414.110"
 title: Bundesgesetz vom 4. Oktober 1991 über die Eidgenössischen Technischen Hochschulen (ETH-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: de
-version: 2025-05-01
+version: 2027-01-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20250501-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20270101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20250501/de"
 
 (ETH-Gesetz)
 
-vom 4. Oktober 1991 (Stand am 1. Mai 2025)
+vom 4. Oktober 1991 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -335,7 +335,7 @@ Die Schulleitung regelt die Zulassungsbedingungen und das Zulassungsverfahren f�
 
 **Arbeitsverhältnisse der Mitglieder des ETH-Rates, der Schulpräsidenten und der Anstaltsdirektoren**[^16b-1]
 
-<sup>1</sup> Der Bundesrat regelt die Anstellungsbedingungen und die berufliche Vorsorge der vollamtlichen Mitglieder des ETH-Rates, der Schulpräsidenten und der Direktoren der Forschungsanstalten im Rahmen des Bundespersonalgesetzes vom 24. März 2000[^16b-2] (BPG) und des PUBLICA-Gesetzes vom 20. Dezember 2006[^16b-3].
+<sup>1</sup> Der Bundesrat regelt die Anstellungsbedingungen und die berufliche Vorsorge der vollamtlichen Mitglieder des ETH-Rates, der Schulpräsidenten und der Direktoren der Forschungsanstalten im Rahmen des Bundespersonalgesetzes vom 24. März 2000[^16b-2] (BPG) und des Publica-Gesetzes vom 20. Dezember 2006[^16b-3].
 
 <sup>2</sup> Die übrigen Mitglieder des ETH-Rates stehen zum Bund in einem öffentlich-rechtlichen Auftragsverhältnis. Der Bundesrat legt die Entschädigung und die weiteren Vertragsbedingungen fest.
 
@@ -369,12 +369,13 @@ Er kann in der Personalverordnung für die folgenden Personalkategorien bestimme
 
 <sup>8</sup> Professorinnen können auf Antrag der ETH und im Einvernehmen mit dem ETH-Rat bis zum Erreichen der Altersgrenze für Männer gemäss Artikel 21 Absatz 1 Buchstabe a AHVG oder bis zum Semesterende, das auf das Erreichen dieser Altersgrenze folgt, angestellt bleiben.
 
-<sup>9</sup> Das Personal und die Professorinnen und Professoren sind bei der Pensionskasse des Bundes (PUBLICA) nach den Artikeln 32*a*–32*m* BPG versichert. Für den ETH-Bereich ist der ETH-Rat Arbeitgeber nach Artikel 32*b* Absatz 2 BPG. Er vertritt den ETH-Bereich als Vertragspartei.
+<sup>9</sup> Das Personal und die Professorinnen und Professoren sind bei der Pensionskasse des Bundes (Publica[^17-5]) nach den Artikeln 32*a*–32*m* BPG versichert. Für den ETH-Bereich ist der ETH-Rat Arbeitgeber nach Artikel 32*b* Absatz 2 BPG. Er vertritt den ETH-Bereich als Vertragspartei.
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^17-2]: Zur Vermeidung von Missverständnissen wird in diesem Artikel, anders als im übrigen ETH-Gesetz, nicht die generische Form «Professor» oder «Professoren» verwendet.
 [^17-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^17-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^17-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2027 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 17a
 
@@ -591,24 +592,26 @@ Der ETH-Rat:
 - c. erlässt Vorschriften über das Controlling und führt das strategische Controlling durch;
 - d. genehmigt die Entwicklungspläne des ETH-Bereichs und überwacht ihre Verwirklichung;
 - e.[^25-2] nimmt die in seine Zuständigkeit fallenden Anstellungen und Wahlen vor;
-- f.[^25-3] …
+- f.[^25-3] schliesst den Anschlussvertrag mit Publica ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung;
 - g.[^25-4] ist für die Sicherstellung der Koordination und der Planung nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^25-5] verantwortlich;
 - h. gibt sich eine Geschäftsordnung;
-- i. erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen werden.[^25-6]
+- i. erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen werden;
+- j.[^25-6] erlässt Bestimmungen über die Finanzierung der beruflichen Vorsorge und unterbreitet sie dann dem Bundesrat zur Genehmigung.[^25-7]
 
 <sup>2</sup> Er unterbreitet die Anträge und Vorschläge zu Geschäften aus dem ETH-Bereich dem WBF. Beabsichtigt das WBF, vom Antrag des ETH-Rates abzuweichen, oder stellt es einen eigenen Antrag, so hört es den ETH-Rat an.
 
 <sup>3</sup> Er informiert die Angehörigen der Hochschulen und der Forschungsanstalten über alle sie betreffenden Geschäfte.
 
-<sup>4</sup> Er übt die Aufsicht über den ETH-Bereich aus. Er kann den ETH und den Forschungsanstalten nach Anhörung insbesondere Empfehlungen abgeben und in begründeten Fällen Aufträge erteilen. Er kann nach Anhörung der betroffenen Institution entsprechende Massnahmen ergreifen, wenn er eine Rechtsverletzung feststellt.[^25-7]
+<sup>4</sup> Er übt die Aufsicht über den ETH-Bereich aus. Er kann den ETH und den Forschungsanstalten nach Anhörung insbesondere Empfehlungen abgeben und in begründeten Fällen Aufträge erteilen. Er kann nach Anhörung der betroffenen Institution entsprechende Massnahmen ergreifen, wenn er eine Rechtsverletzung feststellt.[^25-8]
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^25-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^25-3]: Aufgehoben durch Ziff. I des BG vom 19. März 2021, mit Wirkung seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 [^25-4]: Fassung gemäss Anhang Ziff. II 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^25-5]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
-[^25-6]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^25-7]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-6]: Eingefügt durch Anhang Ziff. 6 des BG vom 20. Juni 2025, in Kraft seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^25-7]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-8]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 25a
 
