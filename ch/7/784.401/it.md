@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sulla radiotelevisione (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: it
-version: 2025-06-01
+version: 2027-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20250601-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20270101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/it"
 
 (ORTV)
 
-del 9 marzo 2007 (Stato 1° giugno 2025)
+del 9 marzo 2007 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -1137,17 +1137,21 @@ Il numero massimo di programmi che devono essere diffusi gratuitamente su linea 
 
 **Importo del canone**[^57-1]
 
-### (art. 68*a* LRTV)
+### (art. 68a LRTV)
 
 Importo del canone annuo:
 
 <table>
-<tr><td></td><td>franchi</td></tr>
-<tr><td>a. per un’economia domestica di tipo privato</td><td>335.–</td></tr>
-<tr><td>b. per una collettività</td><td>670.–</td></tr>
+<tr><th></th><th>franchi</th></tr>
+<tr><td>a. per un’economia domestica di tipo privato:</td><td></td></tr>
+<tr><td>[tab] dal 1.1.2027 al 31.12.2028</td><td>312.–</td></tr>
+<tr><td>[tab] dal 1.1.2029</td><td>300.–</td></tr>
+<tr><td>b. per una collettività:</td><td></td></tr>
+<tr><td>[tab] dal 1.1.2027 al 31.12.2028</td><td>624.–</td></tr>
+<tr><td>[tab] dal 1.1.2029</td><td>600.–</td></tr>
 </table>
 
-[^57-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2024, in vigore dal 1° gen. 2027 ([RU 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
 
 #### Art. 58
 
@@ -1334,14 +1338,13 @@ Il DFAE mette a disposizione dell’organo di riscossione i seguenti dati proven
 
 ### (art. 68*a* cpv. 1 e art. 70 LRTV)
 
-<sup>1</sup> La cifra d’affari annua minima che determina l’obbligo di pagare il canone per le imprese ammonta a 500 000 franchi.
+<sup>1</sup> La cifra d’affari annua minima che determina l’obbligo di pagare il canone per le imprese ammonta a 1 200 000 franchi.[^67b-2]
 
 <sup>2</sup> Il canone annuo per un’impresa ammonta, in base al livello di cifra d’affari, a:
 
 <table>
 <tr><th></th><th>Cifra d’affari in franchi</th><th>Canone in franchi</th></tr>
-<tr><td>a. Livello 1</td><td>[tab] da 500 000 a 749 999</td><td>160</td></tr>
-<tr><td>b. Livello 2</td><td>[tab] da 750 000 a 1 199 999</td><td>235</td></tr>
+<tr><td>a. e b.[^67b-3] ...</td><td>[tab] ...</td><td>...</td></tr>
 <tr><td>c. Livello 3</td><td>[tab] da 1 200 000 a 1 699 999</td><td>325</td></tr>
 <tr><td>d. Livello 4</td><td>[tab] da 1 700 000 a 2 499 999</td><td>460</td></tr>
 <tr><td>e. Livello 5</td><td>[tab] da 2 500 000 a 3 599 999</td><td>645</td></tr>
@@ -1357,11 +1360,13 @@ Il DFAE mette a disposizione dell’organo di riscossione i seguenti dati proven
 <tr><td>o. Livello 15</td><td>[tab] da 180 000 000 a 399 999 999</td><td>19 170</td></tr>
 <tr><td>p. Livello 16</td><td>[tab] da 400 000 000 a 699 999 999</td><td>26 915</td></tr>
 <tr><td>q. Livello 17</td><td>[tab] da 700 000 000 a 999 999 999</td><td>37 790</td></tr>
-<tr><td>r. Livello 18</td><td>[tab] 1 000 000 000 e oltre</td><td>49 925. [^67b-2]</td></tr>
+<tr><td>r. Livello 18</td><td>[tab] 1 000 000 000 e oltre</td><td>49 925. [^67b-4]</td></tr>
 </table>
 
 [^67b-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
-[^67b-2]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^67b-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2024, in vigore dal 1° gen. 2027 ([RU 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
+[^67b-3]: Abrogate dalla cifra I dell’O del 19 giu. 2024, con effetto dal 1° gen. 2027 ([RU 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
+[^67b-4]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 67c
 

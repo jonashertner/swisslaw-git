@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur la radio et la télévision (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: fr
-version: 2025-06-01
+version: 2027-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20250601-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-151-20270101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/fr"
 
 (ORTV)
 
-du 9 mars 2007 (État le 1<sup>er</sup> juin 2025)
+du 9 mars 2007 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -1141,15 +1141,19 @@ Le nombre maximal de programmes à diffuser gratuitement sur des lignes dans une
 
 ### (art. 68*a* LRTV)
 
-La redevance annuelle par ménage s’élève:
+La redevance annuelle par ménage s’élève à:
 
 <table>
-<tr><td></td><td>francs</td></tr>
-<tr><td>a. pour un ménage privé, à:</td><td>335.–</td></tr>
-<tr><td>b. pour un ménage collectif, à:</td><td>670.–</td></tr>
+<tr><th></th><th>francs</th></tr>
+<tr><td>a. pour un ménage privé:</td><td></td></tr>
+<tr><td>[tab] du 1.1.2027 au 31.12.2028</td><td>312.–</td></tr>
+<tr><td>[tab] dès le 1.1.2029</td><td>300.–</td></tr>
+<tr><td>b. pour un ménage collectif:</td><td></td></tr>
+<tr><td>[tab] du 1.1.2027 au 31.12.2028</td><td>624.–</td></tr>
+<tr><td>[tab] dès le 1.1.2029</td><td>600.–</td></tr>
 </table>
 
-[^57-1]: Nouvelle teneur selon le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
 
 #### Art. 58
 
@@ -1336,14 +1340,13 @@ Le DFAE met à la disposition de l’organe de perception les données suivantes
 
 ### (art. 68*a*, al. 1, et 70 LRTV)
 
-<sup>1</sup> Le chiffre d’affaires annuel minimum pour l’assujettissement d’une entreprise à la redevance s’élève à 500 000 francs.
+<sup>1</sup> Le chiffre d’affaires annuel minimum pour l’assujettissement d’une entreprise à la redevance s’élève à 1 200 000 francs.[^67b-2]
 
 <sup>2</sup> La redevance annuelle d’une entreprise s’élève par tranche de chiffre d’affaires à:
 
 <table>
 <tr><td></td><td>chiffre d’affaires en francs</td><td>redevance en francs</td></tr>
-<tr><td>a. Tranche 1</td><td>de 500 000 à 749 999</td><td>160</td></tr>
-<tr><td>b. Tranche 2</td><td>de 750 000 à 1 199 999</td><td>235</td></tr>
+<tr><td>a. et b.[^67b-3] …</td><td>…</td><td>…</td></tr>
 <tr><td>c. Tranche 3</td><td>de 1 200 000 à 1 699 999</td><td>325</td></tr>
 <tr><td>d. Tranche 4</td><td>de 1 700 000 à 2 499 999</td><td>460</td></tr>
 <tr><td>e. Tranche 5</td><td>de 2 500 000 à 3 599 999</td><td>645</td></tr>
@@ -1359,11 +1362,13 @@ Le DFAE met à la disposition de l’organe de perception les données suivantes
 <tr><td>o. Tranche 15</td><td>de 180 000 000 à 399 999 999</td><td>19 170</td></tr>
 <tr><td>p. Tranche 16</td><td>de 400 000 000 à 699 999 999</td><td>26 915</td></tr>
 <tr><td>q. Tranche 17</td><td>de 700 000 000 à 999 999 999</td><td>37 790</td></tr>
-<tr><td>r. Tranche 18</td><td>1 000 000 000 et plus</td><td>49 925.[^67b-2]</td></tr>
+<tr><td>r. Tranche 18</td><td>1 000 000 000 et plus</td><td>49 925.[^67b-4]</td></tr>
 </table>
 
 [^67b-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> nov. 2017 ([RO 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
-[^67b-2]: Nouvelle teneur selon le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^67b-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
+[^67b-3]: Abrogées par le ch. I de l’O du 19 juin 2024, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
+[^67b-4]: Nouvelle teneur selon le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 67c
 

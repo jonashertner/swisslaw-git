@@ -4,11 +4,11 @@ title: Radio- und Fernsehverordnung vom 9. März 2007 (RTVV)
 short: RTVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: de
-version: 2025-06-01
+version: 2027-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20250601-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20270101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20250601/de"
 
 (RTVV)
 
-vom 9. März 2007 (Stand am 1. Juni 2025)
+vom 9. März 2007 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -1144,12 +1144,16 @@ Die Höchstzahl der nach den Artikeln 59 und 60 RTVG in einem bestimmten Gebiet 
 Die Abgabe je Haushalt beträgt pro Jahr:
 
 <table>
-<tr><td colspan="2"></td><td>Franken</td></tr>
-<tr><td>a. für einen Privathaushalt</td><td colspan="2">[tab] 335.–</td></tr>
-<tr><td>b. für einen Kollektivhaushalt</td><td colspan="2">[tab] 670.–</td></tr>
+<tr><th></th><th>Franken</th></tr>
+<tr><td>a. für Privathaushalte:</td><td></td></tr>
+<tr><td>[tab] vom 1.1.2027 bis 31.12.2028</td><td>312.–</td></tr>
+<tr><td>[tab] ab 1.1.2029</td><td>300.–</td></tr>
+<tr><td>b. für Kollektivhaushalte:</td><td></td></tr>
+<tr><td>[tab] vom 1.1.2027 bis 31.12.2028</td><td>624.–</td></tr>
+<tr><td>[tab] ab 1.1.2029</td><td>600.–</td></tr>
 </table>
 
-[^57-1]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^57-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
 
 #### Art. 58
 
@@ -1336,14 +1340,13 @@ Das EDA stellt der Erhebungsstelle die folgenden Angaben aus dem Informationssys
 
 ### (Art. 68*a* Abs. 1 und Art. 70 RTVG)
 
-<sup>1</sup> Der jährliche Mindestumsatz für die Abgabepflicht eines Unternehmens beträgt 500 000 Franken.
+<sup>1</sup> Der jährliche Mindestumsatz für die Abgabepflicht eines Unternehmens beträgt 1 200 000 Franken.[^67b-2]
 
 <sup>2</sup> Die jährliche Abgabe eines Unternehmens beträgt je Umsatzstufe pro Jahr:
 
 <table>
 <tr><th></th><th>Umsatz in Franken</th><th>Abgabe in Franken</th></tr>
-<tr><td>a. Stufe 1</td><td>[tab] 500 000 bis 749 999</td><td>[tab] 160</td></tr>
-<tr><td>b. Stufe 2</td><td>[tab] 750 000 bis 1 199 999</td><td>[tab] 235</td></tr>
+<tr><td>[tab] a. und b.[^67b-3] …</td><td>[tab] …</td><td>[tab] …</td></tr>
 <tr><td>c. Stufe 3</td><td>[tab] 1 200 000 bis 1 699 999</td><td>[tab] 325</td></tr>
 <tr><td>d. Stufe 4</td><td>[tab] 1 700 000 bis 2 499 999</td><td>[tab] 460</td></tr>
 <tr><td>e. Stufe 5</td><td>[tab] 2 500 000 bis 3 599 999</td><td>[tab] 645</td></tr>
@@ -1359,11 +1362,13 @@ Das EDA stellt der Erhebungsstelle die folgenden Angaben aus dem Informationssys
 <tr><td>o. Stufe 15</td><td>[tab] 180 000 000 bis 399 999 999</td><td>[tab] 19 170</td></tr>
 <tr><td>p. Stufe 16</td><td>[tab] 400 000 000 bis 699 999 999</td><td>[tab] 26 915</td></tr>
 <tr><td>q. Stufe 17</td><td>[tab] 700 000 000 bis 999 999 999</td><td>[tab] 37 790</td></tr>
-<tr><td>r. Stufe 18</td><td>[tab] 1 000 000 000 und mehr</td><td>[tab] 49 925.[^67b-2]</td></tr>
+<tr><td>r. Stufe 18</td><td>[tab] 1 000 000 000 und mehr</td><td>[tab] 49 925.[^67b-4]</td></tr>
 </table>
 
 [^67b-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5519](https://fedlex.data.admin.ch/eli/oc/2017/594)).
-[^67b-2]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
+[^67b-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Jan. 2027 ([AS 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
+[^67b-3]: Aufgehoben durch Ziff. I der V vom 19. Juni 2024, mit Wirkung seit 1. Jan. 2027 ([AS 2024 374](https://fedlex.data.admin.ch/eli/oc/2024/374)).
+[^67b-4]: Fassung gemäss Ziff. I der V vom 16. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1461](https://fedlex.data.admin.ch/eli/oc/2020/281)).
 
 #### Art. 67c
 
