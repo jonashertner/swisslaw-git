@@ -3,20 +3,19 @@ canton: GL
 number: VI E/31/2
 title: Verordnung über die Fischerei
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
+version: 2027-01-01
 version_adopted: 2026-02-04
 adopted: 1997-11-12
 in_force: 1998-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.31.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2674/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2675/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Fischerei
 
-Vom 12.11.1997 (Stand 01.01.2026)
+Vom 12.11.1997 (Stand 01.01.2027)
 
 Der Landrat,
 
@@ -153,6 +152,43 @@ beschliesst:
 
 <sup>4</sup> Vorsorglich entzogene Patente sind innert zehn Tagen mit einem entsprechenden Rapport der kantonalen Fischereibehörde zu übermitteln. Diese entscheidet über den Patententzug.
 
+#### Art. 13a
+
+**Abgabe für Bauten und Anlagen, a. Abgabepflicht**
+
+<sup>1</sup> Eine Abgabe gemäss Artikel 21a Absatz 2 des kantonalen Fischereigesetzes entrichten Betreiber von:
+
+- a. Wasserkraftwerken;
+- b. Geschiebeentnahmestellen;
+- c. permanenten Furten;
+- d. Wasch- und Lagerplätzen mit Sedimenteintrag.
+
+#### Art. 13b
+
+**Abgabe für Bauten und Anlagen, b. Bemessung der Abgabe**
+
+<sup>1</sup> Zur Bemessung der Abgabe sind die folgenden Angaben zu ermitteln:
+
+- a. quantitative Bewertung der Aspekte gemäss Artikel 21a Absatz 2 des kantonalen Fischereigesetzes auf Basis der Bewertungstabellen in Artikel A1-1–A1-6;
+- b. Breitenfaktor des betroffenen Gewässers gemäss Artikel A1-7;
+- c. Längen- bzw. Wanderfischfaktor des betroffenen Gewässers gemäss Artikel A1-8.
+
+<sup>2</sup> Die Bemessung der Abgabe erfolgt gemäss der Formel in Artikel A1-12, indem:
+
+- a. für jeden Aspekt die gewässerökologische Beeinträchtigung ermittelt wird durch:
+  - 1\. Multiplikation der quantitativen Bewertung mit dem Längen- bzw. Wanderfischfaktor, dem Breitenfaktor und der Gewichtung gemäss Artikel A1-9; und
+  - 2\. Addition eines Siebtels der Gewässergrössenbewertung gemäss Artikel A1-10;
+- b. die gewässerökologische Beeinträchtigung mit dem für den jeweiligen Aspekt geltenden Kostensatz gemäss Artikel A1-11 multipliziert wird; sowie
+- c. die für die jeweiligen Aspekte ermittelten Kosten addiert werden.
+
+<sup>3</sup> Bei ausserordentlichen Fällen, insbesondere bei Wasserkraftwerken, die aufgrund ihrer Zusammensetzung mit mehreren Anlageteilen eine hohe Komplexität aufweisen, kann die Veranlagungs- und Bezugsbehörde von der Bemessung nach Absatz 1 und 2 abweichen.
+
+#### Art. 13c
+
+**Abgabe für Bauten und Anlagen, c. Vollzug**
+
+<sup>1</sup> Veranlagungs- und Bezugsbehörde ist das zuständige Departement.
+
 #### Art. 14
 
 **Aufhebung bisherigen Rechts**
@@ -174,6 +210,206 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat bestimmt nach Genehmigung des Bundes[^15-1] das Inkrafttreten dieser Verordnung.
 
 [^15-1]: Genehmigt vom Eidgenössischen Departement des Innern am 11. Februar 1998 (bezieht sich auf Art. 1, 2, 3 Abs. 1, 5 Abs. 2, 6, 15)
+
+## A1. Anhang 1: Bemessung der Abgabe für Bauten und Anlagen
+
+#### Art. A1-1
+
+**Bewertungstabelle Fischwanderung**
+
+<sup>1</sup> Bewertungstabelle Fischaufstieg
+
+<table>
+<tr><th>Punkte</th><th>Auswirkung</th><th>Kriterium: Klassierung der Beeinträchtigung gemäss der Sanierung Fischgängigkeit (Fischaufstieg)</th></tr>
+<tr><td>0</td><td>keine</td><td>kein Wanderhindernis oder kein Fischgewässer</td></tr>
+<tr><td>-1</td><td>Beeinträchtigung klein</td><td>Fischaufstieg nicht sanierungspflichtig</td></tr>
+<tr><td>-2</td><td>Beeinträchtigung mittel</td><td>Fischaufstieg sanierungspflichtig mit geringer Priorität</td></tr>
+<tr><td>-4</td><td>Beeinträchtigung gross</td><td>Fischaufstieg sanierungspflichtig mit mittlerer Priorität</td></tr>
+<tr><td>-8</td><td>Beeinträchtigung sehr gross</td><td>Fischaufstieg sanierungspflichtig mit hoher Priorität</td></tr>
+</table>
+
+<sup>2</sup> Bewertungstabelle Fischabstieg
+
+<table>
+<tr><th>Punkte</th><th>Auswirkung</th><th>Kriterium: Klassierung der Beeinträchtigung gemäss der Sanierung Fischgängigkeit (Fischabstieg)</th></tr>
+<tr><td>0</td><td>keine</td><td>kein Wanderhindernis oder kein Fischgewässer</td></tr>
+<tr><td>-1</td><td>Beeinträchtigung klein</td><td>Fischabstieg nicht sanierungspflichtig</td></tr>
+<tr><td>-2</td><td>Beeinträchtigung mittel</td><td>Fischabstieg sanierungspflichtig mit geringer Priorität</td></tr>
+<tr><td>-4</td><td>Beeinträchtigung gross</td><td>Fischabstieg sanierungspflichtig mit mittlerer Priorität</td></tr>
+<tr><td>-8</td><td>Beeinträchtigung sehr gross</td><td>Fischabstieg sanierungspflichtig mit hoher Priorität</td></tr>
+</table>
+
+#### Art. A1-2
+
+**Bewertungstabelle Restwasser-Lebensraum**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Punkte</th><th>Auswirkung</th><th>Kriterium: Beeinflussung der Restwassermenge</th></tr>
+<tr><td>0</td><td>keine</td><td>keine Restwasserstrecke oder es werden zusammen mit anderen Entnahmen einem Fliessgewässer höchstens 20 % der Abflussmenge Q347 und nicht mehr als 1000 l/s entnommen (Art. 30 des Gewässerschutzgesetzes [GSchG][^A12-1])</td></tr>
+<tr><td>-1</td><td>Beeinträchtigung klein</td><td>Restwassermenge &gt; natürliches Q347 oder Erhöhung Restwassermenge gemäss Art. 33 GSchG</td></tr>
+<tr><td>-2</td><td>Beeinträchtigung mittel</td><td>**Gewässer mit Abflussmenge Q347 ≥ 60 l/s:** Restwassermenge &lt; natürliches Q347 und ≥ Qmin; **Gewässer mit Abflussmenge Q347 &lt; 60 l/s:** Restwassermenge &lt; natürliches Q347 und ≥ 80 % Q347</td></tr>
+<tr><td>-4</td><td>Beeinträchtigung gross</td><td>**Gewässer mit Abflussmenge Q347 ≥ 60 l/s:** Restwassermenge &lt; Qmin; **Gewässer mit Abflussmenge Q347 &lt; 60 l/s:** Restwassermenge &lt; 80 % Q347</td></tr>
+<tr><td>-8</td><td>Beeinträchtigung sehr gross</td><td>keine Restwasserabgabe</td></tr>
+</table>
+
+[^A12-1]: SR 814.20
+
+#### Art. A1-3
+
+**Bewertungstabelle Hochwasserdynamik**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Punkte</th><th>Auswirkung</th><th>Kriterium: Grösse der nicht beeinflussten Hochwasser</th></tr>
+<tr><td>0</td><td>keine</td><td>Hochwasser ≤ Q80 werden durchgelassen</td></tr>
+<tr><td>-1</td><td>Beeinträchtigung klein</td><td>nur Hochwasser &gt; Q80 werden durchgelassen</td></tr>
+<tr><td>-2</td><td>Beeinträchtigung mittel</td><td>nur Hochwasser ≥ Q10 werden durchgelassen</td></tr>
+<tr><td>-4</td><td>Beeinträchtigung gross</td><td>nur Hochwasser ≥ Q2 werden durchgelassen</td></tr>
+<tr><td>-8</td><td>Beeinträchtigung sehr gross</td><td>nur Hochwasser ≥ Q1 werden durchgelassen</td></tr>
+</table>
+
+#### Art. A1-4
+
+**Bewertungstabelle Geschiebehaushalt**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Punkte</th><th>Auswirkung</th><th>Kriterium: Klassierung der Beeinträchtigung gemäss Sanierung Geschiebe</th></tr>
+<tr><td>0</td><td>keine</td><td>keine Beeinflussung des Geschiebetriebs durch Rückhalt oder Ablagerungen</td></tr>
+<tr><td>-1</td><td>Beeinträchtigung klein</td><td>Sanierung Geschiebe abgeschlossen</td></tr>
+<tr><td>-2</td><td>Beeinträchtigung mittel</td><td>Beeinträchtigung des Geschiebetriebs: gering</td></tr>
+<tr><td>-4</td><td>Beeinträchtigung gross</td><td>Beeinträchtigung des Geschiebetriebs: mässig</td></tr>
+<tr><td>-8</td><td>Beeinträchtigung sehr gross</td><td>Beeinträchtigung des Geschiebetriebs: stark</td></tr>
+</table>
+
+#### Art. A1-5
+
+**Bewertungstabelle Schwall-Sunk**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Punkte</th><th>Auswirkung</th><th>Kriterium: Klassierung der Beeinträchtigung gemäss Sanierung Schwall-Sunk</th></tr>
+<tr><td>0</td><td>keine</td><td>keine Beeinflussung durch Schwall-Sunk oder Wehrregulation; oder Sanierung Schwall-Sunk abgeschlossen</td></tr>
+<tr><td>-1</td><td>Beeinträchtigung klein</td><td>Beeinträchtigung durch Schwall-Sunk oder Wehrregulation klein: Pegelstandschwankungen werden vom oberliegenden Kraftwerk unverändert weitergeleitet und Pegelstandänderungen in der Restwasserstrecke aufgrund der Wehrregulation halten die gesetzlichen Vorgaben ein</td></tr>
+<tr><td>-2</td><td>Beeinträchtigung mittel</td><td>Beeinträchtigung durch Schwall-Sunk oder Wehrregulation mittel: Pegelstandschwankungen werden vom oberliegenden Kraftwerk unverändert weitergeleitet und Pegelstandänderungen in der Restwasserstrecke aufgrund der Wehrregulation halten die gesetzlichen Vorgaben nicht ein</td></tr>
+<tr><td>-4</td><td>Beeinträchtigung gross</td><td>Beeinträchtigung durch Schwall-Sunk oder Wehrregulation stark: Pegelstandschwankungen werden vom oberliegenden Kraftwerk verstärkt weitergeleitet und Pegelstandänderungen in der Restwasserstrecke aufgrund der Wehrregulation halten die gesetzlichen Vorgaben ein</td></tr>
+<tr><td>-8</td><td>Beeinträchtigung sehr gross</td><td>Beeinträchtigung durch Schwall-Sunk oder Wehrregulation sehr stark: Pegelstandschwankungen werden vom oberliegenden Kraftwerk verstärkt weitergeleitet und Pegelstandänderungen in der Restwasserstrecke aufgrund der Wehrregulation halten die gesetzlichen Vorgaben nicht ein</td></tr>
+</table>
+
+#### Art. A1-6
+
+**Bewertungstabelle Staubereich**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Punkte</th><th>Auswirkung</th><th>Kriterium: Länge des Staubereichs</th></tr>
+<tr><td>0</td><td>keine</td><td>kein Staubereich vorhanden</td></tr>
+<tr><td>-1</td><td>Beeinträchtigung klein</td><td>Staubereich ≤ 10 m</td></tr>
+<tr><td>-2</td><td>Beeinträchtigung mittel</td><td>Staubereich ≤ 20 m</td></tr>
+<tr><td>-4</td><td>Beeinträchtigung gross</td><td>Staubereich ≤ 50 m</td></tr>
+<tr><td>-8</td><td>Beeinträchtigung sehr gross</td><td>Staubereich &gt; 50 m</td></tr>
+</table>
+
+#### Art. A1-7
+
+**Breitenfaktor des betroffenen Gewässers**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Breitenfaktor</th><th>Breitenklasse</th></tr>
+<tr><td>0.25</td><td>&lt; 1 m</td></tr>
+<tr><td>0.5</td><td>1–5 m</td></tr>
+<tr><td>1</td><td>5–10 m</td></tr>
+<tr><td>2</td><td>10–20 m</td></tr>
+<tr><td>4</td><td>&gt; 20 m</td></tr>
+</table>
+
+#### Art. A1-8
+
+**Längen- bzw. Wanderfischfaktor des betroffenen Gewässers**
+
+<sup>1</sup> Längenfaktor des betroffenen Gewässers
+
+<table>
+<tr><th>Längenfaktor</th><th>Längenklasse</th></tr>
+<tr><td>0.25</td><td>&lt; 5 m</td></tr>
+<tr><td>0.5</td><td>5–10 m</td></tr>
+<tr><td>1</td><td>10–100 m</td></tr>
+<tr><td>2</td><td>100–1000 m</td></tr>
+<tr><td>4</td><td>&gt; 1 km</td></tr>
+<tr><td>8</td><td>&gt; 10 km</td></tr>
+</table>
+
+<sup>2</sup> Wanderfischfaktor des betroffenen Gewässers
+
+<table>
+<tr><th>Wanderfischfaktor</th><th>Wanderfischarten</th></tr>
+<tr><td>0</td><td>keine</td></tr>
+<tr><td>4</td><td>Bachforelle, Äsche</td></tr>
+<tr><td>8</td><td>Seeforelle, Lachs</td></tr>
+</table>
+
+#### Art. A1-9
+
+**Gewichtung der Aspekte**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Aspekt</th><th>Gewichtung [in Prozent]</th></tr>
+<tr><td>Fischaufstieg</td><td>15</td></tr>
+<tr><td>Fischabstieg</td><td>5</td></tr>
+<tr><td>Restwasser-Lebensraum</td><td>35</td></tr>
+<tr><td>Hochwasserdynamik</td><td>10</td></tr>
+<tr><td>Geschiebehaushalt</td><td>10</td></tr>
+<tr><td>Schwall-Sunk</td><td>20</td></tr>
+<tr><td>Staubereich</td><td>5</td></tr>
+</table>
+
+#### Art. A1-10
+
+**Bewertung der Gewässergrösse**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Gewässergrössenbewertung</th><th>Klasse</th></tr>
+<tr><td>2</td><td>MQ &lt; 0.05 m³/s</td></tr>
+<tr><td>4</td><td>MQ 0.05–1 m³/s</td></tr>
+<tr><td>8</td><td>MQ &gt; 1 m³/s</td></tr>
+</table>
+
+#### Art. A1-11
+
+**Kostensätze für die Aspekte**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Aspekt</th><th>Kosten pro Punkt vor Sanierung [in Fr.]</th><th>Kosten pro Punkt nach Sanierung [in Fr.]</th></tr>
+<tr><td>Fischaufstieg</td><td>450</td><td>250</td></tr>
+<tr><td>Fischabstieg</td><td>450</td><td>250</td></tr>
+<tr><td>Restwasser-Lebensraum</td><td>400</td><td>400</td></tr>
+<tr><td>Hochwasserdynamik</td><td>300</td><td>300</td></tr>
+<tr><td>Geschiebehaushalt</td><td>450</td><td>300</td></tr>
+<tr><td>Schwall-Sunk</td><td>450</td><td>300</td></tr>
+<tr><td>Staubereich</td><td>300</td><td>300</td></tr>
+</table>
+
+<sup>2</sup> Die Kostensätze nach Sanierung finden erst Anwendung, wenn die abgabepflichtige Baute und Anlage im betreffenden Aspekt nach Massgabe der einschlägigen Bewertungstabelle eine Bewertung von -1 oder 0 erreicht.
+
+#### Art. A1-12
+
+**Formel zur Berechnung der Abgabe**
+
+<sup>1</sup>
 
 Datum des Inkrafttretens: 1. April 1998[^footer-1]
 
