@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFAG del 29 novembre 2019 concernente le misure fitosanit
 short: OMF-UFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: it
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2019-757-20260701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2019-757-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/it"
 
 (OMF-UFAG)
 
-del 29 novembre 2019 (Stato 1° luglio 2026)
+del 29 novembre 2019 (Stato 1° gennaio 2027)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -275,7 +275,7 @@ Allegato 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Aggiornato dalla cifra I dell’O dell’UFAG del 30 ott. 2020 ([RU 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), dalla cifra II cpv. 1 dell’O dell’UFAG del 25 nov. 2021 ([RU 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), dalla cifra I dell’O dell’UFAG dell’8 nov. 2022 ([RU 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), dalla cifra II cpv. 1 dell’O dell’UFAG del 26 mag. 2025 ([RU 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) e dalla cifra I cpv. 2 dell’O dell’UFAG del 29 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
+[^t-4]: Aggiornato dalla cifra I dell’O dell’UFAG del 30 ott. 2020 ([RU 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), dalla cifra II cpv. 1 dell’O dell’UFAG del 25 nov. 2021 ([RU 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), dalla cifra I dell’O dell’UFAG dell’8 nov. 2022 ([RU 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), dalla cifra II cpv. 1 dell’O dell’UFAG del 26 mag. 2025 ([RU 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) e dalla cifra I cpv. 2 dell’O dell’UFAG del 29 mag. 2026, in vigore dal1° lug. 2026 e il n. 11 dal 1° gen. 2027 ([RU 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
 [^annex4-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### 1 ...
@@ -524,6 +524,12 @@ Il servizio cantonale competente può revocare la delimitazione se, sulla base d
 <sup>11</sup> Se le aziende di cui all’articolo 76 OSalV sono interessate dalle misure di cui ai capoversi 1–3, la competenza per l’attuazione delle misure spetta al SFF. È fatto salvo l’articolo 13 capoverso 4 lettere a e b OSalV.
 
 <sup>12</sup> Se un’area delimitata interessa più Cantoni o un Paese confinante, il servizio cantonale competente dispone le misure di cui ai capoversi 1–3 d’intesa con il SFF.
+
+### 11 *Ralstonia pseudosolanacearum* (Safni *et al.*)
+
+### 11.1 Misure volte a impedire l’introduzione e la diffusione
+
+Per prevenire l’introduzione e la diffusione di *Ralstonia pseudosolanacearum* (Safni et al.) le superfici sulle quali vengono prodotti rizomi di *Curcuma longa* L. o *Zingiber officinale* Roscoe a fini alimentari devono essere notificati ogni anno al servizio cantonale competente.
 
 Allegato 5[^t-5]
 

@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFAG du 29 novembre 2019 sur les mesures phytosanitaires
 short: OMP-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: fr
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-757-20260701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-757-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/fr"
 
 (OMP-OFAG)
 
-du 29 novembre 2019 (État le 1<sup>er</sup> juillet 2026)
+du 29 novembre 2019 (État le 1<sup>er</sup> janvier 2027)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -275,7 +275,7 @@ Annexe 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I de l’O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), le ch. II al. 1 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), le ch. I de l’O de l’OFAG du 8 nov. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) et le ch. I al. 2 de l’O de l’OFAG du 29 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
+[^t-4]: Mise à jour par le ch. I de l’O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), le ch. II al. 1 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), le ch. I de l’O de l’OFAG du 8 nov. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) et le ch. I al. 2 de l’O de l’OFAG du 29 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026, le ch. 11 en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
 [^annex4-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### 1 …
@@ -524,6 +524,12 @@ La délimitation peut être levée si, sur la base des enquêtes effectués conf
 <sup>11</sup> Si les mesures prévues aux al. 1 à 3 concernent des exploitations autorisées au sens de l’art. 76 OSaVé, la compétence et la mise en œuvre des mesures incombent au SPF et non au service cantonal compétent. L’art. 13, al. 4, let. a et b, OSaVé est réservé.
 
 <sup>12</sup> Si plusieurs cantons ou un pays voisin sont concernés par une zone délimitée, les mesures mentionnées aux al. 1 à 3 sont ordonnées par le service cantonal compétent, en accord avec le SPF.
+
+### 11 *Ralstonia pseudosolanacearum* (Safni et. al)
+
+### 11.1 Mesures contre l’introduction et la propagation
+
+Les surfaces sur lesquelles sont produits des rhizomes de *Curcuma longa* L. ou de *Zingiber officinale* Roscoe destinés à l’alimentation doivent être déclarées chaque année au service cantonal compétent afin de prévenir l’introduction et la propagation de *Ralstonia pseudosolanacearum* (Safni et al.).
 
 Annexe 5[^t-5]
 

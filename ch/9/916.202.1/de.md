@@ -4,11 +4,11 @@ title: Verordnung des BLW vom 29. November 2019 über phytosanitäre Massnahmen 
 short: VpM-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: de
-version: 2026-07-01
+version: 2027-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2019-757-20260701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2019-757-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/de"
 
 (VpM-BLW)
 
-vom 29. November 2019 (Stand am 1. Juli 2026)
+vom 29. November 2019 (Stand am 1. Januar 2027)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -274,7 +274,7 @@ Anhang 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des BLW vom 30. Okt. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) und Ziff. II Abs. 1 der V des BLW vom 25. Nov. 2021 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), Ziff. I der V des BLW vom 8. Nov. 2022 ([AS 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), Ziff. II Abs. 1 der V des BLW vom 26. Mai 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) und Ziff. I Abs. 2 der V des BLW vom 29. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
+[^t-4]: Bereinigt gemäss Ziff. I der V des BLW vom 30. Okt. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) und Ziff. II Abs. 1 der V des BLW vom 25. Nov. 2021 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), Ziff. I der V des BLW vom 8. Nov. 2022 ([AS 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), Ziff. II Abs. 1 der V des BLW vom 26. Mai 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) und Ziff. I Abs. 2 der V des BLW vom 29. Mai 2026, in Kraft seit 1. Juli 2026, Ziff. 11 in Kraft seit 1. Jan. 2027 ([AS 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
 [^annex4-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### 1 …
@@ -523,6 +523,12 @@ Der zuständige kantonale Dienst kann die Abgrenzung aufheben, wenn *Popillia* *
 <sup>11</sup> Sind Betriebe nach Artikel 76 PGesV von den Massnahmen nach den Absätzen 1–3 betroffen, so liegt die Zuständigkeit für die Umsetzung der Massnahmen beim EPSD. Artikel 13 Absatz 4 Buchstaben a und b PGesV bleibt vorbehalten.
 
 <sup>12</sup> Sind von einem abgegrenzten Gebiet mehrere Kantone oder ein Nachbarland betroffen, so ordnet der zuständige kantonale Dienst die Massnahmen nach den Absätzen 1–3 im Einvernehmen mit dem EPSD an.
+
+### 11 *Ralstonia pseudosolanacearum* (Safni *et al.*)
+
+### 11.1 Massnahmen gegen die Einschleppung und Ausbreitung
+
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Ralstonia pseudosolanacearum* (Safni et al.) sind Flächen, auf denen Rhizome von *Curcuma longa* L. oder *Zingiber officinale* Roscoe für die Ernährung produziert werden, dem zuständigen kantonalen Dienst jährlich zu melden.
 
 Anhang 5[^t-5]
 
