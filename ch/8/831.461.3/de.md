@@ -4,11 +4,11 @@ title: Verordnung vom 13. November 1985 über die steuerliche Abzugsberechtigung
 short: BVV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: de
-version: 2025-01-01
+version: 2027-06-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20250101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20270601/de/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20270601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20270601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/de"
 
 (BVV 3)
 
-vom 13. November 1985 (Stand am 1. Januar 2025)
+vom 13. November 1985 (Stand am 1. Juni 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -74,14 +74,20 @@ Als Begünstigte sind folgende Personen zugelassen:
   - 4\. die Geschwister,
   - 5\. die übrigen Erben.
 
-<sup>2</sup> Der Vorsorgenehmer kann eine oder mehrere begünstigte Personen unter den in Absatz 1 Buchstabe b Ziffer 2 genannten Begünstigten bestimmen und deren Ansprüche näher bezeichnen.[^2-3]
+<sup>2</sup>
 
-<sup>3</sup> Der Vorsorgenehmer hat das Recht, die Reihenfolge der Begünstigten nach Absatz l Buchstabe b Ziffern 3–5 zu ändern und deren Ansprüche näher zu bezeichnen.[^2-4]
+Der Vorsorgenehmer kann:
+
+- a. die Ansprüche der einzelnen in Absatz 1 Buchstabe b Ziffer 2 genannten Begünstigten näher bezeichnen;
+- b. zum Kreis der Begünstigten nach Absatz 1 Buchstabe b Ziffer 1 eine oder mehrere Personen nach Absatz 1 Buchstabe b Ziffer 2 hinzufügen und die Ansprüche der einzelnen Begünstigten näher bezeichnen;
+- c. die Reihenfolge der Begünstigten nach Absatz 1 Buchstabe b Ziffern 3–5 ändern und ihre Ansprüche näher bezeichnen.[^2-3]
+
+<sup>3</sup> Bei der näheren Bezeichnung der Ansprüche darf der Vorsorgenehmer den Anteil einer der begünstigten Personen nach Absatz 1 Buchstabe b Ziffer 1 oder 2 nicht auf weniger als 10 Prozent des Vorsorgekapitals kürzen.[^2-4]
 
 [^2-1]: Fassung gemäss Anhang Ziff. 4 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^2-2]: Fassung gemäss Ziff. I 4 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^2-3]: Fassung gemäss Anhang Ziff. 2 der V vom 10. Juni 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
-[^2-4]: Eingefügt durch Anhang Ziff. 2 der V vom 10. Juni 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^2-3]: Fassung gemäss Ziff. I 2 der V vom 12. Juni 2026, in Kraft seit 1. Juni 2027 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^2-4]: Eingefügt durch Anhang Ziff. 2 der V vom 10. Juni 2005 ([AS 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)). Fassung gemäss Ziff. I 2 der V vom 12. Juni 2026, in Kraft seit 1. Juni 2027 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 2a
 

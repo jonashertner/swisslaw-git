@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1985 sur les déductions admises fiscalement po
 short: OPP 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: fr
-version: 2025-01-01
+version: 2027-06-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20250101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20270601/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20270601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20270601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/fr"
 
 (OPP 3)
 
-du 13 novembre 1985 (État le 1<sup>er</sup> janvier 2025)
+du 13 novembre 1985 (État le 1<sup>er</sup> juin 2027)
 
 Le Conseil fédéral suisse,
 
@@ -74,14 +74,20 @@ Les personnes suivantes ont qualité de bénéficiaires:
   - 4\. les frères et sœurs,
   - 5\. les autres héritiers.
 
-<sup>2</sup> Le preneur de prévoyance peut désigner un ou plusieurs bénéficiaires parmi les personnes mentionnées à l’al. 1, let. b, ch. 2 et préciser leurs droits.[^2-3]
+<sup>2</sup>
 
-<sup>3</sup> Le preneur de prévoyance a le droit de modifier l’ordre des bénéficiaires selon l’al. 1, let. b, ch. 3 à 5, et de préciser leurs droits.[^2-4]
+Le preneur de prévoyance peut:
+
+- a. préciser les droits de chacun des bénéficiaires mentionnés à l’al. 1, let. b, ch. 2;
+- b. inclure dans le cercle des bénéficiaires défini à l’al. 1, let. b, ch. 1 une ou plusieurs personnes mentionnées à l’al. 1, let. b, ch. 2, et préciser les droits de chacun des bénéficiaires;
+- c. modifier l’ordre des bénéficiaires prévu à l’al. 1, let. b, ch. 3 à 5, et préciser leurs droits.[^2-3]
+
+<sup>3</sup> Lorsqu’il précise les droits, le preneur de prévoyance ne peut pas réduire la quote-part d’un des bénéficiaires visés à l’al. 1, let. b, ch. 1 ou 2 à moins de 10 % du capital de prévoyance.[^2-4]
 
 [^2-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^2-2]: Nouvelle teneur selon le ch. I 4 de l’O du 29 sept. 2006 sur la mise en oeuvre de la L du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^2-3]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
-[^2-4]: Introduit par le ch. 2 de l’annexe à l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^2-3]: Nouvelle teneur selon le ch. I 2 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> juin 2027 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^2-4]: Introduit par le ch. 2 de l’annexe à l’O du 10 juin 2005 ([RO 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)). Nouvelle teneur selon le ch. I 2 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> juin 2027 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 2a
 

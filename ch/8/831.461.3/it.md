@@ -4,11 +4,11 @@ title: Ordinanza del 13 novembre 1985 sulla legittimazione alle deduzioni fiscal
 short: OPP 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778"
 language: it
-version: 2025-01-01
+version: 2027-06-01
 adopted: 1985-11-13
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20250101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778/20270601/it/xml/fedlex-data-admin-ch-eli-cc-1985-1778_1778_1778-20270601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20270601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1778_1778_1778/20250101/it"
 
 (OPP 3)
 
-del 13 novembre 1985 (Stato 1° gennaio 2025)
+del 13 novembre 1985 (Stato 1° giugno 2027)
 
 Il Consiglio federale svizzero,
 
@@ -74,14 +74,20 @@ Sono considerate beneficiarie le persone seguenti:
   - 4\. i fratelli e le sorelle;
   - 5\. gli altri eredi.
 
-<sup>2</sup> L’intestatario può designare una o più persone tra i beneficiari menzionati al capoverso 1 lettera b numero 2 e precisare i diritti di ciascuna di esse.[^2-3]
+<sup>2</sup>
 
-<sup>3</sup> L’intestatario ha il diritto di modificare l’ordine dei beneficiari di cui al capoverso 1 lettera b numeri 3 a 5 e di precisare i diritti di ciascuna di queste persone.[^2-4]
+L’intestatario può:
+
+- a. precisare i diritti dei singoli beneficiari menzionati al capoverso 1 lettera b numero 2;
+- b. includere nella cerchia dei beneficiari di cui al capoverso 1 lettera b numero 1 una o più persone menzionate al capoverso 1 lettera b numero 2 e precisare i diritti dei singoli beneficiari;
+- c. modificare l’ordine dei beneficiari di cui al capoverso 1 lettera b numeri 3–5 e precisare i diritti di ciascuna di queste persone.[^2-3]
+
+<sup>3</sup> In caso di precisazione dei diritti, l’intestatario non può ridurre la quota di uno dei beneficiari di cui al capoverso 1 lettera b numero 1 o 2 a meno del 10 per cento del capitale di previdenza.[^2-4]
 
 [^2-1]: Nuovo testo giusta l’all. n. 4 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^2-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 29 set. 2006 concernente l’attuazione della L del18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
-[^2-3]: Nuovo testo giusta l’all. n. 2 dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
-[^2-4]: Introdotto dall’all. n. 2 dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^2-3]: Nuovo testo giusta la cifra I n. 2 dell’O del 12 giu. 2026, in vigore dal 1° giu. 2027 ([RU 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^2-4]: Introdotto dall’all. n. 2 dell’O del 10 giu. 2005 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)). Nuovo testo giusta la cifra I n, 2 dell’O del 12 giu. 2026, in vigore dal 1° giu. 2027 ([RU 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 2a
 
