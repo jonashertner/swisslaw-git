@@ -3,20 +3,19 @@ canton: LU
 number: 506a
 title: "Reglement über die Maturitätsprüfungen am Gymnasium der RIS Swiss Section, Deutschsprachige Schule Bangkok"
 language: de
-version: 2026-08-01
-valid_until: 2031-07-31
-version_adopted: 2026-03-31
+version: 2031-08-01
+version_adopted: 2026-04-21
 adopted: 2008-04-15
 in_force: 2008-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506a"
-pdf: "https://srl.lu.ch/api/de/versions/4823/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4824/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Maturitätsprüfungen am Gymnasium der RIS Swiss Section, Deutschsprachige Schule Bangkok
 
-vom 15.04.2008 (Stand 01.08.2026)
+vom 15.04.2008 (Stand 01.08.2031)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -49,7 +48,7 @@ beschliesst:
 
 <sup>2</sup> Die Maturitätskommission wählt aus ihrer Mitte die Vizepräsidentin oder den Vizepräsidenten und die Sekretärin oder den Sekretär.
 
-<sup>3</sup> Sie koordiniert und beaufsichtigt die Maturitätsprüfungen, erlässt Weisungen über die Organisation der Prüfungen, die Prüfungstermine, die Dauer der Prüfungen, die Prüfungsaufgaben, die Maturaarbeit, die Abschlussprüfung im Freifach, die Tätigkeit der Expertinnen und Experten sowie der Examinatorinnen und Examinatoren und bezeichnet die für jedes Fach erforderlichen Expertinnen und Experten.
+<sup>3</sup> Sie koordiniert und beaufsichtigt die Maturitätsprüfungen, erlässt Weisungen über die Organisation der Prüfungen, die Prüfungstermine, die Dauer der Prüfungen, die Prüfungsaufgaben, die Maturitätsarbeit, die Abschlussprüfung im Freifach, die Tätigkeit der Expertinnen und Experten sowie der Examinatorinnen und Examinatoren und bezeichnet die für jedes Fach erforderlichen Expertinnen und Experten.
 
 <sup>4</sup> Sie hat das Recht, Anträge zuhanden des Bildungs- und Kulturdepartementes des Kantons Luzern zu stellen. Die Kommissionsmitglieder können jederzeit Schulbesuche, insbesondere in den Maturitätsfächern, durchführen.
 
@@ -63,7 +62,7 @@ beschliesst:
 
 **Unredlichkeiten**
 
-<sup>1</sup> Bei Unredlichkeiten im Zusammenhang mit der Maturaarbeit, der Maturitätsprüfung oder dem Maturitätszeugnis, insbesondere bei Mitbringen oder Gebrauch unerlaubter Hilfsmittel, wird die Prüfung von der Maturitätskommission als nicht bestanden oder das Maturitätszeugnis als ungültig erklärt.
+<sup>1</sup> Bei Unredlichkeiten im Zusammenhang mit der Maturitätsarbeit, der Maturitätsprüfung oder dem Maturitätszeugnis, insbesondere bei Mitbringen oder Gebrauch unerlaubter Hilfsmittel, wird die Prüfung von der Maturitätskommission als nicht bestanden oder das Maturitätszeugnis als ungültig erklärt.
 
 <sup>2</sup> Die Maturitätskommission entscheidet, ob die Maturitätsprüfung gemäss § 24 des Maturitätsreglementes wiederholt werden kann.
 
