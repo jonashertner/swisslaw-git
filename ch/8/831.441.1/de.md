@@ -4,11 +4,11 @@ title: "Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassen
 short: BVV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: de
-version: 2026-08-01
+version: 2027-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20260801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/de"
 
 (BVV 2)
 
-vom 18. April 1984 (Stand am 1. August 2026)
+vom 18. April 1984 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -267,12 +267,12 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement vom massgebenden Lohn der AHV ab
 
 ### (Art. 8 BVG)
 
-<sup>1</sup> Für Personen, die gemäss Artikel 2 BVG obligatorisch zu versichern sind und die bei einem Arbeitgeber einen massgebenden AHV-Lohn von mehr als 22 680 Franken beziehen, muss ein Betrag in der Höhe von mindestens 3780 Franken versichert werden.[^3a-2]
+<sup>1</sup> Für Personen, die gemäss Artikel 2 BVG obligatorisch zu versichern sind und die bei einem Arbeitgeber einen massgebenden AHV-Lohn von mehr als 23 040 Franken beziehen, muss ein Betrag in der Höhe von mindestens 3840 Franken versichert werden.[^3a-2]
 
 <sup>2</sup> Der versicherte Mindestlohn nach Absatz 1 gilt auch für die obligatorische Versicherung von Personen, bei denen die Grenzbeträge nach Artikel 4 gekürzt werden.
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^3a-2]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 4
 
@@ -295,13 +295,13 @@ Die Grenzbeträge nach den Artikeln 2, 7, 8 und 46 BVG werden wie folgt erhöht:
 
 <table>
 <tr><th>Bisherige Beträge Franken</th><th>Neue Beträge Franken</th></tr>
-<tr><td>22 050</td><td>22 680</td></tr>
-<tr><td>25 725</td><td>26 460</td></tr>
-<tr><td>88 200</td><td>90 720</td></tr>
-<tr><td>3675</td><td>3780</td></tr>
+<tr><td>22 680</td><td>23 040</td></tr>
+<tr><td>26 460</td><td>26 880</td></tr>
+<tr><td>90 720</td><td>92 160</td></tr>
+<tr><td>3780</td><td>3840</td></tr>
 </table>
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 6
 
@@ -1418,7 +1418,7 @@ Sammel- und Gemeinschaftseinrichtungen, die dem FZG unterstellt sind, dürfen be
 [^47-1]: Fassung gemäss Ziff. I der V vom 24. April 1996, in Kraft seit 1. Juli 1996 ([AS 1996 1494](https://fedlex.data.admin.ch/eli/oc/1996/1494_1494_1494)).
 [^47-2]: Fassung gemäss Ziff. I der V vom 24. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 [^47-3]: Fassung gemäss Ziff. I der V vom 24. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^47-4]: Siehe www.fer.ch/inhalt/home/home/news.html; Bezugsquelle der Publikation: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich (www.verlagskv.ch).
+[^47-4]: Siehe [www.fer.ch/inhalt/home/home/news.html](http://www.fer.ch/inhalt/home/home/news.html); Bezugsquelle der Publikation: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](http://www.verlagskv.ch)).
 [^47-5]: Fassung gemäss Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4143](https://fedlex.data.admin.ch/eli/oc/2013/764)).
 [^47-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^47-7]: Fassung gemäss Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
@@ -2355,7 +2355,7 @@ Anhang[^t-1]
 
 <sup>1</sup> Der Deckungsgrad der Vorsorgeeinrichtung wird wie folgt ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20270101/de/xml/image/image1.png)
 
 Wobei für Vv gilt: Die gesamten Aktiven per Bilanzstichtag zu Marktwerten bilanziert, vermindert um Verbindlichkeiten, passive Rechnungsabgrenzung und Arbeitgeberbeitragsreserven, soweit keine Vereinbarung über einen Verwendungsverzicht des Arbeitgebers vorliegt. Es ist das effektive Vorsorgevermögen massgebend, wie es aus der tatsächlichen finanziellen Lage nach Artikel 47 Absatz 2 hervorgeht. Eine Arbeitgeberbeitragsreserve mit Verwendungsverzicht (AGBR mit Verwendungsverzicht), die Wertschwankungsreserven und die Umlageschwankungsreserven sind dem verfügbaren Vorsorgevermögen zuzurechnen.
 

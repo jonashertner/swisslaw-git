@@ -4,11 +4,11 @@ title: "Ordinanza del 18 aprile 1984 sulla previdenza professionale per la vecch
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: it
-version: 2026-08-01
+version: 2027-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20260801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/it"
 
 (OPP 2)
 
-del 18 aprile 1984 (Stato 1° agosto 2026)
+del 18 aprile 1984 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -267,12 +267,12 @@ Nel suo regolamento l’istituto di previdenza può derogare al salario determin
 
 ### (art. 8 LPP)
 
-<sup>1</sup> Per le persone che sottostanno all’assicurazione obbligatoria ai sensi dell’articolo 2 LPP e che percepiscono da un datore di lavoro un salario determinante AVS superiore a 22 680 franchi, deve essere assicurato un importo di almeno 3780 franchi.[^3a-2]
+<sup>1</sup> Per le persone che sottostanno all’assicurazione obbligatoria ai sensi dell’articolo 2 LPP e che percepiscono da un datore di lavoro un salario determinante AVS superiore a 23 040 franchi, deve essere assicurato un importo di almeno 3840 franchi.[^3a-2]
 
 <sup>2</sup> Il salario minimo assicurato secondo il capoverso 1 vale anche per l’assicurazione obbligatoria di persone per le quali gli importi limite sono ridotti conformemente all’articolo 4.
 
 [^3a-1]: Introdotto dalla cifra I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^3a-2]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 4
 
@@ -293,13 +293,13 @@ Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come seg
 
 <table>
 <tr><th>Importi precedenti in fr.</th><th>Nuovi importi in fr.</th></tr>
-<tr><td>22 050</td><td>22 680</td></tr>
-<tr><td>25 725</td><td>26 460</td></tr>
-<tr><td>88 200</td><td>90 720</td></tr>
-<tr><td>3 675</td><td>3 780</td></tr>
+<tr><td>22 680</td><td>23 040</td></tr>
+<tr><td>26 460</td><td>26 880</td></tr>
+<tr><td>90 720</td><td>92 160</td></tr>
+<tr><td>3 780</td><td>3 840</td></tr>
 </table>
 
-[^5-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 6
 
@@ -432,7 +432,7 @@ Sull’avere di vecchiaia si corrisponde un interesse minimo:
 [^12-10]: Introdotta dalla cifra I dell’O del 26 ott. 2016 ([RU 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
 [^12-11]: Introdotta dalla cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
 
-#### Art. 12a e 12b
+#### Art. 12a–12b
 
 [^12a12b-1]
 
@@ -673,7 +673,7 @@ I contributi versati dall’assicurato secondo l’articolo 20*a* capoverso 1 le
 
 ### Sezione 5: …
 
-#### Art. 21 a 23
+#### Art. 21–23
 
 [^2123-1]
 
@@ -1282,7 +1282,7 @@ Esplicando il suo mandato, il perito deve conformarsi alle direttive dell’auto
 
 **Definizione dei rischi**
 
-### ( art. 67 LPP)
+### (art. 67 LPP)
 
 Sono considerati rischi secondo l’articolo 67 LPP quelli di vecchiaia, di morte e d’invalidità.
 
@@ -2354,7 +2354,7 @@ Allegato[^t-1]
 
 <sup>1</sup> Il grado di copertura dell’istituto di previdenza è determinato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20270101/it/xml/image/image1.png)
 
 Pp corrisponde a: Tutti gli attivi alla data di chiusura del bilancio a valori di mercato, al netto degli obblighi, del conto terzi e delle riserve di contributi del datore di lavoro per le quali non vi è un accordo di rinuncia all’utilizzazione. È determinante il patrimonio di previdenza effettivo risultante dalla situazione finanziaria reale conformemente all’articolo 47 capoverso 2. La riserva di contributi dei datori di lavoro con rinuncia all’utilizzazione (RCDL con rinuncia all’utilizzazione), le riserve di fluttuazione e le riserve di fluttuazione nella ripartizione devono essere aggiunte al patrimonio di previdenza disponibile.
 

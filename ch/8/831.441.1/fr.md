@@ -4,11 +4,11 @@ title: "Ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieilless
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: fr
-version: 2026-08-01
+version: 2027-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20260801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/fr"
 
 (OPP 2)
 
-du 18 avril 1984 (État le 1<sup>er</sup> août 2026)
+du 18 avril 1984 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -267,12 +267,12 @@ L’institution de prévoyance peut, dans son règlement, s’écarter comme il 
 
 ### (art. 8 LPP)
 
-<sup>1</sup> Pour les personnes qui sont assurées obligatoirement selon l’art. 2 LPP et qui perçoivent d’un même employeur un salaire AVS supérieur à 22 680 francs, un montant de 3780 francs au moins doit être assuré.[^3a-2]
+<sup>1</sup> Pour les personnes qui sont assurées obligatoirement selon l’art. 2 LPP et qui perçoivent d’un même employeur un salaire AVS supérieur à 23 040 francs, un montant de 3840 francs au moins doit être assuré.[^3a-2]
 
 <sup>2</sup> Le salaire assuré minimal prévu à l’al. 1 est aussi valable pour l’assurance obligatoire des personnes pour lesquelles les montants-limites ont été réduits conformément à l’art. 4.
 
 [^3a-1]: Introduit parle ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 4
 
@@ -295,13 +295,13 @@ Les montants-limites fixés aux art. 2, 7, 8 et 46 LPP sont adaptés comme suit:
 
 <table>
 <tr><th>Anciens montants Francs</th><th>Nouveaux montants Francs</th></tr>
-<tr><td>22 050</td><td>22 680</td></tr>
-<tr><td>25 725</td><td>26 460</td></tr>
-<tr><td>88 200</td><td>90 720</td></tr>
-<tr><td>3675</td><td>3780</td></tr>
+<tr><td>22 680</td><td>2026</td></tr>
+<tr><td>26 460</td><td>26 880</td></tr>
+<tr><td>90 720</td><td>92 160</td></tr>
+<tr><td>3780</td><td>3840</td></tr>
 </table>
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 6
 
@@ -2351,7 +2351,7 @@ Annexe[^t-1]
 
 <sup>1</sup> Le taux de couverture de l’institution de prévoyance est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20270101/fr/xml/image/image1.png)
 
 où Fp: est égal à l’ensemble des actifs à la date du bilan et à la valeur du marché, diminués des engagements, des passifs de régularisation et des réserves de cotisations de l’employeur, pour autant qu’aucun accord sur une renonciation à leur utilisation par l’employeur n’ait été conclu, la fortune de prévoyance effective, telle qu’elle ressort de la situation financière réelle au sens de l’art. 47, al. 2, étant déterminante; une réserve de cotisations de l’employeur incluant une déclaration de renonciation à leur utilisation, les réserves de fluctuation de valeur et les réserves de fluctuation dans la répartition ne sont pas déduites de la fortune de prévoyance disponible, et
 
