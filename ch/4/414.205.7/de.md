@@ -3,11 +3,11 @@ sr: "414.205.7"
 title: Verordnung des Hochschulrates vom 20. Mai 2021 über die Zulassung zu den Fachhochschulen und den Fachhochschulinstituten (Zulassungsverordnung FH)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/316"
 language: de
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2021-05-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2021-316-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2021-316-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20250701/de"
 
 (Zulassungsverordnung FH)
 
-vom 20. Mai 2021 (Stand am 1. Juli 2025)
+vom 20. Mai 2021 (Stand am 1. Januar 2027)
 
 Der Hochschulrat,
 
-gestützt auf die Artikel 12 Absatz 3 Buchstabe a Ziffer 1 und 25 Absatz 2 des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011[^ingress-1] (HFKG) und auf Artikel 2 Absatz 2 Buchstabe b Ziffer 1 der Vereinbarung vom 26. Februar 2015[^ingress-2] zwischen dem Bund und den Kantonen über die Zusammenarbeit im Hochschulbereich,
+gestützt auf die Artikel 12 Absatz 3 Buchstabe a Ziffer 1, 25 Absatz 2 und 25*a* Absatz 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011[^ingress-1] (HFKG) und auf Artikel 2 Absatz 2 Buchstabe b Ziffer 1 der Vereinbarung vom 26. Februar 2015[^ingress-2] zwischen dem Bund und den Kantonen über die Zusammenarbeit im Hochschulbereich,[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
+[^ingress-3]: Fassung gemäss Ziff. I der V des Hochschulrats vom 18. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 477](https://fedlex.data.admin.ch/eli/oc/2026/477)).
 
 ## 1. Abschnitt: Gegenstand
 
@@ -41,7 +42,10 @@ Diese Verordnung regelt für das Fachhochschulstudium auf der Bachelorstufe in d
 
 <sup>2</sup> Für ein Fachhochschulstudium auf der Bachelorstufe im Fachbereich Gesundheit regelt sie die Abklärung der persönlichen Eignung der Kandidatinnen und Kandidaten für das Berufsfeld sowie das Selektionsverfahren für die Studienplatzverteilung. Ansonsten richtet sich die Zulassung nach Artikel 73 Absatz 3 Buchstabe a HFKG.[^1-1]
 
+<sup>3</sup> Diese Verordnung regelt für das Fachhochschulstudium auf Bachelorstufe mit integrierter Praxis in den Bereichen Mathematik, Informatik, Naturwissenschaften und Technik die Studiengänge, die weiteren Voraussetzungen für die Zulassung und Studiengestaltung sowie die regelmässige Evaluation.[^1-2]
+
 [^1-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 28. Febr. 2025, in Kraft seit 1. Juli 2025 ([AS 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+[^1-2]: Eingefügt durch Ziff. I der V des Hochschulrats vom 18. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 477](https://fedlex.data.admin.ch/eli/oc/2026/477)).
 
 ## 2. Abschnitt: Zulassung ohne oder mit Aufnahmeprüfung
 
@@ -177,6 +181,53 @@ Für den Fachbereich angewandte Psychologie muss der Nachweis einer mindestens e
 <sup>2</sup> Sie sorgen dafür, dass das angewandte Verfahren insbesondere Kandidatinnen und Kandidaten mit einem eidgenössischen Fähigkeitszeugnis im Gesundheitsbereich und einer Berufsmaturität, Kandidatinnen und Kandidaten mit einer Fachmaturität Gesundheit sowie Kandidatinnen und Kandidaten mit einer gymnasialen Maturität weder begünstigt oder benachteiligt.
 
 <sup>3</sup> Sie überprüfen das Selektionsverfahren regelmässig.
+
+## 4*b*. Abschnitt: Besondere Bestimmungen für Bachelorstudiengänge mit integrierter Praxis
+
+[^sec4b-1]
+
+[^sec4b-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 18. Sept. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 477](https://fedlex.data.admin.ch/eli/oc/2026/477)).
+
+#### Art. 12b<sup>bis</sup>
+
+**Zulassung**
+
+Die Inhaberinnen und Inhaber der Zulassungsausweise nach Artikel 25*a* Absatz 2 HFKG können ohne einjährige Arbeitswelterfahrung zum ersten Studiensemester der folgenden Bachelorstudiengängen mit integrierter Praxis prüfungsfrei zugelassen werden:
+
+- a. Studiengänge des Fachbereichs Technik und Informationstechnologie;
+- b. Bauingenieurwesen;
+- c. Biotechnologie;
+- d. Chemie;
+- e. Holztechnik;
+- f. Life Science Technologies;
+- g. Life Technologies;
+- h. Molecular Life Sciences.
+
+#### Art. 12b<sup>ter</sup>
+
+**Weitere Zulassungsvoraussetzungen und Studiengestaltung**
+
+Die Zulassung zum Bachelorstudium nach Artikel 25*a* Absatz 1 HFKG erfolgt, wenn zusätzlich die folgenden Voraussetzungen erfüllt sind:
+
+- a. Der Praxisanteil im Unternehmen beträgt 40 Prozent der gesamten Studienzeit.
+- b. Der Inhalt des Praxisanteils ist von der Fachhochschule validiert.
+- c. Die Kandidatin oder der Kandidat hat mit dem Unternehmen einen Ausbildungsvertrag über vier Jahre abgeschlossen; der Vertrag muss von der Fachhochschule validiert sein.
+
+#### Art. 12b<sup>quater</sup>
+
+**Regelmässige Evaluation**
+
+<sup>1</sup>
+
+Der Hochschulrat erstattet dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung zuhanden des Bundesrats für die Botschaft zur Förderung von Bildung, Forschung und Innovation (BFI-Botschaft) alle vier Jahre Bericht zur Entwicklung der praxisintegrierten Bachelorstudiengänge. Er überprüft insbesondere die Auswirkung der Zulassung auf:
+
+- a. die Studierendenzahlen;
+- b. die Nachfrage nach Absolventinnen und Absolventen auf dem Arbeitsmarkt;
+- c. den Verbleib der Absolventinnen und Absolventen im Arbeitsmarkt;
+- d. die Praxisorientierung der Studierenden;
+- e. das Bildungssystem.
+
+<sup>2</sup> Erstmals erfolgt die Berichterstattung im Hinblick auf die BFI-Botschaft 2033–2036.
 
 ## 5. Abschnitt: Schlussbestimmungen
 

@@ -3,11 +3,11 @@ sr: "414.205.7"
 title: Ordinanza del Consiglio delle scuole universitarie del 20 maggio 2021 sull’ammissione alle scuole universitarie professionali e agli istituti universitari professionali (Ordinanza sull’ammissione alle SUP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/316"
 language: it
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2021-05-20
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2021-316-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/316/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-316-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/316/20250701/it"
 
 (Ordinanza sull’ammissione alle SUP)
 
-del 20 maggio 2021 (Stato 1° luglio 2025)
+del 20 maggio 2021 (Stato 1° gennaio 2027)
 
 Il Consiglio delle scuole universitarie,
 
-visti gli articoli 12 capoverso 3 lettera a numero 1 e 25 capoverso 2 della legge federale del 30 settembre 2011[^ingress-1] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU); visto l’articolo 2 capoverso 2 lettera b numero 1 della Convenzione del 26 febbraio 2015[^ingress-2] tra la Confederazione e i Cantoni sulla cooperazione nel settore universitario,
+visti gli articoli 12 capoverso 3 lettera a numero 1, 25 capoverso 2 e 25*a* capoverso 3 della legge federale del 30 settembre 2011[^ingress-1] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU); visto l’articolo 2 capoverso 2 lettera b numero 1 della Convenzione del 26 febbraio 2015[^ingress-2] tra la Confederazione e i Cantoni sulla cooperazione nel settore universitario,[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 18 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 477](https://fedlex.data.admin.ch/eli/oc/2026/477)).
 
 ## Sezione 1: Oggetto
 
@@ -41,7 +42,10 @@ La presente ordinanza disciplina per gli studi di livello bachelor presso una sc
 
 <sup>2</sup> Per gli studi di livello bachelor presso una scuola universitaria professionale nel settore di studio della sanità, essa disciplina la verifica dell’idoneità dei candidati al campo professionale e la procedura di selezione per l’assegnazione dei posti di studio. Per il resto, l’ammissione è disciplinata dall’articolo 73 capoverso 3 lettera a LPSU.[^1-1]
 
+<sup>3</sup> La presente ordinanza disciplina per gli studi di livello bachelor presso una scuola universitaria professionale con pratica integrata nei settori della matematica, dell’informatica, delle scienze naturali e della tecnica i cicli di studio, le altre condizioni per l’ammissione, la struttura degli studi e la valutazione periodica.[^1-2]
+
 [^1-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 28 feb. 2025, in vigore dal 1° lug. 2025 ([RU 2025 333](https://fedlex.data.admin.ch/eli/oc/2025/333)).
+[^1-2]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 18 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 477](https://fedlex.data.admin.ch/eli/oc/2026/477)).
 
 ## Sezione 2: Ammissione senza e con esame d’ammissione
 
@@ -177,6 +181,53 @@ Nel settore di studio della psicologia applicata i candidati devono dimostrare d
 <sup>2</sup> Garantiscono che la procedura applicata non favorisca né penalizzi in particolare i candidati titolari di un attestato federale di capacità nel settore della sanità accompagnato da una maturità professionale, i candidati titolari di una maturità specializzata nel settore della sanità nonché i candidati titolari di una maturità liceale.
 
 <sup>3</sup> Verificano la procedura di selezione a intervalli regolari.
+
+## Sezione 4*b*: Disposizioni speciali per i cicli di studio bachelor con pratica integrata
+
+[^sec4b-1]
+
+[^sec4b-1]: Introdotta dalla cifra I dell’O del Consiglio delle scuole universitarie del 18 set. 2026, in vigore dal 1° gen. 2027 ([RU 2026 477](https://fedlex.data.admin.ch/eli/oc/2026/477)).
+
+#### Art. 12b<sup>bis</sup>
+
+**Ammissione**
+
+I titolari dei certificati di ammissione di cui all’articolo 25*a* capoverso 2 LPSU che non dispongono di un’esperienza lavorativa di un anno possono essere ammessi senza esame al primo semestre di studio dei seguenti cicli di studio bachelor con pratica integrata:
+
+- a. cicli di studio nel settore di studio tecnica e tecnologia dell’informazione;
+- b. ingegneria civile;
+- c. biotecnologia;
+- d. chimica;
+- e. tecnica del legno;
+- f. tecnologie della scienza della vita;
+- g. tecnologie della vita;
+- h. scienze della vita molecolare.
+
+#### Art. 12b<sup>ter</sup>
+
+**Altre condizioni per l’ammissione e struttura degli studi**
+
+L’ammissione ai cicli di studio bachelor di cui all’articolo 25*a* capoverso 1 LPSU è concessa se sono inoltre soddisfatte le seguenti condizioni:
+
+- a. la parte pratica svolta all’interno di un’impresa rappresenta il 40 per cento della durata totale degli studi;
+- b. il contenuto della parte pratica è convalidato dalla scuola universitaria professionale;
+- c. il candidato è in possesso di un contratto di formazione di quattro anni concluso con un’impresa e convalidato dalla scuola universitaria professionale.
+
+#### Art. 12b<sup>quater</sup>
+
+**Valutazione periodica**
+
+<sup>1</sup>
+
+Il Consiglio delle scuole universitarie presenta ogni quattro anni al Dipartimento federale dell’economia, della formazione e della ricerca, all’attenzione del Consiglio federale, un rapporto sullo sviluppo dei cicli di studio bachelor con pratica integrata per il messaggio sulla promozione dell’educazione, della ricerca e dell’innovazione (messaggio ERI). Esamina in particolare gli effetti dell’ammissione:
+
+- a. sul numero di studenti;
+- b. sulla domanda di diplomati sul mercato del lavoro;
+- c. sulla permanenza dei diplomati nel mercato del lavoro;
+- d. sull’orientamento pratico degli studenti;
+- e. sul sistema formativo.
+
+<sup>2</sup> Il primo rapporto è presentato in vista del messaggio ERI 2033–2036.
 
 ## Sezione 5: Disposizioni finali
 
