@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2007 sugli assegni familiari (OAFami)
 short: OAFami
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: it
-version: 2025-01-01
+version: 2027-07-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20250101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20270701/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20270701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20270701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/it"
 
 (OAFami)
 
-del 31 ottobre 2007 (Stato 1° gennaio 2025)
+del 31 ottobre 2007 (Stato 1° luglio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 4 capoverso 3, 13 capoverso 4, 21*b* capoverso 1, 21*e* e 27 
 
 ordina:
 
-[^ingress-1]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^ingress-1]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O dell’8 set. 2010, in vigore dal 15 ott. 2010 ([RU 2010 4495](https://fedlex.data.admin.ch/eli/oc/2010/637)).
 
 ## Sezione 1: Disposizioni generali
@@ -41,7 +41,7 @@ ordina:
 <sup>2</sup> È considerata formazione postobbligatoria la formazione successiva alla scuola dell’obbligo. La durata e la conclusione della scuola dell’obbligo sono stabilite dalle disposizioni cantonali applicabili.
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^1-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^1-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 2
 
@@ -62,8 +62,8 @@ L’assegno di nascita è versato se:
 
 <sup>4</sup> Qualora più persone abbiano diritto all’assegno di nascita per il medesimo figlio, l’assegno spetta alla persona che ha diritto agli assegni familiari per il figlio in questione. Se l’assegno di nascita che spetterebbe al secondo avente diritto è più elevato, questi ha diritto alla differenza.
 
-[^2-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^2-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^2-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^2-2]: [RS 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
 
 #### Art. 3
 
@@ -86,7 +86,7 @@ L’assegno di adozione è versato se:
 <sup>4</sup> Qualora più persone abbiano diritto all’assegno di adozione per il medesimo adottando, l’assegno spetta alla persona che ha diritto agli assegni familiari per l’adottando in questione. Se l’assegno di adozione che spetterebbe al secondo avente diritto è più elevato, questi ha diritto alla differenza.[^3-4]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^3-2]: [RS 211.221.36](https://fedlex.data.admin.ch/eli/cc/2011/505)
+[^3-2]: [RS 211.221.36](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5740)
 [^3-3]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 [^3-4]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 
@@ -100,7 +100,7 @@ L’assegno di adozione è versato se:
 
 <sup>2</sup> Sono considerati figliastri anche i figli del partner ai sensi della legge del 18 giugno 2004[^4-1] sull’unione domestica registrata.
 
-[^4-1]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^4-1]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 5
 
@@ -110,7 +110,7 @@ L’assegno di adozione è versato se:
 
 Gli affiliati danno diritto agli assegni familiari se i genitori affilianti si sono assunti gratuitamente e durevolmente le spese di mantenimento e d’educazione conformemente all’articolo 49 capoverso 1 dell’ordinanza del 31 ottobre 1947[^5-1] sull’assicurazione per la vecchiaia e per i superstiti.
 
-[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 6
 
@@ -137,7 +137,7 @@ L’avente diritto provvede prevalentemente al mantenimento se:
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^7-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -193,28 +193,19 @@ Si considerano succursali gli istituti e gli stabilimenti in cui è esercitata a
 
 Il diritto agli assegni familiari continua a sussistere anche senza diritto legale allo stipendio durante:
 
-- a. al massimo 16 settimane, in caso di congedo di maternità;
-- b. al massimo 22 settimane complessive, in caso di prolungamento del congedo di maternità in seguito a degenza ospedaliera del neonato;
-- b<sup>bis</sup>.[^10-4] al massimo 16 settimane complessive, in caso di prolungamento del congedo di maternità in seguito al decesso dell’altro genitore;
-- b<sup>ter</sup>.[^10-5] al massimo 24 settimane complessive, in caso di prolungamento del congedo di maternità in seguito a degenza ospedaliera del neonato e al decesso dell’altro genitore;
-- c.[^10-6] al massimo 2 settimane, in caso di congedo per l’altro genitore;
-- c<sup>bis</sup>.[^10-7] al massimo 16 settimane complessive, in caso di prolungamento del congedo per l’altro genitore in seguito al decesso della madre;
-- c<sup>ter</sup>.[^10-8] al massimo 24 settimane complessive, in caso di prolungamento del congedo per l’altro genitore in seguito al decesso della madre e alla degenza ospedaliera del neonato;
-- d. al massimo 14 settimane, in caso di congedo per l’assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio;
-- e. al massimo 2 settimane, in caso di congedo di adozione;
-- f. il congedo, in caso di congedo giovanile secondo l’articolo 329*e* capoverso 1 CO.[^10-9]
+- a. al massimo 16 settimane dopo il parto;
+- b. un congedo di maternità prolungato conformemente all’articolo 329*f* capoverso 2 o 3 CO;
+- c. il congedo per l’altro genitore secondo l’articolo 329*g* o 329*g*<sup>bis</sup> CO;
+- d. il congedo di assistenza secondo l’articolo 329*i* CO;
+- e. il congedo di adozione secondo l’articolo 329*j* CO;
+- f. il congedo giovanile secondo l’articolo 329*e* CO.[^10-4]
 
 <sup>3</sup> Se il salariato decede, gli assegni familiari sono versati ancora per il mese corrente e per i tre mesi successivi.
 
-[^10-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^10-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^10-2]: Introdotto dalla cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Introdotto dalla cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^10-4]: Introdotta dall’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-5]: Introdotta dall’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-6]: Nuovo testo giusta l’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-7]: Introdotta dall’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-8]: Introdotta dall’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-9]: Nuovo testo giusta l’all. n. 2 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^10-4]: Nuovo testo giusta la cifra II n. 2 dell’O del 26 ago. 2026, in vigore dal 1° lug. 2027 ([RU 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 10a
 
@@ -302,7 +293,7 @@ Eccedenze derivanti dalla fusione o dallo scioglimento di casse di compensazione
 
 <sup>4</sup> Il Dipartimento federale delle finanze, d’intesa con il Dipartimento federale dell’interno e il Dipartimento federale degli affari esteri, può emanare disposizioni esecutive concernenti in particolare l’organizzazione, l’affiliazione alla cassa, il controllo dei datori di lavoro, la struttura dei contributi, le spese amministrative, la costituzione della riserva di fluttuazione e la revisione della cassa.
 
-[^15-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^15-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 ## Sezione 4: Ordinamento degli assegni familiari per le persone prive di attività lucrativa
 
@@ -321,9 +312,9 @@ Non sono considerati persone prive di attività lucrativa ai sensi della LAFam:[
 
 [^16-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2009, in vigore dall’8 nov. 2009 ([RU 2009 5367](https://fedlex.data.admin.ch/eli/oc/2009/639)).
 [^16-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2013 ([RU 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^16-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16-4]: Introdotta dalla cifra I dell’O del 28 ott. 2009, in vigore dall’8 nov. 2009 ([RU 2009 5367](https://fedlex.data.admin.ch/eli/oc/2009/639)).
-[^16-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^16-5]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 16a
 
@@ -338,8 +329,8 @@ Non sono considerati persone prive di attività lucrativa ai sensi della LAFam:[
 <sup>3</sup> Il diritto agli assegni familiari per il figlio inizia il primo giorno del mese della sua nascita.
 
 [^16a-1]: Introdotto dalla cifra I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^16a-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^16a-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^16a-2]: [RS 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
+[^16a-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 17
 
@@ -349,7 +340,7 @@ Non sono considerati persone prive di attività lucrativa ai sensi della LAFam:[
 
 Per la determinazione del reddito delle persone prive di attività lucrativa è determinante il reddito imponibile secondo la legge federale del 14 dicembre 1990[^17-1] sull’imposta federale diretta.
 
-[^17-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^17-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 18
 
@@ -401,7 +392,7 @@ I seguenti servizi sono autorizzati ad accedere in linea al registro degli asseg
 
 [^18b-1]: Nuovo testo giusta l’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^18b-2]: Nuovo testo giusta l’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^18b-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^18b-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 18c
 
@@ -457,16 +448,16 @@ La protezione dei dati e la sicurezza delle informazioni sono rette:[^18h-2]
 
 - a.[^18h-3] dall’ordinanza del 31 agosto 2022[^18h-4] sulla protezione dei dati;
 - b.[^18h-5] dall’ordinanza dell’8 novembre 2023[^18h-6] sulla sicurezza delle informazioni;
-- c.[^18h-7] ...
+- c.[^18h-7] …
 
 <sup>2</sup> L’Ufficio centrale di compensazione, i servizi di cui all’articolo 21*c* LAFam e i datori di lavoro adottano le misure organizzative e tecniche necessarie a garantire la sicurezza dei dati.
 
 [^18h-1]: Nuovo testo giusta l’all. 2 cifra II n. 40 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^18h-2]: Nuovo testo giusta l’all. 2 cifra II n. 40 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^18h-3]: Nuovo testo giusta l’all. 2 cifra II n. 121 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18h-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18h-5]: Nuovo testo giusta l’all. 2 n. II 40 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^18h-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18h-4]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^18h-5]: Nuovo testo giusta l’all. 2 cifra II n. 40 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^18h-6]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^18h-7]: Abrogata dall’all. n. 32 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 18i
@@ -501,7 +492,7 @@ I servizi cantonali di cui all’articolo 21*e*<sup>bis</sup> LAFam hanno access
 - e. l’inizio e la fine del diritto.
 
 [^18j-1]: Introdotto dall’all. n. 6 dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^18j-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^18j-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## Sezione 5: Diritto di ricorso delle autorità
 
@@ -589,6 +580,6 @@ Allegato
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52).

@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2007 über die Familienzulagen (Familienzulage
 short: FamZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: de
-version: 2025-01-01
+version: 2027-07-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20270701/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20270701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20270701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/de"
 
 (Familienzulagenverordnung, FamZV)
 
-vom 31. Oktober 2007 (Stand am 1. Januar 2025)
+vom 31. Oktober 2007 (Stand am 1. Juli 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 4 Absatz 3, 13 Absatz 4, 21*b* Absatz 1, 21*e* und 27 
 
 verordnet:
 
-[^ingress-1]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^ingress-1]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 8. Sept. 2010, in Kraft seit 15. Okt. 2010 ([AS 2010 4495](https://fedlex.data.admin.ch/eli/oc/2010/637)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -41,7 +41,7 @@ verordnet:
 <sup>2</sup> Als nachobligatorische Ausbildung gilt die Ausbildung, welche auf die obligatorische Schule folgt. Dauer und Ende der obligatorischen Schule richten sich nach den jeweiligen kantonalen Bestimmungen.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^1-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^1-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 2
 
@@ -63,8 +63,8 @@ Die Geburtszulage wird ausgerichtet, wenn:
 <sup>4</sup> Haben mehrere Personen für das gleiche Kind Anspruch auf eine Geburtszulage, so steht der Anspruch jener Person zu, die für dieses Kind Anspruch auf Familienzulagen hat. Ist die Geburtszulage der zweitanspruchsberechtigten Person höher, so hat diese Anspruch auf die Differenz.
 
 [^2-1]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^2-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^2-3]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^2-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^2-3]: [SR 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
 
 #### Art. 3
 
@@ -87,7 +87,7 @@ Die Adoptionszulage wird ausgerichtet, wenn:
 <sup>4</sup> Haben mehrere Personen für das gleiche Kind Anspruch auf eine Adoptionszulage, so steht der Anspruch jener Person zu, die für dieses Kind Anspruch auf Familienzulagen hat. Ist die Adoptionszulage der zweitanspruchsberechtigten Person höher, so hat diese Anspruch auf die Differenz.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^3-2]: [SR 211.221.36](https://fedlex.data.admin.ch/eli/cc/2011/505)
+[^3-2]: [SR 211.221.36](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5740)
 
 #### Art. 4
 
@@ -99,7 +99,7 @@ Die Adoptionszulage wird ausgerichtet, wenn:
 
 <sup>2</sup> Als Stiefkinder gelten auch die Kinder der Partnerin oder des Partners im Sinne des Partnerschaftsgesetzes vom 18. Juni 2004[^4-1].
 
-[^4-1]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^4-1]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 5
 
@@ -109,7 +109,7 @@ Die Adoptionszulage wird ausgerichtet, wenn:
 
 Für Pflegekinder besteht ein Anspruch auf Familienzulagen, wenn sie im Sinne von Artikel 49 Absatz 1 der Verordnung vom 31. Oktober 1947[^5-1] über die Alters- und Hinterlassenenversicherung unentgeltlich zu dauernder Pflege und Erziehung aufgenommen worden sind.
 
-[^5-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 6
 
@@ -136,7 +136,7 @@ Die bezugsberechtigte Person kommt in überwiegendem Mass für den Unterhalt auf
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^7-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -192,29 +192,19 @@ Als Zweigniederlassungen gelten Einrichtungen und Betriebsstätten, in denen auf
 
 Der Anspruch auf Familienzulagen bleibt auch ohne gesetzlichen Lohnanspruch bestehen:
 
-- a. bei einem Mutterschaftsurlaub: während höchstens 16 Wochen;
-- b.[^10-4] bei einer Verlängerung des Mutterschaftsurlaubs wegen Spitalaufenthalts des Neugeborenen: während insgesamt höchstens 22 Wochen;
-- b<sup>bis</sup>.[^10-5] bei einer Verlängerung des Mutterschaftsurlaubs im Todesfall des anderen Elternteils: während insgesamt höchstens 16 Wochen;
-- b<sup>ter</sup>.[^10-6] bei einer Verlängerung des Mutterschaftsurlaubs im Falle eines Spitalaufenthalts des Neugeborenen und im Todesfall des anderen Elternteils: während insgesamt höchstens 24 Wochen;
-- c.[^10-7] bei einem Urlaub des anderen Elternteils: während höchstens 2 Wochen;
-- c<sup>bis</sup>.[^10-8] bei einer Verlängerung des Urlaubs des anderen Elternteils im Todesfall der Mutter: während insgesamt höchstens 16 Wochen;
-- c<sup>ter</sup>.[^10-9] bei einer Verlängerung des Urlaubs des anderen Elternteils im Todesfall der Mutter und im Falle eines Spitalaufenthalts des Neugeborenen: während insgesamt höchstens 24 Wochen;
-- d. bei einem Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes: während höchstens 14 Wochen;
-- e. bei einem Adoptionsurlaub: während 2 Wochen;
-- f. bei einem Jugendurlaub nach Artikel 329*e* Absatz 1 OR: während des Urlaubs.[^10-10]
+- a. während höchstens sechzehn Wochen nach der Niederkunft;
+- b. während eines gestützt auf Artikel 329*f* Absatz 2 oder 3 OR verlängerten Mutterschaftsurlaubs;
+- c. während des Urlaubs des andern Elternteils nach den Artikeln 329*g* oder 329*g*<sup>bis</sup> OR;
+- d. während des Betreuungsurlaubs nach Artikel 329*i* OR;
+- e. während des Adoptionsurlaubs nach Artikel 329*j* OR;
+- f. während des Jugendurlaubs nach Artikel 329*e* OR.[^10-4]
 
 <sup>3</sup> Stirbt der Arbeitnehmer oder die Arbeitnehmerin, so werden die Familienzulagen noch während des laufenden Monats und der drei darauf folgenden Monate ausgerichtet.
 
-[^10-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^10-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^10-2]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^10-4]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-5]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-6]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-7]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-8]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-9]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-10]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^10-4]: Fassung gemäss Anhang Ziff. 2 der V vom 26. Aug. 2026, in Kraft seit 1. Juli 2027 ([AS 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 10a
 
@@ -300,7 +290,7 @@ Ein bei einem Zusammenschluss oder bei einer Auflösung von Familienausgleichska
 
 <sup>4</sup> Das Eidgenössische Finanzdepartement kann im Einvernehmen mit dem Eidgenössischen Departement des Innern und dem Eidgenössischen Departement für auswärtige Angelegenheiten Ausführungsbestimmungen insbesondere über die Organisation, die Kassenzugehörigkeit, die Arbeitgeberkontrolle, die Beitragsgestaltung, die Verwaltungskosten, die Bildung der Schwankungsreserve und die Kassenrevision erlassen.
 
-[^15-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^15-1]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 ## 4. Abschnitt: Familienzulagenordnung für Nichterwerbstätige
 
@@ -318,9 +308,9 @@ Nicht als nichterwerbstätige Personen im Sinne des FamZG gelten:
 - d.[^16-3] Asylsuchende, vorläufig Aufgenommene, Schutzbedürftige ohne Aufenthaltsbewilligung und weggewiesene Personen mit Anspruch auf Nothilfe nach Artikel 82 des Asylgesetzes vom 26. Juni 1998[^16-4], deren Beiträge nach Artikel 14 Absatz 2<sup>bis</sup> des AHVG noch nicht festgesetzt sind.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^16-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16-3]: Eingefügt durch Ziff. I der V vom 28. Okt. 2009, in Kraft seit 8. Nov. 2009 ([AS 2009 5367](https://fedlex.data.admin.ch/eli/oc/2009/639)).
-[^16-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^16-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 16a
 
@@ -335,9 +325,9 @@ Nicht als nichterwerbstätige Personen im Sinne des FamZG gelten:
 <sup>3</sup> Der Anspruch auf Familienzulagen für das Kind beginnt am ersten Tag des Monats, in dem das Kind geboren wurde.
 
 [^16a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^16a-2]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^16a-2]: [SR 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
 [^16a-3]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^16a-4]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^16a-4]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 17
 
@@ -347,7 +337,7 @@ Nicht als nichterwerbstätige Personen im Sinne des FamZG gelten:
 
 Für die Bemessung des Einkommens der Nichterwerbstätigen ist das steuerbare Einkommen nach dem Bundesgesetz vom 14. Dezember 1990[^17-1] über die direkte Bundessteuer massgebend.
 
-[^17-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^17-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 18
 
@@ -399,7 +389,7 @@ Die folgenden Stellen haben Online-Zugriff auf das Familienzulagenregister:[^18b
 
 [^18b-1]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^18b-2]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^18b-3]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^18b-3]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 18c
 
@@ -462,9 +452,9 @@ Der Datenschutz und die Informationssicherheit richten sich nach:[^18h-2]
 [^18h-1]: Fassung gemäss Anhang 2 Ziff. II 40 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^18h-2]: Fassung gemäss Anhang 2 Ziff. II 40 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^18h-3]: Fassung gemäss Anhang 2 Ziff. II 121 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18h-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18h-4]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^18h-5]: Fassung gemäss Anhang 2 Ziff. II 40 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^18h-6]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18h-6]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^18h-7]: Aufgehoben durch Anhang Ziff. 32 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 18i
@@ -499,7 +489,7 @@ Die kantonalen Stellen nach Artikel 21*e**<sup>bis</sup>* FamZG haben Zugriff au
 - e. den Beginn und das Ende des Anspruchs.
 
 [^18j-1]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^18j-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^18j-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## 5. Abschnitt: Beschwerdebefugnis der Behörden
 

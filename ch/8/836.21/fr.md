@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2007 sur les allocations familiales (OAFam)
 short: OAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: fr
-version: 2025-01-01
+version: 2027-07-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20270701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/fr"
 
 (OAFam)
 
-du 31 octobre 2007 (État le 1<sup>er</sup> janvier 2025)
+du 31 octobre 2007 (État le 1<sup>er</sup> juillet 2027)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 4, al. 3, 13, al. 4, 21*b,* al. 1, 21*e* et 27, al. 1, de la loi du 
 
 arrête:
 
-[^ingress-1]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^ingress-1]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 8 sept. 2010, en vigueur depuis le 15 oct. 2010 ([RO 2010 4495](https://fedlex.data.admin.ch/eli/oc/2010/637)).
 
 ## Section 1 Dispositions générales
@@ -41,7 +41,7 @@ arrête:
 <sup>2</sup> Est considérée comme formation postobligatoire la formation qui suit la scolarité obligatoire. La durée et la fin de la scolarité obligatoire sont régies par les dispositions de chaque canton.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^1-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^1-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 2
 
@@ -63,8 +63,8 @@ L’allocation de naissance est versée:
 <sup>4</sup> Lorsque plusieurs personnes peuvent faire valoir un droit à l’allocation de naissance pour le même enfant, le droit à cette prestation appartient à la personne qui a droit aux allocations familiales pour cet enfant. Si l’allocation de naissance du second ayant droit est plus élevée, ce dernier a droit au versement de la différence.
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^2-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^2-3]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^2-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^2-3]: [RS 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
 
 #### Art. 3
 
@@ -87,7 +87,7 @@ L’allocation d’adoption est versée:
 <sup>4</sup> Lorsque plusieurs personnes peuvent faire valoir un droit à l’allocation d’adoption pour le même enfant, le droit à cette prestation appartient à la personne qui a droit aux allocations familiales pour cet enfant. Si l’allocation d’adoption du second ayant droit est plus élevée, ce dernier a droit au versement de la différence.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^3-2]: [RS 211.221.36](https://fedlex.data.admin.ch/eli/cc/2011/505)
+[^3-2]: [RS 211.221.36](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5740)
 
 #### Art. 4
 
@@ -99,7 +99,7 @@ L’allocation d’adoption est versée:
 
 <sup>2</sup> Sont aussi considérés comme des enfants du conjoint les enfants du partenaire au sens de la loi du 18 juin 2004 sur le partenariat[^4-1].
 
-[^4-1]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^4-1]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 5
 
@@ -109,7 +109,7 @@ L’allocation d’adoption est versée:
 
 L’enfant recueilli donne droit aux allocations familiales si l’ayant droit assume gratuitement et de manière durable les frais d’entretien et d’éducation au sens de l’art. 49, al. 1, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^5-1].
 
-[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^5-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 6
 
@@ -136,7 +136,7 @@ L’ayant droit assume l’entretien de l’enfant de manière prépondérante:
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -190,30 +190,21 @@ Sont considérées comme succursales les établissements ou installations dans l
 
 <sup>2</sup>
 
-Le droit aux allocations familiales subsiste même sans droit légal au salaire:
+Le droit aux allocations familiales est maintenu même sans droit légal au salaire:
 
-- a. lors d’un congé de maternité: pendant 16 semaines au maximum;
-- b. lors d’une prolongation du congé de maternité en raison d’une hospitalisation du nouveau-né: pendant une durée totale de 22 semaines au maximum;
-- b<sup>bis</sup>.[^10-4] lors d’une prolongation du congé de maternité en cas de décès de l’autre parent: pendant une durée totale de 16 semaines au maximum;
-- b<sup>ter</sup>.[^10-5] lors d’une prolongation du congé de maternité en cas d’hospitalisation du nouveau-né et de décès de l’autre parent: pendant une durée totale de 24 semaines au maximum;
-- c.[^10-6] lors d’un congé de l’autre parent: pendant 2 semaines au maximum;
-- c<sup>bis</sup>.[^10-7] lors d’une prolongation du congé de l’autre parent en cas de décès de la mère: pendant une durée totale de 16 semaines au maximum;
-- c<sup>ter</sup>.[^10-8] lors d’une prolongation du congé de l’autre parent en cas de décès de la mère et d’hospitalisation du nouveau-né: pendant une durée totale de 24 semaines au maximum;
-- d. lors d’un congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident: pendant 14 semaines au maximum;
-- e. lors d’un congé d’adoption: pendant 2 semaines au maximum;
-- f. lors d’un congé pour activités de jeunesse en vertu de l’art. 329*e*, al. 1, CO: pendant la durée de ce congé.[^10-9]
+- a. au maximum durant les 16 semaines suivant l’accouchement;
+- b. durant un congé de maternité prolongé en vertu de l’art. 329*f*, al. 2 ou 3, CO;
+- c. durant le congé de l’autre parent en vertu des art. 329*g* et 329*g*<sup>bis</sup> CO;
+- d. durant le congé de prise en charge en vertu de l’art. 329*i* CO;
+- e. durant le congé d’adoption en vertu de l’art. 329*j* CO;
+- f. durant le congé-jeunesse en vertu de l’art. 329*e* CO.[^10-4]
 
 <sup>3</sup> Si le salarié décède, les allocations familiales sont versées pendant le mois en cours et les trois mois suivants.
 
-[^10-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^10-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^10-2]: Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^10-4]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-5]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-6]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1er janv. 2025 (RO 2024 719).
-[^10-7]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur de-puis le 1er janv. 2025 (RO 2024 719).
-[^10-8]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^10-9]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^10-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2026 457](https://fedlex.data.admin.ch/eli/oc/2026/457)).
 
 #### Art. 10a
 
@@ -299,7 +290,7 @@ L’excédent éventuel résultant de la fusion ou de la dissolution de caisses 
 
 <sup>4</sup> Le Département fédéral des finances peut édicter, en accord avec le Département fédéral de l’intérieur et le Département fédéral des affaires étrangères, des dispositions d’exécution concernant notamment l’organisation, l’affiliation aux caisses, le contrôle des employeurs, les cotisations, les frais d’administration, la création d’une réserve de couverture des risques de fluctuation et la révision des caisses.
 
-[^15-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^15-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 ## Section 4 Régime d’allocations familiales pour les personnes sans activité lucrative
 
@@ -317,9 +308,9 @@ Ne sont pas considérées comme personnes sans activité lucrative au sens de la
 - d.[^16-3] les requérants d’asile, les personnes admises à titre provisoire, les personnes à protéger qui ne sont pas titulaires d’une autorisation de séjour et les personnes frappées d’une décision de renvoi qui, en vertu de l’art. 82 de la loi du 26 juin 1998 sur l’asile[^16-4], ont droit à l’aide d’urgence tant que leurs cotisations n’ont pas été fixées conformément à l’art. 14, al. 2<sup>bis</sup> LAVS.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^16-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16-3]: Introduite par le ch. I de l’O du 28 oct. 2009, en vigueur depuis le 8 nov. 2009 ([RO 2009 5367](https://fedlex.data.admin.ch/eli/oc/2009/639)).
-[^16-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^16-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 16a
 
@@ -334,9 +325,9 @@ Ne sont pas considérées comme personnes sans activité lucrative au sens de la
 <sup>3</sup> Le droit aux allocations familiales pour le nouveau-né commence le premier jour du mois de naissance de l’enfant.
 
 [^16a-1]: Introduit par le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
-[^16a-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^16a-2]: [RS 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
 [^16a-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^16a-4]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^16a-4]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 17
 
@@ -346,7 +337,7 @@ Ne sont pas considérées comme personnes sans activité lucrative au sens de la
 
 Pour le calcul du revenu des personnes sans activité lucrative, le revenu imposable selon la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^17-1] est déterminant.
 
-[^17-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^17-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 18
 
@@ -398,7 +389,7 @@ Les services suivants ont accès au registre des allocations familiales par une 
 
 [^18b-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^18b-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^18b-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^18b-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 18c
 
@@ -461,9 +452,9 @@ La protection des données et la sécurité de l’information sont régies par 
 [^18h-1]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^18h-2]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^18h-3]: Nouvelle teneur selon l’annexe 2 ch. II 121 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^18h-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18h-4]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^18h-5]: Nouvelle teneur selon l’annexe 2 ch. II 40 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^18h-6]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^18h-6]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^18h-7]: Abrogée par l’annexe ch. 32 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 18i
@@ -498,7 +489,7 @@ Les services cantonaux visés à l’art. 21*e*<sup>bis</sup> LAFam ont accès a
 - e. le début et la fin du droit.
 
 [^18j-1]: Introduit par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur de-puis le 1er janv. 2025 (RO 2024 719).
-[^18j-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^18j-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## Section 5 Droit de recours des autorités
 
