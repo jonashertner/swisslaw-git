@@ -4,11 +4,11 @@ title: Ordinanza del 23 dicembre 1992 sulla protezione dei marchi e delle indica
 short: OPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: it
-version: 2025-07-01
+version: 2027-01-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20250701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/it"
 
 (OPM)[^t-1]
 
-del 23 dicembre 1992 (Stato 1° luglio 2025)
+del 23 dicembre 1992 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -58,23 +58,24 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>1</sup> Le istanze inviate all’IPI devono essere redatte in una lingua ufficiale della Confederazione. Sono fatti salvi gli articoli 47 capoverso 3 e 52*p* capoverso 3.[^3-1]
 
-<sup>2</sup> L’IPI[^3-2] può chiedere che i documenti probatori che non sono redatti in una lingua ufficiale siano tradotti e che sia attestata l’esattezza della traduzione; è fatto salvo l’articolo 14 capoverso 3. Se, nonostante l’ingiunzione, la traduzione o l’attes-tazione non è presentata, il documento non è preso in considerazione.
+<sup>2</sup> Se i documenti di prova non sono redatti in una lingua ufficiale, l’IPI può esigere una traduzione e un’attestazione dell’esattezza di quest’ultima; è fatto salvo l’articolo 14 capoverso 3. Se, nonostante l’ingiunzione, la traduzione o l’attestazione non è presentata, il documento non è preso in considerazione.[^3-2]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^3-2]: Nuova espr. giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 4
 
 **Pluralità di depositanti o titolari di marchio**[^4-1]
 
-<sup>1</sup> Qualora più persone siano depositanti del medesimo marchio o titolari del medesimo diritto di marchio, devono o designare quella di esse cui l’IPI può inviare qualsiasi comunicazione, con effetto per tutte, o nominare un rappresentante comune.
+<sup>1</sup> Qualora più persone siano depositanti del medesimo marchio o titolari del medesimo diritto di marchio, devono o designare quella di esse cui l’IPI[^4-2] può inviare qualsiasi comunicazione, con effetto per tutte, o nominare un rappresentante comune.
 
 <sup>2</sup> Fintanto che l’una o l’altra di queste condizioni non sarà stata adempiuta, l’IPI designa una persona quale destinataria delle comunicazioni ai sensi del capoverso 1. Se una delle altre persone si oppone, l’IPI invita tutti gli interessati ad agire conformemente al capoverso 1.
 
-<sup>3</sup> I capoversi 1 e 2 si applicano parimenti alle domande di registrazione internazionale ai sensi degli articoli 50*d* e 50*e* LPM.[^4-2]
+<sup>3</sup> I capoversi 1 e 2 si applicano parimenti alle domande di registrazione internazionale ai sensi degli articoli 50*d* e 50*e* LPM.[^4-3]
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^4-2]: Introdotto dalla cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^4-2]: Nuova espr. giusta la cifra I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-3]: Introdotto dalla cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 #### Art. 4a
 
@@ -130,12 +131,9 @@ Alle tasse esigibili giusta la LPM o la presente ordinanza si applica l’ordina
 
 **Comunicazione elettronica**[^7a-1]
 
-<sup>1</sup> L’IPI può autorizzare la comunicazione elettronica.
+L’IPI determina le modalità tecniche della comunicazione elettronica e le pubblica in modo adeguato.
 
-<sup>2</sup> Determina le modalità tecniche e le pubblica in modo adeguato.[^7a-2]
-
-[^7a-1]: Introdotto dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^7a-2]: Introdotto dalla cifra II dell’O del 31 mar. 1999 relativa ai brevetti d’invenzione, in vigore dal 1° mag. 1999 ([RU 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 ## Capitolo 2: Registrazione dei marchi
 
@@ -170,29 +168,30 @@ Una domanda di registrazione ai sensi dell’articolo 46*a* LPM riceve, quale da
 La domanda di registrazione contiene:
 
 - a. la richiesta di registrazione del marchio;
-- b. il cognome e il nome o la ragione commerciale nonché l’indirizzo del depositante;
-- c.[^9-1] ...
-- d.[^9-2] ...
+- b. il cognome e il nome o la ditta[^9-1] nonché l’indirizzo del depositante;
+- c.[^9-2] ...
+- d.[^9-3] ...
 
 <sup>2</sup>
 
 Se del caso, essa deve essere completata con:
 
-- a.[^9-3] il recapito in Svizzera del depositante;
-- a<sup>bis</sup>.[^9-4] in caso di pluralità di depositanti: le coordinate del destinatario delle comunicazioni di cui all’articolo 4 capoverso 1 ed eventualmente il suo recapito;
-- a<sup>ter</sup>.[^9-5] il nome e l’indirizzo del rappresentante ed eventualmente il suo recapito in Svizzera;
+- a.[^9-4] il recapito in Svizzera del depositante;
+- a<sup>bis</sup>.[^9-5] in caso di pluralità di depositanti: le coordinate del destinatario delle comunicazioni di cui all’articolo 4 capoverso 1 ed eventualmente il suo recapito;
+- a<sup>ter</sup>.[^9-6] il nome e l’indirizzo del rappresentante ed eventualmente il suo recapito in Svizzera;
 - b. la dichiarazione di priorità (art. 12–14);
 - c. l’indicazione che si tratta di un marchio di garanzia o di un marchio collettivo;
-- c<sup>bis</sup>.[^9-6] l’indicazione che si tratta di un marchio geografico;
-- d.[^9-7] una prova di cancellazione della registrazione internazionale e dell’estensione della protezione alla Svizzera. Se è rivendicata la priorità della registrazione internazionale cancellata, non è più necessario un altro documento di priorità.
+- c<sup>bis</sup>.[^9-7] l’indicazione che si tratta di un marchio geografico;
+- d.[^9-8] una prova di cancellazione della registrazione internazionale e dell’estensione della protezione alla Svizzera. Se è rivendicata la priorità della registrazione internazionale cancellata, non è più necessario un altro documento di priorità.
 
-[^9-1]: Abrogata dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-2]: Abrogata dalla cifra I dell’O dell’8 mar. 2002, con effetto dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^9-3]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
-[^9-4]: Introdotta dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-5]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-6]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^9-7]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^9-1]: Nuova espressione giusta la cifra I cpv. 3 dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)). Di detta mod. è tenuto conto in tutto il testo.
+[^9-2]: Abrogata dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-3]: Abrogata dalla cifra I dell’O dell’8 mar. 2002, con effetto dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^9-5]: Introdotta dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)). Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-6]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-7]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^9-8]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 10
 
@@ -343,15 +342,16 @@ Per il proseguimento della procedura di una domanda respinta per inosservanza de
 
 **Forma e contenuto dell’opposizione**
 
-L’opposizione deve essere presentata in due esemplari e contenere:
+L’opposizione deve contenere:[^20-1]
 
-- a.[^20-1] il cognome e il nome o la ragione commerciale, l’indirizzo dell’opponente ed eventualmente il suo recapito in Svizzera;
+- a.[^20-2] il cognome e il nome o la ditta, l’indirizzo dell’opponente ed eventualmente il suo recapito in Svizzera;
 - b. il numero della registrazione o il numero del deposito sul quale si basa l’opposizione;
-- c. il numero della registrazione impugnata nonché il nome o la ragione commerciale del titolare del marchio;
+- c. il numero della registrazione impugnata nonché il nome o la ditta del titolare del marchio;
 - d. una dichiarazione che precisi in che misura è fatta opposizione alla registrazione;
 - e. una breve motivazione dell’opposizione.
 
-[^20-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 
 #### Art. 21
 
@@ -365,17 +365,19 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 #### Art. 22
 
-**Scambio di allegati**
+**Scambio di scritti[^22-1]**
 
 <sup>1</sup> Se un’opposizione non è palesemente irricevibile, l’IPI informa il resistente fissandogli un termine per la risposta.
 
-<sup>2</sup> Il resistente deve inoltrare la propria risposta in due esemplari.
+<sup>2</sup> …[^22-2]
 
-<sup>3</sup> Nella sua prima risposta, purché sia trascorso un periodo ininterrotto di cinque anni dal termine di opposizione, o in caso di opposizione, dalla fine della procedura di opposizione, il resistente deve eventualmente far valere il mancato uso del marchio da parte dell’opponente secondo l’articolo 12 capoverso 1 LPM.[^22-1]
+<sup>3</sup> Nella sua prima risposta, il resistente deve eventualmente far valere il mancato uso del marchio da parte dell’opponente secondo l’articolo 12 capoverso 1 LPM.[^22-3]
 
-<sup>4</sup> L’IPI può effettuare ulteriori scambi di allegati.
+<sup>4</sup> L’IPI può effettuare ulteriori scambi di scritti.
 
-[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^22-1]: Nuova espressione giusta la cifra I cpv. 2 dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)). Di questa mod. è tenuto conto in tutto il testo.
+[^22-2]: Abrogato dalla cifra I dell’O del 20 mag. 2026, con effetto dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 23
 
@@ -412,13 +414,15 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 **Forma e contenuto della domanda**
 
-La domanda di cancellazione di una registrazione per mancato uso del marchio deve essere presentata in due esemplari e contenere:
+La domanda di cancellazione di una registrazione per mancato uso del marchio deve contenere:[^24a-1]
 
-- a. il cognome e il nome o la ragione commerciale, l’indirizzo del richiedente ed eventualmente il suo recapito in Svizzera;
-- b. il numero della registrazione di cui è chiesta la cancellazione e il nome o la ragione commerciale del titolare del marchio;
+- a. il cognome e il nome o la ditta, l’indirizzo del richiedente ed eventualmente il suo recapito in Svizzera;
+- b. il numero della registrazione di cui è chiesta la cancellazione e il nome o la ditta del titolare del marchio;
 - c. una dichiarazione che precisi in che misura è chiesta la cancellazione;
 - d. una motivazione della domanda di cancellazione, che renda in particolare verosimile il mancato uso;
 - e. i mezzi di prova.
+
+[^24a-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 24b
 
@@ -430,15 +434,17 @@ La domanda di cancellazione di una registrazione per mancato uso del marchio dev
 
 #### Art. 24c
 
-**Scambio di allegati**
+**Scambio di scritti**
 
 <sup>1</sup> Se una domanda di cancellazione non è palesemente irricevibile, l’IPI informa la controparte fissandole un termine per la risposta.
 
-<sup>2</sup> La controparte deve inoltrare la propria risposta in due esemplari.
+<sup>2</sup> …[^24c-1]
 
 <sup>3</sup> Nella sua risposta la controparte deve in particolare rendere verosimile l’uso del marchio o il mancato uso per gravi motivi.
 
-<sup>4</sup> L’IPI può effettuare ulteriori scambi di allegati se le circostanze lo giustificano.
+<sup>4</sup> L’IPI può effettuare ulteriori scambi di scritti se le circostanze lo giustificano.
+
+[^24c-1]: Abrogato dalla cifra I dell’O del 20 mag. 2026, con effetto dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 24d
 
@@ -508,13 +514,21 @@ Se è stata presentata una domanda di proroga, ma la registrazione non è prorog
 La domanda di registrazione del trasferimento deve essere presentata dal precedente titolare o dall’acquirente e comprende:
 
 - a. una dichiarazione esplicita del precedente titolare o un altro documento appropriato attestante che il marchio è stato trasmesso all’acquirente;
-- b.[^28-1] il cognome e il nome o la ragione commerciale, l’indirizzo dell’acquirente ed eventualmente il suo recapito in Svizzera;
+- b.[^28-1] il cognome e il nome o la ditta, l’indirizzo dell’acquirente ed eventualmente il suo recapito in Svizzera;
 - c. in caso di trasferimento parziale, l’indicazione dei prodotti o dei servizi per i quali il marchio è stato trasmesso.
 
 <sup>2</sup> ...[^28-2]
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 [^28-2]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+
+#### Art. 28a
+
+**Tassa di deposito in caso di divisione della domanda di registrazione**[^28a-1]
+
+Se una domanda di registrazione viene divisa (art. 17*a* LPM), per ogni domanda divisa deve essere pagata una tassa di deposito.
+
+[^28a-1]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 29
 
@@ -525,7 +539,7 @@ La domanda di registrazione del trasferimento deve essere presentata dal precede
 La domanda di registrazione di una licenza deve essere presentata dal titolare del marchio o dal licenziatario e comprende:
 
 - a. una dichiarazione esplicita del titolare del marchio o un altro documento appropriato secondo cui il titolare autorizza il licenziatario a utilizzare il marchio;
-- b. il cognome e il nome o la ragione commerciale nonché l’indirizzo del licenziatario;
+- b. il cognome e il nome o la ditta nonché l’indirizzo del licenziatario;
 - c. se del caso, l’indicazione che si tratta di una licenza esclusiva;
 - d. in caso di licenza parziale, l’indicazione dei prodotti o dei servizi oppure del territorio per i quali la licenza è stata rilasciata.
 
@@ -549,13 +563,15 @@ In seguito ad una corrispondente dichiarazione del titolare o ad un altro docume
 
 **Cancellazione di diritti di terzi**
 
-Su domanda del titolare del marchio, l’IPI cancella il diritto registrato a favore di un terzo se è presentata un’esplicita dichiarazione di rinuncia del titolare di tale diritto oppure un altro documento appropriato.
+Su richiesta[^31-1] del titolare del marchio, l’IPI cancella il diritto registrato a favore di un terzo se è presentata un’esplicita dichiarazione di rinuncia del titolare di tale diritto oppure un altro documento appropriato.
+
+[^31-1]: Nuova espressione giusta la cifra I cpv. 4 dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 32
 
 **Rettifiche**
 
-<sup>1</sup> Su domanda del titolare del marchio, le registrazioni erronee sono rettificate senza indugio.
+<sup>1</sup> Su richiesta del titolare del marchio, le registrazioni erronee sono rettificate senza indugio.
 
 <sup>2</sup> Se l’errore è imputabile all’IPI, la rettifica avviene d’ufficio.
 
@@ -591,16 +607,19 @@ Per ogni domanda di registrazione e per ogni registrazione di marchi l’IPI tie
 - b. la proroga e la cancellazione della registrazione, un’eventuale registrazione internazionale, le modificazioni del diritto al marchio;
 - c. qualsiasi altra modificazione della registrazione.[^36-1]
 
-<sup>2</sup> Il regolamento di un marchio di garanzia, di un marchio collettivo o di un marchio geografico fa parimenti parte del fascicolo.[^36-2]
+<sup>1bis</sup> Lo scambio di scritti dell’IPI e delle parti nel quadro della procedura di ricorso non è parte del fascicolo.[^36-2]
 
-<sup>3</sup> Su domanda, i documenti di prova che contengono segreti di fabbricazione o d’affari sono conservati separatamente. Questo fatto è menzionato nel fascicolo.[^36-3]
+<sup>2</sup> Il regolamento di un marchio di garanzia, di un marchio collettivo o di un marchio geografico fa parimenti parte del fascicolo.[^36-3]
 
-<sup>4</sup> ...[^36-4]
+<sup>3</sup> I documenti di prova che divulgano segreti di fabbricazione o d’affari sono conservati separatamente su richiesta. Tale conservazione separata è menzionata nel fascicolo.[^36-4]
+
+<sup>4</sup> ...[^36-5]
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
-[^36-4]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^36-2]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^36-4]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^36-5]: Introdotto dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dalla cifra I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 37
 
@@ -616,13 +635,18 @@ Prima della registrazione del marchio, sono autorizzati a consultare il fascicol
 
 <sup>2</sup> Le persone menzionate nel capoverso 1 sono parimenti autorizzate a consultare gli atti relativi alle domande ritirate o respinte.
 
-<sup>3</sup> Dopo la registrazione, il fascicolo può essere consultato da chiunque.
+<sup>3</sup> Dopo la registrazione del marchio, il fascicolo può essere consultato da chiunque.[^37-1]
 
-<sup>4</sup> Se è richiesta la consultazione di documenti di prova conservati separatamente (art. 36 cpv. 3), l’IPI decide dopo aver sentito il depositario o il titolare del marchio.
+<sup>4</sup> Circa la consultazione dei documenti di prova conservati separatamente (art. 36 cpv. 3) decide l’IPI dopo aver sentito il depositante o il titolare del marchio.[^37-2]
 
-<sup>5</sup> Su domanda, la consultazione è autorizzata mediante la consegna di copie.[^37-1]
+<sup>4bis</sup> Se l’interesse pubblico lo esige, il Dipartimento federale di giustizia e polizia può autorizzare l’IPI a permettere agli uffici dell’Amministrazione federale di consultare il fascicolo.[^37-3]
 
-[^37-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+<sup>5</sup> …[^37-4]
+
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^37-3]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^37-4]: Abrogato dalla cifra I dell’O del 20 mag. 2026, con effetto dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 38
 
@@ -661,40 +685,40 @@ Le informazioni sono limitate a:
 
 <sup>1</sup>
 
-La registrazione del marchio comprende:
+I marchi sono iscritti nel registro con le seguenti indicazioni:[^40-1]
 
-- a. il numero del marchio;
-- b. la data del deposito;
-- c. il cognome e il nome o la ragione commerciale nonché l’indirizzo del titolare;
+- a.[^40-2] il numero di registro;
+- b.[^40-3] la data di deposito;
+- c. il cognome e il nome o la ditta nonché l’indirizzo del titolare;
 - d. il nome e l’indirizzo dell’eventuale rappresentante;
 - e. la riproduzione del marchio;
-- f.[^40-1] i prodotti e i servizi per i quali il marchio è rivendicato, con l’indicazione delle classi secondo l’Accordo di Nizza[^40-2];
+- f.[^40-4] i prodotti e i servizi per i quali il marchio è rivendicato, con l’indicazione delle classi secondo l’Accordo di Nizza[^40-5];
 - g. la data di pubblicazione della registrazione.
-- h.[^40-3] i dati riguardanti la sostituzione di una registrazione nazionale precedente con una registrazione internazionale;
-- i.[^40-4] la data della registrazione;
-- k.[^40-5] il numero della domanda di registrazione.
+- h.[^40-6] i dati riguardanti la sostituzione di una registrazione nazionale precedente con una registrazione internazionale;
+- i.[^40-7] la data di registrazione;
+- j.[^40-8] il numero della domanda di registrazione.
 
 <sup>2</sup>
 
-La registrazione è eventualmente completata con:[^40-6]
+La registrazione è eventualmente completata con:[^40-9]
 
 - a. l’indicazione del colore o della combinazione di colori rivendicati;
-- b.[^40-7] la menzione «marchio tridimensionale» o con un’altra indicazione specificante il tipo particolare del marchio;
+- b.[^40-10] la menzione «marchio tridimensionale» o con un’altra indicazione specificante il tipo particolare del marchio;
 - c. l’indicazione «marchio imposto»;
 - d. l’indicazione che si tratta di un marchio di garanzia o di un marchio collettivo;
-- d<sup>bis</sup>.[^40-8] l’indicazione che si tratta di un marchio geografico;
+- d<sup>bis</sup>.[^40-11] l’indicazione che si tratta di un marchio geografico;
 - e. indicazioni relative alla rivendicazione di priorità giusta gli articoli 7 e 8 LPM;
-- f.[^40-9] ...
+- f.[^40-12] ...
 
 <sup>3</sup>
 
-Sono inoltre iscritti nel registro con la data di pubblicazione:
+Nel registro sono iscritti con la rispettiva data di pubblicazione:[^40-13]
 
 - a. la proroga della registrazione e l’indicazione della data in cui la proroga diventa effettiva;
 - b. la revoca totale o parziale della registrazione;
 - c. la cancellazione totale o parziale della registrazione e l’indicazione del motivo della cancellazione;
 - d. il trasferimento totale o parziale del marchio;
-- e.[^40-10] il rilascio di una licenza, eventualmente con l’indicazione che si tratta di una licenza esclusiva o di una licenza parziale;
+- e.[^40-14] il rilascio di una licenza, eventualmente con l’indicazione che si tratta di una licenza esclusiva o di una licenza parziale;
 - f. l’usufrutto e il diritto di pegno che gravano sul marchio;
 - g. le limitazioni della facoltà di disporre ordinate da tribunali e da autorità d’esecuzione;
 - h. le modificazioni delle indicazioni registrate;
@@ -702,16 +726,20 @@ Sono inoltre iscritti nel registro con la data di pubblicazione:
 
 <sup>4</sup> L’IPI può registrare altre indicazioni di pubblico interesse.
 
-[^40-1]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^40-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061),[0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
-[^40-3]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-4]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-5]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-6]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-7]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-8]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^40-9]: Abrogata dalla cifra I dell’O del 22 gen. 1997, con effetto dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-10]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-4]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-5]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061),[0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062),[0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
+[^40-6]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-7]: Introdotta dalla cifra I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-8]: Introdotta dalla cifra I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-9]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-10]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2002, in vigore dal 1° lug. 2002 ([RU 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-11]: Introdotta dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^40-12]: Abrogata dalla cifra I dell’O del 22 gen. 1997, con effetto dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-13]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-14]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 40a
 
@@ -734,7 +762,7 @@ Sono inoltre iscritti nel registro con la data di pubblicazione:
 
 **Documento di priorità relativo alla prima registrazione in Svizzera**[^41a-1]
 
-Su domanda, l’IPI rilascia un documento di priorità relativo a una prima registrazione in Svizzera.
+Su richiesta, l’IPI rilascia un documento di priorità relativo a una prima registrazione in Svizzera.
 
 [^41a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
 
@@ -756,7 +784,7 @@ L’IPI pubblica:
 
 <sup>1</sup> L’IPI designa l’organo di pubblicazione.
 
-<sup>2</sup> Su domanda e previo rimborso delle spese, l’IPI esegue copie su carta dei dati pubblicati esclusivamente in forma elettronica.
+<sup>2</sup> Su richiesta e previo rimborso delle spese, l’IPI esegue copie su carta dei dati pubblicati esclusivamente in forma elettronica.
 
 [^43-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
@@ -1100,7 +1128,7 @@ Le domande che invocano i motivi di rifiuto di cui all’articolo 50*e* capovers
 
 <sup>1</sup> Gli orologi svizzeri e i movimenti svizzeri ai sensi dell’ordinanza del 23 dicembre 1971[^53-1] concernente l’utilizzazione della designazione «Svizzera» per gli orologi devono essere muniti del contrassegno del produttore. Per gli orologi, il contrassegno deve essere apposto sulla cassa o sul quadrante.
 
-<sup>2</sup> Il contrassegno del produttore deve essere apposto in modo indelebile e ben visibile. Può essere sostituito dalla ragione commerciale o dal marchio del produttore.
+<sup>2</sup> Il contrassegno del produttore deve essere apposto in modo indelebile e ben visibile. Può essere sostituito dalla ditta o dal marchio del produttore.
 
 <sup>3</sup> Esso può essere utilizzato unicamente per prodotti svizzeri.
 

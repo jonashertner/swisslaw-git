@@ -4,11 +4,11 @@ title: Ordonnance du 23 décembre 1992 sur la protection des marques et des indi
 short: OPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: fr
-version: 2025-07-01
+version: 2027-01-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20250701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/fr"
 
 (OPM)[^t-1]
 
-du 23 décembre 1992 (État le 1<sup>er</sup> juillet 2025)
+du 23 décembre 1992 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -59,9 +59,10 @@ Lorsqu’un délai se calcule en mois ou en années, il prend fin le jour du der
 
 <sup>1</sup> Les écrits adressés à l’IPI doivent être rédigés dans une langue officielle de la Confédération. Les art. 47, al. 3, et 52*p*, al. 3, sont réservés.[^3-1]
 
-<sup>2</sup> L’IPI peut exiger que les documents remis à titre de preuve qui ne sont pas rédigés dans une langue officielle soient traduits et que l’exactitude de la traduction soit attestée; l’art. 14, al. 3, est réservé. Lorsque, malgré l’injonction, la traduction ou l’attestation n’est pas produite, le document n’est pas pris en considération.
+<sup>2</sup> L’IPI peut exiger que les documents justificatifs qui ne sont pas rédigés dans une langue officielle soient traduits et que l’exactitude de la traduction soit attestée; l’art. 14, al. 3, est réservé. Lorsque, malgré l’injonction, la traduction ou l’attestation n’est pas produite, le document n’est pas pris en considération.[^3-2]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 18 août 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 4
 
@@ -130,12 +131,9 @@ L’ordonnance de l’IPI du 14 juin 2016 sur les taxes (OTa-IPI)[^7-2] s’appl
 
 **Communication électronique**[^7a-1]
 
-<sup>1</sup> L’IPI peut autoriser la communication électronique.
+L’IPI détermine les modalités techniques de la communication électronique et les publie de façon appropriée.
 
-<sup>2</sup> Il détermine les modalités techniques et les publie de façon appropriée.[^7a-2]
-
-[^7a-1]: Introduit par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^7a-2]: Introduit par le ch. II de l’O du 31 mars 1999, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^7a-1]: Introduit par le ch. I de l’O du 22 janv. 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 ## Chapitre 2 Enregistrement des marques
 
@@ -170,30 +168,31 @@ Une demande d’enregistrement au sens de l’art. 46*a* LPM porte comme date de
 La demande d’enregistrement doit contenir:[^9-1]
 
 - a. la requête en enregistrement de la marque;
-- b. le nom et le prénom ou la raison de commerce ainsi que l’adresse du déposant;
-- c.[^9-2] …
-- d.[^9-3] …
+- b. le nom et le prénom ou la raison sociale[^9-2] ainsi que l’adresse du déposant;
+- c.[^9-3] …
+- d.[^9-4] …
 
 <sup>2</sup>
 
 Le cas échéant, elle doit être complétée par:
 
-- a.[^9-4] le domicile de notification en Suisse du déposant;
-- a<sup>bis</sup>.[^9-5] en cas de pluralité de déposants: la désignation du destinataire des communications selon l’art. 4, al. 1, et, le cas échéant, son domicile de notification;
-- a<sup>ter</sup>.[^9-6] le nom et l’adresse du mandataire et, le cas échéant, son domicile de notification en Suisse;
+- a.[^9-5] le domicile de notification en Suisse du déposant;
+- a<sup>bis</sup>.[^9-6] en cas de pluralité de déposants: la désignation du destinataire des communications selon l’art. 4, al. 1, et, le cas échéant, son domicile de notification;
+- a<sup>ter</sup>.[^9-7] le nom et l’adresse du mandataire et, le cas échéant, son domicile de notification en Suisse;
 - b. la déclaration de priorité (art. 12 à 14);
 - c. l’indication qu’il s’agit d’une marque de garantie ou d’une marque collective;
-- c<sup>bis</sup>.[^9-7] l’indication qu’il s’agit d’une marque géographique;
-- d.[^9-8] la preuve de la radiation de l’enregistrement international et de l’extension de la protection en Suisse. Lorsque la priorité de l’enregistrement international est revendiquée, aucun autre document de priorité n’est requis.
+- c<sup>bis</sup>.[^9-8] l’indication qu’il s’agit d’une marque géographique;
+- d.[^9-9] la preuve de la radiation de l’enregistrement international et de l’extension de la protection en Suisse. Lorsque la priorité de l’enregistrement international est revendiquée, aucun autre document de priorité n’est requis.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-2]: Abrogée par le ch. I de l’O du 2 déc. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-3]: Abrogée par le ch. I de l’O du 8 mars 2002, avec effet au 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^9-4]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
-[^9-5]: Introduite par le ch. I de l’O du 11 mai 2011 ([RO 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-6]: Introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^9-7]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^9-8]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^9-2]: Nouvelle expression selon le ch. I al. 1 de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9-3]: Abrogée par le ch. I de l’O du 2 déc. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-4]: Abrogée par le ch. I de l’O du 8 mars 2002, avec effet au 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^9-5]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^9-6]: Introduite par le ch. I de l’O du 11 mai 2011 ([RO 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-7]: Introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^9-8]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^9-9]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 10
 
@@ -342,15 +341,16 @@ En cas de requête en poursuite de la procédure d’une demande rejetée pour i
 
 **Forme et contenu**
 
-L’opposition doit être présentée en deux exemplaires et contenir:
+L’opposition doit contenir:[^20-1]
 
-- a.[^20-1] le nom et le prénom ou la raison de commerce, l’adresse de l’opposant et, le cas échéant, son domicile de notification en Suisse;
+- a.[^20-2] le nom et le prénom ou la raison sociale, l’adresse de l’opposant et, le cas échéant, son domicile de notification en Suisse;
 - b. le numéro de l’enregistrement ou le numéro du dépôt sur lequel se fonde l’opposition;
-- c. le numéro de l’enregistrement attaqué ainsi que le nom ou la raison de commerce du titulaire de cet enregistrement;
+- c. le numéro de l’enregistrement attaqué ainsi que le nom ou la raison sociale du titulaire de cet enregistrement;
 - d. une déclaration précisant dans quelle mesure il est fait opposition à l’enregistrement;
 - e. une courte motivation de l’opposition.
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 
 #### Art. 21
 
@@ -368,15 +368,16 @@ L’opposition doit être présentée en deux exemplaires et contenir:
 
 <sup>1</sup> Lorsqu’une opposition n’est pas manifestement irrecevable, l’IPI en donne connaissance au défendeur en lui impartissant un délai pour présenter sa réponse.
 
-<sup>2</sup> Le défendeur doit remettre sa réponse en deux exemplaires.
+<sup>2</sup> …[^22-2]
 
-<sup>3</sup> Dans sa première réponse, pour autant qu’un délai ininterrompu de cinq ans se soit écoulé à compter de l’échéance du délai d’opposition ou, en cas d’opposition, de la fin de la procédure d’opposition, le défendeur doit, le cas échéant, faire valoir le défaut d’usage de la marque de l’opposant au sens de l’art. 12, al. 1, LPM.[^22-2]
+<sup>3</sup> Dans sa première réponse, le défendeur doit, le cas échéant, faire valoir le défaut d’usage de la marque de l’opposant au sens de l’art. 12, al. 1, LPM.[^22-3]
 
-<sup>4</sup> L’IPI peut procéder à d’autres échanges d’écritures.[^22-3]
+<sup>4</sup> L’IPI peut procéder à d’autres échanges d’écritures.[^22-4]
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 18 août 2021, en vigueur depuis le 1er déc. 2021 ([RO 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^22-3]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^22-2]: Abrogé par le ch. I de l’O du 20 mai 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^22-4]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 23
 
@@ -412,13 +413,15 @@ L’opposition doit être présentée en deux exemplaires et contenir:
 
 **Forme et contenu de la demande**
 
-La demande de radiation d’un enregistrement pour défaut d’usage de la marque doit être présentée en deux exemplaires et contenir:
+La demande de radiation d’un enregistrement pour défaut d’usage de la marque doit contenir:[^24a-1]
 
-- a. le nom et le prénom ou la raison de commerce, l’adresse du requérant et, le cas échéant, son domicile de notification en Suisse;
-- b. le numéro de l’enregistrement de la marque qui fait l’objet de la demande de radiation ainsi que le nom ou la raison de commerce du titulaire de cet enregistrement;
+- a. le nom et le prénom ou la raison sociale, l’adresse du requérant et, le cas échéant, son domicile de notification en Suisse;
+- b. le numéro de l’enregistrement de la marque qui fait l’objet de la demande de radiation ainsi que le nom ou la raison sociale du titulaire de cet enregistrement;
 - c. une déclaration précisant dans quelle mesure la radiation est demandée;
 - d. une motivation de la demande de radiation qui rend vraisemblable en particulier le défaut d’usage;
 - e. les moyens de preuve.
+
+[^24a-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 24b
 
@@ -434,11 +437,13 @@ La demande de radiation d’un enregistrement pour défaut d’usage de la marqu
 
 <sup>1</sup> Lorsqu’une demande de radiation n’est pas manifestement irrecevable, l’IPI en donne connaissance à la partie adverse en lui impartissant un délai pour présenter sa réponse.
 
-<sup>2</sup> La partie adverse doit remettre sa réponse en deux exemplaires.
+<sup>2</sup> …[^24c-1]
 
 <sup>3</sup> Dans sa réponse, la partie adverse doit en particulier rendre vraisemblable l’usage de la marque ou l’existence de justes motifs pour le défaut d’usage.
 
 <sup>4</sup> L’IPI procède à d’autres échanges d’écritures lorsque les circonstances le justifient.
+
+[^24c-1]: Abrogé par le ch. I de l’O du 20 mai 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 24d
 
@@ -508,13 +513,21 @@ Lorsqu’une demande de prolongation est déposée, mais que l’enregistrement 
 La demande d’enregistrement du transfert doit être déposée par l’ancien titulaire ou par l’acquéreur et comprendre:
 
 - a. la déclaration expresse de l’ancien titulaire ou un autre document attestant que la marque a été transmise à l’acquéreur;
-- b*.*[^28-1] le nom et le prénom ou la raison de commerce, l’adresse de l’acquéreur et, le cas échéant, son domicile de notification en Suisse;
+- b*.*[^28-1] le nom et le prénom ou la raison sociale, l’adresse de l’acquéreur et, le cas échéant, son domicile de notification en Suisse;
 - c. en cas de cession partielle, l’indication des produits ou des services pour lesquels la marque a été transmise.
 
 <sup>2</sup> …[^28-2]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 [^28-2]: Abrogé par le ch. I de l’O du 2 déc. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+
+#### Art. 28a
+
+**Taxe de dépôt en cas de division de la demande d’enregistrement**[^28a-1]
+
+Lorsqu’une demande d’enregistrement est divisée (art. 17*a* LPM), une taxe de dépôt doit être payée pour chaque demande divisionnaire.
+
+[^28a-1]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 29
 
@@ -525,7 +538,7 @@ La demande d’enregistrement du transfert doit être déposée par l’ancien t
 La demande d’enregistrement d’une licence doit être déposée par le titulaire de la marque ou par le licencié et comprendre:
 
 - a. une déclaration expresse du titulaire de la marque ou un autre document suffisant selon lequel le titulaire autorise le licencié à utiliser la marque;
-- b.[^29-1] le nom et le prénom ou la raison de commerce ainsi que l’adresse du licencié;
+- b.[^29-1] le nom et le prénom ou la raison sociale ainsi que l’adresse du licencié;
 - c. le cas échéant, l’indication selon laquelle il s’agit d’une licence exclusive;
 - d. en cas de licence partielle, l’indication des produits ou des services, ou du territoire pour lesquels la licence a été octroyée.
 
@@ -592,16 +605,19 @@ L’IPI tient pour chaque marque déposée ou enregistrée un dossier qui rend c
 - b. de la prolongation et de la radiation de l’enregistrement, d’un éventuel enregistrement international et des modifications au droit à la marque;
 - c. de toute autre modification de l’enregistrement.[^36-1]
 
-<sup>2</sup> Le règlement d’une marque de garantie, d’une marque collective ou d’une marque géographique fait également partie du dossier.[^36-2]
+<sup>1bis</sup> L’échange d’écritures de l’IPI et des parties pendant la procédure de recours n’est pas versé au dossier.[^36-2]
 
-<sup>3</sup> Lorsqu’un document justificatif contient des secrets de fabrication ou d’affaires, il est, sur demande, classé à part. Ce fait est mentionné dans le dossier.[^36-3]
+<sup>2</sup> Le règlement d’une marque de garantie, d’une marque collective ou d’une marque géographique fait également partie du dossier.[^36-3]
 
-<sup>4</sup> …[^36-4]
+<sup>3</sup> Les documents justificatifs qui divulguent des secrets de fabrication ou d’affaires sont classés à part sur requête. Ce classement à part est consigné au dossier.[^36-4]
+
+<sup>4</sup> …[^36-5]
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
-[^36-4]: Introduit par le ch. I de l’O du 22 janv. 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^36-2]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^36-4]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^36-5]: Introduit par le ch. I de l’O du 22 janv. 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 37
 
@@ -617,13 +633,17 @@ Avant l’enregistrement de la marque, sont autorisés à consulter le dossier:
 
 <sup>2</sup> Les personnes mentionnées à l’al. 1 sont aussi autorisées à consulter les actes relatifs aux demandes retirées ou rejetées.
 
-<sup>3</sup> Après l’enregistrement, le dossier peut être consulté par chacun.
+<sup>3</sup> Après l’enregistrement de la marque, toute personne peut consulter le dossier.[^37-1]
 
 <sup>4</sup> Lorsque la consultation de documents justificatifs classés à part est requise (art. 36, al. 3), l’IPI se prononce après avoir entendu le déposant ou le titulaire de la marque.
 
-<sup>5</sup> Sur demande, les pièces à consulter sont délivrées sous forme de copies.[^37-1]
+<sup>4bis</sup> Lorsque l’intérêt public l’exige, le Département fédéral de justice et police peut autoriser l’IPI à laisser les services de l’administration fédérale consulter le dossier.[^37-2]
 
-[^37-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+<sup>5</sup> …[^37-3]
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^37-2]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^37-3]: Abrogé par le ch. I de l’O du 20 mai 2026, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 38
 
@@ -662,40 +682,40 @@ Les renseignements sont limités:
 
 <sup>1</sup>
 
-L’enregistrement de la marque comprend:
+Les marques sont enregistrées au registre des marques avec les indications suivantes:[^40-1]
 
-- a. le numéro de la marque;
+- a.[^40-2] le numéro de l’enregistrement;
 - b. la date de dépôt;
-- c. le nom et le prénom ou la raison de commerce ainsi que l’adresse du titulaire;
+- c.[^40-3] le nom et le prénom ou la raison sociale du titulaire ainsi que son adresse;
 - d. le cas échéant, le nom et l’adresse du mandataire;
 - e. la reproduction de la marque;
-- f.[^40-1] les produits et les services auxquels la marque est destinée, avec l’indication des classes selon la classification de l’Arrangement de Nice[^40-2];
+- f.[^40-4] les produits et les services auxquels la marque est destinée, avec l’indication des classes selon la classification de l’Arrangement de Nice[^40-5];
 - g. la date de publication de l’enregistrement;
-- h.[^40-3] des indications concernant le remplacement d’un ancien enregistrement national par un enregistrement international;
-- i.[^40-4] la date de l’enregistrement;
-- k.[^40-5] le numéro de la demande d’enregistrement.
+- h.[^40-6] des indications concernant le remplacement d’un ancien enregistrement national par un enregistrement international;
+- i.[^40-7] la date de l’enregistrement;
+- j.[^40-8] le numéro de la demande d’enregistrement.
 
 <sup>2</sup>
 
-L’enregistrement est, le cas échéant, complété par:[^40-6]
+L’enregistrement est, le cas échéant, complété par:[^40-9]
 
 - a. l’indication de la couleur ou de la combinaison de couleurs revendiquées;
-- b.[^40-7] l’indication «marque tridimensionnelle» ou tout autre indication précisant le type particulier de la marque;
+- b.[^40-10] l’indication «marque tridimensionnelle» ou tout autre indication précisant le type particulier de la marque;
 - c. l’indication «marque imposée»;
 - d. l’indication qu’il s’agit d’une marque de garantie ou d’une marque collective;
-- d<sup>bis</sup>.[^40-8] l’indication qu’il s’agit d’une marque géographique;
+- d<sup>bis</sup>.[^40-11] l’indication qu’il s’agit d’une marque géographique;
 - e. des indications relatives à la revendication de priorité en vertu des art. 7 et 8 LPM;
-- f.[^40-9] …
+- f.[^40-12] …
 
 <sup>3</sup>
 
-Sont en outre inscrits au registre avec la date de publication:
+Sont en outre inscrits au registre des marques, avec la date de publication:[^40-13]
 
 - a. la prolongation de l’enregistrement et l’indication et la date à laquelle la prolongation prend effet;
 - b. la révocation totale ou partielle de l’enregistrement;
 - c. la radiation totale ou partielle de l’enregistrement et l’indication du motif de radiation;
 - d. le transfert total ou partiel de la marque;
-- e.[^40-10] l’octroi d’une licence et, le cas échéant, l’indication qu’il s’agit d’une licence exclusive ou d’une licence partielle;
+- e.[^40-14] l’octroi d’une licence et, le cas échéant, l’indication qu’il s’agit d’une licence exclusive ou d’une licence partielle;
 - f. l’usufruit et le droit de gage grevant la marque;
 - g. les restrictions au pouvoir de disposition ordonnées par des tribunaux et des autorités chargées de l’exécution forcée;
 - h. les modifications des indications enregistrées;
@@ -703,16 +723,20 @@ Sont en outre inscrits au registre avec la date de publication:
 
 <sup>4</sup> L’IPI peut enregistrer d’autres indications d’intérêt public.
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^40-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
-[^40-3]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-4]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-5]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-6]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-7]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-8]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^40-9]: Abrogée par le ch. I de l’O du 22 janv. 1997, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-10]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-4]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-5]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
+[^40-6]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-7]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-8]: Introduite par le ch. I de l’O du 22 janv. 1997, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-9]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-10]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-11]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^40-12]: Abrogée par le ch. I de l’O du 22 janv. 1997, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-13]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-14]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 40a
 
@@ -974,7 +998,7 @@ Les coûts suivants sont considérés comme coût de revient au sens de l’art.
 
 <sup>2</sup> Par coût direct des matières, on entend le coût des matières qui est directement imputable à un produit.
 
-<sup>3</sup> Par coût indirect des matières, on entend le coût des matières qui n'est pas couvert par l’al. 2, notamment les coûts générés par les éventuels entreposages provisoires ou les éventuels transports lors du processus de production.
+<sup>3</sup> Par coût indirect des matières, on entend le coût des matières qui n’est pas couvert par l’al. 2, notamment les coûts générés par les éventuels entreposages provisoires ou les éventuels transports lors du processus de production.
 
 #### Art. 52i
 
@@ -1105,7 +1129,7 @@ Les demandes invoquant les motifs de refus visés à l’art. 50*e*, al. 1, LPM 
 
 <sup>1</sup> Les montres suisses et les mouvements suisses au sens de l’ordonnance du 23 décembre 1971 réglant l’utilisation du nom «Suisse» pour les montres[^53-1] doivent être munis du signe d’identification de leur producteur. Pour les montres, le signe d’identification doit figurer sur la boîte ou le cadran.
 
-<sup>2</sup> Le signe d’identification du producteur doit être apposé de manière indélébile et bien visible. Il peut être remplacé par la raison de commerce ou la marque du producteur.
+<sup>2</sup> Le signe d’identification du producteur doit être apposé de manière indélébile et bien visible. Il peut être remplacé par la raison sociale ou la marque du producteur.
 
 <sup>3</sup> Il ne peut être utilisé que pour des produits suisses.
 

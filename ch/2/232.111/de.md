@@ -4,11 +4,11 @@ title: Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunft
 short: MSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: de
-version: 2025-07-01
+version: 2027-01-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20250701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20250701/de"
 
 (MSchV)[^t-1]
 
-vom 23. Dezember 1992 (Stand am 1. Juli 2025)
+vom 23. Dezember 1992 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -130,12 +130,9 @@ Für die Gebühren, die nach dem MSchG oder nach dieser Verordnung zu bezahlen s
 
 **Elektronische Kommunikation**[^7a-1]
 
-<sup>1</sup> Das IGE kann die elektronische Kommunikation zulassen.
+Das IGE legt die technischen Einzelheiten der elektronischen Kommunikation fest und veröffentlicht sie in geeigneter Weise.
 
-<sup>2</sup> Es legt die technischen Einzelheiten fest und veröffentlicht sie in geeigneter Weise.[^7a-2]
-
-[^7a-1]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^7a-2]: Eingefügt durch Ziff. II der V vom 31. März 1999, in Kraft seit 1. Mai 1999 ([AS 1999 1443](https://fedlex.data.admin.ch/eli/oc/1999/216)).
+[^7a-1]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 ## 2. Kapitel: Eintragung der Marken
 
@@ -341,15 +338,16 @@ Für die Weiterbehandlung eines wegen Fristversäumnis zurückgewiesenen Gesuchs
 
 **Form und Inhalt des Widerspruchs**
 
-Der Widerspruch ist in zwei Exemplaren einzureichen und muss enthalten:
+Der Widerspruch muss enthalten:[^20-1]
 
-- a.[^20-1] den Namen und Vornamen oder die Firma, die Adresse des Widersprechenden und gegebenenfalls sein Zustellungsdomizil in der Schweiz;
+- a.[^20-2] den Namen und Vornamen oder die Firma, die Adresse des Widersprechenden und gegebenenfalls sein Zustellungsdomizil in der Schweiz;
 - b. die Registernummer der Markeneintragung oder die Gesuchsnummer der Markenhinterlegung, auf die sich der Widerspruch stützt;
 - c. die Registernummer der angefochtenen Markeneintragung sowie den Namen oder die Firma des Markeninhabers;
 - d. die Erklärung, in welchem Umfang gegen die Eintragung Widerspruch erhoben wird;
 - e. eine kurze Begründung des Widerspruchs.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 
 #### Art. 21
 
@@ -367,13 +365,14 @@ Der Widerspruch ist in zwei Exemplaren einzureichen und muss enthalten:
 
 <sup>1</sup> Das IGE bringt einen nicht offensichtlich unzulässigen Widerspruch dem Widerspruchsgegner zur Kenntnis und setzt ihm eine Frist zur Stellungnahme an.
 
-<sup>2</sup> Die Stellungnahme des Widerspruchsgegners ist in zwei Exemplaren einzureichen.
+<sup>2</sup> …[^22-1]
 
-<sup>3</sup> Der Widerspruchsgegner muss einen allfälligen Nichtgebrauch der Marke des Widersprechenden nach Artikel 12 Absatz 1 MSchG in seiner ersten Stellungnahme geltend machen; dies ist jedoch nur zulässig, wenn zu diesem Zeitpunkt eine ununterbrochene Frist von fünf Jahren nach unbenütztem Ablauf der Widerspruchsfrist oder nach Abschluss des Widerspruchsverfahrens abgelaufen ist.[^22-1]
+<sup>3</sup> Der Widerspruchsgegner muss einen allfälligen Nichtgebrauch der Marke des Widersprechenden nach Artikel 12 Absatz 1 MSchG in seiner ersten Stellungnahme geltend machen.[^22-2]
 
 <sup>4</sup> Das IGE kann weitere Schriftenwechsel durchführen.
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^22-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 23
 
@@ -412,13 +411,15 @@ Der Widerspruch ist in zwei Exemplaren einzureichen und muss enthalten:
 
 **Form und Inhalt des Antrags**
 
-Der Antrag auf Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke ist in zwei Exemplaren einzureichen und muss enthalten:
+Der Antrag auf Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke muss enthalten:[^24a-1]
 
 - a. den Namen und Vornamen oder die Firma, die Adresse des Antragstellers und gegebenenfalls sein Zustellungsdomizil in der Schweiz;
 - b. die Registernummer der Markeneintragung, deren Löschung beantragt wird, sowie den Namen oder die Firma des Markeninhabers;
 - c. die Erklärung, in welchem Umfang die Löschung beantragt wird;
 - d. eine Begründung des Antrags auf Löschung, die insbesondere den Nichtgebrauch glaubhaft macht;
 - e. Beweismittel.
+
+[^24a-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 24b
 
@@ -434,11 +435,13 @@ Der Antrag auf Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke i
 
 <sup>1</sup> Das IGE bringt einen nicht offensichtlich unzulässigen Antrag auf Löschung dem Antragsgegner zur Kenntnis und setzt ihm eine Frist zur Stellungnahme an.
 
-<sup>2</sup> Die Stellungnahme des Antragsgegners ist in zwei Exemplaren einzureichen.
+<sup>2</sup> …[^24c-1]
 
 <sup>3</sup> Der Antragsgegner muss in seiner Stellungnahme insbesondere den Gebrauch der Marke oder wichtige Gründe für den Nichtgebrauch glaubhaft machen.
 
 <sup>4</sup> Das IGE führt weitere Schriftenwechsel durch, wenn es die Umstände rechtfertigen.
+
+[^24c-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 24d
 
@@ -516,6 +519,14 @@ Der Antrag auf Eintragung der Übertragung ist vom bisherigen Markeninhaber oder
 [^28-1]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 [^28-2]: Aufgehoben durch Ziff. I der V vom 2. Dez. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
+#### Art. 28a
+
+**Hinterlegungsgebühr bei Teilung des Eintragungsgesuchs**[^28a-1]
+
+Wird ein Eintragungsgesuch geteilt (Art. 17*a* MSchG), so ist für jedes Teilgesuch eine Hinterlegungsgebühr zu bezahlen.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+
 #### Art. 29
 
 **Lizenz**
@@ -591,16 +602,19 @@ Das IGE führt für jedes Eintragungsgesuch und jede Markeneintragung ein Aktenh
 - b. die Verlängerung und die Löschung der Eintragung, die Tatsache einer allfälligen internationalen Registrierung sowie Änderungen im Markenrecht;
 - c. sonstige Änderungen der Markeneintragung.[^36-1]
 
-<sup>2</sup> Das Reglement einer Garantie- oder Kollektivmarke beziehungsweise das Reglement einer geografischen Marke ist ebenfalls Bestandteil des Aktenhefts.[^36-2]
+<sup>1bis</sup> Der Schriftenwechsel des IGE und der Parteien im Rechtsmittelverfahren ist nicht Teil des Aktenhefts.[^36-2]
 
-<sup>3</sup> Beweisurkunden, die Fabrikations- oder Geschäftsgeheimnisse offenbaren, werden auf Antrag ausgesondert. Die Aussonderung wird im Aktenheft vermerkt.[^36-3]
+<sup>2</sup> Das Reglement einer Garantie- oder Kollektivmarke beziehungsweise das Reglement einer geografischen Marke ist ebenfalls Bestandteil des Aktenhefts.[^36-3]
 
-<sup>4</sup> …[^36-4]
+<sup>3</sup> Beweisurkunden, die Fabrikations- oder Geschäftsgeheimnisse offenbaren, werden auf Antrag ausgesondert. Die Aussonderung wird im Aktenheft vermerkt.[^36-4]
+
+<sup>4</sup> …[^36-5]
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-2]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^36-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
-[^36-4]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^36-2]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^36-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^36-4]: Fassung gemäss Ziff. I der V vom 18. Okt. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+[^36-5]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 37
 
@@ -616,13 +630,17 @@ Vor der Eintragung der Marke dürfen in das Aktenheft Einsicht nehmen:
 
 <sup>2</sup> Die in Absatz 1 genannten Personen dürfen auch in die Akten zurückgezogener oder zurückgewiesener Eintragungsgesuche Einsicht nehmen.
 
-<sup>3</sup> Nach der Eintragung der Marke kann jede Person Einsicht in das Aktenheft nehmen.
+<sup>3</sup> Nach der Eintragung der Marke steht das Aktenheft jeder Person zur Einsicht offen.[^37-1]
 
 <sup>4</sup> Über die Einsicht in ausgesonderte Beweisurkunden (Art. 36 Abs. 3) entscheidet das IGE nach Anhörung des Hinterlegers oder des Inhabers der Marke.
 
-<sup>5</sup> Auf Antrag wird die Einsichtnahme durch Abgabe von Kopien gewährt.[^37-1]
+<sup>4bis</sup> Wenn es das öffentliche Interesse verlangt, kann das Eidgenössische Justiz- und Polizeidepartement das IGE ermächtigen, den Dienststellen der Bundesverwaltung die Einsichtnahme in das Aktenheft zu gestatten.[^37-2]
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
+<sup>5</sup> …[^37-3]
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^37-2]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^37-3]: Aufgehoben durch Ziff. I der V vom 20. Mai 2026, mit Wirkung seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
 
 #### Art. 38
 
@@ -661,40 +679,40 @@ Die Auskünfte beschränken sich auf:
 
 <sup>1</sup>
 
-Die Eintragung der Marke im Markenregister enthält:
+Die Marke wird mit folgenden Angaben im Markenregister eingetragen:
 
-- a. die Registernummer;
-- b. das Hinterlegungsdatum;
-- c. den Namen und Vornamen oder die Firma sowie die Adresse des Markeninhabers;
-- d. Namen und Adresse des allfälligen Vertreters;
-- e. die Wiedergabe der Marke;
-- f.[^40-1] die Waren und Dienstleistungen, für welche die Marke beansprucht wird, mit der Angabe der Klassen nach der Klasseneinteilung des Nizzaer Klassifikationsabkommens[^40-2];
-- g. das Datum der Veröffentlichung der Eintragung.
-- h.[^40-3] Angaben über die Ersetzung einer früheren nationalen Eintragung durch eine internationale Registrierung;
-- i.[^40-4] das Datum der Eintragung;
-- k.[^40-5] die Nummer des Eintragungsgesuchs.
+- a. der Registernummer;
+- b. dem Hinterlegungsdatum;
+- c. dem Namen und Vornamen oder der Firma sowie der Adresse des Markeninhabers;
+- d. dem Namen und der Adresse des allfälligen Vertreters;
+- e. der Wiedergabe der Marke;
+- f. den Waren und Dienstleistungen, für welche die Marke beansprucht wird, mit der Angabe der Klassen nach der Klasseneinteilung des Nizzaer Klassifikationsabkommens[^40-1];
+- g. dem Datum der Veröffentlichung der Eintragung;
+- h. den Angaben über die Ersetzung einer früheren nationalen Eintragung durch eine internationale Registrierung;
+- i. dem Datum der Eintragung;
+- j. der Nummer des Eintragungsgesuchs.[^40-2]
 
 <sup>2</sup>
 
 Die Eintragung wird gegebenenfalls ergänzt mit:
 
 - a. der Angabe der beanspruchten Farbe oder Farbkombination;
-- b.[^40-6] dem Vermerk «Dreidimensionale Marke» oder einer anderen Angabe, welche den besonderen Typ der Marke präzisiert;
+- b.[^40-3] dem Vermerk «Dreidimensionale Marke» oder einer anderen Angabe, welche den besonderen Typ der Marke präzisiert;
 - c. dem Vermerk «Durchgesetzte Marke»;
 - d. der Angabe, dass es sich um eine Garantie- oder eine Kollektivmarke handelt;
-- d<sup>bis</sup>.[^40-7] der Angabe, dass es sich um eine geografische Marke handelt;
+- d<sup>bis</sup>.[^40-4] der Angabe, dass es sich um eine geografische Marke handelt;
 - e. Angaben über die Inanspruchnahme einer Priorität nach den Artikeln 7 und 8 MSchG;
-- f.[^40-8] …
+- f.[^40-5] …
 
 <sup>3</sup>
 
-Ferner werden im Markenregister, jeweils mit dem Datum der Veröffentlichung, eingetragen:
+Jeweils mit dem Datum der Veröffentlichung werden im Markenregister eingetragen:[^40-6]
 
 - a. die Verlängerung der Markeneintragung, mit der Angabe des Datums, an dem die Verlängerung wirksam wird;
 - b. der vollständige oder teilweise Widerruf der Markeneintragung;
 - c. die vollständige oder teilweise Löschung der Markeneintragung, mit der Angabe des Grundes der Löschung;
 - d. die vollständige oder teilweise Übertragung der Marke;
-- e.[^40-9] die Erteilung einer Lizenz, gegebenenfalls mit der Angabe, dass es sich um eine ausschliessliche Lizenz beziehungsweise eine Teillizenz handelt;
+- e.[^40-7] die Erteilung einer Lizenz, gegebenenfalls mit der Angabe, dass es sich um eine ausschliessliche Lizenz beziehungsweise eine Teillizenz handelt;
 - f. die Nutzniessung an der Marke und die Verpfändung der Marke;
 - g. Verfügungsbeschränkungen von Gerichten und Vollstreckungsbehörden;
 - h. Änderungen, die eingetragene Angaben betreffen;
@@ -702,15 +720,13 @@ Ferner werden im Markenregister, jeweils mit dem Datum der Veröffentlichung, ei
 
 <sup>4</sup> Das IGE kann weitere Angaben von öffentlichem Interesse eintragen.
 
-[^40-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^40-2]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
-[^40-3]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-4]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-5]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-6]: Fassung gemäss Ziff. I der V vom 8. März 2002, in Kraft seit 1. Juli 2002 ([AS 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
-[^40-7]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^40-8]: Aufgehoben durch Ziff. I der V vom 22. Jan. 1997, mit Wirkung seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^40-9]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^40-1]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061), [0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062), [0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
+[^40-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-3]: Fassung gemäss Ziff. I der V vom 8. März 2002, in Kraft seit 1. Juli 2002 ([AS 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
+[^40-4]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^40-5]: Aufgehoben durch Ziff. I der V vom 22. Jan. 1997, mit Wirkung seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^40-6]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 289](https://fedlex.data.admin.ch/eli/oc/2026/289)).
+[^40-7]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 40a
 
