@@ -3,18 +3,18 @@ sr: "412.101.221.31"
 title: Verordnung des SBFI vom 31. Mai 2010 über die berufliche Grundbildung Dekorationsnäherin/Dekorationsnäher mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/527"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2010-05-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/527/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-527-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/527/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/527/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2010-527-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/527/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Dekorationsnäherin/Dekorationsnäher mit eidgenössischem Berufsattest (EBA)
 
-vom 31. Mai 2010 (Stand am 1. Januar 2026)[^t-1]
+vom 31. Mai 2010 (Stand am 1. Januar 2027)[^t-1]
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2013 angepasst.
 
@@ -360,3 +360,13 @@ Die Kommission hat folgende Aufgaben:
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 
 <sup>2</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 17–23) treten am 1. Januar 2013 in Kraft.
+
+## Übergangsbestimmungen zur Aufhebung vom 22. Mai 2026
+
+[^u1-1]
+
+[^u1-1]: Eingefügt durch Ziff. II der V des SBFI vom 22. Mai 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 285](https://fedlex.data.admin.ch/eli/oc/2026/285)).
+
+<sup>1</sup> Lernende, die ihre Ausbildung als Dekorationsnäherin oder Dekorationsnäher EBA vor dem 1. Januar 2027 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2028 erfolgt.
+
+<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Dekorationsnäherin oder Dekorationsnäher EBA gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2030 wiederholen, werden nach bisherigem Recht beurteilt.

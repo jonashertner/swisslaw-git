@@ -3,18 +3,18 @@ sr: "412.101.221.31"
 title: "Ordinanza della SEFRI del 31 maggio 2010 sulla formazione professionale di base Cucitrice d'interni/Cucitore d'interni con certificato federale di formazione pratica (CFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/527"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2010-05-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/527/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2010-527-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/527/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/527/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2010-527-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/527/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Cucitrice d’interni/Cucitore d’interni con certificato federale di formazione pratica (CFP)
 
-del 31 maggio 2010 (Stato 1° gennaio 2026)[^t-1]
+del 31 maggio 2010 (Stato 1° gennaio 2027)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2013.
 
@@ -360,3 +360,13 @@ La Commissione ha i seguenti compiti:
 <sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2011.
 
 <sup>2</sup> Le disposizioni concernenti la procedura di qualificazione, le attestazioni e il titolo (art. 17–23) entrano in vigore il 1° gennaio 2013.
+
+## Disposizione transitoria dell’abrogazione del 22 maggio 2026
+
+[^u1-1]
+
+[^u1-1]: Introdotto dalla cifra II dell’O della SEFRI del 22 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 285](https://fedlex.data.admin.ch/eli/oc/2026/285)).
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di cucitore d’interni CFP prima del 1° gennaio 2027 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2028.
+
+<sup>2</sup> I candidati che hanno portato a termine la procedura di qualificazione con esame finale per cucitore d’interni CFP in base al diritto anteriore e che la ripetono entro il 31 dicembre 2030 sono valutati in base al diritto anteriore.

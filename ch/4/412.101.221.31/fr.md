@@ -3,18 +3,18 @@ sr: "412.101.221.31"
 title: "Ordonnance du SEFRI du 31 mai 2010 sur la formation professionnelle initiale de couturière d'intérieur/couturier d'intérieur avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/527"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2010-05-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/527/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-527-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/527/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/527/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-527-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/527/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de couturière d’intérieur/couturier d’intérieur avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 31 mai 2010 (État le 1<sup>er</sup> janvier 2026)[^t-1][^t-2]
+du 31 mai 2010 (État le 1<sup>er</sup> janvier 2027)[^t-1][^t-2]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
@@ -361,3 +361,13 @@ La commission est chargée des tâches suivantes:
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2011.
 
 <sup>2</sup> Les dispositions relatives à la procédure de qualification, au certificat et au titre (art. 17 à 23) entrent en vigueur le 1<sup>er</sup> janvier 2013.
+
+## Dispositions transitoires de l’abrogation du 22 mai 2026
+
+[^u1-1]
+
+[^u1-1]: Introduites par le ch. II de l’O du SEFRI du 22 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 285](https://fedlex.data.admin.ch/eli/oc/2026/285)).
+
+<sup>1</sup> Les personnes qui ont commencé leur formation de couturier d’intérieur AFP avant le 1<sup>er</sup> janvier 2027 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2028.
+
+<sup>2</sup> Les candidats qui se sont présentés à la procédure de qualification avec examen final de couturier d’intérieur AFP selon l’ancien droit et qui la répètent jusqu’au 31 décembre 2030 voient leurs prestations appréciées selon l’ancien droit.
