@@ -4,13 +4,12 @@ number: "423.152"
 title: Verordnung über die Promotion und die Maturität am Gymnasium
 short: V Gymnasium
 language: de
-version: 2026-08-01
-valid_until: 2027-07-31
-version_adopted: 2026-05-13
+version: 2027-08-01
+version_adopted: 2026-08-26
 adopted: 1999-06-23
 in_force: 1999-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.152"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4012/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4035/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4012/pdf_file"
 
 (V Gymnasium)
 
-Vom 23.06.1999 (Stand 01.08.2026)
+Vom 23.06.1999 (Stand 01.08.2027)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -41,7 +40,7 @@ beschliesst:
 
 **Stundentafeln und Lehrpläne**
 
-<sup>1</sup> Die Stundentafeln und die Lehrpläne sind in den Anhängen geregelt.
+<sup>1</sup> Die Stundentafeln und die Lehrpläne sind in den Anhängen 1a, 2a, 4a und 5a geregelt.
 
 #### § 2
 
@@ -69,6 +68,20 @@ beschliesst:
 
 <sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet die Schulleitung nach Vorgaben des Departements Bildung, Kultur und Sport (BKS).
 
+#### § 3b
+
+**Austausch und Mobilität**
+
+<sup>1</sup> Jedes Gymnasium verfügt über ein vom BKS genehmigtes Konzept zum Austausch und zur Mobilität der Schülerinnen und Schüler gemäss Art. 22 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätszeugnissen (Maturitätsanerkennungsreglement, MAR) vom 22. Juni 2023[^3b-1].
+
+[^3b-1]: SAR [400.740](https://gesetzessammlungen.ag.ch/data/400.740/de)
+
+#### § 3c
+
+**Gemeinwohl**
+
+<sup>1</sup> Jedes Gymnasium verfügt über ein Konzept zum Einsatz für das Gemeinwohl gemäss Art. 23 MAR.
+
 ## 2. Promotionsentscheide, Zwischenbeurteilung und Übertritt
 
 #### § 4
@@ -83,42 +96,23 @@ beschliesst:
 
 #### § 5
 
-**Promotionsfächer**
-
-<sup>1</sup> Promotionsfächer bis Ende der 2. Klasse sind:
-
-- a) die Grundlagenfächer beziehungsweise die Fachbereiche Deutsch, Französisch (oder in der 2. Klasse das Freifach Italienisch), Englisch, Mathematik, Bildnerisches Gestalten oder Musik (mit Instrumentalunterricht), Physik (nur in der 2. Klasse), Chemie, Biologie, Geschichte, Geografie, die obligatorischen Fächer Einführung in Wirtschaft und Recht (zählt nicht für den Promotionsentscheid am Ende der Probezeit) sowie Informatik, und
-- b) das Akzentfach.
-
-<sup>2</sup> Promotionsfächer in der 3. Klasse sind:
-
-- a) die Grundlagenfächer bzw. die Fachbereiche Deutsch, Französisch oder Italienisch, Englisch oder Griechisch, Mathematik, Bildnerisches Gestalten oder Musik (mit Instrumentalunterricht), Physik, Chemie, Biologie, Geschichte, Geografie,
-- b) das Schwerpunktfach und
-- c) der Projektunterricht.
-
-<sup>3</sup> Schülerinnen und Schüler ohne entsprechende Vorbildung im Französischen können an Stelle von Französisch Italienisch als Grundlagenfach ab der 1. Klasse zählen lassen.
-
-<sup>4</sup> Die Zeugnisnote im Grundlagen-, im Schwerpunkt- und im Ergänzungsfach Musik wird aus dem Mittel der Note des Musikunterrichts und der Note des Instrumentalunterrichts gebildet. Ergibt das Mittel der Noten einen Viertelswert, wird bei der Zeugnisnote auf die nächsthöhere halbe oder ganze Zahl gerundet.
+**…**
 
 #### § 5a
 
-**Promotionsfächer im Lehrgang für Leistungssportlerinnen und -sportler**
+**…**
 
-<sup>1</sup> Promotionsfächer bis Ende der 2. Klasse sind:
+#### § 5b
 
-- a) die Grundlagenfächer Deutsch, Französisch, Englisch, Mathematik, Bildnerisches Gestalten, Chemie, Biologie (nur in der 2. Klasse), Geografie (nur in der 2. Klasse) sowie das obligatorische Fach Einführung in Wirtschaft und Recht (nur in der 1. Klasse), und
-- b) das Akzentfach.
+**Promotionsfächer**
 
-<sup>2</sup> Promotionsfächer in der 3. Klasse sind:
+<sup>1</sup> Promotionswirksam in der 1., 2. und 3. Klasse des Gymnasiums sind die obligatorischen Fächer gemäss Stundentafel (Anhang 1a). Davon ausgenommen ist die Maturitätsarbeit.
 
-- a) die Grundlagenfächer Deutsch, Französisch, Englisch, Mathematik, Biologie, Physik, Geschichte, Geografie und das obligatorische Fach Informatik.
-- b) …
+<sup>2</sup> Promotionswirksam in der 1., 2. und 3. Klasse des zweisprachigen Lehrgangs mit International Baccalaureate (IB) Diploma Programme sind die obligatorischen Fächer gemäss Stundentafel (Anhang 2a). Davon ausgenommen sind die Maturitätsarbeit und die zusätzlichen IB-Fächer.
 
-<sup>3</sup> Promotionsfächer in der 4. Klasse sind:
+<sup>3</sup> Promotionswirksam in der 1., 2., 3. und 4. Klasse des Lehrgangs für Leistungssportlerinnen und Leistungssportler sind die obligatorischen Fächer gemäss Stundentafel (Anhang 4a). Davon ausgenommen ist die Maturitätsarbeit.
 
-- a) die Grundlagenfächer Deutsch, Französisch, Englisch, Mathematik, Physik, Geschichte,
-- b) das Schwerpunktfach, und
-- c) der Projektunterricht.
+<sup>4</sup> Die Zeugnisnote im Grundlagen-, im Schwerpunkt- und im allfälligen Ergänzungsfach Musik mit Instrumentalunterricht wird aus dem Mittel der Note des Musikunterrichts und der Note des Instrumentalunterrichts gebildet. Ergibt das Mittel der Noten einen Viertelswert, wird bei der Zeugnisnote auf die nächsthöhere halbe oder ganze Zahl gerundet.
 
 #### § 6
 
@@ -161,7 +155,7 @@ beschliesst:
 
 <sup>2</sup> Die Promotionskonferenz nimmt die Zwischenbeurteilungen vor.
 
-<sup>3</sup> In den Promotions- beziehungsweise Maturitätsfächern werden den Schülerinnen und Schülern die Noten der Beurteilung mitgeteilt.
+<sup>3</sup> Die Noten in den Promotions- beziehungsweise Maturitätsfächern werden den Schülerinnen und Schülern schriftlich mitgeteilt.
 
 #### § 11
 
@@ -198,23 +192,26 @@ beschliesst:
 <sup>1</sup> Prüfungsfächer sind:
 
 - a) das Grundlagenfach Deutsch,
-- b) das Grundlagenfach 2. Sprache (Französisch oder Italienisch),
-- c) das Grundlagenfach 3. Sprache (Englisch oder Griechisch),
+- b) das Grundlagenfach Französisch oder Italienisch,
+- c) …
 - d) das Grundlagenfach Mathematik,
 - e) das Schwerpunktfach und
-- f) das Ergänzungsfach.
+- f) …
+- g) nach Wahl der Schülerin respektive des Schülers das Grundlagenfach Physik oder das Grundlagenfach Geschichte.
 
 #### § 15
 
 **Art und Dauer der Prüfungen**
 
-<sup>1</sup> Die Prüfungsfächer werden schriftlich und mündlich geprüft. Die schriftlichen Prüfungen dauern 4 Stunden und sind innerhalb einer Schule einheitlich. Die mündlichen Prüfungen dauern 15 Minuten. Vorbehalten bleiben die Bestimmungen in den Absätzen 2–4.
+<sup>1</sup> Die Prüfungsfächer werden schriftlich und mündlich beziehungsweise praktisch geprüft.
 
-<sup>2</sup> Die Grundlagenfächer 2. und 3. Sprache werden schriftlich geprüft. Die jeweilige Schulleitung legt je Abteilung fest, ob das Grundlagenfach 2. oder 3. Sprache mündlich geprüft wird.
+<sup>1<sup>bis</sup></sup> Die schriftlichen Prüfungen dauern mindestens 2 Stunden und sind innerhalb einer Schule einheitlich. Die mündlichen beziehungsweise praktischen Prüfungen dauern mindestens 15 Minuten.
 
-<sup>3</sup> Das Schwerpunktfach Bildnerisches Gestalten wird sowohl schriftlich beziehungsweise praktisch als auch mündlich geprüft. Das Schwerpunktfach Musik wird sowohl schriftlich als auch mündlich beziehungsweise praktisch geprüft. Die Maturitätsprüfungskommission legt Art und Dauer der einzelnen Prüfungen fest.
+<sup>2</sup> …
 
-<sup>4</sup> Das Ergänzungsfach wird mündlich oder praktisch geprüft. Die Maturitätsprüfungskommission legt Art und Dauer der einzelnen Prüfungen fest.
+<sup>3</sup> …
+
+<sup>4</sup> …
 
 <sup>5</sup> …
 
@@ -230,7 +227,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Das BKS erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Das BKS erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt oder benutzt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> Die Prüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
 
@@ -245,27 +242,27 @@ beschliesst:
 <sup>1</sup> Der Erziehungsrat ernennt auf die Dauer von vier Jahren eine Maturitätsprüfungskommission, bestehend aus
 
 - a) zwei Mitgliedern des Erziehungsrats, welche das Präsidium und Vizepräsidium innehaben,
-- b) 12 bis 16 Mitgliedern als Ressortleiterinnen beziehungsweise Ressortleiter,
+- b) 12 bis 18 Mitgliedern als Ressortleiterinnen beziehungsweise Ressortleiter,
 - c) je einer Vertreterin oder einem Vertreter der Konferenz der Rektorinnen und Rektoren und des BKS mit beratender Stimme.
 
 <sup>2</sup> Die Maturitätsprüfungskommission ist insbesondere zuständig für
 
 - a) den Erlass von einheitlichen überfachlichen und fachspezifischen formalen Rahmenvorgaben für die Maturitätsprüfungen,
 - b) die Ressortzuteilung der einzelnen Fächer und Fachbereiche,
-- c) die Genehmigung der von den Schulleitungen vorgeschlagenen Expertinnen und Experten.
+- c) das Festlegen von Richtlinien zur Auswahl und zum Einsatz von Expertinnen und Experten zuhanden der Schulleitungen.
 
 <sup>3</sup> Präsidium und Vizepräsidium sind insbesondere zuständig für die
 
 - a) Koordination der Ressortleiterinnen und Ressortleiter,
-- b) Genehmigung der Prüfungsprogramme der Schulen,
-- c) Berichterstattung über die Prüfungsleistungen zuhanden des Erziehungsrats, des BKS und der Schulleitungen,
+- b) Kenntnisnahme der Prüfungsprogramme der Schulen,
+- c) Berichterstattung über die Prüfungsvalidierung, die Prüfungsleistungen und über Auffälligkeiten in Bezug auf die Prüfungsdurchführung zuhanden des Erziehungsrats, des BKS und der Schulleitungen,
 - d) Vertretung der Maturitätsprüfungskommission nach aussen.
 
 <sup>4</sup> Die Ressortleiterinnen und Ressortleiter sind in ihrem Ressort insbesondere zuständig für die
 
 - a) Sicherstellung eines einheitlichen Prüfungsniveaus und Prüfungsverfahrens an sämtlichen Schulen,
 - b) Genehmigung der Aufgaben für die schriftlichen Prüfungen an den einzelnen Schulen,
-- c) Berichterstattung über den Verlauf der Prüfungen an den einzelnen Schulen zuhanden der Maturitätsprüfungskommission.
+- c) Berichterstattung über die Prüfungsvalidierung zuhanden der Maturitätsprüfungskommission.
 
 #### § 19
 
@@ -295,7 +292,7 @@ beschliesst:
 
 <sup>1</sup> Die Maturitätskonferenz setzt sich jeweils aus drei Mitgliedern der Maturitätsprüfungskommission und zwei Mitgliedern der Schulleitung zusammen.
 
-<sup>2</sup> An den Sitzungen der Maturitätskonferenz nehmen die Expertinnen und Experten sowie alle Lehrpersonen, die Prüfungen abgenommen oder den abschliessenden Unterricht in den nicht geprüften Fächern erteilt haben, nach Bedarf mit beratender Stimme teil.
+<sup>2</sup> An den Sitzungen der Maturitätskonferenz nehmen die Lehrpersonen, die Prüfungen abgenommen oder den abschliessenden Unterricht in den nicht geprüften Fächern erteilt haben, nach Bedarf mit beratender Stimme teil.
 
 <sup>3</sup> Die Maturitätskonferenz erarbeitet die Grundlagen für die Maturitätsentscheide zuhanden des BKS.
 
@@ -303,9 +300,9 @@ beschliesst:
 
 #### § 21
 
-**Maturaarbeit**
+**Maturitätsarbeit**
 
-<sup>1</sup> Die Schülerinnen und Schüler müssen im letzten Ausbildungsjahr vorzugsweise in einer Gruppe oder alleine eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren.
+<sup>1</sup> Die Schülerinnen und Schüler müssen in den letzten beiden Ausbildungsjahren alleine oder in einer Gruppe eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren.
 
 <sup>2</sup> Die erbrachten schriftlichen und mündlichen Leistungen werden mit einer Note bewertet.
 
@@ -315,19 +312,23 @@ beschliesst:
 
 **Maturitätsfächer**
 
-<sup>1</sup> Maturitätsfächer sind die zehn Grundlagenfächer, das Schwerpunktfach, das Ergänzungsfach und die Maturaarbeit.
+<sup>1</sup> Maturitätsfächer sind die zwölf Grundlagenfächer, das Schwerpunktfach, das Ergänzungsfach und die Maturitätsarbeit.
 
 #### § 23
 
 **Maturitätsnoten**
 
-<sup>1</sup> In den Prüfungsfächern wird die Maturitätsnote aus dem Mittel von Vorschlags- und Prüfungsnote gebildet. Die Vorschlagsnote ist die Zeugnisnote der letzten Klasse, in der das betreffende Fach unterrichtet wird.
+<sup>1</sup> In den Prüfungsfächern wird die Maturitätsnote aus dem Mittel von Vorschlags- und Prüfungsnote gebildet. Die Vorschlagsnote ist die Zeugnisnote der letzten Klasse, in der das betreffende Fach gemäss Stundentafel unterrichtet wurde.
 
-<sup>2</sup> In den prüfungsfreien Fächern entspricht die Maturitätsnote der Zeugnisnote in der letzten Klasse, in der das betreffende Fach unterrichtet wird.
+<sup>2</sup> In den prüfungsfreien Fächern entspricht die Maturitätsnote der Zeugnisnote der letzten Klasse, in der das betreffende Fach gemäss Stundentafel unterrichtet wurde.
 
-<sup>3</sup> Im Grundlagenfach Geografie ist das Mittel der Noten der letzten zwei Klassen, in denen das Fach unterrichtet wird, massgebend. Bei Schülerinnen und Schülern, welche die 2. Klasse nicht an der Stammschule besucht haben, ist die Note der 3. Klasse massgebend. Bei Schülerinnen und Schülern, die den Lehrgang für Leistungssportlerinnen und -sportler absolvieren, entspricht die Maturitätsnote der Zeugnisnote der letzten Klasse, in der das Fach unterrichtet wird.
+<sup>2<sup>bis</sup></sup> Wird ein Fach in der letzten Klasse nicht besucht, ist ein Leistungsnachweis zu erbringen. Die erzielte Note zählt als Maturitätsnote.
 
-<sup>4</sup> Die Bewertung der Maturaarbeit erfolgt aufgrund des Arbeitsprozesses, der schriftlichen oder schriftlich kommentierten Arbeit und ihrer Präsentation.
+<sup>2<sup>ter</sup></sup> Wird ein Fach in der letzten Klasse im Rahmen eines Austauschs an einem anderen eidgenössisch anerkannten Gymnasium besucht, kann die erzielte Note als Maturitätsnote angerechnet werden.
+
+<sup>3</sup> …
+
+<sup>4</sup> Die Bewertung der Maturitätsarbeit erfolgt aufgrund der schriftlichen Arbeit und der mündlichen Präsentation mit Fachgespräch, wobei die Bewertung des Arbeitsprozesses in die Bewertung der schriftlichen Arbeit oder der mündlichen Präsentation mit Fachgespräch einfliesst.
 
 <sup>5</sup> Die Maturitätsnoten werden auf halbe oder ganze Zahlen gerundet. Bei einem exakten Viertelswert wird auf die nächste höhere halbe oder ganze Zahl gerundet.
 
@@ -339,7 +340,7 @@ beschliesst:
 
 **Bestehensnormen**
 
-<sup>1</sup> Die Maturität ist bestanden, wenn in den 13 Maturitätsfächern
+<sup>1</sup> Die Maturität ist bestanden, wenn in den 15 Maturitätsfächern
 
 - a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
 - b) nicht mehr als vier Noten unter 4 erzielt wurden.
@@ -348,7 +349,7 @@ beschliesst:
 
 **Maturitätsentscheid**
 
-<sup>1</sup> Das BKS entscheidet über das Bestehen der Maturität und stellt den Maturitätsausweis aus.
+<sup>1</sup> Das BKS entscheidet über das Bestehen der Maturität.
 
 #### § 27
 
@@ -358,34 +359,35 @@ beschliesst:
 
 <sup>2</sup> Sie können sich vom Unterrichtsbesuch und der Prüfung in denjenigen Maturitätsfächern und Fachbereichen dispensieren lassen, in welchen sie beim ersten Versuch mindestens die Note 5 erzielt haben. Diese Noten zählen auch beim zweiten Versuch.
 
-<sup>2<sup>bis</sup></sup> Den Schülerinnen und Schülern steht es frei, eine zweite Maturaarbeit zu verfassen. Nachbesserungen an der zuerst erstellten Maturaarbeit sind nicht zulässig. Im Falle des Verfassens einer zweiten Maturaarbeit zählt die für diese Arbeit erzielte Note als Maturitätsnote.
+<sup>2<sup>bis</sup></sup> Den Schülerinnen und Schülern steht es frei, eine zweite Maturitätsarbeit zu verfassen. Nachbesserungen an der zuerst erstellten Maturitätsarbeit sind nicht zulässig. Im Falle des Verfassens einer zweiten Maturitätsarbeit zählt die für diese Arbeit erzielte Note als Maturitätsnote.
 
 <sup>3</sup> Eine dritte Maturitätsprüfung ist nicht gestattet.
 
 #### § 28
 
-**Maturitätsausweis**
+**Maturitätszeugnis**
 
-<sup>1</sup> Der Maturitätsausweis wird vom BKS ausgestellt, wenn die Maturität bestanden ist.
+<sup>1</sup> Das Maturitätszeugnis wird vom BKS ausgestellt, wenn die Maturität bestanden ist.
 
-<sup>2</sup> Der Maturitätsausweis enthält:
+<sup>2</sup> Das Maturitätszeugnis enthält
 
 - a) die Überschrift «Schweizerische Eidgenossenschaft» und den Untertitel «Kanton Aargau»;
-- b) den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995»;
+- b) den Vermerk «Maturitätszeugnis, ausgestellt nach den Erlassen des Bundesrates vom 28. Juni 2023 und der Konferenz der kantonalen Erziehungsdirektorinnen und ‑direktoren vom 22. Juni 2023 über die Anerkennung von gymnasialen Maturitätszeugnissen»;
 - c) den Namen der Schule, die ihn ausstellt;
 - d) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
 - e) die Angaben der Zeit, während der die Inhaberin beziehungsweise der Inhaber die aargauische Mittelschule besucht hat;
-- f) die Maturitätsnoten der 13 Maturitätsfächer nach § 22;
-- g) das Thema der Maturaarbeit;
-- h) gegebenenfalls einen Hinweis auf die Zweisprachigkeit der Maturität mit Angabe der zweiten Sprache;
+- f) die Maturitätsnoten der 15 Maturitätsfächer gemäss § 22;
+- g) das Thema der Maturitätsarbeit;
+- h) gegebenenfalls einen Hinweis auf die Mehrsprachigkeit der Maturität mit Angabe der zweiten Sprache;
 - i) die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des BKS und der Rektorin beziehungsweise des Rektors der Schule.
 
-<sup>3</sup> Zusätzlich werden im Maturitätsausweis folgende Noten aufgeführt:
+<sup>3</sup> Zusätzlich werden im Maturitätszeugnis folgende Noten aufgeführt:
 
 - a) …
-- b) die Note im obligatorischen Fach Sport (ausser bei Schülerinnen und Schülern, die den Lehrgang für Leistungssportlerinnen und -sportler absolviert haben);
-- c) die Note im obligatorischen Fach Englisch, sofern dieses nicht Maturitätsfach ist;
-- d) die Noten in den Freifächern Französisch, Italienisch und Griechisch, sofern sie bis zur Maturität besucht wurden.
+- b) die Note im Fach Sport (ausser bei Schülerinnen und Schülern, die den Lehrgang für Leistungssportlerinnen und ‑sportler absolviert haben);
+- c) …
+- d) die Noten in den Freifächern Französisch, Italienisch und Latein, sofern sie bis zur Maturität besucht wurden,
+- e) die Note im Akzentfach.
 
 ## 5. Übergangs- und Schlussbestimmungen
 
@@ -447,6 +449,20 @@ beschliesst:
 <sup>4</sup> Schülerinnen und Schüler, die im Schuljahr 2025/26 in die Fachmittelschule zugelassen wurden, können auf Beginn des Schuljahrs 2028/29 letztmalig in die 3. Klasse des Gymnasiums übertreten.
 
 [^31a-1]: SAR [423.332](https://gesetzessammlungen.ag.ch/data/423.332/de)
+
+#### § 31b
+
+**Übergangsbestimmung zur Änderung vom 26. August 2026**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die das Gymnasium, den Lehrgang für Leistungssportlerinnen und ‑sportler oder den zweisprachigen Lehrgang mit International Baccalaureate (IB) Diploma Programme vor dem Schuljahr 2027/28 begonnen haben, gelten die Bestimmungen des bisherigen Rechts und die Anhänge 1, 2, 4, 5 und 6–12. Davon ausgenommen sind die §§ 17, 18 und 20a. Diesbezüglich gilt das neue Recht.
+
+<sup>2</sup> Im Falle der Repetition einer Klasse gelten für Schülerinnen und Schüler, die den jeweiligen Lehrgang im Schuljahr 2026/27 begonnen haben, die Bestimmungen des neuen Rechts.
+
+<sup>3</sup> Im Falle der Repetition der 3. Klasse des Gymnasiums zählen in den Grundlagenfächern Biologie und Geografie die gemäss bisherigem Recht erworbenen Zeugnisnoten der 3. Klasse als Maturitätsnoten. Im Grundlagenfach Wirtschaft und Recht zählt die gemäss bisherigem Recht erworbene Zeugnisnote des obligatorischen Fachs Einführung in Wirtschaft und Recht der 2. Klasse als Maturitätsnote.
+
+<sup>4</sup> Im Falle einer Repetition der 4. Klasse des Gymnasiums gelten die Bestimmungen gemäss Absatz 3. In den Grundlagenfächern Chemie und Musik mit Instrumentalunterricht zählt die gemäss bisherigem Recht jeweilig erworbene Note der 3. Klasse als Maturitätsnote, im Grundlagenfach Informatik die gemäss bisherigem Recht im obligatorischen Fach Informatik erworbene Note der 2. Klasse. Im Grundlagenfach Bildende Kunst zählt die gemäss bisherigem Recht erworbene Zeugnisnote im Grundlagenfach Bildnerisches Gestalten der 3. Klasse als Maturitätsnote.
+
+<sup>5</sup> Schülerinnen und Schüler, welche die Schwerpunktfächer Italienisch, Französisch oder Latein besucht haben, wählen im Falle einer Repetition der 3. oder 4. Klasse ein Schwerpunktfach gemäss neuem Recht.
 
 #### § 32
 
