@@ -4,11 +4,11 @@ title: Bundesgesetz vom 24. März 2006 über Radio und Fernsehen (RTVG)
 short: RTVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: de
-version: 2024-10-01
+version: 2027-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20241001-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/de"
 
 (RTVG)
 
-vom 24. März 2006 (Stand am 1. Oktober 2024)
+vom 24. März 2006 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -894,11 +894,9 @@ Er bestimmt für Frequenzen oder Frequenzblöcke, die nach dem nationalen Freque
 
 #### Art. 57
 
-**Unterstützung der Verbreitung von Radioprogrammen**
+[^57-1]
 
-<sup>1</sup> Das BAKOM gewährt einem Programmveranstalter mit einer Konzession mit Abgabenanteil nach Artikel 38 Absatz 1 Buchstabe a, dem in einer Bergregion ein zusätzlicher Aufwand für die drahtlos-terrestrische Verbreitung seines Radioprogramms entsteht, einen Beitrag.
-
-<sup>2</sup> Der Bundesrat regelt die Voraussetzungen und Berechnungskriterien, nach welchen das BAKOM die Beiträge entrichtet.
+[^57-1]: Aufgehoben durch Ziff. I 14 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 58
 
@@ -1361,15 +1359,13 @@ Es kann vom Programmveranstalter oder von der betroffenen Unternehmung verlangen
 - b. Massnahmen gegen Konzernjournalismus ergreift, wie den Erlass eines Redaktionsstatuts zur Absicherung der redaktionellen Freiheit;
 - c. bei offensichtlichem Ungenügen solcher Massnahmen die unternehmerischen und organisatorischen Strukturen des Unternehmens anpasst.
 
-### 3. Kapitel: Aus- und Weiterbildung von Programmschaffenden
-
-[^tit5-chap3-1]
-
-[^tit5-chap3-1]: Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+### 3. Kapitel: ...
 
 #### Art. 76
 
-Der Bund kann die Aus- und Weiterbildung von Programmschaffenden fördern, namentlich durch Beiträge an Aus- und Weiterbildungsinstitutionen. Das BAKOM regelt die Vergabekriterien und entscheidet über die Ausrichtung der Beiträge.
+[^76-1]
+
+[^76-1]: Aufgehoben durch Ziff. I 14 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### 4. Kapitel: Forschung
 

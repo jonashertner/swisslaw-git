@@ -4,11 +4,11 @@ title: Legge federale del 24 marzo 2006 sulla radiotelevisione (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: it
-version: 2024-10-01
+version: 2027-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20241001-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-150-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/it"
 
 (LRTV)
 
-del 24 marzo 2006 (Stato 1° ottobre 2024)
+del 24 marzo 2006 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -64,10 +64,10 @@ Nella presente legge si intende per:
 - o*.* *sponsorizzazione*: partecipazione di una persona fisica o giuridica al finanziamento diretto o indiretto di una trasmissione nell’intento di promuovere il proprio nome, il proprio marchio commerciale o la propria immagine;
 - p.[^2-4] *canone radiotelevisivo:* il canone di cui all’articolo 68 capoverso 1.
 
-[^2-1]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^2-1]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^2-2]: [RS 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
 [^2-3]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
-[^2-4]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^2-4]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## Titolo secondo: Emittenza di programmi svizzeri
 
@@ -84,13 +84,13 @@ Chi intende emettere un programma svizzero deve:
 - a. notificarlo previamente all’Ufficio federale delle comunicazioni (UFCOM); oppure
 - b. disporre di una concessione secondo la presente legge.
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^3-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Sezione 1*a*: Indipendenza dallo Stato
 
 [^tit2-chap1-sec1a-1]
 
-[^tit2-chap1-sec1a-1]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^tit2-chap1-sec1a-1]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 3a
 
@@ -122,7 +122,7 @@ Le emittenti provvedono, attraverso la scelta dell’ora di trasmissione o ricor
 
 I contributi ideati dalla redazione e inseriti nell’ulteriore offerta editoriale della SSR devono soddisfare i principi applicabili ai programmi di cui agli articoli 4 e 5. L’obbligo di pluralità (art. 4 cpv. 4) si applica esclusivamente ai dossier dedicati alle elezioni o alle votazioni.
 
-[^5a-1]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^5a-1]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 6
 
@@ -134,8 +134,8 @@ I contributi ideati dalla redazione e inseriti nell’ulteriore offerta editoria
 
 <sup>3</sup> Nessuno può esigere che un’emittente diffonda determinate produzioni e informazioni.
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^6-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^6-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 7
 
@@ -154,10 +154,10 @@ Il Consiglio federale può obbligare le emittenti televisive, nei limiti di quan
 
 <sup>4</sup> Le emittenti televisive regionali titolari di una concessione sottotitolano le principali trasmissioni informative. Il Consiglio federale definisce la portata dell’obbligo. Le spese per l’adattamento delle trasmissioni per gli audiolesi sono finanziate interamente mediante il canone radiotelevisivo (art. 68*a*).[^7-4]
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^7-2]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
-[^7-3]: Nuovo testo giusta il n. II della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
-[^7-4]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^7-3]: Nuovo testo giusta la cifra II della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^7-4]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 8
 
@@ -225,9 +225,9 @@ Sono vietate:
 
 [^10-1]: Nuovo testo giusta l’all. 3 n. 1 della L del 1° ott. 2021 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 837](https://fedlex.data.admin.ch/eli/fga/2019/169)).
 [^10-2]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
-[^10-3]: Nuovo testo giusta il n. I della LF del 25 set. 2009, in vigore dal 1° feb. 2010 ([RU 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41)372; [FF 2008 7853](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2009, in vigore dal 1° feb. 2010 ([RU 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41)372; [FF 2008 7853](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
 [^10-4]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
-[^10-5]: Abrogata dal n. I della LF del 25 set. 2009, con effetto dal 1° feb. 2010 ([RU 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41)372; [FF 2008 7853](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-5]: Abrogata dalla cifra I della LF del 25 set. 2009, con effetto dal 1° feb. 2010 ([RU 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41)372; [FF 2008 7853](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
 [^10-6]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 11
@@ -248,7 +248,7 @@ Nel disciplinare le deroghe ai principi di cui ai capoversi 1 e 2 il Consiglio f
 - d. normative internazionali in materia di pubblicità[^11-2];
 - e. esigenze del pubblico.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^11-2]: Termine rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl - [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 12
@@ -287,7 +287,7 @@ Nel disciplinare le deroghe ai principi di cui ai capoversi 1 e 2 il Consiglio f
 
 <sup>3</sup> Il Consiglio federale può limitare interamente o in parte la pubblicità e le sponsorizzazioni nei programmi radiofonici e televisivi della SSR e nell’ulteriore offerta editoriale, necessaria per adempiere il suo mandato di programma e finanziata mediante i proventi del canone (art. 25 cpv. 3 lett. b).
 
-[^14-1]: Abrogato dal n. I della LF del 25 set. 2009, con effetto dal 1° feb. 2010 ([RU 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41)372; [FF 2008 7853](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^14-1]: Abrogato dalla cifra I della LF del 25 set. 2009, con effetto dal 1° feb. 2010 ([RU 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41)372; [FF 2008 7853](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
 
 ### Sezione 4: Obblighi di notificazione, d’informazione, di rapporto e di registrazione
 
@@ -297,7 +297,7 @@ Nel disciplinare le deroghe ai principi di cui ai capoversi 1 e 2 il Consiglio f
 
 Le emittenti di programmi svizzeri concessionarie devono notificare all’UFCOM[^15-1] i proventi lordi derivanti da pubblicità e sponsorizzazioni.
 
-[^15-1]: Nuova espr. giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^15-1]: Nuova espr. giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -324,8 +324,8 @@ Sottostanno all’obbligo di informazione anche le persone fisiche e giuridiche:
 
 <sup>3</sup> Il diritto di rifiutare la comunicazione di informazioni o la consegna di documenti è retto dall’articolo 16 della legge federale del 20 dicembre 1968[^17-3] sulla procedura amministrativa (PA).
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^17-2]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^17-2]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^17-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 18
@@ -365,7 +365,7 @@ L’UFCOM allestisce una statistica in collaborazione con l’UFCOM di statistic
 
 <sup>3</sup> Se, durante il periodo di conservazione, è presentato reclamo presso l’organo di mediazione o è interposto ricorso presso l’Autorità indipendente di ricorso in materia radiotelevisiva oppure è aperto d’ufficio un procedimento di vigilanza, le registrazioni, i materiali e i documenti relativi devono essere conservati sino al termine del procedimento.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 21
 
@@ -379,7 +379,7 @@ L’UFCOM allestisce una statistica in collaborazione con l’UFCOM di statistic
 
 <sup>4</sup> Per assicurare a lungo termine l’utilizzazione degli archivi, il Consiglio federale può prendere provvedimenti di sostegno volti a conservare i pertinenti apparecchi di riproduzione.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Sezione 5: Tassa di concessione
 
@@ -389,7 +389,7 @@ L’UFCOM allestisce una statistica in collaborazione con l’UFCOM di statistic
 
 <sup>2</sup> La tassa non supera l’uno per cento dei proventi lordi derivanti da pubblicità e sponsorizzazioni. Il Consiglio federale stabilisce l’importo della tassa e una franchigia.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Capitolo 2: Società svizzera di radiotelevisione
 
@@ -455,8 +455,8 @@ Il DATEC può limitare o sospendere in parte la concessione della SSR se:
 - a. l’autorità di vigilanza ha presentato una richiesta conformemente all’articolo 89;
 - b. la SSR ha violato ripetutamente o in modo grave i suoi obblighi conformemente agli articoli 35 e 36.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^25-2]: Nuova espr. giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^25-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^25-2]: Nuova espr. giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Offerta editoriale
 
@@ -468,7 +468,7 @@ Il DATEC può limitare o sospendere in parte la concessione della SSR se:
 
 <sup>2</sup> Con l’autorizzazione del DATEC la SSR può introdurre nei suoi programmi radiofonici finestre regionali di durata limitata. In tali finestre la sponsorizzazione è vietata. La durata delle finestre regionali non può eccedere un’ora al giorno.[^26-1]
 
-[^26-1]: Per. introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^26-1]: Per. introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 27
 
@@ -624,7 +624,7 @@ La concessione stabilisce perlomeno:
 
 <sup>5</sup> ...[^38-1]
 
-[^38-1]: Abrogato dal n. I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^38-1]: Abrogato dalla cifra I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 39
 
@@ -660,7 +660,7 @@ Le concessioni con partecipazione al canone secondo l’articolo 68*a* capoverso
 
 <sup>3</sup> Sono applicabili le disposizioni della legge del 5 ottobre 1990[^40-2] sui sussidi.
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^40-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 41
@@ -718,8 +718,8 @@ Una concessione può essere rilasciata se il richiedente:
 
 <sup>3</sup> Un’emittente o l’azienda cui questa appartiene può ottenere al massimo due concessioni televisive e due concessioni radiofoniche. Il Consiglio federale può prevedere eccezioni per l’introduzione di nuove tecnologie di diffusione.[^44-2]
 
-[^44-1]: Abrogata dal n. I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^44-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^44-1]: Abrogata dalla cifra I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^44-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 45
 
@@ -735,7 +735,7 @@ Una concessione può essere rilasciata se il richiedente:
 
 <sup>4</sup> Di regola, le concessioni per la diffusione di programmi via etere sono rilasciate prima di mettere a concorso le corrispondenti concessioni di radiocomunicazione secondo l’articolo 22*a* LTC[^45-2].[^45-3]
 
-[^45-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^45-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^45-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^45-3]: Nuovo testo giusta l’all. n. 6 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
@@ -830,7 +830,7 @@ L’UFCOM può limitare o vietare la trasmissione di un programma mediante tecni
 
 <sup>3</sup> ...[^52-1]
 
-[^52-1]: Abrogato dal n. I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^52-1]: Abrogato dalla cifra I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Capitolo 2: Diffusione di programmi via etere
 
@@ -858,7 +858,7 @@ Per le frequenze o i blocchi di frequenze che, conformemente al piano nazionale 
 
 <sup>3</sup> Il DATEC provvede affinché, per informare la popolazione in situazioni straordinarie, possa essere garantita una sufficiente diffusione di programmi nel rispetto delle prescrizioni del Consiglio federale.
 
-[^54-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^54-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^54-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 55
@@ -888,13 +888,9 @@ Per le frequenze o i blocchi di frequenze che, conformemente al piano nazionale 
 [^56-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^56-2]: Vedi art. 106 cpv. 1 qui appresso.
 
-#### Art. 57
+****Art. 57**…[^57-1]**
 
-**Contributi alla diffusione di programmi radiofonici**
-
-<sup>1</sup> L’UFCOM accorda un contributo a un’emittente titolare di una concessione con partecipazione al canone secondo l’articolo 38 capoverso 1 lettera a se la diffusione via etere del suo programma radiofonico in una regione di montagna comporta oneri supplementari.
-
-<sup>2</sup> Il Consiglio federale disciplina le condizioni e i criteri di calcolo in base ai quali l’UFCOM accorda i contributi.
+[^57-1]: Abrogato dalla cifra I n. 14 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 58
 
@@ -910,7 +906,7 @@ Per le frequenze o i blocchi di frequenze che, conformemente al piano nazionale 
 
 <sup>5</sup> Il Consiglio federale definisce la cerchia degli aventi diritto e stabilisce le condizioni per il versamento dei contributi.
 
-[^58-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^58-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Capitolo 3: Diffusione su linea
 
@@ -1038,7 +1034,7 @@ I Cantoni possono vietare l’installazione di antenne esterne in determinate re
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^tit4-chap2-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Sezione 1: In generale
 
@@ -1172,7 +1168,7 @@ L’organo di riscossione può emanare decisioni:
 <sup>4</sup> L’organo di riscossione trasmette tempestivamente e gratuitamente, in forma elettronica, i dati necessari per la riscossione e l’incasso a un eventuale subentrante. Dopo la trasmissione elimina i dati non più necessari.
 
 [^69f-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^69f-2]: Nuovo testo del per. giusta l’all. 1 n. II 69 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^69f-2]: Nuovo testo del per. giusta l’all. 1 cifra II n. 69 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
 
@@ -1222,7 +1218,7 @@ L’organo di riscossione può utilizzare sistematicamente il numero AVS[^69g-2]
 
 [^70-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^70-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^70-3]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Obbligo delle imprese di pagare il canone), in vigore dal 1° gen. 2021 ([RU 2021 239](https://fedlex.data.admin.ch/eli/oc/2021/239); [FF 2020 4049](https://fedlex.data.admin.ch/eli/fga/2020/1026)).
+[^70-3]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Obbligo delle imprese di pagare il canone), in vigore dal 1° gen. 2021 ([RU 2021 239](https://fedlex.data.admin.ch/eli/oc/2021/239); [FF 2020 4049](https://fedlex.data.admin.ch/eli/fga/2020/1026)).
 
 #### Art. 70a
 
@@ -1278,7 +1274,7 @@ L’organo di riscossione può utilizzare sistematicamente il numero AVS[^69g-2]
 
 [^tit4-chap3-1]
 
-[^tit4-chap3-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^tit4-chap3-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 71
 
@@ -1286,7 +1282,7 @@ L’organo di riscossione può utilizzare sistematicamente il numero AVS[^69g-2]
 
 I Cantoni possono prevedere tasse per la ricezione di programmi radiotelevisivi diffusi via etere in base a un mandato di distribuzione pubblico.
 
-[^71-1]: Abrogata dal n. I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^71-1]: Abrogata dalla cifra I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## Titolo quinto: Provvedimenti per tutelare la pluralità e promuovere la qualità dei programmi
 
@@ -1325,7 +1321,7 @@ Essi danno alle emittenti interessate:
 
 [^tit5-chap2-1]
 
-[^tit5-chap2-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^tit5-chap2-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 74
 
@@ -1341,7 +1337,7 @@ La pluralità delle opinioni e dell’offerta risulta minacciata se:
 <sup>2</sup> Il DATEC consulta la Commissione della concorrenza per valutare se un’emittente o un’azienda occupa una posizione dominante sul mercato ai sensi dell’articolo 4 capoverso 2 della legge del 6 ottobre 1995[^74-1] sui cartelli. La Commissione della concorrenza applica i principi della legislazione sui cartelli e può rendere pubblico il proprio parere.[^74-2]
 
 [^74-1]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
-[^74-2]: Nuovo testo del per. giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^74-2]: Nuovo testo del per. giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 75
 
@@ -1357,17 +1353,13 @@ Il DATEC può esigere che l’emittente o l’azienda in questione:
 - b. prenda provvedimenti contro il giornalismo di gruppo, quali l’adozione di uno statuto redazionale a tutela della libertà redazionale;
 - c. adegui le proprie strutture imprenditoriali e organizzative, qualora i suddetti provvedimenti si rilevassero manifestamente insufficienti.
 
-### Capitolo 3: Formazione e formazione continua dei programmisti
-
-[^tit5-chap3-1]
-
-[^tit5-chap3-1]: Nuovo testo giusta l’all. n. 28 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+### Capitolo 3: …
 
 #### Art. 76
 
-La Confederazione può promuovere la formazione e la formazione continua dei programmisti, in particolare mediante contributi a istituti di formazione e di formazione continua.[^76-1] L’UFCOM disciplina i criteri d’attribuzione e decide in merito al versamento dei contributi.
+[^76-1]
 
-[^76-1]: Nuovo testo giusta l’all. n. 28 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^76-1]: Abrogato dalla cifra I n. 14 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Capitolo 4: Ricerca
 
@@ -1405,7 +1397,7 @@ Il Consiglio federale disciplina le condizioni e i criteri di calcolo in base ai
 
 <sup>3</sup> Il DATEC nomina il Consiglio di fondazione. Tiene conto a tal fine delle proposte degli interessati.
 
-[^80-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^80-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 81
 
@@ -1452,7 +1444,7 @@ L’Autorità di ricorso è competente per:
 
 <sup>2</sup> Essa presenta annualmente un rapporto d’attività al Consiglio federale.
 
-[^83-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^83-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 84
 
@@ -1470,7 +1462,7 @@ L’Autorità di ricorso non è vincolata ad alcuna istruzione dell’Assemblea 
 
 <sup>3</sup> L’Autorità di ricorso dispone di una segreteria indipendente. Essa ne disciplina i compiti nel regolamento di cui al capoverso 2. Il rapporto di servizio del personale della segreteria è retto dalla legislazione sul personale federale.
 
-[^85-1]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)n. II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]. Vedi ora gli art. 8*a* e seguenti dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
+[^85-1]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)cifra II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)cifra II n. 1]. Vedi ora gli art. 8*a* e seguenti dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 ## Titolo settimo: Vigilanza e rimedi giuridici
 
@@ -1492,11 +1484,11 @@ L’Autorità di ricorso non è vincolata ad alcuna istruzione dell’Assemblea 
 
 <sup>5</sup> L’Autorità di ricorso giudica unicamente i ricorsi contro contenuti redazionali pubblicati e contro il rifiuto di accordare l’accesso al programma o all’ulteriore offerta editoriale della SSR. Non interviene d’ufficio.[^86-5]
 
-[^86-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^86-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^86-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^86-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^86-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^86-4]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^86-5]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^86-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^86-5]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 87
 
@@ -1515,7 +1507,7 @@ L’Autorità di ricorso non è vincolata ad alcuna istruzione dell’Assemblea 
 <sup>2</sup> Il trattamento dei dati è retto dalle disposizioni della LPD[^88-1], per quanto applicabili agli organi federali.[^88-2]
 
 [^88-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^88-2]: Nuovo testo giusta l’all. 1 n. II 69 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^88-2]: Nuovo testo giusta l’all. 1 cifra II n. 69 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 2: Provvedimenti in caso di violazione del diritto
 
@@ -1539,7 +1531,7 @@ Se la competente autorità di vigilanza accerta una violazione del diritto:
 
 <sup>2</sup> Su proposta dell’Autorità di ricorso (art. 97 cpv. 4), il DATEC può vietare il programma o imporre oneri per la sua diffusione.[^89-1]
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^89-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 90
 
@@ -1579,13 +1571,13 @@ Può essere condannato a versare un importo sino a 10 000 franchi chiunque non a
 
 <sup>3</sup> Per calcolare l’importo della sanzione, la competente autorità di vigilanza tiene conto in particolare della gravità della violazione e delle condizioni finanziarie della persona fisica o giuridica sanzionata.
 
-[^90-1]: Abrogata dal n. I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^90-1]: Abrogata dalla cifra I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Capitolo 2: Vigilanza da parte dell’Autorità di ricorso
 
 [^tit7-chap2-1]
 
-[^tit7-chap2-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^tit7-chap2-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ### Sezione 1: Procedura di reclamo dinanzi all’organo di mediazione
 
@@ -1607,8 +1599,8 @@ Gli organi di mediazione trattano reclami contro:
 
 <sup>4</sup> Gli organi di mediazione delle regioni linguistiche sono sottoposti alla vigilanza dell’Autorità di ricorso.
 
-[^91-1]: Introdotta dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^91-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^91-1]: Introdotta dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^91-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 92
 
@@ -1629,7 +1621,7 @@ Chiunque può presentare un reclamo al competente organo di mediazione:
 
 <sup>5</sup> Il reclamo dev’essere presentato per scritto e, se concerne l’ulteriore offerta editoriale della SSR, deve essere documentato. Il reclamante deve indicare, con una breve motivazione, le sue contestazioni nei confronti del contenuto redazionale o le ragioni per le quali il rifiuto di accordare l’accesso al programma o alla parte redazionale dell’ulteriore offerta editoriale della SSR è illegale.
 
-[^92-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^92-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 93
 
@@ -1656,7 +1648,7 @@ L’organo di mediazione esamina la questione e funge da mediatore tra le parti.
 
 [^tit7-chap2-sec2-1]
 
-[^tit7-chap2-sec2-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^tit7-chap2-sec2-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 94
 
@@ -1675,10 +1667,10 @@ Può interporre ricorso contro un contenuto redazionale pubblicato o contro il r
 
 <sup>4</sup> Anche il DATEC può interporre ricorso; in questo caso non si applicano le condizioni di cui al capoverso 1.
 
-[^94-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^94-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^94-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^94-4]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^94-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^94-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^94-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^94-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 95
 
@@ -1695,7 +1687,7 @@ Il ricorso deve indicare brevemente:
 - a. in che modo il contenuto redazionale contestato ha violato le disposizioni di cui agli articoli 4, 5 e 5*a* o il diritto internazionale vincolante per le emittenti svizzere; o
 - b. in che modo il rifiuto dell’accesso (art. 91 cpv. 3 lett. b) è illegale.[^95-1]
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 96
 
@@ -1724,8 +1716,8 @@ L’Autorità di ricorso accerta se:
 
 <sup>4</sup> In caso di ripetute e gravi violazioni degli obblighi di cui all’articolo 4 capoversi 1 e 3 e all’articolo 5 riguardanti il programma o degli obblighi relativi all’ulteriore offerta editoriale della SSR (art. 5*a*), l’Autorità di ricorso può proporre al DATEC di irrogare un divieto di diffusione (art. 89 cpv. 2).[^97-2]
 
-[^97-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^97-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^97-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^97-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 98
 
@@ -1749,7 +1741,7 @@ L’Autorità di ricorso accerta se:
 
 <sup>3</sup> Contro le decisioni dell’Autorità di ricorso può essere interposto direttamente ricorso al Tribunale federale.
 
-[^99-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^99-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## Titolo ottavo: Emolumenti amministrativi
 
@@ -1782,7 +1774,7 @@ L’autorità competente riscuote emolumenti amministrativi in particolare per:
 
 <sup>4</sup> Nei casi di lieve entità si può prescindere dalla punizione.
 
-[^101-1]: Abrogato dal n. I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^101-1]: Abrogato dalla cifra I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 102
 
@@ -1793,7 +1785,7 @@ L’autorità competente riscuote emolumenti amministrativi in particolare per:
 <sup>2</sup> ...[^102-2]
 
 [^102-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
-[^102-2]: Abrogato dal n. I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^102-2]: Abrogato dalla cifra I della LF del 26 set. 2014, con effetto dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## Titolo decimo: Disposizioni finali
 
@@ -1813,8 +1805,8 @@ Il Consiglio federale esegue la presente legge sempre che i relativi compiti non
 
 <sup>2</sup> Può delegare al DATEC o all’UFCOM la facoltà di concludere accordi internazionali dal contenuto tecnico o amministrativo.[^104-2]
 
-[^104-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^104-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^104-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^104-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 105
 
@@ -1836,7 +1828,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 ...
 
-\2. e 3*.*[^106-subdivu2-1]
+<sup>2.</sup> e 3*.*[^106-subdivu2-1]
 
 [^106-subdivu2-1]: Le mod. possono essere consultate alla RU**2007** 737.
 
@@ -1858,7 +1850,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 <sup>6</sup> Per le altre concessioni che rimangono valevoli o sono prorogate, le disposizioni concernenti le concessioni con mandato di prestazioni secondo l’articolo 22 nonché secondo gli articoli 44-50 sono applicabili per analogia.
 
-[^107-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^107-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII n. 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I n. 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 
 #### Art. 108
 
@@ -1866,7 +1858,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 Il Consiglio federale può prorogare le istruzioni per la pianificazione delle reti emittenti secondo l’articolo 8 capoverso 1 LRTV 1991[^108-1] per al massimo cinque anni dopo l’entrata in vigore della presente legge o dopo aver sentito la Commissione delle comunicazioni.
 
-[^108-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^108-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII n. 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I n. 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 
 #### Art. 109
 
@@ -1880,7 +1872,7 @@ Il Consiglio federale può prorogare le istruzioni per la pianificazione delle r
 
 <sup>4</sup> Il disciplinamento transitorio di cui al capoverso 1 è applicabile sino al momento in cui sono rilasciate le concessioni con partecipazione al canone secondo gli articoli 38–42, al più tardi però cinque anni dopo l’entrata in vigore della presente legge.
 
-[^109-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^109-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII n. 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I n. 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^109-2]: [[RU 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
 #### Art. 109a
@@ -1900,7 +1892,7 @@ Le eccedenze delle quote di partecipazione al canone destinate alle emittenti lo
 
 <sup>4</sup> L’UFCOM accorda su richiesta i contributi di cui al capoverso 1. Il Consiglio federale determina le condizioni e i criteri di calcolo dei contributi.
 
-[^109a-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^109a-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 109b
 
@@ -1916,7 +1908,7 @@ Le eccedenze delle quote di partecipazione al canone destinate alle emittenti lo
 
 <sup>5</sup> Per il primo periodo di riscossione del canone per le imprese, può prevedere un periodo di riferimento diverso da quello di cui all’articolo 70 capoverso 1.
 
-[^109b-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^109b-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^109b-2]: [RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150)
 
 #### Art. 109c
@@ -1937,7 +1929,7 @@ Le eccedenze delle quote di partecipazione al canone destinate alle emittenti lo
 
 <sup>7</sup> L’esenzione termina cinque anni dopo la data da cui è riscosso il canone secondo l’articolo 109*b* capoverso 1.
 
-[^109c-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^109c-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 110
 
@@ -1954,7 +1946,7 @@ I titolari di una concessione per l’utilizzo di linee sottostanno a:
 
 <sup>3</sup> Gli obblighi che incombono al titolare di una concessione per l’utilizzo di linee secondo il capoverso 2 terminano non appena la diffusione di tali programmi su linea (secondo gli art. 59 e 60) nella sua zona di copertura è stata dichiarata definitivamente valida, ma al più tardi dopo cinque anni.
 
-[^110-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^110-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII n. 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I n. 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^110-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 111
@@ -1963,7 +1955,7 @@ I titolari di una concessione per l’utilizzo di linee sottostanno a:
 
 Le concessioni per la ridiffusione senza filo di programmi radiotelevisivi secondo l’articolo 43 LRTV 1991[^111-1] (concessioni di ridiffusione) rimangono valide sino a quando il loro titolare riceve una concessione di radiocomunicazione e di servizi di telecomunicazione secondo gli articoli 4 segg. o gli articoli 22 segg. LTC[^111-2], ma al massimo per due anni dall’entrata in vigore della presente legge.
 
-[^111-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^111-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII n. 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I n. 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^111-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 112
@@ -1980,7 +1972,7 @@ La SSR deve attuare la propria struttura organizzativa (art. 31–33) al momento
 
 <sup>2</sup> Se una fattispecie in materia di sorveglianza è intervenuta prima dell’entrata in vigore della presente legge e un procedimento è pendente, è applicabile la LRTV 1991. Se una fattispecie perdura dopo l’entrata in vigore della presente legge e un procedimento è pendente, le infrazioni commesse prima dell’entrata in vigore della presente legge sono giudicate secondo la LRTV 1991. Rimane salva l’applicazione dell’articolo 2 capoverso 2 del Codice penale[^113-2].
 
-[^113-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^113-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII n. 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I n. 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^113-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 114
@@ -2011,5 +2003,5 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)n. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
+[^annexu1-lvlu1-1]: [[RU 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)all. n. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII n. 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I n. 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 n. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150).

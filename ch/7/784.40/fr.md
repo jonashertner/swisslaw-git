@@ -4,11 +4,11 @@ title: Loi fédérale du 24 mars 2006 sur la radio et la télévision (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: fr
-version: 2024-10-01
+version: 2027-01-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20241001-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-150-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/fr"
 
 (LRTV)[^t-1]
 
-du 24 mars 2006 (État le 1<sup>er</sup> octobre 2024)
+du 24 mars 2006 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -896,11 +896,9 @@ Pour les fréquences ou les blocs de fréquences attribués à la diffusion de p
 
 #### Art. 57
 
-**Soutien à la diffusion de programmes de radio**
+[^57-1]
 
-<sup>1</sup> L’OFCOM accorde une contribution aux concessionnaires ayant droit à une quote-part de la redevance selon l’art. 38, al. 1, let. a, lorsque la diffusion par voie hertzienne terrestre de leurs programmes de radio dans les régions de montagne occasionne des frais supplémentaires.
-
-<sup>2</sup> Le Conseil fédéral détermine les conditions et les critères de calcul selon lesquels l’OFCOM accorde les contributions.
+[^57-1]: Abrogé par le ch. I 14 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 58
 
@@ -1363,15 +1361,13 @@ Il peut exiger que le diffuseur ou l’entreprise concernée:
 - b. prenne des mesures contre le journalisme de groupes de médias telles que l’adoption d’une charte assurant la liberté rédactionnelle;
 - c. adapte, au cas où ces mesures sont manifestement insuffisantes, les structures de l’entreprise quant à sa gestion et son organisation.
 
-### Chapitre 3 Formation et formation continue des professionnels
-
-[^tit5-chap3-1]
-
-[^tit5-chap3-1]: La mod. selon la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017, ne concerne que le texte italien ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+### Chapitre 3 …
 
 #### Art. 76
 
-La Confédération peut encourager la formation et la formation continue des professionnels qui participent à l’élaboration des programmes, notamment en accordant des contributions à des institutions de formation et de formation continue. L’OFCOM règle les critères d’attribution des contributions et décide de leur versement.
+[^76-1]
+
+[^76-1]: Abrogé par le ch. I 14 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Chapitre 4 Recherche
 
