@@ -4,13 +4,12 @@ number: "130.1"
 title: Staatsverwaltungsgesetz
 short: StVG
 language: de
-version: 2025-01-01
-valid_until: 2026-12-31
-version_adopted: 2024-10-31
+version: 2027-01-01
+version_adopted: 2026-05-21
 adopted: 1997-06-08
 in_force: 1997-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/130.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1917/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1917/pdf_file"
 
 (StVG)
 
-vom 08.06.1997 (Stand 01.01.2025)
+vom 08.06.1997 (Stand 01.01.2027)
 
 Das Volk des Kantons Obwalden,
 
@@ -424,21 +423,15 @@ beschliesst:
 
 #### Art. 51
 
-**Vorzeitige Pensionierung a. vorzeitiger Altersrücktritt**
-
-<sup>1</sup> Angestellte können sich zwei Jahre vor Erreichen der Altersgrenze vorzeitig pensionieren lassen, sofern sie zu diesem Zeitpunkt bereits die letzten zehn Jahre beim Kanton angestellt waren.
-
-<sup>2</sup> Sie haben für die Dauer der vorzeitigen Pensionierung einen Anspruch auf eine Überbrückungsrente im Umfang von 90 Prozent der maximalen einfachen AHV-Altersrente. Bei Teilzeitbeschäftigung vermindert sich die Überbrückungsrente anteilmässig.
-
-<sup>3</sup> Während der Dauer der vorzeitigen Pensionierung wird die Überbrückungsrente gekürzt, sofern das Gesamteinkommen aufgrund von Ansprüchen an Sozialversicherungen und haftpflichtige Dritte oder aus einem Ersatzerwerb zusammen mit der Überbrückungsrente mehr als 90 Prozent des früheren Einkommens beträgt.
+**…**
 
 #### Art. 52
 
-**b. Versetzung in den Ruhestand**
+**Versetzung in den Ruhestand**
 
 <sup>1</sup> Wenn sachliche Gründe es erfordern, können Angestellte ausnahmsweise ab dem 60. Altersjahr unter Einhaltung der Kündigungsfrist in den Ruhestand versetzt werden.
 
-<sup>2</sup> Die dadurch entstehende Schmälerung der Vorsorgeleistungen kann zusätzlich zur Überbrückungsrente durch eine Einlage des Kantons in die Personalversicherungskasse ganz oder teilweise ausgeglichen werden.
+<sup>2</sup> Die dadurch entstehende Schmälerung der Vorsorgeleistungen kann durch eine Einlage des Kantons in die Personalversicherungskasse ganz oder teilweise ausgeglichen werden.
 
 <sup>3</sup> Während der Dauer des vorzeitigen Ruhestandes werden die Vorsorgeleistungen nach dieser Bestimmung gekürzt, sofern das Gesamteinkommen aufgrund von Ansprüchen an Sozialversicherungen und haftpflichtige Dritte oder aus einem Ersatzerwerb zusammen mit den Vorsorgeleistungen mehr als 90 Prozent des früheren Einkommens beträgt.
 
@@ -450,7 +443,7 @@ beschliesst:
 
 <sup>2</sup> Die Höhe der Entschädigung bemisst sich nach den besonderen Umständen; sie beträgt höchstens sechs Monatsgehälter.
 
-<sup>3</sup> Bei ungerechtfertigter Versetzung in den Ruhestand entfallen Überbrückungsrenten oder Einlagen nach Art. 52 Abs. 2 dieses Gesetzes im Umfang der Entschädigung nach Absatz 2.
+<sup>3</sup> Bei ungerechtfertigter Versetzung in den Ruhestand entfallen Einlagen nach Art. 52 Abs. 2 dieses Gesetzes im Umfang der Entschädigung nach Absatz 2.
 
 <sup>4</sup> Bei ungerechtfertigter fristloser Entlassung besteht überdies Anspruch auf Ersatz dessen, was Angestellte verdient hätten, wenn das Dienstverhältnis unter Einhaltung der Kündigungsfrist oder durch Ablauf der bestimmten Vertragszeit beendigt worden wäre. Die Angestellten müssen sich dabei anrechnen lassen, was sie infolge Beendigung des Dienstverhältnisses erspart haben und was sie durch anderweitige Arbeit verdient oder zu verdienen absichtlich unterlassen haben.
 
@@ -637,6 +630,12 @@ beschliesst:
 
 [^71-1]: OGS 1986, 11
 
+#### Art. 71a
+
+**Übergangsbestimmung zum Nachtrag vom 21. Mai 2026**
+
+<sup>1</sup> Bei einem vorzeitigen Altersrücktritt auf einen Zeitpunkt vor Ablauf von zwei Jahren nach Inkrafttreten des Nachtrags vom 21. Mai 2026 haben Angestellte Anspruch auf eine Überbrückungsrente nach den Bestimmungen des bisherigen Art. 51 dieses Gesetzes.
+
 #### Art. 72
 
 **Änderung bisherigen Rechts a. Steuergesetz**
@@ -765,6 +764,8 @@ geändert durch:
 
 \- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1),
 
-\- Nachtrag vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39)
+\- Nachtrag vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39),
+
+\- Nachtrag vom 21. Mai 2026 (OGS 2026, 016), Botschaft und Vorlage des Regierungsrats vom 9. Dezember 2025, Kantonsratssitzungen vom 26. März und 21. Mai 2026 (22.25.07), Referendumsvorlage veröffentlicht im ABl vom 28. Mai 2026, in Kraft seit 1. Januar 2027 (OGS 2026, 016)
 
 OGS 1997, 83
