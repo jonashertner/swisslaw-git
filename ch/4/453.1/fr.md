@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2026-11-01
+version: 2027-06-05
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20261101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20261101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20270605/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20270605-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20270605/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20261101/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (État le 1<sup>er</sup> novembre 2026)
+du 4 septembre 2013 (État le 5 juin 2027)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -238,7 +238,7 @@ Annexe 1[^t-1]
 
 ## Liste des spécimens à déclarer
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 31 mars 2026, en vigueur depuis le 1<sup>er</sup> mai. 2026, à l’exception des entrées «requin-hâ (*Galeorhinus galeus*)», «émissoles (*Mustelus* spp.)», «squales-chagrins (Centrophoridae spp.)» et «*Holothuria* [*Microthele*] *lessoni*», qui entrent en vigueur le 5 juin 2027 ([RO 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)). Erratum du 3 juin 2026, ne concerne que le texte italien ([RO 2026 276](https://fedlex.data.admin.ch/eli/oc/2026/276)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 31 mars 2026, en vigueur depuis le 1<sup>er</sup> mai 2026, à l’exception des entrées «requin-hâ (*Galeorhinus galeus*)», «émissoles (*Mustelus* spp.)», «squales-chagrins (Centrophoridae spp.)» et «*Holothuria* [*Microthele*] *lessoni*», qui entrent en vigueur le 5 juin 2027 ([RO 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
 
 ### 1 Animaux ainsi que parties et produits d’animaux
 
@@ -261,11 +261,11 @@ Annexe 1[^t-1]
 <tr><td>ex 0301.1900</td><td>demoiselle de Clarion (*Holacanthus clarionensis*), poisson Napoléon (*Cheilinus undulatus*)</td></tr>
 <tr><td>ex 0301.9200</td><td>anguille européenne (*Anguilla anguilla*)</td></tr>
 <tr><td>ex 0301.9920</td><td>toutes les espèces d’esturgeons (Acipenseriformes) ainsi que païche (*Arapaima gigas*) et raies d’eau douce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*)</td></tr>
-<tr><td>ex 0301.9980</td><td>demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-2], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-3], squale-chagrin (Centrophoridae spp.)[^annex1-lvlu1-lvl1-4],</td></tr>
+<tr><td>ex 0301.9980</td><td>demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squale-chagrin (Centrophoridae spp.),</td></tr>
 <tr><td>ex 0307.7100</td><td>tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200</td><td>strombes géants (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100</td><td>holothuries à mamelles *Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-5]*, Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.1100</td><td>holothuries à mamelles *Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *lessoni, Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
 <tr><td>ex 0308.9000</td><td>coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium* *elatius, C. japonicum, C. konjoi, C. secundum*) et autres espèces de coraux (entre autres Scleractinia, Antipatharia, Tubiporidae, Milleporidae, Stylasteridae)</td></tr>
 <tr><td>ex 9508.1000</td><td>animaux sauvages vivants de cirques et de ménageries; animaux inscrits aux annexes CITES</td></tr>
 <tr><td colspan="2">1.2 Denrées alimentaires d’origine animale</td></tr>
@@ -275,28 +275,28 @@ Annexe 1[^t-1]
 <tr><td>ex 0208.6000</td><td>chair de guanaco (*Lama guanicoe*) et vigogne (*Vicugna vicugna*)</td></tr>
 <tr><td>ex 0208.9090; 0210.9990</td><td>viande d’espèces CITES</td></tr>
 <tr><td>ex 0302.7400; 0303.2600; 0304.3900; 0304.5100; 0304.6900; 0304.9300; 0305.3100; 0305.4400; 0305.5200; 0305.6400</td><td>chair d’anguille européenne (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>chair de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-6], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-7], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-8],</td></tr>
+<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>chair de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squales-chagrins (Centrophoridae spp.),</td></tr>
 <tr><td>ex 0302.8200; 0303.8200; 0304.4800; 0304.5700; 0304.8800; 0304.9700</td><td>chair de: raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.) et raies mobula (*Mobula* spp.)</td></tr>
 <tr><td>ex 0302.8920; 0303.8920; 0304.4920; 0304.5920; 0304.8920; 0305.3920; 0305.4920; 0305.5920; 0305.6920</td><td>chair de: toutes les espèces d’esturgeons (Acipenseriformes), païche (*Arapaima gigas*) et raies d’eau douce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*)</td></tr>
 <tr><td>ex 0302.8980; 0303.8980; 0304.4980; 0304.5980; 0304.8980</td><td>chair de: demoiselle de Clarion (*Holacanthus clarionensis*), poisson Napoléon (*Cheilinus undulatus*) et poissons-scies (Pristidae)</td></tr>
-<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-9], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-10], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-11],</td></tr>
-<tr><td>ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>abats de poisson de: anguille européenne (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-12], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-13], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-14],</td></tr>
+<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squales-chagrins (Centrophoridae spp.),</td></tr>
+<tr><td>ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>abats de poisson de: anguille européenne (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squales-chagrins (Centrophoridae spp.),</td></tr>
 <tr><td>ex 0304.9970</td><td>abats de poisson de: demoiselle de Clarion (*Holacanthus* *clarionensis*), espèces d’esturgeons (Acipenseriformes), païche (*Arapaima gigas*), poisson Napoléon (*Cheilinus* *undulatus*), poissons-scies (Pristidae)</td></tr>
-<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>chair de: demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-15], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-16], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-17],</td></tr>
-<tr><td>ex 0305.7200; 0305.7900</td><td>têtes, queues, vessies natatoires et autres abats de poissons comestibles de: anguille d’Europe (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), toutes les espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas),* petit requin-taupe (*Isurus paucus*), poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-18], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-19], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-20],</td></tr>
+<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>chair de: demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squales-chagrins (Centrophoridae spp.),</td></tr>
+<tr><td>ex 0305.7200; 0305.7900</td><td>têtes, queues, vessies natatoires et autres abats de poissons comestibles de: anguille d’Europe (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), toutes les espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas),* petit requin-taupe (*Isurus paucus*), poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squales-chagrins (Centrophoridae spp.),</td></tr>
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900</td><td>tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>strombes géants (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-21], *Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *lessoni*, *Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>œufs d’oiseaux sauvages</td></tr>
 <tr><td>ex 1602.9088</td><td>préparations et conserves de crocodiles (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>préparations et conserves d’anguille européenne (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 1604.1800</td><td>préparations et conserves d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna nasus*) , requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-22], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-23], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-24],</td></tr>
+<tr><td>ex 1604.1800</td><td>préparations et conserves d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna nasus*) , requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squales-chagrins (Centrophoridae spp.),</td></tr>
 <tr><td>ex 1604.3100</td><td>préparations et conserves de: caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
 <tr><td>ex 1605.5600</td><td>préparations et conserves de tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 1605.5900</td><td>préparations et conserves de strombes géants (Queen conch, *Strombus gigas*), Nautilidae</td></tr>
 <tr><td>ex 1605.6100</td><td>préparations et conserves d’holothuries à mamelles</td></tr>
-<tr><td>ex 2104.1000</td><td>soupe d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*), requin baleine (*Rhinocodon* *typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna* *nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-25], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-26], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-27],</td></tr>
+<tr><td>ex 2104.1000</td><td>soupe d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*), requin baleine (*Rhinocodon* *typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna* *nasus*), requin-hâ (*Galeorhinus galeus*), émissoles (*Mustelus* spp.), squales-chagrins (Centrophoridae spp.),</td></tr>
 <tr><td colspan="2">1.3 Autres produits d’origine animale</td></tr>
 <tr><td>ex 0505.9090</td><td>peaux et autres parties d’oiseaux d’espèces CITES, brutes, à l’exclusion de celles de volailles domestiques et d’autruches africaines d’élevage</td></tr>
 <tr><td>ex 0507.1000</td><td>ivoire d’espèces CITES, brut ou simplement préparé, y compris les poudres et les déchets</td></tr>
@@ -359,32 +359,6 @@ Annexe 1[^t-1]
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
-[^annex1-lvlu1-lvl1-2]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-3]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-4]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-5]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-6]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-7]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-8]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-9]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-10]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-11]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-12]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-13]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-14]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-15]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-16]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-17]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-18]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-19]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-20]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-21]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-22]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-23]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-24]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-25]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-26]: En vigueur le 5 juin 2027.
-[^annex1-lvlu1-lvl1-27]: En vigueur le 5 juin 2027.
 
 ### 2 Plantes et produits d’origine végétale
 

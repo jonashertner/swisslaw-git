@@ -3,11 +3,11 @@ sr: "453.1"
 title: Verordnung des EDI vom 4. September 2013 über die Kontrolle des Verkehrs mit Tieren und Pflanzen geschützter Arten (CITES-Kontrollverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: de
-version: 2026-11-01
+version: 2027-06-05
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20261101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20261101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20270605/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20270605-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20270605/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20261101/de"
 
 (CITES-Kontrollverordnung)
 
-vom 4. September 2013 (Stand am 1. November 2026)
+vom 4. September 2013 (Stand am 5. Juni 2027)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -238,7 +238,7 @@ Anhang 1[^t-1]
 
 ## Liste der anzumeldenden Exemplare
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 31. März 2026, in Kraft 1. Mai 2026, die Einträge «Hundshai (*Galeorhinus galeus*)», «Glatthaie (*Mustelus* spp.)», «Schlingerhaie (Centrophoridae spp.)» und «*Holothuria* [*Microthele*] *lessoni*» gelten ab dem 5. Juni 2027 ([AS 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)). Die Berichtigung vom 3. Juni 2026 betrifft nur den italienischen Text ([AS 2026 276](https://fedlex.data.admin.ch/eli/oc/2026/276)).
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 31. März 2026, in Kraft 1. Mai 2026, die Einträge «Hundshai (*Galeorhinus galeus*)», «Glatthaie (*Mustelus* spp.)», «Schlingerhaie (Centrophoridae spp.)» und «*Holothuria* [*Microthele*] *lessoni*» gelten ab dem 5. Juni 2027 ([AS 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
 
 ### 1 Tiere sowie Teile und Erzeugnisse von Tieren
 
@@ -261,11 +261,11 @@ Anhang 1[^t-1]
 <tr><td>ex 0301.1900</td><td>Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*)</td></tr>
 <tr><td>ex 0301.9200</td><td>Europäischer Aal (*Anguilla anguilla*)</td></tr>
 <tr><td>ex 0301.9920</td><td>alle Störarten (Acipenseriformes) sowie *Arapaima gigas* und Süsswasserstechrochen (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* und *P. wallacei*)</td></tr>
-<tr><td>ex 0301.9980</td><td>Fuchshaie (*Alopias* spp.), Hammerhaie (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-2], Glatthaie (*Mustelus* spp.)[^annex1-lvlu1-lvl1-3], Kurzflossen-Mako (*Isurus* *oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaie (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaie (Centrophoridae spp.)[^annex1-lvlu1-lvl1-4], Walhai (*Rhinocodon typus*) und Weisser Hai (*Carcharodon carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.) und Teufelsrochen (*Mobula* spp.), Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*) und Sägefische (Pristidae)</td></tr>
+<tr><td>ex 0301.9980</td><td>Fuchshaie (*Alopias* spp.), Hammerhaie (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaie (*Mustelus* spp.), Kurzflossen-Mako (*Isurus* *oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaie (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaie (Centrophoridae spp.), Walhai (*Rhinocodon typus*) und Weisser Hai (*Carcharodon carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.) und Teufelsrochen (*Mobula* spp.), Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*) und Sägefische (Pristidae)</td></tr>
 <tr><td>ex 0307.7100</td><td>Mördermuscheln (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200</td><td>Fechterschnecken (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-5]*, Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.1100</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *lessoni, Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.</td></tr>
 <tr><td>ex 0308.9000</td><td>Blaue Korallen, Rote Korallen (*Corallium japonicum*, *Pleurocorallium elatius*, *P. konjoi*, *P. secundum*), Schwarze Korallen, Steinkorallen und andere Korallen (wie Scleractinia*,* Anthipataria*,* Tubiporidae*,* Milleporidae*,* Stylasteridae)</td></tr>
 <tr><td>ex 9508.1000</td><td>lebende Wildtiere für Zirkusse und Tierschauen; Tiere der CITES-Anhänge</td></tr>
 <tr><td colspan="2">1.2 Lebensmittel tierischer Herkunft</td></tr>
@@ -275,28 +275,28 @@ Anhang 1[^t-1]
 <tr><td>ex 0208.6000</td><td>Fleisch von: Guanako (*Lama guanicoe*) und Vikunja (*Vicugna vicugna*)</td></tr>
 <tr><td>ex 0208.9090; 0210.9990</td><td>Fleisch von CITES-Arten</td></tr>
 <tr><td>ex 0302.7400; 0303.2600; 0304.3900; 0304.5100; 0304.6900; 0304.9300; 0305.3100; 0305.4400; 0305.5200; 0305.6400</td><td>Fleisch vom Europäischen Aal (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>Fleisch von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-6], Glatthaien (*Mustelus* spp.)[^annex1-lvlu1-lvl1-7], Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.)[^annex1-lvlu1-lvl1-8], Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*)</td></tr>
+<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>Fleisch von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaien (*Mustelus* spp.), Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.), Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*)</td></tr>
 <tr><td>ex 0302.8200; 0303.8200; 0304.4800; 0304.5700; 0304.8800; 0304.9700</td><td>Fleisch von: Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.) und Teufelsrochen (*Mobula* spp.)</td></tr>
 <tr><td>ex 0302.8920; 0303.8920; 0304.4920; 0304.5920; 0304.8920; 0305.3920; 0305.4920; 0305.5920; 0305.6920</td><td>Fleisch von: allen Störarten (Acipenseriformes), *Arapaima gigas* und Süsswasserstechrochen (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* und *P. wallacei*)</td></tr>
 <tr><td>ex 0302.8980; 0303.8980; 0304.4980; 0304.5980; 0304.8980</td><td>Fleisch von: Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*) und Sägefischen (Pristidae)</td></tr>
-<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>Flossen von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-9], Glatthaien (*Mustelus* spp.)[^annex1-lvlu1-lvl1-10], Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.)[^annex1-lvlu1-lvl1-11], Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*)</td></tr>
-<tr><td>ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>Fischnebenprodukte von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-12], Glatthaien (*Mustelus* spp.)[^annex1-lvlu1-lvl1-13], Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus* *maximus*), Schlingerhaien (Centrophoridae spp.)[^annex1-lvlu1-lvl1-14], Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.), Süsswasserstechrochen (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* und *P. wallacei*) und Teufelsrochen (*Mobula* spp.), *Arapaima gigas,* Europäischem Aal (*Anguilla anguilla*), Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*), Sägefischen (Pristidae) und Störarten (Acipenseriformes)</td></tr>
+<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>Flossen von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaien (*Mustelus* spp.), Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.), Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*)</td></tr>
+<tr><td>ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>Fischnebenprodukte von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaien (*Mustelus* spp.), Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus* *maximus*), Schlingerhaien (Centrophoridae spp.), Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.), Süsswasserstechrochen (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* und *P. wallacei*) und Teufelsrochen (*Mobula* spp.), *Arapaima gigas,* Europäischem Aal (*Anguilla anguilla*), Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*), Sägefischen (Pristidae) und Störarten (Acipenseriformes)</td></tr>
 <tr><td>ex 0304.9970</td><td>Fischnebenprodukte von: *Arapaima gigas,* Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*), Sägefischen (Pristidae) und Störarten (Acipenseriformes)</td></tr>
-<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>Fleisch von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-15], Glatthaien (*Mustelus* spp.)[^annex1-lvlu1-lvl1-16], Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.)[^annex1-lvlu1-lvl1-17], Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.) und Teufelsrochen (*Mobula* spp.), Napoleonfisch (*Cheilinus* *undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*) und Sägefischen (Pristidae)</td></tr>
-<tr><td>ex 0305.7200; 0305.7900</td><td>Fischköpfe, Schwänze, Blasen und andere geniessbare Fischnebenprodukte von: allen Störarten (Acipenseriformes), Europäischem Aal (*Anguilla anguilla*), *Arapaima gigas,* Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-18], Glatthaien (*Mustelus* spp.)[^annex1-lvlu1-lvl1-19], Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.)[^annex1-lvlu1-lvl1-20], Walhai (*Rhinocodon* *typus*) und Weissem Hai (*Carcharodon carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.), Süsswasserstechrochen (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* und *P. wallacei*) und Teufelsrochen (*Mobula* spp.), Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*) und Sägefischen (Pristidae)</td></tr>
+<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>Fleisch von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaien (*Mustelus* spp.), Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.), Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.) und Teufelsrochen (*Mobula* spp.), Napoleonfisch (*Cheilinus* *undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*) und Sägefischen (Pristidae)</td></tr>
+<tr><td>ex 0305.7200; 0305.7900</td><td>Fischköpfe, Schwänze, Blasen und andere geniessbare Fischnebenprodukte von: allen Störarten (Acipenseriformes), Europäischem Aal (*Anguilla anguilla*), *Arapaima gigas,* Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaien (*Mustelus* spp.), Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.), Walhai (*Rhinocodon* *typus*) und Weissem Hai (*Carcharodon carcharias*), Mantarochen (*Manta* spp.), Geigen- oder Gitarrenrochen (Rhinidae spp., Rhinobatidae spp.), Süsswasserstechrochen (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* und *P. wallacei*) und Teufelsrochen (*Mobula* spp.), Napoleonfisch (*Cheilinus undulatus*), Orange-Prachtkaiserfisch (*Holacanthus clarionensis*) und Sägefischen (Pristidae)</td></tr>
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900;</td><td>Mördermuscheln (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>Fechterschnecken (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-21]*, Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Seegurken (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *lessoni, Holothuria* [*Microthele*] *whitmaei*) und *Thelenota* spp.</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>Eier von Wildvögeln</td></tr>
 <tr><td>ex 1602.9088</td><td>Zubereitungen und Konserven von Krokodilen (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>Zubereitungen und Konserven von Europäischem Aal (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 1604.1800</td><td>Zubereitungen und Konserven von Haifischflossen von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-22], Glatthaien (*Mustelus* spp.)[^annex1-lvlu1-lvl1-23], Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.)[^annex1-lvlu1-lvl1-24], Walhai (*Rhinocodon* *typus*) und Weissem Hai (*Carcharodon carcharias*)</td></tr>
+<tr><td>ex 1604.1800</td><td>Zubereitungen und Konserven von Haifischflossen von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaien (*Mustelus* spp.), Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus maximus*), Schlingerhaien (Centrophoridae spp.), Walhai (*Rhinocodon* *typus*) und Weissem Hai (*Carcharodon carcharias*)</td></tr>
 <tr><td>ex 1604.3100</td><td>Zubereitungen und Konserven von Kaviar von allen Störarten (Acipenseriformes)</td></tr>
 <tr><td>ex 1605.5600</td><td>Zubereitungen und Konserven von Mördermuscheln (Tridacnidae)</td></tr>
 <tr><td>ex 1605.5900</td><td>Zubereitungen und Konserven von: Fechterschnecken (Queen conch, *Strombus gigas*), Nautilidae</td></tr>
 <tr><td>ex 1605.6100</td><td>Zubereitungen und Konserven von Seegurken</td></tr>
-<tr><td>ex 2104.1000</td><td>Haifischflossensuppe von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-25], Glatthaien (*Mustelus* spp.)[^annex1-lvlu1-lvl1-26], Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus* *maximus*), Schlingerhaien (Centrophoridae spp.)[^annex1-lvlu1-lvl1-27], Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*)</td></tr>
+<tr><td>ex 2104.1000</td><td>Haifischflossensuppe von: Fuchshaien (*Alopias* spp.), Hammerhaien (Sphyrnidae spp.), Heringshai (*Lamna nasus*), Hundshai (*Galeorhinus galeus*), Glatthaien (*Mustelus* spp.), Kurzflossen-Mako (*Isurus oxyrinchus*), Langflossen-Mako (*Isurus paucus*), Requiemhaien (Carcharhinidae spp.), Riesenhai (*Cetorhinus* *maximus*), Schlingerhaien (Centrophoridae spp.), Walhai (*Rhinocodon typus*) und Weissem Hai (*Carcharodon* *carcharias*)</td></tr>
 <tr><td colspan="2">1.3 Übrige Erzeugnisse tierischer Herkunft</td></tr>
 <tr><td>ex 0505.9090</td><td>Vogelbälge und andere Vogelteile von CITES-Arten, roh, ausgenommen von Hausgeflügel und afrikanischen Zuchtstraussen</td></tr>
 <tr><td>ex 0507.1000</td><td>Elfenbein von CITES-Arten, roh oder einfach bearbeitet, inklusive Mehl und Abfälle davon</td></tr>
@@ -359,32 +359,6 @@ Anhang 1[^t-1]
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [SR 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
-[^annex1-lvlu1-lvl1-2]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-3]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-4]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-5]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-6]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-7]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-8]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-9]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-10]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-11]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-12]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-13]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-14]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-15]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-16]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-17]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-18]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-19]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-20]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-21]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-22]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-23]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-24]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-25]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-26]: Gilt ab dem 5. Juni 2027
-[^annex1-lvlu1-lvl1-27]: Gilt ab dem 5. Juni 2027
 
 ### 2 Pflanzen und Erzeugnisse pflanzlicher Herkunft
 

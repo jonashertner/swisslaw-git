@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordinanza del DFI del 4 settembre 2013 sui controlli della circolazione delle specie di fauna e di flora protette (Ordinanza sui controlli CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: it
-version: 2026-11-01
+version: 2027-06-05
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2013-602-20261101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20261101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20270605/it/xml/fedlex-data-admin-ch-eli-cc-2013-602-20270605-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20270605/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20261101/it"
 
 (Ordinanza sui controlli CITES)
 
-del 4 settembre 2013 (Stato 1° novembre 2026)
+del 4 settembre 2013 (Stato 5 giugno 2027)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -238,7 +238,7 @@ Allegato 1[^t-1]
 
 ## Elenco degli esemplari da dichiarare
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 31 mar. 2026, in vigore dal 1° mag. 2026, le voci: «squalo galeo (*Galeorhinus galeus*)», «palombi (*Mustelus* spp.)», «centroforidi (Centrophoridae spp.)» e «*Holothuria* [*Microthele*] *lessoni*» dal 5 giu. 2027 ([RU 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)). Aggiornato dalla correzione del 3 giu. 2026 ([RU 2026 276](https://fedlex.data.admin.ch/eli/oc/2026/276)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 31 mar. 2026, in vigore dal 1° mag. 2026, le voci: «squalo galeo (*Galeorhinus galeus*)», «palombi (*Mustelus* spp.)», «centroforidi (*Centrophoridae* spp.)» e «*Holothuria* [*Microthele*] *lessoni*» dal 5 giu. 2027 ([RU 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
 
 ### 1 Animali, parti e prodotti di origine animale
 
@@ -261,11 +261,11 @@ Allegato 1[^t-1]
 <tr><td>ex 0301.1900</td><td>Pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*)</td></tr>
 <tr><td>ex 0301.9200</td><td>Anguilla (*Anguilla anguilla*)</td></tr>
 <tr><td>ex 0301.9920</td><td>Tutte le specie di storione (*Acipenseriformes*) e *Arapaima gigas* e trigoni d’acqua dolce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* e *P. wallacei*)</td></tr>
-<tr><td>ex 0301.9980</td><td>Alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-2], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-3], mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-4], squalo balena (*Rhinocodon* *typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp.), pesce violino o pesce chitarra (Rhinidae spp., Rhinobatidae spp.) e diavoli di mare (*Mobula* spp.), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus* *clarionensis*) e pesci sega (Pristidae)</td></tr>
+<tr><td>ex 0301.9980</td><td>Alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon* *typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp.), pesce violino o pesce chitarra (Rhinidae spp., Rhinobatidae spp.) e diavoli di mare (*Mobula* spp.), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus* *clarionensis*) e pesci sega (Pristidae)</td></tr>
 <tr><td>ex 0307.7100</td><td>Tridacnidi (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200</td><td>Strombi giganti (Queen conch, *Strombus* *gigas*)</td></tr>
 <tr><td>ex 0307.9100</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva,* *Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-5]*, Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.1100</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva,* *Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *lessoni, Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.</td></tr>
 <tr><td>ex 0308.9000</td><td>Coralli azzurri, coralli rossi (*Corallium japonicum*, *Pleurocorallium* *elatius*, *P. konjoi*, *P. secundum*), coralli neri, coralli duri e altri coralli (Scleractinia, Anthipataria, Tubiporidae, Milleporidae, Stylasteridae)</td></tr>
 <tr><td>ex 9508.1000</td><td>Animali selvatici vivi per circhi e serragli; animali menzionati negli allegati CITES</td></tr>
 <tr><td colspan="2">1.2 Derrate alimentari di origine animale</td></tr>
@@ -275,28 +275,28 @@ Allegato 1[^t-1]
 <tr><td>ex 0208.6000</td><td>Carne di: guanaco (*Lama guanicoe*) e vigogna (*Vicugna vicugna*)</td></tr>
 <tr><td>ex 0208.9090; 0210.9990</td><td>Carne di specie soggette alle disposizioni CITES</td></tr>
 <tr><td>ex 0302.7400; 0303.2600; 0304.3900; 0304.5100; 0304.6900; 0304.9300; 0305.3100; 0305.4400; 0305.5200; 0305.6400</td><td>Carne di anguilla (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>Carne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-6], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-7], mako pinna corta (*Isurus* *oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-8], squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon* *carcharia*s)</td></tr>
+<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>Carne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus* *oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon* *carcharia*s)</td></tr>
 <tr><td>ex 0302.8200; 0303.8200; 0304.4800; 0304.5700; 0304.8800; 0304.9700</td><td>Carne di: mante (*Manta* spp.), pesce violino o pesce chitarra (Rhinidae spp., Rhinobatidae spp.) e diavoli di mare (*Mobula* spp.)</td></tr>
 <tr><td>ex 0302.8920; 0303.8920; 0304.4920; 0304.5920; 0304.8920; 0305.3920; 0305.4920; 0305.5920; 0305.6920</td><td>Carne di: tutte le specie di storione (*Acipenseriformes*) e *Arapaima* *gigas* e trigoni d’acqua dolce (*Potamotrygon* *albimaculata**, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* e *P. wallacei*)</td></tr>
 <tr><td>ex 0302.8980; 0303.8980; 0304.4980; 0304.5980; 0304.8980</td><td>Carne di: pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*) e pesci sega (Pristidae)</td></tr>
-<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>Pinne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-9], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-10], mako pinna corta (*Isurus* *oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-11], squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon* *carcharia*s)</td></tr>
-<tr><td>ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>Sottoprodotti ittici di: alopidi (*Alopias spp.*), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-12], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-13], mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus* *maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-14], squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp.), pesce violino o pesce chitarra (Rhinidae spp., Rhinobatidae spp.), trigoni d’acqua dolce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* e *P. wallacei*) e diavoli di mare (*Mobula* spp.), *Arapaima gigas,* anguilla (*Anguilla* *anguilla*), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*), pesci sega (Pristidae) e storioni (*Acipenseriformes*)</td></tr>
+<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>Pinne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus* *oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon* *carcharia*s)</td></tr>
+<tr><td>ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>Sottoprodotti ittici di: alopidi (*Alopias spp.*), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus* *maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp.), pesce violino o pesce chitarra (Rhinidae spp., Rhinobatidae spp.), trigoni d’acqua dolce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* e *P. wallacei*) e diavoli di mare (*Mobula* spp.), *Arapaima gigas,* anguilla (*Anguilla* *anguilla*), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*), pesci sega (Pristidae) e storioni (*Acipenseriformes*)</td></tr>
 <tr><td>ex 0304.9970</td><td>Sottoprodotti ittici di: *Arapaima gigas,* pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*), pesci sega (Pristidae) e storioni (*Acipenseriformes*)</td></tr>
-<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>Carne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-15], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-16], mako pinna corta (*Isurus* *oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-17], squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp*.*), pesce violino o pesce chitarra (Rhinidae spp.; Rhinobatidae spp.) e diavoli di mare (*Mobula* spp.), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*) e pesci sega (Pristidae)</td></tr>
-<tr><td>ex 0305.7200; 0305.7900</td><td>Teste, code, vesciche e altri sottoprodotti ittici commestibili di: tutte le specie di storione (Acipenseriformes), anguilla (*Anguilla anguilla*), *Arapaima gigas*, alopidi (*Alopias* spp.), squali martello (*Sphyrnidae* spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-18], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-19], mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-20], squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp*.*), pesce violino o pesce chitarra (Rhinidae spp., Rhinobatidae spp.), trigoni d’acqua dolce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* e *P. wallacei*) e diavoli di mare (*Mobula* spp.), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*) e pesci sega (Pristidae)</td></tr>
+<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>Carne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus* *oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp*.*), pesce violino o pesce chitarra (Rhinidae spp.; Rhinobatidae spp.) e diavoli di mare (*Mobula* spp.), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*) e pesci sega (Pristidae)</td></tr>
+<tr><td>ex 0305.7200; 0305.7900</td><td>Teste, code, vesciche e altri sottoprodotti ittici commestibili di: tutte le specie di storione (Acipenseriformes), anguilla (*Anguilla anguilla*), *Arapaima gigas*, alopidi (*Alopias* spp.), squali martello (*Sphyrnidae* spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharias*), mante (*Manta* spp*.*), pesce violino o pesce chitarra (Rhinidae spp., Rhinobatidae spp.), trigoni d’acqua dolce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* e *P. wallacei*) e diavoli di mare (*Mobula* spp.), pesce napoleone (*Cheilinus undulatus*), pesce angelo di Clarion (*Holacanthus clarionensis*) e pesci sega (Pristidae)</td></tr>
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900</td><td>Tridacnidi (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>Strombi giganti (Queen conch, *Strombus* *gigas*)</td></tr>
 <tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-21]*, Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>Cetrioli di mare (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *lessoni, Holothuria* [*Microthele*] *whitmaei*) e *Thelenota* spp.</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>Uova di uccelli selvatici</td></tr>
 <tr><td>ex 1602.9088</td><td>Preparati e conserve di coccodrillo (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>Preparati e conserve di anguilla (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 1604.1800</td><td>Preparati e conserve di pinne di: alopidi (*Alopias* spp.), squali martello (*Sphyrnidae* spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-22], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-23], mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus* *paucus*), carcarinidi (*Carcharhinidae* spp.), squalo gigante (*Cetorhinus* *maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-24], squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharia*s)</td></tr>
+<tr><td>ex 1604.1800</td><td>Preparati e conserve di pinne di: alopidi (*Alopias* spp.), squali martello (*Sphyrnidae* spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus* *paucus*), carcarinidi (*Carcharhinidae* spp.), squalo gigante (*Cetorhinus* *maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharia*s)</td></tr>
 <tr><td>ex 1604.3100</td><td>Preparati e conserve di caviale di tutte le specie di storione (Acipenseriformes)</td></tr>
 <tr><td>ex 1605.5600</td><td>Preparati e conserve di tridacnidi (Tridacnidae)</td></tr>
 <tr><td>ex 1605.5900</td><td>Preparati e conserve di: strombi giganti (Queen conch, *Strombus gigas*), *Nautilidae*</td></tr>
 <tr><td>ex 1605.6100</td><td>Preparati e conserve di cetrioli di mare</td></tr>
-<tr><td>ex 2104.1000</td><td>Zuppa di pinne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-25], palombi (*Mustelus* spp.)[^annex1-lvlu1-lvl1-26], mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus* *maximus*), centroforidi (Centrophoridae spp.)[^annex1-lvlu1-lvl1-27], squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharia*s)</td></tr>
+<tr><td>ex 2104.1000</td><td>Zuppa di pinne di: alopidi (*Alopias* spp.), squali martello (Sphyrnidae spp.), smeriglio (*Lamna nasus*), squalo galeo (*Galeorhinus galeus*), palombi (*Mustelus* spp.), mako pinna corta (*Isurus oxyrinchus*), mako pinna lunga (*Isurus paucus*), carcarinidi (Carcharhinidae spp.), squalo gigante (*Cetorhinus* *maximus*), centroforidi (Centrophoridae spp.), squalo balena (*Rhinocodon typus*) e squalo bianco (*Carcharodon carcharia*s)</td></tr>
 <tr><td colspan="2">1.3 Altri prodotti di origine animale</td></tr>
 <tr><td>ex 0505.9090</td><td>Pelli ed altre parti di uccelli di specie soggette alle disposizioni CITES, gregge, escluse quelle di volatili domestici e di struzzi da allevamento africani</td></tr>
 <tr><td>ex 0507.1000</td><td>Avorio di specie soggette alle disposizioni CITES, greggio o semplicemente preparato, inclusi le polveri e i cascami di avorio</td></tr>
@@ -359,32 +359,6 @@ Allegato 1[^t-1]
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
-[^annex1-lvlu1-lvl1-2]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-3]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-4]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-5]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-6]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-7]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-8]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-9]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-10]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-11]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-12]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-13]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-14]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-15]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-16]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-17]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-18]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-19]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-20]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-21]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-22]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-23]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-24]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-25]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-26]: Entra in vigore dal 5 giu. 2027
-[^annex1-lvlu1-lvl1-27]: Entra in vigore dal 5 giu. 2027
 
 ### 2 Piante e prodotti di origine vegetale
 
