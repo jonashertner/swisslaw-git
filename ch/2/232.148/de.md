@@ -4,11 +4,11 @@ title: Verordnung des IGE vom 14. Juni 2016 über Gebühren (GebV-IGE)
 short: GebV-IGE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: de
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2016-777-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2016-777-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/de"
 
 (GebV-IGE)
 
-vom 14. Juni 2016 (Stand am 1. Juli 2025)
+vom 14. Juni 2016 (Stand am 1. Januar 2027)
 
 Vom Bundesrat genehmigt am 2. Dezember 2016
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 13 des Bundesgesetzes vom 24. März 1995[^ingress-1] über
 
 verordnet:
 
-[^ingress-1]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 #### Art. 1
 
@@ -41,7 +41,7 @@ Diese Verordnung regelt die Gebühren, die das IGE für seine hoheitliche Tätig
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^2-1].
 
-[^2-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -53,12 +53,12 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 <sup>3</sup> Der Institutsrat kann die Gebührenansätze jeweils auf den Anfang eines Geschäftsjahres des IGE an die Erhöhung des Landesindexes der Konsumentenpreise anpassen, sofern die Erhöhung seit dem 1. Januar 2017 oder seit der letzten Anpassung 5 Prozent oder mehr beträgt.
 
-[^3-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^3-2]: [SR 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
-[^3-3]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^3-4]: [SR 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
-[^3-5]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^3-6]: [SR 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^3-1]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^3-2]: [SR 231.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5954)
+[^3-3]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^3-4]: [SR 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
+[^3-5]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^3-6]: [SR 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 #### Art. 4
 
@@ -137,6 +137,19 @@ Die Höhe der Verlängerungsgebühr für Markeneintragungen, deren Gültigkeit v
 
 [^11a-1]: Eingefügt durch Ziff. I der V des IGE vom 23. Juni 2022, vom BR genehmigt am 16. Dez. 2022 und in Kraft seit 1. Juli 2023 ([AS 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
 
+#### Art. 11b
+
+**Übergangsbestimmung zur Änderung vom 29. Oktober 2025**[^11b-1]
+
+<sup>1</sup> Die Höhe der Jahresgebühren für Patentanmeldungen, Patente und ergänzende Schutzzertifikate, deren Fälligkeit vor dem 1. März 2027 eintritt, richtet sich nach bisherigem Recht.
+
+<sup>2</sup> Für Patentanmeldungen und Patente ist bereits ab dem dritten Jahr nach der Anmeldung eine Jahresgebühr geschuldet, sofern sie ab dem 1. März 2027 fällig wird.
+
+<sup>3</sup> Die Höhe der Recherchegebühr für Patentanmeldungen, welche in Anwendung von Artikel 150 PatG[^11b-2] nach neuem Recht zu recherchieren sind, beträgt 400 Franken.
+
+[^11b-1]: Eingefügt durch Ziff. I der V des IGE vom 29. Okt. 2025, vom BR genehmigt am 20. Mai 2026 und in Kraft seit 1. Jan. 2027 ([AS 2026 292](https://fedlex.data.admin.ch/eli/oc/2026/292)).
+[^11b-2]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+
 #### Art. 12
 
 **Aufhebung eines anderen Erlasses**
@@ -157,7 +170,7 @@ Anhang[^t-1]
 
 ## Gebührenansätze
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des IGE vom 31. Okt. 2018, vom BR genehmigt am 17. April 2019 (AS **2019** 1577), vom 22. März 2021, vom BR genehmigt am 18. Aug. 2021 (AS **2021** 511), Ziff. II der V des IGE vom 23. Juni 2022, vom BR genehmigt am 16. Dez. 2022 (AS **2023** 1) und Ziff. I der V des IGE vom 18. Juni 2024, vom BR genehmigt am 14. Mai 2025 und in Kraft seit 1. Juli 2025 (AS **2025** 377). SR **232.11**
+[^t-1]: Bereinigt gemäss Ziff. I der V des IGE vom 22. März 2021, vom BR genehmigt am 18. Aug. 2021 (AS **2021** 511), Ziff. II der V des IGE vom 23. Juni 2022, vom BR genehmigt am 16. Dez. 2022 (AS **2023** 1) und vom 29. Okt. 2025, vom BR genehmigt am 20. Mai 2026 und in Kraft seit 1. Jan. 2027 (AS **2026** 292). SR **232.11**
 
 ### 1. Gebühren für Marken und geografische Angaben
 
@@ -184,10 +197,10 @@ Anhang[^t-1]
 <tr><td></td><td></td><td>– Gebühr für die Änderung des Pflichtenhefts</td><td>1960</td><td>800.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^annexu1-lvlu1-lvl1-2]: Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunftsangaben ([SR 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)).
-[^annexu1-lvlu1-lvl1-3]: Protokoll vom 27. Juni 1989 zum Madrider Abkommen über die internationale Registrierung von Marken ([SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350))
-[^annexu1-lvlu1-lvl1-4]: Verordnung vom 2. Sept. 2015 über das Register für Ursprungsbezeichnungen und geografische Angaben nicht landwirtschaftlicher Erzeugnisse ([SR 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)).
+[^annexu1-lvlu1-lvl1-1]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^annexu1-lvlu1-lvl1-2]: Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunftsangaben ([SR 232.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5963)).
+[^annexu1-lvlu1-lvl1-3]: Protokoll vom 27. Juni 1989 zum Madrider Abkommen über die internationale Registrierung von Marken ([SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060))
+[^annexu1-lvlu1-lvl1-4]: Verordnung vom 2. Sept. 2015 über das Register für Ursprungsbezeichnungen und geografische Angaben nicht landwirtschaftlicher Erzeugnisse ([SR 232.112.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5967)).
 
 ### 2. Gebühren für Design
 
@@ -208,58 +221,60 @@ Anhang[^t-1]
 <tr><th>Art. 31 Abs. 2</th><th>DesG</th><th>Weiterbehandlungsgebühr</th><th>3700</th><th>100.–</th></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2-1]: Verordnung vom 8. März 2002 über den Schutz von Design ([SR 232.121](https://fedlex.data.admin.ch/eli/cc/2002/183)).
-[^annexu1-lvlu1-lvl2-2]: [SR 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
+[^annexu1-lvlu1-lvl2-1]: Verordnung vom 8. März 2002 über den Schutz von Design ([SR 232.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5972)).
+[^annexu1-lvlu1-lvl2-2]: [SR 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
 
-### 3. Gebühren für Erfindungspatente
+### 3. Gebühren für Patente und ergänzende Schutzzertifikate
 
 <table>
 <tr><th>Artikel</th><th></th><th>Beschreibung der Gebühr</th><th>Code</th><th>Fr.</th></tr>
-<tr><td>Art. 138 Abs. 1 Bst. c Art. 17*a* Abs. 1 Bst. a Art. 49 Abs. 1 Art. 118 Abs. 1 Bst. a Art. 124 Abs. 1 Bst. c</td><td>PatG[^annexu1-lvlu1-lvl3-1] PatV[^annexu1-lvlu1-lvl3-2] PatV PatV PatV</td><td>Anmeldegebühr</td><td>2000</td><td>200.–</td></tr>
-<tr><td>Art. 17*a* Abs. 1 Bst. b Art. 31*a* Art. 53*a* Abs. 1 Art. 61*a* Abs. 2</td><td>PatV PatV PatV PatV</td><td>Anspruchsgebühr vom elften Patentanspruch an, für jeden Patentanspruch</td><td>2030</td><td>50.–</td></tr>
-<tr><td>Art. 53 Abs. 1 Art. 57 Abs. 2 Art. 59 Abs. 2</td><td>PatV PatV PatV</td><td>Recherchengebühr</td><td>2060</td><td>500.–</td></tr>
-<tr><td>Art. 17*a* Abs. 1 Bst. c Art. 61*a*</td><td>PatV PatV</td><td>Prüfungsgebühr</td><td>2100</td><td>500.–</td></tr>
-<tr><td>Art. 63 Abs. 2</td><td>PatV</td><td>Gebühr für die beschleunigte Durchführung der Sachprüfung</td><td>2150</td><td>200.–</td></tr>
-<tr><td>Art. 73 Abs. 2</td><td>PatV</td><td>Einspruchsgebühr</td><td>2200</td><td>800.–</td></tr>
-<tr><td>Art. 17*a* Abs. 1 Bst. e Art. 18 Art. 18*a* Abs. 3 Art. 118 Abs. 2 Art. 118*a*</td><td>PatV PatV PatV PatV PatV</td><td>Jahresgebühr</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>– für das 4. Jahr nach der Anmeldung</td><td>2340</td><td>100.–</td></tr>
-<tr><td></td><td></td><td>– für das 5. Jahr nach der Anmeldung</td><td>2350</td><td>120.–</td></tr>
-<tr><td></td><td></td><td>– für das 6. Jahr nach der Anmeldung</td><td>2360</td><td>140.–</td></tr>
-<tr><td></td><td></td><td>– für das 7. Jahr nach der Anmeldung</td><td>2370</td><td>160.–</td></tr>
-<tr><td></td><td></td><td>– für das 8. Jahr nach der Anmeldung</td><td>2380</td><td>180.–</td></tr>
-<tr><td></td><td></td><td>– für das 9. Jahr nach der Anmeldung</td><td>2390</td><td>220.–</td></tr>
-<tr><td></td><td></td><td>– für das 10. Jahr nach der Anmeldung</td><td>2400</td><td>260.–</td></tr>
-<tr><td></td><td></td><td>– für das 11. Jahr nach der Anmeldung</td><td>2410</td><td>300.–</td></tr>
-<tr><td></td><td></td><td>– für das 12. Jahr nach der Anmeldung</td><td>2420</td><td>340.–</td></tr>
-<tr><td></td><td></td><td>– für das 13. Jahr nach der Anmeldung</td><td>2430</td><td>400.–</td></tr>
-<tr><td></td><td></td><td>– für das 14. Jahr nach der Anmeldung</td><td>2440</td><td>460.–</td></tr>
-<tr><td></td><td></td><td>– für das 15. Jahr nach der Anmeldung</td><td>2450</td><td>520.–</td></tr>
-<tr><td></td><td></td><td>– für das 16. Jahr nach der Anmeldung</td><td>2460</td><td>600.–</td></tr>
-<tr><td></td><td></td><td>– für das 17. Jahr nach der Anmeldung</td><td>2470</td><td>680.–</td></tr>
-<tr><td></td><td></td><td>– für das 18. Jahr nach der Anmeldung</td><td>2480</td><td>760.–</td></tr>
-<tr><td></td><td></td><td>– für das 19. Jahr nach der Anmeldung</td><td>2490</td><td>860.–</td></tr>
-<tr><td></td><td></td><td>– für das 20. Jahr nach der Anmeldung</td><td>2500</td><td>960.–</td></tr>
-<tr><td>Art. 18 Abs. 3</td><td>PatV</td><td>Zuschlag</td><td>2550</td><td>50.–</td></tr>
+<tr><td>Art. 138 Bst. c Art. 30 Abs. 2 Art. 139 Abs. 1 Bst. a Art. 147 Abs. 1 Bst. c</td><td>PatG[^annexu1-lvlu1-lvl3-1] PatV[^annexu1-lvlu1-lvl3-2] PatV PatV</td><td>Anmeldegebühr</td><td>2000</td><td>200.–</td></tr>
+<tr><td>Art. 43 Abs. 1 Art. 139 Abs. 1 Bst. a Art. 150 Abs. 1</td><td>PatV PatV PatV</td><td>Anspruchsgebühr vom sechzehnten Patentanspruch an, für jeden Patentanspruch</td><td>2030</td><td>50.–</td></tr>
+<tr><td>Art. 30 Abs. 2 Art. 92 Abs. 2 Art. 139 Abs. 1 Bst. a</td><td>PatV PatV PatV</td><td>Recherchegebühr</td><td>2060</td><td>500.–</td></tr>
+<tr><td>Art. 101 Abs. 1</td><td>PatV</td><td>Prüfungsgebühr</td><td>2100</td><td>400.–</td></tr>
+<tr><td>Art. 102 Abs. 1</td><td>PatV</td><td>Gebühr für die vollständige Sachprüfung</td><td>2110</td><td>300.–</td></tr>
+<tr><td>Art. 103 Abs. 1</td><td>PatV</td><td>Gebühr für die vorgezogene Durchführung der vollständigen Sachprüfung</td><td>2120</td><td>800.–</td></tr>
+<tr><td>Art. 32 Abs. 1</td><td>PatV</td><td>Gebühr für die Beschleunigung des Patenterteilungsverfahrens</td><td>2150</td><td>200.–</td></tr>
+<tr><td>Art. 14 Abs. 1 Art. 140</td><td>PatV PatV</td><td>Jahresgebühr</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– für das 3. Jahr nach der Anmeldung</td><td>2330</td><td>90.–</td></tr>
+<tr><td></td><td></td><td>– für das 4. Jahr nach der Anmeldung</td><td>2340</td><td>110.–</td></tr>
+<tr><td></td><td></td><td>– für das 5. Jahr nach der Anmeldung</td><td>2350</td><td>130.–</td></tr>
+<tr><td></td><td></td><td>– für das 6. Jahr nach der Anmeldung</td><td>2360</td><td>150.–</td></tr>
+<tr><td></td><td></td><td>– für das 7. Jahr nach der Anmeldung</td><td>2370</td><td>170.–</td></tr>
+<tr><td></td><td></td><td>– für das 8. Jahr nach der Anmeldung</td><td>2380</td><td>190.–</td></tr>
+<tr><td></td><td></td><td>– für das 9. Jahr nach der Anmeldung</td><td>2390</td><td>230.–</td></tr>
+<tr><td></td><td></td><td>– für das 10. Jahr nach der Anmeldung</td><td>2400</td><td>270.–</td></tr>
+<tr><td></td><td></td><td>– für das 11. Jahr nach der Anmeldung</td><td>2410</td><td>310.–</td></tr>
+<tr><td></td><td></td><td>– für das 12. Jahr nach der Anmeldung</td><td>2420</td><td>370.–</td></tr>
+<tr><td></td><td></td><td>– für das 13. Jahr nach der Anmeldung</td><td>2430</td><td>430.–</td></tr>
+<tr><td></td><td></td><td>– für das 14. Jahr nach der Anmeldung</td><td>2440</td><td>490.–</td></tr>
+<tr><td></td><td></td><td>– für das 15. Jahr nach der Anmeldung</td><td>2450</td><td>570.–</td></tr>
+<tr><td></td><td></td><td>– für das 16. Jahr nach der Anmeldung</td><td>2460</td><td>650.–</td></tr>
+<tr><td></td><td></td><td>– für das 17. Jahr nach der Anmeldung</td><td>2470</td><td>730.–</td></tr>
+<tr><td></td><td></td><td>– für das 18. Jahr nach der Anmeldung</td><td>2480</td><td>820.–</td></tr>
+<tr><td></td><td></td><td>– für das 19. Jahr nach der Anmeldung</td><td>2490</td><td>910.–</td></tr>
+<tr><td></td><td></td><td>– für das 20. Jahr nach der Anmeldung</td><td>2500</td><td>1000.–</td></tr>
+<tr><td>Art. 14 Abs. 4</td><td>PatV</td><td>Zuschlag</td><td>2550</td><td>50.–</td></tr>
 <tr><td>Art. 46*a* Abs. 2</td><td>PatG</td><td>Weiterbehandlungsgebühr</td><td>2600</td><td>100.–</td></tr>
-<tr><td>Art. 15 Abs. 2</td><td>PatV</td><td>Wiedereinsetzungsgebühr</td><td>2650</td><td>500.–</td></tr>
-<tr><td>Art. 96 Abs. 3</td><td>PatV</td><td>Gebühr für die Behandlung einer Erklärung teilweisen Verzichts</td><td>2700</td><td>500.–</td></tr>
-<tr><td>Art. 133 Abs. 2 Art. 121 Abs. 1</td><td>PatG PatV</td><td>Übermittlungsgebühr</td><td>2800</td><td>100.–</td></tr>
-<tr><td>Art. 140*h* Abs. 1 Art. 140*z*</td><td>PatG PatG</td><td>Anmeldegebühr für ergänzende Schutzzertifikate</td><td>2900</td><td>2500.–</td></tr>
-<tr><td>Art. 140*q* Art. 127*b* Abs. 3</td><td>PatG PatV</td><td>Anmeldegebühr für die Verlängerung der Schutzdauer ergänzender Schutzzertifikate</td><td>2905</td><td>1500.–</td></tr>
-<tr><td>Art. 140*h* Abs. 1 Art. 140*z* Art. 140*q* Art. 127*l*</td><td>PatG PatG PatG PatV</td><td>Jahresgebühren für ergänzende Schutzzertifikate</td><td>2910</td><td></td></tr>
-<tr><td></td><td></td><td>– für das 1. Jahr</td><td></td><td>1060.–</td></tr>
-<tr><td></td><td></td><td>– für das 2. Jahr</td><td></td><td>1160.–</td></tr>
-<tr><td></td><td></td><td>– für das 3. Jahr</td><td></td><td>1260.–</td></tr>
-<tr><td></td><td></td><td>– für das 4. Jahr</td><td></td><td>1360.–</td></tr>
-<tr><td></td><td></td><td>– für das 5. Jahr</td><td></td><td>1460.–</td></tr>
-<tr><td></td><td></td><td>– für das 6. Jahr</td><td></td><td>1560.–</td></tr>
-<tr><td>Art. 127*l* Abs. 5</td><td>PatV</td><td>Zuschlag</td><td>2950</td><td>50.–</td></tr>
-<tr><td>Art. 140*r* Abs. 2 Art. 127*n* Abs. 3</td><td>PatG PatV</td><td>Antrag auf Widerruf der Verlängerung der Schutzdauer ergänzender Schutzzertifikate</td><td>2960</td><td>800.–</td></tr>
-<tr><td>Art. 140*w* Art. 127*v* Abs. 2</td><td>PatG PatV</td><td>Gebühr für pädiatrische ergänzende Schutzzertifikate</td><td>2970</td><td>3000.–</td></tr>
+<tr><td>Art. 12 Abs. 3</td><td>PatV</td><td>Wiedereinsetzungsgebühr</td><td>2650</td><td>500.–</td></tr>
+<tr><td>Art. 112 Abs. 3</td><td>PatV</td><td>Gebühr für die Behandlung einer Erklärung teilweisen Verzichts</td><td>2700</td><td>500.–</td></tr>
+<tr><td>Art. 133 Abs. 2 Art. 143 Abs. 1</td><td>PatG PatV</td><td>Übermittlungsgebühr</td><td>2800</td><td>100.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*z* Abs. 2 Art. 155 Abs. 2</td><td>PatG PatG PatV</td><td>Anmeldegebühr für ergänzende Schutzzertifikate</td><td>2900</td><td>2500.–</td></tr>
+<tr><td>Art. 140*q* Art. 165 Abs. 2</td><td>PatG PatV</td><td>Anmeldegebühr für die Verlängerung der Schutzdauer ergänzender Schutzzertifikate</td><td>2905</td><td>1500.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*z* Abs. 2 Art. 140*q* Art. 164 Abs. 1</td><td>PatG PatG PatG PatV</td><td>Jahresgebühren für ergänzende Schutzzertifikate</td><td>2910</td><td></td></tr>
+<tr><td></td><td></td><td>– für das 1. Jahr</td><td></td><td>1080.–</td></tr>
+<tr><td></td><td></td><td>– für das 2. Jahr</td><td></td><td>1140.–</td></tr>
+<tr><td></td><td></td><td>– für das 3. Jahr</td><td></td><td>1200.–</td></tr>
+<tr><td></td><td></td><td>– für das 4. Jahr</td><td></td><td>1320.–</td></tr>
+<tr><td></td><td></td><td>– für das 5. Jahr</td><td></td><td>1440.–</td></tr>
+<tr><td></td><td></td><td>– für das 6. Jahr</td><td></td><td>1680.–</td></tr>
+<tr><td>Art. 164 Abs. 4</td><td>PatV</td><td>Zuschlag</td><td>2950</td><td>50.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*r* Abs. 2 Art. 171 Abs. 3</td><td>PatG PatG PatV</td><td>Antrag auf Widerruf der Verlängerung der Schutzdauer ergänzender Schutzzertifikate</td><td>2960</td><td>800.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*w* Art. 179 Abs. 2</td><td>PatG PatG PatV</td><td>Gebühr für pädiatrische ergänzende Schutzzertifikate</td><td>2970</td><td>3000.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl3-1]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^annexu1-lvlu1-lvl3-2]: Verordnung vom 19. Okt. 1977 über die Erfindungspatente ([SR 232.141](https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027)).
+[^annexu1-lvlu1-lvl3-1]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^annexu1-lvlu1-lvl3-2]: Patentverordnung vom 20. Mai 2026 ([SR 232.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5976))
 
 ### 4. Gebühren nach dem Patentanwaltsgesetz
 
@@ -268,7 +283,7 @@ Anhang[^t-1]
 <tr><td>Art. 12 Abs. 1 Art. 19 Abs. 1</td><td>PAG[^annexu1-lvlu1-lvl4-1] PAG</td><td>Gebühr für die Eintragung in das Patentanwaltsregister</td><td>5000</td><td>200.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl4-1]: [SR 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^annexu1-lvlu1-lvl4-1]: [SR 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 ### 5. Gebühren im Bereich Urheberrecht
 
@@ -286,14 +301,13 @@ Anhang[^t-1]
 <tr><td>Art. 14 Abs. 2</td><td>ToG[^annexu1-lvlu1-lvl6-1]</td><td>Anmeldegebühr</td><td>4500</td><td>450.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl6-1]: [SR 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
+[^annexu1-lvlu1-lvl6-1]: [SR 231.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5954)
 
 ### 7. Übrige Gebühren
 
 <table>
-<tr><th>Beschreibung der Gebühr</th><th>Code</th><th>Fr.</th></tr>
-<tr><td>Beglaubigungen durch die Bundeskanzlei</td><td>5100</td><td>Kosten</td></tr>
-<tr><td>Kopien sowie Behandlung besonderer Anträge und Dienstleistungen nach Artikel 3 Absatz 2, nach Zeitaufwand</td><td></td><td></td></tr>
+<tr><td>Beschreibung der Gebühr</td><td>Code</td><td>Fr.</td></tr>
+<tr><td>Kopien sowie Behandlung besonderer Anträge und Dienstleistungen nach Art. 3 Abs. 2, nach Zeitaufwand</td><td></td><td></td></tr>
 <tr><td>– pro angebrochene Zeiteinheit von 5 Minuten</td><td>5200</td><td>15.–</td></tr>
 <tr><td>Zuschlag bei dringlichen Aufträgen</td><td>5300</td><td>bis zu 50 % der geschuldeten Gebühr</td></tr>
 <tr><td>Verfahren zur Vernichtung von Kleinsendungen</td><td>5400</td><td>120.–</td></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance de l'IPI du 14 juin 2016 sur les taxes (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: fr
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/fr"
 
 (OTa-IPI)
 
-du 14 juin 2016 (État le 1<sup>er</sup> juillet 2025)
+du 14 juin 2016 (État le 1<sup>er</sup> janvier 2027)
 
 Approuvée par le Conseil fédéral le 16 décembre 2022
 
@@ -27,7 +27,7 @@ vu l’art. 13 de la loi fédérale du 24 mars 1995 sur le statut et les tâches
 
 arrête:
 
-[^ingress-1]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 #### Art. 1
 
@@ -41,7 +41,7 @@ La présente ordonnance régit les taxes que l’IPI perçoit pour ses activité
 
 Sauf disposition contraire de la présente ordonnance, l’ordonnance générale du 8 septembre 2004 sur les émoluments[^2-1] est applicable.
 
-[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -53,12 +53,12 @@ Sauf disposition contraire de la présente ordonnance, l’ordonnance générale
 
 <sup>3</sup> Le Conseil de l’Institut peut adapter les taxes, pour le début d’un exercice de l’IPI, à l’augmentation de l’indice suisse des prix à la consommation lorsque cette augmentation est d’au moins 5 % depuis le 1<sup>er</sup> janvier 2017 ou depuis la dernière adaptation.
 
-[^3-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^3-2]: [RS 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
-[^3-3]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^3-4]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
-[^3-5]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^3-6]: [RS 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^3-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^3-2]: [RS 231.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5954)
+[^3-3]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^3-4]: [RS 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
+[^3-5]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^3-6]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 #### Art. 4
 
@@ -137,6 +137,19 @@ Le montant de la taxe de prolongation pour les enregistrements de marque qui arr
 
 [^11a-1]: Introduit par le ch. I de l’O de l’IPI du 23 juin 2022, approuvée par le CF le 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> juil 2023 ([RO 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
 
+#### Art. 11b
+
+**Disposition transitoire relative à la modification du 29 octobre 2025**[^11b-1]
+
+<sup>1</sup> Le montant des annuités des demandes de brevet, des brevets et des certificats complémentaires de protection est régi par l’ancien droit si l’échéance de celles-ci intervient avant le 1<sup>er</sup> mars 2027.
+
+<sup>2</sup> L’annuité d’une demande de brevet et d’un brevet est due dès la troisième année qui suit le dépôt de la demande si son échéance intervient à compter du 1<sup>er</sup> mars 2027.
+
+<sup>3</sup> Le montant de la taxe de recherche pour les demandes de brevet qui, en application de l’art. 150 LBI[^11b-2], doivent faire l’objet d’une recherche selon le nouveau droit est de 400 francs.
+
+[^11b-1]: Introduit par le ch. I de l’O de l’IPI du 29 oct. 2025, approuvée par le CF le 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 292](https://fedlex.data.admin.ch/eli/oc/2026/292)).
+[^11b-2]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+
 #### Art. 12
 
 **Abrogation d’un autre acte**
@@ -157,7 +170,7 @@ Annexe[^t-1]
 
 ## Tarif des taxes
 
-[^t-1]: Mise à jour par le ch. I des O de l’IPI du 31 oct. 2018, approuvé par le CF le 17 avr. 2019 ([RO 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), du 22 mars 2021, approuvée par le CF le 18 août 2021 ([RO 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)), le ch. II de l’O de l’IPI du 23 juin 2022, approuvée par le CF le 16 déc. 2022 ([RO 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)) et le ch. I de l’O de l’IPI du 18 juin 2024, approuvée par le CF le 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juil 2025 ([RO 2025 377](https://fedlex.data.admin.ch/eli/oc/2025/377)).
+[^t-1]: Mise à jour par le ch. I de l’O de l’IPI du 22 mars 2021, approuvée par le CF le 18 août 2021 ([RO 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)), le ch. II des O de l’IPI du 23 juin 2022, approuvée par le CF le 16 déc. 2022 ([RO 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)) et du 29 oct. 2025, approuvée par le CF le 20 mai 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 292](https://fedlex.data.admin.ch/eli/oc/2026/292)).
 
 ### 1. Taxes perçues en matière de marques et d’indications géographiques
 
@@ -184,10 +197,10 @@ Annexe[^t-1]
 <tr><td></td><td></td><td>– Taxe pour modification du cahier des charges</td><td>1960</td><td>800.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^annexu1-lvlu1-lvl1-2]: Ordonnance du 23 décembre 1992 sur la protection des marques et des indications de provenance ([RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296))
-[^annexu1-lvlu1-lvl1-3]: Protocole du 27 juin 1989 relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques ([RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350))
-[^annexu1-lvlu1-lvl1-4]: Ordonnance du 2 septembre 2015 sur les AOP et les IGP non agricoles ([RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612))
+[^annexu1-lvlu1-lvl1-1]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^annexu1-lvlu1-lvl1-2]: Ordonnance du 23 décembre 1992 sur la protection des marques et des indications de provenance ([RS 232.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5963))
+[^annexu1-lvlu1-lvl1-3]: Protocole du 27 juin 1989 relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques ([RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060))
+[^annexu1-lvlu1-lvl1-4]: Ordonnance du 2 septembre 2015 sur les AOP et les IGP non agricoles ([RS 232.112.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5967))
 
 ### 2. Taxes perçues en matière de designs
 
@@ -208,58 +221,60 @@ Annexe[^t-1]
 <tr><th>Art. 31, al. 2</th><th>LDes</th><th>Taxe de poursuite de la procédure</th><th>3700</th><th>100.–</th></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2-1]: Ordonnance du 8 mars 2002 sur les designs ([RS 232.121](https://fedlex.data.admin.ch/eli/cc/2002/183))
-[^annexu1-lvlu1-lvl2-2]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
+[^annexu1-lvlu1-lvl2-1]: Ordonnance du 8 mars 2002 sur les designs ([RS 232.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5972))
+[^annexu1-lvlu1-lvl2-2]: [RS 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
 
-### 3. Taxes perçues en matière de brevets d’invention
+### 3. Taxes perçues en matière de brevets et de certificats complémentaires de protection
 
 <table>
 <tr><th>Article</th><th></th><th>Description de la taxe</th><th>Code</th><th>Fr.</th></tr>
-<tr><td>Art. 138, al. 1, let. c Art. 17*a,* al. 1, let. a Art. 49, al. 1 Art. 118, al. 1, let. a Art. 124, al. 1, let. c</td><td>LBI[^annexu1-lvlu1-lvl3-1] OBI[^annexu1-lvlu1-lvl3-2] OBI OBI OBI</td><td>Taxe de dépôt</td><td>2000</td><td colspan="2">200.–</td></tr>
-<tr><td>Art. 17*a*, al. 1, let. b Art. 31*a* Art. 53*a*, al. 1 Art. 61*a*, al. 2</td><td>OBI OBI OBI OBI</td><td>Taxe de revendication pour chaque revendication à partir de la onzième</td><td>2030</td><td colspan="2">50.–</td></tr>
-<tr><td>Art. 53, al. 1 Art. 57, al. 2 Art. 59, al. 2</td><td>OBI OBI OBI</td><td>Taxe de recherche</td><td>2060</td><td colspan="2">500.–</td></tr>
-<tr><td>Art. 17*a*, al. 1, let. c Art. 61*a*</td><td>OBI OBI</td><td>Taxe d’examen</td><td>2100</td><td colspan="2">500.–</td></tr>
-<tr><td>Art. 63, al. 2</td><td>OBI</td><td>Taxe pour procédure d’examen accélérée</td><td>2150</td><td colspan="2">200.–</td></tr>
-<tr><td>Art. 73, al. 2</td><td>OBI</td><td>Taxe d’opposition</td><td>2200</td><td colspan="2">800.–</td></tr>
-<tr><td>Art. 17*a*, al. 1, let. e Art. 18 Art. 18*a*, al. 3 Art. 118, al. 2 Art. 118*a*</td><td>OBI OBI OBI OBI OBI</td><td>Annuités</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>– pour la 4<sup>e</sup> année à compter du dépôt</td><td>2340</td><td colspan="2">100.–</td></tr>
-<tr><td></td><td></td><td>– pour la 5<sup>e</sup> année à compter du dépôt</td><td>2350</td><td colspan="2">120.–</td></tr>
-<tr><td></td><td></td><td>– pour la 6<sup>e</sup> année à compter du dépôt</td><td>2360</td><td colspan="2">140.–</td></tr>
-<tr><td></td><td></td><td>– pour la 7<sup>e</sup> année à compter du dépôt</td><td>2370</td><td colspan="2">160.–</td></tr>
-<tr><td></td><td></td><td>– pour la 8<sup>e</sup> année à compter du dépôt</td><td>2380</td><td colspan="2">180.–</td></tr>
-<tr><td></td><td></td><td>– pour la 9<sup>e</sup> année à compter du dépôt</td><td>2390</td><td colspan="2">220.–</td></tr>
-<tr><td></td><td></td><td>– pour la 10<sup>e</sup> année à compter du dépôt</td><td>2400</td><td colspan="2">260.–</td></tr>
-<tr><td></td><td></td><td>– pour la 11<sup>e</sup> année à compter du dépôt</td><td>2410</td><td colspan="2">300.–</td></tr>
-<tr><td></td><td></td><td>– pour la 12<sup>e</sup> année à compter du dépôt</td><td>2420</td><td colspan="2">340.–</td></tr>
-<tr><td></td><td></td><td>– pour la 13<sup>e</sup> année à compter du dépôt</td><td>2430</td><td colspan="2">400.–</td></tr>
-<tr><td></td><td></td><td>– pour la 14<sup>e</sup> année à compter du dépôt</td><td>2440</td><td colspan="2">460.–</td></tr>
-<tr><td></td><td></td><td>– pour la 15<sup>e</sup> année à compter du dépôt</td><td>2450</td><td colspan="2">520.–</td></tr>
-<tr><td></td><td></td><td>– pour la 16<sup>e</sup> année à compter du dépôt</td><td>2460</td><td colspan="2">600.–</td></tr>
-<tr><td></td><td></td><td>– pour la 17<sup>e</sup> année à compter du dépôt</td><td>2470</td><td colspan="2">680.–</td></tr>
-<tr><td></td><td></td><td>– pour la 18<sup>e</sup> année à compter du dépôt</td><td>2480</td><td colspan="2">760.–</td></tr>
-<tr><td></td><td></td><td>– pour la 19<sup>e</sup> année à compter du dépôt</td><td>2490</td><td colspan="2">860.–</td></tr>
-<tr><td></td><td></td><td>– pour la 20<sup>e</sup> année à compter du dépôt</td><td>2500</td><td colspan="2">960.–</td></tr>
-<tr><td>Art. 18, al. 3</td><td>OBI</td><td>Surtaxe</td><td>2550</td><td colspan="2">50.–</td></tr>
-<tr><td>Art. 46*a,* al. 2</td><td>LBI</td><td>Taxe de poursuite de la procédure</td><td>2600</td><td colspan="2">100.–</td></tr>
-<tr><td>Art. 15, al. 2</td><td>OBI</td><td>Taxe de réintégration en l’état antérieur</td><td>2650</td><td colspan="2">500.–</td></tr>
-<tr><td>Art. 96, al. 3</td><td>OBI</td><td>Taxe de traitement d’une déclaration de renonciation partielle</td><td>2700</td><td colspan="2">500.–</td></tr>
-<tr><td>Art. 133, al. 2 Art. 121, al. 1</td><td>LBI OBI</td><td>Taxe de transmission</td><td>2800</td><td colspan="2">100.–</td></tr>
-<tr><td>Art. 140*h,* al. 1 Art. 140*z*</td><td>LBI LBI</td><td>Taxe de dépôt pour le certificat complémentaire de protection</td><td>2900</td><td colspan="2">2500.–</td></tr>
-<tr><td>Art. 140*q* Art. 127*b*, al. 3</td><td>LBI OBI</td><td>Taxe pour la demande de prolongation de la durée de protection du certificat complémentaire de protection</td><td>2905</td><td colspan="2">1500.–</td></tr>
-<tr><td>Art. 140*h*, al. 1 Art. 140*z* Art. 140*q* Art. 127*l*</td><td>LBI LBI LBI OBI OBI</td><td>Annuités pour le certificat complémentaire de protection</td><td>2910</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>– pour la 1<sup>re</sup> année</td><td></td><td colspan="2">1060.–</td></tr>
-<tr><td></td><td></td><td>– pour la 2<sup>e</sup> année</td><td></td><td colspan="2">1160.–</td></tr>
-<tr><td></td><td></td><td>– pour la 3<sup>e</sup> année</td><td></td><td colspan="2">1260.–</td></tr>
-<tr><td></td><td></td><td>– pour la 4<sup>e</sup> année</td><td></td><td colspan="2">1360.–</td></tr>
-<tr><td></td><td></td><td>– pour la 5<sup>e</sup> année</td><td></td><td colspan="2">1460.–</td></tr>
-<tr><td></td><td></td><td>– pour la 6<sup>e</sup> année</td><td></td><td colspan="2">1560.–</td></tr>
-<tr><td>Art. 127*l*, al. 5</td><td></td><td>Surtaxe</td><td>2950</td><td colspan="2">50.–</td></tr>
-<tr><td>Art. 140*r*, al. 2 Art. 127*n*, al. 3</td><td>LBI OBI</td><td>Demande de révocation de la prolongation de la durée de protection du certificat complémentaire de protection</td><td>2960</td><td colspan="2">800.–</td></tr>
-<tr><td>Art. 140*w* Art. 127*v*, al. 2</td><td>LBI OBI</td><td>Taxe pour le certificat complémentaire de protection pédiatrique</td><td>2970</td><td colspan="2">3000.–</td></tr>
+<tr><td>Art. 138, let. c Art. 30, al. 2 Art. 139, al. 1, let. a Art. 147, al. 1, let. c</td><td>LBI[^annexu1-lvlu1-lvl3-1] OBI[^annexu1-lvlu1-lvl3-2] OBI OBI</td><td>Taxe de dépôt d’un brevet</td><td>2000</td><td>200.–</td></tr>
+<tr><td>Art. 43, al. 1 Art. 139, al. 1, let. a Art. 150, al. 1</td><td>OBI OBI OBI</td><td>Taxe de revendication pour chaque revendication à partir de la seizième</td><td>2030</td><td>50.–</td></tr>
+<tr><td>Art. 30, al. 2 Art. 92, al. 2 Art. 139, al. 1, let. a</td><td>OBI OBI OBI</td><td>Taxe de recherche</td><td>2060</td><td>500.–</td></tr>
+<tr><td>Art. 101, al. 1</td><td>OBI</td><td>Taxe d’examen</td><td>2100</td><td>400.–</td></tr>
+<tr><td>Art. 102, al. 1</td><td>OBI</td><td>Taxe d’examen complet quant au fond</td><td>2110</td><td>300.–</td></tr>
+<tr><td>Art. 103, al. 1</td><td>OBI</td><td>Taxe pour le début anticipé de l’examen complet quant au fond</td><td>2120</td><td>800.–</td></tr>
+<tr><td>Art. 32, al. 1</td><td>OBI</td><td>Taxe d’accélération de la procédure de délivrance du brevet</td><td>2150</td><td>200.–</td></tr>
+<tr><td>Art. 14, al. 1 Art. 140</td><td>OBI OBI</td><td>Annuité</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– pour la 3<sup>e</sup> année à compter du dépôt</td><td>2330</td><td>90.–</td></tr>
+<tr><td></td><td></td><td>– pour la 4<sup>e</sup> année à compter du dépôt</td><td>2340</td><td>110.–</td></tr>
+<tr><td></td><td></td><td>– pour la 5<sup>e</sup> année à compter du dépôt</td><td>2350</td><td>130.–</td></tr>
+<tr><td></td><td></td><td>– pour la 6<sup>e</sup> année à compter du dépôt</td><td>2360</td><td>150.–</td></tr>
+<tr><td></td><td></td><td>– pour la 7<sup>e</sup> année à compter du dépôt</td><td>2370</td><td>170.–</td></tr>
+<tr><td></td><td></td><td>– pour la 8<sup>e</sup> année à compter du dépôt</td><td>2380</td><td>190.–</td></tr>
+<tr><td></td><td></td><td>– pour la 9<sup>e</sup> année à compter du dépôt</td><td>2390</td><td>230.–</td></tr>
+<tr><td></td><td></td><td>– pour la 10<sup>e</sup> année à compter du dépôt</td><td>2400</td><td>270.–</td></tr>
+<tr><td></td><td></td><td>– pour la 11<sup>e</sup> année à compter du dépôt</td><td>2410</td><td>310.–</td></tr>
+<tr><td></td><td></td><td>– pour la 12<sup>e</sup> année à compter du dépôt</td><td>2420</td><td>370.–</td></tr>
+<tr><td></td><td></td><td>– pour la 13<sup>e</sup> année à compter du dépôt</td><td>2430</td><td>430.–</td></tr>
+<tr><td></td><td></td><td>– pour la 14<sup>e</sup> année à compter du dépôt</td><td>2440</td><td>490.–</td></tr>
+<tr><td></td><td></td><td>– pour la 15<sup>e</sup> année à compter du dépôt</td><td>2450</td><td>570.–</td></tr>
+<tr><td></td><td></td><td>– pour la 16<sup>e</sup> année à compter du dépôt</td><td>2460</td><td>650.–</td></tr>
+<tr><td></td><td></td><td>– pour la 17<sup>e</sup> année à compter du dépôt</td><td>2470</td><td>730.–</td></tr>
+<tr><td></td><td></td><td>– pour la 18<sup>e</sup> année à compter du dépôt</td><td>2480</td><td>820.–</td></tr>
+<tr><td></td><td></td><td>– pour la 19<sup>e</sup> année à compter du dépôt</td><td>2490</td><td>910.–</td></tr>
+<tr><td></td><td></td><td>– pour la 20<sup>e</sup> année à compter du dépôt</td><td>2500</td><td>1000.–</td></tr>
+<tr><td>Art. 14, al. 4</td><td>OBI</td><td>Surtaxe</td><td>2550</td><td>50.–</td></tr>
+<tr><td>Art. 46*a*, al. 2</td><td>LBI</td><td>Taxe de poursuite de la procédure</td><td>2600</td><td>100.–</td></tr>
+<tr><td>Art. 12, al. 3</td><td>OBI</td><td>Taxe de réintégration en l’état antérieur</td><td>2650</td><td>500.–</td></tr>
+<tr><td>Art. 112, al. 3</td><td>OBI</td><td>Taxe de traitement d’une déclaration de renonciation partielle</td><td>2700</td><td>500.–</td></tr>
+<tr><td>Art. 133, al. 2 Art. 143, al. 1</td><td>LBI OBI</td><td>Taxe de transmission</td><td>2800</td><td>100.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*z*, al. 2 Art. 155, al. 2</td><td>LBI LBI OBI</td><td>Taxe de dépôt d’un certificat complémentaire de protection</td><td>2900</td><td>2500.–</td></tr>
+<tr><td>Art. 140*q* Art. 165, al. 2</td><td>LBI OBI</td><td>Taxe de dépôt d’une demande de prolongation de la durée de protection du certificat complémentaire de protection</td><td>2905</td><td>1500.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*z*, al. 2 Art. 140*q* Art. 164, al. 1</td><td>LBI LBI LBI OBI</td><td>Annuité d’un certificat complémentaire de protection</td><td>2910</td><td></td></tr>
+<tr><td></td><td></td><td>– pour la 1<sup>re</sup> année</td><td></td><td>1080.–</td></tr>
+<tr><td></td><td></td><td>– pour la 2<sup>e</sup> année</td><td></td><td>1140.–</td></tr>
+<tr><td></td><td></td><td>– pour la 3<sup>e</sup> année</td><td></td><td>1200.–</td></tr>
+<tr><td></td><td></td><td>– pour la 4<sup>e</sup> année</td><td></td><td>1320.–</td></tr>
+<tr><td></td><td></td><td>– pour la 5<sup>e</sup> année</td><td></td><td>1440.–</td></tr>
+<tr><td></td><td></td><td>– pour la 6<sup>e</sup> année</td><td></td><td>1680.–</td></tr>
+<tr><td>Art. 164, al. 4</td><td>OBI</td><td>Surtaxe</td><td>2950</td><td>50.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*r*, al. 2 Art. 171, al. 3</td><td>LBI LBI OBI</td><td>Taxe de dépôt d’une demande de révocation de la prolongation de la durée de protection du certificat complémentaire de protection</td><td>2960</td><td>800.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*w* Art. 179, al. 2</td><td>LBI LBI OBI</td><td>Taxe de dépôt d’un certificat complémentaire de protection pédiatrique</td><td>2970</td><td>3000.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl3-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^annexu1-lvlu1-lvl3-2]: Ordonnance du 19 octobre 1977 sur les brevets ([RS 232.141](https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027))
+[^annexu1-lvlu1-lvl3-1]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^annexu1-lvlu1-lvl3-2]: Ordonnance du 20 mai 2026 sur les brevets ([RS 232.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5976))
 
 ### 4. Taxes perçues en vertu de la loi sur les conseils en brevets
 
@@ -268,7 +283,7 @@ Annexe[^t-1]
 <tr><td>Art. 12, al. 1 Art. 19, al. 1</td><td>LCBr[^annexu1-lvlu1-lvl4-1] LCBr</td><td>Taxe d’inscription au registre des conseils en brevets</td><td>5000</td><td>200.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl4-1]: [RS 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^annexu1-lvlu1-lvl4-1]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 ### 5. Taxes perçues en matière de droit d’auteur
 
@@ -286,16 +301,15 @@ Annexe[^t-1]
 <tr><td>Art. 14, al. 2</td><td>LTo[^annexu1-lvlu1-lvl6-1]</td><td>Taxe de dépôt</td><td>4500</td><td>450.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl6-1]: [RS 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
+[^annexu1-lvlu1-lvl6-1]: [RS 231.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5954)
 
 ### 7. Diverses taxes de chancellerie
 
 <table>
 <tr><th>Description de la taxe</th><th>Code</th><th>Fr.</th></tr>
-<tr><td>Légalisation par la Chancellerie fédérale</td><td>5100</td><td>frais</td></tr>
 <tr><td>Copies, traitement de demandes particulières et prestations de services au sens de l’art. 3, al. 2, en fonction du temps effectif</td><td></td><td></td></tr>
 <tr><td>– par unité de temps de 5 minutes commencée</td><td>5200</td><td>15.–</td></tr>
 <tr><td>Surtaxe pour les mandats urgents</td><td>5300</td><td>jusqu’à concurrence de 50 % de la taxe due initialement</td></tr>
-<tr><td>Procédure de destruction de petits envois</td><td>5400</td><td>120.–</td></tr>
-<tr><td>Procédure simplifiée de destruction de petits envois</td><td>5500</td><td>80.–</td></tr>
+<tr><td>Procédure de destruction d’un petit envoi</td><td>5400</td><td>120.–</td></tr>
+<tr><td>Procédure simplifiée de destruction d’un petit envoi</td><td>5500</td><td>80.–</td></tr>
 </table>

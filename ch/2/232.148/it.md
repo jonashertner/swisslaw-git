@@ -4,11 +4,11 @@ title: "Ordinanza dell'IPI del 14 giugno 2016 sulle tasse (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: it
-version: 2025-07-01
+version: 2027-01-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20250701/it"
 
 (OTa-IPI)
 
-del 14 giugno 2016 (Stato 1° luglio 2025)
+del 14 giugno 2016 (Stato 1° gennaio 2027)
 
 Approvata dal Consiglio federale il 2 dicembre 2016
 
@@ -27,7 +27,7 @@ visto l’articolo 13 della legge federale del 24 marzo 1995[^ingress-1] sullo s
 
 ordina:
 
-[^ingress-1]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
+[^ingress-1]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
 
 #### Art. 1
 
@@ -41,7 +41,7 @@ La presente ordinanza disciplina le tasse che l’IPI riscuote per lo svolgiment
 
 Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^2-1] sugli emolumenti.
 
-[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -53,12 +53,12 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 <sup>3</sup> Il Consiglio dell’IPI può adeguare le tariffe all’aumento dell’indice nazionale dei prezzi al consumo all’inizio di un esercizio finanziario dell’IPI, sempre che dal 1° gennaio 2017 o dall’ultimo adeguamento l’aumento sia pari o superiore al 5 per cento.
 
-[^3-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
-[^3-2]: [RS 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
-[^3-3]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^3-4]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
-[^3-5]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^3-6]: [RS 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^3-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+[^3-2]: [RS 231.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5954)
+[^3-3]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^3-4]: [RS 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
+[^3-5]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^3-6]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 #### Art. 4
 
@@ -137,6 +137,19 @@ L’ammontare della tassa di proroga per le registrazioni di marchi la cui valid
 
 [^11a-1]: Introdotto dalla cifra I dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022, in vigore dal 1° lug. 2023 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)).
 
+#### Art. 11b
+
+**Disposizione transitoria della modifica del 29 ottobre 2025**[^11b-1]
+
+<sup>1</sup> L’ammontare delle tasse annuali che scadono prima del 1° marzo 2027 relative alle domande di brevetto, ai brevetti e ai certificati protettivi complementari è retto dal diritto previgente.
+
+<sup>2</sup> Per le domande di brevetto e i brevetti è dovuta una tassa annuale già a partire dal terzo anno successivo alla data del deposito della domanda, purché tale tassa scada a partire dal 1° marzo 2027.
+
+<sup>3</sup> L’ammontare della tassa di ricerca per le domande di brevetto, per le quali va effettuata una ricerca secondo il nuovo diritto in applicazione dell’articolo 150 LBI[^11b-2], è pari a 400 franchi.
+
+[^11b-1]: Introdotto dalla cifra I dell’O dell’IPI del 29 ott. 2025, approvata dal CF il 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 292](https://fedlex.data.admin.ch/eli/oc/2026/292)).
+[^11b-2]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+
 #### Art. 12
 
 **Abrogazione di un altro atto normativo**
@@ -157,7 +170,7 @@ Allegato[^t-1]
 
 ## Tariffe delle tasse
 
-[^t-1]: Aggiornato dalle cifre I delle O dell’IPI del 31 ott. 2018, approvata dal CF il 17 apr. 2019 ([RU 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)), del 22 mar. 2021, approvata dal CF il 18 ago. 2021 ([RU 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)), dalla cifra II dell’O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)) e dalla cifra I dell’O dell’IPI del 18 giu. 2024, approvata dal CF il 14 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 377](https://fedlex.data.admin.ch/eli/oc/2025/377)).
+[^t-1]: Aggiornato dalla cifra I dell’O dell’IPI del 22 mar. 2021, approvata dal CF il 18 ago. 2021 ([RU 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)), dalle cifre II delle O dell’IPI del 23 giu. 2022, approvata dal CF il 16 dic. 2022 ([RU 2023 1](https://fedlex.data.admin.ch/eli/oc/2023/1)) e del 29 ott. 2025, approvata dal CF il 20 mag. 2026, in vigore dal 1° gen. 2027 ([RU 2026 292](https://fedlex.data.admin.ch/eli/oc/2026/292)).
 
 ### 1. Tasse riscosse in materia di marchi e indicazioni geografiche
 
@@ -184,10 +197,10 @@ Allegato[^t-1]
 <tr><td></td><td></td><td>– Tassa per la modifica dell’elenco degli obblighi</td><td>1960</td><td>800.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^annexu1-lvlu1-lvl1-2]: O del 23 dicembre 1992 sulla protezione dei marchi e delle indicazioni di provenienza ([RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296))
-[^annexu1-lvlu1-lvl1-3]: Prot. del 27 giugno 1989 relativo all’Accordo di Madrid per la registrazione internazionale dei marchi ([RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350))
-[^annexu1-lvlu1-lvl1-4]: O DOP/IGP per prodotti non agricoli, del 2 set. 2015 ([RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)).
+[^annexu1-lvlu1-lvl1-1]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^annexu1-lvlu1-lvl1-2]: O del 23 dicembre 1992 sulla protezione dei marchi e delle indicazioni di provenienza ([RS 232.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5963))
+[^annexu1-lvlu1-lvl1-3]: Prot. del 27 giugno 1989 relativo all’Accordo di Madrid per la registrazione internazionale dei marchi ([RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060))
+[^annexu1-lvlu1-lvl1-4]: O DOP/IGP per prodotti non agricoli, del 2 set. 2015 ([RS 232.112.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5967)).
 
 ### 2. Tasse riscosse in materia di design
 
@@ -208,58 +221,60 @@ Allegato[^t-1]
 <tr><th>Art. 31 cpv. 2</th><th>LDes</th><th>Tassa per il proseguimento della procedura</th><th>3700</th><th>100.–</th></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2-1]: O dell’8 mar. 2002 sul design ([RS 232.121](https://fedlex.data.admin.ch/eli/cc/2002/183)).
-[^annexu1-lvlu1-lvl2-2]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
+[^annexu1-lvlu1-lvl2-1]: O dell’8 mar. 2002 sul design ([RS 232.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5972)).
+[^annexu1-lvlu1-lvl2-2]: [RS 232.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5971)
 
-### 3. Tasse riscosse in materia di brevetti d’invenzione
+### 3. Tasse riscosse in materia di brevetti e certificati protettivi complementari
 
 <table>
-<tr><th>Articolo</th><th></th><th colspan="2">Descrizione</th><th>Codice</th><th>Fr.</th></tr>
-<tr><td>Art. 138 cpv. 1 lett. c Art. 17*a* cpv. 1 lett. a Art. 49 cpv. 1 Art. 118 cpv. 1 lett. a Art. 124 cpv. 1 lett. c</td><td>LBI[^annexu1-lvlu1-lvl3-1] OBI[^annexu1-lvlu1-lvl3-2] OBI OBI OBI</td><td colspan="2">Tassa di deposito</td><td>2000</td><td>200.–</td></tr>
-<tr><td>Art. 17*a* cpv. 1 lett. b Art. 31*a* Art. 53*a* cpv. 1 Art. 61*a* cpv. 2</td><td>OBI OBI OBI OBI</td><td colspan="2">Tassa di rivendicazione per ogni rivendicazione a contare dall’undicesima</td><td>2030</td><td>50.–</td></tr>
-<tr><td>Art. 53 cpv. 1 Art. 57 cpv. 2 Art. 59 cpv. 2</td><td>OBI OBI OBI</td><td colspan="2">Tassa di ricerca</td><td>2060</td><td>500.–</td></tr>
-<tr><td>Art. 17*a* cpv. 1 lett. c Art. 61*a*</td><td>OBI OBI</td><td colspan="2">Tassa di esame</td><td>2100</td><td>500.–</td></tr>
-<tr><td>Art. 63 cpv. 2</td><td>OBI</td><td colspan="2">Tassa per la procedura d’esame accelerata</td><td>2150</td><td>200.–</td></tr>
-<tr><td>Art. 73 cpv. 2</td><td>OBI</td><td colspan="2">Tassa di opposizione</td><td>2200</td><td>800.–</td></tr>
-<tr><td>Art. 17*a* cpv. 1 lett. e Art. 18 Art. 18*a* cpv. 3 Art. 118 cpv. 2 Art. 118*a*</td><td>OBI OBI OBI OBI OBI</td><td colspan="2">Tasse annuali</td><td></td><td></td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 4° anno a contare dal deposito</td><td>2340</td><td>100.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 5° anno a contare dal deposito</td><td>2350</td><td>120.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 6° anno a contare dal deposito</td><td>2360</td><td>140.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 7° anno a contare dal deposito</td><td>2370</td><td>160.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per l’8° anno a contare dal deposito</td><td>2380</td><td>180.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 9° anno a contare dal deposito</td><td>2390</td><td>220.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 10° anno a contare dal deposito</td><td>2400</td><td>260.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per l’11° anno a contare dal deposito</td><td>2410</td><td>300.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 12° anno a contare dal deposito</td><td>2420</td><td>340.–</td></tr>
-<tr><td></td><td></td><td colspan="2">– per il 13° anno a contare dal deposito</td><td>2430</td><td>400.–</td></tr>
-<tr><td></td><td></td><td>– per il 14° anno a contare dal deposito</td><td colspan="2">2440</td><td>460.–</td></tr>
-<tr><td></td><td></td><td>– per il 15° anno a contare dal deposito</td><td colspan="2">2450</td><td>520.–</td></tr>
-<tr><td></td><td></td><td>– per il 16° anno a contare dal deposito</td><td colspan="2">2460</td><td>600.–</td></tr>
-<tr><td></td><td></td><td>– per il 17° anno a contare dal deposito</td><td colspan="2">2470</td><td>680.–</td></tr>
-<tr><td></td><td></td><td>– per il 18° anno a contare dal deposito</td><td colspan="2">2480</td><td>760.–</td></tr>
-<tr><td></td><td></td><td>– per il 19° anno a contare dal deposito</td><td colspan="2">2490</td><td>860.–</td></tr>
-<tr><td></td><td></td><td>– per il 20° anno a contare dal deposito</td><td colspan="2">2500</td><td>960.–</td></tr>
-<tr><td>Art. 18 cpv. 3</td><td>OBI</td><td>Soprattassa</td><td colspan="2">2550</td><td>50.–</td></tr>
-<tr><td>Art. 46*a* cpv. 2</td><td>LBI</td><td>Tassa di proseguimento della procedura</td><td colspan="2">2600</td><td>100.–</td></tr>
-<tr><td>Art. 15 cpv. 2</td><td>OBI</td><td>Tassa di reintegrazione</td><td colspan="2">2650</td><td>500.–</td></tr>
-<tr><td>Art. 96 cpv. 3</td><td>OBI</td><td>Tassa per il trattamento di una dichiarazione di rinuncia parziale</td><td colspan="2">2700</td><td>500.–</td></tr>
-<tr><td>Art. 133 cpv. 2 Art. 121 cpv. 1</td><td>LBI OBI</td><td>Tassa di trasmissione</td><td colspan="2">2800</td><td>100.–</td></tr>
-<tr><td>Art. 140*h* cpv. 1 Art. 140*z*</td><td>LBI LBI</td><td>Tassa di deposito per certificati protettivi complementari</td><td colspan="2">2900</td><td>2500.–</td></tr>
-<tr><td>Art. 140*q* Art. 127*b* cpv. 3</td><td>LBI OBI</td><td>Tassa per la richiesta di proroga della durata di protezione di certificati protettivi complementari</td><td colspan="2">2905</td><td>1500.–</td></tr>
-<tr><td>Art. 140*h* cpv. 1 Art. 140*z* Art. 140*q* Art. 127*l*</td><td>LBI LBI LBI OBI</td><td>Tasse annuali per certificati protettivi complementari</td><td colspan="2">2910</td><td></td></tr>
-<tr><td></td><td></td><td>– per il 1° anno</td><td colspan="2"></td><td>1060.–</td></tr>
-<tr><td></td><td></td><td>– per il 2° anno</td><td colspan="2"></td><td>1160.–</td></tr>
-<tr><td></td><td></td><td>– per il 3° anno</td><td colspan="2"></td><td>1260.–</td></tr>
-<tr><td></td><td></td><td>– per il 4° anno</td><td colspan="2"></td><td>1360.–</td></tr>
-<tr><td></td><td></td><td>– per il 5° anno</td><td colspan="2"></td><td>1460.–</td></tr>
-<tr><td></td><td></td><td>– per il 6° anno</td><td colspan="2"></td><td>1560.–</td></tr>
-<tr><td>Art. 127*l* cpv. 5</td><td>OBI</td><td>Soprattassa</td><td colspan="2">2950</td><td>50.–</td></tr>
-<tr><td>Art. 140*r* cpv. 2 Art. 127*n* cpv. 3</td><td>LBI OBI</td><td>Richiesta di revoca della proroga della durata di protezione di certificati protettivi complementari</td><td colspan="2">2960</td><td>800.–</td></tr>
-<tr><td>Art. 140*w* Art. 127*v* cpv. 2</td><td>LBI OBI</td><td>Tassa per certificati protettivi complementari per medicinali pediatrici</td><td colspan="2">2970</td><td>3000.–</td></tr>
+<tr><th>Articolo</th><th></th><th>Descrizione</th><th>Codice</th><th>Fr.</th></tr>
+<tr><td>Art. 138 lett. c Art. 30 cpv. 2 Art. 139 cpv. 1 lett. a Art. 147 cpv. 1 lett. c</td><td>LBI[^annexu1-lvlu1-lvl3-1] OBI[^annexu1-lvlu1-lvl3-2] OBI OBI</td><td>Tassa di deposito</td><td>2000</td><td>200.–</td></tr>
+<tr><td>Art. 43 cpv. 1 Art. 139 cpv. 1 lett. a Art. 150 cpv. 1</td><td>OBI OBI OBI</td><td>Tassa di rivendicazione per ogni rivendicazione a contare dalla sedicesima</td><td>2030</td><td>50.–</td></tr>
+<tr><td>Art. 30 cpv. 2 Art. 92 cpv. 2 Art. 139 cpv. 1 lett. a</td><td>OBI OBI OBI</td><td>Tassa di ricerca</td><td>2060</td><td>500.–</td></tr>
+<tr><td>Art. 101 cpv. 1</td><td>OBI</td><td>Tassa di esame</td><td>2100</td><td>400.–</td></tr>
+<tr><td>Art. 102 cpv. 1</td><td>OBI</td><td>Tassa per l’esame completo relativo al contenuto</td><td>2110</td><td>300.–</td></tr>
+<tr><td>Art. 103 cpv. 1</td><td>OBI</td><td>Tassa per l’inizio anticipato dell’esame completo relativo al contenuto</td><td>2120</td><td>800.–</td></tr>
+<tr><td>Art. 32 cpv. 1</td><td>OBI</td><td>Tassa per la procedura accelerata di rilascio del brevetto</td><td>2150</td><td>200.–</td></tr>
+<tr><td>Art. 14 cpv. 1 Art. 140</td><td>OBI OBI</td><td>Tasse annuali</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– per il 3° anno a contare dal deposito</td><td>2330</td><td>90.–</td></tr>
+<tr><td></td><td></td><td>– per il 4° anno a contare dal deposito</td><td>2340</td><td>110.–</td></tr>
+<tr><td></td><td></td><td>– per il 5° anno a contare dal deposito</td><td>2350</td><td>130.–</td></tr>
+<tr><td></td><td></td><td>– per il 6° anno a contare dal deposito</td><td>2360</td><td>150.–</td></tr>
+<tr><td></td><td></td><td>– per il 7° anno a contare dal deposito</td><td>2370</td><td>170.–</td></tr>
+<tr><td></td><td></td><td>– per l’8° anno a contare dal deposito</td><td>2380</td><td>190.–</td></tr>
+<tr><td></td><td></td><td>– per il 9° anno a contare dal deposito</td><td>2390</td><td>230.–</td></tr>
+<tr><td></td><td></td><td>– per il 10° anno a contare dal deposito</td><td>2400</td><td>270.–</td></tr>
+<tr><td></td><td></td><td>– per l’11° anno a contare dal deposito</td><td>2410</td><td>310.–</td></tr>
+<tr><td></td><td></td><td>– per il 12° anno a contare dal deposito</td><td>2420</td><td>370.–</td></tr>
+<tr><td></td><td></td><td>– per il 13° anno a contare dal deposito</td><td>2430</td><td>430.–</td></tr>
+<tr><td></td><td></td><td>– per il 14° anno a contare dal deposito</td><td>2440</td><td>490.–</td></tr>
+<tr><td></td><td></td><td>– per il 15° anno a contare dal deposito</td><td>2450</td><td>570.–</td></tr>
+<tr><td></td><td></td><td>– per il 16° anno a contare dal deposito</td><td>2460</td><td>650.–</td></tr>
+<tr><td></td><td></td><td>– per il 17° anno a contare dal deposito</td><td>2470</td><td>730.–</td></tr>
+<tr><td></td><td></td><td>– per il 18° anno a contare dal deposito</td><td>2480</td><td>820.–</td></tr>
+<tr><td></td><td></td><td>– per il 19° anno a contare dal deposito</td><td>2490</td><td>910.–</td></tr>
+<tr><td></td><td></td><td>– per il 20° anno a contare dal deposito</td><td>2500</td><td>1000.–</td></tr>
+<tr><td>Art. 14 cpv. 4</td><td>OBI</td><td>Soprattassa</td><td>2550</td><td>50.–</td></tr>
+<tr><td>Art. 46*a* cpv. 2</td><td>LBI</td><td>Tassa di proseguimento della procedura</td><td>2600</td><td>100.–</td></tr>
+<tr><td>Art. 12 cpv. 3</td><td>OBI</td><td>Tassa di reintegrazione</td><td>2650</td><td>500.–</td></tr>
+<tr><td>Art. 112 cpv. 3</td><td>OBI</td><td>Tassa per il trattamento di una dichiarazione di rinuncia parziale</td><td>2700</td><td>500.–</td></tr>
+<tr><td>Art. 133 cpv. 2 Art. 143 cpv. 1</td><td>LBI OBI</td><td>Tassa di trasmissione</td><td>2800</td><td>100.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*z* cpv. 2 Art. 155 cpv. 2</td><td>LBI LBI OBI</td><td>Tassa di deposito per certificati di protezione complementari</td><td>2900</td><td>2500.–</td></tr>
+<tr><td>Art. 140*q* Art. 165 cpv. 2</td><td>LBI OBI</td><td>Tassa per la richiesta di proroga della validità di certificati protettivi complementari</td><td>2905</td><td>1500.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*z* cpv. 2 Art. 140*q* Art. 164 cpv. 1</td><td>LBI LBI LBI OBI</td><td>Tasse annuali per certificati protettivi complementari</td><td>2910</td><td></td></tr>
+<tr><td></td><td></td><td>– per il 1° anno</td><td></td><td>1080.–</td></tr>
+<tr><td></td><td></td><td>– per il 2° anno</td><td></td><td>1140.–</td></tr>
+<tr><td></td><td></td><td>– per il 3° anno</td><td></td><td>1200.–</td></tr>
+<tr><td></td><td></td><td>– per il 4° anno</td><td></td><td>1320.–</td></tr>
+<tr><td></td><td></td><td>– per il 5° anno</td><td></td><td>1440.–</td></tr>
+<tr><td></td><td></td><td>– per il 6° anno</td><td></td><td>1680.–</td></tr>
+<tr><td>Art. 164 cpv. 4</td><td>OBI</td><td>Soprattassa</td><td>2950</td><td>50.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*r* cpv. 2 Art. 171 cpv. 3</td><td>LBI LBI OBI</td><td>Richiesta di revoca della proroga della validità di certificati protettivi complementari</td><td>2960</td><td>800.–</td></tr>
+<tr><td>Art. 140*h* Art. 140*w* Art. 179 cpv. 2</td><td>LBI LBI OBI</td><td>Tassa per certificati protettivi complementari per medicinali pediatrici</td><td>2970</td><td>3000.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl3-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
-[^annexu1-lvlu1-lvl3-2]: O del 19 ott. 1977 sui brevetti ([RS 232.141](https://fedlex.data.admin.ch/eli/cc/1977/2027_2027_2027)).
+[^annexu1-lvlu1-lvl3-1]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^annexu1-lvlu1-lvl3-2]: Ordinanza del 20 maggio 2026 sui brevetti ( [[RS 232.141](https://www.fedlex.admin.ch/eli/cc/1977/2027_2027_2027/it)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5976))
 
 ### 4. Tasse riscosse in virtù della legge sui consulenti in brevetti
 
@@ -268,7 +283,7 @@ Allegato[^t-1]
 <tr><td>Art. 12 cpv. 1 Art. 19 cpv. 1</td><td>LCB[^annexu1-lvlu1-lvl4-1] LCB</td><td>Tassa per l’iscrizione nel registro dei consulenti in brevetti</td><td>5000</td><td>200.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl4-1]: [RS 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^annexu1-lvlu1-lvl4-1]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 ### 5. Tasse riscosse in materia di diritto d’autore
 
@@ -286,16 +301,15 @@ Allegato[^t-1]
 <tr><td>Art. 14 cpv. 2</td><td>LTo[^annexu1-lvlu1-lvl6-1]</td><td>Tassa per il deposito della domanda d’iscrizione</td><td>4500</td><td>450.–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl6-1]: [RS 231.2](https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828)
+[^annexu1-lvlu1-lvl6-1]: [RS 231.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5954)
 
 ### 7. Tasse diverse di cancelleria
 
 <table>
-<tr><th>Descrizione</th><th>Codice</th><th>Fr.</th></tr>
-<tr><td>Autenticazione da parte della Cancelleria federale</td><td>5100</td><td>spese</td></tr>
-<tr><td>Copie, nonché trattazione di richieste speciali e prestazione di servizi giusta l’articolo 3 capoverso 2, secondo il tempo impiegato</td><td></td><td></td></tr>
+<tr><td>Descrizione</td><td>Codice</td><td>Fr.</td></tr>
+<tr><td>Copie, nonché trattamento di richieste speciali e prestazione di servizi secondo l’art. 3 cpv. 2, secondo il tempo impiegato</td><td></td><td></td></tr>
 <tr><td>– per ogni periodo di cinque minuti iniziato</td><td>5200</td><td>15.–</td></tr>
-<tr><td>Soprattassa per richieste urgenti</td><td>5300</td><td>fino al 50 % della tassa dovuta</td></tr>
+<tr><td>Soprattassa per incarichi urgenti</td><td>5300</td><td>fino al 50 % della tassa dovuta</td></tr>
 <tr><td>Procedura per la distruzione di piccoli invii</td><td>5400</td><td>120.–</td></tr>
 <tr><td>Procedura semplificata per la distruzione di piccoli invii</td><td>5500</td><td>80.–</td></tr>
 </table>
