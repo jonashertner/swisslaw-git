@@ -4,7 +4,7 @@ number: "642.12"
 title: "LOI du 10.10.2023 sur la réduction de l'impôt cantonal sur le revenu des personnes physiques (LRIPP)"
 short: LRIPP
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.12?id=2601e61d-0961-41db-ba5a-1c06f0197fd0"
 ---
 
@@ -60,7 +60,9 @@ décrète
 
 <sup>2</sup> L'impôt cantonal de base sur le revenu des personnes physiques est réduit de 5% pour l'année fiscale 2026 à l'exception de l'impôt cantonal de base afférent aux revenus imposés selon les articles 48a et 49 LI.
 
-[^chapterChapitreIII-1]: Modif. 1 du 17.12.2024: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 2; entrée en vigueur au 01.01.2026 · Modif. 1 du 17.12.2024: Introduction Al. 3; entrée en vigueur au 01.01.2027
+<sup>3</sup> L'impôt cantonal de base sur le revenu des personnes physiques est réduit de 7% dès l'année fiscale 2027 à l'exception de l'impôt cantonal de base afférent aux revenus imposés selon les articles 48a et 49 LI.
+
+[^chapterChapitreIII-1]: Modif. 1 du 17.12.2024: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 2; entrée en vigueur au 01.01.2026; Introduction Al. 3; entrée en vigueur au 01.01.2027
 
 #### Art. 5
 
