@@ -4,18 +4,18 @@ title: Constitution fédérale de la Confédération suisse du 18 avril 1999
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: fr
-version: 2024-03-03
+version: 2029-01-01
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20240303-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20240303/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20290101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20290101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20290101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution fédérale de la Confédération suisse
 
-du 18 avril 1999 (État le 3 mars 2024)
+du 18 avril 1999 (État le 1<sup>er</sup> janvier 2029)
 
 **Préambule**
 
@@ -35,7 +35,7 @@ sachant que seul est libre qui use de sa liberté et que la force de la communau
 
 arrêtent la Constitution[^ingress-1] que voici:
 
-[^ingress-1]: Accepté en [votation populaire du 18 avr. 1999](http://www.admin.ch/ch/f/pore/va/19990418/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 18 déc. 1998, ACF du 11 août 1999; [RO 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), **1999** 176 [5306](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
+[^ingress-1]: Accepté en [votation populaire du 18 avr. 1999](http://www.bk.admin.ch/ch/f/pore/va/19990418/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 18 déc. 1998, ACF du 11 août 1999; [RO 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), **1999** 176 [5306](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
 
 ## Titre 1 Dispositions générales
 
@@ -87,7 +87,7 @@ Les langues nationales sont l’allemand, le français, l’italien et le romanc
 
 L’attribution et l’accomplissement des tâches étatiques se fondent sur le principe de subsidiarité.
 
-[^5a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^5a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 6
 
@@ -143,7 +143,7 @@ Toute personne a le droit d’être traitée par les organes de l’État sans a
 
 <sup>3</sup> La loi prévoit des exceptions. Celles-ci ne peuvent être justifiées que par des raisons de santé ou de sécurité, par des raisons climatiques ou par des coutumes locales.
 
-[^10a-1]: Accepté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 7 mars 2021 (AF du 19 juin 2020, ACF du 31 mai 2021; [RO 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 6109](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2895](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5345](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^10a-1]: Accepté en [votation populaire du 7 mars 2021](http://www.bk.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 7 mars 2021 (AF du 19 juin 2020, ACF du 31 mai 2021; [RO 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 6109](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2895](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5345](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 [^10a-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 11
@@ -310,7 +310,7 @@ La liberté de l’art est garantie.
 
 Toute personne a droit à ce que sa cause soit jugée par une autorité judiciaire. La Confédération et les cantons peuvent, par la loi, exclure l’accès au juge dans des cas exceptionnels.
 
-[^29a-1]: Accepté en [votation populaire du 12 mars 2000](http://www.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^29a-1]: Accepté en [votation populaire du 12 mars 2000](http://www.bk.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 30
 
@@ -407,7 +407,7 @@ Elle facilite la naturalisation:
 - a. des étrangers de la troisième génération;
 - b. des enfants apatrides.[^38-1]
 
-[^38-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 12 fév. 2017 (AF du 30 sept. 2016, ACF du 13 avr. 2017; [RO 2017 2643](https://fedlex.data.admin.ch/eli/oc/2017/259); [FF 2015 739](https://fedlex.data.admin.ch/eli/fga/2015/62)[1253](https://fedlex.data.admin.ch/eli/fga/2015/132); [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^38-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 12 fév. 2017 (AF du 30 sept. 2016, ACF du 13 avr. 2017; [RO 2017 2643](https://fedlex.data.admin.ch/eli/oc/2017/259); [FF 2015 739](https://fedlex.data.admin.ch/eli/fga/2015/62)[1253](https://fedlex.data.admin.ch/eli/fga/2015/132); [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 39
 
@@ -451,7 +451,7 @@ La Confédération et les cantons s’engagent, en complément de la responsabil
 
 <sup>4</sup> Aucun droit subjectif à des prestations de l’État ne peut être déduit directement des buts sociaux.
 
-[^41-1]: Acceptée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 13 fév. 2022 (AF du 1<sup>er</sup> oct. 2021, ACF du 11 avr. 2022; [RO 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 6529](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6837](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^41-1]: Acceptée en [votation populaire du 13 fév. 2022](http://www.bk.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 13 fév. 2022 (AF du 1<sup>er</sup> oct. 2021, ACF du 11 avr. 2022; [RO 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 6529](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6837](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 ## Titre 3 Confédération, cantons et communes
 
@@ -467,7 +467,7 @@ La Confédération et les cantons s’engagent, en complément de la responsabil
 
 <sup>2</sup> …[^42-1]
 
-[^42-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^42-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 43
 
@@ -489,7 +489,7 @@ Les cantons définissent les tâches qu’ils accomplissent dans le cadre de leu
 
 <sup>5</sup> Les tâches de l’État doivent être accomplies de manière rationnelle et adéquate.
 
-[^43a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^43a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ### Section 2 Collaboration entre la Confédération et les cantons
 
@@ -521,8 +521,8 @@ Les cantons définissent les tâches qu’ils accomplissent dans le cadre de leu
 
 <sup>3</sup> La Confédération laisse aux cantons une marge de manœuvre aussi large que possible en tenant compte de leurs particularités.[^46-2]
 
-[^46-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^46-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^46-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^46-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 47
 
@@ -532,7 +532,7 @@ Les cantons définissent les tâches qu’ils accomplissent dans le cadre de leu
 
 <sup>2</sup> Elle laisse aux cantons suffisamment de tâches propres et respecte leur autonomie d’organisation. Elle leur laisse des sources de financement suffisantes et contribue à ce qu’ils disposent des moyens financiers nécessaires pour accomplir leurs tâches.[^47-1]
 
-[^47-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^47-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 48
 
@@ -553,8 +553,8 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>5</sup> Les cantons respectent le droit intercantonal.[^48-2]
 
-[^48-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^48-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 48a
 
@@ -578,9 +578,9 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> La loi définit les conditions requises pour la déclaration de force obligatoire générale et l’obligation d’adhérer à des conventions et arrête la procédure.
 
-[^48a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^48a-2]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^48a-3]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^48a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48a-2]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^48a-3]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 49
 
@@ -684,7 +684,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> La mise sur pied de l’armée relève de la compétence de la Confédération.[^58-1]
 
-[^58-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^58-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 59
 
@@ -710,7 +710,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> La Confédération peut reprendre les installations militaires des cantons moyennant une juste indemnité.
 
-[^60-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^60-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 61
 
@@ -738,7 +738,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> Dans l’exécution de leurs tâches, ils s’emploient à ce que les filières de formation générale et les voies de formation professionnelle trouvent une reconnaissance sociale équivalente.
 
-[^61a-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^61a-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 62
 
@@ -757,11 +757,11 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 <sup>6</sup> Les cantons sont associés à la préparation des actes de la Confédération qui affectent leurs compétences; leur avis revêt un poids particulier.[^62-6]
 
 [^62-1]: <sup>\*</sup> avec disposition transitoire
-[^62-2]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-3]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^62-4]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-5]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-6]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-2]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-3]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^62-4]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-5]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-6]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 63
 
@@ -771,7 +771,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>2</sup> Elle encourage la diversité et la perméabilité de l’offre dans ce domaine.
 
-[^63-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^63-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 63a
 
@@ -787,7 +787,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>5</sup> Si la Confédération et les cantons n’atteignent pas les objectifs communs par leurs efforts de coordination, la Confédération légifère sur les niveaux d’enseignement et sur le passage de l’un à l’autre, sur la formation continue et sur la reconnaissance des institutions et des diplômes. De plus, la Confédération peut lier le soutien aux hautes écoles à des principes de financement uniformes et le subordonner à la répartition des tâches entre les hautes écoles dans les domaines particulièrement onéreux.
 
-[^63a-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^63a-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 64
 
@@ -799,8 +799,8 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> Elle peut gérer, créer ou reprendre des centres de recherche.
 
-[^64-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^64-2]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64-2]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 64a
 
@@ -812,7 +812,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> La loi fixe les domaines et les critères.
 
-[^64a-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64a-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 65
 
@@ -822,7 +822,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>2</sup> Elle peut légiférer sur l’harmonisation et la tenue des registres officiels afin de rationaliser la collecte.
 
-[^65-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^65-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 66
 
@@ -832,7 +832,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>2</sup> En complément des mesures cantonales et dans le respect de l’autonomie cantonale en matière d’instruction publique, elle peut, par ailleurs, prendre elle-même des mesures destinées à promouvoir la formation.
 
-[^66-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^66-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 67
 
@@ -842,8 +842,8 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>2</sup> En complément des mesures cantonales, la Confédération peut favoriser les activités extra-scolaires des enfants et des jeunes.[^67-2]
 
-[^67-1]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^67-2]: Accepté en [votation populaire du 21 mai 2006](http://www.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^67-1]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^67-2]: Accepté en [votation populaire du 21 mai 2006](http://www.bk.admin.ch/ch/f/pore/va/20060521/index.html), en vigueur depuis le 21 mai 2006 (AF du 16 déc. 2005, ACF du 27 juil. 2006; [RO 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [FF 2005 5159](https://fedlex.data.admin.ch/eli/fga/2005/860)[5225](https://fedlex.data.admin.ch/eli/fga/2005/862)[6793](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 67a
 
@@ -855,7 +855,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> La Confédération fixe, avec la participation des cantons, les principes applicables à l’accès des jeunes à la pratique musicale et à l’encouragement des talents musicaux.
 
-[^67a-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 23 sept. 2012 (AF du 15 mars 2012, ACF du 29 janv. 2013; [RO 2013 435](https://fedlex.data.admin.ch/eli/oc/2013/85); [FF 2009 507](https://fedlex.data.admin.ch/eli/fga/2009/122), [2010 1](https://fedlex.data.admin.ch/eli/fga/2010/1), [2012 3205](https://fedlex.data.admin.ch/eli/fga/2012/452)[6417](https://fedlex.data.admin.ch/eli/fga/2012/1001), [2013 1053](https://fedlex.data.admin.ch/eli/fga/2013/166)).
+[^67a-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.bk.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 23 sept. 2012 (AF du 15 mars 2012, ACF du 29 janv. 2013; [RO 2013 435](https://fedlex.data.admin.ch/eli/oc/2013/85); [FF 2009 507](https://fedlex.data.admin.ch/eli/fga/2009/122), [2010 1](https://fedlex.data.admin.ch/eli/fga/2010/1), [2012 3205](https://fedlex.data.admin.ch/eli/fga/2012/452)[6417](https://fedlex.data.admin.ch/eli/fga/2012/1001), [2013 1053](https://fedlex.data.admin.ch/eli/fga/2013/166)).
 
 #### Art. 68
 
@@ -909,7 +909,7 @@ Les cantons peuvent, par une convention, habiliter un organe intercantonal à é
 
 <sup>3</sup> La construction de minarets est interdite.[^72-1]
 
-[^72-1]: Accepté en [votation populaire du 29 nov. 2009](http://www.admin.ch/ch/f/pore/va/20091129/index.html), en vigueur depuis le 29 nov. 2009 (AF du 12 juin 2009, ACF du 5 mai 2010; [RO 2010 2161](https://fedlex.data.admin.ch/eli/oc/2010/293); [FF 2008 6259](https://fedlex.data.admin.ch/eli/fga/2008/1174)[6923](https://fedlex.data.admin.ch/eli/fga/2008/1294), [2009 3903](https://fedlex.data.admin.ch/eli/fga/2009/776), [2010 3117](https://fedlex.data.admin.ch/eli/fga/2010/606)).
+[^72-1]: Accepté en [votation populaire du 29 nov. 2009](http://www.bk.admin.ch/ch/f/pore/va/20091129/index.html), en vigueur depuis le 29 nov. 2009 (AF du 12 juin 2009, ACF du 5 mai 2010; [RO 2010 2161](https://fedlex.data.admin.ch/eli/oc/2010/293); [FF 2008 6259](https://fedlex.data.admin.ch/eli/fga/2008/1174)[6923](https://fedlex.data.admin.ch/eli/fga/2008/1294), [2009 3903](https://fedlex.data.admin.ch/eli/fga/2009/776), [2010 3117](https://fedlex.data.admin.ch/eli/fga/2010/606)).
 
 ### Section 4 Environnement et aménagement du territoire
 
@@ -949,7 +949,7 @@ La Confédération et les cantons œuvrent à l’établissement d’un équilib
 
 <sup>3</sup> Elle peut légiférer sur l’harmonisation des informations foncières officielles.
 
-[^75a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^75a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 75b
 
@@ -959,7 +959,7 @@ La Confédération et les cantons œuvrent à l’établissement d’un équilib
 
 <sup>2</sup> La loi oblige les communes à publier chaque année leur plan de quotas de résidences principales et l’état détaillé de son exécution.
 
-[^75b-1]: Accepté en [votation populaire du 11 mars 2012](http://www.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012; [RO 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [FF 2008 1003](https://fedlex.data.admin.ch/eli/fga/2008/235)[7891](https://fedlex.data.admin.ch/eli/fga/2008/1556),[2011 4473](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6149](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^75b-1]: Accepté en [votation populaire du 11 mars 2012](http://www.bk.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012; [RO 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [FF 2008 1003](https://fedlex.data.admin.ch/eli/fga/2008/235)[7891](https://fedlex.data.admin.ch/eli/fga/2008/1556),[2011 4473](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6149](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 [^75b-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 76
@@ -1043,7 +1043,7 @@ La Confédération peut, dans l’intérêt du pays ou d’une grande partie de 
 
 <sup>2</sup> Les prix payés par les usagers des transports publics couvrent une part appropriée des coûts.
 
-[^81a-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^81a-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 82
 
@@ -1063,7 +1063,7 @@ La Confédération peut, dans l’intérêt du pays ou d’une grande partie de 
 
 <sup>2</sup> La Confédération assure la création d’un réseau de routes nationales et veille à ce qu’il soit utilisable. Elle construit, entretient et exploite les routes nationales. Elle en supporte les coûts. Elle peut confier ces tâches en partie ou en totalité à des organismes publics, privés ou mixtes.
 
-[^83-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^83-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 84
 
@@ -1088,7 +1088,7 @@ La Confédération peut, dans l’intérêt du pays ou d’une grande partie de 
 <sup>3</sup> Les cantons reçoivent une part du produit net de cette redevance. Lors du calcul de ces parts, les conséquences particulières du prélèvement de la redevance pour les régions de montagne et les régions périphériques doivent être prises en considération.
 
 [^85-1]: <sup>\*</sup> avec disposition transitoire
-[^85-2]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^85-2]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 85a
 
@@ -1096,7 +1096,7 @@ La Confédération peut, dans l’intérêt du pays ou d’une grande partie de 
 
 La Confédération prélève une redevance pour l’utilisation des routes nationales par les véhicules automobiles et les remorques qui ne sont pas soumis à la redevance sur la circulation des poids lourds.
 
-[^85a-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^85a-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 86
 
@@ -1133,7 +1133,7 @@ Un financement spécial est géré pour les tâches et les dépenses suivantes, 
 
 <sup>5</sup> Si le besoin est avéré dans le financement spécial et en vue de constituer une provision appropriée dans le cadre de ce financement, les revenus de l’impôt à la consommation selon l’art. 131, al. 1, let. d, sont à imputer sur le financement spécial au lieu d’être affectés au fonds.
 
-[^86-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018, sauf l’al. 2 let. g et l’al. 3 let. g, en vigueur depuis le 1<sup>er</sup> janv. 2020 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^86-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018, sauf l’al. 2 let. g et l’al. 3 let. g, en vigueur depuis le 1<sup>er</sup> janv. 2020 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 [^86-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 87
@@ -1142,7 +1142,7 @@ Un financement spécial est géré pour les tâches et les dépenses suivantes, 
 
 La législation sur le transport ferroviaire, les téléphériques, la navigation, l’aviation et la navigation spatiale relève de la compétence de la Confédération.
 
-[^87-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^87-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 [^87-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 87a
@@ -1164,7 +1164,7 @@ Le financement de l’infrastructure ferroviaire est assuré par un fonds. Celui
 
 <sup>4</sup> La loi peut prévoir un financement complémentaire provenant de tiers.
 
-[^87a-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^87a-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^87a-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 87b
@@ -1177,7 +1177,7 @@ La moitié du produit net de l’impôt à la consommation sur les carburants d�
 - b. contributions aux mesures de sûreté destinées à protéger le trafic aérien contre les infractions, notamment les attentats terroristes et les détournements d’avions, pour autant que ces mesures ne relèvent pas des pouvoirs publics;
 - c. contributions aux mesures visant à promouvoir un niveau élevé de sécurité technique dans le trafic aérien.
 
-[^87b-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^87b-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 88
 
@@ -1189,7 +1189,7 @@ La moitié du produit net de l’impôt à la consommation sur les carburants d�
 
 <sup>3</sup> Elle prend ces réseaux en considération dans l’accomplissement de ses tâches. Elle remplace les chemins et sentiers pédestres et les voies cyclables qu’elle doit supprimer.
 
-[^88-1]: Accepté en [votation populaire du 23 sept. 2018](http://www.admin.ch/ch/f/pore/va/20180923/index.html), en vigueur depuis le 23 sept. 2018 (AF du 13 mars 2018, ACF du 21 janv. 2019; [RO 2019 525](https://fedlex.data.admin.ch/eli/oc/2019/91); [FF 2016 1631](https://fedlex.data.admin.ch/eli/fga/2016/385), [2017 5547](https://fedlex.data.admin.ch/eli/fga/2017/1639), [2018 1849](https://fedlex.data.admin.ch/eli/fga/2018/685), [2019 1291](https://fedlex.data.admin.ch/eli/fga/2019/279)).
+[^88-1]: Accepté en [votation populaire du 23 sept. 2018](http://www.bk.admin.ch/ch/f/pore/va/20180923/index.html), en vigueur depuis le 23 sept. 2018 (AF du 13 mars 2018, ACF du 21 janv. 2019; [RO 2019 525](https://fedlex.data.admin.ch/eli/oc/2019/91); [FF 2016 1631](https://fedlex.data.admin.ch/eli/fga/2016/385), [2017 5547](https://fedlex.data.admin.ch/eli/fga/2017/1639), [2018 1849](https://fedlex.data.admin.ch/eli/fga/2018/685), [2019 1291](https://fedlex.data.admin.ch/eli/fga/2019/279)).
 
 ### Section 6 Énergie et communications
 
@@ -1277,7 +1277,7 @@ En vue de protéger l’économie, la propriété privée et les actionnaires et
 - d. toute violation des dispositions prévues aux let. a à c sera sanctionnée d’une peine privative de liberté de trois ans au plus et d’une peine pécuniaire pouvant atteindre six rémunérations annuelles.[^95-2]
 
 [^95-1]: <sup>\*</sup> avec disposition transitoire
-[^95-2]: Accepté en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 3 mars 2013 (ACF du 15 nov. 2012 et du 30 avr. 2013; [RO 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [FF 2006 8319](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2325](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 265](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 8503](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 2759](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+[^95-2]: Accepté en [votation populaire du 3 mars 2013](http://www.bk.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 3 mars 2013 (ACF du 15 nov. 2012 et du 30 avr. 2013; [RO 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [FF 2006 8319](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2325](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 265](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 8503](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 2759](https://fedlex.data.admin.ch/eli/fga/2013/646)).
 
 #### Art. 96
 
@@ -1405,7 +1405,7 @@ En vue d’assurer l’approvisionnement de la population en denrées alimentair
 - d. des relations commerciales transfrontalières qui contribuent au développement durable de l’agriculture et du secteur agroalimentaire;
 - e. une utilisation des denrées alimentaires qui préserve les ressources.
 
-[^104a-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 24 sept. 2017 (AF du 14 mars 2017, ACF du 30 nov. 2017; [RO 2017 6735](https://fedlex.data.admin.ch/eli/oc/2017/752); [FF 2014 5919](https://fedlex.data.admin.ch/eli/fga/2014/1287), [2015 5273](https://fedlex.data.admin.ch/eli/fga/2015/1320), [2017 2321](https://fedlex.data.admin.ch/eli/fga/2017/484)[7399](https://fedlex.data.admin.ch/eli/fga/2017/2279)).
+[^104a-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 24 sept. 2017 (AF du 14 mars 2017, ACF du 30 nov. 2017; [RO 2017 6735](https://fedlex.data.admin.ch/eli/oc/2017/752); [FF 2014 5919](https://fedlex.data.admin.ch/eli/fga/2014/1287), [2015 5273](https://fedlex.data.admin.ch/eli/fga/2015/1320), [2017 2321](https://fedlex.data.admin.ch/eli/fga/2017/484)[7399](https://fedlex.data.admin.ch/eli/fga/2017/2279)).
 
 #### Art. 105
 
@@ -1437,7 +1437,7 @@ L’autorisation et la surveillance des jeux d’argent suivants sont du ressort
 
 <sup>7</sup> La Confédération et les cantons coordonnent leurs efforts dans l’accomplissement de leurs tâches. La loi institue à cet effet un organe commun composé à parts égales de membres des autorités d’exécution de la Confédération et de membres des autorités d’exécution des cantons.
 
-[^106-1]: Accepté en [votation populaire du 11 mars 2012](http://www.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 11 mars 2012 (AF du 29 sept. 2011, ACF du 20 juin 2012; [RO 2012 3629](https://fedlex.data.admin.ch/eli/oc/2012/417); [FF 2009 6357](https://fedlex.data.admin.ch/eli/fga/2009/1248), [2010 7255](https://fedlex.data.admin.ch/eli/fga/2010/1467), [2012 6149](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^106-1]: Accepté en [votation populaire du 11 mars 2012](http://www.bk.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 11 mars 2012 (AF du 29 sept. 2011, ACF du 20 juin 2012; [RO 2012 3629](https://fedlex.data.admin.ch/eli/oc/2012/417); [FF 2009 6357](https://fedlex.data.admin.ch/eli/fga/2009/1248), [2010 7255](https://fedlex.data.admin.ch/eli/fga/2010/1467), [2012 6149](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 #### Art. 107
 
@@ -1529,10 +1529,10 @@ L’assurance est financée:
 
 <sup>6</sup> …[^112-4]
 
-[^112-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-3]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-4]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-3]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-4]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112a
 
@@ -1542,7 +1542,7 @@ L’assurance est financée:
 
 <sup>2</sup> La loi fixe le montant des prestations complémentaires et définit les tâches et les compétences de la Confédération et des cantons.
 
-[^112a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112a-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112b
 
@@ -1554,7 +1554,7 @@ L’assurance est financée:
 
 <sup>3</sup> La loi fixe les objectifs, les principes et les critères d’intégration des invalides.
 
-[^112b-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112b-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112b-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 112c
@@ -1565,7 +1565,7 @@ L’assurance est financée:
 
 <sup>2</sup> La Confédération soutient les efforts déployés à l’échelle nationale en faveur des personnes âgées et des personnes handicapées. Elle peut utiliser à cette fin les ressources financières de l’assurance-vieillesse, survivants et invalidité.
 
-[^112c-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112c-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112c-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 113
@@ -1649,7 +1649,7 @@ La Confédération légifère:
 - a. sur la formation de base et la formation spécialisée dans le domaine des professions des soins médicaux de base et sur les conditions d’exercice de ces professions;
 - b. sur la rémunération appropriée des prestations de la médecine de famille.
 
-[^117a-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 18 mai 2014 (AF du 19 sept. 2013, ACF du 18 août 2014; [RO 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [FF 2010 2679](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 6953](https://fedlex.data.admin.ch/eli/fga/2011/1253), [2013 6571](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6121](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
+[^117a-1]: Accepté en [votation populaire du 18 mai 2014](http://www.bk.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 18 mai 2014 (AF du 19 sept. 2013, ACF du 18 août 2014; [RO 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [FF 2010 2679](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 6953](https://fedlex.data.admin.ch/eli/fga/2011/1253), [2013 6571](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6121](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
 
 #### Art. 117b
 
@@ -1659,7 +1659,7 @@ La Confédération légifère:
 
 <sup>2</sup> Ils garantissent qu’il y ait un nombre suffisant d’infirmiers diplômés pour couvrir les besoins croissants et que l’affectation des personnes exerçant dans le domaine des soins infirmiers corresponde à leur formation et à leurs compétences.
 
-[^117b-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 28 nov. 2021 (AF du 18 juin 2021, ACF du 11 avr. 2022; [RO 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 7314](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7633](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^117b-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.bk.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 28 nov. 2021 (AF du 18 juin 2021, ACF du 11 avr. 2022; [RO 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 7314](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7633](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 [^117b-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 118
@@ -1676,7 +1676,7 @@ Elle légifère sur:
 - b.[^118-1] la lutte contre les maladies transmissibles, les maladies très répandues et les maladies particulièrement dangereuses de l’être humain et des animaux; elle interdit notamment, pour les produits du tabac, toute forme de publicité qui atteint les enfants et les jeunes;[^118-2]\*
 - c. la protection contre les rayons ionisants.
 
-[^118-1]: Acceptée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 13 fév. 2022 (AF du 1<sup>er</sup> oct. 2021, ACF du 11 avr. 2022; [RO 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 6529](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6837](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^118-1]: Acceptée en [votation populaire du 13 fév. 2022](http://www.bk.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 13 fév. 2022 (AF du 1<sup>er</sup> oct. 2021, ACF du 11 avr. 2022; [RO 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 6529](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6837](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 [^118-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 118a
@@ -1685,7 +1685,7 @@ Elle légifère sur:
 
 La Confédération et les cantons pourvoient, dans les limites de leurs compétences respectives, à la prise en compte des médecines complémentaires.
 
-[^118a-1]: Accepté en [votation populaire du 17 mai 2009](http://www.admin.ch/ch/f/pore/va/20090517/index.html), en vigueur depuis le 17 mai 2009 (AF du 3 oct. 2008, ACF du 21 oct. 2009; [RO 2009 5325](https://fedlex.data.admin.ch/eli/oc/2009/633); [FF 2005 5631](https://fedlex.data.admin.ch/eli/fga/2005/966), [2006 7191](https://fedlex.data.admin.ch/eli/fga/2006/947), [2008 7469](https://fedlex.data.admin.ch/eli/fga/2008/1400), [2009 6833](https://fedlex.data.admin.ch/eli/fga/2009/1326)).
+[^118a-1]: Accepté en [votation populaire du 17 mai 2009](http://www.bk.admin.ch/ch/f/pore/va/20090517/index.html), en vigueur depuis le 17 mai 2009 (AF du 3 oct. 2008, ACF du 21 oct. 2009; [RO 2009 5325](https://fedlex.data.admin.ch/eli/oc/2009/633); [FF 2005 5631](https://fedlex.data.admin.ch/eli/fga/2005/966), [2006 7191](https://fedlex.data.admin.ch/eli/fga/2006/947), [2008 7469](https://fedlex.data.admin.ch/eli/fga/2008/1400), [2009 6833](https://fedlex.data.admin.ch/eli/fga/2009/1326)).
 
 #### Art. 118b
 
@@ -1702,7 +1702,7 @@ Elle respecte les principes suivants en matière de recherche en biologie et en 
 - c. un projet de recherche ne peut être réalisé sur des personnes incapables de discernement que si des résultats équivalents ne peuvent être obtenus chez des personnes capables de discernement; lorsque le projet de recherche ne permet pas d’escompter un bénéfice direct pour les personnes incapables de discernement, les risques et les contraintes doivent être minimaux;
 - d. une expertise indépendante du projet de recherche doit avoir établi que la protection des personnes participant à ce projet est garantie.
 
-[^118b-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 7 mars 2010 (AF du 25 sept. 2009, ACF du 15 avr. 2010; [RO 2010 1569](https://fedlex.data.admin.ch/eli/oc/2010/224); [FF 2007 6345](https://fedlex.data.admin.ch/eli/fga/2007/1025), [2009 6005](https://fedlex.data.admin.ch/eli/fga/2009/1171), [2010 2397](https://fedlex.data.admin.ch/eli/fga/2010/455)).
+[^118b-1]: Accepté en [votation populaire du 7 mars 2010](http://www.bk.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 7 mars 2010 (AF du 25 sept. 2009, ACF du 15 avr. 2010; [RO 2010 1569](https://fedlex.data.admin.ch/eli/oc/2010/224); [FF 2007 6345](https://fedlex.data.admin.ch/eli/fga/2007/1025), [2009 6005](https://fedlex.data.admin.ch/eli/fga/2009/1171), [2010 2397](https://fedlex.data.admin.ch/eli/fga/2010/455)).
 
 #### Art. 119
 
@@ -1722,7 +1722,7 @@ La Confédération légifère sur l’utilisation du patrimoine germinal et gén
 - f. le patrimoine génétique d’une personne ne peut être analysé, enregistré et communiqué qu’avec le consentement de celle-ci ou en vertu d’une loi;
 - g. toute personne a accès aux données relatives à son ascendance.
 
-[^119-1]: Accepté en [votation populaire du 14 juin 2015](http://www.admin.ch/ch/f/pore/va/20150614/index.html), en vigueur depuis le 14 juin 2015 (AF du 12 déc. 2014, ACF du 21 août 2015; [RO 2015 2887](https://fedlex.data.admin.ch/eli/oc/2015/541); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075), [2014 9451](https://fedlex.data.admin.ch/eli/fga/2014/2098), [2015 5777](https://fedlex.data.admin.ch/eli/fga/2015/1509)).
+[^119-1]: Accepté en [votation populaire du 14 juin 2015](http://www.bk.admin.ch/ch/f/pore/va/20150614/index.html), en vigueur depuis le 14 juin 2015 (AF du 12 déc. 2014, ACF du 21 août 2015; [RO 2015 2887](https://fedlex.data.admin.ch/eli/oc/2015/541); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075), [2014 9451](https://fedlex.data.admin.ch/eli/fga/2014/2098), [2015 5777](https://fedlex.data.admin.ch/eli/fga/2015/1509)).
 
 #### Art. 119a
 
@@ -1734,7 +1734,7 @@ La Confédération légifère sur l’utilisation du patrimoine germinal et gén
 
 <sup>3</sup> Le don d’organes, de tissus et de cellules humains est gratuit. Le commerce d’organes humains est interdit.
 
-[^119a-1]: Accepté en [votation populaire du 7 fév. 1999](http://www.admin.ch/ch/f/pore/va/19990207/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 26 juin 1998, ACF du 23 mars 1999; [RO 1999 1341](https://fedlex.data.admin.ch/eli/oc/1999/186); [FF 1997 III 613](https://fedlex.data.admin.ch/eli/fga/1997/3_653_613_557), **1998** 3059, **1999** 2675 [7967](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^119a-1]: Accepté en [votation populaire du 7 fév. 1999](http://www.bk.admin.ch/ch/f/pore/va/19990207/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 26 juin 1998, ACF du 23 mars 1999; [RO 1999 1341](https://fedlex.data.admin.ch/eli/oc/1999/186); [FF 1997 III 613](https://fedlex.data.admin.ch/eli/fga/1997/3_653_613_557), **1998** 3059, **1999** 2675 [7967](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
 
 #### Art. 120
 
@@ -1770,11 +1770,11 @@ Ils sont privés de leur titre de séjour, indépendamment de leur statut, et de
 <sup>6</sup> Les étrangers qui contreviennent à l’interdiction d’entrer sur le territoire ou qui y entrent illégalement de quelque manière que ce soit sont punissables. Le législateur édicte les dispositions correspondantes.[^121-6]
 
 [^121-1]: <sup>\*</sup> avec disposition transitoire
-[^121-2]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 9 fév. 2014 (AF du 27 sept. 2013, ACF du 13 mai 2014; RO**2014**1391;[FF 2011 5845](https://fedlex.data.admin.ch/eli/fga/2011/924)**,** [2012 3611](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 279](https://fedlex.data.admin.ch/eli/fga/2013/50)[6575](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
-[^121-3]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-4]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-5]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-6]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-2]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 9 fév. 2014 (AF du 27 sept. 2013, ACF du 13 mai 2014; RO**2014**1391;[FF 2011 5845](https://fedlex.data.admin.ch/eli/fga/2011/924)**,** [2012 3611](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 279](https://fedlex.data.admin.ch/eli/fga/2013/50)[6575](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121-3]: Accepté en [votation populaire du 28 nov. 2010](http://www.bk.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-4]: Accepté en [votation populaire du 28 nov. 2010](http://www.bk.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-5]: Accepté en [votation populaire du 28 nov. 2010](http://www.bk.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-6]: Accepté en [votation populaire du 28 nov. 2010](http://www.bk.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
 
 #### Art. 121a
 
@@ -1790,7 +1790,7 @@ Ils sont privés de leur titre de séjour, indépendamment de leur statut, et de
 
 <sup>5</sup> La loi règle les modalités.
 
-[^121a-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 9 fév. 2014 (AF du 27 sept. 2013, ACF du 13 mai 2014; RO**2014**1391;[FF 2011 5845](https://fedlex.data.admin.ch/eli/fga/2011/924)**,** [2012 3611](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 279](https://fedlex.data.admin.ch/eli/fga/2013/50)[6575](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121a-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 9 fév. 2014 (AF du 27 sept. 2013, ACF du 13 mai 2014; RO**2014**1391;[FF 2011 5845](https://fedlex.data.admin.ch/eli/fga/2011/924)**,** [2012 3611](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 279](https://fedlex.data.admin.ch/eli/fga/2013/50)[6575](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^121a-2]: <sup>\*</sup> avec disposition transitoire
 
 ### Section 10 Droit civil, droit pénal, métrologie
@@ -1803,7 +1803,7 @@ Ils sont privés de leur titre de séjour, indépendamment de leur statut, et de
 
 <sup>2</sup> L’organisation judiciaire et l’administration de la justice en matière de droit civil sont du ressort des cantons, sauf disposition contraire de la loi.
 
-[^122-1]: Accepté en [votation populaire du 12 mars 2000](http://www.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^122-1]: Accepté en [votation populaire du 12 mars 2000](http://www.bk.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 123
 
@@ -1821,8 +1821,8 @@ La Confédération peut légiférer sur l’exécution des peines et des mesures
 - b. pour l’amélioration de l’exécution des peines et des mesures;
 - c. pour le soutien des institutions où sont exécutées les mesures éducatives destinées aux enfants, aux adolescents ou aux jeunes adultes.[^123-2]
 
-[^123-1]: Accepté en [votation populaire du 12 mars 2000](http://www.admin.ch/ch/f/pore/va/20000312/index.html)et en vigueur depuis le 1<sup>er</sup> avr. 2003 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 24 sept. 2002; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^123-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^123-1]: Accepté en [votation populaire du 12 mars 2000](http://www.bk.admin.ch/ch/f/pore/va/20000312/index.html)et en vigueur depuis le 1<sup>er</sup> avr. 2003 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 24 sept. 2002; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^123-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 123a
 
@@ -1834,7 +1834,7 @@ La Confédération peut légiférer sur l’exécution des peines et des mesures
 
 <sup>3</sup> Toute expertise concernant le délinquant est établie par au moins deux experts indépendants qui prennent en considération tous les éléments pertinents.
 
-[^123a-1]: Accepté en [votation populaire du 8 fév. 2004](http://www.admin.ch/ch/f/pore/va/20040208/index.html), en vigueur depuis le 8 fév. 2004 (AF du 20 juin 2003, ACF du 21 avr. 2004; [RO 2004 2341](https://fedlex.data.admin.ch/eli/oc/2004/272); [FF 2000 3124](https://fedlex.data.admin.ch/eli/fga/2000/693), [2001 3265](https://fedlex.data.admin.ch/eli/fga/2001/638), [2003 3979](https://fedlex.data.admin.ch/eli/fga/2003/678), [2004 2045](https://fedlex.data.admin.ch/eli/fga/2004/404)).
+[^123a-1]: Accepté en [votation populaire du 8 fév. 2004](http://www.bk.admin.ch/ch/f/pore/va/20040208/index.html), en vigueur depuis le 8 fév. 2004 (AF du 20 juin 2003, ACF du 21 avr. 2004; [RO 2004 2341](https://fedlex.data.admin.ch/eli/oc/2004/272); [FF 2000 3124](https://fedlex.data.admin.ch/eli/fga/2000/693), [2001 3265](https://fedlex.data.admin.ch/eli/fga/2001/638), [2003 3979](https://fedlex.data.admin.ch/eli/fga/2003/678), [2004 2045](https://fedlex.data.admin.ch/eli/fga/2004/404)).
 
 #### Art. 123b
 
@@ -1842,7 +1842,7 @@ La Confédération peut légiférer sur l’exécution des peines et des mesures
 
 L’action pénale et la peine pour un acte punissable d’ordre sexuel ou pornographique sur un enfant impubère sont imprescriptibles.
 
-[^123b-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008 (AF du 13 juin 2008, ACF du 23 janv. 2009; [RO 2009 471](https://fedlex.data.admin.ch/eli/oc/2009/82); [FF 2006 3529](https://fedlex.data.admin.ch/eli/fga/2006/386), [2007 5099](https://fedlex.data.admin.ch/eli/fga/2007/758), [2008 4749](https://fedlex.data.admin.ch/eli/fga/2008/935), [2009 499](https://fedlex.data.admin.ch/eli/fga/2009/121)).
+[^123b-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.bk.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008 (AF du 13 juin 2008, ACF du 23 janv. 2009; [RO 2009 471](https://fedlex.data.admin.ch/eli/oc/2009/82); [FF 2006 3529](https://fedlex.data.admin.ch/eli/fga/2006/386), [2007 5099](https://fedlex.data.admin.ch/eli/fga/2007/758), [2008 4749](https://fedlex.data.admin.ch/eli/fga/2008/935), [2009 499](https://fedlex.data.admin.ch/eli/fga/2009/121)).
 
 #### Art. 123c
 
@@ -1850,7 +1850,7 @@ L’action pénale et la peine pour un acte punissable d’ordre sexuel ou porno
 
 Quiconque est condamné pour avoir porté atteinte à l’intégrité sexuelle d’un enfant ou d’une personne dépendante est définitivement privé du droit d’exercer une activité professionnelle ou bénévole en contact avec des mineurs ou des personnes dépendantes.
 
-[^123c-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 18 mai 2014 (ACF du 20 fév. 2014; [RO 2014 2771](https://fedlex.data.admin.ch/eli/oc/2014/477); [FF 2009 6359](https://fedlex.data.admin.ch/eli/fga/2009/1249), [2011 4125](https://fedlex.data.admin.ch/eli/fga/2011/670), [2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575), [2014 6121](https://fedlex.data.admin.ch/eli/fga/2014/1415)[1699](https://fedlex.data.admin.ch/eli/fga/2014/304)).
+[^123c-1]: Accepté en [votation populaire du 18 mai 2014](http://www.bk.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 18 mai 2014 (ACF du 20 fév. 2014; [RO 2014 2771](https://fedlex.data.admin.ch/eli/oc/2014/477); [FF 2009 6359](https://fedlex.data.admin.ch/eli/fga/2009/1249), [2011 4125](https://fedlex.data.admin.ch/eli/fga/2011/670), [2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575), [2014 6121](https://fedlex.data.admin.ch/eli/fga/2014/1415)[1699](https://fedlex.data.admin.ch/eli/fga/2014/304)).
 
 #### Art. 124
 
@@ -1880,7 +1880,7 @@ La législation sur la métrologie relève de la compétence de la Confédérati
 
 <sup>5</sup> La loi règle les modalités.
 
-[^126-1]: Accepté en [votation populaire du 2 déc. 2001](http://www.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; [RO 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [FF 2000 4295](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2255](https://fedlex.data.admin.ch/eli/fga/2001/510)[2741](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1156](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^126-1]: Accepté en [votation populaire du 2 déc. 2001](http://www.bk.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; [RO 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [FF 2000 4295](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2255](https://fedlex.data.admin.ch/eli/fga/2001/510)[2741](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1156](https://fedlex.data.admin.ch/eli/fga/2002/150)).
 
 #### Art. 127
 
@@ -1890,7 +1890,11 @@ La législation sur la métrologie relève de la compétence de la Confédérati
 
 <sup>2</sup> Dans la mesure où la nature de l’impôt le permet, les principes de l’universalité, de l’égalité de traitement et de la capacité économique doivent, en particulier, être respectés.
 
+<sup>2bis</sup> Lors de la perception de l’impôt immobilier sur les résidences secondaires essentiellement à usage personnel, les cantons peuvent déroger aux principes visés à l’al. 2 dans les limites prévues par la législation fédérale et pour autant que la valeur locative des résidences secondaires à usage personnel ne soit pas imposée par la Confédération et les cantons.[^127-1]
+
 <sup>3</sup> La double imposition par les cantons est interdite. La Confédération prend les mesures nécessaires.
+
+[^127-1]: Accepté en [votation populaire du 28 sept. 2025](http://www.bk.admin.ch/ch/f/pore/va/20250928/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2029 (AF du 20 déc. 2024, ACF du 30 avr. 2026, ACF du 1<sup>er</sup> avr. 2026; [RO 2026 212](https://fedlex.data.admin.ch/eli/oc/2026/212); [FF 2024 1773](https://fedlex.data.admin.ch/eli/fga/2024/1773), [2101](https://fedlex.data.admin.ch/eli/fga/2024/2101); [2025 17](https://fedlex.data.admin.ch/eli/fga/2025/17); [2026 1165](https://fedlex.data.admin.ch/eli/fga/2026/1165)).
 
 #### Art. 128
 
@@ -1911,9 +1915,9 @@ La Confédération peut percevoir des impôts directs:
 <sup>4</sup> Les cantons effectuent la taxation et la perception. Au moins 17 % du produit brut de l’impôt leur sont attribués. Cette part peut être réduite jusqu’à 15 % pour autant que les effets de la péréquation financière l’exigent.[^128-4]
 
 [^128-1]: <sup>\*</sup> avec disposition transitoire
-[^128-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^128-3]: Abrogé en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^128-4]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-2]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-3]: Abrogé en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-4]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 129
 
@@ -1942,7 +1946,7 @@ Pour préserver les intérêts de l’économie suisse, elle peut déroger:
 - c. aux dispositions sur l’exécution énoncées à l’art. 128, al. 4, 1<sup>re</sup> phrase;
 - d. aux exceptions à l’harmonisation fiscale prévues à l’art. 129, al. 2, 2<sup>e</sup> phrase.
 
-[^129a-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 16 déc. 2022, ACF du 12 avr. 2023, ACF du 28 août 2023; [RO 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+[^129a-1]: Accepté en [votation populaire du 18 juin 2023](http://www.bk.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 16 déc. 2022, ACF du 12 avr. 2023, ACF du 28 août 2023; [RO 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
 
 #### Art. 130
 
@@ -1962,13 +1966,13 @@ Pour préserver les intérêts de l’économie suisse, elle peut déroger:
 
 <sup>4</sup> 5 % du produit non affecté de la taxe sont employés à la réduction des primes de l’assurance-maladie en faveur des classes de revenus inférieures, à moins que la loi n’attribue ce montant à une autre utilisation en faveur de ces classes.
 
-[^130-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^130-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^130-2]: <sup>\*</sup> avec disposition transitoire
 [^130-3]: Depuis le 1<sup>er</sup> janv. 2024, l’impôt grevant les prestations du secteur de l’hébergement est fixé à 3,8 % (art. 25 al. 4 de la LF du 12 juin 2009 sur la TVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
 [^130-4]: Depuis le 1<sup>er</sup> janv. 2024, le taux normal de la taxe sur la valeur ajoutée est fixé à 8,1 % et le taux réduit à 2,6 % (art. 25 al. 1 et 2 de la LF du 12 juin 2009 sur la TVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
-[^130-5]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
-[^130-6]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 17 déc. 2021, ACF du 9 déc. 2022, ACF du 20 fév. 2023; [RO 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
-[^130-7]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 17 déc. 2021, ACF du 9 déc. 2022, ACF du 20 fév. 2023; [RO 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
+[^130-5]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-6]: Accepté en [votation populaire du 25 sept. 2022](http://www.bk.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 17 déc. 2021, ACF du 9 déc. 2022, ACF du 20 fév. 2023; [RO 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
+[^130-7]: Accepté en [votation populaire du 25 sept. 2022](http://www.bk.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 17 déc. 2021, ACF du 9 déc. 2022, ACF du 20 fév. 2023; [RO 2023 91](https://fedlex.data.admin.ch/eli/oc/2023/91); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267); [2021 2991](https://fedlex.data.admin.ch/eli/fga/2021/2991); [2023 486](https://fedlex.data.admin.ch/eli/fga/2023/486)).
 
 #### Art. 131
 
@@ -1996,8 +2000,8 @@ Elle peut en outre percevoir:
 <sup>3</sup> Un dixième du produit net de l’impôt sur les boissons distillées est versé aux cantons. Ils utilisent ces fonds pour combattre les causes et les effets de l’abus de substances engendrant la dépendance.
 
 [^131-1]: <sup>\*</sup> avec disposition transitoire
-[^131-2]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^131-3]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^131-2]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^131-3]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 132
 
@@ -2007,7 +2011,7 @@ Elle peut en outre percevoir:
 
 <sup>2</sup> La Confédération peut percevoir un impôt anticipé sur les revenus des capitaux mobiliers, sur les gains de loterie et sur les prestations d’assurance. Dix pour cent du produit de l’impôt anticipé est attribué aux cantons.[^132-1]
 
-[^132-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^132-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 133
 
@@ -2039,7 +2043,7 @@ La péréquation financière et la compensation des charges ont notamment pour b
 
 <sup>3</sup> La péréquation des ressources est financée par les cantons à fort potentiel de ressources et par la Confédération. Les prestations des cantons à fort potentiel de ressources équivalent au minimum à deux tiers et au maximum à 80 % de la part de la Confédération.
 
-[^135-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^135-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ## Titre 4 Peuple et cantons
 
@@ -2069,7 +2073,7 @@ Les partis politiques contribuent à former l’opinion et la volonté populaire
 
 <sup>2</sup> Cette proposition est soumise au vote du peuple.
 
-[^138-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^138-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 139
 
@@ -2085,13 +2089,13 @@ Les partis politiques contribuent à former l’opinion et la volonté populaire
 
 <sup>5</sup> Toute initiative revêtant la forme d’un projet rédigé est soumise au vote du peuple et des cantons. L’Assemblée fédérale en recommande l’acceptation ou le rejet. Elle peut lui opposer un contre-projet.
 
-[^139-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^139-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 139a
 
 [^139a-1]
 
-[^139a-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html)(AF du 4 oct. 2002, ACF du 25 mars 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abrogé en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Cet art., dans la teneur de l’AF du 4 oct. 2002, n’est jamais entré en vigueur.
+[^139a-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html)(AF du 4 oct. 2002, ACF du 25 mars 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abrogé en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Cet art., dans la teneur de l’AF du 4 oct. 2002, n’est jamais entré en vigueur.
 
 #### Art. 139b
 
@@ -2103,8 +2107,8 @@ Les partis politiques contribuent à former l’opinion et la volonté populaire
 
 <sup>3</sup> S’agissant des modifications constitutionnelles qui ont été approuvées, si, en réponse à la question subsidiaire, l’un des projets obtient la majorité des voix des votants, et l’autre la majorité des voix des cantons, le projet qui entre en vigueur est celui qui, en réponse à la question subsidiaire, a enregistré la plus forte somme des pourcentages des voix des votants et des voix des cantons.
 
-[^139b-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur pour les al. 2 et 3 depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)). L’al. 1, dans la teneur de l’AF du 4 oct. 2002, n’est jamais entré en vigueur.
-[^139b-2]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^139b-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur pour les al. 2 et 3 depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)). L’al. 1, dans la teneur de l’AF du 4 oct. 2002, n’est jamais entré en vigueur.
+[^139b-2]: Accepté en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 140
 
@@ -2127,8 +2131,8 @@ Sont soumis au vote du peuple:
 - b.[^140-2] les initiatives populaires conçues en termes généraux qui tendent à la révision partielle de la Constitution et qui ont été rejetées par l’Assemblée fédérale;
 - c. le principe d’une révision totale de la Constitution, en cas de désaccord entre les deux conseils.
 
-[^140-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html)(AF du 4 oct. 2002, ACF du 25 mars 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abrogé en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Cette let., dans la teneur de l’AF du 4 oct. 2002, n’est jamais entrée en vigueur.
-[^140-2]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^140-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html)(AF du 4 oct. 2002, ACF du 25 mars 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abrogé en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Cette let., dans la teneur de l’AF du 4 oct. 2002, n’est jamais entrée en vigueur.
+[^140-2]: Accepté en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 141
 
@@ -2151,9 +2155,9 @@ Si 50 000 citoyens et citoyennes ayant le droit de vote ou huit cantons le deman
 
 <sup>2</sup> …[^141-3]
 
-[^141-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
-[^141-2]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
-[^141-3]: Abrogé en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html), avec effet au 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-2]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-3]: Abrogé en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html), avec effet au 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 141a
 
@@ -2163,7 +2167,7 @@ Si 50 000 citoyens et citoyennes ayant le droit de vote ou huit cantons le deman
 
 <sup>2</sup> Lorsque l’arrêté portant approbation d’un traité international est sujet au référendum, l’Assemblée fédérale peut y intégrer les modifications de lois liées à la mise en œuvre du traité.
 
-[^141a-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)).
+[^141a-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)).
 
 #### Art. 142
 
@@ -2306,9 +2310,9 @@ La loi prévoit de garantir, en cas de divergences entre les deux conseils, qu�
 - c.[^156-2] la mise en œuvre d’un arrêté fédéral approuvé par le peuple et visant une révision totale de la Constitution;
 - d. le budget ou ses suppléments.[^156-3]
 
-[^156-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^156-2]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^156-3]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur pour les let. a et d depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^156-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-2]: Accepté en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-3]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html), en vigueur pour les let. a et d depuis le 1<sup>er</sup> août 2003 (AF du 4 oct. 2002, ACF du 25 mars 2003, AF du 19 juin 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)[3518](https://fedlex.data.admin.ch/eli/fga/2003/586)[3525](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 157
 
@@ -2348,8 +2352,8 @@ Doivent cependant être adoptés à la majorité des membres de chaque conseil:
 
 <sup>4</sup> L’Assemblée fédérale peut adapter les montants visés à l’al. 3, let. b, au renchérissement par une ordonnance.[^159-2]
 
-[^159-1]: Accepté en [votation populaire du 2 déc. 2001](http://www.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; [RO 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [FF 2000 4295](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2255](https://fedlex.data.admin.ch/eli/fga/2001/510)[2741](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1156](https://fedlex.data.admin.ch/eli/fga/2002/150)).
-[^159-2]: Accepté en [votation populaire du 2 déc. 2001](http://www.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; [RO 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [FF 2000 4295](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2255](https://fedlex.data.admin.ch/eli/fga/2001/510)[2741](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1156](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^159-1]: Accepté en [votation populaire du 2 déc. 2001](http://www.bk.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; [RO 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [FF 2000 4295](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2255](https://fedlex.data.admin.ch/eli/fga/2001/510)[2741](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1156](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^159-2]: Accepté en [votation populaire du 2 déc. 2001](http://www.bk.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 2 déc. 2001 (AF du 22 juin 2001, ACF du 4 fév. 2002; [RO 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [FF 2000 4295](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2255](https://fedlex.data.admin.ch/eli/fga/2001/510)[2741](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1156](https://fedlex.data.admin.ch/eli/fga/2002/150)).
 
 #### Art. 160
 
@@ -2512,8 +2516,8 @@ Le Conseil fédéral est l’autorité directoriale et exécutive suprême de la
 
 <sup>4</sup> Les diverses régions et les communautés linguistiques doivent être équitablement représentées au Conseil fédéral.[^175-2]
 
-[^175-1]: Accepté en [votation populaire du 7 fév. 1999](http://www.admin.ch/ch/f/pore/va/19990207/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 9 oct. 1998, ACF du 2 mars 1999; [RO 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [FF 1993 IV 566](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), **1994** III 1358, **1998** 4198, **1999** 2278 [7967](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
-[^175-2]: Accepté en [votation populaire du 7 fév. 1999](http://www.admin.ch/ch/f/pore/va/19990207/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 9 oct. 1998, ACF du 2 mars 1999; [RO 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [FF 1993 IV 566](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), **1994** III 1358, **1998** 4198, **1999** 2278 [7967](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^175-1]: Accepté en [votation populaire du 7 fév. 1999](http://www.bk.admin.ch/ch/f/pore/va/19990207/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 9 oct. 1998, ACF du 2 mars 1999; [RO 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [FF 1993 IV 566](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), **1994** III 1358, **1998** 4198, **1999** 2278 [7967](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^175-2]: Accepté en [votation populaire du 7 fév. 1999](http://www.bk.admin.ch/ch/f/pore/va/19990207/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000 (AF du 9 oct. 1998, ACF du 2 mars 1999; [RO 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [FF 1993 IV 566](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), **1994** III 1358, **1998** 4198, **1999** 2278 [7967](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
 
 #### Art. 176
 
@@ -2636,7 +2640,7 @@ Le Conseil fédéral a en outre les tâches et les compétences suivantes:
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Accepté en [votation populaire du 12 mars 2000](http://www.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^tit5-chap4-1]: Accepté en [votation populaire du 12 mars 2000](http://www.bk.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 8 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 188
 
@@ -2671,7 +2675,7 @@ Le Tribunal fédéral connaît des contestations pour violation:
 
 <sup>4</sup> Les actes de l’Assemblée fédérale et du Conseil fédéral ne peuvent pas être portés devant le Tribunal fédéral. Les exceptions sont déterminées par la loi.
 
-[^189-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.admin.ch/ch/f/pore/va/20030209/index.html)(AF du 4 oct. 2002, ACF du 25 mars 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abrogé en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Cet al., dans la teneur de l’AF du 4 oct. 2002, n’est jamais entré en vigueur.
+[^189-1]: Accepté en [votation populaire du 9 fév. 2003](http://www.bk.admin.ch/ch/f/pore/va/20030209/index.html)(AF du 4 oct. 2002, ACF du 25 mars 2003; [RO 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4590](https://fedlex.data.admin.ch/eli/fga/2001/781)[5783](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6026](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2784](https://fedlex.data.admin.ch/eli/fga/2003/390)). Abrogé en [votation populaire du 27 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090927/index.html), avec effet au 27 sept. 2009 (AF du 19 déc. 2008, ACF du 1<sup>er</sup> déc. 2009; [RO 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [FF 2008 2549](https://fedlex.data.admin.ch/eli/fga/2008/642)[2565](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Cet al., dans la teneur de l’AF du 4 oct. 2002, n’est jamais entré en vigueur.
 
 #### Art. 190
 
@@ -2703,7 +2707,7 @@ Le Tribunal fédéral et les autres autorités sont tenus d’appliquer les lois
 
 <sup>3</sup> La loi peut instituer d’autres autorités judiciaires de la Confédération.
 
-[^191a-1]: Accepté en [votation populaire du 12 mars 2000](http://www.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur pour l’al. 1 depuis le 1<sup>er</sup> avr. 2003 et pour les al. 2 et 3 depuis le 1<sup>er</sup> sept. 2005 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 24 sept. 2002, AF du 2 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2005 1475](https://fedlex.data.admin.ch/eli/oc/2005/222); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731), [2004 4481](https://fedlex.data.admin.ch/eli/fga/2004/845)).
+[^191a-1]: Accepté en [votation populaire du 12 mars 2000](http://www.bk.admin.ch/ch/f/pore/va/20000312/index.html), en vigueur pour l’al. 1 depuis le 1<sup>er</sup> avr. 2003 et pour les al. 2 et 3 depuis le 1<sup>er</sup> sept. 2005 (AF du 8 oct. 1999, ACF du 17 mai 2000, AF du 24 sept. 2002, AF du 2 mars 2005; [RO 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2005 1475](https://fedlex.data.admin.ch/eli/oc/2005/222); [FF 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2814](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731), [2004 4481](https://fedlex.data.admin.ch/eli/fga/2004/845)).
 
 #### Art. 191b
 
@@ -2767,7 +2771,7 @@ La Constitution révisée totalement ou partiellement entre en vigueur dès que 
 
 ### Disposition transitoire ad art. 84 (Transit alpin)
 
-[^196-1]: Accepté en [votation populaire du 3 mars 2002](http://www.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 3 mars 2002 (AF du 5 oct. 2001, ACF du 26 avr. 2002; [RO 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [FF 2000 2346](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1117](https://fedlex.data.admin.ch/eli/fga/2001/230)[5473](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3452](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+[^196-1]: Accepté en [votation populaire du 3 mars 2002](http://www.bk.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 3 mars 2002 (AF du 5 oct. 2001, ACF du 26 avr. 2002; [RO 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [FF 2000 2346](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1117](https://fedlex.data.admin.ch/eli/fga/2001/230)[5473](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3452](https://fedlex.data.admin.ch/eli/fga/2002/523)).
 
 Le trafic de transit des marchandises doit avoir été transféré de la route au rail dans un délai de dix ans à compter de la date à laquelle a été adoptée l’initiative populaire pour la protection des régions alpines contre le trafic de transit.
 
@@ -2810,7 +2814,7 @@ Le trafic de transit des marchandises doit avoir été transféré de la route a
 
 [^196-subdivu3-1]
 
-[^196-subdivu3-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-1]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 <sup>1</sup> Les grands projets ferroviaires comprennent la nouvelle ligne ferroviaire à travers les Alpes (NLFA), RAIL 2000, le raccordement de la Suisse orientale et occidentale au réseau européen des trains à haute performance et l’amélioration, au moyen de mesures actives et passives, de la protection contre le bruit le long des voies ferrées.
 
@@ -2826,10 +2830,10 @@ Le trafic de transit des marchandises doit avoir été transféré de la route a
 
 <sup>5</sup> Le présent chiffre est applicable jusqu’à l’achèvement des travaux de construction et du financement (remboursement des avances) des grands projets ferroviaires mentionnés à l’al. 1.
 
-[^196-subdivu3-2]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-3]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-4]: Accepté en [votation populaire du 12 fév. 2017](http://www.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-5]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu3-2]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-3]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-4]: Accepté en [votation populaire du 12 fév. 2017](http://www.bk.admin.ch/ch/f/pore/va/20170212/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018 (AF du 18 fév. 2015, AF du 30 sept. 2016, ACF du 10 nov. 2016, ACF du 13 avr. 2017; [RO 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7371](https://fedlex.data.admin.ch/eli/fga/2016/1628)[8121](https://fedlex.data.admin.ch/eli/fga/2016/1957), [2017 3213](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-5]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 ### Disposition transitoire ad art. 90 (Énergie nucléaire)
 
@@ -2869,7 +2873,7 @@ Les cantons peuvent continuer pendant dix ans au moins,[^196-subdivu7-1] dès l�
 
 [^196-subdivu10-1]
 
-[^196-subdivu10-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu10-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ### Disposition transitoire ad art. 113 (Prévoyance professionnelle)
 
@@ -2885,7 +2889,7 @@ Les assurés qui font partie de la génération d’entrée et qui, pour cette r
 
 [^196-subdivu13-1]
 
-[^196-subdivu13-1]: Accepté en [votation populaire du 4 mars 2018](http://www.admin.ch/ch/f/pore/va/20180304/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2021 (AF du 16 juin 2017, ACF du 13 fév. 2019; [RO 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 6003](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3941](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2801](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu13-1]: Accepté en [votation populaire du 4 mars 2018](http://www.bk.admin.ch/ch/f/pore/va/20180304/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2021 (AF du 16 juin 2017, ACF du 13 fév. 2019; [RO 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 6003](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3941](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2801](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
 L’impôt fédéral direct peut être perçu jusqu’à la fin de 2035.
 
@@ -2893,8 +2897,8 @@ L’impôt fédéral direct peut être perçu jusqu’à la fin de 2035.
 
 [^196-subdivu14-1][^196-subdivu14-2]
 
-[^196-subdivu14-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^196-subdivu14-2]: Accepté en [votation populaire du 26 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; [RO 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [FF 2005 4377](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 4745](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 3893](https://fedlex.data.admin.ch/eli/fga/2009/772)[3899](https://fedlex.data.admin.ch/eli/fga/2009/774)[3901](https://fedlex.data.admin.ch/eli/fga/2009/775)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^196-subdivu14-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007 (AF du 19 mars 2004, ACF du 26 janv. 2005, ACF du 2 fév. 2006; [RO 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1388](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1245](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu14-2]: Accepté en [votation populaire du 26 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; [RO 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [FF 2005 4377](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 4745](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 3893](https://fedlex.data.admin.ch/eli/fga/2009/772)[3899](https://fedlex.data.admin.ch/eli/fga/2009/774)[3901](https://fedlex.data.admin.ch/eli/fga/2009/775)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 <sup>1</sup> La taxe sur la valeur ajoutée peut être perçue jusqu’à la fin de 2035.[^196-subdivu14-3]
 
@@ -2906,23 +2910,23 @@ L’impôt fédéral direct peut être perçu jusqu’à la fin de 2035.
 
 <sup>5</sup> Le produit du relèvement prévu à l’al. 4 est entièrement affecté au fonds visé à l’art. 87*a*.[^196-subdivu14-7]
 
-[^196-subdivu14-3]: Accepté en [votation populaire du 4 mars 2018](http://www.admin.ch/ch/f/pore/va/20180304/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2021 (AF du 16 juin 2017, ACF du 13 fév. 2019; [RO 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 6003](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3941](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2801](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
-[^196-subdivu14-4]: Accepté en [votation populaire du 26 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; [RO 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [FF 2005 4377](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 4745](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 3893](https://fedlex.data.admin.ch/eli/fga/2009/772)[3899](https://fedlex.data.admin.ch/eli/fga/2009/774)[3901](https://fedlex.data.admin.ch/eli/fga/2009/775)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^196-subdivu14-3]: Accepté en [votation populaire du 4 mars 2018](http://www.bk.admin.ch/ch/f/pore/va/20180304/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2021 (AF du 16 juin 2017, ACF du 13 fév. 2019; [RO 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 6003](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3941](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2801](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu14-4]: Accepté en [votation populaire du 26 sept. 2009](http://www.bk.admin.ch/ch/f/pore/va/20090926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011 (AF du 13 juin 2008 et du 12 juin 2009, ACF du 7 sept. 2010; [RO 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [FF 2005 4377](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 4745](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 3893](https://fedlex.data.admin.ch/eli/fga/2009/772)[3899](https://fedlex.data.admin.ch/eli/fga/2009/774)[3901](https://fedlex.data.admin.ch/eli/fga/2009/775)[7889](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 [^196-subdivu14-5]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
-[^196-subdivu14-6]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
-[^196-subdivu14-7]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu14-6]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu14-7]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2016 (AF du 20 juin 2013, ACF du 13 mai 2014, ACF du 2 juin 2014, ACF du 6 juin 2014; [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 6049](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4191](https://fedlex.data.admin.ch/eli/fga/2013/897)[5872](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)[3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 ### …
 
 [^196-subdivu15-1]
 
-[^196-subdivu15-1]: Abrogé par la [votation populaire du 4 mars 2018](http://www.admin.ch/ch/f/pore/va/20180304/index.html), avec effet au 1<sup>er</sup> janv. 2021 (AF du 16 juin 2017, ACF du 13 fév. 2019; [RO 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 6003](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3941](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2801](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu15-1]: Abrogé par la [votation populaire du 4 mars 2018](http://www.bk.admin.ch/ch/f/pore/va/20180304/index.html), avec effet au 1<sup>er</sup> janv. 2021 (AF du 16 juin 2017, ACF du 13 fév. 2019; [RO 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 6003](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3941](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2801](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
 ### …
 
 [^196-subdivu16-1]
 
-[^196-subdivu16-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu16-1]: Abrogé par la [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), avec effet au 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005, ACF du 7 nov. 2007; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 197
 
@@ -2930,7 +2934,7 @@ L’impôt fédéral direct peut être perçu jusqu’à la fin de 2035.
 
 ### Adhésion de la Suisse à l’ONU
 
-[^197-1]: L’art. 83 a une nouvelle teneur. Accepté en [votation populaire du 3 mars 2002](http://www.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 3 mars 2002 (AF du 5 oct. 2001, ACF du 26 avr. 2002; [RO 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [FF 2000 2346](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1117](https://fedlex.data.admin.ch/eli/fga/2001/230)[5473](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3452](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+[^197-1]: L’art. 83 a une nouvelle teneur. Accepté en [votation populaire du 3 mars 2002](http://www.bk.admin.ch/ch/f/pore/va/20020303/index.html), en vigueur depuis le 3 mars 2002 (AF du 5 oct. 2001, ACF du 26 avr. 2002; [RO 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [FF 2000 2346](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1117](https://fedlex.data.admin.ch/eli/fga/2001/230)[5473](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3452](https://fedlex.data.admin.ch/eli/fga/2002/523)).
 
 <sup>1</sup> La Suisse adhère à l’Organisation des Nations Unies (ONU).
 
@@ -2942,7 +2946,7 @@ L’impôt fédéral direct peut être perçu jusqu’à la fin de 2035.
 
 [^197-subdivu2-1]
 
-[^197-subdivu2-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu2-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Dès l’entrée en vigueur de l’arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons[^197-subdivu2-2], les cantons assument les prestations actuelles de l’assurance-invalidité en matière de formation scolaire spéciale (y compris l’éducation pédago-thérapeutique précoce selon l’art. 19 de la LF du 19 juin 1959 sur l’assurance-invalidité[^197-subdivu2-3]) jusqu’à ce qu’ils disposent de leur propre stratégie en faveur de la formation scolaire spéciale, qui doit être approuvée, mais au minimum pendant trois ans.
 
@@ -2960,7 +2964,7 @@ Les cantons achèvent le réseau des routes nationales classées dans l’arrêt
 
 [^197-subdivu4-1]
 
-[^197-subdivu4-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu4-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Dès l’entrée en vigueur de l’arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons[^197-subdivu4-2], les cantons assument les prestations actuelles de l’assurance-invalidité en matière d’institutions, d’ateliers et de homes jusqu’à ce qu’ils disposent de leur propre stratégie approuvée en faveur des invalides, stratégie comportant aussi l’octroi de contributions cantonales aux frais de construction et d’exploitation d’institutions accueillant des résidents hors canton, mais au minimum pendant trois ans.
 
@@ -2970,7 +2974,7 @@ Dès l’entrée en vigueur de l’arrêté fédéral du 3 octobre 2003 concerna
 
 [^197-subdivu5-1]
 
-[^197-subdivu5-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu5-1]: Accepté en [votation populaire du 28 nov. 2004](http://www.bk.admin.ch/ch/f/pore/va/20041128/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008 (AF du 3 oct. 2003, ACF du 26 janv. 2005; [RO 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2155](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6035](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 883](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Les cantons continuent de verser aux organisations d’aide et de soins à domicile les prestations destinées aux personnes âgées et aux personnes handicapées qui leur sont actuellement allouées en vertu de l’art. 101<sup>bis</sup> de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^197-subdivu5-2], jusqu’à ce qu’ils aient eux-mêmes mis en vigueur une réglementation en la matière.
 
@@ -2986,7 +2990,7 @@ Les cantons continuent de verser aux organisations d’aide et de soins à domic
 
 [^197-subdivu7-1]
 
-[^197-subdivu7-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005 (AF du 17 juin 2005, ACF du 19 janv. 2006; [RO 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [FF 2003 6327](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4629](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 3823](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 1037](https://fedlex.data.admin.ch/eli/fga/2006/111)).
+[^197-subdivu7-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.bk.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005 (AF du 17 juin 2005, ACF du 19 janv. 2006; [RO 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [FF 2003 6327](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4629](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 3823](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 1037](https://fedlex.data.admin.ch/eli/fga/2006/111)).
 
 L’agriculture suisse n’utilise pas d’organismes génétiquement modifiés durant les cinq ans qui suivent l’adoption de la présente disposition constitutionnelle. Ne pourront en particulier être importés ni mis en circulation:
 
@@ -2997,7 +3001,7 @@ L’agriculture suisse n’utilise pas d’organismes génétiquement modifiés 
 
 [^197-subdivu8-1]
 
-[^197-subdivu8-1]: Accepté en [votation populaire du 28 nov. 2010](http://www.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^197-subdivu8-1]: Accepté en [votation populaire du 28 nov. 2010](http://www.bk.admin.ch/ch/f/pore/va/20101128/index.html), en vigueur depuis le 28 nov. 2010 (AF du 18 juin 2010, ACF du 17 mai 2011; [RO 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [FF 2008 1745](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 4571](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 3853](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2593](https://fedlex.data.admin.ch/eli/fga/2011/395)).
 
 Dans les cinq années qui suivent l’acceptation par le peuple et par les cantons de l’art. 121, al. 3 à 6, le législateur définit les faits constitutifs des infractions en vertu de l’art. 121, al. 3, il les complète et il édicte les dispositions pénales relatives à l’entrée illégale sur le territoire visée à l’art. 121, al. 6.
 
@@ -3005,7 +3009,7 @@ Dans les cinq années qui suivent l’acceptation par le peuple et par les canto
 
 [^197-subdivu9-1]
 
-[^197-subdivu9-1]: Accepté en [votation populaire du 11 mars 2012](http://www.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012; [RO 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [FF 2008 1003](https://fedlex.data.admin.ch/eli/fga/2008/235)[7891](https://fedlex.data.admin.ch/eli/fga/2008/1556),[2011 4473](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6149](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^197-subdivu9-1]: Accepté en [votation populaire du 11 mars 2012](http://www.bk.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 11 mars 2012 (AF du 17 juin 2011, ACF du 20 juin 2012; [RO 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [FF 2008 1003](https://fedlex.data.admin.ch/eli/fga/2008/235)[7891](https://fedlex.data.admin.ch/eli/fga/2008/1556),[2011 4473](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6149](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 <sup>1</sup> Le Conseil fédéral édicte par voie d’ordonnance les dispositions d’exécution nécessaires sur la construction, la vente et l’enregistrement au registre foncier si la législation correspondante n’est pas entrée en vigueur deux ans après l’acceptation de l’art. 75*b* par le peuple et les cantons.
 
@@ -3015,7 +3019,7 @@ Dans les cinq années qui suivent l’acceptation par le peuple et par les canto
 
 [^197-subdivu10-1]
 
-[^197-subdivu10-1]: Accepté en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 3 mars 2013 (ACF du 15 nov. 2012 et du 30 avr. 2013; [RO 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [FF 2006 8319](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2325](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 265](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 8503](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 2759](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+[^197-subdivu10-1]: Accepté en [votation populaire du 3 mars 2013](http://www.bk.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 3 mars 2013 (ACF du 15 nov. 2012 et du 30 avr. 2013; [RO 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [FF 2006 8319](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2325](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 265](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 8503](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 2759](https://fedlex.data.admin.ch/eli/fga/2013/646)).
 
 D’ici à l’entrée en vigueur des dispositions légales, le Conseil fédéral édictera, dans un délai d’une année après l’acceptation de l’art. 95, al. 3, par le peuple et les cantons, les dispositions d’exécution nécessaires.
 
@@ -3023,7 +3027,7 @@ D’ici à l’entrée en vigueur des dispositions légales, le Conseil fédéra
 
 [^197-subdivu11-1]
 
-[^197-subdivu11-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 9 fév. 2014 (AF du 27 sept. 2013, ACF du 13 mai 2014; RO**2014**1391;[FF 2011 5845](https://fedlex.data.admin.ch/eli/fga/2011/924)**,** [2012 3611](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 279](https://fedlex.data.admin.ch/eli/fga/2013/50)[6575](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^197-subdivu11-1]: Accepté en [votation populaire du 9 fév. 2014](http://www.bk.admin.ch/ch/f/pore/va/20140209/index.html), en vigueur depuis le 9 fév. 2014 (AF du 27 sept. 2013, ACF du 13 mai 2014; RO**2014**1391;[FF 2011 5845](https://fedlex.data.admin.ch/eli/fga/2011/924)**,** [2012 3611](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 279](https://fedlex.data.admin.ch/eli/fga/2013/50)[6575](https://fedlex.data.admin.ch/eli/fga/2013/1414),[2014 3957](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 <sup>1</sup> Les traités internationaux contraires à l’art. 121*a* doivent être renégociés et adaptés dans un délai de trois ans à compter de l’acceptation dudit article par le peuple et les cantons.
 
@@ -3033,7 +3037,7 @@ D’ici à l’entrée en vigueur des dispositions légales, le Conseil fédéra
 
 [^197-subdivu12-1]
 
-[^197-subdivu12-1]: Accepté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 7 mars 2021 (AF du 19 juin 2020, ACF du 31 mai 2021; [RO 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 6109](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2895](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5345](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^197-subdivu12-1]: Accepté en [votation populaire du 7 mars 2021](http://www.bk.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 7 mars 2021 (AF du 19 juin 2020, ACF du 31 mai 2021; [RO 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 6109](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2895](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5345](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 La législation d’exécution doit être élaborée dans les deux ans qui suivent l’acceptation de l’art. 10*a* par le peuple et les cantons.
 
@@ -3041,7 +3045,7 @@ La législation d’exécution doit être élaborée dans les deux ans qui suive
 
 [^197-subdivu13-1]
 
-[^197-subdivu13-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 28 nov. 2021 (AF du 18 juin 2021, ACF du 11 avr. 2022; [RO 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 7314](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7633](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^197-subdivu13-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.bk.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 28 nov. 2021 (AF du 18 juin 2021, ACF du 11 avr. 2022; [RO 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 7314](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7633](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 
 <sup>1</sup>
 
@@ -3064,7 +3068,7 @@ La Confédération édicte, dans les limites de ses compétences, des dispositio
 
 [^197-subdivu14-1]
 
-[^197-subdivu14-1]: Accepté en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 13 fév. 2022 (AF du 1<sup>er</sup> oct. 2021, ACF du 11 avr. 2022; [RO 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 6529](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6837](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^197-subdivu14-1]: Accepté en [votation populaire du 13 fév. 2022](http://www.bk.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 13 fév. 2022 (AF du 1<sup>er</sup> oct. 2021, ACF du 11 avr. 2022; [RO 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 6529](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6837](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 L’Assemblée fédérale adopte les dispositions législatives d’exécution dans les trois ans qui suivent l’acceptation de l’art. 118, al. 2, let. b, par le peuple et les cantons.
 
@@ -3072,7 +3076,7 @@ L’Assemblée fédérale adopte les dispositions législatives d’exécution d
 
 [^197-subdivu15-1]
 
-[^197-subdivu15-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 16 déc. 2022, ACF du 12 avr. 2023, ACF du 28 août 2023; [RO 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
+[^197-subdivu15-1]: Accepté en [votation populaire du 18 juin 2023](http://www.bk.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2024 (AF du 16 déc. 2022, ACF du 12 avr. 2023, ACF du 28 août 2023; [RO 2023 482](https://fedlex.data.admin.ch/eli/oc/2023/482); [FF 2022 1700](https://fedlex.data.admin.ch/eli/fga/2022/1700); [2023 970](https://fedlex.data.admin.ch/eli/fga/2023/970), [2015](https://fedlex.data.admin.ch/eli/fga/2023/2015)).
 
 <sup>1</sup> Le Conseil fédéral peut édicter les dispositions permettant d’appliquer une imposition minimale aux grands groupes d’entreprises jusqu’à l’entrée en vigueur des dispositions légales.
 
@@ -3117,7 +3121,7 @@ Le Conseil fédéral peut arrêter des dispositions complémentaires relatives �
 
 [^197-subdivu16-1]
 
-[^197-subdivu16-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 3 mars 2024 (AF du 17 mars 2023, ACF du 7 mai 2024; [RO 2024 197](https://fedlex.data.admin.ch/eli/oc/2024/197); [FF 2021 1505](https://fedlex.data.admin.ch/eli/fga/2021/1505); [2022 1485](https://fedlex.data.admin.ch/eli/fga/2022/1485); [2023 781](https://fedlex.data.admin.ch/eli/fga/2023/781); [2024 996](https://fedlex.data.admin.ch/eli/fga/2024/996)).
+[^197-subdivu16-1]: Accepté en [votation populaire du 3 mars 2024](http://www.bk.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 3 mars 2024 (AF du 17 mars 2023, ACF du 7 mai 2024; [RO 2024 197](https://fedlex.data.admin.ch/eli/oc/2024/197); [FF 2021 1505](https://fedlex.data.admin.ch/eli/fga/2021/1505); [2022 1485](https://fedlex.data.admin.ch/eli/fga/2022/1485); [2023 781](https://fedlex.data.admin.ch/eli/fga/2023/781); [2024 996](https://fedlex.data.admin.ch/eli/fga/2024/996)).
 
 <sup>1</sup> Les bénéficiaires d’une rente de vieillesse ont droit à un supplément annuel s’élevant à un douzième de leur rente annuelle.
 
@@ -4363,7 +4367,7 @@ Homme
 
 ### I
 
-**Immi****gration** 121*a*, 197 ch. 11
+**Immigration** 121*a*, 197 ch. 11
 
 **Immunité** 162
 
@@ -4740,7 +4744,7 @@ Mesures
 
 **Mise** sur pied de l’armée 173, 185
 
-**Mode de** **vie** 8
+**Mode de vie** 8
 
 **Modification** du nombre ou du statut des cantons 53
 
@@ -5277,7 +5281,7 @@ Réserves
 - – en or 99
 - – monétaires 99
 
-Résidences secondaires 75*b,* 197 ch. 9
+Résidences secondaires 75*b*, 127, 197 ch. 9
 
 Respect
 
