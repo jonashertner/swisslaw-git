@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. März 1958 über die Verantwortlichkeit des Bundes 
 short: VG
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489"
 language: de
-version: 2025-06-15
+version: 2027-01-01
 adopted: 1958-03-14
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20250615/de/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20250615-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20250615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20250615/de"
 
 (Verantwortlichkeitsgesetz, VG)[^t-1]
 
-vom 14. März 1958 (Stand am 15. Juni 2025)
+vom 14. März 1958 (Stand am 1. Januar 2027)
 
 [^t-1]: Abk. eingefügt durch Anhang Ziff. II 1 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 146 der Bundesverfassung[^ingress-1],[^ingress-2] nach Ein
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^ingress-3]: [BBl 1956 I 1393](https://fedlex.data.admin.ch/eli/fga/1956/1_1393_1420_)
 
@@ -117,7 +117,7 @@ Der Beamte haftet dem Bund für den Schaden, den er ihm durch vorsätzliche oder
 
 <sup>2</sup> Haben mehrere Beamte den Schaden gemeinsam verschuldet, so haften sie dem Bund in Abweichung von Artikel 50 des Obligationenrechts lediglich anteilmässig nach der Grösse des Verschuldens.
 
-[^9-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -129,7 +129,7 @@ Der Beamte haftet dem Bund für den Schaden, den er ihm durch vorsätzliche oder
 
 [^10-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 4. Okt. 1991, in Kraft seit 1. Jan. 1994 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 [^10-2]: Fassung des Satzes gemäss Anhang Ziff. 8 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^10-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^10-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^10-4]: Fassung gemäss Anhang Ziff. II 1 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 11
@@ -152,8 +152,8 @@ Die Rechtmässigkeit formell rechtskräftiger Verfügungen, Entscheide und Urtei
 
 <sup>2</sup> Auf Beamte, die der Militärgerichtsbarkeit unterstehen, sind die Bestimmungen des Militärstrafgesetzes vom 13. Juni 1927[^13-1] und der Militärstrafgerichtsordnung vom 28. Juni 1889[^13-2] anzuwenden.
 
-[^13-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^13-2]: [BS **3** 456; [AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)Ziff. II, [1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)Ziff. III. [AS 1979 1059](https://fedlex.data.admin.ch/eli/oc/1979/1059_1059_1059)Art. 216]. Siehe heute: den Militärstrafprozess vom 23. März 1979 ([SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)).
+[^13-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^13-2]: [BS **3** 456; [AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)Ziff. II, [1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)Ziff. III. [AS 1979 1059](https://fedlex.data.admin.ch/eli/oc/1979/1059_1059_1059)Art. 216]. Siehe heute: den Militärstrafprozess vom 23. März 1979 ([SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)).
 
 #### Art. 14
 
@@ -170,7 +170,7 @@ Die Rechtmässigkeit formell rechtskräftiger Verfügungen, Entscheide und Urtei
 <sup>5</sup> Stimmen beide Kommissionen darin überein, dass die Ermächtigung zu erteilen ist, so können sie in gemeinsamer Sitzung als Kommission der Vereinigten Bundesversammlung dieser die vorläufige Einstellung im Amte beantragen. Die Zusammensetzung dieser Kommission richtet sich nach Artikel 39 Absatz 4 ParlG. Entspricht die Kommission eines Rates dieser Zusammensetzung nicht, so ergänzt oder reduziert das Büro dieses Rates die Mitgliederzahl entsprechend.
 
 [^14-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^14-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^14-2]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 14<sup>bis</sup>
 
@@ -185,7 +185,7 @@ Die Rechtmässigkeit formell rechtskräftiger Verfügungen, Entscheide und Urtei
 <sup>4</sup> Die vorstehenden Bestimmungen sind ebenfalls anwendbar, wenn für eine erste Abklärung des Sachverhalts oder zur Beweissicherung andere Massnahmen der Ermittlung oder Strafuntersuchung gegen eine der in Artikel 14 genannten Personen notwendig sind. Sobald die von der Kommission bewilligten Massnahmen durchgeführt sind, ist nach Artikel 14 die Ermächtigung der zuständigen Kommissionen der eidgenössischen Räte zur Strafverfolgung einzuholen, es sei denn, das Verfahren werde eingestellt. Eine Verhaftung ohne diese Ermächtigung ist unzulässig.[^14bis-5]
 
 [^14bis-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1972 über die Änderung von Bestimmungen betreffend das Post-, Telefon- und Telegrafengeheimnis und die Immunität, in Kraft seit 1. Juli 1973 ([AS 1973 925](https://fedlex.data.admin.ch/eli/oc/1973/925_925_925); [BBl 1971 II 369](https://fedlex.data.admin.ch/eli/fga/1971/2_369__)481).
-[^14bis-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14bis-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^14bis-3]: Fassung gemäss Anhang Ziff. 2 des Postgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [BBl 1996 III 1249](https://fedlex.data.admin.ch/eli/fga/1996/3_1249_1201_1141)).
 [^14bis-4]: Fassung des zweiten Satzes gemäss Anhang Ziff. 1 des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^14bis-5]: Fassung des zweiten und dritten Satzes gemäss Anhang Ziff. 1 des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
@@ -237,7 +237,7 @@ Die Strafverfolgung von Beamten wegen strafbarer Handlungen, die sich auf ihre a
 
 <sup>3</sup> Artikel 4 des Strafgesetzbuches bleibt vorbehalten.
 
-[^16-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Siehe heute: Art. 7.
+[^16-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Siehe heute: Art. 7.
 
 ## IV. Abschnitt: Die disziplinarische Verantwortlichkeit
 
@@ -327,7 +327,7 @@ Der Bund haftet gegenüber geschädigten Drittpersonen ohne Nachweis einer Wider
 
 <sup>3</sup> Bestreitet in den Fällen nach Artikel 10 Absatz 2 der Bund den Anspruch oder erhält der Geschädigte innert dreier Monate keine Stellungnahme, so hat dieser innert weiterer sechs Monate bei Folge der Verwirkung Klage einzureichen.[^20-4]
 
-[^20-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^20-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^20-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^20-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^20-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 4. Okt. 1991, in Kraft seit 1. Jan. 1994 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
@@ -344,9 +344,9 @@ Der Rückgriffsanspruch des Bundes gegen einen Beamten verjährt innert drei Jah
 
 <sup>1</sup> Die Verjährung der strafrechtlichen Verfolgung richtet sich nach den Bestimmungen des Strafrechts.
 
-<sup>2</sup> Die disziplinarische Verantwortlichkeit eines Beamten verjährt nach den speziellen Disziplinarbestimmungen, jedoch längstens ein Jahr nach Entdeckung des disziplinwidrigen Verhaltens, auf alle Fälle drei Jahre nach der letzten Verletzung der Dienstpflicht.
+<sup>2 und <sup>3</sup></sup> …[^22-1]
 
-<sup>3</sup> Die Verjährung ruht, solange wegen des nämlichen Tatbestandes ein Strafverfahren durchgeführt wird oder solange über Rechtsmittel noch nicht entschieden ist, die im Disziplinarverfahren ergriffen wurden.
+[^22-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 20. Juni 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [BBl 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 23
 
@@ -416,12 +416,12 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - e. Abkommen vom 28. April 2005[^annexu1-lvlu1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - f. Protokoll vom 28. Februar 2008[^annexu1-lvlu1-lvl1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annexu1-lvlu1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annexu1-lvlu1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annexu1-lvlu1-lvl1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annexu1-lvlu1-lvl1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvlu1-lvl1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annexu1-lvlu1-lvl1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annexu1-lvlu1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annexu1-lvlu1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annexu1-lvlu1-lvl1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annexu1-lvlu1-lvl1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvlu1-lvl1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annexu1-lvlu1-lvl1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ### 2. Dublin-Assoziierungsabkommen
 
@@ -432,7 +432,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 - c. Protokoll vom 28. Februar 2008[^annexu1-lvlu1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - d. Protokoll vom 28. Februar 2008[^annexu1-lvlu1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
 
-[^annexu1-lvlu1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annexu1-lvlu1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvlu1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annexu1-lvlu1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annexu1-lvlu1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annexu1-lvlu1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvlu1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annexu1-lvlu1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)

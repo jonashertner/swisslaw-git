@@ -4,11 +4,11 @@ title: "Legge federale del 14 marzo 1958 su la responsabilità della Confederazi
 short: LResp
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489"
 language: it
-version: 2025-06-15
+version: 2027-01-01
 adopted: 1958-03-14
 in_force: 1959-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20250615/it/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20250615-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20250615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1958-1413_1483_1489-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/20250615/it"
 
 (Legge sulla responsabilità, LResp[^t-1])
 
-del 14 marzo 1958 (Stato 15 giugno 2025)
+del 14 marzo 1958 (Stato 1° gennaio 2027)
 
 [^t-1]: Abbreviazione introdotta dalla cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -27,7 +27,7 @@ visto l’articolo 146 della Costituzione federale[^ingress-1];[^ingress-2] vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta la cifra 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^ingress-3]: FF **1956** I 1420
 
@@ -39,7 +39,7 @@ decreta:
 
 La presente legge è applicabile a tutte le persone cui è conferita una carica pubblica della Confederazione, quali:[^1-1]
 
-- a.[^1-2] …
+- a.[^1-2] ...
 - b. i membri del Consiglio federale e il Cancelliere della Confederazione;
 - c.[^1-3] i membri e i supplenti dei Tribunali della Confederazione;
 - c<sup>bis</sup>.[^1-4] i membri dell’autorità di vigilanza sul Ministero pubblico della Confederazione;
@@ -118,7 +118,7 @@ Il funzionario risponde verso la Confederazione dei danni che direttamente le ha
 
 <sup>2</sup> Contrariamente all’articolo 50 del Codice delle obbligazioni, se il danno è cagionato da più funzionari insieme, ciascuno di essi risponde, verso la Confederazione, soltanto in ragione della sua colpa.
 
-[^9-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 10
 
@@ -130,7 +130,7 @@ Il funzionario risponde verso la Confederazione dei danni che direttamente le ha
 
 [^10-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 cpv. 1; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 [^10-2]: Nuovo testo del per. giusta il n. 8 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^10-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^10-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^10-4]: Nuovo testo giusta la cifra II n. 1 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 11
@@ -153,8 +153,8 @@ In un procedimento per responsabilità, non può essere riesaminata la legittimi
 
 <sup>2</sup> Ai funzionari sottoposti alla giurisdizione militare sono applicabili le disposizioni del Codice penale militare[^13-1] e della legge federale del 28 giugno 1889[^13-2] sull’organizzazione giudiziaria e procedura penale per la armata federale.
 
-[^13-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^13-2]: [CS **3** 433; [RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)cifra II, [1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)cifra III. [RU 1979 1059](https://fedlex.data.admin.ch/eli/oc/1979/1059_1059_1059)art. 219]. Ora: Procedura penale militare del 23 mar. 1979 ([RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)).
+[^13-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^13-2]: [CS **3** 433; [RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)cifra II, [1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)cifra III. [RU 1979 1059](https://fedlex.data.admin.ch/eli/oc/1979/1059_1059_1059)art. 219]. Ora: Procedura penale militare del 23 mar. 1979 ([RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)).
 
 #### Art. 14
 
@@ -171,7 +171,7 @@ In un procedimento per responsabilità, non può essere riesaminata la legittimi
 <sup>5</sup> Le due commissioni, ove deliberino di concedere il permesso, possono riunirsi in seduta congiunta come commissione dell’Assemblea federale plenaria e proporre a quest’ultima la sospensione provvisoria dell’incolpato. La composizione di tale commissione è retta dall’articolo 39 capoverso 4 LParl. Ove il numero dei membri della commissione di una Camera non consenta di rispettare tale composizione, l’Ufficio di tale Camera lo aumenta o lo riduce di conseguenza.
 
 [^14-1]: Nuovo testo giusta il n. 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^14-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^14-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 14<sup>bis</sup>
 
@@ -186,7 +186,7 @@ In un procedimento per responsabilità, non può essere riesaminata la legittimi
 <sup>4</sup> Le disposizioni che precedono sono parimente applicabili se, per un primo chiarimento dei fatti o per assicurare le prove, si rendono necessari altri provvedimenti d’inchiesta o d’istruzione penale contro una persona menzionata nell’articolo 14. Appena eseguiti i provvedimenti autorizzati dalla commissione dev’essere chiesto, per il procedimento penale, il permesso delle commissioni competenti delle Camere federali secondo l’articolo 14, salvo che la procedura venga sospesa. L’incarcerazione è inammissibile senza tale permesso.[^14bis-5]
 
 [^14bis-1]: Introdotto dalla cifra I della LF del 6 ott. 1972 che modifica disposizioni concernenti il segreto postale, telefonico e telegrafico, come anche l’immunità, in vigore dal 1° lug. 1973 ([RU 1973 925](https://fedlex.data.admin.ch/eli/oc/1973/925_925_925); [FF 1971 II 53](https://fedlex.data.admin.ch/eli/fga/1971/2___53)238).
-[^14bis-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^14bis-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^14bis-3]: Nuovo testo giusta il n. 2 dell’all. della LF del 30 apr. 1997 sulle poste, in vigore dal 1° gen. 1998 ([RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [FF 1996 III 1141](https://fedlex.data.admin.ch/eli/fga/1996/3_1249_1201_1141)).
 [^14bis-4]: Nuovo testo giusta il n. 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^14bis-5]: Nuovo testo del per. 2 e 3 giusta il n. 1 dell’all. alla LF 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
@@ -239,7 +239,7 @@ Nessun procedimento penale può essere promosso, senza un permesso del Dipartime
 <sup>3</sup> È riservato l’articolo 4 del Codice penale svizzero.
 
 [^16-1]: Vedi ora l’art. 7.
-[^16-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Capo IV. Responsabilità disciplinare
 
@@ -329,7 +329,7 @@ L’autorità federale competente pronuncia con decisione formale sulle pretese 
 
 <sup>3</sup> Se, nei casi di cui all’articolo 10 capoverso 2, la Confederazione contesta la pretesa oppure non si pronuncia su di essa nel termine di tre mesi, la persona lesa deve proporre un’azione entro un nuovo termine di sei mesi, a pena di perenzione.[^20-4]
 
-[^20-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^20-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^20-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^20-3]: Nuovo testo giusta il n. 2 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^20-4]: Nuovo testo giusta il n. 1 dell’all. alla LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 cpv. 1; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
@@ -346,9 +346,9 @@ Il diritto di regresso della Confederazione contro un funzionario si prescrive i
 
 <sup>1</sup> Per la prescrizione dell’azione penale, valgono le disposizioni del diritto penale.
 
-<sup>2</sup> La responsabilità disciplinare dei funzionari si estingue secondo le disposizioni disciplinari speciali, ma, al più tardi, in un anno dalla scoperta dell’atto indisciplinato, e, in ogni caso, nel termine di tre anni dall’ultima violazione dei doveri di servizio.
+<sup>2 e <sup>3</sup></sup> ...[^22-1]
 
-<sup>3</sup> La prescrizione è sospesa finché duri il provvedimento penale promosso per il medesimo fatto oppure non si sia pronunciato su rimedi di diritto esercitati in un procedimento disciplinare.
+[^22-1]: Abrogati dall’all. n. 1 della LF del 20 giu. 2025, con effetto dal 1° gen. 2027 ([RU 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 23
 
@@ -396,8 +396,8 @@ A contare dall’entrata in vigore della presente legge, sono abrogate tutte le 
 
 [^27-1]: DCF del 18 lug. 1958.
 [^27-2]: [CS **1** 431]
-[^27-3]: [CS **7** 689, **8** 273 art. 128 n. 3, [RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)art. 69 n. 1. [RU 1961 17](https://fedlex.data.admin.ch/eli/oc/1961/17_17_17)art. 19 lett. b]
-[^27-4]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)[1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)[2197 3292](https://fedlex.data.admin.ch/eli/oc/2197/3292). [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I n. 1].
+[^27-3]: [CS **7** 689; **8** 273 art. 128 n. 3; [RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)art. 69 n. 1. [RU 1961 17](https://fedlex.data.admin.ch/eli/oc/1961/17_17_17)art. 19 lett. b]
+[^27-4]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90), [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123),[2197](https://fedlex.data.admin.ch/eli/oc/2001/318), [3292](https://fedlex.data.admin.ch/eli/oc/2001/489). [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I n. 1].
 
 Allegato[^t-2]
 
@@ -418,12 +418,12 @@ Gli Accordi di associazione alla normativa di Schengen comprendono:
 - e. l’Accordo del 28 aprile 2005[^annexu1-lvlu1-lvl1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
 - f. il Protocollo del 28 febbraio 2008[^annexu1-lvlu1-lvl1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
-[^annexu1-lvlu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annexu1-lvlu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annexu1-lvlu1-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annexu1-lvlu1-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvlu1-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annexu1-lvlu1-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annexu1-lvlu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annexu1-lvlu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annexu1-lvlu1-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annexu1-lvlu1-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvlu1-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annexu1-lvlu1-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ### 2. Accordi di associazione alla normativa di Dublino
 
@@ -434,7 +434,7 @@ Gli Accordi di associazione alla normativa di Dublino comprendono:
 - c. il Protocollo del 28 febbraio 2008[^annexu1-lvlu1-lvl2-3] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
 - d. il Protocollo del 28 febbraio 2008[^annexu1-lvlu1-lvl2-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
 
-[^annexu1-lvlu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annexu1-lvlu1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvlu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annexu1-lvlu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annexu1-lvlu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annexu1-lvlu1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvlu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annexu1-lvlu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
