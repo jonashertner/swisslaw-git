@@ -4,13 +4,12 @@ number: VI C/1/1
 title: Steuergesetz
 short: StG
 language: de
-version: 2026-01-01
-valid_until: 2026-12-31
-version_adopted: 2025-09-30
+version: 2027-01-01
+version_adopted: 2026-09-29
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2668/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2693/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2668/pdf_file"
 
 (StG)
 
-Vom 07.05.2000 (Stand 01.01.2026)
+Vom 07.05.2000 (Stand 01.01.2027)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -198,7 +197,7 @@ Vom 07.05.2000 (Stand 01.01.2026)
 
 <sup>3</sup> Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen[^13-1]:
 
-- 1\. 435 000 Franken;
+- 1\. 437 000 Franken;
 - 2\. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder Eigenmietwerts;
 - 3\. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft und Verpflegung.
 - 4\.–6. …
@@ -218,7 +217,7 @@ Vom 07.05.2000 (Stand 01.01.2026)
 
 <sup>7</sup> Werden Einkünfte aus einem Staat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so wird die Steuer nicht nur nach den in Absatz 6 bezeichneten Einkünften, sondern auch nach allen aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteilen aus dem Quellenstaat bemessen.
 
-[^13-1]: Betrag geändert gemäss Art. 4 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
+[^13-1]: Betrag geändert gemäss Art. 6 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
 
 #### Art. 14
 
@@ -441,12 +440,12 @@ Vom 07.05.2000 (Stand 01.01.2026)
 - 9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5400 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - 10\. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - 11\. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017 (BGS)[^24-2] zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- 11a. die einzelnen Gewinne bis zum Betrag von 1 071 000 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- 11a. die einzelnen Gewinne bis zum Betrag von 1 076 100 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - 11b. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
 - 12\. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird;
 - 13\. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^24-3].
 
-[^24-1]: Betrag in Ziff. 12 geändert gemäss Art. 7 Abs. 3 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32); Beträge in Ziff. 9a und 11a geändert gemäss Art. 5 Abs. 1 und 2 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
+[^24-1]: Betrag in Ziff. 12 geändert gemäss Art. 7 Abs. 3 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32); Betrag in Ziff. 9a geändert gemäss Art. 5 Abs. 1 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35); Betrag in Ziff. 11a geändert gemäss Art. 7 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
 [^24-2]: SR 935.51
 [^24-3]: SR 837.2
 
@@ -464,13 +463,13 @@ Vom 07.05.2000 (Stand 01.01.2026)
 
 **Unselbstständige Erwerbstätigkeit**
 
-<sup>1</sup> Bei unselbstständiger Erwerbstätigkeit können alle berufsnotwendigen Kosten abgezogen werden. Dazu gehören insbesondere
+<sup>1</sup> Bei unselbstständiger Erwerbstätigkeit können alle berufsnotwendigen Kosten abgezogen werden. Dazu gehören insbesondere:
 
-- 1\. die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte;
+- 1\. die notwendigen Kosten bis zu einem Maximalbetrag von 6000 Franken für die Fahrten zwischen Wohn- und Arbeitsstätte;
 - 2\. die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit;
 - 3\. die übrigen für die Ausübung des Berufes erforderlichen Kosten; Artikel 31 Absatz 1 Ziffer 12 bleibt vorbehalten.
 
-<sup>2</sup> Für die Berufskosten gemäss Absatz 1 Ziffern 1-3 legt der Regierungsrat Pauschalansätze fest; im Falle von Absatz 1 Ziffern 1 und 3 steht dem Steuerpflichtigen der Nachweis höherer Kosten offen.
+<sup>2</sup> Für die Berufskosten gemäss Absatz 1 Ziffern 1–3 legt der Regierungsrat Pauschalansätze fest; im Falle von Absatz 1 Ziffer 3 steht dem Steuerpflichtigen der Nachweis höherer Kosten offen.
 
 #### Art. 27
 
@@ -550,22 +549,22 @@ Vom 07.05.2000 (Stand 01.01.2026)
 - 8\. die Krankheits- und Unfallkosten des Steuerpflichtigen und der von ihm unterhaltenen Personen, soweit der Steuerpflichtige die Kosten selbst trägt und diese 2 Prozent der Nettoeinkünfte übersteigen;
 - 8a. die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002, soweit der Steuerpflichtige die Kosten selber trägt;
 - 9\. die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 60 Abs. 1 Ziff. 7), wenn diese Leistungen im Steuerjahr 100 Franken erreichen und insgesamt 20 Prozent der um die Aufwendungen (Art. 26–31) verminderten Einkünfte nicht übersteigen. Im gleichen Umfang abzugsfähig sind entsprechende freiwillige Leistungen an Bund, Kantone, Gemeinden und deren Anstalten (Art. 60 Abs. 1 Ziff. 1–4).
-- 10\. die nachgewiesenen Kosten, jedoch höchstens 25 800 Franken, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem und kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
+- 10\. die nachgewiesenen Kosten, jedoch höchstens 25 900 Franken, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem und kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
 - 11\. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 600 Franken an politische Parteien, die:
   - a. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte eingetragen sind,
   - b. in einem kantonalen Parlament vertreten sind, oder
   - c. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben.
-- 12\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 13 000 Franken, sofern:
+- 12\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 13 100 Franken, sofern:
   - a. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - b. das 20. Altersjahr vollendet ist und soweit es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
-<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkommen, so werden vom niedrigeren Erwerbseinkommen 10 Prozent, jedoch mindestens 3600 Franken und höchstens 10 300 Franken abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–29 und der allgemeinen Abzüge nach Absatz 1 Ziffern 4–6. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen[^31-2].
+<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkommen, so werden vom niedrigeren Erwerbseinkommen 10 Prozent, jedoch mindestens 3600 Franken und höchstens 10 400 Franken abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–29 und der allgemeinen Abzüge nach Absatz 1 Ziffern 4–6. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen[^31-2].
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Ziffern 11–12 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5400 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Ziffer 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 800 Franken abgezogen[^31-3].
+<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Ziffern 11–12 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5400 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Ziffer 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 900 Franken abgezogen[^31-3].
 
-[^31-1]: Beträge in Ziff. 7 geändert gemäss Art. 3 Abs. 1 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32) und Art. 3 Abs. 1 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35); Beträge in Ziff. 10–12 geändert gemäss Art. 3 Abs. 2–4 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
-[^31-2]: Beträge geändert gemäss Art. 3 Abs. 5 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32) und Art. 3 Abs. 5 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
-[^31-3]: Beträge geändert gemäss Art. 3 Abs. 6 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
+[^31-1]: Beträge in Ziff. 7 geändert gemäss Art. 3 Abs. 1 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32) und Art. 3 Abs. 1 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35); Betrag in Ziff. 11 geändert gemäss Art. 3 Abs. 3 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35); Beträge in Ziff. 10 und 12 geändert gemäss Art. 3 Abs. 1 und 2 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
+[^31-2]: Beträge geändert gemäss Art. 3 Abs. 5 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32) und Art. 3 Abs. 3 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
+[^31-3]: Beträge geändert gemäss Art. 3 Abs. 6 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35) und Art. 3 Abs. 4 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
 
 #### Art. 32
 
@@ -586,8 +585,8 @@ Vom 07.05.2000 (Stand 01.01.2026)
 <sup>1</sup> Vom Reineinkommen werden für die Steuerberechnung abgezogen[^33-1]:
 
 - 1\. als Kinderabzug:
-  - a. für minderjährige Kinder unter der elterlichen Sorge oder Obhut des Steuerpflichtigen sowie für volljährige Kinder, die in der schulischen oder beruflichen Ausbildung stehen und deren Unterhalt der Steuerpflichtige zur Hauptsache bestreitet, je 7200 Franken;
-  - b. für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht und sich hiefür ständig am Ausbildungsort ausserhalb des Kantons aufhalten muss und dessen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet; zusätzlich je 7200 Franken;
+  - a. für minderjährige Kinder unter der elterlichen Sorge oder Obhut des Steuerpflichtigen sowie für volljährige Kinder, die in der schulischen oder beruflichen Ausbildung stehen und deren Unterhalt der Steuerpflichtige zur Hauptsache bestreitet, je 7300 Franken;
+  - b. für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljährige Kind, das in der schulischen oder beruflichen Ausbildung steht und sich hiefür ständig am Ausbildungsort ausserhalb des Kantons aufhalten muss und dessen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet; zusätzlich je 7300 Franken;
   - c. stehen Kinder unter gemeinsamer elterlicher Sorge nicht gemeinsam besteuerter Eltern, kommt der Kinderabzug jenem Elternteil zu, der für das Kind Unterhaltsbeiträge gemäss Artikel 23 Ziffer 6 dieses Gesetzes erhält; werden keine Unterhaltsbeiträge geleistet, kommt der Kinderabzug jenem Elternteil zu, der für den Unterhalt des Kindes zur Hauptsache aufkommt und keinen Abzug gemäss Artikel 23 Ziffer 6 dieses Gesetzes beansprucht;
 - 2\. als weiterer Abzug für alleinstehende AHV/IV-Rentner soweit das satzbestimmende Einkommen 30 000 Franken und das satzbestimmende Vermögen 300 000 Franken nicht übersteigt 2100 Franken;
 - 3\. als Unterstützungsabzug: für erwerbsunfähige oder beschränkt erwerbsfähige Personen, an deren Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beiträgt, je 2100 Franken;
@@ -597,7 +596,7 @@ Vom 07.05.2000 (Stand 01.01.2026)
 
 <sup>3</sup> Die Sozialabzüge gemäss Absatz 1 werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
-[^33-1]: Beträge geändert gemäss Art. 4 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
+[^33-1]: Beträge geändert gemäss Art. 4 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
 
 ### 1.2.2.4. Steuerberechnung
 
@@ -607,39 +606,39 @@ Vom 07.05.2000 (Stand 01.01.2026)
 
 <sup>1</sup> Die einfache Einkommenssteuer beträgt (Grundtarif)[^34-1]:
 
-- a. bis 10 300 Franken
+- a. bis 10 400 Franken
   - 1\. Basis — ––.–– Franken
   - 2\. und für je weitere 100 Franken — 8.00 Franken
-- b. für 20 600 Franken
+- b. für 20 700 Franken
   - 1\. Basis — 824.00 Franken
   - 2\. und für je weitere 100 Franken — 11.00 Franken
-- c. für 30 900 Franken
-  - 1\. Basis — 1957.00 Franken
+- c. für 31 100 Franken
+  - 1\. Basis — 1968.00 Franken
   - 2\. und für je weitere 100 Franken — 13.00 Franken
-- d. für 51 600 Franken
-  - 1\. Basis — 4648.00 Franken
+- d. für 51 800 Franken
+  - 1\. Basis — 4659.00 Franken
   - 2\. und für je weitere 100 Franken — 15.00 Franken
-- e. für 103 200 Franken
-  - 1\. Basis — 12 388.00 Franken
+- e. für 103 600 Franken
+  - 1\. Basis — 12 429.00 Franken
   - 2\. und für je weitere 100 Franken — 16.00 Franken
-- f. für 154 700 Franken
-  - 1\. Basis — 20 628.00 Franken
+- f. für 155 500 Franken
+  - 1\. Basis — 20 733.00 Franken
   - 2\. und für je weitere 100 Franken — 17.50 Franken
-- g. für 257 900 Franken
-  - 1\. Basis — 38 688.00 Franken
+- g. für 259 100 Franken
+  - 1\. Basis — 38 863.00 Franken
   - 2\. und für je weitere 100 Franken — 19.00 Franken
-- h. für 412 600 Franken
-  - 1\. Basis — 68 081.00 Franken
+- h. für 414 600 Franken
+  - 1\. Basis — 68 408.00 Franken
   - 2\. und für je weitere 100 Franken — 21.00 Franken
-- i. für 464 200 Franken
-  - 1\. Basis — 78 917.00 Franken
+- i. für 466 400 Franken
+  - 1\. Basis — 79 286.00 Franken
   - 2\. für höhere Einkommen beträgt der Satz einheitlich 17 Prozent.
 
 <sup>2</sup> Für in ungetrennter Ehe lebende Steuerpflichtige sowie für getrennt lebende, geschiedene, verwitwete und ledige Steuerpflichtige, die mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben, ist für die Ermittlung des satzbestimmenden Einkommens das steuerbare Gesamteinkommen durch den Divisor 1,7 zu teilen.
 
 <sup>3</sup> …
 
-[^34-1]: Beträge in Bst. a–c geändert gemäss Art. 2 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35); Beträge in Bst. d–i geändert gemäss Art. 2 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
+[^34-1]: Betrag in Bst. b geändert gemäss Art. 2 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35) und Beträge in Bst. a–i geändert gemäss Art. 2 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
 
 #### Art. 35
 
@@ -773,14 +772,14 @@ Vom 07.05.2000 (Stand 01.01.2026)
 
 <sup>1</sup> Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen[^45-1]:
 
-- 1\. 77 400 Franken für alleinstehende Steuerpflichtige;
-- 2\. 154 700 Franken für gemeinsam steuerpflichtige Ehegatten sowie verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die allein mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben;
-- 3\. 25 800 Franken für jedes minderjährige, unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind;
-- 4\. zusätzlich 25 800 Franken für Steuerpflichtige, die mindestens eine halbe Rente der eidgenössischen Invalidenversicherung beziehen.
+- 1\. 77 700 Franken für alleinstehende Steuerpflichtige;
+- 2\. 155 500 Franken für gemeinsam steuerpflichtige Ehegatten sowie verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die allein mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben;
+- 3\. 25 900 Franken für jedes minderjährige, unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind;
+- 4\. zusätzlich 25 900 Franken für Steuerpflichtige, die mindestens eine halbe Rente der eidgenössischen Invalidenversicherung beziehen.
 
 <sup>2</sup> Die steuerfreien Beträge bemessen sich nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht.
 
-[^45-1]: Beträge in Ziff. 3 und 4 geändert gemäss Art. 5 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35); Beträge in Ziff. 1 und 2 geändert gemäss Art. 3 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
+[^45-1]: Beträge geändert gemäss Art. 5 der Kantonalen Verordnung über die kalte Progression vom 29. September 2026 (SBE 2026 49).
 
 #### Art. 46
 
@@ -796,13 +795,13 @@ Vom 07.05.2000 (Stand 01.01.2026)
 
 **Anpassung Tarife und Abzüge**
 
-<sup>1</sup> Bei den Steuern vom Einkommen und Vermögen der natürlichen Personen werden die Folgen der kalten Progression durch gleichmässige Anpassung der Tarifstufen gemäss Artikel 34 und der in Frankenbeträgen festgesetzten Abzüge vom Einkommen gemäss den Artikeln 31, 33 und 45 voll ausgeglichen. Die Beträge sind auf 100 Franken auf- oder abzurunden.
+<sup>1</sup> Bei den Steuern vom Einkommen und Vermögen der natürlichen Personen werden die Folgen der kalten Progression durch gleichmässige Anpassung der Tarifstufen gemäss Artikel 34 und der in Frankenbeträgen festgesetzten Abzüge vom Einkommen gemäss den Artikeln 26, 31, 33 und 45 voll ausgeglichen. Die Beträge sind auf 100 Franken auf- oder abzurunden.
 
 <sup>1a</sup> Der Regierungsrat passt die Tarifstufen und die Abzüge jährlich an den Landesindex der Konsumentenpreise an. Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode. Bei negativem Teuerungsverlauf ist eine Anpassung ausgeschlossen. Der auf eine negative Teuerung folgende Ausgleich erfolgt auf Basis des letzten Ausgleichs. Ausgegangen wird vom Indexstand per 30. Juni 2022.
 
 <sup>2–3</sup> …
 
-<sup>4</sup> Der Regierungsrat kann zwecks Koordination mit der direkten Bundessteuer bei Artikel 13 Absatz 3 Ziffer 1, Artikel 24 Absatz 1 Ziffern 9a, 11a und 12, Artikel 26 Absatz 1 Ziffer 3 und Artikel 31 eine Anpassung ungeachtet der Voraussetzungen von Absatz 1 vornehmen.
+<sup>4</sup> Der Regierungsrat kann zwecks Koordination mit der direkten Bundessteuer bei Artikel 13 Absatz 3 Ziffer 1, Artikel 24 Absatz 1 Ziffern 9a, 11a und 12 und Artikel 31 eine Anpassung ungeachtet der Voraussetzungen von Absatz 1 vornehmen.
 
 ### 1.2.5. Zeitliche Bemessung
 
