@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Zollrechtsrevision, Verordnungspaket I (BAZG-Vollzugsaufgabenverordnung, Zollabgabenverordnung und weitere abgabe- bzw. nichtabgaberechtliche Erlasse)"
 document: Vernehmlassungsvorlage BAZG-Vollzugsaufgabenverordnung
 language: de

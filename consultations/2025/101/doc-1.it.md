@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione del diritto doganale, pacchetto di ordinanze I (OUDSC, OTDo e altri atti normativi tributari ed extratributari)"
 document: Progetto posto in consultazione O sui compiti dell’UDSC
 language: it

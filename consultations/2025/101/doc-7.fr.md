@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision du droit douanier, paquet d’ordonnances I (ordonnance définissant les tâches de l’OFDF, ordonnance sur les droits de douane et autres actes législatifs relevant ou non du droit fiscal)"
 document: Projet mis en consultation O sur l’imposition du tabac
 language: fr
