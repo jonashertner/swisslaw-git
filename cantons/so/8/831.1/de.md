@@ -4,13 +4,12 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2026-09-01
-valid_until: 2026-12-31
-version_adopted: 2026-05-05
+version: 2027-01-01
+version_adopted: 2026-03-08
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5665/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5670/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5665/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.09.2026)
+Vom 31.01.2007 (Stand 01.01.2027)
 
 Der Kantonsrat von Solothurn
 
@@ -417,12 +416,15 @@ beschliesst:
 - f) § 65 (Übergangsbestimmungen);
 - g) § 66 (Ausführungsbestimmungen).
 
+<sup>2<sup>ter</sup></sup> Auf weitere stationäre soziale Institutionen gelangt § 41<sup>ter</sup> Absätze 1, 3 und 4 GesG[^22-3] sinngemäss zur Anwendung.
+
 <sup>3</sup> Die Bewilligung von sozialen Institutionen, die gemäss der Krankenversicherungsgesetzgebung nicht zur Gruppe der Leistungserbringer zählen, kann entzogen werden, wenn die Voraussetzungen nach Absatz 1 Buchstaben a-e nicht mehr erfüllt sind.
 
 <sup>4</sup> Die Bewilligung ist insbesondere zu überprüfen, wenn Investitionen getätigt werden, die eine vom Departement bestimmte Höhe überschreiten.
 
 [^22-1]: BGS [811.11](https://bgs.so.ch/data/811.11/de).
 [^22-2]: BGS [811.11](https://bgs.so.ch/data/811.11/de).
+[^22-3]: BGS [811.11](https://bgs.so.ch/data/811.11/de).
 
 #### § 22bis
 
@@ -695,10 +697,12 @@ beschliesst:
 
 <sup>2</sup> Die Familienausgleichskassen
 
-- a) müssen mindestens die im Bundesgesetz vom 24. März 2006 über die Familienzulagen (FamZG) vorgeschriebenen Kinder- und Ausbildungszulagen ausrichten und gewährleisten, dass sie ihre Tätigkeit geordnet und im Einklang mit dem Bundesgesetz, diesem Gesetz und mit ihren eigenen Vorschriften ausüben;
+- a) müssen, sofern das Bundesgesetz vom 24. März 2006 über die Familienzulagen (FamZG)[^37-1] keine höheren Mindestansätze vorschreibt, eine Kinderzulage von mindestens 230 Franken und eine Ausbildungszulage von mindestens 280 Franken ausrichten und gewährleisten, dass sie ihre Tätigkeit geordnet und im Einklang mit dem Bundesgesetz, diesem Gesetz und mit ihren eigenen Vorschriften ausüben;
 - b) können die Auszahlung der Familienzulagen für Arbeitnehmende den Arbeitgebenden übertragen.
 
 <sup>3</sup> Die Familienausgleichskassen sind von kantonalen und kommunalen Steuern befreit.
+
+[^37-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
 
 #### § 37bis
 
