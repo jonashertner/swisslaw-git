@@ -4,13 +4,12 @@ number: "615.200"
 title: Gesetz über den Finanzausgleich zwischen den Gemeinden
 short: "Finanzausgleichsgesetz, FiAG"
 language: de
-version: 2017-12-31
-valid_until: 2026-12-31
-version_adopted: 2016-03-01
+version: 2027-01-01
+version_adopted: 2026-06-02
 adopted: 2016-03-01
 in_force: 2017-12-31
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/615.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3757/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4020/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3757/pdf_file"
 
 (Finanzausgleichsgesetz, FiAG)
 
-Vom 01.03.2016 (Stand 31.12.2017)
+Vom 01.03.2016 (Stand 01.01.2027)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -95,12 +94,12 @@ beschliesst:
 
 <sup>2</sup> Der Normsteuerertrag ergibt sich aus der Summe folgender Positionen (massgebend ist jeweils der Sollsteuerertrag):
 
-- a) Ertrag der Einkommens- und Vermögenssteuern der natürlichen Personen (inklusive Quellensteuer), der sich bei Anwendung des durchschnittlichen Steuerfusses ergeben würde,
+- a) Ertrag der Einkommens- und Vermögenssteuern der natürlichen Personen (inklusive Quellensteuer), der sich bei Anwendung des gewichteten kantonalen Mittelwerts des Steuerfusses ergeben würde,
 - b) Gemeindeanteil an den Kapital- und Gewinnsteuern der juristischen Personen,
 - c) Gemeindeanteil an der Grundstückgewinnsteuer,
 - d) Gemeindeanteil an den Erbschafts- und Schenkungssteuern.
 
-<sup>3</sup> Der durchschnittliche Steuerfuss (ausgedrückt in Prozentpunkten) ergibt sich aus der Division der über alle Gemeinden summierten Erträge der Gemeindesteuern der natürlichen Personen durch die Summe der für alle Gemeinden auf 100 % umgerechneten Erträge der Gemeindesteuern der natürlichen Personen, multipliziert mit 100.
+<sup>3</sup> Der gewichtete kantonale Mittelwert des Steuerfusses (ausgedrückt in Prozentpunkten) ergibt sich aus der Division der über alle Gemeinden summierten Erträge der Gemeindesteuern der natürlichen Personen durch die Summe der für alle Gemeinden auf 100 % umgerechneten Erträge der Gemeindesteuern der natürlichen Personen, multipliziert mit 100.
 
 <sup>4</sup> Der Normsteuerertrag pro Kopf ergibt sich aus der Division des Normsteuerertrags durch die Einwohnerzahl einer Gemeinde.
 
@@ -168,17 +167,17 @@ beschliesst:
 
 **Räumlich-struktureller Lastenausgleich**
 
-<sup>1</sup> Gemeinden mit einer grösseren Gesamtfläche als der Normwert gemäss Absatz 2 erhalten Beiträge aus dem räumlich-strukturellen Lastenausgleich.
+<sup>1</sup> Gemeinden, die weniger Einwohnerinnen und Einwohner haben als der Normwert gemäss Absatz 2, erhalten Beiträge aus dem räumlich-strukturellen Lastenausgleich.
 
-<sup>2</sup> Der Normwert für eine Gemeinde ergibt sich aus der Division der Siedlungsfläche (Summe der Wohn- und Mischzone sowie der Industrie- und Gewerbezone) durch den Divisor 0,0725.
+<sup>2</sup> Der Normwert für eine Gemeinde ergibt sich aus der Division der Strassenlänge dieser Gemeinde (Strassenlängen in Metern gemäss dem topografischen Landschaftsmodell des Bundesamts für Landestopografie swisstopo; ab 2 Meter Breite, ohne Bundesstrassen) durch den Medianwert der Strassenlänge pro Kopf aller Gemeinden.
 
-<sup>3</sup> Die Beiträge ergeben sich aus der Multiplikation der Differenz zwischen der Gesamtfläche einer Gemeinde und dem Normwert gemäss Absatz 2 (gemessen in Hektaren) mit dem Grundbetrag pro Einheit.
+<sup>3</sup> Die Beiträge ergeben sich aus der Multiplikation der Differenz zwischen der Einwohnerzahl einer Gemeinde und dem Normwert gemäss Absatz 2 mit dem Grundbetrag pro Einheit.
 
-<sup>4</sup> Der Grundbetrag pro Einheit beträgt zwischen Fr. 700.– und Fr. 1'200.–.
+<sup>4</sup> Der Grundbetrag pro Einheit beträgt zwischen Fr. 90.– und Fr. 140.–.
 
 <sup>5</sup> Der Grosse Rat legt den Grundbetrag pro Einheit in diesem Rahmen durch Dekret fest.
 
-<sup>6</sup> Der Beitrag zugunsten einer Gemeinde entspricht maximal dem Wert, der sich aus der Multiplikation deren Gesamtfläche (gemessen in Hektaren) mit dem Betrag von Fr. 500.– ergibt.
+<sup>6</sup> …
 
 ## 4. Kürzung der Beiträge aus dem Ressourcen- und Lastenausgleich
 
@@ -186,11 +185,11 @@ beschliesst:
 
 **Beitragskürzung bei tiefem Steuerfuss**
 
-<sup>1</sup> Ergibt sich für eine Gemeinde aus der Summe der Beiträge und Abgaben gemäss den §§ 6–10 insgesamt ein Anspruch auf einen Beitrag, wird dieser gekürzt, wenn der Steuerfuss dieser Gemeinde im Zahlungsjahr um mehr als fünf Prozentpunkte unter dem durchschnittlichen Steuerfuss all jener Gemeinden liegt, die unter Berücksichtigung aller Instrumente des Ressourcen- und Lastenausgleichs eine Finanzausgleichsabgabe zu entrichten haben (Gebergemeinden).
+<sup>1</sup> Ergibt sich für eine Gemeinde aus der Summe der Beiträge und Abgaben gemäss den §§ 6–10 insgesamt ein Anspruch auf einen Beitrag, wird dieser gekürzt, wenn der Steuerfuss dieser Gemeinde im Zahlungsjahr um mehr als fünf Prozentpunkte unter dem gewichteten Mittelwert des Steuerfusses all jener Gemeinden liegt, die unter Berücksichtigung aller Instrumente des Ressourcen- und Lastenausgleichs eine Finanzausgleichsabgabe zu entrichten haben (Gebergemeinden).
 
-<sup>2</sup> Der durchschnittliche Steuerfuss der Gebergemeinden wird auf der Basis des Vorvorjahres des Zahlungsjahres analog zur Regelung gemäss § 5 Abs. 3 berechnet.
+<sup>2</sup> Der gewichtete Mittelwert des Steuerfusses der Gebergemeinden wird auf der Basis des Vorvorjahres des Zahlungsjahres analog zur Regelung gemäss § 5 Abs. 3 berechnet.
 
-<sup>3</sup> Die Kürzung erfolgt in der Höhe des Betrags, den die Gemeinde an zusätzlichen Steuererträgen erzielen könnte, wenn sie ihren Steuerfuss auf einen Wert anheben würde, der fünf Prozentpunkte unter dem durchschnittlichen Steuerfuss der Gebergemeinden liegt.
+<sup>3</sup> Die Kürzung erfolgt in der Höhe des Betrags, den die Gemeinde an zusätzlichen Steuererträgen erzielen könnte, wenn sie ihren Steuerfuss auf einen Wert anheben würde, der fünf Prozentpunkte unter dem gewichteten Mittelwert des Steuerfusses der Gebergemeinden liegt.
 
 <sup>4</sup> Die Kürzung entspricht maximal dem durch die betroffene Gemeinde insgesamt beanspruchten Beitrag.
 
@@ -202,15 +201,19 @@ beschliesst:
 
 **Ordentliche Ergänzungsbeiträge**
 
-<sup>1</sup> Gemeinden können ordentliche Ergänzungsbeiträge beantragen, wenn sie das Haushaltsgleichgewicht gemäss § 88g des Gesetzes über die Einwohnergemeinden (Gemeindegesetz) vom 19. Dezember 1978[^12-1] nur erreichen könnten, indem sie den Steuerfuss höher als 25 Prozentpunkte über dem kantonalen Mittelwert festsetzen würden.
+<sup>1</sup> Gemeinden können ordentliche Ergänzungsbeiträge beantragen, wenn sie das Haushaltsgleichgewicht gemäss § 88g des Gesetzes über die Einwohnergemeinden (Gemeindegesetz) vom 19. Dezember 1978[^12-1] nur erreichen könnten, indem sie den Steuerfuss höher als beim massgeblichen Wert festsetzen würden.
+
+<sup>1<sup>bis</sup></sup> Der massgebliche Wert liegt um 20 bis 30 Prozentpunkte über dem gewichteten kantonalen Mittelwert des Steuerfusses des jeweiligen Vorvorjahres.
+
+<sup>1<sup>ter</sup></sup> Der Grosse Rat legt den massgeblichen Wert in diesem Rahmen durch Dekret fest.
 
 <sup>2</sup> Anspruch auf ordentliche Ergänzungsbeiträge besteht, wenn die Antrag stellende Gemeinde
 
-- a) ihren Steuerfuss um 25 Prozentpunkte über dem kantonalen Mittelwert des Vorvorjahres festsetzt,
+- a) ihren Steuerfuss auf den massgeblichen Wert festsetzt,
 - b) ihre übrigen Einnahmequellen im kantonsweit üblichen Ausmass maximal ausschöpft,
 - c) ihre Ausgaben unter Berücksichtigung der kantonsweit üblichen Standards zumutbarerweise nicht weiter reduzieren kann.
 
-<sup>3</sup> Die ordentlichen Ergänzungsbeiträge werden so angesetzt, dass die Gemeinden ihren Steuerfuss nicht höher als 25 Prozentpunkte über dem kantonalen Mittelwert festsetzen müssen.
+<sup>3</sup> Die ordentlichen Ergänzungsbeiträge werden so angesetzt, dass die Gemeinden ihren Steuerfuss nicht höher als beim massgeblichen Wert festsetzen müssen.
 
 <sup>4</sup> Die Prüfung des Anspruchs auf ordentliche Ergänzungsbeiträge stützt sich auf die Daten der Jahresrechnungen aus dem zweiten bis fünften Jahr vor dem Jahr, für das ordentliche Ergänzungsbeiträge beantragt werden.
 
@@ -262,7 +265,7 @@ beschliesst:
 
 <sup>1</sup> Die Beiträge gemäss § 8a Abs. 1 des Gemeindegesetzes werden der Spezialfinanzierung Finanzausgleich entnommen.
 
-<sup>2</sup> Der Regierungsrat entrichtet sich zusammenschliessenden Gemeinden eine Zusammenschlusspauschale und bei unterdurchschnittlicher Steuerkraft einen Zusammenschlussbeitrag. Dieser Beitrag berechnet sich nach der Steuerkraft und der Einwohnerzahl der Gemeinden. Der Grosse Rat regelt die Höhe der Zusammenschlusspauschale und die Berechnung des Zusammenschlussbeitrags durch Dekret.
+<sup>2</sup> Der Regierungsrat entrichtet sich zusammenschliessenden Gemeinden eine Zusammenschlusspauschale und bei unterdurchschnittlichem Normsteuerertrag einen Zusammenschlussbeitrag. Dieser Beitrag berechnet sich nach dem Normsteuerertrag und der Einwohnerzahl der Gemeinden. Der Grosse Rat regelt die Höhe der Zusammenschlusspauschale und die Berechnung des Zusammenschlussbeitrags durch Dekret.
 
 <sup>3</sup> Kommt es innert vier Jahren zum Zusammenschluss mit einer weiteren Gemeinde, erhält nur diese eine Zusammenschlusspauschale und einen Zusammenschlussbeitrag gemäss Absatz 2.
 
@@ -316,7 +319,7 @@ beschliesst:
 
 <sup>1</sup> Für die Belange des Finanzausgleichs besteht eine Spezialfinanzierung. Alle Zahlungen, die gestützt auf dieses Gesetz erfolgen, laufen über diese Spezialfinanzierung.
 
-<sup>2</sup> Der Bestand der Spezialfinanzierung soll am Ende jedes Zahlungsjahres in der Regel bei einem Wert liegen, der zwischen dem einfachen und dem zweifachen vertikalen Finanzierungsbedarf dieses Zahlungsjahres liegt.
+<sup>2</sup> Der Bestand der Spezialfinanzierung soll am Ende jedes Zahlungsjahres in der Regel bei einem Wert liegen, der zwischen dem einfachen und dem zweifachen vertikalen Finanzierungsbedarf liegt, wobei der Durchschnitt des vertikalen Finanzierungsbedarfs aus dem jeweiligen Zahlungsjahr und den drei vorausgehenden Jahren massgebend ist.
 
 <sup>3</sup> Der vertikale Finanzierungsbedarf entspricht der Differenz zwischen allen gestützt auf dieses Gesetz ausbezahlten Beiträgen und den Abgaben gemäss § 20 Abs. 1 lit a.
 
@@ -342,28 +345,15 @@ beschliesst:
 
 #### § 24
 
-**Übergangsrecht**
+**…**
 
-<sup>1</sup> Der Bestand des Finanzausgleichsfonds gemäss § 5 des Gesetzes über den Finanz- und Lastenausgleich (Finanzausgleichsgesetz, FLAG) vom 29. Juni 1983[^24-1] wird zu Beginn des Jahres, in dem das vorliegende Gesetz finanzwirksam wird, in die Spezialfinanzierung Finanzausgleich gemäss § 22 überführt.
+#### § 24a
 
-<sup>2</sup> Die Finanzausgleichszahlungen im Jahr des Inkrafttretens dieses Gesetzes erfolgen gestützt auf das bisherige Finanzausgleichsrecht.
+**Übergangsrecht zur Änderung vom 2. Juni 2026**
 
-<sup>3</sup> Alle Finanzausgleichszahlungen im Jahr nach dem Inkrafttreten dieses Gesetzes erfolgen gestützt auf dieses Gesetz.
+<sup>1</sup> Im ersten Jahr nach Inkrafttreten der Änderung vom 2. Juni 2026 werden die Beiträge des räumlich-strukturellen Lastenausgleichs den berechtigten Gemeinden zu einem Drittel nach neuem Recht sowie zu zwei Dritteln nach altem Recht ausbezahlt.
 
-<sup>4</sup> Soweit sich die Ermittlung des durchschnittlichen Steuerfusses gemäss § 5 Abs. 3 auf Jahre stützt, die vor der Finanzwirksamkeit dieses Gesetzes liegen, muss der errechnete durchschnittliche Steuerfuss im Umfang des Steuerfussabtauschs gemäss dem Gesetz über den Ausgleich der Aufgabenverschiebungsbilanz sowie über die Übergangsbeiträge (AVBiG) vom 1. März 2016[^24-2] reduziert werden.
-
-<sup>5</sup> Für die ersten beiden Jahre, in denen dieses Gesetz finanzwirksam ist, werden keine ordentlichen Ergänzungsbeiträge gemäss § 12 ausgerichtet.
-
-<sup>6</sup> Gesuche für ordentliche Ergänzungsbeiträge gemäss § 12, die das dritte Jahr betreffen, nachdem dieses Gesetz finanzwirksam geworden ist, können in Abweichung von § 16 Abs. 2 bis sechs Monate vor Beginn dieses dritten Jahres eingereicht werden.
-
-<sup>7</sup> Kann sich die Ermittlung der Beitragsgarantie gemäss § 19 noch nicht auf Beitragsleistungen gemäss diesem Gesetz aus drei Jahren abstützen, bilden das eine oder die beiden verfügbaren Jahre die Berechnungsbasis.
-
-<sup>8</sup> Liegt der Bestand der Spezialfinanzierung Finanzausgleich beim Inkrafttreten dieses Gesetzes über der Bandbreite gemäss § 22 Abs. 2, hat er diese Bandbreite spätestens nach fünf Jahren zu erreichen.
-
-<sup>9</sup> Der erste Wirkungsbericht gemäss § 23 ist dem Grossen Rat spätestens im sechsten Jahr, nachdem dieses Gesetz finanzwirksam geworden ist, zu unterbreiten.
-
-[^24-1]: SAR [615.100](https://gesetzessammlungen.ag.ch/data/615.100/de)
-[^24-2]: SAR [615.300](https://gesetzessammlungen.ag.ch/data/615.300/de)
+<sup>2</sup> Im zweiten Jahr nach Inkrafttreten der Änderung vom 2. Juni 2026 werden die Beiträge des räumlich-strukturellen Lastenausgleichs den berechtigten Gemeinden zu zwei Dritteln nach neuem Recht sowie zu einem Drittel nach altem Recht ausbezahlt.
 
 #### § 25
 
