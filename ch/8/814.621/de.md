@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Juni 2026 über Verpackungen (Verpackungsverordnung, 
 short: VerpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/358"
 language: de
-version: 2027-01-01
+version: 2028-01-01
 adopted: 2026-06-24
 in_force: 2027-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/358/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2026-358-20270101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/358/20280101/de/xml/fedlex-data-admin-ch-eli-cc-2026-358-20280101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20270101/de"
 
 (Verpackungsverordnung, VerpV)
 
-vom 24. Juni 2026 (Stand am 1. Januar 2027)
+vom 24. Juni 2026 (Stand am 1. Januar 2028)
 
 Der Schweizerische Bundesrat,
 
@@ -73,7 +73,7 @@ In dieser Verordnung bedeuten:
 
 [^3-1]
 
-[^3-1]: Tritt am 1. Januar 2030 in Kraft.
+[^3-1]: Tritt am 1. Jan. 2030 in Kraft.
 
 ## 2. Abschnitt: Getränkekartons und Einwegverpackungen aus Kunststoff
 
@@ -81,7 +81,7 @@ In dieser Verordnung bedeuten:
 
 [^4-1]
 
-[^4-1]: Tritt am 1. Januar 2031 in Kraft.
+[^4-1]: Tritt am 1. Jan. 2031 in Kraft.
 
 #### Art. 5
 
@@ -119,15 +119,27 @@ Wer Getränkekartons und Einwegverpackungen aus Kunststoff zurücknimmt, muss:
 
 [^7-1]
 
-[^7-1]: Tritt am 1. Januar 2032 in Kraft.
+[^7-1]: Tritt am 1. Jan. 2032 in Kraft.
 
 ## 3. Abschnitt: Vorgezogene Entsorgungsgebühr für Verpackungen aus Glas
 
 #### Art. 8
 
-[^8-1]
+**Gebührenpflicht**[^8-1]
 
-[^8-1]: Tritt am 1. Januar 2028 in Kraft.
+<sup>1</sup> Herstellerinnen und Hersteller, die leere Verpackungen aus Glas für die Verwendung im Inland abgeben oder solche Verpackungen einführen, müssen für diese einer vom BAFU beauftragten Organisation (Organisation) eine vorgezogene Entsorgungsgebühr (Gebühr) entrichten.
+
+<sup>2</sup> Die Gebührenpflicht gilt auch für Herstellerinnen und Hersteller, die befüllte Verpackungen aus Glas abgeben oder einführen, sofern die Gebühr nicht bereits auf der leeren Verpackung aus Glas entrichtet wurde.
+
+<sup>3</sup>
+
+Keine Gebühr müssen entrichten:
+
+- a. Herstellerinnen und Hersteller, die Verpackungen mit einem Füllvolumen von weniger als 0,02 l abgeben oder einführen;
+- b. Herstellerinnen und Hersteller, die pro Kalenderhalbjahr weniger als 1000 Verpackungen abgeben oder einführen;
+- c. Herstellerinnen und Hersteller, die leere und befüllte Verpackungen abgeben oder einführen, die weder für Lebensmittel noch für Kosmetikprodukte eingesetzt werden.
+
+[^8-1]: In Kraft seit 1. Jan. 2028.
 
 #### Art. 9
 
@@ -311,7 +323,7 @@ Herstellerinnen und Hersteller von Getränken müssen dem BAFU nach dessen Vorga
 
 [^22-1]
 
-[^22-1]: Tritt am 1. Januar 2031 in Kraft.
+[^22-1]: Tritt am 1. Jan. 2031 in Kraft.
 
 #### Art. 23
 

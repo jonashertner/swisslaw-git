@@ -4,11 +4,11 @@ title: Ordinanza del 24 giugno 2026 sugli imballaggi (OI)
 short: OI
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/358"
 language: it
-version: 2027-01-01
+version: 2028-01-01
 adopted: 2026-06-24
 in_force: 2027-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/358/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2026-358-20270101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/358/20280101/it/xml/fedlex-data-admin-ch-eli-cc-2026-358-20280101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20280101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20270101/it"
 
 (OI)
 
-del 24 giugno 2026 (Stato 1° gennaio 2027)
+del 24 giugno 2026 (Stato 1° gennaio 2028)
 
 Il Consiglio federale svizzero,
 
@@ -125,9 +125,21 @@ Chi riprende cartoni per bevande e imballaggi monouso in plastica deve:
 
 #### Art. 8
 
-[^8-1]
+**Obbligo della tassa**[^8-1]
 
-[^8-1]: Entra in vigore il 1° gen. 2028.
+<sup>1</sup> I produttori che consegnano imballaggi in vetro vuoti destinati all’impiego in Svizzera o che importano tali imballaggi sono tenuti a versare una tassa di smaltimento anticipata (tassa) a un’organizzazione incaricata dall’UFAM (organizzazione).
+
+<sup>2</sup> L’obbligo della tassa si applica anche ai produttori che consegnano o importano imballaggi in vetro pieni, a condizione che la tassa non sia stata già versata sugli imballaggi in vetro vuoti.
+
+<sup>3</sup>
+
+Non sono assoggettati all’obbligo della tassa:
+
+- a. i produttori che consegnano o importano imballaggi con un volume di riempimento inferiore a 0,02 litri;
+- b. i produttori che consegnano o importano meno di 1000 imballaggi per semestre civile;
+- c. i produttori che consegnano o importano imballaggi vuoti o pieni non destinati a essere impiegati per prodotti alimentari o cosmetici.
+
+[^8-1]: In vigore dal 1° gen. 2028.
 
 #### Art. 9
 

@@ -4,11 +4,11 @@ title: Ordonnance du 24 juin 2026 sur les emballages (OEmb)
 short: OEmb
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/358"
 language: fr
-version: 2027-01-01
+version: 2028-01-01
 adopted: 2026-06-24
 in_force: 2027-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/358/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2026-358-20270101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/358/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-2026-358-20280101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/358/20270101/fr"
 
 (OEmb)
 
-du 24 juin 2026 (État le 1<sup>er</sup> janvier 2027)
+du 24 juin 2026 (État le 1<sup>er</sup> janvier 2028)
 
 Le Conseil fédéral suisse,
 
@@ -125,9 +125,21 @@ Quiconque reprend des briques à boissons et des emballages à usage unique en m
 
 #### Art. 8
 
-[^8-1]
+**Assujettissement à la taxe**[^8-1]
 
-[^8-1]: Entre en vigueur le 1<sup>er</sup> janv. 2028.
+<sup>1</sup> Les fabricants qui remettent des emballages vides en verre destinés à être utilisés en Suisse ou importent des emballages de ce type sont tenus d’acquitter sur ces emballages une taxe d’élimination anticipée (taxe) à une organisation que l’OFEV aura mandatée (organisation).
+
+<sup>2</sup> L’assujettissement vaut également pour les fabricants qui remettent ou importent des emballages pleins en verre, pour autant que la taxe n’ait pas déjà été acquittée sur les emballages vides en verre.
+
+<sup>3</sup>
+
+Sont exemptés de la taxe:
+
+- a. les fabricants qui remettent ou importent des emballages d’une contenance inférieure à 0,02 l;
+- b. les fabricants qui remettent ou importent moins de 1000 emballages par semestre de l’année civile;
+- c. les fabricants qui remettent ou importent des emballages vides ou pleins qui ne sont utilisés ni pour des denrées alimentaires, ni pour des produits cosmétiques.
+
+[^8-1]: En vigueur depuis le 1<sup>er</sup> janv. 2028.
 
 #### Art. 9
 
