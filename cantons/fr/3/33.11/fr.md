@@ -4,13 +4,12 @@ number: "33.11"
 title: "Ordonnance sur les amendes d'ordre de droit cantonal et de droit fédéral"
 short: OCAO
 language: fr
-version: 2025-09-01
-valid_until: 2027-06-30
-version_adopted: 2025-08-19
+version: 2027-07-01
+version_adopted: 2026-06-24
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8378/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8641/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Amendes d'ordre – O
 
 (OCAO)
 
-du 23.11.2021 (version entrée en vigueur le 01.09.2025)
+du 23.11.2021 (version entrée en vigueur le 01.07.2027)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -207,7 +206,7 @@ Arrête:
 <tr><td>FR 219</td><td>Annonce pour contrôle (art. 29 LCha / art. 77 al. 1 OCha)</td><td>Fr. 100.–</td></tr>
 </table>
 
-<sup>2</sup> Ordonnance du 11 novembre 2013 concernant la zone de tranquillité de la Berra:
+<sup>2</sup> Ordonnance du 24 juin 2026 concernant les zones de tranquillité:
 
 <table>
 <tr><th>Numéro d'amende d'ordre</th><th>Infractions</th><th>Montant forfaitaire</th></tr>

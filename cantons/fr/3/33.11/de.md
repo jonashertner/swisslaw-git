@@ -4,13 +4,12 @@ number: "33.11"
 title: Verordnung über kantons- und bundesrechtliche Ordnungsbussen
 short: KOBV
 language: de
-version: 2025-09-01
-valid_until: 2027-06-30
-version_adopted: 2025-08-19
+version: 2027-07-01
+version_adopted: 2026-06-24
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8378/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8641/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ordnungsbussen – V
 
 (KOBV)
 
-vom 23.11.2021 (Fassung in Kraft getreten am 01.09.2025)
+vom 23.11.2021 (Fassung in Kraft getreten am 01.07.2027)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -207,7 +206,7 @@ beschliesst:
 <tr><td>FR 219</td><td>Benachrichtigung für Kontrolle (Art. 29 JaG / Art. 77 Abs. 1 JaV)</td><td>Fr. 100.–</td></tr>
 </table>
 
-<sup>2</sup> Verordnung vom 11. November 2013 über die Wildruhezone La Berra (SGF 922.31):
+<sup>2</sup> Verordnung vom 24. Juni 2026 über die Wildruhezonen:
 
 <table>
 <tr><th>Ordnungsbussennummer</th><th>Widerhandlungen</th><th>Pauschalbetrag</th></tr>
