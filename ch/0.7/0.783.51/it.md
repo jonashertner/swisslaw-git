@@ -3,11 +3,11 @@ sr: "0.783.51"
 title: "Costituzione dell'Unione postale universale del 10 luglio 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/167_167_167"
 language: it
-version: 2024-07-16
+version: 2027-01-01
 adopted: 1964-07-10
 in_force: 1966-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20240716/it/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20240716-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20240716/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,24 +16,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20240716/it"
 
 RU **1966** 197; FF **1965** II 793[^t-1]
 
-Conclusa a Vienna il 10 luglio 1964 Approvata dall’Assemblea federale il 16 dicembre 1965[^t-2] Istrumenti di ratificazione depositati dalla Svizzera il 4 febbraio 1966 Entrata in vigore per la Svizzera il 1° gennaio 1966 Modificata dai Protocolli aggiuntivi di Tokyo 1969, di Losanna 1974,
+Conclusa a Vienna il 10 luglio 1964 Approvata dall’Assemblea federale il 16 dicembre 1965[^t-2] Istrumenti di ratificazione depositati dalla Svizzera il 4 febbraio 1966 Entrata in vigore per la Svizzera il 1° gennaio 1966 Modificata dai Protocolli aggiuntivi di Tokyo 1969, di Losanna 1974, di Amburgo 1984, di Washington 1989, di Seul 1994, di Pechino 1999, di Bucarest 2004, di Ginevra 2008, di Istanbul 2016, di Addis-Abeba 2018, di Abidjan 2021 e di Dubai 2025[^t-3]
 
-di Amburgo 1984, di Washington 1989, di Seul 1994, di Pechino 1999, di Bucarest 2004, di Ginevra 2008, di Istanbul 2016, di Addis-Abeba 2018 e di Abidjan 2021[^t-3]
+(Stato 1° gennaio 2027)
 
-(Stato 16 luglio 2024)
-
-[^t-1]: Versione consolidata ([RU 2022 659](https://fedlex.data.admin.ch/eli/oc/2022/659)).
-[^t-2]: Art. 1 n. 1 del DF del 16 dic. 1965 ([RU 1966 165](https://fedlex.data.admin.ch/eli/oc/1966/165_165_165))
-[^t-3]: 11° Prot. aggiuntivo alla Cost., adottato ad Abidjan il 26 ago. 2021, ratificato dalla Svizzera il 7 ott. 2022, entrato in vigore per la Svizzera il 7 ott. 2022.
+[^t-1]: Versione consolidata ([RU 2026 335](https://fedlex.data.admin.ch/eli/oc/2026/335)).
+[^t-2]: Art. 1 n. 1 del DF del 16 dic. 1965 ([RU 1966 165](https://fedlex.data.admin.ch/eli/oc/1966/165_165_165)).
+[^t-3]: 12° Prot. aggiuntivo alla Cost., adottato a Dubai il 19 set. 2025, strumento di ratifica svizzero depositato il 10 apr. 2026, entrato in vigore per la Svizzera il 1° gen. 2027.
 
 *Preambolo*[^ingress-1]
 
-Al fine di sviluppare la comunicazione tra i popoli tramite il funzionamento efficace dei servizi postali e di contribuire a raggiungere gli obiettivi di alto livello relativi alla collaborazione internazionale in ambito culturale, sociale ed economico, i Plenipotenziari dei Governi dei Paesi contraenti hanno adottato, con riserva di ratifica, *di accettazione o di approvazione*[^ingress-2] la presente Costituzione.
+Al fine di sviluppare la comunicazione tra i popoli tramite il funzionamento efficace dei servizi postali e di contribuire a raggiungere gli obiettivi di alto livello relativi alla collaborazione internazionale in ambito culturale, sociale ed economico, i Plenipotenziari dei Governi dei Paesi contraenti hanno adottato, con riserva di ratifica, *di accettazione o di approvazione*[^ingress-2], la presente Costituzione.
 
 L’Unione *postale universale (di seguito «l’Unione»)*[^ingress-3] si prefigge di stimolare lo sviluppo durevole di servizi postali universali di qualità, efficaci e accessibili per facilitare la comunicazione tra gli abitanti di tutto il pianeta:
 
 - – garantendo la libera circolazione degli invii postali su un territorio postale unico composto di reti interconnesse;
-- – incoraggiando l’adozione di norme comuni eque e l’utilizzazione della tecnologica;
+- – incoraggiando l’adozione di norme comuni eque e l’utilizzazione della tecnologia;
 - – assicurando la cooperazione e l’interazione tra le parti interessate;
 - – favorendo una cooperazione tecnica efficace;
 - – garantendo che siano soddisfatte le sempre nuove esigenze dei clienti.
@@ -50,7 +48,7 @@ L’Unione *postale universale (di seguito «l’Unione»)*[^ingress-3] si prefi
 
 **Portata e scopo dell’Unione**
 
-<sup>1.</sup> I Paesi che adottano la presente Costituzione formano, *nel quadro dell’organiz**zazione intergovernativa denominata* «Unione postale universale»[^1-1], un solo territorio postale per lo scambio reciproco di invii *postali*. La libertà di transito è garantita in tutto il territorio dell’Unione, *fatte salve le condizioni previste negli Atti dell’Unione*[^1-2] *e in qualsivoglia relativo protocollo addizionale (di seguito denominati collettivamente «Atti dell’Unione»)*[^1-3].
+<sup>1.</sup> I Paesi che adottano la presente Costituzione formano, *nel quadro dell’organizzazione intergovernativa denominata* «Unione postale universale»[^1-1], un solo territorio postale per lo scambio reciproco di invii *postali*. La libertà di transito è garantita in tutto il territorio dell’Unione, *fatte salve le condizioni previste negli Atti dell’Unione*[^1-2] *e in qualsivoglia relativo protocollo aggiuntivo (di seguito denominati collettivamente «Atti dell’Unione»)*[^1-3].
 
 <sup>2.</sup> L’Unione si prefigge di assicurare l’organizzazione e il perfezionamento dei servizi postali e di favorire in questo ambito lo sviluppo della collaborazione internazionale.
 
@@ -66,7 +64,7 @@ L’Unione *postale universale (di seguito «l’Unione»)*[^ingress-3] si prefi
 
 <sup>1.</sup>
 
-Ai sensi degli Atti dell’*Unione*[^2-2], i termini qui di seguito sono definiti come segue:
+Ai sensi degli Atti dell’Unione[^2-2], i termini qui di seguito sono definiti come segue:
 
 - 1\.1 Servizio postale: insieme di servizi postali *internazionali* la cui portata è determinata e *disciplinata negli Atti dell’Unione*. Gli obblighi principali legati a questi servizi consistono nel soddisfare certi obiettivi sociali ed economici dei Paesi membri, assicurando la raccolta, il *trattamento*[^2-3], la trasmissione e la distribuzione degli invii postali.
 - 1\.2 Paese membro: Paese che soddisfa le condizioni di cui all’articolo 3 della Costituzione.
@@ -76,18 +74,18 @@ Ai sensi degli Atti dell’*Unione*[^2-2], i termini qui di seguito sono definit
 - 1\.6[^2-10] Operatore designato: qualsiasi unità governativa o non governativa designata ufficialmente dal Paese membro per assicurare sul proprio territorio il funzionamento dei servizi postali e soddisfare i relativi obblighi derivanti dagli Atti dell’Unione[^2-11].
 - 1\.7[^2-12] Riserva: una riserva è una disposizione derogatoria in forza della quale un Paese membro intende escludere o modificare gli effetti giuridici di una clausola di un Atto, diverso dalla Costituzione e dal Regolamento generale, applicandola al Paese membro in questione. Qualsiasi riserva deve essere conciliabile con gli obiettivi e le finalità dell’Unione come definiti nel preambolo e nell’articolo 1 della Costituzione. Deve inoltre essere debitamente motivata e approvata dalla maggioranza richiesta per l’approvazione dell’Atto in questione e iscritta nel relativo protocollo finale[^2-13].
 
-[^2-1]: Originario art. 1<sup>bis</sup> (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Introdotto dal Congresso di Bucarest 2004.
+[^2-1]: Originario art. 1<sup>bis</sup> (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Introdotto dal Congresso di Bucarest 2004.
 [^2-2]: Modificato dal Congresso di Abidjan 2021.
 [^2-3]: Modificato dal Congresso di Istanbul 2016.
 [^2-4]: Modificato dal Congresso di Istanbul 2016.
 [^2-5]: Modificato dal Congresso di Ginevra 2008.
 [^2-6]: Modificato dal Congresso di Istanbul 2016.
-[^2-7]: Originario para.1.6<sup>bis</sup> (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario par. 1.5 é abrogato dal Congresso di Abidjan 2021.
+[^2-7]: Originario par.1.6<sup>bis</sup> (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario par. 1.5 è stato abrogato dal Congresso di Abidjan 2021.
 [^2-8]: Modificato dal Congresso di Abidjan 2021.
 [^2-9]: Introdotto dal Congresso di Istanbul 2016.
-[^2-10]: Originario para.1.7 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario par.1.6 é abrogato dal Congresso d’Istanbul 2016.
+[^2-10]: Originario par.1.7 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario par.1.6 è stato abrogato dal Congresso d’Istanbul 2016.
 [^2-11]: Modificato dal Congresso di Ginevra 2008.
-[^2-12]: Originario para.1.8 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^2-12]: Originario par.1.8 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^2-13]: Modificato dal Congresso di Ginevra 2008.
 
 #### Art. 3
@@ -101,7 +99,7 @@ Sono Paesi membri dell’Unione:
 - 1\.1 i Paesi che hanno la qualifica di membro alla data dell’entrata in vigore della presente Costituzione;
 - 1\.2 i Paesi divenuti membri conformemente all’articolo 12.
 
-[^3-1]: Originario art. 2 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^3-1]: Originario art. 2 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 4
 
@@ -115,15 +113,15 @@ Nella sfera di competenze dell’Unione rientrano:
 - 1\.2 gli uffici postali designati dai Paesi membri nei propri territori non compresi nell’Unione;
 - 1\.3 i territori che senza essere membri dell’Unione vi sono inclusi perché, dal punto di vista postale, dipendono dai Paesi membri.
 
-[^4-1]: Originario art. 3 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^4-1]: Originario art. 3 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 5
 
 **Relazioni eccezionali**[^5-1]
 
-<sup>1.</sup> I Paesi membri i cui operatori designati forniscono *servizi postali per conto di*[^5-2] una copertura in territori non compresi nell’Unione sono tenuti a fungere da intermediari per gli altri Paesi membri[^5-3]. Le disposizioni della Convenzione e dei suoi Regolamenti sono applicabili a queste relazioni eccezionali.
+I Paesi membri i cui operatori designati forniscono *servizi postali per conto di*[^5-2] una copertura in territori non compresi nell’Unione sono tenuti a fungere da intermediari per gli altri Paesi membri[^5-3]. Le disposizioni della Convenzione e dei suoi Regolamenti sono applicabili a queste relazioni eccezionali.
 
-[^5-1]: Originario art. 4 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^5-1]: Originario art. 4 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^5-2]: Modificato dal Congresso di Abidjan 2021.
 [^5-3]: Modificato dal Congresso di Ginevra 2008.
 
@@ -131,58 +129,62 @@ Nella sfera di competenze dell’Unione rientrano:
 
 **Sede dell’Unione**[^6-1]
 
-<sup>1.</sup> L’Unione e i suoi organi permanenti hanno sede a Berna.
+L’Unione e i suoi organi permanenti hanno sede a Berna.
 
-[^6-1]: Originario art. 5 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^6-1]: Originario art. 5 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 7
 
 **Lingua ufficiale dell’Unione**[^7-1]
 
-<sup>1.</sup> La lingua ufficiale dell’Unione è il francese.
+La lingua ufficiale dell’Unione è il francese.
 
-[^7-1]: Originario art. 6 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^7-1]: Originario art. 6 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 8
 
 **Unità monetaria**[^8-1]
 
-<sup>1.</sup> L’unità monetaria utilizzata negli Atti dell’Unione è l’unità di conto del Fondo monetario internazionale (FMI).
+L’unità monetaria utilizzata negli Atti dell’Unione è l’unità di conto del Fondo monetario internazionale (FMI).
 
-[^8-1]: Originario art. 7 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Washington 1989.
+[^8-1]: Originario art. 7 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Washington 1989.
 
 #### Art. 9
 
-**Unioni ristrette. Intese speciali**[^9-1]
+**Unioni regionali[^9-2]. Intese speciali**[^9-1]
 
-<sup>1.</sup> I Paesi membri, o i loro operatori designati se la legislazione di questi Paesi membri[^9-2] non vi si oppone, possono concludere Unioni ristrette e stringere Intese speciali riguardanti il servizio *postale*[^9-3], ma a condizione di non introdurre disposizioni meno favorevoli per il pubblico rispetto a quelle previste dagli Atti sottoscritti dai Paesi membri interessati.
+<sup>1.</sup> I Paesi membri, o i loro operatori designati se la legislazione di questi Paesi membri[^9-3] non vi si oppone, possono concludere Unioni regionali[^9-4] e stringere Intese speciali riguardanti il servizio *postale*[^9-5], a condizione tuttavia di non introdurre disposizioni meno favorevoli per il pubblico rispetto a quelle previste dagli Atti sottoscritti dai Paesi membri interessati.
 
-<sup>2.</sup> Le Unioni ristrette possono inviare osservatori ai Congressi, *al Consiglio di amministrazione, al Consiglio Operativo Postale e ad altre*[^9-4] Conferenze e riunioni *organizzate dall’Unione*[^9-5].
+<sup>2.</sup> Le Unioni regionali[^9-6] possono inviare osservatori ai Congressi, *al Consiglio di amministrazione, al Consiglio Operativo Postale e ad altre*[^9-7] Conferenze e riunioni *organizzate dall’Unione*[^9-8].
 
-<sup>3.</sup> L’Unione può inviare degli osservatori ai Congressi, alle Conferenze e alle riunioni delle Unioni ristrette.
+<sup>3.</sup> L’Unione può inviare osservatori ai Congressi, alle Conferenze e alle riunioni delle Unioni regionali[^9-9].
 
-[^9-1]: Originario art. 8 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
-[^9-2]: Modificato dal Congresso di Ginevra 2008.
-[^9-3]: Modificato dal Congresso di Abidjan 2021.
-[^9-4]: Modificato dal Congresso straordinario di Addis-Abeba 2018.
-[^9-5]: Modificato dai Congressi di Tokyo 1969, di Seul 1994 e dal Congresso straordinario di Addis-Abeba 2018.
+[^9-1]: Originario art. 8 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^9-2]: Modificato dal Congresso di Dubai 2025.
+[^9-3]: Modificato dal Congresso di Ginevra 2008.
+[^9-4]: Modificato dal Congresso di Dubai 2025.
+[^9-5]: Modificato dal Congresso di Abidjan 2021.
+[^9-6]: Modificato dal Congresso di Dubai 2025.
+[^9-7]: Modificato dal Congresso straordinario di Addis-Abeba 2018.
+[^9-8]: Modificato dai Congressi di Tokyo 1969, di Seul 1994 e dal Congresso straordinario di Addis-Abeba 2018.
+[^9-9]: Modificato dal Congresso di Dubai 2025.
 
 #### Art. 10
 
 **Relazioni con l’Organizzazione delle Nazioni Unite**[^10-1]
 
-<sup>1.</sup> Le relazioni tra l’Unione e l’Organizzazione delle Nazioni Unite (ONU) sono disciplinate dagli *accordi*[^10-2] i cui testi sono allegati alla presente Costituzione.
+Le relazioni tra l’Unione e l’Organizzazione delle Nazioni Unite (ONU) sono disciplinate dagli *accordi*[^10-2] i cui testi sono allegati alla presente Costituzione.
 
-[^10-1]: Originario art. 9 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^10-1]: Originario art. 9 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^10-2]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 11
 
 **Relazioni con le organizzazioni internazionali**[^11-1]
 
-<sup>1.</sup> Al fine di garantire una stretta cooperazione nel settore postale internazionale, l’Unione può collaborare con le organizzazioni internazionali che hanno interessi e attività in comune.
+Al fine di garantire una stretta cooperazione nel settore postale internazionale, l’Unione può collaborare con le organizzazioni internazionali che hanno interessi e attività in comune.
 
-[^11-1]: Originario art. 10 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^11-1]: Originario art. 10 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 ### Capitolo II: Adesione o ammissione all’Unione. Uscita dall’Unione
 
@@ -196,11 +198,11 @@ Nella sfera di competenze dell’Unione rientrano:
 
 <sup>3.</sup> L’adesione o la domanda di adesione all’Unione deve contenere una dichiarazione formale di adesione alla Costituzione e agli Atti obbligatori dell’Unione. È inviata dal Governo del Paese interessato al direttore generale dell’Ufficio internazionale che, a seconda dei casi, notifica l’adesione o consulta i Paesi membri in merito alla domanda di adesione.
 
-<sup>4.</sup> Il Paese non membro dell’ONU è considerato come ammesso in qualità di Paese membro se la sua domanda è accolta da almeno due terzi dei Paesi membri dell’Unione. I Paesi membri *le cui risposte non sono state ricevute dall’Ufficio internazionale*[^12-2] entro l’arco di tempo di quattro mesi a decorrere dalla data della consultazione[^12-3] sono considerati come astenuti. *Le risposte di cui sopra, da fornire all’Ufficio internazionale in formato cartaceo o elettronico sicuro, devono essere firmate da un rappresentante debitamente autorizzato dell’autorità governativa del Paese membro interessato. Ai fini del presente paragrafo, l’espressione «formato elettronico* *sicuro**» si riferisce a qualsiasi mezzo elettronico utilizzato per il trattamento, lo stoccaggio e la trasmissione di dati che garantisca l’integralità, l’integrità e la con**fidenzialità di tali dati in occasione della fornitura delle risposte di cui sopra da parte di un Paese membro*[^12-4]*.*
+<sup>4.</sup> Il Paese non membro dell’ONU è considerato come ammesso in qualità di Paese membro se la sua domanda è accolta da almeno due terzi dei Paesi membri dell’Unione. I Paesi membri *le cui risposte non sono state ricevute dall’Ufficio internazionale*[^12-2] entro quattro mesi a decorrere dalla data della consultazione[^12-3] sono considerati come astenuti. *Le risposte di cui sopra, da fornire all’Ufficio internazionale in formato cartaceo o elettronico sicuro, devono essere firmate da un rappresentante debitamente autorizzato dell’autorità governativa del Paese membro interessato. Ai fini del presente paragrafo, l’espressione «formato elettronico sicuro» si riferisce a qualsiasi mezzo elettronico utilizzato per il trattamento, lo stoccaggio e la trasmissione di dati che garantisca l’integralità, l’integrità e la confidenzialità di tali dati in occasione della fornitura delle risposte di cui sopra da parte di un Paese membro*[^12-4].
 
 <sup>5.</sup> L’adesione o l’ammissione in qualità di membro è notificata dal direttore generale dell’Ufficio internazionale ai Governi dei Paesi membri. Ha effetto a partire dalla data di questa notifica.
 
-[^12-1]: Originario art. 11 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969 e di Washington 1989.
+[^12-1]: Originario art. 11 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969 e di Washington 1989.
 [^12-2]: Modificato dal Congresso di Abidjan 2021.
 [^12-3]: Modificato dal Congresso di Ginevra 2008.
 [^12-4]: Modificato dal Congresso di Abidjan 2021.
@@ -213,7 +215,7 @@ Nella sfera di competenze dell’Unione rientrano:
 
 <sup>2.</sup> L’uscita dall’Unione ha effetto un anno dopo *il ricevimento, da parte del*[^13-2] direttore generale dell’Ufficio internazionale, della denuncia di cui al paragrafo 1.
 
-[^13-1]: Originario art. 12 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Washington 1989.
+[^13-1]: Originario art. 12 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Washington 1989.
 [^13-2]: Modificato dal Congresso di Abidjan 2021.
 
 ### Capitolo III: Organizzazione dell’Unione
@@ -226,7 +228,7 @@ Nella sfera di competenze dell’Unione rientrano:
 
 <sup>2.</sup> Gli organi permanenti dell’Unione sono il Consiglio d’amministrazione, il Consiglio Operativo Postale e l’Ufficio internazionale.
 
-[^14-1]: Originario art. 13 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969, di Amburgo 1984 e di Seul 1994.
+[^14-1]: Originario art. 13 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969, di Amburgo 1984 e di Seul 1994.
 
 #### Art. 15
 
@@ -236,15 +238,15 @@ Nella sfera di competenze dell’Unione rientrano:
 
 <sup>2.</sup> Il Congresso si compone dei rappresentanti dei Paesi membri.
 
-[^15-1]: Originario art. 14 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^15-1]: Originario art. 14 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 16
 
 **Congressi straordinari**[^16-1]
 
-<sup>1.</sup> Un Congresso straordinario può riunirsi su domanda o con il consenso di almeno due terzi dei Paesi membri dell’Unione.
+Un Congresso straordinario può riunirsi su domanda o con il consenso di almeno due terzi dei Paesi membri dell’Unione.
 
-[^16-1]: Originario art. 15 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^16-1]: Originario art. 15 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario art. 16 è stato abrogato dal Congresso di Amburgo 1984.
 
 #### Art. 17
 
@@ -271,9 +273,9 @@ Nella sfera di competenze dell’Unione rientrano:
 
 **Ufficio internazionale**[^19-1]
 
-<sup>1.</sup> Un ufficio centrale, attivo presso la sede dell’Unione sotto la denominazione di Ufficio internazionale dell’Unione postale universale, diretto da un direttore generale e controllato dal Consiglio di amministrazione, costituisce l’organo esecutivo, di sostegno, di collegamento, d’informazione e di consulenza.
+Un ufficio centrale, attivo presso la sede dell’Unione sotto la denominazione di Ufficio internazionale dell’Unione postale universale, diretto da un direttore generale e controllato dal Consiglio di amministrazione, costituisce l’organo esecutivo, di sostegno, di collegamento, d’informazione e di consulenza.
 
-[^19-1]: Originario art. 20 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario art. 19 é abrogato dal Congresso di Amburgo 1984. Modificato dai Congressi di Amburgo 1984 e di Seul 1994.
+[^19-1]: Originario art. 20 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario art. 19 è stato abrogato dal Congresso di Amburgo 1984. Modificato dai Congressi di Amburgo 1984 e di Seul 1994.
 
 ### Capitolo IV: Finanze dell’Unione
 
@@ -294,7 +296,7 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>4.</sup> In caso di adesione o di ammissione all’Unione in virtù dell’articolo 12, il Paese interessato *sceglie*[^20-3] la classe di contribuzione cui intende essere assegnato sul piano della ripartizione delle spese dell’Unione, *sempre sulla base delle disposizioni corrispondenti sancite nel Regolamento generale*[^20-4].
 
-[^20-1]: Originario art. 21 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969, di Losanna 1974 e di Washington 1989.
+[^20-1]: Originario art. 21 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969, di Losanna 1974 e di Washington 1989.
 [^20-2]: Modificato dal Congresso di Abidjan 2021.
 [^20-3]: Modificato dal Congresso di Abidjan 2021.
 [^20-4]: Modificato dal Congresso di Abidjan 2021.
@@ -311,15 +313,15 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>2.</sup> Il Regolamento generale include le disposizioni che assicurano l’applicazione della Costituzione e il funzionamento dell’Unione. È vincolante per tutti i Paesi membri e non può essere oggetto di riserve[^21-3].
 
-<sup>3.</sup> La *Convenzione*[^21-4] e il suo Regolamento[^21-5] includono le regole comuni applicabili al servizio *postale*[^21-6] e le disposizioni relative ai servizi della posta-lettere e dei pacchi postali. Questi atti sono vincolanti per tutti i Paesi membri[^21-7]. I Paesi membri vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalla Convenzione e dal *suo Regolamento*[^21-8].
+<sup>3.</sup> La *Convenzione*[^21-4] e il suo Regolamento[^21-5] includono le regole comuni applicabili al servizio *postale*[^21-6]. Questi atti sono vincolanti per tutti i Paesi membri[^21-7]. I Paesi membri vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalla Convenzione e dal *suo Regolamento*[^21-8].
 
-<sup>4.</sup> Le Intese dell’Unione e i loro Regolamenti *definiscono e*[^21-9] disciplinano *rispettivamente*[^21-10] i servizi diversi da quelli *definiti e disciplinati nella Convenzione e nel suo regolamento*[^21-11] tra i Paesi membri contraenti. Sono obbligatori unicamente per questi Paesi membri. I Paesi membri firmatari vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalle Intese *dell’Unione*[^21-12] e dai loro Regolamenti[^21-13].
+<sup>4.</sup> Le Intese dell’Unione e i loro Regolamenti *definiscono e*[^21-9] disciplinano *rispettivamente*[^21-10] i servizi diversi da quelli *definiti e disciplinati nella Convenzione e nel suo Regolamento*[^21-11] tra i Paesi membri contraenti. Sono obbligatori unicamente per questi Paesi membri. I Paesi membri firmatari vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalle Intese *dell’Unione*[^21-12] e dai loro Regolamenti[^21-13].
 
 <sup>5.</sup> I Regolamenti che includono le misure di applicazione necessarie all’esecuzione della Convenzione e delle Intese *dell’Unione*[^21-14] sono elaborati dal Consiglio Operativo Postale in base alle decisioni prese dal Congresso[^21-15].
 
 <sup>6.</sup> Gli eventuali Protocolli finali allegati agli Atti dell’Unione di cui ai paragrafi 3–5 contengono le riserve a questi Atti.
 
-[^21-1]: Originario art. 22 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^21-1]: Originario art. 22 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^21-2]: Modificato dal Congresso di Bucarest 2004.
 [^21-3]: Modificato dal Congresso di Bucarest 2004.
 [^21-4]: Modificato dal Congresso di Abidjan 2021.
@@ -339,7 +341,7 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 **Applicazione degli Atti dell’Unione ai territori per cui un Paese membro assicura le relazioni internazionali**[^22-1]
 
-<sup>1.</sup> Qualsiasi Paese può dichiarare in qualsiasi momento che l’accettazione degli Atti dell’Unione da parte sua interessa tutti i territori per i quali assicura le relazioni internazionali o soltanto alcuni di questi.
+<sup>1.</sup> Qualsiasi Paese può dichiarare in qualsiasi momento che l’accettazione degli Atti dell’Unione da parte sua interessa tutti i territori per i quali assicura le relazioni internazionali o soltanto alcuni di essi.
 
 <sup>2.</sup> La dichiarazione di cui al paragrafo 1 deve essere inoltrata al direttore generale dell’Ufficio internazionale.
 
@@ -349,15 +351,15 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>5.</sup> Le disposizioni di cui ai paragrafi 1–4 non si applicano ai territori che hanno la qualifica di membro dell’Unione e per cui un Paese membro assicura le relazioni internazionali.
 
-[^22-1]: Originario art. 23 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Washington 1989.
+[^22-1]: Originario art. 23 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Washington 1989.
 
 #### Art. 23
 
 **Legislazioni nazionali**[^23-1]
 
-<sup>1.</sup> Le stipule degli Atti dell’Unione non pregiudicano la legislazione dei singoli Paesi membri per tutto ciò che non è esplicitamente previsto dagli Atti.
+Le stipule degli Atti dell’Unione non pregiudicano la legislazione dei singoli Paesi membri per tutto ciò che non è esplicitamente previsto dagli Atti.
 
-[^23-1]: Originario art. 24 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^23-1]: Originario art. 24 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 ### Capitolo II: Accettazione e denuncia degli Atti dell’Unione
 
@@ -369,17 +371,17 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>2.</sup> I Regolamenti sono autenticati dal presidente e dal segretario generale del Consiglio Operativo Postale[^24-4].
 
-<sup>3.</sup> *Gli Atti dell’Unione sono ratificati, accettati o approvati*[^24-5] al più presto dai Paesi firmatari, *conformemente alle loro rispettive regole costituzionali*[^24-6]*.*
+<sup>3.</sup> *Gli Atti dell’Unione sono ratificati, accettati o approvati*[^24-5] al più presto dai Paesi firmatari *conformemente alle loro rispettive regole costituzionali*[^24-6].
 
-<sup>4.</sup> *(Abrogato)*[^24-7]
+<sup>4.</sup> *(**Abrogato)*[^24-7]
 
-<sup>5.</sup> Se un Paese membro[^24-8] non ratifica, *non accetta o non approva gli* Atti dell’Unione da lui firmati, *tali*[^24-9] Atti rimangono validi per i Paesi membri[^24-10] che li hanno ratificati, *accettati*[^24-11] o approvati.
+<sup>5.</sup> Se un Paese membro[^24-8] non ratifica, *non accetta o non approva* gli Atti dell’Unione da lui firmati, *tali*[^24-9] Atti rimangono validi per i Paesi membri[^24-10] che li hanno ratificati, *accettati*[^24-11] o approvati.
 
-\6. *I Paesi membri possono, in qualsiasi momento, aderire agli Atti dell’Unione che non hanno ratificato, conformemente alle procedure pertinenti enunciate nel Regolamento interno del Congresso*[^24-12]*.*
+<sup>6.</sup> *I Paesi membri possono, in qualsiasi momento, aderire agli Atti dell’Unione che non hanno ratificato, conformemente alle procedure pertinenti enunciate nel Regolamento interno del Congresso*[^24-12].
 
-\7. *L’adesione dei Paesi membri agli Atti dell’Unione è notificata conformemente all’articolo 25.*[^24-13]
+<sup>7.</sup> *L’adesione dei Paesi membri agli Atti dell’Unione è notificata conformemente all’articolo 25.*[^24-13]
 
-[^24-1]: Originario art. 25 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Washington 1989 e di Seul 1994.
+[^24-1]: Originario art. 25 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Washington 1989 e di Seul 1994.
 [^24-2]: Modificato dal Congresso di Abidjan 2021.
 [^24-3]: Modificato dal Congresso di Abidjan 2021.
 [^24-4]: Modificato dal Congresso di Pechino 1999.
@@ -395,11 +397,11 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 #### Art. 25
 
-**Notificazione di ratifiche*, accettazioni, approvazioni*[^25-2] degli Atti dell’Unione *e adesione a questi ultimi*[^25-3]**[^25-1]
+**Notificazione di ratifiche, *accettazioni, approvazioni*[^25-2] degli Atti dell’Unione *e adesione a questi ultimi*[^25-3]**[^25-1]
 
-<sup>1.</sup> Gli strumenti di ratifica, *di accettazione, di approvazione degli*[^25-4] Atti dell’Unione *e di adesione a questi ultimi*[^25-5] saranno depositati nel più breve tempo possibile presso il direttore generale dell’Ufficio internazionale, il quale ne notifica il deposito ai Governi dei Paesi membri.
+Gli strumenti di ratifica, *di accettazione, di approvazione degli*[^25-4] Atti dell’Unione *e di adesione a questi ultimi*[^25-5] saranno depositati nel più breve tempo possibile presso il direttore generale dell’Ufficio internazionale, il quale ne notifica il deposito ai Governi dei Paesi membri.
 
-[^25-1]: Originario art. 26 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969 e di Washington 1989.
+[^25-1]: Originario art. 26 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dai Congressi di Tokyo 1969 e di Washington 1989.
 [^25-2]: Modificato dal Congresso di Abidjan 2021.
 [^25-3]: Modificato dal Congresso di Abidjan 2021.
 [^25-4]: Modificato dal Congresso di Abidjan 2021.
@@ -409,9 +411,9 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 **Denuncia *delle Intese dell’Unione*[^26-2]**[^26-1]
 
-<sup>1.</sup> Ogni Paese membro ha la facoltà di interrompere la propria partecipazione a una o più Intese *dell’Unione, su riserva delle*[^26-3] condizioni sancite dall’articolo 13 *applicabili per analogia*[^26-4].
+Ogni Paese membro ha la facoltà di interrompere la propria partecipazione a una o più Intese *dell’Unione, su riserva delle*[^26-3] condizioni sancite nell’articolo 13 *applicabili per analogia*[^26-4].
 
-[^26-1]: Originario art. 28 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^26-1]: Originario art. 28 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^26-2]: Modificato dal Congresso di Abidjan 2021.
 [^26-3]: Modificato dal Congresso di Abidjan 2021.
 [^26-4]: Modificato dal Congresso di Abidjan 2021.
@@ -426,12 +428,13 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>2.</sup> Tuttavia, le proposte relative alla Costituzione e al Regolamento generale possono essere presentate unicamente al Congresso.
 
-<sup>3.</sup> Inoltre le proposte relative ai Regolamenti sono *sottoposte*[^27-3] al Consiglio Operativo Postale *tramite*[^27-4] l’Ufficio internazionale.
+<sup>3.</sup> Inoltre, le proposte relative ai Regolamenti sono *sottoposte*[^27-3] al Consiglio Operativo Postale *tramite*[^27-4] l’Ufficio internazionale.[^27-5]
 
-[^27-1]: Originario art. 29 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario art. 27 é abrogato dal Congresso di Abidjan 2021.
+[^27-1]: Originario art. 29 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’originario art. 27 è stato abrogato dal Congresso di Abidjan 2021.
 [^27-2]: Modificato dal Congresso di Ginevra 2008.
 [^27-3]: Modificato dal Congresso di Abidjan 2021.
 [^27-4]: Modificato dal Congresso di Abidjan 2021.
+[^27-5]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 28
 
@@ -439,9 +442,9 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>1.</sup> Per essere adottate, le proposte presentate al Congresso e relative alla presente Costituzione devono essere approvate da almeno due terzi dei Paesi membri dell’Unione aventi diritto di voto[^28-2].
 
-<sup>2.</sup> Le modifiche *della Costituzione*[^28-3] adottate da un Congresso sono oggetto di un Protocollo aggiuntivo e*d*[^28-4] entrano in vigore *a partire dalla data stabilita dal Congresso. Fatto salvo il carattere vincolante della Costituzione, come indicato all’articolo 21.1, i Paesi membri ratificano, accettano o approvano tali modifiche, o vi aderiscono*[^28-5] al più presto. Gli strumenti di tale ratifica, *accettazione, approvazione o adesione*[^28-6] sono trattati conformemente *alla regola enunciata*[^28-7] all’articolo 25.
+<sup>2.</sup> Le modifiche *della Costituzione*[^28-3] adottate da un Congresso sono oggetto di un Protocollo aggiuntivo e*d*[^28-4] entrano in vigore *a partire dalla data stabilita dal Congresso. Fatto salvo il carattere vincolante della Costituzione, come indicato all’articolo 21.1, i Paesi membri ratificano, accettano o approvano tali modifiche, o vi aderiscono*[^28-5] al più presto. Gli strumenti di tale ratifica, *accettazione, approvazione o adesione*[^28-6] sono trattati conformemente *alla regola enunciata*[^28-7] nell’articolo 25.
 
-[^28-1]: Originario art. 30 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^28-1]: Originario art. 30 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^28-2]: Modificato dal Congresso di Bucarest 2004.
 [^28-3]: Modificato dal Congresso di Abidjan 2021.
 [^28-4]: Modificato dal Congresso di Abidjan 2021.
@@ -455,9 +458,9 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>1.</sup> Il Regolamento generale, la Convenzione e le Intese *dell’Unione*[^29-3] stabiliscono le condizioni a cui è subordinata l’approvazione delle proposte che li riguardano.
 
-<sup>2.</sup> *Le modifiche apportate al Regolamento generale, alla Convenzione e alle Intese dell’Unione sono oggetto di un protocollo addizionale ed entrano in vigore alla data fissata dal Congresso. Fatto salvo il carattere vincolante degli Atti dell’Unione di cui sopra, come indicato all’articolo 21, i Paesi membri ratificano, accettano o* *approvano tali modifiche, o vi aderiscono al più presto. Gli strumenti di tale ratifica, accettazione, approvazione o adesione sono trattati conformemente alla regola enunciata all’articolo 25. Tale disposizione si applica anche mutatis mutandis a qualsivoglia modifica della Convenzione e delle Intese dell’Unione adottata fra i due Congressi*[^29-4]*.*
+<sup>2.</sup> *Le modifiche apportate al Regolamento generale, alla Convenzione e alle Intese dell’Unione sono oggetto di un protocollo aggiuntivo ed entrano in vigore alla data stabilita dal Congresso. Fatto salvo il carattere vincolante degli Atti dell’Unione di cui sopra, come indicato all’articolo 21, i Paesi membri ratificano, accettano o approvano tali modifiche, o vi aderiscono al più presto. Gli strumenti di tale ratifica, accettazione, approvazione o adesione sono trattati conformemente alla regola enunciata nell’articolo 25. Tale disposizione si applica anche mutatis mutandis a qualsivoglia modifica della Convenzione e delle Intese dell’Unione adottata fra i due Congressi*[^29-4].
 
-[^29-1]: Originario art. 31 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Amburgo 1984.
+[^29-1]: Originario art. 31 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modificato dal Congresso di Amburgo 1984.
 [^29-2]: Modificato dal Congresso di Abidjan 2021.
 [^29-3]: Modificato dal Congresso di Abidjan 2021.
 [^29-4]: Modificato dal Congresso di Abidjan 2021.
@@ -468,9 +471,9 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 **Arbitrato**[^30-1]
 
-<sup>1.</sup> Le controversie tra due o più Paesi membri[^30-2] in merito all’interpretazione degli Atti dell’Unione o della responsabilità di un Paese membro[^30-3] derivante dall’applicazione degli Atti, sono composte da un giudizio arbitrale.
+Le controversie tra due o più Paesi membri[^30-2] in merito all’interpretazione degli Atti dell’Unione o della responsabilità di un Paese membro[^30-3] derivante dall’applicazione degli Atti, sono composte da un giudizio arbitrale.
 
-[^30-1]: Originario art. 32 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^30-1]: Originario art. 32 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^30-2]: Modificato dal Congresso di Ginevra 2008.
 [^30-3]: Modificato dal Congresso di Ginevra 2008.
 
@@ -480,18 +483,15 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 **Entrata in vigore e durata della Costituzione**[^31-1]
 
-<sup>1.</sup> La presente Costituzione entra in vigore il 1° gennaio 1966 con effetto a tempo indeterminato.
+La presente Costituzione entra in vigore il 1° gennaio 1966 con effetto a tempo indeterminato.
 
-<sup>2.</sup> In fede di che i Plenipotenziari dei Governi dei Paesi membri hanno firmato la presente Costituzione in un esemplare che è depositato negli archivi del Governo del Paese in cui ha sede l’Unione. Una copia sarà rilasciata a ciascuna parte contraente dall’Ufficio internazionale dell’Unione postale universale[^31-2].
+[^31-1]: Originario art. 33 (cfr. comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
-Fatto a Vienna, il 10 luglio 1964.
+*In fede di che* i Plenipotenziari dei Governi dei Paesi membri hanno firmato la presente Costituzione in un esemplare che è depositato negli archivi del Governo del Paese in cui ha sede l’Unione. Una copia sarà rilasciata a ciascuna Parte contraente dall’Ufficio internazionale dell’Unione postale universale[^t-4]. Fatto a Vienna, il 10 luglio 1964. (Seguono le firme)
 
-[^31-1]: Originario art. 33 (vedi comunicazione del 16 lug. 2024 – [RU 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
-[^31-2]: Modificato dal Congresso di Bucarest 2004.
+[^t-4]: Modificato dal Congresso di Bucarest 2004.
 
-(Seguono le firme)
-
-Campo d’applicazione il 7 ottobre 2022[^t-4]
+Campo d’applicazione il 7 ottobre 2022[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -691,4 +691,4 @@ Campo d’applicazione il 7 ottobre 2022[^t-4]
 <tr><td>Zimbabwe</td><td>4 maggio</td><td>1981 A</td><td>31 luglio</td><td>1981</td></tr>
 </table>
 
-[^t-4]: [RU 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932), [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214), [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160), [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874), [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-5]: [RU 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932), [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214), [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160), [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874), [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
