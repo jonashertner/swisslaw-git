@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2026-10-01
+version: 2027-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20261001/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20261001-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20270101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° ottobre 2026)
+del 25 novembre 1998 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -667,6 +667,33 @@ Per quanto concerne l’indennizzo dei loro membri, le commissioni di vigilanza 
 **Esclusione del doppio indennizzo**
 
 I membri delle commissioni extraparlamentari possono essere indennizzati soltanto in base agli importi applicabili alla loro commissione. Un ulteriore indennizzo per le attività svolte in relazione con il mandato della commissione è escluso.
+
+### Sezione 1*e*: Previdenza professionale dei membri degli organi di direzione e delle commissioni extraparlamentari e di altri beneficiari di onorari
+
+[^chap2-sec1e-1]
+
+[^chap2-sec1e-1]: Introdotta dall’all. dell’O del 25 feb. 2026, in vigore dal 1° gen. 2027 ([RU 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+#### Art. 8u
+
+<sup>1</sup>
+
+Secondo il regolamento di previdenza del 6 dicembre 2011[^8u-1] per i beneficiari di onorari della Cassa di previdenza della Confederazione (RPBC) sono assicurate le seguenti persone:
+
+- a. i membri nominati degli organi di direzione di datori di lavoro affiliati alla Cassa di previdenza della Confederazione, nonché delle commissioni extraparlamentari, a condizione che tali membri esercitino questa attività a titolo principale;
+- b. le persone esercitanti un’attività lucrativa dipendente che sono parte di un contratto di prestazioni con un datore di lavoro affiliato alla Cassa di previdenza della Confederazione e che sono sottoposte all’obbligo di assicurarsi alla previdenza professionale.
+
+<sup>2</sup> Le condizioni di ammissione nell’assicurazione, l’inizio e la fine dell’assicurazione, i contributi di risparmio e il guadagno assicurato sono retti dalle disposizioni della legge federale del 25 giugno 1982[^8u-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP).
+
+<sup>3</sup> Il contributo di rischio è dell’1,5 per cento. Esso è pagato per metà dal datore di lavoro.
+
+<sup>4</sup> Le spese amministrative sono interamente pagate dal datore di lavoro.
+
+<sup>5</sup> In casi eccezionali, in particolare se i membri nominati di cui al capoverso 1 lettera a presentano un tasso di occupazione elevato o percepiscono un indennizzo annuo superiore al limite massimo di cui all’articolo 8 capoverso 1 LPP, la persona interessata può essere assicurata secondo il regolamento di previdenza del 15 giugno 2007[^8u-3] per gli impiegati e i beneficiari di rendite della Cassa di previdenza della Confederazione (RPIC). La decisione di nomina del Consiglio federale stabilisce se l’assicurazione è retta dal RPIC o dal RPBC.
+
+[^8u-1]: [RS 172.220.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5393)
+[^8u-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^8u-3]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 
 ### Sezione 2: …
 
@@ -1610,7 +1637,7 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="2">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td colspan="2">Eidgenössische Finanzmarktaufsicht (FINMA) Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td colspan="2">Pensionskasse des Bundes (PUBLICA) Caisse fédérale de pensions (PUBLICA) Cassa pensioni della Confederazione (PUBLICA) Cassa federala da pensiun (PUBLICA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td colspan="2">Pensionskasse des Bundes (Publica[^annex1-lvlu1-1]) Caisse fédérale de pensions (Publica) Cassa pensioni della Confederazione (Publica) Cassa federala da pensiun (Publica)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Nessuna</td></tr>
 </table>
@@ -1633,7 +1660,7 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.1</td><td colspan="2">Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.2</td><td colspan="2">Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.3</td><td colspan="2">Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.4 [^annex1-lvlu1-1]</td><td colspan="2">Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.4 [^annex1-lvlu1-2]</td><td colspan="2">Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) Ecole polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) Ecole polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI)</td></tr>
@@ -1670,7 +1697,8 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Nessuna</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° ago. 2021.
+[^annex1-lvlu1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2027. Di detta mod. è tenuto conto in tutto il presente testo.
+[^annex1-lvlu1-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° ago. 2021.
 
 Allegato 2[^t-2]
 

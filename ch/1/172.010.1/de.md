@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2026-10-01
+version: 2027-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20261001/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20261001-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20270101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. Oktober 2026)
+vom 25. November 1998 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -671,6 +671,33 @@ Die marktorientierten Kommissionen werden in Bezug auf die Entschädigung ihrer 
 
 Mitglieder ausserparlamentarischer Kommissionen können nur aufgrund der für ihre Kommission geltenden Ansätze entschädigt werden. Eine zusätzliche Entschädigung für Tätigkeiten, die im Zusammenhang mit dem Auftrag der Kommission stehen, ist ausgeschlossen.
 
+### 1*e*. Abschnitt: Berufliche Vorsorge der Mitglieder von Leitungsorganen und ausserparlamentarischen Kommissionen sowie von weiteren Honorarbeziehenden
+
+[^chap2-sec1e-1]
+
+[^chap2-sec1e-1]: Eingefügt durch Anhang der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+#### Art. 8u
+
+<sup>1</sup>
+
+Nach dem Vorsorgereglement vom 6. Dezember 2011[^8u-1] für die Honorarbeziehenden im Vorsorgewerk Bund (VRHB) sind folgende Personen versichert:
+
+- a. gewählte Mitglieder von Leitungsorganen von Arbeitgebern, die dem Vorsorgewerk Bund angeschlossen sind, sowie von ausserparlamentarischen Kommissionen, sofern das Mitglied diese Tätigkeit hauptberuflich ausübt;
+- b. unselbstständig erwerbstätige Personen, die mit einem Arbeitgeber des Vorsorgewerks Bund in einem Dienstleistungsverhältnis stehen und für die eine Versicherungspflicht in der beruflichen Vorsorge besteht.
+
+<sup>2</sup> Die Voraussetzungen für die Aufnahme in die Versicherung, der Beginn und das Ende der Versicherung, die Sparbeiträge sowie der versicherte Verdienst richten sich nach dem Bundesgesetz vom 25. Juni 1982[^8u-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG).
+
+<sup>3</sup> Die Höhe des Risikobeitrags beträgt 1,5 Prozent. Er wird zur Hälfte vom Arbeitgeber bezahlt.
+
+<sup>4</sup> Die Verwaltungskosten werden vollständig vom Arbeitgeber bezahlt.
+
+<sup>5</sup> In Ausnahmenfällen, insbesondere wenn das gewählte Mitglied nach Absatz 1 Buchstabe a einen hohen Beschäftigungsgrad aufweist oder eine jährliche Entschädigung bezieht, die über der Obergrenze nach Artikel 8 Absatz 1 BVG liegt, kann die betreffende Person nach dem Vorsorgereglement vom 15. Juni 2007[^8u-3] für die Angestellten und die Rentenbeziehenden im Vorsorgewerk Bund (VRAB) versichert werden. Der Wahlbeschluss des Bundesrates legt fest, ob die Versicherung nach dem VRAB oder dem VRHB erfolgt.
+
+[^8u-1]: [SR 172.220.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5393)
+[^8u-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^8u-3]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
+
 ### 2. Abschnitt: …
 
 #### Art. 9–10c
@@ -1127,7 +1154,7 @@ Der Bundesrat und die Bundespräsidentin oder der Bundespräsident werden bei de
 
 <sup>3</sup> Das mit der Koordination beauftragte Departement beziehungsweise die Bundeskanzlei informiert den Bundesrat regelmässig über den Fortgang der Untersuchung und bringt ihm den Untersuchungsbericht zur Kenntnis.
 
-[^27cbis-1]: Eingefügt durch Ziff. I der V vom 12. Aug. 2026, in Kraft seit 1. Okt. 2026 (AS **20****26** 420).
+[^27cbis-1]: Eingefügt durch Ziff. I der V vom 12. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 420](https://fedlex.data.admin.ch/eli/oc/2026/420)).
 
 #### Art. 27d
 
@@ -1620,7 +1647,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.2**</td><td colspan="2">**Rechtlich verselbstständigte Körperschaften, Anstalten und Stiftungen:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Eidgenössische Finanzmarktaufsicht (FINMA) Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Pensionskasse des Bundes (PUBLICA) Caisse fédérale de pensions (PUBLICA) Cassa pensioni della Confederazione (PUBLICA) Cassa federala da pensiun (PUBLICA)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Pensionskasse des Bundes (Publica[^annex1-lvlu1-1]) Caisse fédérale de pensions (Publica) Cassa pensioni della Confederazione (Publica) Cassa federala da pensiun (Publica)</td></tr>
 <tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Keine</td></tr>
 </table>
@@ -1644,7 +1671,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.3</td><td>Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.4 [^annex1-lvlu1-1]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.4 [^annex1-lvlu1-2]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) Ecole polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) Ecole polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI)</td></tr>
@@ -1678,7 +1705,8 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3">Keine</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. August 2021 angepasst.
+[^annex1-lvlu1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2027 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^annex1-lvlu1-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. August 2021 angepasst.
 
 Anhang 2[^t-2]
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'organisation du gouvernement et de 
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: fr
-version: 2026-10-01
+version: 2027-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20261001-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20270101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/fr"
 
 (OLOGA)
 
-du 25 novembre 1998 (État le 1<sup>er</sup> octobre 2026)
+du 25 novembre 1998 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -667,6 +667,34 @@ Pour déterminer le montant de l’indemnité, les commissions de suivi du march
 **Interdiction des doubles indemnisations**
 
 Les membres des commissions extraparlementaires sont indemnisés selon les seuls montants applicables à leur commission. Ils ne reçoivent aucune autre indemnité pour toutes les activités qui sont liées à leur mandat.
+
+### Section 1*e* Prévoyance professionnelle des membres d’organes de direction et de commissions extraparlementaires ainsi que d’autres bénéficiaires d’honoraires
+
+[^chap2-sec1e-1]
+
+[^chap2-sec1e-1]: Introduite par l’annexe de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 101](https://fedlex.data.admin.ch/eli/oc/2026/101)).
+
+#### Art. 8u
+
+<sup>1</sup>
+
+Sont assurés en vertu du règlement de prévoyance du 6 décembre 2011 pour les bénéficiaires d’honoraires de la Caisse de prévoyance de la Confédération (RPBC)[^8u-1]:
+
+- a.[^8u-2] les membres élus des organes de direction des employeurs affiliés à la Caisse de prévoyance de la Confédération et les membres élus des commissions extraparlementaires, pour autant qu’ils exercent cette activité à titre principal;
+- b. les personnes exerçant une activité lucrative dépendante qui ont conclu un contrat de prestations avec un employeur de la Caisse de prévoyance de la Confédération et qui sont assujetties à l’obligation de s’assurer au titre de la prévoyance professionnelle.
+
+<sup>2</sup> Les conditions d’admission dans l’assurance, le début et la fin de l’assurance, les cotisations d’épargne et le gain assuré sont régis par la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^8u-3].
+
+<sup>3</sup> La cotisation de risque est de 1,5 %. Elle est payée pour moitié par l’employeur.
+
+<sup>4</sup> Les frais administratifs sont intégralement payés par l’employeur.
+
+<sup>5</sup> Dans des cas exceptionnels, notamment lorsqu’un membre élu visé à l’al. 1, let. a, a un taux d’occupation élevé ou qu’il perçoit une indemnité annuelle dépassant la limite supérieure prévue à l’art. 8, al. 1, LPP, la personne concernée peut être assurée en vertu du règlement de prévoyance du 15 juin 2007 pour les personnes employées et les bénéficiaires de rentes de la Caisse de prévoyance de la Confédération (RPEC)[^8u-4]. La décision de nomination du Conseil fédéral indique si l’assurance est régie par le RPBC ou par le RPEC.
+
+[^8u-1]: [RS 172.220.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5393)
+[^8u-2]: Erratum du 20 oct. 2026 ([RO 2026 556](https://fedlex.data.admin.ch/eli/oc/2026/556)).
+[^8u-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^8u-4]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 
 ### Section 2 …
 
@@ -1610,7 +1638,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td></td><td colspan="2"></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF)</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>**2.2**</td><td colspan="2">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td></td><td>2.2.1</td><td>Eidgenössische Finanzmarktaufsicht (FINMA) Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td></td><td>2.2.2</td><td>Pensionskasse des Bundes (PUBLICA) Caisse fédérale de pensions (PUBLICA) Cassa pensioni della Confederazione (PUBLICA) Cassa federala da pensiun (PUBLICA)</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td></td><td>2.2.2</td><td>Pensionskasse des Bundes (Publica[^annex1-lvlu1-1]) Caisse fédérale de pensions (Publica) Cassa pensioni della Confederazione (Publica) Cassa federala da pensiun (Publica)</td></tr>
 <tr><td colspan="2"></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Sociétés anonymes dans lesquelles la Confédération détient une participation majoritaire:**</td></tr>
 <tr><td colspan="2"></td><td></td><td></td><td></td><td colspan="3">Aucune</td></tr>
 </table>
@@ -1634,7 +1662,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.1</td><td>Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.2</td><td>Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.3</td><td>Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.4[^annex1-lvlu1-1]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.4[^annex1-lvlu1-2]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) École polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) École polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI)</td></tr>
@@ -1668,7 +1696,8 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3">Aucune</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> août 2021 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
+[^annex1-lvlu1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2027 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
+[^annex1-lvlu1-2]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> août 2021 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 Annexe 2[^t-2]
 
