@@ -4,11 +4,11 @@ title: Ordonnance du 24 mai 1978 sur les droits politiques (ODP)
 short: ODP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712"
 language: fr
-version: 2022-07-01
+version: 2027-07-01
 adopted: 1978-05-24
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20220701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20270701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20270701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20270701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/fr"
 
 (ODP)[^t-1]
 
-du 24 mai 1978 (État le 1<sup>er</sup> juillet 2022)
+du 24 mai 1978 (État le 1<sup>er</sup> juillet 2027)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 15 janv. 2014 ([RO 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
@@ -58,20 +58,18 @@ La personne qui change de domicile politique au cours des quatre semaines préc�
 
 <sup>1</sup>
 
-Sont réservés pour les votations populaires fédérales les dimanches suivants:
+Les dimanches suivants sont réservés pour les votations populaires fédérales:
 
-- a. le deuxième dimanche de février, les années où le dimanche de Pâques tombe après le 10 avril, et le quatrième dimanche avant Pâques les autres années;
-- b. le troisième dimanche de mai, les années où le dimanche de Pentecôte tombe après le 28 mai, et le troisième dimanche après Pentecôte les autres années;
+- a. le quatrième dimanche qui précède Pâques;
+- b. le dimanche qui suit la Pentecôte;
 - c. le dimanche qui suit le Jeûne fédéral;
 - d. le dernier dimanche de novembre.
 
-<sup>2</sup> Pour des motifs prépondérants, la Chancellerie fédérale, après avoir consulté les cantons, propose au Conseil fédéral de déplacer telle ou telle date, ou de fixer des dates supplémentaires.
+<sup>2</sup> Le Conseil fédéral peut, pour des motifs prépondérants, déplacer telle ou telle date ou fixer des dates supplémentaires. Il consulte au préalable les cantons.
 
-<sup>3</sup> Il n’y a pas de votation populaire fédérale au mois de septembre de l’année du renouvellement intégral du Conseil national.
+<sup>3</sup> Il n’y a pas de votation populaire fédérale aux dates prévues à l’al. 1, let. c et d, l’année du renouvellement intégral du Conseil national.
 
-<sup>4</sup> La Chancellerie fédérale publie au plus tard au mois de juin de chaque année les dates qui sont réservées pour les votations populaires fédérales de l’année qui suit.
-
-[^2a-1]: Introduit par le ch. I de l’O du 14 juin 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^2a-1]: Introduit par le ch. I de l’O du 14 juin 2002 ([RO 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)). Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2027 ([RO 2025 314](https://fedlex.data.admin.ch/eli/oc/2025/314)).
 
 #### Art. 2b
 

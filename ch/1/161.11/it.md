@@ -4,11 +4,11 @@ title: Ordinanza del 24 maggio 1978 sui diritti politici (ODP)
 short: ODP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712"
 language: it
-version: 2022-07-01
+version: 2027-07-01
 adopted: 1978-05-24
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20220701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20270701/it/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20270701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20270701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/it"
 
 (ODP)[^t-1]
 
-del 24 maggio 1978 (Stato 1° luglio 2022)
+del 24 maggio 1978 (Stato 1° luglio 2027)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ visto l’articolo 91 capoverso 1 della legge federale del 17 dicembre 1976[^ing
 ordina:
 
 [^ingress-1]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 ## Sezione 1: Diritto di voto e espressione del voto
 
@@ -42,7 +42,7 @@ Possono avere un domicilio politico che non corrisponde a quello del diritto civ
 - b. i dimoranti infrasettimanali, segnatamente gli studenti;
 - c.[^1-1] il coniuge che d’intesa con l’altro, su disposizione giudiziale o per esplicita autorizzazione legale, vive e intende permanere fuori della comunione domestica.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 1992, in vigore dal 1° ott. 1992 ([RU 1992 1658](https://fedlex.data.admin.ch/eli/oc/1992/1658_1658_1658)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 1992, in vigore dal 1° ott. 1992 ([RU 1992 1658](https://fedlex.data.admin.ch/eli/oc/1992/1658_1658_1658)).
 
 #### Art. 2
 
@@ -50,7 +50,7 @@ Possono avere un domicilio politico che non corrisponde a quello del diritto civ
 
 Chi cambia il domicilio politico nelle quattro settimane precedenti una votazione o un’elezione federale riceve al nuovo domicilio il materiale di voto per tale scrutinio solo se prova di non avere già esercitato il diritto di voto nel domicilio politico precedente.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 2a
 
@@ -60,18 +60,16 @@ Chi cambia il domicilio politico nelle quattro settimane precedenti una votazion
 
 Per le votazioni popolari federali sono riservate le domeniche seguenti:
 
-- a. negli anni in cui la domenica di Pasqua cade in una data successiva al 10 aprile, la seconda domenica di febbraio; negli altri anni, la quartultima domenica prima di Pasqua;
-- b. negli anni in cui la domenica di Pentecoste cade in una data successiva al 28 maggio, la terza domenica di maggio; negli altri anni, la terza domenica dopo Pentecoste;
+- a. la quartultima domenica prima di Pasqua;
+- b. la domenica successiva a Pentecoste;
 - c. la domenica successiva al Digiuno federale;
 - d. l’ultima domenica di novembre.
 
-<sup>2</sup> Se lo richiedono motivi preponderanti, la Cancelleria federale, previa consultazione dei Cantoni, propone al Consiglio federale di anticipare o differire singole votazioni o di stabilire ulteriori date per le stesse.
+<sup>2</sup> Se lo richiedono motivi preponderanti il Consiglio federale può anticipare o differire singole date delle votazioni o fissarne altre. Consulta previamente i Cantoni.
 
-<sup>3</sup> Per il mese di settembre dell’anno in cui si svolgono le elezioni per il rinnovo integrale del Consiglio nazionale non è indetta alcuna votazione popolare.
+<sup>3</sup> Nell’anno in cui si svolgono le elezioni per il rinnovo integrale del Consiglio nazionale non è indetta alcuna votazione popolare nelle date di cui al capoverso 1 lettere c e d.
 
-<sup>4</sup> La Cancelleria federale rende note le date riservate per le votazioni al più tardi nel mese di giugno dell’anno precedente le stesse.
-
-[^2a-1]: Introdotto dal n. I dell’O del 14 giu. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)). Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° lug. 2027 ([RU 2025 314](https://fedlex.data.admin.ch/eli/oc/2025/314)).
 
 #### Art. 2b
 
@@ -79,7 +77,7 @@ Per le votazioni popolari federali sono riservate le domeniche seguenti:
 
 I Cantoni provvedono affinché le autorità competenti secondo il diritto cantonale possano far pervenire il materiale di voto agli Svizzeri all’estero e, su apposita richiesta, ad altri aventi diritto di voto che si trovano all’estero al più presto una settimana prima della spedizione ufficiale.
 
-[^2b-1]: Introdotto dal n. I dell’O del 14 giu. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^2b-1]: Introdotto dalla cifra I dell’O del 14 giu. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
 
 ## Sezione 2: Votazioni
 
@@ -119,7 +117,7 @@ Il risultato provvisorio della votazione nei Comuni e nel Cantone trasmesso dal 
 
 <sup>4</sup> I risultati provvisori della votazione non possono essere resi pubblici prima delle ore 12:00 del giorno della votazione.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1653](https://fedlex.data.admin.ch/eli/oc/2019/320)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 29 mag. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1653](https://fedlex.data.admin.ch/eli/oc/2019/320)).
 
 #### Art. 6
 
@@ -127,7 +125,7 @@ Il risultato provvisorio della votazione nei Comuni e nel Cantone trasmesso dal 
 
 Il Governo cantonale pubblica immediatamente nel foglio ufficiale cantonale il contenuto del processo verbale della votazione, senza qualsiasi osservazione o decisione. Indica le possibilità di ricorso secondo l’articolo 77 della LDP[^6-1].
 
-[^6-1]: Nuovo termine giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-1]: Nuovo termine giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Sezione 3: Elezione del Consiglio nazionale
 
@@ -146,7 +144,7 @@ La ripartizione tra i Cantoni dei seggi del Consiglio nazionale è stabilita in 
 
 Sulle schede prestampate gli elettori devono poter disporre dello spazio sufficiente per procedere al panachage e al cumulo in modo ben leggibile.
 
-[^7-1]: Originario art. 6*a*. Introdotto dal n. I dell’O del 14 giu. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^7-1]: Originario art. 6*a*. Introdotto dalla cifra I dell’O del 14 giu. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
 
 #### Art. 7a
 
@@ -166,7 +164,7 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 <sup>3</sup> Il Consiglio federale può autorizzare un Cantone, su domanda giustificata, a modificare i moduli. La domanda dev’essere presentata entro il 1° gennaio dell’anno dell’elezione. Le modificazioni autorizzate non devono più essere approvate.[^8-1]
 
-[^8-1]: Nuovo testo giusta il n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^8-1]: Nuovo testo giusta la cifra IV n. 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 8a
 
@@ -176,9 +174,9 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 <sup>2</sup> I Cantoni che hanno diritto a un solo seggio al Consiglio nazionale e i cui ordinamenti non contemplano elezioni tacite non sono tenuti a effettuare alcuna comunicazione.[^8a-3]
 
-[^8a-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
-[^8a-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
-[^8a-3]: Introdotto dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^8a-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^8a-3]: Introdotto dalla cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 8b
 
@@ -190,8 +188,8 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 <sup>3</sup> Il Cantone stralcia senza indugio da tutte le proposte il nome dell’elettore che ha firmato più di una proposta.[^8b-2]
 
-[^8b-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
-[^8b-2]: Nuovo testo giusta il n. I dell’O del 20 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
+[^8b-1]: Introdotto dalla cifra I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^8b-2]: Nuovo testo giusta la cifra I dell’O del 20 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
 
 #### Art. 8c
 
@@ -203,8 +201,8 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 <sup>3</sup> Per quanto l’aggiunta differenziatrice non fa riferimento a una delimitazione regionale delle liste, il gruppo designa una delle proposte come lista privilegiata. …[^8c-2]
 
-[^8c-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
-[^8c-2]: Per. abrogato dal n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^8c-1]: Introdotto dalla cifra I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^8c-2]: Per. abrogato dalla cifra IV n. 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 8d
 
@@ -218,10 +216,10 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 <sup>4</sup> Il Cantone trasmette alla Cancelleria federale una copia di ciascuna lista, entro 24 ore dalla scadenza del termine di appuramento. Specifica che la lista è appurata.
 
-[^8d-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
-[^8d-2]: Nuovo testo giusta il n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
-[^8d-3]: Per. abrogato dal n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^8d-4]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^8d-1]: Introdotto dalla cifra I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^8d-2]: Nuovo testo giusta la cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^8d-3]: Per. abrogato dalla cifra IV n. 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^8d-4]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 8e
 
@@ -231,7 +229,7 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 <sup>2</sup> Per la validità di congiunzioni e sotto-congiunzioni di liste è determinante il momento del recapito della pertinente dichiarazione presso l’ufficio cantonale competente.
 
-[^8e-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^8e-1]: Introdotto dalla cifra I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
 
 #### Art. 9
 
@@ -271,7 +269,7 @@ Se vi è sospetto riguardo all’esattezza del risultato di un Comune, l’uffic
 
 <sup>3</sup> Esso invia senza indugio alla Cancelleria federale una copia non firmata del processo verbale dell’elezione.[^13-1]
 
-[^13-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^13-1]: Introdotto dalla cifra I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
 
 #### Art. 14
 
@@ -281,7 +279,7 @@ Se vi è sospetto riguardo all’esattezza del risultato di un Comune, l’uffic
 
 <sup>2</sup> Entro dieci giorni dalla scadenza del termine di ricorso, esso trasmette all’Ufficio federale di statistica, i moduli 1 a 4 dell’allegato 2 e tutte le schede.[^14-1] Queste vanno imballate separatamente per Comune.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
 
 #### Art. 15
 
@@ -291,7 +289,7 @@ Se vi è sospetto riguardo all’esattezza del risultato di un Comune, l’uffic
 
 <sup>2</sup> Il Governo cantonale comunica senza indugio alla Cancelleria federale nonché alla Segreteria generale dell’Assemblea federale, all’attenzione del presidente del Consiglio nazionale, i nomi dei subentranti dichiarati eletti e li pubblica nel Foglio ufficiale del Cantone.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 16
 
@@ -299,7 +297,7 @@ Se vi è sospetto riguardo all’esattezza del risultato di un Comune, l’uffic
 
 Nel caso di elezioni complementari (art. 56 cpv. 1 della LDP), il Governo cantonale invita il rappresentante dei firmatari della lista a presentare entro trenta giorni una proposta di candidatura. A tal fine, gli consegna una copia della proposta di candidatura iniziale con il nome e l’indirizzo di tutti i firmatari.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 17
 
@@ -307,7 +305,7 @@ Nel caso di elezioni complementari (art. 56 cpv. 1 della LDP), il Governo canton
 
 Prima di ogni rinnovazione integrale, il Consiglio federale emana mediante circolare istruzioni completive, in particolare sulle comunicazioni, la disposizione, lo spoglio e il controllo delle schede, la compilazione dei moduli e la determinazione dei risultati per Comune.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 ## Sezione 4: Referendum
 
@@ -323,7 +321,7 @@ I modelli per le liste delle firme possono essere ottenuti gratuitamente, in ogn
 
 L’avente diritto di voto che firma una domanda di referendum in nome di un avente diritto di voto incapace di scrivere ne iscrive le generalità complete nella lista delle firme. Nella colonna «firma autografa», iscrive in stampatello il proprio nome con l’indicazione «per ordine/p.o.» e appone la propria firma.
 
-[^18a-1]: Introdotto dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 19
 
@@ -352,10 +350,10 @@ Il servizio, se nega l’attestazione, deve indicarne il motivo con una delle fo
 
 <sup>6</sup> Il servizio tutela la segretezza del voto.[^19-4]
 
-[^19-1]: Introdotta dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
-[^19-2]: Introdotta dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
-[^19-3]: Abrogato dal n. I dell’O del 26 feb. 1997, con effetto dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
-[^19-4]: Introdotto dal n. I dell’O del 2 set. 1987, in vigore dal 15 set. 1987 ([RU 1987 1126](https://fedlex.data.admin.ch/eli/oc/1987/1126_1126_1126)).
+[^19-1]: Introdotta dalla cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^19-2]: Introdotta dalla cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^19-3]: Abrogato dalla cifra I dell’O del 26 feb. 1997, con effetto dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^19-4]: Introdotto dalla cifra I dell’O del 2 set. 1987, in vigore dal 15 set. 1987 ([RU 1987 1126](https://fedlex.data.admin.ch/eli/oc/1987/1126_1126_1126)).
 
 #### Art. 20
 
@@ -375,7 +373,7 @@ Per accertare la riuscita, la Cancelleria federale esamina segnatamente se le li
 
 [^22-1]
 
-[^22-1]: Abrogato dal n. I dell’O del 26 feb. 1997, con effetto dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^22-1]: Abrogato dalla cifra I dell’O del 26 feb. 1997, con effetto dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 ## Sezione 5: Iniziativa popolare
 
@@ -393,16 +391,16 @@ Per accertare la riuscita, la Cancelleria federale esamina segnatamente se le li
 
 <sup>4</sup> La Cancelleria federale pubblica nel Foglio federale la decisione inerente all’esame preliminare, indicando anche il nome e l’indirizzo di tutti i promotori dell’iniziativa. Se i promotori desiderano che l’iniziativa sia tradotta in lingua romancia, tale versione è pubblicata nell’edizione tedesca del Foglio federale.[^23-3] [^23-4]
 
-[^23-1]: Introdotto dal n. I dell’O del 27 set. 1982, in vigore dal 15 ott. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)).
-[^23-2]: Introdotto dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
-[^23-3]: Per. introdotto dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
-[^23-4]: Introdotto dal n. I dell’O del 27 set. 1982, in vigore dal 15 ott. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)).
+[^23-1]: Introdotto dalla cifra I dell’O del 27 set. 1982, in vigore dal 15 ott. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)).
+[^23-2]: Introdotto dalla cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^23-3]: Per. introdotto dalla cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^23-4]: Introdotto dalla cifra I dell’O del 27 set. 1982, in vigore dal 15 ott. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)).
 
 #### Art. 24
 
 [^24-1]
 
-[^24-1]: Abrogato dal n. I dell’O del 26 feb. 1997, con effetto dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^24-1]: Abrogato dalla cifra I dell’O del 26 feb. 1997, con effetto dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 25
 
@@ -425,11 +423,11 @@ Il modulo corrisponde:
 
 <sup>3</sup> Il ritiro è pubblicato nel Foglio federale.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
-[^25-3]: Introdotto dal n. I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
-[^25-4]: Introdotto dal n. I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
-[^25-5]: Introdotto dal n. I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^25-3]: Introdotto dalla cifra I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^25-4]: Introdotto dalla cifra I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^25-5]: Introdotto dalla cifra I dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
 
 #### Art. 26
 
@@ -443,14 +441,14 @@ La sezione 4 della presente ordinanza si applica per analogia all’iniziativa p
 
 [^27-1]
 
-[^27-1]: Abrogato dal n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^27-1]: Abrogato dalla cifra IV n. 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Sezione 6*a*: Prove del voto elettronico
 
 [^sec6a-1][^sec6a-2]
 
-[^sec6a-1]: Introdotta dal n. I dell’O del 20 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
-[^sec6a-2]: Nuova espr. giusta il n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^sec6a-1]: Introdotta dalla cifra I dell’O del 20 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
+[^sec6a-2]: Nuova espr. giusta la cifra IV n. 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 27a
 
@@ -466,7 +464,7 @@ La sezione 4 della presente ordinanza si applica per analogia all’iniziativa p
 
 <sup>5</sup> Se il Consiglio federale ha accordato l’autorizzazione di principio, può essere derogato per quanto necessario alle disposizioni della legge concernenti il voto alle urne e il voto per corrispondenza.
 
-[^27a-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27a-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27b
 
@@ -486,8 +484,8 @@ L’autorizzazione di principio è accordata se:
 
 - b.[^27b-2] la Cancelleria federale ha appurato che sono soddisfatte le condizioni per la concessione del nulla osta secondo l’articolo 27*e* capoverso 1<sup>bis</sup>.
 
-[^27b-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27b-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27b-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27b-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27c
 
@@ -505,8 +503,8 @@ La domanda di rilascio dell’autorizzazione di principio deve contenere:
 
 <sup>2</sup> ...[^27c-2]
 
-[^27c-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27c-2]: Abrogato dal n. I dell’O del 25 mag. 2022, con effetto dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27c-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27c-2]: Abrogato dalla cifra I dell’O del 25 mag. 2022, con effetto dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27d
 
@@ -518,8 +516,8 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 - b. in quale periodo è consentito il voto elettronico;
 - c.[^27d-2] il territorio e la percentuale dell’elettorato per i quali è ammesso il voto elettronico.
 
-[^27d-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27d-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27d-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27d-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e
 
@@ -537,16 +535,16 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 <sup>5</sup> Il voto elettronico nell’ambito di scrutini federali è ammesso soltanto in quanto nel territorio stabilito sia reso possibile per tutti gli oggetti e le elezioni previsti dallo scrutinio in questione.
 
-[^27e-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27e-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
-[^27e-3]: Introdotto dal n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
-[^27e-4]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27e-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-3]: Introdotto dalla cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-4]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e<sup>bis</sup>
 
 [^27ebis-1]
 
-[^27ebis-1]: Introdotto dal n. I dell’O del 21 set. 2007 ([RU 2007 4639](https://fedlex.data.admin.ch/eli/oc/2007/650)). Abrogato dal n. I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27ebis-1]: Introdotto dalla cifra I dell’O del 21 set. 2007 ([RU 2007 4639](https://fedlex.data.admin.ch/eli/oc/2007/650)). Abrogato dalla cifra I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27f
 
@@ -558,7 +556,7 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 <sup>3</sup> Nel verificare il rispetto dei limiti non si tiene conto degli Svizzeri all’estero aventi diritto di voto né degli aventi diritto di voto che a causa della loro disabilità non possono esprimere il proprio voto autonomamente.
 
-[^27f-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27f-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27g
 
@@ -568,7 +566,7 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 <sup>2</sup> Nel definire i requisiti del voto elettronico la Cancelleria federale può autorizzare agevolazioni per questi aventi diritto di voto, sempreché la sicurezza non ne risulti sostanzialmente penalizzata.
 
-[^27g-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27g-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27h
 
@@ -578,7 +576,7 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 <sup>2</sup> Il voto per rappresentanza è vietato.
 
-[^27h-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27h-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27i
 
@@ -592,10 +590,10 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 <sup>4</sup> Se in sede di verifica o di controllo della plausibilità si rilevano irregolarità, deve essere possibile determinare il numero dei voti viziati o quantomeno stimare l’incidenza di tali irregolarità sul risultato del voto.
 
-[^27i-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27i-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
-[^27i-3]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
-[^27i-4]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27i-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-3]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-4]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27j
 
@@ -605,13 +603,13 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 <sup>2</sup> Devono garantire in particolare che nessun voto vada irrimediabilmente perso sino al momento dell’omologazione del risultato dello scrutinio.
 
-[^27j-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27j-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27k
 
 [^27k-1]
 
-[^27k-1]: Abrogato dal n. I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27k-1]: Abrogato dalla cifra I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27k<sup>bis</sup>
 
@@ -626,8 +624,8 @@ Un Cantone privo di un proprio sistema di voto elettronico può:
 
 <sup>2</sup> ...[^27kbis-2]
 
-[^27kbis-1]: Introdotto dal n. I dell’O del 13 gen. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)). Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27kbis-2]: Abrogato dal n. I dell’O del 25 mag. 2022, con effetto dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27kbis-1]: Introdotto dalla cifra I dell’O del 13 gen. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27kbis-2]: Abrogato dalla cifra I dell’O del 25 mag. 2022, con effetto dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27l
 
@@ -652,7 +650,7 @@ La verifica è eseguita da enti indipendenti. Questi verificano che:
 
 <sup>4</sup> Stabilisce per quali verifiche è competente la Cancelleria federale e per quali il Cantone.
 
-[^27l-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27l-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27l<sup>bis</sup>
 
@@ -671,7 +669,7 @@ Essi provvedono affinché le seguenti informazioni siano rese pubbliche:
 
 <sup>3</sup> Sono fatte salve disposizioni del diritto in materia di trasparenza e di protezione dei dati.
 
-[^27lbis-1]: Introdotto dal n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27lbis-1]: Introdotto dalla cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27l<sup>ter</sup>
 
@@ -681,7 +679,7 @@ Essi provvedono affinché le seguenti informazioni siano rese pubbliche:
 
 <sup>2</sup> In particolare i Cantoni definiscono incentivi per la partecipazione del pubblico e delle cerchie di specialisti al miglioramento di sistemi di voto elettronico.
 
-[^27lter-1]: Introdotto dal n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27lter-1]: Introdotto dalla cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27m
 
@@ -693,19 +691,19 @@ Essi provvedono affinché le seguenti informazioni siano rese pubbliche:
 
 <sup>3</sup> In occasione di elezioni e votazioni federali i Cantoni pubblicano i risultati dei voti espressi per via elettronica. La pubblicazione avviene in modo tale che il segreto del voto sia tutelato.
 
-[^27m-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27m-1]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27n
 
 [^27n-1]
 
-[^27n-1]: Abrogato dal n. I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27n-1]: Abrogato dalla cifra I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27n<sup>bis</sup>
 
 [^27nbis-1]
 
-[^27nbis-1]: Introdotto dal n. I dell’O del 21 set. 2007 ([RU 2007 4639](https://fedlex.data.admin.ch/eli/oc/2007/650)). Abrogato dal n. I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27nbis-1]: Introdotto dalla cifra I dell’O del 21 set. 2007 ([RU 2007 4639](https://fedlex.data.admin.ch/eli/oc/2007/650)). Abrogato dalla cifra I dell’O del 13 dic. 2013, con effetto dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27o
 
@@ -724,13 +722,13 @@ La Cancelleria federale provvede a un accompagnamento scientifico relativo alle 
 
 <sup>4</sup> Dopo ogni prova, il Cantone trasmette alla Cancelleria federale dati statistici anonimi concernenti l’utilizzazione del voto elettronico. Se rileva ulteriori dati, informa la Cancelleria federale sulle risultanze di tali dati.
 
-[^27o-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27o-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 #### Art. 27p
 
 [^27p-1]
 
-[^27p-1]: Abrogato dal n. I dell’O del 21 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 4639](https://fedlex.data.admin.ch/eli/oc/2007/650)).
+[^27p-1]: Abrogato dalla cifra I dell’O del 21 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 4639](https://fedlex.data.admin.ch/eli/oc/2007/650)).
 
 #### Art. 27q
 
@@ -738,7 +736,7 @@ La Cancelleria federale provvede a un accompagnamento scientifico relativo alle 
 
 Il Consiglio federale può autorizzare prove di firma per via elettronica di domande di referendum e iniziative popolari federali se sono state prese tutte le misure efficaci e adeguate volte a garantire il controllo della legittimazione al voto, il segreto del voto e la corretta attribuzione di tutte le firme nonché a escludere il pericolo di abusi mirati o sistematici.
 
-[^27q-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27q-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -750,7 +748,7 @@ Il Consiglio federale può autorizzare prove di firma per via elettronica di dom
 
 <sup>2</sup> Nei casi non contenziosi esse sono approvate dalla Cancelleria federale.
 
-[^28-1]: Introdotto dal n. I dell’O del 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta il n. III dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
+[^28-1]: Introdotto dalla cifra I dell’O del 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta la cifra III dell’O del 5 apr. 2006, in vigore dal 1° giu. 2006 ([RU 2006 1269](https://fedlex.data.admin.ch/eli/oc/2006/225)).
 
 #### Art. 28a
 
@@ -785,7 +783,7 @@ La presente ordinanza entra in vigore il 1° luglio 1978.
 
 [^u1-1]
 
-[^u1-1]: [RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761). Abrogate dal n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u1-1]: [RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761). Abrogate dalla cifra IV n. 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 Allegato 1a
 
@@ -839,7 +837,7 @@ Oggetto
 <tr><td>9</td><td>14</td><td>15</td><td>20</td><td>21</td><td>26</td><td>27</td><td>32</td><td>33</td><td>38</td><td>39</td><td>44</td><td>45</td><td>50</td><td colspan="2">51</td><td>56</td><td>57</td><td>62</td><td>63</td><td>68</td><td>69</td><td>74</td><td colspan="2">75</td><td>80</td><td>81</td><td>86</td><td>87</td><td>92</td><td>93</td><td>98</td><td>99</td><td>104</td><td>105</td><td>110</td><td>111</td><td colspan="2">116</td></tr>
 </table>
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 26 feb. 2003, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 26 feb. 2003, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 Allegato 2[^t-3]
 
@@ -948,7 +946,7 @@ Formular 2 Rückseite / Formule 2 verso / Modulo 2 retro
 <tr><td>\*</td><td>Die Zahl der leeren Stimmen ist nur **einmal**, und zwar auf dem Formular der **letzten Liste** anzugeben. Le nombre des suffrages blancs ne doit être indiqué qu’**une seule fois** sur la formule de la **dernière liste**. Il numero dei suffragi in bianco deve essere indicato **una sola volta** sul modulo dell’**ultima lista**.</td></tr>
 </table>
 
-[^t-3]: Aggiornato dal n. I delle O del 27 set. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), del 9 giu. 1986 ([RU 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)), dal n. II dell’O del 14 giu. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)) e dal n. II cpv. 1 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^t-3]: Aggiornato dalla cifra I delle O del 27 set. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), del 9 giu. 1986 ([RU 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)), dalla cifra II dell’O del 14 giu. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)) e dalla cifra II cpv. 1 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 <table>
 <tr><td>Formular</td><td>**3**</td><td>Gemeinde</td><td>Wahlkreis, Kanton</td><td>Wahltag</td></tr>
@@ -1367,9 +1365,6 @@ Erste Verteilung/Première répartition/Prima ripartizione
 
 <table>
 <tr><td>Liste oder Listengruppe Liste ou groupe des listes Lista o gruppo di liste</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi</td><td>: : :</td><td>Verteilungszahl Quotient provisoire Quoziente provvisorio</td><td></td><td>= = =</td><td colspan="2">Zahl der Sitze Nombre des sièges Numero dei seggi</td></tr>
-<tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
@@ -1880,7 +1875,7 @@ Anhang 3a Rückseite / Annexe 3a verso / Allegato 3a retro
 <tr><td>\* Se il partito si è fatto iscrivere nel registro dei partiti della Cancelleria federale, nella rubrica «Osservazioni» deve essere indicato per verifica il suo indirizzo Internet esatto.</td></tr>
 </table>
 
-[^t-4]: Introdotto dal n. I dell’O del 19 ott. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Nuovo testo giusta il n. II cpv. 2 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^t-4]: Introdotto dalla cifra I dell’O del 19 ott. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 Allegato 3b[^t-5]
 
@@ -1919,7 +1914,7 @@ I rappresentanti sottoscritti dichiarano congiunte le seguenti liste per l’ele
 <tr><td>\* All’occorrenza, in questa rubrica, vanno indicate eventuali sotto-congiunzioni della presente lista. La sotto-congiunzione è permessa soltanto fra liste di *uguale denominazione*, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza ad un gruppo, la regione o l’età dei candidati.</td></tr>
 </table>
 
-[^t-5]: Introdotto dal n. I dell’O del 19 ott. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Aggiornato dal n. II cpv. 1 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^t-5]: Introdotto dalla cifra I dell’O del 19 ott. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Aggiornato dalla cifra II cpv. 1 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 Allegato 4a[^t-6]
 
@@ -1951,7 +1946,7 @@ A renvoyer, muni des signatures, d’ici au ………… à: Chancellerie fédé
 
 Da rispedire con le firme originali, al più tardi entro il ………… a: Cancelleria federale svizzera, Sezione dei diritti politici, 3003 Berna.
 
-[^t-6]: Originario all. 4. Introdotto dal n. II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta il n. II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^t-6]: Originario all. 4. Introdotto dalla cifra II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta la cifra II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
 
 Allegato 4b[^t-7]
 
@@ -1990,4 +1985,4 @@ Da rispedire con le firme originali, al più tardi entro il ………… a: Canc
 
 \* Es ist zulässig, an dieser Stelle sowohl für den unbedingten Rückzug als auch für den bedingten Rückzug zu optieren./Il est possible d’opter à la fois pour l’une et pour l’autre de ces colonnes./Qui è possibile optare per entrambe le forme di ritiro.
 
-[^t-7]: Originario all. 4. Introdotto dal n. II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta il n. II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^t-7]: Originario all. 4. Introdotto dalla cifra II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta la cifra II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).

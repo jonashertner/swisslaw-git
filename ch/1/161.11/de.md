@@ -4,11 +4,11 @@ title: Verordnung vom 24. Mai 1978 über die politischen Rechte (VPR)
 short: VPR
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712"
 language: de
-version: 2022-07-01
+version: 2027-07-01
 adopted: 1978-05-24
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20220701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20270701/de/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20270701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20270701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/de"
 
 (VPR)[^t-1]
 
-vom 24. Mai 1978 (Stand am 1. Juli 2022)
+vom 24. Mai 1978 (Stand am 1. Juli 2027)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
@@ -60,18 +60,16 @@ Wer während der letzten vier Wochen vor einem eidgenössischen Urnengang den po
 
 Für eidgenössische Volksabstimmungen bleiben folgende Sonntage im Jahr reserviert:
 
-- a. in jenen Jahren, in denen der Ostersonntag auf ein Datum nach dem 10. April fällt, der zweite Februarsonntag, in den übrigen Jahren der viertletzte Sonntag vor Ostern;
-- b. in jenen Jahren, in denen der Pfingstsonntag auf ein Datum nach dem 28. Mai fällt, der dritte Maisonntag, in den übrigen Jahren der dritte Sonntag nach Pfingsten;
+- a. der viertletzte Sonntag vor Ostern;
+- b. der Sonntag nach Pfingsten;
 - c. der Sonntag nach dem eidgenössischen Dank‑, Buss- und Bettag;
 - d. der letzte Sonntag im November.
 
-<sup>2</sup> Aus überwiegenden Gründen beantragt die Bundeskanzlei dem Bundesrat nach Konsultation der Kantone die Verschiebung einzelner oder die Festlegung weiterer Abstimmungstermine.
+<sup>2</sup> Der Bundesrat kann aus überwiegenden Gründen einzelne Abstimmungstermine verschieben oder weitere Abstimmungstermine festlegen. Er konsultiert vorgängig die Kantone.
 
-<sup>3</sup> Im Jahr der Gesamterneuerungswahl des Nationalrats findet im September keine Volksabstimmung statt.
+<sup>3</sup> Im Jahr der Gesamterneuerungswahl des Nationalrats finden an den Terminen gemäss Absatz 1 Buchstabe c und d keine Volksabstimmungen statt.
 
-<sup>4</sup> Die Bundeskanzlei gibt die reservierten Abstimmungsdaten spätestens im Juni des Vorjahres bekannt.
-
-[^2a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^2a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)). Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juli 2027 (AS **202****5** 314).
 
 #### Art. 2b
 
