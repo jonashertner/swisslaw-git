@@ -3,20 +3,19 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2027-01-01
-valid_until: 2027-12-31
+version: 2028-01-01
 version_adopted: 2026-09-01
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3939/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3940/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.01.2027)
+vom 12.12.1995 (Stand 01.01.2028)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -183,7 +182,7 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Das massgebende Einkommen entspricht dem Reineinkommen:
 
 - 1\. zuzüglich 20 Prozent des steuerbaren Vermögens;
-- 2\. zuzüglich die Beiträge an die Gebundene Selbstvorsorge Säule 3a;
+- 2\. zuzüglich die Beiträge und die nachträglichen Einkaufsbeiträge an die Gebundene Selbstvorsorge Säule 3a;
 - 3\. zuzüglich die Leistungen und Einkaufsbeiträge an Einrichtungen der beruflichen Vorsorge;
 - 4\. zuzüglich den Liegenschaftsaufwand, soweit dieser den Pauschalabzug von 20 Prozent der Mieteinnahmen übersteigt;
 - 5\. zuzüglich den Vorjahresverlusten nach Art. 42 des Steuergesetzes vom 9. April 1998;[^12-2]
