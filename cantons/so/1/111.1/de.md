@@ -4,13 +4,12 @@ number: "111.1"
 title: Verfassung des Kantons Solothurn
 short: KV
 language: de
-version: 2025-08-01
-valid_until: 2026-12-31
-version_adopted: 2024-09-22
+version: 2027-01-01
+version_adopted: 2026-06-14
 adopted: 1986-06-08
 in_force: 1988-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/111.1"
-pdf: "https://bgs.so.ch/api/de/versions/5580/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5654/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5580/pdf_file"
 
 (KV)
 
-Vom 08.06.1986 (Stand 01.08.2025)
+Vom 08.06.1986 (Stand 01.01.2027)
 
 Das Volk des Kantons Solothurn,
 
@@ -664,9 +663,11 @@ gibt sich folgende Verfassung:
 
 #### Art. 66
 
-**Stellung**
+**Stellung, Zusammensetzung und Vertretung**
 
 <sup>1</sup> Der Kantonsrat ist die gesetzgebende und oberste aufsichtführende Behörde des Kantons. Er zählt 100 Mitglieder.
+
+<sup>2</sup> Mitglieder, die infolge Mutterschaft verhindert sind, können sich vertreten lassen.
 
 #### Art. 67
 
@@ -1528,6 +1529,8 @@ Gewährleistung der Bundesversammlung der Änderungen vom:
 
 \15. Mai 2022 am 27. Februar 2023 (SR), 6. März 2023 (NR);
 
-\22. September 2024 am 15. September 2025 (SR), 22. September 2025 (NR).
+\22. September 2024 am 15. September 2025 (SR), 22. September 2025 (NR);
+
+\14. Juni 2026 am ...
 
 GS 90, 453
