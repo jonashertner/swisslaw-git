@@ -3,20 +3,19 @@ canton: SH
 number: "831.100"
 title: Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung
 language: de
-version: 2027-01-01
-valid_until: 2027-12-31
+version: 2028-01-01
 version_adopted: 2025-11-03
 adopted: 2025-11-03
 in_force: 2026-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2093/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung
 
-Vom 03.11.2025 (Stand 01.01.2027)
+Vom 03.11.2025 (Stand 01.01.2028)
 
 ## 1 Organisation
 
@@ -123,6 +122,16 @@ Vom 03.11.2025 (Stand 01.01.2027)
 <sup>5</sup> Die Geschäftsleitung erfüllt alle Aufgaben, die keinem anderen Organ vorbehalten sind.
 
 <sup>6</sup> Die Geschäftsleitung kann Vollzugsaufgaben delegieren.
+
+#### Art. 9
+
+**Personal**
+
+<sup>1</sup> Das Anstellungsverhältnis der Geschäftsleitung und des Personals untersteht dem Privatrecht und richtet sich nach dem Personalreglement nach Art. 7 Abs. 1 lit. h. Das Personalreglement orientiert sich am kantonalen Personalgesetz.
+
+<sup>2</sup> Das Personalreglement ist öffentlich einsehbar.
+
+<sup>3</sup> Die Sozialversicherungsanstalt Schaffhausen kann ihr Personal im Bereich der beruflichen Vorsorge bei der Pensionskasse Schaffhausen versichern.
 
 #### Art. 10
 
