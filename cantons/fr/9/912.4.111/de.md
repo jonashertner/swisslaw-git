@@ -3,13 +3,12 @@ canton: FR
 number: "912.4.111"
 title: Verordnung ILFD über die Reben und den Wein
 language: de
-version: 2024-01-01
-valid_until: 2026-12-31
-version_adopted: 2023-12-22
+version: 2027-01-01
+version_adopted: 2026-09-30
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/912.4.111"
-pdf: "https://bdlf.fr.ch/api/de/versions/7909/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8675/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7909/pdf_file"
 
 Reben und Wein – V
 
-vom 01.10.2009 (Fassung in Kraft getreten am 01.01.2024)
+vom 01.10.2009 (Fassung in Kraft getreten am 01.01.2027)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -439,7 +438,7 @@ Floreal
 
 Freiburger / Freisamer
 
-Gewürztraminer
+Gewürztraminer / Traminer / Savagnin rose
 
 Gouais
 
@@ -515,6 +514,8 @@ Cabernet-Sauvignon
 
 Cabertin
 
+Cal 1-28
+
 Carminoir
 
 Cornalin
@@ -562,6 +563,10 @@ Nerolo
 Pinotin
 
 Pinot noir
+
+Pinot Regina
+
+Prior
 
 Regent
 

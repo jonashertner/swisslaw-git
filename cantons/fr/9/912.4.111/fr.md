@@ -3,13 +3,12 @@ canton: FR
 number: "912.4.111"
 title: Ordonnance DIAF sur la vigne et le vin
 language: fr
-version: 2024-01-01
-valid_until: 2026-12-31
-version_adopted: 2023-12-22
+version: 2027-01-01
+version_adopted: 2026-09-30
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/912.4.111"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7909/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8675/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7909/pdf_file"
 
 Vigne et vin – O
 
-du 01.10.2009 (version entrée en vigueur le 01.01.2024)
+du 01.10.2009 (version entrée en vigueur le 01.01.2027)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -439,7 +438,7 @@ Floreal
 
 Freiburger / Freisamer
 
-Gewürztraminer
+Gewürztraminer / Traminer / Savagnin rose
 
 Gouais
 
@@ -515,6 +514,8 @@ Cabernet-Sauvignon
 
 Cabertin
 
+Cal 1-28
+
 Carminoir
 
 Cornalin
@@ -562,6 +563,10 @@ Nerolo
 Pinotin
 
 Pinot Noir
+
+Pinot Regina
+
+Prior
 
 Regent
 
