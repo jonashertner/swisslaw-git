@@ -1,25 +1,24 @@
 ---
 canton: AR
 number: "123.1"
-title: Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige und von Reisedokumenten für Ausländer
+title: Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige
 short: Ausweisverordnung
 language: de
-version: 2022-01-01
-valid_until: 2026-12-31
-version_adopted: 2021-11-09
+version: 2027-01-01
+version_adopted: 2026-09-22
 adopted: 2010-01-12
 in_force: 2010-03-01
 url: "https://ar.clex.ch/app/de/texts_of_law/123.1"
-pdf: "https://ar.clex.ch/api/de/versions/1383/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige und von Reisedokumenten für Ausländer
+# Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige
 
 (Ausweisverordnung)
 
-vom 12.01.2010 (Stand 01.01.2022)
+vom 12.01.2010 (Stand 01.01.2027)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -50,9 +49,7 @@ beschliesst:
 
 #### Art. 4
 
-**Ausweise für Ausländerinnen und Ausländer**
-
-<sup>1</sup> Für Ausländerinnen und Ausländer erfasst das kantonale Passbüro die Daten für die biometrischen und nicht biometrischen Ausländerausweise sowie für die Ausstellung von Reisedokumenten für ausländische Personen.
+**…**
 
 #### Art. 5
 
@@ -81,9 +78,9 @@ beschliesst:
 
 #### Art. 7
 
-**Ausstellung von Identitätskarten**
+**Identitätskarten ohne Datenchip**
 
-<sup>1</sup> Identitätskarten können auch bei der Wohnsitzgemeinde beantragt werden. Das Verfahren richtet sich nach den Art. 14c und 14d VAwG.
+<sup>1</sup> Identitätskarten ohne Datenchip können auch bei der Wohnsitzgemeinde beantragt werden. Das Verfahren richtet sich nach den Art. 14c und 14d VAwG.
 
 <sup>2</sup> Der dem Kanton zufallende Anteil an den Gebühren beträgt 70 Prozent, derjenige der Gemeinde 30 Prozent. Das Passbüro stellt den Gemeinden monatlich Rechnung.
 
