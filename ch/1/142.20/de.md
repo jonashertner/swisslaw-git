@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2026-11-01
+version: 2027-01-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20261101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20270101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. November 2026)
+vom 16. Dezember 2005 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -121,15 +121,16 @@ Ausländerinnen und Ausländer, die in die Schweiz einreisen wollen:
 
 <sup>2</sup> Bei Verweigerung des Visums für einen bewilligungsfreien Aufenthalt (Art. 10) erlässt die zuständige Auslandvertretung je nach Zuständigkeitsbereich im Namen des Staatssekretariates für Migration (SEM)[^6-1] oder des Departements für auswärtige Angelegenheiten (EDA) mittels eines Formulars eine Verfügung. Der Bundesrat kann vorsehen, dass andere Stellen des EDA ebenfalls Verfügungen im Namen des EDA erlassen dürfen.[^6-2]
 
-<sup>2bis</sup> Gegen eine Verfügung nach Absatz 2 kann bei der verfügenden Instanz (SEM oder EDA) innerhalb von 30 Tagen schriftlich Einsprache erhoben werden. Artikel 63 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^6-3] gilt sinngemäss.[^6-4]
+<sup>2bis</sup> Gegen eine Verfügung nach Absatz 2 kann bei der verfügenden Instanz (SEM oder EDA) innerhalb von 30 Tagen schriftlich Einsprache erhoben werden. Artikel 63 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^6-3] (VwVG) gilt sinngemäss.[^6-4] [^6-5]
 
-<sup>3</sup> Zur Deckung von allfälligen Aufenthalts-, Betreuungs- und Rückreisekosten können eine befristete Verpflichtungserklärung, die Hinterlegung einer Kaution oder andere Sicherheiten verlangt werden.[^6-5]
+<sup>3</sup> Zur Deckung von allfälligen Aufenthalts-, Betreuungs- und Rückreisekosten können eine befristete Verpflichtungserklärung, die Hinterlegung einer Kaution oder andere Sicherheiten verlangt werden.[^6-6]
 
 [^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassungen wurde für den ganzen Text vorgenommen.
 [^6-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^6-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^6-4]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung der Notenaustausche betreffend das Visa-Informationssystem) ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)). Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^6-5]: Fassung gemäss Art. 127 hiernach, in Kraft seit 12. Dez. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a).
+[^6-4]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^6-5]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung der Notenaustausche betreffend das Visa-Informationssystem) ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)). Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^6-6]: Fassung gemäss Art. 127 hiernach, in Kraft seit 12. Dez. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a).
 
 #### Art. 7
 
@@ -1116,7 +1117,7 @@ Die Kantone sehen für Personen mit besonderem Integrationsbedarf so früh wie m
 
 <sup>1</sup> Der Bund gewährt für die Integration finanzielle Beiträge nach den Absätzen 2 und 3. Diese Beiträge ergänzen die von den Kantonen für die Integration getätigten finanziellen Aufwendungen.
 
-<sup>2</sup> Die Beiträge für vorläufig aufgenommene Personen, anerkannte Flüchtlinge und Schutzbedürftige mit Aufenthaltsbewilligung, für welche der Bund den Kantonen die Sozialhilfekosten nach Artikel 87 des vorliegenden Gesetzes und nach den Artikeln 88 und 89 AsylG[^58-2] vergütet, werden den Kantonen als Integrationspauschalen oder durch Finanzierung von kantonalen Integrationsprogrammen gewährt. Sie können von der Erreichung sozialpolitischer Ziele abhängig gemacht und auf bestimmte Gruppen eingeschränkt werden.
+<sup>2</sup> Die Beiträge für vorläufig aufgenommene Personen und anerkannte Flüchtlinge, für welche der Bund den Kantonen die Sozialhilfekosten nach Artikel 87 des vorliegenden Gesetzes und nach den Artikeln 88 und 89 AsylG[^58-2] vergütet, sowie die Beiträge für Schutzbedürftige mit Aufenthaltsbewilligung werden den Kantonen als Integrationspauschalen oder durch Finanzierung von kantonalen Integrationsprogrammen gewährt.[^58-3] Sie können von der Erreichung sozialpolitischer Ziele abhängig gemacht und auf bestimmte Gruppen eingeschränkt werden.
 
 <sup>3</sup> Die übrigen Beiträge werden zur Finanzierung von kantonalen Integrationsprogrammen sowie von Programmen und Projekten von nationaler Bedeutung gewährt, die der Förderung der Integration von Ausländerinnen und Ausländern, unabhängig von ihrem Status, dienen. Die Koordination und die Durchführung von Programm- und Projekttätigkeiten kann Dritten übertragen werden.
 
@@ -1126,6 +1127,7 @@ Die Kantone sehen für Personen mit besonderem Integrationsbedarf so früh wie m
 
 [^58-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^58-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^58-3]: Fassung gemäss Ziff. I 1 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### 2. Abschnitt: Integrationserfordernisse
 
@@ -1421,10 +1423,14 @@ Die zuständigen Behörden erlassen eine ordentliche Wegweisungsverfügung, wenn
 
 <sup>5</sup> Offensichtlich begründete oder unbegründete Beschwerden werden durch die Einzelrichterin oder den Einzelrichter mit Zustimmung eines zweiten Richters oder einer zweiten Richterin innerhalb von fünf Arbeitstagen nach Eingang der Beschwerde oder nach dem Entscheid über die Erteilung der aufschiebenden Wirkung entschieden, wenn eine solche beantragt wurde. Auf die Durchführung des Schriftenwechsels kann verzichtet werden. Die Beschwerdeentscheide werden nur summarisch begründet.
 
+<sup>5bis</sup> Auf die Erhebung eines Kostenvorschusses nach Artikel 63 Absatz 4 VwVG[^64abis-3] wird verzichtet, ausser eine Beschwerde ist von vornherein aussichtslos.[^64abis-4]
+
 <sup>6</sup> Der Kanton zieht für das Beschwerdeverfahren nötigenfalls eine Dolmetscherin oder einen Dolmetscher bei.
 
 [^64abis-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^64abis-2]: Siehe Fussnote zu Art. 64*a* Abs. 1.
+[^64abis-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^64abis-4]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 64b
 
@@ -2416,7 +2422,7 @@ Der Bund zahlt den Kantonen für:
 
 <sup>2</sup> Die Übernahme der Ausreisekosten und die Ausrichtung von Rückkehrhilfe richten sich nach den Artikeln 92 und 93 AsylG.
 
-<sup>3</sup> Die Pauschalen nach Absatz 1 Buchstaben a und b werden während längstens sieben Jahren nach der Einreise ausgerichtet.[^87-8]
+<sup>3</sup> Die Pauschalen nach Absatz 1 Buchstaben a und b werden während längstens fünf Jahren nach der Einreise ausgerichtet.[^87-8]
 
 <sup>4</sup> Die Pauschale nach Absatz 1 Buchstabe d wird während längstens fünf Jahren nach der Anerkennung der Staatenlosigkeit ausgerichtet.[^87-9]
 
@@ -2427,7 +2433,7 @@ Der Bund zahlt den Kantonen für:
 [^87-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^87-6]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^87-7]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^87-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^87-8]: Fassung gemäss Ziff. I 1 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 [^87-9]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Jan. 2018 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 88
@@ -3294,16 +3300,17 @@ Die Einreichung des Gesuchs um eine ETIAS-Reisegenehmigung, die automatisierte P
 
 <sup>5</sup>
 
-Das Verfahren zur Erteilung, Verweigerung, Annullierung oder Widerruf der ETIAS-Reisegenehmigung richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^108d-2] (VwVG). Die Artikel 11*b* Absatz 1, 22*a* und 24 VwVG sind nicht anwendbar. Der Bundesrat kann zur Umsetzung der Verordnung (EU) 2018/1240[^108d-3] und der Rechtsakte, welche die Europäischen Kommission gestützt auf diese EU‑Verordnung erlässt, vom VwVG abweichende Bestimmungen erlassen über:
+Das Verfahren zur Erteilung, Verweigerung, Annullierung oder Widerruf der ETIAS-Reisegenehmigung richtet sich nach dem VwVG[^108d-2].[^108d-3] Die Artikel 11*b* Absatz 1, 22*a* und 24 VwVG sind nicht anwendbar. Der Bundesrat kann zur Umsetzung der Verordnung (EU) 2018/1240[^108d-4] und der Rechtsakte, welche die Europäischen Kommission gestützt auf diese EU‑Verordnung erlässt, vom VwVG abweichende Bestimmungen erlassen über:
 
 - a. elektronische Eingaben und Zustellungen (Art. 11*b* Abs. 2, 21*a* und 34 Abs. 1<sup>bis</sup> VwVG);
 - b. die vorgängige Anhörung (Art. 30 VwVG);
-- c. die Zulässigkeit von Eingaben auf Englisch; Verfahrenssprache ist eine Amtssprache (Art. 33*a* VwVG).[^108d-4]
+- c. die Zulässigkeit von Eingaben auf Englisch; Verfahrenssprache ist eine Amtssprache (Art. 33*a* VwVG).[^108d-5]
 
 [^108d-1]: Eingefügt durch Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das Europäische Reiseinformations- und -genehmigungssystem (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108d-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^108d-3]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
-[^108d-4]: Eingefügt durch Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108d-3]: Fassung gemäss Ziff. I 1 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, in Kraft seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^108d-4]: Siehe Fussnote zu Art. 5 Abs. 1 Bst. a<sup>bis</sup>.
+[^108d-5]: Eingefügt durch Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 108d<sup>bis</sup>
 

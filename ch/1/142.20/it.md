@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2026-11-01
+version: 2027-01-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20261101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20270101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 1° novembre 2026)
+del 16 dicembre 2005 (Stato 1° gennaio 2027)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -121,15 +121,16 @@ Lo straniero che intende entrare in Svizzera:
 
 <sup>2</sup> In caso di rifiuto del visto per un soggiorno non sottostante a permesso (art. 10), la competente rappresentanza all’estero emana, mediante un modulo, una decisione a nome della Segreteria di Stato della migrazione (SEM)[^6-1] o del Dipartimento federale degli affari esteri (DFAE), a seconda della sfera di competenze. Il Consiglio federale può prevedere che anche altri servizi del DFAE siano abilitati a emanare decisioni a nome del DFAE.[^6-2]
 
-<sup>2bis</sup> Contro una decisione secondo il capoverso 2 può essere fatta opposizione scritta entro 30 giorni all’autorità che ha emanato la decisione (SEM o DFAE). L’articolo 63 della legge federale del 20 dicembre 1968[^6-3] sulla procedura amministrativa si applica per analogia.[^6-4]
+<sup>2bis</sup> Contro una decisione secondo il capoverso 2 può essere fatta opposizione scritta entro 30 giorni all’autorità che ha emanato la decisione (SEM o DFAE). L’articolo 63 della legge federale del 20 dicembre 1968[^6-3] sulla procedura amministrativa (PA) si applica per analogia.[^6-4] [^6-5]
 
-<sup>3</sup> Per la copertura di eventuali spese di soggiorno, assistenza o connesse al viaggio di ritorno, possono essere richieste una dichiarazione di garanzia temporanea, una cauzione o altre garanzie.[^6-5]
+<sup>3</sup> Per la copertura di eventuali spese di soggiorno, assistenza o connesse al viaggio di ritorno, possono essere richieste una dichiarazione di garanzia temporanea, una cauzione o altre garanzie.[^6-6]
 
 [^6-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
 [^6-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^6-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^6-4]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS) ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)). Nuovo testo giusta la cifra I della LF del 20 giu. 2014, in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570), [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^6-5]: Nuovo testo giusta l’art. 127 qui avanti, in vigore dal 12 dic. 2008 ([RU 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. a).
+[^6-4]: Nuovo testo del per. giusta la cifra I n. 1 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^6-5]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS) ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)). Nuovo testo giusta la cifra I della LF del 20 giu. 2014, in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570), [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^6-6]: Nuovo testo giusta l’art. 127 qui avanti, in vigore dal 12 dic. 2008 ([RU 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. a).
 
 #### Art. 7
 
@@ -766,7 +767,7 @@ Il titolare di un permesso di soggiorno di breve durata, di dimora o di domicili
 
 <sup>6</sup> La SEM determina forma e contenuto delle carte di soggiorno. Può affidarne parzialmente o interamente l’allestimento a terzi.[^41-3]
 
-[^41-1]: Nuovo testo giusta l’art. 2 n. 1 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^41-1]: Nuovo testo giusta l’art. 2 n. 1 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^41-2]: Introdotto dall’art. 2 n. 1 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^41-3]: Introdotto dall’art. 2 n. 1 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
@@ -1120,9 +1121,9 @@ I Cantoni prevedono con la massima sollecitudine misure d’integrazione adeguat
 
 <sup>1</sup> La Confederazione contribuisce finanziariamente all’integrazione conformemente ai capoversi 2 e 3. Tali contributi completano le spese sostenute dai Cantoni a favore dell’integrazione.
 
-<sup>2</sup> I contributi per persone ammesse provvisoriamente, rifugiati riconosciuti e persone bisognose di protezione titolari di un permesso di dimora, per i quali la Confederazione rimborsa ai Cantoni le spese d’aiuto sociale secondo l’articolo 87 della presente legge e gli articoli 88 e 89 LAsi[^58-2], sono versati sotto forma di somme forfettarie per l’integrazione o di finanziamenti destinati a programmi cantonali d’integrazione. Possono essere subordinati al raggiungimento di obiettivi sociopolitici e limitati a determinati gruppi di persone.
+<sup>2</sup> I contributi per persone ammesse provvisoriamente e rifugiati riconosciuti, per i quali la Confederazione rimborsa ai Cantoni le spese d’aiuto sociale secondo l’articolo 87 della presente legge e gli articoli 88 e 89 LAsi[^58-2], e quelli per persone bisognose di protezione titolari di un permesso di dimora sono versati sotto forma di somme forfettarie per l’integrazione o di finanziamenti destinati a programmi cantonali d’integrazione.[^58-3] Possono essere subordinati al raggiungimento di obiettivi sociopolitici e limitati a determinati gruppi di persone.
 
-<sup>3</sup> Gli altri contributi sono versati per il finanziamento di programmi cantonali di integrazione nonché per programmi e progetti di portata nazionale volti a promuovere l’integrazione degli stranieri a prescindere dal loro statuto. Il coordinamento e lo svolgimento delle attività nell’ambito dei programmi e progetti possono essere affidati a terzi.
+<sup>3</sup> Gli altri contributi sono versati per il finanziam Nuovo testo del per. giusta la cifra I n. 1 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 (RU **2026** 393). ento di programmi cantonali di integrazione nonché per programmi e progetti di portata nazionale volti a promuovere l’integrazione degli stranieri a prescindere dal loro statuto. Il coordinamento e lo svolgimento delle attività nell’ambito dei programmi e progetti possono essere affidati a terzi.
 
 <sup>4</sup> Il Consiglio federale fissa l’importo dei contributi della Confederazione secondo i capoversi 2 e 3.
 
@@ -1130,6 +1131,7 @@ I Cantoni prevedono con la massima sollecitudine misure d’integrazione adeguat
 
 [^58-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^58-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^58-3]: Nuovo testo del per. giusta la cifra I n. 1 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Sezione 2: Requisiti d’integrazione
 
@@ -1425,10 +1427,14 @@ Le autorità competenti emanano una decisione di allontanamento ordinaria nei co
 
 <sup>5</sup> In caso di ricorsi manifestamente fondati o manifestamente infondati i giudici decidono come giudice unico, con l’approvazione di un secondo giudice, entro cinque giorni feriali dal ricevimento del ricorso o dalla decisione sulla concessione dell’effetto sospensivo, qualora sia stato richiesto. Si può rinunciare allo scambio di scritti. Le decisioni sui ricorsi sono motivate solo sommariamente.
 
+<sup>5bis</sup> A meno che il ricorso sia a priori privo di probabilità di successo, non si esige un anticipo delle spese secondo l’articolo 63 capoverso 4 PA[^64abis-3].[^64abis-4]
+
 <sup>6</sup> Se necessario, nel quadro della procedura di ricorso il Cantone si avvale di un interprete.
 
 [^64abis-1]: Introdotto dall’all. 1 n. 1 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^64abis-2]: Cfr. nota a piè di pagina relativa all’art. 64*a* cpv. 1.
+[^64abis-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^64abis-4]: Introdotto dalla cifra I n. 1 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 64b
 
@@ -1945,7 +1951,7 @@ Se è stata notificata una decisione di prima istanza d’allontanamento o espul
 [^76-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^76-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^76-3]: Nuovo testo giusta la cifra I n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^76-4]: Nuovo testo giusta la cifra I n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565);, [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^76-4]: Nuovo testo giusta la cifra I n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^76-5]: Abrogato dall’all. n. 1 della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^76-6]: Nuovo testo giusta la cifra II della LF del 1° ott. 2021, in vigore dal 1° apr. 2025 ([RU 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8129](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
 [^76-7]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
@@ -2101,7 +2107,7 @@ La carcerazione ha termine se:
 [^80-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^80-3]: Introdotto dall’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^80-4]: Nuovo testo giusta l’art. 2 n. 1 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente il recepimento della direttiva CE sul rimpatrio (direttiva 2008/115/CE), in vigore dal 1° gen. 2011 ([RU 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^80-5]: Introdotto dall’all. cifra I n. 1 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale) ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)). Nuovo testo giusta l’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^80-5]: Introdotto dall’all. cifra I n. 1 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale) ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)). Nuovo testo giusta l’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^80-6]: Nuovo testo del per. giusta la cifra I della LF del 26 set. 2014, in vigore dal 1° mar. 2015 ([RU 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 2935](https://fedlex.data.admin.ch/eli/fga/2014/708)).
 
 #### Art. 80a
@@ -2273,7 +2279,7 @@ L’ammissione provvisoria secondo i capoversi 2 e 4 è esclusa se lo straniero 
 
 [^84-1]: Nuovo testo giusta la cifra I n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^84-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^84-3]: Nuovo testo giusta l’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^84-3]: Nuovo testo giusta l’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 85
 
@@ -2298,9 +2304,9 @@ L’ammissione provvisoria secondo i capoversi 2 e 4 è esclusa se lo straniero 
 [^85-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^85-2]: Abrogati dalla cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85-3]: Per. introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^85-4]: Abrogato dalla cifra I della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85-4]: Abrogato dalla cifra I della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^85-5]: Abrogato dalla cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
-[^85-6]: Introdotti dalla cifra I della LF del 16 dic. 2016 (Integrazione) ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)). Abrogati dalla cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
+[^85-6]: Introdotti dalla cifra I della LF del 16 dic. 2016 (Integrazione) ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)). Abrogati dalla cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85-7]: Introdotto dalla cifra I n. 1 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)). Abrogato dalla cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), con effetto dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 
 #### Art. 85a
@@ -2327,7 +2333,7 @@ Il datore di lavoro notifica previamente all’autorità competente per il luogo
 
 <sup>6</sup> Disciplina la procedura di notifica.
 
-[^85a-1]: Introdotto dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^85a-1]: Introdotto dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^85a-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^85a-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85a-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
@@ -2423,7 +2429,7 @@ La Confederazione versa ai Cantoni:
 
 <sup>2</sup> L’assunzione delle spese di partenza e il versamento di un aiuto al ritorno sono retti dagli articoli 92 e 93 LAsi.
 
-<sup>3</sup> Le somme forfettarie di cui al capoverso 1 lettere a e b sono versate per un periodo massimo di sette anni dopo l’entrata in Svizzera.[^87-8]
+<sup>3</sup> Le somme forfettarie di cui al capoverso 1 lettere a e b sono versate per un periodo massimo di cinque anni dopo l’entrata in Svizzera.[^87-8]
 
 <sup>4</sup> La somma forfettaria di cui al capoverso 1 lettera d è versata per un periodo massimo di cinque anni dopo il riconoscimento dell’apolidia.[^87-9]
 
@@ -2431,11 +2437,11 @@ La Confederazione versa ai Cantoni:
 [^87-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^87-3]: Nuovo testo giusta dall’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° gen. 2018 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^87-4]: Introdotta dalla cifra IV n. 2 della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^87-5]: Introdotta dall’all. n. 1 della LF del 25 set. 2015 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Nuovo testo giusta la cifra I n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^87-5]: Introdotta dall’all. n. 1 della LF del 25 set. 2015 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Nuovo testo giusta la cifra I n. 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^87-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^87-7]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^87-8]: Nuovo testo giusta l’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° gen. 2018 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^87-9]: Introdotto dall’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° gen. 2018 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^87-8]: Nuovo testo giusta la cifra I n. 1 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^87-9]: Introdotto dall’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° gen. 2018 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 88
 
@@ -2445,7 +2451,7 @@ La Confederazione versa ai Cantoni:
 
 <sup>2</sup> L’obbligo di pagare il contributo speciale sussiste al massimo per dieci anni dall’entrata in Svizzera.
 
-[^88-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^88-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2018 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^88-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 88a
@@ -2640,7 +2646,7 @@ I gestori di aeroporti sono tenuti a mettere a disposizione, sul territorio dell
 
 <sup>2</sup> Se un provvedimento si giustifica ma risulta inadeguato alle circostanze, alla persona interessata può essere rivolto un ammonimento con la comminazione di tale provvedimento.
 
-[^96-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^96-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 97
 
@@ -2669,12 +2675,12 @@ Il Consiglio federale determina quali dati vanno comunicati alle autorità menzi
 
 [^97-1]: Per i dati relativi al lavoro nero fanno stato gli art. 11 e 12 della LF del 17 giu. 2005 concernente i provvedimenti in materia di lotta contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 [^97-2]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^97-3]: Introdotta dalla cifra III n. 1 della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^97-3]: Introdotta dalla cifra III n. 1 della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-4]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
-[^97-5]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^97-6]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^97-7]: Introdotta dall’all. n. 1 della LF del 14 dic. 2012 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 (**2017** 6521, **2018** 3171; [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^97-8]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione) ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)). Abrogata dalla cifra III n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^97-5]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^97-6]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^97-7]: Introdotta dall’all. n. 1 della LF del 14 dic. 2012 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 (**2017** 6521; **2018** 3171; [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^97-8]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione) ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)). Abrogata dalla cifra III n. 1 della LF del 16 dic. 2016 (Integrazione), con effetto dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-9]: Introdotto dalla cifra I della LF del 16 dic. 2016 (Regolazione dell’immigrazione e miglioramenti nell’esecuzione degli accordi sulla libera circolazione), in vigore dal 1° lug. 2018 ([RU 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2621](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 
 #### Art. 98
@@ -2811,7 +2817,7 @@ Il Consiglio federale può concludere con altri Stati o organizzazioni internazi
 
 <sup>5</sup> Il Consiglio federale può attribuire altri compiti alla commissione.
 
-[^100b-1]: Introdotto dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^100b-1]: Introdotto dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^100b-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^100b-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2025 (Adeguamenti redazionali relativi al codice frontiere Schengen), in vigore dal 12 giu. 2026 ([RU 2026 197](https://fedlex.data.admin.ch/eli/oc/2026/197); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
 
@@ -2843,9 +2849,9 @@ Il Consiglio federale può concludere con altri Stati o organizzazioni internazi
 <sup>2</sup> Il Consiglio federale stabilisce i gruppi di persone sottoposti a un rilevamento sistematico nonché i dati biometrici da rilevare ai sensi del capoverso 1 e disciplina l’accesso a questi ultimi.[^102-4]
 
 [^102-1]: Nuovo testo giusta l’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^102-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^102-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^102-3]: Introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^102-4]: Nuovo testo giusta la cifra I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^102-4]: Nuovo testo giusta la cifra I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 #### Art. 102a
 
@@ -3299,16 +3305,17 @@ La presentazione della domanda di autorizzazione ai viaggi ETIAS, la verifica au
 
 <sup>5</sup>
 
-La procedura di rilascio, rifiuto, annullamento o revoca dell’autorizzazione ai viaggi ETIAS è retta dalla legge federale del 20 dicembre 1968[^108d-2] sulla procedura amministrativa (PA). Gli articoli 11*b* capoverso 1, 22*a* e 24 PA non sono applicabili. Al fine di attuare il regolamento (UE) 2018/1240[^108d-3] e gli atti normativi che la Commissione europea emana sulla base di tale regolamento, il Consiglio federale può emanare disposizioni che deroghino alla PA con riguardo a:
+La procedura di rilascio, rifiuto, annullamento o revoca dell’autorizzazione ai viaggi ETIAS è retta dalla PA[^108d-2].[^108d-3] Gli articoli 11*b* capoverso 1, 22*a* e 24 PA non sono applicabili. Al fine di attuare il regolamento (UE) 2018/1240[^108d-4] e gli atti normativi che la Commissione europea emana sulla base di tale regolamento, il Consiglio federale può emanare disposizioni che deroghino alla PA con riguardo a:
 
 - a. la trasmissione per via elettronica di atti scritti e notificazioni (art. 11*b* cpv. 2, 21*a* e 34 cpv. 1<sup>bis</sup> PA);
 - b. l’audizione preliminare (art. 30 PA);
-- c. l’ammissibilità di atti scritti in inglese; la lingua del procedimento è una lingua ufficiale (art. 33*a* PA).[^108d-4]
+- c. l’ammissibilità di atti scritti in inglese; la lingua del procedimento è una lingua ufficiale (art. 33*a* PA).[^108d-5]
 
 [^108d-1]: Introdotto dall’all. n. 1 del DF che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2018/1240 che istituisce il sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) del 25 set. 2020, in vigore dal 15 giu. 2025 ([RU 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2577](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108d-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^108d-3]: Cfr. nota a piè di pagina relativa all’art. 5 cpv. 1 lett. a<sup>bis</sup>.
-[^108d-4]: Introdotto dall’all. n. 1 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 (RU 2025 349; FF 2022 1449).
+[^108d-3]: Nuovo testo del per. giusta la cifra I n. 1 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, in vigore dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^108d-4]: Cfr. nota a piè di pagina relativa all’art. 5 cpv. 1 lett. a<sup>bis</sup>.
+[^108d-5]: Introdotto dall’all. n. 1 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 108d<sup>bis</sup>
 
@@ -3544,7 +3551,7 @@ Hanno accesso ai seguenti dati di N-ETIAS:
   - 1\. ai dati di cui all’articolo 108*i* capoverso 2, nel quadro dello svolgimento dei compiti in veste di unità nazionale ETIAS,
   - 2\. ai dati di cui all’articolo 108*i* capoverso 2 lettere a–i, per l’elaborazione delle richieste di consultazione e delle relative risposte;
 
-- b.[^108j-2] il SIC, fedpol, il Protocollo del DFAE e la Missione svizzera a Ginevra, ai dati di cui all’articolo 108*i* capoverso 2 lettere a–i per le risposte alle richieste di consultazione nel quadro del trattamento delle domande ETIAS;
+- b.[^108j-2] il SIC, fedpol, il Protocollo del DFAE e la Missione svizzera a Ginevra, ai dati di cui all’articolo 108*i* capoverso 2 lettere a–i per le risposte alle richieste di consultazione nel quadro del trattamento delle domande ETIAS;c. il SIC e fedpol ai dati di cui all’articolo 108*i* capoverso 2 lettere k ed l, nel quadro dello svolgimento dei compiti in veste di autorità richiedente per il trattamento di dati nell’elenco di controllo ETIAS.
 - c. il SIC e fedpol ai dati di cui all’articolo 108*i* capoverso 2 lettere k ed l, nel quadro dello svolgimento dei compiti in veste di autorità richiedente per il trattamento di dati nell’elenco di controllo ETIAS.
 
 <sup>2</sup> Al fine di istruire i ricorsi ricevuti, al Tribunale amministrativo federale è inviato in forma elettronica un estratto del fascicolo del procedimento mediante la piattaforma di trasmissione ETIAS di cui all’articolo 108*d*<sup>quater</sup>.
@@ -3603,7 +3610,7 @@ Le autorità seguenti hanno accesso online ai dati del C-VIS:
 - c.[^109a-9] il Corpo delle guardie di confine e le autorità cantonali di polizia competenti per i controlli alle frontiere esterne Schengen: al fine di effettuare i controlli alle frontiere esterne Schengen;
 - d.[^109a-10] il Corpo delle guardie di confine e le autorità cantonali e comunali di polizia che procedono a controlli delle persone: al fine di identificare le persone che non adempiono o non adempiono più le condizioni d’entrata o di soggiorno nel territorio svizzero;
 - e.[^109a-11] la SEM: nell’ambito dell’adempimento dei suoi compiti in veste di unità nazionale ETIAS;
-- e<sup>bis</sup>. [^109a-12]la SEM, il Corpo delle guardie di confine, le autorità cantonali e comunali di polizia incaricate dei controlli sulle persone e le autorità cantonali in materia di migrazione competenti: al fine di effettuare accertamenti secondo gli articoli 9*b* e 9*c* della presente legge nonché gli articoli 21*a* e 26 capoverso 1<sup>bis</sup> LAsi[^109a-13].
+- e<sup>bis</sup>.[^109a-12] la SEM, il Corpo delle guardie di confine, le autorità cantonali e comunali di polizia incaricate dei controlli sulle persone e le autorità cantonali in materia di migrazione competenti: al fine di effettuare accertamenti secondo gli articoli 9*b* e 9*c* della presente legge nonché gli articoli 21*a* e 26 capoverso 1<sup>bis</sup> LAsi[^109a-13].
 
 <sup>3</sup>
 
@@ -3705,7 +3712,7 @@ La SEM può permettere l’accesso online ai dati di ORBIS alle seguenti autorit
 [^109c-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dal 20 gen. 2014 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109c-2]: Nuovo testo giusta l’all. 1 n. 1 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^109c-3]: Nuovo testo giusta l’all. 1 n. 1 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
-[^109c-4]: Nuovo testo giusta la cifra I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^109c-4]: Nuovo testo giusta la cifra I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^109c-5]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^109c-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^109c-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
@@ -3741,7 +3748,7 @@ Il Consiglio federale disciplina:
 - i. la responsabilità del trattamento dei dati;
 - j. l’elenco dei reati secondo l’articolo 109*a* capoverso 3.
 
-[^109e-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dal 20 gen. 2014 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^109e-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dal 20 gen. 2014 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 
 ### Sezione 5: Sistema d’informazione per l’attuazione del ritorno
 
@@ -4271,12 +4278,11 @@ La responsabilità per il trattamento di dati nell’sBMS, nel CIR e nel MID è 
 
 [^111-1]: Abrogato dalla cifra I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), con effetto dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-## Capitolo 14*c*: Protezione dei dati nell’ambito degli Accordi di associazione alla normativa di Schengen e di Dublino
+## Capitolo 14*c*: Protezione dei dati nell’ambito degli Accordi di associazione alla normativa di Schengen
 
-[^chap14c-1][^chap14c-2]
+[^chap14c-1]
 
 [^chap14c-1]: Originario cap. 14<sup>ter</sup> poi Cap. 14*b*. Introdotto dall’art. 127 qui avanti, in vigore dal 12 dic. 2008 ([RU 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. a).
-[^chap14c-2]: Nuovo testo giusta l’all. 1 n. 1 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 111a
 
@@ -4513,7 +4519,7 @@ La pena è una pena detentiva sino a cinque anni o una pena pecuniaria se l’au
 
 [^117-1]: Terzo per. abrogato dalla cifra I n. 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^117-2]: Secondo per. abrogato dalla cifra I n. 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^117-3]: Introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^117-3]: Introdotto dall’all. n. 1 della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 117a
 
@@ -4574,9 +4580,9 @@ Si può prescindere dal procedimento penale, dal rinvio a giudizio o dalla puniz
 <sup>2</sup> Il Consiglio federale può prevedere multe fino a 5000 franchi per infrazioni alle disposizioni d’esecuzione della presente legge.
 
 [^120-1]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione) ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Limitazioni per i viaggi all’estero e adeguamenti dello statuto dell’ammissione provvisoria), in vigore dal 1° giu. 2024 ([RU 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 6543](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
-[^120-2]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^120-2]: Introdotta dalla cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
-#### Art. 120a–120c
+#### Art. 120a a 120c
 
 [^120a120c-1]
 
@@ -4606,7 +4612,7 @@ Si può prescindere dal procedimento penale, dal rinvio a giudizio o dalla puniz
 
 <sup>2</sup> …[^120e-2]
 
-[^120e-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dall’11 ott. 2011 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^120e-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dall’11 ott. 2011 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^120e-2]: Abrogato dalla cifra I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), con effetto dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
 ### Sezione 2: Sanzioni amministrative
@@ -4783,7 +4789,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 <sup>7</sup> Se l’ammissione provvisoria di uno straniero è stata soppressa prima dell’entrata in vigore della modifica della LAsi del 16 dicembre 2005 con decisione passata in giudicato, la Confederazione versa ai Cantoni una somma forfettaria unica di 15 000 franchi, sempreché tale persona non abbia ancora lasciato la Svizzera.
 
-[^126a-1]: Introdotto dalla cifra IV n. 2 della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^126a-1]: Introdotto dalla cifra IV n. 2 della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^126a-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^126a-3]: [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 [^126a-4]: [RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)
@@ -4796,7 +4802,7 @@ Fino all’entrata in vigore del sistema nazionale visti, gli articoli 190*c* e 
 
 …[^126b-2]
 
-[^126b-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dall’11 ott. 2011 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^126b-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dall’11 ott. 2011 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^126b-2]: Le mod. possono essere consultate alla [RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272).
 
 #### Art. 126c
@@ -4815,7 +4821,7 @@ I procedimenti penali amministrativi per violazione dell’obbligo di diligenza 
 
 <sup>2</sup> Le procedure pendenti di cui agli articoli 76 capoverso 1 lettera b numero 5 e 76*a* capoverso 3 sono rette dagli articoli 80 capoversi 1 terzo periodo e 2<sup>bis</sup> e 80*a* capoversi 1 e 2 della presente legge, nonché dagli articoli 108 capoverso 4, 109 capoverso 3, 110 capoverso 4 lettera b e 111 lettera d LAsi[^126d-2] nella loro versione anteriore.
 
-[^126d-1]: Introdotto dall’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^126d-1]: Introdotto dall’all. n. 1 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^126d-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 126e
@@ -4869,7 +4875,7 @@ Data dell’entrata in vigore: 1° gennaio 2008[^128-1] Art. 92–95 e 127: 12 d
 
 [^u1-1]
 
-[^u1-1]: [RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)
+[^u1-1]: [RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)
 
 <sup>1</sup> Fatto salvo il capoverso 2, le procedure pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2012 della presente legge sono rette dal nuovo diritto.
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2026-11-01
+version: 2027-01-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20261101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20270101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20261101/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> novembre 2026)
+du 16 décembre 2005 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -122,15 +122,16 @@ Pour entrer en Suisse, tout étranger doit:
 
 <sup>2</sup> Lorsque l’établissement du visa pour un séjour non soumis à autorisation (art. 10) est refusé, la représentation à l’étranger compétente rend une décision au moyen d’un formulaire au nom du Secrétariat d’État aux migrations (SEM)[^6-1] ou du Département fédéral des affaires étrangères (DFAE), selon le domaine de compétence. Le Conseil fédéral peut prévoir que d’autres services du DFAE sont également habilités à rendre des décisions au nom du DFAE.[^6-2]
 
-<sup>2bis</sup> Une décision au sens de l’al. 2 peut faire l’objet d’une opposition écrite devant l’autorité qui l’a rendue (SEM ou DFAE) dans un délai de 30 jours. L’art. 63 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^6-3] est applicable par analogie.[^6-4]
+<sup>2bis</sup> Une décision au sens de l’al. 2 peut faire l’objet d’une opposition écrite devant l’autorité qui l’a rendue (SEM ou DFAE) dans un délai de 30 jours. L’art. 63 de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^6-3] est applicable par analogie.[^6-4] [^6-5]
 
-<sup>3</sup> Une déclaration de prise en charge de durée limitée, une caution ou toute autre garantie peuvent être exigées pour couvrir les éventuels frais de séjour, de prise en charge et de retour.[^6-5]
+<sup>3</sup> Une déclaration de prise en charge de durée limitée, une caution ou toute autre garantie peuvent être exigées pour couvrir les éventuels frais de séjour, de prise en charge et de retour.[^6-6]
 
 [^6-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^6-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^6-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^6-4]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^6-5]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
+[^6-4]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^6-5]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^6-6]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
 
 #### Art. 7
 
@@ -1123,7 +1124,7 @@ Les cantons prévoient le plus tôt possible des mesures appropriées pour les �
 
 <sup>1</sup> La Confédération accorde des contributions financières à l’intégration des étrangers en vertu des al. 2 et 3. Ces contributions complètent les dépenses engagées par les cantons pour l’intégration.
 
-<sup>2</sup> Les contributions versées pour les personnes admises à titre provisoire, les réfugiés reconnus et les personnes à protéger titulaires d’une autorisation de séjour, pour lesquels la Confédération rembourse aux cantons les coûts de l’aide sociale en vertu de l’art. 87 de la présente loi et des art. 88 et 89 LAsi[^58-2], sont octroyées aux cantons sous la forme de forfaits d’intégration ou de financement de programmes d’intégration cantonaux. Elles peuvent être liées à la réalisation d’objectifs sociopolitiques et restreintes à certaines catégories de personnes.
+<sup>2</sup> Les contributions versées pour les personnes admises à titre provisoire et les réfugiés reconnus pour lesquels la Confédération rembourse aux cantons les coûts de l’aide sociale en vertu de l’art. 87 de la présente loi et des art. 88 et 89 LAsi[^58-2], ainsi que les contributions versées pour les personnes à protéger titulaires d’une autorisation de séjour sont octroyées aux cantons sous la forme de forfaits d’intégration ou de financement de programmes d’intégration cantonaux.[^58-3] Elles peuvent être liées à la réalisation d’objectifs sociopolitiques et restreintes à certaines catégories de personnes.
 
 <sup>3</sup> Les autres contributions sont versées pour financer des programmes d’intégration cantonaux ainsi que des programmes et des projets d’importance nationale visant à encourager l’intégration des étrangers, indépendamment du statut de ces derniers. La coordination et la réalisation des activités liées aux programmes et aux projets peuvent être confiées à des tiers.
 
@@ -1133,6 +1134,7 @@ Les cantons prévoient le plus tôt possible des mesures appropriées pour les �
 
 [^58-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^58-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^58-3]: Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Section 2 Exigences en matière d’intégration
 
@@ -1428,10 +1430,14 @@ Les autorités compétentes rendent une décision de renvoi ordinaire à l’enc
 
 <sup>5</sup> En cas de recours manifestement fondé ou infondé, un juge unique, avec l’accord d’un second juge, statue dans les cinq jours ouvrables suivant la réception du recours ou la décision quant à l’octroi de l’effet suspensif lorsque celui-ci a été demandé. Il est possible de renoncer à un échange d’écritures. Les décisions sur recours ne sont motivées que sommairement.
 
+<sup>5bis</sup> Il est renoncé à la perception d’une avance de frais au sens l’art. 63, al. 4, PA[^64abis-3], sauf si un recours est d’emblée voué à l’échec.[^64abis-4]
+
 <sup>6</sup> Au besoin, le canton fait appel à un interprète pour la procédure de recours.
 
 [^64abis-1]: Introduit par l’annexe 1 ch. 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1351 relatif à la gestion de l’asile et de la migration et du règlement (UE) 2024/1359 visant à faire face aux situations de crise et aux cas de force majeure dans le domaine de la migration et de l’asile, en vigueur depuis le 12 juin 2026 ([RO 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^64abis-2]: Cf. note de bas de page relative à l’art. 64*a*, al. 1.
+[^64abis-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^64abis-4]: Introduit par le ch. I 1 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 #### Art. 64b
 
@@ -2425,7 +2431,7 @@ La Confédération verse aux cantons:
 
 <sup>2</sup> La prise en charge des frais de départ et le versement d’une aide au retour sont régis par les art. 92 et 93 LAsi.
 
-<sup>3</sup> Les indemnités forfaitaires visées à l’al. 1, let. a et b, sont versées au plus pendant sept ans à compter de l’entrée en Suisse.[^87-8]
+<sup>3</sup> Les indemnités forfaitaires visées à l’al. 1, let. a et b, sont versées au plus pendant cinq ans à compter de l’entrée en Suisse.[^87-8]
 
 <sup>4</sup> Les indemnités forfaitaires visées à l’al. 1, let. d, sont versées au plus pendant cinq ans à compter de la reconnaissance de l’apatridie.[^87-9]
 
@@ -2436,7 +2442,7 @@ La Confédération verse aux cantons:
 [^87-5]: Introduite par l’annexe ch. 1 de la LF du 25 sept. 2015 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Nouvelle teneur selon le ch. I 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^87-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^87-7]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^87-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^87-8]: Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 [^87-9]: Introduit par l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2017 6171](https://fedlex.data.admin.ch/eli/oc/2017/685); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 88
@@ -3040,7 +3046,7 @@ Les autorités suivantes peuvent saisir et traiter en ligne des données dans l�
 
 - a.[^103c-3] le Corps des gardes-frontière et les autorités cantonales de police compétentes en matière de contrôle aux frontières extérieures Schengen: pour accomplir leurs tâches dans le cadre du contrôle à la frontière;
 - b. le SEM, les représentations suisses à l’étranger et les missions, les autorités cantonales migratoires compétentes en matière de visas et les autorités communales auxquelles les cantons ont délégué ces compétences: pour révoquer, annuler ou prolonger un visa ou un séjour autorisé qui n’excède pas 90 jours par période de 180 jours;
-- c. le Corps des gardes-frontière, les autorités cantonales et communales de police et les autorités migratoires cantonales et communales: pour vérifier la légalité du séjour en Suisse et créer ou mettre à jour le dossier EES.
+- c. le Corps des gardes-frontière, les autorités cantonales et communales de police et les autorités migratoires cantonales et communales: pour vérifier la légalité du séjour en Suisse et créer ou mettre à jour le dossier EES;
 
 <sup>2</sup>
 
@@ -3077,7 +3083,7 @@ Les autorités suivantes peuvent demander des données de l’EES au point d’a
 [^103c-7]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^103c-8]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^103c-9]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
-[^103c-10]: Introduite par le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE) ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2024/1717 modifiant le règlement (UE) 2016/399 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (Développement de l’acquis de Schengen), en vigueur depuis le 12 juin 2026 ([RO 2026 198](https://fedlex.data.admin.ch/eli/oc/2026/198); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
+[^103c-10]: Introduite par le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE) ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2024/1717 modifiant le règlement (UE) 2016/399 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes, en vigueur depuis le 12 juin 2026 ([RO 2026 198](https://fedlex.data.admin.ch/eli/oc/2026/198); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
 [^103c-11]: Abrogé par le ch. III de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), avec effet au 1<sup>er</sup> sept. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^103c-12]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
@@ -3304,16 +3310,17 @@ Le dépôt des demandes d’autorisation de voyage ETIAS, leur examen automatiqu
 
 <sup>5</sup>
 
-La procédure de délivrance, de refus, d’annulation et de révocation de l’autorisation de voyage ETIAS est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^108d-2]. Les art. 11*b*, al. 1, 22*a* et 24 PA ne sont pas applicables. Pour mettre en œuvre le règlement (UE) 2018/1240[^108d-3] ainsi que les actes juridiques adoptés par la Commission européenne sur la base de ce règlement, le Conseil fédéral peut édicter des dispositions dérogeant à la PA en ce qui concerne:
+La procédure de délivrance, de refus, d’annulation et de révocation de l’autorisation de voyage ETIAS est régie par la PA[^108d-2].[^108d-3] Les art. 11*b*, al. 1, 22*a* et 24 PA ne sont pas applicables. Pour mettre en œuvre le règlement (UE) 2018/1240[^108d-4] ainsi que les actes juridiques adoptés par la Commission européenne sur la base de ce règlement, le Conseil fédéral peut édicter des dispositions dérogeant à la PA en ce qui concerne:
 
 - a. la transmission d’écrits et la notification par voie électronique (art. 11*b*, al. 2, 21*a* et 34, al. 1<sup>bis</sup>, PA);
 - b. l’audition préalable (art. 30 PA);
-- c. la possibilité de déposer des écrits en anglais; la langue de la procédure est une langue officielle (art. 33*a* PA).[^108d-4]
+- c. la possibilité de déposer des écrits en anglais; la langue de la procédure est une langue officielle (art. 33*a* PA).[^108d-5]
 
 [^108d-1]: Introduit par l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^108d-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^108d-3]: Voir note de bas de page relative à l’art. 5, al. 1, let. a<sup>bis</sup>.
-[^108d-4]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^108d-3]: Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^108d-4]: Voir note de bas de page relative à l’art. 5, al. 1, let. a<sup>bis</sup>.
+[^108d-5]: Introduit par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
 
 #### Art. 108d<sup>bis</sup>
 
@@ -3625,7 +3632,7 @@ Les autorités suivantes peuvent demander au point d’accès central visé à l
 [^109a-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 11 oct. 2011 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^109a-3]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (R VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2024/1356, JO L, 2024/1356, 22.5.2024.
-[^109a-4]: Nouvelle teneur selon l’annexe 1 ch. 1 et 2 ch. 4 let. a de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1356 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, en vigueur depuis le 12 juin 2026 ([RO 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^109a-4]: Nouvelle teneur selon l’annexe 1 ch. 1 et 2 ch. 4 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1356 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, en vigueur depuis le 12 juin 2026 ([RO 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^109a-5]: Introduit par l’annexe 1 ch. 1 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
 [^109a-6]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1351 relatif à la gestion de l’asile et de la migration et du règlement (UE) 2024/1359 visant à faire face aux situations de crise et aux cas de force majeure dans le domaine de la migration et de l’asile, en vigueur depuis le 12 juin 2026 ([RO 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^109a-7]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 3225](https://fedlex.data.admin.ch/eli/fga/2014/708)).
@@ -3634,7 +3641,7 @@ Les autorités suivantes peuvent demander au point d’accès central visé à l
 [^109a-10]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2025 (Changements d’ordre rédactionnel relatifs au code frontières Schengen), en vigueur depuis le 12 juin 2026 ([RO 2026 197](https://fedlex.data.admin.ch/eli/oc/2026/197); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
 [^109a-11]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^109a-12]: Introduite par l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^109a-13]: Introduite par l’annexe 1 ch. 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1356 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, en vigueur depuis le 12 juin 2026 ([RO 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^109a-13]: Introduit par l’annexe 1 ch. 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1356 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, en vigueur depuis le 12 juin 2026 ([RO 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 [^109a-14]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^109a-15]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
 [^109a-16]: Introduite par le ch. I de la LF du 16 déc. 2022 (Accès au CIR et aux données de trois systèmes d’information de l’UE), en vigueur depuis le 15 juin 2025 ([RO 2025 350](https://fedlex.data.admin.ch/eli/oc/2025/350); [FF 2022 1421](https://fedlex.data.admin.ch/eli/fga/2022/1421)).
@@ -4645,7 +4652,7 @@ Est puni d’une amende quiconque, en qualité de collaborateur d’une autorit�
 
 **Violation du devoir de diligence des entreprises de transport aérien**[^122a-1]
 
-<sup>1</sup> L’entreprise de transport aérien qui viole le devoir de diligence prévu à l’art. 92, al. 1 ou 1<sup>bis</sup>, est tenue au paiement d’un montant de 4000 francs par passager transporté ne disposant pas des documents de voyage, autorisations de voyage ETIAS, visas ou titres de séjour nécessaires ou faisant l’objet d’une restriction d’entrée ordonnée en vertu de l’art. 65*a* ou applicable en vertu d’un accord conclu avec l’Union européenne.[^122a-2] Dans les cas graves, le montant est de 16 000 francs par passager. Dans les cas de peu de gravité, les autorités peuvent renoncer à introduire une procédure.[^122a-3]
+<sup>1</sup> L’entreprise de transport aérien qui viole le devoir de diligence prévu à l’art. 92, al. 1 ou 1<sup>bis</sup>, est tenue au paiement d’un montant de 4000 francs par passager transporté ne disposant pas des documents de voyage, autorisations de voyage ETIAS, visas ou titres de séjour nécessaires ou faisant l’objet d’une restriction d’entrée ordonnée en vertu de l’art. 65*a* ou applicable en vertu d’un accord conclu avec l’Union européenne.[^122a-2] Dans les cas de peu de gravité, les autorités peuvent renoncer à introduire une procédure.[^122a-3]
 
 <sup>2</sup> Une violation du devoir de diligence est présumée lorsque l’entreprise a transporté un passager ne disposant pas des documents de voyage, autorisations de voyage ETIAS, visas ou titres de séjour requis lors de l’entrée dans l’espace Schengen ou du passage par la zone internationale de transit des aéroports et que ce passager s’est vu refuser l’entrée.[^122a-4]
 
