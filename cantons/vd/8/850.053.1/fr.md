@@ -4,7 +4,7 @@ number: "850.053.1"
 title: "RÈGLEMENT du 17.08.2011 d'application de la loi du 23 novembre 2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (RLPCFam)"
 short: RLPCFam
 language: fr
-version: 2023-01-01
+version: 2027-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053.1?id=a65eafc9-6666-4030-9cbf-92a6c2c586ce"
 ---
 
@@ -153,11 +153,10 @@ arrête
 
 <sup>2</sup> Le parent seul avec enfant(s) est assimilé à un couple avec enfant(s).
 
-<sup>3</sup> Lorsque le taux de vacance cantonal est inférieur à 1,5%, le département en charge de l'action sociale (ci-après : le département)[^10-2] peut fixer un taux de majoration des frais de loyer d'au maximum 20%.
+<sup>3</sup> ...
 
-[^9-2]: Modif. 2 du 03.07.2013: Modification Al. 1; entrée en vigueur au 01.08.2013 · Modif. 6 du 03.04.2019: Modification Al. 3; entrée en vigueur au 01.03.2019 · Modif. 10 du 10.09.2025: Abrogation Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 54b; entrée en vigueur au 01.01.2027
+[^9-2]: Modif. 2 du 03.07.2013: Modification Al. 1; entrée en vigueur au 01.08.2013 · Modif. 6 du 03.04.2019: Modification Al. 3; entrée en vigueur au 01.03.2019 · Modif. 10 du 10.09.2025: Abrogation Al. 3; entrée en vigueur au 01.01.2027
 [^10-1]: Règlement du 26.10.2005 d'application de la loi du 02.12.2003 sur l'action sociale vaudoise ([BLV 850.051.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051.1?id=86dc5911-3814-4eb8-baac-e4b1a20db83c))
-[^10-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 11
 
@@ -925,6 +924,14 @@ arrête
 
 [^54-2]: Modif. 9 du 01.02.2023: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 54a; entrée en vigueur au 01.01.2023
 
+#### Art. 54b
+
+**Dispositions transitoires du règlement modifiant du 10 septembre 2025 [^54a-1]**
+
+<sup>1</sup> L'ancien droit et le barème y relatif restent applicables jusqu'au 31 décembre 2026.
+
+[^54a-1]: Modif. 10 du 10.09.2025: Introduction tArt; entrée en vigueur au 01.01.2027; Introduction Al. 1; entrée en vigueur au 01.01.2027; Introduction Art. 54b; entrée en vigueur au 01.01.2027
+
 #### Art. 55
 
 **Entrée en vigueur**
@@ -935,10 +942,10 @@ Annexes [^55-1]
 
 1
 
-[Bareme PC Famille](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/1?dmev=01.01.2023)
+[Bareme PC Famille](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/1?dmev=01.01.2027)
 
 2
 
-[RLPCFam\_Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/2?dmev=01.01.2023)
+[RLPCFam\_Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/2?dmev=01.01.2027)
 
 [^55-1]: Modif. 1 du 02.05.2012: Modification Annexes, Ann. 1; entrée en vigueur au 01.05.2012 · Modif. 4 du 05.04.2017: Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2017 · Modif. 9 du 01.02.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023
