@@ -4,13 +4,12 @@ number: "164.100"
 title: Lohngesetz
 short: LG
 language: de
-version: 2026-09-01
-valid_until: 2026-12-31
+version: 2027-01-01
 version_adopted: 2026-05-20
 adopted: 1995-01-18
 in_force: 1995-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6966/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Lohn und Entschädigungen
 
 (LG)
 
-Vom 18. Januar 1995 (Stand 1. September 2026)
+Vom 18. Januar 1995 (Stand 1. Januar 2027)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -264,7 +263,7 @@ beschliesst:
 
 <sup>1</sup> Die im Anhang 1 zum Lohngesetz bestimmten Ansätze werden jeweils auf den 1. Januar entsprechend dem Basler Index der Konsumentenpreise vom November des Vorjahres neu festgesetzt.
 
-<sup>2</sup> Die Anpassung der Ansätze gemäss Abs. 1 erfolgt degressiv ausgehend von 100% in Lohnklasse 1 bis 8, bis auf 65% in Lohnklasse 28.
+<sup>2</sup> …
 
 #### § 23
 
