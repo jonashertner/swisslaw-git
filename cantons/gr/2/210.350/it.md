@@ -4,13 +4,12 @@ number: "210.350"
 title: "Ordinanza sul notariato *"
 short: ONot
 language: it
-version: 2023-04-01
-valid_until: 2026-12-31
-version_adopted: 2023-04-04
+version: 2027-01-01
+version_adopted: 2026-04-07
 adopted: 2005-04-26
 in_force: 2005-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.350"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3309/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3630/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3309/pdf_file"
 
 (ONot)
 
-del 26.04.2005 (stato 01.04.2023)
+del 26.04.2005 (stato 01.01.2027)
 
 emanata dal Governo il 26 aprile 2005
 
@@ -280,7 +279,7 @@ visto l'art. 50 della legge sul notariato[^ingress-1]
 
 <sup>1</sup> La Commissione notarile fattura ai notai le ispezioni a seconda del dispendio.
 
-<sup>2</sup> I lavori di ispezione devono essere indennizzati secondo il tempo impiegato sulla base di una tariffa oraria di 200 franchi.
+<sup>2</sup> I lavori di ispezione devono essere indennizzati secondo il tempo impiegato sulla base di una tariffa oraria di 300 franchi.
 
 <sup>3</sup> …
 
@@ -298,9 +297,9 @@ visto l'art. 50 della legge sul notariato[^ingress-1]
 
 <sup>1</sup> I membri della Commissione notarile ricevono una diaria di 500 franchi. Se l'impegno compreso il tempo di trasferta dura meno di quattro ore, viene versata soltanto metà della diaria.
 
-<sup>2</sup> Il Governo può versare al presidente della Commissione notarile un'indennità di presidenza dipendente dalle spese.
+<sup>2</sup> Il presidente della Commissione notarile riceve un'indennità di presidenza forfetaria fissata dal Governo.
 
-<sup>2<sup>bis</sup></sup> L'attività dell'ispettore notarile viene indennizzata sulla base di una tariffa oraria di 150 franchi.
+<sup>2<sup>bis</sup></sup> L'attività dell'ispettore notarile viene indennizzata sulla base di una tariffa oraria di 250 franchi.
 
 <sup>3</sup> Per il resto si applicano per analogia le disposizioni dell'ordinanza per i collaboratori a titolo accessorio del Cantone dei Grigioni[^22-1].
 

@@ -4,13 +4,12 @@ number: "210.350"
 title: "Ordinaziun davart il notariat *"
 short: ONot
 language: rm
-version: 2023-04-01
-valid_until: 2026-12-31
-version_adopted: 2023-04-04
+version: 2027-01-01
+version_adopted: 2026-04-07
 adopted: 2005-04-26
 in_force: 2005-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.350"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3309/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3309/pdf_file"
 
 (ONot)
 
-dals 26-04-2005 (versiun dals 01-04-2023)
+dals 26-04-2005 (versiun dals 01-01-2027)
 
 sa basond sin l'art. 50 da la lescha davart il notariat[^ingress-1]
 
@@ -285,7 +284,7 @@ relaschada da la regenza ils 26 d'avrigl 2005
 
 <sup>1</sup> La cumissiun da notariat metta a quint a las notaras ed als notars las inspecziuns tenor la lavur.
 
-<sup>2</sup> Las lavurs d'inspecziun ston vegnir indemnisadas tenor il temp impundì per ina tariffa da 200 francs per ura.
+<sup>2</sup> Las lavurs d'inspecziun ston vegnir indemnisadas tenor il temp impundì cun ina tariffa da 300 francs per ura.
 
 <sup>3</sup> …
 
@@ -305,9 +304,9 @@ relaschada da la regenza ils 26 d'avrigl 2005
 
 <sup>1</sup> Las commembras ed ils commembers da la cumissiun da notariat survegnan ina schurnada da 500 francs. Sche lur lavur inclusiv il temp da viadi dura main che quatter uras, vegn pajada mo la mesa schurnada.
 
-<sup>2</sup> A la presidenta u al president da la Cumissiun da notariat po la Regenza pajar in supplement presidial che dependa dals custs e da la lavur.
+<sup>2</sup> La presidenta u il president da la cumissiun da notariat survegn in supplement presidial pauschal che vegn fixà da la Regenza.
 
-<sup>2<sup>bis</sup></sup> L'activitad da l'inspectura u da l'inspectur da notariat vegn indemnisada cun ina tariffa da 150 francs per ura.
+<sup>2<sup>bis</sup></sup> L'activitad da l'inspectura u da l'inspectur da notariat vegn indemnisada cun ina tariffa da 250 francs per ura.
 
 <sup>3</sup> Dal rest valan las disposiziuns da l'ordinaziun davart las collavuraturas ed ils collavuraturs en uffizi accessoric dal chantun Grischun[^22-1] confurm al senn.
 

@@ -4,13 +4,12 @@ number: "210.350"
 title: Notariatsverordnung
 short: NotV
 language: de
-version: 2023-04-01
-valid_until: 2026-12-31
-version_adopted: 2023-04-04
+version: 2027-01-01
+version_adopted: 2026-04-07
 adopted: 2005-04-26
 in_force: 2005-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.350"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3309/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3309/pdf_file"
 
 (NotV)
 
-Vom 26.04.2005 (Stand 01.04.2023)
+Vom 26.04.2005 (Stand 01.01.2027)
 
 Gestützt auf Art. 50 des Notariatsgesetzes[^ingress-1]
 
@@ -280,7 +279,7 @@ von der Regierung erlassen am 26. April 2005
 
 <sup>1</sup> Die Notariatskommission stellt den Notarinnen und Notaren die Inspektionen nach Aufwand in Rechnung.
 
-<sup>2</sup> Die Inspektionsarbeiten sind nach Zeitaufwand zu einem Stundenansatz von 200 Franken zu entschädigen.
+<sup>2</sup> Die Inspektionsarbeiten sind nach Zeitaufwand zu einem Stundenansatz von 300 Franken zu entschädigen.
 
 <sup>3</sup> …
 
@@ -298,9 +297,9 @@ von der Regierung erlassen am 26. April 2005
 
 <sup>1</sup> Die Mitglieder der Notariatskommission erhalten ein Taggeld von 500 Franken. Dauert die Inanspruchnahme einschliesslich Reisezeit weniger als vier Stunden, wird nur das halbe Taggeld ausgerichtet.
 
-<sup>2</sup> Die Regierung kann der Präsidentin oder dem Präsidenten der Notariatskommission eine aufwandabhängige Präsidialzulage ausrichten.
+<sup>2</sup> Die Präsidentin oder der Präsident der Notariatskommission erhält eine von der Regierung festgelegte pauschale Präsidialzulage.
 
-<sup>2<sup>bis</sup></sup> Die Tätigkeit der Notariatsinspektorin oder des Notariatsinspektors wird zu einem Stundenansatz von 150 Franken entschädigt.
+<sup>2<sup>bis</sup></sup> Die Tätigkeit der Notariatsinspektorin oder des Notariatsinspektors wird zu einem Stundenansatz von 250 Franken entschädigt.
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen der Verordnung für die nebenamtlichen Mitarbeitenden des Kantons Graubünden[^22-1] sinngemäss.
 
