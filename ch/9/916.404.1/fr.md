@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20260101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2026)
+du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -522,24 +522,9 @@ L’OFAG, l’OSAV, l’Office fédéral de la statistique, l’Office fédéral
 
 #### Art. 35
 
-**Organisations d’élevage, de producteurs, de production sous label et services sanitaires**
+[^35-1]
 
-<sup>1</sup>
-
-Les organisations d’élevage, de producteurs, de production sous label et les services sanitaires peuvent consulter et utiliser les données suivantes de leurs membres dans la BDTA:
-
-- a.[^35-1] le numéro BDTA, le numéro REE, l’adresse de l’emplacement et les coordonnées des unités d’élevage, le numéro de la commune ainsi que le type d’unité d’élevage selon l’art. 6, let. o, OFE[^35-2];
-- b. la liste des numéros d’identification des animaux qui séjournent dans les unités d’élevage ou qui y ont séjourné;
-- c. le nom, l’adresse et le numéro d’identification cantonal des détenteurs d’animaux;
-- d. les numéros d’identification sur les marques auriculaires qui ont été fournis par Identitas SA aux membres des organisations concernées;
-- e. concernant les bovins les buffles d’Asie, les bisons, les ovins et les caprins,: l’historique et les informations détaillées de tous les animaux qui séjournent ou qui ont séjourné dans les unités d’élevage de leurs membres;
-- f. concernant les porcins: les données visées à l’annexe 1, ch. 3, relatives à tous les groupes d’animaux qui séjournent dans les unités d’élevage des membres ou qui y ont séjourné;
-- g. concernant les équidés: le nom et l’adresse du propriétaire, les informations détaillées sur l’animal, l’historique de l’animal et les données visées à l’annexe 1, ch. 3, de tous les équidés enregistrés auprès des organisations concernées.
-
-<sup>2</sup> Les organisations d’élevage, de producteurs et de production sous label ainsi que les services sanitaires peuvent consulter dans la BDTA et utiliser les autres données visées aux art. 13 à 21 qui concernent leurs membres, pour autant que ceux-ci y consentent dans la BDTA.
-
-[^35-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
-[^35-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^35-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> nov. 2023, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)ch. III).
 
 #### Art. 36
 
@@ -577,9 +562,27 @@ Les personnes mandatées visées à l’art. 23 peuvent consulter et utiliser le
 
 #### Art. 38a
 
-[^38a-1]
+**Accès avec l’accord de la personne concernée**[^38a-1]
 
-[^38a-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)ch. III).
+<sup>1</sup>
+
+Quiconque dispose de l’accord du détenteur d’animaux peut consulter et utiliser, pour le motif de traitement indiqué, les données suivantes de la BDTA, à l’exception des données relatives aux équidés:
+
+- a. les données relatives au détenteur d’animaux;
+- b. les données relatives à l’unité d’élevage;
+- c. la liste des numéros d’identification des animaux qui séjournent dans l’unité d’élevage;
+- d. les données relatives aux animaux qui séjournent dans l’unité d’élevage.
+
+<sup>2</sup>
+
+Quiconque dispose de l’accord du propriétaire d’équidés peut consulter et utiliser, pour le motif de traitement indiqué, les données suivantes de la BDTA:
+
+- a. les données relatives au propriétaire;
+- b. les données relatives aux équidés appartenant à la personne concernée.
+
+<sup>3</sup> L’accord peut être révoqué en tout temps. Dans ce cas, les possibilités d’accès visées à l’art. 38*b* sont maintenues.
+
+[^38a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)ch. III).
 
 #### Art. 38b
 
@@ -1475,7 +1478,7 @@ Annexe 2[^t-2]
 
 ## Émoluments
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Mise à jour par le ch. II des O du 1<sup>er</sup> nov. 2023 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)), du 6 nov. 2024 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)) et le ch. II al. 2 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Mise à jour par le ch. II de l’O du 6 nov. 2024 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)), le ch. II al. 2 de l’O du 29 oct. 2025 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)) et le ch. II de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)ch. III).
 
 <table>
 <tr><th></th><th>Francs</th></tr>
@@ -1514,8 +1517,8 @@ Annexe 2[^t-2]
 <tr><td>4.4 Concernant les équidés: notification manquante selon l’art. 19</td><td>15.–</td></tr>
 <tr><td>5 Remise de données</td><td></td></tr>
 <tr><td>Liste des numéros d’identification des animaux qui séjournent dans une unité d’élevage: forfait par année civile, unité d’élevage et genre animal; les émoluments inférieurs à 20 francs par année civile ne sont pas facturés</td><td>3.–</td></tr>
-<tr><td>6 Saisie de nouvelles organisations</td><td></td></tr>
-<tr><td>Saisie d’une nouvelle organisation d’élevage, de producteurs ou de production sous label, ou d’un nouveau service sanitaire</td><td>250.–</td></tr>
+<tr><td>6 Enregistrement d’un nouveau destinataire de données</td><td></td></tr>
+<tr><td>Enregistrement d’un destinataire de données au sens des art. 38*a* et 39:</td><td>250.–</td></tr>
 <tr><td>7 Émoluments pour rappels</td><td></td></tr>
 <tr><td>7.1 Rappel pour retard de paiement</td><td>30.–</td></tr>
 <tr><td>7.2 Rappel pour coordonnées postales ou bancaires inexactes</td><td>20.–</td></tr>

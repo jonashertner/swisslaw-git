@@ -4,11 +4,11 @@ title: Ordinanza del 3 novembre 2021 concernente Identitas AG e la banca dati su
 short: OIBDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20260101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/it"
 
 (OIBDTA)
 
-del 3 novembre 2021 (Stato 1° gennaio 2026)
+del 3 novembre 2021 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -446,7 +446,7 @@ Identitas AG trasmette all’organizzazione del mondo del lavoro «Mestieri lega
 [^27-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^27-3]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
-[^27-4]: Nuova espressione giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo tranne all’art. 15.
+[^27-4]: Nuova espr. giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo tranne all’art. 15.
 [^27-5]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
@@ -522,24 +522,9 @@ L’UFAG, l’USAV, l’Ufficio federale di statistica, l’Ufficio federale per
 
 #### Art. 35
 
-**Organizzazioni di allevamento, di produttori e di produzione con label nonché servizi di sanità animale**
+[^35-1]
 
-<sup>1</sup>
-
-Le organizzazioni di allevamento, di produttori e di produzione con label nonché i servizi di sanità animale possono consultare e utilizzare i seguenti dati concernenti i loro affiliati:
-
-- a.[^35-1] numero BDTA o numero RIS, ubicazione e coordinate geografiche delle aziende detentrici di animali, numero del Comune nonché tipo di azienda detentrice di animali secondo l’articolo 6 lettera o OFE[^35-2];
-- b. elenco dei numeri d’identificazione degli animali che sono tenuti o sono stati tenuti in un’azienda detentrice di animali;
-- c. nome, indirizzo e numero cantonale d’identificazione dei detentori di animali;
-- d. numeri d’identificazione sulle marche auricolari fornite da Identitas AG agli affiliati dell’organizzazione interessata;
-- e. per gli animali della specie bovina, i bufali e i bisonti nonché per gli animali delle specie ovina e caprina: storia dell’animale e informazioni dettagliate relative all’animale concernenti tutti gli animali che sono tenuti o sono stati tenuti nelle aziende detentrici di animali dei loro affiliati;
-- f. per gli animali della specie suina: dati di cui all’allegato 1 numero 3 concernenti i gruppi di animali che sono tenuti o sono stati tenuti nelle aziende detentrici di animali dei loro affiliati;
-- g. per gli equidi: nome e indirizzo del proprietario nonché informazioni dettagliate relative all’animale, storia dell’animale e dati di cui all’allegato 1 numero 4 concernenti tutti gli equidi registrati presso l’organizzazione interessata.
-
-<sup>2</sup> Le organizzazioni di allevamento, di produttori e di produzione con label nonché i servizi di sanità animale possono consultare e utilizzare gli altri dati di cui agli articoli 13–21 concernenti i loro affiliati, purché questi ultimi abbiano dato il loro consenso nella BDTA.
-
-[^35-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
-[^35-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^35-1]: Abrogato dalla cifra I dell’O del 1° nov. 2023, con effetto dal 1° gen. 2027 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)cifra III).
 
 #### Art. 36
 
@@ -577,9 +562,27 @@ I terzi incaricati di cui all’articolo 23 possono consultare e utilizzare gli 
 
 #### Art. 38a
 
-[^38a-1]
+**Accesso con consenso della persona interessata**[^38a-1]
 
-[^38a-1]: Entra in vigore il 1° gen. 2027 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)cifra III).
+<sup>1</sup>
+
+Chi dispone del consenso del detentore di animali può consultare e utilizzare per lo scopo del trattamento indicato i seguenti dati, esclusi quelli concernenti gli equidi:
+
+- a. dati concernenti il detentore di animali;
+- b. dati concernenti l’azienda detentrice di animali;
+- c. elenco dei numeri d’identificazione degli animali che sono tenuti nell’azienda detentrice di animali;
+- d. dati concernenti gli animali che sono tenuti nell’azienda detentrice di animali.
+
+<sup>2</sup>
+
+Chi dispone del consenso del proprietario di equidi può consultare e utilizzare per lo scopo del trattamento indicato i seguenti dati:
+
+- a. dati concernenti il proprietario;
+- b. dati concernenti gli equidi di proprietà della persona interessata.
+
+<sup>3</sup> Il consenso può essere revocato in qualsiasi momento. In tal caso vengono mantenute le possibilità di accesso di cui all’articolo 38*b*.
+
+[^38a-1]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2027 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)cifra III).
 
 #### Art. 38b
 
@@ -1474,7 +1477,7 @@ Allegato 2[^t-2]
 
 ## Emolumenti
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Aggiornato dalle cifre II delle O del 1° nov. 2023 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)), del 6 nov. 2024 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)) e dalla cifra II cpv. 2 dell’O del 29 ott. 2025, in vigore dal 1° gen 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Aggiornato dalla cifra II dell’O del 6 nov. 2024 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)), dalla cifra II cpv. 2 dell’O del 29 ott. 2025 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)) e dalla cifra II dell’O del 1° nov. 2023, in vigore dal 1° gen. 2027 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
 
 <table>
 <tr><th></th><th>Franchi</th></tr>
@@ -1512,9 +1515,9 @@ Allegato 2[^t-2]
 <tr><td>4.3 Animali della specie suina: mancata notifica dei dati di cui all’articolo 18</td><td>7.50</td></tr>
 <tr><td>4.4 Equidi: mancata notifica dei dati di cui all’articolo 19</td><td>15.00</td></tr>
 <tr><td>5 Consegna di dati</td><td></td></tr>
-<tr><td>Elenco dei numeri d’identificazione degli animali che sono tenuti in un’azienda detentrice di animali: costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile:</td><td>3.00</td></tr>
-<tr><td>6 Registrazione di nuove organizzazioni</td><td></td></tr>
-<tr><td>Registrazione di una nuova organizzazione di allevamento, di produttori o di produzione con label oppure di un servizio di sanità animale</td><td>250.00</td></tr>
+<tr><td>Elenco dei numeri d’identificazione degli animali che sono tenuti in un’azienda detentrice di animali: costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile</td><td>3.00</td></tr>
+<tr><td>6 Registrazione di nuovi destinatari dei dati</td><td></td></tr>
+<tr><td>Registrazione di un destinatario dei dati secondo gli articoli 38a e 39</td><td>250.00</td></tr>
 <tr><td>7 Emolumenti per solleciti</td><td></td></tr>
 <tr><td>7.1 Sollecito per ogni mancato pagamento</td><td>30.00</td></tr>
 <tr><td>7.2 Sollecito per coordinate postali o bancarie non valide</td><td>20.00</td></tr>

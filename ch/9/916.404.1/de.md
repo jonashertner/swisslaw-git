@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20260101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. Januar 2026)
+vom 3. November 2021 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -522,24 +522,9 @@ Das BLW, das BLV, die Bundesämter für Statistik, für wirtschaftliche Landesve
 
 #### Art. 35
 
-**Zucht-, Produzenten- und Labelorganisationen sowie Tiergesundheitsdienste**
+[^35-1]
 
-<sup>1</sup>
-
-Die Zucht-, Produzenten- und Labelorganisationen sowie die Tiergesundheitsdienste können in folgende Daten ihrer Mitglieder Einsicht nehmen und sie verwenden:
-
-- a.[^35-1] TVD-Nummer, BUR-Nummer, Standortadresse und Koordinaten von Tierhaltungen, Gemeindenummer sowie Tierhaltungstyp nach Artikel 6 Buchstabe o TSV[^35-2];
-- b. Auflistung der Identifikationsnummern der Tiere, die in einer Tierhaltung stehen oder gestanden sind;
-- c. Name, Adresse und kantonale Identifikationsnummer von Tierhalterinnen und Tierhaltern;
-- d. Identifikationsnummern auf den Ohrmarken, die von der Identitas AG an die Mitglieder der betreffenden Organisation geliefert worden sind;
-- e. für Tiere der Rindergattung, Büffel, Bisons sowie Tiere der Schaf- und der Ziegengattung: Tiergeschichte und Tierdetail sämtlicher Tiere, die in den Tierhaltungen der Mitglieder stehen oder gestanden sind;
-- f. für Tiere der Schweinegattung: Daten nach Anhang 1 Ziffer 3 zu den Tiergruppen, die in den Tierhaltungen der Mitglieder stehen oder gestanden sind;
-- g. für Equiden: Name und Adresse der Eigentümerin oder des Eigentümers sowie Tierdetail, Tiergeschichte und Daten nach Anhang 1 Ziffer 4 sämtlicher Equiden, die bei der betreffenden Organisation eingetragen sind.
-
-<sup>2</sup> Die Zucht-, Produzenten- und Labelorganisationen sowie die Tiergesundheitsdienste können in die übrigen Daten nach den Artikeln 13–21 ihrer Mitglieder Einsicht nehmen und diese verwenden, sofern die Mitglieder dazu in der TVD ihre Zustimmung gegeben haben.
-
-[^35-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
-[^35-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^35-1]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2023, mit Wirkung seit 1. Jan. 2027 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)Ziff. III).
 
 #### Art. 36
 
@@ -577,9 +562,27 @@ Die beauftragten Personen nach Artikel 23 können in die gleichen Daten der TVD 
 
 #### Art. 38a
 
-[^38a-1]
+**Zugriff mit Einwilligung der betroffenen Person**[^38a-1]
 
-[^38a-1]: In Kraft ab 1. Jan. 2027 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)Ziff. III).
+<sup>1</sup>
+
+Wer über die Einwilligung der Tierhalterin oder des Tierhalters verfügt, kann für den angegebenen Bearbeitungszweck in die folgenden Daten, ausgenommen Daten zu Equiden, Einsicht nehmen und sie verwenden:
+
+- a. Daten zur Tierhalterin oder zum Tierhalter;
+- b. Daten zur Tierhaltung;
+- c. Auflistung der Identifikationsnummern der Tiere, die in der Tierhaltung stehen;
+- d. Daten zu den Tieren, die in der Tierhaltung stehen.
+
+<sup>2</sup>
+
+Wer über die Einwilligung der Eigentümerin oder des Eigentümers von Equiden verfügt, kann für den angegebenen Bearbeitungszweck in die folgenden Daten Einsicht nehmen und sie verwenden:
+
+- a. Daten zur Eigentümerin oder zum Eigentümer;
+- b. Daten zu den Equiden, die im Eigentum der betreffenden Person stehen.
+
+<sup>3</sup> Die Einwilligung kann jederzeit widerrufen werden. Die Zugriffsmöglichkeiten nach Artikel 38*b* bleiben in diesem Fall bestehen.
+
+[^38a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2027 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)Ziff. III).
 
 #### Art. 38b
 
@@ -1474,7 +1477,7 @@ Anhang 2[^t-2]
 
 ## Gebühren
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Bereinigt gemäss Ziff. II der V vom 1. Nov. 2023 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)), vom 6. Nov. 2024 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)) und Ziff. II Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Bereinigt gemäss Ziff. II der V vom 6. Nov. 2024 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)), Ziff. II Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)) und Ziff. II der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2027 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)Ziff. III).
 
 <table>
 <tr><th></th><th>Franken</th></tr>
@@ -1513,8 +1516,8 @@ Anhang 2[^t-2]
 <tr><td>4.4 Bei Equiden: fehlende Meldung nach Artikel 19</td><td>15.–</td></tr>
 <tr><td>5 Datenabgabe</td><td></td></tr>
 <tr><td>Auflistung der Identifikationsnummern der Tiere eines Tierbestands: Pauschale pro Kalenderjahr, Tierhaltung und Tiergattung; die Gebühren werden bis zu einem Gesamtbetrag von weniger als 20 Franken pro Kalenderjahr nicht in Rechnung gestellt</td><td>3.–</td></tr>
-<tr><td>6 Erfassung neuer Organisationen</td><td></td></tr>
-<tr><td>Erfassung einer neuen Zucht-, Produzenten- oder Labelorganisation oder eines neuen Tiergesundheitsdienstes</td><td>250.–</td></tr>
+<tr><td>6 Erfassung neuer Datenempfängerinnen und Datenempfänger</td><td></td></tr>
+<tr><td>Erfassung einer Datenempfängerin oder eines Datenempfängers nach den Artikeln 38*a* und 39</td><td>250.–</td></tr>
 <tr><td>7 Mahngebühren</td><td></td></tr>
 <tr><td>7.1 Mahngebühr pro ausstehende Zahlung</td><td>30.–</td></tr>
 <tr><td>7.2 Mahnung für ungültige Post- oder Bankverbindung</td><td>20.–</td></tr>
