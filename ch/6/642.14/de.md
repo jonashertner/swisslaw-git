@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 1990 über die Harmonisierung der direkten
 short: StHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: de
-version: 2025-01-01
+version: 2028-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20250101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20280101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20250101/de"
 
 (Steuerharmonisierungsgesetz, StHG)[^t-1]
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2025)
+vom 14. Dezember 1990 (Stand am 1. Januar 2028)
 
 [^t-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -184,9 +184,9 @@ Die Steuer nach dem Aufwand muss mindestens gleich hoch sein wie die Summe der n
 
 <sup>1ter</sup> Erträge aus rückkaufsfähigen Kapitalversicherungen mit Einmalprämie sind im Erlebensfall oder bei Rückkauf steuerbar, ausser wenn diese Kapitalversicherungen der Vorsorge dienen. Als der Vorsorge dienend gilt die Auszahlung der Versicherungsleistung ab dem vollendeten 60. Altersjahr des Versicherten auf Grund eines mindestens fünfjährigen Vertragsverhältnisses, das vor Vollendung des 66. Altersjahres begründet wurde. In diesem Fall ist die Leistung steuerfrei.[^7-7]
 
-<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/de/xml/image/image1.png)
+<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/de/xml/image/image2.png)
 
 Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
 
@@ -486,7 +486,7 @@ Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer auslän
 - a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
 - b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^10-5]
 
-<sup>2</sup> Verluste aus den sieben der Steuerperiode (Art. 15) vorangegangenen Geschäftsjahren können abgezogen werden, soweit sie bei der Berechnung des steuerbaren Einkommens dieser Jahre nicht berücksichtigt werden konnten.[^10-6]
+<sup>2</sup> Verluste aus den zehn der Steuerperiode (Art. 15) vorangegangenen Geschäftsjahren können abgezogen werden, soweit sie bei der Berechnung des steuerbaren Einkommens dieser Jahre nicht berücksichtigt werden konnten.[^10-6]
 
 <sup>3</sup> Mit Leistungen Dritter, die zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung erbracht werden, können auch Verluste verrechnet werden, die in früheren Geschäftsjahren entstanden und noch nicht mit Einkommen verrechnet werden konnten.
 
@@ -497,7 +497,7 @@ Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer auslän
 [^10-3]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^10-4]: Eingefügt durch Ziff. II des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^10-5]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
-[^10-6]: Fassung gemäss Ziff. I 2 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^10-6]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 [^10-7]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 10a
@@ -913,7 +913,7 @@ Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer auslän
 - a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
 - b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^25-6]
 
-<sup>2</sup> Vom Reingewinn der Steuerperiode werden die Verluste aus den sieben der Steuerperiode (Art. 31 Abs. 2) vorangegangenen Geschäftsjahren abgezogen, soweit sie bei der Berechnung des steuerbaren Reingewinns dieser Jahre nicht berücksichtigt werden konnten.[^25-7]
+<sup>2</sup> Vom Reingewinn der Steuerperiode können Verluste aus den zehn der Steuerperiode (Art. 31 Abs. 2) vorangegangenen Geschäftsjahren abgezogen werden, soweit sie bei der Berechnung des steuerbaren Reingewinns dieser Jahre nicht berücksichtigt werden konnten.[^25-7]
 
 <sup>3</sup> Mit Leistungen zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung, die nicht Kapitaleinlagen im Sinne von Artikel 24 Absatz 2 Buchstabe a sind, können auch Verluste verrechnet werden, die in früheren Geschäftsperioden entstanden und noch nicht mit Gewinnen verrechnet werden konnten.
 
@@ -925,7 +925,7 @@ Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer auslän
 [^25-4]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^25-5]: Eingefügt durch Ziff. II des BG vom 22. Dez. 1999 über die Unzulässigkeit steuerlicher Abzüge von Bestechungsgeldern ([AS 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [BBl 1997 II 1037](https://fedlex.data.admin.ch/eli/fga/1997/2_1037__), IV 1336). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^25-6]: Eingefügt durch Ziff. I 2 des BG vom 19. Juni 2020 über die steuerliche Behandlung finanzieller Sanktionen, in Kraft seit 1. Jan. 2022 ([AS 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [BBl 2016 8503](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
-[^25-7]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^25-7]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 [^25-8]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ([AS 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [BBl 2000 3898](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 25a
@@ -2135,6 +2135,28 @@ Für die Beurteilung von Straftaten, die in Steuerperioden vor Inkrafttreten der
 [^78g-1]: Eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 9. Juli 2019 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^78g-2]: [AS 1991 1256](https://fedlex.data.admin.ch/eli/oc/1991/1256_1256_1256), [1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669)
 [^78g-3]: In Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+
+#### Art. 78h
+
+[^78h-1]
+
+[^78h-1]: In Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 78i
+
+[^78i-1]
+
+[^78i-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([BBl 2025 2033](https://fedlex.data.admin.ch/eli/fga/2025/2033)),
+
+#### Art. 78j
+
+**Übergangsbestimmungen zur Änderung vom 19. Dezember 2025**[^78j-1]
+
+<sup>1</sup> Für Verluste aus selbstständiger Erwerbstätigkeit, die vor der Steuerperiode 2020 eingetreten sind, gilt weiterhin Artikel 10 Absatz 2 des bisherigen Rechts.
+
+<sup>2</sup> Für Verluste einer juristischen Person, die vor der Steuerperiode 2020 eingetreten sind, gilt weiterhin Artikel 25 Absatz 2 des bisherigen Rechts.
+
+[^78j-1]: Eingefügt durch Ziff. I 2 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### 4. Kapitel: Referendum und Inkrafttreten
 

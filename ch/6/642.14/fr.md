@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts dire
 short: LHID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: fr
-version: 2025-01-01
+version: 2028-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20250101-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20280101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr"
 
 (LHID)
 
-du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2025)
+du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2028)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -183,9 +183,9 @@ Le montant de l’impôt d’après la dépense doit être au moins égal à la 
 
 <sup>1ter</sup> Les rendements versés, en cas de vie ou de rachat, d’assurances de capitaux susceptibles de rachat et acquittées au moyen d’une prime unique sont imposables, sauf si ces assurances servent à la prévoyance. La prestation d’assurance est réputée servir à la prévoyance lorsqu’elle est versée à un assuré de 60 ans révolus, en vertu d’un contrat qui a duré au moins cinq ans et qui a été conclu avant le 66<sup>e</sup> anniversaire de ce dernier. Dans ce cas, la prestation est exonérée.[^7-7]
 
-<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr/xml/image/image1.png)
+<sup>2</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20280101/fr/xml/image/image2.png)
 
 Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d’entretien viager sont imposables à raison de leur part de rendement. Celle-ci se détermine comme suit:
 
@@ -485,7 +485,7 @@ Si des sanctions au sens de l’al. 1<sup>bis</sup>, let. c et d, ont été pron
 - a. la sanction est contraire à l’ordre public suisse, ou si
 - b. le contribuable peut démontrer de manière crédible qu’il a entrepris tout ce qui est raisonnablement exigible pour se comporter conformément au droit.[^10-5]
 
-<sup>2</sup> Les pertes des sept exercices précédant la période fiscale au sens de l’art. 15 peuvent être déduites pour autant qu’elles n’aient pas pu être prises en considération lors du calcul du revenu imposable des années concernées.[^10-6]
+<sup>2</sup> Les pertes des dix exercices précédant la période fiscale au sens de l’art. 15 peuvent être déduites dans la mesure où elles n’ont pas pu être prises en considération lors du calcul du revenu imposable des années concernées.[^10-6]
 
 <sup>3</sup> Les pertes des exercices antérieurs qui n’ont pas encore pu être déduites du revenu peuvent être soustraites des prestations de tiers destinées à équilibrer un bilan déficitaire dans le cadre d’un assainissement.
 
@@ -496,7 +496,7 @@ Si des sanctions au sens de l’al. 1<sup>bis</sup>, let. c et d, ont été pron
 [^10-3]: Introduite par le ch. I 2 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^10-4]: Introduit par le ch. II de la LF du 22 déc. 1999 sur l’interdiction de déduire fiscalement les commissions occultes ([RO 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 929](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1195). Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^10-5]: Introduit par le ch. I 2 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
-[^10-6]: Nouvelle teneur selon le ch. I 2 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^10-6]: Nouvelle teneur selon le ch. I 2 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 [^10-7]: Introduit par le ch. I 2 de la LF du 15 déc. 2000 sur la coordination et la simplification des procédures de taxation des impôts directs dans les rapports intercantonaux, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3587](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 10a
@@ -913,7 +913,7 @@ Si des sanctions au sens de l’al. 1<sup>bis</sup>, let. c et d, ont été pron
 - a. la sanction est contraire à l’ordre public suisse, ou si
 - b. le contribuable peut démontrer de manière crédible qu’il a entrepris tout ce qui est raisonnablement exigible pour se comporter conformément au droit.[^25-6]
 
-<sup>2</sup> Lorsqu’elles n’ont pas pu être prises en considération lors du calcul du bénéfice net imposable de ces années, les pertes des sept exercices précédant la période fiscale sont déduites du bénéfice net de cette période (art. 31, al. 2).[^25-7]
+<sup>2</sup> Les pertes des dix exercices précédant la période fiscale (art. 31, al. 2) peuvent être déduites du bénéfice net de cette période dans la mesure où elles n’ont pas pu être prises en considération lors du calcul du bénéfice net imposable des années concernées.[^25-7]
 
 <sup>3</sup> Les pertes des exercices antérieurs qui n’ont pas encore pu être déduites du bénéfice peuvent également être défalquées des prestations qui sont destinées à équilibrer un bilan déficitaire dans le cadre d’un assainissement et qui ne sont pas des apports au sens de l’art. 24, al. 2, let. a.
 
@@ -925,7 +925,7 @@ Si des sanctions au sens de l’al. 1<sup>bis</sup>, let. c et d, ont été pron
 [^25-4]: Introduite par le ch. I 2 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^25-5]: Introduit par le ch. II de la LF du 22 déc. 1999 sur l’interdiction de déduire fiscalement les commissions occultes ([RO 2000 2147](https://fedlex.data.admin.ch/eli/oc/2000/330); [FF 1997 II 929](https://fedlex.data.admin.ch/eli/fga/1997/2_1008_929_852), IV 1195). Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
 [^25-6]: Introduit par le ch. I 2 de la LF du 19 juin 2020 sur le traitement fiscal des sanctions financières, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5121](https://fedlex.data.admin.ch/eli/oc/2020/890); [FF 2016 8253](https://fedlex.data.admin.ch/eli/fga/2016/2055)).
-[^25-7]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2000 sur la coordination et la simplification des procédures de taxation des impôts directs dans les rapports intercantonaux, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3587](https://fedlex.data.admin.ch/eli/fga/2000/823)).
+[^25-7]: Nouvelle teneur selon le ch. I 2 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 [^25-8]: Introduit par le ch. I 2 de la LF du 15 déc. 2000 sur la coordination et la simplification des procédures de taxation des impôts directs dans les rapports intercantonaux, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2001 1050](https://fedlex.data.admin.ch/eli/oc/2001/155); [FF 2000 3587](https://fedlex.data.admin.ch/eli/fga/2000/823)).
 
 #### Art. 25a
@@ -2137,6 +2137,28 @@ Le nouveau droit s’applique au jugement des infractions commises au cours de p
 [^78g-1]: Introduit par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 9 juil. 2019 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^78g-2]: [RO 1991 1256](https://fedlex.data.admin.ch/eli/oc/1991/1256_1256_1256), [1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669)
 [^78g-3]: En vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+
+#### Art. 78h
+
+[^78h-1]
+
+[^78h-1]: Entre en vigueur le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 78i
+
+[^78i-1]
+
+[^78i-1]: Entre en vigueur ultérieurement ([FF 2025 2033](https://fedlex.data.admin.ch/eli/fga/2025/2033)).
+
+#### Art. 78j
+
+**Dispositions transitoires relatives à la modification du 19 décembre 2025**[^78j-1]
+
+<sup>1</sup> L’art. 10, al. 2, de l’ancien droit continue de s’appliquer aux pertes provenant d’une activité lucrative indépendante qui ont été subies avant la période fiscale 2020.
+
+<sup>2</sup> L’art. 25, al. 2, de l’ancien droit continue de s’appliquer aux pertes qui ont été subies par une personne morale avant la période fiscale 2020.
+
+[^78j-1]: Introduit par le ch. I 2 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### Chapitre 4 Référendum et entrée en vigueur
 
