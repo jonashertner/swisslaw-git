@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 21 marzo 2022 concernente i membri del servizio di
 short: OMSVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/214"
 language: it
-version: 2022-07-01
+version: 2027-01-01
 adopted: 2022-03-21
 in_force: 2022-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/214/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2022-214-20220701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/214/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2022-214-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20220701/it"
 
 (OMSVM)
 
-del 21 marzo 2022 (Stato 1° luglio 2022)
+del 21 marzo 2022 (Stato 1° gennaio 2027)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS), d’intesa con il Dipartimento federale delle finanze,
 
@@ -25,8 +25,8 @@ visto l’articolo 20 dell’ordinanza del 18 marzo 2022[^ingress-1] sul servizi
 
 ordina:
 
-[^ingress-1]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
-[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-1]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
+[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -38,7 +38,9 @@ ordina:
 
 <sup>1</sup> I membri del servizio di volo militare sono istruiti nei corsi, nelle scuole e nei comandi delle Forze aeree.
 
-<sup>2</sup> Per l’istruzione specialistica di esploratori paracadutisti di professione, esploratori paracadutisti di milizia e dei membri del distaccamento d’esplorazione dell’esercito 10 (DEE 10) è competente il comando forze speciali.
+<sup>2</sup> Per l’istruzione specialistica di esploratori paracadutisti di professione, esploratori paracadutisti di milizia e dei membri del distaccamento d’esplorazione dell’esercito 10 (DEE 10) è competente il comando forze speciali. Per determinare il contenuto dell’istruzione specialistica e per il suo svolgimento, tiene conto delle direttive delle Forze aeree.[^1-1]
+
+[^1-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 2
 
@@ -48,12 +50,14 @@ ordina:
 
 Ottengono il brevetto:
 
-- a. i piloti militari di professione, dopo aver assolto con successo la scuola per piloti delle Forze aeree;
+- a.[^2-1] i piloti militari di professione che rivestono almeno il grado di tenente, dopo aver assolto con successo la scuola per piloti delle Forze aeree;
 - b. gli operatori di bordo di professione, gli operatori di bordo di milizia nonché gli operatori di ricognitori telecomandati di milizia e gli operatori di ricognitori telecomandati di professione, dopo aver assolto con successo l’istruzione tecnica;
 - c. gli ufficiali di milizia degli esploratori paracadutisti durante la scuola ufficiali, con servizio pratico nonché i sottufficiali di milizia degli esploratori paracadutisti, dopo aver assolto con successo il servizio pratico;
 - d. gli ufficiali e i sottufficiali di professione con istruzione specialistica di esploratori paracadutisti nonché i membri del DEE 10, dopo aver assolto con successo l’istruzione in caduta libera.
 
 <sup>2</sup> Chi adempie i requisiti, riceve un attestato (brevetto). È autorizzato a portare il corrispondente distintivo di specialista della propria organizzazione.
+
+[^2-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 3
 
@@ -216,46 +220,47 @@ Le Forze aeree stabiliscono quali persone sono impiegate sui differenti tipi d�
 
 #### Art. 16
 
-**Condizioni per l’assunzione**
+**Condizioni per l’assunzione**[^16-1]
 
 <sup>1</sup>
 
 Può essere assunto come pilota militare di professione chi:
 
-- a. adempie le condizioni d’ammissione a una scuola universitaria o una scuola universitaria professionale riconosciute dallo Stato;
-- b. riveste almeno il grado di tenente dopo aver concluso il servizio pratico;
-- c. ha ottenuto buone qualificazioni nei servizi militari precedenti;
-- d. possiede conoscenze di una seconda lingua nazionale e buone conoscenze dell’inglese;
+- a. ha accesso senza esame a una scuola specializzata superiore, scuola universitaria professionale o scuola universitaria riconosciuta dallo Stato;
+- b. possiede conoscenze di una seconda lingua nazionale e buone conoscenze d’inglese;
+- c. è militare;
+- d. ha ottenuto buone qualificazioni sulla base dei servizi militari precedenti;
 - e. presenta un estratto del casellario giudiziale senza iscrizioni;
 - f. presenta un estratto del registro delle esecuzioni senza iscrizioni;
-- g. non ha superato l’età massima di 26 anni;
-- h. nel quadro degli esami attitudinali SPHAIR secondo l’articolo 28*a* dell’ordinanza del 14 novembre 1973[^16-1] sulla navigazione aerea (ONA) è stato dichiarato idoneo all’istruzione a pilota militare di professione o ha superato un esame dell’idoneità dopo aver concluso una formazione aeronautica privata; e
-- i. ha superato gli esami di idoneità fisica, intellettuale e psichica dell’IMA.
+- g. secondo l’articolo 28*a* dell’ordinanza del 14 novembre 1973[^16-2] sulla navigazione aerea (ONA), è stato dichiarato idoneo all’istruzione a pilota militare di professione dalle Forze aeree o ha superato un esame dell’idoneità presso le Forze aeree dopo aver concluso una formazione aeronautica privata;
+- h. ha superato gli esami di idoneità fisica, intellettuale e psichica dell’IMA; e
+- i. è titolare di una licenza di condurre della categoria B.
 
-<sup>2</sup> Chi, nel quadro degli esami attitudinali SPHAIR secondo l’articolo 28*a* ONA, è stato dichiarato non idoneo all’istruzione a pilota militare di professione, non è ammesso all’esame dell’idoneità secondo il capoverso 1 lettera h.
+<sup>2</sup> Chi, nel quadro degli esami secondo l’articolo 28*a* ONA, è stato dichiarato non idoneo all’istruzione a pilota militare di professione, può essere ammesso all’esame dell’idoneità secondo il capoverso 1 lettera g se dispone di una licenza civile di pilota commerciale con abilitazione al volo strumentale, inclusa la teoria per piloti di linea (*Airline Transport Pilot Licence Theory*).
 
 <sup>3</sup>
 
-I piloti militari di professione devono inoltre:
+Al momento dell’assunzione i piloti militari di professione devono inoltre soddisfare almeno una delle seguenti condizioni:
 
-- a. aver superato l’esame d’idoneità professionale della durata massima di dieci giorni per l’assunzione a tempo determinato quale candidato pilota militare di professione;
-- b. aver superato l’esame d’idoneità aeronautica nella scuola per piloti delle Forze aeree per l’assunzione a tempo indeterminato quale aspirante pilota militare di professione; o
-- c. aver concluso con successo l’istruzione di base dei piloti militari di professione secondo l’articolo 17 capoverso 1.
+- a. hanno al massimo 26 anni e hanno superato l’esame d’idoneità professionale per l’assunzione quale candidato pilota militare di professione;
+- b. hanno superato l’esame d’idoneità aeronautica della scuola per piloti delle Forze aeree per l’assunzione quale aspirante pilota militare di professione;
+- c. hanno concluso con successo l’istruzione di base dei piloti militari di professione secondo l’articolo 17 capoversi 1 e 2.
 
-[^16-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^16-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^16-2]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 #### Art. 17
 
 **Istruzione**
 
-<sup>1</sup> I piloti militari di professione sono istruiti nell’ambito della scuola per piloti delle Forze aeree. Questa istruzione di base dura al massimo quattro anni fino all’ottenimento del brevetto.
+<sup>1</sup> Per l’istruzione di base dei piloti militari di professione è competente la scuola per piloti delle Forze aeree. L’istruzione di base dura al massimo sei anni.[^17-1]
 
 <sup>2</sup>
 
-L’istruzione di base dei piloti militari di professione comprende almeno:
+L’istruzione di base comprende almeno:
 
-- a. un’istruzione aeronautica civile che porta all’ottenimento di una licenza di pilota commerciale con abilitazione al volo strumentale;
-- b. l’istruzione aeronautica militare di base e l’istruzione aeronautica specialistica di pilota di elicottero o di velivolo da combattimento.
+- a. un’istruzione aeronautica civile che porta all’ottenimento di una licenza civile di pilota commerciale con abilitazione al volo strumentale, inclusa la teoria per piloti di linea (*Airline Transport Pilot Licence Theory*), se non è già stata ottenuta in precedenza;
+- b. l’istruzione aeronautica militare di base e l’istruzione di pilota di elicottero o di velivolo da combattimento.[^17-2]
 
 <sup>3</sup> Nel quadro della pianificazione della carriera i piloti militari di professione possono assolvere un perfezionamento in ambito accademico.
 
@@ -264,6 +269,9 @@ L’istruzione di base dei piloti militari di professione comprende almeno:
 <sup>5</sup> Le Forze aeree stabiliscono i programmi di istruzione.
 
 <sup>6</sup> Conformemente all’articolo 4 capoverso 5 OPers il datore di lavoro conclude con i piloti militari di professione un accordo in materia di istruzione. Tale accordo è subordinato all’approvazione del DDPS.
+
+[^17-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^17-2]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 18
 
@@ -275,18 +283,20 @@ Il DDPS nomina i piloti militari di professione su proposta delle Forze aeree.
 
 #### Art. 19
 
-**Classificazione e servizi della categoria A**
+**Classificazione e servizi della categoria A**[^19-1]
 
 La classificazione e i servizi annuali della categoria A sono disciplinati come segue:
 
 <table>
 <tr><th>Sottocategoria</th><th>Funzione</th><th>Giorni di allenamento individuale</th><th>Numero minimo di ore di volo</th></tr>
-<tr><td>A/1</td><td>Piloti delle squadriglie di combattimento</td><td>Secondo il bisogno</td><td>40</td></tr>
+<tr><td>A/1</td><td>Piloti delle squadriglie di combattimento</td><td>Secondo il bisogno</td><td>40\*</td></tr>
 <tr><td>A/2</td><td>Piloti di elicottero delle squadriglie di trasporto aereo</td><td>Secondo il bisogno, ma al massimo 12 giorni</td><td>50\*</td></tr>
 <tr><td>A/3</td><td>Piloti d’aeroplani ad ala fissa delle squadriglie di trasporto aereo fino al compimento del 45° anno d’età</td><td>Secondo il bisogno, ma al massimo 12 giorni</td><td>30</td></tr>
-<tr><td>A/4</td><td>Piloti che nella loro funzione professionale pilotano aeromobili di Stato e che non sono incorporati in una squadriglia</td><td>Secondo il bisogno, ma al massimo 45 giorni</td><td>50</td></tr>
-<tr><td colspan="4">\* Per i piloti di Super Puma sono computate le ore di simulatore. Le Forze aeree stabiliscono il numero di ore di simulatore computabili annualmente.</td></tr>
+<tr><td>A/4</td><td>Piloti che nella loro funzione professionale pilotano aeromobili di Stato ma non sono incorporati in una squadriglia</td><td>Secondo il bisogno, ma al massimo 45 giorni</td><td>50</td></tr>
+<tr><td colspan="4">\* Ai piloti di jet da combattimento e di Super Puma sono computate le ore di simulatore. Le Forze aeree stabiliscono il numero di ore di simulatore computabili annualmente.</td></tr>
 </table>
+
+[^19-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 20
 
@@ -339,17 +349,18 @@ I piloti militari di milizia delle categorie A/1, A/2, A/3 e B sono prosciolti d
 
 Può essere ammesso all’istruzione di operatore di bordo di milizia chi:
 
-- a. ha concluso la scuola di livello secondario I o una scuola analoga e una formazione professionale di base o una scuola media superiore oppure una formazione analoga;
-- b. ha compiuto il servizio pratico come tenente;
-- c. ha ottenuto buone qualificazioni nei servizi militari precedenti;
-- d. possiede conoscenze di una seconda lingua nazionale e buone conoscenze dell’inglese;
-- e. ha superato un esame tecnico dell’idoneità;
+- a. ha concluso la scuola di livello secondario I o una scuola analoga e una formazione professionale di base, una scuola media superiore oppure una formazione analoga;
+- b. è militare e riveste il grado di tenente dopo aver concluso il servizio pratico;
+- c. ha ottenuto buone qualificazioni sulla base dei servizi militari precedenti;
+- d. possiede conoscenze di una seconda lingua nazionale e buone conoscenze d’inglese;
+- e. ha superato l’esame tecnico dell’idoneità per operatori di bordo di milizia;
 - f. presenta un estratto del casellario giudiziale senza iscrizioni;
 - g. presenta un estratto del registro delle esecuzioni senza iscrizioni;
-- h. non ha superato l’età massima di 26 anni; e
-- i. ha superato gli esami dell’idoneità fisica, intellettuale e psichica dell’IMA.
+- h. ha superato gli esami dell’idoneità fisica, intellettuale e psichica dell’IMA.[^25-1]
 
 <sup>2</sup> Le Forze aeree decidono sull’ammissione.
+
+[^25-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 26
 
@@ -382,16 +393,19 @@ Gli operatori di bordo di milizia iniziano il loro servizio di volo (corso d’a
 
 Può essere assunto come operatore di bordo di professione a partire dall’inizio dell’istruzione di base chi:
 
-- a. ha compiuto il servizio pratico come capitano;
-- b ha concluso la scuola di livello secondario I o una scuola analoga e una formazione professionale di base o una scuola media superiore oppure una formazione analoga;
-- c. ha ottenuto ottime qualificazioni nei servizi militari precedenti;
-- d. presenta un estratto del casellario giudiziale senza iscrizioni;
-- e. presenta un estratto del registro delle esecuzioni senza iscrizioni;
-- f. non ha superato l’età massima di 30 anni;
-- g. ha superato gli esami dell’idoneità fisica, intellettuale e psichica dell’IMA; e
-- h. è stato dichiarato idoneo in occasione di un esame d’idoneità professionale della durata massima di tre giorni.
+- a. ha concluso la scuola di livello secondario I o una scuola analoga e una formazione professionale di base o una scuola media superiore oppure una formazione analoga;
+- b. possiede conoscenze di una seconda lingua nazionale e buone conoscenze d’inglese;
+- c. è militare e riveste il grado di capitano dopo aver concluso il servizio pratico;
+- d. ha ottenuto buone qualificazioni sulla base dei servizi militari precedenti;
+- e. presenta un estratto del casellario giudiziale senza iscrizioni;
+- f. presenta un estratto del registro delle esecuzioni senza iscrizioni;
+- g. ha superato gli esami dell’idoneità fisica, intellettuale e psichica dell’IMA;
+- h. è stato dichiarato idoneo in occasione dell’esame d’idoneità professionale come operatore di bordo di professione; e
+- i. è titolare di una licenza di condurre della categoria B.[^29-1]
 
 <sup>2</sup> In casi eccezionali debitamente motivati e in caso di bisogno comprovato del datore di lavoro, il capo dell’esercito può riconoscere altre condizioni ai sensi del capoverso 1 lettera a o c.
+
+[^29-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 30
 
@@ -426,7 +440,7 @@ Può essere ammesso all’istruzione di esploratore paracadutista di milizia chi
 
 <sup>3</sup> Le Forze aeree valutano l’idoneità sotto il profilo della tecnica paracadutistica e decidono sull’ammissione degli aspiranti al servizio di lancio con il paracadute.
 
-[^31-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^31-1]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 #### Art. 32
 
@@ -454,9 +468,11 @@ Per l’istruzione nel servizio di lancio con il paracadute le Forze aeree posso
 
 **Ufficiali di professione e sottufficiali di professione, nonché membri del DEE 10, con istruzione militare in caduta libera**
 
-<sup>1</sup> L’istruzione militare in caduta libera per ufficiali di professione e sottufficiali di professione nonché membri del DEE 10 dura al massimo 6 mesi.
+<sup>1</sup> L’istruzione militare in caduta libera per ufficiali di professione e sottufficiali di professione nonché membri del DEE 10 dura al massimo un anno.[^35-1]
 
 <sup>2</sup> Le Forze aeree stabiliscono il programma d’istruzione.
+
+[^35-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Sezione 3: Allenamento degli esploratori paracadutisti di milizia
 
@@ -500,7 +516,9 @@ Se le esigenze militari e il livello dell’istruzione lo consentono o lo richie
 
 <sup>2</sup> Nell’allenamento militare individuale i lanci sono eseguiti su ordine di un ufficiale esploratore paracadutista, di un responsabile militare del servizio di lancio o di un capo dell’allenamento individuale militare. I lanci avvengono da aeromobili militari e in linea di principio sono eseguiti con il paracadute d’impiego.
 
-<sup>3</sup> Nell’allenamento civile i lanci sono eseguiti sotto la sorveglianza di un istruttore civile dell’Aero-Club svizzero. I lanci avvengono da aeromobili civili e possono essere eseguiti con l’equipaggiamento civile di lancio.
+<sup>3</sup> Nell’allenamento civile i lanci sono eseguiti sotto la sorveglianza di un istruttore civile dell’Aero-Club svizzero. I lanci avvengono da aeromobili civili e possono essere eseguiti con l’equipaggiamento civile di lancio o con paracadute dell’Esercito svizzero.[^40-1]
+
+[^40-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 41
 
@@ -527,18 +545,24 @@ Sono considerati operatori di ricognitori telecomandati i piloti di ricognitori 
 Può essere ammesso all’istruzione di operatore del carico utile dei ricognitori telecomandati di milizia chi:
 
 - a. ha concluso la scuola di livello secondario I o una scuola analoga e una formazione professionale di base o una scuola media superiore oppure una formazione analoga;
-- b. riveste almeno il grado di tenente dopo aver concluso il servizio pratico;
-- c. ha ottenuto buone qualificazioni nei servizi militari precedenti;
+- b.[^43-1] è militare e riveste almeno il grado di tenente dopo aver concluso il servizio pratico;
+- c.[^43-2] ha ottenuto buone qualificazioni sulla base dei servizi militari precedenti;
 - d. presenta un estratto del casellario giudiziale senza iscrizioni;
 - e. presenta un estratto del registro delle esecuzioni senza iscrizioni;
-- f. non ha superato l’età massima di 30 anni;
-- g. è titolare di una licenza di pilota privato valida per velivoli ad ala fissa (PPL A);
+- f.[^43-3] non ha superato l’età massima di 35 anni;
+- g.[^43-4] è titolare di una licenza di pilota privato (PPL) valida;
 - h. ha superato gli esami dell’idoneità fisica, intellettuale e psichica dell’IMA; e
-- i. è stato dichiarato idoneo in occasione dell’esame dell’idoneità.
+- i.[^43-5] è stato dichiarato idoneo in occasione dell’esame dell’idoneità per operatori del carico utile dei ricognitori telecomandati di milizia.
 
 <sup>2</sup> Può essere ammesso all’istruzione di pilota di ricognitori telecomandati di milizia chi adempie le condizioni secondo il capoverso 1 lettere a–f, h e i ed è titolare di una licenza di pilota commerciale valida per velivoli ad ala fissa con abilitazione al volo strumentale (CPL/IR).
 
 <sup>3</sup> Le Forze aeree decidono sull’ammissione alle rispettive istruzioni specialistiche nonché sulle eccezioni concernenti le condizioni del capoverso 1 lettera f e del capoverso 2.
+
+[^43-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-2]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-3]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-4]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-5]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Sezione 2: Allenamento degli operatori di ricognitori telecomandati di milizia
 
@@ -586,13 +610,19 @@ Gli operatori di ricognitori telecomandati iniziano il loro servizio di volo con
 Può essere assunto come operatore di ricognitori telecomandati di professione a partire dall’inizio dell’istruzione di base chi:
 
 - a. ha concluso la scuola di livello secondario I o una scuola analoga e una formazione professionale di base o una scuola media superiore oppure una formazione analoga;
-- b. presenta un estratto del casellario giudiziale senza iscrizioni;
-- c. presenta un estratto del registro delle esecuzioni senza iscrizioni;
-- d. è titolare di una licenza di pilota commerciale valida con abilitazione al volo strumentale (CPL/IR);
-- e. ha superato gli esami dell’idoneità fisica, intellettuale e psichica dell’IMA; e
-- f. è stato dichiarato idoneo in occasione di un esame dell’idoneità professionale della durata massima di tre giorni.
+- b. possiede conoscenze di una seconda lingua nazionale e buone conoscenze d’inglese;
+- c. è militare e riveste almeno il grado di capitano dopo aver concluso il servizio pratico;
+- d. ha ottenuto buone qualificazioni sulla base dei servizi militari precedenti;
+- e. presenta un estratto del casellario giudiziale senza iscrizioni;
+- f. presenta un estratto del registro delle esecuzioni senza iscrizioni;
+- g. è titolare di una licenza di pilota commerciale valida con abilitazione al volo strumentale (CPL/IR);
+- h. ha superato gli esami dell’idoneità fisica, intellettuale e psichica dell’IMA;
+- i. è stato dichiarato idoneo in occasione dell’esame d’idoneità professionale come operatore di ricognitori telecomandati di professione; e
+- j. è titolare di una licenza di condurre della categoria B.[^48-1]
 
 <sup>2</sup> Le Forze aeree decidono sull’ammissione alle rispettive istruzioni specialistiche nonché sulle eccezioni concernenti le condizioni del capoverso 1 lettera d.
+
+[^48-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 49
 
@@ -613,9 +643,13 @@ L’istruzione di operatore di ricognitori telecomandati di professione comprend
 
 #### Art. 50
 
-**Iscrizioni nel casellario giudiziale e nel registro delle esecuzioni al momento dell’assunzione**
+**Iscrizioni nel casellario giudiziale e nel registro delle esecuzioni**[^50-1]
 
-Se a carico di una persona figurano iscrizioni nel casellario giudiziale o nel registro delle esecuzioni d’importanza secondaria per l’esercizio della funzione, su richiesta motivata dell’autorità di assunzione il capo dell’esercito può autorizzare una deroga dalla corrispondente condizione per l’assunzione.
+<sup>1</sup> Il personale militare è tenuto a comunicare ogni avvio di procedimenti penali e promozione di esecuzioni nonché qualsiasi modifica nel casellario giudiziale e nel registro delle esecuzioni non appena ne viene a conoscenza.
+
+<sup>2</sup> Se nel casellario giudiziale o nel registro delle esecuzioni figura un’iscrizione d’importanza secondaria, su richiesta motivata del servizio che assume, il capo dell’esercito può derogare dal requisito secondo cui non debbano figurare iscrizioni di questo tipo al momento dell’assunzione.
+
+[^50-1]: Nuovo testo giusta l’all. dell’O del DDPS del 27 ago. 2026, in vigore dal 1° gen. 2027 ([RU 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 51
 
@@ -659,6 +693,6 @@ Allegato
 
 ## Modifica di un altro atto normativo
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214).

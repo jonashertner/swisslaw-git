@@ -4,11 +4,11 @@ title: Ordonnance du DDPS du 21 mars 2022 sur les membres du service de vol mili
 short: OMSVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/214"
 language: fr
-version: 2022-07-01
+version: 2027-01-01
 adopted: 2022-03-21
 in_force: 2022-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/214/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2022-214-20220701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/214/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-214-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20220701/fr"
 
 (OMSVM)
 
-du 21 mars 2022 (État le 1<sup>er</sup> juillet 2022)
+du 21 mars 2022 (État le 1<sup>er</sup> janvier 2027)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS), d’entente avec le Département fédéral des finances,
 
@@ -25,8 +25,8 @@ vu l’art, 20 de l’ordonnance du 18 mars 2022 sur le service de vol militaire
 
 arrête:
 
-[^ingress-1]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
-[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-1]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
+[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Chapitre 1 Dispositions générales
 
@@ -38,7 +38,9 @@ arrête:
 
 <sup>1</sup> Les membres du service de vol militaire sont formés dans les cours, les écoles et les commandements des Forces aériennes.
 
-<sup>2</sup> L’instruction technique des éclaireurs parachutistes de carrière, des éclaireurs parachutistes de milice et des membres du détachement de reconnaissance de l’armée 10 (DRA 10) relève de la compétence du commandement des Forces spéciales.
+<sup>2</sup> L’instruction technique des éclaireurs parachutistes de carrière, des éclaireurs parachutistes de milice et des membres du détachement de reconnaissance de l’armée 10 (DRA 10) relève de la compétence du commandement des Forces spéciales. Celui-ci tient compte des directives techniques des Forces aériennes lors de la définition du contenu et de la réalisation de l’instruction technique.[^1-1]
+
+[^1-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 2
 
@@ -48,12 +50,14 @@ arrête:
 
 Reçoivent un brevet:
 
-- a. les pilotes militaires de carrière qui ont accompli avec succès l’école de pilotes des Forces aériennes;
+- a.[^2-1] les pilotes militaires de carrière revêtant au minimum le grade de lieutenant qui ont accompli avec succès l’école de pilotes des Forces aériennes;
 - b. les opérateurs de bord de carrière et de milice, ainsi que les opérateurs de drone de carrière et de milice qui ont accompli avec succès leur instruction technique;
 - c. les officiers éclaireurs parachutistes de milice pendant leur école d’officiers et leur service pratique et les sous-officiers éclaireurs parachutistes de milice qui ont accompli avec succès leur service pratique;
 - d. les officiers de carrière et les sous-officiers de carrière avec instruction technique d’éclaireur parachutiste ainsi que les membres du DRA 10 qui ont accompli avec succès leur instruction militaire de saut en chute libre.
 
 <sup>2</sup> Les ayants droit reçoivent un certificat (brevet). Ils ont le droit de porter l’insigne de spécialité de leur organisation.
+
+[^2-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 3
 
@@ -216,46 +220,47 @@ Les Forces aériennes déterminent les personnes qui peuvent être engagées en 
 
 #### Art. 16
 
-**Conditions d’engagement**
+**Conditions d’engagement**[^16-1]
 
 <sup>1</sup>
 
 Peut être engagée comme pilote militaire de carrière la personne qui:
 
-- a. remplit les conditions d’admission pour accéder à une haute école universitaire ou à une haute école spécialisée reconnues par la Confédération;
-- b. revêt au minimum le grade de lieutenant après avoir achevé son service pratique;
-- c. a obtenu de bonnes qualifications lors des prestations de service militaire précédentes;
-- d. a des connaissances d’une deuxième langue nationale et de bonnes connaissances d’anglais;
-- e. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
-- f. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
-- g. n’a pas dépassé l’âge maximal de 26 ans;
-- h. a été jugée apte à suivre l’instruction de pilote militaire de carrière dans le cadre des tests d’aptitude SPHAIR au sens de l’art. 28*a* de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^16-1] ou qui a réussi un examen d’aptitude après avoir achevé une formation aéronautique privée, et
-- i. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA.
+- a. est admise sans examen dans une école supérieure, une haute école spécialisée ou une haute école universitaire reconnue par l’État;
+- b. a des connaissances d’une deuxième langue nationale et de bonnes connaissances d’anglais;
+- c. est un militaire;
+- d. a obtenu de bonnes qualifications lors des services militaires précédents;
+- e. peut présenter un extrait du casier judiciaire vierge;
+- f. peut présenter un extrait du registre des poursuites vierge;
+- g. a été jugée apte à suivre l’instruction de pilote militaire de carrière par les Forces aériennes au sens de l’art. 28*a* de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^16-2] ou a réussi un examen d’aptitude après avoir achevé une formation aéronautique privée;
+- h. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA, et
+- i. est titulaire d’un permis de conduire de la catégorie B.
 
-<sup>2</sup> La personne qui a déjà été jugée inapte à suivre l’instruction de pilote militaire de carrière dans le cadre des tests d’aptitude SPHAIR au sens de l’art. 28*a* OSAv ne peut pas se présenter à l’examen d’aptitude visé à l’al. 1, let. h.
+<sup>2</sup> La personne jugée inapte à suivre l’instruction de pilote militaire de carrière dans le cadre des tests au sens de l’art. 28*a* OSAv peut se présenter à l’examen d’aptitude visé à l’al. 1, let. g, pour autant qu’elle soit titulaire d’une licence civile de pilote professionnel avec qualification de vol aux instruments (théorie *Airline Transport Pilot* *Licence*).
 
 <sup>3</sup>
 
-Les pilotes militaires de carrière doivent en outre:
+Les pilotes militaires de carrière doivent en outre remplir au moins l’une des conditions suivantes lors de leur engagement:
 
-- a. avoir réussi l’examen d’aptitude professionelle de dix jours au plus permettant un engagement à durée déterminée en qualité de candidat pilote militaire de carrière;
-- b. avoir réussi l’examen d’aptitudes aéronautiques à l’école de pilotes des Forces aériennes permettant un engagement à durée indéterminée en qualité d’aspirant pilote militaire de carrière, ou
-- c. avoir réussi l’instruction de base de pilote militaire de carrière au sens de l’art. 17, al. 1.
+- a. être âgé de 26 ans au maximum et avoir réussi l’examen d’aptitude permettant un engagement en qualité de candidat pilote militaire de carrière;
+- b. avoir réussi l’examen d’aptitudes aéronautiques permettant un engagement en qualité d’aspirant pilote militaire de carrière;
+- c. avoir réussi l’instruction de base de pilote militaire de carrière au sens de l’art. 17, al. 1 et 2.
 
-[^16-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^16-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^16-2]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 #### Art. 17
 
 **Instruction**
 
-<sup>1</sup> Les pilotes militaires de carrière sont formés dans le cadre de l’école de pilotes des Forces aériennes. Leur instruction de base dure quatre ans au plus jusqu’à la remise du brevet.
+<sup>1</sup> L’école de pilotes des Forces aériennes est responsable de la formation de base des pilotes militaires de carrière. L’instruction de base dure six ans au plus.[^17-1]
 
 <sup>2</sup>
 
-L’instruction de base de pilote militaire de carrière se compose au minimum:
+L’instruction de base se compose au minimum:
 
-- a. d’une formation aéronautique civile conduisant à l’obtention d’une licence civile de pilote professionnel avec qualification de vol aux instruments;
-- b. de l’instruction aéronautique militaire de base et de la formation aéronautique spécialisée de pilote d’hélicoptère ou de pilote de jet.
+- a. d’une formation aéronautique civile conduisant à l’obtention d’une licence civile de pilote professionnel avec qualification de vol aux instruments (théorie *Airline Transport Licence*), comprenant la théorie de pilote de ligne, si elle n’est pas déjà acquise;
+- b. de l’instruction aéronautique militaire de base et de la formation de pilote d’hélicoptère ou de pilote de jet.[^17-2]
 
 <sup>3</sup> Les pilotes militaires de carrière peuvent suivre une formationacadémique complémentaire dans le cadre de leur planification de carrière.
 
@@ -264,6 +269,9 @@ L’instruction de base de pilote militaire de carrière se compose au minimum:
 <sup>5</sup> Les Forces aériennes établissent les programmes d’instruction.
 
 <sup>6</sup> Conformément à l’art. 4, al. 5, OPers, l’employeur conclut une convention de formation avec chaque pilote militaire de carrière. La convention doit être approuvée par le DDPS.
+
+[^17-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^17-2]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 18
 
@@ -275,18 +283,20 @@ Le DDPS nomme les pilotes militaires de carrière sur proposition des Forces aé
 
 #### Art. 19
 
-**Classification et services obligatoires de la catégorie A**
+**Classification et services obligatoires de la catégorie A**[^19-1]
 
 La classification et les services obligatoires annuels de la catégorie A se fondent sur la réglementation suivante:
 
 <table>
 <tr><th>Sous- catégorie</th><th>Fonction</th><th>Jours d’entraînement individuel</th><th>Nombre minimum d’heures de vol</th></tr>
-<tr><td>A/1</td><td>Pilotes des escadrilles de combat</td><td>selon les besoins</td><td>40</td></tr>
+<tr><td>A/1</td><td>Pilotes des escadrilles de combat</td><td>selon les besoins</td><td>40\*</td></tr>
 <tr><td>A/2</td><td>Pilotes d’hélicoptère des escadrilles de transport aérien</td><td>selon les besoins, mais 12 jours au plus</td><td>50\*</td></tr>
 <tr><td>A/3</td><td>Pilotes d’avion à voilure fixe des escadrilles de transport aérien jusqu’à l’âge de 45 ans</td><td>selon les besoins, mais 12 jours au plus</td><td>30</td></tr>
-<tr><td>A/4</td><td>Pilotes qui volent professionnellement sur des aéronefs d’État et qui ne sont pas incorporés dans une escadrille d’aviation</td><td>selon les besoins, mais 45 jours au plus</td><td>50</td></tr>
-<tr><td colspan="4">\* Les heures accomplies sur simulateur par les pilotes de Super Puma comptent comme heures de vol. Les Forces aériennes déterminent le nombre d’heures sur simulateur pouvant être mises en compte par année.</td></tr>
+<tr><td>A/4</td><td>Pilotes qui volent professionnellement sur des aéronefs d’État mais qui ne sont pas incorporés dans une escadrille d’aviation</td><td>selon les besoins, mais 45 jours au plus</td><td>50</td></tr>
+<tr><td colspan="4">\* Les heures accomplies sur simulateur par les pilotes de jet de combat et les pilotes de Super Puma comptent comme heures de vol. Les Forces aériennes déterminent le nombre d’heures sur simulateur pouvant être mises en compte par année.</td></tr>
 </table>
+
+[^19-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 20
 
@@ -340,16 +350,17 @@ Les pilotes militaires de milice des catégories A/1, A/2, A/3 et B quittent le 
 Est admise à être instruite comme opérateur de bord de milice la personne qui:
 
 - a. a effectué une école du degré secondaire I ou équivalente, et une formation professionnelle initiale, une école du degré secondaire II ou une autre formation équivalente;
-- b. a effectué le service pratique en tant que lieutenant;
-- c. a obtenu de bonnes qualifications lors des prestations de service militaire précédentes;
+- b. est un militaire et revêt le grade de lieutenant au terme de son service pratique;
+- c. a obtenu de bonnes qualifications lors des services militaires précédents;
 - d. a des connaissances d’une deuxième langue nationale et de bonnes connaissances d’anglais;
-- e. a réussi un examen technique d’aptitude;
-- f. peut peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
+- e. a réussi un examen technique d’aptitude comme opérateur de bord de milice;
+- f. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
 - g. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
-- h. n’a pas dépassé l’âge maximal de 26 ans, et
-- i. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA.
+- h. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA.[^25-1]
 
 <sup>2</sup> Les Forces aériennes statuent sur l’admission des candidats.
+
+[^25-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 26
 
@@ -382,16 +393,19 @@ Les opérateurs de bord de milice commencent leur service de vol (cours d’entr
 
 Peut être engagée comme opérateur de bord de carrière dès le début de l’instruction de base la personne qui:
 
-- a. a effectué le service pratique en tant que capitaine;
-- b a effectué une école du degré secondaire I ou équivalente, et une formation professionnelle initiale, une école du degré secondaire II ou une autre formation équivalente;
-- c. a obtenu de très bonnes qualifications lors des prestations de service militaire précédentes;
-- d. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
-- e. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
-- f. n’a pas dépassé l’âge maximal de 30 ans;
-- g. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA, et
-- h. a été déclarée apte après avoir subi un examen d’aptitudes professionnelles de trois jours au plus.
+- a. a effectué une école du degré secondaire I ou équivalente, et une formation professionnelle initiale, une école du degré secondaire II ou une autre formation équivalente;
+- b. a des connaissances d’une deuxième langue nationale et de bonnes connaissances d’anglais;
+- c. est un militaire et revêt le grade de capitaine au terme de son service pratique;
+- d. a obtenu de bonnes qualifications lors des services militaires précédents;
+- e. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
+- f. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
+- g. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA;
+- h. a été déclarée apte après l’examen d’aptitudes professionnelles comme opérateur de bord de carrière, et
+- i. est titulaire d’un permis de conduire de la catégorie B.[^29-1]
 
 <sup>2</sup> Le chef de l’Armée peut, dans des cas exceptionnels dûment justifiés et en fonction des besoins avérés de l’employeur, admettre d’autres conditions au sens de l’al. 1, let. a ou c.
+
+[^29-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 30
 
@@ -419,14 +433,14 @@ Est admise à être instruite comme éclaireur parachutiste de milice la personn
 - b. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
 - c. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
 - d. n’a pas dépassé l’âge maximal de 25 ans;
-- e. a effectué avec succès la formation aéronautique prévue par l’art. 28*a* OSAv[^31-1] ou une formation privée de parachutiste et est détentrice d’un permis valable de l’Aéro-Club de suisse, et
+- e.[^31-1] a réussi la formation aéronautique prévue par l’art. 28*a* OSAv ou une formation privée de parachutiste et détient un permis valable de l’Aéro-Club de Suisse, et
 - f. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA.
 
 <sup>2</sup> La personne qui a accompli une autre école de recrues que celle d’éclaireur parachutiste et qui a été proposée pour être formée comme sous-officier ou qui est déjà sous-officier peut également demander son admission. Elle s’engage à accomplir le service d’instruction de base.
 
 <sup>3</sup> Les Forces aériennes évaluent les aptitudes de l’aspirant en matière de saut en parachute et statuent sur son admission au sein du service de saut en parachute.
 
-[^31-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^31-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 32
 
@@ -454,9 +468,11 @@ Les Forces aériennes peuvent faire appel à des enseignants spécialisés avec 
 
 **Officiers de carrière, sous-officiers de carrière et membres du DRA 10 avec instruction militaire de saut en chute libre**
 
-<sup>1</sup> L’instruction militaire de saut en chute libre des officiers de carrière, sous-officiers de carrière et membres du DRA 10 dure six mois au plus.
+<sup>1</sup> L’instruction militaire de saut en chute libre des officiers de carrière, sous-officiers de carrière et membres du DRA 10 dure un an au plus.[^35-1]
 
 <sup>2</sup> Les Forces aériennes fixent le programme d’instruction.
+
+[^35-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Section 3 Modalités d’entraînement des éclaireurs parachutistes de milice
 
@@ -464,7 +480,7 @@ Les Forces aériennes peuvent faire appel à des enseignants spécialisés avec 
 
 **Classification et services obligatoires**
 
-La classification et les services obligatoires annuels de la catégorie B se fondent sur la réglementation suivante :
+La classification et les services obligatoires annuels de la catégorie B se fondent sur la réglementation suivante:
 
 <table>
 <tr><th>Sous-catégorie</th><th>Fonction</th><th>Nombre de jours d’entraînement individuel</th><th>Nombre minimum de sauts</th></tr>
@@ -500,7 +516,9 @@ Si les besoins militaires et le niveau d’instruction le permettent ou l’exig
 
 <sup>2</sup> Lors de l’entraînement individuel militaire, les sauts se déroulent sous le commandement d’un officier éclaireur parachutiste, d’un responsable du service de saut en parachute militaire ou d’un chef d’entraînement individuel militaire. Ils s’effectuent à partir d’un aéronef militaire et en principe avec un parachute d’engagement.
 
-<sup>3</sup> Lors de l’entraînement civil, les sauts se déroulent sous la surveillance d’un moniteur civil de l’Aéro-Club de Suisse. Ils s’effectuent à partir d’un aéronef civil et l’équipement de saut civil peut être utilisé.
+<sup>3</sup> Lors de l’entraînement civil, les sauts se déroulent sous la surveillance d’un moniteur civil de l’Aéro-Club de Suisse. Ils s’effectuent à partir d’un aéronef civil avec un équipement de saut civil ou avec un parachute de l’Armée suisse.[^40-1]
+
+[^40-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 41
 
@@ -527,18 +545,25 @@ Sont considérés comme opérateurs de drone les pilotes de drone et les opérat
 Est admise à être instruite comme opérateur de drone de milice la personne qui:
 
 - a. a effectué une école du degré secondaire I ou équivalente, et une formation professionnelle initiale, une école du degré secondaire II ou une autre formation équivalente;
-- b. a effectué le service pratique en tant que lieutenant;
-- c. a obtenu de bonnes qualifications lors des prestations de service militaire précédentes;
+- b.[^43-1] est un militaire qui revêt au minimum le grade de lieutenant au terme de son service pratique;
+- c.[^43-2] a obtenu de bonnes qualifications lors des services militaires précédents;
 - d. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
 - e. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
-- f. n’a pas dépassé l’âge maximal de 30 ans;
-- g. est en possession d’une licence de pilote privé sur avion à voilure fixe (PPL A) valide;
+- f.[^43-3] n’a pas dépassé l’âge maximal de 35 ans;
+- g.[^43-4] est titulaire d’une licence de pilote privé valide;
 - h. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA, et
-- i. a été déclarée apte après avoir subi un examen d’aptitudes.
+- i.[^43-5] a été déclarée apte après avoir passé un examen d’aptitudes comme opérateur de drone de milice.
 
-<sup>2</sup> Est admise à être instruite comme pilote de drone de milice la personne qui remplit les conditions prévues par l’al. 1, let. a à f, h et i, et qui est en possession d’une licence de pilote professionnel sur avion à voilure fixe avec qualification de vol aux instruments (CPL/IR) valide.
+<sup>2</sup> Est admise à être instruite comme pilote de drone de milice la personne qui remplit les conditions prévues par l’al. 1, let. a à f, h et i, et qui est titulaire d’une licence de pilote professionnel sur avion à voilure fixe avec qualification de vol aux instruments (CPL/IR) valide.[^43-6]
 
 <sup>3</sup> les Forces aériennes statuent sur l’admission pour toute formation spécialisée ainsi que sur d’éventuelles demandes d’exception à l’al. 1, let. f ou à l’al. 2.
+
+[^43-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-2]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-3]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-4]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-5]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-6]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### Section 2 Modalités de l’entraînement des opérateurs de drone de milice
 
@@ -586,13 +611,19 @@ Les opérateurs de drone commencent leur service de vol de drone après l’obte
 Peut être engagée comme opérateur de drone de carrière dès le début de l’instruction de base la personne qui:
 
 - a. a effectué une école du degré secondaire I ou équivalente, et une formation professionnelle initiale, une école du degré secondaire II ou une autre formation équivalente;
-- b. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
-- c. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
-- d. est en possession d’une licence de pilote professionnel avec qualification de vol aux instruments (CPL/IR) valide;
-- e. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA, et
-- f. a été déclarée apte après avoir subi un examen d’aptitudes professionnelles de trois jours au plus.
+- b. a des connaissances d’une deuxième langue nationale et de bonnes connaissances d’anglais;
+- c. est un militaire qui revêt au minimum le grade de capitaine au terme de son service pratique;
+- d. a obtenu de bonnes qualifications lors des services militaires précédents;
+- e. peut présenter un extrait du casier judiciaire attestant que celui-ci est vierge;
+- f. peut présenter un extrait du registre des poursuites attestant que celui-ci est vierge;
+- g. est titulaire d’une licence de pilote professionnel avec qualification de vol aux instruments valide (CPL/IR);
+- h. a réussi l’examen d’aptitudes physiques, intellectuelles et psychiques de l’IMA;
+- i. a été déclarée apte après avoir passé un examen d’aptitudes professionnelles comme opérateur de drone de carrière, et
+- j. est titulaire d’un permis de conduire de la catégorie B.[^48-1]
 
 <sup>2</sup> Les Forces aériennes statuent sur l’admission pour toute formation spécialisée ainsi que sur d’éventuelles demandes d’exception à l’al. 1, let. d.
+
+[^48-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 49
 
@@ -613,9 +644,13 @@ L’instruction pour devenir opérateur de drone de carrière comprend:
 
 #### Art. 50
 
-**Inscriptions au casier judiciaire ou au registre des poursuites lors de l’engagement**
+**Inscriptions au casier judiciaire ou au registre des poursuites**[^50-1]
 
-Lorsqu’une personne fait l’objet d’une inscription de moindre importance au casier judiciaire ou au registre des poursuites, le chef de l’Armée peut accorder une dérogation sur demande motivée de l’autorité de nomination.
+<sup>1</sup> Le personnel militaire est tenu d’annoncer, dès qu’il en a connaissance, toute ouverture d’une poursuite pénale ou d’une poursuite pour dette, ainsi que toute modification du casier judiciaire ou du registre des poursuites concernant son personnel.
+
+<sup>2</sup> Dans le cas où une inscription de moindre importance figure au casier judiciaire ou au registre des poursuites avant l’engagement, le chef de l’Armée peut, sur demande motivée du service recruteur, déroger à l’exigence de n’avoir aucune inscription au casier judiciaire et au registre des poursuites.
+
+[^50-1]: Nouvelle teneur selon l’annexe de l’O du DDPS du 27 août 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 51
 

@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 21. März 2022 über die Angehörigen des militär
 short: VAmFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/214"
 language: de
-version: 2022-07-01
+version: 2027-01-01
 adopted: 2022-03-21
 in_force: 2022-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/214/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2022-214-20220701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/214/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2022-214-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/214/20220701/de"
 
 (VAmFD)
 
-vom 21. März 2022 (Stand am 1. Juli 2022)
+vom 21. März 2022 (Stand am 1. Januar 2027)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS), im Einvernehmen mit dem Eidgenössischen Finanzdepartement,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 20 der Militärflugdienstverordnung vom 18. März 2022[^in
 
 verordnet:
 
-[^ingress-1]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
-[^ingress-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-1]: [SR 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
+[^ingress-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -38,7 +38,9 @@ verordnet:
 
 <sup>1</sup> Die Angehörigen des militärischen Flugdienstes werden in den Kursen, Schulen und Kommandos der Luftwaffe ausgebildet.
 
-<sup>2</sup> Für die Fachausbildung von Berufsfallschirmaufklärern und Berufsfallschirmaufklärerinnen, Milizfallschirmaufklärern und Milizfallschirmaufklärerinnen sowie Angehörigen des Armee-Aufklärungsdetachements 10 (AAD 10) ist das Kommando Spezialkräfte zuständig.
+<sup>2</sup> Für die Fachausbildung von Berufsfallschirmaufklärern und Berufsfallschirmaufklärerinnen, Milizfallschirmaufklärern und Milizfallschirmaufklärerinnen sowie Angehörigen des Armee-Aufklärungsdetachements 10 (AAD 10) ist das Kommando Spezialkräfte zuständig. Es berücksichtigt bei der Festlegung des Inhalts und bei der Durchführung der Fachausbildung die Vorgaben der Luftwaffe.[^1-1]
+
+[^1-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 2
 
@@ -48,12 +50,14 @@ verordnet:
 
 Brevetiert werden:
 
-- a. Berufsmilitärpiloten und Berufsmilitärpilotinnen nach erfolgreichem Abschluss der Pilotenschule der Luftwaffe;
+- a.[^2-1] Berufsmilitärpiloten und Berufsmilitärpilotinnen nach erfolgreichem Abschluss der Pilotenschule der Luftwaffe, die minimal den Grad des Leutnants tragen;
 - b. Berufsbordoperateure und Berufsbordoperateurinnen, Milizbordoperateure und Milizbordoperateurinnen sowie Miliz- und Berufsdrohnenoperateure und Miliz- und Berufsdrohnenoperateurinnen nach erfolgreichem Abschluss der technischen Ausbildung;
 - c. Milizfallschirmaufklärer- und Milizfallschirmaufklärerinnen-Offiziere während der Offiziersschule mit praktischem Dienst sowie Milizfallschirmaufklärer- und Milizfallschirmaufklärerinnen-Unteroffiziere nach erfolgreichem Abschluss des praktischen Dienstes;
 - d. Berufsoffiziere und Berufsunteroffiziere mit Fachausbildung für Fallschirmaufklärer oder Fallschirmaufklärerin sowie Angehörige des AAD 10 nach erfolgreichem Abschluss der militärischen Freifallausbildung.
 
 <sup>2</sup> Die Brevetierten erhalten einen Ausweis (Brevet). Sie sind berechtigt, das entsprechende Spezialistenabzeichen ihrer Organisation zu tragen.
+
+[^2-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 3
 
@@ -216,46 +220,47 @@ Die Luftwaffe bestimmt, welche Personen auf welchen Luftfahrzeugtypen eingesetzt
 
 #### Art. 16
 
-**Anstellungsvoraussetzungen**
+**Anstellungsvoraussetzungen**[^16-1]
 
 <sup>1</sup>
 
 Als Berufsmilitärpilot oder Berufsmilitärpilotin kann angestellt werden, wer:
 
-- a. die Zulassungsvoraussetzungen für eine staatlich anerkannte universitäre Hochschule oder eine staatlich anerkannte Fachhochschule erfüllt;
-- b. nach abgeschlossenem praktischem Dienst mindestens den Grad des Leutnants bekleidet;
-- c. gute Qualifikationen aus den bisherigen Militärdienstleistungen besitzt;
-- d. Kenntnisse in einer zweiten Landessprache und gute Englischkenntnisse hat;
+- a. prüfungsfrei Zugang zu einer staatlich anerkannten höheren Fachschule, einer Fachhochschule oder einer universitären Hochschule hat;
+- b. Kenntnisse in einer zweiten Landessprache und gute Englischkenntnisse hat;
+- c. Angehöriger oder Angehörige der Armee ist;
+- d. aufgrund der bisherigen Militärdienstleistungen über eine gute Qualifikation verfügt;
 - e. einen Strafregisterauszug ohne Eintrag vorweisen kann;
 - f. einen Betreibungsregisterauszug ohne Eintrag vorweisen kann;
-- g. das Höchstalter von 26 Jahren nicht überschritten hat;
-- h. im Rahmen der Eignungsabklärungen SPHAIR nach Artikel 28*a* der Luftfahrtverordnung vom 14. November 1973[^16-1] (LFV) für die Ausbildung zum Berufsmilitärpiloten oder zur Berufsmilitärpilotin als geeignet beurteilt worden ist oder bei abgeschlossener privater Flugausbildung eine Eignungsprüfung bestanden hat; und
-- i. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat.
+- g. nach Artikel 28*a* der Luftfahrtverordnung vom 14. November 1973[^16-2] (LFV) von der Luftwaffe als für die Ausbildung zum Berufsmilitärpiloten oder zur Berufsmilitärpilotin geeignet beurteilt wurde oder bei abgeschlossener privater Flugausbildung eine Eignungsprüfung bei der Luftwaffe bestanden hat;
+- h. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat; und
+- i. den Führerausweis der Kategorie B besitzt.
 
-<sup>2</sup> Wer bereits im Rahmen der Eignungsabklärungen SPHAIR nach Artikel 28*a* LFV für die Ausbildung zum Berufsmilitärpiloten und zur Berufsmilitärpilotin als ungeeignet beurteilt worden ist, wird nicht zur Eignungsprüfung nach Absatz 1 Buchstabe h zugelassen.
+<sup>2</sup> Wer im Rahmen der Abklärung nach Artikel 28*a* LFV als für die Ausbildung zum Berufsmilitärpiloten und zur Berufsmilitärpilotin ungeeignet beurteilt wurde, kann zur Eignungsprüfung nach Absatz 1 Buchstabe g zugelassen werden, sofern er oder sie über eine zivile Berufspilotenlizenz mit Instrumentenflugberechtigung einschliesslich Verkehrspilotentheorie («Airline Transport Pilot Licence»-Theorie) verfügt.
 
 <sup>3</sup>
 
-Berufsmilitärpiloten und Berufsmilitärpilotinnen müssen zudem:
+Berufsmilitärpiloten und Berufsmilitärpilotinnen müssen bei der Anstellung zudem mindestens eine der folgenden Voraussetzungen erfüllen:
 
-- a. die höchstens zehn Tage dauernde Berufseignungsabklärung zur befristeten Anstellung als Berufsmilitärpilotkandidat oder Berufsmilitärpilotkandidatin bestanden haben;
-- b. die Abklärung der fliegerischen Eignung in der Pilotenschule der Luftwaffe zur unbefristeten Anstellung als Berufsmilitärpilotanwärter oder Berufsmilitärpilotanwärterin bestanden haben; oder
-- c. die Grundausbildung für Berufsmilitärpiloten und Berufsmilitärpilotinnen nach Artikel 17 Absatz 1 erfolgreich abgeschlossen haben.
+- a. Sie sind höchstens 26 Jahre alt und haben die allgemeine Berufseignungsabklärung zur Anstellung als Berufsmilitärpilotkandidat oder Berufsmilitärpilotkandidatin bestanden.
+- b. Sie haben die fliegerische Eignungsabklärung der Pilotenschule der Luftwaffe zur Anstellung als Berufsmilitärpilotanwärter oder Berufsmilitärpilotanwärterin bestanden.
+- c. Sie haben die Grundausbildung für Berufsmilitärpiloten und Berufsmilitärpilotinnen nach Artikel 17 Absätze 1 und 2 erfolgreich abgeschlossen.
 
-[^16-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^16-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^16-2]: [SR 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 #### Art. 17
 
 **Ausbildung**
 
-<sup>1</sup> Berufsmilitärpiloten und Berufsmilitärpilotinnen werden im Rahmen der Pilotenschule der Luftwaffe ausgebildet. Diese Grundausbildung dauert bis zur Brevetierung höchstens vier Jahre.
+<sup>1</sup> Für die Grundausbildung der Berufsmilitärpiloten und Berufsmilitärpilotinnen ist die Pilotenschule der Luftwaffe zuständig. Die Grundausbildung dauert höchstens sechs Jahre.[^17-1]
 
 <sup>2</sup>
 
-Die Grundausbildung für Berufsmilitärpiloten und Berufsmilitärpilotinnen besteht mindestens aus:
+Die Grundausbildung besteht mindestens aus:
 
-- a. einer zivilen fliegerischen Ausbildung, die zur Erlangung einer zivilen Berufspilotenlizenz mit Instrumentenflugberechtigung führt;
-- b. der militärischen fliegerischen Grundausbildung und der fliegerischen Spartenausbildung zum Helikopter- oder Kampfflugzeugpiloten respektive zur Helikopter- oder Kampfflugzeugpilotin.
+- a. einer zivilen fliegerischen Ausbildung, die zur Erlangung einer zivilen Berufspilotenlizenz mit Instrumentenflugberechtigung einschliesslich Verkehrspilotentheorie («Airline Transport Pilot Licence»-Theorie) führt, sofern diese nicht bereits absolviert wurde;
+- b. der militärischen fliegerischen Grundausbildung und der Ausbildung zum Helikopter- oder Kampfflugzeugpiloten.[^17-2]
 
 <sup>3</sup> Berufsmilitärpiloten und Berufsmilitärpilotinnen können im Rahmen der Laufbahnplanung eine akademische Weiterausbildung absolvieren.
 
@@ -264,6 +269,9 @@ Die Grundausbildung für Berufsmilitärpiloten und Berufsmilitärpilotinnen best
 <sup>5</sup> Die Luftwaffe erarbeitet die Ausbildungsprogramme.
 
 <sup>6</sup> Der Arbeitgeber schliesst gestützt auf Artikel 4 Absatz 5 BPV mit den Berufsmilitärpiloten und Berufsmilitärpilotinnen eine Ausbildungsvereinbarung ab. Diese Vereinbarung bedarf der Zustimmung des VBS.
+
+[^17-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^17-2]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 18
 
@@ -275,18 +283,20 @@ Das VBS ernennt die Berufsmilitärpiloten und Berufsmilitärpilotinnen auf Antra
 
 #### Art. 19
 
-**Einstufung und Dienstleistungen in der Kategorie A**
+**[Einstufung und Dienstleistungen in der Kategorie A](https://www.fedlex.admin.ch/eli/cc/2022/214/de)**[^19-1]
 
 Für die Einstufung und die jährlichen Dienstleistungen in der Kategorie A gilt folgende Regelung:
 
 <table>
 <tr><th>Unterkategorie</th><th>Funktion</th><th>Tage individuelles Training</th><th colspan="2">Minimale Zahl der Flugstunden</th></tr>
-<tr><td>A/1</td><td>Piloten und Pilotinnen der Kampfstaffeln</td><td>nach Bedarf</td><td colspan="2">40</td></tr>
+<tr><td>A/1</td><td>Piloten und Pilotinnen der Kampfstaffeln</td><td>nach Bedarf</td><td colspan="2">40\*</td></tr>
 <tr><td>A/2</td><td>Helikopterpiloten und Helikopterpilotinnen der Lufttransportstaffeln</td><td>nach Bedarf, jedoch höchstens 12 Tage</td><td colspan="2">50\*</td></tr>
 <tr><td>A/3</td><td>Flächenflugzeugpiloten und Flächenflugzeugpilotinnen der Lufttransportstaffeln, bis zur Vollendung des 45. Altersjahres</td><td>nach Bedarf, jedoch höchstens 12 Tage</td><td colspan="2">30</td></tr>
-<tr><td>A/4</td><td>Piloten und Pilotinnen, die in ihrer beruflichen Funktion Staatsluftfahrzeuge fliegen und nicht in einer Staffel eingeteilt sind</td><td>nach Bedarf, jedoch höchstens 45 Tage</td><td colspan="2">50</td></tr>
-<tr><td colspan="4">\* Für Super-Puma-Piloten und Super-Puma-Pilotinnen werden die Simulatorstunden angerechnet. Die Luftwaffe bestimmt die jährlich anrechenbare Anzahl Simulatorstunden.</td></tr>
+<tr><td>A/4</td><td>Piloten und Pilotinnen, die in ihrer beruflichen Funktion Staatsluftfahrzeuge fliegen, aber nicht in einer Staffel eingeteilt sind</td><td>nach Bedarf, jedoch höchstens 45 Tage</td><td colspan="2">50</td></tr>
+<tr><td colspan="4">\* Kampfjet- und Super-Puma-Piloten und -Pilotinnen werden die Simulatorstunden angerechnet. Die Luftwaffe bestimmt die jährlich anrechenbare Anzahl Simulatorstunden.</td></tr>
 </table>
+
+[^19-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 20
 
@@ -339,17 +349,18 @@ Milizmilitärpiloten und Milizmilitärpilotinnen der Kategorien A/1, A/2, A/3 un
 
 Zur Ausbildung zum Milizbordoperateur oder zur Milizbordoperateurin kann zugelassen werden, wer:
 
-- a. die Sekundarstufe I oder eine gleichwertige Schule absolviert und eine berufliche Grundbildung oder eine Mittelschule oder eine andere, gleichwertige Ausbildung abgeschlossen hat;
-- b. den praktischen Dienst als Leutnant bestanden hat;
-- c. eine gute Qualifikation aus den bisherigen Militärdienstleistungen besitzt;
+- a. die Sekundarstufe I oder eine gleichwertige Schule absolviert hat und eine berufliche Grundbildung, eine Mittelschule oder eine andere, gleichwertige Ausbildung abgeschlossen hat;
+- b. Angehöriger oder Angehörige der Armee ist und nach abgeschlossenem praktischem Dienst den Grad des Leutnants trägt;
+- c. aufgrund der bisherigen Militärdienstleistungen über eine gute Qualifikation verfügt;
 - d. Kenntnisse in einer zweiten Landessprache und gute Englischkenntnisse hat;
-- e. eine fachtechnische Eignungsprüfung bestanden hat;
+- e. die fachtechnische Eignungsprüfung für Milizbordoperateur oder Milizbordoperateurin bestanden hat;
 - f. einen Strafregisterauszug ohne Eintrag vorweisen kann;
 - g. einen Betreibungsregisterauszug ohne Eintrag vorweisen kann;
-- h. das Höchstalter von 26 Jahren nicht überschritten hat; und
-- i. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat.
+- h. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat.[^25-1]
 
 <sup>2</sup> Die Luftwaffe entscheidet über die Zulassung.
+
+[^25-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 26
 
@@ -382,16 +393,19 @@ Die Milizbordoperateure und Milizbordoperateurinnen nehmen ihren Flugdienst (Tra
 
 Als Berufsbordoperateur oder Berufsbordoperateurin kann ab Beginn der Grundausbildung angestellt werden, wer:
 
-- a. den praktischen Dienst als Hauptmann bestanden hat;
-- b. die Sekundarstufe I oder eine gleichwertige Schule absolviert und eine berufliche Grundbildung oder eine Mittelschule oder eine andere, gleichwertige Ausbildung abgeschlossen hat;
-- c. eine sehr gute Qualifikation aus den bisherigen Militärdienstleistungen besitzt;
-- d. einen Strafregisterauszug ohne Eintrag vorweisen kann;
-- e. einen Betreibungsregisterauszug ohne Eintrag vorweisen kann;
-- f. das Höchstalter von 30 Jahren nicht überschritten hat;
-- g. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat; und
-- h. in einer höchstens drei Tage dauernden Berufseignungsabklärung als geeignet befunden worden ist.
+- a. die Sekundarstufe I oder eine gleichwertige Schule absolviert und eine berufliche Grundbildung oder eine Mittelschule oder eine andere, gleichwertige Ausbildung abgeschlossen hat;
+- b. Kenntnisse in einer zweiten Landessprache und gute Englischkenntnisse hat;
+- c. Angehöriger oder Angehörige der Armee ist und nach abgeschlossenem praktischem Dienst den Grad des Hauptmanns trägt;
+- d. aufgrund der bisherigen Militärdienstleistungen über eine gute Qualifikation verfügt;
+- e. einen Strafregisterauszug ohne Eintrag vorweisen kann;
+- f. einen Betreibungsregisterauszug ohne Eintrag vorweisen kann;
+- g. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat;
+- h. im Rahmen der Berufseignungsabklärung als Berufsbordoperateur oder Berufsbordoperateurin als geeignet erklärt wurde; und
+- i. den Führerausweis der Kategorie B besitzt.[^29-1]
 
 <sup>2</sup> Der Chef oder die Chefin der Armee kann in begründeten Ausnahmefällen und bei ausgewiesenem Bedarf des Arbeitgebers andere Voraussetzungen im Sinne von Absatz 1 Buchstabe a oder c anerkennen.
+
+[^29-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 30
 
@@ -426,7 +440,7 @@ Zur Ausbildung zum Milizfallschirmaufklärer oder zur Milizfallschirmaufkläreri
 
 <sup>3</sup> Die Luftwaffe beurteilt die fallschirmtechnische Eignung und entscheidet über die Zulassung der Anwärter und Anwärterinnen zum Fallschirmsprungdienst.
 
-[^31-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^31-1]: [SR 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 #### Art. 32
 
@@ -454,9 +468,11 @@ Die Luftwaffe kann für die Ausbildung im Fallschirmsprungdienst Fachlehrer und 
 
 **Berufsoffiziere und Berufsunteroffiziere sowie Angehörige des AAD 10 mit militärischer Freifallausbildung**
 
-<sup>1</sup> Die militärische Freifallausbildung für Berufsoffiziere und Berufsunteroffiziere sowie für Angehörige des AAD 10 dauert höchstens sechs Monate.
+<sup>1</sup> Die militärische Freifallausbildung für Berufsoffiziere und Berufsunteroffiziere sowie für Angehörige des AAD 10 dauert höchstens ein Jahr.[^35-1]
 
 <sup>2</sup> Die Luftwaffe legt das Ausbildungsprogramm fest.
+
+[^35-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### 3. Abschnitt: Trainingsordnung für Milizfallschirmaufklärer und Milizfallschirmaufklärerinnen
 
@@ -500,7 +516,9 @@ Die Luftwaffe kann durch Weisung die Zahl der Absprünge nach Artikel 36 um höc
 
 <sup>2</sup> Im militärischen individuellen Training finden die Absprünge auf Befehl eines Fallschirmaufklärer-Offiziers, eines militärischen Sprungdienstleiters oder einer militärischen Sprungdienstleiterin oder eines Chefs oder einer Chefin Militärisches Individuelles Training statt. Sie werden aus militärischen Luftfahrzeugen und grundsätzlich mit dem Einsatzfallschirm durchgeführt.
 
-<sup>3</sup> Im zivilen Training finden die Absprünge unter Aufsicht eines zivilen Instruktors oder einer zivilen Instruktorin des Aero-Clubs der Schweiz statt. Sie werden aus zivilen Luftfahrzeugen durchgeführt und können in ziviler Sprungausrüstung durchgeführt werden.
+<sup>3</sup> Im zivilen Training finden die Absprünge unter Aufsicht eines zivilen Instruktors oder einer zivilen Instruktorin des Aero-Clubs der Schweiz statt. Sie werden aus zivilen Luftfahrzeugen durchgeführt und können in ziviler Sprungausrüstung oder mit Fallschirmen der Schweizer Armee durchgeführt werden.[^40-1]
+
+[^40-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 41
 
@@ -527,18 +545,24 @@ Als Drohnenoperateure und Drohnenoperateurinnen gelten Drohnenpiloten und Drohne
 Zur Ausbildung zum Milizdrohnennutzlastoperateur oder zur Milizdrohnennutzlastoperateurin kann zugelassen werden, wer:
 
 - a. die Sekundarstufe I oder eine gleichwertige Schule absolviert und eine berufliche Grundbildung oder eine Mittelschule oder eine andere, gleichwertige Ausbildung abgeschlossen hat;
-- b. nach abgeschlossenem praktischem Dienst mindestens den Grad des Leutnants bekleidet;
-- c. eine gute Qualifikation aus den bisherigen Militärdienstleistungen besitzt;
+- b.[^43-1] Angehöriger oder Angehörige der Armee ist und nach abgeschlossenem praktischem Dienst mindestens den Grad des Leutnants trägt;
+- c.[^43-2] aufgrund der bisherigen Militärdienstleistungen über eine gute Qualifikation verfügt;
 - d. einen Strafregisterauszug ohne Eintrag vorweisen kann;
 - e. einen Betreibungsregisterauszug ohne Eintrag vorweisen kann;
-- f. das Höchstalter von 30 Jahren nicht überschritten hat;
-- g. eine gültige Privatpilotenlizenz für Flächenflugzeuge (PPL A) besitzt;
+- f.[^43-3] das Höchstalter von 35 Jahren nicht überschritten hat;
+- g.[^43-4] eine gültige Privatpilotenlizenz (PPL) besitzt;
 - h. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat; und
-- i. in der Eignungsabklärung als geeignet befunden worden ist.
+- i.[^43-5] im Rahmen der Eignungsabklärung für Milizdrohnennutzlastoperateur oder zur Milizdrohnennutzlastoperateurin als geeignet erklärt wurde.
 
 <sup>2</sup> Zur Ausbildung zum Milizdrohnenpilot oder zur Milizdrohnenpilotin kann zugelassen werden, wer die Voraussetzungen nach Absatz 1 Buchstaben a–f, h und i erfüllt und über eine gültige zivile Berufspilotenlizenz für Flächenflugzeuge mit Instrumentenflugberechtigung (CPL/IR) besitzt.
 
 <sup>3</sup> Die Luftwaffe entscheidet über die Zulassung zur jeweiligen Fachausbildung sowie über Ausnahmen von den Voraussetzungen nach Absatz 1 Buchstabe f und Absatz 2.
+
+[^43-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-2]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-3]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-4]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
+[^43-5]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 ### 2. Abschnitt: Trainingsordnung für Milizdrohnenoperateure und Milizdrohnenoperateurinnen
 
@@ -586,13 +610,19 @@ Drohnenoperateure und Drohnenoperateurinnen nehmen ihren Drohnenflugdienst nach 
 Als Berufsdrohnenoperateur oder Berufsdrohnenoperateurin kann ab Beginn der Grundausbildung angestellt werden, wer:
 
 - a. die Sekundarstufe I oder eine gleichwertige Schule absolviert und eine berufliche Grundbildung oder eine Mittelschule oder eine andere, gleichwertige Ausbildung abgeschlossen hat;
-- b. einen Strafregisterauszug ohne Eintrag vorweisen kann;
-- c. einen Betreibungsregisterauszug ohne Eintrag vorweisen kann;
-- d. eine gültige zivile Berufspilotenlizenz mit Instrumentenflugberechtigung (CPL/IR) besitzt;
-- e. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat; und
-- f. in einer höchstens drei Tage dauernden Berufseignungsabklärung als geeignet befunden worden ist.
+- b. Kenntnisse in einer zweiten Landessprache und gute Englischkenntnisse hat;
+- c. Angehöriger oder Angehörige der Armee ist und nach abgeschlossenem praktischem Dienst mindestens den Grad des Hauptmanns trägt;
+- d. aufgrund der bisherigen Militärdienstleistungen über eine gute Qualifikation verfügt;
+- e. einen Strafregisterauszug ohne Eintrag vorweisen kann;
+- f. einen Betreibungsregisterauszug ohne Eintrag vorweisen kann;
+- g. eine gültige zivile Berufspilotenlizenz mit Instrumentenflugberechtigung (CPL/IR) besitzt;
+- h. die Abklärung der körperlichen Tauglichkeit sowie der intellektuellen und psychischen Eignung durch das FAI bestanden hat;
+- i. im Rahmen der Berufseignungsabklärung als Berufsdrohnenoperateur oder Berufsdrohnenoperateurin geeignet erklärt wurde; und
+- j. den Führerausweis der Kategorie B besitzt.[^48-1]
 
 <sup>2</sup> Die Luftwaffe entscheidet über die Zulassung zur jeweiligen Fachausbildung sowie über Ausnahmen von der Voraussetzung nach Absatz 1 Buchstabe d.
+
+[^48-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 49
 
@@ -613,9 +643,13 @@ Die Ausbildung zum Berufsdrohnenoperateur oder zur Berufsdrohnenoperateurin best
 
 #### Art. 50
 
-**Straf- und Betreibungsregistereinträge bei der Anstellung**
+**Straf- und Betreibungsregistereinträge**[^50-1]
 
-Weist eine Person Strafregister- oder Betreibungsregistereinträge aus, die für die Funktionsausübung von untergeordneter Bedeutung sind, so kann der Chef oder die Chefin der Armee auf begründeten Antrag der Anstellungsbehörde eine Ausnahme von der betreffenden Anstellungsvoraussetzung bewilligen.
+<sup>1</sup> Das militärische Personal ist verpflichtet, Eröffnungen von Strafverfahren, Einleitungen von Betreibungen sowie jede Änderung im Straf- und Betreibungsregister zu melden, sobald es davon Kenntnis erhält.
+
+<sup>2</sup> Handelt es sich beim Eintrag um einen Eintrag von untergeordneter Bedeutung, so kann die Chefin oder der Chef der Armee auf begründeten Antrag der anstellenden Stelle hin vom Erfordernis, dass bei der Anstellung kein Eintrag vorhanden ist, abweichen.
+
+[^50-1]: Fassung gemäss Anhang der V des VBS vom 27. Aug. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 449](https://fedlex.data.admin.ch/eli/oc/2026/449)).
 
 #### Art. 51
 
