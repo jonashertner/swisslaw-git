@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (État le 1<sup>er</sup> janvier 2026)
+du 23 mai 2012 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -296,12 +296,14 @@ Font partie des cadres J+S toutes les personnes titulaires d’un certificat:[^1
 Il peut:
 
 - a. prévoir, pour les différentes fonctions de cadre, des spécialisations ainsi que des formations continues sur des thèmes spécifiques;
-- b. prévoir, pour le groupe cible des enfants et le groupe cible des jeunes, des formations et formations continues différentes;
-- c. prescrire des formations continues de durées différentes selon les sports, les thèmes et les groupes cibles.
+- b.[^14-2] …
+- c.[^14-3] prescrire des formations continues de durées différentes selon les sports et les thèmes.
 
 <sup>4</sup> L’admission à la formation des cadres ou à un cours ou module précis n’est pas un droit. L’OFSPO décide de l’admission au cas par cas.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
+[^14-2]: Abrogée par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
+[^14-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 15
 

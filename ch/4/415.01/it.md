@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° gennaio 2026)
+del 23 maggio 2012 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -299,12 +299,14 @@ Fanno parte dei quadri G+S tutti i titolari di un riconoscimento quale:
 Esso può:
 
 - a. prevedere per singole funzioni di quadro, specializzazioni, formazioni e perfezionamenti su temi specifici;
-- b. prevedere per i gruppi di destinatari «bambini» e «giovani» formazioni e perfezionamenti diversi;
-- c. definire in maniera differenziata la durata della formazione continua per le diverse discipline sportive, temi e gruppi di destinatari.
+- b.[^14-2] ...
+- c.[^14-3] definire durate diverse della formazione continua per le diverse discipline sportive e temi.
 
 <sup>4</sup> Non sussiste alcun diritto all’ammissione alla formazione dei quadri o a un determinato corso o modulo. L’UFSPO decide in merito all’ammissione nel singolo caso.
 
 [^14-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
+[^14-2]: Abrogata dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2027 ([RU 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
+[^14-3]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2027 ([RU 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 15
 

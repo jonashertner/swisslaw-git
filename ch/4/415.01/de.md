@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2026-01-01
+version: 2027-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. Januar 2026)
+vom 23. Mai 2012 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -298,12 +298,14 @@ Das J+S-Kader umfasst alle Personen mit einer Anerkennung als:
 Es kann:
 
 - a. für die einzelnen Kaderfunktionen Spezialisierungen sowie themenspezifische Weiterbildungen vorsehen;
-- b. für die Zielgruppen Kinder und Jugendliche unterschiedliche Aus- und Weiterbildungen vorsehen;
-- c. die Dauer der Weiterbildung für unterschiedliche Sportarten, Themen oder Zielgruppen unterschiedlich lang festlegen.
+- b.[^14-2] …
+- c.[^14-3] für unterschiedliche Sportarten und Themen unterschiedlich lange Weiterbildungsdauern festlegen.
 
 <sup>4</sup> Es besteht kein Rechtsanspruch auf Zulassung zur Kaderbildung oder zu einem bestimmten Kurs oder Modul. Das BASPO entscheidet über die Zulassung im Einzelfall.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
+[^14-2]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2027 ([AS 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
+[^14-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2027 ([AS 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 15
 
