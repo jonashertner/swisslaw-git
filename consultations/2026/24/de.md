@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Chemikaliengesetzes (ChemG) und des Heilmittelgesetzes (HMG)
 document: Vernehmlassungsvorlage
 language: de

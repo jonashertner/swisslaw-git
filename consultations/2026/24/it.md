@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sui prodotti chimici (LPChim) e della legge sugli agenti terapeutici (LATer)
 document: Progetto posto in consultazione
 language: it
