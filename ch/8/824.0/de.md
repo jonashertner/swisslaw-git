@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1995 über den zivilen Ersatzdienst (Zivildi
 short: ZDG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/de"
 
 (Zivildienstgesetz, ZDG)
 
-vom 6. Oktober 1995 (Stand am 1. Januar 2025)
+vom 6. Oktober 1995 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -904,24 +904,21 @@ Die Vollzugsstelle kann von der Erhebung der Abgabe absehen:
 
 - a. bei Einsatzbetrieben, an deren Mitwirkung im Vollzug ein besonderes Interesse besteht und die sonst nicht in der Lage wären, zivildienstleistende Personen zu beschäftigen;
 - b. wenn ein Einsatzbetrieb eine zivildienstleistende Person beschäftigt, die im Einsatz speziell betreut oder geführt werden muss;
-- c. bei Einsätzen, für die der Einsatzbetrieb Finanzhilfe nach Artikel 47 erhält;
+- c.[^46-2] ...
 - d. bei Einsätzen im Tätigkeitsbereich nach Artikel 4 Absatz 1 Buchstabe h;
-- e. bei Probeeinsätzen.[^46-2]
+- e. bei Probeeinsätzen.[^46-3]
 
 <sup>4</sup> Artikel 6 bleibt vorbehalten.
 
 [^46-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^46-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^46-2]: Aufgehoben durch Ziff. I 15 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^46-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 47
 
-**Finanzhilfe zugunsten des Einsatzbetriebes**
+[^47-1]
 
-<sup>1</sup> Der Bund kann im Rahmen der bewilligten Kredite ausnahmsweise Projekte finanziell unterstützen, die der Kulturgütererhaltung, dem Umwelt‑ und Naturschutz, der Landschaftspflege oder dem Wald dienen.[^47-1]
-
-<sup>2</sup> Der Bundesrat regelt die weiteren Voraussetzungen für die Gewährung seiner finanziellen Unterstützung und die anrechenbaren Projektkosten.
-
-[^47-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^47-1]: Aufgehoben durch Ziff. I 15 des BG vom 20. März 2026 über das Entlastungspaket 2027 für den Bundeshaushalt, mit Wirkung seit 1. Jan. 2027 ([AS 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [BBl 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### 2. Abschnitt: Verhältnis zu den zivildienstleistenden Personen
 

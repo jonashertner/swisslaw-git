@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 1995 sur le service civil (LSC)
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/fr"
 
 (LSC)
 
-du 6 octobre 1995 (État le 1<sup>er</sup> janvier 2025)
+du 6 octobre 1995 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -904,24 +904,21 @@ L’organe d’exécution peut renoncer à percevoir la contribution:
 
 - a. lorsque son paiement mettrait un établissement d’affectation dans l’impossibilité d’employer des personnes effectuant le service civil et que la collaboration dudit établissement revêt un intérêt particulier pour l’exécution du service civil;
 - b. lorsqu’un établissement d’affectation occupe une personne effectuant le service civil qui doit être spécialement encadrée ou dirigée pendant son affectation;
-- c. pour les affectations donnant à l’établissement d’affectation le droit à une aide financière au sens de l’art. 47;
+- c.[^46-2] …
 - d. pour les affectations dans le domaine d’activité visé à l’art. 4, al. 1, let. h;
-- e. pour les affectations à l’essai.[^46-2]
+- e. pour les affectations à l’essai.[^46-3]
 
 <sup>4</sup> L’art. 6 est réservé.
 
 [^46-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^46-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^46-2]: Abrogée par le ch. I 15 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^46-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 47
 
-**Aide financière en faveur de l’établissement d’affectation**
+[^47-1]
 
-<sup>1</sup> La Confédération peut exceptionnellement soutenir financièrement, dans les limites des crédits alloués, des projets dans les domaines de la conservation des biens culturels, de la protection de l’environnement et de la nature, de l’entretien du paysage ou de la forêt.[^47-1]
-
-<sup>2</sup> Le Conseil fédéral définit les autres conditions donnant droit à l’aide financière et les frais de projet imputables.
-
-[^47-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^47-1]: Abrogé par le ch. I 15 de la LF du 20 mars 2026 sur le programme d’allégement budgétaire 2027, avec effet au 1<sup>er</sup> janv. 2027 ([RO 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Section 2 Rapports avec les personnes en service
 

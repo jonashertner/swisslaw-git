@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1995 sul servizio civile sostitutivo (Legge
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20250101/it"
 
 (Legge sul servizio civile, LSC)
 
-del 6 ottobre 1995 (Stato 1° gennaio 2025)
+del 6 ottobre 1995 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visto l’articolo 18 capoverso 1 della Costituzione federale[^ingress-1];[^ingr
 decreta:
 
 [^ingress-1]: [CS **1** 3; [RU 1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)]. A questa disp. corrisponde ora l’art. 59 cpv. 1 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^ingress-2]: Nuovo testo giusta la cifra VII n. 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^ingress-3]: [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)
 
 ## Capitolo 1: Disposizioni generali
@@ -37,7 +37,7 @@ decreta:
 
 Le persone soggette all’obbligo di prestare servizio militare che non possono conciliare il servizio militare con la propria coscienza prestano, su domanda, un servizio civile sostitutivo (servizio civile) di più lunga durata secondo la presente legge.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 2
 
@@ -49,7 +49,7 @@ Le persone soggette all’obbligo di prestare servizio militare che non possono 
 
 <sup>3</sup> Chi presta servizio civile fornisce un lavoro di pubblico interesse.
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 3
 
@@ -73,9 +73,9 @@ Il servizio civile contribuisce a:
 
 <sup>2</sup> Esso fornisce il proprio contributo nell’ambito dei compiti della Rete integrata Svizzera per la sicurezza.[^3a-3]
 
-[^3a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^3a-2]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^3a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^3a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^3a-2]: Introdotta dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^3a-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 4
 
@@ -118,19 +118,19 @@ Il Consiglio federale stabilisce:
 
 <sup>4</sup> Nell’ambito dei propri campi d’attività e tenendo conto delle necessità, il servizio civile organizza programmi prioritari e ne verifica periodicamente l’efficacia. Il Consiglio federale può affidargli mandati a tal fine.[^4-13]
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^4-2]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-3]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^4-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-5]: Abrogata dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-6]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-7]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-2]: Introdotta dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-3]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-4]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-5]: Abrogata dalla cifra I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-6]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-7]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^4-8]: Abrogata dall’all. n. 1 della LF del 16 giu. 2023, con effetto dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
-[^4-9]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-10]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4-11]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^4-12]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^4-13]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-9]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-10]: Introdotto dalla cifra I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4-11]: Introdotto dalla cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^4-12]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4-13]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 4a
 
@@ -150,10 +150,10 @@ Non sono permessi impieghi:
 - c. che hanno lo scopo di influire sul processo di formazione delle opinioni politiche o di diffondere o approfondire correnti di pensiero religiose o ideologiche;
 - d.[^4a-4] che servono in primo luogo scopi privati della persona che deve prestare servizio civile, in particolare per la sua formazione o la sua formazione continua.
 
-[^4a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^4a-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^4a-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^4a-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4a-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^4a-4]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 5
 
@@ -204,7 +204,7 @@ Il Consiglio federale stabilisce:
 - c. le modalità della collaborazione tra l’organo d’esecuzione e gli organi specializzati;
 - d. in quali altri casi sono possibili impieghi all’estero negli ambiti d’attività di cui all’articolo 4 capoverso 1.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 7a
 
@@ -216,10 +216,10 @@ Il Consiglio federale stabilisce:
 
 <sup>3</sup> Esso può assumere interamente o in parte, nell’ambito dei crediti stanziati, i costi supplementari non coperti dovuti a tali impieghi. Il Consiglio federale disciplina le condizioni di assunzione dei costi.
 
-[^7a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^7a-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^7a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^7a-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^7a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^7a-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^7a-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^7a-4]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 8
 
@@ -229,8 +229,8 @@ Il Consiglio federale stabilisce:
 
 <sup>2</sup> Le persone che devono prestare servizio civile e sono assegnate a impieghi all’estero possono impegnarsi oltre la durata del servizio civile ordinario. Tuttavia, la durata complessiva di cui al capoverso 1 può essere superata al massimo della metà.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^8-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^8-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 9
 
@@ -244,10 +244,10 @@ L’obbligo di prestare servizio civile vincola a:
 - d. prestare un servizio civile ordinario sino a raggiungere la durata complessiva di cui all’articolo 8;
 - e. prestare un servizio civile straordinario anche oltre la durata complessiva di cui all’articolo 8 (art. 14).
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^9-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^9-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^9-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^9-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^9-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^9-4]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 10
 
@@ -286,9 +286,9 @@ L’organo d’esecuzione pronuncia il licenziamento anticipato dal servizio civ
 <sup>4</sup> …[^11-4]
 
 [^11-1]: Nuovo testo giusta l’all. n. 8 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^11-2]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^11-4]: Abrogato dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^11-2]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^11-4]: Abrogato dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 12
 
@@ -309,7 +309,7 @@ Se necessario ai fini della decisione, l’organo d’esecuzione può chiedere p
 
 <sup>5</sup> L’autorità giudicante o il pubblico ministero dà seguito alla richiesta se ciò non lede i diritti della personalità di terzi e non mette a rischio lo scopo dell’indagine.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^12-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^12-3]: Nuovo testo giusta l’all. 1 n. 12 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
@@ -356,8 +356,8 @@ L’organo d’esecuzione:
 
 <sup>7</sup> Gli impieghi straordinari di chi presta servizio civile sono computati in modo analogo a quanto avviene per chi presta servizio militare.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^14-2]: Abrogata dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^14-2]: Abrogata dalla cifra I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 15
 
@@ -377,7 +377,7 @@ L’organo d’esecuzione:
 
 <sup>2</sup> Le autorità competenti informano i reclutandi sul servizio civile, in particolare durante le giornate d’orientamento.
 
-[^15a-1]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^15a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 ## Capitolo 2: Ammissione al servizio civile
 
@@ -387,7 +387,7 @@ L’organo d’esecuzione:
 
 Le persone soggette all’obbligo di prestare servizio militare possono presentare domanda di ammissione al servizio civile in qualsiasi momento.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 16a
 
@@ -397,8 +397,8 @@ Le persone soggette all’obbligo di prestare servizio militare possono presenta
 
 <sup>2</sup> Il Consiglio federale disciplina la forma della domanda.[^16a-2]
 
-[^16a-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^16a-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^16a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^16a-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 16b
 
@@ -410,7 +410,7 @@ Le persone soggette all’obbligo di prestare servizio militare possono presenta
 
 <sup>3</sup> Il Consiglio federale stabilisce quali dati concernenti il richiedente e il suo obbligo di prestare servizio militare sono necessari.
 
-[^16b-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^16b-1]: Introdotto dalla cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 16c
 
@@ -422,7 +422,7 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 - b. dati necessari per calcolare il numero di giorni di servizio civile da prestare;
 - c.[^16c-2] incorporazione nell’esercito e cessazione prevista dell’obbligo di prestare servizio militare.
 
-[^16c-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^16c-1]: Introdotto dalla cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^16c-2]: Introdotto dall’all. n. 8 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
@@ -435,9 +435,9 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 
 <sup>2</sup> Il Consiglio federale disciplina in quali casi si può derogare ai principi di cui al capoverso 1.
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^17-2]: Nuovo testo del per. giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^17-3]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^17-2]: Nuovo testo del per. giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^17-3]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Abrogato dalla cifra I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 17a
 
@@ -449,7 +449,7 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 
 <sup>3</sup> La Confederazione assume le spese di viaggio e di vitto.
 
-[^17a-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^17a-1]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 18
 
@@ -461,7 +461,7 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 
 <sup>3</sup> L’organo d’esecuzione non entra nel merito della domanda se il richiedente non la conferma entro il termine fissato dal Consiglio federale.
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 18a
 
@@ -471,7 +471,7 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 
 <sup>2</sup> Una volta notificata la decisione, la domanda non può più essere ritirata.
 
-[^18a-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^18a-1]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 18b
 
@@ -481,7 +481,7 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 
 <sup>2</sup> Chi riceve la decisione d’ammissione al servizio civile mentre sta prestando servizio militare è licenziato dal servizio se possibile il giorno stesso, al più tardi il giorno seguente.
 
-[^18b-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^18b-1]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 18c
 
@@ -489,13 +489,13 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 
 La procedura d’ammissione è gratuita.
 
-[^18c-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^18c-1]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 18d
 
 [^18d-1]
 
-[^18d-1]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^18d-1]: Introdotto dalla cifra I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Abrogato dalla cifra I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 ## Capitolo 3: Prestazione del servizio civile
 
@@ -530,7 +530,7 @@ Se necessario ai fini della verifica della reputazione, l’organo d’esecuzion
 
 <sup>8</sup> L’organo d’esecuzione rifiuta di approvare la convenzione d’impiego se la reputazione della persona che deve prestare servizio civile non ne consente l’impiego o, in caso d’impiego all’estero, se la persona non dispone delle qualifiche necessarie. L’organo d’esecuzione può rifiutarsi di approvare la convenzione d’impiego se nutre dubbi fondati sull’idoneità all’impiego della persona che deve prestare servizio civile.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^19-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^19-3]: Nuovo testo giusta l’all. 1 n. 12 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
@@ -540,7 +540,7 @@ Se necessario ai fini della verifica della reputazione, l’organo d’esecuzion
 
 Il servizio civile è prestato in uno o più periodi d’impiego. Il Consiglio federale disciplina la durata minima e la successione dei periodi d’impiego.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 21
 
@@ -562,9 +562,9 @@ Il servizio civile è prestato in uno o più periodi d’impiego. Il Consiglio f
 
 <sup>4</sup> Le persone che devono prestare servizio civile possono partecipare, su base volontaria, a servizi di picchetto che comportano termini di convocazione più brevi.[^22-3]
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^22-2]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^22-3]: Introdotto dal n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^22-2]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^22-3]: Introdotto dalla cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 23
 
@@ -602,10 +602,10 @@ Chi presta servizio civile gode dei diritti sanciti dalla Costituzione e dalla l
 
 <sup>4 e <sup>5</sup></sup> …[^26-4]
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^26-2]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^26-2]: Abrogato dalla cifra I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^26-3]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
-[^26-4]: Abrogati dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^26-4]: Abrogati dalla cifra I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 27
 
@@ -645,7 +645,7 @@ Sono escluse:
 - a. la rimunerazione finanziaria di ore supplementari nonché di lavori a turni, di notte e nel fine settimana;
 - b.[^28-1] la concessione di un periodo di riposo supplementare per il lavoro a turni, di notte e nel fine settimana.
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 29
 
@@ -668,9 +668,9 @@ Per ogni giorno di servizio computabile l’istituto d’impiego fornisce alla p
 
 <sup>4</sup> Qualora l’istituto d’impiego sia divenuto insolvente e non sia quindi in grado di fornire le prestazioni di cui al capoverso 1, la Confederazione versa alla persona che presta servizio civile le corrispondenti prestazioni pecuniarie. Le pretese di quest’ultima nei confronti dell’istituto d’impiego passano alla Confederazione.[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^29-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^29-3]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^29-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^29-3]: Introdotto dalla cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 30
 
@@ -684,7 +684,7 @@ Il congedo è concesso dall’istituto d’impiego. Il Consiglio federale stabil
 
 Al termine dell’impiego la persona che presta servizio civile riceve dall’istituto d’impiego un certificato di lavoro. Se l’impiego dura meno di 54 giorni è sufficiente un attestato del lavoro svolto.
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Sezione 3: Obblighi nei riguardi delle autorità e dell’istituto d’impiego
 
@@ -696,7 +696,7 @@ Al termine dell’impiego la persona che presta servizio civile riceve dall’is
 
 <sup>2</sup> In occasione delle giornate d’introduzione e dei corsi di formazione come pure durante il servizio civile ordinario possono essere effettuate inchieste a scopo scientifico.
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 33
 
@@ -706,7 +706,7 @@ Al termine dell’impiego la persona che presta servizio civile riceve dall’is
 
 <sup>2</sup> Per quanto le condizioni di salute dell’interessato lo giustifichino, l’organo d’esecuzione può, per determinare la capacità al lavoro, ordinare esami medici e misure mediche di prevenzione già prima del servizio, a spese dell’assicurazione militare.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 34
 
@@ -724,7 +724,7 @@ Chi sta prestando servizio civile non può esercitare alcuna attività lucrativa
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^chap4-sec4-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 36
 
@@ -746,7 +746,7 @@ Il Consiglio federale stabilisce:
 
 <sup>4</sup> Chi ha seguito integralmente un corso di formazione riceve un attestato di frequenza.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 36a
 
@@ -754,7 +754,7 @@ Il Consiglio federale stabilisce:
 
 L’organo d’esecuzione gestisce un centro di formazione.
 
-[^36a-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^36a-1]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 37
 
@@ -769,7 +769,7 @@ Può partecipare:
 - a. ai costi per l’elaborazione di programmi generali;
 - b. ai costi per l’introduzione fornita dagli istituti d’impiego, se l’introduzione dev’essere impartita da terzi e comporta pertanto oneri particolari.
 
-[^37-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^37-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Sezione 5: Prestazioni pecuniarie della Confederazione
 
@@ -779,7 +779,7 @@ Può partecipare:
 
 Chi presta servizio civile ha diritto a un’indennità per perdita di guadagno conformemente alla legge del 25 settembre 1952[^38-2] sulle indennità di perdita di guadagno.
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^38-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^38-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 39
@@ -796,14 +796,14 @@ Chi presta servizio civile ottiene i necessari buoni per il viaggio e per il tra
 
 Chi presta servizio civile è assicurato conformemente alla legge federale del 19 giugno 1992[^40-2] sull’assicurazione militare; per danni alle persone la responsabilità della Confederazione è disciplinata esclusivamente da tale legge.
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^40-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Sezione 7: Segni distintivi delle persone che prestano servizio civile, degli istituti d’impiego e degli impieghi di gruppo
 
 [^chap4-sec7-1]
 
-[^chap4-sec7-1]: Introdotta dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^chap4-sec7-1]: Introdotta dalla cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 40a
 
@@ -827,7 +827,7 @@ L’organo d’esecuzione può:
 
 <sup>2</sup> L’organo d’esecuzione non necessita di alcun riconoscimento per impiegare persone che prestano servizio civile.
 
-[^41-1]: Nuovo testo del per. giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^41-1]: Nuovo testo del per. giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 42
 
@@ -850,10 +850,10 @@ L’organo d’esecuzione può respingere la domanda se:
 
 <sup>4</sup> Il riconoscimento può essere vincolato a condizioni e oneri ed essere limitato nel tempo.
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^42-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^42-3]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^42-4]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^42-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^42-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^42-3]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^42-4]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 43
 
@@ -865,10 +865,10 @@ L’organo d’esecuzione può respingere la domanda se:
 
 <sup>3</sup> …[^43-4]
 
-[^43-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^43-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^43-2]: [RU 2004 431](https://fedlex.data.admin.ch/eli/oc/2004/28)
 [^43-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^43-4]: Abrogato dal n. II 4 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818), 5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^43-4]: Abrogato dalla cifra II n. 4 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818), 5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 ## Capitolo 6: Statuto dell’istituto d’impiego
 
@@ -906,24 +906,21 @@ L’organo d’esecuzione può rinunciare a riscuotere il tributo:
 
 - a. da singoli istituti d’impiego la cui partecipazione all’esecuzione del servizio civile riveste particolare importanza e che non sarebbero altrimenti in grado di impiegare persone che prestano servizio civile;
 - b. se un istituto d’impiego impiega una persona che presta servizio civile che, durante l’impiego, necessita di sostegno o assistenza particolari;
-- c. in caso di impieghi per i quali l’istituto d’impiego riceve aiuti finanziari in virtù dell’articolo 47;
+- c.[^46-2] …
 - d. in caso di impieghi nell’ambito d’attività di cui all’articolo 4 capoverso 1 lettera h;
-- e. in caso di impieghi a titolo di prova.[^46-2]
+- e. in caso di impieghi a titolo di prova.[^46-3]
 
 <sup>4</sup> È salvo l’articolo 6.
 
-[^46-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^46-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^46-1]: Introdotto dalla cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^46-2]: Abrogata dalla cifra I n. 15 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
+[^46-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 47
 
-**Aiuto finanziario a favore dell’istituto d’impiego**
+[^47-1]
 
-<sup>1</sup> La Confederazione può, a titolo eccezionale ed entro i limiti dei crediti stanziati, sostenere finanziariamente progetti che servono alla conservazione dei beni culturali, alla protezione dell’ambiente e della natura, alla salvaguardia del paesaggio o alle foreste.[^47-1]
-
-<sup>2</sup> Il Consiglio federale disciplina gli altri presupposti per la concessione del sostegno finanziario e definisce i costi di progetto computabili.
-
-[^47-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^47-1]: Abrogato dalla cifra I n. 15 della LF del 20 mar. 2026 sul programma di sgravio 2027 delle finanze federali, con effetto dal 1° gen. 2027 ([RU 2026 393](https://fedlex.data.admin.ch/eli/oc/2026/393); [FF 2025 3067](https://fedlex.data.admin.ch/eli/fga/2025/3067)).
 
 ### Sezione 2: Rapporto con le persone che prestano servizio civile
 
@@ -941,7 +938,7 @@ L’organo d’esecuzione può rinunciare a riscuotere il tributo:
 
 <sup>5</sup> In particolare per quanto concerne la sicurezza sul lavoro e la protezione della salute, l’istituto d’impiego tratta la persona che presta servizio civile alla medesima stregua dei lavoratori che eseguono gli stessi lavori o lavori comparabili.
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 49
 
@@ -956,7 +953,7 @@ Può delegare l’esercizio di tale diritto ai suoi collaboratori. Può inoltre 
 - a. forniscono a chi presta servizio civile una formazione introduttiva;
 - b. esso sostiene nell’ambito delle sue finalità e al servizio dei quali mette pertanto a disposizione persone che prestano servizio civile.
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^49-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 50
 
@@ -973,7 +970,7 @@ L’istituto d’impiego può, col consenso dell’organo d’esecuzione, cedere
 
 <sup>3</sup> È escluso il prestito di persone che prestano servizio civile.
 
-[^50-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^50-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 51
 
@@ -1107,7 +1104,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 [^chap8-1]
 
-[^chap8-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^chap8-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 62
 
@@ -1117,7 +1114,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 <sup>2</sup> Qualora non si raggiunga un’intesa, la persona che presta servizio civile può sporgere denuncia presso l’organo d’esecuzione contro l’istituto d’impiego. L’organo d’esecuzione sente senza indugio gli interessati e prende le misure necessarie.[^62-1]
 
-[^62-1]: Nuovo testo del per. giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^62-1]: Nuovo testo del per. giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 #### Art. 63
 
@@ -1129,13 +1126,13 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 <sup>3</sup> L’organo d’esecuzione è legittimato a ricorrere contro le decisioni di terzi incaricati ai sensi dell’articolo 79 capoverso 2.
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 64
 
 [^64-1]
 
-[^64-1]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^64-1]: Abrogato dalla cifra I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 65
 
@@ -1149,7 +1146,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 <sup>4</sup> Per il rimanente, la tutela giurisdizionale è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
-[^65-1]: Nuovo testo giusta il n. I 13 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^65-1]: Nuovo testo giusta la cifra I n. 13 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
 #### Art. 66
 
@@ -1161,7 +1158,7 @@ Il termine per interporre ricorso al Tribunale amministrativo federale è di:[^6
 - b. 30 giorni per gli altri casi.
 
 [^66-1]: Nuovo testo giusta l’all. n. 105 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^66-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^66-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 ## Capitolo 9: Procedura disciplinare e disposizioni penali
 
@@ -1208,7 +1205,7 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>2</sup> L’organo d’esecuzione istruisce la procedura entro 60 giorni e la conclude con decisione formale.[^71-1]
 
-[^71-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^71-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Sezione 2: Disposizioni penali
 
@@ -1224,9 +1221,9 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>4</sup> Fatto salvo l’articolo 75, il colpevole è esente da pena se in seguito ad incapacità al lavoro viene licenziato anticipatamente dal servizio civile e questa incapacità sussisteva già al momento del fatto.
 
-[^72-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^72-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^72-2]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^72-3]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^72-3]: Abrogato dalla cifra I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 73
 
@@ -1287,7 +1284,7 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 È punibile conformemente agli articoli 72–76 anche chi commette il reato all’estero.
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^77-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 78
 
@@ -1307,7 +1304,7 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>2</sup> L’organo d’esecuzione può interporre ricorso contro i decreti di non luogo a procedere e i decreti di abbandono del procedimento.
 
-[^78a-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^78a-1]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330);[FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ## Capitolo 10: Disposizioni finali
 
@@ -1368,18 +1365,18 @@ Il Consiglio federale disciplina in particolare:
 - f. la sicurezza dei dati;
 - g. la durata di conservazione dei dati.[^80-12]
 
-[^80-1]: Abrogata dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^80-2]: Introdotto dal n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^80-3]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dall’all. n. 26 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^80-4]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80-5]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-6]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-7]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-8]: <sup>¶</sup>Nuova espr. giusta in n. II cpv. 1 lett. e della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^80-9]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-1]: Abrogata dalla cifra I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-2]: Introdotto dalla cifra VII n. 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^80-3]: Introdotto dalla cifra I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dall’all. n. 26 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^80-4]: Introdotto dalla cifra I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-5]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-6]: Nuovo testo giusta la cifra I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-7]: Abrogata dalla cifra I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-8]: <sup>¶</sup>Nuova espr. giusta in cifra II cpv. 1 lett. e della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
+[^80-9]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^80-10]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^80-11]: Nuovo testo giusta l’all. n. 4 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
-[^80-12]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^80-12]: Nuovo testo giusta la cifra VII n. 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 
 #### Art. 80a
 
@@ -1396,7 +1393,7 @@ Per adempiere i compiti previsti dalla presente legge, l’organo d’esecuzione
 
 <sup>2</sup> Negli atti, l’organo d’esecuzione può trattare dati personali degni di particolare protezione secondo l’articolo 80 capoverso 1<sup>bis</sup>.
 
-[^80a-1]: Introdotto dal n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)). Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80a-1]: Introdotto dalla cifra VII n. 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)). Nuovo testo giusta la cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 
 #### Art. 80b
 
@@ -1424,11 +1421,11 @@ L’organo d’esecuzione comunica dati personali agli organi qui appresso in qu
 
 <sup>3</sup> Nell’ambito dei loro compiti esecutivi, i terzi incaricati comunicano agli organi di cui al capoverso 1 i dati personali necessari.
 
-[^80b-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^80b-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80b-1]: Introdotto dalla cifra I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80b-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^80b-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^80b-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^80b-5]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80b-5]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Sezione 2: ...
 
@@ -1436,19 +1433,19 @@ L’organo d’esecuzione comunica dati personali agli organi qui appresso in qu
 
 [^8182-1]
 
-[^8182-1]: Abrogati dal n. II 37 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^8182-1]: Abrogati dalla cifra II n. 37 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 83
 
 [^83-1]
 
-[^83-1]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-1]: Abrogato dalla cifra I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 83a
 
 [^83a-1]
 
-[^83a-1]: Abrogato dal n. II 37 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^83a-1]: Abrogato dalla cifra II n. 37 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### Sezione 2*a*: ...
 
@@ -1456,13 +1453,13 @@ L’organo d’esecuzione comunica dati personali agli organi qui appresso in qu
 
 [^83b-1]
 
-[^83b-1]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83b-1]: Introdotto dalla cifra I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dalla cifra I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Sezione 2*b*: Disposizione transitoria della modifica del 25 settembre 2015
 
 [^chap10-sec2b-1]
 
-[^chap10-sec2b-1]: Introdotta dal n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^chap10-sec2b-1]: Introdotta dalla cifra I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 83c
 
