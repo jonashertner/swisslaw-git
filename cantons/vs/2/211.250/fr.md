@@ -4,13 +4,12 @@ number: "211.250"
 title: "Ordonnance sur la protection de l'enfant et de l'adulte"
 short: OPEA
 language: fr
-version: 2026-06-01
-valid_until: 2026-12-31
+version: 2027-01-01
 version_adopted: 2026-06-17
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/fr/versions/3617/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3618/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3617/pdf_file"
 
 (OPEA)
 
-du 28.09.2022 (état 01.06.2026)
+du 28.09.2022 (état 01.01.2027)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -122,7 +121,9 @@ ordonne:
 
 <sup>2</sup> Le doyen est choisi en fonction de son expérience, de son ancienneté et de son taux d'activité.
 
-<sup>3</sup> Il bénéficie d'une indemnité forfaitaire annuelle pour sa fonction, arrêtée à 6'000 francs.
+<sup>3</sup> Il bénéficie d'une indemnité forfaitaire annuelle pour sa fonction, arrêtée à 12'000 francs.
+
+<sup>4</sup> Lorsque l'APEA ne comprend qu’une seule chambre, le président unique perçoit une indemnité forfaitaire annuelle de 6’000 francs pour l’exercice de sa fonction.
 
 #### Art. 8
 
