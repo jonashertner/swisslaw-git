@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: it
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20270101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20270101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20280101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20280101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20270101/it"
 
 (LIFD)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2027)
+del 14 dicembre 1990 (Stato 1° gennaio 2028)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -122,9 +122,11 @@ Le persone fisiche senza domicilio o dimora fiscale in Svizzera sono assoggettat
 
 <sup>2</sup> L’assoggettamento in virtù dell’appartenenza economica è limitato alla parte del reddito per cui sussiste un obbligo fiscale in Svizzera secondo gli articoli 4 e 5. Dev’essere almeno imposto il reddito conseguito in Svizzera.
 
-<sup>3</sup> Nelle relazioni internazionali, l’assoggettamento delle imprese, degli stabilimenti d’impresa e dei fondi è delimitato secondo i principi del diritto federale concernente il divieto di doppia imposizione intercantonale. Se un’impresa svizzera compensa sulla base del diritto interno le perdite subìte da uno stabilimento d’impresa situato all’estero con degli utili realizzati in Svizzera e lo stabilimento d’impresa registra degli utili nel corso dei sette anni seguenti, si deve procedere a una revisione della tassazione iniziale, fino a concorrenza dell’ammontare degli utili compensati nello Stato dello stabilimento d’impresa; in questo caso, la perdita subita dallo stabilimento d’impresa all’estero è presa in considerazione a posteriori in Svizzera solo per determinare l’aliquota d’imposta. In tutti gli altri casi, le perdite subìte all’estero sono prese in considerazione esclusivamente per determinare l’aliquota d’imposta. Sono salve le disposizioni previste nelle convenzioni intese ad evitare la doppia imposizione.
+<sup>3</sup> Nelle relazioni internazionali, l’assoggettamento delle imprese, degli stabilimenti d’impresa e dei fondi è delimitato secondo i principi del diritto federale concernente il divieto di doppia imposizione intercantonale. Se un’impresa svizzera compensa le perdite subite da uno stabilimento d’impresa situato all’estero con degli utili realizzati in Svizzera e lo stabilimento d’impresa registra degli utili nel corso dei dieci anni seguenti, si deve procedere a una revisione della tassazione iniziale, fino a concorrenza dell’ammontare degli utili compensati nello Stato dello stabilimento d’impresa; in questo caso, la perdita subita dallo stabilimento d’impresa all’estero è presa in considerazione a posteriori in Svizzera solo per determinare l’aliquota d’imposta.[^6-1] In tutti gli altri casi, le perdite subìte all’estero sono prese in considerazione esclusivamente per determinare l’aliquota d’imposta. Sono salve le disposizioni previste nelle convenzioni intese ad evitare la doppia imposizione.
 
 <sup>4</sup> Le persone imponibili giusta l’articolo 3 capoverso 5 devono l’imposta sui redditi esonerati all’estero dall’imposta sul reddito in virtù di convenzioni internazionali o dell’usanza.
+
+[^6-1]: Nuovo testo del secondo per. giusta la cifra I n. 1 della LF del 19 dic. 2025 concernente l’estensione della compensazione delle perdite, in vigore dal 1° gen. 2028 ([RU 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### Sezione 4: Calcolo dell’imposta in caso d’assoggettamento parziale
 
@@ -492,9 +494,9 @@ Il capoverso 4 non è applicabile alle riserve da apporti di capitale:
 
 <sup>2</sup> I proventi dalla previdenza professionale comprendono segnatamente le prestazioni delle casse previdenziali, delle assicurazioni di risparmio e di gruppo, come anche le polizze di libero passaggio.
 
-<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/it/xml/image/image1.png)
+<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/it/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/it/xml/image/image2.png)
 
 Le assicurazioni di rendita vitalizia nonché i contratti di rendita vitalizia e di vitalizio sono imponibili nella misura della loro quota di reddito. Questa è calcolata come segue:
 
@@ -687,11 +689,11 @@ Sono ammessi, a carico del conto profitti e perdite, accantonamenti per:
 
 **Perdite**
 
-<sup>1</sup> Le perdite dei sette esercizi precedenti il periodo fiscale (art. 40) possono essere dedotte, a condizione che non se ne sia potuto tener conto al momento del calcolo del reddito imponibile di tali anni.[^31-1]
+<sup>1</sup> Le perdite dei dieci esercizi precedenti il periodo fiscale (art. 40) possono essere dedotte, in quanto non se ne sia potuto tenere conto al momento del calcolo del reddito imponibile di tali anni.[^31-1]
 
 <sup>2</sup> Le perdite di esercizi precedenti che non hanno ancora potuto essere dedotte dal reddito possono essere imputate sulle prestazioni di terzi destinate ad equilibrare un bilancio deficitario nell’ambito di un risanamento.
 
-[^31-1]: Nuovo testo giusta la cifra I n. 1 della LF del 22 mar. 2013 sull’adeguamento formale delle basi temporali per l’imposizione diretta delle persone fisiche, in vigore dal 1° gen. 2014 ([RU 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3279](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^31-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 dic. 2025 concernente l’estensione della compensazione delle perdite, in vigore dal 1° gen. 2028 ([RU 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### Sezione 4: Deduzioni sulla sostanza
 
@@ -1066,13 +1068,14 @@ Le persone giuridiche che non hanno né sede né amministrazione effettiva in Sv
 
 <sup>2</sup> L’assoggettamento in virtù dell’appartenenza economica è limitato all’utile per cui sussiste un obbligo fiscale in Svizzera secondo l’articolo 51.[^52-1]
 
-<sup>3</sup> Nelle relazioni internazionali l’assoggettamento delle imprese, degli stabilimenti d’impresa e dei fondi è delimitato secondo i principi del diritto federale concernente il divieto della doppia imposizione intercantonale. Un’impresa svizzera può compensare le perdite subite da uno stabilimento d’impresa situato all’estero con utili realizzati in Svizzera se lo Stato dello stabilimento d’impresa non ne ha già tenuto conto. Se detto stabilimento d’impresa realizza utili nel corso dei sette anni successivi, un’ulteriore imposizione verrà effettuata in questi esercizi nella misura in cui i riporti di perdite sono compensati nello Stato dello stabilimento d’impresa. Le perdite su immobili all’estero sono prese in considerazione soltanto se nello Stato interessato è tenuto uno stabilimento d’impresa. Sono fatte salve le disposizioni previste dalle convenzioni di doppia imposizione.[^52-2]
+<sup>3</sup> Nelle relazioni internazionali l’assoggettamento delle imprese, degli stabilimenti d’impresa e dei fondi è delimitato secondo i principi del diritto federale concernente il divieto della doppia imposizione intercantonale. Un’impresa svizzera può compensare le perdite subite da uno stabilimento d’impresa situato all’estero con utili realizzati in Svizzera se lo Stato dello stabilimento d’impresa non ne ha già tenuto conto. Se detto stabilimento d’impresa realizza utili nel corso dei dieci anni successivi, un’ulteriore imposizione verrà effettuata in questi esercizi nella misura in cui i riporti di perdite sono compensati nello Stato dello stabilimento d’impresa.[^52-2] Le perdite su immobili all’estero sono prese in considerazione soltanto se nello Stato interessato è tenuto uno stabilimento d’impresa. Sono fatte salve le disposizioni previste dalle convenzioni di doppia imposizione.[^52-3]
 
-<sup>4</sup> I contribuenti aventi sede e amministrazione effettiva all’estero devono pagare l’imposta sull’utile realizzato in Svizzera.[^52-3]
+<sup>4</sup> I contribuenti aventi sede e amministrazione effettiva all’estero devono pagare l’imposta sull’utile realizzato in Svizzera.[^52-4]
 
 [^52-1]: Nuovo testo giusta la cifra I n. 1 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^52-2]: Nuovo testo giusta la cifra I n. 1 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^52-2]: Nuovo testo del terzo per. giusta la cifra I n. 1 della LF del 19 dic. 2025 concernente l’estensione della compensazione delle perdite, in vigore dal 1° gen. 2028 ([RU 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 [^52-3]: Nuovo testo giusta la cifra I n. 1 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^52-4]: Nuovo testo giusta la cifra I n. 1 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
 #### Art. 53
 
@@ -1346,9 +1349,11 @@ Gli utili delle persone giuridiche che perseguono scopi ideali non sono imponibi
 
 **Deduzione delle perdite**
 
-<sup>1</sup> Dall’utile netto del periodo fiscale possono essere dedotte le perdite di sette esercizi precedenti il periodo fiscale (art. 79), in quanto non se ne sia potuto tenere conto per il calcolo dell’utile netto imponibile di quegli anni.
+<sup>1</sup> Dall’utile netto del periodo fiscale possono essere dedotte le perdite dei dieci esercizi precedenti il periodo fiscale (art. 79), in quanto non se ne sia potuto tenere conto per il calcolo dell’utile netto imponibile di tali anni.[^67-1]
 
 <sup>2</sup> Le perdite degli esercizi anteriori che non abbiano ancora potuto essere dedotte dagli utili possono essere compensate con le prestazioni destinate a equilibrare un bilancio deficitario nell’ambito di un risanamento e che non costituiscono apporti ai sensi dell’articolo 60 lettera a.
+
+[^67-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 dic. 2025 concernente l’estensione della compensazione delle perdite, in vigore dal 1° gen. 2028 ([RU 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### Capitolo 2: Calcolo dell’imposta
 
@@ -3417,6 +3422,28 @@ Il nuovo diritto si applica al giudizio dei reati commessi in un periodo fiscale
 [^205f-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^205f-2]: Introdotto dalla cifra I n. 1 della LF del 26 set. 2014 Adeguamento alle disposizioni generali del CP), in vigore dal 1° gen. 2017 ([RU 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2521](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 
+#### Art. 205g
+
+[^205g-1]
+
+[^205g-1]: Entra in vigore il 1° gen. 2029 ([RU 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 205h
+
+[^205h-1]
+
+[^205h-1]: Entra in vigore ulteriormente ([FF 2025 2033](https://fedlex.data.admin.ch/eli/fga/2025/2033)).
+
+#### Art. 205i
+
+**Disposizione transitoria della modifica del 19 dicembre 2025**[^205i-1]
+
+<sup>1</sup> Alle perdite subite prima del periodo fiscale 2020 da uno stabilimento d’impresa di un’impresa svizzera situato all’estero si applica l’articolo 6 capoverso 3 del diritto anteriore.
+
+<sup>2</sup> Alle perdite da attività lucrativa indipendente subite prima del periodo fiscale 2020 si applica l’articolo 31 capoverso 1 del diritto anteriore.
+
+[^205i-1]: Introdotto dalla cifra I n. 1 della LF del 19 dic. 2025 concernente l’estensione della compensazione delle perdite, in vigore dal 1° gen. 2028 ([RU 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
+
 ### Capitolo 2: Persone giuridiche
 
 #### Art. 206
@@ -3463,6 +3490,16 @@ Il nuovo diritto si applica al giudizio dei reati commessi in un periodo fiscale
 <sup>2</sup> La procedura di reclamo e la procedura di ricorso contro le decisioni pronunciate prima dell’entrata in vigore della modifica del 20 giugno 2014 sono rette dal diritto anteriore.
 
 [^207b-1]: Introdotto dalla cifra I n. 2 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+
+#### Art. 207c
+
+**Disposizione transitoria della modifica del 19 dicembre 2025**[^207c-1]
+
+<sup>1</sup> Alle perdite subite prima del periodo fiscale 2020 da uno stabilimento d’impresa di un’impresa svizzera situato all’estero si applica l’articolo 52 capoverso 3 del diritto anteriore.
+
+<sup>2</sup> Alle perdite subite prima del periodo fiscale 2020 da una persona giuridica si applica l’articolo 67 capoverso 1 del diritto anteriore.
+
+[^207c-1]: Introdotto dalla cifra I n. 1 della LF del 19 dic. 2025 concernente l’estensione della compensazione delle perdite, in vigore dal 1° gen. 2028 ([RU 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 #### Art. 208–220
 

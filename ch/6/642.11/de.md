@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
 short: DBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: de
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20270101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20270101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20280101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20270101/de"
 
 (DBG)
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2027)
+vom 14. Dezember 1990 (Stand am 1. Januar 2028)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -122,9 +122,11 @@ Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schw
 
 <sup>2</sup> Bei wirtschaftlicher Zugehörigkeit beschränkt sich die Steuerpflicht auf die Teile des Einkommens, für die nach den Artikeln 4 und 5 eine Steuerpflicht in der Schweiz besteht. Es ist mindestens das in der Schweiz erzielte Einkommen zu versteuern.
 
-<sup>3</sup> Die Abgrenzung der Steuerpflicht für Geschäftsbetriebe, Betriebsstätten und Grundstücke erfolgt im Verhältnis zum Ausland nach den Grundsätzen des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung. Wenn ein schweizerisches Unternehmen Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnet hat, innert der folgenden sieben Jahre aber aus dieser Betriebsstätte Gewinne verzeichnet, so ist im Ausmass der im Betriebsstättestaat verrechenbaren Gewinne eine Revision der ursprünglichen Veranlagung vorzunehmen; die Verluste aus dieser Betriebsstätte werden in diesem Fall in der Schweiz nachträglich nur satzbestimmend berücksichtigt. In allen übrigen Fällen sind Auslandsverluste ausschliesslich satzbestimmend zu berücksichtigen. Vorbehalten bleiben die in Doppelbesteuerungsabkommen enthaltenen Regelungen.
+<sup>3</sup> Die Abgrenzung der Steuerpflicht für Geschäftsbetriebe, Betriebsstätten und Grundstücke erfolgt im Verhältnis zum Ausland nach den Grundsätzen des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung. Wenn ein schweizerisches Unternehmen Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnet hat, innert der folgenden zehn Jahre aber aus dieser Betriebsstätte Gewinne verzeichnet, so ist im Ausmass der im Betriebsstättenstaat verrechenbaren Gewinne eine Revision der ursprünglichen Veranlagung vorzunehmen; die Verluste aus dieser Betriebsstätte werden in diesem Fall in der Schweiz nachträglich nur satzbestimmend berücksichtigt.[^6-1] In allen übrigen Fällen sind Auslandsverluste ausschliesslich satzbestimmend zu berücksichtigen. Vorbehalten bleiben die in Doppelbesteuerungsabkommen enthaltenen Regelungen.
 
 <sup>4</sup> Die nach Artikel 3 Absatz 5 steuerpflichtigen Personen entrichten die Steuer auf dem Einkommen, für das sie im Ausland aufgrund völkerrechtlicher Verträge oder Übung von den Einkommenssteuern befreit sind.
+
+[^6-1]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### 4. Abschnitt: Steuerberechnung bei teilweiser Steuerpflicht
 
@@ -491,9 +493,9 @@ Steuerbar sind die Erträge aus unbeweglichem Vermögen, insbesondere:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/de/xml/image/image1.png)
+<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/de/xml/image/image2.png)
 
 Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
 
@@ -685,11 +687,11 @@ Rückstellungen zu Lasten der Erfolgsrechnung sind zulässig für:
 
 **Verluste**
 
-<sup>1</sup> Verluste aus den sieben der Steuerperiode (Art. 40) vorangegangenen Geschäftsjahren können abgezogen werden, soweit sie bei der Berechnung des steuerbaren Einkommens dieser Jahre nicht berücksichtigt werden konnten.[^31-1]
+<sup>1</sup> Verluste aus den zehn der Steuerperiode (Art. 40) vorangegangenen Geschäftsjahren können abgezogen werden, soweit sie bei der Berechnung des steuerbaren Einkommens dieser Jahre nicht berücksichtigt werden konnten.[^31-1]
 
 <sup>2</sup> Mit Leistungen Dritter, die zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung erbracht werden, können auch Verluste verrechnet werden, die in früheren Geschäftsjahren entstanden und noch nicht mit Einkommen verrechnet werden konnten.
 
-[^31-1]: Fassung gemäss Ziff. I 1 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^31-1]: Fassung gemäss Ziff. I 1 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### 4. Abschnitt: Privatvermögen
 
@@ -899,7 +901,7 @@ Vom Einkommen werden abgezogen:
 
 <sup>3</sup> Steuerbeträge unter 25 Franken werden nicht erhoben.
 
-[^36-1]: Fassung gemäss Art. 2 Abs. 1 der V des EFD vom 11. Sept. 2026 über die kalte Progression, in Kraft seit 1. Jan. 2027 (AS **202****6** 486).
+[^36-1]: Fassung gemäss Art. 2 Abs. 1 der V des EFD vom 11. Sept. 2026 über die kalte Progression, in Kraft seit 1. Jan. 2027 ([AS 2026 486](https://fedlex.data.admin.ch/eli/oc/2026/486)).
 [^36-2]: Fassung gemäss Art. 2 Abs. 2 der V des EFD vom 11. Sept. 2026 über die kalte Progression, in Kraft seit 1. Jan. 2027 ([AS 2026 486](https://fedlex.data.admin.ch/eli/oc/2026/486)).
 [^36-3]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Fassung gemäss Art. 2 Abs. 3 der V des EFD vom 11. Sept. 2026 über die kalte Progression, in Kraft seit 1. Jan. 2027 ([AS 2026 486](https://fedlex.data.admin.ch/eli/oc/2026/486)).
 
@@ -1065,13 +1067,14 @@ Juristische Personen, die weder ihren Sitz noch die tatsächliche Verwaltung in 
 
 <sup>2</sup> Bei wirtschaftlicher Zugehörigkeit beschränkt sich die Steuerpflicht auf den Gewinn, für den nach Artikel 51 eine Steuerpflicht in der Schweiz besteht.[^52-1]
 
-<sup>3</sup> Die Abgrenzung der Steuerpflicht für Geschäftsbetriebe, Betriebsstätten und Grundstücke erfolgt im Verhältnis zum Ausland nach den Grundsätzen des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung. Ein schweizerisches Unternehmen kann Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnen, soweit diese Verluste im Betriebsstättenstaat nicht bereits berücksichtigt wurden. Verzeichnet diese Betriebsstätte innert der folgenden sieben Geschäftsjahre Gewinne, so erfolgt in diesen Geschäftsjahren im Ausmass der im Betriebsstättenstaat verrechneten Verlustvorträge eine Besteuerung. Verluste aus ausländischen Liegenschaften können nur dann berücksichtigt werden, wenn im betreffenden Land auch eine Betriebsstätte unterhalten wird. Vorbehalten bleiben die in Doppelbesteuerungsabkommen enthaltenen Regelungen.[^52-2]
+<sup>3</sup> Die Abgrenzung der Steuerpflicht für Geschäftsbetriebe, Betriebsstätten und Grundstücke erfolgt im Verhältnis zum Ausland nach den Grundsätzen des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung. Ein schweizerisches Unternehmen kann Verluste aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnen, soweit diese Verluste im Betriebsstättenstaat nicht bereits berücksichtigt wurden. Verzeichnet diese Betriebsstätte innert der folgenden zehn Geschäftsjahre Gewinne, so erfolgt in diesen Geschäftsjahren im Ausmass der im Betriebsstättenstaat verrechneten Verlustvorträge eine Besteuerung.[^52-2] Verluste aus ausländischen Liegenschaften können nur dann berücksichtigt werden, wenn im betreffenden Land auch eine Betriebsstätte unterhalten wird. Vorbehalten bleiben die in Doppelbesteuerungsabkommen enthaltenen Regelungen.[^52-3]
 
-<sup>4</sup> Steuerpflichtige mit Sitz und tatsächlicher Verwaltung im Ausland haben den in der Schweiz erzielten Gewinn zu versteuern.[^52-3]
+<sup>4</sup> Steuerpflichtige mit Sitz und tatsächlicher Verwaltung im Ausland haben den in der Schweiz erzielten Gewinn zu versteuern.[^52-4]
 
 [^52-1]: Fassung gemäss Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^52-2]: Fassung gemäss Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^52-2]: Fassung des dritten Satzes gemäss Ziff. I 1 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 [^52-3]: Fassung gemäss Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^52-4]: Fassung gemäss Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
 #### Art. 53
 
@@ -1345,9 +1348,11 @@ Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, s
 
 **Verluste**
 
-<sup>1</sup> Vom Reingewinn der Steuerperiode können Verluste aus sieben der Steuerperiode (Art. 79) vorangegangenen Geschäftsjahren abgezogen werden, soweit sie bei der Berechnung des steuerbaren Reingewinnes dieser Jahre nicht berücksichtigt werden konnten.
+<sup>1</sup> Vom Reingewinn der Steuerperiode können Verluste aus den zehn der Steuerperiode (Art. 79) vorangegangenen Geschäftsjahren abgezogen werden, soweit sie bei der Berechnung des steuerbaren Reingewinns dieser Jahre nicht berücksichtigt werden konnten.[^67-1]
 
 <sup>2</sup> Mit Leistungen zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung, die nicht Kapitaleinlagen nach Artikel 60 Buchstabe a sind, können auch Verluste verrechnet werden, die in früheren Geschäftsjahren entstanden und noch nicht mit Gewinnen verrechnet werden konnten.
+
+[^67-1]: Fassung gemäss Ziff. I 1 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### 2. Kapitel: Steuerberechnung
 
@@ -3417,6 +3422,28 @@ Für die Beurteilung von Straftaten, die in Steuerperioden vor Inkrafttreten der
 [^205f-1]: Eingefügt durch Ziff. I 1 des BG vom 26. Sept. 2014 (Anpassungen an die Allgemeinen Bestimmungen des StGB), in Kraft seit 1. Jan. 2017 ([AS 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [BBl 2012 2869](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 [^205f-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
+#### Art. 205g
+
+[^205g-1]
+
+[^205g-1]: In Kraft seit 1. Jan. 2029 ([AS 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [BBl 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 205h
+
+[^205h-1]
+
+[^205h-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([BBl 2025 2033](https://fedlex.data.admin.ch/eli/fga/2025/2033)).
+
+#### Art. 205i
+
+**Übergangsbestimmung zur Änderung vom 19. Dezember 2025**[^205i-1]
+
+<sup>1</sup> Für Verluste einer ausländischen Betriebsstätte eines schweizerischen Unternehmens, die vor der Steuerperiode 2020 eingetreten sind, gilt weiterhin Artikel 6 Absatz 3 des bisherigen Rechts.
+
+<sup>2</sup> Für Verluste aus selbstständiger Erwerbstätigkeit, die vor der Steuerperiode 2020 eingetreten sind, gilt weiterhin Artikel 31 Absatz 1 des bisherigen Rechts.
+
+[^205i-1]: Eingefügt durch Ziff. I 1 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
+
 ### 2. Kapitel: Juristische Personen
 
 #### Art. 206
@@ -3463,6 +3490,16 @@ Für die Beurteilung von Straftaten, die in Steuerperioden vor Inkrafttreten der
 <sup>2</sup> Das Einsprache- und das Beschwerdeverfahren gegen Verfügungen, die vor dem Inkrafttreten der Änderung vom 20. Juni 2014 dieses Gesetzes ergangen sind, richten sich nach dem bisherigen Recht.
 
 [^207b-1]: Eingefügt durch Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+
+#### Art. 207c
+
+**Übergangsbestimmung zur Änderung vom 19. Dezember 2025**[^207c-1]
+
+<sup>1</sup> Für Verluste einer ausländischen Betriebsstätte eines schweizerischen Unternehmens, die vor der Steuerperiode 2020 eingetreten sind, gilt weiterhin Artikel 52 Absatz 3 des bisherigen Rechts.
+
+<sup>2</sup> Für Verluste einer juristischen Person, die vor der Steuerperiode 2020 eingetreten sind, gilt weiterhin Artikel 67 Absatz 1 des bisherigen Rechts.
+
+[^207c-1]: Eingefügt durch Ziff. I 1 des BG vom 19. Dez. 2025 über die Erstreckung der Verlustverrechnung, in Kraft seit 1. Jan. 2028 ([AS 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [BBl 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 #### Art. 208–220
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: fr
-version: 2027-01-01
+version: 2028-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20270101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20270101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20280101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20270101/fr"
 
 (LIFD)
 
-du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2027)
+du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2028)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -123,9 +123,11 @@ Les personnes physiques qui, au regard du droit fiscal, ne sont ni domiciliées 
 
 <sup>2</sup> L’assujettissement fondé sur un rattachement économique est limité aux parties du revenu qui sont imposables en Suisse selon les art. 4 et 5. Au moins le revenu acquis en Suisse doit être imposé.
 
-<sup>3</sup> L’étendue de l’assujettissement pour une entreprise, un établissement stable ou un immeuble est définie, dans les relations internationales, conformément aux règles du droit fédéral concernant l’interdiction de la double imposition intercantonale. Si une entreprise suisse compense, sur la base du droit interne, les pertes subies à l’étranger par un établissement stable avec des revenus obtenus en Suisse et que cet établissement stable enregistre des gains au cours des sept années qui suivent, il faut procéder à une révision de la taxation initiale, à concurrence du montant des gains compensés auprès de l’établissement stable; dans ce cas, la perte subie par l’établissement stable à l’étranger ne devra être prise en considération, a posteriori, que pour déterminer le taux de l’impôt en Suisse. Dans toutes les autres hypothèses, les pertes subies à l’étranger ne doivent être prises en considération en Suisse que lors de la détermination du taux de l’impôt. Les dispositions prévues dans les conventions visant à éviter la double imposition sont réservées.
+<sup>3</sup> L’étendue de l’assujettissement pour une entreprise, un établissement stable ou un immeuble est définie, dans les relations internationales, conformément aux règles du droit fédéral concernant l’interdiction de la double imposition intercantonale. Si une entreprise suisse compense les pertes subies par un établissement stable à l’étranger avec des revenus obtenus en Suisse et que cet établissement stable enregistre des gains au cours des dix années qui suivent, il y a lieu de procéder à une révision de la taxation initiale, à concurrence du montant des gains compensés auprès de l’établissement stable; dans ce cas, la perte subie par l’établissement stable à l’étranger ne devra être prise en considération, a posteriori, que pour déterminer le taux de l’impôt en Suisse.[^6-1] Dans toutes les autres hypothèses, les pertes subies à l’étranger ne doivent être prises en considération en Suisse que lors de la détermination du taux de l’impôt. Les dispositions prévues dans les conventions visant à éviter la double imposition sont réservées.
 
 <sup>4</sup> Les personnes imposables conformément à l’art. 3, al. 5, doivent l’impôt sur leurs revenus qui sont exonérés des impôts sur le revenu à l’étranger en vertu de conventions internationales ou de l’usage.
+
+[^6-1]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### Section 4 Calcul de l’impôt en cas d’assujettissement partiel
 
@@ -492,9 +494,9 @@ Est imposable le rendement de la fortune immobilière, en particulier:
 
 <sup>2</sup> Sont notamment considérés comme revenus provenant d’institutions de prévoyance professionnelle les prestations des caisses de prévoyance, des assurances d’épargne et de groupe ainsi que des polices de libre-passage.
 
-<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/fr/xml/image/image1.png)
+<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20270101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20280101/fr/xml/image/image2.png)
 
 Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d’entretien viager sont imposables à raison de leur part de rendement. Celle-ci se détermine comme suit:
 
@@ -686,11 +688,11 @@ Des provisions peuvent être constituées à la charge du compte de résultats p
 
 **Déduction des pertes**
 
-<sup>1</sup> Les pertes des sept exercices précédant la période fiscale (art. 40) peuvent être déduites pour autant qu’elles n’aient pas pu être prises en considération lors du calcul du revenu imposable des années concernées.[^31-1]
+<sup>1</sup> Les pertes des dix exercices précédant la période fiscale (art. 40) peuvent être déduites dans la mesure où elles n’ont pas pu être prises en considération lors du calcul du revenu imposable des années concernées.[^31-1]
 
 <sup>2</sup> Les pertes des exercices antérieurs qui n’ont pas encore pu être déduites du revenu peuvent être soustraites des prestations de tiers destinées à équilibrer un bilan déficitaire dans le cadre d’un assainissement.
 
-[^31-1]: Nouvelle teneur selon le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^31-1]: Nouvelle teneur selon le ch. I 1 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### Section 4 Déductions liées à la fortune
 
@@ -1066,13 +1068,14 @@ Les personnes morales qui n’ont ni leur siège ni leur administration effectiv
 
 <sup>2</sup> L’assujettissement fondé sur un rattachement économique est limité au bénéfice imposable en Suisse au sens de l’art. 51.[^52-1]
 
-<sup>3</sup> Dans les relations internationales, l’étendue de l’assujettissement d’une entreprise, d’un établissement stable ou d’un immeuble est définie conformément aux règles du droit fédéral concernant l’interdiction de la double imposition intercantonale. Une entreprise suisse peut compenser les pertes d’un établissement stable à l’étranger avec des bénéfices réalisés en Suisse si l’État dans lequel cet établissement est sis n’a pas déjà tenu compte de ces pertes. Si cet établissement réalise des bénéfices au cours des sept années suivantes, l’impôt sera récupéré pendant ces exercices dans la mesure où les reports de pertes sont compensés dans l’État ou il est sis. Les pertes portant sur des immeubles à l’étranger ne seront prises en considération que si un établissement stable est exploité dans le pays concerné. Les dispositions prévues dans les conventions de double imposition sont réservées.[^52-2]
+<sup>3</sup> Dans les relations internationales, l’étendue de l’assujettissement d’une entreprise, d’un établissement stable ou d’un immeuble est définie conformément aux règles du droit fédéral concernant l’interdiction de la double imposition intercantonale. Une entreprise suisse peut compenser les pertes d’un établissement stable à l’étranger avec des bénéfices réalisés en Suisse si l’État dans lequel cet établissement est sis n’a pas déjà tenu compte de ces pertes. Si cet établissement réalise des bénéfices au cours des dix années suivantes, l’impôt sera récupéré pendant ces exercices dans la mesure où les reports de pertes sont compensés dans l’État où il est sis.[^52-2] Les pertes portant sur des immeubles à l’étranger ne seront prises en considération que si un établissement stable est exploité dans le pays concerné. Les dispositions prévues dans les conventions de double imposition sont réservées.[^52-3]
 
-<sup>4</sup> Les contribuables qui ont leur siège et leur administration effective à l’étranger doivent l’impôt sur le bénéfice qu’ils réalisent en Suisse.[^52-3]
+<sup>4</sup> Les contribuables qui ont leur siège et leur administration effective à l’étranger doivent l’impôt sur le bénéfice qu’ils réalisent en Suisse.[^52-4]
 
 [^52-1]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^52-2]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^52-2]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 [^52-3]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
+[^52-4]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
 #### Art. 53
 
@@ -1347,9 +1350,11 @@ Sont exonérés de l’impôt les bénéfices des personnes morales qui poursuiv
 
 **Déduction des pertes**
 
-<sup>1</sup> Les pertes des sept exercices précédant la période fiscale (art. 79) peuvent être déduites du bénéfice net de cette période, à condition qu’elles n’aient pas pu être prises en considération lors du calcul du bénéfice net imposable de ces années.
+<sup>1</sup> Les pertes des dix exercices précédant la période fiscale (art. 79) peuvent être déduites du bénéfice net de cette période dans la mesure où elles n’ont pas pu être prises en considération lors du calcul du bénéfice net imposable des années concernées.[^67-1]
 
 <sup>2</sup> Les pertes des exercices antérieurs qui n’ont pas encore pu être déduites du bénéfice peuvent également être défalquées des prestations qui sont destinées à équilibrer un bilan déficitaire dans le cadre d’un assainissement, à condition que celles-ci ne constituent pas des apports selon l’art. 60, let. a.
+
+[^67-1]: Nouvelle teneur selon le ch. I 1 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 ### Chapitre 2 Calcul de l’impôt
 
@@ -3421,6 +3426,28 @@ Le nouveau droit est applicable au jugement des infractions commises au cours de
 [^205f-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^205f-2]: Introduit par le ch. I 1 de la LF du 26 sept. 2014 (Adaptation aux disp. générales du code pénal), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [FF 2012 2649](https://fedlex.data.admin.ch/eli/fga/2012/403)).
 
+#### Art. 205g
+
+[^205g-1]
+
+[^205g-1]: Entre en vigueur le 1<sup>er</sup> janv. 2029 ([RO 2026 213](https://fedlex.data.admin.ch/eli/oc/2026/213); [FF 2021 1631](https://fedlex.data.admin.ch/eli/fga/2021/1631), [2076](https://fedlex.data.admin.ch/eli/fga/2021/2076)).
+
+#### Art. 205h
+
+[^205h-1]
+
+[^205h-1]: Entre en vigueur ultérieurement ([FF 2025 2033](https://fedlex.data.admin.ch/eli/fga/2025/2033)).
+
+#### Art. 205i
+
+**Disposition transitoire relative à la modification du 19 décembre 2025**[^205i-1]
+
+<sup>1</sup> L’art. 6, al. 3, de l’ancien droit continue de s’appliquer aux pertes qui ont été subies par un établissement stable à l’étranger d’une entreprise suisse avant la période fiscale 2020.
+
+<sup>2</sup> L’art. 31, al. 1, de l’ancien droit continue de s’appliquer aux pertes provenant d’une activité lucrative indépendante qui ont été subies avant la période fiscale 2020.
+
+[^205i-1]: Introduit par le ch. I 1 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
+
 ### Chapitre 2 Personnes morales
 
 #### Art. 206
@@ -3467,6 +3494,16 @@ Le nouveau droit est applicable au jugement des infractions commises au cours de
 <sup>2</sup> La procédure de réclamation et la procédure de recours contre les décisions prononcées avant l’entrée en vigueur de la modification du 20 juin 2014 de la présente loi sont régies par l’ancien droit.
 
 [^207b-1]: Introduit par le ch. I 2 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+
+#### Art. 207c
+
+**Disposition transitoire relative à la modification du 19 décembre 2025**[^207c-1]
+
+<sup>1</sup> L’art. 52, al. 3, de l’ancien droit continue de s’appliquer aux pertes qui ont été subies par un établissement stable à l’étranger d’une entreprise suisse avant la période fiscale 2020.
+
+<sup>2</sup> L’art. 67, al. 1, de l’ancien droit continue de s’appliquer aux pertes qui ont été subies par une personne morale avant la période fiscale 2020.
+
+[^207c-1]: Introduit par le ch. I 1 de la LF du 19 déc. 2025 sur la prolongation du délai de compensation des pertes, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2026 482](https://fedlex.data.admin.ch/eli/oc/2026/482); [FF 2024 3116](https://fedlex.data.admin.ch/eli/fga/2024/3116)).
 
 #### Art. 208 à 220
 
