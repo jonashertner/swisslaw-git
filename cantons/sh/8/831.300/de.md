@@ -3,35 +3,35 @@ canton: SH
 number: "831.300"
 title: Gesetz über Ergänzungsleistungen zur AHV und IV
 language: de
-version: 2016-07-01
-corrected: 2024-06-06
-version_adopted: 2016-01-11
+version: 2027-01-01
+version_adopted: 2025-11-03
 adopted: 2007-06-04
 in_force: 2008-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.300"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/84/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2095/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über Ergänzungsleistungen zur AHV und IV
 
-vom 4. Juni 2007
+Vom 04.06.2007 (Stand 01.01.2027)
 
 Der Kantonsrat Schaffhausen,
 
-gestützt auf das Bundesgesetz über Ergänzungsleistungen zur AHV und IV vom 6. Oktober 2006 <sup>1)</sup>,
+gestützt auf das Bundesgesetz über Ergänzungsleistungen zur AHV und IV vom 6. Oktober 2006[^ingress-1],
 
-beschliesst als Gesetz:
+beschliesst:
 
-### I. Leistungen
+[^ingress-1]: SR [831.30](http://db.clex.ch/link/Bund/831.30/de).
+
+## 1 Leistungen
 
 #### Art. 1
 
 **Grundsatz**
 
-Der Anspruch auf Ergänzungsleistungen für Personen mit Wohnsitz im Kanton Schaffhausen richtet sich nach dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (im folgenden Bundesgesetz) und den nachfolgenden Bestimmungen.
+<sup>1</sup> Der Anspruch auf Ergänzungsleistungen für Personen mit Wohnsitz im Kanton Schaffhausen richtet sich nach dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (im folgenden Bundesgesetz) und den nachfolgenden Bestimmungen.
 
 #### Art. 2
 
@@ -49,17 +49,13 @@ Der Anspruch auf Ergänzungsleistungen für Personen mit Wohnsitz im Kanton Scha
 
 <sup>1</sup> Bei Aufenthalt in einem Heim oder Spital werden die persönlichen Auslagen höchstens bis zu 35 Prozent des Betrages für den allgemeinen Lebensbedarf für Alleinstehende als Ausgabe angerechnet.
 
-Amtsblatt 2007, S. 813
-
 <sup>2</sup> Der Regierungsrat legt die Höhe der anrechenbaren persönlichen Auslagen fest, wobei er Abstufungen nach der Art des Heimes oder Spitales vornehmen kann.
 
 #### Art. 4
 
-<sup>3)</sup>
-
 **Vermögensverzehr**
 
-Für in Heimen oder Spitälern lebende Personen sind 20 Prozent des Reinvermögens als Einnahme anzurechnen.
+<sup>1</sup> Für in Heimen oder Spitälern lebende Personen sind 20 Prozent des Reinvermögens als Einnahme anzurechnen.
 
 #### Art. 5
 
@@ -67,9 +63,9 @@ Für in Heimen oder Spitälern lebende Personen sind 20 Prozent des Reinvermöge
 
 <sup>1</sup> Der Anspruch auf Vergütung der ausgewiesenen Krankheits- und Behinderungskosten gemäss Art. 14 Abs. 1 des Bundesgesetzes besteht im Rahmen einer zweckmässigen und wirtschaftlichen Leistungserbringung. Der Regierungsrat regelt die Einzelheiten.
 
-<sup>2</sup> Als Höchstbeträge für Krankheits- und Behinderungskosten gelten die in Art. 14 Abs. 3 - 5 des Bundesgesetzes festgelegten Ansätze.
+<sup>2</sup> Als Höchstbeträge für Krankheits- und Behinderungskosten gelten die in Art. 14 Abs. 3–5 des Bundesgesetzes festgelegten Ansätze.
 
-### II. Organisation
+## 2 Organisation
 
 #### Art. 6
 
@@ -81,37 +77,37 @@ Für in Heimen oder Spitälern lebende Personen sind 20 Prozent des Reinvermöge
 
 #### Art. 7
 
-**Gemeindezweigstellen**
+**Gemeinden**
 
-<sup>1</sup> Die Gemeindezweigstellen wirken bei der Durchführung dieses Gesetzes mit.
+<sup>1</sup> Die Gemeinden wirken bei der Durchführung dieses Gesetzes mit.
 
-<sup>2</sup> Der Regierungsrat bestimmt die Aufgaben der Gemeindezweigstellen.
+<sup>2</sup> Der Regierungsrat bestimmt die Aufgaben der Gemeinden.
 
 #### Art. 8
 
 **Aufsicht**
 
-Kantonale Aufsichtsbehörde ist der Regierungsrat oder das von ihm als zuständig bezeichnete Departement, soweit nicht die Aufsichtsbehörde des Bundes gemäss Art. 28 des Bundesgesetzes zuständig ist.
+<sup>1</sup> Kantonale Aufsichtsbehörde ist die Verwaltungskommission der Sozialversicherungsanstalt Schaffhausen soweit nicht der Regierungsrat oder das von ihm als zuständig bezeichnete Departement oder die Aufsichtsbehörde des Bundes gemäss Art. 28 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung zuständig ist.
 
 #### Art. 9
 
 **Ergänzendes Recht zur Organisation**
 
-Betreffend Organisation, Aufsicht und Geschäftsführung gelten die Bestimmungen des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung sinngemäss.
+<sup>1</sup> Betreffend Organisation, Aufsicht und Geschäftsführung gelten die Bestimmungen des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung sinngemäss.
 
-### III. Finanzierung
+## 3 Finanzierung
 
 #### Art. 10
 
 **Ergänzungsleistungen**
 
-Der Kanton trägt die Kosten, soweit sie nicht vom Bund vergütet werden.
+<sup>1</sup> Der Kanton trägt die Kosten, soweit sie nicht vom Bund vergütet werden.
 
 #### Art. 11
 
 **Geldmittel**
 
-Der Kanton überweist der AHV-Ausgleichskasse rechtzeitig die zur Auszahlung der Ergänzungsleistungen erforderlichen Mittel.
+<sup>1</sup> Der Kanton überweist der AHV-Ausgleichskasse rechtzeitig die zur Auszahlung der Ergänzungsleistungen erforderlichen Mittel.
 
 #### Art. 12
 
@@ -123,33 +119,33 @@ Der Kanton überweist der AHV-Ausgleichskasse rechtzeitig die zur Auszahlung der
 
 <sup>3</sup> Der Regierungsrat oder das von ihm bezeichnete Departement vereinbart mit der AHV-Ausgleichskasse die Art und Weise der Abrechnung über die Verwaltungskosten.
 
-### IV. Verfahren
+## 4 Verfahren
 
 #### Art. 13
 
 **Information**
 
-Die AHV-Ausgleichskasse sorgt unter Mitwirkung der Gemeinden für eine angemessene Information der Bezugsberechtigten und der Bevölkerung.
+<sup>1</sup> Die AHV-Ausgleichskasse sorgt unter Mitwirkung der Gemeinden für eine angemessene Information der Bezugsberechtigten und der Bevölkerung.
 
 #### Art. 14
 
 **Ergänzendes Recht**
 
-Soweit dieses Gesetz keine Regelung enthält, finden die Bestimmungen des Bundesgesetzes sowie des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) und des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) sinngemäss Anwendung.
+<sup>1</sup> Soweit dieses Gesetz keine Regelung enthält, finden die Bestimmungen des Bundesgesetzes sowie des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) und des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) sinngemäss Anwendung.
 
 #### Art. 15
 
 **Rechtsmittel**
 
-Es gelten die Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG).
+<sup>1</sup> Es gelten die Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG).
 
-### V. Schlussbestimmungen
+## 5 Schlussbestimmungen
 
 #### Art. 16
 
 **Aufhebung bisherigen Rechts**
 
-Das Gesetz über Ergänzungsleistungen zur AHV und IV vom 22. Juni 1998 wird aufgehoben.
+<sup>1</sup> Das Gesetz über Ergänzungsleistungen zur AHV und IV vom 22. Juni 1998 wird aufgehoben.
 
 #### Art. 17
 
@@ -159,14 +155,9 @@ Das Gesetz über Ergänzungsleistungen zur AHV und IV vom 22. Juni 1998 wird auf
 
 <sup>2</sup> Es untersteht im Rahmen von Art. 4 des Gesetzes über die Einführung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen im Kanton Schaffhausen (NFA-Gesetz) dem Referendum.
 
-<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^17-1][^17-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
+[^17-1]: Amtsblatt 2007, S. 813.
+[^17-2]: Vom Eidgenössischen Departement des Innern genehmigt am 16. Januar 2009.
 
-- 1) Bundesblatt Nr. 41 vom 17. Oktober 2006, S. 8389 ff.
-
-- 2) Amtsblatt 2007, S. 813.
-
-- 3) Fassung gemäss G vom 11. Januar 2016, in Kraft getreten am 1. Juli 2016 (Amtsblatt 2016, S. 62, S. 817); vom Eidgenössischen Departement des Innern genehmigt am 13. Juni 2016.
-
-Vom Eidgenössischen Departement des Innern genehmigt am 16. Januar 2009.
+Abl. 2007, S. 813
