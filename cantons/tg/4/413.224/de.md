@@ -2,23 +2,25 @@
 canton: TG
 number: "413.224"
 title: Verordnung über die Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
+short: PMSV
 language: de
-version: 2022-09-01
-valid_until: 2028-07-31
-version_adopted: 2022-08-30
+version: 2028-08-01
+version_adopted: 2025-12-09
 adopted: 1996-10-22
 in_force: 1997-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.224"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2580/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2968/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
 
-RRV Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
+PMSV
 
-vom 22.10.1996 (Stand 01.09.2022)
+(PMSV)
+
+vom 22.10.1996 (Stand 01.08.2028)
 
 ## 1. Ausbildung
 
@@ -40,28 +42,26 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 <sup>1</sup> Für die Promotion massgebend sind die Beurteilungen in den folgenden Fächern:
 
-- 1\. Muttersprache: Deutsch
-- 2\. Erste Fremdsprache: Französisch oder Italienisch
-- 3\. Zweite Fremdsprache: Englisch oder Französisch oder Italienisch
+- 1\. Deutsch
+- 2\. Französisch oder Italienisch
+- 3\. Englisch
 - 4\. Mathematik
 - 5\. Biologie
 - 6\. Chemie
 - 7\. Physik
 - 8\. Geschichte
 - 9\. Geographie
-- 10\. Bildnerisches Gestalten (Zeichnen und Werken)
-- 11\. Musik (Musik und Instrument)
+- 10\.–11. …
 - 12\. Pädagogik/Psychologie
 - 13\. Philosophie
-- 14\. Instrument dritte Klasse
+- 14\. …
 - 15\. Wirtschaft und Recht
 - 16\. Sport
-- 17\. Allgemeine Didaktik
-- 18\. Praktikum dritte Klasse inklusive Tagespraxis
-- 19\. Praktikum vierte Klasse
+- 17\.–19. …
 - 20\. Informatik
 - 21\. Schwerpunktfach
 - 22\. Ergänzungsfach
+- 23\. die zusätzlichen Promotionsfächer des jeweiligen Ausbildungsgangs
 
 <sup>2</sup> …
 
@@ -91,19 +91,21 @@ vom 22.10.1996 (Stand 01.09.2022)
 <sup>1</sup> Eine Schülerin oder ein Schüler wird definitiv befördert, wenn
 
 - 1\. in den Promotionsfächern gemäss § 2 Abs. 1 nicht mehr als drei Noten unter 4 erteilt wurden, und
-- 2\. in den Promotionsfächern gemäss § 2 Abs. 1 die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben. Noten über 4 werden nur in den Fächern gemäss § 2 Abs. 1 Ziff. 1 bis Ziff. 15 und Ziff. 20 bis Ziff. 22 berücksichtigt.
+- 2\. in den Promotionsfächern gemäss § 2 Abs. 1 die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben.
+
+<sup>2</sup> Die Sportnote gemäss § 2 Abs. 1 Ziff. 16 ist nur in der ersten und zweiten Klasse promotionswirksam.
 
 #### § 5
 
 **Provisorische Promotion**
 
-<sup>1</sup> Wer die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch befördert, sofern die Schülerin oder der Schüler für das vorhergehende Semester definitiv befördert wurde und an der Pädagogischen Maturitätsschule nicht mehr als einmal provisorisch befördert worden ist.
+<sup>1</sup> Wer die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch befördert, sofern sie oder er für das vorhergehende Semester definitiv befördert wurde und an einer Mittelschule nicht mehr als einmal provisorisch befördert worden ist.
 
 #### § 6
 
 **Nichtpromotion, Repetition**
 
-<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zuletzt besuchte Klasse wiederholen. An der Pädagogischen Maturitätsschule kann nur einmal repetiert werden.
+<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zwei zuletzt besuchten Semester wiederholen. An einer Mittelschule kann nur einmal repetiert werden.
 
 <sup>2</sup> Eine Schülerin oder ein Schüler der ersten Klasse wird am Ende des ersten Semesters von der Schule gewiesen, wenn in den für die Promotion massgebenden Fächern mehr als vier Noten unter 4 vorliegen. Eine Repetition ist nicht möglich.
 
@@ -127,7 +129,7 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 <sup>1</sup> Die Maturitätsprüfung wird am Ende der vierten Klasse durchgeführt.
 
-<sup>2</sup> Die Prüfung steht unter der Leitung des Rektorats und wird in der Regel von Lehrpersonen abgenommen, welche die Schülerinnen und Schüler in den Prüfungsfächern unterrichtet haben.
+<sup>2</sup> Die Prüfung steht unter der Leitung der Rektorin oder des Rektors und wird in der Regel von Lehrpersonen abgenommen, die die Schülerinnen und Schüler in den Prüfungsfächern unterrichtet haben.
 
 <sup>3</sup> Das Amt für Mittel- und Hochschulen ernennt auf Vorschlag der Schulleitung die Expertinnen und Experten. Diese überwachen die mündlichen Prüfungen und wirken bei der Notengebung mit.
 
@@ -135,7 +137,7 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 **Prüfungskommission**
 
-<sup>1</sup> Die Prüfungskommission besteht aus den Hauptlehrpersonen, den an den Prüfungen beteiligten Lehrbeauftragten sowie den Expertinnen und Experten.
+<sup>1</sup> Die Prüfungskommission besteht aus den Hauptlehrpersonen, den übrigen an den Maturitätsfächern beteiligten Lehrpersonen sowie den Expertinnen und Experten.
 
 <sup>2</sup> Den Vorsitz führt die Rektorin oder der Rektor.
 
@@ -145,32 +147,51 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 **Maturitätsfächer**
 
-<sup>1</sup> Zu den Maturitätsfächern gehören die Grundlagenfächer, ein Schwerpunktfach, die Ergänzungsfächer und die Maturaarbeit.
+<sup>1</sup> Zu den Maturitätsfächern gehören die Grundlagenfächer, das Schwerpunktfach, das Ergänzungsfach und die Maturitätsarbeit.
 
 <sup>2</sup> Grundlagenfächer sind:
 
-- 1\. Muttersprache: Deutsch
-- 2\. Erste Fremdsprache: Französisch oder Italienisch
-- 3\. Zweite Fremdsprache: Englisch oder Französisch oder Italienisch
+- 1\. Deutsch
+- 2\. Französisch oder Italienisch
+- 3\. Englisch
 - 4\. Mathematik
+- 4a. Informatik
 - 5\. Biologie
 - 6\. Chemie
 - 7\. Physik
 - 8\. Geschichte
 - 9\. Geographie
-- 10\. Bildnerisches Gestalten (Zeichnen, Werken) und Musik (Musik und Instrument in der ersten und zweiten Klasse)
+- 9a. Wirtschaft und Recht
+- 10\. bildende Kunst und Musik
 
-<sup>3</sup> Schwerpunktfach ist entweder Bildnerisches Gestalten und Musik (zwei Fächer aus den Fächern Zeichnen, Werken, Musik und Instrument) oder Pädagogik/Psychologie und Philosophie.
+<sup>3</sup> Mögliche Fächer für das Schwerpunktfach sind:
 
-<sup>4</sup> Ergänzungsfächer sind:
+- 1\. Zeichnen
+- 2\. Werken
+- 3\. Musik
+- 4\. Pädagogik/Psychologie
+- 5\. Philosophie
+- 6\. Theater
 
-- 1\. Bildnerisches Gestalten (Zeichnen oder Werken)
+<sup>3<sup>bis</sup></sup> Das Schwerpunktfach kann interdisziplinär aus den Fächern gemäss Abs. 3 zusammengesetzt sein und entsprechend bezeichnet werden.
+
+<sup>4</sup> Mögliche Fächer für das Ergänzungsfach sind:
+
+- 1\. Zeichnen
+- 1a. Werken
 - 2\. Musik (Musik und Instrument)
 - 3\. Pädagogik/Psychologie
 - 4\. Sport
 - 5\. Physik
+- 6\. Biologie
+- 7\. Chemie
+- 8\. Geographie
+- 9\. Geschichte
+- 10\. Theater
 
-<sup>5</sup> Wird als Schwerpunkt nicht Pädagogik/Psychologie und Philosophie gewählt, muss Pädagogik/Psychologie als Ergänzungsfach gewählt werden.
+<sup>4<sup>bis</sup></sup> Das Ergänzungsfach kann interdisziplinär aus den Fächern gemäss Abs. 4 zusammengesetzt und entsprechend bezeichnet werden. Die Fächer gemäss § 11 Abs. 4 Ziff. 5 bis Ziff. 8 können ausschliesslich interdisziplinär angeboten werden.
+
+<sup>5</sup> …
 
 #### § 12
 
@@ -182,9 +203,9 @@ vom 22.10.1996 (Stand 01.09.2022)
 - 2\. Französisch oder Italienisch — schriftlich und mündlich
 - 3\. Mathematik — schriftlich und mündlich
 - 4\. Biologie oder Physik — schriftlich und mündlich
-- 5\. Schwerpunktfach — schriftlich oder praktisch
+- 5\. Schwerpunktfach — schriftlich und mündlich
 
-<sup>2</sup> Die Schülerinnen und Schüler können wählen, ob sie im Schwerpunktfach in Zeichnen oder Werken oder Musik/Instrument beziehungsweise in Pädagogik/Psychologie oder Philosophie geprüft werden.
+<sup>2</sup> …
 
 <sup>3</sup> Die Rektorin oder der Rektor entscheidet nach Absprache mit den Fachgruppen, ob die Schülerinnen und Schüler in Biologie oder Physik geprüft werden.
 
@@ -192,7 +213,7 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 **Prüfungsdauer**
 
-<sup>1</sup> Die schriftlichen oder praktischen Prüfungen dauern in jedem Fach und in jeder Fächergruppe mindestens zwei, höchstens aber vier Stunden. Das Rektorat entscheidet nach Anhören der Fachlehrpersonen über Art und Dauer in den einzelnen Fächern oder Fächergruppen.
+<sup>1</sup> Die schriftlichen Prüfungen dauern in jedem Fach und in jeder Fächergruppe mindestens zwei, höchstens aber vier Stunden. Die Rektorin oder der Rektor entscheidet nach Anhören der Fachlehrpersonen über Art und Dauer in den einzelnen Fächern oder Fächergruppen.
 
 <sup>2</sup> Die mündlichen Prüfungen dauern pro Schülerin oder Schüler und Fach oder Fächergruppe je eine Viertelstunde.
 
@@ -200,7 +221,7 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 **Hilfsmittel**
 
-<sup>1</sup> Das Rektorat bezeichnet auf Antrag der Fachlehrpersonen die erlaubten Hilfsmittel.
+<sup>1</sup> Die Rektorin oder der Rektor bezeichnet auf Antrag der Fachlehrpersonen die erlaubten Hilfsmittel.
 
 #### § 15
 
@@ -214,9 +235,7 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 <sup>1</sup> Die Erfahrungsnote ist die Zeugnisnote des letzten Ausbildungsjahrs im betreffenden Fach beziehungsweise in der betreffenden Fächergruppe gemäss § 11.
 
-<sup>2</sup> Die Erfahrungsnote im Schwerpunktfach errechnet sich aus dem Durchschnitt der letzten Zeugnisnoten der Fächer Zeichnen, Werken, Musik und Instrument beziehungsweise Pädagogik/Psychologie und Philosophie.
-
-<sup>3</sup> Die Erfahrungsnote im Ergänzungsfach ist die letzte Zeugnisnote im Fach Zeichnen, Werken, Musik/Instrument, Pädagogik/Psychologie, Sport oder Physik.
+<sup>2–3</sup> …
 
 #### § 17
 
@@ -224,11 +243,11 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 <sup>1</sup> In den Prüfungsfächern ist die Maturitätsnote der auf halbe Noten gerundete Durchschnitt von Erfahrungsnote und Prüfungsnote. In den übrigen Fächern und Fächergruppen ist die auf halbe Noten gerundete Erfahrungsnote auch Maturitätsnote.
 
-<sup>2</sup> Die Maturitätsnote im Grundlagenfach Bildnerisches Gestalten und Musik errechnet sich aus dem Durchschnitt der Zeugnisnoten dieser Fächergruppe in der zweiten Klasse.
+<sup>2</sup> Die Maturitätsnote im Grundlagenfach bildende Kunst und Musik errechnet sich aus dem Durchschnitt der Zeugnisnoten dieser Fächergruppe in der zweiten Klasse.
 
 <sup>3</sup> Zwischenrundungen bei Erfahrungs- und Prüfungsnoten sind ausgeschlossen.
 
-<sup>4</sup> Die Note der Maturaarbeit wird aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation erteilt.
+<sup>4</sup> Die Maturitätsnote der Maturitätsarbeit wird aufgrund der schriftlichen Arbeit und der mündlichen Präsentation festgelegt. Die Schule bestimmt die Gewichtung der einzelnen Teile.
 
 #### § 18
 
@@ -247,7 +266,7 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 <sup>1</sup> Wer die Prüfung nicht bestanden hat, kann das letzte Schuljahr und anschliessend die Prüfung einmal wiederholen.
 
-<sup>2</sup> Die Maturaarbeit kann freiwillig mit einem neuen Thema wiederholt werden. Es zählt in diesem Fall die Note der zweiten Arbeit.
+<sup>2</sup> Die Maturitätsarbeit kann freiwillig mit einem neuen Thema wiederholt werden. Es zählt in diesem Fall die Note der zweiten Arbeit.
 
 #### § 20
 
@@ -259,21 +278,20 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 **Maturitätszeugnis**
 
-<sup>1</sup> Form und Inhalt des Maturitätszeugnisses richten sich nach Art. 20 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar 1995 (MAR) in der Fassung vom 21. Juni 2018[^21-1].
+<sup>1</sup> Form und Inhalt des Maturitätszeugnisses richten sich nach Art. 27 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 22. Juni 2023 (MAR) [^21-1].
 
 <sup>2</sup> Zusätzlich werden die Noten für folgende Fächer eingetragen:
 
-- 1\. Wirtschaft und Recht
-- 2\. Informatik
+- 1\.–2. …
 - 3\. Sport
 
 <sup>2<sup>bis</sup></sup> Der Konvent kann weitere Fächer bestimmen, bei denen Noten eingetragen werden.
 
-<sup>3</sup> Das Thema der Maturaarbeit wird aufgeführt.
+<sup>3</sup> …
 
-[^21-1]: Rechtssammlung EDK Nr. 4.2.1.1; [http://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf](http://edudoc.ch/record/38112/files/VO_MAR_d.pdf).
+[^21-1]: [https://edudoc.ch/record/234273/files/Anerkennungsreglement\_gymnasiale-Maturitaet\_2023\_d.pdf](https://edudoc.ch/record/234273/files/Anerkennungsreglement_gymnasiale-Maturitaet_2023_d.pdf) (Rechtssammlung EDK Nr. 4.2.1.1)
 
-## 3. Berufliche Grundausbildung
+## 3. Besondere Bestimmungen für den Ausbildungsgang mit Berufsbildung (P-Klassen)
 
 #### § 21a
 
@@ -318,9 +336,9 @@ vom 22.10.1996 (Stand 01.09.2022)
 - 3\. Einschätzung durch eine Mentorin oder einen Mentor
 - 4\. Einschätzung durch die Fachlehrpersonen, die die Schülerin oder den Schüler unterrichten
 
-<sup>2</sup> Das Prorektorat Berufsbildung koordiniert die Standortbestimmung und wertet sie aus.
+<sup>2</sup> Die Prorektorin oder der Prorektor Berufsbildung koordiniert die Standortbestimmung und wertet sie aus.
 
-<sup>3</sup> Ergeben sich während der Abklärung Zweifel an der Berufseignung oder steht die Nichteignung zumindest in Teilen fest, kann die Schulleitung Massnahmen anordnen. Namentlich kann sie das Absolvieren praktischer Übungen oder Massnahmen bezüglich der Sprachkompetenz Deutsch sowie die Wiederholung eines Praktikums im Zeitraum zwischen Abschluss der Matura und Studienbeginn an der PHTG verlangen.
+<sup>3</sup> Ergeben sich während der Abklärung Zweifel an der Berufseignung oder steht die Nichteignung zumindest in Teilen fest, kann die Schulleitung Massnahmen anordnen. Namentlich kann sie das Absolvieren praktischer Übungen oder Massnahmen bezüglich der Sprachkompetenz Deutsch sowie die Wiederholung eines Praktikums im Zeitraum zwischen Abschluss der Maturität und Studienbeginn an der PHTG verlangen.
 
 <sup>4</sup> Es können vertiefte Abklärungen getroffen und weitere Beurteilungspersonen beigezogen werden. Die Schülerin oder der Schüler ist zur Mitarbeit verpflichtet.
 
@@ -338,34 +356,35 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 <sup>3</sup> Lassen fehlende Ausbildungsteile eine vollständige Beurteilung der Berufseignung nicht zu, kann der Entscheid bis zum Nachweis des erfolgreichen Absolvierens der Teile ausgesetzt werden.
 
-## 4. Besondere Bestimmungen für den Kunst- und Sportlehrgang
+#### § 21e
+
+**Promotionsfächer**
+
+<sup>1</sup> Zusätzliche Promotionsfächer des Ausbildungsgangs mit Berufsbildung sind:
+
+- 1\. bildende Kunst (Zeichnen und Werken)
+- 2\. Musik (Musik und Instrument)
+
+#### § 21f
+
+**Maturiätsfächer**
+
+<sup>1</sup> Das Fach Pädagogik/Psychologie muss entweder als Schwerpunktfach oder als Ergänzungsfach gewählt werden.
+
+## 4. Besondere Bestimmungen für den Kunst- und Sportlehrgang (K-Klassen)
 
 #### § 22
 
 **Promotionsfächer**
 
-<sup>1</sup> Für die Promotion massgebend sind die Beurteilungen in den folgenden Fächern:
+<sup>1</sup> Zusätzliche Promotionsfächer des Kunst- und Sportlehrgangs sind:
 
-- 1\. Muttersprache: Deutsch
-- 2\. Erste Fremdsprache: Französisch oder Italienisch
-- 3\. Zweite Fremdsprache: Englisch oder Französisch oder Italienisch
-- 4\. Mathematik
-- 5\. Biologie
-- 6\. Chemie
-- 7\. Physik
-- 8\. Geschichte
-- 9\. Geographie
-- 10\. Bildnerisches Gestalten
+- 1\.–9. …
+- 10\. bildende Kunst
 - 11\. Musik
-- 12\. Pädagogik/Psychologie
-- 13\. Philosophie
-- 14\. …
-- 15\. Wirtschaft und Recht
-- 16\. Informatik
-- 17\. Sport
+- 12\.–17. …
 - 18\. Spezialgebiet
-- 19\. Schwerpunktfach
-- 20\. Ergänzungsfach
+- 19\.–20. …
 
 #### § 23
 
@@ -379,31 +398,23 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 <sup>1</sup> Wer den Spezialunterricht an einer Partnerinstitution wegen gescheiterter Promotion oder aus anderen Gründen nach Massgabe ihrer Bestimmungen nicht mehr besuchen darf, muss die Ausbildung im Kunst- und Sportlehrgang abbrechen.
 
-<sup>2</sup> Ein Übertritt in den regulären Unterricht der Pädagogischen Maturitätsschule ist möglich, wenn die Voraussetzungen nach dieser Verordnung erfüllt sind.
+<sup>2</sup> Ein Übertritt in den Ausbildungsgang mit Berufsbildung (P-Klasse) der Pädagogischen Maturitätsschule ist möglich, wenn die Voraussetzungen nach dieser Verordnung erfüllt sind.
 
 #### § 25
 
-**Schwerpunktfächer**
+**Schwerpunktfach**
 
-<sup>1</sup> In Abweichung zu § 11 Abs. 3 sind die Schwerpunktfächer entweder Musik oder Bildnerisches Gestalten oder Pädagogik/Psychologie und Philosophie, sofern das Spezialgebiet Sport ist.
+<sup>1</sup> In Abweichung zu § 11 Abs. 3 entspricht das Schwerpunktfach nach Möglichkeit dem Spezialgebiet.
 
 #### § 25a
 
-**Ergänzungsfächer**
+**Ergänzungsfach**
 
-<sup>1</sup> In Abweichung zu § 11 Abs. 4 ist auch Philosophie als Ergänzungsfach möglich.
+<sup>1</sup> In Abweichung zu § 11 Abs. 4 ist Philosophie als Ergänzungsfach möglich.
 
-#### § 26
+#### § 26–27
 
-**Prüfungsfächer**
-
-<sup>1</sup> In Abweichung zu § 12 Abs. 2 können die Schülerinnen und Schüler mit dem Spezialgebiet Sport wählen, ob sie im Schwerpunktfach in Pädagogik/Psychologie oder Philosophie geprüft werden.
-
-#### § 27
-
-**Erfahrungsnote**
-
-<sup>1</sup> Für die Schülerinnen und Schüler des Kunst- und Sportlehrgangs mit den Spezialgebieten Musik oder Bildnerisches Gestalten ist die Erfahrungsnote im Schwerpunktfach die letzte Zeugnisnote des entsprechenden Fachs.
+**…**
 
 #### § 28
 
@@ -413,21 +424,11 @@ vom 22.10.1996 (Stand 01.09.2022)
 
 #### § 29
 
-**Berufliche Grundausbildung**
-
-<sup>1</sup> Die Bestimmungen der § 21a bis 21d gelten nicht für die Absolventinnen und Absolventen des Kunst- und Sportlehrgangs.
+**…**
 
 ## 5. Übergangs- und Schlussbestimmungen
 
-#### § 30
-
-**Übergangsbestimmung**
-
-<sup>1</sup> Die Änderungen von § 1, § 2, § 4, § 11 Abs. 3, § 12 Abs. 1, § 21 Abs. 2 und Abs. 2<sup>bis</sup>, § 21a Abs. 2, § 21c Abs. 2, § 21d Abs. 2 und § 22 sowie der Anhänge gelten für alle ab Schuljahr 2020/2021 ins erste Semester eintretenden Schülerinnen und Schüler.
-
-<sup>2–3</sup> …
-
-#### § 31
+#### § 30–31
 
 **…**
 
