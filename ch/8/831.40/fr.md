@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieill
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: fr
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20250101-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20250101/fr"
 
 (LPP)
 
-du 25 juin 1982 (État le 1<sup>er</sup> janvier 2025)
+du 25 juin 1982 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -47,7 +47,7 @@ arrête:
 
 **Assurance obligatoire des salariés et des chômeurs**[^2-1]
 
-<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à 22 680 francs[^2-2] (art. 7).
+<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à 23 040 francs[^2-2] (art. 7).
 
 <sup>2</sup> Si le salarié est occupé par un employeur pendant moins d’une année, est considéré comme salaire annuel celui qu’il obtiendrait s’il était occupé toute l’année.
 
@@ -56,7 +56,7 @@ arrête:
 <sup>4</sup> Le Conseil fédéral règle l’assujettissement à l’assurance des salariés qui exercent des professions où les engagements changent fréquemment ou sont temporaires. Il définit les catégories de salariés qui, pour des motifs particuliers, ne sont pas soumis à l’assurance obligatoire.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^2-2]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^2-2]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 3
 
@@ -107,11 +107,11 @@ La deuxième partie de la présente loi fixe des exigences minimales.
 
 **Salaire et âge minima**
 
-<sup>1</sup> Les salariés auxquels un même employeur verse un salaire annuel supérieur à 22 680 francs[^7-1] sont soumis à l’assurance obligatoire pour les risques de décès et d’invalidité dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 17 ans et, pour la vieillesse, dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 24 ans.[^7-2]
+<sup>1</sup> Les salariés auxquels un même employeur verse un salaire annuel supérieur à 23 040 francs[^7-1] sont soumis à l’assurance obligatoire pour les risques de décès et d’invalidité dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 17 ans et, pour la vieillesse, dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 24 ans.[^7-2]
 
 <sup>2</sup> Est pris en considération le salaire déterminant au sens de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-3]. Le Conseil fédéral peut admettre des dérogations.
 
-[^7-1]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^7-1]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^7-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
@@ -119,15 +119,15 @@ La deuxième partie de la présente loi fixe des exigences minimales.
 
 **Salaire coordonné**
 
-<sup>1</sup> La partie du salaire annuel comprise entre 26 460 et 90 720 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
+<sup>1</sup> La partie du salaire annuel comprise entre 26 880 et 92 160 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
 
-<sup>2</sup> Si le salaire coordonné n’atteint pas 3780 francs[^8-3] par an, il est arrondi à ce montant.[^8-4]
+<sup>2</sup> Si le salaire coordonné n’atteint pas 3840 francs[^8-3] par an, il est arrondi à ce montant.[^8-4]
 
 <sup>3</sup> Si le salaire annuel diminue temporairement par suite de maladie, d’accident, de chômage, de parentalité, d’adoption ou d’autres circonstances semblables, le salaire coordonné est maintenu au moins pour la durée de l’obligation légale de l’employeur de verser le salaire selon l’art. 324*a* du code des obligations (CO)[^8-5], du congé de maternité au sens de l’art. 329*f* CO, du congé de l’autre parent au sens des art. 329*g* et 329*g*<sup>bis</sup> CO, du congé de prise en charge au sens de l’art. 329*i* CO ou du congé d’adoption prévu à l’art. 329*j* CO.[^8-6] La personne assurée peut toutefois demander la réduction du salaire coordonné.[^8-7]
 
-[^8-1]: Montants adaptés selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^8-1]: Montants adaptés selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^8-3]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^8-3]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^8-4]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^8-6]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
@@ -979,7 +979,7 @@ Lorsque l’assurance obligatoire couvre la vieillesse, le décès et l’invali
 
 **Activité lucrative au service de plusieurs employeurs**
 
-<sup>1</sup> Tout salarié au service de plusieurs employeurs, dont le salaire annuel total dépasse 22 680 francs[^46-1], peut, s’il n’est pas déjà obligatoirement assuré, se faire assurer à titre facultatif auprès de l’institution supplétive ou de l’institution de prévoyance à laquelle est affilié l’un de ses employeurs, si les dispositions réglementaires de celle-ci le prévoient.[^46-2]
+<sup>1</sup> Tout salarié au service de plusieurs employeurs, dont le salaire annuel total dépasse 23 040 francs[^46-1], peut, s’il n’est pas déjà obligatoirement assuré, se faire assurer à titre facultatif auprès de l’institution supplétive ou de l’institution de prévoyance à laquelle est affilié l’un de ses employeurs, si les dispositions réglementaires de celle-ci le prévoient.[^46-2]
 
 <sup>2</sup> Lorsqu’il est déjà assuré obligatoirement auprès d’une institution de prévoyance, le salarié peut contracter auprès d’elle, si les dispositions réglementaires ne s’y opposent pas, ou auprès de l’institution supplétive, une assurance complémentaire pour le salaire versé par les autres employeurs.
 
@@ -987,7 +987,7 @@ Lorsque l’assurance obligatoire couvre la vieillesse, le décès et l’invali
 
 <sup>4</sup> À la demande du salarié, l’institution de prévoyance se chargera de recouvrer les créances auprès des employeurs.
 
-[^46-1]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^46-1]: Montant adapté selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 2 oct. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^46-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 47

@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sulla previdenza professionale per la 
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20250101-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20270101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20250101/it"
 
 (LPP)
 
-del 25 giugno 1982 (Stato 1° gennaio 2025)
+del 25 giugno 1982 (Stato 1° gennaio 2027)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visto l’articolo 112 della Costituzione federale[^ingress-1];[^ingress-2] vist
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
-[^ingress-2]: Nuovo testo giusta il n. I 11 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-2]: Nuovo testo giusta la cifra I n. 11 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)
 
 ## Parte prima: Scopo e campo d’applicazione
@@ -41,13 +41,13 @@ decreta:
 
 <sup>3</sup> Il Consiglio federale precisa le nozioni di adeguatezza, collettività, parità di trattamento e pianificazione previdenziale, nonché il principio d’assicurazione. Può stabilire un’età minima per il pensionamento anticipato.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 2
 
 **Assicurazione obbligatoria dei lavoratori dipendenti e dei disoccupati**[^2-1]
 
-<sup>1</sup> I lavoratori che hanno più di 17 anni e riscuotono da un datore di lavoro un salario annuo di oltre 22 680 franchi[^2-2] (art. 7) sottostanno all’assicurazione obbligatoria.
+<sup>1</sup> I lavoratori che hanno più di 17 anni e riscuotono da un datore di lavoro un salario annuo di oltre 23 040 franchi[^2-2] (art. 7) sottostanno all’assicurazione obbligatoria.
 
 <sup>2</sup> Se il lavoratore è occupato presso un datore di lavoro per un periodo inferiore a un anno, è considerato salario annuo quello che avrebbe percepito per un anno intero d’occupazione.
 
@@ -55,8 +55,8 @@ decreta:
 
 <sup>4</sup> Il Consiglio federale disciplina l’obbligo assicurativo dei lavoratori che esercitano professioni in cui sono usuali frequenti cambiamenti di datore di lavoro o rapporti d’impiego di durata limitata. Determina le categorie di lavoratori che non sottostanno, per motivi particolari, all’assicurazione obbligatoria.
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^2-2]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^2-2]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 3
 
@@ -76,8 +76,8 @@ Associazioni professionali di indipendenti, se riuniscono la maggioranza delle p
 
 <sup>4</sup> I contributi e i conferimenti degli indipendenti all’istituto di previdenza devono essere devoluti durevolmente alla previdenza professionale.[^4-2]
 
-[^4-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^4-2]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^4-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^4-2]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 5
 
@@ -87,7 +87,7 @@ Associazioni professionali di indipendenti, se riuniscono la maggioranza delle p
 
 <sup>2</sup> Essa s’applica agli istituti di previdenza registrati ai sensi dell’articolo 48. Gli articoli 56 capoverso 1 lettere c, d e i e 59 capoverso 2, come pure le disposizioni relative alla sicurezza finanziaria (art. 65 cpv. 1, 2 e 2<sup>bis</sup>, 65*c*, 65*d* cpv. 1, 2 e 3 lett. a, secondo periodo, e b, 65*e*, 67, 71 e 72*a*–72*g*) si applicano anche agli istituti di previdenza non registrati soggetti alla legge del 17 dicembre 1993[^5-2] sul libero passaggio (LFLP).[^5-3]
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^5-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^5-3]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
@@ -107,28 +107,28 @@ La parte seconda della presente legge stabilisce esigenze minime.
 
 **Salario minimo ed età**
 
-<sup>1</sup> I lavoratori che riscuotono da un datore di lavoro un salario annuo di oltre 22 680 franchi[^7-1] sottostanno all’assicurazione obbligatoria per i rischi morte e invalidità dal 1° gennaio dopo che hanno compiuto il 17° anno di età, e per la vecchiaia dal 1° gennaio dopo che hanno compiuto il 24° anno di età.[^7-2]
+<sup>1</sup> I lavoratori che riscuotono da un datore di lavoro un salario annuo di oltre 23 040 franchi[^7-1] sottostanno all’assicurazione obbligatoria per i rischi morte e invalidità dal 1° gennaio dopo che hanno compiuto il 17° anno di età, e per la vecchiaia dal 1° gennaio dopo che hanno compiuto il 24° anno di età.[^7-2]
 
 <sup>2</sup> È tenuto conto del salario determinante giusta la legge federale del 20 dicembre 1946[^7-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS). Il Consiglio federale può consentire deroghe.
 
-[^7-1]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
-[^7-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^7-1]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
+[^7-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^7-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
 **Salario coordinato**
 
-<sup>1</sup> Dev’essere assicurata la parte del salario annuo da 26 460 sino a 90 720 franchi[^8-1]. Tale parte è detta salario coordinato.[^8-2]
+<sup>1</sup> Dev’essere assicurata la parte del salario annuo da 26 880 sino a 92 160 franchi[^8-1]. Tale parte è detta salario coordinato.[^8-2]
 
-<sup>2</sup> Se ammonta a meno di 3780 franchi[^8-3] all’anno, il salario coordinato dev’essere arrotondato a tale importo.[^8-4]
+<sup>2</sup> Se ammonta a meno di 3840 franchi[^8-3] all’anno, il salario coordinato dev’essere arrotondato a tale importo.[^8-4]
 
 <sup>3</sup> Quando il salario annuo diminuisce temporaneamente per malattia, infortunio, disoccupazione, genitorialità, adozione o motivi analoghi, il salario coordinato vigente permane valido almeno fintanto che sussista l’obbligo del datore di lavoro di pagare il salario giusta l’articolo 324*a* del Codice delle obbligazioni (CO)[^8-5] oppure almeno per la durata del congedo di maternità giusta l’articolo 329*f* CO, del congedo per l’altro genitore giusta gli articoli 329*g* e 329*g*<sup>bis</sup> CO, del congedo di assistenza giusta l’articolo 329*i* CO o del congedo di adozione giusta l’articolo 329*j* CO.[^8-6] L’assicurato può tuttavia chiedere la riduzione del salario coordinato.[^8-7]
 
-[^8-1]: Nuovi importi giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
-[^8-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^8-3]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
-[^8-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^8-1]: Nuovi importi giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
+[^8-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^8-3]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
+[^8-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^8-6]: Nuovo testo giusta l’all. n. 2 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^8-7]: Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
@@ -158,8 +158,8 @@ Fatto salvo l’articolo 8 capoverso 3, l’obbligo assicurativo finisce quando:
 
 [^10-1]: Nuovo testo giusta l’art. 117*a* della LF del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° lug. 1997 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^10-2]: Nuova espressione giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^10-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^10-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^10-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^10-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^10-5]: Nuovo testo giusta l’all. n. 3 della L del 17 dic. 1993 sul libero passaggio, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^10-6]: Nuovo testo del per. giusta l’art. 117*a* della LF del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° lug. 1997 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 
@@ -187,14 +187,14 @@ Fatto salvo l’articolo 8 capoverso 3, l’obbligo assicurativo finisce quando:
 
 <sup>7</sup> L’istituto collettore e la cassa di compensazione dell’AVS conteggiano al datore di lavoro moroso le spese amministrative che ha causato. Le spese amministrative non recuperabili sono assunte dal fondo di garanzia (art. 56 cpv. 1 lett. d, h).[^11-8]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^11-2]: Nuovo testo del per. giusta il n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^11-3]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^11-4]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^11-5]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^11-6]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^11-7]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^11-8]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-2]: Nuovo testo del per. giusta la cifra I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^11-3]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-4]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-5]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-6]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-7]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^11-8]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 12
 
@@ -255,7 +255,7 @@ Fatto salvo l’articolo 8 capoverso 3, l’obbligo assicurativo finisce quando:
 
 <sup>3</sup> Il Consiglio federale sottopone un rapporto almeno ogni dieci anni, dal 2011, per determinare l’aliquota di conversione negli anni successivi.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^14-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^14-2]: Nuova espr. giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 15
@@ -278,7 +278,7 @@ L’avere di vecchiaia consta:
 
 <sup>4</sup> Il Consiglio federale disciplina la fissazione della quota dell’avere di vecchiaia sull’avere di previdenza complessivo nei casi in cui questa quota non può più essere determinata.[^15-7]
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^15-2]: Introdotta dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^15-3]: Introdotta dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^15-4]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
@@ -300,7 +300,7 @@ Gli accrediti di vecchiaia sono calcolati annualmente in per cento del salario c
 <tr><td>55–65</td><td>18</td></tr>
 </table>
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^16-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 17
 
@@ -327,7 +327,7 @@ Il diritto alle prestazioni per i superstiti sussiste soltanto se il defunto:
 - c. è diventato invalido quando era ancora minorenne (art. 8 cpv. 2 della LF del 6 ott. 2000[^18-2] sulla parte generale del diritto delle assicurazioni sociali, LPGA), presentava un’incapacità al lavoro compresa fra il 20 e il 40 per cento all’inizio dell’attività lucrativa ed era assicurato allorché l’incapacità al lavoro la cui causa ha portato alla morte si è aggravata raggiungendo almeno il 40 per cento; oppure
 - d. riceveva una rendita di vecchiaia o d’invalidità dall’istituto di previdenza quando si verificò il decesso.
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^18-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 19
@@ -345,7 +345,7 @@ Il coniuge superstite ha diritto a una rendita vedovile se, alla morte del coniu
 
 <sup>3</sup> Il Consiglio federale disciplina il diritto della persona divorziata alle prestazioni per i superstiti.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 19a
 
@@ -377,7 +377,7 @@ L’istituto di previdenza può prevedere nel suo regolamento, oltre agli aventi
 
 <sup>2</sup> Non sussiste alcun diritto a prestazioni per i superstiti secondo il capoverso 1 lettera a se il beneficiario riceve una rendita vedovile.
 
-[^20a-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^20a-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^20a-2]: Ora: art. 19, 19*a* e 20
 
 #### Art. 21
@@ -392,7 +392,7 @@ L’istituto di previdenza può prevedere nel suo regolamento, oltre agli aventi
 
 <sup>4</sup> Se una rendita per i figli è rimasta intatta nel conguaglio della previdenza professionale secondo l’articolo 124 o 124*a* CC, la rendita per orfani è calcolata sulle stesse basi.[^21-5]
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^21-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^21-2]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^21-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^21-4]: Introdotto dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
@@ -415,9 +415,9 @@ Il diritto alle prestazioni per orfani si estingue quando l’orfano muore o com
 
 <sup>4</sup> Se, nel momento in cui è sorto il diritto alle prestazioni, l’assicurato non era affiliato all’istituto di previdenza tenuto a versargliele, l’ultimo istituto di previdenza al quale era affiliato da ultimo è tenuto ad anticipargliele. Se è stabilito quale sia l’istituto di previdenza tenuto a versare le prestazioni, l’istituto di previdenza tenuto ad anticiparle può esercitare il regresso su di esso.[^22-3]
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^22-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^22-3]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^22-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^22-3]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 ### Sezione 3: Prestazioni d’invalidità
 
@@ -431,14 +431,14 @@ Hanno diritto alle prestazioni d’invalidità le persone che:
 - b. in seguito a un’infermità congenita presentavano un’incapacità al lavoro compresa fra il 20 e il 40 per cento all’inizio dell’attività lucrativa ed erano assicurate allorché l’incapacità al lavoro la cui causa ha portato all’invalidità si è aggravata raggiungendo almeno il 40 per cento;
 - c. diventate invalide quando erano minorenni (art. 8 cpv. 2 LPGA[^23-2]), presentavano un’incapacità al lavoro compresa fra il 20 e il 40 per cento all’inizio dell’attività lucrativa ed erano assicurate allorché l’incapacità al lavoro la cui causa ha portato all’invalidità si è aggravata raggiungendo almeno il 40 per cento.
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^23-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 24
 
 **Calcolo della rendita intera d’invalidità[^24-2]**[^24-1]
 
-<sup>1</sup> ...[^24-3]
+<sup>1</sup> …[^24-3]
 
 <sup>2</sup> La rendita d’invalidità è calcolata secondo l’aliquota di conversione valida per la rendita di vecchiaia all’età di 65 anni. Agli assicurati della generazione di transizione si applica l’aliquota di conversione stabilita dal Consiglio federale secondo la lettera b delle disposizioni transitorie della modifica della presente legge del 3 ottobre 2003.
 
@@ -453,7 +453,7 @@ L’avere di vecchiaia determinante per il calcolo consta:
 
 <sup>5</sup> La rendita d’invalidità è adeguata se nell’ambito del conguaglio della previdenza professionale è trasferito un importo secondo l’articolo 124 capoverso 1 CC[^24-4]. Il Consiglio federale disciplina il calcolo di tale adeguamento.[^24-5]
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^24-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^24-2]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); FF **2017** 291).
 [^24-3]: Abrogato dall’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), con effetto dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); FF **2017** 291).
 [^24-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
@@ -520,10 +520,10 @@ Una volta stabilita, la rendita d’invalidità è aumentata, ridotta o soppress
 <sup>4</sup> Se, nel momento in cui è sorto il diritto alle prestazioni, l’assicurato non era affiliato all’istituto di previdenza tenuto a versargliele, l’ultimo istituto di previdenza al quale era affiliato da ultimo è tenuto ad anticipargliele. Se è stabilito quale sia l’istituto di previdenza tenuto a versare le prestazioni, l’istituto di previdenza tenuto ad anticiparle può esercitare il regresso su di esso.[^26-5]
 
 [^26-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046). Ora: art. 28 cpv. 1 e 29 cpv. 1−3 LAI.
-[^26-2]: Nuovo testo giusta il n. II 3 della LF del 9 ott. 1986 (2<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 1988 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [FF 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
+[^26-2]: Nuovo testo giusta la cifra II n. 3 della LF del 9 ott. 1986 (2<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 1988 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [FF 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
 [^26-3]: Nuovo testo giusta dall’all. n. 6 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^26-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)). Vedi anche la disp. fin. della mod. del 18 mar. 2011 alla fine del presente testo.
-[^26-5]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^26-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)). Vedi anche la disp. fin. della mod. del 18 mar. 2011 alla fine del presente testo.
+[^26-5]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 26a
 
@@ -551,13 +551,13 @@ L’istituto di previdenza sospende a titolo cautelare il versamento della rendi
 
 [^part2-tit1-chap4-1]
 
-[^part2-tit1-chap4-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209))
+[^part2-tit1-chap4-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209))
 
 ### Sezione 1: Prestazione di libero passaggio
 
 [^part2-tit1-chap4-sec1-1]
 
-[^part2-tit1-chap4-sec1-1]: Introdotto dal n. I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+[^part2-tit1-chap4-sec1-1]: Introdotto dalla cifra I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 
 #### Art. 27
 
@@ -568,7 +568,7 @@ La LFLP[^27-2] si applica alle prestazioni di libero passaggio.
 [^27-1]: Nuovo testo giusta l’all. n. 3 della L del 17 dic. 1993 sul libero passaggio, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^27-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
-#### Art. 28 a 30
+#### Art. 28–30
 
 [^2830-1]
 
@@ -578,7 +578,7 @@ La LFLP[^27-2] si applica alle prestazioni di libero passaggio.
 
 [^part2-tit1-chap4-sec2-1]
 
-[^part2-tit1-chap4-sec2-1]: Introdotta dal n. I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372)2378; [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+[^part2-tit1-chap4-sec2-1]: Introdotta dalla cifra I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372)2378; [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 
 #### Art. 30a
 
@@ -595,7 +595,7 @@ Per istituto di previdenza ai sensi della presente sezione s’intende l’istit
 L’assicurato può costituire in pegno il diritto alle prestazioni di previdenza o un importo a concorrenza della sua prestazione di libero passaggio conformemente all’articolo 331*d* CO[^30b-1] [^30b-2].
 
 [^30b-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^30b-2]: Nuova espr. giusta il n. I 6 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^30b-2]: Nuova espr. giusta la cifra I n. 6 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 30c
 
@@ -649,7 +649,7 @@ Il rimborso è autorizzato:
 
 <sup>6</sup> Gli importi rimborsati sono ripartiti tra l’avere di vecchiaia ai sensi dell’articolo 15 e gli altri averi, nella stessa proporzione applicata al momento del prelievo anticipato.[^30d-2]
 
-[^30d-1]: Nuovo testo giusta il n. II 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^30d-1]: Nuovo testo giusta la cifra II n. 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^30d-2]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 30e
@@ -675,8 +675,8 @@ La menzione può essere cancellata:
 
 <sup>6</sup> L’obbligo e il diritto di rimborso sussistono fino alla nascita del diritto regolamentare alle prestazioni per la vecchiaia, fino al verificarsi di un altro caso di previdenza o al pagamento in contanti.[^30e-2]
 
-[^30e-1]: Nuovo testo giusta il n. II 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^30e-2]: Nuovo testo giusta il n. II 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^30e-1]: Nuovo testo giusta la cifra II n. 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^30e-2]: Nuovo testo giusta la cifra II n. 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 30f
 
@@ -686,7 +686,7 @@ La menzione può essere cancellata:
 
 <sup>2</sup> Il Consiglio federale stabilisce le condizioni per le restrizioni di cui al capoverso 1 e ne determina l’entità.
 
-[^30f-1]: Introdotto dal n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^30f-1]: Introdotto dalla cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
 #### Art. 30g
 
@@ -722,13 +722,13 @@ Fanno parte della generazione d’entrata le persone che, al momento in cui entr
 
 [^33-1]
 
-[^33-1]: Abrogato dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^33-1]: Abrogato dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 ### Capitolo 5*a*: Agevolazione della partecipazione al mercato del lavoro dei lavoratori anziani
 
 [^part2-tit1-chap5a-1]
 
-[^part2-tit1-chap5a-1]: Introdotto dal n. I della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^part2-tit1-chap5a-1]: Introdotto dalla cifra I della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 33a
 
@@ -762,9 +762,9 @@ Il Consiglio federale disciplina il calcolo delle prestazioni in casi speciali, 
 - a.[^34-1] l’anno d’assicurazione determinante secondo l’articolo 24 capoverso 4 è incompleto o, durante questo periodo, l’assicurato non fruiva della sua completa capacità di guadagno;
 - b. l’assicurato, allorché si verifica il nuovo evento assicurato, riceve già una rendita d’invalidità o ha già ricevuto una prestazione d’invalidità in virtù della presente legge.
 
-<sup>2</sup> ...[^34-2]
+<sup>2</sup> …[^34-2]
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^34-2]: Abrogato dall’all. n. 10 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 34a
@@ -799,7 +799,7 @@ Il Consiglio federale disciplina:
 
 Al momento dell’insorgere dell’evento, l’istituto di previdenza è surrogato, sino all’importo delle prestazioni legali, nei diritti che l’assicurato, i suoi superstiti e altri beneficiari di cui all’articolo 20*a* hanno contro un terzo responsabile dell’evento assicurato.
 
-[^34b-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^34b-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 35
 
@@ -815,7 +815,7 @@ Se l’AVS/AI riduce, revoca o rifiuta una prestazione, perché l’avente dirit
 
 <sup>2</sup> Il diritto di chiedere la restituzione si estingue tre anni dopo che l’istituto di previdenza ha avuto conoscenza del fatto, ma al più tardi cinque anni dopo il versamento della singola prestazione.[^35a-2] Se il diritto di chiedere la restituzione nasce da un reato per il quale la legge penale prevede un termine di prescrizione più lungo, quest’ultimo è determinante.
 
-[^35a-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^35a-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^35a-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 36
@@ -830,8 +830,8 @@ Se l’AVS/AI riduce, revoca o rifiuta una prestazione, perché l’avente dirit
 
 <sup>4</sup> L’articolo 65*d* capoverso 3 lettera b è applicabile agli adattamenti all’evoluzione dei prezzi che l’organo paritetico dell’istituto di previdenza decide tenuto conto della situazione finanziaria dell’istituto medesimo.[^36-2]
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^36-2]: Introdotto dal n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^36-2]: Introdotto dalla cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
 #### Art. 37
 
@@ -850,9 +850,9 @@ L’istituto di previdenza può prevedere nel suo regolamento che gli aventi dir
 - a. possono optare per una liquidazione in capitale in luogo di una rendita di vecchiaia, per superstiti o di invalidità;
 - b. devono rispettare un determinato termine per far valere la liquidazione in capitale.
 
-<sup>5</sup> ...[^37-3]
+<sup>5</sup> …[^37-3]
 
-[^37-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^37-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^37-2]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^37-3]: Abrogato dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), con effetto dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
@@ -882,7 +882,7 @@ Di regola, le rendite sono pagate mese per mese. Per il mese in cui il diritto s
 
 <sup>3</sup> I negozi giuridici che contraddicono alle presenti disposizioni sono nulli.
 
-[^39-1]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209))
+[^39-1]: Nuovo testo del per. giusta la cifra I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209))
 
 #### Art. 40
 
@@ -931,7 +931,7 @@ L’istituto di previdenza annuncia senza indugio all’ufficio specializzato l�
 
 <sup>8</sup> Il Consiglio federale emana disposizioni sulla conservazione dei documenti concernenti la previdenza in vista dell’esercizio dei diritti da parte degli assicurati*.*
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^41-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^41-3]: [RS 831.425](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10102)
 
@@ -977,7 +977,7 @@ Se gli indipendenti sono obbligatoriamente assicurati per i rischi vecchiaia, mo
 
 **Attività lucrativa al servizio di vari datori di lavoro**
 
-<sup>1</sup> Il lavoratore non assicurato obbligatoriamente, al servizio di vari datori di lavoro e il cui salario complessivo supera i 22 680 franchi[^46-1] può farsi assicurare facoltativamente presso l’istituto collettore o presso l’istituto di previdenza a cui è affiliato uno dei suoi datori di lavoro, sempre che le disposizioni regolamentari interne lo prevedano.[^46-2]
+<sup>1</sup> Il lavoratore non assicurato obbligatoriamente, al servizio di vari datori di lavoro e il cui salario complessivo supera i 23 040 franchi[^46-1] può farsi assicurare facoltativamente presso l’istituto collettore o presso l’istituto di previdenza a cui è affiliato uno dei suoi datori di lavoro, sempre che le disposizioni regolamentari interne lo prevedano.[^46-2]
 
 <sup>2</sup> Il lavoratore già assicurato obbligatoriamente presso un istituto di previdenza può farsi assicurare a titolo suppletivo per il salario che riscuote dagli altri datori di lavoro, sia presso il medesimo istituto di previdenza, se ciò non è escluso dalle disposizioni regolamentari interne, sia presso l’istituto collettore.
 
@@ -985,8 +985,8 @@ Se gli indipendenti sono obbligatoriamente assicurati per i rischi vecchiaia, mo
 
 <sup>4</sup> Ad istanza del lavoratore, l’istituto di previdenza provvede all’incasso nei confronti dei datori di lavoro.
 
-[^46-1]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
-[^46-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^46-1]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 2 ott. 2026, in vigore dal 1° gen. 2027 ([RU 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
+[^46-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 47
 
@@ -997,7 +997,7 @@ Se gli indipendenti sono obbligatoriamente assicurati per i rischi vecchiaia, mo
 <sup>2</sup> L’assicurato che cessa di essere assoggettato all’assicurazione obbligatoria secondo l’articolo 2 capoverso 3 può continuare nella stessa estensione la previdenza contro i rischi morte e invalidità presso l’istituto collettore.[^47-2]
 
 [^47-1]: Nuovo testo giusta l’art. 117*a* della LF del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° lug. 1997 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
-[^47-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^47-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 47a
 
@@ -1017,7 +1017,7 @@ Se gli indipendenti sono obbligatoriamente assicurati per i rischi vecchiaia, mo
 
 <sup>7</sup> L’istituto di previdenza può prevedere nel suo regolamento la continuazione dell’assicurazione secondo il presente articolo già dai 55 anni. Può prevedervi anche che, su richiesta dell’assicurato, per l’intera previdenza o soltanto per la previdenza per la vecchiaia sia assicurato un salario inferiore all’ultimo salario assicurato.
 
-[^47a-1]: Introdotto dal n. II 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^47a-1]: Introdotto dalla cifra II n. 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^47a-2]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 ## Parte terza: Organizzazione
@@ -1042,8 +1042,8 @@ Un istituto di previdenza è radiato dal registro se:
 <sup>4</sup> Gli istituti di previdenza registrati e i terzi coinvolti nella previdenza professionale da essi attuata sono autorizzati a utilizzare sistematicamente, per adempiere i loro compiti legali, il numero d’assicurato dell’AVS conformemente alle disposizioni della LAVS[^48-4].[^48-5]
 
 [^48-1]: Nuovo testo giusta l’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^48-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2014 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^48-3]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^48-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2014 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^48-3]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^48-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^48-5]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
@@ -1077,7 +1077,7 @@ Se un istituto di previdenza concede prestazioni superiori a quelle minime, alla
 - 12\.[^49-17] lo scioglimento dei contratti (art. 53*e*–53*f*);
 - 13\.[^49-18] il fondo di garanzia (art. 56 cpv. 1 lett. c e i nonché cpv. 2–5, 56*a*, 57 e 59);
 - 14\.[^49-19] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*);
-- 15\.[^49-20] ...
+- 15\.[^49-20] …
 - 16\.[^49-21] la sicurezza finanziaria (art. 65, 65*c*, 65*d* cpv. 1, 2 e 3 lett. a, secondo periodo, e b, 65*e*, 66 cpv. 4, 67 e 72*a*–72*g*);
 - 17\. la trasparenza (art. 65*a*);
 - 18\.[^49-22] gli accantonamenti e le riserve di fluttuazione di valore (art. 65*b*);
@@ -1092,27 +1092,27 @@ Se un istituto di previdenza concede prestazioni superiori a quelle minime, alla
 - 25*b*.[^49-25] la comunicazione dei dati per assegnare o verificare il numero d’assicurato dell’AVS (art. 86*a* cpv. 2 lett. b<sup>bis</sup>);
 - 26\. l’informazione degli assicurati (art. 86*b*).
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 per il cpv. 2 n. 7 a 9, 12 a 14, 16 (ad accezione dell’art. 66, cpv. 4), 17, 19 a 23 e 26, dal 1° gen. 2005 per i cpv. 1 e 2 n. 3 a 6, 10, 11, 15, 16 (art. 66 cpv. 4), 18, dal 1° gen. 2006 per il cpv. 2 n. 1, 24 e 25 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^49-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 per il cpv. 2 n. 7 a 9, 12 a 14, 16 (ad accezione dell’art. 66, cpv. 4), 17, 19 a 23 e 26, dal 1° gen. 2005 per i cpv. 1 e 2 n. 3 a 6, 10, 11, 15, 16 (art. 66 cpv. 4), 18, dal 1° gen. 2006 per il cpv. 2 n. 1, 24 e 25 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^49-2]: Nuova espr. giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^49-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^49-4]: Nuovo testo giusta il n. I della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^49-4]: Nuovo testo giusta la cifra I della LF dell’11 dic. 2009 (Misure per agevolare la partecipazione al mercato del lavoro dei lavoratori anziani), in vigore dal 1° gen. 2011 ([RU 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-5]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^49-6]: Introdotto dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^49-7]: Originaria lett. 3*a*. Introdotto dall’all. n. 6 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^49-8]: Nuovo testo giusta il n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^49-8]: Nuovo testo giusta la cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^49-9]: Introdotto dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^49-10]: Introdotta dall’all. n. 3 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^49-11]: Introdotto dal n. II 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^49-11]: Introdotto dalla cifra II n. 2 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^49-12]: Originario 6*a*. Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^49-13]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-14]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-15]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-13]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-14]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-15]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-16]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^49-17]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^49-18]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^49-19]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-20]: Abrogato dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^49-21]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^49-19]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-20]: Abrogato dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^49-21]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^49-22]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^49-23]: Nuovo testo giusta l’all. n. 10 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^49-24]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
@@ -1136,7 +1136,7 @@ Gli istituti di previdenza emanano disposizioni su:
 
 <sup>3</sup> Le prescrizioni della presente legge sono poziori alle disposizioni emanate dall’istituto di previdenza. Tuttavia, se l’istituto di previdenza poteva presumere in buona fede che una sua disposizione regolamentare fosse conforme alla legge, quest’ultima non è applicabile retroattivamente.
 
-[^50-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2015 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^50-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2015 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 51
 
@@ -1157,14 +1157,14 @@ L’istituto di previdenza deve garantire il buon funzionamento dell’amministr
 
 <sup>4</sup> Se la procedura applicabile in caso di parità di voti non è ancora disciplinata, la decisione spetta a un arbitro neutrale, designato di comune intesa. Mancando l’intesa, l’arbitro è designato dall’autorità di vigilanza.
 
-<sup>5</sup> ...[^51-3]
+<sup>5</sup> …[^51-3]
 
-<sup>6 e <sup>7</sup></sup> ...[^51-4]
+<sup>6 e <sup>7</sup></sup> …[^51-4]
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^51-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^51-3]: Abrogato dal n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), con effetto dal 1° gen. 2015 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^51-4]: Introdotti dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP) ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Abrogati dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^51-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^51-3]: Abrogato dalla cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), con effetto dal 1° gen. 2015 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^51-4]: Introdotti dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP) ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Abrogati dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 51a
 
@@ -1201,7 +1201,7 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 <sup>6</sup> È fatto salvo l’articolo 50 capoverso 2, secondo periodo.
 
-[^51a-1]: Introdotto dal n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012, con eccezione del cpv. 6 che entra in vigore il 1° gen. 2015 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^51a-1]: Introdotto dalla cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012, con eccezione del cpv. 6 che entra in vigore il 1° gen. 2015 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^51a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 51b
@@ -1212,7 +1212,7 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 <sup>2</sup> Sono soggette al dovere fiduciario della diligenza e tenute a svolgere la loro attività nell’interesse degli assicurati dell’istituto di previdenza. A questo scopo provvedono affinché non sorgano conflitti d’interesse a causa della loro situazione personale e professionale[^51b-2].
 
-[^51b-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^51b-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^51b-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 51c
@@ -1227,7 +1227,7 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 <sup>4</sup> Nel rapporto annuale devono essere indicati il nome e la funzione dei periti, consulenti in investimenti e gestori di investimenti che collaborano con l’istituto di previdenza.
 
-[^51c-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^51c-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 52
 
@@ -1241,11 +1241,11 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 <sup>4</sup> Per la responsabilità dell’ufficio di revisione si applica per analogia l’articolo 755 CO[^52-4].[^52-5]
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^52-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^52-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^52-3]: Nuovo testo giusta l’all. n. 22 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^52-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^52-5]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52-5]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 52a
 
@@ -1255,7 +1255,7 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 <sup>2</sup> L’organo supremo dell’istituto di previdenza trasmette il rapporto dell’ufficio di revisione all’autorità di vigilanza e al perito in materia di previdenza professionale e lo tiene a disposizione degli assicurati.
 
-[^52a-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 52b
 
@@ -1263,7 +1263,7 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 Possono esercitare la funzione di ufficio di revisione le persone fisiche e le imprese di revisione abilitate dall’Autorità federale di sorveglianza dei revisori a esercitare quale perito revisore conformemente alla legge del 16 dicembre 2005[^52b-2] sui revisori.
 
-[^52b-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52b-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^52b-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 52c
@@ -1286,7 +1286,7 @@ L’ufficio di revisione verifica se:
 
 <sup>3</sup> Se necessario, l’ufficio di revisione commenta i risultati della verifica all’attenzione dell’organo supremo dell’istituto di previdenza.
 
-[^52c-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52c-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^52c-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 52d
@@ -1305,7 +1305,7 @@ Per ottenere l’abilitazione i periti devono:
 
 <sup>3</sup> La Commissione di alta vigilanza può precisare i requisiti per l’abilitazione.
 
-[^52d-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52d-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 52e
 
@@ -1333,7 +1333,7 @@ Il perito sottopone all’organo supremo dell’istituto di previdenza raccomand
 
 <sup>4</sup> In relazione con il rilevamento di effettivi di beneficiari di rendite (art. 53*e*<sup>bis</sup>), il perito in materia di previdenza professionale fornisce, di moto proprio, all’autorità di vigilanza la conferma necessaria (art. 53*e*<sup>bis</sup> cpv. 1) e, su sua richiesta, il rapporto (art. 53*e*<sup>bis</sup> cpv. 3).[^52e-6]
 
-[^52e-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^52e-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^52e-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^52e-3]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^52e-4]: Introdotto dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
@@ -1344,7 +1344,7 @@ Il perito sottopone all’organo supremo dell’istituto di previdenza raccomand
 
 [^53-1]
 
-[^53-1]: Abrogato dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^53-1]: Abrogato dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 53a
 
@@ -1355,7 +1355,7 @@ Il Consiglio federale emana disposizioni:
 - a. sulla liceità degli affari trattati per conto proprio da persone incaricate dell’amministrazione del patrimonio[^53a-2];
 - b. sulla liceità e l’obbligo di dichiarazione di vantaggi patrimoniali acquisiti nel contesto dell’attività svolta per l’istituto di previdenza.
 
-[^53a-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^53a-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^53a-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 53b
@@ -1372,7 +1372,7 @@ Gli istituti di previdenza disciplinano nei loro regolamenti le condizioni e la 
 
 <sup>2</sup> Le prescrizioni regolamentari concernenti le condizioni e la procedura per la liquidazione parziale devono essere approvate dall’autorità di vigilanza.
 
-[^53b-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^53b-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 53c
 
@@ -1380,7 +1380,7 @@ Gli istituti di previdenza disciplinano nei loro regolamenti le condizioni e la 
 
 In caso di scioglimento dell’istituto di previdenza (liquidazione totale), l’autorità di vigilanza decide se le condizioni e la procedura sono adempiute e approva il piano di ripartizione.
 
-[^53c-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^53c-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 53d
 
@@ -1405,9 +1405,9 @@ L’organo paritetico designato o l’organo competente stabilisce nell’ambito
 
 <sup>6</sup> Gli assicurati e i beneficiari di rendite hanno il diritto di far verificare dalla competente autorità di vigilanza le condizioni, la procedura e i piani di ripartizione e di esigere una decisione in merito. Un ricorso contro la decisione dell’autorità di vigilanza ha effetto sospensivo soltanto se lo decide il presidente della competente corte del Tribunale amministrativo federale o il giudice dell’istruzione, d’ufficio o su richiesta del ricorrente. In assenza dell’effetto sospensivo, la decisione del Tribunale amministrativo federale ha effetto soltanto a vantaggio o a scapito del ricorrente.[^53d-3]
 
-[^53d-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^53d-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^53d-3]: Nuovo testo giusta il n. I 14 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^53d-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^53d-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^53d-3]: Nuovo testo giusta la cifra I n. 14 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
 #### Art. 53e
 
@@ -1431,9 +1431,9 @@ L’organo paritetico designato o l’organo competente stabilisce nell’ambito
 
 <sup>8</sup> Il Consiglio federale disciplina i particolari, segnatamente le esigenze in materia di giustificazione dei costi e il calcolo della riserva matematica.
 
-[^53e-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^53e-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^53e-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
-[^53e-3]: Introdotto dal n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^53e-3]: Introdotto dalla cifra I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
 #### Art. 53e<sup>bis</sup>
 
@@ -1478,13 +1478,13 @@ Sono modifiche sostanziali di un contratto di affiliazione o di assicurazione ai
 
 <sup>5</sup> Le modifiche di cui al capoverso 4 non sono considerate essenziali se sono conseguenti alla modifica di una base giuridica.
 
-[^53f-1]: Introdotto dal n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^53f-1]: Introdotto dalla cifra I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
 ### Titolo secondo: Fondazioni d’investimento
 
 [^part3-tit2-1]
 
-[^part3-tit2-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^part3-tit2-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 53g
 
@@ -1623,19 +1623,19 @@ Il fondo di garanzia:
 
 <sup>6</sup> Il fondo di garanzia tiene una contabilità separata per ciascun compito.
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
-[^56-2]: Nuovo testo giusta il n. II 1 della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
+[^56-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
+[^56-2]: Nuovo testo giusta la cifra II n. 1 della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
 [^56-3]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
-[^56-4]: Nuovo testo giusta il n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^56-5]: Introdotta dal n. II 1 della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
+[^56-4]: Nuovo testo giusta la cifra I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^56-5]: Introdotta dalla cifra II n. 1 della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
 [^56-6]: Introdotta dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° lug. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^56-7]: Introdotta dal n. I 7 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il n. I 6 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^56-7]: Introdotta dalla cifra I n. 7 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta la cifra I n. 6 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^56-8]: Ora: Unione europea
-[^56-9]: Introdotta dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^56-9]: Introdotta dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^56-10]: Introdotta dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^56-11]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^56-12]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^56-13]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^56-12]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^56-13]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 56a
 
@@ -1647,8 +1647,8 @@ Il fondo di garanzia:
 
 <sup>3</sup> Il diritto al rimborso di cui al capoverso 2 si prescrive in un anno a decorrere dal giorno in cui il fondo di garanzia ne ha avuto conoscenza, ma al più tardi nel termine di cinque anni dal pagamento della prestazione. Se il diritto al rimborso deriva da un reato per il quale il diritto penale stabilisce una prescrizione più lunga, si applica quest’ultima.
 
-[^56a-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
-[^56a-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^56a-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
+[^56a-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 57
 
@@ -1656,7 +1656,7 @@ Il fondo di garanzia:
 
 Gli istituti di previdenza che sottostanno alla LFLP[^57-2] sono affiliati al fondo di garanzia.
 
-[^57-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
+[^57-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
 [^57-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 58
@@ -1714,9 +1714,9 @@ L’Ufficio centrale di compensazione dell’AVS fornisce all’Ufficio centrale
 
 <sup>4</sup> In caso di mancanza di liquidità per finanziare le prestazioni d’insolvibilità ai sensi dell’articolo 56 capoverso 1 lettere b, c e d, la Confederazione può concedere al fondo di garanzia prestiti alle condizioni di mercato. La concessione di tali prestiti può essere vincolata a condizioni.[^59-3]
 
-[^59-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° lug. 1998 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067)[1998 1573](https://fedlex.data.admin.ch/eli/oc/1998/1573_1573_1573); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
-[^59-2]: Introdotto dal n. II 1 della LF del 18 dic. 1998 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409). Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° lug. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^59-3]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^59-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° lug. 1998 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067)[1998 1573](https://fedlex.data.admin.ch/eli/oc/1998/1573_1573_1573); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
+[^59-2]: Introdotto dalla cifra II n. 1 della LF del 18 dic. 1998 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409). Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° lug. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^59-3]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 59a
 
@@ -1759,10 +1759,10 @@ Esso è obbligato:
 [^60-2]: Introdotta dall’art. 117*a* della LF del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° lug. 1997 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^60-3]: Introdotta dall’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^60-4]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
-[^60-5]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^60-5]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^60-6]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^60-7]: Introdotto dall’all. n. 3 della L sul libero passaggio del 17 dic. 1993, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^60-8]: Introdotto dal n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^60-8]: Introdotto dalla cifra I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
 #### Art. 60a
 
@@ -1789,19 +1789,19 @@ Esso è obbligato:
 
 <sup>3</sup> L’AFF e l’istituto collettore disciplinano i dettagli in un contratto di diritto pubblico.
 
-[^60b-1]: Introdotto dal n. I della LF del 25 set. 2020 ([RU 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [FF 2020 5631](https://fedlex.data.admin.ch/eli/fga/2020/1553)). Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 26 set. 2023 al 25 set. 2027 ([RU 2023 323](https://fedlex.data.admin.ch/eli/oc/2023/323); [FF 2023 391](https://fedlex.data.admin.ch/eli/fga/2023/391)).
+[^60b-1]: Introdotto dalla cifra I della LF del 25 set. 2020 ([RU 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [FF 2020 5631](https://fedlex.data.admin.ch/eli/fga/2020/1553)). Nuovo testo giusta la cifra I della LF del 16 giu. 2023, in vigore dal 26 set. 2023 al 25 set. 2027 ([RU 2023 323](https://fedlex.data.admin.ch/eli/oc/2023/323); [FF 2023 391](https://fedlex.data.admin.ch/eli/fga/2023/391)).
 
 ### Titolo quarto: Vigilanza e alta vigilanza
 
 [^part3-tit4-1]
 
-[^part3-tit4-1]: Originario Tit. terzo. Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^part3-tit4-1]: Originario Tit. terzo. Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 ### Capitolo 1: Vigilanza
 
 [^part3-tit4-chap1-1]
 
-[^part3-tit4-chap1-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^part3-tit4-chap1-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 61
 
@@ -1813,11 +1813,11 @@ Esso è obbligato:
 
 <sup>3</sup> L’autorità di vigilanza è un istituto di diritto pubblico dotato di personalità giuridica. Nell’esercizio della sua attività non è vincolata a istruzioni. I suoi membri non possono far parte del dipartimento cantonale preposto alle questioni relative alla previdenza professionale.[^61-4] [^61-5]
 
-[^61-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^61-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
-[^61-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^61-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^61-4]: Terzo per. introdotto dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^61-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^61-5]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 62
 
@@ -1837,10 +1837,10 @@ L’autorità di vigilanza veglia affinché gli istituti di previdenza, gli uffi
 
 <sup>3</sup> Il Consiglio federale può emanare disposizioni sull’approvazione di fusioni, scissioni e trasformazioni di istituti di previdenza da parte delle autorità di vigilanza, nonché sull’esercizio della vigilanza in caso di liquidazione e di liquidazione parziale.[^62-7]
 
-[^62-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^62-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^62-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^62-4]: Introdotta dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^62-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^62-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^62-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^62-4]: Introdotta dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^62-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^62-6]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^62-7]: Introdotto dall’all. n. 10 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
@@ -1867,26 +1867,26 @@ Se necessario, l’autorità di vigilanza può:
 
 <sup>3</sup> Le spese per i provvedimenti di vigilanza sono a carico dell’istituto di previdenza o dell’istituto dedito alla previdenza professionale che ne è all’origine. Le spese per le revoche di cui al capoverso 2 lettera h sono a carico dell’ufficio di revisione o del perito in materia di previdenza professionale in questione.
 
-[^62a-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^62a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^62a-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 63
 
 [^63-1]
 
-[^63-1]: Abrogato dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^63-1]: Abrogato dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 63a
 
 [^63a-1]
 
-[^63a-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP) ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Abrogato dal n. I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^63a-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP) ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)). Abrogato dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 ### Capitolo 2: Alta vigilanza
 
 [^part3-tit4-chap2-1]
 
-[^part3-tit4-chap2-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^part3-tit4-chap2-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 64
 
@@ -1900,7 +1900,7 @@ Se necessario, l’autorità di vigilanza può:
 
 <sup>4</sup> Per il resto si applica la legge del 14 marzo 1958[^64-2] sulla responsabilità.
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012, il cpv. 1 entra in vigore il 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^64-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012, il cpv. 1 entra in vigore il 1° ago. 2011 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^64-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 64a
@@ -1923,7 +1923,7 @@ La Commissione di alta vigilanza vigila sulle autorità di vigilanza. I suoi com
 
 <sup>3</sup> Presenta annualmente un rapporto d’attività al Consiglio federale e corrisponde con lo stesso per il tramite del Dipartimento federale dell’interno.
 
-[^64a-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^64a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^64a-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 64b
@@ -1934,7 +1934,7 @@ La Commissione di alta vigilanza vigila sulle autorità di vigilanza. I suoi com
 
 <sup>2</sup> La segreteria svolge i compiti che le sono attribuiti dal regolamento di organizzazione e di gestione della Commissione.
 
-[^64b-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^64b-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 64c
 
@@ -1956,14 +1956,14 @@ La tassa di vigilanza annuale è riscossa:
 
 <sup>3</sup> Il Consiglio federale definisce i costi di vigilanza computabili e stabilisce i particolari della procedura di calcolo e la tariffa degli emolumenti.
 
-<sup>4</sup> ...[^64c-6]
+<sup>4</sup> …[^64c-6]
 
-[^64c-1]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^64c-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^64c-2]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^64c-3]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^64c-4]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^64c-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
-[^64c-6]: Introdotto dal n. I della LF del 17 mar. 2017 ([RU 2017 6337](https://fedlex.data.admin.ch/eli/oc/2017/702); [FF 2016 6149](https://fedlex.data.admin.ch/eli/fga/2016/1427)[7331](https://fedlex.data.admin.ch/eli/fga/2016/1880)). Abrogato dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^64c-6]: Introdotto dalla cifra I della LF del 17 mar. 2017 ([RU 2017 6337](https://fedlex.data.admin.ch/eli/oc/2017/702); [FF 2016 6149](https://fedlex.data.admin.ch/eli/fga/2016/1427)[7331](https://fedlex.data.admin.ch/eli/fga/2016/1880)). Abrogato dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ## Parte quarta: Finanziamento degli istituti di previdenza
 
@@ -1971,7 +1971,7 @@ La tassa di vigilanza annuale è riscossa:
 
 [^part4-tit1-1]
 
-[^part4-tit1-1]: Introdotto dal n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^part4-tit1-1]: Introdotto dalla cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 65
 
@@ -1987,11 +1987,11 @@ La tassa di vigilanza annuale è riscossa:
 
 <sup>4</sup> Il Consiglio federale stabilisce il patrimonio iniziale di cui devono disporre e le garanzie che devono offrire le fondazioni collettive e comuni nuovamente costituite soggette alla LFLP[^65-4], indipendentemente dalla loro forma giuridica o amministrativa. Questa disposizione non si applica agli istituti di previdenza di associazioni e agli istituti di previdenza che assicurano più datori di lavoro in strette relazioni economiche o finanziarie.[^65-5]
 
-[^65-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^65-2]: Introdotto dal n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^65-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^65-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^65-2]: Introdotto dalla cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^65-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^65-4]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
-[^65-5]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^65-5]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 #### Art. 65a
 
@@ -2014,7 +2014,7 @@ La trasparenza implica che:
 
 <sup>5</sup> Il Consiglio federale emana disposizioni sulle modalità con cui la trasparenza deve essere garantita. Emana a tal fine disposizioni contabili e definisce le esigenze per la trasparenza a livello di costi e di rendimento.
 
-[^65a-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^65a-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^65a-2]: Nuovo testo giusta l’all. n. 10 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 65b
@@ -2027,7 +2027,7 @@ Il Consiglio federale emana disposizioni minime concernenti la costituzione:
 - b [^65b-3] di altri accantonamenti volti a garantire la sicurezza del finanziamento;
 - c.[^65b-4] delle riserve di fluttuazione di valore.
 
-[^65b-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^65b-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^65b-2]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^65b-3]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^65b-4]: Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
@@ -2045,7 +2045,7 @@ Il Consiglio federale emana disposizioni minime concernenti la costituzione:
 
 <sup>2</sup> In caso di copertura insufficiente, l’istituto di previdenza deve informare l’autorità di vigilanza, il datore di lavoro, gli assicurati e i beneficiari di rendite in merito all’entità e alle cause di tale insufficienza e alle misure prese.
 
-[^65c-1]: Introdotto dal n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^65c-1]: Introdotto dalla cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
 #### Art. 65d
 
@@ -2064,7 +2064,7 @@ Qualora altre misure non consentano di raggiungere l’obiettivo, l’istituto d
 
 <sup>4</sup> Sempre che le misure di cui al capoverso 3 si rivelino insufficienti, l’istituto di previdenza può, durante il periodo di copertura insufficiente, ma per cinque anni al massimo, applicare un tasso d’interesse inferiore a quello minimo previsto nell’articolo 15 capoverso 2. La riduzione del tasso d’interesse non può essere di oltre lo 0,5 per cento.
 
-[^65d-1]: Introdotto dal n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^65d-1]: Introdotto dalla cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
 #### Art. 65e
 
@@ -2083,7 +2083,7 @@ Il Consiglio federale disciplina i particolari, segnatamente:
 
 <sup>4</sup> Il datore di lavoro e l’istituto di previdenza possono stipulare per contratto clausole aggiuntive.
 
-[^65e-1]: Introdotto dal n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^65e-1]: Introdotto dalla cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
 #### Art. 66
 
@@ -2097,7 +2097,7 @@ Il Consiglio federale disciplina i particolari, segnatamente:
 
 <sup>4</sup> Il datore di lavoro versa all’istituto di previdenza i contributi del lavoratore e i suoi propri contributi al più tardi alla fine del primo mese seguente l’anno civile o l’anno assicurativo per il quale i contributi sono dovuti.[^66-1]
 
-[^66-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^66-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 67
 
@@ -2113,7 +2113,7 @@ Il Consiglio federale disciplina i particolari, segnatamente:
 
 <sup>1</sup> Gli istituti di assicurazione che intendono assumere la copertura dei rischi per istituti di previdenza registrati secondo la presente legge devono includere nelle loro offerte tariffe che coprano soltanto i rischi morte e invalidità legalmente prescritti. Il Consiglio federale disciplina i particolari.
 
-<sup>2</sup> ...[^68-1]
+<sup>2</sup> …[^68-1]
 
 <sup>3</sup> Gli istituti di assicurazione devono fornire agli istituti di previdenza le indicazioni necessarie affinché questi ultimi possano garantire la trasparenza richiesta dall’articolo 65*a*.[^68-2]
 
@@ -2124,9 +2124,9 @@ Rientrano in particolare in queste indicazioni anche:
 - a. un conteggio annuo comprensibile concernente la partecipazione alle eccedenze; il conteggio deve mostrare in particolare su quale base è stata calcolata la partecipazione alle eccedenze e secondo quali principi è stata suddivisa;
 - b. una distinta delle spese di amministrazione; il Consiglio federale emana le disposizioni relative alle modalità di scritturazione.[^68-3]
 
-[^68-1]: Abrogato dall’all. n. II 3 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, con effetto dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^68-2]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^68-3]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^68-1]: Abrogato dall’all. cifra II n. 3 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, con effetto dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^68-2]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^68-3]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 68a
 
@@ -2141,19 +2141,19 @@ Deroghe al capoverso 1 sono ammesse soltanto se:
 - a. nelle casse pensioni affiliate a fondazioni collettive, la commissione di previdenza della cassa pensioni decide espressamente altrimenti e comunica questa decisione alla fondazione collettiva;
 - b. negli istituti di previdenza che non sono gestiti in forma di fondazione collettiva, l’organo paritetico decide espressamente altrimenti e comunica questa decisione all’istituto d’assicurazione.
 
-[^68a-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^68a-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 69
 
 [^69-1]
 
-[^69-1]: Abrogato dal n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), con effetto dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^69-1]: Abrogato dalla cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), con effetto dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 70
 
 [^70-1]
 
-[^70-1]: Abrogato dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), con effetto dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^70-1]: Abrogato dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), con effetto dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 71
 
@@ -2163,7 +2163,7 @@ Deroghe al capoverso 1 sono ammesse soltanto se:
 
 <sup>2</sup> L’istituto di previdenza non può costituire in pegno né gravare altrimenti i suoi diritti derivanti da un contratto collettivo di assicurazione sulla vita o da un contratto di riassicurazione.[^71-1]
 
-[^71-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^71-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 71a
 
@@ -2207,13 +2207,13 @@ Gli istituti di previdenza sono tenuti a esercitare, in merito alle proposte isc
 <sup>3</sup> Le spese che insorgono all’istituto collettore in seguito alla sua attività giusta l’articolo 60 capoverso 2 della presente legge nonché l’articolo 4 capoverso 2 della LFLP[^72-1] e che non possono essere addossate a chi le ha causate, sono a carico del fondo di garanzia.[^72-2]
 
 [^72-1]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
-[^72-2]: Introdotto dall’all. n. 3 della L sul libero passaggio del 17 dic. 1993 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)). Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
+[^72-2]: Introdotto dall’all. n. 3 della L sul libero passaggio del 17 dic. 1993 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)). Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
 
 ### Titolo secondo: Finanziamento degli istituti di previdenza degli enti di diritto pubblico gestiti secondo il sistema della capitalizzazione parziale
 
 [^part4-tit2-1]
 
-[^part4-tit2-1]: Introdotto dal n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^part4-tit2-1]: Introdotto dalla cifra I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 72a
 
@@ -2308,11 +2308,11 @@ Ogni Cantone designa un tribunale che, in ultima istanza cantonale, decide sulle
 
 <sup>3</sup> Il foro è nella sede o nel domicilio svizzeri del convenuto o nel luogo dell’azienda presso la quale l’assicurato fu assunto.
 
-<sup>4</sup> ...[^73-4]
+<sup>4</sup> …[^73-4]
 
-[^73-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^73-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^73-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
-[^73-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^73-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^73-4]: Abrogato dall’all. n. 109 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 74
@@ -2327,10 +2327,10 @@ Ogni Cantone designa un tribunale che, in ultima istanza cantonale, decide sulle
 
 <sup>4</sup> La Commissione di alta vigilanza è legittimata a ricorrere al Tribunale federale contro le decisioni del Tribunale amministrativo federale in materia di previdenza professionale.[^74-4]
 
-[^74-1]: Nuovo testo giusta il n. I 14 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^74-1]: Nuovo testo giusta la cifra I n. 14 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^74-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
-[^74-3]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^74-4]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^74-3]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^74-4]: Introdotto dalla cifra I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 ### Titolo secondo: Disposizioni penali
 
@@ -2344,7 +2344,7 @@ Se non ha commesso un reato per il quale il Codice penale[^75-2] commina una pen
 - b. si oppone a un controllo ordinato dall’autorità competente, o lo impedisce altrimenti;
 - c. non riempie i moduli prescritti, o li riempie in modo non conforme al vero.
 
-[^75-1]: Nuovo testo giusta il n. I 11 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^75-1]: Nuovo testo giusta la cifra I n. 11 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^75-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 76
@@ -2366,7 +2366,7 @@ Se non ha commesso un reato per il quale il Codice penale[^76-2] commina una pen
 
 <sup>2</sup> Non è punibile secondo il capoverso 1 lettera h chi ritiene possibile il realizzarsi di uno degli atti di cui alla predetta disposizione e se ne accolli il rischio.
 
-[^76-1]: Nuovo testo giusta il n. II della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^76-1]: Nuovo testo giusta la cifra II della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^76-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 77
@@ -2381,7 +2381,7 @@ Se non ha commesso un reato per il quale il Codice penale[^76-2] commina una pen
 
 <sup>4</sup> Se la multa applicabile non supera i 4000 franchi e se la determinazione delle persone punibili secondo i capoversi 1–3 esige provvedimenti d’inchiesta sproporzionati all’entità della pena, si può prescindere da un procedimento contro dette persone e, in loro vece, condannare al pagamento della multa la persona giuridica, la società in nome collettivo o in accomandita o la ditta individuale.[^77-1]
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^77-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 78
 
@@ -2389,7 +2389,7 @@ Se non ha commesso un reato per il quale il Codice penale[^76-2] commina una pen
 
 Il perseguimento e il giudizio incombono ai Cantoni.
 
-[^78-1]: Nuovo testo giusta l’all. 1 n. II 29 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^78-1]: Nuovo testo giusta l’all. 1 cifra II n. 29 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 79
 
@@ -2399,20 +2399,20 @@ Il perseguimento e il giudizio incombono ai Cantoni.
 
 <sup>2</sup> Le decisioni in materia di multe possono essere impugnate con ricorso al Tribunale amministrativo federale.[^79-2]
 
-[^79-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^79-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^79-2]: Nuovo testo giusta l’all. n. 109 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Parte sesta: Entità delle prestazioni, diritto fiscale e disposizioni particolari
 
 [^part6-1]
 
-[^part6-1]: Nuovo testo giusta il n. I 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^part6-1]: Nuovo testo giusta la cifra I n. 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 ### Titolo primo: Entità delle prestazioni
 
 [^part6-tit1-1]
 
-[^part6-tit1-1]: Nuovo testo giusta il n. I 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^part6-tit1-1]: Nuovo testo giusta la cifra I n. 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 #### Art. 79a
 
@@ -2420,7 +2420,7 @@ Il perseguimento e il giudizio incombono ai Cantoni.
 
 Le disposizioni del presente titolo si applicano a tutti i rapporti di previdenza indipendentemente dal fatto che l’istituto di previdenza sia iscritto o no nel registro della previdenza professionale.
 
-[^79a-1]: Introdotto dal n. I 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3). Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^79a-1]: Introdotto dalla cifra I n. 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3). Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 79b
 
@@ -2439,7 +2439,7 @@ Il Consiglio federale disciplina il riscatto per le persone che:
 
 <sup>4</sup> I riscatti effettuati in caso di divorzio o di scioglimento giudiziale dell’unione domestica registrata in virtù dell’articolo 22*c* LFLP[^79b-3] non sono soggetti a limitazioni.[^79b-4]
 
-[^79b-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^79b-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^79b-2]: Nuovo testo giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^79b-3]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^79b-4]: Nuovo testo giusta l’art. 37 n. 3 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -2450,13 +2450,13 @@ Il Consiglio federale disciplina il riscatto per le persone che:
 
 Il salario assicurabile del lavoratore o il reddito assicurabile dell’indipendente secondo il regolamento dell’istituto di previdenza è limitato al decuplo dell’importo limite superiore secondo l’articolo 8 capoverso 1.
 
-[^79c-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^79c-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 ### Titolo secondo: Trattamento fiscale della previdenza
 
 [^part6-tit2-1]
 
-[^part6-tit2-1]: Introdotto dal n. I 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
+[^part6-tit2-1]: Introdotto dalla cifra I n. 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998, in vigore dal 1° gen. 2001 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
 #### Art. 80
 
@@ -2480,7 +2480,7 @@ Il salario assicurabile del lavoratore o il reddito assicurabile dell’indipend
 
 <sup>3</sup> I contributi dedotti dal salario dei lavoratori assicurati devono essere indicati nel certificato di salario; gli altri contributi devono essere attestati dall’istituto di previdenza.
 
-[^81-1]: Nuovo testo giusta il n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^81-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
 #### Art. 81a
 
@@ -2488,7 +2488,7 @@ Il salario assicurabile del lavoratore o il reddito assicurabile dell’indipend
 
 Il contributo dei beneficiari di rendite destinato a sanare la copertura insufficiente di cui all’articolo 65*d* capoverso 3 lettera b è deducibile dalle imposte dirette federali, cantonali e comunali.
 
-[^81a-1]: Introdotto dal n. I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^81a-1]: Introdotto dalla cifra I della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
 #### Art. 82
 
@@ -2529,7 +2529,7 @@ Le prestazioni degli istituti di previdenza e delle forme previdenziali secondo 
 
 <sup>5</sup> Le disposizioni del presente articolo si applicano alle imposte dirette della Confederazione, dei Cantoni e dei Comuni.
 
-[^83a-1]: Introdotto dal n. I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
+[^83a-1]: Introdotto dalla cifra I della LF del 17 dic. 1993 sulla promozione della proprietà d’abitazioni mediante i fondi della previdenza professionale, in vigore dal 1° gen. 1995 ([RU 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 209](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 
 #### Art. 84
 
@@ -2568,10 +2568,10 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 
 <sup>2</sup> Per adempiere tali compiti possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.[^85a-4]
 
-[^85a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^85a-2]: Nuovo testo giusta l’all. 1 n. II 81 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^85a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^85a-2]: Nuovo testo giusta l’all. 1 cifra II n. 81 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^85a-3]: Introdotta dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^85a-4]: Introdotto dall’all. 1 n. II 81 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^85a-4]: Introdotto dall’all. 1 cifra II n. 81 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 85b
 
@@ -2589,7 +2589,7 @@ Purché rimangano tutelati interessi privati preponderanti, possono consultare g
 
 <sup>2</sup> Nel caso di dati relativi alla salute, la cui comunicazione potrebbe ripercuotersi negativamente sulla salute della persona autorizzata a consultare gli atti, questa può essere tenuta a designare un medico che glieli comunichi.
 
-[^85b-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^85b-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 
 #### Art. 86
 
@@ -2597,7 +2597,7 @@ Purché rimangano tutelati interessi privati preponderanti, possono consultare g
 
 Le persone incaricate di applicare la presente legge nonché di controllarne e sorvegliarne l’esecuzione devono mantenere il segreto nei confronti di terzi.
 
-[^86-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^86-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 
 #### Art. 86a
 
@@ -2614,7 +2614,7 @@ Purché nessun interesse privato preponderante vi si opponga, in singoli casi e 
 - d. agli uffici d’esecuzione, conformemente agli articoli 91, 163 e 222 della legge federale dell’11 aprile 1889[^86a-3] sulla esecuzione e sul fallimento;
 - e. alle autorità fiscali, qualora riguardino il versamento di prestazioni della previdenza professionale e siano necessari per l’applicazione delle leggi in materia fiscale;
 - f.[^86a-4] alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile[^86a-5];
-- g.[^86a-6] ...
+- g.[^86a-6] …
 
 <sup>2</sup>
 
@@ -2646,18 +2646,18 @@ Negli altri casi i dati possono essere comunicati a terzi alle condizioni seguen
 
 <sup>8</sup> I dati sono di norma comunicati per scritto e gratuitamente. Il Consiglio federale può prevedere la riscossione di un emolumento qualora sia necessario un particolare dispendio di lavoro.
 
-[^86a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^86a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^86a-2]: Introdotta dall’all. n. 3 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728)[5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 [^86a-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^86a-4]: Introdotto dall’all. n. 27 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^86a-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^86a-6]: Introdotta dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogata dall’all. n. II 16 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-6]: Introdotta dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogata dall’all. cifra II n. 16 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^86a-7]: Introdotta dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^86a-8]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^86a-9]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^86a-10]: Introdotta dall’all. n. 5 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^86a-11]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^86a-12]: Introdotto dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 16 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^86a-12]: Introdotto dall’all. n. 10 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. cifra II n. 16 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^86a-13]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^86a-14]: [RS 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
 
@@ -2680,11 +2680,11 @@ L’istituto di previdenza informa ogni anno in modo adeguato gli assicurati su:
 
 <sup>4</sup> L’articolo 75 è applicabile.[^86b-5]
 
-[^86b-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 e dal 1° apr. 2004 per il cpv. 2 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^86b-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 e dal 1° apr. 2004 per il cpv. 2 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^86b-2]: Introdotta dall’all. n. 10 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^86b-3]: Nuovo testo del per. giusta l’all. n. 10 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^86b-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^86b-5]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^86b-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^86b-5]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 87
 
@@ -2702,7 +2702,7 @@ Le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, dei
 
 <sup>2</sup> L’istituto di previdenza che, nello svolgimento delle sue funzioni, apprende che un assicurato percepisce prestazioni indebite, può informarne gli organi dell’assicurazione sociale interessata.[^87-2]
 
-[^87-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^87-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^87-2]: Introdotto dall’all. n. 3 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); FF **2017** 291).
 
 #### Art. 88
@@ -2723,7 +2723,7 @@ L’istituto di previdenza che, nello svolgimento delle sue funzioni, constata c
 
 [^part7-1][^part7-2]
 
-[^part7-1]: Introdotta dal n. I 7 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^part7-1]: Introdotta dalla cifra I n. 7 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^part7-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 89a
@@ -2822,7 +2822,7 @@ La presente legge non tocca i diritti acquisiti dagli assicurati prima della sua
 
 [^9294-1]
 
-[^9294-1]: Abrogati dal n. II 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^9294-1]: Abrogati dalla cifra II n. 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 95
 
@@ -2843,13 +2843,13 @@ Durante i primi due anni dopo l’entrata in vigore della legge, le seguenti ali
 
 [^96-1]
 
-[^96-1]: Abrogato dal n. II 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^96-1]: Abrogato dalla cifra II n. 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 96a
 
 [^96a-1]
 
-[^96a-1]: Introdotto dal n. I 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3). Abrogato dal n. II 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^96a-1]: Introdotto dalla cifra I n. 10 della LF del 19 mar. 1999 sul programma di stabilizzazione 1998 ([RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3). Abrogato dalla cifra II n. 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### Titolo terzo: Attuazione ed entrata in vigore
 
@@ -2861,13 +2861,13 @@ Durante i primi due anni dopo l’entrata in vigore della legge, le seguenti ali
 
 <sup>1bis</sup> Il Consiglio federale emana prescrizioni sull’esecuzione di indagini e sulla pubblicazione di informazioni utili ai fini del controllo dell’applicazione e della valutazione degli effetti della presente legge. In particolare vanno analizzati l’organizzazione e il finanziamento degli istituti di previdenza, le prestazioni e i rispettivi beneficiari nonché il contributo della previdenza professionale al mantenimento del tenore di vita usuale.[^97-1]
 
-<sup>2</sup> I Cantoni emanano le disposizioni esecutive. ...[^97-2]
+<sup>2</sup> I Cantoni emanano le disposizioni esecutive. …[^97-2]
 
 <sup>3</sup> I Cantoni comunicano le loro disposizioni esecutive al Dipartimento federale dell’interno.[^97-3]
 
-[^97-1]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^97-2]: Per. abrogato dal n. II 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^97-3]: Nuovo testo giusta il n. II 411 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^97-1]: Introdotto dalla cifra I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^97-2]: Per. abrogato dalla cifra II n. 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^97-3]: Nuovo testo giusta la cifra II n. 411 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 98
 
@@ -2892,7 +2892,7 @@ L’articolo 83 non è applicabile alle rendite e alle liquidazioni in capitale 
 
 [^u1-1]
 
-[^u1-1]: [RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067). Abrogate dal n. II 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u1-1]: [RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067). Abrogate dalla cifra II n. 41 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizioni transitorie della modifica del 3 ottobre 2003 (1<sup>a</sup> revisione della LPP)
 
@@ -3059,6 +3059,6 @@ Allegato
 
 ## Modifica di leggi federali
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797).

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20250101-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20270101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20250101/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2025)
+vom 25. Juni 1982 (Stand am 1. Januar 2027)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -47,7 +47,7 @@ beschliesst:
 
 **Obligatorische Versicherung der Arbeitnehmer und der Arbeitslosen**[^2-1]
 
-<sup>1</sup> Arbeitnehmer, die das 17. Altersjahr überschritten haben und bei einem Arbeitgeber einen Jahreslohn von mehr als 22 680 Franken[^2-2] beziehen (Art. 7), unterstehen der obligatorischen Versicherung.
+<sup>1</sup> Arbeitnehmer, die das 17. Altersjahr überschritten haben und bei einem Arbeitgeber einen Jahreslohn von mehr als 23 040 Franken[^2-2] beziehen (Art. 7), unterstehen der obligatorischen Versicherung.
 
 <sup>2</sup> Ist der Arbeitnehmer weniger als ein Jahr lang bei einem Arbeitgeber beschäftigt, so gilt als Jahreslohn der Lohn, den er bei ganzjähriger Beschäftigung erzielen würde.
 
@@ -56,7 +56,7 @@ beschliesst:
 <sup>4</sup> Der Bundesrat regelt die Versicherungspflicht für Arbeitnehmer in Berufen mit häufig wechselnden oder befristeten Anstellungen. Er bestimmt, welche Arbeitnehmer aus besonderen Gründen nicht der obligatorischen Versicherung unterstellt sind.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^2-2]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^2-2]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 
 #### Art. 3
 
@@ -107,11 +107,11 @@ Der zweite Teil dieses Gesetzes enthält Mindestvorschriften.
 
 **Mindestlohn und Alter**
 
-<sup>1</sup> Arbeitnehmer, die bei einem Arbeitgeber einen Jahreslohn von mehr als 22 680 Franken[^7-1] beziehen, unterstehen ab 1. Januar nach Vollendung des 17. Altersjahres für die Risiken Tod und Invalidität, ab 1. Januar nach Vollendung des 24. Altersjahres auch für das Alter der obligatorischen Versicherung.[^7-2]
+<sup>1</sup> Arbeitnehmer, die bei einem Arbeitgeber einen Jahreslohn von mehr als 23 040 Franken[^7-1] beziehen, unterstehen ab 1. Januar nach Vollendung des 17. Altersjahres für die Risiken Tod und Invalidität, ab 1. Januar nach Vollendung des 24. Altersjahres auch für das Alter der obligatorischen Versicherung.[^7-2]
 
 <sup>2</sup> Dieser Lohn entspricht dem massgebenden Lohn nach dem Bundesgesetz vom 20. Dezember 1946[^7-3] über die Alters- und Hinterlassenenversicherung (AHVG). Der Bundesrat kann Abweichungen zulassen.
 
-[^7-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^7-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^7-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^7-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
@@ -119,15 +119,15 @@ Der zweite Teil dieses Gesetzes enthält Mindestvorschriften.
 
 **Koordinierter Lohn**
 
-<sup>1</sup> Zu versichern ist der Teil des Jahreslohnes von 26 460 bis und mit 90 720 Franken[^8-1]. Dieser Teil wird koordinierter Lohn genannt.[^8-2]
+<sup>1</sup> Zu versichern ist der Teil des Jahreslohnes von 26 880 bis und mit 92 160 Franken[^8-1]. Dieser Teil wird koordinierter Lohn genannt.[^8-2]
 
-<sup>2</sup> Beträgt der koordinierte Lohn weniger als 3780 Franken[^8-3] im Jahr, so muss er auf diesen Betrag aufgerundet werden.[^8-4]
+<sup>2</sup> Beträgt der koordinierte Lohn weniger als 3840 Franken[^8-3] im Jahr, so muss er auf diesen Betrag aufgerundet werden.[^8-4]
 
 <sup>3</sup> Sinkt der Jahreslohn vorübergehend wegen Krankheit, Unfall, Arbeitslosigkeit, Elternschaft, Adoption oder aus ähnlichen Gründen, so behält der bisherige koordinierte Lohn mindestens so lange Gültigkeit, als die Lohnfortzahlungspflicht des Arbeitgebers nach Artikel 324*a* des Obligationenrechts (OR)[^8-5] bestehen würde oder ein Mutterschaftsurlaub nach Artikel 329*f* OR, ein Urlaub des andern Elternteils nach den Artikeln 329*g* und 329*g*<sup>bis</sup> OR, ein Betreuungsurlaub nach Artikel 329*i* OR oder ein Adoptionsurlaub nach Artikel 329*j* OR dauert.[^8-6] Die versicherte Person kann jedoch die Herabsetzung des koordinierten Lohnes verlangen.[^8-7]
 
-[^8-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^8-1]: Beträge gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^8-3]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^8-3]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^8-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^8-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
@@ -981,7 +981,7 @@ Sind die Selbstständigerwerbenden obligatorisch für Alter, Tod und Invaliditä
 
 **Erwerbstätigkeit im Dienste mehrerer Arbeitgeber**
 
-<sup>1</sup> Der nicht obligatorisch versicherte Arbeitnehmer, der im Dienste mehrerer Arbeitgeber steht und dessen gesamter Jahreslohn 22 680 Franken[^46-1] übersteigt, kann sich entweder bei der Auffangeinrichtung oder bei der Vorsorgeeinrichtung, der einer seiner Arbeitgeber angeschlossen ist, freiwillig versichern lassen, sofern deren reglementarische Bestimmungen es vorsehen.[^46-2]
+<sup>1</sup> Der nicht obligatorisch versicherte Arbeitnehmer, der im Dienste mehrerer Arbeitgeber steht und dessen gesamter Jahreslohn 23 040 Franken[^46-1] übersteigt, kann sich entweder bei der Auffangeinrichtung oder bei der Vorsorgeeinrichtung, der einer seiner Arbeitgeber angeschlossen ist, freiwillig versichern lassen, sofern deren reglementarische Bestimmungen es vorsehen.[^46-2]
 
 <sup>2</sup> Ist der Arbeitnehmer bereits bei einer Vorsorgeeinrichtung obligatorisch versichert, kann er sich bei ihr, falls ihre reglementarischen Bestimmungen es nicht ausschliessen, oder bei der Auffangeinrichtung für den Lohn zusätzlich versichern lassen, den er von den anderen Arbeitgebern erhält.
 
@@ -989,7 +989,7 @@ Sind die Selbstständigerwerbenden obligatorisch für Alter, Tod und Invaliditä
 
 <sup>4</sup> Die Vorsorgeeinrichtung übernimmt auf Begehren des Arbeitnehmers das Inkasso gegenüber den Arbeitgebern.
 
-[^46-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 469](https://fedlex.data.admin.ch/eli/oc/2024/469)).
+[^46-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 2. Okt. 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 547](https://fedlex.data.admin.ch/eli/oc/2026/547)).
 [^46-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 47
