@@ -4,11 +4,11 @@ title: Ordinanza del 20 agosto 2025 sui prodotti fitosanitari (OPF)
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/565"
 language: it
-version: 2026-06-15
+version: 2027-01-01
 adopted: 2025-08-20
 in_force: 2025-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20260615/it/xml/fedlex-data-admin-ch-eli-cc-2025-565-20260615-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2025-565-20270101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/it"
 
 (OPF)
 
-del 20 agosto 2025 (Stato 15 giugno 2026)
+del 20 agosto 2025 (Stato 1° gennaio 2027)
 
 Il Consiglio federale svizzero,
 
@@ -1249,7 +1249,7 @@ Non può contenere:
 
 **Fornitura**
 
-<sup>1</sup> ...[^77-1]
+<sup>1</sup> I prodotti fitosanitari omologati esclusivamente per un uso professionale e i coadiuvanti possono essere forniti soltanto ai titolari di un’autorizzazione speciale ai sensi dell’articolo 7 capoverso 1 lettera a ORRPChim[^77-1].
 
 <sup>2</sup> Possono essere forniti a utilizzatori non professionali esclusivamente i prodotti fitosanitari omologati per un uso non professionale.
 
@@ -1260,7 +1260,7 @@ Per la fornitura di prodotti fitosanitari si applicano per analogia anche gli ar
 - a. in riferimento all’articolo 58 OPChim, i prodotti fitosanitari sono considerati sostanze e preparati;
 - b. in riferimento alle altre disposizioni dell’OPChim, i prodotti fitosanitari sono considerati sostanze e preparati del gruppo 1 o sostanze e preparati del gruppo 2 a seconda dalla loro classificazione.
 
-[^77-1]: Entra in vigore il 1° gen. 2027 (art. 152 cpv. 2).
+[^77-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^77-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 78
@@ -1528,7 +1528,7 @@ Un organismo ausiliario è approvato su domanda se da almeno un uso rappresentat
 
 <sup>3</sup> Se l’organismo ausiliario è un organismo geneticamente modificato si applicano in aggiunta le esigenze di cui agli articoli 7–11 OEDA[^95-2].
 
-[^95-1]: Linea guida PM6/3 nella versione secondo il Bollettino EPPO 51. Può essere consultata all’indirizzo [www.eppo.org](http/:www.eppo.org%20)&gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; «Biological control agents safely used in the EPPO region».
+[^95-1]: Linea guida PM6/3 nella versione secondo il Bollettino EPPO 51. Può essere consultata all’indirizzo www.eppo.org &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; «Biological control agents safely used in the EPPO region».
 [^95-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 96
@@ -1729,9 +1729,9 @@ Chiunque esegua test di cui all’articolo 106 capoverso 1 lettera a, per ogni t
 
 **Trasmissione di dati al Servizio di omologazione e ai servizi di valutazione**
 
-Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le autorità e i servizi menzionati nell’articolo 74 OPChim[^115-1] trasmettono su domanda al Servizio di omologazione e ai servizi di valutazione i dati ivi menzionati.
+Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le autorità e i servizi menzionati nell’articolo 74 OPChim[^112-1] trasmettono su domanda al Servizio di omologazione e ai servizi di valutazione i dati ivi menzionati.
 
-[^115-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^112-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 113
 
@@ -1739,9 +1739,9 @@ Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le a
 
 <sup>1</sup> Il Servizio di omologazione e i servizi di valutazione mettono reciprocamente a disposizione, per quanto necessario per adempiere i loro compiti, i dati che hanno rilevato o fatto rilevare sulla base della presente ordinanza o di altri atti normativi che disciplinano la protezione dell’essere umano, degli animali e dell’ambiente da prodotti fitosanitari. A tal fine possono allestire procedure di richiamo automatizzate.
 
-<sup>2</sup> Per il resto si applica per analogia l’articolo 75 capoversi 2–5 OPChim[^116-1].
+<sup>2</sup> Per il resto si applica per analogia l’articolo 75 capoversi 2–5 OPChim[^113-1].
 
-[^116-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^113-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 114
 
@@ -1749,9 +1749,9 @@ Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le a
 
 <sup>1</sup> Il Servizio di omologazione e i servizi di valutazione possono trasmettere dati non confidenziali a istituzioni estere e a organizzazioni internazionali.
 
-<sup>2</sup> Le condizioni per la trasmissione di dati confidenziali sono disciplinate dall’articolo 76 capoverso 2 OPChim[^117-1].
+<sup>2</sup> Le condizioni per la trasmissione di dati confidenziali sono disciplinate dall’articolo 76 capoverso 2 OPChim[^114-1].
 
-[^117-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^114-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## Titolo ottavo: Informazione al pubblico
 
@@ -1779,7 +1779,7 @@ Le informazioni sui prodotti fitosanitari omologati e sui prodotti fitosanitari 
 - d. il tipo di formulazione;
 - e.
 
-  le seguenti informazioni conformemente al regolamento (CE) n. 1272/2008[^118-1] se pertinenti:
+  le seguenti informazioni conformemente al regolamento (CE) n. 1272/2008[^115-1] se pertinenti:
 
   - 1\. l’avvertenza che risulta dalla classificazione secondo l’allegato 1 parti 2–5,
   - 2\. le indicazioni di pericolo e la categoria secondo l’allegato 3,
@@ -1806,18 +1806,18 @@ Il Servizio di omologazione può pubblicare valutazioni e rapporti:
 - a. sull’omologazione di un prodotto fitosanitario e sul rinnovo dell’omologazione;
 - b. sull’approvazione di una sostanza attiva, un fitoprotettore o un sinergizzante e sul rinnovo dell’approvazione.
 
-<sup>5</sup> Le informazioni di cui ai capoversi 1 e 2 sono riportate periodicamente nel registro dei prodotti di cui all’articolo 72 OPChim[^118-2].
+<sup>5</sup> Le informazioni di cui ai capoversi 1 e 2 sono riportate periodicamente nel registro dei prodotti di cui all’articolo 72 OPChim[^115-2].
 
-[^118-1]: Cfr. nota a piè di pagina relativa all’art. 57 cpv. 3 lett. b.
-[^118-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^115-1]: Cfr. nota a piè di pagina relativa all’art. 57 cpv. 3 lett. b.
+[^115-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 116
 
 **Elenco delle sostanze attive che non possono essere utilizzate nelle zone di protezione delle acque sotterranee e nelle regioni carsiche**
 
-Il Servizio di omologazione pubblica un elenco delle sostanze attive che non possono essere utilizzate nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee secondo l’allegato 4 numeri 123 e 125 OPAc[^119-1] e nelle regioni carsiche.
+Il Servizio di omologazione pubblica un elenco delle sostanze attive che non possono essere utilizzate nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee secondo l’allegato 4 numeri 123 e 125 OPAc[^116-1] e nelle regioni carsiche.
 
-[^119-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^116-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 #### Art. 117
 
@@ -1936,7 +1936,7 @@ L’archiviazione dei dati registrati nel sistema d’informazione è retta dall
 
 <sup>1</sup> Sul piano amministrativo e tecnico, il Servizio di omologazione per i prodotti fitosanitari è aggregato all’USAV.
 
-<sup>2</sup> La direzione strategica del Servizio di omologazione è assunta dal comitato di direzione conformemente all’articolo 77 OPChim[^141-1].
+<sup>2</sup> La direzione strategica del Servizio di omologazione è assunta dal comitato di direzione conformemente all’articolo 77 OPChim[^126-1].
 
 <sup>3</sup>
 
@@ -1947,7 +1947,7 @@ Il comitato di direzione ha i compiti e le competenze seguenti:
 
 <sup>4</sup> Il comitato di direzione decide all’unanimità.
 
-[^141-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^126-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 127
 
@@ -2537,7 +2537,7 @@ Allegato 6
   - – in per cento del volume e in per cento del peso per i gas,
   - – numero di unità attive per il volume o il peso o qualsiasi altra unità di misura pertinente, come ad esempio le unità formanti colonie per grammo (ufc/g), per i microrganismi;
 
-- 1\.5.
+- 1\.5
 
   la quantità netta di prodotto fitosanitario espressa come segue:
 
@@ -2563,7 +2563,8 @@ Allegato 6
 
 ### 2 Indicazioni sul foglio illustrativo
 
-- 2\. Se la superficie disponibile sull’imballaggio non è sufficiente, le seguenti indicazioni possono essere riportate su un foglio illustrativo:
+Se la superficie disponibile sull’imballaggio non è sufficiente, le seguenti indicazioni possono essere riportate su un foglio illustrativo:
+
 - 2\.1
 
   le condizioni d’uso secondo l’omologazione, in particolare i requisiti, la quantità ammessa per uso, se del caso compresa la quantità massima ammessa per ettaro e il numero massimo ammesso di applicazioni all’anno; la quantità ammessa per uso è espressa come segue:
@@ -2689,7 +2690,8 @@ Allegato 9
 
 ## Condizioni per l’uso di prodotti fitosanitari nelle zone d’insediamento
 
-- [tab] Nelle zone d’insediamento possono essere usati solo i prodotti fitosanitari e i coadiuvanti che soddisfano le condizioni seguenti:
+Nelle zone d’insediamento possono essere usati solo i prodotti fitosanitari e i coadiuvanti che soddisfano le condizioni seguenti:
+
 - 1 Non contengono alcuna sostanza attiva approvata come sostanza candidata alla sostituzione; fanno eccezione le sostanze attive autorizzate nell’agricoltura biologica secondo l’ordinanza emanata dal Dipartimento federale dell’economia, della formazione e della ricerca sulla base dell’articolo 11 capoverso 2 dell’ordinanza del 22 settembre 1997[^annex9-lvlu1-1] sull’agricoltura biologica.
 - 2
 
@@ -2723,5 +2725,5 @@ Le seguenti ordinanze sono modificate come segue:
 
 ...[^annex10-lvlu1-2]
 
-[^annex10-lvlu1-1]: [[RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340); [2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347), [2927](https://fedlex.data.admin.ch/eli/oc/2011/381); [2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390), [6103](https://fedlex.data.admin.ch/eli/oc/2012/724)all. n. 4; [2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34); [2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703);[2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349), [4483](https://fedlex.data.admin.ch/eli/oc/2015/746), [4551](https://fedlex.data.admin.ch/eli/oc/2015/764), [4555](https://fedlex.data.admin.ch/eli/oc/2015/765), [4791](https://fedlex.data.admin.ch/eli/oc/2015/786)all. n. 4; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 7, [3345](https://fedlex.data.admin.ch/eli/oc/2016/568); [2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)cifra III 3, [3501](https://fedlex.data.admin.ch/eli/oc/2017/381), [6135](https://fedlex.data.admin.ch/eli/oc/2017/677); [2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341), [4199](https://fedlex.data.admin.ch/eli/oc/2018/680), [4421](https://fedlex.data.admin.ch/eli/oc/2018/705); [2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383), [4263](https://fedlex.data.admin.ch/eli/oc/2019/734); [2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427), [5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all. Ziff. 3, [5563](https://fedlex.data.admin.ch/eli/oc/2020/962); [2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321), [685](https://fedlex.data.admin.ch/eli/oc/2021/685), [760](https://fedlex.data.admin.ch/eli/oc/2021/760), [795](https://fedlex.data.admin.ch/eli/oc/2021/795); [2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162), [220](https://fedlex.data.admin.ch/eli/oc/2022/220)all. n. 3, [265](https://fedlex.data.admin.ch/eli/oc/2022/265)all. n. 1, [338](https://fedlex.data.admin.ch/eli/oc/2022/338), [746](https://fedlex.data.admin.ch/eli/oc/2022/746), [784](https://fedlex.data.admin.ch/eli/oc/2022/784), [788](https://fedlex.data.admin.ch/eli/oc/2022/788)all. n. 2; [2023 17](https://fedlex.data.admin.ch/eli/oc/2023/17), [235](https://fedlex.data.admin.ch/eli/oc/2023/235), [314](https://fedlex.data.admin.ch/eli/oc/2023/314), [753](https://fedlex.data.admin.ch/eli/oc/2023/753); [2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)all. n. 2, [245](https://fedlex.data.admin.ch/eli/oc/2024/245), [655](https://fedlex.data.admin.ch/eli/oc/2024/655)all. n. 1; [2025 3](https://fedlex.data.admin.ch/eli/oc/2025/3), [356](https://fedlex.data.admin.ch/eli/oc/2025/356)]
+[^annex10-lvlu1-1]: [[RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340); [2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347), [2927](https://fedlex.data.admin.ch/eli/oc/2011/381); [2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390), [6103](https://fedlex.data.admin.ch/eli/oc/2012/724)all. n. 4; [2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34); [2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703);[2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349), [4483](https://fedlex.data.admin.ch/eli/oc/2015/746), [4551](https://fedlex.data.admin.ch/eli/oc/2015/764), [4555](https://fedlex.data.admin.ch/eli/oc/2015/765), [4791](https://fedlex.data.admin.ch/eli/oc/2015/786)all. n. 4; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 7, [3345](https://fedlex.data.admin.ch/eli/oc/2016/568); [2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)cifra III n. 3, [3501](https://fedlex.data.admin.ch/eli/oc/2017/381), [6135](https://fedlex.data.admin.ch/eli/oc/2017/677); [2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341), [4199](https://fedlex.data.admin.ch/eli/oc/2018/680), [4421](https://fedlex.data.admin.ch/eli/oc/2018/705); [2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383), [4263](https://fedlex.data.admin.ch/eli/oc/2019/734); [2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427), [5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all. 3, [5563](https://fedlex.data.admin.ch/eli/oc/2020/962); [2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321), [685](https://fedlex.data.admin.ch/eli/oc/2021/685), [760](https://fedlex.data.admin.ch/eli/oc/2021/760), [795](https://fedlex.data.admin.ch/eli/oc/2021/795); [2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)cifra II,[220](https://fedlex.data.admin.ch/eli/oc/2022/220)all. n. 3, [265](https://fedlex.data.admin.ch/eli/oc/2022/265)all. n. 1, [338](https://fedlex.data.admin.ch/eli/oc/2022/338), [746](https://fedlex.data.admin.ch/eli/oc/2022/746), [784](https://fedlex.data.admin.ch/eli/oc/2022/784), [788](https://fedlex.data.admin.ch/eli/oc/2022/788)all. n. 2; [2023 17](https://fedlex.data.admin.ch/eli/oc/2023/17), [235](https://fedlex.data.admin.ch/eli/oc/2023/235), [314](https://fedlex.data.admin.ch/eli/oc/2023/314), [753](https://fedlex.data.admin.ch/eli/oc/2023/753), [116](https://fedlex.data.admin.ch/eli/oc/2023/116); [2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)all. n. 2, [245](https://fedlex.data.admin.ch/eli/oc/2024/245), [655](https://fedlex.data.admin.ch/eli/oc/2024/655)all. n. 1; [2025 3](https://fedlex.data.admin.ch/eli/oc/2025/3), [356](https://fedlex.data.admin.ch/eli/oc/2025/356)]
 [^annex10-lvlu1-2]: Le mod. possono essere consultate alla [RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565).

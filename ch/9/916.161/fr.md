@@ -4,11 +4,11 @@ title: Ordonnance du 20 août 2025 sur les produits phytosanitaires (OPPh)
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/565"
 language: fr
-version: 2026-06-15
+version: 2027-01-01
 adopted: 2025-08-20
 in_force: 2025-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20260615/fr/xml/fedlex-data-admin-ch-eli-cc-2025-565-20260615-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-565-20270101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/fr"
 
 (OPPh)
 
-du 20 août 2025 (État le 15 juin 2026)
+du 20 août 2025 (État le 1<sup>er</sup> janvier 2027)
 
 Le Conseil fédéral suisse,
 
@@ -965,10 +965,11 @@ Le service d’homologation peut octroyer une homologation pour des produits phy
 
 <sup>2</sup> Pour déterminer si les conditions sont remplies, il se fonde sur les informations dont il dispose.
 
-<sup>3</sup> Sont exclus d’une homologation d’urgence les produits phytosanitaires:
+<sup>3</sup>
 
-a. consistant en des organismes génétiquement modifiés ou en contenant;
+Sont exclus d’une homologation d’urgence les produits phytosanitaires:
 
+- a. consistant en des organismes génétiquement modifiés ou en contenant;
 - b.
 
   contenant des substances actives qui, conformément au règlement (CE) n<sup>o</sup> 1272/2008[^57-1], sont classées comme:
@@ -1242,13 +1243,13 @@ Elle ne doit pas comprendre:
   - 3\. par des enfants, ou
   - 4\. à proximité de ceux-ci.
 
-## Section 3 Remise et utilisation
+### Section 3 Remise et utilisation
 
 #### Art. 77
 
 **Remise**
 
-<sup>1</sup> …[^77-1]
+<sup>1</sup> Les produits phytosanitaires homologués exclusivement pour l’usage professionnel et les adjuvants ne peuvent être remis qu’aux titulaires d’un permis au sens de l’art. 7, al. 1, let. a, ORRChim[^77-1].
 
 <sup>2</sup> Seuls les produits phytosanitaires homologués pour un usage non professionnel peuvent être remis à des utilisateurs non professionnels.
 
@@ -1259,7 +1260,7 @@ En outre, les art. 58, 59, 63, al. 1, 64, al. 2 et 3, 65, al. 1 à 3, 66, al. 1 
 - a. comme des substances et préparations pour ce qui a trait à l’art. 58 OChim;
 - b. selon leur classification, comme des substances et préparations du groupe 1 ou 2 pour ce qui a trait aux autres dispositions de l’OChim.
 
-[^77-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027 (art. 152, al. 2).
+[^77-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^77-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 78
@@ -1489,7 +1490,7 @@ Sur demande, le service d’homologation communique les informations sur les pro
 
 ## Titre 5 Organismes utiles
 
-## Chapitre 1 Approbation des organismes utiles
+### Chapitre 1 Approbation des organismes utiles
 
 #### Art. 94
 
@@ -1523,12 +1524,12 @@ Les organismes utiles sont approuvés sur demande si au moins une utilisation re
   - 1\. sur les espèces qu’ils ne doivent pas combattre, y compris leur comportement à long terme,
   - 2\. sur la biodiversité et l’écosystème.
 
-<sup>2</sup> Les conditions d’approbation sont réputées remplies pour les organismes utiles énumérés aux annexes 1 et 2 de la norme de l’OEPP *Biological control agents safely used in the EPPO region* (PM6/3[^116-1]).
+<sup>2</sup> Les conditions d’approbation sont réputées remplies pour les organismes utiles énumérés aux annexes 1 et 2 de la norme de l’OEPP *Biological control agents safely used in the EPPO region* (PM6/3[^95-1]).
 
-<sup>3</sup> En outre, les exigences fixées aux art. 7 à 11 ODE[^116-2] sont applicables si l’organisme utile est un organisme génétiquement modifié.
+<sup>3</sup> En outre, les exigences fixées aux art. 7 à 11 ODE[^95-2] sont applicables si l’organisme utile est un organisme génétiquement modifié.
 
-[^116-1]: Norme PM6/3 telle que définie dans OEPP/EPPO Bulletin 51. Elle peut être téléchargée depuis le site de l’OEPP: [www.eppo.int](http://www.eppo.int) &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; Biological control agents safely used in the EPPO region.
-[^116-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^95-1]: Norme PM6/3 telle que définie dans OEPP/EPPO Bulletin 51. Elle peut être téléchargée depuis le site de l’OEPP: [www.eppo.int](http://www.eppo.int) &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; Biological control agents safely used in the EPPO region.
+[^95-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 96
 
@@ -1538,11 +1539,11 @@ Les organismes utiles sont approuvés sur demande si au moins une utilisation re
 
 <sup>2</sup> Elle doit être accompagnée d’un dossier visé à l’annexe 8. Si une partie du dossier n’est pas présentée, la demande doit comprendre une justification scientifique de ce fait.
 
-<sup>3</sup> Le contenu du dossier doit remplir, outre les exigences figurant aux art. 26, 27 et 28 de la présente ordonnance, les exigences fixées aux art. 28 et 34, al. 2, ODE[^117-1] si l’organisme utile dont l’approbation est demandée est un organisme génétiquement modifié.
+<sup>3</sup> Le contenu du dossier doit remplir, outre les exigences figurant aux art. 26, 27 et 28 de la présente ordonnance, les exigences fixées aux art. 28 et 34, al. 2, ODE[^96-1] si l’organisme utile dont l’approbation est demandée est un organisme génétiquement modifié.
 
 <sup>4</sup> La demande doit être rédigée dans une langue officielle de la Confédération ou en anglais. Si elle concerne un organisme génétiquement modifié ou pathogène, le dossier doit comprendre un résumé de la demande dans une des langues officielles.
 
-[^117-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^96-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 97
 
@@ -1692,18 +1693,18 @@ Dans l’autorisation, le service d’homologation peut fixer:
 
 **Respect des valeurs maximales des résidus**
 
-Le titulaire de l’autorisation veille à ce que les valeurs maximales des résidus sur les produits d’origine végétale et animale selon les dispositions édictées en vertu de l’ODAlOUs[^121-1] soient respectées.
+Le titulaire de l’autorisation veille à ce que les valeurs maximales des résidus sur les produits d’origine végétale et animale selon les dispositions édictées en vertu de l’ODAlOUs[^109-1] soient respectées.
 
-[^121-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^109-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 110
 
 **Essais avec des organismes génétiquement modifiés ou pathogènes ainsi qu’avec de petits invertébrés exotiques**
 
-L’ODE[^122-1] et l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^122-2] sont applicables à la réalisation d’essais avec des organismes génétiquement modifiés ou pathogènes et d’essais avec de petits invertébrés exotiques.
+L’ODE[^110-1] et l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^110-2] sont applicables à la réalisation d’essais avec des organismes génétiquement modifiés ou pathogènes et d’essais avec de petits invertébrés exotiques.
 
-[^122-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
-[^122-2]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^110-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^110-2]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 #### Art. 111
 
@@ -1814,9 +1815,9 @@ En outre, le service d’homologation peut publier des évaluations et des rappo
 
 **Liste des substances actives qu’il est interdit d’utiliser dans les zones de protection des eaux souterraines et dans les zones karstiques**
 
-Le service d’homologation publie la liste des substances actives qu’il est interdit d’utiliser dans les zones de protection des eaux souterraines S2 et S<sub>h</sub> visées à l’annexe 4, ch. 123 et 124, OEaux[^116-3] et dans les zones karstiques.
+Le service d’homologation publie la liste des substances actives qu’il est interdit d’utiliser dans les zones de protection des eaux souterraines S2 et S<sub>h</sub> visées à l’annexe 4, ch. 123 et 124, OEaux[^116-1] et dans les zones karstiques.
 
-[^116-3]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^116-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 #### Art. 117
 
@@ -1927,7 +1928,7 @@ L’archivage des données saisies dans le système d’information est régi pa
 
 ## Titre 10 Exécution
 
-## Chapitre 1 Confédération
+### Chapitre 1 Confédération
 
 #### Art. 126
 
@@ -2236,7 +2237,7 @@ Les produits phytosanitaires qui ont été homologués avant l’entrée en vigu
 
 [^151-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
-## Chapitre 4 Entrée en vigueur
+### Chapitre 4 Entrée en vigueur
 
 #### Art. 152
 

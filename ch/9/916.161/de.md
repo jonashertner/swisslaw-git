@@ -4,11 +4,11 @@ title: Pflanzenschutzmittelverordnung vom 20. August 2025 (PSMV)
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/565"
 language: de
-version: 2026-06-15
+version: 2027-01-01
 adopted: 2025-08-20
 in_force: 2025-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20260615/de/xml/fedlex-data-admin-ch-eli-cc-2025-565-20260615-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2025-565-20270101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/de"
 
 (PSMV)
 
-vom 20. August 2025 (Stand am 15. Juni 2026)
+vom 20. August 2025 (Stand am 1. Januar 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -742,7 +742,7 @@ Die Zulassungsstelle überträgt die Zulassung eines Pflanzenschutzmittels auf e
 
 <sup>3</sup> Sie erlässt eine neue Zulassung und widerruft die bisherige Zulassung.
 
-<sup>3</sup> Für die Entsorgung, die Lagerung, das Inverkehrbringen und die Verwendung des Pflanzenschutzmittels gelten die Fristen nach Artikel 45. Die bisherige Zulassungsinhaberin kann kürzere Fristen verlangen.
+<sup>4</sup> Für die Entsorgung, die Lagerung, das Inverkehrbringen und die Verwendung des Pflanzenschutzmittels gelten die Fristen nach Artikel 45. Die bisherige Zulassungsinhaberin kann kürzere Fristen verlangen.
 
 #### Art. 43
 
@@ -964,16 +964,19 @@ Besteht eine Gefahr für die Pflanzengesundheit, so kann die Zulassungsstelle f�
 
 <sup>2</sup> Für die Beurteilung, ob die Voraussetzungen erfüllt sind, stützt sich die Zulassungsstelle auf die ihr zur Verfügung stehenden Informationen.
 
-<sup>3</sup> Von einer Notfallzulassung ausgeschlossen sind Pflanzenschutzmittel, die:
+<sup>3</sup>
 
-a. aus gentechnisch veränderten Organismen bestehen oder solche enthalten;
+Von einer Notfallzulassung ausgeschlossen sind Pflanzenschutzmittel, die:
 
-b. Wirkstoffe enthalten, die nach der Verordnung (EG) Nr. 1272/2008[^57-1] eingestuft sind als:
+- a. aus gentechnisch veränderten Organismen bestehen oder solche enthalten;
+- b.
 
-- 1\. krebserzeugend der Kategorie 1A,
-- 2\. krebserzeugend der Kategorie 1B ohne Schwellenwert,
-- 3\. reproduktionstoxisch der Kategorie 1A, oder
-- 4\. endokrinschädlich.
+  Wirkstoffe enthalten, die nach der Verordnung (EG) Nr. 1272/2008[^57-1] eingestuft sind als:
+
+  - 1\. krebserzeugend der Kategorie 1A,
+  - 2\. krebserzeugend der Kategorie 1B ohne Schwellenwert,
+  - 3\. reproduktionstoxisch der Kategorie 1A, oder
+  - 4\. endokrinschädlich.
 
 [^57-1]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; Fassung gemäss ABl. L 2024/2865, 20.11.2024.
 
@@ -1245,7 +1248,7 @@ Sie darf nicht enthalten:
 
 **Abgabe**
 
-<sup>1</sup> …[^77-1]
+<sup>1</sup> Pflanzenschutzmittel, die ausschliesslich für die berufliche Verwendung zugelassen sind, und Zusatzstoffe dürfen nur an Inhaberinnen und Inhaber einer Fachbewilligung nach Artikel 7 Absatz 1 Buchstabe a ChemRRV[^77-1] abgegeben werden.
 
 <sup>2</sup> An nichtberufliche Verwenderinnen und Verwender dürfen ausschliesslich Pflanzenschutzmittel abgegeben werden, die für die nichtberufliche Verwendung zugelassen sind.
 
@@ -1256,7 +1259,7 @@ Für die Abgabe von Pflanzenschutzmitteln gelten zudem sinngemäss die Artikel 5
 - a. in Bezug auf Artikel 58 ChemV als Stoffe und Zubereitungen gelten;
 - b. in Bezug auf die übrigen Bestimmungen der ChemV abhängig von ihrer Einstufung als Stoffe und Zubereitungen der Gruppe 1 oder als Stoffe und Zubereitungen der Gruppe 2 gelten.
 
-[^77-1]: Tritt am 1. Jan. 2027 in Kraft (Art. 152 Abs. 2).
+[^77-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^77-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 78
@@ -1364,13 +1367,13 @@ Die Zulassungsinhaberin muss zudem melden:
 
 <sup>1</sup> Wer Pflanzenschutzmittel oder mit Pflanzenschutzmitteln behandeltes Saatgut herstellt, ausliefert, ein- oder ausführt oder mit ihnen handelt, muss Aufzeichnungen über ihre oder seine Tätigkeiten mit Pflanzenschutzmitteln führen und diese während mindestens fünf Jahre aufbewahren. Dies Pflichten gelten auch für Zulassungsinhaberinnen und Inhaberinnen einer Verkaufserlaubnis.
 
-<sup>2</sup> Die Aufzeichnungspflicht ist von den nachstehenden Personen durch die Erfassung oder Aufzeichnung folgender Daten zu erfüllen:
+<sup>2</sup>
 
-a. von Zulassungsinhaberinnen, Inhaberinnen einer Verkaufserlaubnis und Personen, die Pflanzenschutzmittel und behandeltes Saatgut einführen: Erfassung der Daten nach Artikel 121 betreffend den Verkauf von Pflanzenschutzmitteln im Informationssystem nach dem 9. Titel;
+Die Aufzeichnungspflicht ist von den nachstehenden Personen durch die Erfassung oder Aufzeichnung folgender Daten zu erfüllen:
 
-c. von Personen, die Pflanzenschutzmittel oder behandelts Saatgut ausführen: Aufzeichnung der Daten betreffend die Ausfuhr von Pflanzenschutzmitteln.
-
+- a. von Zulassungsinhaberinnen, Inhaberinnen einer Verkaufserlaubnis und Personen, die Pflanzenschutzmittel und behandeltes Saatgut einführen: Erfassung der Daten nach Artikel 121 betreffend den Verkauf von Pflanzenschutzmitteln im Informationssystem nach dem 9. Titel;
 - b. von Personen, die Pflanzenschutzmittel und behandeltes Saatgut ausliefern, einführen oder mit ihnen handeln: Erfassung der Daten betreffend das Inverkehrbringen von Pflanzenschutzmitteln mit Wirkstoffen, die nach den Artikeln 13 Absatz 4, 25 und 78 Absatz 3 der Verordnung (EG) Nr. 1107/2009[^86-1] in der EU genehmigt sind, im zentralen Informationssystem zur Verwendung von Pflanzenschutzmitteln (IS PSM) nach den Artikeln 16*a*–16*c* der Verordnung vom 23. Oktober 2013[^86-2] über Informationssysteme im Bereich der Landwirtschaft;
+- c. von Personen, die Pflanzenschutzmittel oder behandelts Saatgut ausführen: Aufzeichnung der Daten betreffend die Ausfuhr von Pflanzenschutzmitteln.
 
 <sup>3</sup>
 
@@ -1719,7 +1722,7 @@ Wer Versuche nach Artikel 106 Absatz 1 Buchstabe a durchführt, muss zu jedem Ve
 
 <sup>2</sup> Die Aufzeichnungen sind der Zulassungsstelle auf Verlangen zur Verfügung zu stellen.
 
-### 7. Titel: Weitergabe und Austausch von Daten
+## 7. Titel: Weitergabe und Austausch von Daten
 
 #### Art. 112
 
@@ -2555,7 +2558,7 @@ Die folgenden Angaben müssen auf der Verpackung eines Pflanzenschutzmittels mit
 - 1\.17 alle Angaben gemäss Artikel 14 sowie die aufgrund der Einstufung vorgeschriebenen Angaben;
 - 1\.18 die Verwendungskategorie der nicht beruflichen Verwendung, sofern das Pflanzenschutzmittel hierfür zugelassen wurde.
 
-[^annex6-lvlu1-lvl1-1]: Die Norm DIN EN ISO 7010:2019, Sicherheitszeichen kann gegen Bezahlung bezogen werden bei der International Organization for Standardization ISO Central Secretariat, Chemin de Blandonnet 8, CP 401 1214 Vernier, www.iso.org .
+[^annex6-lvlu1-lvl1-1]: Die Norm DIN EN ISO 7010:2019, Sicherheitszeichen kann gegen Bezahlung bezogen werden bei der International Organization for Standardization ISO Central Secretariat, Chemin de Blandonnet 8, CP 401 1214 Vernier, [www.iso.org](http://www.iso.org).
 
 ### 2 Angaben auf Merkblatt
 
@@ -2672,7 +2675,7 @@ Anhang 8
   - – für nicht gebietsfremde Nützlinge: Daten zu Gesuchstellerin und Organismus (Kap. 2.2 Teile 1 und 2);
   - – für gebietsfremde Nützlinge: zusätzlich die Daten für eine Risiko-NutzenAnalyse (Kap. 2.2 Teil 3).
 
-[^annex8-lvlu1-lvl1-1]: Leitlinie PM6/2 in der Fassung gemäss OEPP/EPPO-Bulletin (2014) 44 (3), Seiten 320–329. Sie kann bei der EPPO abgerufen werden unter: www.eppo.int &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
+[^annex8-lvlu1-lvl1-1]: Leitlinie PM6/2 in der Fassung gemäss OEPP/EPPO-Bulletin (2014) 44 (3), Seiten 320–329. Sie kann bei der EPPO abgerufen werden unter: [www.eppo.int](http://www.eppo.int) &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
 
 ### 2 Beurteilung des Dossiers
 
