@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflich
 short: FZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: de
-version: 2026-08-01
+version: 2027-06-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20260801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20270601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20270601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de"
 
 (Freizügigkeitsverordnung, FZV)
 
-vom 3. Oktober 1994 (Stand am 1. August 2026)
+vom 3. Oktober 1994 (Stand am 1. Juni 2027)
 
 Der Schweizerische Bundesrat,
 
@@ -230,10 +230,13 @@ Für die Erhaltung des Vorsorgeschutzes gelten als Begünstigte:
 
 <sup>2</sup> Die Versicherten können im Vertrag die Ansprüche der Begünstigten näher bezeichnen und den Kreis von Personen nach Absatz 1 Buchstabe b Ziffer 1 mit solchen nach Ziffer 2 erweitern.[^15-4]
 
+<sup>3</sup> Bei der näheren Bezeichnung der Ansprüche darf der Versicherte den Anteil einer der begünstigten Personen nach Absatz 1 Buchstabe b Ziffer 1 oder 2 nicht auf weniger als 10 Prozent des Vorsorgekapitals kürzen.[^15-5]
+
 [^15-1]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^15-2]: Fassung gemäss Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 [^15-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^15-4]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^15-5]: Eingefügt durch Ziff. I 3 der V vom 12. Juni 2026, in Kraft seit 1. Juni 2027 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 15a
 
@@ -568,14 +571,14 @@ Anhang[^t-1]
 
 \1. Der dem berechtigten Ehegatten zugesprochene Rentenanteil wird wie folgt in eine lebenslange Rente umgerechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/de/xml/image/image1.png)
 
 \2. Dabei bezeichnet:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
 
 \3. Die Barwerte und Anwartschaften werden auf der Basis der technischen Grundlagen BVG berechnet, die im für die Umrechnung massgebenden Zeitpunkt bestehen. Dabei werden die im Kalenderjahr der Berechnung geltenden unverstärkten Generationentafeln und der gewichtete Durchschnitt der technischen Durchschnittszinssätze gemäss dem zuletzt veröffentlichten Bericht der Oberaufsichtskommission Berufliche Vorsorge[^annexu1-lvlu1-1] zur finanziellen Lage der Vorsorgeeinrichtungen verwendet.
 

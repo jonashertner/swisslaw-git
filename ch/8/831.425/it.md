@@ -4,11 +4,11 @@ title: "Ordinanza del 3 ottobre 1994 sul libero passaggio nella previdenza profe
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: it
-version: 2026-08-01
+version: 2027-06-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20260801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20270601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20270601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it"
 
 (Ordinanza sul libero passaggio, OLP)
 
-del 3 ottobre 1994 (Stato 1° agosto 2026)
+del 3 ottobre 1994 (Stato 1° giugno 2027)
 
 Il Consiglio federale svizzero,
 
@@ -138,7 +138,7 @@ Il tasso d’interesse tecnico è fissato in un intervallo tra l’1,0 e il 3,5 
 [^8a-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 [^8a-3]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 [^8a-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^8a-5]: Nuovo testo giusta la cifra I n. 3 dell’O del 12 giu. 2026, in vigore dal 1° ago. 2028 ([RU 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^8a-5]: Nuovo testo giusta la cifra I n. 3 dell’O del 12 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 [^8a-6]: Introdotto dalla cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 9
@@ -230,10 +230,13 @@ Sono considerati beneficiari per il mantenimento della previdenza:
 
 <sup>2</sup> Gli assicurati possono specificare nel contratto i diritti dei singoli beneficiari e includere nella cerchia delle persone previste dal capoverso 1 lettera b numero 1 anche quelle del numero 2.[^15-4]
 
+<sup>3</sup> In caso di precisazione dei diritti, gli assicurati non possono ridurre la quota di uno dei beneficiari di cui al capoverso 1 lettera b numeri 1 o 2 a meno del 10 per cento del capitale di previdenza.[^15-5]
+
 [^15-1]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^15-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 [^15-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^15-4]: Nuovo testo giusta l’all. n. 3 dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^15-5]: Introdotto dalla cifra I n. 3 dell’O del 12 giu. 2026, in vigore dal 1° giu. 2027 ([RU 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 15a
 
@@ -567,15 +570,15 @@ Allegato[^t-1]
 \1. La parte di rendita assegnata al coniuge creditore è convertita in una rendita vitalizia applicando la formula seguente:
 
 <table>
-<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it/xml/image/image1.png)</td></tr>
+<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/it/xml/image/image1.png)</td></tr>
 </table>
 
 \2. Ove:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
 
 \3. I valori attuali e le aspettative sono calcolati utilizzando le basi tecniche LPP pertinenti al momento determinante per il calcolo. Sono impiegate le tavole generazionali non consolidate applicabili nell’anno civile del calcolo e la media ponderata dei tassi d’interesse tecnici medi figuranti nell’ultimo rapporto sulla situazione finanziaria degli istituti di previdenza pubblicato dalla Commissione di alta vigilanza della previdenza professionale[^annexu1-lvlu1-1].
 

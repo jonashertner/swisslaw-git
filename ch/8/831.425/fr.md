@@ -4,11 +4,11 @@ title: "Ordonnance du 3 octobre 1994 sur le libre passage dans la prévoyance pr
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: fr
-version: 2026-08-01
+version: 2027-06-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20260801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20270601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20270601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr"
 
 (Ordonnance sur le libre passage, OLP)
 
-du 3 octobre 1994 (État le 1<sup>er</sup> août 2026)
+du 3 octobre 1994 (État le 1<sup>er</sup> juin 2027)
 
 Le Conseil fédéral suisse,
 
@@ -230,10 +230,13 @@ Les personnes suivantes ont qualité de bénéficiaires s’agissant du maintien
 
 <sup>2</sup> L’assuré peut préciser dans le contrat les droits de chacun des bénéficiaires et inclure dans le cercle des personnes défini à l’al. 1, let. b, ch. 1, celles qui sont mentionnées au ch. 2.[^15-4]
 
+<sup>3</sup> Lorsqu’il précise les droits, l’assuré ne peut pas réduire la quote-part d’un des bénéficiaires visés à l’al. 1, let. b, ch. 1 ou 2 à moins de 10 % du capital de prévoyance.[^15-5]
+
 [^15-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^15-2]: Nouvelle teneur selon le ch. I 2 de l’O du 29 sept. 2006 sur la mise en oeuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 [^15-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^15-4]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^15-5]: Introduit par le ch. I 3 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> juin 2027 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 15a
 
@@ -566,14 +569,14 @@ Annexe[^t-1]
 
 \1. La part de rente attribuée au conjoint créancier est convertie en rente viagère selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/fr/xml/image/image1.png)
 
 \2. où:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20270601/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
 
 \3. Les valeurs actuelles et expectatives de rentes sont calculées d’après les bases techniques LPP pertinentes au moment déterminant pour le calcul. Les tables de génération sans renforcement pour l’année civile considérée et la moyenne pondérée des taux d’intérêt techniques moyens indiquées dans le dernier rapport sur la situation financière des institutions de prévoyance publié par la Commission de haute surveillance de la prévoyance professionnelle[^annexu1-lvlu1-1] sont appliquées.
 
