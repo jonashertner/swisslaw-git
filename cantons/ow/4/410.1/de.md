@@ -4,13 +4,12 @@ number: "410.1"
 title: Bildungsgesetz
 short: BiG
 language: de
-version: 2026-08-01
-valid_until: 2026-12-31
+version: 2027-01-01
 version_adopted: 2025-05-22
 adopted: 2006-03-16
 in_force: 2006-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.1"
-pdf: "http://gdb.ow.ch/api/de/versions/2012/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/2012/pdf_file"
 
 (BiG)
 
-vom 16.03.2006 (Stand 01.08.2026)
+vom 16.03.2006 (Stand 01.01.2027)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -696,9 +695,19 @@ beschliesst:
 
 ### 3.2.2. Frühe Sprachförderung
 
-[^66a-1]
+#### Art. 66b
 
-[^66a-1]: Der mit dem Nachtrag vom 22. Mai 2025 eingefügte Art. 66b über die frühe Sprachförderung tritt am 1. Januar 2027 in Kraft
+**Frühe Sprachförderung**
+
+<sup>1</sup> Die Einwohnergemeinde kann die frühe Sprachförderung anbieten. Richtet sie die frühe Sprachförderung ein, besuchen Kinder mit unzureichenden Deutschkenntnissen spätestens im Jahr vor dem obligatorischen Kindergarten regelmässig ein Angebot der frühen Sprachförderung.
+
+<sup>2</sup> Vorab wird der Sprachstand der Kinder in Deutsch abgeklärt.
+
+<sup>3</sup> Die frühe Sprachförderung wird im Rahmen des freiwilligen Kindergartens oder im Rahmen von vorschulischen Angeboten geführt.
+
+<sup>4</sup> Die frühe Sprachförderung ist unentgeltlich, wenn der Bedarf ausgewiesen ist. Die Einwohnergemeinde kann von den Eltern bzw. Erziehungsberechtigten angemessene finanzielle Beiträge verlangen, wenn jene das Angebot freiwillig nutzen wollen, ohne dass ein Bedarf ausgewiesen ist.
+
+<sup>5</sup> Der Regierungsrat kann weitere Einzelheiten in Ausführungsbestimmungen regeln.
 
 ### 3.2.2a. Kindergarten und Primarschule
 
@@ -1222,6 +1231,7 @@ beschliesst:
 
 - a. die Schuldienste (Art. 41);
 - a1. die kantonalen Vorgaben zu den schulergänzenden Tagesstrukturen (Art. 66a);
+- a2. Einzelheiten zur frühen Sprachförderung (Art. 66b);
 - b. …
 - b1. Einzelheiten zur Basisstufe (Art. 69);
 - c. Einzelheiten zur Kantonsschule (Art. 91);
@@ -1439,6 +1449,6 @@ geändert durch
 
 \- Nachtrag vom 28. Juni 2019 (OGS 2019, 32), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
 
-\- Nachtrag vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, mit Ausnahme von Art. 66b und Art. 121 Abs. 7 Bst. a2 sowie Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 in Kraft seit 1. August 2026. Art. 66b und Art. 121 Abs. 7 Bst. a2 treten am 1. Januar 2027 in Kraft, Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 am 1. Januar 2028 (ABl vom 2. April 2026).
+\- Nachtrag vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, mit Ausnahme von Art. 66b und Art. 121 Abs. 7 Bst. a2 sowie Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 in Kraft seit 1. August 2026, Art. 66b und Art. 121 Abs. 7 Bst. a2 in Kraft seit 1. Januar 2027 in Kraft. Die Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 treten am 1. Januar 2028 (ABl vom 2. April 2026).
 
 OGS 2006, 95
