@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 1968 sulla procedura amministrativa (PA)
 short: PA
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755"
 language: it
-version: 2022-07-01
+version: 2027-01-01
 adopted: 1968-12-20
 in_force: 1969-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20220701-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20270101/it/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/it"
 
 (PA)[^t-1]
 
-del 20 dicembre 1968 (Stato 1° luglio 2022)
+del 20 dicembre 1968 (Stato 1° gennaio 2027)
 
-[^t-1]: Abbreviazione introdotta dall’all. n. II 3 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^t-1]: Abbreviazione introdotta dall’all. cifra II n. 3 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -49,18 +49,20 @@ Sono autorità nel senso del capoverso 1:
 - b.[^1-2] gli organi dell’Assemblea federale e dei tribunali federali per le decisioni di prima istanza e le decisioni su ricorso, in conformità all’ordinamento dei funzionari del 30 giugno 1927[^1-3];
 - c. gli istituti o le aziende federali autonomi;
 - c<sup>bis</sup>.[^1-4] il Tribunale amministrativo federale;
+- c<sup>ter</sup>.[^1-5] il Tribunale federale dei brevetti;
 - d. le commissioni federali;
 - e. altre istanze od organismi indipendenti dall’amministrazione federale, in quanto decidano nell’adempimento d’un compito di diritto pubblico a essi affidato dalla Confederazione.
 
-<sup>3</sup> Nella procedura delle autorità cantonali di ultima istanza che non decidono definitivamente in virtù del diritto pubblico federale sono applicabili soltanto gli articoli 34 a 38 e 61 capoversi 2 e 3 concernenti la notificazione delle decisioni e l’articolo 55 capoversi 2 e 4 concernente la revoca dell’effetto sospensivo. È fatto salvo l’articolo 97 capoverso 2 della legge federale del 20 dicembre 1946[^1-5] sull’assicurazione per la vecchiaia e per i superstiti concernente la revoca dell’effetto sospensivo a ricorsi contro le decisioni delle casse di compensazione.[^1-6] [^1-7]
+<sup>3</sup> Nella procedura delle autorità cantonali di ultima istanza che non decidono definitivamente in virtù del diritto pubblico federale sono applicabili soltanto gli articoli 34 a 38 e 61 capoversi 2 e 3 concernenti la notificazione delle decisioni e l’articolo 55 capoversi 2 e 4 concernente la revoca dell’effetto sospensivo. È fatto salvo l’articolo 97 capoverso 2 della legge federale del 20 dicembre 1946[^1-6] sull’assicurazione per la vecchiaia e per i superstiti concernente la revoca dell’effetto sospensivo a ricorsi contro le decisioni delle casse di compensazione.[^1-7] [^1-8]
 
-[^1-1]: Nuovo testo giusta il n. II della LF del 28 giu. 1972 che modifica quella sull’ordinamento dei funzionari federali, in vigore dal 1° gen. 1973 ([RU 1972 2265](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [FF 1971 II 1409](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
+[^1-1]: Nuovo testo giusta la cifra II della LF del 28 giu. 1972 che modifica quella sull’ordinamento dei funzionari federali, in vigore dal 1° gen. 1973 ([RU 1972 2265](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [FF 1971 II 1409](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
 [^1-2]: Nuovo testo giusta l’all. n. 4 della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
-[^1-3]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)n. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 39 cpv. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1]. Vedi ora la L del 24 mar. 2000 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
+[^1-3]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c,; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)cifra II, [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 39 cpv. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I n. 1]. Vedi ora la L del 24 mar. 2000 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
 [^1-4]: Introdotta dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^1-6]: Nuovo testo del per. giusta l’all. n. 2 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^1-7]: Nuovo testo giusta il n. II 7 della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)419; [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^1-5]: Introdotta dall’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^1-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^1-7]: Nuovo testo del per. giusta l’all. n. 2 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^1-8]: Nuovo testo giusta la cifra II n. 7 della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)419; [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 ### II. Eccezioni
 
@@ -76,10 +78,15 @@ Sono autorità nel senso del capoverso 1:
 
 <sup>4</sup> La procedura davanti al Tribunale amministrativo federale è retta dalla presente legge, in quanto la legge del 17 giugno 2005[^2-3] sul Tribunale amministrativo federale non vi deroghi.[^2-4]
 
+<sup>5</sup> La procedura davanti al Tribunale federale dei brevetti è retta dalla presente legge, in quanto la legge del 20 marzo 2009[^2-5] sul Tribunale federale dei brevetti o la legge del 25 giugno 1954[^2-6] sui brevetti non vi deroghino.[^2-7]
+
 [^2-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-2]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^2-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^2-4]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-5]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^2-6]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^2-7]: Introdotto dall’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 2. Inapplicabilità
 
@@ -93,7 +100,7 @@ Non sono regolate dalla presente legge:
 - d.[^3-1] la procedura della giustizia militare, compresa la giustizia militare disciplinare, la procedura in affari in materia di comando giusta l’articolo 37 come pure la procedura speciale giusta gli articoli 38 e 39 della legge militare del 3 febbraio 1995[^3-2],[^3-3] ...[^3-4];
 - d<sup>bis</sup>.[^3-5] la procedura in materia di assicurazioni sociali, sempre che la legge federale del 6 ottobre 2000[^3-6] sulla parte generale del diritto delle assicurazioni sociali sia applicabile;
 - e.[^3-7] la procedura d’imposizione doganale;
-- [tab] e<sup>bis</sup>.[^3-8] ...
+- e<sup>bis</sup>.[^3-8] ...
 - f. la procedura di prima istanza in altre cause amministrative, quando la loro natura esige di dirimerle sul posto con decisione immediatamente esecutiva.
 
 [^3-1]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 1990, in vigore dal 1° gen. 1991 ([RU 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [FF 1989 II 942](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
@@ -103,7 +110,7 @@ Non sono regolate dalla presente legge:
 [^3-5]: Introdotta dall’all. n. 2 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^3-6]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-7]: Nuovo testo giusta l’all. n. 1 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^3-8]: Introdotta dall’art. 26 del DF del 7 ott. 1983 sull’autorità indipendente di ricorso in materia radiotelevisiva ([RU 1984 153](https://fedlex.data.admin.ch/eli/oc/1984/153_153_153); [FF 1981 III 85](https://fedlex.data.admin.ch/eli/fga/1981/3_105_101_85)). Abrogata dall’all. n. II 1 della LF del 24 mar. 2006 sulla radiotelevisione, con effetto dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
+[^3-8]: Introdotta dall’art. 26 del DF del 7 ott. 1983 sull’autorità indipendente di ricorso in materia radiotelevisiva ([RU 1984 153](https://fedlex.data.admin.ch/eli/oc/1984/153_153_153); [FF 1981 III 85](https://fedlex.data.admin.ch/eli/fga/1981/3_105_101_85)). Abrogata dall’all. cifra II n. 1 della LF del 24 mar. 2006 sulla radiotelevisione, con effetto dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 
 ### III. Disposizioni completive
 
@@ -264,7 +271,7 @@ Le parti sono tenute a cooperare all’accertamento dei fatti:
 <sup>2</sup> L’autorità può dichiarare inammissibili le domande formulate nei procedimenti menzionati alle lettere *a* e *b*, qualora le parti neghino la cooperazione necessaria e ragionevolmente esigibile.
 
 [^13-1]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
-[^13-2]: Introdotto dal n. I 2 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
+[^13-2]: Introdotto dalla cifra I n. 2 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### III. Audizione di testimoni
 
@@ -318,7 +325,7 @@ Ognuno è tenuto a testimoniare.
 
 [^16-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 [^16-2]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^16-3]: Abrogato dal n. I 1 della LF del 23 giu. 2000 concernente l’adeguamento della legislazione federale alla garanzia del segreto redazionale, con effetto dal 1° feb. 2001 ([RU 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^16-3]: Abrogato dalla cifra I n. 1 della LF del 23 giu. 2000 concernente l’adeguamento della legislazione federale alla garanzia del segreto redazionale, con effetto dal 1° feb. 2001 ([RU 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ### 4. Altri obblighi dei testimoni
 
@@ -327,7 +334,7 @@ Ognuno è tenuto a testimoniare.
 Chiunque possa essere ascoltato come testimone deve anche collaborare all’assunzione di altre prove: egli deve, in particolare, produrre i documenti in suo possesso. È fatto salvo l’articolo 51*a* della legge del 4 dicembre 1947[^17-1] di procedura civile federale.[^17-2]
 
 [^17-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
-[^17-2]: Per. introdotto dal n. I 2 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
+[^17-2]: Per. introdotto dalla cifra I n. 2 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 ### 5. Diritti delle parti
 
@@ -376,16 +383,15 @@ Alla procedura probatoria sono, inoltre, applicabili per analogia gli articoli 3
 
 <sup>1</sup> Gli atti scritti devono essere consegnati all’autorità oppure, all’indirizzo di questa, a un ufficio postale svizzero[^21-1] o una rappresentanza diplomatica o consolare svizzera al più tardi l’ultimo giorno del termine.
 
-<sup>1bis</sup> Gli scritti indirizzati all’Istituto federale della proprietà intellettuale[^21-2] non possono essergli validamente trasmessi per il tramite di una rappresentanza diplomatica o consolare svizzera.[^21-3]
+<sup>1bis</sup> Gli scritti indirizzati all’Istituto federale della proprietà intellettuale (IPI) non possono essergli validamente trasmessi per il tramite di una rappresentanza diplomatica o consolare svizzera*.*[^21-2]
 
 <sup>2</sup> Se la parte si rivolge in tempo utile a un’autorità incompetente, il termine è reputato osservato.
 
-<sup>3</sup> Il termine per il pagamento di un anticipo è osservato se l’importo dovuto è versato tempestivamente alla posta svizzera, o addebitato a un conto postale o bancario in Svizzera, in favore dell’autorità.[^21-4]
+<sup>3</sup> Il termine per il pagamento di un anticipo è osservato se l’importo dovuto è versato tempestivamente alla posta svizzera, o addebitato a un conto postale o bancario in Svizzera, in favore dell’autorità.[^21-3]
 
 [^21-1]: Oggi: La Posta Svizzera (Posta).
-[^21-2]: Nuova denominazione secondo il DCF non pubblicato del 19 dic. 1997. Di detta mod. é tenuto conto in tutto il presente testo.
-[^21-3]: Introdotto dal n. II della LF del 17 dic. 1976 che modifica la LF sui brevetti d’invenzione, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^21-4]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^21-2]: Introdotto dalla cifra II della LF del 17 dic. 1976 che modifica la LF sui brevetti d’invenzione ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^21-3]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. In caso di trasmissione per via elettronica
 
@@ -407,7 +413,7 @@ Il Consiglio federale disciplina:
 - b. le modalità di trasmissione;
 - c. le condizioni alle quali può essere richiesta la trasmissione successiva di documenti cartacei in caso di problemi tecnici.
 
-[^21a-1]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. n. II 1 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^21a-1]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. cifra II n. 1 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^21a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### III. Proroga
@@ -441,7 +447,7 @@ Il capoverso 1 non si applica nei procedimenti concernenti:
 
 [^22a-1]: Introdotto dall’all. n. 3 della LF del 4 ott. 1991, in vigore dal 15 feb. 1992 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 cpv. 1 lett. b; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 [^22a-2]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^22a-3]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. 7 n. II 1 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^22a-3]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. 7 cifra II n. 1 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 ### IV. Conseguenze dell’inosser- vanza
 
@@ -455,10 +461,10 @@ L’autorità che assegna un termine commina contemporaneamente le conseguenze d
 
 <sup>1</sup> Se il richiedente o il suo rappresentante è stato impedito senza sua colpa di agire nel termine stabilito, quest’ultimo è restituito in quanto, entro 30 giorni dalla cessazione dell’impedimento, ne sia fatta domanda motivata e sia compiuto l’atto omesso; rimane salvo l’articolo 32 capoverso 2.[^24-1]
 
-<sup>2</sup> Il capoverso 1 non è applicabile ai termini da osservare in materia di brevetti nei confronti dell’Istituto federale della proprietà intellettuale.[^24-2]
+<sup>2</sup> Il capoverso 1 non è applicabile ai termini da osservare in materia di brevetti nei confronti dell’IPI.[^24-2]
 
 [^24-1]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^24-2]: Introdotto dal n. II della LF del 17 dic. 1976 che modifica la LF sui brevetti d’invenzione, in vigore dal 1° gen. 1978 ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^24-2]: Introdotto dalla cifra II della LF del 17 dic. 1976 che modifica la LF sui brevetti d’invenzione ([RU 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### F. Procedura d’accertamento
 
@@ -654,7 +660,7 @@ Previo assenso dei destinatari, le decisioni possono essere notificate per via e
 <sup>2</sup> L’autorità può notificare oralmente alle parti presenti le decisioni incidentali, ma deve confermarle per scritto se una parte ne fa domanda seduta stante; in questo caso, il termine di impugnazione decorre dalla conferma scritta.[^34-3]
 
 [^34-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
-[^34-2]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. n. II 1 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^34-2]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. cifra II n. 1 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^34-3]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Motivazione e indicazione del rimedio giuridico
@@ -816,21 +822,24 @@ Sono autorità di ricorso:
 
 - a. il Consiglio federale, giusta gli articoli 72 e seguenti;
 - b.[^47-1] il Tribunale amministrativo federale secondo gli articoli 31–34 della legge del 17 giugno 2005[^47-2] sul Tribunale amministrativo federale;
-- c.[^47-3] altre autorità che una legge federale designa come autorità di ricorso;
-- d.[^47-4] l’autorità di vigilanza, quando non è ammesso il ricorso al Tribunale amministrativo federale e il diritto federale non designa alcun’altra autorità di ricorso.
+- b<sup>bis</sup>.[^47-3] il Tribunale federale dei brevetti secondo l’articolo 26 capoverso 5 della legge del 20 marzo 2009[^47-4] sul Tribunale federale dei brevetti;
+- c.[^47-5] altre autorità che una legge federale designa come autorità di ricorso;
+- d.[^47-6] l’autorità di vigilanza, quando non è ammesso il ricorso al Tribunale amministrativo federale e il diritto federale non designa alcun’altra autorità di ricorso.
 
-<sup>2</sup> Se un’autorità di ricorso che non giudica in via definitiva ha nel caso singolo prescritto a un’autorità inferiore di prendere una decisione o le ha dato istruzioni circa il contenuto della medesima, la decisione è deferita direttamente all’autorità di ricorso immediatamente superiore; il ricorrente ne è reso attento nell’indicazione dei rimedi giuridici.[^47-5]
+<sup>2</sup> Se un’autorità di ricorso che non giudica in via definitiva ha nel caso singolo prescritto a un’autorità inferiore di prendere una decisione o le ha dato istruzioni circa il contenuto della medesima, la decisione è deferita direttamente all’autorità di ricorso immediatamente superiore; il ricorrente ne è reso attento nell’indicazione dei rimedi giuridici.[^47-7]
 
-<sup>3</sup> ...[^47-6]
+<sup>3</sup> ...[^47-8]
 
 <sup>4</sup> Le istruzioni date da un’autorità di ricorso quando decide la causa e la rimanda all’autorità inferiore non sono istruzioni nel senso del capoverso 2.
 
 [^47-1]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^47-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^47-3]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-4]: Introdotta dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-5]: Nuovo testo giusta l’art. 67 della L del 19 set. 1978 sull’organizzazione dell’amministrazione, in vigore dal 1° giu. 1979 ([RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [FF 1975 I 1441](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
-[^47-6]: Abrogato dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-3]: Introdotta dall’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^47-4]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^47-5]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-6]: Introdotta dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-7]: Nuovo testo giusta l’art. 67 della L del 19 set. 1978 sull’organizzazione dell’amministrazione, in vigore dal 1° giu. 1979 ([RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [FF 1975 I 1441](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
+[^47-8]: Abrogato dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 47a
 
@@ -1010,29 +1019,39 @@ L’autorità di ricorso non può affidare l’istruzione del ricorso a persone 
 
 #### Art. 63
 
-<sup>1</sup> L’autorità di ricorso mette nel dispositivo le spese processuali, consistenti in una tassa di decisione nelle tasse di cancelleria e negli sborsi, di regola a carico della parte soccombente. Se questa soccombe solo parzialmente, le spese processuali sono ridotte. Per eccezione, si possono condonare le spese processuali.
+<sup>1</sup> L’autorità di ricorso mette nel dispositivo le spese processuali, consistenti in una tassa di decisione, nelle tasse di cancelleria e negli sborsi, di regola a carico della parte soccombente.[^63-1] Se questa soccombe solo parzialmente, le spese processuali sono ridotte. Per eccezione, si possono condonare le spese processuali.
 
 <sup>2</sup> Nessuna spesa processuale è messa a carico dell’autorità inferiore ne delle autorità federali, che promuovano il ricorso e soccombano; se l’autorità ricorrente, che soccombe, non è un’autorità federale, le spese processuali le sono addossate in quanto la causa concerna interessi pecuniari di enti o d’istituti autonomi.
 
 <sup>3</sup> Alla parte vincente possono essere addossate solo le spese processuali che abbia cagionato violando le regole di procedura.
 
-<sup>4</sup> L’autorità di ricorso, il suo presidente o il giudice dell’istruzione esige dal ricorrente un anticipo equivalente alle presunte spese processuali. Stabilisce un congruo termine per il pagamento con la comminatoria che altrimenti non entrerà nel merito. Se sussistono motivi particolari, può rinunciare interamente o in parte a esigere l’anticipo.[^63-1]
+<sup>4</sup> L’autorità di ricorso, il suo presidente o il giudice dell’istruzione esige dal ricorrente un anticipo equivalente alle presunte spese processuali. Stabilisce un congruo termine per il pagamento con la comminatoria che altrimenti non entrerà nel merito. Se sussistono motivi particolari, può rinunciare interamente o in parte a esigere l’anticipo.[^63-2]
 
 <sup>4bis</sup>
 
 La tassa di decisione è stabilita in funzione dell’ampiezza e della difficoltà della causa, del modo di condotta processuale e della situazione finanziaria delle parti. Il suo importo oscilla:
 
-- a. da 100 a 5000 franchi nelle controversie senza interesse pecuniario;
-- b. da 100 a 50 000 franchi nelle altre controversie.[^63-2]
+- a. tra 200 e 5000 franchi nelle controversie senza interesse pecuniario;
+- b. tra 200 e 50 000 franchi nelle altre controversie.[^63-3]
 
-<sup>5</sup> Il Consiglio federale disciplina i dettagli relativi alla determinazione delle tasse.[^63-3] Sono fatti salvi l’articolo 16 capoverso 1 lettera a della legge del 17 giugno 2005[^63-4] sul Tribunale amministrativo federale e l’articolo 73 della legge del 19 marzo 2010[^63-5] sull’organizzazione delle autorità penali.[^63-6]
+<sup>5</sup>
 
-[^63-1]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-2]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-3]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+Il Consiglio federale disciplina i dettagli relativi alla determinazione delle tasse. Sono fatte salve le competenze secondo:
+
+- a. l’articolo 16 capoverso 1 lettera a della legge del 17 giugno 2005[^63-4] sul Tribunale amministrativo federale;
+- b. l’articolo 20 capoverso 3 lettera a della legge del 20 marzo 2009[^63-5] sul Tribunale federale dei brevetti; e
+- c. l’articolo 73 della legge del 19 marzo 2010[^63-6] sull’organizzazione delle autorità penali.[^63-7]
+
+<sup>6</sup> Se motivi particolari lo giustificano, nello stabilire la tassa di decisione il Tribunale amministrativo federale, il Tribunale federale dei brevetti e il Tribunale penale federale possono aumentare gli importi di cui al capoverso 4<sup>bis</sup>, ma al massimo fino al doppio. [^63-8]
+
+[^63-1]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^63-2]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^63-3]: Introdotto dall’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^63-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^63-5]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^63-6]: Nuovo testo del per. giusta l’all. n. II 3 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^63-5]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^63-6]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^63-7]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^63-8]: Introdotto dall’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### IV. Spese ripetibili
 
@@ -1046,12 +1065,18 @@ La tassa di decisione è stabilita in funzione dell’ampiezza e della difficolt
 
 <sup>4</sup> L’ente o l’istituto autonomo, nel cui nome l’autorità inferiore ha deciso, risponde dell’indennità addossata a una controparte soccombente, in quanto non possa essere riscossa.
 
-<sup>5</sup> Il Consiglio federale disciplina la determinazione delle spese ripetibili.[^64-1] Sono fatti salvi l’articolo 16 capoverso 1 lettera a della legge del 17 giugno 2005[^64-2] sul Tribunale amministrativo federale e l’articolo 73 della legge del 19 marzo 2010[^64-3] sull’organizzazione delle autorità penali.[^64-4]
+<sup>5</sup>
 
-[^64-1]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^64-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+Il Consiglio federale disciplina la determinazione delle spese ripetibili. Sono fatte salve le competenze secondo:
+
+- a. l’articolo 16 capoverso 1 lettera a della legge del 17 giugno 2005[^64-1] sul Tribunale amministrativo federale;
+- b. l’articolo 20 capoverso 3 lettera a della legge del 20 marzo 2009[^64-2] sul Tribunale federale dei brevetti; e
+- c. l’articolo 73 della legge del 19 marzo 2010[^64-3] sull’organizzazione delle autorità penali.[^64-4]
+
+[^64-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^64-2]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
 [^64-3]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^64-4]: Nuovo testo del per. giusta l’all. n. II 3 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^64-4]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### V. Patrocinio gratuito
 
@@ -1063,16 +1088,23 @@ La tassa di decisione è stabilita in funzione dell’ampiezza e della difficolt
 
 <sup>3</sup> L’onorario e le spese d’avvocato sono messi a carico conformemente all’articolo 64 capoversi 2 a 4.
 
-<sup>4</sup> La parte, ove cessi d’essere nel bisogno, deve rimborsare l’onorario e le spese d’avvocato all’ente o all’istituto autonomo che li ha pagati.
+<sup>4</sup> La parte, ove cessi d’essere nel bisogno, deve rimborsare l’onorario e le spese d’avvocato all’ente o all’istituto autonomo che li ha pagati. Il diritto dell’ente o dell’istituto autonomo al rimborso si prescrive in dieci anni dalla chiusura del procedimento con decisione passata in giudicato.[^65-3]
 
-<sup>5</sup> Il Consiglio federale disciplina la determinazione degli onorari e delle spese.[^65-3] Sono fatti salvi l’articolo 16 capoverso 1 lettera a della legge del 17 giugno 2005[^65-4] sul Tribunale amministrativo federale e l’articolo 73 della legge del 19 marzo 2010[^65-5] sull’organizzazione delle autorità penali.[^65-6]
+<sup>5</sup>
+
+Il Consiglio federale disciplina la determinazione degli onorari e delle spese. Sono fatte salve le competenze secondo:
+
+- a. <sup>l’articolo</sup> 16 capoverso 1 lettera a della legge del 17 giugno 2005[^65-4] sul Tribunale amministrativo federale;
+- b. l’articolo 20 capoverso 3 lettera a della legge del 20 marzo 2009[^65-5] sul Tribunale federale dei brevetti; e
+- c. l’articolo <sup>73</sup> della legge del 19 marzo 2010[^65-6] sull’organizzazione delle autorità penali.[^65-7]
 
 [^65-1]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^65-2]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-3]: Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^65-3]: Per. introdotto dall’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^65-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^65-5]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^65-6]: Nuovo testo del per. giusta l’all. n. II 3 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^65-5]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^65-6]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^65-7]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2027 ([RU 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### K. Revisione
 
@@ -1196,7 +1228,7 @@ Il ricorso al Consiglio federale è inoltre ammissibile contro le decisioni:
 - b. degli organi d’ultima istanza di istituti o aziende federali autonomi;
 - c. delle autorità cantonali di ultima istanza.
 
-[^73-1]: Abrogato dal n. I 1 della LF dell’8 ott. 1999 concernente adeguamenti procedurali alla nuova Cost. federale ([RU 2000 416](https://fedlex.data.admin.ch/eli/oc/2000/92); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^73-1]: Abrogato dalla cifra I n. 1 della LF dell’8 ott. 1999 concernente adeguamenti procedurali alla nuova Cost. federale ([RU 2000 416](https://fedlex.data.admin.ch/eli/oc/2000/92); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Nuovo testo giusta l’all. n. 10 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### c. Sussidiarietà
 
@@ -1239,7 +1271,7 @@ Il ricorso al Consiglio federale non è ammissibile contro le decisioni impugnab
 <sup>3</sup> Se durante la procedura di corapporto sono addotti nuovi elementi di fatto o di diritto, il ricorrente, eventuali controparti o altri interessati devono essere sentiti al riguardo.
 
 [^76-1]: Nuovo testo giusta l’all. n. 3 della LF del 4 ott. 1991, in vigore dal 15 feb. 1992 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 cpv. 1 lett. b; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^76-2]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1[288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 2[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 1 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 ,[1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)all. n. 11486 1498 all. n. 1. [RU 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Vedi ora la L del 21 mar. 1997 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
+[^76-2]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170), [931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II n. 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)cifra II n. 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1,[288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510); [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 2,[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 1, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)all. n. 1,[1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 1. [RU 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)art. 63]. Vedi ora la L del 21 mar. 1997 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
 
 ### 4. Disposizioni completive di procedura
 
@@ -1279,7 +1311,7 @@ Nel rimanente, sono applicabili gli articoli 45 a 70.
 
 <sup>3</sup> Salvo ordinanza d’urgenza del Consiglio federale, il ricorso non ha effetto sospensivo.
 
-[^79-1]: Nuovo testo giusta il n. I 1 della LF dell’8 ott. 1999 concernente adeguamenti procedurali alla nuova Cost. federale, in vigore dal 1° mar. 2000 ([RU 2000 416](https://fedlex.data.admin.ch/eli/oc/2000/92); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^79-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’8 ott. 1999 concernente adeguamenti procedurali alla nuova Cost. federale, in vigore dal 1° mar. 2000 ([RU 2000 416](https://fedlex.data.admin.ch/eli/oc/2000/92); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Capo quinto: Disposizioni finali e transitorie
 
@@ -1293,8 +1325,8 @@ All’entrata in vigore della presente legge sono abrogati:
 - b. gli articoli 124 a 134, 158 e 164 della legge federale del 16 dicembre 1943[^80-2] sull’organizzazione giudiziaria (OG);
 - c. le disposizioni contrarie del diritto federale, con riserva delle disposizioni completive di cui all’articolo 4.
 
-[^80-1]: [CS **1** 247. [RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 72 lett. *a*]
-[^80-2]: [CS **3** 499; RU **1948** 899 art. 86, [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
+[^80-1]: [CS **1** 247. [RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 72 lett. a]
+[^80-2]: [CS **3** 499; RU **1948** 899 art. 86; [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II n. 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II n. 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. cifra II n. 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III cpv. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I n. 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I n. 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I n. 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I n. 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. cifra II n. 4 lett. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. cifra II n. 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 ### B. Disposizione transitoria
 
@@ -1316,7 +1348,7 @@ Data dell’entrata in vigore: 1° ottobre 1969[^82-1]
 
 [^u1-1]
 
-[^u1-1]: [RU 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 8.[2](https://fedlex.data.admin.ch/eli/oc/1994/2_2_2)
+[^u1-1]: [RU 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I n. 8.[2](https://fedlex.data.admin.ch/eli/oc/1994/2_2_2)
 
 Il nuovo diritto è applicabile a tutti i ricorsi interposti all’autorità di ricorso dopo l’entrata in vigore della modificazione della presente legge del 18 marzo 1994.
 

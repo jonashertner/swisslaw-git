@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren (Verwa
 short: VwVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755"
 language: de
-version: 2022-07-01
+version: 2027-01-01
 adopted: 1968-12-20
 in_force: 1969-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20220701-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20270101/de/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/de"
 
 (Verwaltungsverfahrensgesetz, VwVG)[^t-1]
 
-vom 20. Dezember 1968 (Stand am 1. Juli 2022)
+vom 20. Dezember 1968 (Stand am 1. Januar 2027)
 
 [^t-1]: Abkürzung eingefügt durch Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -28,7 +28,7 @@ gestützt auf Artikel 103 der Bundesverfassung[^ingress-1],[^ingress-2] nach Ein
 beschliesst:
 
 [^ingress-1]: [BS **1** 3]. Dieser Bestimmung entsprechen die Art. 177 Abs. 3 und 187 Abs. 1 Bst. d der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^ingress-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^ingress-3]: [BBl 1965 II 1348](https://fedlex.data.admin.ch/eli/fga/1965/2_1348_1383_901)
 
 ## Erster Abschnitt: Geltungsbereich und Begriffe
@@ -49,18 +49,20 @@ Als Behörden im Sinne von Absatz 1 gelten:
 - b.[^1-2] Organe der Bundesversammlung und der eidgenössischen Gerichte für erstinstanzliche Verfügungen und Beschwerdeentscheide nach Beamtengesetz vom 30. Juni 1927[^1-3];
 - c. die autonomen eidgenössischen Anstalten oder Betriebe;
 - c<sup>bis</sup>.[^1-4] das Bundesverwaltungsgericht;
+- c<sup>ter</sup>.[^1-5] das Bundespatentgericht;
 - d. die eidgenössischen Kommissionen;
 - e. andere Instanzen oder Organisationen ausserhalb der Bundesverwaltung, soweit sie in Erfüllung ihnen übertragener öffentlich-rechtlicher Aufgaben des Bundes verfügen.
 
-<sup>3</sup> Auf das Verfahren letzter kantonaler Instanzen, die gestützt auf öffentliches Recht des Bundes nicht endgültig verfügen, finden lediglich Anwendung die Artikel 34−38 und 61 Absätze 2 und 3 über die Eröffnung von Verfügungen und Artikel 55 Absätze 2 und 4 über den Entzug der aufschiebenden Wirkung. Vorbehalten bleibt Artikel 97 des Bundesgesetzes vom 20. Dezember 1946[^1-5] über die Alters- und Hinterlassenenversicherung betreffend den Entzug der aufschiebenden Wirkung von Beschwerden gegen Verfügungen der Ausgleichskassen.[^1-6] [^1-7]
+<sup>3</sup> Auf das Verfahren letzter kantonaler Instanzen, die gestützt auf öffentliches Recht des Bundes nicht endgültig verfügen, finden lediglich Anwendung die Artikel 34−38 und 61 Absätze 2 und 3 über die Eröffnung von Verfügungen und Artikel 55 Absätze 2 und 4 über den Entzug der aufschiebenden Wirkung. Vorbehalten bleibt Artikel 97 des Bundesgesetzes vom 20. Dezember 1946[^1-6] über die Alters- und Hinterlassenenversicherung betreffend den Entzug der aufschiebenden Wirkung von Beschwerden gegen Verfügungen der Ausgleichskassen.[^1-7] [^1-8]
 
 [^1-1]: Fassung gemäss Ziff. II des BG vom 28. Juni 1972 betreffend Änderung des BG über das Dienstverhältnis der Bundesbeamten, in Kraft seit 1. Jan. 1973 ([AS 1972 2435](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [BBl 1971 II 1914](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
-[^1-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 8. Okt. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); BBl **1999** 4809 [5979](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
+[^1-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 8. Okt. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); BBl **1999** 4809, [5979](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
 [^1-3]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 Abs. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]. Heute: das Bundespersonalgesetz vom 24. März 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
-[^1-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^1-6]: Fassung des Satzes gemäss Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^1-7]: Fassung gemäss Ziff. II 7 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^1-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^1-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^1-6]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^1-7]: Fassung des Satzes gemäss Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^1-8]: Fassung gemäss Ziff. II 7 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 ### II. Ausnahmen
 
@@ -76,10 +78,15 @@ Als Behörden im Sinne von Absatz 1 gelten:
 
 <sup>4</sup> Das Verfahren vor dem Bundesverwaltungsgericht richtet sich nach diesem Gesetz, soweit das Verwaltungsgerichtsgesetz vom 17. Juni 2005[^2-3] nicht davon abweicht.[^2-4]
 
+<sup>5</sup> Das Beschwerdeverfahren vor dem Bundespatentgericht richtet sich nach diesem Gesetz, soweit das Patentgerichtsgesetz vom 20. März 2009[^2-5] oder das Patentgesetz vom 25. Juni 1954[^2-6] nicht davon abweichen.[^2-7]
+
 [^2-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^2-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^2-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-5]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^2-6]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^2-7]: Eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 2. Unanwendbarkeit
 
@@ -101,7 +108,7 @@ Dieses Gesetz findet keine Anwendung auf:
 [^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-4]: Fassung gemäss Anhang Ziff. 1 des Militärgesetzes vom 3. Febr. 1995**,** in Kraft seit 1. Jan. 1996 ([AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093); [BBl 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)).
 [^3-5]: Drittes Lemma aufgehoben durch Anhang Ziff. 1 des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^3-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^3-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^3-7]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-8]: Fassung gemäss Anhang Ziff. 1 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^3-9]: Eingefügt durch Art. 26 des BB vom 7. Okt. 1983 über die unabhängige Beschwerdeinstanz für Radio und Fernsehen ([AS 1984 153](https://fedlex.data.admin.ch/eli/oc/1984/153_153_153); [BBl 1981 III 105](https://fedlex.data.admin.ch/eli/fga/1981/3_105_101_85)). Aufgehoben durch Anhang Ziff. II 1 des BG vom 24. März 2006 über Radio und Fernsehen, mit Wirkung seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
@@ -130,7 +137,7 @@ Als Verfügungen gelten Anordnungen der Behörden im Einzelfall, die sich auf ö
 
 <sup>3</sup> Erklärungen von Behörden über Ablehnung oder Erhebung von Ansprüchen, die auf dem Klageweg zu verfolgen sind, gelten nicht als Verfügungen.
 
-[^5-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^5-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Parteien
 
@@ -168,7 +175,7 @@ Als Parteien gelten Personen, deren Rechte oder Pflichten die Verfügung berühr
 
 <sup>3</sup> Kompetenzkonflikte zwischen Behörden, ausgenommen Kompetenzkonflikte mit dem Bundesgericht, dem Bundesverwaltungsgericht oder mit kantonalen Behörden, beurteilt die gemeinsame Aufsichtsbehörde oder, wenn eine solche fehlt, der Bundesrat.[^9-1]
 
-[^9-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^9-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B. Ausstand
 
@@ -195,7 +202,7 @@ Personen, die eine Verfügung zu treffen oder diese vorzubereiten haben, treten 
 
 [^chap2-lvlC-lvlI-1]
 
-[^chap2-lvlC-lvlI-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^chap2-lvlC-lvlI-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 #### Art. 11
 
@@ -205,7 +212,7 @@ Personen, die eine Verfügung zu treffen oder diese vorzubereiten haben, treten 
 
 <sup>3</sup> Solange die Partei die Vollmacht nicht widerruft, macht die Behörde ihre Mitteilungen an den Vertreter.
 
-[^11-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^11-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Obligatorische Vertretung
 
@@ -219,7 +226,7 @@ Personen, die eine Verfügung zu treffen oder diese vorzubereiten haben, treten 
 
 <sup>3</sup> Die Bestimmungen über die Parteientschädigung im Beschwerdeverfahren sind auf die Kosten der Vertretung sinngemäss anwendbar. Die Partei, gegen deren Vorhaben sich die Eingaben richten, hat auf Anordnung der Behörde die Kosten der amtlichen Vertretung vorzuschiessen.
 
-[^11a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^11a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### III. Zustellungsdomizil
 
@@ -231,7 +238,7 @@ Personen, die eine Verfügung zu treffen oder diese vorzubereiten haben, treten 
 
 <sup>2</sup> Die Parteien können überdies eine elektronische Zustelladresse angeben und ihr Einverständnis erklären, dass Zustellungen auf dem elektronischen Weg erfolgen. Der Bundesrat kann vorsehen, dass für elektronische Zustellungen weitere Angaben der Parteien notwendig sind.
 
-[^11b-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^11b-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^11b-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 1 des BB vom 28. Sept. 2018 über die Genehmigung und die Umsetzung des Übereinkommens Nr. 94 des Europarates über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland, in Kraft seit 1. April 2019 ([AS 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [BBl 2017 5947](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
 
 ### D. Feststellung des Sachverhaltes
@@ -291,7 +298,7 @@ Lässt sich ein Sachverhalt auf andere Weise nicht hinreichend abklären, so kö
 <sup>3</sup> Die Behörden im Sinne von Absatz 1 Buchstabe *a* können Personen ausserhalb einer Behörde, die mit einer amtlichen Untersuchung beauftragt sind, zur Zeugeneinvernahme ermächtigen.
 
 [^14-1]: Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997.
-[^14-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^14-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^14-3]: Eingefügt durch Anhang Ziff. 2 des Kartellgesetzes vom 6. Okt. 1995, in Kraft seit 1. Juli 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
 [^14-4]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^14-5]: Eingefügt durch Anhang Ziff. 2 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
@@ -319,7 +326,7 @@ Jedermann ist zur Ablegung des Zeugnisses verpflichtet.
 <sup>3</sup> …[^16-3]
 
 [^16-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
-[^16-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^16-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^16-3]: Aufgehoben durch Ziff. I 1 des BG vom 23. Juni 2000 über die Anpassung der Bundesgesetzgebung an die Gewährleistung des Redaktionsgeheimnisses, mit Wirkung seit 1. Febr. 2001 ([AS 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [BBl 1999 7966](https://fedlex.data.admin.ch/eli/fga/1999/1_7966_7188_6829)).
 
 ### 4. Andere Verpflichtungen von Zeugen
@@ -363,8 +370,8 @@ Auf das Beweisverfahren finden ergänzend die Artikel 37, 39–41 und 43–61 BZ
 
 <sup>3</sup> Ist der letzte Tag der Frist ein Samstag, ein Sonntag oder ein vom Bundesrecht oder vom kantonalen Recht anerkannter Feiertag, so endet sie am nächstfolgenden Werktag. Massgebend ist das Recht des Kantons, in dem die Partei oder ihr Vertreter Wohnsitz oder Sitz hat.[^20-2]
 
-[^20-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^20-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Einhaltung
 
@@ -372,22 +379,21 @@ Auf das Beweisverfahren finden ergänzend die Artikel 37, 39–41 und 43–61 BZ
 
 [^chap2-lvlE-lvlII-lvl1-1]
 
-[^chap2-lvlE-lvlII-lvl1-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap2-lvlE-lvlII-lvl1-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 21
 
 <sup>1</sup> Schriftliche Eingaben müssen spätestens am letzten Tage der Frist der Behörde eingereicht oder zu deren Handen der schweizerischen Post[^21-1] oder einer schweizerischen diplomatischen oder konsularischen Vertretung übergeben werden.
 
-<sup>1bis</sup> Schriftliche Eingaben an das Eidgenössische Institut für geistiges Eigentum[^21-2] können nicht gültig bei einer schweizerischen diplomatischen oder konsularischen Vertretung vorgenommen werden.[^21-3]
+<sup>1bis</sup> Schriftliche Eingaben an das Eidgenössische Institut für Geistiges Eigentum (IGE) können nicht gültig bei einer schweizerischen diplomatischen oder konsularischen Vertretung vorgenommen werden.[^21-2]
 
 <sup>2</sup> Gelangt die Partei rechtzeitig an eine unzuständige Behörde, so gilt die Frist als gewahrt.
 
-<sup>3</sup> Die Frist für die Zahlung eines Vorschusses ist gewahrt, wenn der Betrag rechtzeitig zu Gunsten der Behörde der Schweizerischen Post übergeben oder einem Post- oder Bankkonto in der Schweiz belastet worden ist.[^21-4]
+<sup>3</sup> Die Frist für die Zahlung eines Vorschusses ist gewahrt, wenn der Betrag rechtzeitig zu Gunsten der Behörde der Schweizerischen Post übergeben oder einem Post- oder Bankkonto in der Schweiz belastet worden ist.[^21-3]
 
 [^21-1]: Heute: der Schweizerischen Post (Post)
-[^21-2]: Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997. Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^21-3]: Eingefügt durch Ziff. II des BG vom 17. Dez. 1976 über die Änderung des BG betreffend die Erfindungspatente, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^21-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^21-2]: Eingefügt durch Ziff. II des BG vom 17. Dez. 1976 über die Änderung des BG betreffend die Erfindungspatente, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^21-3]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Bei elektronischer Zustellung
 
@@ -441,9 +447,9 @@ Absatz 1 gilt nicht in Verfahren betreffend:
 - a. die aufschiebende Wirkung und andere vorsorgliche Massnahmen;
 - b. die öffentlichen Beschaffungen.[^22a-3]
 
-[^22a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^22a-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^22a-3]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).Fassung gemäss Anhang 7 Ziff. II 1 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^22a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^22a-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^22a-3]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).Fassung gemäss Anhang 7 Ziff. II 1 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 ### IV. Säumnisfolgen
 
@@ -457,10 +463,10 @@ Die Behörde, die eine Frist ansetzt, droht gleichzeitig die Folgen der Versäum
 
 <sup>1</sup> Ist der Gesuchsteller oder sein Vertreter unverschuldeterweise abgehalten worden, binnen Frist zu handeln, so wird diese wieder hergestellt, sofern er unter Angabe des Grundes innert 30 Tagen nach Wegfall des Hindernisses darum ersucht und die versäumte Rechtshandlung nachholt; vorbehalten bleibt Artikel 32 Absatz 2.[^24-1]
 
-<sup>2</sup> Absatz 1 ist nicht anwendbar auf Fristen, die in Patentsachen gegenüber dem Eidgenössischen Institut für geistiges Eigentum zu wahren sind.[^24-2]
+<sup>2</sup> Absatz 1 ist nicht anwendbar auf Fristen, die in Patentsachen gegenüber dem IGE zu wahren sind.[^24-2]
 
-[^24-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^24-2]: Eingefügt durch Ziff. II des BG vom 17. Dez. 1976 über die Änderung des BG betreffend die Erfindungspatente, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^24-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^24-2]: Eingefügt durch Ziff. II des BG vom 17. Dez. 1976 über die Änderung des BG betreffend die Erfindungspatente, in Kraft seit 1. Jan. 1978 ([AS 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [BBl 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### F. Feststellungsverfahren
 
@@ -488,7 +494,7 @@ Wer ein schutzwürdiges Interesse hat, kann von der Behörde, die für Handlunge
 
 <sup>2</sup> Die Behörde entscheidet durch Verfügung.
 
-[^25a-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25a-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### G. Akteneinsicht
 
@@ -508,7 +514,7 @@ Die Partei oder ihr Vertreter hat Anspruch darauf, in ihrer Sache folgende Akten
 
 <sup>2</sup> Die verfügende Behörde kann eine Gebühr für die Einsichtnahme in die Akten einer erledigten Sache beziehen; der Bundesrat regelt die Bemessung der Gebühr.
 
-[^26-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Ausnahmen
 
@@ -546,7 +552,7 @@ Die Parteien haben Anspruch auf rechtliches Gehör.
 
 [^chap2-lvlH-lvlII-lvl1-1]
 
-[^chap2-lvlH-lvlII-lvl1-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^chap2-lvlH-lvlII-lvl1-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 #### Art. 30
 
@@ -574,7 +580,7 @@ Sie braucht die Parteien nicht anzuhören vor:
 
 <sup>3</sup> Die Behörde macht in ihrer Veröffentlichung auf die Verpflichtung der Parteien aufmerksam, gegebenenfalls eine Vertretung zu bestellen und Verfahrenskosten sowie Parteientschädigung zu zahlen.
 
-[^30a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^30a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### III. Anhören der Gegenpartei
 
@@ -612,7 +618,7 @@ In einer Sache mit widerstreitenden Interessen mehrerer Parteien hört die Behö
 
 <sup>4</sup> Im Übrigen ordnet die Behörde eine Übersetzung an, wo dies nötig ist.
 
-[^33a-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33a-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### H<sup>ter</sup>. Gütliche Einigung und Mediation
 
@@ -632,7 +638,7 @@ In einer Sache mit widerstreitenden Interessen mehrerer Parteien hört die Behö
 
 <sup>6</sup> Eine Partei kann jederzeit verlangen, dass die Sistierung des Verfahrens aufgehoben wird.
 
-[^33b-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33b-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### J. Eröffnung
 
@@ -657,7 +663,7 @@ Mit dem Einverständnis der Partei können Verfügungen elektronisch eröffnet w
 
 [^34-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Fassung gemäss Anhang Ziff. II 1 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^34-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^34-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Begründung und Rechtsmittelbelehrung
 
@@ -680,10 +686,10 @@ Die Behörde kann ihre Verfügungen durch Veröffentlichung in einem amtlichen B
 - c.[^36-3] in einer Sache mit zahlreichen Parteien;
 - d.[^36-4] in einer Sache, in der sich die Parteien ohne unverhältnismässigen Aufwand nicht vollzählig bestimmen lassen.
 
-[^36-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^36-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^36-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^36-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^36-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^36-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^36-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. b; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### III. …
 
@@ -691,7 +697,7 @@ Die Behörde kann ihre Verfügungen durch Veröffentlichung in einem amtlichen B
 
 [^37-1]
 
-[^37-1]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^37-1]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### IV. Mangelhafte Eröffnung
 
@@ -761,7 +767,7 @@ Die Kantone leisten den Bundesbehörden in der Vollstreckung Rechtshilfe.
 
 [^chap3-lvlA-1]
 
-[^chap3-lvlA-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap3-lvlA-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 44
 
@@ -779,7 +785,7 @@ Die Verfügung unterliegt der Beschwerde.
 
 <sup>2</sup> Diese Verfügungen können später nicht mehr angefochten werden.
 
-[^45-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^45-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Andere Zwischenverfügungen
 
@@ -796,7 +802,7 @@ Gegen andere selbständig eröffnete Zwischenverfügungen ist die Beschwerde zul
 
 <sup>2</sup> Ist die Beschwerde nach Absatz 1 nicht zulässig oder wurde von ihr kein Gebrauch gemacht, so sind die betreffenden Zwischenverfügungen durch Beschwerde gegen die Endverfügung anfechtbar, soweit sie sich auf den Inhalt der Endverfügung auswirken.
 
-[^46-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B<sup>bis</sup>. Rechtsverweigerung und Rechtsverzögerung
 
@@ -806,7 +812,7 @@ Gegen andere selbständig eröffnete Zwischenverfügungen ist die Beschwerde zul
 
 Gegen das unrechtmässige Verweigern oder Verzögern einer anfechtbaren Verfügung kann Beschwerde geführt werden.
 
-[^46a-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46a-1]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### C. Beschwerdeinstanz
 
@@ -818,27 +824,30 @@ Beschwerdeinstanzen sind:
 
 - a. der Bundesrat nach den Artikeln 72 ff.;
 - b.[^47-1] das Bundesverwaltungsgericht nach den Artikeln 31–34 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^47-2];
-- c.[^47-3] andere Instanzen, die ein Bundesgesetz als Beschwerdeinstanzen bezeichnet;
-- d.[^47-4] die Aufsichtsbehörde, wenn die Beschwerde an das Bundesverwaltungsgericht unzulässig ist und das Bundesrecht keine andere Beschwerdeinstanz bezeichnet.
+- b<sup>bis</sup>.[^47-3] das Bundespatentgericht nach Artikel 26 Absatz 5 des Patentgerichtsgesetzes vom 20. März 2009[^47-4];
+- c.[^47-5] andere Instanzen, die ein Bundesgesetz als Beschwerdeinstanzen bezeichnet;
+- d.[^47-6] die Aufsichtsbehörde, wenn die Beschwerde an das Bundesverwaltungsgericht unzulässig ist und das Bundesrecht keine andere Beschwerdeinstanz bezeichnet.
 
-<sup>2</sup> Hat eine nicht endgültig entscheidende Beschwerdeinstanz im Einzelfalle eine Weisung erteilt, dass oder wie eine Vorinstanz verfügen soll, so ist die Verfügung unmittelbar an die nächsthöhere Beschwerdeinstanz weiterzuziehen; in der Rechtsmittelbelehrung ist darauf aufmerksam zu machen.[^47-5]
+<sup>2</sup> Hat eine nicht endgültig entscheidende Beschwerdeinstanz im Einzelfalle eine Weisung erteilt, dass oder wie eine Vorinstanz verfügen soll, so ist die Verfügung unmittelbar an die nächsthöhere Beschwerdeinstanz weiterzuziehen; in der Rechtsmittelbelehrung ist darauf aufmerksam zu machen.[^47-7]
 
-<sup>3</sup> …[^47-6]
+<sup>3</sup> …[^47-8]
 
 <sup>4</sup> Weisungen, die eine Beschwerdeinstanz erteilt, wenn sie in der Sache entscheidet und diese an die Vorinstanz zurückweist, gelten nicht als Weisungen im Sinne von Absatz 2.
 
-[^47-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^47-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^47-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-4]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-5]: Fassung gemäss Art. 67 des Verwaltungsorganisationsgesetzes vom 19. Sept. 1978, in Kraft seit 1. Juni 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
-[^47-6]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^47-4]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^47-5]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-6]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-7]: Fassung gemäss Art. 67 des Verwaltungsorganisationsgesetzes vom 19. Sept. 1978, in Kraft seit 1. Juni 1979 ([AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [BBl 1975 I 1453](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
+[^47-8]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 47a
 
 [^47a-1]
 
-[^47a-1]: Eingefügt durch Anhang Ziff. 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 ([AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022); [BBl 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)). Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47a-1]: Eingefügt durch Anhang Ziff. 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 ([AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022); [BBl 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)). Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### D. Beschwerdelegitimation
 
@@ -856,7 +865,7 @@ Zur Beschwerde ist berechtigt, wer:
 
 <sup>2</sup> Zur Beschwerde berechtigt sind ferner Personen, Organisationen und Behörden, denen ein anderes Bundesgesetz dieses Recht einräumt.
 
-[^48-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^48-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### E. Beschwerdegründe
 
@@ -878,7 +887,7 @@ Der Beschwerdeführer kann mit der Beschwerde rügen:
 
 <sup>2</sup> Gegen das unrechtmässige Verweigern oder Verzögern einer Verfügung kann jederzeit Beschwerde geführt werden.
 
-[^50-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^50-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### G. Beschwerdeschrift
 
@@ -888,7 +897,7 @@ Der Beschwerdeführer kann mit der Beschwerde rügen:
 
 [^51-1]
 
-[^51-1]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^51-1]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Inhalt und Form
 
@@ -930,8 +939,8 @@ Die Behandlung der Sache, die Gegenstand der mit Beschwerde angefochtenen Verfü
 
 <sup>5</sup> Vorbehalten bleiben die Bestimmungen anderer Bundesgesetze, nach denen eine Beschwerde keine aufschiebende Wirkung hat.[^55-3]
 
-[^55-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^55-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^55-3]: Eingefügt durch Anhang Ziff. 5 des Versicherungsaufsichtsgesetzes vom 23. Juni 1978, in Kraft seit 1. Jan. 1979 ([AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [BBl 1976 II 873](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)).
 
 ### 2. Andere Massnahmen
@@ -942,7 +951,7 @@ Die Behandlung der Sache, die Gegenstand der mit Beschwerde angefochtenen Verfü
 
 Nach Einreichung der Beschwerde kann die Beschwerdeinstanz, ihr Vorsitzender oder der Instruktionsrichter von Amtes wegen oder auf Begehren einer Partei andere vorsorgliche Massnahmen treffen, um den bestehenden Zustand zu erhalten oder bedrohte Interessen einstweilen sicherzustellen.
 
-[^56-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^56-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Schriftenwechsel
 
@@ -952,7 +961,7 @@ Nach Einreichung der Beschwerde kann die Beschwerdeinstanz, ihr Vorsitzender ode
 
 <sup>2</sup> Sie kann die Parteien auf jeder Stufe des Verfahrens zu einem weiteren Schriftenwechsel einladen oder eine mündliche Verhandlung mit ihnen anberaumen.
 
-[^57-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^57-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### IV. Neue Verfügung
 
@@ -982,7 +991,7 @@ Die Beschwerdeinstanz darf mit der Behandlung der Beschwerdesache weder Personen
 
 <sup>3</sup> Der Vorsitzende einer Verhandlung kann Personen, die sich seinen Anweisungen nicht unterziehen, aus dem Sitzungssaal wegweisen und mit einer Ordnungsbusse bis zu 500 Franken bestrafen.
 
-[^60-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^60-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### J. Beschwerdeentscheid
 
@@ -1024,17 +1033,26 @@ Die Beschwerdeinstanz darf mit der Behandlung der Beschwerdesache weder Personen
 
 Die Spruchgebühr richtet sich nach Umfang und Schwierigkeit der Streitsache, Art der Prozessführung und finanzieller Lage der Parteien. Sie beträgt:
 
-- a. in Streitigkeiten ohne Vermögensinteresse 100–5000 Franken;
-- b. in den übrigen Streitigkeiten 100–50 000 Franken.[^63-2]
+- a. in Streitigkeiten ohne Vermögensinteresse 200–5000 Franken;
+- b. in den übrigen Streitigkeiten 200–50 000 Franken.[^63-2]
 
-<sup>5</sup> Der Bundesrat regelt die Bemessung der Gebühren im Einzelnen.[^63-3] Vorbehalten bleiben Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^63-4] und Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^63-5].[^63-6]
+<sup>5</sup>
 
-[^63-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+Der Bundesrat regelt die Bemessung der Gebühren im Einzelnen. Vorbehalten bleiben die Zuständigkeiten nach:
+
+- a. Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^63-3];
+- b. Artikel 20 Absatz 3 Buchstabe a des Patentgerichtsgesetzes vom 20. März 2009[^63-4]; und
+- c. Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^63-5].[^63-6]
+
+<sup>6</sup> Rechtfertigen es besondere Gründe, so können das Bundesverwaltungsgericht, das Bundespatentgericht und das Bundesstrafgericht bei der Bestimmung der Spruchgebühr über die Höchstbeträge nach Absatz 4<sup>bis</sup> hinausgehen, jedoch höchstens bis zum doppelten Betrag.[^63-7]
+
+[^63-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^63-2]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^63-3]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^63-4]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
 [^63-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^63-6]: Fassung des zweiten Satzes gemäss Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^63-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^63-7]: Eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### IV. Parteientschädigung
 
@@ -1048,12 +1066,18 @@ Die Spruchgebühr richtet sich nach Umfang und Schwierigkeit der Streitsache, Ar
 
 <sup>4</sup> Die Körperschaft oder autonome Anstalt, in deren Namen die Vorinstanz verfügt hat, haftet für die einer unterliegenden Gegenpartei auferlegte Entschädigung, soweit sich diese als uneinbringlich herausstellt.
 
-<sup>5</sup> Der Bundesrat regelt die Bemessung der Entschädigung.[^64-1] Vorbehalten bleiben Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^64-2] und Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^64-3].[^64-4]
+<sup>5</sup>
 
-[^64-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^64-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+Der Bundesrat regelt die Bemessung der Entschädigung. Vorbehalten bleiben die Zuständigkeiten nach:
+
+- a. Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^64-1];
+- b. Artikel 20 Absatz 3 Buchstabe a des Patentgerichtsgesetzes vom 20. März 2009[^64-2]; und
+- c. Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^64-3].[^64-4]
+
+[^64-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^64-2]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
 [^64-3]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^64-4]: Fassung des zweiten Satzes gemäss Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^64-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### V. Unentgeltliche Rechtspflege
 
@@ -1065,16 +1089,23 @@ Die Spruchgebühr richtet sich nach Umfang und Schwierigkeit der Streitsache, Ar
 
 <sup>3</sup> Die Haftung für Kosten und Honorar des Anwalts bestimmt sich nach Artikel 64 Absätze 2–4.
 
-<sup>4</sup> Gelangt die bedürftige Partei später zu hinreichenden Mitteln, so ist sie verpflichtet, Honorar und Kosten des Anwalts an die Körperschaft oder autonome Anstalt zu vergüten, die sie bezahlt hat.
+<sup>4</sup> Gelangt die bedürftige Partei später zu hinreichenden Mitteln, so ist sie verpflichtet, Honorar und Kosten des Anwalts an die Körperschaft oder autonome Anstalt zu vergüten, die sie bezahlt hat. Der Anspruch der Körperschaft oder autonomen Anstalt auf Vergütung verjährt zehn Jahre nach dem rechtskräftigen Abschluss des Verfahrens.[^65-3]
 
-<sup>5</sup> Der Bundesrat regelt die Bemessung von Honorar und Kosten.[^65-3] Vorbehalten bleiben Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^65-4] und Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^65-5].[^65-6]
+<sup>5</sup>
 
-[^65-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-3]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+Der Bundesrat regelt die Bemessung von Honorar und Kosten. Vorbehalten bleiben die Zuständigkeiten nach:
+
+- a. Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vom 17. Juni 2005[^65-4];
+- b. Artikel 20 Absatz 3 Buchstabe a des Patentgerichtsgesetzes vom 20. März 2009[^65-5]; und
+- c. Artikel 73 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^65-6].[^65-7]
+
+[^65-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^65-2]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^65-3]: Zweiter Satz eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^65-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^65-5]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^65-6]: Fassung des Satzes gemäss Anhang Ziff. II 3 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^65-5]: [SR 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^65-6]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^65-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2027 ([AS 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [BBl 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### K. Revision
 
@@ -1097,7 +1128,7 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 
 <sup>3</sup> Gründe im Sinne von Absatz 2 Buchstaben a–c gelten nicht als Revisionsgründe, wenn die Partei sie im Rahmen des Verfahrens, das dem Beschwerdeentscheid voranging, oder auf dem Wege einer Beschwerde, die ihr gegen den Beschwerdeentscheid zustand, geltend machen konnte.
 
-[^66-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^66-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^66-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 [^66-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
@@ -1113,9 +1144,9 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 
 <sup>3</sup> Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsbegehrens finden die Artikel 52 und 53 Anwendung; die Begründung hat insbesondere den Revisionsgrund und die Rechtzeitigkeit des Revisionsbegehrens darzutun. Dieses hat auch die Begehren für den Fall eines neuen Beschwerdeentscheides zu enthalten.
 
-[^67-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^67-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^67-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
-[^67-3]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^67-3]: Eingefügt durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Entscheid
 
@@ -1143,7 +1174,7 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 
 [^70-1]
 
-[^70-1]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^70-1]: Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Aufsichtsbeschwerde
 
@@ -1165,7 +1196,7 @@ Ausserdem zieht sie ihn auf Begehren einer Partei in Revision, wenn:
 
 [^71a71d-1]
 
-[^71a71d-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^71a71d-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 4. Okt. 1991 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Aufgehoben durch Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B. Bundesrat
 
@@ -1184,7 +1215,7 @@ Die Beschwerde an den Bundesrat ist zulässig gegen:
 - a. Verfügungen auf dem Gebiet der inneren und äusseren Sicherheit des Landes, der Neutralität, des diplomatischen Schutzes und der übrigen auswärtigen Angelegenheiten, soweit das Völkerrecht nicht einen Anspruch auf gerichtliche Beurteilung einräumt;
 - b. erstinstanzliche Verfügungen über leistungsabhängige Lohnanteile des Bundespersonals.
 
-[^72-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^72-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### b. Vorinstanzen
 
@@ -1198,7 +1229,7 @@ Die Beschwerde an den Bundesrat ist zulässig gegen Verfügungen:
 - b. letzter Instanzen autonomer Anstalten und Betriebe des Bundes;
 - c. letzter kantonaler Instanzen.
 
-[^73-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^73-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### c. Subsidiarität
 
@@ -1214,7 +1245,7 @@ Die Beschwerde an den Bundesrat ist unzulässig gegen Verfügungen, die durch Be
 
 [^chap4-lvlB-lvlI-lvl2-1]
 
-[^chap4-lvlB-lvlI-lvl2-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap4-lvlB-lvlI-lvl2-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 75
 
@@ -1228,7 +1259,7 @@ Die Beschwerde an den Bundesrat ist unzulässig gegen Verfügungen, die durch Be
 
 [^chap4-lvlB-lvlI-lvl3-1]
 
-[^chap4-lvlB-lvlI-lvl3-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap4-lvlB-lvlI-lvl3-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 76
 
@@ -1247,7 +1278,7 @@ Die Beschwerde an den Bundesrat ist unzulässig gegen Verfügungen, die durch Be
 
 [^chap4-lvlB-lvlI-lvl4-1]
 
-[^chap4-lvlB-lvlI-lvl4-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap4-lvlB-lvlI-lvl4-1]: Fassung gemäss Anhang Ziff. 10 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 77
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)
 short: PA
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755"
 language: fr
-version: 2022-07-01
+version: 2027-01-01
 adopted: 1968-12-20
 in_force: 1969-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20220701-fr-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/737_757_755/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1969-737_757_755-20270101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/20220701/fr"
 
 (PA)[^t-1]
 
-du 20 décembre 1968 (État le 1<sup>er</sup> juillet 2022)
+du 20 décembre 1968 (État le 1<sup>er</sup> janvier 2027)
 
 [^t-1]: Abréviation introduite par l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -43,24 +43,27 @@ arrête:
 
 <sup>2</sup>
 
-Sont réputées autorités au sens de l’al. 1:
+Sont réputés autorités au sens de l’al. 1:[^1-1]
 
-- a.[^1-1] le Conseil fédéral, ses départements, la Chancellerie fédérale et les divisions, entreprises, établissements et autres services de l’administration fédérale qui leur sont subordonnés;
-- b.[^1-2] les organes de l’Assemblée fédérale et des tribunaux fédéraux pour les décisions de première instance et les décisions prises sur recours, conformément au Statut des fonctionnaires du 30 juin 1927[^1-3];
+- a.[^1-2] le Conseil fédéral, ses départements, la Chancellerie fédérale et les divisions, entreprises, établissements et autres services de l’administration fédérale qui leur sont subordonnés;
+- b.[^1-3] les organes de l’Assemblée fédérale et des tribunaux fédéraux pour les décisions de première instance et les décisions prises sur recours, conformément au Statut des fonctionnaires du 30 juin 1927[^1-4];
 - c. les établissements ou entreprises fédéraux autonomes;
-- c<sup>bis</sup>.[^1-4] le Tribunal administratif fédéral;
+- c<sup>bis</sup>.[^1-5] le Tribunal administratif fédéral;
+- c<sup>ter</sup>.[^1-6] le Tribunal fédéral des brevets;
 - d. les commissions fédérales;
 - e. d’autres autorités ou organisations indépendantes de l’administration fédérale, en tant qu’elles statuent dans l’accomplissement de tâches de droit public à elles confiées par la Confédération.
 
-<sup>3</sup> Seuls les art. 34 à 38 et 61, al. 2 et 3, concernant la notification des décisions, et l’art. 55, al. 2 et 4, concernant le retrait de l’effet suspensif, s’appliquent à la procédure devant les autorités cantonales de dernière instance qui ne statuent pas définitivement en vertu du droit public fédéral. Est réservé l’art. 97 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^1-5] relatif au retrait de l’effet suspensif pour les recours formés contre les décisions des caisses de compensation.[^1-6] [^1-7]
+<sup>3</sup> Seuls les art. 34 à 38 et 61, al. 2 et 3, concernant la notification des décisions, et l’art. 55, al. 2 et 4, concernant le retrait de l’effet suspensif, s’appliquent à la procédure devant les autorités cantonales de dernière instance qui ne statuent pas définitivement en vertu du droit public fédéral. Est réservé l’art. 97 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^1-7] relatif au retrait de l’effet suspensif pour les recours formés contre les décisions des caisses de compensation.[^1-8] [^1-9]
 
-[^1-1]: Nouvelle teneur selon le ch. II de la LF du 28 juin 1972 modifiant la LF sur le statut des fonctionnaires, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2489](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [FF 1971 II 1921](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
-[^1-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 8 oct. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4471 [5299](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
-[^1-3]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]. Voir actuellement la LF du 24 mars 2000 sur le personnel de la Confédération ([RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
-[^1-4]: Introduite par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^1-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^1-6]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^1-7]: Nouvelle teneur selon le ch. II 7 de la LF du 24 juin 1977 (9<sup>e</sup> révision de l’AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^1-2]: Nouvelle teneur selon le ch. II de la LF du 28 juin 1972 modifiant la LF sur le statut des fonctionnaires, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2489](https://fedlex.data.admin.ch/eli/oc/1972/2435_2489_2265); [FF 1971 II 1921](https://fedlex.data.admin.ch/eli/fga/1971/2_1914_1921_1409)).
+[^1-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 8 oct. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4471 [5299](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
+[^1-4]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]. Voir actuellement la LF du 24 mars 2000 sur le personnel de la Confédération ([RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
+[^1-5]: Introduite par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^1-6]: Introduite par l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^1-7]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^1-8]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^1-9]: Nouvelle teneur selon le ch. II 7 de la LF du 24 juin 1977 (9<sup>e</sup> révision de l’AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 ### II. Exceptions
 
@@ -76,10 +79,15 @@ Sont réputées autorités au sens de l’al. 1:
 
 <sup>4</sup> La procédure devant le Tribunal administratif fédéral est régie par la présente loi, pour autant que la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^2-3] n’en dispose pas autrement.[^2-4]
 
+<sup>5</sup> La procédure de recours devant le Tribunal fédéral des brevets est régie par la présente loi, pour autant que la loi du 20 mars 2009 sur le Tribunal fédéral des brevets[^2-5] ou la loi du 25 juin 1954 sur les brevets[^2-6] n’en disposent pas autrement.[^2-7]
+
 [^2-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^2-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^2-4]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-4]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-5]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^2-6]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
+[^2-7]: Introduit par l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### 2. Inapplicabilité
 
@@ -130,7 +138,7 @@ Sont considérées comme décisions les mesures prises par les autorités dans d
 
 <sup>3</sup> Lorsqu’une autorité rejette ou invoque des prétentions à faire valoir par voie d’action, sa déclaration n’est pas considérée comme décision.
 
-[^5-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Parties
 
@@ -168,7 +176,7 @@ Ont qualité de parties les personnes dont les droits ou les obligations pourrai
 
 <sup>3</sup> Les conflits de compétence entre autorités, à l’exception des conflits de compétence avec le Tribunal fédéral, avec le Tribunal administratif fédéral ou avec des autorités cantonales, sont tranchés par l’autorité de surveillance commune ou, si celle-ci fait défaut, par le Conseil fédéral.[^9-1]
 
-[^9-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B. Récusation
 
@@ -205,7 +213,7 @@ Les personnes appelées à rendre ou à préparer la décision doivent se récus
 
 <sup>3</sup> Tant que la partie ne révoque pas la procuration, l’autorité adresse ses communications au mandataire.
 
-[^11-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Représentation obligatoire
 
@@ -231,7 +239,7 @@ Les personnes appelées à rendre ou à préparer la décision doivent se récus
 
 <sup>2</sup> Les parties peuvent en outre indiquer une adresse électronique et accepter que les notifications leur soient faites par voie électronique. Le Conseil fédéral peut prévoir que d’autres informations doivent être fournies pour permettre la notification par voie électronique.
 
-[^11b-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^11b-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^11b-2]: Nouvelle teneur de la phrase selon l’annexe ch. 1 de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de la convention n<sup>o</sup> 94 du Conseil de l’Europe sur la notification à l’étranger des documents en matière administrative, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5589](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
 
 ### D. Constatation des faits
@@ -291,7 +299,7 @@ Si les faits ne peuvent pas être suffisamment élucidés d’une autre façon, 
 <sup>3</sup> Les autorités mentionnées à l’al. 1, let. a, peuvent autoriser des personnes étrangères à une autorité à entendre des témoins si elles sont chargées d’une enquête officielle.
 
 [^14-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
-[^14-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^14-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^14-3]: Introduite par l’annexe ch. 2 de la LF du 6 oct. 1995 sur les cartels, en vigueur depuis le 1<sup>er</sup> juil. 1996 ([RO 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546); [FF 1995 I 472](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
 [^14-4]: Introduite par l’annexe ch. 2 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^14-5]: Introduite par l’annexe ch. 1 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
@@ -318,7 +326,7 @@ Chacun est tenu de témoigner.
 <sup>3</sup> ...[^16-3]
 
 [^16-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
-[^16-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^16-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^16-3]: Abrogé par le ch. I 1 de la LF du 23 juin 2000 sur l’adaptation de la législation fédérale à la garantie du secret de rédaction, avec effet au 1<sup>er</sup> fév. 2001 ([RO 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ### 4. Autres obligations des témoins
@@ -362,8 +370,8 @@ Sont en outre applicables par analogie à la procédure probatoire les art. 37, 
 
 <sup>3</sup> Lorsque le délai échoit un samedi, un dimanche ou un jour férié selon le droit fédéral ou cantonal, son terme est reporté au premier jour ouvrable qui suit. Le droit cantonal déterminant est celui du canton où la partie ou son mandataire a son domicile ou son siège.[^20-2]
 
-[^20-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^20-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Observation
 
@@ -371,22 +379,21 @@ Sont en outre applicables par analogie à la procédure probatoire les art. 37, 
 
 [^chap2-lvlE-lvlII-lvl1-1]
 
-[^chap2-lvlE-lvlII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap2-lvlE-lvlII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 21
 
 <sup>1</sup> Les écrits sont remis à l’autorité ou, à son adresse, à un bureau de poste suisse[^21-1] ou à une représentation diplomatique ou consulaire suisse le dernier jour du délai au plus tard.
 
-<sup>1bis</sup> Les écrits adressés à l’Institut fédéral de la propriété intellectuelle[^21-2] ne peuvent pas être remis valablement à une représentation diplomatique ou consulaire suisse.[^21-3]
+<sup>1bis</sup> Les écrits adressés à l’Institut Fédéral de la Propriété Intellectuelle (IPI) ne peuvent pas être remis valablement à une représentation diplomatique ou consulaire suisse.[^21-2]
 
 <sup>2</sup> Lorsque la partie s’adresse en temps utile à une autorité incompétente, le délai est réputé observé.
 
-<sup>3</sup> Le délai pour le versement d’avances est observé si, avant son échéance, la somme due est versée à La Poste Suisse ou débitée en Suisse d’un compte postal ou bancaire en faveur de l’autorité.[^21-4]
+<sup>3</sup> Le délai pour le versement d’avances est observé si, avant son échéance, la somme due est versée à La Poste Suisse ou débitée en Suisse d’un compte postal ou bancaire en faveur de l’autorité.[^21-3]
 
 [^21-1]: Actuellement: La Poste Suisse (Poste).
-[^21-2]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié). Il a été tenu compte de cette mod. dans tout le présent texte.
-[^21-3]: Introduit par le ch. II de la LF du 17 déc. 1976 modifiant la LF sur les brevets d’invention, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
-[^21-4]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^21-2]: Introduit par le ch. II de la LF du 17 déc. 1976 modifiant la LF sur les brevets d’invention, ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^21-3]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. En cas de transmission électronique
 
@@ -408,7 +415,7 @@ Le Conseil fédéral règle:
 - b. les modalités de la transmission;
 - c. les conditions auxquelles l’autorité peut exiger, en cas de problème technique, que des documents lui soient adressés ultérieurement sur papier.
 
-[^21a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nouvelle teneur selon l’annexe ch. 1 de la L sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^21a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nouvelle teneur selon l’annexe ch. 1 de la L sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^21a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### III. Prolongation
@@ -441,7 +448,7 @@ L’al. 1 n’est pas applicable dans les procédures concernant:
 - b. les marchés publics.[^22a-3]
 
 [^22a-1]: Introduit par l’annexe ch. 3 de la LF du 4 oct. 1991, en vigueur depuis le 15 fév. 1992 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al. 1 let. b; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^22a-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^22a-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^22a-3]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nouvelle teneur selon l’annexe 7 ch. II 1 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 ### IV. Conséquences de l’inobservation d’un délai
@@ -456,10 +463,10 @@ L’autorité qui impartit un délai signale en même temps les conséquences de
 
 <sup>1</sup> Si le requérant ou son mandataire a été empêché, sans sa faute, d’agir dans le délai fixé, celui-ci est restitué pour autant que, dans les trente jours à compter de celui où l’empêchement a cessé, le requérant ou son mandataire ait déposé une demande motivée de restitution et ait accompli l’acte omis; l’art. 32, al. 2, est réservé.[^24-1]
 
-<sup>2</sup> L’al. 1 ne s’applique pas aux délais qui doivent être observés en matière de brevets envers l’Institut fédéral de la propriété intellectuelle.[^24-2]
+<sup>2</sup> L’al. 1 ne s’applique pas aux délais qui doivent être observés à l’égard de l’IPI en matière de brevets.[^24-2]
 
-[^24-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^24-2]: Introduit par le ch. II de la LF du 17 déc. 1976 modifiant la LF sur les brevets d’invention, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)).
+[^24-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^24-2]: Introduit par le ch. II de la LF du 17 déc. 1976 modifiant la LF sur les brevets d’invention ([RO 1977 1997](https://fedlex.data.admin.ch/eli/oc/1977/1997_1997_1997); [FF 1976 II 1](https://fedlex.data.admin.ch/eli/fga/1976/2_1_1_1)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### F. Procédure en constatation
 
@@ -487,7 +494,7 @@ Toute personne qui a un intérêt digne de protection peut exiger que l’autori
 
 <sup>2</sup> L’autorité statue par décision.
 
-[^25a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### G. Consultation des pièces
 
@@ -507,7 +514,7 @@ La partie ou son mandataire a le droit de consulter les pièces suivantes au si�
 
 <sup>2</sup> L’autorité appelée à statuer peut percevoir un émolument pour la consultation des pièces d’une affaire liquidée: le Conseil fédéral fixe le tarif des émoluments.
 
-[^26-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Exceptions
 
@@ -611,7 +618,7 @@ Dans une affaire où plusieurs parties défendent des intérêts contraires, l�
 
 <sup>4</sup> Si nécessaire, l’autorité ordonne une traduction.
 
-[^33a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### H<sup>ter</sup>. Accord amiable et médiation
 
@@ -631,7 +638,7 @@ Dans une affaire où plusieurs parties défendent des intérêts contraires, l�
 
 <sup>6</sup> Chaque partie peut en tout temps demander la reprise de la procédure.
 
-[^33b-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33b-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### J. Notification
 
@@ -656,7 +663,7 @@ La notification peut être faite par voie électronique aux parties qui ont acce
 
 [^34-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nouvelle teneur selon l’annexe ch. II 1 de la L du 18 mars 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 957](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^34-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^34-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Motifs et indication des voies de recours
 
@@ -680,7 +687,7 @@ L’autorité peut notifier ses décisions par publication dans une feuille offi
 - d.[^36-4] lorsque l’identification de toutes les parties exigerait des efforts disproportionnés et occasionnerait des frais excessifs.
 
 [^36-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 4 oct. 1991, en vigueur depuis le 15 fév. 1992 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al 1 let. b; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^36-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^36-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 4 oct. 1991, en vigueur depuis le 15 fév. 1992 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al 1 let. b; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 [^36-4]: Introduite par l’annexe ch. 3 de la LF du 4 oct. 1991, en vigueur depuis le 15 fév. 1992 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al 1 let. b; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
@@ -690,7 +697,7 @@ L’autorité peut notifier ses décisions par publication dans une feuille offi
 
 [^37-1]
 
-[^37-1]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^37-1]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### IV. Notification irrégulière
 
@@ -760,7 +767,7 @@ Les cantons assistent les autorités fédérales dans les mesures d’exécution
 
 [^chap3-lvlA-1]
 
-[^chap3-lvlA-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap3-lvlA-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 44
 
@@ -778,7 +785,7 @@ La décision est sujette à recours.
 
 <sup>2</sup> Ces décisions ne peuvent plus être attaquées ultérieurement.
 
-[^45-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^45-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Autres décisions incidentes
 
@@ -795,7 +802,7 @@ Les autres décisions incidentes notifiées séparément peuvent faire l’objet
 
 <sup>2</sup> Si le recours n’est pas recevable en vertu de l’al. 1 ou qu’il n’a pas été utilisé, les décisions incidentes en question peuvent être attaquées avec la décision finale dans la mesure où elles influent sur le contenu de celle-ci.
 
-[^46-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B<sup>bis</sup>. Déni de justice et retard injustifié
 
@@ -805,7 +812,7 @@ Les autres décisions incidentes notifiées séparément peuvent faire l’objet
 
 Le recours est recevable si, sans en avoir le droit, l’autorité saisie s’abstient de rendre une décision sujette à recours ou tarde à le faire.
 
-[^46a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46a-1]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### C. Autorité de recours
 
@@ -817,27 +824,30 @@ Sont autorités de recours:
 
 - a. le Conseil fédéral, selon les art. 72 et suivants;
 - b.[^47-1] le Tribunal administratif fédéral conformément aux art. 31 à 34 de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^47-2];
-- c.[^47-3] les autres autorités désignées comme autorités de recours par d’autres lois fédérales;
-- d.[^47-4] l’autorité de surveillance, si le recours au Tribunal administratif fédéral n’est pas ouvert et que le droit fédéral ne désigne aucune autre autorité de recours.
+- b<sup>bis</sup>.[^47-3] le Tribunal fédéral des brevets conformément à l’art. 26, al. 5, de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets[^47-4];
+- c.[^47-5] les autres autorités désignées comme autorités de recours par d’autres lois fédérales;
+- d.[^47-6] l’autorité de surveillance, si le recours au Tribunal administratif fédéral n’est pas ouvert et que le droit fédéral ne désigne aucune autre autorité de recours.
 
-<sup>2</sup> Lorsqu’une autorité de recours qui ne statuerait pas définitivement a, dans un cas d’espèce, prescrit à une autorité inférieure de prendre une décision ou lui a donné des instructions sur le contenu de cette décision, celle-ci doit être déférée directement à l’autorité de recours immédiatement supérieure; son attention doit être attirée sur ce point dans l’indication des voies de droit.[^47-5]
+<sup>2</sup> Lorsqu’une autorité de recours qui ne statuerait pas définitivement a, dans un cas d’espèce, prescrit à une autorité inférieure de prendre une décision ou lui a donné des instructions sur le contenu de cette décision, celle-ci doit être déférée directement à l’autorité de recours immédiatement supérieure; son attention doit être attirée sur ce point dans l’indication des voies de droit.[^47-7]
 
-<sup>3</sup> ...[^47-6]
+<sup>3</sup> ...[^47-8]
 
 <sup>4</sup> Les instructions données par une autorité de recours lorsque celle-ci statue sur l’affaire et la renvoie à l’autorité inférieure ne sont pas assimilables à des instructions au sens de l’al. 2.
 
-[^47-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^47-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^47-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-4]: Introduite par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^47-5]: Nouvelle teneur selon l’art. 67 de la LF du 19 sept. 1978 sur l’organisation de l’administration, en vigueur depuis le 1<sup>er</sup> juin 1979 ([RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [FF 1975 I 1465](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
-[^47-6]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-3]: Introduite par l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^47-4]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^47-5]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-6]: Introduite par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-7]: Nouvelle teneur selon l’art. 67 de la LF du 19 sept. 1978 sur l’organisation de l’administration, en vigueur depuis le 1<sup>er</sup> juin 1979 ([RO 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)[679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679); [FF 1975 I 1465](https://fedlex.data.admin.ch/eli/fga/1975/1_1453_1465_1441)).
+[^47-8]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 47a
 
 [^47a-1]
 
-[^47a-1]: Introduit par l’annexe ch. 1 de la LF du 21 mars 1997 sur l’organisation du gouvernement et de l’administration ([RO 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022); [FF 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)). Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47a-1]: Introduit par l’annexe ch. 1 de la LF du 21 mars 1997 sur l’organisation du gouvernement et de l’administration ([RO 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022); [FF 1996 V 1](https://fedlex.data.admin.ch/eli/fga/1996/5_1_1_1)). Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### D. Qualité pour recourir
 
@@ -855,7 +865,7 @@ A qualité pour recourir quiconque:
 
 <sup>2</sup> A également qualité pour recourir toute personne, organisation ou autorité qu’une autre loi fédérale autorise à recourir.
 
-[^48-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^48-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### E. Motifs de recours
 
@@ -877,7 +887,7 @@ Le recourant peut invoquer:
 
 <sup>2</sup> Le recours pour déni de justice ou retard injustifié peut être formé en tout temps.
 
-[^50-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^50-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### G. Mémoire de recours
 
@@ -887,7 +897,7 @@ Le recourant peut invoquer:
 
 [^51-1]
 
-[^51-1]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^51-1]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Contenu et forme
 
@@ -929,8 +939,8 @@ Dès le dépôt du recours, le pouvoir de traiter l’affaire, objet de la déci
 
 <sup>5</sup> Sont réservées les dispositions d’autres lois fédérales prévoyant qu’un recours n’a pas d’effet suspensif.[^55-3]
 
-[^55-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^55-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^55-3]: Introduit par l’annexe ch. 5 de la LF du 23 juin 1978 sur la surveillance des assurances, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [FF 1976 II 851](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)).
 
 ### 2. Autres mesures
@@ -941,7 +951,7 @@ Dès le dépôt du recours, le pouvoir de traiter l’affaire, objet de la déci
 
 Après le dépôt du recours, l’autorité de recours, son président ou le juge instructeur peut prendre d’autres mesures provisionnelles, d’office ou sur requête d’une partie, pour maintenir intact un état de fait existant ou sauvegarder des intérêts menacés.
 
-[^56-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^56-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Échange d’écritures
 
@@ -951,7 +961,7 @@ Après le dépôt du recours, l’autorité de recours, son président ou le jug
 
 <sup>2</sup> L’autorité de recours peut, à n’importe quel stade de la procédure, inviter les parties à un échange ultérieur d’écritures ou procéder à un débat.
 
-[^57-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^57-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### IV. Nouvelle décision
 
@@ -981,7 +991,7 @@ L’autorité de recours ne peut pas confier l’instruction du recours à l’a
 
 <sup>3</sup> Le président d’audience peut faire expulser de la salle les personnes qui ne se conforment pas à ses ordres et leur infliger une amende disciplinaire de 500 francs au plus.
 
-[^60-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^60-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### J. Décision sur recours
 
@@ -1023,17 +1033,26 @@ L’autorité de recours ne peut pas confier l’instruction du recours à l’a
 
 L’émolument d’arrêté est calculé en fonction de l’ampleur et de la difficulté de la cause, de la manière de procéder des parties et de leur situation financière. Son montant est fixé:
 
-- a. entre 100 et 5000 francs dans les contestations non pécuniaires;
-- b. entre 100 et 50 000 francs dans les autres contestations.[^63-2]
+- a. entre 200 et 5000 francs dans les contestations non pécuniaires;
+- b. entre 200 et 50 000 francs dans les autres contestations.[^63-2]
 
-<sup>5</sup> Le Conseil fédéral établit un tarif des émoluments.[^63-3] L’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^63-4] et l’art. 73 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^63-5] sont réservés.[^63-6]
+<sup>5</sup>
 
-[^63-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^63-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+Le Conseil fédéral établit un tarif des émoluments. Sont réservées les compétences visées:
+
+- a. à l’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^63-3];
+- b. à l’art. 20, al. 3, let a, de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets[^63-4], et
+- c. à l’art. 73 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^63-5].[^63-6]
+
+<sup>6</sup> Si des motifs particuliers le justifient, le Tribunal administratif fédéral, le Tribunal fédéral des brevets et le Tribunal pénal fédéral peuvent, lors de la fixation de l’émolument d’arrêté, majorer les montants mentionnés à l’al. 4<sup>bis</sup> jusqu’au double.[^63-7]
+
+[^63-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^63-2]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^63-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^63-4]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
 [^63-5]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^63-6]: Nouvelle teneur de la phrase selon l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^63-6]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^63-7]: Introduit par l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### IV. Dépens
 
@@ -1047,12 +1066,18 @@ L’émolument d’arrêté est calculé en fonction de l’ampleur et de la dif
 
 <sup>4</sup> La collectivité ou l’établissement autonome au nom de qui l’autorité inférieure a statué répond des dépens mis à la charge de la partie adverse déboutée en tant qu’ils se révéleraient irrécouvrables.
 
-<sup>5</sup> Le Conseil fédéral établit un tarif des dépens.[^64-1] L’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^64-2] et l’art. 73 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^64-3] sont réservés.[^64-4]
+<sup>5</sup>
 
-[^64-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^64-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+Le Conseil fédéral établit un tarif des dépens. Sont réservées les compétences visées:
+
+- a. à l’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^64-1];
+- b. à l’art. 20, al. 3, let. a, de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets[^64-2], et
+- c. à l’art. 73 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^64-3].[^64-4]
+
+[^64-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^64-2]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
 [^64-3]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^64-4]: Nouvelle teneur de la phrase selon l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^64-4]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### V. Assistance judiciaire
 
@@ -1064,16 +1089,23 @@ L’émolument d’arrêté est calculé en fonction de l’ampleur et de la dif
 
 <sup>3</sup> Les frais et honoraires d’avocat sont supportés conformément à l’art. 64, al. 2 à 4.
 
-<sup>4</sup> Si la partie indigente revient à meilleure fortune, elle est tenue de rembourser les honoraires et les frais d’avocat à la collectivité ou à l’établissement autonome qui les a payés.
+<sup>4</sup> Si la partie indigente revient à meilleure fortune, elle est tenue de rembourser les honoraires et les frais d’avocat à la collectivité ou à l’établissement autonome qui les a payés. Le droit au remboursement de la collectivité ou de l’établissement autonome se prescrit par dix ans à compter de la clôture définitive de la procédure.[^65-3]
 
-<sup>5</sup> Le Conseil fédéral établit un tarif des honoraires et des frais.[^65-3] L’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^65-4] et l’art. 73 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^65-5] sont réservés.[^65-6]
+<sup>5</sup>
 
-[^65-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^65-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+Le Conseil fédéral établit un tarif des honoraires et des frais. Sont réservées les compétences visées:
+
+- a. à l’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal administratif fédéral[^65-4];
+- b. à l’art. 20, al. 3, let. a, de la loi du 20 mars 2009 sur le Tribunal fédéral des brevets[^65-5], et
+- c. à l’art. 73 de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^65-6].[^65-7]
+
+[^65-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^65-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^65-3]: Phrase introduite par l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^65-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
-[^65-5]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
-[^65-6]: Nouvelle teneur de la phrase selon l’annexe ch. II 3 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^65-5]: [RS 173.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5632)
+[^65-6]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^65-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ### K. Révision
 
@@ -1096,7 +1128,7 @@ Elle procède en outre, à la demande d’une partie, à la révision de sa déc
 
 <sup>3</sup> Les motifs mentionnés à l’al. 2, let. a à c, n’ouvrent pas la révision s’ils pouvaient être invoqués dans la procédure précédant la décision sur recours ou par la voie du recours contre cette décision.
 
-[^66-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^66-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^66-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 [^66-3]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
@@ -1112,9 +1144,9 @@ Elle procède en outre, à la demande d’une partie, à la révision de sa déc
 
 <sup>3</sup> Les art. 52 et 53 s’appliquent à la demande de révision qui doit notamment indiquer pour quel motif la demande est présentée, si le délai utile est observé et contenir les conclusions prises pour le cas où une nouvelle décision sur recours interviendrait.
 
-[^67-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^67-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^67-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
-[^67-3]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^67-3]: Introduit par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### III. Décision
 
@@ -1142,7 +1174,7 @@ Elle procède en outre, à la demande d’une partie, à la révision de sa déc
 
 [^70-1]
 
-[^70-1]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^70-1]: Abrogé par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Dénonciation
 
@@ -1164,7 +1196,7 @@ Elle procède en outre, à la demande d’une partie, à la révision de sa déc
 
 [^71a71d-1]
 
-[^71a71d-1]: Introduits par l’annexe ch. 3 de la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogés par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^71a71d-1]: Introduits par l’annexe ch. 3 de la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogés par l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### B. Conseil fédéral
 
@@ -1183,7 +1215,7 @@ Le recours au Conseil fédéral est recevable contre:
 - a. les décisions concernant la sûreté intérieure ou extérieure du pays, la neutralité, la protection diplomatique et les autres affaires intéressant les relations extérieures, à moins que le droit international ne confère un droit à ce que la cause soit jugée par un tribunal;
 - b. les décisions rendues en première instance relatives à la composante «prestation» du salaire du personnel de la Confédération.
 
-[^72-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^72-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### b. Autorités inférieures
 
@@ -1197,7 +1229,7 @@ Le recours au Conseil fédéral est recevable contre les décisions:
 - b. des autorités de dernière instance des entreprises et établissements fédéraux autonomes;
 - c. des autorités cantonales de dernière instance.
 
-[^73-1]: Abrogé par le ch. I 1 de la LF du 8 oct. 1999 sur les adaptations de lois de procédure à la nouvelle Cst. fédérale ([RO 2000 416](https://fedlex.data.admin.ch/eli/oc/2000/92); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^73-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### c. Subsidiarité du recours
 
@@ -1207,13 +1239,13 @@ Le recours au Conseil fédéral est recevable contre les décisions:
 
 Le recours au Conseil fédéral n’est pas recevable contre les décisions qui peuvent faire l’objet d’un recours devant une autre autorité fédérale ou d’une opposition.
 
-[^74-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^74-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Instruction du recours
 
 [^chap4-lvlB-lvlI-lvl2-1]
 
-[^chap4-lvlB-lvlI-lvl2-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap4-lvlB-lvlI-lvl2-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 75
 
@@ -1227,7 +1259,7 @@ Le recours au Conseil fédéral n’est pas recevable contre les décisions qui 
 
 [^chap4-lvlB-lvlI-lvl3-1]
 
-[^chap4-lvlB-lvlI-lvl3-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap4-lvlB-lvlI-lvl3-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 76
 
@@ -1246,7 +1278,7 @@ Le recours au Conseil fédéral n’est pas recevable contre les décisions qui 
 
 [^chap4-lvlB-lvlI-lvl4-1]
 
-[^chap4-lvlB-lvlI-lvl4-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^chap4-lvlB-lvlI-lvl4-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 77
 
