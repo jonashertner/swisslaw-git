@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2012 sulla liquidità delle banche e delle soc
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: it
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20270101/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20270101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20270101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20250101/it"
 
 (Ordinanza sulla liquidità, OLiq)[^t-1]
 
-del 30 novembre 2012 (Stato 1° gennaio 2025)
+del 30 novembre 2012 (Stato 1° gennaio 2027)
 
-[^t-1]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^t-1]: Nuovo testo giusta l’all. 1 cifra II n. 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 Il Consiglio federale svizzero,
 
@@ -27,9 +27,9 @@ visti gli articoli 4 capoverso 2, 10 capoverso 4 lettera a e 56 della legge dell
 
 ordina:
 
-[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^ingress-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^ingress-3]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^ingress-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^ingress-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^ingress-3]: Nuovo testo giusta l’all. 1 cifra II n. 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -41,7 +41,7 @@ ordina:
 
 <sup>2</sup> La FINMA emana disposizioni tecniche di esecuzione.
 
-[^1-1]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-1]: Nuovo testo giusta l’all. 1 cifra II n. 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 1a
 
@@ -52,7 +52,7 @@ ordina:
 <sup>2</sup> La versione determinante degli standard minimi di Basilea da applicare è riportata nell’allegato 1 e nell’allegato 1 dell’ordinanza del 1° giugno 2012[^1a-2] sui fondi propri (OFoP).
 
 [^1a-1]: Introdotto dall’all. n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^1a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^1a-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ ordina:
 
 <sup>2</sup> Esse detengono una riserva di liquidità durevole e calcolata in modo adeguato per far fronte a peggioramenti della liquidità che si producono in tempi brevi e assicurano un adeguato finanziamento a medio-lungo termine.[^2-1]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 ## Capitolo 2: ...
 
@@ -70,7 +70,7 @@ ordina:
 
 [^34-1]
 
-[^34-1]: Abrogati dal n. I dell’O dell’11 set. 2020, con effetto dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^34-1]: Abrogati dalla cifra I dell’O dell’11 set. 2020, con effetto dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 ## Capitolo 3: Esigenze in materia di liquidità
 
@@ -96,7 +96,7 @@ Le banche sono obbligate a gestire in modo adeguato i rischi di liquidità a liv
 
 **Sistemi di misurazione e gestione dei rischi**
 
-<sup>1</sup> Le banche stabiliscono processi adeguati per individuare, valutare, gestire e sorvegliare i rischi di liquidità. In particolare, devono allestire un prospetto sulla loro liquidità per periodi di diversa durata con un confronto dei potenziali afflussi e deflussi di fondi nelle posizioni di bilancio e fuori bilancio.[^7-1]
+<sup>1</sup> Le banche stabiliscono processi adeguati per individuare, valutare, gestire e sorvegliare i rischi di liquidità. A tale scopo devono disporre di un piano di liquidità e di finanziamento adeguato. In particolare, devono allestire un prospetto sulla loro liquidità per periodi di diversa durata con un confronto dei potenziali afflussi e deflussi di fondi nelle posizioni di bilancio e fuori bilancio.[^7-1]
 
 <sup>2</sup> Esse individuano, gestiscono e sorvegliano i rischi di liquidità nonché il fabbisogno di finanziamento del gruppo finanziario e di tutte le entità giuridiche, i settori di attività e le valute rilevanti per il rischio di liquidità, considerando le restrizioni legali, regolamentari e operative al trasferimento di liquidità.
 
@@ -104,7 +104,7 @@ Le banche sono obbligate a gestire in modo adeguato i rischi di liquidità a liv
 
 <sup>4</sup> Le banche controllano i titoli che generano liquidità e distinguono tra titoli gravati e non gravati. Esse devono poter dimostrare in ogni momento dove sono detenuti i titoli e come poterli mobilitare tempestivamente.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^7-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 8
 
@@ -132,9 +132,9 @@ La scelta degli scenari di stress deve tener conto dei seguenti elementi:
 
 <sup>4</sup> Nella valutazione dello stress test occorre analizzare le ripercussioni sul conto economico.
 
-[^9-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^9-2]: Introdotto dal n. III dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^9-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^9-2]: Introdotto dalla cifra III dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
 #### Art. 10
 
@@ -148,14 +148,14 @@ La scelta degli scenari di stress deve tener conto dei seguenti elementi:
 
 [^11-1]
 
-[^11-1]: Abrogato dal n. I dell’O dell’11 set. 2020, con effettto dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^11-1]: Abrogato dalla cifra I dell’O dell’11 set. 2020, con effettto dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 ### Sezione 2: Esigenze quantitative: quota di liquidità a breve termine
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
-[^chap3-sec2-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015, art. 17*e* cpv. 2 e 3 in vigore dal 1° gen. 2017 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
-[^chap3-sec2-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec2-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015, art. 17*e* cpv. 2 e 3 in vigore dal 1° gen. 2017 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^chap3-sec2-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 12
 
@@ -174,7 +174,7 @@ L’indicatore LCR corrisponde al quoziente fra:
 - a. il volume di HQLA (numeratore);
 - b. il valore del deflusso netto di fondi prospettato per l’orizzonte temporale di 30 giorni previsto nello scenario di stress (denominatore).
 
-[^13-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 14
 
@@ -208,12 +208,12 @@ Nel singolo caso essa può:
 
 <sup>6</sup> Su richiesta della banca, la FINMA può esonerare dall’adempimento del requisito LCR le succursali estere in Svizzera, le cui società madri sottostanno all’estero a una vigilanza e a requisiti legali comparabili a quelli svizzeri, se informazioni equiparabili inerenti al requisito LCR vengono pubblicate su base consolidata.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^14-2]: Introdotta dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^14-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^14-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^14-5]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^14-6]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^14-2]: Introdotta dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^14-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^14-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^14-5]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^14-6]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 15
 
@@ -257,24 +257,35 @@ Gli attivi della categoria 1 comprendono i seguenti valori patrimoniali:
   - 8\. di una banca multilaterale di sviluppo;
 
 - c<sup>bis</sup>. i titoli negoziabili garantiti dalle istituzioni elencate nella lettera c;
-- d.[^15a-1] i titoli negoziabili che consistono in crediti nella valuta del Paese nei confronti di un Governo centrale o una banca centrale, emessi dal Governo centrale interessato o dalla banca centrale nel Paese interessato o nel Paese di provenienza della banca, se il Governo centrale presenta una ponderazione del rischio superiore allo 0 per cento conformemente all’allegato 2 numero 1.1 OFoP[^15a-2]; nonché
-- e.[^15a-3] i titoli negoziabili che rappresentano crediti in valuta estera nei confronti della Confederazione o della Banca nazionale svizzera (BNS) fino a concorrenza del deflusso netto di fondi dovuto alla situazione di stress, nella valuta estera in cui si presenta il rischio di liquidità; questo vale anche se per la Svizzera la ponderazione del rischio supera lo 0 per cento conformemente all’allegato 2 numero 1.1 OFoP.
+- d.[^15a-1] i titoli negoziabili che consistono in crediti nella valuta del Paese nei confronti di un Governo centrale o una banca centrale, emessi dal Governo centrale interessato o dalla banca centrale nel Paese interessato o nel Paese di provenienza della banca, se il Governo centrale presenta una ponderazione del rischio superiore allo 0 per cento conformemente all’allegato 2 numero 1.1 OFoP[^15a-2];
+- d<sup>bis</sup>.[^15a-3] i titoli negoziabili che consistono in crediti in franchi svizzeri nei confronti di Cantoni; e
+- e.[^15a-4] i titoli negoziabili che rappresentano crediti in valuta estera nei confronti della Confederazione o della Banca nazionale svizzera (BNS) fino a concorrenza del deflusso netto di fondi dovuto alla situazione di stress, nella valuta estera in cui si presenta il rischio di liquidità; questo vale anche se per la Svizzera la ponderazione del rischio supera lo 0 per cento conformemente all’allegato 2 numero 1.1 OFoP.
 
 <sup>2</sup>
 
 I titoli negoziabili di cui al capoverso 1 lettere c e c<sup>bis</sup> possono rientrare nella categoria 1 solo se soddisfano le seguenti condizioni:
 
-- a.[^15a-4] presentano una ponderazione del rischio dello 0 per cento conformemente all’allegato 2 numero 1 o 3.2 OFoP;
+- a.[^15a-5] presentano una ponderazione del rischio dello 0 per cento conformemente all’allegato 2 numero 1 o 3.2 OFoP;
 - b. in caso di crediti garantiti, sussiste la garanzia esplicita, irrevocabile e incondizionata di un Governo centrale o di un ente territoriale subordinato oppure la responsabilità solidale di più enti territoriali;
-- c. non rappresentano un impegno di un istituto finanziario ai sensi dell’allegato 1*a*[^15a-5] o di una società correlata a un istituto finanziario. Costituiscono un’eccezione i prestiti di istituti finanziari istituiti da un Governo centrale o dal Governo di un ente territoriale di diritto pubblico subordinato, allo scopo di assegnare prestiti con finalità di incentivazione su mandato statale, su base non concorrenziale e senza scopo di lucro.
+- c. non rappresentano un impegno di un istituto finanziario ai sensi dell’allegato 1*a*[^15a-6] o di una società correlata a un istituto finanziario. Costituiscono un’eccezione i prestiti di istituti finanziari istituiti da un Governo centrale o dal Governo di un ente territoriale di diritto pubblico subordinato, allo scopo di assegnare prestiti con finalità di incentivazione su mandato statale, su base non concorrenziale e senza scopo di lucro.
+
+<sup>2bis</sup>
+
+I titoli negoziabili che consistono in crediti nei confronti di enti territoriali subordinati o altri enti di diritto pubblico secondo il capoverso 1 lettera c numero 3 oppure che sono garantiti da tali enti secondo il capoverso 1 lettera c<sup>bis</sup> possono inoltre rientrare nella categoria 1 se soddisfano le condizioni di cui al capoverso 2 lettere b e c e anche le seguenti condizioni:
+
+- a. il Governo centrale sovraordinato presenta una ponderazione del rischio dello 0 per cento conformemente all’allegato 2 numero 1 OFoP;
+- b. gli enti sono dotati di autonomia di bilancio, del diritto di riscuotere imposte, di garanzie del Governo centrale o di particolari provvedimenti istituzionali che riducono il loro rischio di inadempienza;
+- c. in caso di enti esteri, nel calcolo del requisito LCR per tali titoli si fa riferimento alla ponderazione del rischio del Governo centrale anche secondo il pertinente diritto estero.[^15a-7]
 
 <sup>3</sup> Gli attivi della categoria 1 sono calcolati al valore attuale di mercato.
 
 [^15a-1]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^15a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^15a-3]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^15a-3]: Introdotta dall’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 [^15a-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^15a-5]: Nuova espressione giusta il n. 3 cpv. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^15a-5]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-6]: Nuova espressione giusta il n. 3 cpv. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^15a-7]: Introdotto dall’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 15b
 
@@ -325,14 +336,14 @@ La FINMA può assegnare alla categoria 2 (attivi della categoria 2b) ulteriori a
 
 <sup>6</sup> Gli attivi della categoria 2b sono valutati al valore attuale di mercato, applicando una riduzione del valore pari almeno al 50 per cento.
 
-[^15b-1]: Abrogati dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^15b-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^15b-3]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15b-1]: Abrogati dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15b-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15b-3]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^15b-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^15b-5]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15b-5]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^15b-6]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^15b-7]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^15b-8]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15b-8]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 15c
 
@@ -377,8 +388,8 @@ Gli attivi delle categorie 1 e 2 che rappresentano titoli, prestiti o titoli di 
 
 <sup>8</sup> Non sono computate nel volume di HQLA della banca le HQLA che una succursale o un’unità consolidata detiene per soddisfare le esigenze locali in materia di liquidità e che superano il contributo di tale succursale o unità al deflusso netto di fondi della banca secondo l’articolo 16.[^15c-2]
 
-[^15c-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^15c-2]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^15c-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15c-2]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 15d
 
@@ -390,7 +401,7 @@ La FINMA definisce:
 - b. i requisiti operativi che la gestione delle HQLA deve adempiere affinché sia possibile acquisire liquidità in modo affidabile nell’orizzonte temporale di 30 giorni anche conformemente allo scenario di stress;
 - c.[^15d-1] le modalità per un’adeguata diversificazione delle HQLA.
 
-[^15d-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15d-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 15e
 
@@ -398,7 +409,12 @@ La FINMA definisce:
 
 <sup>1</sup> Le operazioni di finanziamento garantite vengono pareggiate se comprendono lo scambio di HQLA e scadono entro 30 giorni di calendario.
 
-<sup>2</sup> Sono considerate operazioni di finanziamento garantite i collateral swap e i finanziamenti di titoli come le operazioni di pronti contro termine, le operazioni di prestito di titoli e i crediti garantiti da titoli.[^15e-1]
+<sup>2</sup>
+
+Sono considerate operazioni di finanziamento garantite:
+
+- a. i collateral swap;
+- b. i finanziamenti di titoli come le operazioni di pronti contro termine, le operazioni di prestito di titoli e i crediti garantiti da titoli, ad eccezione dei depositi di titoli costituiti in pegno nel settore della clientela privata.[^15e-1]
 
 <sup>3</sup> Le operazioni della BNS che diminuiscono la liquidità vengono pareggiate indipendentemente dal tipo di garanzia se scadono entro 30 giorni di calendario. Le operazioni della BNS che aumentano la liquidità vengono pareggiate solo se sono garantite da HQLA e scadono entro 30 giorni di calendario.
 
@@ -408,8 +424,8 @@ La FINMA definisce:
 
 <sup>6</sup> La FINMA emana disposizioni tecniche di esecuzione per le operazioni di finanziamento garantite effettuate nelle valute estere nelle quali la banca non possiede alcun conto presso la corrispondente banca centrale estera.[^15e-2]
 
-[^15e-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^15e-2]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15e-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^15e-2]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 16
 
@@ -420,6 +436,10 @@ La FINMA definisce:
 <sup>2</sup> Nel computo gli afflussi di fondi prospettati possono essere presi in considerazione per un importo massimo pari al 75 per cento dei deflussi di fondi prospettati. Su richiesta, la FINMA può esentare le società di intermediazione mobiliare senza conto presso la Banca centrale da questa limitazione.[^16-1]
 
 <sup>3</sup> I deflussi di fondi sono calcolati ponderando le posizioni di bilancio e fuori bilancio conformemente alla rispettiva categoria di deflusso con i tassi di deflusso determinanti ai sensi dell’allegato 2.
+
+<sup>3bis</sup> I clienti privati sono esclusivamente persone fisiche.[^16-2]
+
+<sup>3ter</sup> I depositi sono considerati stabili se sono interamente coperti da una garanzia dei depositi o una garanzia equiparabile di un Governo centrale e sono detenuti in conti transattivi oppure sono oggetto di una relazione cliente consolidata. La FINMA disciplina le condizioni.[^16-3]
 
 <sup>4</sup> Se una posizione può rientrare in più categorie di deflusso, è determinante la categoria che presenta il tasso di deflusso maggiore.
 
@@ -438,7 +458,9 @@ In deroga all’allegato 2, la FINMA può:
 - a. fissare tassi di deflusso inferiori per depositi stabili all’estero che sottostanno a un sistema di garanzia dei depositi particolarmente sicuro;
 - b. riconoscere un approccio basato su un modello interno per il computo del maggiore fabbisogno di liquidità dovuto a variazioni del valore di mercato di operazioni su derivati e di altre transazioni finanziarie.
 
-[^16-1]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^16-1]: Nuovo testo giusta l’all. 1 cifra II n. 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^16-2]: Introdotto dall’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^16-3]: Introdotto dall’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17
 
@@ -497,15 +519,16 @@ La FINMA disciplina:
 
 <sup>5</sup>
 
-La FINMA definisce speciali obblighi di notifica per le banche che:
+La FINMA può definire speciali obblighi di notifica per le banche che:[^17c-3]
 
 - a. detengono posizioni in valute estere rilevanti di cui all’articolo 17*a* capoverso 1;
 - b. si finanziano in misura significativa tramite succursali all’estero di cui all’articolo 14 capoverso 5.
 
 <sup>6</sup> Può esigere che la documentazione sulla liquidità contenga informazioni supplementari riguardo ad attivi con incidenza sulla liquidità e non considerati HQLA.
 
-[^17c-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^17c-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^17c-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^17c-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^17c-3]: Nuovo testo giusta l’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17d
 
@@ -525,13 +548,13 @@ Per i deflussi e gli afflussi di fondi tra una società madre e le filiali dello
 
 <sup>4</sup> La FINMA disciplina i particolari della pubblicazione. In particolare definisce quali informazioni supplementari e rilevanti per il requisito LCR vanno pubblicate.
 
-[^17e-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^17e-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 ### Sezione 2*a*: Esigenze quantitative: quota di finanziamento
 
 [^chap3-sec2a-1]
 
-[^chap3-sec2a-1]: Introdotta dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec2a-1]: Introdotta dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17f
 
@@ -541,7 +564,7 @@ Per i deflussi e gli afflussi di fondi tra una società madre e le filiali dello
 
 <sup>2</sup> Il finanziamento è stabile se gli attivi e le posizioni fuori bilancio elencate nell’allegato 5 numeri 8, 9.1 e 9.2 sono finanziati in modo durevole e sostenibile.
 
-[^17f-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17f-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Nuovo testo giusta la cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17g
 
@@ -552,7 +575,7 @@ La NSFR corrisponde al quoziente fra:
 - a. l’ammontare di provvista stabile disponibile (*Available Stable Funding*, ASF) al numeratore;
 - b. l’ammontare di provvista stabile obbligatoria (*Required Stable Funding*, RSF) al denominatore.
 
-[^17g-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17g-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17h
 
@@ -575,7 +598,7 @@ Per singoli istituti appartenenti a un gruppo finanziario la FINMA può ammetter
 
 <sup>6</sup> È applicabile per analogia l’articolo 14 capoversi 3–6.
 
-[^17h-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17h-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17i
 
@@ -600,9 +623,9 @@ La FINMA emana disposizioni di esecuzione per il calcolo:
 - b. di operazioni di finanziamento parzialmente garantite;
 - c. di operazioni di finanziamento garantite senza limitazione della durata.
 
-[^17i-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17i-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 [^17i-2]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^17i-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17i-3]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 17j
 
@@ -618,8 +641,8 @@ La FINMA emana disposizioni di esecuzione per il calcolo:
 
 <sup>5</sup> Nel calcolo dei crediti da operazioni su derivati le garanzie ricevute non possono essere dedotte dall’importo del valore di sostituzione positivo, salvo se la banca ha ricevuto garanzie da margini di variazione sotto forma di attivi della categoria 1 secondo l’articolo 15*a* e le altre condizioni di cui al numero 30 LEV nella versione riportata nell’allegato 1 numero 7 OFoP sono soddisfatte.[^17j-4]
 
-[^17j-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17j-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17j-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17j-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^17j-3]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^17j-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
@@ -636,14 +659,14 @@ L’importo dell’ASF si calcola:
 
 <sup>2</sup> Il valore contabile degli strumenti di capitale proprio e degli impegni che sono fondi propri computabili secondo gli articoli 21–30 OFoP[^17k-2] è determinato dal valore prima di applicare le correzioni secondo gli articoli 31–40 OFoP.
 
-[^17k-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17k-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17k-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17k-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 17l
 
 **Determinazione della durata residua degli strumenti di capitale proprio e degli impegni**[^17l-1]
 
-<sup>1</sup> Se gli investitori o i creditori possono esercitare le opzioni di disdetta, di riacquisto anticipato o di liquidazione sugli strumenti di capitale proprio e sugli impegni, per determinare la durata residua si presuppone che le opzioni siano esercitate alla prima data possibile.
+<sup>1</sup> Se gli investitori o i creditori possono esercitare opzioni di disdetta, di riacquisto anticipato o di liquidazione sugli strumenti di capitale proprio e sugli impegni, per determinare la durata residua si presuppone che le opzioni siano esercitate alla prima data possibile. Su richiesta della banca e con il consenso della BNS, la FINMA può dichiarare computabili per una durata residua pari o superiore a un anno i sostegni alla liquidità concessi dalla BNS.[^17l-2]
 
 <sup>2</sup> Se sussiste un’aspettativa di mercato da parte degli investitori o dei creditori secondo cui la banca, segnatamente per motivi reputazionali, esercita le opzioni di riacquisto sugli strumenti di capitale proprio e sugli impegni prima della scadenza fissata contrattualmente, tali strumenti e impegni devono essere assegnati alla categoria ASF secondo l’allegato 4 corrispondente alla durata residua attesa ridotta.
 
@@ -653,7 +676,8 @@ L’importo dell’ASF si calcola:
 
 <sup>5</sup> Se uno strumento di capitale proprio o un impegno può essere assegnato a più categorie ASF, è determinante la categoria che presenta il fattore ASF più basso.
 
-[^17l-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17l-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17l-2]: Nuovo testo giusta l’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17m
 
@@ -676,10 +700,10 @@ L’importo del RSF si calcola:
 
 <sup>6</sup> Su richiesta della BNS, la FINMA può ridurre temporaneamente i fattori RSF di determinate operazioni se ciò permette di contrastare gravi difficoltà di attuazione della politica monetaria.
 
-[^17m-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17m-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17m-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17m-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^17m-3]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^17m-4]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-4]: [RS 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^17m-5]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17n
@@ -698,7 +722,7 @@ L’importo del RSF si calcola:
 
 <sup>6</sup> Se degli attivi o delle posizioni fuori bilancio sono assegnati a più categorie RSF, è determinante la categoria che presenta il fattore RSF più alto.
 
-[^17n-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17n-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17o
 
@@ -710,24 +734,24 @@ L’importo del RSF si calcola:
 
 <sup>3</sup> Il fattore ASF per gli impegni che derivano dal principio del giorno di chiusura risulta dall’allegato 4 numero 6.4, il fattore RSF per i crediti che ne derivano risulta dall’allegato 5 numero 1.4.
 
-[^17o-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17o-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17p
 
 **Determinazione di impegni e crediti interdipendenti**[^17p-1]
 
-<sup>1</sup> La FINMA stabilisce gli impegni e i crediti interdipendenti ai quali è possibile applicare un fattore ASF e un fattore RSF dello 0 per cento. A tal fine tiene conto degli sviluppi internazionali.
+<sup>1</sup> La FINMA stabilisce gli impegni e i crediti interdipendenti nonché gli ulteriori passivi e attivi ai quali è possibile applicare un fattore ASF e un fattore RSF dello 0 per cento. A tal fine tiene conto degli sviluppi internazionali.
 
 <sup>2</sup>
 
 L’applicazione di un fattore ASF e un fattore RSF dello 0 per cento è ammessa soltanto se:
 
-- a. i vari crediti e impegni interdipendenti sono chiaramente identificabili;
-- b. la durata e l’importo di base degli impegni e dei crediti interdipendenti sono identici;
-- c. l’impegno risultante dal finanziamento ricevuto corrisponde al relativo credito; e
-- d. la controparte di un credito e la controparte di un impegno differiscono.
+- a. i vari passivi e attivi interdipendenti sono chiaramente identificabili;
+- b. la durata e l’importo di base dei passivi e degli attivi interdipendenti sono identici;
+- c. il passivo risultante dal finanziamento ricevuto corrisponde al relativo attivo; e
+- d. la controparte di un attivo e la controparte di un passivo differiscono.
 
-[^17p-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17p-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Nuovo testo giusta l’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17q
 
@@ -743,8 +767,8 @@ L’applicazione di un fattore ASF e un fattore RSF dello 0 per cento è ammessa
 
 <sup>5</sup> La FINMA definisce speciali obblighi di notifica per le banche che si finanziano in misura significativa tramite succursali all’estero conformemente all’articolo 14 capoverso 5.
 
-[^17q-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17q-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^17q-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17q-2]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 17r
 
@@ -756,7 +780,7 @@ Per finanziamenti interni allo stesso gruppo finanziario, la FINMA può stabilir
 - b. ciò consente di compensare gli effetti negativi di finanziamenti interni allo stesso gruppo finanziario attraverso il trattamento asimmetrico di transazioni con una durata massima di sei mesi; o
 - c. si tratta di impegni eventuali all’interno del gruppo derivanti da garanzie conformemente all’allegato 5 numero 9.2.
 
-[^17r-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17r-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 17s
 
@@ -766,20 +790,20 @@ Per finanziamenti interni allo stesso gruppo finanziario, la FINMA può stabilir
 
 <sup>2</sup> La FINMA disciplina i particolari della pubblicazione. Definisce segnatamente quali informazioni supplementari e rilevanti per il requisito NSFR devono essere pubblicate.
 
-[^17s-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17s-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 ### Sezione 2*b*: Semplificazioni per banche particolarmente liquide e ben capitalizzate delle categorie 4 e 5
 
 [^chap3-sec2b-1]
 
-[^chap3-sec2b-1]: Introdotta dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec2b-1]: Introdotta dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art.17t
 
 Le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^17t-1] che in virtù dell’arti-colo 47*a* OFoP[^17t-2] sono esonerate dall’osservanza delle disposizioni relative ai fondi propri sono anche esonerate dall’osservanza delle disposizioni sulla quota di finanziamento secondo gli articoli 17*f*–17*s*.
 
-[^17t-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^17t-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17t-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^17t-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 ### Sezione 3: Esigenze quantitative per depositi privilegiati
 
@@ -801,9 +825,9 @@ Le banche comunicano alla FINMA, nell’ambito delle procedure generali di notif
 
 <sup>4</sup> La FINMA può eccezionalmente esigere che singole banche pubblichino in maniera appropriata la somma da comunicare secondo il capoverso 1 lettera c, se tale misura appare necessaria per tutelare i creditori non privilegiati.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^18-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^18-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^18-4]: Nuovo testo giusta l’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^18-5]: Nuovo testo giusta l’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
@@ -811,7 +835,7 @@ Le banche comunicano alla FINMA, nell’ambito delle procedure generali di notif
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Introdotta dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec4-1]: Introdotta dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 18a
 
@@ -821,7 +845,7 @@ Oltre alle informazioni relative agli indicatori LCR e NSFR, la FINMA può racco
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Introdotta dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^chap3-sec5-1]: Introdotta dalla cifra I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 18b
 
@@ -851,7 +875,7 @@ Le esigenze particolari in materia di liquidità comprendono:
 - a. le esigenze di base;
 - b. le esigenze aggiuntive della FINMA specifiche all’istituto.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 20
 
@@ -868,7 +892,7 @@ Le esigenze particolari in materia di liquidità devono essere soddisfatte a liv
 
 <sup>2</sup> In singoli casi, la FINMA può escludere le unità la cui partecipazione diretta alle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario non supera globalmente la quota del 5 per cento o la cui importanza per il mantenimento delle funzioni di rilevanza sistemica in Svizzera del gruppo finanziario è altrimenti esigua.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 20a
 
@@ -902,9 +926,9 @@ Il 30 per cento dell’importo ottenuto dal seguente calcolo, se positivo, è co
 
 <sup>6</sup> I valori patrimoniali computabili non possono essere computati nello stesso tempo come afflussi di fondi.
 
-[^20a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 [^20a-2]: Nuovo testo giusta l’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^20a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^20a-3]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^20a-4]: Nuovo testo giusta il n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 20b
@@ -920,13 +944,13 @@ La banca soddisfa le esigenze conformemente al presente capitolo, se:
 
 <sup>2</sup> La banca deve soddisfare le esigenze in tutte le valute, convertite in franchi svizzeri.
 
-[^20b-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^20b-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 ### Sezione 2: Esigenze di base
 
 [^chap4-sec2-1]
 
-[^chap4-sec2-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^chap4-sec2-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 21
 
@@ -973,7 +997,7 @@ Per l’adempimento delle esigenze secondo l’articolo 23 i titoli menzionati n
 
 [^chap4-sec2a-1]
 
-[^chap4-sec2a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^chap4-sec2a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 25
 
@@ -996,7 +1020,7 @@ Per i rischi di liquidità che non sono coperti o non sono coperti a sufficienza
 
 <sup>3</sup> Le riduzioni non possono eccedere i supplementi. Non possono essere applicate ai rischi di liquidità di cui al capoverso 1 lettera a.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 25a
 
@@ -1008,7 +1032,7 @@ Per i rischi di liquidità che non sono coperti o non sono coperti a sufficienza
 
 <sup>3</sup> Le banche inoltrano alla FINMA regolarmente la documentazione necessaria alla valutazione dei rischi di liquidità di cui all’articolo 25 capoverso 1. La FINMA stabilisce la frequenza dell’inoltro. Gli aggiornamenti sono inoltrati al di fuori della frequenza stabilita se eventuali cambiamenti rendono necessaria una rielaborazione o se la FINMA lo richiede.
 
-[^25a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^25a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 ### Sezione 3: Ulteriori disposizioni
 
@@ -1020,13 +1044,13 @@ Per i rischi di liquidità che non sono coperti o non sono coperti a sufficienza
 
 <sup>2</sup> In caso di mancato adempimento la banca deve indicare con quali misure ed entro quale termine le esigenze particolari in materia di liquidità saranno di nuovo soddisfatte. La FINMA approva il termine. Se alla scadenza del termine le esigenze particolari in materia di liquidità non sono soddisfatte, la FINMA può ordinare le misure necessarie.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 27
 
 [^27-1]
 
-[^27-1]: Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^27-1]: Abrogato dalla cifra I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28
 
@@ -1036,13 +1060,29 @@ Per i rischi di liquidità che non sono coperti o non sono coperti a sufficienza
 
 <sup>2</sup> La FINMA disciplina i particolari del rendiconto.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 28a
 
-[^28a-1]
+**Messa a disposizione di informazioni al profilarsi o al verificarsi di una mancanza di liquidità**[^28a-1]
 
-[^28a-1]: Introdotto dal n. I dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+<sup>1</sup>
+
+Se la banca di rilevanza sistemica constata che potrebbe profilarsi o si è già verificata una mancanza di liquidità, ne informa senza indugio la FINMA. Le inoltra le informazioni complete e aggiornate di cui necessita per la valutazione dello stato di liquidità attuale e futuro; queste comprendono in particolare:
+
+- a. la documentazione sulla liquidità di cui all’articolo 17*c*;
+- b. gli indicatori di osservazione di cui all’articolo 18*a*;
+- c. informazioni dettagliate sugli attuali deflussi di depositi;
+- d. la presentazione della situazione in merito alla liquidità secondo l’articolo 28;
+- e. analisi degli scenari; ai fini della valutazione dell’evoluzione della liquidità vanno considerati scenari di stress sia specifici all’istituto sia comuni al mercato.
+
+<sup>2</sup> Se constata in altro modo o ha motivi fondati per ritenere che potrebbe profilarsi o si è già verificata una mancanza di liquidità, la FINMA esorta la banca di rilevanza sistemica a inoltrarle le informazioni di cui al capoverso 1 entro un termine da essa fissato.
+
+<sup>3</sup> Le banche di rilevanza sistemica devono essere in grado di mettere a disposizione le informazioni necessarie e di inoltrarle alla FINMA anche in caso di riorganizzazioni della struttura del gruppo.
+
+<sup>4</sup> La FINMA disciplina le condizioni che devono essere soddisfatte affinché sorga l’obbligo di inoltro di cui al capoverso 1. Precisa le informazioni da inoltrare e stabilisce i requisiti relativi alla loro qualità nonché alla forma e alla frequenza dell’inoltro.
+
+[^28a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Nuovo testo giusta l’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 29
 
@@ -1062,19 +1102,19 @@ Nell’ambito dell’esecuzione della presente ordinanza, la FINMA consulta la B
 
 [^31-1]
 
-[^31-1]: Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^31-1]: Abrogato dalla cifra I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 31a
 
 [^31a-1]
 
-[^31a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Abrogato dalla cifra I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 31b
 
 [^31b-1]
 
-[^31b-1]: Introdotto dal n. I dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Abrogato dall’all. n. 3 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^31b-1]: Introdotto dalla cifra I dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Abrogato dall’all. n. 3 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 31c
 
@@ -1086,7 +1126,7 @@ Nell’ambito dell’esecuzione della presente ordinanza, la FINMA consulta la B
 
 <sup>3</sup> Il Dipartimento federale delle finanze verifica al più tardi tre anni dopo la scadenza del periodo transitorio secondo il capoverso 1 se le disposizioni della modifica del 3 giugno 2022 rispondono allo scopo secondo l’articolo 7 capoverso 2 LBCR e alle esigenze particolari secondo l’articolo 9 LBCR. In merito presenterà un rapporto al Consiglio federale e indicherà l’eventuale necessità di adeguamento normativo.
 
-[^31c-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^31c-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 #### Art. 32
 
@@ -1139,7 +1179,7 @@ Allegato 1a[^t-3]
 
 ## Istituto finanziario
 
-[^t-3]: Originario all. 1. Introdotto dal n. II dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^t-3]: Originario all. 1. Introdotto dalla cifra II dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
 A. Sono considerate quale istituto finanziario le imprese che forniscono una o più prestazioni di servizi nei seguenti settori:
 
@@ -1179,15 +1219,15 @@ Allegato 2[^t-4]
 
 ## Deflussi di fondi e tassi di deflusso
 
-[^t-4]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), dal n. II cpv. 1 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) e dall’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-4]: Introdotto dalla cifra II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dalla cifra II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), dalla cifra II cpv. 1 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)), dall’all. n. 3 dell’O del 23 nov. 2022 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)) e dall’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
 <tr><th>Categorie di deflusso</th><th>Tasso di deflusso (percentuale)</th></tr>
 <tr><td>1. Depositi di clienti privati</td><td></td></tr>
-<tr><td>1.1 I depositi di clienti privati comprendono tutti i depositi a vista e a termine con una durata residua o un termine di disdetta fino a 30 giorni di calendario. Depositi a termine con una durata residua superiore a 30 giorni di calendario non sono presi in considerazione.</td><td></td></tr>
+<tr><td>1.1 Depositi di clienti privati pari o inferiori a 1,5 milioni di franchi svizzeri nonché depositi derivanti da conti di libero passaggio e dalla previdenza individuale vincolata indipendentemente dal loro ammontare. Sono compresi tutti i depositi a vista e a termine con una durata residua o un termine di disdetta fino a 30 giorni di calendario. I depositi a termine con una durata residua superiore a 30 giorni di calendario non sono presi in considerazione.</td><td></td></tr>
 <tr><td>1.1.1 depositi stabili</td><td>5</td></tr>
 <tr><td>1.1.2 depositi meno stabili</td><td>10</td></tr>
-<tr><td>1.2 Depositi di clienti privati che ammontano a più di 1,5 milioni di franchi svizzeri. Sono compresi tutti i depositia vista e a termine con una durata residua o un termine di disdetta fino a 30 giorni di calendario.</td><td>20</td></tr>
+<tr><td>1.2 Depositi di clienti privati che ammontano a più di 1,5 milioni di franchi svizzeri. Sono compresi tutti i depositi a vista e a termine con una durata residua o un termine di disdetta fino a 30 giorni di calendario, ad eccezione dei depositi derivanti da conti di libero passaggio e dalla previdenza individuale vincolata.</td><td>20</td></tr>
 <tr><td>2. Mezzi finanziari non garantiti, messi a disposizione da clienti commerciali o da grandi clienti</td><td></td></tr>
 <tr><td>2.1 Depositi a vista e a termine di piccole imprese con una durata residua o un termine di disdetta fino a 30 giorni di calendario</td><td></td></tr>
 <tr><td>2.1.1 depositi stabili</td><td>5</td></tr>
@@ -1204,7 +1244,7 @@ Allegato 2[^t-4]
 <tr><td>2.6 Titoli di credito non garantiti</td><td>100</td></tr>
 <tr><td>2.7 Ulteriori apporti necessari alle riserve delle banche centrali</td><td>100</td></tr>
 <tr><td>3. Transazioni garantite e collateral swap che scadono entro 30 giorni di calendario e le cui garanzie non sono utilizzate per la copertura di short position</td><td></td></tr>
-<tr><td>3.1 Operazioni di finanziamento garantite attuate con la BNS e garantite mediante attivi della categoria 2*b* o attivi non considerati HQLA («attivi non HQLA») e collateral swap che comprendono lo scambio di attivi della stessa categoria e non sono pareggiati</td><td>0</td></tr>
+<tr><td>3.1 Operazioni di finanziamento garantite attuate con la BNS e non garantite mediante attivi delle categorie 1 e 2a e collateral swap che comprendono lo scambio di attivi della stessa categoria e non sono pareggiati</td><td>0</td></tr>
 <tr><td>3.2 Operazioni di finanziamento garantite tramite attivi della categoria 2b o attivi non HQLA e la cui controparte è:</td><td></td></tr>
 <tr><td>– il proprio Governo centrale o banche multilaterali di sviluppo; o</td><td></td></tr>
 <tr><td>– enti territoriali nazionali subordinati o altri enti di diritto pubblico con una ponderazione del rischio che ammonta al massimo al 20 per cento</td><td>25</td></tr>
@@ -1254,7 +1294,7 @@ Allegato 2[^t-4]
 <tr><td>9.3.2 potenziale richiesta di riacquisto di titoli di debito della stessa banca</td><td>0 per cento</td></tr>
 <tr><td>9.3.3 potenziale richiesta di riacquisto di titoli di debito di società veicolo e veicoli di finanziamento su titoli legati alla banca, nonché di linee di finanziamento simili, che a causa della loro struttura trasferiscono alla banca un rischio di liquidità</td><td>20 per cento dell’importo che scade 30 giorni di calendario dopo il finanziamento</td></tr>
 <tr><td>9.3.4 prodotti strutturati e titoli sintetici equiparabili aventi particolari requisiti in materia di liquidità, in particolare prodotti per i quali la banca assicura una buona negoziabilità. Sono esclusi i prodotti che non generano alcun funding della banca e che possono essere ridotti senza incidere sulla liquidità</td><td>5 per cento del volume di emissione</td></tr>
-<tr><td>9.3.5 fondi del mercato monetario amministrati e gestiti allo scopo di mantenere un valore stabile, come i fondi constant-net-asset-value del mercato monetario</td><td>5 per cento del volume di emissione</td></tr>
+<tr><td>9.3.5 fondi del mercato monetario amministrati e gestiti allo scopo di mantenere un valore stabile, come i fondi constant-net-asset-value del mercato monetario, salvo che un sostegno ai fondi del mercato monetario da parte della banca sia escluso dalla legislazione sui fondi o sia sufficientemente limitato in altro modo</td><td>5 per cento del volume di emissione</td></tr>
 <tr><td>9.3.6 altri obblighi non contrattuali</td><td>0</td></tr>
 <tr><td>10. Potenziale richiesta di riacquisto di titoli di credito della stessa banca con durata (residua) superiore a 30 giorni tramite commercianti di valori mobiliari o market makers ad essa correlati</td><td>0</td></tr>
 <tr><td>11. Short position di clienti, coperte da garanzie di altri clienti non considerate HQLA</td><td>50</td></tr>
@@ -1272,7 +1312,7 @@ Allegato 3[^t-5]
 
 ## Afflussi di fondi e tassi di afflusso
 
-[^t-5]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) e dal n. II cpv. 1 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-5]: Introdotto dalla cifra II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dalla cifra II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) e dalla cifra II cpv. 1 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Categorie di afflusso</th><th>Tasso di afflusso (percentuale)</th></tr>
@@ -1303,7 +1343,7 @@ Allegato 4[^t-6]
 
 ## Fattori di ponderazione dell’ammontare di provvista stabile disponibile (ASF)
 
-[^t-6]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-6]: Introdotto dalla cifra II cpv. 2 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Aggiornato dall’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
 <tr><th colspan="2">Categorie ASF</th><th>Fattore di ponderazione (percentuale)</th></tr>
@@ -1326,29 +1366,29 @@ Allegato 4[^t-6]
 <tr><td colspan="2">6.4 Impegni da un acquisto di strumenti finanziari, divise e materie prime contabilizzato secondo il principio del giorno di chiusura (*Trade Date Payables*):</td><td>0</td></tr>
 <tr><td colspan="2">a. che sono adempiuti entro il termine standard o il termine usuale per la relativa transazione; o b. se, in caso di mancato adempimento, si prevede che l’adempimento avrà ancora luogo.</td><td></td></tr>
 <tr><td colspan="2">6.5 Negli impegni da operazioni su derivati, le garanzie ricevute da margini iniziali e di variazione che non possono essere compensate con crediti da operazioni su derivati</td><td>0</td></tr>
-<tr><td colspan="2">6.6 Impegni che secondo l’articolo 17*p* dipendono da crediti</td><td>0</td></tr>
+<tr><td colspan="2">6.6 Impegni e ulteriori passivi che secondo l’articolo 17*p* dipendono da crediti e da ulteriori attivi</td><td>0</td></tr>
 </table>
 
-[^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 Allegato 5[^t-7]
 
 (art. 17*m*)
 
-## Fattore di ponderazione dell’ammontare di provvista stabile obbligatoria (RSF)
+## Fattori di ponderazione dell’ammontare di provvista stabile obbligatoria (RSF)
 
-[^t-7]: Introdotto dal n. II cpv. 2 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Aggiornato dal n. II dell’O del 3 giu. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)) e dall’all. n. 3 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-7]: Introdotto dalla cifra II cpv. 2 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Aggiornato dalla cifra II dell’O del 3 giu. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)), dall’all. n. 3 dell’O del 29 nov. 2023 sui fondi propri ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)) e dall’all. n. 2 dell’O del 22 apr. 2026, in vigore dal 1° gen. 2027 ([RU 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
 <tr><th colspan="2">Categorie RSF</th><th colspan="2">Fattore di ponderazione (percentuale)</th></tr>
 <tr><td colspan="2">1.1 Monete e banconote immediatamente disponibili 1.2 Riserve presso la banca centrale, comprese:</td><td colspan="2">0</td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2">0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0</td></tr>
 <tr><td colspan="2">a. la riserva minima, se il regolamento della banca centrale in questione non richiede di mantenerla per un lungo periodo; b. la riserva in eccesso; e c. gli averi in giroconto presso la banca centrale risultanti da operazioni di pronti contro termine.</td><td colspan="2"></td></tr>
 <tr><td colspan="2">1.3 Tutti i restanti crediti nei confronti di banche centrali con una durata residua inferiore a sei mesi, in particolare i crediti da titoli di credito emessi dalle banche centrali</td><td colspan="2">0</td></tr>
 <tr><td colspan="2">1.4 Crediti da una vendita (*Trade Date Receivables*) di strumenti finanziari, divise e materie prime contabilizzata secondo il principio del giorno di chiusura:</td><td colspan="2"></td></tr>
 <tr><td colspan="2">a. che sono adempiuti entro il termine standard o il termine usuale per la relativa transazione; o</td><td colspan="2"></td></tr>
 <tr><td colspan="2">b. se, in caso di mancato adempimento, si prevede che l’adempimento avrà ancora luogo.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1.5 Crediti che secondo l’articolo 17*p* dipendono da impegni</td><td colspan="2">0</td></tr>
+<tr><td colspan="2">1.5 Crediti e ulteriori attivi che secondo l’articolo 17*p* dipendono da impegni e da ulteriori passivi</td><td colspan="2">0</td></tr>
 <tr><td colspan="2">1.6 Attivi non gravati della categoria 1 secondo l’articolo 15*a* non rientranti nelle categorie RSF 1.1–1.3</td><td colspan="2">0</td></tr>
 <tr><td colspan="2">1.7 Attivi della categoria 1 secondo l’articolo 15*a* gravati per un periodo inferiore a sei mesi</td><td colspan="2">0</td></tr>
 <tr><td colspan="2">1.8 Attivi gravati della categoria 1 secondo l’articolo 15*a* correlati a operazioni delle banche centrali che aumentano la liquidità (dal punto di vista della banca centrale)</td><td colspan="2">0</td></tr>
@@ -1392,7 +1432,7 @@ Allegato 5[^t-7]
 <tr><td>9.2 Impegni eventuali da garanzie e crediti documentari non correlati a finanziamenti di operazioni commerciali</td><td colspan="2">5 % del valore nominale in sospeso</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^annex5-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 Allegato 6[^t-8]
 
@@ -1400,7 +1440,7 @@ Allegato 6[^t-8]
 
 ## Deflussi di fondi e tassi di deflusso per le banche di rilevanza sistemica nel periodo dal 31° al 90° giorno di calendario
 
-[^t-8]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-8]: Introdotto dalla cifra III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><td>Categorie di deflusso</td><td>Tasso di deflusso (percentuale)</td></tr>
@@ -1427,7 +1467,7 @@ Allegato 7[^t-9]
 
 ## Afflussi di fondi e tassi di afflusso per le banche di rilevanza sistemica nel periodo dal 31° al 90° giorno di calendario
 
-[^t-9]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-9]: Introdotto dalla cifra III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><td>Categorie di afflusso</td><td>Tasso di afflusso (percentuale)</td></tr>
@@ -1448,7 +1488,7 @@ Allegato 8[^t-10]
 
 ## Titoli computabili per le banche di rilevanza sistemica
 
-[^t-10]: Introdotto dal n. III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+[^t-10]: Introdotto dalla cifra III dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
 <table>
 <tr><td>Titoli</td><td>Riduzione del valore (percentuale)</td></tr>

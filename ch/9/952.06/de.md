@@ -4,11 +4,11 @@ title: "Verordnung vom 30. November 2012 über die Liquidität der Banken und We
 short: LiqV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: de
-version: 2025-01-01
+version: 2027-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20270101/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20270101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20270101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20250101/de"
 
 (Liquiditätsverordnung, LiqV)[^t-1]
 
-vom 30. November 2012 (Stand am 1. Januar 2025)
+vom 30. November 2012 (Stand am 1. Januar 2027)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -27,8 +27,8 @@ gestützt auf die Artikel 4 Absatz 2, 10 Absatz 4 Buchstabe a und 56 des Bankeng
 
 verordnet:
 
-[^ingress-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^ingress-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^ingress-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^ingress-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^ingress-3]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -52,7 +52,7 @@ verordnet:
 <sup>2</sup> Die jeweils massgebende Fassung der Basler Mindeststandards ist in Anhang 1 sowie in Anhang 1 der Eigenmittelverordnung vom 1. Juni 2012[^1a-2] (ERV) aufgeführt.
 
 [^1a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^1a-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^1a-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 2
 
@@ -96,7 +96,7 @@ Die Banken sind abgestimmt auf ihre Grösse sowie auf Art, Umfang, Komplexität 
 
 **Risikomess- und Steuerungssysteme**
 
-<sup>1</sup> Die Banken richten angemessene Prozesse zur Identifizierung, Beurteilung, Steuerung und Überwachung von Liquiditätsrisiken ein. Insbesondere müssen sie für unterschiedlich lange Zeiträume eine Liquiditätsübersicht erstellen mit einer Gegenüberstellung der voraussichtlichen Mittelzuflüsse und -abflüsse aus Bilanz- und Ausserbilanzpositionen.[^7-1]
+<sup>1</sup> Die Banken richten angemessene Prozesse zur Identifizierung, Beurteilung, Steuerung und Überwachung von Liquiditätsrisiken ein. Zu diesem Zweck müssen sie über eine angemessene Liquiditäts- und Finanzierungsplanung verfügen. Insbesondere müssen sie für unterschiedlich lange Zeiträume eine Liquiditätsübersicht erstellen mit einer Gegenüberstellung der voraussichtlichen Mittelzuflüsse und -abflüsse aus Bilanz- und Ausserbilanzpositionen.[^7-1]
 
 <sup>2</sup> Sie identifizieren, steuern und überwachen die Liquiditätsrisiken sowie die Finanzierungsbedürfnisse der Finanzgruppe und der für das Liquiditätsrisiko wesentlichen Rechtseinheiten, Geschäftsfelder und Währungen. Dabei berücksichtigen sie rechtliche, regulatorische oder operative Beschränkungen für die Übertragbarkeit von Liquidität.[^7-2]
 
@@ -104,7 +104,7 @@ Die Banken sind abgestimmt auf ihre Grösse sowie auf Art, Umfang, Komplexität 
 
 <sup>4</sup> Sie überwachen die Vermögenswerte, die der Liquiditätsgenerierung dienen, und unterscheiden dabei zwischen belasteten und lastenfreien Vermögenswerten. Sie müssen jederzeit darlegen können, wo Vermögenswerte gehalten werden und wie diese zeitnah mobilisiert werden können.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^7-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
 #### Art. 8
@@ -133,7 +133,7 @@ Bei der Auswahl der Stressszenarien sind zu berücksichtigen:
 
 <sup>4</sup> In der Auswertung der Stresstests sind die Auswirkungen auf die Erfolgsrechnung zu analysieren.
 
-[^9-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^9-1]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^9-2]: Eingefügt durch Ziff. III der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^9-3]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
@@ -211,9 +211,9 @@ Sie kann im Einzelfall:
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^14-2]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^14-3]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^14-3]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^14-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^14-5]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^14-5]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^14-6]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 15
@@ -258,25 +258,36 @@ Aktiva der Kategorie 1 umfassen folgende Vermögenswerte:
   - 8\. multilateralen Entwicklungsbanken;
 
 - c<sup>bis</sup>. marktgängige Wertpapiere, die von den Institutionen nach Buchstabe c garantiert werden;
-- d.[^15a-2] marktgängige Wertpapiere, die Forderungen gegenüber einer Zentralregierung oder einer Zentralbank in Landeswährung darstellen, die von der betreffenden Zentralregierung oder der Zentralbank in dem Land, in dem das Liquiditätsrisiko anfällt, oder im Herkunftsland der Bank begeben werden, wenn die Zentralregierung ein Risikogewicht von mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV[^15a-3] aufweist; sowie
-- e.[^15a-4] marktgängige Wertpapiere, die Forderungen gegenüber der Eidgenossenschaft oder der Schweizerischen Nationalbank (SNB) in Fremdwährung darstellen, bis zur Höhe des stressbedingten Nettomittelabflusses in der betreffenden Fremdwährung, in der das Liquiditätsrisiko eingegangen wird; dies gilt auch dann, wenn das Risikogewicht der Schweiz mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV beträgt.
+- d.[^15a-2] marktgängige Wertpapiere, die Forderungen gegenüber einer Zentralregierung oder einer Zentralbank in Landeswährung darstellen, die von der betreffenden Zentralregierung oder der Zentralbank in dem Land, in dem das Liquiditätsrisiko anfällt, oder im Herkunftsland der Bank begeben werden, wenn die Zentralregierung ein Risikogewicht von mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV[^15a-3] aufweist;
+- d<sup>bis</sup>.[^15a-4] marktgängige Wertpapiere, die Forderungen gegenüber Kantonen in Schweizerfranken darstellen; und
+- e.[^15a-5] marktgängige Wertpapiere, die Forderungen gegenüber der Eidgenossenschaft oder der Schweizerischen Nationalbank (SNB) in Fremdwährung darstellen, bis zur Höhe des stressbedingten Nettomittelabflusses in der betreffenden Fremdwährung, in der das Liquiditätsrisiko eingegangen wird; dies gilt auch dann, wenn das Risikogewicht der Schweiz mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV beträgt.
 
 <sup>2</sup>
 
 Die marktgängigen Wertpapiere nach Absatz 1 Buchstaben c und c<sup>bis</sup> können nur der Kategorie 1 zugerechnet werden, wenn sie die folgenden Voraussetzungen erfüllen:
 
-- a.[^15a-5] Sie weisen ein Risikogewicht von 0 Prozent nach Anhang 2 Ziffer 1 oder 3.2 ERV auf.
+- a.[^15a-6] Sie weisen ein Risikogewicht von 0 Prozent nach Anhang 2 Ziffer 1 oder 3.2 ERV auf.
 - b. Bei garantierten Forderungen ist entweder die Garantie einer Zentralregierung oder einer untergeordneten Gebietskörperschaft ausdrücklich, unwiderruflich und unbedingt oder eine solidarische Haftung mehrerer Gebietskörperschaften gegeben.
-- c. Es handelt sich nicht um eine Verbindlichkeit eines Finanzinstituts nach Anhang 1*a*[^15a-6] oder einer mit einem Finanzinstitut verbundenen Gesellschaft. Ausgenommen hiervon sind Anleihen von Finanzinstituten, die von einer Zentralregierung oder von einer Regierung einer untergeordneten Gebietskörperschaft eingerichtet wurden, um in staatlichem Auftrag auf nicht-wettbewerblicher, nicht-gewinnorientierter Basis Förderdarlehen zu vergeben.
+- c. Es handelt sich nicht um eine Verbindlichkeit eines Finanzinstituts nach Anhang 1*a*[^15a-7] oder einer mit einem Finanzinstitut verbundenen Gesellschaft. Ausgenommen hiervon sind Anleihen von Finanzinstituten, die von einer Zentralregierung oder von einer Regierung einer untergeordneten Gebietskörperschaft eingerichtet wurden, um in staatlichem Auftrag auf nicht-wettbewerblicher, nicht-gewinnorientierter Basis Förderdarlehen zu vergeben.
+
+<sup>2bis</sup>
+
+Marktgängige Wertpapiere, die Forderungen sind gegenüber untergeordneten Gebietskörperschaften oder sonstigen öffentlich-rechtlichen Körperschaften nach Absatz 1 Buchstabe c Ziffer 3 oder die von solchen Körperschaften garantiert werden nach Absatz 1 Buchstabe c<sup>bis</sup>, können zudem der Kategorie 1 zugerechnet werden, wenn sie die Voraussetzungen nach Absatz 2 Buchstaben b und c und zusätzlich die folgenden Voraussetzungen erfüllen:
+
+- a. Die übergeordnete Zentralregierung weist ein Risikogewicht von 0 Prozent nach Anhang 2 Ziffer 1 ERV auf.
+- b. Die Körperschaften besitzen Haushaltsautonomie, das Recht, Steuern zu erheben, Garantien der Zentralregierung oder besondere institutionelle Vorkehrungen, die ihr Ausfallrisiko reduzieren.
+- c. Im Fall ausländischer Körperschaften wird bei der Berechnung der LCR für diese Wertpapiere auch nach dem entsprechenden ausländischen Recht auf das Risikogewicht der Zentralregierung abgestellt.[^15a-8]
 
 <sup>3</sup> Aktiva der Kategorie 1 werden zum aktuellen Marktwert bewertet.
 
 [^15a-1]: Ausdruck gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^15a-2]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^15a-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^15a-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-3]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^15a-4]: Eingefügt durch Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 [^15a-5]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^15a-6]: Ausdruck gemäss Anhang Ziff. 3 Abs. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^15a-6]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^15a-7]: Ausdruck gemäss Anhang Ziff. 3 Abs. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^15a-8]: Eingefügt durch Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 15b
 
@@ -329,9 +340,9 @@ Die FINMA kann weitere Aktiva der Kategorie 2 (Aktiva der Kategorie 2b) bezeichn
 
 [^15b-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^15b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^15b-3]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^15b-3]: [SR 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^15b-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^15b-5]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^15b-5]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^15b-6]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^15b-7]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^15b-8]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
@@ -400,7 +411,12 @@ Die FINMA regelt:
 
 <sup>1</sup> Besicherte Finanzierungsgeschäfte werden glattgestellt, wenn sie den Austausch von HQLA beinhalten und innert 30 Kalendertagen fällig werden.
 
-<sup>2</sup> Als besicherte Finanzierungsgeschäfte gelten Sicherheitenswaps und Wertpapierfinanzierungen wie Repo-Geschäfte, Wertpapierleihgeschäfte und Wertpapierkredite.[^15e-1]
+<sup>2</sup>
+
+Als besicherte Finanzierungsgeschäfte gelten:
+
+- a. Sicherheitenswaps;
+- b. Wertpapierfinanzierungen wie Repo-Geschäfte, Wertpapierleihgeschäfte und Wertpapierkredite, mit Ausnahme von verpfändeten Wertpapierdepots im Privatkundengeschäft.[^15e-1]
 
 <sup>3</sup> Liquiditätsabschöpfende Geschäfte der SNB werden unabhängig von der Art der Besicherung glattgestellt, falls sie innert 30 Kalendertagen fällig werden. Liquiditätszuführende Geschäfte der SNB werden nur glattgestellt, wenn sie durch HQLA besichert sind und innert 30 Kalendertagen fällig werden.
 
@@ -410,7 +426,7 @@ Die FINMA regelt:
 
 <sup>6</sup> Die FINMA erlässt technische Ausführungsbestimmungen für besicherte Finanzierungsgeschäfte in Fremdwährungen, in denen die Bank kein Konto bei der entsprechenden ausländischen Zentralbank besitzt.[^15e-2]
 
-[^15e-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15e-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 [^15e-2]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 16
@@ -422,6 +438,10 @@ Die FINMA regelt:
 <sup>2</sup> Bei der Berechnung dürfen die zu erwartenden Mittelzuflüsse nur bis zu einer Gesamthöhe von 75 Prozent der zu erwartenden Mittelabflüsse berücksichtigt werden. Die FINMA kann Wertpapierhäuser ohne Zentralbankkonto auf Antrag von dieser Begrenzung befreien.[^16-1]
 
 <sup>3</sup> Die Mittelabflüsse berechnen sich, indem die Bilanz- und die Ausserbilanzpositionen entsprechend ihrer Abflusskategorie mit den massgeblichen Abflussraten nach Anhang 2 gewichtet werden.
+
+<sup>3bis</sup> Privatkundinnen und Privatkunden sind ausschliesslich natürliche Personen.[^16-2]
+
+<sup>3ter</sup> Einlagen gelten als stabile Einlagen, wenn sie vollständig durch eine Einlagensicherung oder eine gleichwertige Garantie einer Zentralregierung gesichert sind und entweder auf Transaktionskonten gehalten werden oder Teil einer etablierten Kundenbeziehung sind. Die FINMA regelt die Voraussetzungen.[^16-3]
 
 <sup>4</sup> Kann eine Position mehreren Abflusskategorien zugeordnet werden, so ist diejenige mit der höchsten Abflussrate massgebend.
 
@@ -441,6 +461,8 @@ Die FINMA kann in Abweichung von Anhang 2:
 - b. einen internen Modellansatz anerkennen für die Berechnung des erhöhten Liquiditätsbedarfs aufgrund von Marktwertveränderungen bei Derivatgeschäften und anderen Finanztransaktionen.
 
 [^16-1]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^16-2]: Eingefügt durch Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
+[^16-3]: Eingefügt durch Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17
 
@@ -499,7 +521,7 @@ Die FINMA regelt:
 
 <sup>5</sup>
 
-Die FINMA setzt gesonderte Meldepflichten für Banken fest, die:
+Die FINMA kann gesonderte Meldepflichten für Banken festsetzen, die:[^17c-3]
 
 - a. Positionen in wesentlichen Fremdwährungen nach Artikel 17*a* Absatz 1 halten;
 - b. sich nach Artikel 14 Absatz 5 zu einem bedeutenden Teil über Niederlassungen im Ausland finanzieren.
@@ -507,7 +529,8 @@ Die FINMA setzt gesonderte Meldepflichten für Banken fest, die:
 <sup>6</sup> Sie kann im Liquiditätsnachweis zusätzliche Meldungen zu liquiditätswirksamen Aktiva verlangen, die nicht HQLA sind.
 
 [^17c-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^17c-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^17c-2]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^17c-3]: Fassung gemäss Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17d
 
@@ -604,7 +627,7 @@ Die FINMA erlässt Ausführungsbestimmungen für die Berechnung:
 
 [^17i-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 [^17i-2]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^17i-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17i-3]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 17j
 
@@ -621,7 +644,7 @@ Die FINMA erlässt Ausführungsbestimmungen für die Berechnung:
 <sup>5</sup> Bei der Berechnung der Forderungen aus Derivatgeschäften dürfen keine erhaltenen Sicherheiten vom Betrag des positiven Wiederbeschaffungswerts abgezogen werden, es sei denn, die Bank hat Sicherheiten aus Nachschusszahlungen in Form von Aktiva der Kategorie 1 nach Artikel 15*a* erhalten und die weiteren Bedingungen nach Ziffer 30 LEV in der Fassung nach Anhang 1 Ziffer 7 ERV sind erfüllt.[^17j-4]
 
 [^17j-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17j-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17j-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^17j-3]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 [^17j-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
@@ -639,13 +662,13 @@ Der Betrag der ASF berechnet sich, indem:
 <sup>2</sup> Der Buchwert von Eigenkapitalinstrumenten und Verbindlichkeiten, die anrechenbare Eigenmittel nach den Artikeln 21–30 ERV[^17k-2] sind, bestimmt sich nach dem Wert vor Anwendung der Korrekturen nach den Artikeln 31–40 ERV.
 
 [^17k-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17k-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17k-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 17l
 
 **Bestimmung der Restlaufzeit von Eigenkapitalinstrumenten und Verbindlichkeiten**[^17l-1]
 
-<sup>1</sup> Bestehen bei Eigenkapitalinstrumenten und Verbindlichkeiten für die Anlegerinnen und Anleger oder die Gläubigerinnen und Gläubiger Optionen auf Kündigung, vorzeitigen Rückkauf oder Auflösung, so ist für die Bestimmung der Restlaufzeit davon auszugehen, dass die Optionen zum frühestmöglichen Zeitpunkt ausgeübt werden.
+<sup>1</sup> Bestehen bei Eigenkapitalinstrumenten und Verbindlichkeiten für die Anlegerinnen und Anleger oder die Gläubigerinnen und Gläubiger Optionen auf Kündigung, vorzeitigen Rückkauf oder Auflösung, so ist für die Bestimmung der Restlaufzeit davon auszugehen, dass die Optionen zum frühestmöglichen Zeitpunkt ausgeübt werden. Bei durch die SNB gewährten Liquiditätsunterstützungen kann die FINMA auf Antrag der Bank und mit Einverständnis der SNB eine Restlaufzeit von einem Jahr oder mehr für anrechenbar erklären.[^17l-2]
 
 <sup>2</sup> Besteht die Markterwartung von Anlegerinnen und Anlegern oder Gläubigerinnen und Gläubigern, dass die Bank namentlich aus Reputationsgründen Optionen zum Rückkauf von Eigenkapitalinstrumenten und von Verbindlichkeiten vor der vertraglich vereinbarten Fälligkeit ausübt, so sind die Eigenkapitalinstrumente und Verbindlichkeiten der ASF-Kategorie nach Anhang 4 zuzuweisen, die der erwarteten verkürzten Restlaufzeit entspricht.
 
@@ -656,6 +679,7 @@ Der Betrag der ASF berechnet sich, indem:
 <sup>5</sup> Kann ein Eigenkapitalinstrument oder eine Verbindlichkeit mehreren ASF-Kategorien zugeordnet werden, so ist die Kategorie mit dem niedrigsten ASF-Faktor massgebend.
 
 [^17l-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17l-2]: Fassung gemäss Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17m
 
@@ -679,9 +703,9 @@ Der Betrag der RSF berechnet sich, indem:
 <sup>6</sup> Sie kann auf Antrag der SNB die RSF-Faktoren von bestimmten Geschäften temporär reduzieren, soweit damit einer massgeblichen Erschwerung der Umsetzung der Geldpolitik entgegengewirkt werden kann.
 
 [^17m-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17m-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17m-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^17m-3]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
-[^17m-4]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^17m-4]: [SR 211.423.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5783)
 [^17m-5]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 17n
@@ -718,18 +742,18 @@ Der Betrag der RSF berechnet sich, indem:
 
 **Bestimmung voneinander abhängiger Verbindlichkeiten und Forderungen**[^17p-1]
 
-<sup>1</sup> Die FINMA bestimmt die voneinander abhängigen Verbindlichkeiten und Forderungen, auf die ein ASF- und ein RSF-Faktor von 0 Prozent angewendet werden darf. Sie berücksichtigt dabei die internationalen Entwicklungen.
+<sup>1</sup> Die FINMA bestimmt die voneinander abhängigen Verbindlichkeiten und Forderungen und weiteren Passiva und Aktiva, auf die ein ASF- und ein RSF-Faktor von 0 Prozent angewendet werden darf. Sie berücksichtigt dabei die internationalen Entwicklungen.
 
 <sup>2</sup>
 
 Die Anwendung eines ASF- und eines RSF-Faktors von 0 Prozent ist nur zulässig, wenn:
 
-- a. die einzelnen voneinander abhängigen Forderungen und Verbindlichkeiten klar identifizierbar sind;
-- b. die Laufzeit und der Grundbetrag der voneinander abhängigen Verbindlichkeiten und Forderungen identisch sind;
-- c. die aus der erhaltenen Finanzierung entstandene Verbindlichkeit mit der entsprechenden abhängigen Forderung übereinstimmt; und
-- d. die Gegenpartei einer Forderung nicht mit der Gegenpartei einer Verbindlichkeit identisch ist.
+- a. die einzelnen voneinander abhängigen Passiva und Aktiva klar identifizierbar sind;
+- b. die Laufzeit und der Grundbetrag der voneinander abhängigen Passiva und Aktiva identisch sind;
+- c. das aus der erhaltenen Finanzierung entstandene Passivum mit dem entsprechenden abhängigen Aktivum übereinstimmt; und
+- d. die Gegenpartei eines Aktivums nicht mit der Gegenpartei eines Passivums identisch ist.
 
-[^17p-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17p-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Fassung gemäss Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 17q
 
@@ -746,7 +770,7 @@ Die Anwendung eines ASF- und eines RSF-Faktors von 0 Prozent ist nur zulässig, 
 <sup>5</sup> Die FINMA kann gesonderte Meldepflichten für Banken festsetzen, die sich nach Artikel 14 Absatz 5 zu einem bedeutenden Teil über Niederlassungen im Ausland finanzieren.
 
 [^17q-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
-[^17q-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^17q-2]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 
 #### Art. 17r
 
@@ -780,8 +804,8 @@ Die FINMA kann für Finanzierungen innerhalb derselben Finanzgruppe von den Anh�
 
 Banken der Kategorien 4 und 5 nach Anhang 3 BankV[^17t-1], die nach Artikel 47*a* ERV[^17t-2] von der Einhaltung der Bestimmungen über die erforderlichen Eigenmittel dispensiert sind, sind auch von der Einhaltung der Bestimmungen über die Finanzierungsquote nach den Artikeln 17*f*–17*s* befreit.
 
-[^17t-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^17t-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17t-1]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^17t-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 ### 3. Abschnitt: Quantitative Anforderung für privilegierte Einlagen
 
@@ -805,7 +829,7 @@ Die Banken melden der FINMA im Rahmen des allgemeinen Meldewesens die Summe:
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 [^18-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
-[^18-3]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^18-3]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^18-4]: Fassung gemäss Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^18-5]: Fassung gemäss Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
@@ -906,7 +930,7 @@ Von der Summe gemäss folgender Berechnung sind 30 Prozent als Vermögenswert an
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 [^20a-2]: Fassung gemäss Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^20a-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^20a-3]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 [^20a-4]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 20b
@@ -1042,9 +1066,25 @@ Für Liquiditätsrisiken, die nicht oder nicht ausreichend durch das 3. Kapitel 
 
 #### Art. 28a
 
-[^28a-1]
+**Informationsbereitstellung bei sich abzeichnenden oder bereits eingetretenen Liquiditätsengpässen**[^28a-1]
 
-[^28a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Aufgehoben durch Ziff. I der V vom 3. Juni 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
+<sup>1</sup>
+
+Stellt die systemrelevante Bank fest, dass sich ein Liquiditätsengpass abzeichnen könnte oder ein solcher bereits eingetreten ist, so informiert sie unverzüglich die FINMA. Sie reicht ihr die vollständigen und aktuellen Informationen ein, die diese für die Beurteilung der aktuellen und zukünftigen Liquiditätslage benötigt; dies sind insbesondere:
+
+- a. der Liquiditätsnachweis nach Artikel 17*c*;
+- b. die Beobachtungskennzahlen nach Artikel 18*a*;
+- c. detaillierte Informationen über aktuelle Einlagenabflüsse;
+- d. der Ausweis der Liquiditätssituation nach Artikel 28;
+- <sup>e.</sup> Szenarioanalysen, wobei für die Beurteilung der Liquiditätsentwicklung sowohl institutsspezifische als auch marktweite Stressszenarien zu berücksichtigen sind.
+
+<sup>2</sup> Stellt die FINMA auf andere Weise fest oder hat sie begründeten Anlass zur Annahme, dass sich ein Liquiditätsengpass abzeichnen könnte oder ein solcher bereits eingetreten ist, so fordert sie die systemrelevante Bank auf, ihr die Informationen nach Absatz 1 innerhalb einer von ihr gesetzten Frist einzureichen.
+
+<sup>3</sup> Systemrelevante Banken müssen auch im Fall von Reorganisationen ihrer Gruppenstruktur fähig sein, die notwendigen Informationen bereitzustellen und der FINMA einzureichen.
+
+<sup>4</sup> Die FINMA regelt, welche Voraussetzungen erfüllt sein müssen, damit die Einreichungspflicht nach Absatz 1 entsteht. Sie präzisiert die einzureichenden Informationen und legt Anforderungen an deren Qualität sowie die Form und die Frequenz der Einreichung fest.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Fassung gemäss Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 #### Art. 29
 
@@ -1181,20 +1221,20 @@ Anhang 2[^t-4]
 
 ## Mittelabflüsse und Abflussraten
 
-[^t-4]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), Ziff. II Abs. 1 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) und Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), Ziff. II Abs. 1 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)), Anhang Ziff. 3 der V vom 23. Nov. 2022 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)) und Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
 <tr><th>Abflusskategorien</th><th></th><th>Abflussrate (in Prozent)</th></tr>
 <tr><td>1. Einlagen von Privatkundinnen und Privatkunden</td><td></td><td></td></tr>
-<tr><td>1.1 Einlagen von Privatkundinnen und Privatkunden umfassen alle Sicht- und Termineinlagen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen. Termineinlagen mit einer Restlaufzeit von mehr als 30 Kalendertagen sind nicht zu berücksichtigen</td><td></td><td></td></tr>
+<tr><td>1.1 Einlagen von Privatkundinnen und Privatkunden bis zu 1,5 Mio. Schweizerfranken sowie Einlagen aus Freizügigkeitskonten und Einlagen aus der gebundenen Selbstvorsorge unabhängig von ihrer Höhe. Diese Einlagen umfassen alle Sicht- und Termineinlagen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen. Termineinlagen mit einer Restlaufzeit von mehr als 30 Kalendertagen sind nicht zu berücksichtigen</td><td></td><td></td></tr>
 <tr><td>1.1.1 Stabile Einlagen</td><td></td><td>5</td></tr>
 <tr><td>1.1.2 Weniger stabile Einlagen</td><td></td><td>10</td></tr>
-<tr><td>1.2 Einlagen von Privatkundinnen und Privatkunden grösser als 1.5 Mio. Schweizerfranken. Diese umfassen alle Sicht- und Termineinlagen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen</td><td></td><td>20</td></tr>
+<tr><td>1.2 Einlagen von Privatkundinnen und Privatkunden grösser als 1,5 Mio. Schweizerfranken. Diese Einlagen umfassen alle Sicht- und Termineinlagen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen, mit Ausnahme von Einlagen aus Freizügigkeitskonten und Einlagen aus der gebundenen Selbstvorsorge</td><td></td><td>20</td></tr>
 <tr><td>2. Unbesicherte, von Geschäfts- oder Grosskunden bereitgestellte Finanzmittel</td><td></td><td></td></tr>
 <tr><td>2.1 Sicht- und Termineinlagen von Kleinunternehmen mit einer Restlaufzeit oder Kündigungsfrist von bis zu 30 Kalendertagen</td><td></td><td></td></tr>
 <tr><td>2.1.1 Stabile Einlagen</td><td></td><td>5</td></tr>
-<tr><td>2.1.2 Weniger stabile Einlagen</td><td>[tab]</td><td>10</td></tr>
-<tr><td>2.2 Operative Einlagen im Zusammenhang mit Clearing-, Depot-, und Cash-Management-Dienstleistungen</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>2.1.2 Weniger stabile Einlagen</td><td></td><td>10</td></tr>
+<tr><td>2.2 Operative Einlagen im Zusammenhang mit Clearing-, Depot-, und Cash-Management-Dienstleistungen</td><td></td><td></td></tr>
 <tr><td>2.2.1 Operative Einlagen aller Gegenparteien, die vollständig durch die Einlagensicherung gedeckt sind</td><td></td><td>5</td></tr>
 <tr><td>2.2.2 Operative Einlagen aller Gegenparteien, die nicht vollständig durch die Einlagensicherung gedeckt sind</td><td></td><td>25</td></tr>
 <tr><td>2.3 Anrechenbare Einlagen beim Zentralinstitut von Mitgliedern eines Finanzverbundes</td><td></td><td>25</td></tr>
@@ -1206,7 +1246,7 @@ Anhang 2[^t-4]
 <tr><td>2.6 Unbesicherte Schuldverschreibungen</td><td></td><td>100</td></tr>
 <tr><td>2.7 Zusätzliche notwendige Einlagen in Zentralbankreserven</td><td></td><td>100</td></tr>
 <tr><td>3. Besicherte Transaktionen und Sicherheitenswaps, die innert 30 Kalendertagen fällig werden, und bei denen die Sicherheiten nicht zur Deckung von Short-Positionen verwendet werden</td><td></td><td></td></tr>
-<tr><td>3.1 Besicherte Finanzierungsgeschäfte mit der SNB, die durch Aktiva der Kategorie 2*b* oder Aktiva, die nicht HQLA sind («Nicht-HQLA»), besichert sind, und Sicherheitenswaps, die den Austausch von Aktiva der gleichen Kategorie beinhalten und nicht glattgestellt werden</td><td></td><td>0</td></tr>
+<tr><td>3.1 Besicherte Finanzierungsgeschäfte mit der SNB, die nicht durch Aktiva der Kategorien 1 und 2a besichert sind, und Sicherheitenswaps, die den Austausch von Aktiva der gleichen Kategorie beinhalten und nicht glattgestellt werden</td><td></td><td>0</td></tr>
 <tr><td>3.2 Besicherte Finanzierungsgeschäfte, die durch Aktiva der Kategorie 2b oder Nicht-HQLA besichert sind und deren Gegenpartei:</td><td></td><td></td></tr>
 <tr><td>– die eigene Zentralregierung oder multilaterale Entwicklungsbanken sind; oder</td><td></td><td></td></tr>
 <tr><td>– inländische untergeordnete Gebietskörperschaften oder sonstige öffentlich-rechtliche Körperschaften mit einem Risikogewicht von höchstens 20 Prozent sind</td><td></td><td>25</td></tr>
@@ -1256,14 +1296,13 @@ Anhang 2[^t-4]
 <tr><td>9.3.2 Potenzielles Ersuchen um Rückkauf von Schuldtiteln der Bank selbst</td><td></td><td>0</td></tr>
 <tr><td>9.3.3 Potenzielles Ersuchen um Rückkauf von Schuldtiteln von mit der Bank verbundenen Zweckgesellschaften, Wertpapierfinanzierungsvehikeln und von ähnlichen Finanzierungsfazilitäten, welche aufgrund ihrer Strukturierung ein Liquiditätsrisiko auf die Bank transferieren</td><td></td><td>20 Prozent des Betrages der nach 30 Kalendertagen an Finanzierung fällig wird</td></tr>
 <tr><td>9.3.4 Strukturierte Produkte sowie synthetisch konstruierte, vergleichbare Produkte mit besonderen Liquiditätsanforderungen, insbesondere Produkte, für die die Bank zusagt, für gute Marktgängigkeit zu sorgen. Ausgeschlossen sind Produkte, die kein Funding der Bank generieren und liquiditätsneutral reduziert werden können</td><td></td><td>5 Prozent des Emissionsvolumens</td></tr>
-<tr><td>9.3.5 Verwaltete Geldmarktfonds, die mit dem Ziel bewirtschaftet werden, einen stabilen Wert beizubehalten, wie Constant-Net-Asset-Value-Geldmarktfonds</td><td></td><td>5 Prozent des Emissionsvolumens</td></tr>
+<tr><td>9.3.5 Verwaltete Geldmarktfonds, die mit dem Ziel bewirtschaftet werden, einen stabilen Wert beizubehalten, wie Constant-Net-Asset-Value-Geldmarktfonds, ausser wenn eine Unterstützung des Geldmarktfonds durch die Bank durch die Fondsgesetzgebung ausgeschlossen oder anderweitig hinreichend eingeschränkt ist</td><td></td><td>5 Prozent des Emissionsvolumens</td></tr>
 <tr><td>9.3.6 Andere nicht vertragliche Verpflichtungen</td><td></td><td>0</td></tr>
 <tr><td>10. Potenzielles Ersuchen um Rückkauf von emittierten Schuldtiteln der Bank selbst mit (Rest-)Laufzeiten von mehr als 30 Tagen über verbundene Wertpapierhändler oder Market Maker</td><td></td><td>0</td></tr>
 <tr><td>11. Short-Positionen von Kundinnen und Kunden, gedeckt durch Sicherheiten anderer Kundinnen und Kunden, die nicht HQLA sind</td><td></td><td>50</td></tr>
 <tr><td>12. Short-Positionen der Bank gedeckt durch besicherte Finanzierungsgeschäfte</td><td></td><td>0</td></tr>
 <tr><td>13. Sonstige vertragliche Mittelabflüsse innert 30 Tagen (wie Abflüsse zur Deckung von ungedeckten Wertpapierfinanzierungen, ungedeckten Short-Positionen, Dividenden oder vertraglichen Zinszahlungen)</td><td></td><td>100</td></tr>
 <tr><td>14. Vertragliche Verpflichtungen, Kreditausleihungen zu erneuern *(**«*Rollover*»**),* wenn diese vertraglichen Verpflichtungen nicht bereits in anderen Abflusskategorien erfasst sind:</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
 <tr><td>14.1 gegenüber Privatkundinnen und Privatkunden, Kleinunternehmen, Nichtfinanzunternehmen und anderen juristischen Personen einschliesslich mit Finanzinstituten verbundener Gesellschaften</td><td></td><td>100 Prozent, wenn die Differenz zwischen den Abflüssen nach 14.1 und der Hälfte der Zuflüsse gemäss Anhang 3, Ziffer 5.1 und 5.2. positiv ist. 0 Prozent, wenn die Differenz zwischen den Abflüssen nach 14.1 und der Hälfte der Zuflüsse gemäss Anhang 3, Ziffer 5.1 und 5.2. negativ ist.</td></tr>
 <tr><td>14.2 gegenüber Finanzinstituten</td><td></td><td>100</td></tr>
 <tr><td>15. Gruppeninterne Mittelabflüsse (nur für Einzelinstitut)</td><td></td><td>100</td></tr>
@@ -1306,7 +1345,7 @@ Anhang 4[^t-6]
 
 ## Gewichtungsfaktoren der verfügbaren stabilen Finanzierung (ASF)
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Bereinigt gemäss Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
 <tr><th>ASF-Kategorien</th><th>Gewichtungsfaktor (in Prozent)</th></tr>
@@ -1329,10 +1368,10 @@ Anhang 4[^t-6]
 <tr><td>6.4 Verbindlichkeiten aus einem nach dem Abschlusstagsprinzip verbuchten Kauf *(trade date payables)* von Finanzinstrumenten, Devisen und Rohstoffen:</td><td>0</td></tr>
 <tr><td>a. die innerhalb der standardmässigen Erfüllungsfrist oder des für die jeweilige Transaktion handelsüblichen Zeitraums erfüllt werden; oder b. bei deren Nichterfüllung zu erwarten ist, dass die Erfüllung noch erfolgt.</td><td></td></tr>
 <tr><td>6.5 Bei Verbindlichkeiten aus Derivatgeschäften die erhaltenen Sicherheiten aus Ersteinschuss- und Nachschusszahlungen, die nicht mit Forderungen aus Derivatgeschäften verrechnet werden dürfen</td><td>0</td></tr>
-<tr><td>6.6 Verbindlichkeiten, die nach Artikel 17*p* von Forderungen abhängig sind</td><td>0</td></tr>
+<tr><td>6.6 Verbindlichkeiten und weitere Passiva, die nach Artikel 17*p* von Forderungen und weiteren Aktiva abhängig sind</td><td>0</td></tr>
 </table>
 
-[^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 Anhang 5[^t-7]
 
@@ -1340,10 +1379,10 @@ Anhang 5[^t-7]
 
 ## Gewichtungsfaktoren der erforderlichen stabilen Finanzierung (RSF)
 
-[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Bereinigt gemäss Ziff. II der V vom 3. Juni 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)) und Anhang Ziff. 3 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Bereinigt gemäss Ziff. II der V vom 3. Juni 2022 ([AS 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)), Anhang Ziff. 3 der V vom 29. Nov. 2023 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)) und Anhang Ziff. 2 der V vom 22. April 2026, in Kraft seit 1. Jan. 2027 ([AS 2026 207](https://fedlex.data.admin.ch/eli/oc/2026/207)).
 
 <table>
-<tr><th>RSF-Kategorien</th><th>Gewichtungsfaktor (in %)</th></tr>
+<tr><th>RSF-Kategorien</th><th>Gewichtungsfaktor (in Prozent)</th></tr>
 <tr><td>1.1 Unmittelbar verfügbare Münzen und Banknoten</td><td>[tab] 0</td></tr>
 <tr><td>1.2 Zentralbankguthaben einschliesslich:</td><td>0</td></tr>
 <tr><td>a. der Mindestreserve, wenn die Regelung der betreffenden Zentralbank keine Haltung über einen längerfristigen Zeitraum verlangt;</td><td></td></tr>
@@ -1353,12 +1392,11 @@ Anhang 5[^t-7]
 <tr><td>1.4 Forderungen aufgrund eines nach dem Abschlusstagsprinzip verbuchten Verkaufs *(trade date receivables)* von Finanzinstrumenten, Devisen und Rohstoffen:</td><td>0</td></tr>
 <tr><td>a. die innerhalb des standardmässigen Erfüllungszeitraums oder des für die jeweilige Transaktion handelsüblichen Zeitraums erfüllt werden; oder</td><td></td></tr>
 <tr><td>b. bei deren Nichterfüllung zu erwarten ist, dass die Erfüllung noch erfolgt.</td><td></td></tr>
-<tr><td>1.5 Forderungen, die nach Artikel 17*p* von Verbindlichkeiten abhängig sind</td><td>0</td></tr>
+<tr><td>1.5 Forderungen und weitere Aktiva, die nach Artikel 17*p* von Verbindlichkeiten und weiteren Passiva abhängig sind</td><td>0</td></tr>
 <tr><td>1.6 Lastenfreie Aktiva der Kategorie 1 nach Artikel 15*a*, sofern sie nicht unter die RSF-Kategorien 1.1–1.3 fallen</td><td>0</td></tr>
 <tr><td>1.7 Weniger als sechs Monate belastete Aktiva der Kategorie 1 nach Artikel 15*a*</td><td>0</td></tr>
 <tr><td>1.8 Belastete Aktiva der Kategorie 1 nach Artikel 15*a* im Zusammenhang mit liquiditätszuführenden Operationen von Zentralbanken (aus Sicht der Zentralbank)</td><td>0</td></tr>
 <tr><td>1.9 Unbedingt widerrufliche Kredit- und Liquiditätsfazilitäten für alle Kundinnen und Kunden</td><td>0</td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>2 Unter Vorbehalt der RSF-Kategorie 3.4 lastenfreie und für weniger als sechs Monate belastete Einlagen bei Finanzinstituten sowie Ausleihungen an diese mit einer Restlaufzeit von weniger als sechs Monaten, wenn:</td><td>10</td></tr>
 <tr><td>a. die Einlagen sowie die Ausleihungen mit Aktiva der Kategorie 1 nach Artikel 15*a* oder Kategorie 2*a* nach Artikel 15*b* besichert sind; und</td><td></td></tr>
 <tr><td>b. die Bank die erhaltenen Sicherheiten während der gesamten Laufzeit der Einlage oder der Ausleihung frei weiter verpfänden kann *(rehypothecation).*</td><td></td></tr>
@@ -1399,14 +1437,13 @@ Anhang 5[^t-7]
 <tr><td>g. Versicherungsvermögenswerte (*insurance assets*);</td><td></td></tr>
 <tr><td>h. Beteiligungen an Tochtergesellschaften;</td><td></td></tr>
 <tr><td>i. ausgefallene Wertpapiere.</td><td></td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>7.5 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 7.1–7.4 fielen, wenn sie lastenfrei wären</td><td>[tab] 100</td></tr>
 <tr><td>8 Bedingt widerrufliche sowie unwiderrufliche Kredit- und Liquiditätsfazilitäten für alle Kundinnen und Kunden</td><td>5 % des jeweils nicht in Anspruch genommenen Teils</td></tr>
 <tr><td>9.1 Eventualverpflichtungen im Zusammenhang mit Handelsfinanzierungen</td><td>0 % des ausstehenden Nominalbetrags</td></tr>
 <tr><td>9.2 Eventualverpflichtungen aus Garantien und Akkreditiven, die nicht mit Handelsfinanzierungen zusammenhängen</td><td>5 % des ausstehenden Nominalbetrags</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^annex5-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 Anhang 6[^t-8]
 
@@ -1451,7 +1488,7 @@ Anhang 7[^t-9]
 <tr><td>2. Forderungen gegenüber Finanzinstituten nach Anhang 1 und Zentralbanken:</td><td></td></tr>
 <tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 31 bis 60 Kalendertagen</td><td>75</td></tr>
 <tr><td>– mit einer Restlaufzeit oder Kündigungsfrist von 61 bis 90 Kalendertagen</td><td>50</td></tr>
-<tr><td>3. Weiterverpfändete von den HQLA ausgeschlossene Aktiva der Kategorie 1, wobei die Weiterverpfändungsdauer eine Restlaufzeit aufweist:</td><td>[tab]</td></tr>
+<tr><td>3. Weiterverpfändete von den HQLA ausgeschlossene Aktiva der Kategorie 1, wobei die Weiterverpfändungsdauer eine Restlaufzeit aufweist:</td><td></td></tr>
 <tr><td>– von 31 bis 60 Kalendertagen</td><td>100</td></tr>
 <tr><td>– von 61 bis 90 Kalendertagen</td><td>50</td></tr>
 </table>
