@@ -3,18 +3,18 @@ sr: "416.21"
 title: "Ordonnance du 30 janvier 2013 concernant l'attribution de bourses à des étudiants et artistes étrangers en Suisse"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/104"
 language: fr
-version: 2026-01-01
+version: 2028-01-01
 adopted: 2013-01-30
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-104-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20280101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-104-20280101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20280101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’attribution de bourses à des étudiants et artistes étrangers en Suisse
 
-du 30 janvier 2013 (État le 1<sup>er</sup> janvier 2026)
+du 30 janvier 2013 (État le 1<sup>er</sup> janvier 2028)
 
 Le Conseil fédéral suisse,
 
@@ -59,9 +59,11 @@ Les bourses de recherche universitaire sont allouées:
   - 1\. aux candidats à un doctorat en Suisse,
   - 2\. aux candidats à un doctorat à l’étranger qui effectuent un stage de recherche en Suisse, ou
 
-- b. pour des recherches postdoctorales.
+- b.[^3-1] …
 
 <sup>3</sup> Les bourses artistiques sont allouées pour la poursuite d’études artistiques dans une haute école spécialisée.
+
+[^3-1]: Abrogée par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2028 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 4
 
@@ -77,11 +79,14 @@ Les nouvelles bourses de recherche universitaire doivent être réparties en par
 
 Les bourses octroyées peuvent être renouvelées. La durée de renouvellement est:
 
-- a. de trois ans au maximum pour les bourses de recherche universitaire destinées aux candidats à un doctorat en Suisse;
-- b. de six mois au maximum pour les bourses de recherche universitaire destinées aux personnes titulaires d’un doctorat;
+- a.[^5-1] de quatre ans au maximum pour les bourses de recherche universitaire destinées aux candidats à un doctorat en Suisse;
+- b.[^5-2] …
 - c. de neuf mois au maximum pour les bourses artistiques.
 
 <sup>2</sup> La décision de renouvellement de la bourse et celle relative à la durée de son renouvellement sont prises en fonction des résultats académiques du boursier et de l’avis du professeur responsable.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2028 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^5-2]: Abrogée par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2028 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 6
 
@@ -104,11 +109,12 @@ Les montants mensuels de base s’élèvent à:
   - 1\. qui préparent un doctorat en Suisse (art. 3, al. 2, let. a, ch. 1), ou
   - 2\. qui effectuent un stage de recherche en Suisse (art. 3, al. 2, let. a, ch. 2);
 
-- b. 3500 francs, pour les personnes titulaires d’un doctorat (art. 3, al. 2, let. b);
-- c.[^7-2] 2450 francs pour les artistes (art. 3, al. 3).
+- b.[^7-2] …
+- c.[^7-3] 2450 francs pour les artistes (art. 3, al. 3).
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^7-2]: Abrogée par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2028 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 8
 

@@ -3,18 +3,18 @@ sr: "416.21"
 title: Verordnung vom 30. Januar 2013 über Stipendien für ausländische Studierende und Kunstschaffende in der Schweiz
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/104"
 language: de
-version: 2026-01-01
+version: 2028-01-01
 adopted: 2013-01-30
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2013-104-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20280101/de/xml/fedlex-data-admin-ch-eli-cc-2013-104-20280101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20280101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Stipendien für ausländische Studierende und Kunstschaffende in der Schweiz
 
-vom 30. Januar 2013 (Stand am 1. Januar 2026)
+vom 30. Januar 2013 (Stand am 1. Januar 2028)
 
 Der Schweizerische Bundesrat,
 
@@ -59,9 +59,11 @@ Universitäre Forschungsstipendien werden ausgerichtet:
   - 1\. Doktorandinnen und Doktoranden in der Schweiz,
   - 2\. Doktorandinnen und Doktoranden im Ausland, die für ihr Doktorat einen Forschungsaufenthalt in der Schweiz absolvieren; oder
 
-- b. für postdoktorale Forschungsarbeiten.
+- b.[^3-1] ...
 
 <sup>3</sup> Die Kunststipendien werden ausgerichtet für Kunststudien an einer Fachhochschule.
+
+[^3-1]: Aufgehoben durch Ziff. I der V vom 19. Nov. 2025, mit Wirkung seit 1. Jan. 2028 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 4
 
@@ -77,11 +79,14 @@ Die neuen universitären Forschungsstipendien sind so zu verteilen, dass ungefä
 
 Einmal zugesprochene Stipendien können verlängert werden. Die Verlängerung beträgt:
 
-- a. für universitäre Forschungsstipendien für Doktorandinnen und Doktoranden in der Schweiz: höchstens drei Jahre;
-- b. für universitäre Forschungsstipendien für Postdoktorandinnen und Postdoktoranden: höchstens sechs Monate;
+- a.[^5-1] für universitäre Forschungsstipendien für Doktorandinnen und Doktoranden in der Schweiz: höchstens vier Jahre;
+- b.[^5-2] ...
 - c. für Kunststipendien: höchstens neun Monate.
 
 <sup>2</sup> Verlängerung und Dauer der Verlängerung werden aufgrund der akademischen Leistungen der Stipendiatin oder des Stipendiaten und der Meinung der verantwortlichen Professorin oder des verantwortlichen Professors beschlossen.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2028 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^5-2]: Aufgehoben durch Ziff. I der V vom 19. Nov. 2025, mit Wirkung seit 1. Jan. 2028 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 6
 
@@ -104,11 +109,12 @@ Die monatlichen Grundbeträge der Stipendien belaufen sich auf:
   - 1\. ein Doktorat in der Schweiz vorbereiten (Art. 3 Abs. 2 Bst. a Ziff. 1), oder
   - 2\. ein Forschungspraktikum in der Schweiz absolvieren (Art. 3 Abs. 2 Bst. a Ziff. 2);
 
-- b. 3500 Franken für Personen, die über ein Doktorat verfügen (Art. 3 Abs. 2 Bst. b);
-- c.[^7-2] 2450 Franken für Kunstschaffende (Art. 3 Abs. 3).
+- b.[^7-2] ...
+- c.[^7-3] 2450 Franken für Kunstschaffende (Art. 3 Abs. 3).
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^7-2]: Aufgehoben durch Ziff. I der V vom 19. Nov. 2025, mit Wirkung seit 1. Jan. 2028 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 8
 
