@@ -4,11 +4,11 @@ title: "Loi fédérale du 24 mars 1995 sur le statut et les tâches de l'Institu
 short: LIPI
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050"
 language: fr
-version: 2025-07-01
+version: 2027-01-01
 adopted: 1995-03-24
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050/20270101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-5050_5050_5050-20270101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20270101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/5050_5050_5050/20250701/fr"
 
 (LIPI)
 
-du 24 mars 1995 (État le 1<sup>er</sup> juillet 2025)
+du 24 mars 1995 (État le 1<sup>er</sup> janvier 2027)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 122 de la Constitution[^ingress-1],[^ingress-2] vu le message du Con
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)
 
 ## Section 1 Forme d’organisation et tâches
@@ -41,7 +41,7 @@ arrête:
 
 <sup>3</sup> L’IPI est géré selon les principes de l’économie d’entreprise.
 
-[^1-1]: Nouvelle expression selon le ch. 1 de l’annexe à la LF du 21 juin 2013, en vigieur depuis le 1<sup>er</sup> janv. 2017 ([RO 2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: Nouvelle expression selon l’annexe ch. 1 de la LF du 21 juin 2013, en vigieur depuis le 1<sup>er</sup> janv. 2017 ([RO 2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -51,7 +51,7 @@ arrête:
 
 L’IPI effectue les tâches suivantes:
 
-- a.[^2-1] il prépare les textes législatifs relatifs aux brevets d’invention, aux designs, au droit d’auteur et aux droits voisins, aux topographies de produits semi-conducteurs, aux marques et indications de provenance, aux armoiries publiques et autres signes publics, ainsi que les autres actes législatifs relatifs à la propriété intellectuelle pour autant qu’ils ne relèvent pas de la compétence d’autres unités administratives de la Confédération;
+- a.[^2-1] il prépare les textes législatifs relatifs aux brevets, aux certificats complémentaires de protection, aux designs, au droit d’auteur et aux droits voisins, aux topographies de produits semi-conducteurs, aux marques et indications de provenance, aux armoiries publiques et autres signes publics ainsi que les autres actes législatifs relatifs à la propriété intellectuelle, pour autant qu’ils ne relèvent pas de la compétence d’autres unités administratives de la Confédération;
 - b. il exécute, conformément à la législation spéciale, les actes législatifs mentionnés à la let. a, ainsi que les traités internationaux du domaine de la propriété intellectuelle;
 - c. il conseille le Conseil fédéral et les autres autorités fédérales dans le domaine de l’économie générale sur les questions relatives à la propriété intellectuelle;
 - d. il représente la Suisse, le cas échéant en collaboration avec d’autres unités administratives de la Confédération, dans le cadre des organisations et conventions internationales du domaine de la propriété intellectuelle;
@@ -61,15 +61,16 @@ L’IPI effectue les tâches suivantes:
 
 <sup>2</sup> Le Conseil fédéral peut attribuer d’autres tâches à l’IPI; les art. 13 et 14 sont applicables.[^2-2]
 
-<sup>3</sup> L’IPI collabore avec l’Organisation européenne des brevets ainsi qu’avec d’autres organisations internationales, suisses ou étrangères.
+<sup>3</sup> L’IPI collabore avec l’Organisation européenne des brevets ainsi qu’avec d’autres organisations et offices internationaux, suisses ou étrangers.[^2-3]
 
-<sup>3bis</sup> L’IPI peut, dans l’accomplissement des tâches visées à l’al. 1, let. f, conclure des accords internationaux de portée limitée. Il les coordonne avec les autres autorités fédérales qui s’occupent de coopération internationale.[^2-3]
+<sup>3bis</sup> Il peut, dans l’accomplissement des tâches visées aux al. 1, let. f, et 3, conclure des accords internationaux de portée limitée. Il se coordonne à cet égard avec les autres autorités fédérales qui s’occupent de coopération internationale et qui collaborent avec les organisations et offices visés à l’al. 3.[^2-4]
 
 <sup>4</sup> Il peut, contre rémunération, faire appel aux services d’autres unités administratives de la Confédération.
 
-[^2-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la LF du 5 oct. 2001 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); [FF 2000 2587](https://fedlex.data.admin.ch/eli/fga/2000/557)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 [^2-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
-[^2-3]: Introduit par le ch. 1 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^2-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^2-4]: Introduit par l’annexe ch. 1 de la LF du 21 juin 2013 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ## Section 2 Organes et personnel
 
@@ -81,29 +82,41 @@ L’IPI effectue les tâches suivantes:
 
 Les organes de l’IPI sont:
 
-- a. le Conseil de l’IPI;
+- a. le Conseil de l’Institut[^3-1];
 - b. le directeur;
 - c. l’organe de révision.
 
 <sup>2</sup> Ils sont nommés par le Conseil fédéral.
 
+[^3-1]: Nouvelle expression selon l’annexe ch. 1 al. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il a été tenu compte de cette mod. dans tout le texte.
+
 #### Art. 4
 
-**Conseil de l’IPI**
+**Conseil de l’Institut**
 
-<sup>1</sup> Le Conseil de l’IPI est composé du président et de huit autres membres.
+<sup>1</sup> Le Conseil de l’Institut est composé du président et de huit autres membres.
 
 <sup>2</sup> Il approuve le rapport de gestion, les comptes annuels, ainsi que le budget de l’IPI.
 
-<sup>3</sup> Il soumet le règlement sur les taxes au Conseil fédéral pour approbation.[^4-1]
+<sup>3</sup> Il soumet l’ordonnance de l’IPI sur les taxes[^4-1] au Conseil fédéral pour approbation.[^4-2]
 
 <sup>4</sup> Il détermine la composition de la direction.
 
-<sup>5</sup> L’art. 6*a*, al. 1 à 5, de la loi du 24 mars 2000 sur le personnel de la Confédération[^4-2] s’applique par analogie aux honoraires et aux autres conditions contractuelles convenues avec les membres du Conseil de l’IPI.[^4-3]
+<sup>4bis</sup> Il édicte l’ordonnance sur le personnel et la soumet à l’approbation du Conseil fédéral.[^4-3]
 
-[^4-1]: Nouvelle teneur selon le ch. I 1 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
-[^4-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^4-3]: Introduit par le ch. I 1 de la LF du 20 juin 2003 sur la rémunération et sur d’autres conditions contractuelles convenues avec les cadres du plus haut niveau hiérarchique et les membres des organes dirigeants des entreprises et établissements de la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 2004 ([RO 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6972](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6990](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
+<sup>4ter</sup> Il conclut le contrat d’affiliation à la Caisse fédérale de pensions (Publica) et le soumet à l’approbation du Conseil fédéral.[^4-4]
+
+<sup>4quater</sup> Il édicte les dispositions concernant le financement de la prévoyance professionnelle et les soumet à l’approbation du Conseil fédéral.[^4-5]
+
+<sup>5</sup> L’art. 6*a*, al. 1 à 5, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^4-6] s’applique par analogie aux honoraires et aux autres conditions contractuelles convenues avec les membres du Conseil de l’Institut.[^4-7]
+
+[^4-1]: Nouvelle expression selon l’annexe ch. 1 al. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^4-3]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^4-4]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^4-5]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^4-6]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^4-7]: Introduit par le ch. I 1 de la LF du 20 juin 2003 sur la rémunération et sur d’autres conditions contractuelles convenues avec les cadres du plus haut niveau hiérarchique et les membres des organes dirigeants des entreprises et établissements de la Confédération ([RO 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6972](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6990](https://fedlex.data.admin.ch/eli/fga/2002/1195)). Nouvelle teneur selon le ch. III de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
 #### Art. 5
 
@@ -117,13 +130,13 @@ Les organes de l’IPI sont:
 
 **Organe de révision**
 
-L’organe de révision révise la comptabilité et fait un rapport au Conseil de l’IPI.
+L’organe de révision révise la comptabilité et fait un rapport au Conseil de l’Institut.
 
 #### Art. 7
 
 **Gestion**
 
-<sup>1</sup> La direction répond de la gestion de l’IPI, sous réserve des compétences expressément attribuées au Conseil de l’IPI par l’art. 4 ou l’art. 8, al. 3.
+<sup>1</sup> La direction répond de la gestion de l’IPI, sous réserve des compétences expressément attribuées au Conseil de l’Institut par l’art. 4 ou l’art. 8, al. 3.
 
 <sup>2</sup> Elle établit chaque année le rapport de gestion, les comptes annuels, ainsi que le budget.
 
@@ -131,22 +144,63 @@ L’organe de révision révise la comptabilité et fait un rapport au Conseil d
 
 **Personnel**
 
-<sup>1</sup> Le statut du personnel de l’IPI est de droit public; le Conseil fédéral édicte les prescriptions nécessaires.
+<sup>1</sup> Le statut du personnel de l’IPI est de droit public.[^8-1]
+
+<sup>1bis</sup> Le personnel est assuré auprès de Publica conformément aux dispositions des art. 32*a* à 32*m* LPers[^8-2].[^8-3]
+
+<sup>1ter</sup> L’IPI est réputé employeur au sens de l’art. 32*b*, al. 2, LPers.[^8-4]
 
 <sup>2</sup> L’IPI dispose de toutes les compétences pour engager son personnel.
 
-<sup>3</sup> Le Conseil de l’IPI fixe les conditions d’engagement des membres de la direction. L’art. 6*a*, al. 1 à 5, de la loi du 24 mars 2000 sur le personnel de la Confédération[^8-1] s’applique par analogie.[^8-2]
+<sup>3</sup> Le Conseil de l’Institut fixe les conditions d’engagement des membres de la direction. L’art. 6*a*, al. 1 à 5, LPers s’applique par analogie.[^8-5]
 
-[^8-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^8-2]: Phrase introduite par le ch. I 1 de la LF du 20 juin 2003 sur la rémunération et sur d’autres conditions contractuelles convenues avec les cadres du plus haut niveau hiérarchique et les membres des organes dirigeants des entreprises et établissements de la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 2004 ([RO 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6972](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6990](https://fedlex.data.admin.ch/eli/fga/2002/1195)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^8-3]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-4]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
+[^8-5]: Phrase introduite par le ch. I 1 de la LF du 20 juin 2003 sur la rémunération et sur d’autres conditions contractuelles convenues avec les cadres du plus haut niveau hiérarchique et les membres des organes dirigeants des entreprises et établissements de la Confédération ([RO 2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13); [FF 2002 6972](https://fedlex.data.admin.ch/eli/fga/2002/1193)[6990](https://fedlex.data.admin.ch/eli/fga/2002/1195)). Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 96](https://fedlex.data.admin.ch/eli/oc/2026/96); [FF 2024 2316](https://fedlex.data.admin.ch/eli/fga/2024/2316)).
 
-## Section 3 Surveillance
+## Section 3 Défense des intérêts fédéraux
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+
+#### Art. 8a
+
+**Objectifs stratégiques**[^8a-1]
+
+Le Conseil fédéral fixe tous les quatre ans des objectifs stratégiques contraignants pour l’IPI. Il veille à ce que le Conseil de l’Institut soit consulté au préalable.
+
+[^8a-1]: Introduit par l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 #### Art. 9
 
+**Surveillance[^9-1]**
+
 <sup>1</sup> L’IPI est soumis à la surveillance du Conseil fédéral.
 
-<sup>2</sup> Les attributions légales du Contrôle fédéral des finances ainsi que la haute surveillance du Parlement sur l’administration sont réservées.
+<sup>2</sup>
+
+Le Conseil fédéral exerce sa fonction de surveillance et de contrôle notamment:
+
+- a. en nommant ou en révoquant le président et les autres membres du Conseil de l’Institut;
+- b. en décidant de la conclusion, de la modification et de la résiliation des rapports de travail du directeur;
+- c. en nommant ou en révoquant l’organe de révision;
+- d. en approuvant le contrat d’affiliation à PUBLICA;
+- e. en approuvant le rapport annuel sur les activités de l’IPI;
+- f. en approuvant l’ordonnance de l’IPI sur les taxes;
+- g. en donnant décharge au Conseil de l’Institut;
+- h. en vérifiant chaque année que les objectifs stratégiques ont été atteints.[^9-2]
+
+<sup>3</sup> Le Conseil fédéral a un droit de regard sur les dossiers de l’IPI et peut exiger des informations sur son activité.[^9-3]
+
+<sup>4</sup> Les compétences légales du Contrôle fédéral des finances et la haute surveillance du Parlement sur l’administration sont réservées.[^9-4]
+
+[^9-1]: Introduit par l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^9-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^9-3]: Introduit par l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
+[^9-4]: Introduit par l’annexe ch. 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 232](https://fedlex.data.admin.ch/eli/oc/2026/232); [FF 2023 7](https://fedlex.data.admin.ch/eli/fga/2023/7)).
 
 ## Section 4 Planification et financement
 
@@ -194,7 +248,7 @@ L’IPI perçoit des taxes:
 
 <sup>2</sup> …[^13-2]
 
-<sup>3</sup> Le règlement des taxes de l’IPI est soumis à l’approbation du Conseil fédéral.
+<sup>3</sup> L’ordonnance de l’IPI sur les taxes est soumise à l’approbation du Conseil fédéral.
 
 [^13-1]: Nouvelle teneur selon le ch. I 1 de la LF du 22 déc. 2023 sur l’introduction d’une procédure simplifiée de destruction de petits envois dans le droit de la propriété intellectuelle, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 313](https://fedlex.data.admin.ch/eli/oc/2025/313); [FF 2023 1184](https://fedlex.data.admin.ch/eli/fga/2023/1184)).
 [^13-2]: Abrogé par le ch. I 1 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
