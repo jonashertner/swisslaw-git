@@ -1,0 +1,37 @@
+---
+canton: NE
+number: "107"
+title: "Décret portant adhésion du canton de Neuchâtel à l'accord entre le Conseil fédéral suisse, agissant au nom des cantons de Berne, de Vaud, de Neuchâtel et du Jura, et le Gouvernement de la République française relatif à la création de la \"Conférence TransJurassienne\""
+language: fr
+adopted: 2002-03-19
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/107.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Décret portant adhésion du canton de Neuchâtel à l'accord entre le Conseil fédéral suisse, agissant au nom des cantons de Berne, de Vaud, de Neuchâtel et du Jura, et le Gouvernement de la République française relatif à la création de la "Conférence TransJurassienne"
+19 mars 2002[^t-1]
+
+Le Grand Conseil de la République et Canton de Neuchâtel,
+
+vu l'article 56, alinéa 3, de la Constitution fédérale[^t-2];
+
+vu l'article 56 de la Constitution cantonale[^t-3];
+
+sur la proposition du Conseil d'Etat, du 30 janvier 2002,
+
+décrète:
+
+[^t-1]: (\*) FO 2002 N° 24
+[^t-2]: RS 101
+[^t-3]: RSN 101
+
+#### Article premier
+
+Le Grand Conseil du canton de Neuchâtel approuve l'accord du 12 octobre 2001 entre le Conseil fédéral, agissant au nom des cantons de Berne, de Vaud, de Neuchâtel et du Jura, et le Gouvernement de la République française, relatif à la "Conférence TransJurassienne".
+
+#### Art. 2
+
+Le Conseil d'Etat est habilité à approuver les modifications de l'accord pour autant qu'elles portent sur des changements mineurs de la procédure ou de l'organisation.
+
+Décret promulgué par le Conseil d'Etat le 21 mai 2002.

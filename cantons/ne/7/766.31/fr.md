@@ -1,0 +1,55 @@
+---
+canton: NE
+number: "766.31"
+title: Arrêté portant interdiction de naviguer sur la Haute-Areuse entre Saint-Sulpice et Noiraigue
+language: fr
+version: 2013-08-01
+adopted: 1943-06-18
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/766.31.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté portant interdiction de naviguer sur la Haute-Areuse
+18 juin 1943[^t-1]
+
+**entre Saint-Sulpice et Noiraigue**
+
+Etat au 1<sup>er</sup> août 2013
+
+Le Conseil d'Etat de la République et Canton de Neuchâtel,
+
+vu une requête du 11 juin 1943, de la Société des Pêcheurs de la Haute-Areuse;
+
+vu les articles 664 du code civil suisse[^t-2] et 96 de la loi concernant l'introduction du code civil suisse[^t-3];
+
+vu l'article premier du code pénal neuchâtelois, du 29 novembre 1940[^t-4];
+
+considérant que vu son caractère, la Haute-Areuse ne saurait être une rivière navigable et qu'une navigation de plaisance occasionnelle compromettrait le développement et la pêche du poisson dans cette rivière;
+
+considérant l'importance que constituent ces ressources pour le pays, notamment dans les circonstances actuelles;
+
+sur la proposition du conseiller d'Etat, chef des départements des Travaux publics et de Police,
+
+arrête:
+
+[^t-1]: (\*) RLN I 797
+[^t-2]: RS 210
+[^t-3]: RSN 211.1
+[^t-4]: RSN 312.0
+
+#### Article premier
+
+La navigation sur la Haute-Areuse entre Saint-Sulpice et Noiraigue est interdite.
+
+#### Art. 2
+
+Les contraventions au présent arrêté sont passibles de l'amende jusqu'à 500 francs et des arrêts jusqu'à 15 jours.
+
+[^2-1]: La désignation du département a été adaptée en application de l'article 12 de l'A fixant les attributions et l'organisation des départements et de la chancellerie d'Etat, du 26 juillet 2013 (FO 2013 N° 31), avec effet au 1<sup>er</sup> août 2013.
+
+#### Art. 3
+
+[^2-1]
+
+Le Département du développement territorial et de l'environnement est chargé de veiller à l'exécution du présent arrêté qui entre immédiatement en vigueur et qui sera maintenu tant et aussi longtemps que son application ne présentera pas d'inconvénient.

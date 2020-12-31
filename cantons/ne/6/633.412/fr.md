@@ -1,0 +1,24 @@
+---
+canton: NE
+number: "633.412"
+title: "Convention entre les cantons de Saint-Gall et de Neuchâtel concernant l'exonération de certaines libéralités de tout impôt sur les successions et sur les donations"
+language: fr
+adopted: 1973-10-26
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/633.412.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Convention entre les cantons de Saint-Gall et de Neuchâtel
+26 octobre 1973[^t-1]
+
+**concernant l'exonération de certaines libéralités de**
+
+**tout impôt sur les successions et sur les donations**
+
+- 1\. Le Conseil d'Etat du canton de Saint-Gall et le Conseil d'Etat de la République et Canton de Neuchâtel s'engagent à exonérer de tout impôt cantonal ou communal sur les successions et sur les donations et de tout impôt analogue les libéralités faites, dans une disposition pour cause de mort ou dans un acte entre vifs, en faveur de l'Etat, d'une commune, de l'un de leurs établissements ou d'une autre institution publique ou privée d'utilité publique ou de bienfaisance ayant son siège dans l'autre canton contractant.
+- 2\. La présente convention n'est pas applicable si et dans la mesure où le défunt a mis expressément les impôts de succession non pas à la charge du bénéficiaire de la libéralité, mais à celle des héritiers légaux ou institués.
+- 3\. La présente convention entre en vigueur le jour où elle a été signée par les deux gouvernements contractants.
+- 4\. La présente convention peut être dénoncée en tout temps par l'un ou l'autre des gouvernements signataires, moyennant observation d'un délai d'avertissement de six mois.
+
+[^t-1]: (\*) RLN XIII 439

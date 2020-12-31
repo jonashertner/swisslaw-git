@@ -1,0 +1,47 @@
+---
+canton: NE
+number: "766.370"
+title: "Arrêté interdisant la navigation dans le port du service cantonal des automobiles et de la navigation, au Nid-du-Crô, à Neuchâtel"
+language: fr
+adopted: 1998-01-28
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/766.370.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté interdisant la navigation dans le port
+28 janvier 1998[^t-1]
+
+**du service cantonal des automobiles et**
+
+**de la navigation, au Nid-du-Crô, à Neuchâtel**
+
+Le Conseil d'Etat de la République et Canton de Neuchâtel,
+
+vu la loi fédérale sur la navigation intérieure, du 3 octobre 1975[^t-2];
+
+vu l’ordonnance fédérale sur la navigation dans les eaux suisses, du 8 novembre 1978[^t-3];
+
+sur la proposition de la conseillère d'Etat, cheffe du Département de la justice, de la santé et de la sécurité,
+
+arrête:
+
+[^t-1]: (\*) FO 1998 No 9
+[^t-2]: RS 747.201
+[^t-3]: RS 747.201.1
+
+#### Article premier
+
+La navigation et le stationnement des bateaux sont interdits dans le porte du service cantonal des automobiles et de la navigation, au Nid-du-Crô, à Neuchâtel.
+
+#### Art. 2
+
+Les zones frappées d’interdiction sont signalisées par le panneau A1 « Interdiction de passer », complété par un cartouche « Excepté les ayants-droits » et par le panneau A7 « Interdiction de stationner », complété d’un même cartouche, conformément à l’ordonnance sur la navigation dans les eaux suisses, du 8 novembre 1978.
+
+#### Art. 3
+
+Les dispositions pénales de la loi fédérale sur la navigation intérieure, du 3 octobre 1975, sont applicables aux contrevenants.
+
+#### Art. 4
+
+Le présent arrêté entre immédiatement en vigueur. Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.

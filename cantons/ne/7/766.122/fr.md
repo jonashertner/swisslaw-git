@@ -1,0 +1,48 @@
+---
+canton: NE
+number: "766.122"
+title: "Arrêté réglant l'exigence d'une attestation d'amarrage comme condition d'immatriculation d'un bateau"
+language: fr
+adopted: 2013-09-02
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/766.122.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté réglant l'exigence d'une attestation d'amarrage comme condition d'immatriculation d'un bateau
+2 septembre 2013[^t-1]
+
+Le Conseil d’Etat de la République et Canton de Neuchâtel,
+
+vu la loi fédérale sur la navigation intérieure (LNI), du 3 octobre 1975[^t-2];
+
+vu l’ordonnance fédérale sur la navigation dans les eaux suisses, du 8 novembre 1978[^t-3];
+
+vu la loi d’introduction de la législation fédérale en matière de navigation intérieure, du 14 octobre 1986[^t-4];
+
+sur la proposition du conseiller d'Etat, chef du Département du développement territorial et de l'environnement;
+
+arrête:
+
+[^t-1]: (\*) FO 2013 No 36
+[^t-2]: RS 747.201
+[^t-3]: RS 747.201.1
+[^t-4]: RSN 766.10
+
+#### Article premier
+
+La délivrance d'un permis de navigation pour un bateau qui stationne sur le domaine public est subordonnée à la présentation d'une attestation d'amarrage.
+
+#### Art. 2
+
+Cette attestation établit que le requérant dispose d'une place d'amarrage dans un port concessionné ou est dûment autorisé par l'autorité à utiliser le domaine public ou encore qu'il dispose d'une place de stationnement du bateau à sec sur terrain privé et s'engage à l'utiliser après chaque sortie.
+
+#### Art. 3
+
+Si le bateau ne stationne pas sur le plan d'eau, le requérant doit indiquer à l'autorité le lieu de stationnement en fournissant les attestations nécessaires.
+
+#### Art. 4
+
+<sup>1</sup> Le Département du développement territorial et de l'environnement est chargé de l'application du présent arrêté qui entre en vigueur immédiatement.
+
+<sup>2</sup> Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.

@@ -1,0 +1,92 @@
+---
+canton: NE
+number: "631.012"
+title: "Arrêté concernant l'hypothèque légale prévue à l'article 247 de la loi sur les contributions directes (LCdir)"
+language: fr
+adopted: 2001-05-16
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.012.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté concernant l'hypothèque légale prévue
+16 mai 2001[^t-1]
+
+**à l'article 247 de la loi sur les contributions directes (LCdir)**
+
+Le Conseil d'Etat de la République et Canton de Neuchâtel,
+
+vu la loi sur les contributions directes (LCdir), du 21 mars 2000[^t-2];
+
+sur la proposition du conseiller d'Etat, chef du Département des finances et des affaires sociales,
+
+arrête:
+
+[^t-1]: (\*) FO 2001 No 37
+[^t-2]: RSN 631.0
+
+#### Article premier
+
+**But**
+
+Le présent arrêté a pour but d'aménager en cas d'aliénation d'un immeuble les effets de l'hypothèque légale, prévue à l'article 247 de la loi sur les contributions directes (LCdir), du 21 mars 2000, en garantie de la part des impôts sur le revenu et la fortune, sur le bénéfice et le capital qui se rapportent à des immeubles, de l'impôt foncier et de l'impôt sur les gains immobiliers.
+
+#### Art. 2
+
+**Consignation auprès d'un notaire**
+
+<sup>1</sup> Outre la consignation auprès d'une institution reconnue à cet effet, conformément à l'article 247, alinéa 2, LCdir, les parties à la transaction peuvent consigner, aux mêmes conditions, auprès du notaire instrumentant.
+
+<sup>2</sup> Dès que la consignation est opérée, le notaire instrumentant en avise le service des contributions et l'office de perception.
+
+<sup>3</sup> Au surplus, l'article 247, alinéas 3 et 4, LCdir, est applicable à la consignation entre les mains du notaire instrumentant.
+
+<sup>4</sup> Le montant consigné ne porte pas intérêt.
+
+#### Art. 3
+
+**Consignation auprès d'une institution reconnue**
+
+<sup>1</sup> La consignation prévue à l'article 247, alinéa 2, LCdir, s'opère auprès d'une banque soumise à la loi fédérale sur les banques et les caisses d'épargne, sur un compte ouvert conjointement au nom de l'Etat et de l'aliénateur.
+
+<sup>2</sup> Les modalités de la consignation doivent préalablement être approuvées par le service financier.
+
+<sup>3</sup> Dès que la consignation est opérée, la banque en avise l'office de perception.
+
+#### Art. 4
+
+**Avance**
+
+**a) principe**
+
+<sup>1</sup> En lieu et place de la consignation, les parties à la transaction peuvent faire l'avance de la part des impôts sur le revenu et la fortune, sur le bénéfice et le capital, de l'impôt foncier et de l'impôt sur les gains immobiliers qui se rapportent à l'immeuble aliéné.
+
+<sup>2</sup> L'avance a les mêmes effets juridiques que la consignation, en ce sens qu'elle éteint l'hypothèque légale servant à garantir les créances d'impôts des collectivités publiques contre l'aliénateur et qui se rapportent à l'immeuble grevé. L'hypothèque légale n'est plus opposable à l'acquéreur pour les dettes d'impôt de l'aliénateur.
+
+<sup>3</sup> Le montant avancé ne porte pas intérêt.
+
+#### Art. 5
+
+**b) procédure**
+
+<sup>1</sup> Les parties à la transaction qui veulent faire l'avance d'impôts demandent au service des contributions, avant la passation de l'acte d'aliénation, qu'il détermine le montant de l'avance; à l'appui de leur demande, elles doivent fournir d'office toutes les indications et les pièces nécessaires.
+
+<sup>2</sup> Dès la réception de la demande, le service des contributions et l'office de perception disposent d'un délai de trente jours pour fixer le montant de l'avance. A défaut de statuer dans ce délai, l'Etat est présumé avoir renoncé à invoquer l'hypothèque légale de l'article 247, LCdir, en garantie des dettes d'impôts de l'aliénateur.
+
+<sup>3</sup> Si l'aliénateur ne fournit pas d'office toutes les indications et les pièces nécessaires à la fixation de l'avance, le service des contributions dans le même délai fixe celle-ci à 10% de la valeur de la transaction.
+
+#### Art. 6
+
+**Imputation de l'avance**
+
+<sup>1</sup> Dans le cas où le transfert est soumis à l'impôt direct, l'avance est imputée sur le bordereau d'impôt définitif de l'année de référence.
+
+<sup>2</sup> Pour les cas soumis à l'impôt sur les gains immobiliers, l'avance vient en déduction de l'impôt sur les gains immobiliers et des éventuels autres impôts dus se rapportant à l'immeuble aliéné.
+
+#### Art. 7
+
+**Entrée en vigueur et publication**
+
+<sup>1</sup> Le présent arrêté entre en vigueur le 1<sup>er</sup> juin 2001.
+
+<sup>2</sup> Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.

@@ -1,0 +1,70 @@
+---
+canton: NE
+number: "766.391"
+title: "Arrêté interdisant la navigation dans les eaux bordant la rive à l'ouest du port de Saint-Aubin"
+language: fr
+adopted: 2014-05-07
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/766.391.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté interdisant la navigation dans les eaux bordant la rive à l'ouest du port de Saint-Aubin
+7 mai 2014[^t-1]
+
+Le Conseil d’Etat de la République et Canton de Neuchâtel,
+
+vu la loi fédérale sur la navigation intérieure, du 3 octobre 1975[^t-2];
+
+vu l'ordonnance sur la navigation dans les eaux suisses, du 8 novembre 1978[^t-3];
+
+vu la loi d'introduction de la législation fédérale en matière de navigation intérieure (LI-LNI), du 14 octobre 1986[^t-4];
+
+vu la convention pour la protection du patrimoine mondial culturel et naturel, du 23 novembre 1972[^t-5];
+
+vu la loi sur la protection des biens culturels (LCPBC), du 27 mars 1995[^t-6];
+
+vu l'inscription des "sites palafittiques préhistoriques autour des Alpes" au patrimoine mondial de l’UNESCO, du 27 juin 2011;
+
+vu la requête de l'Office du patrimoine et de l'archéologie, section archéologie, du 15 février 2014;
+
+sur la proposition du conseiller d'Etat, chef du Département du développement territorial et de l'environnement,
+
+arrête:
+
+[^t-1]: (\*) FO 2014 No 19
+[^t-2]: RS 747.201
+[^t-3]: RS 747.201.1
+[^t-4]: RSN 766.10
+[^t-5]: RS 0.451.41
+[^t-6]: RSN 461.30
+
+#### Article premier
+
+La navigation est interdite dans les eaux bordant la rive à l'ouest du port de Saint-Aubin, à l'exception des ayants-droits, sur une distance d'environ 600 mètres et à une distance d'environ 80 mètres de la rive.
+
+#### Art. 2
+
+Le dragage n'est autorisé que sous surveillance de l'Office du patrimoine et de l'archéologie.
+
+#### Art. 3
+
+La plongée subaquatique au large et à partir de la rive est interdite dans l'aire délimitée à l'article premier.
+
+#### Art. 4
+
+La zone frappée d'interdiction est balisée par un cordon de bouées, de forme sphérique et de couleur jaune, conformément à l'article 37 de l'ordonnance fédérale sur la navigation dans les eaux suisses, du 8 novembre 1978.
+
+#### Art. 5
+
+Les dispositions pénales de la loi fédérale sur la navigation intérieure, du 3 octobre 1975, sont applicables aux contrevenants.
+
+[^5-1]: FO 2000 N° 63
+
+#### Art. 6
+
+L'arrêté interdisant la navigation dans les eaux bordant la rive à l'ouest du port de Saint-Aubin, du 16 août 2000[^5-1], est abrogé.
+
+#### Art. 7
+
+Le présent arrêté entre immédiatement en vigueur. Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.

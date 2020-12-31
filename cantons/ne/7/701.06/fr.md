@@ -1,0 +1,88 @@
+---
+canton: NE
+number: "701.06"
+title: Arrêté concernant les émoluments perçus pour les préavis relatifs à la prévention et la défense contre les incendies et les éléments naturels établis dans le cadre des permis de construire et des mesures d’aménagement (Aem-PDIEN)
+short: Aem-PDIEN
+language: fr
+version: 2018-01-01
+adopted: 2017-11-22
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.06.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté concernant les émoluments perçus pour les préavis relatifs à la prévention et la défense contre les incendies et les éléments naturels établis dans le cadre des permis de construire et des mesures d’aménagement (Aem-PDIEN)
+22 novembre 2017[^t-1]
+
+État au 1<sup>er</sup> janvier 2018
+
+Le Conseil d’État de la République et Canton de Neuchâtel,
+
+vu la loi sur les constructions (LConstr.), du 25 mars 1996[^t-2] ;
+
+vu le règlement d’exécution de la loi sur les constructions (RELConstr.), du 16 octobre 1996[^t-3] ;
+
+vu la loi cantonale sur l'aménagement du territoire (LCAT), du 2 octobre 1991[^t-4] ;
+
+vu le règlement d’exécution de la loi cantonale sur l’aménagement du territoire (RELCAT), du 16 octobre 1996[^t-5] ;
+
+vu la loi concernant les émoluments, du 10 novembre 1920[^t-6] ;
+
+sur la proposition du conseiller d'État, chef du Département du développement territorial et de l’environnement,
+
+arrête :
+
+[^t-1]: (\*) FO 2017 No 47
+[^t-2]: RSN 720.0
+[^t-3]: RSN 720.1
+[^t-4]: RSN 701.0
+[^t-5]: RSN 701.02
+[^t-6]: RSN 152.150
+
+#### Article premier
+
+**But**
+
+Le présent arrêté fixe les émoluments dus pour les prestations fournies en relation avec la prévention et la défense contre les incendies et les éléments naturels dans le cadre des permis de construire et des mesures d’aménagement en application de la LConstr. et de la LCAT.
+
+#### Art. 2
+
+**Émolument**
+
+**a) Principe**
+
+<sup>1</sup> Les émoluments sont fixés en fonction des degrés d'assurance qualité définis par les prescriptions de protection incendie émises par l'Association des établissements d'assurance incendie (AEAI).
+
+<sup>2</sup> La classification du bâtiment est déterminée par l'Établissement cantonal d’assurance et de prévention (ECAP) sur la base des critères de l'AEAI, en particulier l'affectation et la hauteur du bâtiment.
+
+#### Art. 3
+
+**b) Tarif**
+
+<sup>1</sup> Le tarif pour les préavis rendus dans le cadre d’une demande de permis de construire ou de plan de quartier valant sanction préalable est arrêté comme suit :
+
+- *a)* pour les bâtiments ayant une assurance qualité de degré 1 et une valeur inférieure à 500'000 francs, l’émolument est facturé au forfait de 100 francs ;
+- *b)* pour les bâtiments ayant une assurance qualité de degré 1 et une valeur supérieure ou égale à 500'000 francs, l’émolument est facturé au forfait de 250 francs ;
+- *c)* pour les bâtiments ayant une assurance qualité de degré 2, l’émolument est facturé au forfait de 500 francs ;
+- *d)* pour les bâtiments ayant une assurance qualité de degré 3, l’émolument est facturé au forfait de 1'000 francs ;
+- *e)* pour les bâtiments ayant une assurance qualité de degré 4, l’émolument est calculé en fonction du temps consacré pour la prestation à un taux horaire de 100 francs.
+
+<sup>2</sup> La valeur déterminante pour le degré d’assurance qualité 1 correspond à la valeur ECAP selon la demande de permis pour les bâtiments neufs ou la valeur ECAP augmentée des travaux prévus selon la demande de permis pour les bâtiments en transformation.
+
+<sup>3</sup> L’émolument pour les préavis rendus dans le cadre de l’examen d’un plan spécial ou d’un plan de quartier est facturé au forfait de 500 francs.
+
+#### Art. 4
+
+**c) Perception et répartition**
+
+<sup>1</sup> Les émoluments du présent arrêté sont perçus par le service de l’aménagement du territoire dans le cadre des procédures d’aménagement du territoire et de permis de construire et sont reversés à ECAP au titre de subvention pour son activité, déduction faite des frais administratifs liés à leur perception.
+
+<sup>2</sup> Les frais de perception sont arrêtés à 10%.
+
+#### Art. 5
+
+**Entrée en vigueur et publication**
+
+<sup>1</sup> Le présent arrêté entre en vigueur au 1<sup>er</sup> janvier 2018.
+
+<sup>2</sup> Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.

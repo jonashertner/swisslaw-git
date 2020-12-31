@@ -1,0 +1,81 @@
+---
+canton: NE
+number: "766.34"
+title: Arrêté concernant la police de la navigation dans les bassins du Doubs
+language: fr
+adopted: 1969-07-22
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/766.34.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté concernant la police de la navigation
+22 juillet 1969[^t-1]
+
+**dans les bassins du Doubs**
+
+Le Conseil d'Etat de la République et Canton de Neuchâtel,
+
+vu l'ordonnance fédérale concernant la navigation dans les eaux suisses, du 19 décembre 1910[^t-2];
+
+vu le règlement intercantonal concernant la police de la navigation sur les lacs de Neuchâtel, Bienne et Morat, du 16 mai 1960[^t-3];
+
+considérant que, pour assurer la sécurité de la navigation dans les bassins du Doubs, les prescriptions du règlement intercantonal doivent être harmonisées avec celles qui sont ordonnées par la préfecture du département du Doubs concernant la police de la navigation des bateaux à moteur et canots automobiles français, destinés au transport des voyageurs sur les bassins du Doubs;
+
+sur la proposition du conseiller d'Etat, chef du département des Travaux publics,
+
+arrête:
+
+[^t-1]: (\*) RLN IV 287
+[^t-2]: Actuellement OCF du 8 novembre 1978 (RS 747.201.1)
+[^t-3]: RSN 766.121
+
+#### Article premier
+
+**Règles générales**
+
+Le règlement intercantonal concernant la police de la navigation sur les lacs de Neuchâtel, Bienne et Morat, du 16 mai 1960, est applicable à la navigation sur les bassins du Doubs, sous réserve des prescriptions spéciales fixées par les articles 2 à 6 du présent arrêté.
+
+#### Art. 2
+
+**Vitesses admises**
+
+En temps normal, la vitesse des bateaux à moteur n'excédera pas 15 km à l'heure. En temps de brouillard, elle n'excédera pas 6 km à l'heure, de même que dans un rayon de 150 mètres des embarcadères.
+
+#### Art. 3
+
+**Signaux**
+
+Chaque embarcation à moteur doit être dotée d'un signal d'avertissement du genre klaxon automobile. Le code des signaux à utiliser est le suivant:
+
+- au départ et à l'arrivée: un signal bref,
+- pour un dépassement: un signal bref suivi d'un son prolongé,
+- au moment de tourner les pointes: un signal prolongé,
+- en cas de brouillard: un signal prolongé par minute,
+- en cas de détresse: un signal morse SOS répété.
+
+#### Art. 4
+
+**Feux de position**
+
+Pour la navigation de nuit, chaque embarcation doit être munie, au minimum, d'un feu blanc à l'avant, visible de tout l'horizon.
+
+#### Art. 5
+
+**Circulation**
+
+<sup>1</sup> Les embarcations circulent à droite de la ligne médiane du Doubs, fixant la frontière.
+
+<sup>2</sup> Les croisements s'effectuent à droite et les dépassements à gauche, selon les principes du code de la route.
+
+<sup>3</sup> Il est interdit de dépasser au moment de tourner les pointes.
+
+<sup>4</sup> Les embarcations à moteur ne doivent pas côtoyer les pointes à moins de 8 mètres de distance des berges.
+
+#### Art. 6
+
+Les barques des touristes et pêcheurs ne doivent pas circuler ou stationner sur la route habituelle empruntée par les services à voyageurs. Il est interdit à ces barques de s'approcher des bateaux à moteur pour se faire balancer dans leur sillage.
+
+#### Art. 7
+
+Le présent arrêté abroge celui du 15 mars 1963 et déploie ses effets immédiatement. Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.

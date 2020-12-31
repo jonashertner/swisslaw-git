@@ -1,0 +1,907 @@
+---
+canton: NE
+number: "933.515"
+title: Concordat sur les jeux d’argent au niveau suisse (CJA)
+short: CJA
+language: fr
+version: 2021-01-01
+adopted: 2019-05-20
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.515.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Concordat sur les jeux d’argent au niveau suisse (CJA)
+20 mai 2019[^t-1][^t-2]
+
+État au 1<sup>er</sup> janvier 2021
+
+Les cantons
+
+vu les articles 48, 106 et 191b, alinéa 2 de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101 ; Cst.) ;
+
+vu la loi fédérale du 29 septembre 2017 sur les jeux d’argent (RS 935.51; loi sur les jeux d’argent; LJAr) ;
+
+conviennent de ce qui suit :
+
+[^t-1]: Adhésion du Canton de Neuchâtel par D du 26 mai 2020 (FO 2020 N° 24) avec effet au 1<sup>er</sup> janvier 2021
+[^t-2]: (\*)
+
+## Chapitre 1 Dispositions générales
+
+#### Article premier
+
+**Objet**
+
+Le présent concordat régit :
+
+- *a.* l’institution intercantonale en charge des jeux d’argent (ci-après : « l’institution intercantonale »), y compris le tribunal intercantonal des jeux d’argent (ci-après : « le tribunal des jeux d’argent ») ;
+- *b.* l’autorité intercantonale de surveillance et d’exécution prévue à l’art. 105 LJAr (ci-après: « l’autorité intercantonale de surveillance des jeux d’argent ; GESPA ») ;
+- *c.* la Fondation suisse pour l’encouragement du sport (ci-après: « la FSES ») ;
+- *d.* l’octroi de droits d’exploitation exclusifs pour les loteries et les paris sportifs de grande envergure ;
+- *e.* la perception et l’utilisation de redevances pour le financement des charges liées aux jeux d’argent et à la lutte contre la dépendance au jeu.
+
+## Chapitre 2 Institution intercantonale en charge des jeux d’argent
+
+### SECTION 1: TÂCHES ET ORGANISATION
+
+### a) En général
+
+#### Art. 2
+
+**Tâches de l’institution intercantonale**
+
+L’institution intercantonale :
+
+- *a.* détermine, dans les limites du droit supérieur, la politique des cantons en matière de jeux de grande envergure et définit les conditions-cadres pour le secteur des jeux d’argent;
+- *b.* assume la responsabilité des cantons qui ont la charge de la GESPA; elle exerce en particulier la surveillance administrative de la GESPA;
+- c. met en place le tribunal des jeux d’argent;
+- *d.* garantit l’utilisation transparente des bénéfices nets des loteries et des paris sportifs de grande envergure en faveur du sport national; elle exerce en particulier la surveillance administrative de la FSES;
+- *e.* est dépositaire du concordat.
+
+#### Art. 3
+
+**Forme juridique, siège et organes**
+
+<sup>1</sup> L’institution intercantonale est une corporation de droit public. Son siège est à Berne.
+
+<sup>2</sup> Les organes de l’institution intercantonale sont :
+
+- *a.* la conférence spécialisée des membres de gouvernements concernés par les jeux d’argent (ci-après: « la CSJA ») ;
+- *b.* le comité ;
+- *c.* le tribunal des jeux d’argent ;
+- *d.* l’organe de révision.
+
+### b) Conférence spécialisée des membres de gouvernements concernés par les jeux d’argent (CSJA)
+
+#### Art. 4
+
+**Composition**
+
+Chaque canton délègue un membre de son gouvernement à la CSJA.
+
+#### Art. 5
+
+**Compétences de la CSJA**
+
+La CSJA :
+
+- *a.* adopte des prises de position et des recommandations à l’attention des cantons dans le domaine de la politique des jeux d’argent ;
+- *b.* élit :
+  - i. les membres du comité;
+  - ii. l’organe de révision;
+
+iii. les membres et la présidente ou le président du conseil de surveillance de la GESPA;
+
+  - iv. les juges, les juges suppléantes ou suppléants ainsi que les juges extraordinaires du tribunal des jeux d’argent, de même que sa présidente ou son président ;
+  - v. les membres et la présidente ou le président du conseil de fondation de la FSES ;
+  - vi. les représentantes et représentants des autorités cantonales d’exécution et de la GESPA au sein de l’organe de coordination prévu aux articles 113 ss LJAr ;
+- *c.* désigne le ou les membre(s) des cantons au sein de la commission fédérale des maisons de jeu prévue aux art. 94 ss LJAr ;
+- *d.* édicte le règlement d’organisation ;
+- *e.* adopte :
+  - i. le budget ;
+  - ii. le rapport annuel et les comptes annuels ;
+
+iii. le montant de la part « surveillance » de la redevance conformément à l’article 67, alinéa 1 ;
+
+  - iv. le mandat de prestations de la GESPA pour une période de 4 ans ;
+  - v. sur proposition de la GESPA, la contribution annuelle à la GESPA prélevée sur le produit de la redevance conformément à l’article 67, alinéa 2 ;
+  - vi. sur proposition de la FSES, le règlement de fondation de la FSES;
+
+vii. sur proposition de la FSES, le montant destiné à l’encouragement du sport national pour une période de 4 ans, selon la procédure prévue à l’article 34 ;
+
+viii. sur proposition de la FSES, les priorités pour l’utilisation des fonds en faveur du sport national, pour une période de 4 ans ;
+
+  - ix. les modifications mineures du concordat selon la procédure simplifiée définie à l’article 71, alinéa 3 ;
+- *f.* approuve :
+  - i. le règlement d’organisation de la GESPA ;
+  - ii. le règlement sur les émoluments de la GESPA ;
+
+iii. le règlement sur les indemnités des membres du conseil de surveillance de la GESPA ;
+
+  - iv. le rapport d’activité quadriennal de la GESPA ;
+  - v. le règlement interne du tribunal des jeux d’argent ;
+  - vi. le rapport annuel et les comptes spéciaux du tribunal des jeux d’argent ;
+
+vii. le règlement sur les indemnités des membres du conseil de fondation de la FSES ;
+
+viii. le rapport d’activité quadriennal de la FSES ;
+
+- *g.* prend connaissance :
+  - i. du budget annuel de la GESPA;
+  - ii. du rapport annuel et des comptes annuels de la GESPA;
+
+iii. du rapport annuel et des comptes annuels de la FSES;
+
+- *h.* exerce toutes les compétences de l’institution intercantonale qui ne sont pas attribuées à un autre de ses organes.
+
+#### Art. 6
+
+**Procédure de décision de la CSJA**
+
+<sup>1</sup> La CSJA peut valablement délibérer lorsque la majorité de ses membres sont présents.
+
+<sup>2</sup> Sont adoptés les objets qui recueillent le vote de la majorité des membres prenant part au vote. L’article 34 et l’article 71, alinéa 3 sont réservés.
+
+<sup>3</sup> En cas d’égalité, la voix de la présidente ou du président est prépondérante.
+
+### c) Comité
+
+#### Art. 7
+
+**Composition du comité**
+
+<sup>1</sup> La CSJA élit en son sein cinq membres du comité. Au moins deux membres sont issu(e)s de la Suisse romande.
+
+<sup>2</sup> Un(e) des membres romand(e)s en assure la présidence ou la vice-présidence.
+
+<sup>3</sup> La Conférence Romande des membres de gouvernements concernés par les jeux d’argent (CRJA) a un droit de proposition pour les membres issus de la Suisse romande.
+
+#### Art. 8
+
+**Compétences**
+
+Le comité:
+
+- *a.* prépare les décisions de la CSJA, soumet des propositions et exécute les décisions de la CSJA ;
+- *b.* représente l’institution intercantonale vis-à-vis de l’extérieur.
+
+#### Art. 9
+
+**Procédure de décision**
+
+<sup>1</sup> Le comité peut valablement délibérer lorsque la majorité de ses membres sont présents.
+
+<sup>2</sup> Sont adoptés les objets qui recueillent le vote de la majorité des membres prenant part au vote.
+
+<sup>3</sup> En cas d’égalité, la voix de la présidente ou du président est prépondérante.
+
+#### Art. 10
+
+**Secrétariat**
+
+<sup>1</sup> Le comité dispose d’un secrétariat.
+
+<sup>2</sup> Si du personnel est engagé, l'engagement de celui-ci est fondé sur le droit public. Le droit du personnel de la Confédération s'applique par analogie. Le règlement d'organisation peut contenir des dispositions qui y dérogent si les circonstances particulières et les tâches à accomplir l'exigent.
+
+### d) Tribunal des jeux d’argent
+
+#### Art. 11
+
+**Composition, période de fonction et durée maximale des mandats**
+
+<sup>1</sup> Le tribunal des jeux d’argent se compose de cinq juges, dont deux issu(e)s de Suisse romande, deux de Suisse alémanique et un(e) de Suisse italienne.
+
+<sup>2</sup> Font partie du tribunal des jeux d’argent trois juges suppléantes ou suppléants, dont deux issu(e)s de Suisse alémanique et un(e) de Suisse romande ou de Suisse italienne.
+
+<sup>3</sup> La période de fonction est de six ans. Les juges et les juges suppléantes ou suppléants sont rééligibles une fois. La période de fonction de juge suppléante ou suppléant n’est pas prise en compte pour déterminer la durée maximale du mandat d’un(e) juge.
+
+<sup>4</sup> La CSJA peut élire, sur demande du tribunal des jeux d’argent, des juges extraordinaires.
+
+- *a.* si, par suite de la récusation de juges ordinaires ou de juges suppléantes ou suppléants, des débats valables ne peuvent avoir lieu autrement, ou
+- *b.* si le traitement d'un litige nécessite des connaissances spécialisées particulières dont les juges ordinaires ou les juges suppléantes ou suppléants ne disposent pas ; dans ce cas, le juge extraordinaire doit disposer des connaissances spécialisées correspondantes.
+
+#### Art. 12
+
+**Compétences**
+
+En sa qualité d’autorité judiciaire intercantonale de dernière instance, le tribunal des jeux d’argent connaît, avec plein pouvoir d’examen en fait et en droit, des recours contre les décisions des autres organisations instituées par le présent concordat ou de leurs organes
+
+#### Art. 13
+
+**Indépendance**
+
+Dans l'exercice de ses attributions judiciaires, le tribunal des jeux d’argent est indépendant et n'est soumis qu'à la loi.
+
+#### Art. 14
+
+**Organisation et rapports**
+
+<sup>1</sup> Le tribunal des jeux d’argent édicte un règlement interne, qui doit être approuvé par la CSJA. Il y règle en particulier l’organisation, les compétences, les indemnités, le personnel et la communication de son activité.
+
+<sup>2</sup> Si du personnel est engagé, l'engagement de celui-ci est fondé sur le droit public. Le droit du personnel de la Confédération est applicable par analogie. Le règlement interne peut contenir des dispositions qui y dérogent si les circonstances particulières et les tâches à accomplir l'exigent.
+
+<sup>3</sup> La procédure devant le tribunal des jeux d’argent est régie par la loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF; RS 173.32).
+
+<sup>4</sup> Le tribunal des jeux d’argent soumet chaque année à la CSJA un rapport annuel et des comptes spéciaux vérifiés par l’organe de révision de l’institution intercantonale.
+
+### e) Organe de révision
+
+#### Art. 15
+
+**Election et rapports**
+
+<sup>1</sup> La CSJA désigne comme organe de révision un organe cantonal de vérification des comptes ou une entreprise de révision privée reconnue pour une période de fonction de 4 ans, reconductible.
+
+<sup>2</sup> L’organe de révision procède à un contrôle ordinaire des comptes de l’institution intercantonale, y compris des comptes spéciaux du tribunal des jeux d’argent, au sens de l’art. 728a de la loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre cinquième: Droit des obligations, CO; RS 220).
+
+<sup>3</sup> Il rapporte à la CSJA et propose l’approbation ou le refus des comptes concernés.
+
+### f) Autres unités organisationnelles
+
+#### Art. 16
+
+**Commissions et groupes de travail**
+
+<sup>1</sup> La CSJA et le comité peuvent instituer des groupes de travail pour des projets spécifiques ; la CSJA peut en outre instituer des commissions permanentes.
+
+<sup>2</sup> L’organe qui les institue en fixe le mandat, en désigne les membres et détermine les moyens à disposition.
+
+<sup>3</sup> Les unités instituées rapportent périodiquement sur l’état des objets et font des propositions.
+
+### SECTION 2: FINANCES
+
+#### Art. 17
+
+**Financement**
+
+L’institution intercantonale couvre ses charges par la redevance prévue à l’art. 67 et par le produit des émoluments du tribunal des jeux d’argent.
+
+#### Art. 18
+
+**Comptabilité**
+
+<sup>1</sup> L’institution intercantonale tient ses propres comptes. La présentation des comptes s'effectue par analogie selon les règles du titre trente-deuxième du CO.
+
+<sup>2</sup> Le tribunal des jeux d’argent tient des comptes spéciaux, qui font partie des comptes mentionnés à l’alinéa 1.
+
+## Chapitre 3 Autorité intercantonale de surveillance des jeux d’argent (GESPA)
+
+### SECTION 1: TÂCHES ET ORGANISATION
+
+### a) En général
+
+#### Art. 19
+
+**Tâches et pouvoirs**
+
+<sup>1</sup> La GESPA exerce les tâches que la LJAr attribue à l'autorité intercantonale de surveillance et d’exécution et dispose des pouvoirs que le droit fédéral attribue à cette autorité. L’institution intercantonale peut convenir avec la GESPA de principes généraux sur l’exécution des tâches.
+
+<sup>2</sup> La GESPA est le centre de compétence des cantons dans le domaine des jeux d’argent. L’institution intercantonale édicte, dans un mandat de prestations, des normes générales en matière de qualité et de quantité pour l’exécution des tâches. L’institution intercantonale peut déléguer à la GESPA d’autres tâches de moindre importance.
+
+<sup>3</sup> La GESPA peut édicter des dispositions d’exécution pour l’exécution de ses tâches.
+
+<sup>4</sup> Elle peut fournir, sur mandat de tiers, des prestations en lien étroit avec les tâches définies aux alinéas 1 et 2 contre une rémunération couvrant les frais.
+
+<sup>5</sup> Elle ne peut pas elle-même fournir des prestations commerciales sur le marché et ne peut pas conclure dans ce but des participations et des coopérations.
+
+#### Art. 20
+
+**Forme juridique, siège et organes**
+
+<sup>1</sup> La GESPA est un établissement intercantonal de droit public doté de la personnalité juridique. Son siège est à Berne.
+
+<sup>2</sup> Elle dispose des organes suivants :
+
+- *a.* le conseil de surveillance;
+- *b.* le secrétariat;
+- *c.* l’organe de révision.
+
+#### Art. 21
+
+**Indépendance**
+
+<sup>1</sup> La GESPA est indépendante et autonome dans l’exécution de ses tâches.
+
+<sup>2</sup> La présidente ou le président de la CSJA conduit chaque année un entretien avec la présidente ou le président de la GESPA sur l’accomplissement des tâches.
+
+#### Art. 22
+
+**Organisation et rapports**
+
+<sup>1</sup> La GESPA s’organise elle-même dans le cadre des dispositions du présent concordat.
+
+<sup>2</sup> Elle soumet chaque année à l’institution intercantonale, pour information, un rapport annuel et les comptes annuels vérifiés par l’organe de révision.
+
+<sup>3</sup> Elle soumet tous les quatre ans pour approbation un rapport d’activité à l’institution intercantonale.
+
+### b) Conseil de surveillance
+
+#### Art. 23
+
+**Composition, période de fonction et durée maximale des mandats**
+
+<sup>1</sup> Le conseil de surveillance se compose de cinq ou sept membres, dont au moins deux issus de Suisse romande, au moins deux issus de Suisse alémanique et un issu de Suisse italienne. Tous les membres doivent être des experts en la matière. Un membre au moins doit disposer de connaissances particulières en matière de prévention des addictions.
+
+<sup>2</sup> La période de fonction des membres est de 4 ans. Les membres sont rééligibles deux fois.
+
+#### Art. 21
+
+**Compétences**
+
+<sup>1</sup> Le conseil de surveillance :
+
+- *a.* édicte :
+  - i. le règlement d’organisation de la GESPA, lequel doit être approuvé par la CSJA;
+  - ii. le règlement sur les émoluments de la GESPA, lequel doit être approuvé par la CSJA;
+
+iii. le règlement sur les indemnités des membres du conseil de surveillance, lequel doit être approuvé par la CSJA;
+
+  - iv. le règlement concernant le personnel;
+- *b.* peut émettre des recommandations à l’attention des cantons;
+- *c*. adopte:
+  - i. le budget annuel de la GESPA;
+  - ii. le rapport annuel et les comptes annuels de la GESPA;
+
+iii. le rapport d’activité quadriennal à l’attention de la CSJA;
+
+- *d.* engage la directrice ou le directeur et la vice-directrice ou le vice-directeur et approuve l'engagement des autres collaboratrices ou collaborateurs du secrétariat.
+
+<sup>2</sup> Le conseil de surveillance exerce les compétences prévues par la LJAr et, au surplus, toutes les compétences nécessaires à l'exécution des tâches que le présent concordat et le mandat de prestations de l’institution intercantonale lui attribuent et qui ne sont pas attribuées à un autre organe.
+
+<sup>3</sup> Le conseil de surveillance délivre en particulier les autorisations d’exploitant et de jeu et décide des taxes et émoluments y relatifs.
+
+<sup>4</sup> Le conseil de surveillance peut déléguer des compétences au secrétariat dans le règlement d’organisation.
+
+<sup>5</sup> Le conseil de surveillance peut déléguer des tâches de surveillance aux cantons ou aux communes, d’un commun accord et contre rémunération couvrant les coûts.
+
+### c) Secrétariat
+
+#### Art. 25
+
+**Secrétariat et personnel**
+
+<sup>1</sup> Le secrétariat est placé sous la conduite d’une directrice ou d’un directeur.
+
+<sup>2</sup> Il exerce la surveillance directe du secteur des jeux de grande envergure; le conseil de surveillance peut s’attribuer la compétence pour les cas de grande portée.
+
+<sup>3</sup> Il prépare les objets du conseil de surveillance, lui soumet des propositions et exécute ses décisions.
+
+<sup>4</sup> Il rapporte régulièrement au conseil de surveillance, dans les meilleurs délais en cas d’événements particuliers.
+
+<sup>5</sup> Il entretient des rapports directs avec les exploitants, les autorités et les tiers et rend, dans le domaine de compétence que lui attribue le règlement d’organisation, des décisions de façon autonome et prélève des taxes et des émoluments.
+
+<sup>6</sup> Il examine la compatibilité avec le droit fédéral des décisions d’autorisation que les autorités cantonales d'exécution transmettent à la GESPA en vertu de l’article 32, alinéa 2 LJAr.
+
+<sup>7</sup> Il représente la GESPA devant les tribunaux fédéraux, intercantonaux et cantonaux.
+
+<sup>8</sup> L'engagement du personnel se fonde sur le droit public. Le droit du personnel de la Confédération s'applique par analogie. Le règlement peut contenir des dispositions qui y dérogent si les circonstances particulières et les tâches à accomplir l'exigent.
+
+### d) Organe de révision
+
+#### Art. 26
+
+**Élection, mandat et rapports**
+
+<sup>1</sup> La 1 Le conseil de surveillance désigne comme organe de révision un organe cantonal de vérification des comptes ou un organe de révision privé reconnu pour une période de fonction de 4 ans, reconductible.
+
+2 L’organe de révision procède à un contrôle ordinaire au sens de l’art. 728a CO et rapporte au conseil de surveillance.
+
+### SECTION 2: FINANCES ET DROIT DE PROCÉDURE APPLICABLE
+
+#### Art. 27
+
+**Réserves**
+
+<sup>1</sup> La GESPA constitue des réserves de CHF 3 mios par prélèvement sur la redevance unique (art. 64).
+
+<sup>2</sup> A partir de la quatrième année suivant l’entrée en vigueur du présent concordat, les réserves de la GESPA s’élèveront en tout temps à 50% au moins et à 150% au plus de la moyenne des charges totales annuelles des trois années précédentes.
+
+#### Art. 28
+
+**Financement**
+
+La GESPA couvre ses charges par les taxes et les émoluments prévus au chapitre 7 ainsi que par des contributions de l’institution intercantonale.
+
+#### Art. 29
+
+**Présentation des comptes**
+
+<sup>1</sup> La structure des comptes garantit la possibilité de calculer correctement les taxes et émoluments prévus au chapitre 7.
+
+<sup>2</sup> Pour le surplus, les dispositions du titre trente-deuxième du CO s’appliquent par analogie.
+
+#### Art. 30
+
+**Répartition d’un excédent de charges ou de produits en cas de dissolution de la GESPA**
+
+<sup>1</sup> En cas de dissolution de l’établissement, un excédent de charges ou de produits est réparti entre les cantons au prorata de leur population résidente.
+
+<sup>2</sup> Les cantons affectent un excédent de produits exclusivement au financement de la surveillance du secteur des jeux de grande envergure ou à des buts d’utilité publique.
+
+#### Art. 31
+
+**Droit de procédure**
+
+Les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA; RS 172.021) s’appliquent par analogie à la procédure.
+
+## Chapitre 4 Fondation suisse pour l’encouragement du sport (FSES)
+
+#### Art. 32
+
+**Constitution et but**
+
+<sup>1</sup> Les cantons affectent une part des bénéfices nets des loteries et des paris sportifs de grande envergure à l’encouragement du sport national.
+
+<sup>2</sup> Pour la répartition des fonds prévus à l’alinéa 1, est constituée la fondation indépendante de droit public Fondation suisse pour l’encouragement du sport (FSES).
+
+<sup>3</sup> La FSES accorde des contributions pour l’encouragement du sport national dans le cadre des dispositions du droit supérieur, du présent concordat et des prescriptions de la CSJA (règlement de la fondation et décision de la CSJA sur les priorités pour l’utilisation des fonds).
+
+<sup>4</sup> Elle contrôle le bon usage des contributions par les bénéficiaires.
+
+<sup>5</sup> Elle peut, en vertu du règlement de fondation, accomplir d’autres tâches.
+
+#### Art. 33
+
+**Fortune de la fondation**
+
+<sup>1</sup> La CSJA fixe, pour une période de quatre ans, selon la procédure prévue à l’article 34, le montant prélevé sur les bénéfices nets alloué annuellement à la fondation.
+
+<sup>2</sup> La fortune de la fondation constituée par des contributions prélevées sur les bénéfices nets des loteries et des paris sportifs de grande envergure ne peut être utilisée qu’à des fins d’encouragement du sport national, en particulier pour la relève dans le sport de compétition, pour la formation et le perfectionnement, pour l’information ainsi que pour l’administration de la fondation.
+
+<sup>3</sup> En cas de dissolution de la fondation, la fortune de la fondation est distribuée aux cantons au prorata de leur population résidente.
+
+<sup>4</sup> Les cantons affectent les fonds mentionnés à l’alinéa 3 exclusivement à l’encouragement du sport cantonal.
+
+#### Art. 34
+
+**Procédure pour la fixation du montant destiné à l’encouragement du sport national**
+
+<sup>1</sup> Le conseil de fondation de la FSES soumet une proposition à la CSJA au plus tard 12 mois avant l’échéance de la période quadriennale.
+
+<sup>2</sup> Les membres de la CSJA informent en temps utile le gouvernement du canton qui les délègue de la décision en vue. Le gouvernement peut donner à la déléguée ou au délégué un mandat impératif.
+
+<sup>3</sup> La décision de la CSJA est adoptée si tant la majorité des membres prenant part au vote des six cantons romands que la majorité des membres prenant part au vote des vingt autres cantons (cantons alémaniques et canton du Tessin) acceptent la proposition.
+
+<sup>4</sup> Les cantons prennent en charge le montant en proportion de leur nombre d’habitants. Le nombre d’habitants est déterminé sur la base des données les plus récentes de l’Office fédéral de la statistique à la date de la décision.
+
+#### Art. 35
+
+**Organisation**
+
+<sup>1</sup> La FSES dispose d’un conseil de fondation en qualité d’organe suprême, ainsi que d’un organe de révision.
+
+<sup>2</sup> Le conseil de fondation est composé de 5 ou 7 membres. Les diverses régions linguistiques y sont équitablement représentées.
+
+<sup>3</sup> La présentation des comptes s'effectue par analogie selon les règles du titre trente-deuxième du CO.
+
+<sup>4</sup> Le conseil de fondation désigne comme organe de révision un organe cantonal de vérification des comptes ou une entreprise de révision privée reconnue pour une période de fonction de 4 ans, reconductible.
+
+<sup>5</sup> L’organe de révision procède à un contrôle ordinaire au sens de l’art. 728a CO et vérifie en particulier que l’utilisation des fonds est conforme aux prescriptions.
+
+<sup>6</sup> La CSJA fixe le siège de la fondation et règle les détails, sur proposition de la FSES, dans un règlement de fondation. Le règlement règle notamment les tâches de la fondation de façon exhaustive, l’organisation, y compris la comptabilité et les rapports, l’indépendance par rapport aux bénéficiaires, ainsi que la procédure et les critères pour l’utilisation des fonds.
+
+<sup>7</sup> Si du personnel est engagé, l’engagement de celui-ci est fondé sur le droit privé.
+
+#### Art. 36
+
+**Rapports**
+
+<sup>1</sup> La FSES transmet chaque année à la CSJA, pour prise de connaissance, un rapport annuel et les comptes annuels vérifiés par l’organe de révision.
+
+<sup>2</sup> Elle soumet pour approbation tous les quatre ans un rapport d’activité à la CSJA.
+
+#### Art. 37
+
+**Critères et procédure pour la répartition des fonds**
+
+<sup>1</sup> La FSES accorde des contributions :
+
+- *a.* à la fédération faîtière des fédérations sportives nationales (Swiss Olympic);
+- *b.* aux fédérations sportives nationales qui, telles la fédération de football et la fédération de hockey sur glace, génèrent d’importants supports de paris en Suisse.
+
+<sup>2</sup> La CSJA règle, sur proposition de la FSES, la procédure et les critères pour la répartition des fonds dans le règlement de fondation et elle décide, sur proposition de la FSES, des priorités pour l’affectation des fonds pour une période de 4 ans.
+
+<sup>3</sup> Il n’y a pas de droit à des contributions de la FSES.
+
+#### Art. 38
+
+**Transparence**
+
+<sup>1</sup> La FSES communique les noms des bénéficiaires, les montants qu’ils ont reçus et les domaines pour lesquels ceux-ci ont été versés.
+
+<sup>2</sup> Elle publie chaque année les informations définies à l’alinéa 1 et ses comptes sur son site Internet.
+
+## Chapitre 5 Dispositions communes
+
+#### Art. 39
+
+**Incompatibilités**
+
+<sup>1</sup> Personne ne peut siéger simultanément dans plusieurs organes institués par le concordat.
+
+<sup>2</sup> Les membres des organes institués par le présent concordat ne peuvent ni être membres d’un organe ou du personnel d’entreprises de jeux d’argent ou d’entreprises de fabrication et de commerce du secteur des jeux d’argent, ni participer à de telles entreprises, ni exercer un mandat pour de telles entreprises.
+
+#### Art. 40
+
+**Déclaration des liens d’intérêts**
+
+<sup>1</sup> Les membres des organes institués par le présent concordat déclarent leurs liens d’intérêts avant leur élection.
+
+<sup>2</sup> Les personnes qui refusent de déclarer leurs liens d’intérêts ne peuvent être élues membres d’un organe.
+
+#### Art. 41
+
+**Récusation**
+
+<sup>1</sup> Quiconque possède un intérêt personnel direct dans une affaire a l'obligation de se récuser lorsqu'elle est traitée.
+
+<sup>2</sup> A également l’obligation de se récuser quiconque est lié à une personne dont l’intérêt personnel direct dans une affaire est touché du fait qu’il est son parent ou allié en ligne directe, ou jusqu’au troisième degré en ligne collatérale, qu’il lui est uni par mariage ou partenariat enregistré, ou qu’il mène de fait une vie de couple avec elle.
+
+<sup>3</sup> Les personnes obligées de se récuser doivent signaler d'elles-mêmes leurs intérêts.
+
+<sup>4</sup> Avant de quitter la salle, elles peuvent s'exprimer sur l'affaire.
+
+#### Art. 42
+
+**Obligation de soumettre les collaboratrices et collaborateurs à cette obligation**
+
+Les organismes institués par le présent concordat s’assurent que les collaboratrices et collaborateurs sont indépendants du secteur des jeux d’argent et qu’ils se récusent en cas de conflits d’intérêts.
+
+#### Art. 43
+
+**Surveillance financière**
+
+Les organisations instituées par le CJA ne sont pas soumises à la surveillance financière des cantons. La surveillance financière est exercée exclusivement par la CSJA.
+
+#### Art. 44
+
+**Responsabilité**
+
+<sup>1</sup> Pour la responsabilité, la loi fédérale du 14 mars 1958 sur la responsabilité de la Confédération, des membres de ses autorités et de ses fonctionnaires (loi sur la responsabilité; LRCF; RS 170.32) s’applique par analogie sous réserve des dispositions ci-après.
+
+<sup>2</sup> La GESPA ne répond des dommages causés à des tiers dans l’exercice de ses fonctions officielles que :
+
+- *a.* si ses organes ou ses collaboratrices ou collaborateurs ont violé des devoirs essentiels de fonction et
+- *b.* si les dommages ne sont pas imputables à des violations des obligations d’un assujetti à la surveillance.
+
+<sup>3</sup> L’organisation statue sur les réclamations litigieuses de tiers formées à son encontre.
+
+<sup>4</sup> Le lésé ou la lésée n'a aucune action contre les organes ou les collaboratrices ou collaborateurs.
+
+<sup>5</sup> Si l’organisation responsable n’est pas en mesure de verser l’indemnité due, les cantons répondent solidairement.
+
+<sup>6</sup> Les cantons prennent en charge un éventuel dommage au prorata de leur population résidente.
+
+#### Art. 45
+
+**Protection des données**
+
+<sup>1</sup> La législation de la Confédération sur la protection des données (LPD, RS 235.1 et ordonnances d’exécution) s’applique par analogie à la protection des données.
+
+<sup>2</sup> Les organisations instituées par le présent concordat désignent une autorité indépendante de surveillance de la protection des données. Leurs tâches sont régies par les articles 27, 30 et 31 LPD applicables par analogie. Les autres dispositions de la section 5 de la LPD ne sont pas applicables.
+
+#### Art. 46
+
+**Consultation des dossiers**
+
+<sup>1</sup> La législation fédérale sur le principe de la transparence dans l'administration (RS 152.3 et ordonnances d’exécution) s’applique par analogie à la consultation des dossiers officiels, sous réserve des alinéas ci-après.
+
+<sup>2</sup> Les dossiers officiels qui concernent l’activité d’autorisation et de surveillance de la GESPA ne sont pas accessibles.
+
+<sup>3</sup> Les dispositions sur la procédure de médiation (art. 13 à 15 de la loi fédérale sur la transparence; RS 152.3) ne sont pas applicables. L’autorité à laquelle l’accès à un dossier est demandé informe d’une prolongation de délai ou de sa décision et rend, sur demande, une décision formelle.
+
+<sup>4</sup> La consultation des dossiers de procédures en cours est régie par le droit de procédure applicable.
+
+#### Art. 47
+
+**Publications**
+
+<sup>1</sup> L’institution intercantonale, la GESPA et la FSES publient sur leur site Internet respectif leurs actes normatifs et les autres communications qui doivent être publiées.
+
+<sup>2</sup> Les publications en lien avec les procédures de marchés publics sont publiées sur la plateforme Internet pour les marchés publics exploitée en commun par la Confédération et les cantons.
+
+#### Art. 48
+
+**Droit applicable**
+
+Dans la mesure où le présent concordat ou les règlements édictés en vertu de celui-ci ne contiennent pas de dispositions particulières, le droit fédéral s’applique par analogie.
+
+## Chapitre 6 Octroi de droits d’exploitation exclusifs pour les loteries et les paris sportifs de grande envergure
+
+#### Art. 49
+
+**Exploitantes ou exploitants de loteries et de paris sportifs de grande envergure autorisé(e)s**
+
+<sup>1</sup> Le nombre d'exploitantes ou d’exploitants de loteries et de paris sportifs est limité à deux en vertu de l’article 23, alinéa 1 LJAr.
+
+<sup>2</sup> Pour le territoire des cantons alémaniques et du Tessin, une seule autorisation pour l’exploitation de loteries et de paris sportifs peut être délivrée en vertu de l’article 23, alinéa 2 LJAr, pour autant que les conditions d’autorisation soient réunies. Les cantons alémaniques et le Tessin désignent l’exploitante ou l’exploitant dans une convention intercantonale de portée législative.
+
+<sup>3</sup> Pour le territoire des cantons romands, une seule autorisation pour l’exploitation de loteries et de paris sportifs peut être délivrée en vertu de l’article 23, alinéa 2 LJAr, pour autant que les conditions d’autorisation soient réunies. Les cantons romands désignent l’exploitante ou l’exploitant dans une convention intercantonale de portée législative.
+
+#### Art. 50
+
+**Redevances pour l’octroi de droits d’exploitation exclusifs**
+
+A titre de contre-prestation pour l’octroi de droits d’exploitation exclusifs prévu à l’art. 49 ci-dessus, les détentrices ou détenteurs des autorisations d’exploitant en cause versent à l’institution intercantonale une redevance unique et une redevance annuelle selon les art. 65 à 68 du présent concordat.
+
+## Chapitre 7 Redevances, taxes et émoluments
+
+### SECTION 1: DISPOSITIONS GÉNÉRALES
+
+#### Art. 51
+
+**Charges totales déterminantes**
+
+Les charges totales à financer par des redevances, taxes et émoluments, dans le cadre des dispositions ci-après, se composent comme suit :
+
+- *a.* charges de l’institution intercantonale, y compris le tribunal des jeux d’argent ;
+- *b.* charges de la GESPA ;
+- *c.* part des cantons aux charges de l’organe de coordination selon l’article 114 LJAr.
+
+#### Art. 52
+
+**Financement**
+
+<sup>1</sup> Les charges totales définies à l’article 51 ci-dessus sont couvertes en premier lieu par :
+
+- *a.* les émoluments pour les décisions et les prestations de la GESPA (art. 54 ss);
+- *b.* les émoluments pour les procédures devant le tribunal des jeux d’argent (art. 59).
+
+<sup>2</sup> Pour couvrir la part des charges totales qui n’est pas couverte par les émoluments mentionnés à l’alinéa 1, lettres *a* et *b* ci-dessus mais qui présente toutefois un lien d’imputation étroit avec les exploitantes ou exploitants de jeux de grande envergure, la GESPA perçoit chaque année auprès des exploitantes ou exploitants une taxe de surveillance par domaine de surveillance (art. 60 ss).
+
+<sup>3</sup> La part des charges totales qui ne peut être imputée aux exploitantes ou exploitants de jeux de grande envergure est financée par le produit de la redevance annuelle pour l’octroi de droits d’exploitation exclusifs, part « surveillance ».
+
+#### Art. 53
+
+**Règlement sur les émoluments de la GESPA**
+
+<sup>1</sup> La GESPA règle les détails des émoluments dans un règlement sur les émoluments, lequel doit être publié.
+
+<sup>2</sup> Elle règle en particulier la délimitation entre la part imputable et la part non imputable des charges totales (art. 52, al. 2 et 3).
+
+<sup>3</sup> Dans la mesure où le présent concordat et le règlement de la GESPA ne contiennent pas de dispositions, l’ordonnance générale sur les émoluments de la Confédération du 8 septembre 2004 (OGEmol; RS 172.041.1) s’applique par analogie.
+
+### SECTION 2: EMOLUMENTS POUR DES ACTES INDIVIDUELS DE LA GESPA
+
+#### Art. 54
+
+**Assujettissement aux émoluments**
+
+<sup>1</sup> Toute personne qui provoque une décision de la GESPA ou sollicite une prestation de celle-ci est tenue de payer un émolument.
+
+<sup>2</sup> La GESPA peut, dans des cas particuliers, percevoir des émoluments pour des procédures qui exigent un travail de contrôle important et qui n’aboutissent pas à une décision si la personne assujettie à l’émolument a donné lieu à ce travail.
+
+#### Art. 55
+
+**Calcul des émoluments**
+
+<sup>1</sup> Les émoluments sont calculés en fonction du temps effectif requis et des connaissances requises, échelonnés selon les niveaux de fonction et la qualification du personnel qui exécute le travail.
+
+<sup>2</sup> Le tarif horaire est compris entre CHF 100.- et CHF 350.-.
+
+<sup>3</sup> La GESPA fixe les tarifs pour les différents niveaux de fonction dans son règlement sur les émoluments.
+
+<sup>4</sup> Elle peut fixer des tarifs-cadres forfaitaires pour des procédures standardisées.
+
+#### Art. 56
+
+**Suppléments aux émoluments**
+
+La GESPA peut percevoir des suppléments de 50% au plus aux émoluments prévus aux articles 54 et suivants pour les prestations ou les décisions :
+
+- *a.* fournies ou arrêtées d’urgence suite à une demande ou
+- *b.* fournies ou arrêtées en dehors des horaires de travail ordinaires.
+
+#### Art. 57
+
+**Débours**
+
+<sup>1</sup> Les débours sont dus en sus de l’émolument.
+
+<sup>2</sup> Sont considérés comme débours les coûts supplémentaires engendrés par une décision ou une prestation, notamment :
+
+- a. les frais engagés pour les experts mandatés;
+- b. les frais de voyage et de transport;
+- c. les frais de nuitées et de repas;
+- d. les frais de copie, de port et de communication.
+
+#### Art. 58
+
+**Avance**
+
+La GESPA peut exiger une avance de la personne assujettie. Cette avance ne peut excéder le montant de l’émolument prévu, débours compris.
+
+### SECTION 3 EMOLUMENTS DU TRIBUNAL DES JEUX D’ARGENT
+
+#### Art. 59
+
+**Émoluments du tribunal des jeux d’argent**
+
+La législation fédérale sur la procédure devant le Tribunal administratif fédéral s’applique par analogie aux émoluments pour la procédure devant le tribunal des jeux d’argent.
+
+### SECTION 4 TAXE DE SURVEILLANCE
+
+#### Art. 60
+
+**Assujettissement à la taxe**
+
+La GESPA perçoit chaque année une taxe de surveillance auprès des détentrices ou détenteurs d’une autorisation d’exploitant (art. 21 LJAr).
+
+#### Art. 61
+
+**Calcul de la taxe**
+
+<sup>1</sup> Le conseil de surveillance de la GESPA fixe chaque année le montant de la taxe de surveillance en fonction du budget de la GESPA.
+
+<sup>2</sup> Le montant de la taxe sera fixé de sorte à ce que les produits couvrent la part des charges totales imputable aux exploitantes ou exploitants de jeux de grande envergure non couverte par les émoluments pour des actes individuels et que les dispositions relatives à la constitution de réserves (art. 27, al. 2) soient respectées.
+
+<sup>3</sup> Les charges financées annuellement par la taxe de surveillance ne peuvent excéder 70% des charges totales annuelles (art. 51).
+
+<sup>4</sup> Les exploitantes ou exploitants prennent en charge la taxe de surveillance au prorata de leur produit brut des jeux.
+
+<sup>5</sup> Par produit brut des jeux, on entend la différence entre les mises et les gains payés aux joueurs.
+
+#### Art. 62
+
+**Fin et début de l'assujettissement à la taxe**
+
+<sup>1</sup> L’assujettissement à la taxe prend naissance à la délivrance de l’autorisation d’exploitant et prend fin au retrait de l’autorisation, respectivement à la libération de la surveillance.
+
+<sup>2</sup> Si l’assujettissement à la taxe ne prend pas naissance au début d’un exercice annuel ou ne prend pas fin au terme d’un exercice annuel, la taxe est due pro rata temporis.
+
+#### Art. 63
+
+**Perception de la taxe**
+
+<sup>1</sup> Sur la base de son budget de l’exercice annuel, la GESPA facture aux exploitantes ou exploitants assujetti(e)s à la taxe une avance égale au montant de la taxe de surveillance prévue.
+
+<sup>2</sup> Elle établit, lors du premier semestre de l’exercice suivant, un décompte final fondé sur ses comptes annuels et sur les produits bruts des jeux définitifs des assujettis à la taxe. La différence entre l’avance versée et le montant de la taxe de surveillance effectivement dû est reportée sur l’avance de l’année suivante.
+
+<sup>3</sup> Le délai de paiement est de 30 jours.
+
+<sup>4</sup> Si la taxe est contestée, l’exploitante ou l’exploitant peut exiger de la GESPA une décision susceptible de recours.
+
+<sup>5</sup> L’entier du montant est exigible lors de la notification de la décision.
+
+### SECTION 5 REDEVANCES POUR L’OCTROI DE DROITS D’EXPLOITATION EXCLUSIFS
+
+#### Art. 64
+
+**Redevance unique pour l’octroi de droits d’exploitation exclusifs**
+
+<sup>1</sup> La redevance unique prévue à l’article 50 s’élève à CHF 3 mios au total.
+
+<sup>2</sup> Le montant fixé à l’alinéa 1 est réparti entre les détentrices ou détenteurs de droits d’exploitation exclusifs au prorata des produits bruts des jeux réalisés la première année suivant l’entrée en vigueur du présent concordat.
+
+<sup>3</sup> L’institution intercantonale utilise le produit de la redevance unique prévue à l’alinéa 1 pour doter la GESPA d’un capital (art. 27, al. 1).
+
+#### Art. 65
+
+**Redevance annuelle pour l’octroi de droits d’exploitation exclusifs**
+
+La redevance annuelle prévue à l’article 50 se compose d’une part « prévention » et d’une part « surveillance ».
+
+#### Art. 66
+
+**Part « prévention »**
+
+<sup>1</sup> La part « prévention » s’élève à 0.5% du produit brut des jeux annuel des loteries et des paris sportifs.
+
+<sup>2</sup> Le produit de la part « prévention » ne peut être utilisé que pour les mesures définies à l’article 85 LJAr.
+
+<sup>3</sup> Il est réparti entre les cantons, qui sont tenus de l’employer conformément à l’alinéa 2 ci-dessus, en fonction du produit brut des jeux réalisé dans ceux-ci.
+
+<sup>4</sup> La CSJA édicte des recommandations sur l’utilisation de la redevance.
+
+#### Art. 67
+
+**Part « surveillance »**
+
+<sup>1</sup> La CSJA fixe chaque année la part « surveillance » conformément à l’article 52, alinéa 3.
+
+<sup>2</sup> L’institution intercantonale affecte le produit de cette redevance à la couverture de ses charges et au paiement de la contribution à la GESPA prévue à l’article 28.
+
+#### Art. 68
+
+**Perception de la redevance pour l’octroi de droits d’exploitation exclusifs**
+
+<sup>1</sup> La GESPA perçoit la redevance au nom et pour le compte de l’institution intercantonale.
+
+<sup>2</sup> L’article 63 s’applique par analogie. Le cas échéant, la GESPA rend une décision.
+
+## Chapitre 8 Dispositions finales
+
+#### Art. 69
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent concordat entre en vigueur dès qu'au moins 18 cantons ont déclaré leur adhésion.
+
+<sup>2</sup> L'adhésion doit être déclarée à la Conférence spécialisée des membres de gouvernements concernés par la loi sur les loteries et le marché des loteries. Celle-ci communique l'entrée en vigueur du concordat aux cantons et à la Confédération.
+
+<sup>3</sup> L’entrée en vigueur du présent concordat abroge la convention intercantonale sur la surveillance, l’autorisation et la répartition du bénéfice de loteries et paris exploités sur le plan intercantonal ou sur l’ensemble de la Suisse (CILP), adoptée par la Conférence spécialisée sur le marché des loteries et la loi sur les loteries le 7 janvier 2005 en vue de la ratification par les cantons.
+
+<sup>4</sup> Les dispositions d’exécution édictées en vertu de la CILP sont abrogées à la date de l’entrée en vigueur du présent concordat.
+
+#### Art. 70
+
+**Durée de validité et résiliation**
+
+<sup>1</sup> La durée du concordat est illimitée.
+
+<sup>2</sup> Il peut être dénoncé par communication écrite à l’institution intercantonale pour la fin d’une année, mais au plus tôt à la fin de la 10e année suivant son entrée en vigueur, avec un préavis de deux ans.
+
+<sup>3</sup> La dénonciation d’un canton met fin au concordat si, de ce fait, le nombre de cantons membres du concordat devient inférieur à 18.
+
+#### Art. 71
+
+**Modification du concordat**
+
+<sup>1</sup> Sur proposition d’un canton ou de la GESPA, la CSJA se prononce sur l’engagement d’une procédure de révision partielle ou totale du concordat.
+
+<sup>2</sup> La modification entre en vigueur dès que tous les cantons membres du concordat l’ont approuvée.
+
+<sup>3</sup> Des adaptations mineures peuvent faire l’objet d’une procédure simplifiée. Elles doivent être adoptées à l’unanimité par la CSJA. L’institution intercantonale informe préalablement les cantons de la teneur de la décision envisagée.
+
+[^71-1]: Convention intercantonale du 26 mai 1937 sur l'organisation commune des loteries (à laquelle ont adhéré les cantons alémaniques et le canton du Tessin)
+[^71-2]: 9<sup>ème</sup> convention relative à la Loterie Romande du 18 novembre 2005 (à laquelle ont adhéré les cantons les cantons romands)
+
+#### Art. 72
+
+**Rapport avec les concordats régionaux**
+
+Le présent concordat prime les dispositions contraires de l’IKV1[^71-1], de la C-LoRo2[^71-2] et des concordats qui leur succéderont.
+
+#### Art. 73
+
+**Dispositions transitoires**
+
+<sup>1</sup> A la date de l’entrée en vigueur du présent concordat, l’institution intercantonale se substitue à la Conférence spécialisée des membres de gouvernements concernés par la loi sur les loteries et le marché des loteries prévue à l'article 3, lettre *a* CILP.
+
+<sup>2</sup> A la date de l’entrée en vigueur du présent concordat, le conseil de surveillance de la GESPA se substitue à la commission des loteries et paris prévue à l'article 3, lettre *b* CILP. Les membres en fonction de la commission des loteries et paris peuvent terminer leur mandat et deviennent membres du conseil de surveillance. Les mandats complets effectués sous l’empire de la CILP sont pris en compte dans le calcul de la durée maximale des mandats.
+
+<sup>3</sup> Tous les droits et obligations nés en vertu de la CILP passent à la GESPA, sous réserve des alinéas ci-après.
+
+<sup>4</sup> La GESPA reprend toutes les procédures de la commission des loteries et paris pendantes lors de l’entrée en vigueur du présent concordat.
+
+<sup>5</sup> A la date de l’entrée en vigueur du présent concordat, le tribunal des jeux d’argent se substitue à la commission de recours prévue à l'article 3, lettre *c* CILP. Les juges, juges suppléantes et juges suppléants en fonction de la commission de recours peuvent terminer leur mandat et deviennent juges, juges suppléantes ou juges suppléants du tribunal des jeux d’argent. Les mandats complets effectués sous l’empire de la CILP sont pris en compte dans le calcul de la durée maximale des mandats.
+
+<sup>6</sup> Le tribunal des jeux d’argent reprend toutes les procédures de la commission de recours pendantes lors de l’entrée en vigueur du présent concordat.
+
+<sup>7</sup> Le droit de la procédure antérieur s’applique à toutes les procédures pendantes lors de l'entrée en vigueur du présent concordat jusqu’à leur clôture devant l’autorité concernée. Le droit en vigueur lors de la notification de la décision s’applique aux recours. Les demandes d’autorisation fondées sur la LJAr sont jugées selon le nouveau droit de la procédure.
+
+<sup>8</sup> La GESPA est autorisée, pendant un délai de 5 ans à compter de l'entrée en vigueur du présent concordat, à percevoir auprès des détentrices ou détenteurs d’autorisations délivrées selon l’ancien droit des avances et des taxes fondées sur les autorisations délivrées selon l’ancien droit.
+
+<sup>9</sup> La fixation du montant destiné à l’encouragement du sport national selon l’art. 34 sera effectuée pour la première fois en 2022 pour la période 2023-2026. Jusqu’à fin 2022, les cantons peuvent utiliser, comme jusqu’ici, à des fins d’encouragement du sport national une partie des bénéfices nets avant répartition aux fonds cantonaux.
+
+<sup>10</sup> La dernière taxe de surveillance perçue en vertu de l'article 21 CILP auprès des exploitantes et exploitants est considérée comme une avance au sens de l'article 58.
+
+Adopté le 20 mai 2019 par l'assemblée plénière de la Conférence spécialisée des membres de gouvernements concernés par le marché des loteries et la loi sur les loteries en vue de la ratification par les cantons.
+
+Pour la Conférence spécialisée des membres de gouvernements concernés par le marché des loteries et la loi sur les loteries.
+
+Le concordat sur les jeux d’argent au niveau suisse (CJA) a été ratifié par le (date de la décision)
+
+- le Conseil d'État du canton Argovie le…
+- le Grand Conseil du canton Appenzell Rhodes intérieurs le 2 décembre 2019
+- le Parlement cantonal du canton Bâle Campagne le 10 séptembre 2020
+- le Grand Conseil du canton Bâle Ville le 25 juin 2020
+- le Grand Conseil du canton Berne le 10 mars 2020
+- le Grand Conseil du canton Fribourg le 17 septembre 2020
+- le Grand Conseil du canton Genève le 12 mai 2020
+- le Parlement cantonal du canton Glaris le 23 septembre 2020
+- le Parlement du canton Jura le 30 septembre 2020
+- le Conseil d'État du canton Lucerne le 14 juin 2019
+- le Grand Conseil de la République et Canton de Neuchâtel le 26 mai 2020
+- le Parlement cantonal du canton Nidwald le 12 février 2019
+- le Parlement cantonal du canton Obwald le 26 juin 2020
+- le Parlement cantonal du canton Saint Gall le 2 juillet 2019
+- le Parlement cantonal du canton Schaffhouse le.20 janvier 2020
+- le Parlement cantonal du canton Schwyz le 18 décembre 2019
+- le Parlement cantonal du canton Soloeur le 09 septembre 2020
+- le Grand Conseil du canton Thurgovie le 10 octobre 2020
+- le Conseil d'État du canton Uri le 03 novembre 2020
+- le Parlement cantonal du canton Zoug le 30 Avril 2020
+
+et est entré en vigeur le 1er janvier 2021.

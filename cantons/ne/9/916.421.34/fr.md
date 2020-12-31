@@ -1,0 +1,54 @@
+---
+canton: NE
+number: "916.421.34"
+title: "Arrêté fixant les indemnités versées aux taxateurs requis pour l'estimation officielle des animaux éliminés pour cause d'épizootie"
+language: fr
+version: 2011-01-01
+adopted: 2010-12-02
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.421.34.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté
+2 décembre 2010
+
+**fixant les indemnités versées aux taxateurs requis pour l'estimation officielle des animaux éliminés pour cause d'épizootie**
+
+Etat au 1<sup>er</sup> janvier 2011
+
+Le Conseiller d'Etat, chef suppléant du Département de l'économie
+
+vu la loi fédérale sur les épizooties (LFE), du 1er juillet 1966, et son ordonnance d'exécution (OFE), du 27 juin 1995;
+
+vu le règlement concernant la police sanitaire des animaux, du 31 mars 1999;
+
+vu le préavis du vétérinaire cantonal,
+
+arrête:
+
+#### Article premier
+
+Les indemnités, vacations et frais de déplacements versés aux taxateurs, requis pour l'estimation officielle des animaux éliminés pour cause d'épizootie, sont les suivants:
+
+Vacations Fr.
+
+par heure................................................................................................... 35.–
+
+par demi-journée..................................................................................... 120.–
+
+par journée.............................................................................................. 240.–
+
+Indemnités de déplacement
+
+Indemnité kilométrique et de subsistance selon les articles 1 et 5 du règlement concernant les indemnités versées aux titulaires de fonctions publiques, du 20 décembre 2002, et l'arrêté fixant le montant de l'indemnité kilométrique versée aux titulaires de fonctions publiques, du 16 mai 2007.
+
+#### Art. 2
+
+L'arrêté fixant les indemnités versées aux taxateurs requis pour l'estimation officielle des animaux éliminés pour cause d'épizooties, du 15 avril 1993, est abrogé.
+
+#### Art. 3
+
+<sup>1</sup> Le présent arrêté entre en vigueur le 1<sup>er</sup> janvier 2011.
+
+<sup>2</sup> Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.

@@ -1,0 +1,26 @@
+---
+canton: NE
+number: "633.402"
+title: "Convention entre les cantons d'Appenzell, Rhodes Extérieures, et de Neuchâtel concernant l'exonération de certaines libéralités de tout impôt sur les successions et sur les donations"
+language: fr
+adopted: 1969-05-09
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/633.402.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Convention entre les cantons d'Appenzell, Rhodes Extérieures,
+9 mai 1969[^t-1]
+
+**et de Neuchâtel concernant l'exonération**
+
+**de certaines libéralités de tout impôt**
+
+**sur les successions et sur les donations**
+
+- 1\. Le Conseil d'Etat du canton d'Appenzell, Rhodes Extérieures, et le Conseil d'Etat de la République et Canton de Neuchâtel s'engagent à exonérer de tout impôt cantonal ou communal sur les successions et sur les donations et de tout impôt analogue les libéralités faites, dans une disposition pour cause de mort ou dans un acte entre vifs, en faveur de l'Etat et de ses établissements et des institutions privées d'utilité publique ou de bienfaisance ayant leur siège dans l'autre canton cocontractant.
+- 2\. La présente convention n'est pas applicable si ou dans la mesure où le défunt à mis expressément les impôts de succession non pas à la charge du bénéficiaire de la libéralité, mais à celle des héritiers légaux ou institués.
+- 3\. La présente convention entre en vigueur immédiatement. Elle abroge la convention antérieure des 8 janvier et 7 février 1936.
+- 4\. La présente convention peut être dénoncée en tout temps par l'un ou l'autre des gouvernements signataires, moyennant observation d'un délai d'avertissement de six mois.
+
+[^t-1]: (\*) RLN XIII 428

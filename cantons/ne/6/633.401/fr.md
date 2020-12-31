@@ -1,0 +1,25 @@
+---
+canton: NE
+number: "633.401"
+title: "Convention entre les cantons de Neuchâtel et de Zurich concernant l'exonération de certaines libéralités de tout impôt sur les successions et sur les donations"
+language: fr
+adopted: 1960-10-25
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/633.401.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Convention entre les cantons de Neuchâtel et de Zurich
+25 octobre 1960[^t-1]
+
+**concernant l'exonération de certaines libéralités**
+
+**de tout impôt sur les successions et sur les donations**
+
+Le Conseil d'Etat de la République et Canton de Neuchâtel et le Conseil d'Etat du canton de Zurich s'engagent à exonérer de tout impôt sur les successions et sur les donations et de tout impôt analogue les libéralités faites, dans une disposition pour cause de mort ou dans un acte entre vifs, en faveur de l'Etat et de ses établissements, des communes et de leurs établissements et des institutions privées d'utilité publique ou de bienfaisance ayant leur siège dans l'autre canton cocontractant.
+
+La présente convention n'est pas applicable si et dans la mesure où le défunt à mis expressément le paiement des impôts de succession non pas à la charge du bénéficiaire de la libéralité, mais à celle des héritiers légaux ou institués.
+
+La présente convention entre en vigueur avec effet rétroactif au 1<sup>er</sup> février 1960. Elle peut être dénoncée en tout temps par l'un ou l'autre gouvernement, moyennant observation d'un délai d'avertissement de six mois.
+
+[^t-1]: (\*) RLN XIII 427

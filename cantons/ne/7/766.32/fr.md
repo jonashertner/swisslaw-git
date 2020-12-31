@@ -1,0 +1,55 @@
+---
+canton: NE
+number: "766.32"
+title: Arrêté portant interdiction de la navigation à moteur sur le lac des Taillères
+language: fr
+version: 2006-05-24
+adopted: 1964-07-10
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/766.32.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté portant interdiction de la navigation à moteur
+10 juillet 1964[^t-1]
+
+**sur le lac des Taillères**
+
+*Etat au 24 mai 2006*
+
+Le Conseil d'Etat de la République et Canton de Neuchâtel,
+
+vu le règlement intercantonal concernant la police de la navigation, du 16 mai 1960[^t-2], et tout spécialement ses articles 2 et 95;
+
+vu la demande présentée par Electricité neuchâteloise S.A. tendant à interdire la navigation à moteur sur le lac des Taillères;
+
+vu le rapport de l'inspecteur de la navigation, du 16 mai 1964;
+
+considérant que la navigation à moteur sur un plan d'eau dont les dimensions n'excèdent pas 1900 x 250 m est préjudiciable à ses grèves et à l'exploitation de la pêche;
+
+sur la proposition du conseiller d'Etat, chef du département des Travaux publics,
+
+arrête:
+
+[^t-1]: (\*) RLN III 460
+[^t-2]: RSN 766.121
+
+#### Article premier
+
+La navigation à moteur sur le lac des Taillères est interdite.
+
+#### Art. 2
+
+Cette interdiction sera portée à la connaissance du public au moyen de panneaux placés sur les grèves par le bénéficiaire du droit de pêche et publiée dans la Feuille officielle.
+
+#### Art. 3
+
+L'arrêté, qui entre immédiatement en vigueur, sera inséré au Recueil de la législation neuchâteloise.
+
+[^3-1]: Teneur selon A du 24 mai 2006 (FO 2006 N° 39)
+
+#### Art. 4
+
+[^3-1]
+
+Le service des automobiles et de la navigation est chargé de l'application du présent arrêté.
