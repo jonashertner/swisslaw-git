@@ -1,0 +1,350 @@
+---
+canton: ZH
+number: "813.182"
+title: Personalreglement der Integrierten Psychiatrie Winterthur – Zürcher Unterland (PR-ipw)
+short: PR-ipw
+language: de
+nachtrag: "118"
+valid_until: 2025-10-01
+adopted: 2022-03-11
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_182-2022_03_11-2022_07_01-118.html"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Personalreglement der Integrierten Psychiatrie Winterthur – Zürcher Unterland (PR-ipw)
+
+(vom 11. März 2022)[^t-1],[^t-2]
+
+Der Spitalrat der Integrierten Psychiatrie Winterthur – Zürcher Unterland,
+
+gestützt auf § 11 Abs. 2 lit. e des Gesetzes über die Integrierte Psychiatrie Winterthur – Zürcher Unterland vom 29. Oktober 2018 (ipwG)[^t-3],
+
+beschliesst:
+
+[^t-1]: OS 77, 445; Begründung siehe ABl 2022-04-08. Vom Regierungsrat am 1. Juni 2022 genehmigt.
+[^t-2]: Inkrafttreten: 1. Juli 2022 (ABl 2022-08-12).
+[^t-3]: LS 813.18.
+
+### A. Allgemeines
+
+#### § 1
+
+**Gegenstand und Geltungsbereich**
+
+<sup>1</sup> Diesem Reglement untersteht das Personal, das in einem öffentlich-rechtlichen Arbeitsverhältnis zur Integrierten Psychiatrie Winterthur – Zürcher Unterland (ipw) steht.
+
+<sup>2</sup> Soweit dieses Reglement keine abweichenden Regelungen trifft, gelten die Bestimmungen des Personalrechts für das Staatspersonal.
+
+<sup>3</sup> Vorbehalten bleiben abweichende Bestimmungen von Gesamtarbeitsverträgen gemäss § 6 des Personalgesetzes vom 27. September 1998 (PG)[^1-1].
+
+<sup>4</sup> An der ipw tätige Personen, die in keinem Anstellungsverhältnis zur ipw stehen, sind auf die Dienstvorschriften und die betrieblichen Weisungen zu verpflichten. Dazu schliesst die Geschäftsleitung mit diesen Personen persönlich oder mit deren Arbeitgebern entsprechende Vereinbarungen ab.
+
+[^1-1]: LS 177.10.
+
+#### § 2
+
+**Personalpolitik**
+
+Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie sowie der gesetzlichen Vorgaben.
+
+#### § 3
+
+**Zuständigkeiten a. Spitalrat**
+
+<sup>1</sup> Der Spitalrat ist zuständig für:
+
+- a. den Erlass einer Kompetenzordnung betreffend Anstellung, Beförderung, Versetzung und Entlassung sowie Genehmigung des Rücktritts von Angestellten,
+
+- b. die Genehmigung von Richtlinien der Geschäftsleitung betreffend die Anstellung von Personal mittels öffentlich-rechtlichen oder privatrechtlichen Vertrags,
+
+- c. die Anstellung von Personal des Spitalrates,
+
+- d. die Ernennung der Mitglieder der Geschäftsleitung,
+
+**1**
+
+1.10. 22 - 118 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+
+- f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal der ipw,
+
+- g. den Abschluss und die Änderung von sowie den Beitritt zu Gesamtarbeitsverträgen,
+
+- h. weitere Aufgaben gemäss diesem Reglement.
+
+<sup>2</sup> Er ist zuständig zur Festlegung:
+
+- a. des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss § 12,
+
+- b. der Entschädigung von Nacht- und Wochenendarbeit sowie von Pikett- und Präsenzdienst gemäss § 15,
+
+- c. des Prämienanteils des Personals an einer allfälligen Krankentaggeldversicherung gemäss § 16,
+
+- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind,
+
+- e. der Bedingungen und der Höchstdauer von allfälligen Bewährungsfristen sowie der Obergrenze von Abfindungen für Personal mit Patientenkontakt,
+
+- f. von Sozialplänen gemäss § 27 PG.
+
+#### § 4
+
+**b. Geschäftsleitung**
+
+<sup>1</sup> Die Geschäftsleitung ist Anstellungsbehörde der ipw und für alle Personalangelegenheiten zuständig, die nicht in der Kompetenz des Spitalrates liegen oder durch die Kompetenzordnung gemäss § 3 Abs. 1 lit. a einem anderen Organ zugewiesen wurden.
+
+<sup>2</sup> Die Besetzung von Schlüsselfunktionen erfolgt nach Rücksprache mit dem Spitalrat.
+
+<sup>3</sup> Wo gemäss Personalrecht für das Staatspersonal das Einvernehmen des Personalamtes vorgesehen ist, entscheidet die Geschäftsleitung in alleiniger Kompetenz.
+
+#### § 5
+
+**c. Delegation**
+
+<sup>1</sup> Der Spitalrat kann a. Aufgaben gemäss Personalreglement an Spitalratsmitglieder oder Ausschüsse des Spitalrates delegieren, b einzelne Geschäfte aus seinem Zuständigkeitsbereich an ihm nachgeordnete Stellen oder einzelne Personen delegieren.
+
+<sup>2</sup> Die Geschäftsleitung kann Teilaufgaben gemäss Personalreglement an einzelne Geschäftsleitungsmitglieder sowie an ihr nachgeordnete Stellen oder einzelne Personen delegieren.
+
+<sup>3</sup> Vorbehalten bleiben die dem Spitalrat und der Geschäftsleitung vom Gesetz übertragenen Aufgaben.
+
+### B. Arbeitsverhältnis
+
+#### § 6
+
+**Begründung**
+
+<sup>1</sup> Öffentlich-rechtliche Arbeitsverhältnisse mit dem Personal der ipw werden in der Regel durch Verfügung begründet.
+
+<sup>2</sup> Sie können nach Massgabe der für das Staatspersonal anwendbaren Bestimmungen auch durch öffentlich-rechtlichen Vertrag begründet werden. Der Vertrag kann hinsichtlich des Lohnes, der Arbeitszeit, der Ferien sowie der Beendigung des Arbeitsverhältnisses vom Personalrecht für das Staatspersonal des Kantons Zürich abweichen.
+
+<sup>3</sup> Das Arbeitsverhältnis ist privatrechtlich, wenn es gemäss § 16 Abs. 1 ipwG durch einen privatrechtlichen Vertrag begründet wird.
+
+#### § 7
+
+**Dauer**
+
+<sup>1</sup> Das Arbeitsverhältnis wird in der Regel unbefristet mit der Möglichkeit der Kündigung begründet.
+
+<sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig:
+
+- a. im Rahmen von § 13 Abs. 2 PG,
+
+- b. für Stellen, die der Aus-, Fort- und Weiterbildung dienen, insbesondere Assistenzarztstellen,
+
+- c. bei Anstellungen, bei denen der Lohn durch Drittmittel finanziert wird,
+
+- d. bei Anstellungen zur Nachwuchsförderung oder zur Bearbeitung von befristeten Projekten oder anderen besonderen Aufgaben, die eine Anstellung auf Zeit erfordern.
+
+<sup>3</sup> Bei befristeten Arbeitsverhältnissen beträgt die Probezeit drei Monate. Sie kann im gegenseitigen Einvernehmen verkürzt werden.
+
+<sup>4</sup> Befristete Arbeitsverhältnisse können von jeder Partei gemäss den für unbefristete Anstellungsverhältnisse geltenden Bestimmungen gekündigt werden. Im gegenseitigen Einvernehmen kann auf eine Kündigungsmöglichkeit verzichtet werden.
+
+<sup>5</sup> Wird ein befristetes Arbeitsverhältnis weitergeführt, gilt es als unbefristet.
+
+<sup>6</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
+
+**3**
+
+1.10. 22 - 118 § 8. <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
+
+**Sachlich zureichende Kündigungsgründe a. allgemein**
+
+- a. die Auflösung der Vereinbarung über eine Drittmittelfinanzierung und der Abbruch des finanzierten Projekts,
+
+- b. das Auslaufen der Drittmittel, mit denen die Stelle finanziert wird.
+
+<sup>2</sup> Die ordentlichen Kündigungsfristen sind einzuhalten.
+
+#### § 9
+
+**b. ärztliches Kader**
+
+<sup>1</sup> Für das ärztliche Kader sind erhebliche Mängel insbesondere in den folgenden Bereichen sachlich zureichende Gründe für die Auflösung des Anstellungsverhältnisses:
+
+- a. in der Führungsarbeit,
+
+- b. in der Zusammenarbeit im Team oder mit anderen Angestellten der ipw,
+
+- c. in der Qualität, Dokumentation oder Abrechnung der Behandlung von Patientinnen und Patienten.
+
+<sup>2</sup> Bei erheblichen Mängeln wird in der Regel keine Bewährungsfrist gewährt.
+
+#### § 10
+
+**Anstellung nach der ordentlichen Pensionierung**
+
+<sup>1</sup> In besonderen Fällen, insbesondere bei Personalgruppen mit Fachkräftemangel, ist eine befristete Verlängerung des Anstellungsverhältnisses oder eine befristete Wiederanstellung nach Vollendung des 65. Altersjahres sowie eine Verlängerung dieser Befristung bis zum 70. Altersjahr über ein Jahr hinaus möglich.
+
+<sup>2</sup> Die Kündigungsfrist beträgt zwei Monate, soweit nichts anderes vereinbart wird.
+
+<sup>3</sup> Vorbehalten bleiben die zwingenden Bestimmungen der BVK Personalvorsorge des Kantons Zürich.
+
+### C. Rechte und Pflichten des Personals
+
+#### § 11
+
+**Lohn a. Festsetzung**
+
+<sup>1</sup> Die Einreihung der Stellen der ipw richtet sich nach den Grundsätzen und dem Lohnsystem des kantonalen Personalrechts. Die Lohnfestsetzung im Einzelfall erfolgt durch die Anstellungsbehörde.
+
+<sup>2</sup> Die Vergütung des ärztlichen Kaders richtet sich nach den Vorgaben gemäss § 17 ipwG.
+
+#### § 12
+
+**b. Entwicklung**
+
+<sup>1</sup> Der Spitalrat entscheidet auf Antrag der Geschäftsleitung über die jährliche Lohnentwicklung und den Teuerungsausgleich.
+
+<sup>2</sup> Er kann für einzelne Personalgruppen unterschiedliche Lohnentwicklungen vorsehen.
+
+<sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation der ipw.
+
+#### § 13
+
+**c. variabler Vergütungsbestandteil**
+
+<sup>1</sup> Die Vergütung der Mitglieder der Geschäftsleitung und des mit öffentlich-rechtlichem Vertrag angestellten Personals kann einen variablen Bestandteil enthalten.
+
+<sup>2</sup> Der variable Bestandteil beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Der für Personalfragen zuständige Ausschuss des Spitalrates legt gemeinsam mit den einzelnen Mitgliedern der Geschäftsleitung jedes Jahr messbare Jahresziele fest. In gleicher Weise verfahren die zuständigen Mitglieder der Geschäftsleitung gegenüber den direkt unterstellten Kadern sowie die Vorgesetzten gegenüber anderen Angestellten mit variablem Vergütungsbestandteil.
+
+<sup>4</sup> Der variable Vergütungsbestandteil wird jährlich in Abhängigkeit der Erreichung der Jahresziele festgelegt.
+
+#### § 14
+
+**d. ärztliches Kader**
+
+<sup>1</sup> Die Vergütung des ärztlichen Kaders besteht aus einem festen Grundlohn und kann ergänzend eine Markt- und Funktionszulage sowie einen variablen Bestandteil enthalten. Sie wird nicht nach dem Lohnsystem des Kantons Zürich festgelegt.
+
+<sup>2</sup> Der variable Bestandteil beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Die Gesamtvergütung eines Mitglieds des ärztlichen Kaders beträgt höchstens 1 Mio. Franken pro Jahr. Sie umfasst insbesondere allfällige Entschädigungen Dritter und Einnahmen, die mit Gutachten, Zeugnissen und Berichten für Patientinnen und Patienten oder Dritte erzielt werden.
+
+<sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 18 Abs. 2 ipwG.
+
+<sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
+
+[^14-1]: LS 177.111.
+
+#### § 15
+
+**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
+
+<sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)[^14-1] sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+
+<sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
+
+**5**
+
+1.10. 22 - 118 § 16. <sup>1</sup> Die ipw kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
+
+**Versicherungen**
+
+<sup>2</sup> Die Leistungen müssen für das Personal mindestens gleichwertig zur Regelung gemäss kantonalem Personalrecht und für die ipw wirtschaftlich sein.
+
+<sup>3</sup> Die Prämien können dem Personal höchstens hälftig auferlegt werden.
+
+#### § 17
+
+**Verhalten am Arbeitsplatz**
+
+<sup>1</sup> Die Angestellten tragen zu einer partnerschaftlichen, auf ethischen Grundsätzen beruhenden und leistungsorientierten Arbeitskultur bei. Sie sind zur interdisziplinären Zusammenarbeit und zur fächer- und berufsgruppenübergreifenden Teamarbeit verpflichtet. Sie richten sich an den Zielen und Interessen der ipw aus.
+
+<sup>2</sup> Alle Formen sexueller oder anderer Belästigungen, Mobbing sowie Diskriminierung wegen Geschlecht, Religion, Ethnie, Nationalität, sexueller Orientierung, Behinderungen, Alter, Beruf und Stellung oder anderer rechtlich geschützter persönlicher Eigenschaften sind untersagt.
+
+<sup>3</sup> Die Geschäftsleitung erlässt bei Widerhandlungen Sanktionen, die bis hin zur Kündigung führen können. Die strafrechtliche Verfolgung bleibt vorbehalten.
+
+### D. Nebenbeschäftigungen und öffentliche Ämter
+
+#### § 18
+
+**Begriffe**
+
+<sup>1</sup> Als Nebenbeschäftigung gilt jede Ausübung einer selbstständigen oder unselbstständigen Tätigkeit neben der Anstellung an der ipw, insbesondere Beratungstätigkeiten, Lehrverpflichtungen oder die Wahrnehmung von Organfunktionen bei Dritten.
+
+<sup>2</sup> Als öffentliches Amt gilt die Mitgliedschaft in einem Parlament oder einer Exekutive, die Tätigkeit an einem Gericht oder in einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde, einer Kirchgemeinde oder einer anderen Körperschaft des öffentlichen Rechts.
+
+#### § 19
+
+**Nebenbeschäftigungen a. Zulässigkeit**
+
+<sup>1</sup> Nebenbeschäftigungen sind nur zulässig, wenn a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigt wird,
+
+- b. die Tätigkeit mit der Stellung der oder des Angestellten an der ipw vereinbar ist,
+
+- c. die Interessen der ipw, insbesondere ihre Interessen als Arbeitgeberin, nicht beeinträchtigt werden,
+
+- d. die ipw nicht konkurrenziert wird,
+
+- e. nicht der Eindruck erweckt wird, es handle sich um eine Leistung der ipw,
+
+- f. die Interessen anderer Angestellter der ipw nicht beeinträchtigt werden.
+
+<sup>2</sup> Die Geschäftsleitung kann in begründeten Fällen Ausnahmen bewilligen.
+
+#### § 20
+
+**b. Bewilligung**
+
+Für Nebenbeschäftigungen ist eine Bewilligung der Geschäftsleitung erforderlich, wenn Arbeitszeit, Infrastruktur oder Personal der ipw beansprucht oder eine Organfunktion bei Dritten übernommen wird.
+
+#### § 21
+
+**c. Information und Entscheid**
+
+Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Geschäftsleitung. Diese entscheidet in Absprache mit der vorgesetzten Stelle der oder des Angestellten, ob eine Bewilligung eingeholt werden muss. Sie kann auch nachträglich und von sich aus das Einholen einer Bewilligung verlangen.
+
+#### § 22
+
+**Öffentliche Ämter**
+
+Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
+
+#### § 23
+
+**Ausführungsbestimmungen**
+
+Die Geschäftsleitung erlässt Ausführungsbestimmungen über die Nebenbeschäftigungen und die Tätigkeit im Rahmen öffentlicher Ämter. Sie regelt dabei insbesondere das Verfahren, die Auflagen, die Abgeltungen und die Abgaben.
+
+### E. Erfindungen und urheberrechtlich geschützte Werke
+
+#### § 24
+
+**Grundsatz**
+
+Die ipw unterstützt die Entwicklung und Verwertung von Erfindungen und setzt sich für den Schutz des geistigen Eigentums ein.
+
+#### § 25
+
+**Erfindungen**
+
+<sup>1</sup> Erfindungen, die Angestellte der ipw bei Ausübung ihrer dienstlichen Tätigkeit machen oder an denen sie mitwirken, stehen im Eigentum der ipw, soweit keine anderslautenden Vereinbarungen getroffen wurden.
+
+<sup>2</sup> Die Geschäftsleitung kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^25-1] gilt sinngemäss.
+
+**7**
+
+1.10. 22 - 118 § 26. <sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen der ipw zu, soweit keine anderslautenden Vereinbarungen getroffen wurden.
+
+**Urheberrechtlich geschützte Werke**
+
+<sup>2</sup> Die Geschäftsleitung kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
+
+[^25-1]: SR 220.
+
+#### § 27
+
+**Weitere Arbeitsergebnisse**
+
+<sup>1</sup> Vorbehältlich §§ 25 und 26 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum der ipw.
+
+<sup>2</sup> Vorbehalten sind anderslautende vertragliche Vereinbarungen.
+
+### F. Übergangsbestimmung
+
+#### § 28
+
+**Bestehende Arbeitsverhältnisse**
+
+Die Geschäftsleitung passt Bewilligungen, Auflagen und andere im Zeitpunkt des Inkrafttretens dieses Reglements bestehende Dauerrechtsverhältnisse an die Vorgaben dieses Reglements an.

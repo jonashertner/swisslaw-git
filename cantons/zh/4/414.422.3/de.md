@@ -1,0 +1,350 @@
+---
+canton: ZH
+number: "414.422.3"
+title: "Reglement zum Joint Degree Masterstudiengang Fachdidaktik Mathematik an der Pädagogischen Hochschule Zürich und am Departement Geistes-, Sozial- und Staatswissenschaften an der Eidgenössischen Technischen Hochschule Zürich"
+language: de
+nachtrag: "96"
+valid_until: 2024-09-01
+adopted: 2024-03-12
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_422_3-2016_12_13-2017_03_01-096.html"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Reglement zum Joint Degree Masterstudiengang Fachdidaktik Mathematik an der Pädagogischen Hochschule Zürich und am Departement Geistes-, Sozial- und Staatswissenschaften der Eidgenössischen Technischen Hochschule Zürich
+
+(vom 13. Dezember 2016)[^t-1],[^t-2]
+
+Der Fachhochschulrat,
+
+gestützt auf § 10 Abs. 3 lit. c des Fachhochschulgesetzes vom 2. April 2007[^t-3],
+
+beschliesst:
+
+[^t-1]: OS 72, 44; Begründung siehe ABl 2017-01-13.
+[^t-2]: Inkrafttreten: 1. März 2017.
+[^t-3]: LS 414.10.
+
+### A. Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+Dieses Reglement regelt den spezialisierten Joint Degree Masterstudiengang Fachdidaktik Mathematik an der Pädagogischen Hochschule Zürich (PHZH) und am Departement Geistes-, Sozial- und Staatswissenschaften (D-GESS) der Eidgenössischen Technischen Hochschule Zürich (ETH Zürich).
+
+#### § 2
+
+**Trägerschaft**
+
+<sup>1</sup> Die PHZH und das D-GESS sind gemeinsam Träger des Studiengangs, wobei der Studiengang administrativ der Abteilung Sekundarstufe II / Berufsbildung des Prorektorats Ausbildung PHZH angegliedert ist. Leading house ist die PHZH.
+
+<sup>2</sup> Einzelheiten zu Trägerschaft und Gremien sind in einer gemeinsamen Vereinbarung geregelt.
+
+#### § 3
+
+**Zielsetzung**
+
+Der Studiengang hat das Ziel, die Studierenden für den Unterricht an Pädagogischen Hochschulen oder an anderen Institutionen, die im Bereich Fachdidaktik lehren und forschen, zu qualifizieren.
+
+#### § 4
+
+**Akademischer Titel**
+
+Die PHZH und die ETH Zürich verleihen für einen erfolgreich absolvierten Studiengang gemeinsam den akademischen Titel: «Master of Arts PHZH ETH in Fachdidaktik Mathematik». Die englische Übersetzung lautet «Master of Arts PHZH ETH in Mathematics Education».
+
+**1**
+
+- 1\. 4. 17 - 96 § 5. Die PHZH und die ETH Zürich erlassen je einen identischen Studienplan (ETH Zürich: Studienreglement) für den Studiengang, worin die vorliegenden Regelungen zu den Zulassungsbedingungen, zum Zulassungsverfahren, zu den Anforderungen für den Masterabschluss, den Modalitäten der Prüfungen und Leistungsnachweise sowie zur Vergabe von Kreditpunkten nach dem Europäischen Kreditpunktetransfer- und Akkumulierungssystem (European Credit Transfer- and Accumulation System, ECTS) ausgeführt werden.
+
+#### § 6
+
+**Studienplan**
+
+**Lenkungsausschuss**
+
+<sup>1</sup> Der Lenkungsausschuss setzt sich aus fünf Vertreterinnen oder Vertretern der Hochschulen zusammen.
+
+<sup>2</sup> Er ist für alle Bereiche zuständig, soweit diese nicht in die Zuständigkeit anderer Organe fallen.
+
+<sup>3</sup> Seine Aufgaben sind namentlich:
+
+- a. strategische Ausrichtung und Weiterentwicklung des Studiengangs,
+
+- b. Regelung und Organisation des Zulassungsverfahrens,
+
+- c. Entscheid über die Zulassung von Studieninteressierten unter allfälliger Auflage von fachwissenschaftlichen Ergänzungsleistungen,
+
+- d. Festlegung der individuellen Studienprogramme,
+
+- e. Entscheid über Anträge im Zusammenhang mit der Erbringung, Anerkennung und Anrechnung von Studienleistungen,
+
+- f. Erwahrung von Noten.
+
+#### § 7
+
+**Studiengangleitung**
+
+<sup>1</sup> Die Prorektorin oder der Prorektor des Prorektorats Ausbildung der PHZH bezeichnet in Absprache mit dem D-GESS eine Studiengangleitung.
+
+<sup>2</sup> Die Studiengangleitung ist verantwortlich für die operationelle Führung des Studiengangs und vertritt ihn nach aussen.
+
+<sup>3</sup> Die Aufgaben der Studiengangleitung sind namentlich:
+
+- a. Antrag an den Lenkungsausschuss über die Zulassung von Studieninteressierten,
+
+- b. Bearbeitung von Anträgen im Zusammenhang mit der Erbringung, Anerkennung und Anrechnung von Studienleistungen zuhanden des Lenkungsausschusses,
+
+- c. Bearbeitung von Wiedererwägungsgesuchen betreffend Leistungsbewertungen zuhanden des Prorektorats Ausbildung der PHZH,
+
+- d. Förderung der Zusammenarbeit zwischen den Dozentinnen und Dozenten.
+
+[^7-1]: LS 414.20.
+[^7-2]: LS 414.410.5.
+
+#### § 8
+
+**Gebühren**
+
+Die Studiengebühren richten sich nach der Verordnung über die Studiengebühren an der Zürcher Fachhochschule[^7-1] und der Weisung zu den Gebühren an der Pädagogischen Hochschule Zürich[^7-2].
+
+### B. Zulassung
+
+#### § 9
+
+**Fachliche Voraussetzungen**
+
+<sup>1</sup> Die Zulassung zum Studium setzt einen der folgenden schweizerischen Abschlüsse voraus:
+
+- a. einen universitären Bachelor- oder Masterabschluss in Mathematik,
+
+- b. einen Bachelor- oder Masterabschluss einer Pädagogischen Hochschule,
+
+- c. einen universitären Bachelor- oder Masterabschluss in Erziehungswissenschaft.
+
+<sup>2</sup> Eine Zulassung ist auch mit einem den oben genannten Abschlüssen gleichwertigen schweizerischen oder ausländischen Abschluss möglich.
+
+<sup>3</sup> Über die Zulassung aufgrund gleichwertiger Abschlüsse entscheidet der Lenkungsausschuss.
+
+<sup>4</sup> Die Zulassung erfolgt auf Bewerbung bei der PHZH.
+
+#### § 10
+
+**Auflagen**
+
+<sup>1</sup> Je nach Vorbildung sind fachwissenschaftliche Leistungen im Umfang von bis zu 60 Kreditpunkten zu erbringen. Diese werden als Ergänzungsleistungen (Auflagen) festgelegt.
+
+<sup>2</sup> Die Auflagen werden im individuellen Studienprogramm festgehalten.
+
+<sup>3</sup> Die Auflagen müssen erfüllt sein, bevor mit der Masterarbeit begonnen wird.
+
+#### § 11
+
+**Zulassungshindernisse**
+
+Wer an der PHZH, der ETH Zürich oder an einer anderen Hochschule in einem gleichen oder gleichartigen Studiengang endgültig abgewiesen worden ist, wird nicht zugelassen.
+
+### C. Studium
+
+#### § 12
+
+**Immatrikulation**
+
+<sup>1</sup> Studierende, die nach diesem Reglement studieren, müssen an der PHZH immatrikuliert sein.
+
+<sup>2</sup> Die PHZH publiziert die Anmeldeformalitäten und legt fest, welche Dokumente der Bewerbung beizulegen sind.
+
+**3**
+
+- 1\. 4. 17 - 96 § 13. <sup>1</sup> Der Studiengang umfasst 90 Kreditpunkte.
+
+**Ausrichtung und Dauer des Studiums**
+
+<sup>2</sup> Voraussetzung für den Erwerb von Kreditpunkten ist das Erbringen von als genügend bewerteten Leistungen. Ein Kreditpunkt entspricht einer studentischen Arbeitsleistung von rund 30 Stunden.
+
+#### § 14
+
+**Ausbildungsbereiche**
+
+<sup>1</sup> Die Ausbildung besteht aus den Bereichen Fachdidaktik, Erziehungswissenschaft und Berufspraxis.
+
+<sup>2</sup> Im Rahmen der Berufspraxis sind zwei Unterrichtspraktika, in den übrigen Bereichen Module zu absolvieren.
+
+#### § 15
+
+**Masterarbeit**
+
+<sup>1</sup> Der Studiengang umfasst eine Masterarbeit im Umfang von 30 Kreditpunkten. Sie ist eine wissenschaftliche, durch die Studentin oder den Studenten selbstständig abzufassende schriftliche Arbeit, die ein Thema der Fachdidaktik Mathematik behandelt.
+
+<sup>2</sup> Die Masterarbeit wird durch eine am Studiengang Fachdidaktik Mathematik beteiligte Dozentin oder einen Dozenten der PHZH, des D-GESS oder der Kernprofessuren der didaktischen Ausbildung in den mathematischen Fächern der ETH Zürich betreut.
+
+<sup>3</sup> Die Frist für das Verfassen der Masterarbeit beträgt zwölf Monate. In begründeten Fällen kann der Lenkungsausschuss die Frist verlängern.
+
+<sup>4</sup> Die Masterarbeit kann einmal überarbeitet werden. Ist sie auch nach der Überarbeitung ungenügend, kann sie einmal wiederholt werden. Bei der Wiederholung ist ein neues Thema zu bearbeiten. Eine erneute Überarbeitung ist ausgeschlossen.
+
+#### § 16
+
+**Erwahrung von Noten**
+
+Noten werden einmal im Semester erwahrt.
+
+#### § 17
+
+**Endgültige Abweisung**
+
+<sup>1</sup> Wird die Masterarbeit auch im Wiederholungsfall als ungenügend bewertet, ist ein Pflichtmodul definitiv nicht bestanden oder konnte ein Wahlpflichtmodul nicht erfolgreich ersetzt werden, hat die betreffende Studentin oder der betreffende Student die geforderten Studienleistungen endgültig nicht erbracht und wird vom Studiengang ausgeschlossen.
+
+<sup>2</sup> Zum Ausschluss vom Studiengang kann auch die Nichtbeachtung von Terminen und Fristen führen.
+
+#### § 18
+
+**Unredliches Verhalten**
+
+<sup>1</sup> Unredlich sind insbesondere das Mitbringen unerlaubter Hilfsmittel, deren Verwendung, unzulässiges Kommunizieren während der Durchführung eines Leistungsnachweises, Einreichung eines Plagiats, unselbstständiges Verfassen der Masterarbeit oder das Erwirken der Zulassung aufgrund unrichtiger oder unvollständiger Angaben.
+
+<sup>2</sup> Eine aufgrund unredlichen Verhaltens erwirkte Zulassung wird durch den Lenkungsausschuss widerrufen. Er entscheidet über die Folgen für die erworbenen Kreditpunkte.
+
+<sup>3</sup> Bei unredlichem Verhalten während des Studiums erklärt die Rektorin oder der Rektor der PHZH den betroffenen Leistungsnachweis oder die Masterarbeit als ungültig. Damit gilt der entsprechende Leistungsnachweis oder die Masterarbeit als nicht bestanden. Gleichzeitig entscheidet die Rektorin oder der Rektor aufgrund der Angaben des Lenkungsausschusses über die Einleitung eines Disziplinarverfahrens. Dieses richtet sich nach der Verordnung zum Fachhochschulgesetz[^18-1].
+
+<sup>4</sup> Wurde ein Mastertitel aufgrund unredlichen Verhaltens bereits erteilt, wird dieser durch den Lenkungsausschuss für ungültig erklärt. Bereits ausgestellte Urkunden werden eingezogen.
+
+[^18-1]: LS 414.101.
+
+#### § 19
+
+**Rechtsschutz**
+
+<sup>1</sup> Verfügungen und Beschlüsse im Zusammenhang mit dem Studiengang ergehen durch die Rektorin oder den Rektor der PHZH, die Prorektorin oder den Prorektor Ausbildung der PHZH, die Studiengangleitung und den Lenkungsausschuss.
+
+<sup>2</sup> Sie können nach Massgabe des Verwaltungsrechtspflegegesetzes[^19-1] bei der Rekurskommission der Zürcher Hochschulen angefochten werden.
+
+[^19-1]: LS 175.2.
+
+### D. Module (Lerneinheiten), Leistungsnachweise und Kreditpunkte
+
+#### § 20
+
+**Modultypen**
+
+Der Studienplan bezeichnet Pflichtmodule und Wahlpflichtmodule.
+
+#### § 21
+
+**Modulstruktur**
+
+Die Lerninhalte werden in inhaltlich und zeitlich zusammenhängende Einheiten (Module) gegliedert. Die Module erstrecken sich in der Regel über ein Semester und umfassen einen Leistungsnachweis. Die Vergabe von Kreditpunkten auf der Basis blosser Anwesenheit ist ausgeschlossen.
+
+#### § 22
+
+**Formen von Leistungsnachweisen**
+
+Leistungsnachweise bestehen insbesondere aus schriftlichen oder mündlichen Prüfungen, Referaten, Unterrichtseinheiten in der berufspraktischen Ausbildung, schriftlichen Übungen oder schriftlichen Arbeiten.
+
+**5**
+
+- 1\. 4. 17 - 96 § 23. <sup>1</sup> Im Rahmen der Mobilität oder vorgängig erbrachte Studienleistungen können für den Masterabschluss im Umfang von maximal 30 Kreditpunkten vollständig oder teilweise angerechnet werden, sofern sie äquivalent sind. Über die Äquivalenz entscheidet der Lenkungsausschuss.
+
+**Anrechnung von Kreditpunkten**
+
+<sup>2</sup> Zwischen dem letzten Tag des Semesters, in dem die anzurechnenden Kreditpunkte erworben wurden, und dem Tag der Anmeldung zum Masterabschluss dürfen nicht mehr als sechs Jahre liegen. In begründeten Fällen kann der Lenkungsausschuss die Frist der Anrechenbarkeit verlängern.
+
+<sup>3</sup> Die Anrechnung einer andernorts erbrachten Masterarbeit ist ausgeschlossen.
+
+<sup>4</sup> Die Studierenden sind verpflichtet, alle bisher erbrachten bestandenen und nicht bestandenen Studienleistungen bei der Anmeldung zum Studiengang auszuweisen.
+
+#### § 24
+
+**Zuständigkeit**
+
+Die Institution, die ein Modul anbietet, regelt die Form und den Inhalt von Modulen und Leistungsnachweisen sowie die Anforderungen für deren Bestehen.
+
+#### § 25
+
+**An- und Abmeldung**
+
+<sup>1</sup> Für jedes Modul ist eine Anmeldung erforderlich.
+
+<sup>2</sup> Die An- und Abmeldemodalitäten richten sich nach den Bestimmungen derjenigen Hochschule, die das Modul anbietet.
+
+#### § 26
+
+**Zulassung zu Modulen**
+
+<sup>1</sup> Die Studierenden werden zu einem Modul zugelassen, sofern sie für das betreffende Modul die Voraussetzungen erfüllen, die im Studienplan genannt sind.
+
+<sup>2</sup> Die Fachdidaktikmodule können erst besucht werden, wenn 30 Kreditpunkte für die jeweiligen fachwissenschaftlichen Leistungen vorgewiesen werden können.
+
+#### § 27
+
+**Bestehen und Wiederholung**
+
+<sup>1</sup> Ein Modul gilt als bestanden, wenn der dazugehörige Leistungsnachweis auf der Notenskala 1 bis 6 mit einer genügenden Note oder mit «bestanden» bewertet worden ist. Noten unter 4 sind ungenügend. Halbe und Viertelnoten sind zulässig. Kreditpunkte werden vollständig oder nicht vergeben.
+
+<sup>2</sup> Nicht bestandene Module können einmal wiederholt werden. Ist ein Wahlpflichtmodul nach der Wiederholung nicht bestanden, kann es mit Wiederholungsmöglichkeit einmal durch ein anderes Modul ersetzt werden.
+
+<sup>3</sup> Wurde ein Modul erfolgreich absolviert, werden für das gleiche oder ein inhaltlich ähnliches Modul keine weiteren Kreditpunkte angerechnet. In Zweifelsfällen entscheidet der Lenkungsausschuss.
+
+#### § 28
+
+**Verhinderung und Fernbleiben**
+
+<sup>1</sup> Tritt vor oder während der Erbringung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein, ist der Abteilung Sekundarstufe II / Berufsbildung der PHZH unverzüglich ein schriftlich begründetes Abmeldungsgesuch einzureichen. Verhinderungsgründe sind zu belegen, insbesondere ist bei Krankheit oder Unfall innert zweier Tage ein ärztliches Zeugnis einzureichen. In Zweifelsfällen kann die Studiengangleitung eine Ärztin oder einen Arzt ihres Vertrauens beiziehen.
+
+<sup>2</sup> Die Geltendmachung von Abmeldungsgründen, die sich auf einen bereits abgelegten Leistungsnachweis beziehen, ist ausgeschlossen.
+
+<sup>3</sup> Über die Genehmigung einer Abmeldung oder eines Abbruchs des Leistungsnachweises entscheidet die Studiengangleitung. Wird das Abmeldegesuch nicht bewilligt, gilt der Leistungsnachweis als nicht bestanden.
+
+<sup>4</sup> Bleibt eine Studentin oder ein Student einem Leistungsnachweis unabgemeldet fern, gilt dieser als nicht bestanden.
+
+### E. Masterabschluss
+
+#### § 29
+
+**Titelvergabe**
+
+Der Titel «Master of Arts PHZH ETH in Fachdidaktik Mathematik» wird verliehen, wenn alle reglementarischen Bedingungen erfüllt sind.
+
+#### § 30
+
+**Gesamtnote**
+
+<sup>1</sup> Die Gesamtnote ergibt sich aus dem nach Kreditpunkten gewichteten Mittel aller für den Masterabschluss erforderlichen, benoteten Module. Sie wird auf Viertelnoten gerundet.
+
+<sup>2</sup> Noten angerechneter Vorleistungen werden in der Gesamtnote nicht berücksichtigt.
+
+#### § 31
+
+**Notenausweis**
+
+<sup>1</sup> Der Notenausweis gilt als Ausweis über den bestandenen Masterabschluss. Die Aushändigung erfolgt nach der Erwahrung der Gesamtnote.
+
+<sup>2</sup> Der Notenausweis enthält die Ergebnisse sämtlicher für den Masterabschluss angerechneten Module sowie die dabei erzielte Gesamtnote. Ferner werden mit entsprechender Kennzeichnung alle an der PHZH und an der ETH Zürich bestandenen, aber nicht für den Masterabschluss angerechneten Module ausgewiesen.
+
+<sup>3</sup> Der Notenausweis wird in deutscher Sprache ausgestellt.
+
+**7**
+
+- 1\. 4. 17 - 96 § 32. <sup>1</sup> Die Diplomurkunde enthält:
+
+**Diplomurkunde**
+
+- a. die Personalien der Absolventin oder des Absolventen,
+
+- b. den akademischen Titel:
+
+Master of Arts PHZH ETH in Fachdidaktik Mathematik,
+
+- c. die Namen der beiden beteiligten Hochschulen mit Logo,
+
+- d. die Unterschrift der Rektorin oder des Rektors der PHZH, die Unterschrift der Rektorin oder des Rektors der ETH Zürich.
+
+<sup>2</sup> Die Diplomurkunde wird in deutscher Sprache ausgestellt, auf Gesuch wird mit der Urkunde eine englische Übersetzung ausgehändigt.
+
+#### § 33
+
+**Diplomzusatz**
+
+<sup>1</sup> Zu jedem Diplom wird ein Diplomzusatz («Diploma Supplement») ausgestellt. Der Diplomzusatz ist eine standardisierte Erläuterung des Masterabschlusses.
+
+<sup>2</sup> Der Diplomzusatz wird in deutscher und englischer Sprache ausgestellt.
