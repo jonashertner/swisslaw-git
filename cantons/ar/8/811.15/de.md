@@ -1,0 +1,180 @@
+---
+canton: AR
+number: "811.15"
+title: Vereinbarung über die Einsetzung der Ethikkommission Ostschweiz
+short: EKOS
+language: de
+version: 2016-06-01
+version_adopted: 2016-05-10
+adopted: 2016-05-10
+in_force: 2016-06-01
+url: "https://ar.clex.ch/app/de/texts_of_law/811.15"
+pdf: "https://ar.clex.ch/api/de/versions/961/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vereinbarung über die Einsetzung der Ethikkommission Ostschweiz
+
+(EKOS)
+
+vom 10.05.2016 (Stand 01.06.2016)
+
+Der Kanton St.Gallen, der Kanton Thurgau und die Kantone Appenzell Ausserrhoden und Appenzell Innerrhoden erlassen,
+
+in Ausführung von Art. 54 Abs. 2 des eidgenössischen Humanforschungsgesetzes vom 30. September 2011[^ingress-1] und Art. 11 des eidgenössischen Stammzellenforschungsgesetzes vom 19. Dezember 2003[^ingress-2],
+
+als Vereinbarung[^ingress-3]:
+
+[^ingress-1]: SR [810.30](https://db.clex.ch/link/Bund/810.30/de)
+[^ingress-2]: SR [810.31](https://db.clex.ch/link/Bund/810.31/de)
+[^ingress-3]: vom Regierungsrat genehmigt am 3. Mai 2016
+
+#### Art. 1
+
+**Ethikkommission Ostschweiz a) Bezeichnung und Sitz**
+
+<sup>1</sup> Die Vereinbarungskantone bezeichnen die Ethikkommission Ostschweiz (EKOS) als gemeinsame Ethikkommission nach Art. 54 Abs. 2 des Humanforschungsgesetzes vom 30. September 2011[^1-1].
+
+<sup>2</sup> Die EKOS hat Sitz in der Stadt St.Gallen. Der Kanton St.Gallen betreibt die EKOS und ihre Geschäftsstelle.
+
+[^1-1]: SR [810.30](https://db.clex.ch/link/Bund/810.30/de)
+
+#### Art. 2
+
+**b) Zuständigkeit**
+
+<sup>1</sup> Die EKOS ist insbesondere zuständig für die Beurteilung und Bewilligung von:
+
+- a) Forschung am Menschen nach dem eidgenössischen Humanforschungsgesetz vom 30. September 2011[^2-1];
+- b) Weiterverwendung von biologischem Material oder gesundheitsbezogenen Personendaten zu Forschungszwecken bei fehlender Einwilligung oder Information über das Widerspruchsrecht nach dem eidgenössischen Humanforschungsgesetz vom 30. September 2011[^2-2];
+- c) Forschung mit embryonalen Stammzellen nach dem Stammzellenforschungsgesetz vom 19. Dezember 2003[^2-3].
+
+<sup>2</sup> Sie kann zu diesem Zweck Einsicht in sämtliche für den Versuch relevanten Unterlagen nehmen.
+
+[^2-1]: SR [810.30](https://db.clex.ch/link/Bund/810.30/de)
+[^2-2]: SR [810.30](https://db.clex.ch/link/Bund/810.30/de)
+[^2-3]: SR [810.31](https://db.clex.ch/link/Bund/810.31/de)
+
+#### Art. 3
+
+**c) Mitgliedschaft**
+
+<sup>1</sup> Die Mitgliedschaft eines Kantons in der EKOS erfolgt durch Verzicht auf eine eigene Ethikkommission und Unterzeichnung dieser Vereinbarung.
+
+<sup>2</sup> Die Aufnahme eines neuen Vereinbarungskantons in die EKOS erfolgt durch einstimmigen Beschluss der Gesundheitsdirektionen der bisherigen Vereinbarungskantone.
+
+#### Art. 4
+
+**d) Budget, Jahresrechnung und Revision**
+
+<sup>1</sup> Die EKOS erstellt jährlich ein Budget und eine Jahresrechnung.
+
+<sup>2</sup> Revisionsstelle ist die Finanzkontrolle des Kantons St.Gallen. Sie prüft das Rechnungswesen und die Jahresrechnung der EKOS.
+
+#### Art. 5
+
+**e) Berichterstattung**
+
+<sup>1</sup> Die EKOS erstattet den Gesundheitsdirektionen der Vereinbarungskantone jährlich Bericht insbesondere über:
+
+- a) das Budget;
+- b) die Jahresrechnung;
+- c) Art, Anzahl, und Bearbeitungszeiten der beurteilten Forschungsprojekte je Vereinbarungskanton;
+- d) Prüfstandorte der beurteilten Forschungsprojekte in den Vereinbarungskantonen.
+
+<sup>2</sup> Sie unterrichtet die Gesundheitsdirektion des Vereinbarungskantons, in dem sich der Hauptprüfort des jeweils in Frage stehenden Forschungsprojekts befindet, über schwerwiegende unerwünschte Ereignisse bei bewilligten Projekten.
+
+#### Art. 6
+
+**f) Geschäftsreglement**
+
+<sup>1</sup> Die EKOS erarbeitet ein Geschäftsreglement über die Organisation und Arbeitsweise.
+
+<sup>2</sup> Das Geschäftsreglement bedarf der Genehmigung der Gesundheitsdirektionen der Vereinbarungskantone.
+
+#### Art. 7
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die Gesundheitsdirektionen der Vereinbarungskantone sind zuständig für:
+
+- a) Genehmigung des Geschäftsreglements der EKOS;
+- b) Kenntnisnahme von Budget und Jahresrechnung einschliesslich des Revisionsberichts;
+- c) Kenntnisnahme des Jahresberichts über die Tätigkeit der EKOS.
+
+<sup>2</sup> Das Gesundheitsdepartement des Kantons St.Gallen ist zudem zuständig für:
+
+- a) Wahl der Präsidentin oder des Präsidenten der EKOS;
+- b) Wahl von zwei Vize-Präsidentinnen oder Vize-Präsidenten;
+- c) Wahl von wenigstens fünf und höchstens sieben weiteren Mitgliedern der EKOS;
+- d) Genehmigung von Budget und Jahresrechnung einschliesslich des Revisionsberichts;
+- e) Aufsicht über die Tätigkeit der EKOS sowie der vom Gesundheitsdepartement des Kantons St.Gallen gewählten Mitglieder.
+
+<sup>3</sup> Das Departement Finanzen und Soziales des Kantons Thurgau ist zudem zuständig für:
+
+- a) Wahl von einer Vize-Präsidentin oder einem Vize-Präsidenten;
+- b) Wahl von einem weiteren Mitglied der EKOS;
+- c) Aufsicht über die vom Departement Finanzen und Soziales des Kantons Thurgau gewählten Mitglieder.
+
+#### Art. 8
+
+**Verfahren a) Grundsatz**
+
+<sup>1</sup> Für das Verfahren vor der EKOS wird, soweit das eidgenössische Humanforschungsrecht, das Geschäftsreglement der EKOS oder diese Vereinbarung keine Bestimmung enthält, das Gesetz über die Verwaltungsrechtspflege des Kantons St.Gallen vom 16. Mai 1965[^8-1]sachgemäss angewendet.
+
+[^8-1]: sGS [951.1](https://db.clex.ch/link/Bund/951.1/de)
+
+#### Art. 9
+
+**b) Rechtsschutz**
+
+<sup>1</sup> Das Verfahren für Beschwerden gegen Entscheide der EKOS richtet sich nach dem kantonalen Verfahrensrecht des Vereinbarungskantons, in dem sich der Hauptprüfort des jeweils in Frage stehenden Gesuchs befindet sowie nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
+
+#### Art. 10
+
+**Finanzierung a) Grundsatz**
+
+<sup>1</sup> Die EKOS finanziert ihren Betrieb durch die von ihr erhobenen Gebühren und die Beiträge der Vereinbarungskantone. Der Kanton St.Gallen stellt die Finanzierung der Restkosten sicher.
+
+#### Art. 11
+
+**b) Beiträge**
+
+<sup>1</sup> Die Vereinbarungskantone leisten folgende Beiträge je Jahr:
+
+- a) Kanton Thurgau Fr. 25 000.–;
+- b) Kanton Appenzell Ausserrhoden Fr. 6 000.–;
+- c) Kanton Appenzell Innerrhoden Fr. 1 000.–.
+
+<sup>2</sup> Zahlungstermin ist jeweils der 30. Juni.
+
+<sup>3</sup> Die Höhe der Beiträge wird jeweils nach drei Jahren überprüft. Die Gesundheitsdirektionen der Vereinbarungskantone können durch gemeinsamen Beschluss die Beiträge anpassen sowie Beiträge für neue Vereinbarungskantone festlegen.
+
+#### Art. 12
+
+**c) Gebühren**
+
+<sup>1</sup> Die EKOS erlässt ein Gebührenreglement. Dieses orientiert sich am empfohlenen Gebührenreglement der Vereinigung der Schweizerischen Ethikkommissionen für die Forschung am Menschen.
+
+#### Art. 13
+
+**Schlussbestimmungen a) Dauer und Kündigung**
+
+<sup>1</sup> Die Vereinbarung wird auf unbestimmte Zeit abgeschlossen.
+
+<sup>2</sup> Sie kann unter Einhaltung einer Frist von sechs Monaten auf Ende eines Kalenderjahres gekündigt werden.
+
+#### Art. 14
+
+**b) Aufhebung bestehender Vereinbarungen**
+
+<sup>1</sup> Die Vereinbarung ersetzt bestehende Vereinbarungen zwischen den Vereinbarungskantonen im Zusammenhang mit der Führung von Ethikkommissionen. Diese Vereinbarungen werden ab Vollzugsbeginn dieser Vereinbarung aufgehoben.
+
+#### Art. 15
+
+**Vollzugsbeginn**
+
+<sup>1</sup> Diese Vereinbarung wird ab 1. Juni 2016 angewendet.
+
+Lf. Nr. / Abl. 1314 / 2016, S. 1237

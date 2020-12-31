@@ -1,0 +1,681 @@
+---
+canton: AR
+number: "526.21"
+title: "Verordnung zum Gesetz über Jagd, Wild- und Vogelschutz"
+short: Jagdverordnung
+language: de
+version: 2016-09-30
+valid_until: 2022-01-31
+version_adopted: 2016-09-27
+adopted: 2003-04-23
+in_force: 2003-05-01
+url: "https://ar.clex.ch/app/de/texts_of_law/526.21"
+pdf: "https://ar.clex.ch/api/de/versions/1126/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung zum Gesetz über Jagd, Wild- und Vogelschutz
+
+(Jagdverordnung)
+
+vom 23.04.2003 (Stand 30.09.2016)
+
+Der Regierungsrat des Kantons Appenzell A.Rh.,
+
+gestützt auf Art. 24 Abs. 1 des Gesetzes vom 17. Februar 2003 über Jagd, Wild- und Vogelschutz[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: Jagdgesetz (bGS [526.2](https://ar.clex.ch/data/526.2/de))
+
+## I. Jagdberechtigung
+
+#### Art. 1
+
+**Patentzuständigkeit**
+
+<sup>1</sup> Für die Erteilung der Jagdpatente ist die Jagdverwaltung zuständig. Sie prüft, ob die oder der Bewerbende die gesetzlichen Voraussetzungen für die Erteilung des nachgesuchten Patentes erfüllt und keine Entzugs- oder Verweigerungsgründe vorliegen.
+
+#### Art. 2
+
+**Hochjagdpatent**
+
+<sup>1</sup> Das Hochjagdpatent berechtigt zur Jagd auf Gams-, Rot- und Raubwild sowie auf weitere Wild- und Vogelarten gemäss den jährlichen Jagdvorschriften. Es wird nur an Gesuchstellende erteilt, die während mindestens vier Jahren die Jagd in der Schweiz ausgeübt haben.
+
+<sup>2</sup> Soweit der Betrieb der Hochjagd in den jährlichen Jagdvorschriften einer anerkannten Jagdorganisation übertragen wird, ist die Patentinhaberin oder der Patentinhaber bei der Ausübung der Jagd an deren Richtlinien gebunden. Die Richtlinien sind jährlich dem Regierungsrat zur Genehmigung vorzulegen.
+
+#### Art. 3
+
+**Niederjagdpatent**
+
+<sup>1</sup> Das Niederjagdpatent berechtigt zur Jagd auf Reh- und Raubwild sowie auf weitere Wild- und Vogelarten gemäss den jährlichen Jagdvorschriften. Die Berechtigung zur Jagd auf Rehwild ist auf den im Patent bezeichneten Jagdbezirk beschränkt.
+
+<sup>2</sup> Die Jagdverwaltung bestimmt nach Massgabe der Jagdplanung abschliessend darüber, in welchem Jagdbezirk die Rehwildjagd auszuüben ist. Soweit möglich, berücksichtigt sie dabei den Wunsch der oder des Bewerbenden.
+
+#### Art. 4
+
+**Bewilligungen für Jagdgäste**
+
+<sup>1</sup> Die Bewilligung für Jagdgäste berechtigt während ihrer Geltungsdauer zur Niederjagd im Umfang des Patentes der Gastgeberin oder des Gastgebers und zu Lasten von deren oder dessen Abschusskontingent.
+
+<sup>2</sup> Der Jagdgast darf die Jagd nur in Begleitung der Gastgeberin oder des Gastgebers ausüben.
+
+#### Art. 5
+
+**Sonderbewilligungen**
+
+<sup>1</sup> Die Sonderbewilligung berechtigt zur ausserordentlichen Jagd gemäss den in ihr ausdrücklich enthaltenen Bedingungen. Sie darf nur erteilt werden, wenn und soweit die gesetzlichen Ziele mit der ordentlichen Hoch- und Niederjagd nicht erreicht werden können.
+
+#### Art. 6
+
+**Gesuche a) Hoch- und Niederjagdpatente**
+
+<sup>1</sup> Gesuche um Hoch- und Niederjagdpatente sind jeweils bis zum 10. April mit einer Anzahlung von Fr. 100.– schriftlich bei der Jagdverwaltung einzureichen.
+
+<sup>2</sup> Das Gesuch hat die Personalien der oder des Bewerbenden und die Bezeichnung des gewünschten Patentes bzw. Jagdbezirkes zu enthalten. Es ist von der oder vom Bewerbenden eigenhändig zu unterschreiben.
+
+<sup>3</sup> Erstmaligen Gesuchen sind beizulegen:
+
+- a) Handlungsfähigkeitszeugnis;
+- b) Nachweis des Schweizer Bürgerrechts oder der Niederlassungsbewilligung;
+- c) Wohnsitzbescheinigung;
+- d) Nachweis über die bestandene Eignungsprüfung;
+- e) Nachweis über aktive Mitgliedschaft in einer anerkannten appenzell-ausserrhodischen Jagdorganisation;
+- f) Auszug aus dem schweizerischen Zentralstrafregister.
+
+#### Art. 7
+
+**b) Bewilligung für Jagdgäste**
+
+<sup>1</sup> Gesuche um Bewilligungen für Jagdgäste sind spätestens vier Tage vor dem gewünschten Jagdtermin bei der Jagdverwaltung einzureichen.
+
+<sup>2</sup> Das Gesuch hat zu enthalten:
+
+- a) Personalien von Gast und Gastgeberin oder Gastgeber;
+- b) gewünschte Dauer der Bewilligung;
+- c) Erklärung des Gastes, wonach er handlungsfähig ist, keine einschlägigen Vorstrafen hat, ausreichend gegen Jagdhaftpflicht versichert ist und die gesetzlichen Bestimmungen über den Jagdbetrieb genügend kennt.
+
+<sup>3</sup> Erstmaligen Gesuchen ist der Nachweis über die bestandene Eignungsprüfung beizulegen.
+
+#### Art. 8
+
+**Patenterteilung**
+
+<sup>1</sup> Die Jagdverwaltung prüft das Gesuch um Patenterwerb innert angemessener Frist. Sie kann von der oder vom Bewerbenden weitere Unterlagen und Auskünfte verlangen und ihren Entscheid mit Bedingungen und Auflagen verbinden.
+
+<sup>2</sup> Das Patent wird erteilt, wenn die oder der Bewerbende über die erforderliche Jagdhaftpflichtversicherung verfügt, die obligatorische Schiessübung[^8-1] absolviert und die Patentgebühren bezahlt hat.
+
+[^8-1]: Art. 12 Abs. 3 Jagdgesetz
+
+#### Art. 9
+
+**Patententzug**
+
+<sup>1</sup> Die Jagdverwaltung leitet ein Entzugsverfahren ein, sobald sie Kenntnis von möglichen Entzugsgründen[^9-1] erhält.
+
+<sup>2</sup> Sie klärt den Sachverhalt von Amtes wegen ab und trifft die erforderlichen vorsorglichen Massnahmen; nötigenfalls verfügt sie den vorläufigen Entzug des Patentes.
+
+[^9-1]: Vgl. Art. 16 Jagdgesetz
+
+#### Art. 10
+
+**Rückerstattung von Gebühren**
+
+<sup>1</sup> Gebühren für Hoch- und Niederjagdpatente können mit Ausnahme der geleisteten Anzahlung ganz oder teilweise zurückerstattet werden, wenn die jagdberechtigte Person nachweist, dass sie wegen Unfall oder Krankheit die Jagd nicht während der gesamten Jagdperiode ausüben konnte. Diese Bestimmung ist sinngemäss auch anwendbar auf Gebühren für Sonderbewilligungen.
+
+<sup>2</sup> Gebühren für Bewilligungen für Jagdgäste werden nicht zurückerstattet.
+
+## II. Jagdbetrieb
+
+#### Art. 11
+
+**Jagdzeiten**
+
+<sup>1</sup> Das Jagdjahr beginnt am 1. April und endet am 31. März.
+
+<sup>2</sup> Für die Ausübung der ordentlichen Jagd gelten unter Vorbehalt des Bundesrechts[^11-1] folgende Rahmenzeiten:
+
+- a) Hochwildjagd: 1. September bis 31. Dezember
+- b) Niederwildjagd: 1. September bis 31. Januar
+- c) Passjagd: 1. November bis 28. Februar
+
+<sup>3</sup> Die Jagd ist verboten an Sonn- und allgemeinen Feiertagen.
+
+<sup>4</sup> Der Regierungsrat legt jährlich die genauen Jagdzeiten fest und bestimmt die Schontage.
+
+<sup>5</sup> Die Nachsuche, die Abgabe des Fangschusses und die Behändigung verendeten Wildes sind nach Orientierung einer Wildhüterin oder eines Wildhüters oder der Jagdverwaltung auch ausserhalb dieser Zeiten gestattet; ist unverzügliches Handeln erforderlich, genügt die nachträgliche Mitteilung.
+
+[^11-1]: Art. 5 eidg. Jagdgesetz (SR [922.0](https://db.clex.ch/link/Bund/922.0/de))
+
+#### Art. 12
+
+**Jagdbezirke**
+
+<sup>1</sup> Für die Jagd auf Rehwild werden folgende Jagdbezirke gebildet:
+
+- a) Vorderland mit den Gemeinden Rehetobel, Wald, Grub, Heiden, Wolfhalden, Lutzenberg, Walzenhausen, Reute;
+- b) Mittelland mit den Gemeinden Teufen, Bühler, Gais, Speicher, Trogen;
+- c) Hinterland mit den Gemeinden Urnäsch, Herisau, Schwellbrunn, Hundwil, Stein, Schönengrund, Waldstatt.
+
+<sup>2</sup> Die jährlichen Jagdvorschriften können besondere Gebietsunterteilungen vorsehen, die den Jagdbezirken vorgehen.
+
+#### Art. 13
+
+**Jagdgebiete**
+
+<sup>1</sup> Der Regierungsrat bezeichnet alljährlich die Jagdgebiete.
+
+<sup>2</sup> Die Jagd ist verboten in:
+
+- a) Friedhöfen;
+- b) Gebäuden und ihrer nächsten Umgebung ohne Bewilligung der Besitzerin oder des Besitzers;
+- c) Baumschulen, Park- und Gartenanlagen ohne Bewilligung der Besitzerin oder des Besitzers;
+- d) Getreidefeldern, Obstgärten, Weinbergen und Gemüsepflanzungen vor Abschluss der Ernte;
+- e) Bannbezirken und Schongebieten ohne besondere Bewilligung.
+
+<sup>3</sup> Vorbehalten sind die besondern Vorschriften über die Passjagd.
+
+<sup>4</sup> Die Nachsuche, die Abgabe des Fangschusses und die Behändigung verendeten Wildes ist nach Orientierung einer Wildhüterin oder eines Wildhüters oder der Jagdverwalterin oder des Jagdverwalters ungeachtet dieser Beschränkungen gestattet; ist unverzügliches Handeln erforderlich, genügt die nachträgliche Mitteilung.
+
+#### Art. 14
+
+**Jagdbare Wild- und Vogelarten**
+
+<sup>1</sup> Die Jagdbarkeit und der Schutz wildlebender Säugetiere und Vögel richten sich nach dem Bundesrecht[^14-1].
+
+<sup>2</sup> Sofern die jährlichen Jagdvorschriften nichts anderes vorsehen, sind zusätzlich geschützt:
+
+- a) der Feldhase;
+- b) der Schneehase;
+- c) das Murmeltier;
+- d) der Edel- oder Baummarder;
+- e) die Enten;
+- f) der Birkhahn;
+- g) das Rebhuhn;
+- h) das Schneehuhn;
+- i) die Waldschnepfe.
+
+<sup>3</sup> Ebenso geschützt sind führende Muttertiere.
+
+[^14-1]: Art. 5 eidg. Jagdgesetz (SR [922.0](https://db.clex.ch/link/Bund/922.0/de))
+
+#### Art. 15
+
+**Bestandesregulierung a) Jagdplanung**
+
+<sup>1</sup> Mit den jährlichen Jagdvorschriften wird der Abschussplan festgelegt; er berücksichtigt wildbiologische und waldbauliche Kriterien.
+
+<sup>2</sup> Die Naturverjüngung mit standortgemässen Baumarten muss sichergestellt sein. Der Bestand an Schalenwild ist so zu regulieren, dass er weder Verschiebungen in der natürlichen Baumartenzusammensetzung noch den vollständigen Ausfall einzelner Baumarten zur Folge hat.
+
+#### Art. 16
+
+**b) Grundlagen**
+
+<sup>1</sup> Das Amt für Raum und Wald ermittelt jährlich die aktuelle Verbissbelastung anhand von Stichproben.
+
+<sup>2</sup> Die Jagdverwaltung sorgt für die Beschaffung wildbiologischer Grundlagen. Diese umfassen namentlich Erhebungen über Bestand, Jagdstrecke, Fallwild, Gesundheitszustand, Kondition, Alter, Geschlecht und räumliche Verteilung.
+
+<sup>3</sup> Der Bestand wird je nach Tierart durch vollständige Zählung oder durch Stichproben auf Zählstrecken erhoben. Die Jagdorganisationen können für die Bestandeserhebungen beigezogen werden.
+
+#### Art. 17
+
+**c) Nachjagd**
+
+<sup>1</sup> Das Departement Bau und Volkswirtschaft kann bei Nichterfüllen der Abschussquoten eine Nachjagd durch die Patentinhaberinnen oder Patentinhaber verfügen.
+
+<sup>2</sup> Nötigenfalls ordnet die Jagdverwaltung das Erlegen von Tieren durch die Wildhüterinnen oder Wildhüter und Jagdaufseherinnen oder Jagdaufseher an.
+
+#### Art. 18
+
+**d) Schaden stiftende Tiere**
+
+<sup>1</sup> Die Jagdverwaltung kann das Erlegen Schaden stiftender Tiere durch die Wildhüterinnen oder Wildhüter und Jagdaufseherinnen und Jagdaufseher anordnen.
+
+#### Art. 19
+
+**Durchführung der Jagd a) Grundsatz**
+
+<sup>1</sup> Die Jagd erfolgt nach weidmännischen Grundsätzen. Dazu gehören namentlich:
+
+- a) die gewissenhafte Beurteilung der Jagdbarkeit des Wildes;
+- b) der Verzicht auf den Schuss bei ungünstiger Distanz und ungünstigem Winkel;
+- c) die zeitgerechte und fachmännische Nachsuche nach angeschossenem Wild;
+- d) das rasche Töten angeschossenen Wildes durch Fangschuss;
+- e) die Schonung des Tieres vor unnötiger Angst und unnötigem Schmerz;
+- f) die Beachtung der Wildbret-Hygiene.
+
+<sup>2</sup> Die Jagd ist so auszuüben, dass keine Personen gefährdet werden und kein Schaden an fremdem Eigentum entsteht.
+
+<sup>3</sup> Die Jägerin oder der Jäger ist für ihren oder seinen Schuss in jedem Fall persönlich verantwortlich.
+
+#### Art. 20
+
+**b) Waffen**
+
+<sup>1</sup> Als Jagdschusswaffen dürfen nur Waffen verwendet werden, für die ein gültiger Jagdwaffenausweis einer oder eines von der Jagdverwaltung anerkannten amtlichen Waffenkontrolleurin oder Waffenkontrolleurs vorliegt. Die Jagdverwaltung setzt die Kontrollperiode fest.
+
+<sup>2</sup> Als Jagdschusswaffen kommen in Betracht: ein- oder mehrläufige Kugelgewehre, Repetierkugelgewehre, kombinierte Waffen mit einem oder zwei Kugelläufen und einem oder zwei Schrotläufen, ein- oder mehrläufige Schrotflinten und zweischüssige automatische Schrotflinten.
+
+<sup>3</sup> Es darf lediglich eine Jagdschusswaffe getragen und verwendet werden. Für den Fangschuss darf zusätzlich eine geeignete Faustfeuerwaffe mitgeführt werden.
+
+#### Art. 21
+
+**c) Munition**
+
+<sup>1</sup> Zulässig sind Jagdkugelpatronen mit einem Durchmesser von mindestens 6,5 mm und mit einer Auftreffenergie von mindestens 2 000 J bei einer Entfernung von 100 Metern.
+
+<sup>2</sup> Vollmantelgeschosse sind nur für den Fangschuss zulässig.
+
+<sup>3</sup> Die Verwendung von Schrotpatronen und Flintenlaufgeschossen erfolgt nach den für die betreffenden Wildarten geltenden weidmännischen Grundsätzen.
+
+<sup>4</sup> Schrotgrössen über 4,5 mm sind nicht zulässig.
+
+#### Art. 22
+
+**d) Jagd- und Schweisshunde**
+
+<sup>1</sup> Für die laute Jagd verwendete Jagdhunde dürfen eine Risthöhe von höchstens 42 cm aufweisen.
+
+<sup>2</sup> Für die Nachsuche müssen auf Schweiss geprüfte Hunde eingesetzt werden.
+
+<sup>3</sup> Die Jagdverwaltung kann die Verwendung von Jagd- und Schweisshunden verbieten, die für das Wild eine echte Bedrohung darstellen. Nötigenfalls verfügt sie deren entschädigungslose Beseitigung.
+
+<sup>4</sup> Die Jagdverwaltung erlässt in Zusammenarbeit mit den Jagdorganisationen ein Reglement über die Prüfung von Schweisshunden.
+
+#### Art. 23
+
+**e) Motorfahrzeuge, Fallen**
+
+<sup>1</sup> Die Schussabgabe aus Motorfahrzeugen ist verboten.
+
+<sup>2</sup> Der Gebrauch von Kastenfallen ist ab Beginn der Niederwildjagd bis zum Ende der Passjagd gestattet. Gestellte Fallen sind täglich zu kontrollieren.
+
+#### Art. 24
+
+**f) Ausgraben von Wild und Hunden**
+
+<sup>1</sup> Das Ausgraben von Wild ist verboten. Angeschossenes Wild und im Bau gebliebene Hunde dürfen unter Mitteilung an eine Wildhüterin oder einen Wildhüter oder an die Jagdverwaltung ausgegraben werden. Die Wildhüterin oder der Wildhüter kontrolliert die ordentliche Wiederherstellung des Baus.
+
+#### Art. 25
+
+**g) Mithilfe Dritter, Personen in Jagdausbildung**
+
+<sup>1</sup> Die Mithilfe von Drittpersonen ohne Jagdpatent ist unzulässig. Davon ausgenommen sind der Transport von Rucksäcken, Proviant, Kleidern und rechtmässig erlegtem Wild sowie das Führen von Hunden auf der Nachsuche.
+
+<sup>2</sup> Personen in Jagdausbildung dürfen als Begleiterinnen oder Begleiter auf die Jagd mitgehen und bei Treibjagden mitwirken. Sie dürfen selbst keine Abschüsse tätigen.
+
+#### Art. 26
+
+**h) Eigentum an erlegtem Wild**
+
+<sup>1</sup> Das Wild, welches eine Jägerin oder ein Jäger rechtmässig erlegt hat, steht ihr oder ihm als Eigentum zu.
+
+<sup>2</sup> Fallwild und widerrechtlich getötetes Wild gehören dem Staat. Die Jagdpolizeiorgane ermitteln nach Möglichkeit die Todesursache.
+
+<sup>3</sup> Überfahrenes, vermähtes oder verendet aufgefundenes Wild ist den Jagdpolizeiorganen unverzüglich zu melden.
+
+#### Art. 27
+
+**i) Schadenersatz**
+
+<sup>1</sup> Das Departement Bau und Volkswirtschaft erlässt eine Liste über den bei widerrechtlichem Erlegen von Wild dem Staat geschuldeten Schadenersatz.
+
+<sup>2</sup> Die Ansätze gelten auch für das Reissen von Wild durch wildernde Hunde.
+
+## III. Jagdpolizei
+
+#### Art. 28
+
+**Jagdpolizeiorgane**
+
+<sup>1</sup> Zur Ausübung der Jagdpolizei sind berechtigt und verpflichtet:
+
+- a) die Jagdverwaltung;
+- b) die Wildhüterinnen und Wildhüter;
+- c) die nebenamtlichen Jagdaufseherinnen und Jagdaufseher;
+- d) die Kantonspolizei.
+
+<sup>2</sup> Den Jagdpolizeiorganen stehen die polizeilichen Befugnisse gemäss der Strafprozessordnung[^28-1] zu. Das Departement Bau und Volkswirtschaft erlässt die Pflichtenhefte.
+
+<sup>3</sup> Sie sind befugt, die grundsätzlich verbotenen Hilfsmittel[^28-2] anzuwenden.
+
+[^28-1]: bGS [321.1](https://ar.clex.ch/data/321.1/de)
+[^28-2]: Vgl. Art. 1 eidg. Jagdverordnung (SR [922.01](https://db.clex.ch/link/Bund/922.01/de))
+
+#### Art. 29
+
+**Massnahmen**
+
+<sup>1</sup> Die Jagdpolizeiorgane stellen ohne Rücksicht auf die Strafbarkeit einer bestimmten Person vorläufig sicher:
+
+- a) widerrechtlich eingefangene, gefangen gehaltene, erlegte, feilgebotene, erworbene, veräusserte oder transportierte Tiere;
+- b) verbotene Waffen und Fanggeräte;
+- c) für ein Jagddelikt verwendete Waffen und Fanggeräte.
+
+<sup>2</sup> Sie sorgen für eine artgerechte Haltung sichergestellter Tiere.
+
+#### Art. 30
+
+**Pflichten der Jägerinnen und Jäger**
+
+<sup>1</sup> Die Jagdberechtigten sind verpflichtet, die Bewilligungen auf sich zu tragen und den Jagdpolizeiorganen auf Verlangen vorzuweisen.
+
+<sup>2</sup> Abschüsse, zu denen die Jägerin oder der Jäger nicht berechtigt war, sind unverzüglich einer Wildhüterin oder einem Wildhüter oder der Jagdverwaltung zu melden.
+
+<sup>3</sup> Erfolglose Nachsuchen sind umgehend, spätestens jedoch gleichentags zu melden.
+
+<sup>4</sup> Des Weiteren sind die Bestimmungen in den jährlichen Jagdvorschriften zu beachten.
+
+## IV. Schutzmassnahmen
+
+#### Art. 31
+
+**Kantonale Jagdbanngebiete und Vogelreservate**
+
+<sup>1</sup> Als kantonale Jagdbanngebiete und Vogelreservate[^31-1] gelten:
+
+- a) der Gübsenpark in Herisau;
+- b) der Saumweiher in Herisau;
+- c) der Carl-Zürcher-Wald in Teufen.
+
+[^31-1]: Art. 11 eidg. Jagdgesetz (SR [922.0](https://db.clex.ch/link/Bund/922.0/de))
+
+#### Art. 32
+
+**Hege**
+
+<sup>1</sup> Die Hege umfasst im Wesentlichen:
+
+- a) Hegeabschüsse zur Gesunderhaltung des Wildbestandes;
+- b) die Kurzhaltung von Raubzeug und Raubwild;
+- c) den Schutz des Wildes vor unnatürlichem Abgang;
+- d) die Wildfütterung in Notzeiten;
+- e) die Rettung von Rehkitzen vor dem Mähtod;
+- f) die Äsungs- und Deckungsbeschaffung in Absprache mit den Grundeigentümerinnen und Grundeigentümern;
+- g) Massnahmen zur Verbesserung der Lebensräume (Biotop-Hege).
+
+<sup>2</sup> Sie ist von den Mitgliedern der Jagdorganisationen in der Regel persönlich zu leisten.
+
+#### Art. 33
+
+**Wildernde Hunde und Katzen**
+
+<sup>1</sup> Wildernde Hunde und Katzen können von den Jagdpolizeiorganen entschädigungslos abgeschossen werden.
+
+#### Art. 34
+
+**Halten von wildlebenden Tieren**
+
+<sup>1</sup> Das Aufziehen und Halten von wildlebenden Tieren bedarf einer Bewilligung der Kantonstierärztin oder des Kantonstierarztes[^34-1].
+
+[^34-1]: Vgl. Art. 10 Tierschutzverordnung (bGS [422.2](https://ar.clex.ch/data/422.2/de))
+
+#### Art. 35
+
+**Präparieren geschützter Tiere**
+
+<sup>1</sup> Das Präparieren von geschützten Tieren oder von Teilen derselben ist der Jagdverwaltung zu melden.
+
+#### Art. 36
+
+**Störungen des Lebensraumes**
+
+<sup>1</sup> Die Jagdpolizeiorgane wachen zusammen mit den Forstorganen über die Einhaltung der zum Schutze der Lebensräume des Wildes erlassenen Vorschriften.
+
+<sup>2</sup> Störende Veranstaltungen bedürfen einer Bewilligung nach Art. 8 der kantonalen Waldverordnung[^36-1].
+
+<sup>3</sup> Weidzäune für Vieh dürfen den Wildwechsel nicht übermässig beeinträchtigen. Flexible Maschenzäune sind nach dem Abweiden der Wiesfläche innert acht Tagen zu entfernen.
+
+[^36-1]: (bGS [931.11](https://ar.clex.ch/data/931.11/de))
+
+#### Art. 37
+
+**Wildruhezonen; Förderung der Lebensräume**
+
+<sup>1</sup> Das Departement Bau und Volkswirtschaft unterbreitet dem Regierungsrat nach Absprache mit den betroffenen Amtsstellen Vorschläge für die Ausscheidung von Wildruhezonen.
+
+<sup>2</sup> Es koordiniert Massnahmen für den Schutz, die Vernetzung und die Verbesserung der Lebensräume von Wildtieren.
+
+#### Art. 38
+
+**Wildgerechte Waldbewirtschaftung**
+
+<sup>1</sup> Bei der Pflege und Nutzung des Waldes ist neben der Einhaltung der Grundsätze von Art. 16 des kantonalen Waldgesetzes[^38-1] auch auf eine wildgerechte Waldbewirtschaftung mit hinreichenden Äsungs- und Deckungsmöglichkeiten für freilebende Wildtiere zu achten.
+
+[^38-1]: bGS [931.1](https://ar.clex.ch/data/931.1/de)
+
+#### Art. 39
+
+**Wildschaden a) Verhütung**
+
+<sup>1</sup> Der Forstdienst trifft in Zusammenarbeit mit den Jagdorganen geeignete Massnahmen zur Verhütung von Wildschaden.
+
+<sup>2</sup> Das Amt für Raum und Wald entscheidet über Gesuche zur Unterstützung von Massnahmen Dritter.
+
+#### Art. 40
+
+**b) Entschädigung**
+
+<sup>1</sup> Gesuche um Entschädigung von Wildschaden sind zuhanden der Wildschadenkommission beim Amt für Raum und Wald einzureichen.
+
+#### Art. 41
+
+**Erlaubte Selbsthilfe a) Grundsatz**
+
+<sup>1</sup> Ausserhalb der Schonzeiten[^41-1] dürfen Dachse, Füchse, Marder, Sperlinge, Krähen und Elstern erlegt werden, wenn sie Privateigentum beschädigen oder unmittelbar bedrohen.
+
+<sup>2</sup> Zur Selbsthilfe berechtigt ist die Eigentümerin oder der Eigentümer, die Mieterin oder der Mieter oder die Pächterin oder der Pächter der Liegenschaft. Sie oder er kann sie, sofern sie oder er über die nötigen Kenntnisse und Fähigkeiten verfügt, selbst ausüben oder sich der Hilfe einer oder eines Jagdberechtigten oder der Jagdpolizeiorgane bedienen.
+
+<sup>3</sup> Die oder der Jagdberechtigte, welche oder welcher zur Selbsthilfe beigezogen wird, meldet dies zum Voraus einer Wildhüterin oder einem Wildhüter oder der Jagdverwaltung.
+
+[^41-1]: Vgl. Art. 5 eidg. Jagdgesetz (SR [922.0](https://db.clex.ch/link/Bund/922.0/de))
+
+#### Art. 42
+
+**b) Ausübung**
+
+<sup>1</sup> Die Selbsthilfe darf nur innerhalb der betroffenen Liegenschaft ausgeübt werden.
+
+<sup>2</sup> Im Wald und auf Weiden ist sie unzulässig.
+
+<sup>3</sup> Bei Abschüssen ist eine Höchstdistanz von 35 Metern einzuhalten.
+
+#### Art. 43
+
+**c) Mittel**
+
+<sup>1</sup> Zum Abschuss von Dachs, Fuchs und Marder dürfen nur Schrotflinten, zum Abschuss von Sperlingen, Krähen und Elstern auch Flobertwaffen verwendet werden.
+
+<sup>2</sup> Die Verwendung von Kastenfallen ist zulässig. Sie sind täglich zu kontrollieren.
+
+<sup>3</sup> Die Anwendung der für die Jagd verbotenen Hilfsmittel[^43-1] ist untersagt.
+
+<sup>4</sup> Das Beködern von Kastenfallen ist im Rahmen der Selbsthilfe gegen Marder gestattet. Andere Beköderungen sind verboten.
+
+[^43-1]: Art. 2 eidg. Jagdverordnung (SR [922.01](https://db.clex.ch/link/Bund/922.01/de))
+
+#### Art. 44
+
+**d) Meldepflicht**
+
+<sup>1</sup> Die Erlegung von Haarraubwild ist unverzüglich der Wildhut oder der Jagdverwaltung zu melden.
+
+## V. Fähigkeitsausweis für die Ausübung der Jagd
+
+#### Art. 45
+
+**Fähigkeitsausweis**
+
+<sup>1</sup> Das Departement Bau und Volkswirtschaft gibt Fähigkeitsausweise für Jägerinnen und Jäger ab. Die Erteilung des Fähigkeitsausweises setzt eine erfolgreich bestandene Prüfung voraus.
+
+<sup>2</sup> Das Departement Bau und Volkswirtschaft kann ausserkantonale oder im angrenzenden Ausland erworbene Fähigkeitsausweise ganz oder teilweise anerkennen.
+
+#### Art. 46
+
+**Jagdprüfungskommission**
+
+<sup>1</sup> Das Präsidium der Jagdprüfungskommission wird durch die Vorsteherin oder den Vorsteher der Jagdverwaltung ausgeübt.
+
+<sup>2</sup> Die Jagdprüfungskommission hat in voller Besetzung zu tagen. Das Departement Bau und Volkswirtschaft ernennt nötigenfalls Ersatzmitglieder für einzelne Prüfungen.
+
+<sup>3</sup> Die Mitglieder der Jagdprüfungskommission treten bei Befangenheit in den Ausstand[^46-1].
+
+[^46-1]: Vgl. Art. 8 G über die Verwaltungsrechtspflege (bGS [143.1](https://ar.clex.ch/data/143.1/de))
+
+#### Art. 47
+
+**Jagdverwaltung**
+
+<sup>1</sup> Die Jagdverwaltung sorgt für die Vorbereitung der Prüfungen.
+
+<sup>2</sup> Sie ist namentlich zuständig für:
+
+- a) den Entscheid über die Zulassung zur Prüfung;
+- b) die Festlegung der Prüfungstermine;
+- c) die Protokollierung der Sitzungen der Prüfungskommission;
+- d) die Aufbewahrung der Prüfungsdaten.
+
+#### Art. 48
+
+**Anmeldung und Zulassung**
+
+<sup>1</sup> Wer sich um den Fähigkeitsausweis bewirbt, hat sich schriftlich und unter Beilage eines Auszuges aus dem schweizerischen Zentralstrafregister bei der Jagdverwaltung anzumelden.
+
+<sup>2</sup> Zur Prüfung zugelassen wird, wer das 17. Altersjahr vollendet und die Prüfungsgebühr bezahlt hat.
+
+<sup>3</sup> Personen, gegen die ein Verweigerungsgrund gemäss Art. 16 des Gesetzes besteht, werden nicht zugelassen.
+
+<sup>4</sup> Personen mit Wohnsitz in einem andern Kanton, mit welchem die gegenseitige Anerkennung der Fähigkeitsausweise vereinbart worden ist, werden nur im Einverständnis mit der Jagdbehörde des Wohnsitzkantons zur Prüfung zugelassen.
+
+<sup>5</sup> Personen, die inner- und ausserhalb des Kantons eine Eignungsprüfung nicht bestanden haben, können erst nach einer Wartefrist von einem Jahr zu einer neuen Prüfung antreten.
+
+#### Art. 49
+
+**Prüfungsteile**
+
+<sup>1</sup> Die Prüfung umfasst zwei Prüfungsteile.
+
+<sup>2</sup> Wer den ersten Prüfungsteil nicht vollständig besteht, wird zum zweiten Teil nicht zugelassen.
+
+#### Art. 50
+
+**Erster Prüfungsteil a) Fächer**
+
+<sup>1</sup> Der erste Prüfungsteil umfasst folgende Fächer:
+
+- a) Waffen, Munition, Optik;
+- b) Waffenhandhabung;
+- c) Schiessen.
+
+<sup>2</sup> Er besteht aus einer Schiess- und einer Theorieprüfung.
+
+<sup>3</sup> Wer die Schiessprüfung nicht besteht, wird zur Theorieprüfung nicht zugelassen.
+
+#### Art. 51
+
+**b) Waffen und Munition**
+
+<sup>1</sup> Bei der Schiessprüfung sind alle nach Art. 20 und 21 erlaubten Waffen und Munitionsarten sowie die üblichen Hilfsmittel wie Zielfernrohr und Diopter zugelassen.
+
+<sup>2</sup> Die Schrotpatronen sind auf dem Jagdschiessstand nach den Weisungen der Prüfungskommission zu erwerben.
+
+#### Art. 52
+
+**c) Schiessprogramm**
+
+<sup>1</sup> Für den Kugelschuss gilt folgendes Programm:
+
+- a) Scheibe: Stehender Bock, internationale Rehscheibe, 10er-Einteilung;
+- b) Distanz: 100 Meter;
+- c) Stellung: Wahlweise liegend frei oder sitzend, knieend, stehend angestrichen;
+- d) Anzahl Schüsse: 5;
+- e) Mindestpunktzahl: 42.
+
+<sup>2</sup> Für den Schrotschuss gilt folgendes Programm:
+
+- a) Scheibe: Dreiteilige Kipphasenanlage;
+- b) Distanz: 35 Meter;
+- c) Stellung: Stehend frei;
+- d) Munition: 3,5 mm Schrotdurchmesser;
+- e) Anzahl Schüsse: 10, ohne Probeschüsse;
+- f) Mindesttreffer: Mindestens 7 Schüsse. Als Treffer zählen 2 oder 3 geöffnete Kipphasenklappen.
+
+<sup>3</sup> Der Laufhase ist selbständig abzurufen. Wird die Schussabgabe verpasst, weil irrtümlich das Gewehr gesichert war, kann der Schuss nachgeholt werden.
+
+#### Art. 53
+
+**Zweiter Prüfungsteil**
+
+<sup>1</sup> Der zweite Prüfungsteil umfasst folgende Fächer:
+
+- a) Jagdgesetzgebung;
+- b) Wildtierbiologie;
+- c) Wildtierökologie;
+- d) Wildtiermanagement;
+- e) Das jagdliche Handwerk;
+- f) Wildbretverwertung;
+- g) Jagdhunde;
+- h) Wildtierkrankheiten.
+
+<sup>2</sup> Die Prüfung dauert mindestens zwei und höchstens sechs Stunden.
+
+#### Art. 54
+
+**Bewertung**
+
+<sup>1</sup> Die Leistungen in den einzelnen Fächern werden wie folgt bewertet:
+
+<table>
+<tr><th>Beurteilung</th><th>Note</th></tr>
+<tr><td>sehr gut</td><td>6</td></tr>
+<tr><td>gut</td><td>5</td></tr>
+<tr><td>genügend</td><td>4</td></tr>
+<tr><td>ungenügend</td><td>3</td></tr>
+<tr><td>schwach</td><td>2</td></tr>
+<tr><td>sehr schwach</td><td>1</td></tr>
+</table>
+
+<sup>2</sup> Zwischennoten sind zulässig.
+
+#### Art. 55
+
+**Ergebnis**
+
+<sup>1</sup> Die Prüfung hat bestanden, wer in allen Fächern wenigstens eine genügende Note erreicht hat.
+
+<sup>2</sup> Liegt pro Prüfungsteil in einem Fach eine ungenügende Note vor, so kann die Prüfung in diesem Fach innert einem Jahr wiederholt werden. Das Schiessen kann nur am Prüfungstag selbst einmal wiederholt werden.
+
+#### Art. 56
+
+**Gebühren**
+
+<sup>1</sup> Für die Prüfungen werden folgende Gebühren erhoben:
+
+- a) Prüfung in allen Fächern — Fr. 350.–;
+- b) Teilprüfung gemäss Art. 45 Abs. 2 — Fr. 250.–;
+- c) Nachprüfung — Fr. 200.–.
+
+<sup>2</sup> Die Prüfungsgebühr wird zurückerstattet, wenn die Anmeldung noch vor der Schiessprüfung zurückgezogen wird.
+
+#### Art. 57
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Entscheide der Jagdverwaltung über die Zulassung zur Prüfung steht der Rekurs an das Departement Bau und Volkswirtschaft offen.
+
+<sup>2</sup> Gegen Entscheide der Jagdprüfungskommission steht der Rekurs an den Regierungsrat offen. Es können nur Rechtsfehler gerügt werden; die Rüge der Unangemessenheit ist ausgeschlossen.
+
+## VI. Schlussbestimmung
+
+#### Art. 58
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt unter Vorbehalt der Genehmigung durch den Bund zusammen mit dem Gesetz in Kraft.
+
+<sup>2</sup> Mit ihrem Inkrafttreten wird die Verordnung vom 1. März 1994 über den Fähigkeitsausweis für die Ausübung der Jagd[^58-1] aufgehoben.
+
+[^58-1]: bGS 526.212 (lf. Nr. 476)
+
+Lf. Nr. / Abl. 834
