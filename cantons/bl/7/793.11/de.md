@@ -1,0 +1,219 @@
+---
+canton: BL
+number: "793.11"
+title: Verordnung zum Archäologiegesetz
+short: ArchVo
+language: de
+version: 2005-11-01
+version_adopted: 2005-11-22
+adopted: 2005-11-22
+in_force: 2005-11-01
+url: "https://bl.clex.ch/app/de/texts_of_law/793.11"
+pdf: "https://bl.clex.ch/api/de/versions/3308/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung zum Archäologiegesetz
+
+(ArchVo)
+
+Vom 22.11.2005 (Stand 01.11.2005)
+
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Kantonsverfassung vom 17. Mai 1984[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+
+## 1 Römerstadt Augusta Raurica
+
+#### § 1
+
+**Gebiet**
+
+<sup>1</sup> Das Gebiet der ehemaligen Römerstadt Augusta Raurica liegt innerhalb des antiken Stadtperimeters.
+
+<sup>2</sup> Gemäss Anhang zu dieser Verordnung erstreckt sich das Gebiet der ehemaligen Römerstadt im Kanton Basel-Landschaft nordostseits dem Violenbach entlang bis hin zur Autobahn A2/A3. Danach verläuft der Stadtperimeter südlich der Autobahn (in etwa der Wölferstrasse) entlang bis zur Einmündung Sichelenstrasse, von da aus westlich als Verbindungslinie an den Tempelhof, danach ungefähr entlang des Tempelhofweges. Bei der Flur «Obermüli» verläuft der Perimeter, die Flur umgreifend, westwärts an den Ergolzlauf bis zur Mündung des Violenbachs.
+
+## 2 Raumplanerische Massnahmen
+
+#### § 2
+
+**Nutzungsplanung**
+
+<sup>1</sup> Kanton und Gemeinden scheiden im Rahmen der Nutzungsplanung für ortsfeste archäologische Schutzobjekte archäologische Schutzzonen aus.
+
+<sup>2</sup> Schutzzweck, Schutzmassnahmen und Nutzungsmöglichkeiten sind in den Nutzungsplanungen festzulegen.
+
+<sup>3</sup> In Bauzonen ist im Rahmen der Nutzungsplanung für Schutzzonen zur Erhaltung ortsfester archäologischer Schutzobjekte folgende Abstufung anzustreben:
+
+- a. Schutzzonen, die der archäologischen Forschung vorbehalten sind. Nutzungen sowie Bauten und Anlagen, welche dieser Zielsetzung widersprechen, sind untersagt.
+- b. Schutzzonen, welche eine Bautätigkeit ohne wesentlichen Eingriff in die archäologische Substanz zulassen (Bauen über den Ruinen).
+- c. Schutzzonen, in welchen konventionelles Bauen je nach Ergebnis einer durchzuführenden archäologischen Untersuchung zulässig ist.
+
+## 3 Gefährdungs- und Zerstörungsverbot
+
+#### § 3
+
+**Bewilligungspflicht**
+
+<sup>1</sup> Für archäologische Stätten, Zonen und bewegliche Objekte besteht ein Gefährdungs- und Zerstörungsverbot. Davon ausgenommen sind archäologische Untersuchungen.
+
+<sup>2</sup> Eingriffe, welche zu Veränderungen, Zerstörungen oder Gefährdungen archäologischer Substanz führen, bedürfen einer Archäologiebewilligung (§ 5 Abs. 1 des Archäologiegesetzes vom 11. Dezember 2002[^3-1] ArchG). Dies gilt insbesondere auch für Nutzungsänderungen jeder Art bei geschützten archäologischen Stätten und Zonen (§ 5 Abs. 2 ArchG).
+
+[^3-1]: [SGS 793](https://bl.clex.ch/data/793/de)
+
+#### § 4
+
+**Einfache Anfrage**
+
+<sup>1</sup> Ausserhalb des Baubewilligungsverfahrens gibt die Fachstelle auf begründetes Gesuch hin darüber schriftlich Auskunft, ob für eine bestimmte Nutzung auf einer Parzelle die Erteilung einer Archäologiebewilligung in Frage kommt.
+
+<sup>2</sup> Der Aufwand für die Auskunftserteilung beschränkt sich in der Regel auf eine Archivrecherche.
+
+#### § 5
+
+**Landwirtschaftliche Nutzung**
+
+<sup>1</sup> Die landwirtschaftliche Nutzung im Rahmen der Fruchtfolgebewirtschaftung ist von der Bewilligungspflicht ausgenommen, sofern:
+
+- a. der Boden nicht tiefer als 20 cm bearbeitet wird und
+- b. die Bodenbearbeitung die Anforderungen an den ökologischen Leistungsnachweis gemäss der Verordnung über die Direktzahlungen an die Landwirtschaft[^5-1] (Düngung, Bodenschutz, Schädlingsbekämpfung usw.) erfüllt.
+
+<sup>2</sup> Jede andere Bewirtschaftung bedarf nach Rücksprache mit dem Ebenrain-Zentrum für Landwirtschaft, Natur und Ernährung («dem Ebenrain») einer Archäologiebewilligung.
+
+[^5-1]: [SR 910.13](https://db.clex.ch/link/Bund/910.13/de)
+
+#### § 6
+
+**Bewilligungserteilung**
+
+<sup>1</sup> Ob die Bewilligung erteilt werden kann, richtet sich nach der wissenschaftlich-archäologischen Bedeutung der archäologischen Substanz, in die eingegriffen werden soll.
+
+<sup>2</sup> Sie ist auch möglich, wenn eine archäologische Stätte, eine archäologische Zone oder ein bewegliches archäologisches Objekt den Grad eines Schutzobjekts erreicht.
+
+<sup>3</sup> Wurden zur Erhaltung ortsfester archäologischer Schutzobjekte Schutzzonen ausgeschieden, bestimmt die Nutzungsplanung die Eingriffsmöglichkeiten in die archäologische Substanz.
+
+#### § 7
+
+**Bewilligungsinstanz**
+
+<sup>1</sup> Bewilligungsinstanz ist das Amt für Kultur.
+
+#### § 8
+
+**Unterhaltsarbeiten im Tiefbau**
+
+<sup>1</sup> Werden im Bereich geschützter archäologischer Stätten oder Zonen im Rahmen des Tiefbaus Unterhaltsarbeiten mit Eingriffen in das Erdreich vorgenommen, haben das Tiefbauamt und die Gemeinden hierüber die Fachstelle rechtzeitig zu orientieren und diese im Rahmen der Projektierung zur Vernehmlassung einzuladen.
+
+## 4 Baueinsprachen
+
+#### § 9
+
+**Einsprache**
+
+<sup>1</sup> Die Fachstelle erhebt bei baubewilligungspflichtigen Bauten und Anlagen im Rahmen des Baugesuchsverfahrens Einsprache gegen Bauvorhaben, von denen bekannt oder zu vermuten ist, dass sie archäologische Stätten oder Zonen berühren oder beeinträchtigen.
+
+#### § 10
+
+**Bauvorhaben und archäologische Untersuchung**
+
+<sup>1</sup> Die Fachstelle kann bis spätestens 30 Tage nach der Einspracheerhebung die Einplanung einer archäologischen Untersuchung auf Kosten des Kantons in das Bauvorhaben verlangen.
+
+<sup>2</sup> Sie teilt innert dieser Frist der Baubewilligungsbehörde mit:
+
+- a. mit welchen Grabungsmassnahmen zu rechnen ist und
+- b. innert welcher Frist die Grabungen ausgeführt werden.
+
+#### § 11
+
+**Verzicht auf archäologische Untersuchung**
+
+<sup>1</sup> Auf die Durchführung einer archäologischen Untersuchung kann verzichtet werden, wenn:
+
+- a. ein Bauvorhaben in einer archäologischen Schutzzone gemäss § 2 Abs. 3 Bst. a oder b dieser Verordnung liegt und
+- b. das Vorliegen erhaltenswerter archäologischer Substanz bekannt ist.
+
+<sup>2</sup> Wird auf eine archäologische Untersuchung verzichtet, beantragt die Fachstelle der Baubewilligungsbehörde die Abweisung des Baugesuches oder die Erteilung der Baubewilligung mit Auflagen.
+
+#### § 12
+
+**Vorgängige archäologische Untersuchung (ohne Baubewilligung)**
+
+<sup>1</sup> Erfolgt die Zusicherung, dass eine archäologische Untersuchung vor Baubeginn durchgeführt werden kann, zieht die Fachstelle im Baubewilligungsverfahren die Einsprache zurück.
+
+<sup>2</sup> Je nach Befund der archäologischen Untersuchung weist die Fachstelle die Baubewilligungsbehörde an, die Baubewilligung mit oder ohne Auflagen zu erteilen oder zu verweigern. Vorher darf die Baubewilligung nicht erteilt werden.
+
+#### § 13
+
+**Baubegleitende archäologische Untersuchung (mit Teilbaubewilligung)**
+
+<sup>1</sup> Wird die archäologische Untersuchung baubegleitend mit den Aushubarbeiten durchgeführt, bedarf es einer Teilbaubewilligung nach den Bestimmungen des Raumplanungs- und Baugesetzes.
+
+<sup>2</sup> Die Baubewilligungsbehörde erteilt die Teilbaubewilligung auf Antrag der Bauherrschaft.
+
+<sup>3</sup> Zuvor orientiert sie die Bauherrschaft schriftlich über den Stand des Baubewilligungsverfahrens.
+
+<sup>4</sup> Fördert die archäologische Untersuchung keine erhaltenswerte archäologische Substanz zu Tage, zieht die Fachstelle die Einsprache zurück und weist die Baubewilligungsbehörde an, die Baubewilligung aus archäologischer Sicht zu erteilen.
+
+<sup>5</sup> Fördert die archäologische Untersuchung erhaltenswerte archäologische Substanz zutage, zieht die Fachstelle:
+
+- a. die Einsprache zurück und weist die Baubewilligungsbehörde an, die Baubewilligung unter Auflagen zu erteilen; oder
+- b. sie weist die Baubewilligungsbehörde an, in Gutheissung der Einsprache das Baugesuch abzuweisen.
+
+#### § 14
+
+**Baubegleitende, etappierte archäologische Untersuchung (mit Baubewilligung)**
+
+<sup>1</sup> Dient eine archäologische Untersuchung lediglich Dokumentationszwecken, kann diese baubegleitend und etappenweise durchgeführt werden.
+
+<sup>2</sup> Liegt hierfür die Zustimmung der Bauherrschaft schriftlich vor, zieht die Fachstelle die Einsprache zurück und weist die Baubewilligungsbehörde an, die Baubewilligung mit der entsprechenden Auflage zu versehen.
+
+#### § 15
+
+**Koordination**
+
+<sup>1</sup> Die Baubewilligungsbehörde sorgt für die Koordination der Verfahrensabläufe.
+
+#### § 16
+
+**Archäologische Untersuchungen bei Tiefbauten**
+
+<sup>1</sup> Bei Tiefbauten (Neu- oder Erweiterungsbauten) kann die Fachstelle im Rahmen des Auflage- und Einspracheverfahrens die vorgängige oder baubegleitende Durchführung einer archäologischen Untersuchung verlangen.
+
+<sup>2</sup> Führen archäologische Untersuchungen zu positiven Befunden, ist den Ergebnissen bei der Projektrealisierung so weit wie möglich Rechnung zu tragen.
+
+## 5 Inventar der geschützten archäologischen Stätten und Zonen
+
+#### § 17
+
+**Verfahren**
+
+<sup>1</sup> Die Fachstelle beantragt dem Regierungsrat die Aufnahme einer archäologischen Stätte oder Zone in das Inventar mit den dazugehörigen Schutzvorkehrungen und Nutzungsbeschränkungen.
+
+#### § 18
+
+**Anmerkung im Grundbuch**
+
+<sup>1</sup> Die grundbuchliche Anmerkung «geschützter archäologischer Stätten» oder «geschützter archäologischer Zonen» ist lediglich im Falle der Inventaraufnahme vorzunehmen.
+
+## 6 Schlussbestimmungen
+
+#### § 19
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Regierungsratsverordnung vom 27. Mai 1980[^19-1] über die administrative Behandlung von Baugesuchen im Gebiet Augusta Raurica wird aufgehoben.
+
+[^19-1]: GS 27.472, SGS 405
+
+#### § 20
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. November 2005 in Kraft.
+
+GS 35.0747

@@ -1,0 +1,266 @@
+---
+canton: BL
+number: "782"
+title: Gesetz über den Gewässerschutz
+language: de
+version: 2014-01-01
+valid_until: 2022-12-31
+version_adopted: 2013-02-07
+adopted: 2003-06-05
+in_force: 2005-01-01
+url: "https://bl.clex.ch/app/de/texts_of_law/782"
+pdf: "https://bl.clex.ch/api/de/versions/213/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über den Gewässerschutz
+
+Vom 05.06.2003 (Stand 01.01.2014)
+
+Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 112 und 113 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], beschliesst:[^ingress-2]
+
+[^ingress-1]: GS 29.276, SGS 100
+[^ingress-2]: In der Volksabstimmung vom 30. November 2003 angenommen.
+
+## 1 Allgemeine Bestimmungen
+
+#### § 1
+
+**Zweck**
+
+<sup>1</sup> Dieses Gesetz bezweckt den Vollzug des Bundesrechts über den Gewässerschutz. Es regelt insbesondere die Aufgabenverteilung zwischen Kanton, Gemeinden und Kläranlagenbetreibern.
+
+#### § 2
+
+**Zusammenarbeit**
+
+<sup>1</sup> Der Kanton arbeitet beim Gewässerschutz mit den Gemeinden, den Nachbarkantonen und dem angrenzenden Ausland zusammen. Er informiert die Gemeinden und die Nachbarn über sie betreffende Angelegenheiten und sorgt wenn nötig für die Koordination.
+
+## 2 Abwasser
+
+#### § 3
+
+**Entwässerungsplanung**
+
+<sup>1</sup> Der Kanton erstellt in Zusammenarbeit mit den Gemeinden soweit notwendig Regionale Entwässerungspläne (REP). Die REP dienen als Grundlage und Rahmen für die Generellen Entwässerungspläne (GEP) der Gemeinden sowie für die Abwasseranlagen der Kläranlagenbetreiber. Die REP sind behördenverbindlich.
+
+<sup>2</sup> Die Gemeinden erstellen - abgestimmt auf den REP - einen Generellen Entwässerungsplan (GEP) auf der Stufe eines Entwässerungskonzepts. Der Landrat regelt im Dekret die Anforderungen an den GEP.
+
+<sup>3</sup> Für grössere Industrie- und Gewerbezonen können die Gemeinden ihre Kompetenz zur Erstellung des GEP den betroffenen Unternehmen übertragen. Dazu ist die Zustimmung des Kantons erforderlich.
+
+<sup>4</sup> Der Generelle Entwässerungsplan bedarf der Genehmigung durch den Regierungsrat.
+
+<sup>5</sup> Mit der Genehmigung des GEP wird das Enteignungsrecht für die Erstellung der darin vorgesehenen Anlagen gewährt. Die Gemeinde kann das Enteignungsrecht an Dritte übertragen, welche in Wahrnehmung einer öffentlichen Aufgabe die im GEP enthaltenen Anlagen realisieren.
+
+<sup>6</sup> Die Kläranlagenbetreiber erwerben das Land für die Erstellung ihrer Abwasseranlagen gestützt auf die Entwässerungsplanung in der Regel selbst. Ist dies nicht möglich oder sinnvoll, erwirbt der Kanton das Land oder stellt Land zur Verfügung und räumt den Kläranlagenbetreibern ein unselbständiges Baurecht ein.
+
+#### § 4
+
+**Nicht verschmutztes Abwasser**
+
+<sup>1</sup> Die Gemeinden sorgen dafür, dass nicht verschmutztes Abwasser entsprechend dem GEP versickert oder abgeleitet wird.
+
+<sup>2</sup> Die Gemeinden erstellen und betreiben die dazu notwendigen Entwässerungssysteme mit den erforderlichen Bauten und Anlagen.
+
+<sup>3</sup> Die Gemeinden sind im Rahmen des GEP zuständig für die Erteilung von Bewilligungen:
+
+- a. zur Einleitung von nicht verschmutztem Abwasser in ein oberirdisches Gewässer, soweit nicht die kantonale Fachstelle für Wasserbau zuständig ist;
+- b. für Versickerungen;
+- c. für die ausnahmsweise Zuleitung von stetig anfallendem, nicht verschmutztem Abwasser (Fremdwasser) in eine Abwasserreinigungsanlage gemäss Artikel 12 Absatz 3 GSchG[^4-1].
+
+<sup>4</sup> Der Regierungsrat legt in der Verordnung die Rahmenbedingungen für die Bewilligung von Versickerungen fest.
+
+<sup>5</sup> Die Gemeinden halten die Versickerungsanlagen in einem Kataster fest.
+
+[^4-1]: SR 814.20
+
+#### § 5
+
+**Verschmutztes Abwasser: Aufgaben der Gemeinden, der Grundeigentümer und -eigentümerinnen**
+
+<sup>1</sup> Die Gemeinden sorgen für die Sammlung des im Bereich der öffentlichen Kanalisation anfallenden verschmutzten Abwassers. Sie leiten es bis zum Sammelkanal des Kläranlagenbetreibers ab.
+
+<sup>2</sup> Die Gemeinden sorgen dafür, dass die erforderlichen Anlagen über die nötige hydraulische Kapazität verfügen sowie baulich und betrieblich unterhalten werden.
+
+<sup>3</sup> Die Grundeigentümerinnen und -eigentümer erstellen, betreiben und erneuern die Ableitungen zur öffentlichen Kanalisation. Sie sorgen dafür, dass diese dicht sind.
+
+<sup>4</sup> Hat eine Gemeinde die Kompetenz zur Erstellung des GEP nach § 3 Absatz 3 den betroffenen Unternehmen übertragen, kann sie diese auch mit der Sammlung und Ableitung des Abwassers beauftragen.
+
+#### § 6
+
+**Verschmutztes Abwasser: Reinigung**
+
+<sup>1</sup> Die Kläranlagenbetreiber sorgen für die Ableitung des verschmutzten Abwassers in ihren Kanälen zu den Abwasserreinigungsanlagen, für die Reinigung des Abwassers sowie für die Verwertung oder Entsorgung der Rückstände. Bau-, Betrieb und Unterhalt künftiger Mischwasserbehandlungsanlagen (Mischwasserbecken) im gesamten Abwassernetz sind Sache der Kläranlagenbetreiber.
+
+<sup>2</sup> Der Kanton sorgt dafür, dass Abwasser den Anforderungen des Bundesrechtes für die Einleitung in die öffentliche Kanalisation oder in ein Gewässer entspricht.
+
+<sup>3</sup> Der Kanton sorgt dafür, dass Abwasser, das ausserhalb des Bereichs öffentlicher Kanalisationen anfällt, auf umweltverträgliche Art behandelt wird.
+
+<sup>4</sup> Der Regierungsrat kann den Bau, den Betrieb und die Erneuerung der Abwasseranlagen Dritten übertragen.
+
+<sup>5</sup> Der Regierungsrat legt in der Verordnung im Rahmen des Bundesrechts die Anforderungen an die Abwasserqualität für die Einleitung in die Kläranlagen und die Gewässer fest.
+
+#### § 7
+
+**Anschluss an die öffentliche Kanalisation**
+
+<sup>1</sup> Die Gemeinden erteilen die Bewilligungen zum Anschluss an die Ableitsysteme für Abwasser. Sie legen darin die bautechnischen Auflagen und Bedingungen fest. Vorbehalten bleiben Auflagen und Bedingungen des Kantons zur Sicherstellung der erforderlichen Abwasserqualität.
+
+<sup>2</sup> Hat eine Gemeinde die Sammlung und Ableitung des Abwassers nach § 3 Absatz 3 den betroffenen Unternehmen übertragen, so erteilt der Kanton die Bewilligungen zum Anschluss.
+
+#### § 8
+
+**Betriebe mit Nutztierhaltung**
+
+<sup>1</sup> Der Kanton überwacht die Betriebe mit Nutztierhaltung, insbesondere die Verwertung des Hofdüngers sowie Zustand und Funktionstüchtigkeit der Abwasseranlagen, der Lagereinrichtungen, der technischen Aufbereitungsanlagen für Hofdünger und der Raufuttersilos.
+
+#### § 9
+
+**Kantonale Bewilligungen**
+
+<sup>1</sup> Eine Abwasserbewilligung des Kantons ist nötig für:
+
+- a. die Einleitung von Abwasser aus Abwasserreinigungsanlagen in ein Gewässer oder die Versickerung des gereinigten Abwassers;
+- b. die Einleitung von Abwasser, das einer Vorbehandlung unterzogen werden muss, in die öffentliche Kanalisation;
+- c. die Ableitung von Abwasser in eine Kläranlage, wenn dieses nicht über die öffentliche Kanalisation zugeführt wird;
+- d. die direkte Einleitung von Abwasser in ein Gewässer;
+- e. Bauten und Einrichtungen zur Lagerung von Hofdünger und häuslichen Abwässern, sofern dafür keine Baubewilligung notwendig ist.
+
+## 3 Schutz vor Gewässerverunreinigungen
+
+#### § 10
+
+**Schadendienst**
+
+<sup>1</sup> Der Kanton betreibt einen Pikett- und Fachdienst zum Schutze der Gewässer (kurz: Gewässerschutzpikett).
+
+<sup>2</sup> Zusammen mit spezifischen Stützpunktfeuerwehren bildet das Gewässerschutzpikett den Schadendienst für die Verhinderung und Bekämpfung von Gewässerverunreinigungen.
+
+#### § 11
+
+**Alarmierung, Schadenbekämpfung**
+
+<sup>1</sup> Wer eine Gewässerverunreinigung verursacht oder einen Zustand schafft, der zu einer Gewässerverunreinigung führen könnte, muss unverzüglich der Polizei Basel-Landschaft Meldung erstatten.
+
+<sup>2</sup> Die Verursacher und Verursacherinnen müssen die erforderlichen Massnahmen zur Vermeidung, Eindämmung und Behebung des Schadens treffen.
+
+<sup>3</sup> Wenn nötig kann die kantonale Behörde die erforderlichen Massnahmen selber treffen oder von Dritten durchführen lassen. Sie überbindet die Kosten dem Verursacher oder der Verursacherin.
+
+## 4 Kosten
+
+#### § 12
+
+**Kosten für Abwasserbeseitigung und Gewässerschutz (Kanton und Kläranlagenbetreiber)**
+
+<sup>1</sup> Der Kanton überbindet die Kosten für den Vollzug der Gewässerschutzgesetzgebung den Kläranlagenbetreibern.
+
+<sup>2</sup> Die Kläranlagenbetreiber überbinden diese Kosten zusammen mit denjenigen für Bau, Betrieb, Unterhalt, Sanierung und Ersatz der Abwasseranlagen den Gemeinden.
+
+<sup>3</sup> Die Berechnung richtet sich nach der in die Schmutzwasserkanalisation abgeleiteten Wassermenge.
+
+<sup>4</sup> Die Kläranlagenbetreiber überbinden einen Teil ihrer Kosten direkt den Industrie- und Gewerbebetrieben, welche Abwasser mit einer wesentlich höheren Schmutzstoffbelastung als jener des kommunalen Abwassers verursachen.
+
+<sup>5</sup> Der Regierungsrat regelt die Details der Absätze 3 und 4.
+
+#### § 13
+
+**Gebühren der Abwasserbeseitigung (Gemeinden)**
+
+<sup>1</sup> Die Gemeinden übertragen die ihnen beim Vollzug dieses Gesetzes entstehenden Kosten sowie die ihnen gemäss § 12 überbundenen Kosten auf die Abwasserlieferantinnen- und lieferanten in Form einer Gebühr.
+
+<sup>2</sup> Die Gebühren richten sich nach der Menge des in die Kanalisation eingeleiteten Abwassers. Diese richtet sich nach dem Wasserverbrauch. Regen- und Fremdwasser können dabei mitberücksichtigt werden. Weiter ist zu berücksichtigen,
+
+- a. dass erhebliche Frischwassermengen, die nachweislich nicht in die Schmutzwasserkanalisation eingeleiteten werden, bei der Gebührenerhebung abgezogen werden müssen;
+- b. das erhebliche Wassermengen, die nicht bezogen, aber nachweislich in die Schmutzwasserkanalisation eingeleitet werden, bei der Gebührenberechnung berücksichtigt werden müssen.
+
+<sup>3</sup> Eine Grundgebühr zur Finanzierung der laufenden Infrastrukturkosten kann bei der Gebührengestaltung eingeführt werden.
+
+<sup>4</sup> Die Gemeinden können die Kosten für die Erschliessung von Grundstücken durch die öffentliche Kanalisation (Schmutz- und Sauberwasserleitung) in Form von Erschliessungsbeiträgen und Anschlussgebühren auf die Liegenschaftseigentümer und -eigentümerinnen überwälzen.
+
+#### § 14
+
+**Gebühren für Dienstleistungen**
+
+<sup>1</sup> Die kantonalen und kommunalen Behörden überbinden die aus dem Gewässerschutzgesetz entstehenden Kosten für Nachkontrollen, Bewilligungen, Schadendienst und besondere Dienstleistungen den Verursachenden oder Bestellenden.
+
+<sup>2</sup> Im Kanton bestimmt der Regierungsrat, in den Gemeinden die nach kommunalem Recht zuständige Behörde die Gebührenansätze.
+
+## 5 Beiträge an Abwasseranlagen ausserhalb der öffentlichen Kanalisation
+
+#### § 15
+
+<sup>1</sup> Der Kanton leistet Beiträge an die Erstellung der Abwasseranlagen von Bauten, die ausserhalb des Bereichs öffentlicher Kanalisationen liegen und beim Inkrafttreten dieses Gesetzes bereits bestehen.
+
+<sup>2</sup> Umnutzungen von Bauten und Anlagen, welche eine Bewilligung auslösen, sind von der Beitragsausrichtung ausgenommen.
+
+<sup>3</sup> Die Beiträge werden ausgerichtet für:
+
+- a. die Behandlung des Abwassers an Ort, insbesondere in Kleinkläranlagen, oder
+- b. die Ableitung des Abwassers in die öffentliche Kanalisation.
+
+<sup>4</sup> Die Beiträge werden ausgerichtet, wenn:
+
+- a. eine landwirtschaftliche Verwertung des häuslichen Abwassers unter den gegebenen Umständen nicht zulässig oder nicht zweckmässig ist;
+- b. das Vorhaben dem Stand der Technik entspricht;
+- c. die Kosten wesentlich höher sind als die durchschnittlichen Kosten für den Kanalisationsanschluss im Baugebiet der betreffenden Gemeinde.
+
+<sup>5</sup> Der Regierungsrat legt in der Verordnung die Berechnung und Höhe der Beiträge fest.
+
+<sup>6</sup> Die ausgerichteten Beiträge werden den Kläranlagenbetreibern belastet.
+
+## 6 Strafbestimmungen
+
+#### § 16
+
+<sup>1</sup> Mit Busse oder in schweren Fällen mit Busse bis 100'000 Fr. wird bestraft:
+
+- a. wer Abwasser, das einer Vorbehandlung unterzogen werden muss, ohne Bewilligung in die öffentliche Kanalisation (§ 9 Buchstabe b), in eine Kläranlage (§ 9 Buchstabe c) oder in ein Gewässer (§ 9 Buchstabe d) einleitet oder versickern lässt;
+- b. wer gegen die Pflicht zur Alarmierung und Schadenbekämpfung verstösst (§ 11).
+
+<sup>2</sup> Die Artikel 6 und 7 des Bundesgesetzes über das Verwaltungsstrafrecht[^16-1] gelten für strafbare Handlungen nach diesem Gesetz.
+
+[^16-1]: SR 313.0
+
+## 7 Schlussbestimmungen
+
+#### § 17
+
+**Änderungen des Gesetzes über den Wasserbau und die Nutzung der Gewässer**
+
+<sup>1</sup> Das Gesetz über den Wasserbau und die Nutzung der Gewässer vom 2. September 1974[^17-1] wird wie folgt geändert: ...[^17-2]
+
+[^17-1]: GS 25.653, SGS 445
+[^17-2]: GS 35.380
+
+#### § 18
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die Gemeinden erstellen bis Ende 2004 einen Generellen Entwässerungsplan, der dem Gewässerschutzrecht entspricht.
+
+<sup>2</sup> Die Gemeinden sorgen dafür, dass nicht verschmutztes Abwasser spätestens bei der Erneuerung der bestehenden Abwasseranlagen und bei Neuerschliessungen im Sinne des Gesetzes beseitigt wird.
+
+<sup>3</sup> Die Kläranlagenbetreiber erheben innert zwei Jahren nach Inkrafttreten dieser Revision die Grundlagen für die eingeleiteten Schmutz- und Fremdwassermengen. Die Gemeinden liefern die Angaben für die Schmutzwassermengen.
+
+<sup>4</sup> Die Überwälzung der Kosten gemäss § 12 erfolgt spätestens nach Ablauf der Frist gemäss Absatz 3 der Übergangsbestimmungen.
+
+<sup>5</sup> Der Kanton erstellt innert fünf Jahren nach Inkraftsetzung der Revision soweit notwendig Regionale Entwässerungspläne (REP).
+
+#### § 19
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Das Gesetz über den Gewässerschutz vom 18. April 1994[^19-1] wird aufgehoben.
+
+[^19-1]: GS 31.770, SGS 782
+
+#### § 20
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Regierungsrat bestimmt das Inkrafttreten dieses Gesetzes[^20-1].
+
+[^20-1]: Vom Regierungsrat am 14. Dezember 2004 auf den 1. Januar 2005 in Kraft gesetzt.
+
+GS 35.0375

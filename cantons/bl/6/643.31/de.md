@@ -1,0 +1,676 @@
+---
+canton: BL
+number: "643.31"
+title: Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
+language: de
+version: 2018-08-01
+valid_until: 2021-07-31
+version_adopted: 2018-05-15
+adopted: 2007-12-18
+in_force: 2007-08-01
+url: "https://bl.clex.ch/app/de/texts_of_law/643.31"
+pdf: "https://bl.clex.ch/api/de/versions/3052/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
+
+Vom 18.12.2007 (Stand 01.08.2018)
+
+Der Regierungsrat,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Abs. 1 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 640](https://bl.clex.ch/data/640/de/art88)
+
+## 1 Fachmittelschul-Ausweis
+
+#### § 1
+
+**Zweck der Prüfungen**
+
+<sup>1</sup> Durch die Prüfungen weisen sich die Schüler und Schülerinnen über die Erfüllung der im Lehrplan aufgeführten Lernziele sowie über die Reife, die der Besuch einer Höheren Fachschule erfordert, aus.
+
+#### § 2
+
+**Zeitpunkt der Prüfungen**
+
+<sup>1</sup> Die Abschlussprüfungen finden am Ende der Schulzeit statt.
+
+<sup>2</sup> Die Erstellung und die Präsentation der Selbständigen Arbeiten finden in den letzten beiden Ausbildungsjahren statt.
+
+#### § 3
+
+**Zulassung zu den Prüfungen**
+
+<sup>1</sup> Zu den Prüfungen zugelassen werden Schüler und Schülerinnen, welche die Schule wenigstens während der letzten 3 Semester regelmässig besucht haben. Die Schulleitung kann in besonderen Fällen Ausnahmen bewilligen.
+
+<sup>2</sup> Schüler und Schülerinnen, die aus gesundheitlichen Gründen nicht zu allen Prüfungen erscheinen können, haben dies umgehend mit einem Arztzeugnis zu belegen. Die Schulleitung legt die Termine der Nachholprüfungen fest.
+
+<sup>3</sup> Sind im letzten Schuljahr vor den Abschlussprüfungen nicht alle verlangten Prüfungen und Leistungen erbracht worden, kann die Schulleitung die Zulassung zu den Abschlussprüfungen verweigern.
+
+#### § 4
+
+**Koordination der Prüfungen**
+
+<sup>1</sup> Die Schulleitungskonferenz der Gymnasien (SLK) legt die Prüfungstermine der Fachmittelschule fest.
+
+#### § 5
+
+**Aufsicht über die Prüfungen**
+
+<sup>1</sup> Der Schulrat des jeweiligen Gymnasiums beaufsichtigt die Prüfungen.
+
+<sup>2</sup> Der Schulrat kann auf Antrag der Schulleitung die Rahmenbedingungen dieser Verordnung in angemessenem Umfang anpassen, um die Durchführung von Prüfungen mit internationalen Standards (Diplôme d'Etudes en Langue Française DELF, First Certificate etc.) zu ermöglichen.
+
+<sup>3</sup> Die SLK stellt sicher, dass:
+
+- a. an den einzelnen Gymnasien für die Prüfungen gemäss Abs. 2 gleichwertige Bedingungen herrschen;
+- b. der Prüfungsinhalt den Lehrplänen der vorangegangenen Ausbildung an der Fachmittelschule entspricht;
+- c. …
+
+#### § 5a
+
+**Ressortgruppen und Ressortleitung**
+
+<sup>1</sup> Die Schulleitungskonferenz setzt für jedes Fach, das an der Abschlussprüfung schriftlich geprüft wird, eine Ressortgruppe ein.
+
+<sup>2</sup> Die Ressortgruppe setzt sich aus einer Ressortleitung und aus je 1 Fachschaftsdelegierten pro basellandschaftlichem Fachmittelschul-Standort zusammen.
+
+<sup>3</sup> Die Fachschaftsdelegierten werden auf Vorschlag der Fachschaften von der Schulleitung in der Regel auf 2 Jahre ernannt.
+
+<sup>4</sup> Die Ressortleitung obliegt einer Fachperson des entsprechenden Schulfaches, welche über einen Hochschulabschluss sowie über Unterrichtserfahrung im entsprechenden Fach verfügt und nicht an einem basellandschaftlichen Gymnasium tätig ist. Sie wird von der Schulleitungskonferenz für eine Amtsperiode von 4 Jahren ernannt.
+
+<sup>5</sup> Die Ressortleitung beruft die Sitzungen der Ressortgruppe ein, leitet sie und organisiert die Arbeit der Ressortgruppe und erstattet nach Abschluss der Prüfungen der Schulleitungskonferenz Bericht.
+
+#### § 6
+
+**Prüfungsleitung, Examinatorinnen und Examinatoren, Expertinnen und Experten**
+
+<sup>1</sup> Die Prüfungsleitung obliegt der Schulleitung.
+
+<sup>1<sup>bis</sup></sup> Die Prüfungsleitung erteilt den Auftrag für die Erstellung der schriftlichen Abschlussprüfungen im Sinne der Harmonisierten Abschlussprüfungen an die beteiligten Fachschaften und entscheidet in Konfliktfällen.
+
+<sup>2</sup> Die Examinatoren und Examinatorinnen der Prüfungen sind die Lehrer und Lehrerinnen, die den abschliessenden Unterricht erteilt haben.
+
+<sup>3</sup> Die Prüfungsleitung bestimmt für jede mündliche oder praktische Fachprüfung eine aussenstehende Fachperson mit Hochschulabschluss im betreffenden Fach als Experten oder Expertin.
+
+#### § 7
+
+**Obligatorische Fächer und Noten**
+
+<sup>1</sup> Für den Prüfungserfolg sind die Noten in den folgenden Fächern sowie im Berufsfeld und in der Selbständigen Arbeit massgebend:
+
+- a. Deutsch;
+- b. Französisch;
+- c. Mathematik;
+- d. Englisch;
+- e. Biologie;
+- f. Sport;
+- g. Geschichte;
+- h. Geographie;
+- i. Bildnerisches Gestalten (Noten aus dem 2. Schuljahr);
+- j. Musik (Noten aus dem 2. Schuljahr);
+- k. Berufsfeld;
+- l. Selbständige Arbeit.
+
+#### § 8
+
+**Prüfungsfächer, Art und Dauer der Prüfungen**
+
+<sup>1</sup> Prüfungen finden in den folgenden Stammfächern statt:
+
+- a. Deutsch — 4 Std. schriftlich und 15 Min. mündlich;
+- b. Französisch — 3 Std. schriftlich und 15 Min. mündlich;
+- c. Mathematik — 3 Std. schriftlich und 15 Min. mündlich;
+- d. Englisch — 15 Min. mündlich;
+- e. Biologie — 15 Min. mündlich;
+- f. Geschichte — 15 Min. mündlich;
+- g. Geographie — 15 Min. mündlich;
+- h. ...
+- i. ...
+- j. Sport — 30 Min. praktisch;
+- k. ...
+
+<sup>2</sup> Jede Kandidatin und jeder Kandidat wird in 4 Stammfächern geprüft.
+
+<sup>3</sup> Die Prüfungen in den Fächern Deutsch, Französisch und Mathematik sind obligatorisch.
+
+<sup>4</sup> Für die 4. Prüfung wird das Stammfach von dem Kandidaten oder der Kandidatin gewählt. Dabei sind folgende Kombinationen ausgeschlossen:
+
+- a. Biologie im Berufsfeld Gesundheit;
+- b. Musik oder Bildnerisches Gestalten in den Berufsfeldern Kunst und Pädagogik.
+
+<sup>5</sup> Prüfungen finden in den folgenden Berufsfeldern statt:
+
+- a. Berufsfeld Pädagogik:
+  - 1\. Bildnerisches Gestalten — 4 Std.;
+  - 2\. Musik — 30 Min. (falls der Berufsfeld-Ergänzungskurs Instrument besucht wurde, kann das Instrument in die Prüfung integriert werden);
+- b. Berufsfeld Gesundheit
+  - 1\. Biologie Gesundheit — 3 Std. schriftlich;
+  - 2\. Physik oder Chemie — 15 Min. mündlich;
+- c. Berufsfeld Kunst:
+  - 1\. Bildnerisches Gestalten — 4 Std. praktisch;
+  - 2\. Kunstbetrachtung — 15 Min. mündlich; oder
+  - 3\. Musik — 30 Min. mündlich;
+  - 4\. Instrument — 15 Min. praktisch;
+- d. Berufsfeld Soziales:
+  - 1\. Wirtschaft und Recht — 3 Std. schriftlich;
+  - 2\. Pädagogik /Psychologie oder Soziale Fragestellungen — 15 Min. mündlich.
+
+<sup>6</sup> Die Kandidaten und Kandidatinnen werden in 2 Fächern ihres Berufsfeldes geprüft. Dabei haben sie folgende Wahlmöglichkeiten:
+
+- a. in den Berufsfeldern Gesundheit und Soziales das mündliche Prüfungsfach;
+- b. …
+
+<sup>7</sup> Über die Integration des Instruments in die Prüfung gemäss Absatz 5 Buchstabe a Ziffer 2 entscheidet der Kandidat oder die Kandidatin.
+
+#### § 9
+
+**Prüfungsinhalte**
+
+<sup>1</sup> Bei den Prüfungen wird der Lerninhalt der Ausbildungszeit an der Fachmittelschule geprüft.
+
+<sup>2</sup> In der Prüfung ist auf die Selbständigkeit im Denken ebenso Gewicht zu legen wie auf den Umfang der erworbenen Kenntnisse und Fähigkeiten.
+
+#### § 9a
+
+**Harmonisierung der Prüfungen**
+
+<sup>1</sup> Die schriftlichen Prüfungen in den Stammfächern und in den Berufsfeldfächern sind für die einzelnen Fachmittelschulen identisch.
+
+<sup>2</sup> Die SLK kann Ausnahmen bewilligen.
+
+#### § 10
+
+**…**
+
+#### § 11
+
+**Prüfungsaufgaben der schriftlichen und gestalterischen Prüfungen**
+
+<sup>1</sup> Die Themen und Aufgaben für die schriftlichen und gestalterischen Prüfungen werden von den jeweiligen Fachschaften erarbeitet.
+
+<sup>2</sup> Die Fachschaftsdelegierten reichen den Entwurf ihrer Fachschaft mit Lösungen bzw. Bewertungskriterien bei der Ressortleitung zur Validierung ein.
+
+#### § 11a
+
+**Validierung der schriftlichen Prüfungen**
+
+<sup>1</sup> Die Ressortgruppen stellen für die schriftlichen Prüfungen ein einheitliches Prüfungsniveau und -verfahren gemäss den kantonalen Vorgaben sicher.
+
+<sup>2</sup> Sie prüfen insbesondere, ob:
+
+- a. die Prüfungsentwürfe mit den Vorgaben des kantonalen Lehrplans und den Rahmenvorgaben für die schriftlichen Abschlussprüfungen übereinstimmen;
+- b. sich der Schwierigkeitsgrad der verschiedenen Prüfungen in einem vergleichbaren Rahmen bewegt;
+- c. angemessene Lösungen bzw. Bewertungskriterien formuliert wurden.
+
+<sup>3</sup> Die Ressortleitenden genehmigen die Prüfungen oder weisen sie zur Überarbeitung an die Fachschaft der betreffenden Schule zurück.
+
+<sup>4</sup> Sie informieren die Prüfungsleitung direkt über die Validierung und stellen ihr die definitiven Prüfungsaufgaben zu.
+
+#### § 12
+
+**Hilfsmittel, Information an den schriftlichen und gestalterischen Prüfungen**
+
+<sup>1</sup> Die Prüfungsleitung legt nach Absprache mit der SLK und nach Anhörung der Fachschaften die Hilfsmittel fest, welche von den Kandidaten und Kandidatinnen bei den schriftlichen und gestalterischen Prüfungen benützt werden dürfen.
+
+<sup>2</sup> Die Benutzung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit führen zum sofortigen Ausschluss von der ganzen Prüfung und zur Verweigerung des Abschlusszeugnisses.
+
+<sup>3</sup> Allfällig für nötig erachtete ergänzende Erklärungen zu den schriftlich formulierten Aufgabenstellungen sind den Kandidaten und Kandidatinnen vor Beginn der Prüfungen mitzuteilen.
+
+<sup>4</sup> Die Kandidaten und Kandidatinnen sind unmittelbar vor der 1. Prüfung auf die vorstehenden Bestimmungen aufmerksam zu machen.
+
+#### § 13
+
+**Aufsicht und Korrektur der schriftlichen Prüfungen**
+
+<sup>1</sup> Die Prüfungen werden unter ständiger Aufsicht von Lehrerinnen und Lehrern durchgeführt.
+
+<sup>2</sup> Die Arbeiten werden von den Examinatoren und Examinatorinnen eines Faches einheitlich korrigiert und benotet.
+
+<sup>3</sup> Die Fachschaften organisieren die Zweitkorrektur intern, wobei sie festlegen, welcher Korrekturmodus für das jeweilige Prüfungsjahr angewendet wird.
+
+<sup>4</sup> In Ausnahmefällen kann die Schulleitung zusätzlich eine externe Korrektur anordnen.
+
+#### § 14
+
+**Mündliche Prüfungen**
+
+<sup>1</sup> Die mündlichen Prüfungen finden in Gruppen von höchstens 4 Kandidaten und Kandidatinnen oder einzeln statt.
+
+<sup>2</sup> Die Wahl der Prüfungsinhalte ist dem Examinator oder der Examinatorin unter Beachtung von § 10 freigestellt.
+
+<sup>3</sup> Der Experte oder die Expertin führt ein Protokoll.
+
+<sup>4</sup> Die erbrachten Leistungen werden nach jeder Prüfungsgruppe beurteilt.
+
+<sup>5</sup> Der Examinator oder die Examinatorin beurteilt zusammen mit dem Experten oder der Expertin die Prüfung und macht den Vorschlag für die gemeinsam festzusetzende Prüfungsnote. Bei Meinungsverschiedenheiten entscheidet die Prüfungsleitung.
+
+#### § 15
+
+**Prüfungsnoten**
+
+<sup>1</sup> Die Leistungen in den Prüfungen werden mit ganzen und halben Noten bewertet.
+
+<sup>2</sup> Die 6 ist die höchste Note, die 1 die tiefste.
+
+<sup>3</sup> Noten unter 4 stehen für ungenügende Leistungen.
+
+#### § 16
+
+**Berechnung der Abschlussnoten**
+
+<sup>1</sup> In jedem der in § 8 erwähnten Fächer wird ein arithmetischer Mittelwert berechnet. Dabei werden folgende Noten berücksichtigt:
+
+- a. …
+- b. in Fächern mit nur 1 Prüfung die Note im letzten Zeugnis sowie die Prüfungsnote;
+- c. in Fächern mit 2 Prüfungen die doppelt gewichtete Note im letzten Zeugnis sowie die beiden Prüfungsnoten;
+- d. ...
+
+<sup>1<sup>bis</sup></sup> In nicht geprüften Fächern zählt die Note des letzten Zeugnisses.
+
+<sup>2</sup> Jeder Mittelwert ist anschliessend auf die nächstgelegene ganze oder halbe Note auf- oder abzurunden.
+
+<sup>3</sup> Liegt der Mittelwert genau in der Mitte zwischen einer ganzen und einer halben Note, ist er aufzurunden.
+
+#### § 17
+
+**Kontrolle der Noten**
+
+<sup>1</sup> Nach Abschluss der mündlichen Prüfungen kontrolliert die Prüfungsleitung die Berechnung aller Prüfungsnoten zur Feststellung und Erwahrung der Prüfungsergebnisse.
+
+<sup>2</sup> Die Summe aller Abweichungen der Fachmittelschul-Ausweisnoten von der Note 4 nach oben und nach unten sowie die Anzahl ungenügender Noten werden festgestellt.
+
+<sup>3</sup> Es wird in jedem einzelnen Fall festgestellt, ob gemäss § 20 der Fachmittelschul-Ausweis erteilt werden darf oder ob er verweigert werden muss.
+
+#### § 18
+
+**Schweigepflicht**
+
+<sup>1</sup> Die Noten der Prüfungen dürfen den Kandidaten und Kandidatinnen erst nach der Erwahrung der Prüfungsergebnisse durch die Prüfungsleitung mitgeteilt werden.
+
+<sup>2</sup> Über die Aufgabenstellung darf vor den Prüfungen und über die Bewertung der einzelnen Prüfungen darf vor der Erwahrung der Prüfungsergebnisse durch die Prüfungsleitung keine Auskunft erteilt werden.
+
+#### § 19
+
+**…**
+
+#### § 20
+
+**Erteilung des Fachmittelschul-Ausweises**
+
+<sup>1</sup> Der Fachmittelschul-Ausweis wird erteilt, wenn:
+
+- a. in den 12 Abschlussnoten die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben;
+- b. in den 12 Abschlussnoten nicht mehr als 3 Noten unter 4 erteilt wurden.
+
+#### § 21
+
+**Nichtbestehen der Abschlussprüfungen**
+
+<sup>1</sup> Die Prüfungsleitung teilt den Kandidaten und Kandidatinnen, welche die Abschlussprüfung nicht bestanden haben, das Ergebnis mittels Verfügung mit.
+
+#### § 22
+
+**Wiederholung der Abschlussprüfung**
+
+<sup>1</sup> Wer die Abschlussprüfung nicht bestanden hat oder ausgeschlossen worden ist, kann sie einmal wiederholen.
+
+<sup>2</sup> In diesem Fall ist das letzte Schuljahr zu wiederholen, unabhängig davon, ob an der Fachmittelschule schon einmal ein Schuljahr wiederholt worden ist.
+
+#### § 23
+
+**Nicht massgebliche Fächer**
+
+<sup>1</sup> In den bis zum Ende des Unterrichts besuchten Freifächern wird die Erfahrungsnote oder der Vermerk «besucht» im Abschlusszeugnis eingetragen.
+
+<sup>2</sup> …
+
+#### § 24
+
+**Fachmittelschul-Ausweis**
+
+<sup>1</sup> Der Fachmittelschul-Ausweis enthält:
+
+- a. die Hauptaufschrift: Kanton Basel-Landschaft; als Untertitel «Fachmittelschul-Ausweis», mit dem Vermerk «gesamtschweizerisch anerkannter Fachmittelschul-Ausweis»;
+- b. die Bezeichnung der Schule, die ihn ausstellt;
+- c. den Namen, Vornamen, Bürgerort (für Ausländer und Ausländerinnen: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
+- d. die Angabe der Zeit, während welcher die Fachmittelschule regelmässig besucht wurde, mit Datum des Ein- und Austritts;
+- e. die Bestätigung und Bewertung der Fächer der Allgemeinbildung;
+- f. die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer;
+- g. das Thema und die Bewertung der Selbständigen Arbeit;
+- h. die Unterschrift der Schulleitung und der Vorsteherin oder des Vorstehers der Bildungs-, Kultur- und Sportdirektion sowie
+- i. den Ort der Fachmittelschule und das Datum.
+
+## 2 Fachmaturitätszeugnis
+
+## 2.1 Allgemeine Bestimmungen
+
+#### § 25
+
+**Zweck**
+
+<sup>1</sup> Durch die nach dem Erwerb des Fachmittelschul-Ausweises zusätzlich erbrachten Leistungen weisen sich die Schülerinnen und Schüler der Berufsfelder Gesundheit, Soziales und Kunst über die Reife aus, die der Besuch einer dem Berufsfeld entsprechenden Fachhochschule erfordert. Die Schülerinnen und Schüler des Berufsfelds Pädagogik erbringen mit dem erfolgreichen Abschluss des Fachmaturitätskurses Pädagogik den Nachweis über die geforderte Reife und weisen sich über die zusätzlich zum Fachmittelschul-Ausweis geforderte erweiterte Allgemeinbildung aus.
+
+#### § 26
+
+**Zeitpunkt der Prüfungen**
+
+<sup>1</sup> Die zusätzlichen praktischen Leistungen für die Fachmaturitäten in den Berufsfeldern Gesundheit, Kunst und Soziales sowie die zusätzliche Allgemeinbildung für Pädagogik sowie das Verfassen der Fachmaturitätsarbeit werden in der Regel nach dem Erwerb des Fachmittelschul-Ausweises erbracht.
+
+<sup>2</sup> ...
+
+<sup>3</sup> Die SLK legt die Termine fest.
+
+#### § 27
+
+**Fachmaturitätszeugnis**
+
+<sup>1</sup> Das Fachmaturitätszeugnis enthält:
+
+- a. die Hauptaufschrift: Kanton Basel Landschaft; als Untertitel «Fachmaturitätszeugnis», mit dem Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
+- b. die Bezeichnung der Schule, die ihn ausstellt;
+- c. den Namen, Vornamen, Bürgerort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
+- d. die Bestätigung und Bewertung der Fächer der Allgemeinbildung;
+- e. die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer;
+- f. das Thema und die Bewertung der Selbständigen Arbeit;
+- g. die Bestätigung und Beurteilung der praktischen Leistungen oder der ergänzten Allgemeinbildung für den Zugang zu den Pädagogischen Hochschulen;
+- h. das Thema und die Beurteilung der Fachmaturitätsarbeit;
+- i. die Unterschrift der Schulleitung und der Vorsteherin oder des Vorstehers der Bildungs-, Kultur- und Sportdirektion sowie
+- k. den Ort der Fachmittelschule und das Datum.
+
+## 2.2 Fachmaturität für die Berufsfelder Gesundheit, Kunst und Soziales
+
+#### § 28
+
+**Praktische Leistungen**
+
+<sup>1</sup> Als praktische Leistungen gelten:
+
+- a. für das Berufsfeld Gesundheit: ein berufsspezifisches Praktikum;
+- b. für das Berufsfeld Soziales: eine qualifizierte Arbeitspraxis;
+- c. für das Berufsfeld Kunst: gestalterischer Vorkurs, gestalterische Arbeitspraxis oder Instrumental-, Gesangs- und Theaterunterricht.
+
+<sup>2</sup> Über die Anerkennung der praktischen Leistungen entscheidet die SLK auf der Grundlage der Vorgaben der Schweizerischen Erziehungsdirektoren Konferenz (EDK) für die Fachmaturität.
+
+<sup>3</sup> Für die praktischen Leistungen kann die SLK Kooperationsvereinbarungen eingehen.
+
+<sup>4</sup> Die Leiterkonferenz der Fachmittelschule überwacht in Zusammenarbeit mit Praktikums- und Ausbildungsinstitutionen die praktischen Leistungen der Schülerinnen und Schüler.
+
+#### § 29
+
+**Fachmaturitätsarbeit**
+
+<sup>1</sup> Jede Schülerin und jeder Schüler erstellt allein unter Betreuung einer Lehrerin oder eines Lehrers und einer Fachperson der Praktikums- oder Ausbildungsinstitution eine eigenständige, schriftliche Fachmaturitätsarbeit und präsentiert diese mündlich.
+
+<sup>2</sup> Ziel der Fachmaturitätsarbeit ist, dass sich die Schülerinnen und Schüler darüber ausweisen, die für ein Studium an einer Fachhochschule geforderte Methodenkompetenz zu besitzen, um eine Arbeit zu einem studien- oder ausbildungsbezogenen Thema zu verfassen und zu präsentieren.
+
+<sup>3</sup> Die Fachmaturitätsarbeit und ihre Präsentation werden mit ganzen oder halben Noten bewertet.
+
+<sup>4</sup> Der Entscheid über die Zulassung zur Präsentation obliegt der betreuenden Lehrperson. Die Zulassung setzt eine genügende schriftliche oder praktische Arbeit mit Begleittext voraus.
+
+<sup>5</sup> Falls der schriftliche Teil der Arbeit oder die praktische Arbeit mit Begleittext ungenügend sind, gilt:
+
+- a. Schüler und Schülerinnen mit einer Note von 3.5 oder höher verbessern die Fachmaturitätsarbeit in einer von der SLK festgelegten Frist. In diesem Fall kann nach einer neuen Beurteilung durch die betreuende Lehrperson die verbesserte Arbeit höchstens mit der Note 4.0 bewertet werden;
+- b. Schüler und Schülerinnen mit einer Note unter 3.5 werden nicht zur Nachbesserung der Fachmaturitätsarbeit zugelassen. Sie wiederholen die Fachmaturitätsarbeit und besuchen die Fachmaturitätsprüfungen im folgenden Schuljahr.
+
+<sup>6</sup> Die mündliche Präsentation zählt zu 1/3 für die Gesamtnote.
+
+<sup>7</sup> Die SLK erlässt die Ausführungsbestimmungen zu den Fachmaturitätsarbeiten.
+
+#### § 30
+
+**…**
+
+#### § 30a
+
+**Kontrolle der Noten**
+
+<sup>1</sup> Nach Abschluss der Prüfungen kontrolliert die Prüfungsleitung die Berechnung aller Prüfungsnoten zur Feststellung und Erwahrung der Prüfungsergebnisse.
+
+#### § 31
+
+**Erteilung des Fachmaturitätszeugnisses**
+
+<sup>1</sup> Das Fachmaturitätszeugnis wird erteilt, wenn die Schülerinnen und Schüler
+
+- a. den Fachmittelschul-Ausweis im entsprechenden Berufsfeld erworben haben,
+- b. die Fachmaturitätsarbeit mit genügendem Resultat verfasst und präsentiert haben sowie
+- c. die ihrem Berufsfeld entsprechenden praktischen Leistungen erbracht haben.
+
+<sup>2</sup> Für Schülerinnen und Schüler mit einer Behinderung kann die SLK in Absprache mit der Anerkennungskommission der EDK besondere Regelungen erlassen.
+
+#### § 32
+
+**Nichterteilung des Fachmaturitätszeugnisses**
+
+<sup>1</sup> Die Prüfungsleitung teilt den Schülerinnen und Schülern, welche die Fachmaturität nicht bestanden haben, das Ergebnis mittels Verfügung mit.
+
+## 2.3 Fachmaturität für das Berufsfeld Pädagogik
+
+#### § 33
+
+**Praktische Leistungen**
+
+<sup>1</sup> Als praktische Leistung gilt im Berufsfeld Pädagogik ein einsemestriger Unterricht in allgemeinbildenden Fächern.
+
+#### § 34
+
+**Fachmaturitätsarbeit**
+
+<sup>1</sup> Jede Schülerin und jeder Schüler erstellt allein unter Betreuung einer Lehrerin oder eines Lehrers eine eigenständige, schriftliche Fachmaturitätsarbeit und präsentiert diese mündlich.
+
+<sup>2</sup> Ziel der Fachmaturitätsarbeit ist, dass sich die Schülerinnen und Schüler darüber ausweisen, die für ein Studium an einer Fachhochschule geforderte Methodenkompetenz zu besitzen, um eine Arbeit zu einem studien- oder ausbildungsbezogenen Thema zu verfassen und zu präsentieren.
+
+<sup>3</sup> Die Fachmaturitätsarbeit und ihre Präsentation werden mit ganzen oder halben Noten bewertet.
+
+<sup>4</sup> Der Entscheid über die Zulassung zur Präsentation obliegt der betreuenden Lehrperson. Die Zulassung setzt eine genügende schriftliche oder praktische Arbeit mit Begleittext voraus.
+
+<sup>5</sup> Falls der schriftliche Teil der Arbeit oder die praktische Arbeit mit Begleittext ungenügend sind, gilt:
+
+- a. Schüler und Schülerinnen mit einer Note von 3.5 oder höher verbessern die Fachmaturitätsarbeit in einer von der SLK festgelegten Frist. In diesem Fall kann nach einer neuen Beurteilung durch die betreuende Lehrperson die verbesserte Arbeit höchstens mit der Note 4.0 bewertet werden;
+- b. Schüler und Schülerinnen mit einer Note unter 3.5 werden nicht zur Nachbesserung der Fachmaturitätsarbeit zugelassen. Sie wiederholen die Fachmaturitätsarbeit, besuchen den Fachmaturitätskurs und absolvieren die Fachmaturitätsprüfungen im folgenden Schuljahr.
+
+<sup>6</sup> Die mündliche Präsentation zählt zu 1/3 für die Gesamtnote.
+
+<sup>7</sup> Die SLK erlässt die Ausführungsbestimmungen zu den Fachmaturitätsarbeiten.
+
+#### § 35
+
+**Prüfungsleitung und -aufsicht**
+
+<sup>1</sup> Die Prüfungsleitung obliegt der Schulleitung der durchführenden Schule.
+
+<sup>2</sup> Die Examinatorinnen und Examinatoren der Prüfungen sind die Lehrerinnen und Lehrer, welche den abschliessenden Unterricht erteilt haben.
+
+<sup>3</sup> Die Prüfungsleitung bestimmt für alle Prüfungsfächer Expertinnen und Experten.
+
+<sup>4</sup> Der Schulrat der jeweiligen Schule, die einen Fachmaturitätskurs führt, beaufsichtigt die Prüfungen.
+
+#### § 36
+
+**Zulassung zur Prüfung**
+
+<sup>1</sup> Zur Prüfung im Anschluss an den Fachmaturitätskurs wird zugelassen, wer:
+
+- a. den Kurs ordnungsgemäss besucht hat,
+- b. alle verlangten Arbeiten erfüllt hat und
+- c. die Fachmaturitätsarbeit mit einer genügenden Note abgeschlossen hat.
+
+<sup>2</sup> Schülerinnen und Schüler, die aus gesundheitlichen Gründen nicht zu allen Prüfungen des Fachmaturitätskurses Pädagogik erscheinen können, haben dies umgehend mit einem Arztzeugnis zu belegen. Die Schulleitung legt die Termine der Nachholprüfungen fest.
+
+#### § 37
+
+**Fächer des Fachmaturitätskurses**
+
+<sup>1</sup> Der Fachmaturitätskurs Pädagogik umfasst folgende Fächer:
+
+- a. Deutsch;
+- b. Französisch;
+- c. Mathematik;
+- d. Geschichte;
+- e. Geographie;
+- f. Biologie;
+- g. Chemie;
+- h. Physik.
+
+#### § 38
+
+**Prüfungsfächer**
+
+<sup>1</sup> Es finden in allen zu absolvierenden Fächern Prüfungen statt.
+
+<sup>2</sup> Für den Prüfungserfolg sind die Noten der folgenden Fächer massgebend:
+
+- a. Deutsch;
+- b. Französisch;
+- c. Mathematik;
+- d. Naturwissenschaften, bestehend aus den Fächern Biologie, Chemie und Physik;
+- e. Geistes- und Sozialwissenschaften, bestehend aus den Fächern Geschichte und Geographie.
+
+<sup>3</sup> Schülerinnen und Schüler, welche in Französisch ein internationales Sprachzertifikat auf der Stufe B2 nach GER (Gemeinsamer Europäischer Referenzrahmen) erworben haben, können sich dieses anrechnen lassen. Die Umrechnung basiert auf dem Schlüssel des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) für die Berufsmatur.
+
+#### § 39
+
+**Art und Dauer der Prüfungen**
+
+<sup>1</sup> Die Prüfungen finden wie folgt statt:
+
+- a. Deutsch — 180 Min. schriftlich,15 Min. mündlich;
+- b. Französisch — 120 Min. schriftlich, 15 Min. mündlich;
+- c. Mathematik — 120 Min. schriftlich, 15 Min. mündlich;
+- d. Naturwissenschaften 45 Min. mündlich:
+  - 1\. Biologie — 15 Min. mündlich;
+  - 2\. Chemie — 15 Min. mündlich;
+  - 3\. Physik — 15 Min. mündlich;
+- e. Geistes- und Sozialwissenschaften 30 Min. mündlich:
+  - 1\. Geschichte — 15 Min. mündlich;
+  - 2\. Geographie — 15 Min. mündlich.
+
+#### § 40
+
+**Prüfungsinhalt**
+
+<sup>1</sup> Der Prüfungsinhalt entspricht den Lernzielen des Fachmaturitätskurses gemäss kantonalem Lehrplan.
+
+#### § 41
+
+**Schriftliche Prüfungsaufgaben**
+
+<sup>1</sup> Die Themen und Aufgaben für die schriftlichen Prüfungen werden im Auftrag der Prüfungsleitungen von den Examinatorinnen und Examinatoren gestellt.
+
+<sup>2</sup> Die Prüfungsleitungen der jeweiligen Schulen koordinieren die Termine und die Aufgabenstellung.
+
+#### § 42
+
+**Hilfsmittel und Information an den schriftlichen Prüfungen**
+
+<sup>1</sup> Die Prüfungsleitungen der jeweiligen Schulen legen die Hilfsmittel fest, die von den Schülerinnen und Schülern an den schriftlichen Fachmaturitätsprüfungen benützt werden dürfen.
+
+<sup>2</sup> Die Benutzung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit führen zum sofortigen Ausschluss von der ganzen Prüfung und zur Verweigerung des Fachmaturitätszeugnisses.
+
+<sup>3</sup> Von der Prüfungsleitung für nötig erachtete, ergänzende Erklärungen zu den schriftlich formulierten Aufgabenstellungen werden den Schülerinnen und Schülern vor Beginn der Prüfung mitgeteilt. Die Expertin oder der Experte muss darüber in Kenntnis gesetzt werden.
+
+#### § 43
+
+**Aufsicht und Korrektur der schriftlichen Prüfungen**
+
+<sup>1</sup> Die Prüfungen werden unter ständiger Aufsicht von Lehrerinnen und Lehrern durchgeführt.
+
+<sup>2</sup> Die von der Examinatorin oder dem Examinatoren korrigierten und beurteilten Arbeiten werden mit einem Notenvorschlag der Expertin oder dem Experten zur Überprüfung zugestellt.
+
+#### § 44
+
+**Mündliche Prüfungen**
+
+<sup>1</sup> Die mündlichen Prüfungen finden in Gruppen von höchstens 4 Schülerinnen und Schülern oder einzeln statt.
+
+<sup>2</sup> Die Expertin oder der Experte protokolliert den Prüfungsverlauf.
+
+#### § 45
+
+**Prüfungsnoten**
+
+<sup>1</sup> Die Leistungen in den schriftlichen und mündlichen Prüfungen werden in ganzen und halben Noten ausgedrückt.
+
+<sup>2</sup> Liegt der Mittelwert genau in der Mitte zwischen einer ganzen und einer halben Note, ist er aufzurunden.
+
+#### § 46
+
+**Kontrolle der Noten**
+
+<sup>1</sup> Nach Abschluss der mündlichen Prüfungen kontrolliert die Prüfungsleitung der jeweiligen Schule die Berechnung aller Prüfungsnoten zur Feststellung und Erwahrung der Prüfungsergebnisse.
+
+<sup>2</sup> ...
+
+<sup>3</sup> Über die Aufgabenstellung darf vor den Prüfungen und über die Bewertung der einzelnen Prüfungen darf vor der Erwahrung der Prüfungsergebnisse durch die Prüfungsleitung keine Auskunft erteilt werden.
+
+<sup>4</sup> Die Summe aller Abweichungen der Fachmaturitätsnoten von der Note 4 nach oben und nach unten sowie die Anzahl ungenügender Noten werden festgestellt.
+
+<sup>5</sup> Es wird in jedem einzelnen Fall festgestellt, ob gemäss § 48 das Fachmaturitätszeugnis erteilt werden darf oder ob es verweigert werden muss.
+
+#### § 47
+
+**…**
+
+#### § 48
+
+**Erteilung des Fachmaturitätszeugnisses**
+
+<sup>1</sup> Das Fachmaturitätszeugnis wird erteilt, wenn die nachfolgenden Bedingungen kumulativ erfüllt sind:
+
+- a. der Durchschnitt aller 5 Prüfungsnoten und der Fachmaturitätsarbeit mindestens 4.0 beträgt;
+- b. höchstens 2 Abschlussnoten ungenügend sind;
+- c. die Summe der Notenabweichung von 4.0 nach unten nicht mehr als 1.0 Punkte beträgt.
+
+<sup>2</sup> Für Schüler und Schülerinnen mit einer Behinderung kann die SLK in Absprache mit der Anerkennungskommission der EDK besondere Regelungen erlassen.
+
+#### § 49
+
+**Wiederholung der Prüfung**
+
+<sup>1</sup> Schüler und Schülerinnen, welche die Prüfung nicht bestanden haben oder ausgeschlossen worden sind, können diese einmal wiederholen. Der Fachmaturitätskurs ist dabei vorgängig zu wiederholen.
+
+<sup>2</sup> Auf Antrag der Schülerin oder des Schülers werden Fächer mit Note 5 oder höher bei der Wiederholung angerechnet. Der Unterricht in diesen abgeschlossenen Fächern entfällt. Die SLK erlässt die entsprechenden Weisungen.
+
+<sup>3</sup> Auf die Wiederholung der Fachmaturitätsarbeit kann auf Antrag der Schülerin oder des Schülers verzichtet werden.
+
+#### § 50
+
+**Nichterteilung des Fachmaturitätszeugnisses**
+
+<sup>1</sup> Die Prüfungsleitung teilt den Schülerinnen und Schülern, welche die Fachmaturität nicht bestanden haben, das Ergebnis schriftlich mit.
+
+## 3 Schlussbestimmungen
+
+#### § 51
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Verordnung vom 11. Mai 2004[^51-1] über die Abschlussprüfungen der Fachmaturitätsschule an den Gymnasien wird aufgehoben.
+
+[^51-1]: GS 35.137
+
+#### § 51a
+
+**Übergangsbestimmung zur Änderung vom 17. Mai 2011**
+
+<sup>1</sup> Für die Abschlussprüfungen des Schuljahres 2011/2012 gelten die §§ 7, 8, 10, 16, 20 und 24 in der Fassung vom 18. Dezember 2007[^51a-1].
+
+<sup>2</sup> Für Schülerinnen und Schüler, welche die Abschlussprüfung am Ende des Schuljahres 2011/2012 nicht bestehen, gelten die Bestimmungen dieser Verordnung gemäss der Änderung vom 17. Mai 2011[^51a-2].
+
+[^51a-1]: GS 36.457
+[^51a-2]: GS 37.533
+
+#### § 52
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. August 2007 in Kraft.
+
+GS 36.0457

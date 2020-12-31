@@ -1,0 +1,155 @@
+---
+canton: BL
+number: "784.9"
+title: Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben
+language: de
+version: 2019-10-01
+version_adopted: 2019-02-05
+adopted: 2019-02-05
+in_force: 2019-10-01
+url: "https://bl.clex.ch/app/de/texts_of_law/784.9"
+pdf: "https://bl.clex.ch/api/de/versions/2484/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben
+
+Vom 05.02.2019 (Stand 01.10.2019)
+
+Um die Entsorgung der Siedlungsabfälle aus Haushalten sowie von Abfällen vergleichbarer Zusammensetzung aus Industrie und Gewerbe koordiniert, effizient und umweltgerecht sicherzustellen, schliessen die Kantone Basel-Stadt und Basel-Landschaft die folgende Vereinbarung ab:
+
+## 1 Grundsatz
+
+#### Ziff. 1.1
+
+<sup>1</sup> Die Kantone arbeiten in allen Belangen der Abfallbewirtschaftung zusammen und stimmen insbesondere Planung, Bau und Betrieb der erforderlichen Anlagen eng aufeinander ab. Den Kantonen steht das Recht zu, die Kehrichtverwertungsanlage Basel (KVA) und die Deponie Elbisgraben gemäss den jeweiligen Zulassungsbestimmungen zu benutzen.
+
+#### Ziff. 1.2
+
+<sup>1</sup> Die Kantone legen in einem Umsetzungsvertrag die Lieferbedingungen, Liefermengen, Heizwert, Tarifgestaltung und Ga-rantieleistungen gemeinsam fest.
+
+#### Ziff. 1.3
+
+<sup>1</sup> Die Kantone sorgen dafür, dass die wesentlichen Belange der beiden Abfallanlagen transparent dargestellt werden. Sie hören sich gegenseitig dazu an.
+
+#### Ziff. 1.4
+
+<sup>1</sup> Die Anlieferungen der Abfälle und der Verbrennungsrückstände aus den Kantonen sollen, soweit ökologisch sinnvoll, technisch machbar und wirtschaftlich tragbar, per Bahn erfolgen.
+
+#### Ziff. 1.5
+
+<sup>1</sup> Die Kantone vermeiden jegliche Konkurrenzierung bei der Abfallentsorgung und wirken innerhalb der ganzen Region darauf hin, dass die anstehenden Aufgaben koordiniert, wirtschaftlich und unter bestmöglicher Schonung der Umwelt gelöst werden.
+
+#### Ziff. 1.6
+
+<sup>1</sup> Die Kantone stimmen ihre Abfallplanung aufeinander ab und sind bemüht, gegenüber Dritten eine gemeinsame Haltung zu vertreten.
+
+## 2 Kehrichtverwertungsanlage Basel
+
+#### Ziff. 2.1
+
+**Betrieb**
+
+<sup>1</sup> Der Kanton Basel-Stadt sorgt für den Bau und Betrieb der KVA. Er kann die Aufgabe an Dritte übertragen.
+
+#### Ziff. 2.2
+
+**Annahme- und Lieferbedingungen**
+
+#### Ziff. 2.2.1
+
+<sup>1</sup> Der Kanton Basel-Stadt verpflichtet sich, brennbare Siedlungsabfälle aus Haushaltungen sowie Abfälle vergleichbarer Zusammensetzung aus Industrie und Gewerbe aus dem Kanton Basel-Landschaft zur Verwertung anzunehmen.
+
+#### Ziff. 2.2.2
+
+<sup>1</sup> Der Kanton Basel-Landschaft verpflichtet sich, die im Umsetzungsvertrag festgelegten Liefermengen von brennbaren Siedlungsabfällen aus Haushaltungen sowie von Abfällen vergleichbarer Zusammensetzung aus Industrie und Gewerbe an die KVA zu liefern.
+
+## 3 Deponie Elbisgraben
+
+#### Ziff. 3.1
+
+**Betrieb**
+
+<sup>1</sup> Der Kanton Basel-Landschaft sorgt für den Bau und Betrieb der Deponie Elbisgraben. Er kann die Aufgabe an Dritte übertragen.
+
+#### Ziff. 3.2
+
+**Annahme- und Lieferbedingungen**
+
+#### Ziff. 3.2.1
+
+<sup>1</sup> Der Kanton Basel-Landschaft verpflichtet sich, die im Umsetzungsvertrag festgelegten Mengen an Verbrennungsrückständen aus der KVA sowie weitere, gesetzlich zulässige Abfälle aus dem Kanton Basel-Stadt auf der Deponie Elbisgraben abzulagern.
+
+#### Ziff. 3.2.2
+
+<sup>1</sup> Der Kanton Basel-Stadt verpflichtet sich, die im Umsetzungsvertrag festgelegten Mengen an Verbrennungsrückständen aus der KVA in die Deponie Elbisgraben zu liefern.
+
+## 4 Finanzen
+
+#### Ziff. 4.1
+
+<sup>1</sup> Die Betriebsrechnungen der KVA und des Schlackenkompartiments der Deponie Elbisgraben erfolgen nach der Methodik zur Ermittlung von Deckungsdifferenzen.[^Ziff41-1]
+
+[^Ziff41-1]: In der Kostenbeitragsrechnung werden die variablen Kosten ausgewiesen. Die Differenz zwischen den Kosten und dem Erlös entspricht dem Deckungsbeitrag, welcher zur Deckung der fixen Kosten (Betriebskosten, Abschreibung) und zur Erzielung eines kalkulatorischen Zinses (Gewinn) dient.
+
+#### Ziff. 4.2
+
+<sup>1</sup> Die Berechnung der Tarife erfolgt nach dem Prinzip der Deckungsdifferenz und einem kalkulatorischen Zins. Der Zinssatz wird im Umsetzungsvertrag festgelegt.
+
+#### Ziff. 4.3
+
+<sup>1</sup> Die Tarife für die Annahme von brennbaren Abfällen in der KVA werden vom Verwaltungsrat der Industriellen Werke Basel (IWB) festgesetzt und vom Regierungsrat Basel-Stadt genehmigt.[^Ziff43-1] Die Tarife für die Annahme der Verbrennungsrückstände und weiterer, gesetzlich zulässiger Abfälle in der Deponie Elbisgraben werden vom Regierungsrat Basel-Landschaft festgelegt.[^Ziff43-2]
+
+[^Ziff43-1]: § 10 [Gesetz über die Industriellen Werke Basel](https://db.clex.ch/link/BS/772.300/de) vom 11. Februar 2009 (IWB-Gesetz, SG 772.300).
+[^Ziff43-2]: [Verordnung über Preise für die Entsorgung von Abfällen und speziellen Abwässern](https://bl.clex.ch/data/784.22/de) vom 6. März 2007 (SGS 784.22).
+
+#### Ziff. 4.4
+
+<sup>1</sup> Die Betriebsrechnungen der KVA und der Deponie Elbisgraben werden von unabhängigen Revisionsstellen geprüft.
+
+## 5 Vollzug
+
+#### Ziff. 5.1
+
+<sup>1</sup> Die zuständigen Departemente der Kantone Basel-Stadt und Basel-Landschaft vollziehen diese Vereinbarung.
+
+#### Ziff. 5.2
+
+<sup>1</sup> Der Umsetzungsvertrag bedarf der Genehmigung durch die Regierungen der Kantone Basel-Stadt und Basel-Landschaft.
+
+#### Ziff. 5.3
+
+<sup>1</sup> Die beiden Kantone Basel-Stadt und Basel-Landschaft schaffen eine Plattform mit den Betreibern der KVA und der Deponie Elbisgraben. Weitere öffentlich-rechtliche Abfalllieferanten können sich der Plattform anschliessen.
+
+#### Ziff. 5.4
+
+<sup>1</sup> Die Mitglieder der Plattform treffen sich regelmässig und informieren sich gegenseitig über alle Tatsachen und Vorgänge, welche die Erfüllung dieser Vereinbarung beeinflussen können.
+
+#### Ziff. 5.5
+
+<sup>1</sup> Der jeweilige Kanton sorgt dafür, dass Dritte, soweit ihnen Bau und Betrieb der KVA oder der Deponie Elbisgraben übertragen wurde, diese Vereinbarung und den Umsetzungsvertrag ebenfalls einhalten.
+
+## 6 Schlussbestimmungen
+
+#### Ziff. 6.1
+
+<sup>1</sup> Diese Vereinbarung wird auf die Dauer von 15 Jahren ab Inkrafttreten abgeschlossen. Ohne Kündigung gilt die Vereinbarung als stillschweigend auf unbestimmte Zeit verlängert. Sie kann nach Ablauf von 12 Jahren jeweils mit einer Kündigungsfrist von 3 Jahren auf ein Jahresende gekündigt werden.
+
+#### Ziff. 6.2
+
+<sup>1</sup> Die Vereinbarung ist zu publizieren.
+
+#### Ziff. 6.3
+
+<sup>1</sup> Nach der Genehmigung dieser Vereinbarung durch die Parlamente der Kantone und nach Annahme in allfälligen Volksabstimmungen bestimmen die Regierungen der Kantone im gegenseitigen Einvernehmen den Zeitpunkt des Inkrafttretens.[^Ziff63-1]
+
+[^Ziff63-1]: Genehmigt durch den Grossrat BS am 8. Mai 2019 und den Landrat BL am 9. Mai 2019. Durch die beiden Regierungsräte am 24. September 2019 in Kraft gesetzt auf den 1. Oktober 2019.
+
+#### Ziff. 6.4
+
+<sup>1</sup> Die Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Abfallbewirtschaftung vom 13./19. Mai 1998[^Ziff64-1] wird auf den Zeitpunkt des Inkrafttretens aufgehoben.
+
+[^Ziff64-1]: SG 786.300
+
+GS 2019.053

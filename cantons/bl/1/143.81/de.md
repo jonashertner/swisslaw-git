@@ -1,0 +1,183 @@
+---
+canton: BL
+number: "143.81"
+title: Verordnung über Arbeitssicherheit und Gesundheitsschutz
+language: de
+version: 2003-01-01
+version_adopted: 2002-11-05
+adopted: 2002-11-05
+in_force: 2003-01-01
+url: "https://bl.clex.ch/app/de/texts_of_law/143.81"
+pdf: "https://bl.clex.ch/api/de/versions/113/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über Arbeitssicherheit und Gesundheitsschutz
+
+Vom 05.11.2002 (Stand 01.01.2003)
+
+Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 4 der Kantonsverfassung vom 17. Mai 1984[^ingress-1] und auf § 4 des Verwaltungsorganisationsgesetzes vom 6. Juni 1983[^ingress-2], beschliesst:
+
+[^ingress-1]: GS 29.276, SGS 100
+[^ingress-2]: GS 28.436, SGS 140
+
+## 1 Allgemeines
+
+#### § 1
+
+**Zweck und Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt die Grundsätze der Arbeitssicherheit und des Gesundheitsschutzes.
+
+#### § 2
+
+**Begriffe**
+
+<sup>1</sup> Direktionen im Sinne dieser Verordnung sind auch die Landeskanzlei, das Kantonsgericht und die Ombudsstelle.
+
+<sup>2</sup> Dienststellen im Sinne dieser Verordnung sind auch die erstinstanzlichen Gerichte, die Strafverfolgungsbehörden und die Schulen des Kantons.
+
+#### § 3
+
+**Beauftragung der Basellandschaftlichen Gebäudeversicherung**
+
+<sup>1</sup> Die Finanz- und Kirchendirektion (FKD) schliesst mit der Basellandschaftlichen Gebäudeversicherung (BGV) eine Leistungsvereinbarung über die Arbeitssicherheit und den Gesundheitsschutz.
+
+#### § 4
+
+**Leistungsvereinbarung**
+
+<sup>1</sup> Die Leistungsvereinbarung konkretisiert die Leistungen der BGV, deren Abgeltung und die Zusammenarbeit der Fachstelle für Arbeitssicherheit und Gesundheitsschutz mit dem Kanton.
+
+<sup>2</sup> Die Leistungsvereinbarung regelt insbesondere:
+
+- a. die Leistungen der BGV (insbesondere die detaillierten Aufgaben der Fachstelle für Arbeitssicherheit und Gesundheitsschutz);
+- b. die Abgeltung dieser Leistungen;
+- c. die Mitsprache der FKD bei der Stellenbesetzung der Fachstellenleitung.
+
+## 2 Fachstelle für Arbeitssicherheit und Gesundheitsschutz
+
+#### § 5
+
+**Aufgaben der Fachstelle**
+
+<sup>1</sup> Die Fachstelle für Arbeitssicherheit und Gesundheitsschutz stellt gemeinsam mit den Dienststellen und den Direktionen sowie deren Mitarbeitenden die Prävention, die Erhaltung und Förderung der Arbeitssicherheit und des Gesundheitsschutzes sowie die technische Sicherheit sicher.
+
+<sup>2</sup> Im Wesentlichen hat sie folgende Aufgaben:
+
+- a. Sie ist eine Koordinations- und Informationsstelle und stellt Synergien sicher;
+- b. sie berät die Regierung, die Direktionen, die Dienststellen, die Fachpersonen und die Sicherheitsbeauftragten;
+- c. sie erstellt Analysen, beurteilt die Ergebnisse der Statistiken, unterbreitet Verbesserungsempfehlungen und Vorschläge zur Zielsetzung;
+- d. sie leitet und organisiert Arbeitsgruppen;
+- e. sie erstellt einen Jahresbericht zu Handen der Regierung;
+- f. sie koordiniert die konzeptionelle Aus- und Weiterbildung, übernimmt sie soweit möglich und zieht dazu Fachpersonen des Kantons bei;
+- g. sie bietet fachliche Unterstützung bei der Erstellung von Arbeitsvorschriften und Arbeitsweisungen an;
+- h. sie sorgt für die Durchführung von Kontrollen;
+- i. bei einer allfälligen Mitgliedschaft des Kantons bei einer Branchenlösung, ist es vorgesehen, dass sie die Umsetzung koordiniert und den Kanton in den kantonsübergreifenden Gremien vertritt.
+
+<sup>3</sup> Die Leistungsvereinbarung konkretisiert diese Aufgaben.
+
+#### § 6
+
+**Befugnisse der Fachstelle**
+
+<sup>1</sup> Stellt die Fachstelle in Ausübung ihrer Funktion unmittelbar bestehende Gefahren oder Risiken fest, hat sie verhältnisgerechte und befristete Sofortmassnahmen anzuordnen und kann jede Person zu verpflichten, ihre Arbeitstätigkeit vorübergehend ganz oder teilweise einzustellen, wenn diese mit einer unmittelbaren Gefahr oder einem unmittelbaren Risiko verbunden ist. In diesen Fällen hat die Fachstelle sofort mit den verantwortlichen Vorgesetzten und der Dienststellenleitung in Kontakt zu treten.
+
+<sup>2</sup> Stellt die Fachstelle in Ausführung ihres Auftrags eine Zuwiderhandlung fest, welche kein sofortiges Eingreifen nötig macht, erstellt sie in Zusammenarbeit mit der zuständigen Dienststelle einen Lösungsvorschlag.
+
+<sup>3</sup> Wird trotz fortgesetzter Nichteinhaltung der Vorschriften keine Lösung gefunden, informiert die Fachstelle die Direktion und falls nötig das Arbeitsinspektorat.
+
+<sup>4</sup> Mit Auftrag der FKD kann die Fachstelle den Kanton gegenüber Dritten vertreten.
+
+#### § 7
+
+**Zusammenarbeit**
+
+<sup>1</sup> Die Leitung der Fachstelle arbeitet mit allen Fachpersonen und Vorgesetzten des Kantons direkt zusammenarbeiten. Die Mitarbeitenden des Kantons sind für die ordnungsgemässe Information ihrer Vorgesetzten verantwortlich.
+
+<sup>2</sup> Sie hat die von Amtes wegen mit der Unfallverhütung, Arbeitssicherheit und Gesundheitsschutz betrauten Mitarbeitenden des Kantons bei ihrer Aufgabenerfüllung beiziehen.
+
+#### § 8
+
+**Schweigepflicht und Datenschutz**
+
+<sup>1</sup> Sämtliche kantonalen Bestimmungen über die Schweigepflicht und den Datenschutz gelten sinngemäss auch für die Fachstelle und die von ihr beauftragten Personen.
+
+## 3 Aufgaben und Organisation
+
+#### § 9
+
+**Grundsatz**
+
+<sup>1</sup> Durch die Tätigkeit der Fachstelle für Arbeitssicherheit und Gesundheitsschutz werden die Direktionen, die Dienststellen und deren Mitarbeitenden in keiner Weise von ihren Sorgfaltspflichten und der Pflicht zur Wahrung der technischen Sicherheit entlastet.
+
+#### § 10
+
+**Sicherheitsbeauftragte**
+
+<sup>1</sup> In den Dienststellen werden eine Sicherheitsbeauftragte oder ein Sicherheitsbeauftragter (SIBE) eingesetzt.
+
+<sup>2</sup> Die SIBE haben folgende Aufgaben:
+
+- a. Treten Gefahren oder Risiken auf, werden sie gemäss § 13 dieser Verordnung tätig;
+- b. sie melden die Ursachen für Unfälle und Materialschäden an die Fachstelle;
+- c. sie halten die Unterlagen des Handbuchs über Sicherheit und Gesundheitsschutz am Arbeitsplatz à jour;
+- d. sie sind für die praktische Organisation der Notfallmassnahmen und der Ersten Hilfe verantwortlich;
+- e. sie sind das Bindeglied zwischen den Mitarbeitenden einerseits und der Fachstelle andererseits; zudem sind sie Ansprechperson für die Mitarbeitenden;
+- f. sie motivieren die Mitarbeitenden im Bereich der Arbeitshygiene und der Sicherheit;
+- g. sie nehmen an Aus- und Weiterbildungen teil.
+
+<sup>3</sup> Die Pflichtenhefte der SIBE werden entsprechend der jeweiligen Aufgaben im ordentlichen Verfahren mit fachlicher Unterstützung der Fachstelle erstellt oder ergänzt.
+
+#### § 11
+
+**Aufgaben der Dienststellen**
+
+<sup>1</sup> Die Durchführung von Massnahmen ist Sache der Dienststellen. Sie sind verantwortlich, den Schutz aller Mitarbeitenden in ihrem Bereich zu gewährleisten.
+
+<sup>2</sup> Sie sorgen in ihrem Bereich für die Einhaltung der Vorschriften sowie der Entscheide und Empfehlungen der Aufsichtsbehörden.
+
+<sup>3</sup> Sie sorgen in Zusammenarbeit mit der Fachstelle und den Sicherheitsbeauftragten für die ausreichende Information aller Mitarbeitenden in ihrem Bereich.
+
+<sup>4</sup> Sie arbeiten auf eine Abnahme der Zahl der Unfälle und Berufskrankheiten hin und wirken an den Präventionsmassnahmen mit.
+
+#### § 12
+
+**Mitarbeiterinnen und Mitarbeiter**
+
+<sup>1</sup> Die Mitarbeitenden wirken bei der Umsetzung der Vorschriften mit und befolgen sie.
+
+<sup>2</sup> Sie können
+
+- a. die Sicherheitsbeauftragten über festgestellte Missachtungen von vorgeschriebenen Schutzmassnahmen informieren;
+- b. den Sicherheitsbeauftragten Unregelmässigkeiten oder Defekte mitteilen, welche die Hygiene, die Sicherheit oder den Gesundheitsschutz gefährden;
+- c. den Sicherheitsbeauftragten Anträge oder Vorschläge zur Verbesserung der Hygiene, der Sicherheit und des Gesundheitsschutzes in ihrem Tätigkeitsbereich unterbreiten.
+
+## 4 Verfahren bei Feststellen von Gefahren und Risiken
+
+#### § 13
+
+**Feststellung von Gefahren oder Risiken**
+
+<sup>1</sup> Stellen Sicherheitsbeauftragte unmittelbar bestehende Gefahren oder Risiken fest, haben sie verhältnismässige und befristete Sofortmassnahmen anzuordnen und können jede Person verpflichten, ihre Arbeitstätigkeit vorübergehend ganz oder teilweise einzustellen, wenn diese mit einer unmittelbaren Gefahr oder einem unmittelbaren Risiko verbunden ist. In diesen Fällen haben sie sofort mit den verantwortlichen Vorgesetzten und der Dienststellenleitung in Kontakt zu treten.
+
+<sup>2</sup> Stellen Sicherheitsbeauftragte Gefahren oder Risiken fest, welche kein sofortiges Eingreifen nötig macht, übertragen sie den Fall mit einer Stellungnahme der Fachstelle. Die Fachstelle erarbeitet in Zusammenarbeit mit den Fachpersonen der Verwaltung und der Dienststelle einen Lösungsvorschlag und unterbreitet diesen anschliessend der Dienststelle.
+
+<sup>3</sup> Wird die Gefahr oder das Risiko nicht behoben und kann keine Lösung gefunden werden, informiert die Fachstelle die Direktion und falls nötig die Arbeitsinspektorat.
+
+#### § 14
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Regierungsratsverordnung vom 24. August 1976[^14-1] für die Kommission zur Förderung der Unfallverhütung und technischen Sicherheit in der kantonalen Verwaltung (Sicherheitskommission) wird aufgehoben.
+
+[^14-1]: GS 26.160, SGS 143.81
+
+#### § 15
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2003 in Kraft.
+
+GS 34.0689

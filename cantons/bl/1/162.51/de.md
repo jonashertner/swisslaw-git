@@ -1,0 +1,293 @@
+---
+canton: BL
+number: "162.51"
+title: Verordnung über die Informationssicherheit
+short: VIS
+language: de
+version: 2013-01-01
+version_adopted: 2012-12-04
+adopted: 2008-03-11
+in_force: 2008-06-30
+url: "https://bl.clex.ch/app/de/texts_of_law/162.51"
+pdf: "https://bl.clex.ch/api/de/versions/3954/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über die Informationssicherheit
+
+(VIS)
+
+Vom 11.03.2008 (Stand 01.01.2013)
+
+Der Regierungsrat des Kantons Basel-Landschaft und die Geschäftsleitung des Kantonsgerichts,
+
+gestützt auf § 8 Abs. 3 des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 10. Februar 2011[^ingress-1],
+
+beschliessen:
+
+[^ingress-1]: [SGS 162](https://bl.clex.ch/data/162/de/art8)
+
+## 1 Allgemeine Bestimmungen
+
+#### § 1
+
+**Zweck und Zielsetzung**
+
+<sup>1</sup> Diese Verordnung regelt den Schutz der Informatik-Systeme des Kantons vor Systemausfällen und den Schutz der mit solchen Systemen bearbeiteten Informationen vor Verlust sowie unbefugter Kenntnisnahme und Veränderung.
+
+<sup>2</sup> Oberstes Ziel ist die Kenntnis der aktuellen Risiken der Informationssicherheit und deren systematische und verhältnismässige Behandlung zu angemessenen Kosten.
+
+<sup>3</sup> Erkannte Risiken werden verwaltungsweit einheitlich bewertet und durch angemessene Massnahmen auf ein akzeptables Restrisiko beschränkt.
+
+<sup>4</sup> Ein existenzbedrohendes Risiko muss auf ein wirtschaftlich akzeptables Mass beschränkt werden. Erscheint dies aus technischen oder finanziellen Gründen nicht möglich, ist das Vorhaben abzulehnen oder abzubrechen.
+
+<sup>5</sup> Über die Zulässigkeit eines Restrisikos und dessen anzustrebende Deckung entscheiden die finanzkompetenten Stellen.
+
+<sup>6</sup> Risiken werden von den verantwortlichen Linienstellen getragen.
+
+<sup>7</sup> Die vorhandenen Risiken sind mindestens alle 3 Jahre gesamthaft zu evaluieren und gegebenenfalls in eine entsprechende Verbesserungsplanung einzubringen.
+
+#### § 2
+
+**Geltungsbereich und Abgrenzung**
+
+<sup>1</sup> Diese Verordnung gilt für die Direktionen und ihre Dienststellen (inklusive kantonale Spitäler), die Landeskanzlei, das Kantonsgericht und die kantonalen Schulen.
+
+<sup>2</sup> Sie gilt für sämtliche Informatik-Systeme und darauf bearbeitete Informationen.
+
+<sup>3</sup> Soweit keine anderen Regeln bestehen, gilt sie auch für nicht mittels Informatik bearbeitete Informationen.
+
+<sup>4</sup> Bei der Zusammenarbeit mit Organisationen und Personen ausserhalb des Geltungsbereichs dieser Verordnung sind die hier festgelegten Grundsätze so weit wie möglich vertraglich zu vereinbaren.
+
+#### § 3
+
+**Ergänzende Regelungen**
+
+<sup>1</sup> Die Direktionen, die Landeskanzlei, das Kantonsgericht und die kantonalen Schulen können in ihrem Kompetenzbereich strengere Sicherheitsanforderungen festlegen.
+
+<sup>2</sup> Die Fachgruppe Informatik (FGI) kann einzelne Aspekte dieser Verordnung konkretisieren und entsprechende ergänzende Weisungen zur Informationssicherheit erlassen, insbesondere zur Regelung von anzuwendenden Verfahren, generell gültigen Mindestanforderungen und zum Umgang mit vernetzungsbedingten Sicherheitsrisiken.
+
+<sup>3</sup> Die FGI kann einzelnen dieser Verordnung unterstellten Institutionen einen erhöhten Freiheitsgrad zugestehen, solange:
+
+- a. dadurch keine erhöhte Bedrohung der restlichen Institutionen entsteht;
+- b. ein eigenes Informationssicherheits-Managementsystem branchenüblicher Qualität betrieben und jährlich die vorhandenen Risiken der Informationssicherheit und die Verbesserungsplanung rapportiert werden;
+- c. mindestens alle 3 Jahre die Angemessenheit des Managements der Informationssicherheit und der vorhandenen Risiken durch eine unabhängige Stelle zuhanden des oder der zentralen Informationssicherheitsbeauftragten nachgewiesen wird.
+
+<sup>4</sup> Der zugestandene erhöhte Freiheitsgrad kann widerrufen werden, wenn die Voraussetzungen nicht mehr erfüllt sind.
+
+## 2 Begriffe und Schnittstellen der Informationssicherheit
+
+#### § 4
+
+**Leistungserbringer und Leistungsbezüger**
+
+<sup>1</sup> Die Betreibenden der Informatik-Systeme sind die Leistungserbringenden.
+
+<sup>2</sup> Die Benutzenden der Informatik-Systeme sind die Leistungsbeziehenden.
+
+#### § 5
+
+**Informationen**
+
+<sup>1</sup> Informationen im Sinne dieser Verordnung sind Daten jeglicher Art, die für Leistungsbeziehende oder -erbringende von Bedeutung sind.
+
+<sup>2</sup> Informationen werden entsprechend ihrem Schutzbedarf anhand eines Rasters klassifiziert.
+
+<sup>3</sup> Die Kriterien für die Klassifizierung sind Vertraulichkeit, Integrität und Verfügbarkeit der Informationen. Sie werden verwaltungsweit einheitlich festgelegt.
+
+#### § 6
+
+**Informatiksicherheit**
+
+<sup>1</sup> Informatiksicherheit dient dem Schutz der elektronisch bearbeiteten Informationen.
+
+#### § 7
+
+**Physische Sicherheit der IT-Infrastruktur (Anlagenschutz)**
+
+<sup>1</sup> Die für den Betrieb der Informatik-Infrastruktur notwendigen physischen Einrichtungen sind zu schützen.
+
+#### § 8
+
+**Service Level Agreements**
+
+<sup>1</sup> Leistungsbeziehende und Leistungserbringende legen alle Anforderungen an die Dienstleistung, insbesondere auch die Anforderungen zur Gewährleistung der Informationssicherheit in einem schriftlichen Service Level Agreement fest.
+
+<sup>2</sup> Die Sicherheitsmassnahmen sind schriftlich festzulegen.
+
+## 3 Grundsätze der Informationssicherheit
+
+#### § 9
+
+**Sicherheitsbewusstsein**
+
+<sup>1</sup> Das Sicherheitsbewusstsein der Mitarbeitenden ist regelmässig zu schulen und eine Sicherheitskultur zu pflegen.
+
+#### § 10
+
+**Konzeptioneller Rahmen**
+
+<sup>1</sup> Anzustreben ist ein Management der Informationssicherheit nach den Normen der ISO 27000 Familie.
+
+#### § 11
+
+**Wirtschaftlichkeit und Angemessenheit**
+
+<sup>1</sup> Die Schutzmassnahmen müssen immer in einem angemessenen wirtschaftlichen Verhältnis zum möglichen Schaden stehen.
+
+#### § 12
+
+**Projekte und Systemanpassungen**
+
+<sup>1</sup> Im Rahmen von Projekten und Systemanpassungen hat die verantwortliche Stelle frühzeitig die Anforderungen an die Informationssicherheit festzulegen und zu berücksichtigen. Es gelten die Richtlinien gemäss der Projektführungsmethodik HERMES.
+
+<sup>2</sup> Ein Projekt gilt frühestens dann als abgeschlossen, wenn die Informationssicherheit auch während des Betriebs und bei späteren Anpassungsarbeiten in genügendem Umfang gewährleistet ist.
+
+<sup>3</sup> Für die Betriebsfreigabe muss eine Risikobeurteilung durch eine neutrale Fachperson und eine Bestätigung der Übernahme der Restrisiken durch den Leistungsbezüger vorliegen.
+
+#### § 13
+
+**Richtlinien zur Nutzung der Informatik**
+
+<sup>1</sup> Richtlinien und Weisungen zur Nutzung der Informatik sind durch die FGI weiterzuentwickeln und regelmässig auf Einhaltung zu kontrollieren.
+
+#### § 14
+
+**Kostenmanagement**
+
+<sup>1</sup> Die Kosten für die Informatiksicherheit sind Teil der Projekt- und Betriebskosten und dementsprechend zu budgetieren.
+
+#### § 15
+
+**Sicherheitsmassnahmen und ihre schriftliche Dokumentation**
+
+<sup>1</sup> Sicherheitsmassnahmen sind organisatorischer, technischer oder physischer Natur.
+
+<sup>2</sup> Sie sind systematisch und in einem konzeptionellen Rahmen zu vollziehen sowie schriftlich zu dokumentieren.
+
+<sup>3</sup> Für alle Anwendungen, Projekte und Datensammlungen wird eine zentrale Liste mit sicherheitsrelevanten Informationen geführt. Der oder die Informatiksicherheitsbeauftragte der Direktion (DIT-SiBe) hat Einsicht in das Portfolio oder führt es selber.
+
+#### § 16
+
+**Datenschutzfreundliche Technologien**
+
+<sup>1</sup> Bei der Beschaffung von Informatikmitteln zur Verwaltung von Personendaten ist die Datenschutzfreundlichkeit der Technologien angemessen zu berücksichtigen.
+
+<sup>2</sup> Bevor Informatikmittel zu diesem Zweck beschafft werden, ist die zuständige Datenschutzbehörde anzuhören.
+
+#### § 17
+
+**Benutzerfreundlichkeit**
+
+<sup>1</sup> Bei der Evaluation von Sicherheitslösungen wird auch deren Benutzerfreundlichkeit bewertet.
+
+#### § 18
+
+**Zugangsbeschränkungen**
+
+<sup>1</sup> Benutzerprofile haben den Zugang auf diejenigen Informationen zu beschränken, welche für die Aufgabenerfüllung notwendig sind.
+
+#### § 19
+
+**Notfallkonzept**
+
+<sup>1</sup> Leistungsbeziehende und Leistungserbringende erstellen je eigene Notfallkonzepte und stimmen diese aufeinander ab.
+
+<sup>2</sup> Die Notfallkonzepte regeln das Vorgehen bei einem Ausfall von Informatik-Systemen, der länger als die definierten Verfügbarkeitsanforderungen dauert.
+
+## 4 Organisation und Verantwortung
+
+#### § 20
+
+**Grundsatz**
+
+<sup>1</sup> Alle Mitarbeitende sind im Rahmen ihrer Tätigkeiten für die Wahrung der Sicherheit verantwortlich.
+
+#### § 21
+
+**Informationssicherheitsbeauftragte auf Stufe Kanton**
+
+<sup>1</sup> Die Informatikplanung und -koordination (IPK) übernimmt die Aufgaben des/der zentralen Informationssicherheitsbeauftragten (KIT-SIBE).
+
+<sup>2</sup> Der/die KIT-SIBE:
+
+- a. koordiniert alle kantonsinternen und kantonsübergreifenden Informationssicherheitsaspekte;
+- b. steht zur Überprüfung der Anforderungen und zur Aufsicht im Bereich der Informationssicherheit zur Verfügung, ist jedoch nicht für deren Durchsetzung verantwortlich;
+- c. stellt periodisch, mindestens aber alle 3 Jahre, einen Risikobericht und eine gesamtheitliche Massnahmenplanung zusammen;
+- d. koordiniert zwischen den Direktionen, der Landeskanzlei, dem Kantonsgericht und den kantonalen Schulen und stellt einheitliche Verfahren zum Umgang mit Informations- und Informatik-Sicherheit zur Verfügung.
+
+#### § 22
+
+**Informationssicherheitsbeauftragte auf Stufe Direktion**
+
+<sup>1</sup> Jede Direktion, die Landeskanzlei, das Kantonsgericht und die kantonalen Schulen bestimmen eine Informationssicherheitsbeauftragte oder einen Informationssicherheitsbeauftragten (DIT-SIBE).
+
+<sup>2</sup> Die oder der DIT-SIBE koordiniert direktionsweit im Rahmen seiner bzw. ihrer Aufgaben, Kompetenzen und Verantwortung, die Sicherheitsanliegen im Bereich Informationssicherheit mit Schwergewicht Informatik und stimmt diese mit dem oder der zentralen KIT-SIBE ab.
+
+#### § 23
+
+**Leistungsbeziehende und Leistungserbringende**
+
+<sup>1</sup> Die Leistungsbeziehenden legen in Abstimmung mit dem oder der DIT-SIBE die Sicherheitsanforderungen für Projekte, Anwendungen und Datensammlungen fest und organisieren unter Einbezug der Auftraggebenden und der Vertragspartner periodisch die Kontrollen der Umsetzung der Sicherheitsmassnahmen.
+
+<sup>2</sup> Die Direktionen, die Landeskanzlei das Kantonsgericht und die kantonalen Schulen sind dafür verantwortlich, dass ihre Mitarbeitenden die zuständigen Stellen/Organe und die Abläufe der Informationssicherheit in der Kantonsverwaltung stufengerecht kennen.
+
+<sup>3</sup> Die Leistungserbringenden haben die von den Leistungsbeziehenden definierten Vorgaben einzuhalten.
+
+<sup>4</sup> Die Verantwortlichen stellen sicher, dass die Sicherheitsmassnahmen beim Betrieb von Informations- und Kommunikationstechnik auf allen Systemen und für alle involvierten Personen umgesetzt werden.
+
+<sup>5</sup> Die Verantwortlichkeiten auf der operativen Ebene werden in den Projektvereinbarungen und in den Service Level Agreements zwischen den Leistungsbezügern und den Leistungserbringern detailliert festgehalten.
+
+<sup>6</sup> Der/die Leistungsbeziehende muss zuhanden des/der DIT-SIBE eine periodische Überprüfung der vorgenommenen Umsetzung der Informatiksicherheit und der vorhandenen Sicherheitsrisiken bei sich und beim Leistungserbringer vornehmen.
+
+#### § 24
+
+**Informationsschutz**
+
+<sup>1</sup> Die Direktionen, die Landeskanzlei, das Kantonsgericht und die kantonalen Schulen sind dafür verantwortlich, die in ihrer Zuständigkeit bearbeiteten Informationen gemäss bestehenden Weisungen angemessen zu schützen.
+
+#### § 25
+
+**Mitarbeitende**
+
+<sup>1</sup> Die Mitarbeitenden sind für die Einhaltung von Sicherheitsbestimmungen in ihrem Arbeitsbereich verantwortlich.
+
+<sup>2</sup> Als Verfassende von Informationen sind sie für deren Klassifizierung und Schutz besorgt.
+
+#### § 26
+
+**Kontinuierlichen Verbesserung**
+
+<sup>1</sup> Die Direktionen, die Landeskanzlei, das Kantonsgericht und die kantonalen Schulen überprüfen mindestens alle 3 Jahre, ob die Sicherheitsmassnahmen angemessen sind und ob sie umgesetzt werden.
+
+<sup>2</sup> Die Ergebnisse werden zuhanden des/der KIT-SIBE und der Aufsichtsstelle Datenschutz rapportiert.
+
+<sup>3</sup> Es besteht ein kontinuierliches Verbesserungsprogramm.
+
+## 5 Einführung der Verordnung
+
+#### § 27
+
+**Einführung der Verordnung**
+
+<sup>1</sup> Diese Verordnung wird schrittweise nach Massgabe der jeweils vorhandenen Risiken umgesetzt.
+
+<sup>2</sup> Innerhalb von 24 Monaten nach Inkrafttreten dieser Verordnung sind:
+
+- a. die Organisation und die Verfahren zur Bestimmung von angemessenen Massnahmen und den vorhandenen Risiken umzusetzen;
+- b. Massnahmen mit sehr gutem Verhältnis von Kosten zu Nutzen zu treffen;
+- c. der 1. Bericht zur Informationssicherheit zu erstellen;
+- d. die 1. Fassung des kontinuierlichen Verbesserungsprogramms zuhanden des Regierungsrats zu erstellen.
+
+<sup>3</sup> Die übrigen Massnahmen sind so rasch als möglich umzusetzen.
+
+<sup>4</sup> Der/die KIT-SIBE erarbeitet gemeinsam mit der FGI das kontinuierliche Verbesserungsprogramm.
+
+#### § 28
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 30. Juni 2008 in Kraft.
+
+GS 36.0543

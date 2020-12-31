@@ -1,0 +1,228 @@
+---
+canton: BL
+number: "421.14"
+title: Verordnung über den Feuerschutz in den Tankanlagen der Rheinhäfen des Kantons Basel-Landschaft
+language: de
+version: 2018-01-01
+valid_until: 2022-02-28
+version_adopted: 2017-08-29
+adopted: 1996-06-25
+in_force: 1996-08-01
+url: "https://bl.clex.ch/app/de/texts_of_law/421.14"
+pdf: "https://bl.clex.ch/api/de/versions/1898/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über den Feuerschutz in den Tankanlagen der Rheinhäfen des Kantons Basel-Landschaft
+
+Vom 25.06.1996 (Stand 01.01.2018)
+
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf die §§ 4 und 8 des Gesetzes vom 12. Januar 2017[^ingress-1] über die Prävention vor Schäden durch Brand- und gravitative Naturgefahren sowie auf die §§ 9, 10, 41 und 46 des Rheinhafengesetzes vom 30. März 1992[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: GS 2017.043, SGS [761](https://bl.clex.ch/data/761/de/art4)
+[^ingress-2]: GS 31.323, SGS [421](https://bl.clex.ch/data/421/de/art9)
+
+## 1 Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung findet Anwendung für die in den Rheinhäfen Birsfelden und Au/Muttenz befindlichen Tankanlagen.
+
+<sup>2</sup> Die Bestimmungen regeln die Erstellung, den Betrieb, den Unterhalt und die Sanierung von Tanks für brennbare Flüssigkeiten sowie den Umschlag von brennbaren Flüssigkeiten.
+
+<sup>3</sup> Sie richten sich an die Inhaber von Tankanlagen (Eigentümer und Betreiber) sowie an alle Personen, die bei der Erstellung, dem Betrieb, dem Unterhalt oder der Sanierung einer Tankanlage tätig sind.
+
+#### § 2
+
+**Besondere Gefahren**
+
+<sup>1</sup> Den besonderen Feuer- und Explosionsgefahren in den Tankanlagen der Rheinhäfen ist mit gezielten Massnahmen vorzubeugen.
+
+#### § 3
+
+**Eigenverantwortung, Sicherheitsbeauftragter, Löschgruppen und Pikettperson**
+
+<sup>1</sup> Die Inhaber sind verpflichtet, entsprechend der Art und Grösse der Anlage sowie der Nachbargefährdung bauliche, technische sowie organisatorische Sicherheitsmassnahmen zu treffen und periodisch Kontrollen vorzunehmen.
+
+<sup>2</sup> Jeder Inhaber bestimmt einen Sicherheitsbeauftragten, der für die Massnahmen gemäss Absatz 1 zuständig ist.
+
+<sup>3</sup> Jeder Inhaber bestimmt aus Sachkundigen seines Betriebes eine Löschgruppe, die dem Gefahrenpotential entsprechend ausgerüstet und ausgebildet wird. Diese hat die stationären Löschanlagen während den Betriebszeiten zu überwachen und bei einem Ereignis in Betrieb zu setzen.
+
+<sup>4</sup> Ausserhalb der Betriebszeit stellt jeder Inhaber sicher, dass bei Alarmen und definierten Störungsmeldungen spätestens innert 15 Minuten eine mit den Tankanlagen vertraute Pikettperson in der betroffenen Anlage anwesend ist.
+
+<sup>5</sup> Die Basellandschaftliche Gebäudeversicherung (BGV) ist berechtigt, den Inhabern Weisungen bezüglich der Brandschutzmassnahmen zu erteilen.
+
+#### § 4
+
+**Bestehende Tankanlagen**
+
+<sup>1</sup> Die bestehenden Tankanlagen sind innert der von der BGV verfügten Frist den Vorschriften dieser Verordnung anzupassen.
+
+## 2 Technische Vorschriften
+
+#### § 5
+
+**Verbindliche Vorschriften**
+
+<sup>1</sup> Zusätzlich zu den Brandschutzvorschriften der Vereinigung Kantonaler Feuerversicherungen (VKF) werden folgende Bestimmungen für verbindlich erklärt:
+
+- a. die jeweils gültigen Richtlinien für Tankanlagen der Schweizerischen Zentralstelle für die Einfuhr flüssiger Treib- und Brennstoffe, CARBURA (CARBURA-Richtlinien); vorbehalten bleiben die abweichenden Bestimmungen dieser Verordnung, die den besonderen Verhältnissen (Abstände der Tanks) Rechnung tragen;
+- b. die Weisungen des Eidgenössischen Starkstrominspektorates für Schutzmassnahmen gegen die gefährliche Wirkung des elektrischen Stromes in autonomen Tankanlagen für die Lagerung von flüssigen Brenn- und Treibstoffen (Grosstankanlagen) sowie allen Tankanlagen mit Bahnanschluss;
+- c. die zusätzlichen Blitzschutzmassnahmen bei der Einführung von elektrischen Leitungen in oberirdische Behälter mit Lagergut, dessen Flammpunkt unter 55° C liegt.
+
+<sup>2</sup> Für die Definition der Klassierung der Stoffe sind die jeweils gültigen Normen der VKF verbindlich.
+
+#### § 6
+
+**Tankhöhe**
+
+<sup>1</sup> Die Höhe eines Tanks ist auf 25 m beschränkt; sie wird vom Bodenblech bis zum Dachrandwinkel des Tanks gemessen.
+
+#### § 7
+
+**Tankbelüftung**
+
+<sup>1</sup> Tanks, in denen Produkte der Gefahrenklassen F1 und F2 gelagert werden, dürfen nicht frei belüftet sein. Sie sind mit einer flammendurchschlagssicheren Belüftungseinrichtung auszurüsten.
+
+<sup>2</sup> Die freie Belüftung ist auch bei Tanks mit innenliegender Membrane unzulässig.
+
+#### § 8
+
+**Tankberieselung und Tankbeschäumung**
+
+<sup>1</sup> Jeder Tank ist mit einer stationären Berieselungs- und Beschäumungseinrichtung auszurüsten.
+
+<sup>2</sup> Die Ausführung der Berieselungs- und Beschäumungseinrichtungen hat nach den Richtlinien der CARBURA zu erfolgen.
+
+<sup>3</sup> Das für die stationären Berieselungs- und Beschäumungseinrichtungen erforderliche Wasser ist auf Kosten der Inhaber unabhängig von der öffentlichen Wasserversorgung zu beschaffen.
+
+#### § 9
+
+**Leckerkennung / Branddetektion**
+
+<sup>1</sup> Alle Tankbassins sind mit Leckerkennungseinrichtungen auszurüsten. Beim Erreichen einer bestimmten Niveauhöhe von Produkten im Bassinsumpf ist automatisch das Betriebspersonal zu alarmieren.
+
+<sup>2</sup> Bassins mit Produkten F1 und F2 sind mit einer Branddetektion (Brandmeldeanlage) und Alarmübermittlung an die Einsatzzentrale auszurüsten.
+
+<sup>3</sup> Es sind 2-Melderabhängigkeiten vorzusehen. Das Ansprechen von 2 Meldegruppen oder -systemen hat unverzüglich die automatische Beschäumung der betroffenen Bassins, die Alarmierung der zuständigen Feuerwehr und des Betriebspersonals respektive der anlagekundigen Pikettperson auszulösen.
+
+<sup>4</sup> Die Einrichtung von Brandmeldeanlagen und Alarmübermittlungen hat in Absprache mit der BGV zu erfolgen.
+
+#### § 10
+
+**Beschäumung der Tankbassins**
+
+<sup>1</sup> Alle Tankbassins sind mit stationären Beschäumungseinrichtungen auszurüsten.
+
+<sup>2</sup> Das für die Beschäumung der Tankbassins erforderliche Wasser ist auf Kosten der Inhaber unabhängig von der öffentlichen Wasserversorgung zu beschaffen.
+
+#### § 11
+
+**Wasserbedarf für die stationären Anlagen**
+
+<sup>1</sup> Für die Berechnung der Wassermenge, die für die stationären Anlagen benötigt wird, gelten folgende Werte:
+
+- a. Berieselung — 1 Liter/Minute x m² Tankmantelfläche
+- b. Tankbeschäumung:
+  - 1\. Festdachtank — 6,6 Liter/Minute x m² Tankquerschittfläche
+  - 2\. Tanks mit Schwimmdach oder innenliegender Schwimm-Memrane — 15 Liter/Minute x Meter des Tankumfanges
+- c. Bassinbeschäumung — 3 Liter/Minute x m² Bassinnettofläche
+
+<sup>2</sup> Der Fliessdruck muss dem notwendigen Wasserdruck der Schaumerzeuger, unter Berücksichtigung der Druckverluste in den Rohrleitungen und Armaturen, entsprechen.
+
+<sup>3</sup> Die Wasserförderung für die in Absatz 1 erwähnten Einrichtungen hat durch automatische, selbstansaugende Pumpen zu erfolgen. Diese müssen unabhängig von der öffentlichen Elektrizitätsversorgung betrieben werden können.
+
+#### § 12
+
+**Schaummittelreserven für stationäre Anlagen**
+
+<sup>1</sup> Der Inhaber ist für die Bereitstellung und für den altersbedingten Austausch der erforderlichen Schaummittelreserven verantwortlich. Die notwendige Menge richtet sich nach folgender Einsatzdauer der Beschäumung:
+
+- a. Tankbeschäumung — 30 Minuten
+- b. Bassin mit automatischer Beschäumung — 45 Minuten
+- c. angrenzende Bassins (soweit für die Aufnahme von Produkten und Löschwasser notwendig) — 30 Minuten
+
+<sup>2</sup> Der Schaum muss alkoholbeständig sein.
+
+#### § 13
+
+**Feuerschutz bei Umschlagsanlagen**
+
+<sup>1</sup> Für den Bau der Umschlagsanlagen ist nicht brennbares Material zu verwenden.
+
+<sup>2</sup> Für alle elektrischen Installationen sind an geeigneten Stellen Notausschalter anzubringen.
+
+<sup>3</sup> Die Umschlagsanlagen sind wie folgt auszurüsten:
+
+- a. mit einem Alarmierungssystem auf die Einsatzzentrale;
+- b. mit mindestens 2 stationären Wasserwerfern, die an ein einsatzbereites Wassernetz angeschlossen sind, oder mit einer Sprühflutanlage mit filmschichtbildendem Schaummittel, falls F1- und F2-Produkte umgeschlagen werden; die Leistung hat 10 Liter/Minute x m² Bodenfläche während einer Einsatzdauer von 30 Minuten zu betragen;
+- c. mit einem Anschluss für Löschwasser und Löschschaum.
+
+<sup>4</sup> Die BGV kann weitere Feuerschutzmassnahmen anordnen.
+
+#### § 14
+
+**Einsatzbereitschaft der Einrichtungen**
+
+<sup>1</sup> Berieselungs-, Beschäumungs- und Löscheinrichtungen müssen jederzeit und bei jeder Witterung betriebs- und einsatzbereit sein.
+
+<sup>2</sup> Werden diese Einrichtungen zur Gewährleistung der Wintertauglichkeit elektrisch beheizt, so ist eine Notstromversorgung bereitzustellen.
+
+<sup>3</sup> Die BGV kann in besonderen Fällen weitere Massnahmen verfügen.
+
+## 3 Kontrollen
+
+#### § 15
+
+**Stationäre Anlagen**
+
+<sup>1</sup> Die Funktionsfähigkeit der Pumpwerke und der stationären Anlagen für die Berieselung und Beschäumung der Tanks, Bassins und Umschlagsanlagen ist durch die Inhaber von Tankanlagen periodisch zu kontrollieren. Der BGV ist jährlich über die Kontrollergebnisse schriftlichen Bericht zu erstatten.
+
+## 4 Sicherheitsvorkehrungen
+
+#### § 16
+
+**Risikoreiche Arbeiten**
+
+<sup>1</sup> Risikoreiche Arbeiten, insbesondere Entgasen, Reinigen, oder Heissarbeiten wie Schweissen, Löten oder funkenerzeugende Schleif- und Schneidarbeiten, dürfen nur unter Wahrung der erforderlichen Sicherheitsvorkehrungen ausgeführt werden.
+
+<sup>2</sup> Sie bedürfen der schriftlichen Genehmigung durch die für den Betrieb verantwortliche Person. Die notwendigen Sicherheitsvorkehrungen sind auf dem Genehmigungsschein festzuhalten.
+
+## 5 ...
+
+#### § 17
+
+**…**
+
+#### § 18
+
+**…**
+
+#### § 19
+
+**…**
+
+## 6 Schlussbestimmungen
+
+#### § 20
+
+**Aufhebung des bisherigen Rechts**
+
+<sup>1</sup> Die Verordnung vom 29. Oktober 1991[^20-1] über den Feuerschutz in den Rheinhäfen des Kantons Basel-Landschaft wird aufgehoben.
+
+[^20-1]: GS 30.689, SGS 421.14
+
+#### § 21
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. August 1996 in Kraft.
+
+GS 32.481
